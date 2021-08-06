@@ -30,7 +30,7 @@ jobs:
       - name: Build
         # remove --minify tag if you do not need it
         # docs: https://gohugo.io/hugo-pipes/minification/
-        run: hugo -d ./
+        run: hugo -d ./ -l --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
