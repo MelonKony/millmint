@@ -40,6 +40,6 @@ jobs:
           external_repository: MelonKony/millmint.net
           user_name: melonkony
           user_email: melonkony@icloud.com
-          publish_dir: ./public
+          publish_dir: ./
           publish_branch: live
           cname: millmint.net
