@@ -14,9 +14,9 @@ jobs:
         hugo-version:
           - 'latest'
           - '0.68.0'
+          extended: true
     steps:
       - uses: actions/checkout@v2
-          extended: true
 
       - name: Build
         run: hugo --minify
