@@ -1,0 +1,118 @@
+---
+title: "Landscapes of Waugh"
+weight: 2
+
+description: An essay on landscape in Evelyn Waugh's novel "Handful of Dust" by Hobart Phillips, a utopian illustrator and storyteller.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+---
+<style>
+.markdown a {
+color: var(--color-blue);
+}
+.markdown a.anchor {
+color: var(--color-blue);
+}
+aside nav ul a {
+color: var(--color-blue);
+}
+#headerbox .emoji {
+color: var(--color-blue);
+}
+.markdown a:visited {
+color: var(--color-blue);
+}
+</style>
+
+<div id="headerbox">
+  <h1 class="title">Landscape in the Age of Frustration</h1>
+  <h1 class="emoji" id="whirlybat">></h1>
+</div>
+
+<h5 span class="tag blue"> ESSAY </h5>
+<h6 span class="sitetag">Newsdesk</h6>
+
+{{< hint blue >}}
+**❖ Note from the Editor**  
+This article was **originally published** in **October 2019**. It offers an analysis of Evelyn Waugh's *Handful of Dust* through an anti-utopian prism.
+{{< /hint >}}
+
+### Waugh’s *Handful of Dust* as Anti-Utopia
+
+<span class="fc">W</span>
+**augh's *A Handful of Dust* has remarkable topography**. The word can be extrapolated in this case in several ways; for one, the book is occupied by worldly, secular affairs, inextricably bound to a particular cultural landscape and absence of metaphysic. Further, as a satirical novel of deep conservative utopian lament, there is a physical, temporal dimension to its present context and history. Finally, the topography of Waugh's novel can be taken literally, as a landscape of modernity (cities) and counter-modernity (rural life), modernism (civilisation) and anti-modernism (savagery). Because of this, there is a playful relationship with Waugh's anti-utopian world and his utopian instincts — one that warrants closer analysis. This essay will focus on the dichotomous, often schismatic landscapes at play in *A Handful of Dust*, and situate it in a modern utopian framework.
+
+It is easiest to understand *A Handful of Dust* in a utopian context when the reader first recognises the novel as a worldview, or as Edward Lobb[^9] calls it, a ”picture of an entire society,” citing Waugh's employment of Eliot's *Waste Land* in its title and epigraph <sup>p.130</sup>. This scope is almost invariably unsentimental, especially in satirical works, and this quirk of genre is calcified into something more deliberate when looking at the novel’s literary context, which Peter Firchow recognised as a deliberate rejection of Victorian sentimentalism and moral arbitration as characterised by Dickensian literature[^3] <sup>p.415</sup>. The satirical edge of the novel’s climax is only shallowly buried; Nicholas Joost wrote that “beneath the incongruity, there is a chilling propriety. The relationship between Mr Todd and Tony is as Dickensian in kind and proportion as is that between Miss Havisham and Estella in *Great Expectations*.”[^7] <sup>p.186</sup>
+
+The Waugh landscape is marked by unusual topography, where people and places are made foreign through their own alienation from purpose and time. Tony is a secular humanist (evidenced through his irreverence towards faith throughout the novel) dependent parasitically on the romantic nostalgia for the restrained way of life under the Judea-Christian tradition, without the metaphysic provided by pious faith[^9] <sup>p.133</sup>. Brenda is a modern woman attached socially and historically to London, the icon of modern (and Victorian) life, which informs her unfaithfulness and various missteps. In fact, nearly every character in the novel suffers from a kind of displacement of both place and intention, which in Waugh's parody of a humanist framework forces a series of unfortunate events that unfold throughout. This all takes place, of course, in the tumultuousness of the interwar years, marked first by hedonism and excess in the 1920s and instability and poverty in the 1930s, the decade in which *A Handful of Dust* was written. H.G. Wells in his 1933 novel *The Shape of Things to Come* called it "The Age of Frustration,” for the vast cultural and political changes threatening an unravelling of the world. Waugh, like many of his fellow British authors (including Eliot, Orwell, and Wells himself), hedged existential concerns about the state of his homeland in his work.
+
+*A Handful of Dust* is distracted from pure reactionary critique by the (in his mind) far more egregious severing of morality from the metaphysic, and the adoption of previously Judeo-Christian ethics by secular, ungrounded humanist movements. Tony is estranged from real spiritual purpose or existential satisfaction by his secularity and passivity. He spends most of the novel surprised and wounded by sharp moments of tragedy only to be utterly unequipped to deal with them in his total vacuum of Self. In fact, his worldview is less an empty epistemological constellation than it is a fog where no stars or points of reference are visible at all. This culminates, of course, in his ironic fate, in which his old material life essentially reasserts itself in an absurd parody, where his fake, superficial Dickensian existence is resumed against his will in the jungles of Brazil. Quite literally, to Lobb, “his reading of Dickens is a reversion to Victorian sentimentality”[^9] <sup>p.135</sup>, concluding spatially in the same meaningless fantasy as his life at Hetton Abbey.
+
+Such is the Waugh’s illustration of the world in the Age of Frustration, and his fundamental alienation from it. The novel contains not merely glimpses of anti-utopias, but in fact presents a particular anti-utopian philosophy, which can be inverted to better clarify the images of utopia present throughout the work. For example, even though the novel has clear misgivings about the state of England in the late 1930s, the utopian foundation on which *A Handful of Dust* is built upon nonetheless participates in a philosophy of place, gesturing towards a conservative progression of history. After all, it is not just the revolutionary that understands history as an arc of progress — liberals and conservatives alike recognise the horizon, but disagree on the changes made to meet it. Walter Benjamin illustrated this idea cleanly in 1940:
+
+>Progress, as it was painted in the minds of the social democrats, was once upon a time the progress of humanity itself (not only that of its abilities and knowledges). It was, secondly, something unending (something corresponding to an endless perfectibility of humanity). It counted, thirdly, as something essentially unstoppable (as something self-activating, pursuing a straight or spiral path).[^1] <sup>pp.9-10</sup>
+
+Waugh’s conservatism in a utopian context thus reveals interesting temporal locations through the framework built by sociologist Karl Mannheim. Conservatism, and to a lesser extent liberalism, are fundamentally "socially congruent" utopias (as opposed, Mannheim supposes, to the socially transcendent topos of the radical and anarchic). White[^15] expands on this classification, explaining that the differences among utopian sectors "are matters more of emphasis than of content,” since all are fundamentally agents of change <sup>p.25</sup>. All utopias are efforts to envision and manifest a shift in politics or culture, either consciously in praxis or unconsciously as a collection of values and ideas. Under White's summary, conservatives (to whom Waugh undeniably belongs) are "inclined to imagine historical evolution as a progressive elaboration of the institutional structure that currently prevails," where anarchic/radical utopias tend to treat utopia as a non-temporal phenomena that is essentially timeless, dependent only on man's ability to wrest control of their own humanity. Thus is the distinction between ideology and utopia in the inversion characteristic of Mannheim's definitions, where ideology proves socially useful but practically impossible, and utopia is necessary in genuine social change as an element whose "ideas and values in which are contained in condensed form the unrealised and the unfulfilled tendencies which represent the needs of each age."[^15] <sup>p.179</sup> It marks a break from the lineage of utopia's etymology from More's original Utopia. Particularly relevant to Waugh's work here is utopia as a practicable element of social change, as Mannheim writes[^10] <sup>p.178</sup> "the road of history leads from one topia over a utopia to the next topia, etc."
+
+With Mannheim's redefinition in mind, it is important to assert *A Handful of Dust*'s place in this epistemology. Phillip Wegner notes that the four utopian mentalities outlined by Mannheim (conservative, liberal, radical, and anarchic) are in fact present within their own "mode of historical consciousness," existing independently while "representing a critical 'counter-utopia' to its three competitors" [^14] <sup>p.192</sup>. In this sense, Waugh's conservative utopia is less a concrete set of values and principles than it is a device for clarifying the horizons of political imagination, dynamically reacting to and reflecting the other three corners of possibility.
+
+You can see these possibilities through the further inversion of the anti-utopia, like the cyclical nature of faithless humanism. In the case of Tony, the interjection of reality into his absurd fantasy results in an eternity of Hetton-style superficiality manifested literally through Victorian moralism. John Beaver, still materialistic and dependent on his “mumsy,” leaves Britain only to presumably carry on in decadence in California<sup>p.176</sup>. Brenda’s desire for excitement and romantic satisfaction, meanwhile, leave her alone in the city and without money to sponsor a colourful lifestyle (Characteristically, Waugh does not mince words: “It was August and she was entirely alone,”<sup>p.193</sup>). By the end of the novel, in which the characters themselves are as unresolved as the arc of the story itself, it is clear that the spiritual emptiness that subsumes the purpose of these people is not merely thematic, but is in fact a clarified anti-utopia in itself, not as place but as “body utopias” [^11] <sup>p.4</sup>. Or rather, anti-utopias of spiritual/sensual gratification. These are people who have no connection to anything fixed or meaningful in their own pasts or culture.
+
+This reassessment of utopian writing acknowledges *A Handful of Dust* not as mere satire for satire’s sake, but as in fact a vessel of practicable ideas well within potentiality for a hypothetical conservative utopia. After all, should the interwar years have been marked by a series of different events, who is to say Britain might not have become marked at a national cultural level the kind of reactionary nostalgia visible in Waugh's novel? It is not, after all, a simple utopia of place. Jean Ward[^13] <sup>p.679</sup> describes the vision of the novel as a story of "human selfishness and self-delusion," in contrast to a simpler misanthropic adventure of human misfortune. This characterisation better illustrates Waugh's pointed absence of framework, or metaphysic, for the world depicted.
+
+After all, it is not as though people will cease to fall out of love, or commit adultery, or accidentally maim children in a world built upon Catholic social norms and the accompanying spiritual bedrock. Nor is it reasonable to suggest Waugh's nostalgia for a pre-war (or pre-modern) England would be blind to the fact that human moral failure would continue to exist. But in the worldview of *A Handful of Dust*, the characters shown are merely symptomatic of a global cheapness, a sort of international hedonism, that is presented as a sort of era without end.
+Ann Slater[^12] notes the novel's displacement of people and intention, citing a recurring motif in which a well-meaning or pleasurable thing is made bad and uncomfortable by its displacement<sup>pp.49-66</sup>. It is not difficult to find examples of this sardonic irony in the text; Brenda's mourning of the wrong person<sup>p.118</sup>, and Tony's ironic torturous imprisonment (which takes his pleasures and makes them agony)<sup>p.210</sup> are just two examples. In fact, the instances of a correct sentiment or honest effort backfiring and causing trouble so thoroughly pervades the Waugh landscape that it becomes an indispensable part of its satirical edge, culminating in its ironic juxtaposition of life in London against Tony's feverish delusions of the city in the jungle. As Slater notes:
+
+>Civilisation and the savage world fuse. London turns into a desert for Brenda, once Beaver leaves for New York and the entire beau monde goes off cruising in the Mediterranean [...] Tony, on the other hand, discovers that the bush at night is noisier than a city square.[^12] <sup>p.63</sup>
+
+This fusion of anti-utopian landscape, both as a wasteland composed of good intentions and a jungle of bad outcomes, is an interesting illustration of Waugh's wider satirical targets in the novel. Despite ostensibly satirising the bankruptcy of modern life and its secular humanism, Waugh's ruthless antisentimentality marks *A Handful of Dust* as a thoroughly modernist novel. Indeed, outside of the aesthetic framework provided by modernism (which Waugh, at least spiritually and politically, rejects), *A Handful of Dust* was one of many English novels documenting the social disintegration and futility of the modern world. As put by Jonathan Greenburg, “In Waugh, the satiric and the modem often look very much alike; while the author may claim to satirise a decadent modernity, the disruptive mechanism of his satire fosters the very modem decadence he decries”[^6] <sup>p.352</sup>. The novel is at once a critique and a product of modernism. This dissonance was noted by his biographer as occurring shortly after his entry into the Catholic Church:
+
+>Conversion meant that in one way Waugh had withdrawn from the world of meaninglessness, godlessness, and chaos, yet he remained passionately interested in it, with it if not spiritually or intellectually of it. He could confidently judge and condemn the world he described, but he would not turn away from it.[^16] <sup>p.76</sup>
+
+For Waugh, his conversion equipped him with a worldview that had already been formulating for some years. He was a great believer in the supernatural metaphysics of the Church as a place of order and stability[^16] <sup>p.76</sup>, and this would colour his personal politics as well as his personal writing, as well as condemn in his eyes the mortal and material desires of those without faith. *A Handful of Dust* is a work particularly relevant to his conversion, since an oft-cited quote of his declares the the novel “was humanist and contained all I had to say about humanism.”[^2] <sup>p.118</sup>. According to John Cunningham, “in this novel he considered the dead end of a humanism that supposes one may have a moral purpose and yet have no metaphysic in which that purpose is grounded.”<sup>p.118</sup>. It was not just a humanist topography in which *A Handful of Dust* was situated, however. In understanding utopia as a function of place as well as form, it becomes clear that the anti-utopia of the novel is multidimensional, incorporating criticisms of topos as well as body.
+
+In his seminal work on the origins of landscape and historicism, Karatani Kojin wrote, "in the very moment when we become capable of perceiving landscape, it appears to us as if it had been there, outside of us, from the start”[^8] <sup>p.34</sup>. So too does the iconography of "old England" illustrated in *A Handful of Dust* suppress its origins as landscape as soon as it is introduced. Most obviously, the "old country" of Hetton Abbey is expressed only in transcendental terms and is thoroughly defamiliarised.  It is, in effect, not a place at all, but a sham landscape only supported by the value given to it by the Lasts (which further recalls Eliot’s poem in the epigraph; “These fragments I have shored against my ruins”). To further draw on Karatani: “It brings into existence landscapes which, although they had always been there, had never been seen"<sup>p.29</sup>. This then informs the ability of the novel to set within it subjects and objects of action, as it is important to recognise the subjects and objects of action arise from within a landscape upon discovery, rather than having existed as immutable facts<sup>p.34</sup>. Tony is thoroughly alienated from landscape as it is depicted in the novel; it is only appropriate, then, that he struggles to find an appropriate metaphysical foundation for his existence.
+The discovery of landscape predates modernism as Waugh understands it, but it remains in fact a modern creation brought about the artistic and religious reformations of centuries prior (namely protestant reformations, notable in context of Waugh's catholicism). As described by Gleiter:
+
+>The modern Self is indebted to a process of extraneation which is also a process of objectification. Both the landscape and the Self become alien and enigmatic, and these, precisely, are the qualities that made them visible.[^4] <sup>p.73</sup>
+
+Furthermore, Hetton Abbey is acknowledged as a Victorian Gothic reconstruction, a revivalist style that reflects his romantic fetishisation of the preindustrial and rural[^9] <sup>p.131</sup>. The investment of his spirit into an inauthentic commodity grotesquely acknowledges his spiritual bankruptcy, which cascades into all parts of his delusions (his inability to respond to the death of his son and his wife's unfaithfulness, etc.). Firchow describes Hetton as “roughly from the same period of Dickens’ novels; both seem to represent the last gasping certainties of an old order. And both, by implication, are possibly intended to be recognised as shams”[^3] <sup>p.415</sup>. Even his response to grief is filtered through this plastic understanding of the world, as Tony exclaims, “A whole Gothic world had come to grief.., there was now no armour, glittering in the forest glades, no embroidered feet on the greensward; the cream and dappled unicorns had fled..."<sup>p.147</sup>.
+
+The reconfiguring of landscape as iconography also enables Waugh to further satirise the characters of the novel, and strip back their agency as a consequence of their own hedonism. Brenda is suffocated socially by Tony’s blind love for the Abbey; Tony is trapped by Mr Todd in the Brazilian jungle; Mr Todd is trapped by his illiteracy, and so on. Indeed, the book concludes on a cage of silver foxes. Through their social and physical imprisonment, the people of the novel are better illustrated against both the hellish topos and their own critical character flaws that prevent them from breaking out of their cyclical lifestyles. Their spiritual emptiness is reflected in their ability to take the metaphysical institutions of life seriously, and renders them (socially and in their ability to enact change over their own lives) as children[^12] <sup>p.61</sup>. John Beaver, in his poverty and dependence on his mother, seems to typify this psychospiritual bankruptcy, but the patronising tone of the novel leaves few characters unmarked. Nowhere is this more apparent than when Jock finally presents the request regarding the importation of pork pies on behalf of his constituents, only to bungle the department to which he was supposed to address it. Waugh’s sardonic line encloses this caricature of the man: “Jock left the House that afternoon with the comfortable feeling that he had at last done something tangible in the interest of his constituents”.<sup>p.216</sup>
+
+With the intensity of the satirical edge in *A Handful of Dust*, it is only suitable that its anti-utopian foundations are expressed with great clarity. The defamiliarisation (and often outright absence of sympathy) for the people of this book only serve to better collapse the sort of Victorian sentimentalism to which Waugh seems averse. Just as Tony is isolated from sincere accomplishment of preindustrial, rural nobility by his time in history and material circumstance, so too are his metaphysical aspirations undermined by their baselessness. To the Catholic Waugh, the idea of morals without metaphysic is vacuous and empty of real substance. Similarly, Waugh’s perceived savagery embedded within civilisation is not just as a condemnation of changing cultural icebergs, but a literalist judgement of the products of modernists — that is to say, modern people. Waugh presents a paper landscape and plastic people, and through a simple inversion it easy enough to pull genuine utopian social dreaming from this novel. Utopia undeniably exists in the conservative anti-utopia, and in the case of *A Handful of Dust*, it invokes a broader context of a unique period of time for British literature, one marked by material uncertainty and cultural retreat. For that reason, Waugh’s *A Handful of Dust* is an undeniably important work of fiction, both as a biting critique of modernism (which itself has long-since given way to later movements) and as a zeitgeist for conservative apprehension in a remarkable period of history.
+<br>
+
+### Cited Works
+
+[^1]:Benjamin,  Walter.  [1940]  2003.  On  the  Concept  of  History. In Selected  Writings, Vol.  4, Pp.  389-401, edited  by  H. Eiland and M. W. Jennings. Cambridge, MA: Harvard University Press.
+
+[^2]:Cunningham, J., 1993. " *A Handful of Dust*" Reconsidered. In The Sewanee Review, 101(1), pp.115-124.
+
+[^3]:Firchow, P.E., 1971. In Search of *A Handful of Dust*: The Literary Background of Evelyn Waugh's Novel. In Journal of Modern Literature, 2(3), pp.406-416.
+
+[^4]:Gleiter, J.H., 2016 . Parnassus and Paradise, or the Anthropocene and the Reversal of a Mode of Consciousness. In International Journal of Architectural Theory, Vol. 21 No. 35.
+
+[^5]:Greenberg, J., 2003. Was Anyone Hurt?: The Ends of Satire in "*A Handful of Dust*". In Novel: A Forum on Fiction (Vol. 36, No. 3, pp. 351-373). Duke University Press.
+
+[^6]:Greenberg, J., 2011. Modernism, satire and the novel. Cambridge University Press.
+
+[^7]:Joost, N., 1976. "*A Handful of Dust*": Evelyn Waugh and the Novel of Manners. In Papers on Language and Literature, 12(2), p.177.
+
+[^8]:Karatani, K. and Jameson, F., 1993. Origins of modern Japanese literature. Duke University Press.
+
+[^9]:Lobb, E., 2003. Waugh Among the Modernists: Allusion and Theme in *A Handful of Dust*. In Connotations Vol. 13.1-2, p.130.
+
+[^10]:Mannheim, K., 1991. Ideology and utopia. In Collected Works of Karl Mannheim, Vol. 1. Psychology Press.
+
+[^11]:Sargent, L.T., 1994. The three faces of utopianism revisited. Utopian studies, 5(1), pp.1-37.
+
+[^12]:Slater, A.P., 1982. Waugh’s *A Handful of Dust*: Right Things in Wrong Places. Essays in Criticism, 32(1), pp.48-68.
+
+[^13]:Ward, J., 2008. The waste sad time: Evelyn Waugh's *A Handful of Dust*. In English Studies, 89(6), pp.679-695.
+
+[^14]:Wegner, P.E., 2002. Imaginary communities: utopia, the nation, and the spatial histories of modernity. University of California Press.
+
+[^15]:White, H., 1973. Metahistory: The historical imagination in nineteenth-century Europe. John Hopkins University Press.
+
+[^16]:Wykes, D., 2016. Evelyn Waugh: A Literary Life. pp. 74-122. Springer Press.

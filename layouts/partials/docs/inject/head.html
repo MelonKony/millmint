@@ -1,0 +1,74 @@
+<meta name="keywords" content="illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint">
+<meta name="author" content="Hobart Phillips">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!--<script async src="https://www.googletagmanager.com/gtag/js?id=G-KC02XB55HF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KC02XB55HF');
+</script>-->
+
+<!-- Umami Analytics -->
+<script async defer data-website-id="25469970-c415-4127-a639-e08b8d811e9f" src="https://stats.millmint.net/umami.js"></script>
+
+<!-- Gitalk Comments -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<!-- or -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<!-- jquery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+<!-- dark mode -->
+<script>
+   var html = document.documentElement;
+   //Check Storage. Keep user preference on page reload
+   if (localStorage.getItem('themeMode') == 'dark') {
+     html.setAttribute("data-theme","dark");
+   }
+   if (localStorage.getItem('themeMode') == 'light') {
+     html.setAttribute("data-theme","light");
+   }
+</script>
+
+<!-- toc fix -->
+<script>
+  window.addEventListener('load', function() {
+      document.querySelectorAll('header #TableOfContents a').forEach(function(a) {
+          a.addEventListener('click', function() {
+              document.querySelector('#toc-control').checked = false;
+          });
+      });
+  })
+</script>
+
+<style>
+
+.nav-up {
+  top: -40px; /* same as header height. use variables in LESS/SASS */
+}
+
+/*@media screen and (max-width: 56rem) {
+  .markdown {
+   margin-top: 40px;
+  }
+}*/
+
+@media screen and (max-width: 56rem) {
+  #menu-control:checked ~ main .book-menu-overlay {
+      position: fixed;
+  }
+}
+</style>
+
+<link type="text/css" rel="stylesheet" href="/css/fonts.css" />
+<link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
+<link type="text/css" rel="stylesheet" href="/css/nav.css" />
+<link type="text/css" rel="stylesheet" href="/css/comments.css" />
+<script type="text/javascript" src="/js/nav.js"></script>

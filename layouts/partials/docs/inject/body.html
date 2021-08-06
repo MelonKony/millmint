@@ -1,0 +1,82 @@
+<script async="async">
+     var html = document.documentElement;
+     var switcher = document.getElementsByClassName('js-toggle')[0];
+     if(typeof(Storage) !== 'undefined') {
+         if (localStorage.getItem('themeMode') == 'dark' || document.documentElement.getAttribute('data-theme') == 'dark') {
+             switcher.classList.add('js-toggle--checked');
+         }
+         switcher.classList.add('js-toggle--focus');
+     }
+
+     //Click on dark mode icon. Add dark mode classes and wrappers. Store user preference through sessions
+     switcher.addEventListener("click", function() {
+             this.classList.toggle('js-toggle--checked');
+             this.classList.add('js-toggle--focus');
+             //If dark mode is selected
+             if (this.classList.contains('js-toggle--checked')) {
+                 html.setAttribute("data-theme","dark");
+                 //Save user preference in storage
+                 localStorage.setItem('themeMode', 'dark');
+             } else {
+                 html.setAttribute("data-theme","light");
+                 localStorage.setItem('themeMode', 'light');
+             }
+         })
+</script>
+
+<!-- Reader Mode -->
+<script>
+     $(document).ready(function() {
+            $("#readermode").on("click", function() {
+               $('aside nav ul').toggleClass("hidden");
+               $('.magic').toggleClass("hidden");
+               $('.book-brand').toggleClass("hidden");
+               $('.book-brand img').toggleClass("hidden");
+               $('#helptext').toggleClass("hidden");
+               $('.readermode').toggleClass("readermode-hidden");
+            })
+          })
+</script>
+
+<style>
+.hidden {
+     display: none;
+}
+
+.readermode {
+     font-family: Whirlybats;
+     font-size: 35px;
+     display: inline;
+     text-decoration: none;
+     text-align: center;
+}
+
+.readermode-hidden {
+     color: var(--color-gray);
+}
+
+@media screen and (max-width: 450px) {
+       .readermode {
+          display: none;
+       }
+     }
+
+button:hover {
+  cursor: pointer;
+  opacity: .5;
+  transition: all 100ms ease-in-out;
+}
+
+/* unused
+
+.reader-brand {
+     color: var(--color-gray);
+}
+
+.reader-brand img {
+     opacity: .5;
+     filter: grayscale(100%);
+}
+
+*/
+</style>

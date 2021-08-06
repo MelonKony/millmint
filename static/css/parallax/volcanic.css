@@ -1,0 +1,93 @@
+/* .:. created by Ben_R_R .:. tolkienfan72@gmail.com .:. */
+
+html {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
+/* This code resets the body's margin, and defines a class that we can use to force elements to extend outside the margins of the body*/
+body{
+    padding: 0px;
+    margin: var(--body-margin);
+}
+
+body > .edge-to-edge{
+
+    width: calc(100% + 2* var(--body-margin));
+    margin-left: calc(-1 * var(--body-margin));
+
+}
+
+body > .hug-top{
+    margin-top: calc(-1 * var(--body-margin));
+}
+
+#HeaderCanvas{
+
+    height: 100vh;
+    width: 100%;
+
+}
+
+
+#FallingCanvas{
+
+    height: 900px;
+    width: 100%;
+    max-width: 600px;
+    float: left;
+    margin: 8px;
+}
+
+#FallingCanvas2{
+
+    height: 900px;
+    width: 100%;
+    max-width: 600px;
+    float: right;
+    margin: 8px;
+}
+
+#FallingCanvas3{
+
+    height: 1500px;
+    width: 100%;
+}
+
+#animation-images{
+    display: none;
+}
+
+/* This css lets you set aspect ratios on dom elements.
+See: https://css-tricks.com/aspect-ratio-boxes/
+*/
+[style*="--aspect-ratio"] > :first-child {
+    width: 100%;
+}
+[style*="--aspect-ratio"] > img {
+    height: auto;
+}
+
+@supports (--custom:property) {
+    [style*="--aspect-ratio"] {
+        position: relative;
+    }
+    [style*="--aspect-ratio"]::before {
+        content: "";
+        display: block;
+        padding-bottom: calc(100% / (var(--aspect-ratio)));
+    }
+    [style*="--aspect-ratio"] > :first-child {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+    }
+}

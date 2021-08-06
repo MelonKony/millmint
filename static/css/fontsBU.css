@@ -1,0 +1,93 @@
+/* inter-regular - latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Inter'), local('Inter-Regular'),
+       url('/fonts/Inter-Regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/Inter-Regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* inter medium*/
+@font-face {
+  font-family: 'Inter Medium';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Inter Medium'), local('Inter-Medium'),
+       url('/fonts/Inter-Medium.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/Inter-Medium.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* inter semibold*/
+@font-face {
+  font-family: 'Inter SemiBold';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Inter SemiBold'), local('Inter-SemiBold'),
+       url('/fonts/Inter-SemiBold.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/Inter-SemiBold.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+
+/* inter bold*/
+@font-face {
+  font-family: 'Inter Bold';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Inter Bold'), local('Inter-Bold'),
+       url('/fonts/Inter-Bold.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/Inter-Bold.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* inter-700 - latin */
+@font-face {
+  font-family: 'Inter Extra Bold';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Inter Extra Bold'), local('Inter-ExtraBold'),
+       url('/fonts/Inter-ExtraBold.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/Inter-ExtraBold.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* roboto-mono-regular - latin */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Mono'), local('RobotoMono-Regular'),
+       url('/fonts/roboto-mono-v6-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/roboto-mono-v6-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+h1 {
+  font-family: 'Inter Bold';
+}
+
+h2 {
+  font-family: 'Inter SemiBold';
+}
+
+h3 {
+  font-family: 'Inter Medium';
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  letter-spacing: -.020em;
+}
+
+code {
+  font-family: 'Roboto Mono', monospace;
+}
+
+/* whirlybats */
+@font-face {
+  font-family: "Whirlybats";
+  src: url("/fonts/WhirlybatsGX.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: 'Whirly Birdie';
+  src: url('https://cdn.glitch.com/1711052e-ea5e-4036-9c61-dd3ef6782855%2FWhirlyBirdieGX.ttf?v=1596681362011')  format('truetype');
+}
