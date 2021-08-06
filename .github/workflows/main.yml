@@ -28,7 +28,9 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo -d --minify
+        # remove --minify tag if you do not need it
+        # docs: https://gohugo.io/hugo-pipes/minification/
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
@@ -39,4 +41,5 @@ jobs:
           user_name: melonkony
           user_email: melonkony@icloud.com
           publish_dir: ./public
+          publish_branch: live
           cname: millmint.net
