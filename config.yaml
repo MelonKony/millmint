@@ -1,7 +1,7 @@
 baseURL: https://millmint.net/
 languageCode: en
 title: MillMint
-publishdir: /users/hobart/millmint.net
+publishdir: /users/hobart/millmint/.public
 theme: book
 
 # (Optional) Set this to true if you use capital letters in file names
