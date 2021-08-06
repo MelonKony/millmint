@@ -1,7 +1,0 @@
-{{ with .Date}}
-  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
-{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}
-{{ end }}
-{{ with .Params.image }}
-  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src={{ . | relURL }} /></div>
-{{ end }}
