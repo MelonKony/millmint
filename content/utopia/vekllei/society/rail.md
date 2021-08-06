@@ -192,7 +192,7 @@ The majority of Vekllei's underground metro network has been automated by Automa
 
 ### Tramways
 
-Vekllei operates a variety of trams and streetcars, including double-decker street-level units in the capital region and so-called "fast trams" (inter-urban cars) outside of the cities. Depending on the make and route of the tramway, they may be grade-seperated or integrated into streets.
+Vekllei operates a variety of trams and streetcars, including double-decker street-level units in the capital region and so-called "fast trams" (inter-urban cars) outside of the cities. Depending on the make and route of the tramway, they may be grade-seperated or integrated into streets. Their ubuquity in urban areas has caused observers to regard them as the principle method of transport in the country, second only to the bicycle.
 
 ### Freight
 
