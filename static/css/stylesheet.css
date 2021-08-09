@@ -703,6 +703,7 @@ $theme-dark: (
 				.book-toc nav {
 					padding:2.5rem 1rem;
 					padding-left:4rem;
+					position: fixed;
 
 				}
 				.book-toc a {
