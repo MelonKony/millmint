@@ -90,7 +90,7 @@ video {
 
 .book-menu nav {
 	width: 16rem;
-	padding: 2rem 1rem 2rem 2rem;
+	padding: 1rem 1rem 2rem 2rem!important;
 	position: relative;
 	top: 0;
 	bottom: 0;
@@ -698,7 +698,7 @@ $theme-dark: (
 			/*body resize fix*/
 			@media screen and (min-width: 400px) {
 				.book-page, .book-menu nav {
-					padding: 2rem 3rem 2rem 2rem;
+					padding:2rem 3rem;
 				}
 				.book-toc nav {
 					padding:2.5rem 1rem;
