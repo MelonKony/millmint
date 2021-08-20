@@ -5,7 +5,7 @@
 /* typography root */
 :root {
 	--gray-100: #f8f9fa;
-	--gray-200: #F8F8FA;
+	--gray-200: #e5e5e5;
 	--body-background: #FFFFFF;
 	--body-font-color: #1d1d1f;
 	--body-font-light: #666666;
@@ -32,7 +32,7 @@
 		--gray-200: #161b22;
 		--body-background: #000;
 		--body-font-color: #f3f3f3;
-		--body-font-light: #86868b;
+		--body-font-light: #c5c5c5;
 		--body-font-color-invert: #2c3e50;
 		--color-link: #84b2ff;
 		--color-visited-link: #b88dff;
@@ -55,12 +55,9 @@
 
 .markdown {
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue". "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", sans-serif;
-	line-height: 1.47059;
+	line-height: 1.67059;
 	font-size: 17px;
 }
--webkit-font-smoothing: antialiased;
--moz-osx-font-smoothing: grayscale;
-
 
 html {
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", sans-serif;
@@ -381,7 +378,7 @@ body.dark-mode main * {
 
 $theme-light: (
 	gray-100: #f8f9fa,
-	gray-200: #F8F8FA,
+	gray-200: #e5e5e5,
 	icon-filter: none,
 	);
 
@@ -428,7 +425,7 @@ $theme-dark: (
 				--gray-200: rgba(255, 255, 255, 0.2);
 				--body-background: #000;
 				--body-font-color: #f3f3f3;
-				--body-font-light: #86868b;
+				--body-font-light: #c5c5c5;
 				--body-font-color-invert: #2c3e50;
 				--color-link: #84b2ff;
 				--color-visited-link: #b88dff;
@@ -448,7 +445,7 @@ $theme-dark: (
 
 			[data-theme=light] {
 				--gray-100: #f8f9fa;
-				--gray-200: #F8F8FA;
+				--gray-200: #e5e5e5;
 				--body-background: #FFFFFF;
 				--body-font-color: #1d1d1f;
 				--body-font-light: #666666;
@@ -473,8 +470,8 @@ $theme-dark: (
 				background: var(--gray-100);
 			}
 
-			.book-search {
-				margin-bottom: 2rem;
+			#book-search-results {
+      	margin-top: 1rem;
 			}
 
 			.book-search-results ul {
@@ -483,6 +480,15 @@ $theme-dark: (
 
 			.book-search small {
 				margin-left: 0.4rem;
+			}
+
+			.markdown blockquote {
+    		border-inline-start: .25rem solid var(--gray-200);
+				color: var(--body-font-light)
+			}
+
+			.book-section-flat {
+				margin: 0;
 			}
 
 			/* columns wrap fix */
@@ -708,7 +714,6 @@ $theme-dark: (
 				}
 				.book-toc nav {
 					padding:2.5rem 1rem;
-					padding-left:4rem;
 					position: fixed;
 
 				}
