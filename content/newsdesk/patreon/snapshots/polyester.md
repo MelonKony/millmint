@@ -1,17 +1,15 @@
 ---
-title: "Polyester"
-weight: 1
-bookSearchExclude: true
+title: Polyester
+weight: "1"
+fulltitle: Polyester
+emoji: -atom
+tag: SNAPSHOT
+sitetag: April 4, 2020
+
+description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
-<div id="headerbox">
-<h1 class="title">Polyester</h1>
-<h1 class="emoji" id="whirlybat">-atom</h1>
-</div>
-
-<h5 span class="tag gray"> SNAPSHOT </h5>
-<div style="font-size: .75em; color: var(--color-gray); margin-top: 0.5rem; margin-bottom: 1rem; font-weight: bold;">Apr 4, 2020</div>
-
 
 ![smallimg](/images/sketches/polyester.jpg)
 

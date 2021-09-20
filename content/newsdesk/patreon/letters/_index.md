@@ -1,13 +1,15 @@
 ---
-weight: 1
-title: "Letter"
-bookSearchExclude: true
----
+title: Letters
+weight: "1"
+fulltitle: Letters From the Editor
+emoji: -mail
+tag: PATREON
+sitetag: Newsdesk
 
-<div id="headerbox">
-  <h1 class="title">Letters From the Editor</h1>
-  <h1 class="emoji" id="whirlybat">-mail</h1>
-</div>
+description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+---
 
 {{< hint info >}}
 **❖ Note from the Editor**
@@ -16,7 +18,7 @@ I occasionally publish letters to followers and patrons of the project to keep t
 
 Listed below are copies of the letters distributed to patrons. **If you would like to support this project on Patreon, [click here](https://www.patreon.com/vekllei).**
 
----
+<!-----
 ## 2020
 <br>
 {{< button relref="/newsdesk/patreon/letters/2020/nov.md" >}}Nov{{< /button >}}
@@ -29,4 +31,4 @@ Listed below are copies of the letters distributed to patrons. **If you would li
 {{< button relref="/newsdesk/patreon/letters/2021/feb.md" >}}Feb{{< /button >}}
 {{< button relref="/newsdesk/patreon/letters/2021/may.md" >}}May{{< /button >}}
 {{< button relref="/newsdesk/patreon/letters/2021/july.md" >}}July{{< /button >}}
-<br>
+<br>-->

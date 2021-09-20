@@ -1,17 +1,15 @@
 ---
-weight: 12
-title: "Letter | A Quiet July"
-bookHidden: true
-bookSearchExclude: true
+title: Jul 2021
+weight: "6"
+fulltitle: Jul. Update for Patrons
+emoji: -mail
+tag: EDITOR
+sitetag: Patreon
+
+description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
-<div id="headerbox">
-  <h1 class="title">A Quiet July</h1>
-  <h1 class="emoji" id="whirlybat">-mail</h1>
-</div>
-
-<h5 span class="tag"> EDITOR </h5>
-<h6 span class="sitetag">Letters</h6>
 
 ![smallimg](/images/mastheads/letters/5.jpg)
 

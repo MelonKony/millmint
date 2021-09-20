@@ -1,16 +1,15 @@
 ---
-title: "Pyjamas"
-weight: 1
-bookSearchExclude: true
+title: Pyjamas
+weight: "1"
+fulltitle: Pyjamas
+emoji: -atom
+tag: SNAPSHOT
+sitetag: July 14, 2021
+
+description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
-<div id="headerbox">
-<h1 class="title">Pyjamas</h1>
-<h1 class="emoji" id="whirlybat">-atom</h1>
-</div>
-
-<h5 span class="tag gray"> SNAPSHOT </h5>
-<div style="font-size: .75em; color: var(--color-gray); margin-top: 0.5rem; margin-bottom: 1rem; font-weight: bold;">July 14, 2021</div>
 
 ![smallimg](/images/sketches/pyjamas.jpg)
 

@@ -1,16 +1,15 @@
 ---
-title: "The Cane"
-weight: 1
-bookSearchExclude: true
+title: The Cane
+weight: "1"
+fulltitle: The Cane
+emoji: -atom
+tag: SNAPSHOT
+sitetag: May 15, 2021
+
+description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
-<div id="headerbox">
-<h1 class="title">The Cane</h1>
-<h1 class="emoji" id="whirlybat">-atom</h1>
-</div>
-
-<h5 span class="tag gray"> SNAPSHOT </h5>
-<div style="font-size: .75em; color: var(--color-gray); margin-top: 0.5rem; margin-bottom: 1rem; font-weight: bold;">May 15, 2021</div>
 
 ![smallimg](/images/sketches/welts.jpg)
 
@@ -26,7 +25,7 @@ Someone must have said something, because next time Tzipora had Ms Gale, she did
 
 In the Catholic schools of the Sacramento area, stocked with fresh young migrants and boarders, physical punishment was common and encouraged. The surrounding boys' schools, like St Michael’s Collegiate, saw about sixty percent of its boys caned or strapped. St Mary’s was a girls' school, and so it caned girls. More specifically, it caned Tzipora, which left her with nerve damage in her lower back. When she left school for the East Coast, riding freight trains with migrants, she would be reminded of Ms Gale’s strength every time the railcar jolted.
 
-It took two months into Tzipora’s second chance at school in Vekllei before she realised no one got hit. She asked Baron, and he told her it had been illegal to cane students for nearly forty years. 
+It took two months into Tzipora’s second chance at school in Vekllei before she realised no one got hit. She asked Baron, and he told her it had been illegal to cane students for nearly forty years.
 
 “So how do they keep me from causing a fuss?” Tzipora asked, placing a hand on the seat of her skirt.
 

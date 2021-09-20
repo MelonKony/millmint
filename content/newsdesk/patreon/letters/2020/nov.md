@@ -1,17 +1,15 @@
 ---
-weight: 11
-title: "Letter | November 2020"
-bookHidden: true
-bookSearchExclude: true
+title: Nov 2020
+weight: "1"
+fulltitle: Nov. Update for Patrons
+emoji: -mail
+tag: EDITOR
+sitetag: Patreon
+
+description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
-<div id="headerbox">
-  <h1 class="title">Nov. Update for Patrons</h1>
-  <h1 class="emoji" id="whirlybat">-mail</h1>
-</div>
-
-<h5 span class="tag"> EDITOR </h5>
-<h6 span class="sitetag">Letters</h6>
 
 ![img](/images/mastheads/letters/1.jpg)
 

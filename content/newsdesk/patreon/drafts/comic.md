@@ -1,26 +1,15 @@
 ---
-weight: 10
-title: "Preview"
-bookHidden: true
-bookSearchExclude: true
+title: Preview
+weight: "1"
+fulltitle: Atomic Modern (2020 Draft)
+emoji: a
+tag: COMIC
+sitetag: Story
+
+description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
-.markdown a {
-color: var(--color-orange);
-}
-.markdown a:visited {
-color: var(--color-orange);
-}
-</style>
-
-<div id="headerbox">
-  <h1 class="title"><i>Atomic Modern</i> Preview</h1>
-  <h1 class="emoji">🚏</h1>
-</div>
-
-<h5 span class="tag gray"> COMIC </h5>
-<h6 span class="sitetag">Story</h6>
-
 {{< hint yellow >}}
 ❖ **Tip:** press the black circle in the menu to read in dark mode
 {{< /hint >}}

@@ -1,17 +1,15 @@
 ---
-weight: 12
-title: "Letter | Zelda's May"
-bookHidden: true
-bookSearchExclude: true
+title: May 2021
+weight: "5"
+fulltitle: May Update for Patrons
+emoji: -mail
+tag: EDITOR
+sitetag: Patreon
+
+description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
-<div id="headerbox">
-  <h1 class="title">Zelda's May</h1>
-  <h1 class="emoji" id="whirlybat">-mail</h1>
-</div>
-
-<h5 span class="tag"> EDITOR </h5>
-<h6 span class="sitetag">Letters</h6>
 
 ![smallimg](/images/mastheads/letters/4.jpg)
 
@@ -21,7 +19,7 @@ bookSearchExclude: true
 
 Hello beloved patrons,
 
-It's been a little while since my last direct communiqué. I laid off these for a bit, since I realised you probably didn't need to have your inbox full of blog posts and delay announcements from me. Time better spent drawing I reckon. 
+It's been a little while since my last direct communiqué. I laid off these for a bit, since I realised you probably didn't need to have your inbox full of blog posts and delay announcements from me. Time better spent drawing I reckon.
 
 I've had a couple things going on in my personal life, so I've had to put some of my wilder ambitions on hold for a bit. I'm hoping I'm nearing the end of this rough patch and you'll see some crazy good stuff in future, in addition to regular posts.
 
