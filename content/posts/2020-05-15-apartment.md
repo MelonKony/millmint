@@ -1,5 +1,7 @@
 ---
 title: 2031 Apartment Diagram
+fulltitle: 2031 Apartment Diagram
+
 date: 2020-05-15
 tags:
     - post

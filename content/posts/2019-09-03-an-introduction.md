@@ -1,5 +1,7 @@
 ---
 title: A Brief Introduction to Vekllei
+fulltitle: A Brief Introduction to Vekllei
+
 date: 2019-09-03
 tags:
     - guide

@@ -1,0 +1,5 @@
+<div>
+  {{ with .Params.image }}
+    <div style="text-align: center;"><img style= "object-fit: contain; height:auto; min-height:50%; margin-top: 1rem; border-radius: 5px; background-color: transparent; margin: 0;" src={{ . | relURL }} /></div>
+  {{ end }}
+</div>

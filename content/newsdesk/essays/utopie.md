@@ -1,36 +1,18 @@
 ---
-title: "Utopie Concrète"
+title: Utopie Concrète
+
+fulltitle: Utopie Concrète
+emoji: K
+tag: ESSAY
+sitetag: Newsdesk
+color: blue
+
 weight: 1
 
 description: Notes on utopie concrète, a new movement for utopian fiction.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
-.markdown a {
-color: var(--color-blue);
-}
-.markdown a.anchor {
-color: var(--color-blue);
-}
-aside nav ul a {
-color: var(--color-blue);
-}
-#headerbox .emoji {
-color: var(--color-blue);
-}
-.markdown a:visited {
-color: var(--color-blue);
-}
-</style>
-
-<div id="headerbox">
-  <h1 class="title">Utopie Concrète</h1>
-  <h1 class="emoji" id="whirlybat">K</h1>
-</div>
-
-<h5 span class="tag blue"> ESSAY </h5>
-<h6 span class="sitetag">Newsdesk</h6>
 
 {{< hint blue >}}
 **❖ Note from the Editor**

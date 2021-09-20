@@ -1,40 +1,24 @@
 ---
 title: Mail
+
+fulltitle: The Royal Mail of Vekllei
+emoji: -stamp
+tag: SOCIETY
+sitetag: Article
+color: mail
+
 weight: 2
-bookHidden: false
+list_posts: false
 
 description: The Royal Mail of Vekllei is the national postal organisation of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <style>
-.markdown a {
-color: #BA1D37;
-}
-.markdown a.anchor {
-color: #BA1D37;
-}
-aside nav ul a {
-color: #BA1D37;
-}
-#headerbox .emoji {
-color: #BA1D37;
-}
-.markdown a:visited {
-color: #BA1D37;
-}
 .gt-container {
   display: none;
 }
 </style>
-
-<div id="headerbox">
-  <h1 class="title">The Royal Mail of Vekllei</h1>
-  <h1 class="emoji" id="whirlybat">-stamp</h1>
-</div>
-
-<h5 span class="tag mail"> SOCIETY </h5>
-<h6 span class="sitetag">Article</h6>
 
 ![img](/images/mailtrain.jpg)
 {{< hint caption >}}

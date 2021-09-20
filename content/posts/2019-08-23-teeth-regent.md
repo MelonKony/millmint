@@ -1,5 +1,7 @@
 ---
 title: The Teeth Regents
+fulltitle: The Teeth Regents
+
 date: 2019-08-23
 tags:
     - post

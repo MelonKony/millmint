@@ -1,5 +1,7 @@
 ---
 title: Blue Shoes
+fulltitle: Blue Shoes
+
 date: 2019-11-18
 tags:
     - post

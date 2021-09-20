@@ -1,5 +1,7 @@
 ---
 title: Merry Christmas everyone (plus a little Christmas story)
+fulltitle: Merry Christmas everyone (plus a little Christmas story)
+
 date: 2018-12-23
 tags:
     - post
@@ -13,7 +15,7 @@ image: /images/christmas2018.jpg
 
 ---
 {{< button href="https://www.reddit.com/user/MelonKony/comments/a8tuqe/merry_christmas_everyone_plus_a_little_christmas/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}

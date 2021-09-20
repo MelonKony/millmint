@@ -79,11 +79,6 @@ var Register_Animation = null;
         this.silent_render = false;
         this.pre_ani = pre_ani;   // What you do before the animation
         this.post_ani = post_ani; // What you do after the animation
-
-        this.image.addEventListener("load", () => {
-            window_has_moved = true
-        })
-
         this.render = function(ctx, t) {
 
             if (this.keyframes.length === 0){

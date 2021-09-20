@@ -4,7 +4,7 @@ weight: 1
 bookSearchExclude: true
 ---
 
-{{< hint warning >}}
+{{< hint yellow >}}
 **Under Construction**  
 This page is still under construction, and may be incomplete.
 {{< /hint >}}

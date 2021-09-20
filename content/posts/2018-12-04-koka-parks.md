@@ -1,5 +1,7 @@
 ---
 title: Koka parks & municipal recreation
+fulltitle: Koka parks & municipal recreation
+
 date: 2018-12-04
 tags:
     - post
@@ -12,7 +14,7 @@ keywords:
 image: /images/kokaparks.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/a303t0/koka_parks_municipal_recreation/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}

@@ -1,38 +1,20 @@
 ---
-weight: 1
-title: "2020 Issues"
+title: The Atlantic Bulletin Archive
+weight: "2"
+fulltitle: The Atlantic Bulletin Archive
+emoji: -flower
+tag: BULLETIN
+sitetag: Documents
+color: yellow
+
+description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
-<div id="headerbox">
-  <h1 class="title">The <i>Atlantic</i> Bulletin</h1>
-  <h1 class="emoji">🌼</h1>
-</div>
-
 {{< hint info >}}
-**❖ Note from the Editor**  
-The bulletin was created in May 2020 to supplement content posted to reddit. It features project updates, news relevant to the project, and contributing essays from friends of the project. It is published monthly via direct email subscription.
+**❖ Note from the Editor**
 
-**If you would like to subscribe to the bulletin, contact Hobart on [Reddit](www.reddit.com/r/vekllei) or [Discord](discord.gg/dCE6vSU).**
+The bulletin was an experiment created in May 2020 to supplement content posted to reddit. It featured project updates, news relevant to the project, and contributing essays from friends of the project. It was published monthly via direct email subscription. It has been replaced by the *Petticoat Research Bulletin*.
+
+Listed below are the issues of The *Atlantic* distributed in 2020.
 {{< /hint >}}
-
-Listed below are the issues of The *Atlantic* distributed in 2020. Since the bulletin was founded in May of 2020, only 8 issues will be catalogued here.
-
----
-
-<br>
-
-{{< button relref="/newsdesk/bulletin/2020/1.md" >}}May 2020{{< /button >}}
-
-{{< button relref="/newsdesk/bulletin/2020/2.md" >}}Jun 2020{{< /button >}}
-
-{{< button relref="/newsdesk/bulletin/2020/3.md" >}}Jul 2020{{< /button >}}
-
-{{< button relref="/newsdesk/bulletin/2020/4.md" >}}Aug 2020{{< /button >}}
-
-{{< button relref="/newsdesk/bulletin/2020/5.md" >}}Sep 2020{{< /button >}}
-
-{{< button relref="/newsdesk/bulletin/2020/6.md" >}}Oct 2020{{< /button >}}
-
-{{< button relref="/newsdesk/bulletin/2020/7.md" >}}Nov 2020{{< /button >}}
-
-<br>

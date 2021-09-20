@@ -1,5 +1,7 @@
 ---
-title: Mittens and Metaphysic — Product Atheism and Vekllei object-form
+title: Mittens and Metaphysic
+fulltitle: Mittens and Metaphysic — Product Atheism and Vekllei object-form
+
 date: 2020-10-11
 tags:
     - post

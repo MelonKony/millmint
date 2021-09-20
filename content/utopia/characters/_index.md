@@ -1,36 +1,24 @@
 ---
 title: Characters
+
+fulltitle: Cast of Characters
+emoji: ¥
+tag: UTOPIA
+sitetag: Introduction
+color: pink
+
 weight: 2
+list_posts: false
+
 description: The people of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <style>
-.markdown a {
-color: var(--color-pink);
-}
-.markdown a.anchor {
-color: var(--color-pink);
-}
-aside nav ul a {
-color: var(--color-pink);
-}
-#headerbox .emoji {
-color: var(--color-pink);
-}
 .gt-container {
   display: none;
 }
 </style>
-
-<div id="headerbox">
-  <h1 class="title">Cast of Characters</h1>
-  <h1 class="emoji"id="whirlybat">¥</h1>
-</div>
-<div style="clear: both;"></div>
-
-<h5 span class="tag pink"> UTOPIA </h5>
-<h6 span class="sitetag">Introduction</h6>
 
 ![img](/images/hollywood.jpg)
 {{< hint caption >}}
@@ -56,7 +44,7 @@ I'm still working on the little illustrations for each of the main characters, s
 <img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/zelda.png">
 </div>
 
-**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](/utopia/intro/#three-utopias) of this project. Often called Zelda by her friends, she is the protagonist of this project and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with [Gregori Syndrome](/posts/2020-08-12-ageless/), a genetic disorder that affects her ageing and extends her natural life. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising her paranoid personality and making her happy.
+**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](/utopia/intro/#three-utopias) of this project. Often called Zelda by her friends, she is the protagonist of this project and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with [Gregori Syndrome](/posts/2021-05-28-forever/), a genetic disorder that affects her ageing and extends her natural life. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising her paranoid personality and making her happy.
 
 #### Appearance
 

@@ -1,5 +1,7 @@
 ---
 title: A New Generation
+fulltitle: A New Generation
+
 date: 2021-08-21
 tags:
 - post

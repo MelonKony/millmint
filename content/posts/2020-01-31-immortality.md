@@ -1,5 +1,7 @@
 ---
 title: Face to Face with Immortality
+fulltitle: Face to Face with Immortality
+
 date: 2020-01-31
 tags:
     - post

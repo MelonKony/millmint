@@ -1,5 +1,7 @@
 ---
 title: Gentle Enthusiasm
+fulltitle: Gentle Enthusiasm
+
 date: 2020-04-23
 tags:
     - post

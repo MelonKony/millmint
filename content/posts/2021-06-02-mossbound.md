@@ -1,5 +1,7 @@
 ---
 title: Mossbound
+fulltitle: Mossbound
+
 date: 2021-06-02
 tags:
 - post

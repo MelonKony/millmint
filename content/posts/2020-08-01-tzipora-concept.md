@@ -1,5 +1,7 @@
 ---
 title: Meet Tzipora — concept panel for a Vekllei comic
+fulltitle: Meet Tzipora
+
 date: 2020-08-01
 tags:
     - post

@@ -1,5 +1,7 @@
 ---
 title: The Great Ro Highlands
+fulltitle: The Great Ro Highlands
+
 date: 2020-03-11
 tags:
     - post

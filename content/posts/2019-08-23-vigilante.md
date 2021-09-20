@@ -1,5 +1,7 @@
 ---
 title: Zelda, the Vigilant
+fulltitle: Zelda, the Vigilant
+
 date: 2019-08-23
 tags:
     - post

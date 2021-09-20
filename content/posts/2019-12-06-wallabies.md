@@ -1,5 +1,7 @@
 ---
-title: Wallabies of the Arctic — Vekllei's Pademelon and what the hell it's doing there
+title: Wallabies of the Arctic
+fulltitle: Wallabies of the Arctic — Vekllei's Pademelon and what the hell it's doing there
+
 date: 2019-12-06
 tags:
     - post
@@ -13,8 +15,8 @@ image: /images/wallaby.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/e6iykk/wallabies_of_the_arctic_veklleis_pademelon_and/" >}}Archived from the original article here{{< /button >}}
 
->8 days without posts feels like a century. Tomorrow, SkyMonth returns, and we’ll see what it’s like flying VAS. The day after tomorrow we’ll see an update for a few things — particularly a massive (and awesome) overhaul of the Vekllei site + wiki. Yeah, if you’re wondering where I’ve been, I’ve ditched Wordpress and have been learning HTML, which is like scraping the exposed brain against unpolished concrete. And after that there will be a lot more posts to follow to make up for the silence  
->  
+>8 days without posts feels like a century. Tomorrow, SkyMonth returns, and we’ll see what it’s like flying VAS. The day after tomorrow we’ll see an update for a few things — particularly a massive (and awesome) overhaul of the Vekllei site + wiki. Yeah, if you’re wondering where I’ve been, I’ve ditched Wordpress and have been learning HTML, which is like scraping the exposed brain against unpolished concrete. And after that there will be a lot more posts to follow to make up for the silence
+>
 >— Hobart.
 
 **The rufous-bellied wallaby or "pademelon"** is often mistaken for a kangaroo or even a rodent, but it is neither. These furry little lumps, known both for their rotundity and fecundity, do not share the dry and tropical temperament of their marsupial cousins throughout Australia and Indonesia, and are most at home in the wet, cold temperate rainforests of the quasiantarctic island of Tasmania. They also have a significant population in the least likely of places; a similarly cool, rainy, forested rock known as Vekllei (or Iceland, historically).

@@ -1,5 +1,7 @@
 ---
 title: Catching a steam locomotive to school
+fulltitle: Catching a steam locomotive to school
+
 date: 2019-05-30
 tags:
     - post
@@ -13,7 +15,7 @@ image: /images/cabforward.jpg
 
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/busvvn/catching_a_steam_locomotive_to_school/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}

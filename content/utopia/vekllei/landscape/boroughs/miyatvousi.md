@@ -1,5 +1,12 @@
 ---
 title: Miyatvousi
+
+fulltitle: The Borough of Miyatvousi
+emoji: ←
+tag: LANDSCAPE
+sitetag: Boroughs
+color: green
+
 weight: 1
 bookHidden: true
 
@@ -7,36 +14,6 @@ description: The borough of Miyatvousi is an administrative region of Vekllei, a
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
-.markdown a {
-color: var(--color-green);
-}
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
-color: var(--color-green);
-}
-.markdown a.book-btn {
-  color: var(--color-green);
-  border: 1px solid var(--color-green);
-  float: right;
-}
-</style>
-
-<div id="headerbox">
-  <h1 class="title">The Borough of Miyatvousi</h1>
-  <h1 class="emoji" id="whirlybat">←</h1>
-</div>
-
-<h5 span class="tag green"> LANDSCAPE </h5>
-<h6 span class="sitetag">Borough</h6>
 
 ![img](/images/hollywood.jpg)
 

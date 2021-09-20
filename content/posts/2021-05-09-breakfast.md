@@ -1,5 +1,7 @@
 ---
 title: A Vekllei Breakfast
+fulltitle: A Vekllei Breakfast
+
 date: 2021-05-09
 tags:
 - post

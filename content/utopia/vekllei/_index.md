@@ -1,52 +1,42 @@
 ---
 title: Vekllei
-weight: 3
+fulltitle: The Utopia of Vekllei
+emoji: -millmint
+tag: UTOPIA
+sitetag: Introduction
+color: pink
+
+list_posts: false
 
 description: Vekllei is a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
+
 <style>
-.markdown a {
-color: var(--color-pink);
-}
-.markdown a.anchor {
-color: var(--color-pink);
-}
-aside nav ul a {
-color: var(--color-pink);
-}
-#headerbox .emoji {
+body article a {
 color: var(--color-pink);
 }
 /* flags */
 .row {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
 .column {
   flex: 33.33%;
   padding: 5px;
 }
 @media (max-width: 1250px) {
-    .row {
-    display: none;
-    }
-  }
-  .gt-container {
+  .row {
     display: none;
   }
+}
+
+.gt-container {
+  display: none;
+}
 </style>
-
-<div id="headerbox">
-  <h1 class="title">The Utopia of Vekllei</h1>
-  <h1 class="emoji" id="whirlybat">-millmint</h1>
-</div>
-
-<h5 span class="tag pink"> UTOPIA </h5>
-<h6 span class="sitetag">Introduction</h6>
 
 ![img](/images/missile.jpg)
 {{< hint caption >}}
@@ -75,7 +65,7 @@ Subsequent centuries saw rapid growth of the local population, which was politic
 Life in coastal boroughs like [Santes](/utopia/vekllei/landscape/boroughs/santes) continues much as it has for hundreds of years | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
 {{</hint>}}
 
-During Vekllei's Middle Period, the country was struck by civil unrest that escalated into civil war, which installed the Aismo Desimou as the first King of Vekllei. The monarchy succeeded until Vekllei's colonial Late Period, which fell to a navy coup d'etat that installed a military junta in government, which rapidly expanded Vekllei's colonial holdings. This practice would continue well into the 20th Century, and would spark the Africa Wars and Vekllei's atomic bombing by the United Kingdom in 2005, which collapsed the existing regime and ushered in British occupation of the country.
+During Vekllei's Middle Period, the country was struck by civil unrest that escalated into civil war, which installed Aismo Desimou as the first King of Vekllei. The monarchy succeeded until Vekllei's colonial Late Period, which fell to a navy coup d'etat that installed a military junta in government, which rapidly expanded Vekllei's colonial holdings. This practice would continue well into the 20th Century, and would spark the Africa Wars and Vekllei's atomic bombing by the United Kingdom in 2005, which collapsed the existing regime and ushered in British occupation of the country.
 
 Since independence in 2015, Vekllei's Floral Period has transformed the country, and has been marked by a period of tremendous stability and economic growth. Vekllei does not use money domestically, with most internal trade dependent on social exchange, barter and state service, but operates twin currencies (the *Government* and *Vekllei* Crown) in its trade internationally.
 
@@ -338,7 +328,7 @@ Vekllei is spoken by around 25 million people, and a further 800,000 people arou
 {{</hint>}}
 
 {{< hint red >}}
-❖ Main article: *[Religion in Vekllei](/utopia/vekllei/religion/)*
+❖ Main article: *[Religion in Vekllei](/utopia/vekllei/culture/religion/)*
 {{< /hint >}}
 
 *Upen* is the nondenominational animism of Vekllei, and is practiced nearly universally throughout the country in various forms and traditions. As much a secular cultural tradition as an organised religion, *Upen* coexists alongside abrahamic and miscellaneous faiths in the country, integrating most immigrant populations in Vekllei into its scripture on landscape and *sumoismiaya*, or the "spirit of things."
@@ -349,7 +339,11 @@ Although most people in the country observe *Upen* apolitically, several other r
 
 ### Education
 
-![smallimg](/images/uniform.jpg)
+![img](/images/generation.jpg)
+
+{{< hint caption >}}
+Students in the uniform of Vekllei government schools | *[A New Generation](/posts/2021-08-21-generation/)*
+{{</hint>}}
 
 Education in Vekllei is structured as a *State Requisite Bureau* (rather than department) under the *requoisesiasn amourisocietie scolastie*, or A.r.E. Schooling is mandatory and universal between the ages of 5 and 14, and most schools in the country serve all ages between these years. All schools in Vekllei, aside from a half-dozen religious schools, are coeducational and operated directly by the A.r.E.
 

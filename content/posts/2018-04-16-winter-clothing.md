@@ -1,5 +1,7 @@
 ---
 title: Winter Clothing (and Womanhood in Vekllei)
+fulltitle: Winter Clothing (and Womanhood in Vekllei)
+
 date: 2018-04-16
 tags:
     - post
@@ -12,7 +14,7 @@ keywords:
 image: /images/coldweather.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/8cklgn/winter_clothing_and_womanhood_in_vekllei/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}
@@ -33,8 +35,8 @@ But many women don’t consider thick or multilayered trousers. This is because 
 
 **That is not to say Vekllei is necessarily misogynist**, at least as we understand it through a Western lens  —  the political and cultural understanding of the country (usually called ‘petticoat socialism’) strongly suggests that our fundamental ‘human’ traits are inherently female.
 
->It emphasises the overall ‘femininity’ of humanity and shifts the human core to female, and then distinguishes masculine traits as radical and far from the centre of the human condition. Petticoat feminism takes on economic qualities and a radical reading of gender to describe its main point of function and praxis  —  that masculine qualities are inherently economic, and that they will cease to be masculine as petticoat socialism achieves its aim of rendering labour unnecessary for all reasons except self-satisfaction. In petticoat feminism, the final form of the human race is female  —  not in a biological sense, but in a cultural attitude that has essentially ceased to distinguish between masculine and feminine qualities, while retaining what it views as inherently female virtues.  
->  
+>It emphasises the overall ‘femininity’ of humanity and shifts the human core to female, and then distinguishes masculine traits as radical and far from the centre of the human condition. Petticoat feminism takes on economic qualities and a radical reading of gender to describe its main point of function and praxis  —  that masculine qualities are inherently economic, and that they will cease to be masculine as petticoat socialism achieves its aim of rendering labour unnecessary for all reasons except self-satisfaction. In petticoat feminism, the final form of the human race is female  —  not in a biological sense, but in a cultural attitude that has essentially ceased to distinguish between masculine and feminine qualities, while retaining what it views as inherently female virtues.
+>
 >Fragility, grace, beauty, leisure, and reproduction are placed upon the shoulders of men, rendering them ‘female’ in the lexicon of petticoat feminism, and thus relieving them of the economic burden of masculinity.
 
 Knowing all that, it still basically means that skirts are for women, and women wear skirts to feel like women. Vekllei clothing has thus become multilayered and insulated to adapt to the shift from summer to winter.

@@ -1,5 +1,7 @@
 ---
 title: The People of Vekllei’s Railway (plus Dog)
+fulltitle: The People of Vekllei’s Railway (plus Dog)
+
 date: 2019-08-16
 tags:
     - post

@@ -1,5 +1,7 @@
 ---
 title: Ocean-liners of the Sky — Vacuum Dirigibles in Vekllei
+fulltitle: Vacuum Dirigibles in Vekllei
+
 date: 2019-11-24
 tags:
     - post

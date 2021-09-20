@@ -1,6 +1,14 @@
 ---
 title: FAQ
+
+fulltitle: Frequently Asked Questions
+emoji: -bird
+tag: UTOPIA
+sitetag: Introduction
+
 weight: 1
+list_posts: false
+
 bookHidden: true
 description: An intro to the world of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
@@ -8,6 +16,9 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ---
 
 <style>
+#headerbox .emoji {
+    margin-right: 85px;
+}
 .markdown a {
 color: var(--color-red);
 }
@@ -45,14 +56,6 @@ color: var(--color-red);
     }
   }
 </style>
-
-<div id="headerbox">
-  <h1 class="title">Frequently Asked Questions</i></h1>
-  <h1 class="emoji" id="whirlybat">-bird</h1>
-</div>
-
-<h5 span class="tag red"> UTOPIA </h5>
-<h6 span class="sitetag">Introduction</h6>
 
 {{< hint red >}}
 ߷ This article is about [**Hobart's utopia**](/utopia/intro/#three-utopias), called [**Vekllei**](/utopia/vekllei)

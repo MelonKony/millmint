@@ -1,5 +1,7 @@
 ---
 title: On the Concept of Childhood
+fulltitle: On the Concept of Childhood
+
 date: 2018-02-23
 tags:
     - post
@@ -12,7 +14,7 @@ keywords:
 image: /images/gregorichildren.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/7zm952/on_the_concept_of_childhood/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}
@@ -21,8 +23,8 @@ image: /images/gregorichildren.jpg
 
 Kojin Karatani, on the subject of childhood, writes;
 
->Of course, children have existed since ancient times, yet 'the child' as we conceive of it and objectify it did not exist prior to a particular period \[...\].  
->  
+>Of course, children have existed since ancient times, yet 'the child' as we conceive of it and objectify it did not exist prior to a particular period \[...\].
+>
 >From this viewpoint, it becomes clear that the grouping of children by age in the compulsory educational system of modern Japan signified the uprooting of children, as abstract and homogenous entities, from productive relations, social classes, and communities that had previously been their concrete contexts.
 
 For my own world (the city-state of Vekllei and her alternate future) this idea is is something I’m experimenting with. As people **of a modern world, we may contain within ourselves biases about what ‘childhood’ is.**

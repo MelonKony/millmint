@@ -1,5 +1,7 @@
 ---
 title: The Chemical Feast
+fulltitle: The Chemical Feast
+
 date: 2020-05-06
 tags:
     - post
@@ -27,8 +29,8 @@ Tzipora was not the sort of girl to be intimidated by a badge, and she wandered 
 
 It only took another moment to spot the smashed crates broken across the rocks before she knew what was going on. She was witnessing the dying days of the countercultural decade, and its chemical fuel was now smashed open before her.
 
->The 2070s were a wild time for the so-called “pink years” in Vekllei, and for the first time in Tzipora’s memory she started seeing “pleasure drugs” on the streets. There had always been plenty of sin carrying on in Vekllei, even in her early days — hallucinogenics, alcohol, and synthesised highs were legal and easy. But you didn’t see much of the exotic stuff, which grew in a better climate. Hash, coke, H — it was all underground stuff for personal use. These drugs were listed among many others in the class-A import prohibition orders, which made them hard to find and illegal to import. These were “pleasure drugs” — the Vekllei phrase for overseas narcotics that didn’t have a place in Upen or a preexisting cultural history. Comparatively, they were just ‘for pleasure’.  
->  
+>The 2070s were a wild time for the so-called “pink years” in Vekllei, and for the first time in Tzipora’s memory she started seeing “pleasure drugs” on the streets. There had always been plenty of sin carrying on in Vekllei, even in her early days — hallucinogenics, alcohol, and synthesised highs were legal and easy. But you didn’t see much of the exotic stuff, which grew in a better climate. Hash, coke, H — it was all underground stuff for personal use. These drugs were listed among many others in the class-A import prohibition orders, which made them hard to find and illegal to import. These were “pleasure drugs” — the Vekllei phrase for overseas narcotics that didn’t have a place in Upen or a preexisting cultural history. Comparatively, they were just ‘for pleasure’.
+>
 >H for heroin was a big news item for a long time, and with it you had one the largest moral panics in modern Vekllei cultural memory. Crackdowns came soon after. Tzipora found it difficult to describe the feeling of the time. It was a new generation — one she didn’t belong to, despite her appearance — and she didn’t have much sympathy for hedonists. They might tell her different, but she never thought the pink years were about much more than feeling good all of the time. She wondered if she was growing old and grumpy inside.
 
 She wondered how the crates had got there. Had the coast guard sunk another smugger? You heard about the navy firing shots in the news sometimes.

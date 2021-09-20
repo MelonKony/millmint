@@ -1,5 +1,7 @@
 ---
 title: The Oa-Class Battlecruiser
+fulltitle: The Oa-Class Battlecruiser
+
 date: 2020-06-06
 tags:
     - post

@@ -1,5 +1,7 @@
 ---
 title: Absolute Grotesque
+fulltitle: Absolute Grotesque
+
 date: 2019-06-13
 tags:
     - post
@@ -12,17 +14,17 @@ keywords:
 image: /images/eroguro.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/c05k16/absolute_grotesque/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}
 
 [Previous post here](https://www.reddit.com/r/worldbuilding/comments/busvvn/catching_a_steam_locomotive_to_school/).
 
->Six bodies hung from the Rodney Creek Railroad Bridge, without names. The leftmost corpse, which was a boy, had a sign slung around his neck with tomorrow’s 8am train on it. Besides the swaying boy was his father, and next to him was his mother, and so it went down the railroad bridge, counting off his little sisters and grandmama and so on. The baby had been thrown in the creek. Who they were didn’t matter much, since the types of people hanging from bridges and trees and lampposts were cut from the same cloth.  
->  
->Later that night, a man from the Kennecott Copper Company payed a sum of four and a half million dollars in cheque towards three bastards, two pigs and a thug. For that sort of money, you could buy a home to the North and the East, far out of Utah and far out of the violence. Not that any of them would leave — the pigs had good jobs with the Sheriff’s office, the bastards had been born here and would die here, and, well, the thug just liked killing too much.  
->  
+>Six bodies hung from the Rodney Creek Railroad Bridge, without names. The leftmost corpse, which was a boy, had a sign slung around his neck with tomorrow’s 8am train on it. Besides the swaying boy was his father, and next to him was his mother, and so it went down the railroad bridge, counting off his little sisters and grandmama and so on. The baby had been thrown in the creek. Who they were didn’t matter much, since the types of people hanging from bridges and trees and lampposts were cut from the same cloth.
+>
+>Later that night, a man from the Kennecott Copper Company payed a sum of four and a half million dollars in cheque towards three bastards, two pigs and a thug. For that sort of money, you could buy a home to the North and the East, far out of Utah and far out of the violence. Not that any of them would leave — the pigs had good jobs with the Sheriff’s office, the bastards had been born here and would die here, and, well, the thug just liked killing too much.
+>
 >You could trace today’s nightmare back to the collapse of the Ford Motor Company, but there were problems in the southwest long before even that. The truth of it is that there’s been a lot of anger in Utah for a long time, it's just taken a lot longer than anyone thought it would.
 
 It’s quite impossible to imagine the tragedy of the U.S. in 2094, where suffering can be predicted by the latitude at which it occurs and midcentury domesticity collides with violence and power. As the U.S. Dollar inflates wildly and the Atomic Age has priced out the working man, is it any wonder that Southerners waste away beneath horizons of the quiet, rusting manufacturing plants of the southwest, where the wind whistles between conveyors once carrying bits of Pontiacs and Fords?

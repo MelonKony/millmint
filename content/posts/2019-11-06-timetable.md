@@ -1,5 +1,7 @@
 ---
 title: A Vekllei Timetable
+fulltitle: A Vekllei Timetable
+
 date: 2019-11-06
 tags:
     - post

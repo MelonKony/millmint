@@ -1,8 +1,13 @@
 ---
 title: Territories
+fulltitle: The Territories of Vekllei
+emoji: ←
+tag: LANDSCAPE
+sitetag: Introduction
+color: green
+
 weight: 1
-bookSearchExclude: true
-bookHidden: true
+list_posts: false
 ---
 <style>
 .markdown a {
@@ -19,16 +24,25 @@ color: var(--color-green);
 }
 .markdown a:visited {
 color: var(--color-green);
+
+/* flags */
+.row {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+@media (max-width: 1250px) {
+  .row {
+    display: none;
+  }
+}
+
 }
 </style>
-
-<div id="headerbox">
-  <h1 class="title">The Territories of Vekllei</h1>
-  <h1 class="emoji" id="whirlybat">-millmint</h1>
-</div>
-
-<h5 span class="tag green"> LANDSCAPE </h5>
-<h6 span class="sitetag">Introduction</h6>
 
 ![img](/images/territories.jpg)
 

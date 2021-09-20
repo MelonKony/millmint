@@ -1,5 +1,7 @@
 ---
 title: Air Atomic
+fulltitle: Air Atomic
+
 date: 2021-06-04
 tags:
 - post
@@ -14,7 +16,7 @@ image: "/images/fighter.jpg"
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/ns9ltc/air_atomic/" >}}Archived from the original article here{{< /button >}}
 
-**The Royal Vekllei Air Force runs nuclear these days**. Just fifty years ago, that would have been unthinkable. Times change. 
+**The Royal Vekllei Air Force runs nuclear these days**. Just fifty years ago, that would have been unthinkable. Times change.
 
 The Ramoin-Dupont Aircraft Company, with help from the research subsidiary of the absurdly-named “Government Aircraft Factories,” spent about two decades trying to get a reactor to fly. It was easy enough to build a plane around a fission reactor — the problem was keeping the pilot alive. Ramoin-Dupont figured out that, for every megawatt of power, you required about 8 tonnes of rubber and lead shielding — an intolerable figure for a fighter or light aircraft of any kind.
 

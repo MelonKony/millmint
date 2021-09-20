@@ -1,39 +1,21 @@
 ---
-title: "Not Long in Hong Kong"
+title: Hong Kong
+
+fulltitle: Not Long in Hong Kong
+emoji: «
+tag: ESSAY
+sitetag: Newsdesk
+color: blue
+
 weight: 2
 
 description: An essay on the 2020 Hong Kong Protests by Hobart Phillips, a utopian illustrator and storyteller.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
-.markdown a {
-color: var(--color-blue);
-}
-.markdown a.anchor {
-color: var(--color-blue);
-}
-aside nav ul a {
-color: var(--color-blue);
-}
-#headerbox .emoji {
-color: var(--color-blue);
-}
-.markdown a:visited {
-color: var(--color-blue);
-}
-</style>
-
-<div id="headerbox">
-  <h1 class="title">Not Long in Hong Kong</h1>
-  <h1 class="emoji" id="whirlybat">«</h1>
-</div>
-
-<h5 span class="tag blue"> ESSAY </h5>
-<h6 span class="sitetag">Newsdesk</h6>
 
 {{< hint blue >}}
-**❖ Note from the Editor**  
+**❖ Note from the Editor**
 This article was **originally published** in **October 2019**. This article was written shortly after my return from Hong Kong, where I got caught up in the pro-democracy protests and is a broad response to Australian coverage of the ongoing events.
 {{< /hint >}}
 

@@ -1,9 +1,22 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang }}" dir={{ .Site.Language.LanguageDirection }}>
+{{ .Scratch.SetInMap "params" "usePrismJS" (.Site.Params.usePrismJS | default false) }}
+{{ .Scratch.SetInMap "params" "enableSiteSearch" (.Site.Params.enableSiteSearch | default false) }}
+
+{{ .Scratch.SetInMap "params" "enablePrismJSLineNo" (.Params.prism_lineno | default .Site.Params.enablePrismJSLineNo | default true) }}
+{{ .Scratch.SetInMap "params" "navbarTitle" (.Params.navbar_title | default .Site.Params.navbarTitle | default .Site.Title) }}
+{{ .Scratch.SetInMap "params" "author" (.Params.author | default .Site.Params.author) }}
+{{ .Scratch.SetInMap "params" "enableOpenGraph" (.Params.open_graph | default .Site.Params.enableOpenGraph | default true) }}
+{{ .Scratch.SetInMap "params" "enableTwitterCards" (.Params.twitter_cards | default .Site.Params.enableTwitterCards | default true) }}
+{{ .Scratch.SetInMap "params" "enableTOC" (.Params.toc | default .Site.Params.enableTOC | default true) }}
+{{ .Scratch.SetInMap "params" "enableZoomingJS" (.Params.zooming_js | default .Site.Params.enableZoomingJS | default true) }}
+{{ .Scratch.SetInMap "params" "enableCodeCopy" (.Params.code_copy | default .Site.Params.enableCodeCopy | default true) }}
+{{ .Scratch.SetInMap "params" "gaCode" (.Params.ga | default .Site.GoogleAnalytics) }}
+{{ .Scratch.SetInMap "params" "footer" (.Params.footer | default .Site.Params.footer) }}
+{{ .Scratch.SetInMap "params" "math" (.Params.math | default .Site.Params.enableMathJax | default false) }}
+{{ .Scratch.SetInMap "params" "enableCollapsibleTOC" (.Params.collapsibleTOC | default .Site.Params.enableCollapsibleTOC | default false) }}
+{{ .Scratch.SetInMap "params" "enableCollapsibleChangelogs" (.Params.collapsibleChangelogs | default .Site.Params.enableCollapsibleChangelogs | default false) }}
 
 <head>
-  {{ partial "docs/html-head" . }}
-  {{ partial "docs/inject/head" . }}
+  {{ partial "head" . }}
   <link rel="stylesheet" href="/css/parallax/volcanic.css">
   <script>
    function resizeIframe(obj) {
@@ -13,6 +26,10 @@
 </head>
 
 <body dir={{ .Site.Language.LanguageDirection }}>
+  <div class="w-full sm:w-10/12 md:w-9/12 lg:w-7/12 xl:w-5/12 m-auto px-6">
+    {{- partial "header.html" . -}}
+  </div>
+
 
   <!-- Parallax -->
 
@@ -45,76 +62,46 @@
   <script src="/js/parallax-volcanic/volcanic-engine.js"></script>
   <script src="/js/parallax-volcanic/parallax-volcanic.js"></script>
 
-  <input type="checkbox" class="hidden toggle" id="menu-control" />
-  <input type="checkbox" class="hidden toggle" id="toc-control" />
-  <main class="container flex">
-    <aside class="book-menu">
-      {{ template "menu" . }} <!-- Left menu Content -->
-    </aside>
+  <!DOCTYPE html>
+  <html class="h-full w-full font-sans" lang='{{ .Site.LanguageCode }}'>
+      {{- partial "head.html" . -}}
+          <main class="w-full sm:w-10/12 md:w-9/12 lg:w-7/12 xl:w-5/12 m-auto px-6">
+              <!--{{- partial "header.html" . -}}-->
+              <div id="content" class="my-8">
+                  {{ if .Params.changelogs }}
+                      {{ $enableCollapsibleChangelogs := (.Scratch.Get "params").enableCollapsibleChangelogs }}
+                      {{ partial "collapsible-menu.html" (dict "type" "changelogs" "context" . "enable" $enableCollapsibleChangelogs) }}
+                  {{ end }}
 
-    <div class="book-page">
-      <header class="book-header">
-        {{ template "header" . }} <!-- Mobile layout header -->
-      </header>
+                  {{- partial "content" . }}
 
-      {{ partial "docs/inject/content-before" . }}
-      {{ template "main" . }} <!-- Page Content -->
-      {{ partial "docs/inject/content-after" . }}
+                  {{ if eq .Kind "page" }}
+                      {{ if (.Params.disqus | default .Site.DisqusShortname) }}
+                          {{- partial "disqus.html" . -}}
+                      {{ end }}
+                  {{ else }}
+                      {{ if (.Params.disqus | default false) }}
+                          {{- partial "disqus.html" . -}}
+                      {{ end }}
+                  {{ end }}
+              </div>
+              {{- partial "footer.html" . -}}
+          </main>
+          {{- partial "resources/js.html" . -}}
+  </html>
 
-      <footer class="book-footer">
-        {{ template "footer" . }} <!-- Footer under page content -->
-        {{ partial "docs/inject/footer" . }}
-      </footer>
-
-      {{ template "comments" . }} <!-- Comments block -->
-
-      <label for="menu-control" class="hidden book-menu-overlay"></label>
-    </div>
-
-    {{ if default true (default .Site.Params.BookToC .Params.BookToC) }}
-    <aside class="book-toc">
-      {{ template "toc" . }} <!-- Table of Contents -->
-    </aside>
-    {{ end }}
-  </main>
-
-  {{ partial "docs/inject/body" . }}
 </body>
 
-</html>
-
-{{ define "menu" }}
-  {{ partial "docs/menu" . }}
-{{ end }}
-
-{{ define "header" }}
-  {{ partial "docs/header" . }}
-
-  {{ if default true (default .Site.Params.BookToC .Params.BookToC) }}
-  <aside class="hidden clearfix">
-    {{ template "toc" . }}
-  </aside>
-  {{ end }}
-{{ end }}
-
-{{ define "footer" }}
-  {{ partial "docs/footer" . }}
-{{ end }}
-
-{{ define "comments" }}
-  {{ if and .Content (default true (default .Site.Params.BookComments .Params.BookComments)) }}
-  <div class="book-comments">
-    {{- partial "docs/comments" . -}}
-  </div>
-  {{ end }}
-{{ end }}
-
-{{ define "main" }}
-  <article class="markdown">
-    {{- .Content -}}
-  </article>
-{{ end }}
-
-{{ define "toc" }}
-  {{ partial "docs/toc" . }}
-{{ end }}
+<style>
+  .gt-container {
+    display: none;
+  }
+  body header .navbar-item-dropdown.inactive, body header .navbar-item.inactive {
+    color: #2F474C;
+    fill: #2F474C;
+  }
+  .mb-8 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+</style>

@@ -1,0 +1,9 @@
+{{ if default true .Site.Params.Search }}
+<div class="magic">
+   <div class="book-search">
+     <input type="text" id="book-search-input" placeholder="{{ "Search" }}" maxlength="60" data-hotkeys="s/" />
+     <div class="book-search-spinner hidden"></div>
+     <ul id="book-search-results"></ul>
+   </div>
+</div>
+{{ end }}

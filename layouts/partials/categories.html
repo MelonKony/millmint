@@ -1,0 +1,7 @@
+{{ with .Param "categories" }}
+  {{ range $index, $category := (. | sort) }}
+  {{ with $.Site.GetPage (printf "/%s/%s" "categories" $category) }}
+    <a href="{{ .Permalink }}">#{{ $category | urlize }}</a>
+  {{ end }}
+  {{ end }}
+{{ end }}

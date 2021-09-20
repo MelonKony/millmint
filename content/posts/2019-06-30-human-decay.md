@@ -1,5 +1,7 @@
 ---
 title: The Principles of "Human Decay"
+fulltitle: The Principles of "Human Decay"
+
 date: 2019-06-30
 tags:
     - sketch
@@ -12,7 +14,7 @@ keywords:
 image: /images/decay.jpg
 ---
 {{< button href="https://www.reddit.com/user/MelonKony/comments/c708ih/the_principles_of_human_decay/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}

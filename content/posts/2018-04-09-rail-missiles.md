@@ -1,5 +1,7 @@
 ---
 title: Rail-Launched Nuclear Missiles
+fulltitle: Rail-Launched Nuclear Missiles
+
 date: 2018-04-09
 tags:
     - post
@@ -12,7 +14,7 @@ keywords:
 image: /images/missiletrain.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/8axg6z/raillaunched_nuclear_missiles/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}

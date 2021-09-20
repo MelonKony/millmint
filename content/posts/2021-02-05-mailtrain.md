@@ -1,5 +1,7 @@
 ---
 title: Racing the Post Office to the Station
+fulltitle: Racing the Post Office to the Station
+
 date: 2021-02-05
 tags:
 - post

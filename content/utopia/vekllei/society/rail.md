@@ -1,38 +1,24 @@
 ---
-title: Railways
+title: Rail
+
+fulltitle: The National Rail of Vekllei
+emoji: -train
+tag: SOCIETY
+sitetag: Article
+color: vnr
+
+list_posts: false
+
 weight: 2
 description: The railways of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <style>
-.markdown a {
-color: #FF564F;
-}
-.markdown a.anchor {
-color: #FF564F;
-}
-aside nav ul a {
-color: #FF564F;
-}
-#headerbox .emoji {
-color: #FF564F;
-}
-.markdown a:visited {
-color: #FF564F;
-}
 .gt-container {
   display: none;
 }
 </style>
-
-<div id="headerbox">
-  <h1 class="title">The National Rail of Vekllei</h1>
-  <h1 class="emoji" id="whirlybat">-train</h1>
-</div>
-
-<h5 span class="tag vnr"> SOCIETY </h5>
-<h6 span class="sitetag">Article</h6>
 
 ![img](/images/orange.jpg)
 {{< hint caption >}}

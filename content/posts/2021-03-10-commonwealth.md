@@ -1,5 +1,7 @@
 ---
 title: Vekllei’s Sprawling Commonwealth
+fulltitle: Vekllei’s Sprawling Commonwealth
+
 date: 2021-03-10
 tags:
 - post

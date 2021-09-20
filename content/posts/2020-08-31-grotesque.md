@@ -1,5 +1,7 @@
 ---
 title: Absolute Grotesque
+fulltitle: Absolute Grotesque
+
 date: 2020-08-31
 tags:
     - post
@@ -8,7 +10,7 @@ categories:
     - landscape
 keywords:
     - post
-    - 2020    
+    - 2020
 image: /images/warmap.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/ijxvzu/absolute_grotesque/" >}}Archived from the original article here{{< /button >}}

@@ -1,5 +1,7 @@
 ---
 title: From Beaches to Mountaintops
+fulltitle: From Beaches to Mountaintops
+
 date: 2019-11-15
 tags:
     - post

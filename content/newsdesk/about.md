@@ -1,33 +1,16 @@
 ---
 title: About
 weight: "1"
+fulltitle: About the Author
+emoji: v
+tag: CONTACT
+sitetag: Newsdesk
+color: indigo
 
 description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
-.markdown a {
-color: var(--color-indigo);
-}
-.markdown a.anchor {
-color: var(--color-indigo);
-}
-aside nav ul a {
-color: var(--color-indigo);
-}
-#headerbox .emoji {
-color: var(--color-indigo);
-}
-</style>
-
-<div id="headerbox">
-<h1 class="title">About the Author</h1>
-<h1 class="emoji" id="whirlybat">v</h1>
-</div>
-
-<h5 span class="tag indigo"> CONTACT </h5>
-<h6 span class="sitetag">Newsdesk</h6>
 
 {{< hint indigo >}}
 ❖ If you're looking to contact me, you can **write to me** [**here**](mailto:melonkony@icloud.com)

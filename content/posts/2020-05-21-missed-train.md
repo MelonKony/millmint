@@ -1,5 +1,7 @@
 ---
 title: The Last Train Out of Ada
+fulltitle: The Last Train Out of Ada
+
 date: 2020-05-21
 tags:
     - post

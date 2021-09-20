@@ -1,5 +1,7 @@
 ---
 title: Merry Christmas
+fulltitle: Merry Christmas
+
 date: 2019-12-26
 tags:
     - post

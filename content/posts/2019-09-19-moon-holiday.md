@@ -1,5 +1,7 @@
 ---
 title: Holiday on the Moon
+fulltitle: Holiday on the Moon
+
 date: 2019-09-19
 tags:
     - post
@@ -19,8 +21,8 @@ Like most Vekllei people, Tzipora has visited the moon. From Ground Control on E
 
 The first time Zelda visited the moon was as a birthday gift from her father, who hadn’t been in many years. She recalls reading extensively about the moon in preparation for the trip.
 
->“… here’s hoping, then. So we’ve booked for three nights up in Moidonnet, and then a single night in Traismadonnet, a smaller city closer to the equator. I wanted us to do as many things as possible, so I think we should visit the peak of Io Mountain today, where they say they have a spectacular bio-dome and you can see forever, and maybe go on a space-walk. We’ll see. Spacewalks are hard to book ahead for, but if we get tired we can just do everything else the next day.  
->  
+>“… here’s hoping, then. So we’ve booked for three nights up in Moidonnet, and then a single night in Traismadonnet, a smaller city closer to the equator. I wanted us to do as many things as possible, so I think we should visit the peak of Io Mountain today, where they say they have a spectacular bio-dome and you can see forever, and maybe go on a space-walk. We’ll see. Spacewalks are hard to book ahead for, but if we get tired we can just do everything else the next day.
+>
 >“There’s also an art gallery built for low gravity. It’s amazing, like a rubber castle, filled with sculpture and room pieces that are — well, they’re just amazing. You’re always telling me I’m too skinny. Guess how much I’ll weigh on the moon?”
 
 >“Twenty kilos?”

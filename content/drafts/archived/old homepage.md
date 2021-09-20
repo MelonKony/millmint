@@ -19,7 +19,7 @@ bookSearchExclude: true
 <i>Home of </i> ❖ Vekllei
 </h2>
 </div>
-{{< hint warning >}}
+{{< hint yellow >}}
 **❖ Welcome**  
 *Welcome to MillMint.net!* This site is a wiki and archive for Hobart's stories of **utopia**.
 {{< /hint >}}
@@ -51,7 +51,7 @@ Forward site administration queries to Hobart on [Reddit](https://www.reddit.com
 Special thanks to Ben R. for his help with the parallax header and M. Tirado for technical support.
 {{< /hint >}}
 
-{{< hint warning >}}
+{{< hint yellow >}}
 **❖ Site Status 2020**  
 Many pages on this site are under construction and incomplete. Unless the article is flagged as completed, you should consider unfinished work subject to change.
 {{< /hint >}}

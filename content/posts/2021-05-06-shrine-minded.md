@@ -1,5 +1,7 @@
 ---
 title: Shrine-Minded Girls
+fulltitle: Shrine-Minded Girls
+
 date: 2021-05-06
 tags:
 - post

@@ -1,5 +1,7 @@
 ---
 title: Spiritful
+fulltitle: Spiritful
+
 date: 2021-06-19
 tags:
 - post

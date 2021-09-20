@@ -2,135 +2,20 @@
 title: Home
 type: home
 layout: home
-bookToC: false
 description: Utopian storytelling by Studio MillMint.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
+<!--<div class="emoji" id="whirlybat" style="text-align: center;">g</div>-->
+<h1 style="font-size:3.4rem; font-weight: 900; line-height: 3.5rem;">Vekllei</h1>
+<h1 style="font-size:32px; line-height: 2.5rem; margin-top: 1rem;">Stories about life and living from the last great utopia</h1>
 
-body {
-	width: 100%;
-	height: 100%;
-}
+This website is an **open notebook** of stories and illustrations from the world's last great utopia, **Vekllei**. It looks at how people live in an epoch of rest, and what such a place might look like.
 
-.markdown h1 {
-	margin-left: auto;
-	margin-right: auto;
-	font-weight: 900;
-	margin-top: 0;
-	margin-bottom: 0;
-	text-align: center;
-	font-size: 55pt;
-	letter-spacing: -2px;
-	background: -webkit-linear-gradient(45deg, #fe1568, #955fc1);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-}
+These stories mostly follow **Tzipora**, a recent immigrant, as she explores Vekllei's retro-futurist landscape and great modernist metaphysics.
 
-.markdown h2 {
-	font-weight: 800;
-	text-align: center;
-	font-weight: bolder;
-	font-size: 18pt;
-}
+Visit [stories](/posts) to start reading. Visit the directory above for more information.
 
-.markdown h4 {
-	font-size: 16px;
-	color: var(--color-gray);
-	font-weight: 800;
-	text-align: center;
-	word-wrap: break-word;
-	margin-top: 1rem;
-}
+![img](/images/picnic.png)
 
-.markdown a:visited {
-	color: var(--color-gray);
-}
-
-.markdown a {
-	text-decoration: none;
-	color: var(--color-gray);
-}
-
-.homepage {
-	display: flex;
-  flex-direction: column;
-  justify-content: center;
-	margin: auto;
-	height: 100%;
-}
-
-.hero {
-	display: flex;
-  flex-direction: column;
-  justify-content: center;
-	margin: auto;
-	height: 100%;
-	padding: 20px;
-	background-color: var(--gray-100)
-}
-
-@media (max-width: 1023px) {
-	.hero {
-	display: none;
-	}
-}
-
-.book-header strong {
-    display: none;
-}
-
-.markdown .book-columns > div {
-    min-width: 336px;
-}
-
-.book-menu nav {
-	padding: 2rem 1rem 2rem 2rem!important;
-	position: static;
-}
-
-.book-footer{
-	display: none;
-}
-
-.container {
-	height: 100vh;
-	width: 100%;
-}
-
-.book-page {
-	display: flex;
-  align-items: center;
-  justify-content: center
-}
-
-@media (max-width: 600px) {
-	#HeaderCanvas  {
-	display: none;
-	}
-}
-
-</style>
-
-{{< columns >}} <!-- begin columns block -->
-
-<img class="hero" src="/images/mastheads/princess.png">
-
-<--->
-
-<div class="homepage">
-	<h1>Studio</h1>
-	<h1><i> MillMint</i></h1>
-	<h2>スタジオミルミント</h2>
-	<div style="display:table; margin:0 auto; padding: 10px;">
-		<span class="dot-pink"></span>
-		<span class="dot-orange"></span>
-		<span class="dot-yellow"></span>
-		<span class="dot-green"></span>
-		<span class="dot-blue"></span>
-	</div>
-	<h4><a href="/utopia/intro/">INTRO</a> • <a href="/utopia/vekllei">UTOPIA</a> • <a href="/newsdesk/about/">NEWSDESK</a> • <a href="/posts/">POSTS</a></h4>
-</div>
-
-{{< /columns >}}
+<h6 style="text-align: center; color: var(--color-gray)">Made with love in Hobart, Tasmania.</h6>

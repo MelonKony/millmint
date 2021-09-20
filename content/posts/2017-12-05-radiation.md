@@ -1,5 +1,7 @@
 ---
 title: Radiation Poisoning in Domestic Vekllei
+fulltitle: Radiation Poisoning in Domestic Vekllei
+
 date: 2017-12-05
 tags:
     - post
@@ -12,7 +14,7 @@ keywords:
 image: /images/radiation.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/7hohs9/radiation_poisoning_in_domestic_vekllei/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}

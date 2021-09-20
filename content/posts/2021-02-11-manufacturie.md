@@ -1,5 +1,7 @@
 ---
 title: The Stamp Manufacturie
+fulltitle: The Stamp Manufacturie
+
 date: 2021-02-11
 tags:
 - post

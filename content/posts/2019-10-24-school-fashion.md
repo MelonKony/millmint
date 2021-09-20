@@ -1,5 +1,7 @@
 ---
 title: Boyhood Fashion in Vekllei's School Halls
+fulltitle: Boyhood Fashion in Vekllei's School Halls
+
 date: 2019-10-24
 tags:
     - post

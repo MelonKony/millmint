@@ -1,0 +1,14 @@
+{{- if . -}}
+<ul class="my-2">
+    {{ range .ByPublishDate.Reverse }}
+        <li class="mb-2 leading-relaxed list-item">
+            <a href="{{ .RelPermalink }}" class="text-base border-b-2">
+                {{- .Title -}}
+            </a>
+            <span class="text-xs">
+                {{- .PublishDate.Format "2006/01/02" -}}
+            </span>
+        </li>
+    {{ end }}
+</ul>
+{{- end -}}

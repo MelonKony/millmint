@@ -1,5 +1,7 @@
 ---
-title: She stands in the harbour in national dress. Jets fly overhead and a parade passes to mourn the victims of the atomic bombings.
+title: She stands in the harbour in national dress
+fulltitle: She stands in the harbour in national dress. Jets fly overhead and a parade passes to mourn the victims of the atomic bombings.
+
 date: 2017-07-19
 tags:
     - post
@@ -12,7 +14,7 @@ keywords:
 image: /images/nationaldress.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/6o1k7x/she_stands_in_the_harbour_in_national_dress_jets/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}
 

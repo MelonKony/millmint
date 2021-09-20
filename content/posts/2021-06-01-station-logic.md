@@ -1,5 +1,7 @@
 ---
 title: Station Logic
+fulltitle: Station Logic
+
 date: 2021-06-01
 tags:
 - post

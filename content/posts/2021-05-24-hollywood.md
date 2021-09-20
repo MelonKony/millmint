@@ -1,5 +1,7 @@
 ---
 title: Gone Hollywood
+fulltitle: Gone Hollywood
+
 date: 2021-05-24
 tags:
 - post

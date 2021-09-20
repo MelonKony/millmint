@@ -1,5 +1,7 @@
 ---
 title: Fiery Peaks
+fulltitle: Fiery Peaks
+
 date: 2020-05-07
 tags:
     - post

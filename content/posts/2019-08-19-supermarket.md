@@ -1,5 +1,7 @@
 ---
 title: Supermarkets in Vekllei
+fulltitle: Supermarkets in Vekllei
+
 date: 2019-08-19
 tags:
     - post

@@ -1,41 +1,18 @@
 ---
 title: Troll
+
+fulltitle: The Borough of Troll
+emoji: ←
+tag: LANDSCAPE
+sitetag: Boroughs
+color: green
+
 weight: 1
 bookHidden: true
 description: The borough of Troll is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
-.markdown a {
-color: var(--color-green);
-}
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
-color: var(--color-green);
-}
-.markdown a.book-btn {
-  color: var(--color-green);
-  border: 1px solid var(--color-green);
-  float: right;
-}
-</style>
-
-<div id="headerbox">
-  <h1 class="title">The Borough of Troll</h1>
-  <h1 class="emoji" id="whirlybat">←</h1>
-</div>
-
-<h5 span class="tag green"> LANDSCAPE </h5>
-<h6 span class="sitetag">Borough</h6>
 
 ![img](/images/orange.jpg)
 
@@ -116,5 +93,6 @@ Troll's location at the base of the Vatnayoskusl Glacier makes it a strategic si
 - Troll-Misya
 <--->
 ## Posts
+- [Roadside Picnic](/posts/2021-09-15-picnic/)
 - [VNR Orange](/posts/2021-06-03-orange/)
 {{</columns>}}

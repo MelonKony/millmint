@@ -1,5 +1,7 @@
 ---
 title: Introducing Moise
+fulltitle: Introducing Moise
+
 date: 2019-08-25
 tags:
     - post

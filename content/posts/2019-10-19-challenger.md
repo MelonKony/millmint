@@ -1,5 +1,7 @@
 ---
 title: A New Challenger Has Appeared!
+fulltitle: A New Challenger Has Appeared!
+
 date: 2019-10-19
 tags:
     - post

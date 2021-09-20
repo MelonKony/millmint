@@ -1,5 +1,7 @@
 ---
 title: Winter Uniforms in Vekllei
+fulltitle: Winter Uniforms in Vekllei
+
 date: 2020-05-16
 tags:
     - post

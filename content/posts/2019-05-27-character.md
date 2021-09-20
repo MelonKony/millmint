@@ -1,5 +1,7 @@
 ---
-title: Meet Tzipora Desmoines, the Eternal Teen-ager and Princess of the Earth
+title: Meet Tzipora Desmoines
+fulltitle: Meet Tzipora Desmoines, the Eternal Teen-ager and Princess of the Earth
+
 date: 2019-05-27
 tags:
     - post
@@ -15,7 +17,7 @@ image: /images/character.jpg
 
 ---
 {{< button href="https://www.reddit.com/r/characterforge/comments/btfqm8/show_and_tell_meet_tzipora_desmoines_the_eternal/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}

@@ -1,5 +1,7 @@
 ---
-title: Life and Death in Vekllei Apartment Ideology, or “Newda”
+title: Life and Death in Vekllei Apartment Ideology
+fulltitle: Life and Death in Vekllei Apartment Ideology, or “Newda”
+
 date: 2019-12-20
 tags:
     - post
@@ -17,8 +19,8 @@ image: /images/newda.jpg
 
 ### Argument
 
->“A man of the eighteenth century, plunged suddenly into our civilisation, might well have the impression of something akin to a nightmare.”  
->  
+>“A man of the eighteenth century, plunged suddenly into our civilisation, might well have the impression of something akin to a nightmare.”
+>
 >— Frederick Etchells, *Towards a New Architecture.*
 
 Some critics of architecture (and adjacent slugs) deride *Newda* as decadent. It is as incestuous and plastic as most other modernist constructions, they say. It mistakes austerity for utility, and *le blanc* for cleanliness. This is not an unreasonable criticism, especially since foundational Vekllei cultural principles of natural immersion and human decay seem irreconcilable with the white, shining concrete of her modern cityscape. How does a style like *Newda* claim to be anything other than a reckless adoption of continental urbanism for its own sake; a symptom of the social decay we call postwar austerity?

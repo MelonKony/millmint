@@ -1,5 +1,7 @@
 ---
 title: A Tzipora Christmas Story
+fulltitle: A Tzipora Christmas Story
+
 date: 2020-12-26
 tags:
     - post
@@ -21,7 +23,7 @@ draft: false
 
 A chapter she wrote in late November one year resembled her idea of a Christmas story, and so I’ve included a portion here to accompany this picture.
 
---- 
+---
 
 She wrote,
 

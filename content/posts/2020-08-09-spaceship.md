@@ -1,5 +1,7 @@
 ---
-title: The 31st Century — Vekllei throughout our Solar System
+title: The 31st Century
+fulltitle: The 31st Century — Vekllei throughout our Solar System
+
 date: 2020-08-09
 tags:
     - post

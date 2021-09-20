@@ -1,63 +1,40 @@
 ---
 title: Intro
+fulltitle: Welcome to the Epoch of Rest
+emoji: S
+
+tag: UTOPIA
+sitetag: Introduction
+color: pink
+
 weight: 1
+list_posts: false
 
 description: An intro to the world of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
 <style>
-.markdown a {
-color: var(--color-red);
-}
-.markdown a.anchor {
-color: var(--color-red);
-}
-aside nav ul a {
-color: var(--color-red);
-}
-#headerbox .emoji {
-color: var(--color-red);
-}
-
-.markdown img[alt=smallimg]{
-  display: block;
+/* flags */
+.row {
+  display: flex;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
-
-/* coins */
-.row {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  // row background colour fix //
-  .row img {
-    padding: 0;
-    background-color: transparent;
-  }
-
 .column {
   flex: 33.33%;
   padding: 5px;
 }
 @media (max-width: 1250px) {
-    .row {
+  .row {
     display: none;
-    }
   }
+}
+
+.gt-container {
+  display: none;
+}
 </style>
-
-<div id="headerbox">
-  <h1 class="title">Welcome to the Epoch of Rest</i></h1>
-  <h1 class="emoji" id="whirlybat">S</h1>
-</div>
-
-<h5 span class="tag red"> UTOPIA </h5>
-<h6 span class="sitetag">Introduction</h6>
 
 ![Intro GIF](/images/intro.gif)
 

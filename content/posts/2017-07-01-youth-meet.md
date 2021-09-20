@@ -1,5 +1,7 @@
 ---
-title: Tzipora has her photo taken at Youth Meet 2063. Nuclear war in Germany breaks out eight days later.
+title: Tzipora has her photo taken at Youth Meet 2063
+fulltitle: Tzipora has her photo taken at Youth Meet 2063. Nuclear war in Germany breaks out eight days later.
+
 date: 2017-07-01
 tags:
     - post
@@ -12,7 +14,7 @@ keywords:
 image: /images/youthmeet.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/6kgbkb/tzipora_has_her_photo_taken_at_youth_meet_2063/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}
 

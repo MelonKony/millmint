@@ -23,7 +23,7 @@ color: var(--color-teal);
 
 ![img](/images/tziporacon.jpg)
 
-{{< hint warning >}}
+{{< hint yellow >}}
 ❖ This article is about a [**character**](/utopia/intro/#utopia-as-character) who lives in [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 

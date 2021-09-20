@@ -1,5 +1,7 @@
 ---
 title: Village Map of Montre-Lola
+fulltitle: Village Map of Montre-Lola
+
 date: 2020-06-29
 tags:
     - post

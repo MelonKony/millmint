@@ -1,44 +1,26 @@
 ---
-title: "A Universal Nostalgia"
+title: Ghibli
+
+fulltitle: A Universal Nostalgia
+emoji: V
+tag: ESSAY
+sitetag: Newsdesk
+color: blue
+
 weight: 1
 
 description: An essay on spatiality in the films of Studio Ghibli by Hobart Phillips, a utopian illustrator and storyteller.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
-.markdown a {
-color: var(--color-blue);
-}
-.markdown a.anchor {
-color: var(--color-blue);
-}
-aside nav ul a {
-color: var(--color-blue);
-}
-#headerbox .emoji {
-color: var(--color-blue);
-}
-.markdown a:visited {
-color: var(--color-blue);
-}
-</style>
-
-<div id="headerbox">
-  <h1 class="title">A Universal Nostalgia: Spatiality Across Studio Ghibli</h1>
-  <h1 class="emoji" id="whirlybat">V</h1>
-</div>
-
-<h5 span class="tag blue"> ESSAY </h5>
-<h6 span class="sitetag">Newsdesk</h6>
 
 {{< hint blue >}}
 **❖ Note from the Editor**
-This thesis was completed in partial fulfillment of Honours in a Bachelor of Media. It remains a good testament to my love of Ghibli. It was **originally submitted** in **October 2020** and **published** in **December 2020**.
+This thesis was completed in partial fulfillment of Bachelor of Media (Honours). It remains a good testament to my love of Ghibli. It was **originally submitted** in **October 2020** and **published** in **December 2020**.
 {{< /hint >}}
 
 <div style="background-color: var(--gray-100); border-radius: 5px;">
-<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/tzizuku.png">
+<img alt="smallimg" style="background-color: var(--gray-100); border-radius: 5px;" src="/images/mastheads/tzizuku.png">
 </div>
 
 ## Abstract

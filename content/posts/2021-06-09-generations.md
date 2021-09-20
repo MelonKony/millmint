@@ -1,5 +1,7 @@
 ---
 title: Generations
+fulltitle: Generations
+
 date: 2021-06-09
 tags:
 - post

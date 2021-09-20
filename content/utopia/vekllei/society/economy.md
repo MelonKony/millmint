@@ -23,7 +23,7 @@ color: var(--color-red);
 
 ![img](/images/momentsinlove.jpg)
 
-{{< hint warning >}}
+{{< hint yellow >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 

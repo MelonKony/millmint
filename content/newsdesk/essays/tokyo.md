@@ -1,43 +1,22 @@
 ---
-title: "A Cashless Tokyo"
+title: A Cashless Tokyo
+
+fulltitle: A Cashless Tokyo
+emoji: 9
+tag: ESSAY
+sitetag: Newsdesk
+color: blue
+
 weight: 10
 
 description: An essay on visiting Tokyo by Hobart Phillips, a utopian illustrator and storyteller.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
-.markdown a {
-color: var(--color-blue);
-}
-.markdown a.anchor {
-color: var(--color-blue);
-}
-aside nav ul a {
-color: var(--color-blue);
-}
-#headerbox .emoji {
-color: var(--color-blue);
-}
-.markdown a:visited {
-color: var(--color-blue);
-}
-</style>
-
-<div id="headerbox">
-  <h1 class="title">A Cashless Tokyo</h1>
-  <h1 class="emoji" id="whirlybat">9</h1>
-</div>
-
-<h5 span class="tag blue"> ESSAY </h5>
-<h6 span class="sitetag">Newsdesk</h6>
-
 {{< hint blue >}}
-**❖ Note from the Editor**  
+**❖ Note from the Editor**
 This article was **originally published** in **December 2018**. Yes, it’s painfully self-concerned and a little difficult to read back, but for newcomers to the project you might find some “obvious truths” about Vekllei you have not yet encountered.
 {{< /hint >}}
-
-### Life in Tokyo
 
 <span class="fc">I</span>
 **did not come to Tokyo to find a reference for the Petticoat Project**, because utopia does not exist there for me. In fact, by nearly every Vekllei metric, Tokyo is positively dystopian — a consumer paradise of the crushing, isolating modernity Vekllei is supposed to escape. And yet, marks of this city (and this country) are prevalent through Vekllei as a constructed country and my aesthetic as a writer and an artist. I can’t bring myself to love all of Japanese society, but I do love the country and its people. This intersection between traditional utopian world-building (along the lines of *News from Nowhere* or even the original *Utopia*) and the emotional, linear fragments of utopian storytelling which realise the cold encyclopaedia of a utopian world were the focus of my expedition to Japan. The premise of Vekllei society is at odds with so much of Japanese society — yet the emotional, aesthetic culture of the country (what I call the ‘character’ of utopianism) has influenced my media creation tremendously.
@@ -58,7 +37,7 @@ So the material manifestation of Japanese society for me— despite all the glor
 
 And that is to say nothing of the aesthetic qualities of a Japanese city!  Tokyo is a wonderful glimpse of a retro-future as imagined by the 1980s — as though the economic crisis of the 1990s has since suspended time. Japan is clean and modern, but also retrofuturistic. The lifeblood of the city is in rebar and concrete as infrastructure. The people on the street are dressed in conservative items that go without the prudish connotations of similar Western fashion. Working men and women are suited traditionally, many with waistcoats. Such is the visual language of modern Japan. Young men sport tech-wear or innovative types of street-wear dominated by colour and comfort. General women’s fashion leans heavily on items popularly discarded in Western markets, at least until recently. Pleat or patterned skirts, blouses, cardigans, hosiery and socks, loafers and brogues, etc. are very common and provide a wonderful anecdotal rebuff to the outrageous images of ‘Harajuku girls’ and Lolita style that epitomise some ideas of Japanese fashion. The famous ‘sailor uniform’ has been largely phased out of junior and senior high schooling, replaced with Western-style blazers and ties. Tokyo is not ‘behind’ the rest of the world; that is not what it means to be retrofuturistic. In my eyes, it has disembarked from Western technological and fashion attitudes some time ago and has since progressed on its own collective cultural intuition, and has subsequently spent the last few decades exporting media, fashion and culture into the West. It’s a great thing to see in person, at the heart of it all.
 
-Despite my qualms with modern Japanese consumer society, Vekllei is perched on a romanticised and fictitious Japanese aesthetic, and the country is enormously influential on the way I go about world-construction. With one sentence I will denounce the complexity of Japanese honorific language systems and in the other fawn over the mixed agricultural-residential suburbs that make up so much of the land outside of Tokyo’s city limits. Koka parks were inspired by these displays of community food production. The Vekllei Constabulary were created after research and experience with the Japanese Police Box system. Vekllei’s knotted network of trains and streetcars are reminiscent of Tokyo and Hiroshima. For all my public rejection of modern consumer society, and my begrudging participation in it, the Japanese qualities of Vekllei are valuable and are utopian in their own right — and so Tokyo remains one of the most important inspirations of Petticoat Society in the world.   
+Despite my qualms with modern Japanese consumer society, Vekllei is perched on a romanticised and fictitious Japanese aesthetic, and the country is enormously influential on the way I go about world-construction. With one sentence I will denounce the complexity of Japanese honorific language systems and in the other fawn over the mixed agricultural-residential suburbs that make up so much of the land outside of Tokyo’s city limits. Koka parks were inspired by these displays of community food production. The Vekllei Constabulary were created after research and experience with the Japanese Police Box system. Vekllei’s knotted network of trains and streetcars are reminiscent of Tokyo and Hiroshima. For all my public rejection of modern consumer society, and my begrudging participation in it, the Japanese qualities of Vekllei are valuable and are utopian in their own right — and so Tokyo remains one of the most important inspirations of Petticoat Society in the world.
 
 So what of that dichotomy? Of deep ideological incongruities with Japanese consumer society, but an embarrassing affection for the mythological post-war aesthetic and Japanese culture? The truth of it is that Vekllei is first and foremost a collection of stories, and stories are the domain of the emotional. Wonderful, vague images of utopia — like washing corn in My Neighbour Totoro or an all-night writing session in Whisper of the Heart. My time in Tokyo introduced me to a wealth of these nostalgic feelings — of curiosity in a cauldron of social atomisation. Life in Tokyo is not without problems, and it is certainly not my perfect idea of utopia, but the intersection of the culture and promise of Japanese society, either in the past as alt-history or in the future as science fiction, has me coming back time and time again to better realise my own projects of utopia.
 <br>

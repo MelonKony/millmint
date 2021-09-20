@@ -1,5 +1,7 @@
 ---
 title: Blood Names
+fulltitle: Blood Names
+
 date: 2018-06-14
 tags:
     - post
@@ -12,7 +14,7 @@ keywords:
 image: /images/bloodname.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/8r03tc/blood_names/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}

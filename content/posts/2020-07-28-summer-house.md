@@ -1,5 +1,7 @@
 ---
 title: Summer House in the Azores
+fulltitle: Summer House in the Azores
+
 date: 2020-07-28
 tags:
     - post

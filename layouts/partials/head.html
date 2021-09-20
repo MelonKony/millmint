@@ -1,0 +1,83 @@
+<head>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='{{ "favicon.ico" | absURL }}' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+        {{- if eq .Kind "home" -}}
+            {{- print .Site.Title -}}
+        {{- else if eq .Kind "section" -}}
+            {{- print .CurrentSection.Title " - " .Site.Title }}
+        {{- else -}}
+            {{- print .Title " - " .Site.Title -}}
+        {{- end -}}
+    </title>
+
+    {{ with .Description }}
+    <meta name="description" content="{{ . }}" />
+    {{ end }}
+
+    {{ with .Keywords }}
+    <meta name="keywords" content="{{ delimit . "," }}" />
+    {{ end }}
+
+    {{ with (.Scratch.Get "params").author }}
+    <meta name="author" content="{{ . }}" />
+    {{ end }}
+
+    {{ if (.Scratch.Get "params").enableOpenGraph }}
+        {{ template "_internal/opengraph.html" . }}
+    {{ end }}
+
+    {{ if (.Scratch.Get "params").enableTwitterCards }}
+        {{ template "_internal/twitter_cards.html" . }}
+    {{ end }}
+
+    {{- partial "resources/css.html" . -}}
+
+    {{ if (.Scratch.Get "params").gaCode }}
+        {{ template "_internal/google_analytics_async.html" . }}
+    {{ end }}
+
+    {{- if default true .Site.Params.Search -}}
+      {{- $searchJSFile := printf "%s.search.js" .Language.Lang }}
+      {{- $searchJS := resources.Get "search.js" | resources.ExecuteAsTemplate $searchJSFile . | resources.Minify | resources.Fingerprint }}
+      <script defer src="{{ "flexsearch.min.js" | relURL }}"></script>
+      <script defer src="{{ $searchJS.RelPermalink }}" {{ template "integrity" $searchJS }}></script>
+    {{ end -}}
+
+    <!--{{/*  Dark theme: inline in `head` to avoid FOUC  */}}
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+        } else {
+            document.documentElement.classList.remove('dark');
+        }
+    </script>-->
+
+    <!-- Umami Analytics -->
+    <script async defer data-website-id="522641d4-3498-46aa-a5d3-d672b34208e0" src="https://analytics.millmint.net/umami.js"></script>
+
+    <!-- Gitalk Comments -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+    <!-- or -->
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+    <link type="text/css" rel="stylesheet" href="/css/fonts.css" />
+    <link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
+    <link type="text/css" rel="stylesheet" href="/css/nav.css" />
+    <link type="text/css" rel="stylesheet" href="/css/comments.css" />
+
+    <!-- RSS -->
+    {{- with .OutputFormats.Get "rss" -}}
+      {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
+
+    {{- define "integrity" -}}
+      {{- if (urls.Parse .Permalink).Host -}}
+        integrity="{{ .Data.Integrity }}" crossorigin="anonymous"
+      {{- end -}}
+    {{- end -}}
+
+</head>

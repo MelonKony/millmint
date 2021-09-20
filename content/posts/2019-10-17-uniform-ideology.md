@@ -1,5 +1,7 @@
 ---
 title: Uniform Ideology in the Arctic North
+fulltitle: Uniform Ideology in the Arctic North
+
 date: 2019-10-17
 tags:
     - post

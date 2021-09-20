@@ -1,5 +1,7 @@
 ---
 title: Puffin Attack
+fulltitle: Puffin Attack
+
 date: 2019-09-16
 tags:
     - post

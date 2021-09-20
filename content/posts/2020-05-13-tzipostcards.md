@@ -1,5 +1,7 @@
 ---
 title: Announcing Tzipo-stcards
+fulltitle: Announcing Tzipo-stcards
+
 date: 2020-05-13
 tags:
     - post

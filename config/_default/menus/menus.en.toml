@@ -1,0 +1,128 @@
+[[navbar]]
+  identifier = "intro"
+  name = "Intro"
+  url = "/utopia/intro/"
+  weight = 1
+[[navbar]]
+  identifier = "utopia"
+  name = "Utopia"
+  url = "/utopia/vekllei"
+  weight = 2
+  [[navbar]]
+    identifier = "vekllei"
+    name = "Vekllei"
+    url = "/utopia/vekllei/"
+    parent = "utopia"
+    weight = 1
+  [[navbar]]
+    identifier = "characters"
+    name = "Characters"
+    url = "/utopia/characters/"
+    parent = "utopia"
+    weight = 2
+  [[navbar]]
+    identifier = "culture"
+    name = "Culture"
+    url = "/utopia/vekllei/culture"
+    parent = "utopia"
+    weight = 3
+    [[navbar]]
+      identifier = "language"
+      name = "Language"
+      url = "/utopia/vekllei/culture/language"
+      parent = "culture"
+      weight = 1
+    [[navbar]]
+      identifier = "religion"
+      name = "Religion"
+      url = "/utopia/vekllei/culture/religion"
+      parent = "culture"
+      weight = 2
+  [[navbar]]
+    identifier = "landscape"
+    name = "Landscape"
+    parent = "utopia"
+    url = "/utopia/vekllei/landscape"
+    weight = 4
+    [[navbar]]
+      identifier = "boroughs"
+      name = "Boroughs"
+      url = "/utopia/vekllei/landscape/boroughs"
+      parent = "landscape"
+      weight = 1
+  [[navbar]]
+    identifier = "society"
+    name = "Society"
+    parent = "utopia"
+    url = "/utopia/vekllei/society"
+    weight = 5
+    [[navbar]]
+      identifier = "mail"
+      name = "Mail"
+      url = "/utopia/vekllei/society/mail"
+      parent = "society"
+      weight = 1
+    [[navbar]]
+      identifier = "railways"
+      name = "Railways"
+      url = "/utopia/vekllei/society/rail"
+      parent = "society"
+      weight = 2
+[[navbar]]
+  identifier = "newsdesk"
+  name = "Newsdesk"
+  url = "/newsdesk/"
+  weight = 3
+  [[navbar]]
+    identifier = "about"
+    name = "About"
+    url = "/newsdesk/about"
+    parent = "newsdesk"
+    weight = 1
+  [[navbar]]
+    identifier = "bulletin"
+    name = "Bulletin"
+    url = "/newsdesk/bulletin"
+    parent = "newsdesk"
+    weight = 2
+  [[navbar]]
+    identifier = "essays"
+    name = "Essays"
+    url = "/newsdesk/essays"
+    parent = "newsdesk"
+    weight = 3
+    [[navbar]]
+      identifier = "ghibli"
+      name = "A Universal Nostalgia"
+      url = "/newsdesk/essays/ghibli"
+      parent = "essays"
+      weight = 1
+    [[navbar]]
+      identifier = "utopie"
+      name = "Utopie Concrete"
+      url = "/newsdesk/essays/utopie"
+      parent = "essays"
+      weight = 2
+    [[navbar]]
+      identifier = "hong kong"
+      name = "Not Long in Hong Kong"
+      url = "/newsdesk/essays/hongkong"
+      parent = "essays"
+      weight = 3
+    [[navbar]]
+      identifier = "tokyo"
+      name = "A Cashless Tokyo"
+      url = "/newsdesk/essays/tokyo"
+      parent = "essays"
+      weight = 4
+    [[navbar]]
+      identifier = "waugh"
+      name = "Landscapes of Waugh"
+      url = "/newsdesk/essays/waugh"
+      parent = "essays"
+      weight = 5
+[[navbar]]
+  identifier = "posts"
+  name = "Stories"
+  url = "/posts/"
+  weight = 4

@@ -1,5 +1,7 @@
 ---
 title: Too Old for Sleepovers
+fulltitle: Too Old for Sleepovers
+
 date: 2019-02-06
 tags:
     - sketch
@@ -13,7 +15,7 @@ image: /images/sleepover.jpg
 
 ---
 {{< button href="https://www.reddit.com/user/MelonKony/comments/ann0rc/too_old_for_sleepovers/" >}}Archived from the original article here{{< /button >}}
-{{< hint warning >}}
+{{< hint yellow >}}
 
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}

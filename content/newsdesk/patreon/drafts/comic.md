@@ -21,7 +21,7 @@ color: var(--color-orange);
 <h5 span class="tag gray"> COMIC </h5>
 <h6 span class="sitetag">Story</h6>
 
-{{< hint warning >}}
+{{< hint yellow >}}
 ❖ **Tip:** press the black circle in the menu to read in dark mode
 {{< /hint >}}
 {{< hint >}}
