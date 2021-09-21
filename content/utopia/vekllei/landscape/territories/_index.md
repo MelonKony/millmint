@@ -7,7 +7,6 @@ sitetag: Introduction
 color: green
 
 weight: 1
-list_posts: false
 ---
 <style>
 .markdown a {
