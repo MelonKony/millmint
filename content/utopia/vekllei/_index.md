@@ -1,6 +1,6 @@
 ---
 title: Vekllei
-fulltitle: The Utopia of Vekllei
+fulltitle: The Commonwealth of Vekllei
 emoji: -millmint
 tag: UTOPIA
 sitetag: Introduction

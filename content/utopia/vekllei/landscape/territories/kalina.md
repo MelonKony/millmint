@@ -40,20 +40,11 @@ Today, the Kalina Islands are the most populous member of the Vekllei Commonweal
 
 ### Introduction
 
-**Vekllei**, officially the ***Vekllei Commonwealth***, is a society blossoming with contradictions and anachronisms, which reflect and fold into each other to produce new forms of living. The country advocates *laissez-faire* market participation and soviet-style central planning simultaneously; it is the site of a healthy new democracy utterly divorced by public apathy, and a place of midcentury science-worship and automation used to bolster backwardness and agrarian living. This idea carries on and on, cascading throughout all levels of society. This is a nation bound constitutionally to secularism and religious freedoms, described in a document only legible through indigenous spiritualism. This is a culture intent on abolishing commodity-forms through the worship of products. To foreigners, **Vekllei** is a wonderland of contradictions that in conventional imagination would collapse in on each other, yet Vekllei has flourished in postwar independence, quickly rising up amongst the most developed and livable countries in the world.
-
-Such a country deserves observation, then. This document and its subarticles are dedicated to the country of Vekllei and the facts of its utopian dimensions, and hope to illustrate a definitive and contemporary understanding of Vekllei's *Epoch of Rest* (what they call their 'floral period'). This is an illustration of how the beating systems in Vekllei look, the abstract data laid bare. Vekllei has an absurd multidimensionality about it, since it is a country in which all things are singularly perfect in their purity and good-heartedness while applying this qualifier to multiple ideas at the same time. In some ways, Vekllei thrives *because of* rather than *in spite of* these contradictions. This document is a good place to start.
 
 ## 2. Etymology
 
 <span class="fc">T</span>
 **he word** ***Vekllei*** comes from the Islandi-Quutetast fusion dialect called *Topyas* ('Old Vekllei' in English), which was in common use by the 1st Century AD. It comes from the *Topyas* words for "volcanic town," or *Vek*, and "sea under the stars," or *Lei*, meaning "town of the stars by the sea". According to sagas, the name was gifted to the country by a volcanic spirit-god called *Tipet* (most likely present-day *Kesmi*) in the 3rd Century, but was likely a feature of Queen Souisviasn's language reforms during that time.
-
-The word "Vekllei" refers to both the country and the island, and is also pluralised.
-
-Vekllei was first known as *Islandi*, or "Land of Ice" in an extinct Indo-European language documented under the same name in early sagas, but is likely at least partially derived from Algic-Aleutian *Quutetast* word for "snow," *Ismo*. Sagas award Faroese settler Ann Sigfúsdottir with the island's discovery and name, though little else is known of her.
-
-The name *Vekllei* ostensibly applies foremost to the physical landscape of the country, of which the present city-state inherits its name. In addition, the people of Vekllei, language, and all subsequent pluralisations are also *Vekllei*.
 
 
 ## 3. Geography
@@ -64,16 +55,6 @@ The name *Vekllei* ostensibly applies foremost to the physical landscape of the 
 
 {{<columns>}}
 <span class="fc">V</span>
-**ekllei** sits atop the constructive boundary of the Mid-Atlantic ridge, bridging the North American and the Eurasian tectonic plates. The country is also found between the North Atlantic and Arctic oceans, although the entirety of the Home Island is situated beneath the arctic circle. Despite this, the extreme latitude of inhabited areas means daylight is highly seasonal in the country, with dark winters and summer solstices that provide 23 consecutive hours of daylight. This dramatic seasonal environment has ongoing political, economic and cultural relevance in the country today, and contributes to the dependence on hothouses and greenhouses for agriculture throughout the year.
-<--->
-![img](/images/peaks.jpg)
-
-{{</columns>}}
-The unstable Atlantic pressure oscillation, of which Vekllei anchors as the Vekllei Low Pole, can pull in bitter cold from the Greenland currents, or warmth from the Azores tempestuously. This gifts the Home Islands a temperate, though subarctic climate, with average temperatures in summer of about 18-25 degrees centigrade that decline into an annual mean low of approximately 10 degrees in the Capital Region. The good weather and seasonal daylight inform Vekllei's animistic spiritualism, with festivals to mark both solstices.
-
-Vekllei sits between North American and Continental European territories, but is usually regarded as independent of both because of its central position in the North Atlantic and its peripheral possessions, which include *Kala* (Greenland) and the *Aismious Islands* (Faroe Islands). Because of its volcanic origins and position above the *Earth's Great Kiss* (the Mantle Plume), Vekllei remains highly volcanic and several volcanoes remain active in the country. The world's newest island, *Liyra*, was formed in 2056 off Vekllei's South Coast.
-
-Vekllei is the world's 18th largest island, and has significant biological and climate diversity for a landmass of its size. Southern Vekllei is wet, seasonal and temperate, populated mostly by temperate rainforests and spruce forests. Vekllei's glacial interior is dominated by flower-tundras, called *Ro*, and barren vegetation consisting mostly of grasslands, plains, and isolated woodland. Lava fields, mountains and massive freshwater glaciers are also common throughout the middle and east of the country. Vekllei's north is dry and subarctic, and receives heavy snowfall and ice in winter months. The entire Home Islands are marked by dramatic volcanic landscapes of steep igneous rock, valleys and glacial monuments. Vekllei has some of the tallest waterfalls in the world. The country has the highest number of flowers per capita in the world.
 
 ## 4. Politics
 
@@ -83,14 +64,14 @@ Vekllei is the world's 18th largest island, and has significant biological and c
 **Politics** in Vekllei are characterised by postwar constitutional values of nonpartisan democracy and transparency of power. Vekllei people are, as evidenced by voter turnouts, often apolitical in nature. This is because political concern in Vekllei is aestheticised and treated similarly to petty commodity; as a feature of life, but fundamentally participatory. In truth, at least with regards to domestic concern, Vekllei's daily affairs are basically autonomous, and politics remains the concern of an educated, invested class of people.
 {{< /hint >}}
 
-<span class="fc">V</span>
-ekllei is a unitary city-state and nonpartisan parliamentary democracy, divided into crown lakes, boroughs and provincial administrative divisions. It retains the territory of Vekllei as a sovereign of the country, in keeping with *Upen*, but otherwise the prime ministers have equal executive power, with disputes mediated by the Crown Senate. Vekllei retains a parliamentary system as a legacy of British occupation, but has since developed several indigenous features including its land-sovereign and twin ministership. The Vekllei system also incorporates American political features, including a constitution and bicameral house system.
+<span class="fc">K</span>
+alina shares the Vekllei city-state's unusual parliamentary system and geographic electoral districts. The country is independent, but like other full members of Commonwealth it shares much of its constitutionalial legislature and state structure with the Vekllei city-state. 
 
-Vekllei's government is portioned between three branches:
 
-* **The Legislature**, represented by Vekllei's bicameral parliament and the landscape sovereign.
-* **The Executive**, represented by the prime ministers and the elected ministerial cabinet.
-* **The Judiciary**, represented by the High Court and Constitutional Court of Vekllei, whose judges are appointed by the lower house and cabinet.
+
+### The Vekllei Commonwealth
+
+The Commonwealth of Vekllei is a multinational ideological, political, defence and trading bloc that includes the Vekllei City State, Kala, Aismious, Demon, Azores, Mira, and Kalina. It includes territories of the Vekllei city-state (Kala, Aismious, Demon) and independent countries (Azores, Mira, Kalina) that are closely aligned with postwar Floral constitutional principls and Bureau economics. 
 
 Vekllei uses a Hare-Clark single transferable vote system to elect two prime ministers, one man and one woman, the only such system in the world. Vekllei has a bicameral legislature, consisting of an upper house (the *Crown Senate*) of 100 senators and a lower house (*People's Assembly*) of 200 members. Although voting is participatory and the country does not maintain a poll tax, electoral enrolment is mandatory from age 16 onwards.
 
