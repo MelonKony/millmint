@@ -49,12 +49,10 @@ Today, the Kalina Islands are the most populous member of the Vekllei Commonweal
 
 ## 3. Geography
 
-{{< hint panel >}}
-**Vekllei** is an ancient country of striking geological monument. A landscape of igneous rock and lava flows, Vekllei's dramatic geology is tempered by its healthy abundance of rainforests and flower-tundras, which paint the country in soft mossy hues of green and yellow.
-{{< /hint >}}
+<span class="fc">K</span>
+alina is tropical and partially volcanic, incorporating hundreds of islands and islets that form a boundary between the Caribbean Sea and the Atlantic Ocean. Kalina comprises most of the Leeward Islands of the Lesser Antilles, and is composed mostly of low-lying tropical islands ranging in size from a few hundred square kilometres to sand reefs. 
 
-{{<columns>}}
-<span class="fc">V</span>
+Montesur is actively volcanic, and sees minor eruptions every few years.
 
 ## 4. Politics
 
@@ -65,7 +63,9 @@ Today, the Kalina Islands are the most populous member of the Vekllei Commonweal
 {{< /hint >}}
 
 <span class="fc">K</span>
-alina shares the Vekllei city-state's unusual parliamentary system and geographic electoral districts. The country is independent, but like other full members of Commonwealth it shares much of its constitutionalial legislature and state structure with the Vekllei city-state. 
+alina shares the Vekllei city-state's unusual parliamentary system and geographic electoral districts. The country is independent, but like other full members of Commonwealth it shares much of its constitutional legislature and state structure with the Vekllei city-state. The Armed Forces of the Commonwealth of Vekllei are responsible for defence of Kalina, which is positioned strategically in the Caribbean and hosts several important military facilities throughout its island chains. 
+
+
 
 
 
