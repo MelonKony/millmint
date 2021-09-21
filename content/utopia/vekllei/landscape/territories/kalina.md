@@ -71,7 +71,7 @@ alina shares the Vekllei city-state's unusual parliamentary system and geographi
 
 ### The Vekllei Commonwealth
 
-The Commonwealth of Vekllei is a multinational ideological, political, defence and trading bloc that includes the Vekllei City State, Kala, Aismious, Demon, Azores, Mira, and Kalina. It includes territories of the Vekllei city-state (Kala, Aismious, Demon) and independent countries (Azores, Mira, Kalina) that are closely aligned with postwar Floral constitutional principls and Bureau economics. 
+The Commonwealth of Vekllei is a multinational ideological, political, defence and trading bloc that includes the Vekllei City State, Kala, Aismious, Demon, Azores, Mira, and Kalina. It includes territories of the Vekllei city-state (Kala, Aismious, Demon) and independent countries (Azores, Mira, Kalina) that are closely aligned with postwar Floral constitutional principls and Bureau economics. In this sense, most of the commonwealth closely resemble Vekllei's society.
 
 Vekllei uses a Hare-Clark single transferable vote system to elect two prime ministers, one man and one woman, the only such system in the world. Vekllei has a bicameral legislature, consisting of an upper house (the *Crown Senate*) of 100 senators and a lower house (*People's Assembly*) of 200 members. Although voting is participatory and the country does not maintain a poll tax, electoral enrolment is mandatory from age 16 onwards.
 
