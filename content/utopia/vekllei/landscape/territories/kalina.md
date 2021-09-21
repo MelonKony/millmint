@@ -1,53 +1,34 @@
 ---
 title: Kalina
-weight: 3
+
+fulltitle: The Commonwealth of Kalina
+emoji: ←
+tag: LANDSCAPE
+sitetag: Boroughs
+color: green
+
+weight: 1
 bookHidden: true
-bookSearchExclude: true
+
+description: The Commonwealth of Kalina is an administrative region of the Commonwealth of Vekllei, a utopian country created by Hobart Phillips.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
-.markdown a {
-color: var(--color-green);
-}
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-.markdown a:visited {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-</style>
-
-<div id="headerbox">
-  <h1 class="title">The Crown Lake of Kalina</h1>
-  <h1 class="emoji" id="whirlybat">-jelly</h1>
-</div>
-
-<h5 span class="tag green"> UTOPIA </h5>
-<h6 span class="sitetag">Landscape</h6>
 
 ![img](/images/marinerailway.jpg)
 
 {{< hint green >}}
-߷ This article is about an [**overseas territory**](/utopia/vekllei/#administrative-divisions) of [**Vekllei**](/utopia/vekllei)
+߷ This article is about an [**overseas commonwealth**](/utopia/vekllei/#administrative-divisions) [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
 ## 1. Overview
 
 {{< hint panel >}}
-**Vekllei** is the utopian landscape of Hobart's ongoing Petticoat Project. Set ostensibly in Iceland, the history and geography of this country is radically different from our own, and welcomes an open exploration of new systems of living through a flexible alternate history.
+**Although Vekllei** comprises several independent commonwealths, most notably the island city-state to which it owes its name, the Commonwealth of Vekllei also includes several autonomous nations. The largest of these is a tropical archipelago of the Lesser Antilles named **Kalina**.
 {{< /hint >}}
 
-<span class="fc">V</span>
-**ekllei** (also ***The Vekllei Commonwealth***, ***Islandi***, ***Iceland***) is a sovereign island country situated in the northern Atlantic, between Greenland and the Faroe Islands. Besides the 100 boroughs of the conterminous Vekllei city-state (referred to as the **Home Island** or **Crown Metropole**), Vekllei includes two autonomous territories, six crown territories and various possessions including over a hundred satellite islands and islets. It is the 14th most densely-populated country in the world, with a population of 24.4 millions mostly situated around the Capital Region in the south-west of the Home Island. Its capital and largest city is Vekllei in the Capital Region, which is home to two-thirds of the total population. The interior plateau of the Home Island consists of sand and lava fields, flower-tundras, glaciers, and temperate rainforests, and its lowlands are home to many glacial rivers.
-
-The Home Island has been inhabited for at least four thousand years by Arctic peoples migrating from Kalalist (Greenland). Evidence of European settlement in Vekllei can be determined from unearthed fishing towns dated to 1230BC, when settlers from Ireland established fishing communities along the southern coast. Subsequent centuries saw rapid growth of the local population, which was politically and culturally isolated from mainland Europe by the 6th Century BC. By the 4th Century BC, many contemporary cultural features of the country had become commonplace, including an early form of [Upen](/utopia/vekllei/religion) and [Vekllei logographs](/utopia/vekllei/language/#3-topet). During the following millennia Vekllei developed into a major economic and military power, but saw its influence decline between the 12th and 15th Centuries AD during the Period of Rest.
-
-![img](/images/map.jpg)
+<span class="fc">K</span>
+**alina** (commonly ***The Kalina Islands***) is an autonomous commonwealth island chain situated in the Antilles, situated south-east of the British Virgin Islands and north of Guadaloupe, Vekllei includes two autonomous territories, six crown territories and various possessions including over a hundred satellite islands and islets. It is the 14th most densely-populated country in the world, with a population of 24.4 millions mostly situated around the Capital Region in the south-west of the Home Island. Its capital and largest city is Vekllei in the Capital Region, which is home to two-thirds of the total population. The interior plateau of the Home Island consists of sand and lava fields, flower-tundras, glaciers, and temperate rainforests, and its lowlands are home to many glacial rivers.
 
 During Vekllei's Middle Period, the country was struck by civil unrest that escalated into civil war, which installed the Aismo Desimou as the first King of Vekllei. The monarchy succeeded until Vekllei's colonial Late Period, which fell to a navy coup d'etat that installed a military junta in government, which rapidly expanded Vekllei's colonial holdings. This practice would continue well into the 20th Century, and would spark the Africa Wars and Vekllei's atomic bombing by the United Kingdom in 2005, which collapsed the existing regime and ushered in British occupation of the country.
 
