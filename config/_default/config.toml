@@ -1,4 +1,4 @@
-baseURL = "https://beta.millmint.net"
+baseURL = "https://millmint.net"
 languageCode = "en"
 title = "MillMint"
 theme = "hugo-theme-monochrome"
