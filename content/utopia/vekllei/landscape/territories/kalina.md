@@ -18,7 +18,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ![img](/images/marinerailway.jpg)
 
 {{< hint green >}}
-߷ This article is about an [**overseas commonwealth**](/utopia/vekllei/#administrative-divisions) [**Vekllei**](/utopia/vekllei)
+߷ This article is about an [**overseas member of the commonwealth**](/utopia/vekllei/#administrative-divisions) of [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
 ## 1. Overview
