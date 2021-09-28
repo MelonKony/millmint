@@ -43,31 +43,18 @@ Today, the Kalina Islands are the most populous member of the Vekllei Commonweal
 
 ## 2. Etymology
 
-<span class="fc">T</span>
-**he word** ***Vekllei*** comes from the Islandi-Quutetast fusion dialect called *Topyas* ('Old Vekllei' in English), which was in common use by the 1st Century AD. It comes from the *Topyas* words for "volcanic town," or *Vek*, and "sea under the stars," or *Lei*, meaning "town of the stars by the sea". According to sagas, the name was gifted to the country by a volcanic spirit-god called *Tipet* (most likely present-day *Kesmi*) in the 3rd Century, but was likely a feature of Queen Souisviasn's language reforms during that time.
 
 
 ## 3. Geography
 
-<span class="fc">K</span>
-alina is tropical and partially volcanic, incorporating hundreds of islands and islets that form a boundary between the Caribbean Sea and the Atlantic Ocean. Kalina comprises most of the Leeward Islands of the Lesser Antilles, and is composed mostly of low-lying tropical islands ranging in size from a few hundred square kilometres to sand reefs. 
+Kalina is tropical and partially volcanic, incorporating hundreds of islands and islets that form a boundary between the Caribbean Sea and the Atlantic Ocean. Kalina comprises most of the Leeward Islands of the Lesser Antilles, and is composed mostly of low-lying tropical islands ranging in size from a few hundred square kilometres to sand reefs. 
 
 Montesur is actively volcanic, and sees minor eruptions every few years.
 
 ## 4. Politics
 
-![img](/images/railmap.jpg)
-
-{{< hint panel >}}
-**Politics** in Vekllei are characterised by postwar constitutional values of nonpartisan democracy and transparency of power. Vekllei people are, as evidenced by voter turnouts, often apolitical in nature. This is because political concern in Vekllei is aestheticised and treated similarly to petty commodity; as a feature of life, but fundamentally participatory. In truth, at least with regards to domestic concern, Vekllei's daily affairs are basically autonomous, and politics remains the concern of an educated, invested class of people.
-{{< /hint >}}
-
 <span class="fc">K</span>
 alina shares the Vekllei city-state's unusual parliamentary system and geographic electoral districts. The country is independent, but like other full members of Commonwealth it shares much of its constitutional legislature and state structure with the Vekllei city-state. The Armed Forces of the Commonwealth of Vekllei are responsible for defence of Kalina, which is positioned strategically in the Caribbean and hosts several important military facilities throughout its island chains. 
-
-
-
-
 
 ### The Vekllei Commonwealth
 
@@ -77,60 +64,7 @@ Vekllei uses a Hare-Clark single transferable vote system to elect two prime min
 
 Since Vekllei is nonpartisan, it does not allow formal participation of parties within elections. Despite this, informal associations of elected representatives exist, in the form of *sociopartit*, or *Party Associations*. The largest of these include the Vekllei Industrial Working Concern, the Atlantic Party, and the Crown Brotherhood, and although membership is permitted among elected members they are otherwise disallowed within the electoral process.
 
-### Administrative divisions
-
-![img](/images/territories.jpg)
-
-{{< hint green >}}
-❖ See also: *[Boroughs of Vekllei](/utopia/vekllei/landscape/boroughs)*
-{{< /hint >}}
-
-Although Vekllei is unitary politically and considers itself a city-state, the Home Islands are divided geographically between 100 boroughs (as part of the *borough system*). Each borough is proportional to the land-sovereign's natural wealth, which accounts for its history, folklore and natural features. Because of this, the human population of boroughs is highly disproportionate, the smallest being [Bakur](/utopia/vekllei/boroughs/bakur), in the Afouismeh region, with a population of 7,500 people, and the largest being Vekllei proper, in the Capital Region, of 2.4 millions.
-
-Each borough elects a **Senator** and two **House Members**. Overseas **Crown Lakes** territories vote in ministerial elections but do not vote for legislative members, and semiautonomous territories maintain their own parliaments.
-
-1. **Crown Lakes**, or *Kronaislagaisdelfia*, are governmental territories of human concern, analogous to public land or federal territory overseas.
-2. **Crown Land**, or *Kronaismioudelfia*, are nongovernmental territories of natural reservation. Although similar in some ways to nature reserves or national parks, their legal status in Vekllei is somewhat more complex; although *de facto* part of the country, the government does not recognise human sovereignty over these regions, a feature inherited from [Upen](/utopia/vekllei/religion).
-3. **Boroughs**, or *Baras*, are administrative regions in Vekllei named for their largest population centres. They form the basic subdivision of Vekllei territory and also constitute voting regions in the electoral system.
-4. **Provinces**, or *Piousvincinia*, are the territories in Vekllei's possession outside of the Home Islands. Most notably these include *Kala* (Greenland), the *Aismious Islands* (Faroe Islands), the *Kalina Isles* and the *Azores*. As inhabited provinces, both *Kala* and the *Azores* are considered semiautonomous territories, under purview of the *Kala People's Assembly* and the *Azores Holiday Government* respectively. The *Aismious* province and various other territories are considered *Crown Lakes*. Vekllei also retains over a hundred satellite islands and islets, most as *Crown Lands*.
-
-In total, Vekllei's various possessions and administrative systems can be argued for as a form of federalism, though in practice more closely resembles a canton system or disparate republic.
-
-### Floral Society
-
-**Floral Society** is the informal Vekllei phrase for the postwar Vekllei state, distinguishing it from the prewar junta and monarchy. The new period is characterised by democratisation and widespread personal freedoms, but has also recalled traditional cultural history into contemporary Vekllei life. Since the war, Vekllei has been marked by rapid change, and Floral Society's growing cultural legacy, which continues to distance it from the prewar period.
-
-{{<columns>}}
-#### Petticoat constitution
-
-The **Petticoat Constitution** (officially the ***Constitution of Vekllei***) is Vekllei's founding constitutional document since independence, and remains a core political and cultural factor in the country. It provides for "Atlantic-style democracy," free association and press, and a nonpartisan judicial system among other things.
-
-The Constitution is underlined by four principles of postwar Vekllei life, outlined as follows:
-
-1. **Self-management** and **self-interest** through Sundress Municipalism.
-2. Classification of property as an **independent social organ** of the landscape-sovereign.
-3. **Abolishment of currency** and currency-substitutes.
-4. **Economic feminisation**.
-
-These features manifest in various forms throughout modern Vekllei, including its moneylessness, place-metaphysics, and personal freedoms. Its association with the Rebirth of Vekllei, characterised as female in [Upen](/utopia/vekllei/religion), gave the document its colloquial name *Petticoat Constitution*, after its provisions for women in democratic Vekllei society.
-
-<--->
-
-#### Sundress Municipalism
-
-**Sundress Municipalism** is the way in which Vekllei settlements are organised within boroughs, and informs the way in which cities are built. Vekllei has an indigenous architecture ideology, called *Newda*, which conforms to planning and lifestyle principles laid out in *Sundress Municipalism*. The principles themselves are often represented as a seven-pointed star, with each point marking a principle. They are as follows:
-
-1. Local employment, or "commutelessness."
-2. Slumlessness, beautification, and a will to architecture.
-3. Property stewardship.
-4. Open air and clean water.
-5. Land usefulness ("*friendliness*").
-6. Private ownership of private needs.
-7. Public ownership of public needs.
-
-*Sundress Municipalism* folds into broader conceptual ideas indigenous to Vekllei about space and ownership, found throughout its political system (as in the landscape sovereign) and its economy (as in product atheism). To this end, most ongoing construction and civic planning in the country invoke *Sundress Municipalism* as a framework.
-
-{{</columns>}}
+### Petticoat Society in the Tropics
 
 ## 5. Economy
 
