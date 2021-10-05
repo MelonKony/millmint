@@ -96,6 +96,9 @@
 
       if (cleanedContent.includes(cleanedQuery)) {
         const index = cleanedContent.indexOf(cleanedQuery)
+
+        // Get 20 characters before the word and 30 characters after the word
+        // That way it looks better and provides context. These numbers can be tweaked
         const startIndex = index - 20
         const endIndex = index + input.value.length + 30
         
@@ -105,7 +108,6 @@
           .split(' ') // Split it into words
           .slice(1, -1) // Remove "non-words" (words that might just be part of a word, or dots, or whatever)
           .join(' ') // Rejoin the words
-
 
         span.innerHTML = relevantText.replace(new RegExp(cleanedQuery, 'gi'), '<mark>$&</mark>') + '...';
       }
