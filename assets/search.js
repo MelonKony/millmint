@@ -10,7 +10,7 @@
     doc: {
       id: 'id',
       field: ['title', 'content'],
-      store: ['title', 'href', 'section']
+      store: ['title', 'href', 'section','content']
     }
   });
 
@@ -75,14 +75,40 @@
       return;
     }
 
-    const searchHits = window.bookSearchIndex.search(input.value, 10);
+    const searchHits = window.bookSearchIndex.search(input.value, 10)
     searchHits.forEach(function (page) {
-      const li = element('<li><a href></a><small></small></li>');
-      const a = li.querySelector('a'), small = li.querySelector('small');
+      const li = element('<li><a href></a><small></small><span class="found"></span></li>');
+      const a = li.querySelector('a'), small = li.querySelector('small'), span = li.querySelector('span');
+
+      console.log(page)
 
       a.href = page.href;
       a.textContent = page.title;
       small.textContent = page.section;
+
+      function clean(str) {
+        return str.toLowerCase()
+      }
+
+      // Try finding the input's value in the content
+      const cleanedContent = clean(page.content)
+      const cleanedQuery = clean(input.value)
+
+      if (cleanedContent.includes(cleanedQuery)) {
+        const index = cleanedContent.indexOf(cleanedQuery)
+        const startIndex = index - 20
+        const endIndex = index + input.value.length + 30
+        
+        // Find the relevant text and make it a bit prettier by removing the letters at the start and end
+        const relevantText = page.content
+          .slice(startIndex, endIndex) // Get some text around the search term
+          .split(' ') // Split it into words
+          .slice(1, -1) // Remove "non-words" (words that might just be part of a word, or dots, or whatever)
+          .join(' ') // Rejoin the words
+
+
+        span.innerHTML = relevantText.replace(new RegExp(cleanedQuery, 'gi'), '<mark>$&</mark>') + '...';
+      }
 
       results.appendChild(li);
     });
