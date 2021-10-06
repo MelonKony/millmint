@@ -10,7 +10,7 @@
     doc: {
       id: 'id',
       field: ['title', 'content'],
-      store: ['title', 'href', 'section']
+      store: ['title', 'href', 'section','content']
     }
   });
 
@@ -75,14 +75,42 @@
       return;
     }
 
-    const searchHits = window.bookSearchIndex.search(input.value, 10);
+    const searchHits = window.bookSearchIndex.search(input.value, 10)
     searchHits.forEach(function (page) {
-      const li = element('<li><a href></a><small></small></li>');
-      const a = li.querySelector('a'), small = li.querySelector('small');
+      const li = element('<li><a href></a><small></small><span class="found"></span></li>');
+      const a = li.querySelector('a'), small = li.querySelector('small'), span = li.querySelector('span');
 
       a.href = page.href;
       a.textContent = page.title;
       small.textContent = page.section;
+
+      function clean(str) {
+        return str.toLowerCase()
+      }
+
+      // Try finding the input's value in the content
+      const cleanedContent = clean(page.content)
+      const cleanedQuery = clean(input.value)
+
+      if (cleanedContent.includes(cleanedQuery)) {
+        const index = cleanedContent.indexOf(cleanedQuery)
+
+        // Get 20 characters before the word and 30 characters after the word
+        // That way it looks better and provides context. These numbers can be tweaked
+        const startIndex = Math.max(index - 20, 0) // Make sure we don't go before the beginning of the string
+        const endIndex = Math.min(index + input.value.length + 30, cleanedContent.length) // Make sure we don't go past the end of the string
+        
+        // Find the relevant text and make it a bit prettier by removing the letters at the start and end
+        const relevantText = page.content
+          .slice(startIndex, endIndex) // Get some text around the search term
+          .split(' ') // Split it into words
+          // Remove "non-words" (words that might just be part of a word, or dots, or whatever)
+          // Also take account of the indices so we don't remove the first or last word if the match starts or ends there
+          .slice(startIndex > 0 ? 1 : 0, endIndex < page.content.length - 30 ? -1 : undefined)
+          .join(' ') // Rejoin the words
+
+        span.innerHTML = relevantText.replace(new RegExp(cleanedQuery, 'gi'), '<mark>$&</mark>') + '...';
+      }
 
       results.appendChild(li);
     });
