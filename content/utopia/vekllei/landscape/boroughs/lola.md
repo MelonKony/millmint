@@ -32,7 +32,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 ## Etymology
 
-**Lola** is the spirit-god of the sea in [Upen](/utopia/vekllei/culture/religion) mythology, and is generally considered Vekllei's most important living spirit. Since Vekllei is an island country with a historical dependence on the oceans around it, Lola has long blessed Vekllei with plentiful fish stocks and, beginning in the 19th Century, an improving temperate climate via the Atlantic Gulf Stream. The fact that one of Vekllei's oldest boroughs has inherited her name indicates the importance the spirit-god has had on Vekllei's history and also the age of the borough of Lola itself. Lola is the historical name 
+**Lola** is the spirit-god of the sea in [Upen](/utopia/vekllei/culture/religion) mythology, and is generally considered Vekllei's most important living spirit. Since Vekllei is an island country with a historical dependence on the oceans around it, Lola has long blessed Vekllei with plentiful fish stocks and, beginning in the 19th Century, an improving temperate climate via the Atlantic Gulf Stream. The name Lola appears throughout Vekllei, though the borough predates its use elsewhere.
 
 ## History
 
