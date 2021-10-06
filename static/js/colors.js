@@ -14,14 +14,16 @@ window.addEventListener("load", () => {
 });
 
 function getColors(img) {
-	var vibrant = new Vibrant(img, 10);
-    var swatches = vibrant.swatches()
+	const vibrant = new Vibrant(img, 10);
+    const swatches = vibrant.swatches()
 
 	const key = "Vibrant"
     setBackgroundColor(swatches[key].rgb)
 }
 
 function setBackgroundColor(rgb) {
+
+	document.querySelector(`[name="theme-color"]`).setAttribute('content', rgba(...rgb, 0.4))
 
 	const bodyBg = rgba(...rgb, 0.1);
 	const bg = `rgba(${rgb.join(', ')}, 0.1)`
