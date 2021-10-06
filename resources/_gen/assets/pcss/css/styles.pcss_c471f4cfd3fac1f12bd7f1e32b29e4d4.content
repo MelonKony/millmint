@@ -730,8 +730,9 @@ padding-top: 5px;
 .book-search .found:not(:empty) {
   display: block;
   padding: 3px;
-  border-left: 1px solid black;
-  opacity: 0.5;
+  padding-left: 8px;
+  border-left: 1px solid #000;
+  opacity: .5;
   font-size: 80%;
 }
 
