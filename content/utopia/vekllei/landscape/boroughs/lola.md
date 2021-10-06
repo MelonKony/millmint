@@ -86,11 +86,11 @@ As a coastal borough, Lola is home to the historical Port of Vekllei, one of Vek
 
 ### Vekllei Naval Yards
 
-The Vekllei Naval Yards are the primary drydocks, nuclear refueling facility and ship construction base of the Royal Navy of the Vekllei Commonwealth. The Naval Yards make up some 12 city blocks in the neighbourhood of Hosfyourd in Nismisn Bay, and are primarily tasked with maintaining Vekllei's bluewater naval vessels and aircraft carriers. Adjacent to the Naval Yards are firms contracted by the Commonwealth Navy, including Dze S.q.M. and Propeller S.q.M. The facility is also home to the Vekllei Naval Museum, which includes preserved examples of Late Period sailing ships and Vekllei's first nuclear destroyer, the R.C.S. *Desimousves*.
+The Vekllei Naval Yards are the primary drydocks, nuclear refueling facility and ship construction base of the Royal Navy of the Vekllei Commonwealth. The Naval Yards make up some 12 city blocks in the neighbourhood of Hosfyourd in Nismisn Bay, and are primarily tasked with maintaining Vekllei's bluewater naval vessels and aircraft carriers. Adjacent to the Naval Yards are firms contracted by the Commonwealth Navy, including Dze S.q.M. and Propeller S.q.M. The facility is also home to the Vekllei Naval Museum, which features preserved examples of Late Period sailing ships and Vekllei's first nuclear destroyer, the R.C.S. *Desimousves*.
 
 ### Government House
 
-The Government House is a building located in Altanehs nearby to the ruins of the Palace of the Commonwealth. It was part of Vekllei's People's Assembly during the Junta period, a minor legislative advisory body to the autocratic regime of that time. It is not the oldest such structure in Vekllei -- the Parliament House in Althing predates the construction of the Government House by nearly 600 years. Still, it remains next to the Palace of the Commonwealth as a physical legacy of Junta's long rule, and is preserved as a museum of the Late Period.
+Government House is a building located in Altanehs, near the ruins of the Palace of the Commonwealth. It was part of Vekllei's People's Assembly during the Junta period, a minor legislative advisory body to the autocratic regime of that time. It is not the oldest such structure in Vekllei -- the Parliament House in Althing predates the construction of Government House by nearly 600 years. Still, it remains next to the Palace of the Commonwealth as a physical legacy of Junta's long rule, and is preserved as a museum of the Late Period.
 
 ### Vekllei Cenotaph
 
@@ -104,11 +104,11 @@ The Royal is ranked among the world's most luxurious hotels and is a subject of 
 
 ### Fiara Heavy Machines S.q.M.
 
-Fiara Heavy Machines is a manufacturer of heavy equipment and coachworks located in the neighbourhood of Seispri. Its factory complex covers four city blocks and borders the Lola Canal, where much of its product is shipped out to the port in Great Bay. Fiara specialises in custom orders for speciality vehicles and factory configurations, including articulating fire tenders and automatic factory systems. It is also a major exporter on the Vekllei International Market and sees a lot of trade with Western Europe.
+Fiara Heavy Machines is a coachworks and manufacturer of heavy equipment located in the neighbourhood of Seispri. Its factory complex covers four city blocks and borders the Lola Canal, where much of its product is shipped out to the port in Great Bay. Fiara specialises in custom orders for speciality vehicles and factory configurations, including articulating fire tenders and automatic factory systems. It is also a major exporter on the Vekllei International Market and sees a lot of trade with Western Europe.
 
 ### Camro Bath District
 
-The abundance of volcanic springs in the neighbourhood of Camro has encouraged Vekllei people to bathe there for over a thousand years. These springs are now at the centre of the Camro Bath district, an area of the neighbourhood famous for its bath houses. These includes the Atlantic Baths, its most prestigious institution, as well as themed and roman-style bathing facilities. These baths are tremendously popular among locals, who often travel between boroughs to reach them for the quality of their facilities and superstition of the geothermal pools.
+The abundance of volcanic springs in the neighbourhood of Camro has encouraged Vekllei people to bathe there for over a thousand years. These springs are now at the centre of the Camro Bath district, an area of the neighbourhood famous for its bath houses. These include the Atlantic Baths, its most prestigious institution, as well as themed and roman-style bathing facilities. These baths are tremendously popular among locals, who often travel between boroughs to reach them for the quality of their facilities and superstition of the geothermal pools.
 
 ### Lola Magma-Electric Cogeneration Plants
 
