@@ -64,7 +64,7 @@ Lola in the contemporary Floral Period is a borough of hills and narrow, prewar 
 
 Lola is coastal and low-lying, and is made up of peninsulas, islands, islets, coves and straights. During the Ice Age, it was covered by a glacier. The borough is threatened by rising seas, volcanic eruptions and earthquakes. 
 
-The neighbourhoods of Lola cover almost all of the borough, with no contemporary Crown Lands. The borough does feature substantial parkland in the neighbourhoods of Seispri, Alveg and Geofyourd, which extent up into the Esja Mountains.
+The neighbourhoods of Lola cover almost all of the borough, which has no contemporary Crown Lands. The borough does feature substantial parkland in the neighbourhoods of Seispri, Alveg and Geofyourd, which extent up into the Esja Mountains.
 
 The climate is coastal and temperate, seeing mean temperatures of 20C in summer and about 5C in winter. Snow settles in Lola for one or two weeks in the winter, and for most of the season in the Esja Mountains.
 
