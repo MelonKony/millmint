@@ -587,17 +587,29 @@ html {
 
 ::-moz-placeholder {
   font-size: 14px;
-  pading-left: 10px;
+  color: var(--color-gray) !important;
 }
 
 :-ms-input-placeholder {
   font-size: 14px;
-  pading-left: 10px;
+  color: var(--color-gray) !important;
 }
 
 ::placeholder {
   font-size: 14px;
-  pading-left: 10px;
+  color: var(--color-gray) !important;
+}
+
+#navbar a {
+  color: var(--color-gray);
+}
+
+#navbar .flex svg path:not([fill]) {
+  fill: var(--color-gray);
+}
+
+body header .navbar-item-dropdown.insection, body header nav .navbar-item.insection {
+  border-color: var(--color-gray);
 }
 
 input {
@@ -1221,6 +1233,10 @@ body {
 
 .dark body {
   background-color: #333333;
+}
+
+body {
+  background: var(--bg, white);
 }
 
 body header .navicon {
