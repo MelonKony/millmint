@@ -80,8 +80,6 @@
       const li = element('<li><a href></a><small></small><span class="found"></span></li>');
       const a = li.querySelector('a'), small = li.querySelector('small'), span = li.querySelector('span');
 
-      console.log(page)
-
       a.href = page.href;
       a.textContent = page.title;
       small.textContent = page.section;
