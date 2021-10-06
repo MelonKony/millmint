@@ -14,7 +14,7 @@ window.addEventListener("load", () => {
 });
 
 function getColors(img) {
-	var vibrant = new Vibrant(img);
+	var vibrant = new Vibrant(img, 10);
     var swatches = vibrant.swatches()
 
 	const key = "Vibrant"
