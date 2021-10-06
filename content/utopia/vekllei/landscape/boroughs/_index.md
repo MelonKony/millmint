@@ -36,6 +36,8 @@ A Vekllei [borough](/utopia/vekllei/#administrative-divisions) is an unusual adm
 
 ## Capital Region
 
+[Lola](/utopia/vekllei/landscape/boroughs/lola)
+
 [Mumen](/utopia/vekllei/landscape/boroughs/mumen)
 
 [Voya Voya](/utopia/vekllei/landscape/boroughs/voya-voya)
