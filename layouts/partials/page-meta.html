@@ -1,6 +1,14 @@
 <div>
   <div>
     <div>
+      
+      {{ if .Params.rgb }}
+      <div data-page-color="{{ .Params.rgb }}" style="display: none"></div>
+      {{else}}
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+      {{ end }}
+      <script src="/js/colors.js"></script>
+
       <div class="headerbox">
         <h1 class="title {{ .Params.Color }}" style="line-height: 1.2; font-size: 1.5rem; font-weight: 800; margin-bottom: 1rem; filter: brightness(35%);">{{ if .Params.fulltitle }}{{ .Params.fulltitle }}</h1>
         {{ end }}

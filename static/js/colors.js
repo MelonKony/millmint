@@ -1,5 +1,13 @@
+
+
 window.addEventListener("load", () => {
-	if(location.href.includes('/posts/') && !document.querySelector('.list-item')) {
+	
+	if(document.querySelector("[data-page-color]")) {
+		// Page color override
+		const rbgArray = document.querySelector("[data-page-color]").getAttribute("data-page-color").split(",").map(v => Number(v))
+		setBackgroundColor(rbgArray)
+	} else if(location.href.includes('/posts/') && !document.querySelector('.list-item')) {
+		// Get story's color from image
 		const img = document.querySelector("img");
 
 		// Make sure image is finished loading
@@ -11,9 +19,55 @@ window.addEventListener("load", () => {
 			});
 		}
 	}
+
+	initColorEditor()
 });
 
-async function getColors(img) {
+// Initialise the color editor used to change the main color
+function initColorEditor() {
+	
+	const keyword = "coloroverride"
+	const keyhistory = []
+	
+	document.addEventListener("keyup", evt => {
+		keyhistory.push(evt.key.toLowerCase())
+
+		// See if the user entered the secret keyword
+		let valid = true
+		for(let i = keyword.length; i > 0; i--) {
+			if(keyhistory[keyhistory.length - i] !== keyword[keyword.length - i]) {
+				valid = false
+			}
+		}
+
+		if(valid) { 
+			alert("Color override editor is now shown in the top right")
+			document.querySelector(".color-editor").classList.remove("hidden")
+		}
+	});
+
+
+	// Get the color picker
+	const wrapper = document.querySelector(".color-editor")
+
+	// Method to convert hex string (from input's value) to rgb array
+	function hexToRgb(hex) {
+		const result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+		return result ? [
+		  parseInt(result[1], 16),
+		  parseInt(result[2], 16),
+		  parseInt(result[3], 16)
+	 	] : null;
+	  }
+
+	wrapper.querySelector("input").addEventListener("input", evt => {
+		const rgb = hexToRgb(evt.currentTarget.value)
+		wrapper.querySelector("p").innerText = rgb.join(', ')
+		if(rgb) setBackgroundColor(rgb)
+	});
+}
+
+async function getColors(img, retryCount = 0) {
 	try {
 		const vibrant = new Vibrant(img, 11);
 		const swatches = vibrant.swatches();
@@ -21,29 +75,21 @@ async function getColors(img) {
 		const key = "Vibrant"
 		setBackgroundColor(swatches[key].rgb)
 	} catch(e) {
-
-		alert(e)
-		if(typeof ColorThief !== "undefined") {
-			const colorThief = new ColorThief()
-			const rgb = colorThief.getColor(img)
-			setBackgroundColor(rgb);
+		console.log(retryCount)
+		if(retryCount <= 3) {
+			setTimeout(() => getColors(img, retryCount + 1), 10)
+			console.log('Retrying Vibrant')
+		} else {
+			alert('Vibrant.js is unable to provide the colors we need.')
 		}
 	}
-
-	// Node-vibrant code, which is inconsistent between browsers. That's why we use the above code.
-	// const vibrant = await (new Vibrant(document.querySelector('img'), {
-	// 	colorCount: 11
-	// })).getPalette()
-	// console.log(vibrant)
-
-	// const key = "Vibrant"
-	// setBackgroundColor(vibrant[key].rgb)
 
 }
 
 function setBackgroundColor(rgb) {
 
 	// Set theme-color
+	document.querySelectorAll(`[name="theme-color"]`).forEach(el => el.remove())
 	const meta = document.createElement("meta");
 	meta.setAttribute("name", "theme-color");
 	meta.setAttribute("content", rgba(...rgb, 0.4));
