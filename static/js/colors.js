@@ -23,17 +23,22 @@ function getColors(img) {
 
 function setBackgroundColor(rgb) {
 
-	document.querySelector(`[name="theme-color"]`).setAttribute('content', rgba(...rgb, 0.4))
+	// Set theme-color
+	const link = document.createElement("link");
+	link.setAttribute("name", "theme-color");
+	link.setAttribute("content", rgba(...rgb, 0.4));
+	document.head.appendChild(link);
 
+	// Define all colors
 	const bodyBg = rgba(...rgb, 0.1);
-	const bg = `rgba(${rgb.join(', ')}, 0.1)`
-	const gray100 = `rgba(${rgb.join(', ')}, 0.1)`
-	const colorGray = `rgba(${rgb.map(v => Math.max(v, 0)).join(', ')}, 1)`
+	const bg = `rgba(${rgb.join(', ')}, 0.1)`;
+	const gray100 = `rgba(${rgb.join(', ')}, 0.1)`;
+	const colorGray = `rgba(${rgb.map(v => Math.max(v, 0)).join(', ')}, 1)`;
 
-	console.log(rgba(...rgb, 0.1))
-
+	// Inject colors into DOM
 	document.body.setAttribute('style', `--bg: ${bg}; --body-background: ${bodyBg}; --gray-100: ${gray100}; --color-gray: ${colorGray}`);
 
+	// Force titles to take the color
 	document.querySelectorAll("h1").forEach(title => {
 		title.style.color = `rgb(${rgb.join(', ')})`
 	});
