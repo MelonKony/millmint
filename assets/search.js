@@ -30,15 +30,23 @@
    * @param {Event} event
    */
   function focusSearchFieldOnKeyPress(event) {
+    // exit if input is already focused
     if (input === document.activeElement) {
       return;
     }
 
+    // exit if user is already focused on an input (like typing a comment)
+    if (inputIsFocused()) {
+      return;
+    }
+
+    // exit if keypress is not a hotkey
     const characterPressed = String.fromCharCode(event.charCode);
     if (!isHotkey(characterPressed)) {
       return;
     }
 
+    // focus searchbox and prevent hotkey key from being typed
     input.focus();
     event.preventDefault();
   }
@@ -124,5 +132,13 @@
     const div = document.createElement('div');
     div.innerHTML = content;
     return div.firstChild;
+  }
+
+  /**
+   * check if any input or textarea if focused on the page
+   */
+  function inputIsFocused() {
+    return document.activeElement instanceof HTMLInputElement
+      || document.activeElement instanceof HTMLTextAreaElement;
   }
 })();
