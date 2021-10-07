@@ -13,12 +13,32 @@ window.addEventListener("load", () => {
 	}
 });
 
-function getColors(img) {
-	const vibrant = new Vibrant(img, 10);
-    const swatches = vibrant.swatches()
+async function getColors(img) {
+	try {
+		const vibrant = new Vibrant(img, 11);
+		const swatches = vibrant.swatches();
 
-	const key = "Vibrant"
-    setBackgroundColor(swatches[key].rgb)
+		const key = "Vibrant"
+		setBackgroundColor(swatches[key].rgb)
+	} catch(e) {
+
+		alert(e)
+		if(typeof ColorThief !== "undefined") {
+			const colorThief = new ColorThief()
+			const rgb = colorThief.getColor(img)
+			setBackgroundColor(rgb);
+		}
+	}
+
+	// Node-vibrant code, which is inconsistent between browsers. That's why we use the above code.
+	// const vibrant = await (new Vibrant(document.querySelector('img'), {
+	// 	colorCount: 11
+	// })).getPalette()
+	// console.log(vibrant)
+
+	// const key = "Vibrant"
+	// setBackgroundColor(vibrant[key].rgb)
+
 }
 
 function setBackgroundColor(rgb) {
