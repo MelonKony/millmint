@@ -56,7 +56,6 @@
     ],
     "classes": [
       "-ml-2.5",
-      "255,0,0",
       "active",
       "alignleft",
       "alignright",
@@ -168,7 +167,6 @@
       "red",
       "relative",
       "right-0",
-      "right-24",
       "rounded",
       "row",
       "sitetag",
@@ -185,7 +183,6 @@
       "title",
       "toggle",
       "top-0",
-      "top-24",
       "vnr",
       "w-full",
       "whitespace-nowrap",

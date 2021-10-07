@@ -1,15 +1,14 @@
-
-
-window.addEventListener("load", () => {
+if(document.querySelector("[data-page-color]")) {
 	
-	if(document.querySelector("[data-page-color]")) {
-		// Page color override
-		const rbgArray = document.querySelector("[data-page-color]").getAttribute("data-page-color").split(",").map(v => Number(v))
-		setBackgroundColor(rbgArray)
-	} else if(location.href.includes('/posts/') && !document.querySelector('.list-item')) {
+	// Page color override
+	const rbgArray = document.querySelector("[data-page-color]").getAttribute("data-page-color").split(",").map(v => Number(v))
+	setBackgroundColor(rbgArray)
+
+} else if(location.href.includes('/posts/') && !document.querySelector('.list-item')) {
+	window.addEventListener("load", () => {
 		// Get story's color from image
 		const img = document.querySelector("img");
-
+	
 		// Make sure image is finished loading
 		if (img.complete) {
 			getColors(img)
@@ -18,10 +17,10 @@ window.addEventListener("load", () => {
 				getColors(image)
 			});
 		}
-	}
 
-	initColorEditor()
-});
+		initColorEditor()
+	});
+}
 
 // Initialise the color editor used to change the main color
 function initColorEditor() {
