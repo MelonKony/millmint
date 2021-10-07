@@ -75,9 +75,9 @@ Since independence, Vekllei has maintained a strong position of armed neutrality
 
 ### Introduction
 
-![img](/images/map.jpg)
+![img](/images/vekllei.png)
 {{< hint caption >}}
-A tourist map of Vekllei, showing the natural features of the Home Islands.
+A strategic map of Vekllei, showing the features of the island city state.
 {{</hint>}}
 
 *Vekllei*, officially the *Vekllei Commonwealth*, is a society blossoming with contradictions and anachronisms, which reflect and fold into each other to produce new forms of living. The country advocates *laissez-faire* market participation and soviet-style central planning simultaneously; it is the site of a healthy new democracy utterly divorced by public apathy, and a place of midcentury science-worship and automation used to bolster backwardness and agrarian living. This idea carries on and on, cascading throughout all levels of society.
