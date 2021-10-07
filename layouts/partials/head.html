@@ -2,7 +2,7 @@
     <meta charset="utf-8">
     <link rel="shortcut icon" href='{{ "favicon.ico" | absURL }}' type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#fff">
+
     <title>
         {{- if eq .Kind "home" -}}
             {{- print .Site.Title -}}
@@ -80,8 +80,5 @@
         integrity="{{ .Data.Integrity }}" crossorigin="anonymous"
       {{- end -}}
     {{- end -}}
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
-    <script src="/js/colors.js"></script>
 
 </head>
