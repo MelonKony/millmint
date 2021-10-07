@@ -570,6 +570,10 @@ html {
   margin-right: 1rem;
 }
 
+.my-8 {
+  margin-bottom: 0 !important;
+}
+
 .p-4 {
   padding: 0.5rem !important;
   padding-right: 1rem !important;
@@ -8971,6 +8975,10 @@ body {
   font-size: 16px;
 }
 
+article {
+  margin-bottom: 0;
+}
+
 /* rounded images */
 
 img {
@@ -9386,10 +9394,6 @@ a.book-btn {
   min-width: 250px;
   margin-right: 0rem;
   margin-top: 0px;
-}
-
-article {
-  margin-bottom: 2rem;
 }
 
 /* toc styling */

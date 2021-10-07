@@ -10,3 +10,9 @@
 <a {{ with $ref }} href="{{.}}" {{ end }} {{ with $target }} target="{{.}}" {{ end }} class="book-btn{{ with .Get "class" }} {{ . }}{{ end }}">
   {{ $.Inner | markdownify }}
 </a>
+
+<style>
+a.book-btn:hover {
+  filter: brightness(85%);
+}
+</style>

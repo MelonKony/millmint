@@ -4,7 +4,7 @@ html {
 	*, *:before, *:after {
 	  box-sizing: inherit;
 	}
-	
+
 input {
 	min-width: 100%;
 	max-width: 100%;
@@ -41,7 +41,7 @@ input {
 }
 
 .gt-container .gt-header-textarea:hover {
-	background-color: var(--body-background);
+	filter: brightness(95%);
 }
 
 .gt-container .gt-comment-admin .gt-comment-content {
@@ -50,7 +50,7 @@ input {
 }
 
 .gt-container .gt-comment-content {
-	background-color: var(--gray-100);
+	background-color: var(--body-background);
 	border-radius: 5px;
 }
 
@@ -59,7 +59,7 @@ input {
 }
 
 .gt-container .gt-header-textarea {
-	color: var(--body-font-color);
+	color: var(--body-background);
 }
 
 .gt-container .gt-avatar img {
@@ -67,18 +67,18 @@ input {
 }
 
 .gt-container .gt-ico-github svg {
-	fill: var(--gray-500);
+	fill: var(--color-gray);
 }
 
 .gt-container .gt-user .gt-ico svg {
-	fill: var(--body-font-color);
+	fill: var(--color-gray);
 }
 
 .gt-container .gt-btn {
-	border: 1px solid var(--body-font-color);
+	border: 1px solid var(--color-gray);
 	border-radius: 5px;
-	background-color: var(--body-font-color);
-	color: var(--body-font-color-invert);
+	background-color: var(--color-gray);
+	color: var(--body-background);
 	outline: none;
 	font-size: 0.75em;
 }
@@ -96,32 +96,26 @@ input {
 }
 
 .gt-container .gt-comment-content:hover {
-	-webkit-box-shadow: 0 0.225em .75em 0 var(--gray-200);
-	box-shadow: 0 0.225em .75em 0 var(--gray-200);
+	filter: brightness(85%);
 }
 .gt-container .gt-btn-text {
 	font-weight: 500;
 }
 .gt-container .gt-btn-preview {
-	  background-color: var(--body-font-color);
-	  color: var(--body-font-color-invert);
+	  background-color: var(--color-gray);
+	  color: var(--body-background);
 	  padding: 0.5rem;
 	}
 .gt-container .gt-btn-preview:hover {
-	opacity: .90;
-	color: var(--body-font-color-invert);
+	filter: brightness(85%);
 	background-color: var(--color-gray);
-	border: 1px solid var(--color-gray);
+	border-color: var(--color-gray);
 	}
 .gt-container .gt-btn-login:hover {
-	opacity: .90;
-	color: var(--body-font-color-invert);
-	background-color: var(--color-gray);
-	border: 1px solid var(--color-gray);
+	filter: brightness(85%);
 }
 .gt-container .gt-btn-public:hover {
-	  background-color: var(--color-blue);
-	  color: var(--body-font-color-invert);
+	  filter: brightness(85%);
 }
 
 @media (max-width: 479px) {
@@ -135,25 +129,20 @@ input {
 .gt-container .gt-header-controls-tip {
 		display: none;
 }
-	
+
 .gt-container .gt-header-controls-tip {
 	color: var(--color-gray);
 }
 .gt-container .gt-header-controls-tip:hover {
-	color: var(--body-font-color);
+	filter: brightness(85%);
 }
 .gt-container .gt-user:hover {
-	color: var(--body-font-color);
+	filter: brightness(85%);
 }
 .gt-container .gt-link:hover {
-	color: var(--body-font-color);
+	filter: brightness(85%);
 }
 
-
-.gt-container .gt-header-preview {
-	padding: 0.75em;
-	border-radius: 5px;
-	border: 0px solid rgba(0,0,0,0.1);
-	background-color: var(--gray-100);
+.gt-container .gt-comments-null {
+    display: none;
 }
-
