@@ -24,10 +24,10 @@ function getColors(img) {
 function setBackgroundColor(rgb) {
 
 	// Set theme-color
-	const link = document.createElement("link");
-	link.setAttribute("name", "theme-color");
-	link.setAttribute("content", rgba(...rgb, 0.4));
-	document.head.appendChild(link);
+	const meta = document.createElement("meta");
+	meta.setAttribute("name", "theme-color");
+	meta.setAttribute("content", rgba(...rgb, 0.4));
+	document.head.appendChild(meta);
 
 	// Define all colors
 	const bodyBg = rgba(...rgb, 0.1);
