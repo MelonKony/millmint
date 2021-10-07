@@ -16,7 +16,7 @@ list_posts: false
 }
 </style>
 
-![img](/images/railmap.jpg)
+![img](/images/vekllei.png)
 
 {{< hint green >}}
 ߷ This page lists completed articles on [**Vekllei's**](/utopia/vekllei) [**boroughs**](/utopia/vekllei/#administrative-divisions)

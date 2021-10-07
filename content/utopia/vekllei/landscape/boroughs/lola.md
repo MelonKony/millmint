@@ -117,6 +117,7 @@ Lola's east is home to several combined heat and power plants, which produce bot
 <br>
 {{<columns>}}
 ## Towns
+- Lola
 - Reykjavic
 - Geofyourd
 - Hosfyourd
