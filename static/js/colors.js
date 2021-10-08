@@ -1,5 +1,5 @@
 if(document.querySelector("[data-page-color]")) {
-	
+
 	// Page color override
 	const rbgArray = document.querySelector("[data-page-color]").getAttribute("data-page-color").split(",").map(v => Number(v))
 	setBackgroundColor(rbgArray)
@@ -8,7 +8,7 @@ if(document.querySelector("[data-page-color]")) {
 	window.addEventListener("load", () => {
 		// Get story's color from image
 		const img = document.querySelector("img");
-	
+
 		// Make sure image is finished loading
 		if (img.complete) {
 			getColors(img)
@@ -24,10 +24,10 @@ if(document.querySelector("[data-page-color]")) {
 
 // Initialise the color editor used to change the main color
 function initColorEditor() {
-	
+
 	const keyword = "coloroverride"
 	const keyhistory = []
-	
+
 	document.addEventListener("keyup", evt => {
 		keyhistory.push(evt.key.toLowerCase())
 
@@ -39,7 +39,7 @@ function initColorEditor() {
 			}
 		}
 
-		if(valid) { 
+		if(valid) {
 			alert("Color override editor is now shown in the top right")
 			document.querySelector(".color-editor").classList.remove("hidden")
 		}
@@ -78,9 +78,9 @@ async function getColors(img, retryCount = 0) {
 		if(retryCount <= 3) {
 			setTimeout(() => getColors(img, retryCount + 1), 10)
 			console.log('Retrying Vibrant')
-		} else {
-			alert('Vibrant.js is unable to provide the colors we need.')
-		}
+		// } else {
+		//	alert('Vibrant.js is unable to provide the colors we need.')
+		// }
 	}
 
 }
