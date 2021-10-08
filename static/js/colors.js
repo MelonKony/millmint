@@ -78,7 +78,7 @@ async function getColors(img, retryCount = 0) {
 		if(retryCount <= 3) {
 			setTimeout(() => getColors(img, retryCount + 1), 10)
 			console.log('Retrying Vibrant')
-		// } else {
+		} //else {
 		//	alert('Vibrant.js is unable to provide the colors we need.')
 		// }
 	}
