@@ -66,7 +66,7 @@ This website is a comprehensive archive and portal to everything I do.
 
 * **Utopia** is for everything related to Vekllei, its world, and characters
 * **Newsdesk** is for everything outside of it
-* **Posts** is for the individual stories I write and draw regularly.
+* **Stories** is for the individual stories I write and draw regularly.
 
 Vekllei is a jumble of very pure, obsessive instincts that are illustrated to make them look and feel real. I want to take purity seriously by considering its implications in the real world. Vekllei does not use money -- a very straightforward and fantastical idea. Of course, moneylessness has extraordinary implications, and to maintain the purity of the idea we have to work very hard.
 
@@ -129,7 +129,7 @@ This project has three parts. Each part is a little utopia, in the sense that it
 </div>
 </div>
 {{< hint caption >}}
-The flags of [Vekllei's independent territories](/utopia/vekllei/#administrative-divisions).
+The flags of [Vekllei's Commonwealth](/utopia/vekllei/#administrative-divisions).
 {{</hint>}}
 
 By the mid-21st century, Vekllei has become a remarkable place. Quality of life is excellent and living there is unlike living anywhere else on Earth. The country is an ambitious expression of alternate modes of thinking, visible in every aspect of society, from its bizarre moneyless economy to its complicated cultural and religious metaphysics.
