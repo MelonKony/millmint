@@ -186,7 +186,6 @@ In total, Vekllei's various possessions, provinces and administrative systems ca
 
 **Floral Society** is the informal Vekllei phrase for the postwar Vekllei state, distinguishing it from the prewar junta and monarchy. The new period is characterised by democratisation and widespread personal freedoms, but has also recalled traditional cultural history into contemporary Vekllei life. Since the war, Vekllei has been marked by rapid change, and Floral Society's growing cultural legacy, which continues to distance it from the prewar period.
 
-{{<columns>}}
 #### Petticoat constitution
 
 The **Petticoat Constitution** (officially the ***Constitution of Vekllei***) is Vekllei's founding constitutional document since independence, and remains a core political and cultural factor in the country. It provides for "Atlantic-style democracy," free association and press, and a nonpartisan judicial system among other things.
@@ -199,8 +198,6 @@ The Constitution is underlined by four principles of postwar Vekllei life, outli
 4. **Economic feminisation**.
 
 These features manifest in various forms throughout modern Vekllei, including its moneylessness, place-metaphysics, and personal freedoms. Its association with the Rebirth of Vekllei, characterised as female in [Upen](/utopia/vekllei/religion), gave the document its colloquial name *Petticoat Constitution*, after its provisions for women in democratic Vekllei society.
-
-<--->
 
 #### Sundress Municipalism
 
@@ -215,8 +212,6 @@ These features manifest in various forms throughout modern Vekllei, including it
 7. Public ownership of public needs.
 
 *Sundress Municipalism* folds into broader conceptual ideas indigenous to Vekllei about space and ownership, found throughout its political system (as in the landscape sovereign) and its economy (as in product atheism). To this end, most ongoing construction and civic planning in the country invoke *Sundress Municipalism* as a framework.
-
-{{</columns>}}
 
 ## Economy
 
