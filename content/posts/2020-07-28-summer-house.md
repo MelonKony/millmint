@@ -14,7 +14,7 @@ keywords:
 image: /images/summerhouse.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/hyt68u/summer_house_in_the_azores/" >}}Archived from the original article here{{< /button >}}
-{{< hint red >}}
+{{< hint >}}
 
 ❖ **This article** was featured in [**Issue #3**](/newsdesk/bulletin/2020/3) of the *Atlantic Bulletin*
 {{< /hint >}}

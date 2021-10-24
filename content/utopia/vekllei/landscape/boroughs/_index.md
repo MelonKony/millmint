@@ -7,6 +7,8 @@ tag: LANDSCAPE
 sitetag: Introduction
 color: green
 
+image: /images/vekllei.png
+
 weight: 1
 list_posts: false
 ---
@@ -15,8 +17,6 @@ list_posts: false
   display: none;
 }
 </style>
-
-![img](/images/vekllei.png)
 
 {{< hint green >}}
 ߷ This page lists completed articles on [**Vekllei's**](/utopia/vekllei) [**boroughs**](/utopia/vekllei/#administrative-divisions)

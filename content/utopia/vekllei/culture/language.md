@@ -7,22 +7,19 @@ tag: CULTURE
 sitetag: Article
 color: red
 
+image: /images/manufacturie.jpg
+
 list_posts: false
 
 description: The language of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-![img](/images/manufacturie.jpg)
-{{< hint caption >}}
-Part of the [Royal Mail's](/utopia/vekllei/society/mail/) sprawling printing complex. | *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*
-{{</hint>}}
 
+## 1. Overview
 {{< hint red >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
-
-## 1. Overview
 
 {{< hint panel >}}
 **The language of Vekllei** is an important part of the project. Utopianism cascades through every part of society, and rethinking communication is a foundational part of that instinct. In this article, we look at what makes Vekllei as a language special, and give insight into how these Atlantic people communicate with each other.
@@ -46,16 +43,18 @@ Part of the [Royal Mail's](/utopia/vekllei/society/mail/) sprawling printing com
 
 ### Introduction
 
+{{< hint red >}}
+❖ Read more: *[How to Speak Vekllei](/posts/2020-11-14-language/)*
+{{< /hint >}}
+
+**Let's take a look** in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and [*Spoken Vekllei*](/utopia/vekllei/language/#2-spoken-vekllei) and [*Topet*](/utopia/vekllei/language/#3-topet) are understood universally.
+
 ![img](/images/language.jpg)
 {{< hint caption >}}
 An infographic showcasing the Vekllei language, including [Potenne](/utopia/vekllei/culture/language/#5-potenne) use. | *[How to Speak Vekllei](/posts/2020-11-14-language/)*
 {{</hint>}}
 
-{{< hint red >}}
-❖ Read more: *[How to Speak Vekllei](/posts/2020-11-14-language/)*
-{{< /hint >}}
-
-**Let's take a look** in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and [*Spoken Vekllei*](/utopia/vekllei/language/#2-spoken-vekllei) and [*Topet*](/utopia/vekllei/language/#3-topet) are understood universally. Other languages, often called *sub-languages*, are informed regionally and have varying literacy across the Home Island. For example, [*Upotenne*](/utopia/vekllei/language/#6-upotenne) is employed frequently in rural and agrarian communities, where religious ritual requires its frequent practice. This passage introduces the broad characteristics of each sub-language, which together form contemporary Vekllei, one of the world's most complex and hermetic language systems.
+Other languages, often called *sub-languages*, are informed regionally and have varying literacy across the Home Island. For example, [*Upotenne*](/utopia/vekllei/language/#6-upotenne) is employed frequently in rural and agrarian communities, where religious ritual requires its frequent practice. This passage introduces the broad characteristics of each sub-language, which together form contemporary Vekllei, one of the world's most complex and hermetic language systems.
 
 ### History
 
@@ -110,14 +109,12 @@ Pure vowels in Vekllei are characterised by their lax, non-rhotic sound, and the
 From foundational monophthongs, gliding or diphthong vowels are often determined by glossary. *Oa* typically favours modernised post-*Quutetast* glides for its so-called *Ocean Vowels*, which are generally long and unrounded. *Loh* words are typically older and depicted pictographically, and are pronounced as *Floral Vowels*. The tables below list their pronunciation.
 
 {{< details title="Diphthongs" open=true >}}
-{{< tabs "diphthongs" >}}
-{{< tab "Ocean Vowels" >}}
+##### Ocean Vowels
 |               |     Vowel          |
 |---------------|--------------------|
 | **Closing**   | æɪ, ɑɪ, oɪ, æɔ, əʉ |
 | **Centering** | ɪə                 |
-{{< /tab >}}
-{{< tab "Floral Vowels" >}}
+##### Floral Vowel
 |   Vowel   | Onset glide | Onset glide | Onset glide |
 |-----------|-------------|-------------|-------------|
 | **Vowel** | **/j/**     | **/ɥ/**     | **/w/**     |
@@ -135,8 +132,6 @@ From foundational monophthongs, gliding or diphthong vowels are often determined
 | **/œ/**   | /jœ/        | /ɥœ/        | /wœ/        |
 | **/u/**   | /ju/        |             |             |
 | **/y/**   | /jy/        |             |             |
-{{< /tab >}}
-{{< /tabs >}}
 {{< /details >}}
 
 #### Consonants
@@ -174,16 +169,16 @@ Despite common use of the phonetic system in modernity, the semantic readings of
 
 ### Structure
 
-![img](/images/topet.jpg)
-{{< hint caption >}}
-An infographic summarising the appearance of Vekllei scripts, including [*Topet*](/utopia/vekllei/culture/language/#3-topet). | *[How to Read Vekllei](/posts/2021-05-31-topet/)*
-{{</hint>}}
-
 {{< hint red >}}
 ❖ Read more: *[How to Read Vekllei](/posts/2021-05-31-topet/)*
 {{< /hint >}}
 
 Individual *Topet* characters are both semantic and phonetic, and can be written in a phonetic abugida (with semantic weight carried by the initial character-group) or as a single character group. The abugida-form is phonetic and aids vocalisation through its *hieyerette* characters. The single character group-form is pictographic, and generally replaces the abugida in contexts where the pronunciation is commonly known or obvious. In these character groups, only one *demioette* character is vocalised, called the *principle*, and the *hieyerette* characters are simply not written.
+
+![img](/images/topet.jpg)
+{{< hint caption >}}
+An infographic summarising the appearance of Vekllei scripts, including [*Topet*](/utopia/vekllei/culture/language/#3-topet). | *[How to Read Vekllei](/posts/2021-05-31-topet/)*
+{{</hint>}}
 
 These character groups are called *Minor Demons*, or *pettidemion,* and change appearance depending on the number of characters in its group. One character occupies a quarter-height space in the centre of a line. Two characters are written in an adjacent quarter-height space, with the principle arranged to the left. Three characters are arranged in a triangle, with the principle arranged at the top. Four characters, the maximum in modern *Topet*, are arranged in a quadrant with the principle arranged in the top left.
 

@@ -7,6 +7,8 @@ tag: SOCIETY
 sitetag: Article
 color: vnr
 
+image: /images/orange.jpg
+
 list_posts: false
 
 weight: 2
@@ -20,20 +22,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 }
 </style>
 
-![img](/images/orange.jpg)
-{{< hint caption >}}
-A Mustard 56-Series EMU passes through the borough of [Troll](/utopia/vekllei/landscape/boroughs/troll/) | *[VNR Orange](/posts/2021-06-03-orange/)*
-{{</hint>}}
-
-
+## Overview
 {{< hint vnr >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei) society
 {{< /hint >}}
 
-## Overview
-
 {{< hint panel >}}
-**This article** discusses one of the most important and visible organisations in everyday Vekllei life: Vekllei National Rail. Vekllei is criss-crossed by hundreds of different rail lines of various gauges, grades, and purposes. In fact, it runs many lines at a total loss, often undercapacity. To understand these inefficiencies is to understand why the National Rail exists, and to some extent, how Vekllei's state assets and powerful bureaus shape life in the country today.
+**This article** discusses one of the most important and visible organisations in everyday Vekllei life: Vekllei National Rail. Vekllei is criss-crossed by hundreds of different rail lines of various gauges, grades, and purposes. In fact, it runs many lines at a total loss, often under capacity. To understand these inefficiencies is to understand why the National Rail exists, and to some extent, how Vekllei's state assets and powerful bureaus shape life in the country today.
 {{< /hint >}}
 
 <span class="fc">T</span>
@@ -44,25 +39,20 @@ Like most critical organisations of Vekllei, the structure and directorship of V
 
 ### Introduction
 
+Since nationalisation of the private Vekllei rail companies in 1925, the structure and reach of Vekllei National Rail has changed several times. Operated as a for-profit enterprise at a historical loss, the National Rail's history of service is reflected in the variety of trains and track gauges it maintains.
+
+Vekllei is unique in the density of its rail, a feature of deliberate postwar city planning and the Home Island's history as an industrial port city-state. Very few Vekllei people own automobiles, and trains remain by far the most common method of travel in the country. Because of this, the rail network in metropolitan areas is extraordinarily dense, and is designed to offer access to nearly every residence in urban areas. This fact also explains the presence of dedicated rail lines to small towns and villages that would otherwise not justify their maintenance. As visible on the map above, the passenger rail network in Vekllei is unsurpassed in its density, which contributes to the dependence Vekllei people have on their trains.
+
 ![img](/images/railmap.jpg)
 {{< hint caption >}}
 A map of the rail network and boroughs of Vekllei, showcasing maglev (red), high-speed (yellow), regional (orange) and local (brown) lines | *[100 Boroughs](/posts/2020-06-14-map/)*
 {{</hint>}}
-
-Since nationalisation of the private Vekllei rail companies in 1925, the structure and reach of Vekllei National Rail has changed several times. Operated as a for-profit enterprise at a historical loss, the National Rail's history of service is reflected in the variety of trains and track gauges it maintains.
-
-Vekllei is unique in the density of its rail, a feature of deliberate postwar city planning and the Home Island's history as an industrial port city-state. Very few Vekllei people own automobiles, and trains remain by far the most common method of travel in the country. Because of this, the rail network in metropolitan areas is extraordinarily dense, and is designed to offer access to nearly every residence in urban areas. This fact also explains the presence of dedicated rail lines to small towns and villages that would otherwise not justify their maintenance. As visible on the map above, the passenger rail network in Vekllei is unsurpassed in its density, which contributes to the dependence Vekllei people have on their trains.
 
 Similarly, almost all freight is run along rails of varying gauges. These range from conventional freight trains at standard gauge, to municipal delivery trains at metre guage, and even narrow gauges for moving freight and equipment within large factory complexes. Most major stores and grocers are arranged along freight lines with dedicated sidings, or have their own narrow-gauge tracks dedicated to their use.
 
 Unusually, Vekllei National Rail is legally absolved of all non-rail transport, and possesses no busses or ferries for public use, which are operated and maintained by dedicated adjacent bureaus.
 
 ### History
-
-![img](/images/shrine-minded.jpg)
-{{< hint caption >}}
-A Lesvesn 59-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
-{{</hint>}}
 
 Although Vekllei has used wagonways since the 18th Century and developed horse-drawn railways for industrial transport in its ports, the first passenger rail line in Vekllei was founded in 1855 by the Pharos Rail Company.
 
@@ -93,6 +83,11 @@ In the late 1980s, VNC started work on what would eventually become the Vekllei-
 #### Postwar Development
 
 National Rail Company assets that had been operated by the occupation Vekllei Provisional Government were transferred to the Vekllei Interim Government in 2015 and reestablished as Vekllei National Rail (VNR) in 2018. The Floral Period has been marked by steady growth in ridership and the scale of its network. The organisation also invests heavily into the development of new locomotives and EMUs, culminating in 2047 with the announcement of the Vekllei East Coast Maglev Scheme, which are the fastest commuter trains in the world.
+
+![img](/images/shrine-minded.jpg)
+{{< hint caption >}}
+A Lesvesn 59-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
+{{</hint>}}
 
 In 2055, VNR celebrated "250 years of rail," and its livery and staff uniforms were overhauled to mark the occasion.
 
@@ -153,16 +148,16 @@ Vekllei National Rail is administered through three State Requisites: the Veklle
 
 ## Service
 
-![img](/images/hollywood.jpg)
-{{< hint caption >}}
-A Mustard 56-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
-{{</hint>}}
-
 {{< hint panel >}}
 **Since most Vekllei people** catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated "companies" in Vekllei.
 {{< /hint >}}
 
 Access to public transport is considered a "critical luxury" of the Vekllei state (the Vekllei turn-of-phrase for essential state services) and, by extension, the functioning of its society. By design, it makes no profit, and is subsidised entirely by the Transport Requisite of the Vekllei Government and various independent transport bureaus for the benefit of any Vekllei person. Even prior to the war and investment of the Floral Period, Vekllei's public transport was widely regarded as among the finest of any network in the world thanks to its impeccable safety record, timeliness, and comprehensive coverage.
+
+![img](/images/hollywood.jpg)
+{{< hint caption >}}
+A Mustard 56-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
+{{</hint>}}
 
 Rail transport contributes tremendously to the national culture and common affection for Vekllei's public institutions. It is also commonly percieved as a triumph of the postwar floral Period, despite rail history in Vekllei dating back hundreds of years prior. The ongoing expansion of the VNR network and renovation of stations and railhubs commands attention internationally, which is watching Vekllei celebrate its golden age of rail.
 
@@ -186,8 +181,6 @@ VNR's main freight lines run mostly on a seperate gauge and network, and are com
 
 ## Operations
 
-![smallimg](/images/stationlogic.jpg)
-
 {{< hint vnr >}}
 ❖ Read more: *[Station Logic](/posts/2021-06-01-station-logic/)*
 {{< /hint >}}
@@ -197,6 +190,8 @@ VNR's main freight lines run mostly on a seperate gauge and network, and are com
 {{< /hint >}}
 
 Nearly 17 million people per day commute via VNR's networks each day, making up a majority of the Vekllei population. In this sense, VNR's quality of operations affects the Vekllei person more than the quality of their government. In addition to commuter service, VNR automatic freight transit systems are the lifeblood of all industry and commerce in the country, and are regulated directly as a state requisite for their critical importance to the functioning of Vekllei society.
+
+![smallimg](/images/stationlogic.jpg)
 
 VNR operates 2,114 stations across the Home Islands, which vary from uncovered concrete platforms to tremendous terminus complexes that cover multiple city blocks. The largest station in the country, Vekllei Central, sees over 1 million people per day pass through its gates.
 

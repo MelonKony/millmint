@@ -17,7 +17,7 @@ image: "/images/mailtrain.jpg"
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/ldfq1p/racing_the_post_office_to_the_station/" >}}Archived from the original article here{{< /button >}}
 
-{{<hint red>}}
+{{<hint>}}
 ❖ **This article** was part of Vekllei's ***Mail Week*** in February 2021
 {{</hint>}}
 

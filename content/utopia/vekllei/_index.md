@@ -1,10 +1,11 @@
 ---
 title: Vekllei
-fulltitle: The Commonwealth of Vekllei
+fulltitle: Commonwealth of Vekllei
 emoji: -millmint
 tag: UTOPIA
 sitetag: Introduction
 color: pink
+image: /images/vekllei.png
 
 list_posts: false
 
@@ -13,41 +14,11 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 
-<style>
-body article a {
-color: var(--color-pink);
-}
-/* flags */
-.row {
-  display: flex;
-  margin-left: auto;
-  margin-right: auto;
-}
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-@media (max-width: 1250px) {
-  .row {
-    display: none;
-  }
-}
-
-.gt-container {
-  display: none;
-}
-</style>
-
-![img](/images/missile.jpg)
-{{< hint caption >}}
-An ICBM of the Vekllei Missile Rocketry Corps launches outside of Montre-Lola, amidst Vekllei's northern flower-tundras, minutes before public knowledge of the Second Atomic War | *[Absolute Quiet](/posts/2020-08-24-missile/)*
-{{</hint>}}
+## Overview
 
 {{< hint pink >}}
 ߷ This article is about [**Hobart's**](/newsdesk/about) [**utopia**](/utopia/intro)
 {{< /hint >}}
-
-## Overview
 
 {{< hint panel >}}
 **Vekllei** is the utopian place of Hobart's ongoing Petticoat Project. Set ostensibly in Iceland, the history and geography of this country is radically different from our own, and welcomes an open exploration of new systems of living through a flexible alternate history.
@@ -55,6 +26,10 @@ An ICBM of the Vekllei Missile Rocketry Corps launches outside of Montre-Lola, a
 
 <span class="fc">V</span>
 **ekllei** (also *The Vekllei Commonwealth*, *Islandi*, *Iceland*) is a sovereign island country situated in the northern Atlantic, between Greenland and the Faroe Islands. Besides the 100 boroughs of the conterminous Vekllei city-state (referred to as the *Home Island* or *Crown Metropole*), Vekllei includes two autonomous territories, six crown territories and various possessions including over a hundred satellite islands and islets. It is the 14th most densely-populated country in the world, with a population of 24.4 millions mostly situated around the Capital Region in the south-west of the Home Island. Its capital and largest city is Vekllei in the Capital Region, which is home to two-thirds of the total population. The interior plateau of the Home Island consists of sand and lava fields, flower-tundras, glaciers, and temperate rainforests, and its lowlands are home to many glacial rivers.
+
+> Oslola, raging and now blinded, drew deep wounds into the Earth. Out of these wounds came fire, and out of fire came Vekllei.
+
+-- Retelling of Algic legends, Verse 40, *Saga of Origins*
 
 The Home Island has been inhabited for at least four thousand years by Arctic peoples migrating from Kalalist (Greenland). Evidence of European settlement in Vekllei can be determined from unearthed fishing towns dated to 1230BC, when settlers from Ireland established fishing communities along the southern coast.
 
@@ -75,12 +50,12 @@ Since independence, Vekllei has maintained a strong position of armed neutrality
 
 ### Introduction
 
-![img](/images/vekllei.png)
-{{< hint caption >}}
-A strategic map of Vekllei, showing the features of the island city state.
-{{</hint>}}
-
 *Vekllei*, officially the *Vekllei Commonwealth*, is a society blossoming with contradictions and anachronisms, which reflect and fold into each other to produce new forms of living. The country advocates *laissez-faire* market participation and soviet-style central planning simultaneously; it is the site of a healthy new democracy utterly divorced by public apathy, and a place of midcentury science-worship and automation used to bolster backwardness and agrarian living. This idea carries on and on, cascading throughout all levels of society.
+
+![img](/images/railmap.jpg)
+{{< hint caption >}}
+A map showing Vekllei's dense rail network linking the 100 [boroughs](/utopia/vekllei/landscape/boroughs/) of the Home Islands | *[100 Boroughs](/posts/2020-06-14-map/)*
+{{</hint>}}
 
 This is a nation bound constitutionally to secularism and religious freedoms, described in a document only legible through indigenous spiritualism. This is a culture intent on abolishing commodity-forms through the worship of products. To foreigners, **Vekllei** is a wonderland of contradictions that in conventional imagination would collapse in on each other, yet Vekllei has flourished in postwar independence, quickly rising up amongst the most developed and livable countries in the world.
 
@@ -99,26 +74,28 @@ The name *Vekllei* ostensibly applies foremost to the physical landscape of the 
 
 ## Geography
 
-![smallimg](/images/peaks.jpg)
-
 {{< hint panel >}}
 **Vekllei** is an ancient country of striking geological monument. A landscape of igneous rock and lava flows, Vekllei's dramatic geology is tempered by its healthy abundance of rainforests and flower-tundras, which paint the country in soft mossy hues of green and yellow.
 {{< /hint >}}
 
 Vekllei sits atop the constructive boundary of the Mid-Atlantic ridge, bridging the North American and the Eurasian tectonic plates. The country is also found between the North Atlantic and Arctic oceans, although the entirety of the Home Island is situated beneath the arctic circle. Despite this, the extreme latitude of inhabited areas means daylight is highly seasonal in the country, with dark winters and summer solstices that provide 23 consecutive hours of daylight. This dramatic seasonal environment has ongoing political, economic and cultural relevance in the country today, and contributes to the dependence on hothouses and greenhouses for agriculture throughout the year.
 
+> I don't understand it. When am I supposed to go to sleep?
+
+-- Tzipora Desmoisnes
+
 The unstable Atlantic pressure oscillation, of which Vekllei anchors as the Vekllei Low Pole, can pull in bitter cold from the Greenland currents, or warmth from the Azores tempestuously. This gifts the Home Islands a temperate, though subarctic climate, with average temperatures in summer of about 18-25 degrees centigrade that decline into an annual mean low of approximately 10 degrees in the Capital Region. The good weather and seasonal daylight inform Vekllei's animistic spiritualism, with festivals to mark both solstices.
 
-Vekllei sits between North American and Continental European territories, but is usually regarded as independent of both because of its central position in the North Atlantic and its peripheral possessions, which include *Kala* (Greenland) and the *Aismious Islands* (Faroe Islands). Because of its volcanic origins and position above the *Earth's Great Kiss* (the Mantle Plume), Vekllei remains highly volcanic and several volcanoes remain active in the country. The world's newest island, *Liyra*, was formed in 2056 off Vekllei's South Coast.
+![img](/images/gun.jpg)
+{{< hint caption >}}
+Hunting in a ro, a flower-rich tundra characterised by volcanic pools | *[The Gun](/posts/2021-08-25-gun/)*
+{{</hint>}}
+
+Vekllei sits between North American and Continental European territories, but is usually regarded as independent of both because of its central position in the North Atlantic and its peripheral possessions, which include *Kala* (Greenland) and the *Aismious Islands* (Faroe Islands). Because of its volcanic origins and position above the *Oslolan Kiss* (the Mantle Plume), Vekllei remains highly volcanic and several volcanoes remain active in the country. The world's newest island, *Liyra*, was formed in 2056 off Vekllei's South Coast.
 
 Vekllei is the world's 18th largest island, and has significant biological and climate diversity for a landmass of its size. Southern Vekllei is wet, seasonal and temperate, populated mostly by temperate rainforests and spruce forests. Vekllei's glacial interior is dominated by flower-tundras, called *Ro*, and barren vegetation consisting mostly of grasslands, plains, and isolated woodland. Lava fields, mountains and massive freshwater glaciers are also common throughout the middle and east of the country. Vekllei's north is dry and subarctic, and receives heavy snowfall and ice in winter months. The entire Home Islands are marked by dramatic volcanic landscapes of steep igneous rock, valleys and glacial monuments. Vekllei has some of the tallest waterfalls in the world. The country has the highest number of flowers per capita in the world.
 
 ## Politics
-
-![img](/images/railmap.jpg)
-{{< hint caption >}}
-A map showing Vekllei's dense rail network linking the 100 [boroughs](/utopia/vekllei/landscape/boroughs/) of the Home Islands | *[100 Boroughs](/posts/2020-06-14-map/)*
-{{</hint>}}
 
 {{< hint panel >}}
 **Politics** in Vekllei are characterised by postwar constitutional values of nonpartisan democracy and transparency of power. Political concern is aestheticised and developed along cultural and interpersonal lines; as a feature of life, but fundamentally participatory. In truth, at least with regards to domestic concern, Vekllei's daily affairs are basically autonomous, and politics remains the concern of an educated, invested class of people.
@@ -138,16 +115,16 @@ Since Vekllei is nonpartisan, it does not allow formal participation of parties 
 
 ### Administrative divisions
 
-![img](/images/territories.jpg)
-{{< hint caption >}}
-A map showing Vekllei's overseas territories, including claims in the Lesser Antilles, Antarctica and the Lunar South Pole | *[Vekllei's Sprawling Commonwealth](/posts/2021-03-10-commonwealth/)*
-{{</hint>}}
-
-{{< hint green >}}
+{{< hint pink >}}
 ❖ See also: *[Boroughs of Vekllei](/utopia/vekllei/landscape/boroughs)*
 {{< /hint >}}
 
 Although Vekllei is unitary politically and considers itself a city-state, the Home Islands are divided geographically between 100 boroughs (as part of the *borough system*). Each borough is proportional to the land-sovereign's natural wealth, which accounts for its history, folklore and natural features. Because of this, the human population of boroughs is highly disproportionate, the smallest being [Bakur](/utopia/vekllei/boroughs/bakur), in the Afouismeh region, with a population of 7,500 people, and the largest being Vekllei proper, in the Capital Region, of 2.4 millions.
+
+![img](/images/territories.jpg)
+{{< hint caption >}}
+A map showing Vekllei's overseas territories, including claims in the Lesser Antilles, Antarctica and the Lunar South Pole | *[Vekllei's Sprawling Commonwealth](/posts/2021-03-10-commonwealth/)*
+{{</hint>}}
 
 Each borough elects a **Senator** and two **House Members**. Overseas **Crown Lakes** territories vote in ministerial elections but do not vote for legislative members, and autonomous territories maintain their own parliaments.
 
@@ -215,11 +192,6 @@ These features manifest in various forms throughout modern Vekllei, including it
 
 ## Economy
 
-![img](/images/momentsinlove.jpg)
-{{< hint caption >}}
-The borough of Lava, part of Vekllei's dense, residential satellite belt | *[Moments in Love](/posts/2021-01-23-love/)*
-{{</hint>}}
-
 {{< hint panel >}}
 **Vekllei** is land of plenty and small pleasures, afforded by a post-scarcity system that positions competing systems against each other. It is made up of a startling series of contradictions -- one after the other, each more unusual than the last. Vekllei is a planned economy; it is also a free market. Property ownership is obfuscated by portioned sovereignty of land and product. Decommodification has devalued products in a country based on manufacturing. There are many contradictions, inefficiencies and unusual mechanisms in the Vekllei domestic market, which total to benefit the living conditions of the average person.
 {{< /hint >}}
@@ -228,11 +200,18 @@ The borough of Lava, part of Vekllei's dense, residential satellite belt | *[Mom
 
 Trade and materials are provided by biosynthetic robotics infrastructure and participatory work, and is supplemented in places by mandatory military service. Vekllei people enjoy a high standard of living and access to most consumer goods.
 
+![img](/images/momentsinlove.jpg)
+{{< hint caption >}}
+The borough of Lava, part of Vekllei's dense, residential satellite belt | *[Moments in Love](/posts/2021-01-23-love/)*
+{{</hint>}}
+
 Postwar Vekllei economics champions free association, home-ownership and informal markets. Although microeconomically Vekllei is highly liberalised, most essential goods of the country are produced in vertically integrated in labour-union *Bureaus*, which, although representative of private companies and independent from the government, are associated with the general political processes of the country.
 
-*Bureaus* (also *Bureaus Proper*, as distinguished from informal *Petty Bureaus*) are trade unions that organise business in the country, and the largest of them include thousands of individual companies and concerns. Companies are generally cooperative enterprises in Vekllei, and so worker votes are consolidated into "Company Ballots" used to influence political affairs within a *Bureau* and the country at large.
+> NO REALTORS EXCEPT THE STATE, THE COUNTY THE AGENT OF THE STATE, THE ARCHITECT THE AGENT OF THE COUNTY
 
-Although moneyless domestically, the nation maintains two currencies, known as the *Vekllei Crown* and the *Government Crown* for foreign trade.
+-- Original wording of the Municipal Charter, *Constitution of Vekllei*
+
+*Bureaus* (also *Bureaus Proper*, as distinguished from informal *Petty Bureaus*) are trade unions that organise business in the country, and the largest of them include thousands of individual companies and concerns. Companies are generally cooperative enterprises in Vekllei, and so worker votes are consolidated into "Company Ballots" used to influence political affairs within a *Bureau* and the country at large.
 
 <div class="row">
   <div class="column">
@@ -258,6 +237,8 @@ Although moneyless domestically, the nation maintains two currencies, known as t
   </div>
 </div>
 
+Although moneyless domestically, the nation maintains two currencies, known as the *Vekllei Crown* and the *Government Crown* for foreign trade.
+
 - **The Vekllei Crown** is representative of Vekllei's export-import mechanism known as the *International Market*. It is gold-backed, and represents the bullion value of the Market. Since the *International Market* is completely closed and independent of the domestic economy, its value is controlled directly by the so-called Government Bank. It is one of the few gold-backed currencies in a developed nation today.
 - **The Government Crown** is not minted and used only as an investment mechanism, backed by government “white bonds” which are usually measures of labour-hours or refined materials. It is, in a sense, a fiat currency alongside a gold-backed currency.
 
@@ -265,9 +246,9 @@ Both currencies are used for trade internationally, and float on the labour-powe
 
 ### Employment
 
-![smallimg](/images/matchstick.jpg)
-
 Vekllei has a high unemployment rate for a developed country, reported at 12.5%. About 80% of Vekllei workers belong to a trade union, usually *Pettiburos* or *Bureaus*. Nearly 2 million Vekllei people are enrolled in higher education full-time, significantly reducing the nation's labour pool. These are accounted for politically as natural fluctuations of the deregulated Bureau System, and unemployment in the country has seen a stable reduction since the initial decades of independence. Although many citizens in Vekllei are immigrants, the country has few foreign workers, and those employed in the country tend to be high-skill and high-wage workers.
+
+![smallimg](/images/matchstick.jpg)
 
 Since no work is compensated by money in the country, international standard metrics for poverty and income per capita are obfuscated. It is generally understood that urban populations have easier access to consumer goods, but inferior access to local produce and genuine meat products. Rural populations are also more likely to take on informal work in their village or town, and may not necessarily hold membership in an industry bureau.
 
@@ -316,17 +297,16 @@ Vekllei is spoken by around 25 million people, and a further 800,000 people arou
 
 ### Religion
 
-![img](/images/spiritful.jpg)
-
-{{< hint caption >}}
-[Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes) stands in traditional Upen dress before an offerings box. | *[Spiritful](/posts/2021-06-19-spiritful/)*
-{{</hint>}}
-
 {{< hint red >}}
 ❖ Main article: *[Religion in Vekllei](/utopia/vekllei/culture/religion/)*
 {{< /hint >}}
 
 *Upen* is the nondenominational animism of Vekllei, and is practiced nearly universally throughout the country in various forms and traditions. As much a secular cultural tradition as an organised religion, *Upen* coexists alongside abrahamic and miscellaneous faiths in the country, integrating most immigrant populations in Vekllei into its scripture on landscape and *sumoismiaya*, or the "spirit of things."
+
+![img](/images/spiritful.jpg)
+{{< hint caption >}}
+[Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes) stands in traditional Upen dress before an offerings box. | *[Spiritful](/posts/2021-06-19-spiritful/)*
+{{</hint>}}
 
 While Vekllei has no state religion, *Upen* is thoroughly integrated with Vekllei culture and policy, and informs life and practice in this country as an agonistic feature of culture. Vekllei's Floral Constitution prohibits governmental regulation of religion or prohibition of faith. Despite this, *Upen* is taught in state schools and practiced frequently, reinforcing its relevance across younger generations in a broader resurgence of traditional folklore in the postwar era.
 
@@ -334,13 +314,12 @@ Although most people in the country observe *Upen* apolitically, several other r
 
 ### Education
 
-![img](/images/generation.jpg)
+Education in Vekllei is structured as a *State Requisite Bureau* (rather than department) under the *requoisesiasn amourisocietie scolastie*, or A.r.E. Schooling is mandatory and universal between the ages of 5 and 14, and most schools in the country serve all ages between these years. All schools in Vekllei, aside from a half-dozen religious schools, are coeducational and operated directly by the A.r.E.
 
+![img](/images/generation.jpg)
 {{< hint caption >}}
 Students in the uniform of Vekllei government schools | *[A New Generation](/posts/2021-08-21-generation/)*
 {{</hint>}}
-
-Education in Vekllei is structured as a *State Requisite Bureau* (rather than department) under the *requoisesiasn amourisocietie scolastie*, or A.r.E. Schooling is mandatory and universal between the ages of 5 and 14, and most schools in the country serve all ages between these years. All schools in Vekllei, aside from a half-dozen religious schools, are coeducational and operated directly by the A.r.E.
 
 All institutions of higher learning, including universities, trade schools and adult education, are structured under the A.r.E.. [School uniforms](/posts/2020-09-08-uniforms/) informed by [traditional dress](/posts/2020-01-11-dress/) are provided and worn from preschool through to university, and faculty staff also often wear them.
 
@@ -348,16 +327,16 @@ Vekllei's school enrolment is among the highest in the world, though this calcul
 
 ## Infrastructure
 
-![img](/images/hydro.jpg)
-{{< hint caption >}}
-Sunny morning at the [Ou Hydroburo Complex](/utopia/vekllei/landscape/boroughs/ou/#hydroburo-development) in [Ou](/utopia/vekllei/landscape/boroughs/ou/). | *[The Ou Hydroburo Office](/posts/2020-04-21-hydro/)*
-{{</hint>}}
-
 {{< hint panel >}}
 **If Vekllei** is hesitant towards formal recognition of socialist aspects within its economy, in its infrastructure those concerns are discarded entirely. Vekllei is a midcentury state of nationalised infrastructure, led by grand modernist visions of progress and affluence. When combined with *Upen's* spiritual emphasis on physicality and permanence, Vekllei's affection for monuments of utility and public works are shown to be deeply embedded in the Vekllei national political spirit.
 {{< /hint >}}
 
 **Unlike manufacturing and general industry**, public infrastructure in the country is almost entirely monopolised by the government Utilities (A.r.Un.) and Construction (A.r.Lo.) state requisites, organs in Vekllei analogous to nationalised government industry. Infrastructure consistently ranks among Vekllei's greatest national expenditure, with trillions of Kroner each year poured into projects across the country.
+
+![img](/images/hydro.jpg)
+{{< hint caption >}}
+Sunny morning at the [Ou Hydroburo Complex](/utopia/vekllei/landscape/boroughs/ou/#hydroburo-development) in [Ou](/utopia/vekllei/landscape/boroughs/ou/). | *[The Ou Hydroburo Office](/posts/2020-04-21-hydro/)*
+{{</hint>}}
 
 Most large infrastructure projects, including transport, education, health, military and extraterrestrial interests, are completed in cyclical phases similar to Soviet half-decade plans, including production quotas and hard deadlines for completion. This system of construction has allowed the country to recover quickly from its devastation in the Atomic War and develop one of the most comprehensive public infrastructure systems in the world. Vekllei is a major transport hub for international flights and Atlantic ocean crossings, served largely by the **Vekllei International Jetport** and the historic **Port of Vekllei** respectively.
 
@@ -399,16 +378,16 @@ Homes are also commonly inherited in Vekllei. All Vekllei people are guaranteed 
 
 ### Communications
 
-![img](/images/mailtrain.jpg)
-{{< hint caption >}}
-[Tzipora](/utopia/characters/#2-tzipora-zelda-desmoisnes) races a [Royal Mail](/utopia/vekllei/society/mail/) rural [mail train](/utopia/vekllei/society/mail/#fleet) to its next stop. | *[Racing the Post Office to the Station](/posts/2021-02-05-mailtrain/)*
-{{</hint>}}
-
 {{< hint mail >}}
 ❖ Main article: *[Post in Vekllei](/utopia/vekllei/society/mail/)*
 {{< /hint >}}
 
 The **Royal Mail of Vekllei** is the postal service of the country, and counts among its oldest surviving institutions. Founded in 1422, its origins as a military communications organ manifest today in its contemporary designation as a military state requisite, rather than civilian postal carrier. Despite this, the Royal Mail remains thoroughly civilian in its oversight and practice, and delivers around 50 million mail pieces a day in peak periods, including courier work abroad.
+
+![img](/images/mailtrain.jpg)
+{{< hint caption >}}
+[Tzipora](/utopia/characters/#2-tzipora-zelda-desmoisnes) races a [Royal Mail](/utopia/vekllei/society/mail/) rural [mail train](/utopia/vekllei/society/mail/#fleet) to its next stop. | *[Racing the Post Office to the Station](/posts/2021-02-05-mailtrain/)*
+{{</hint>}}
 
 Telephones, telegrams and videophones are structured under the Mail as the Office of Telecommunications, which acts as an independent organ of the Mail A.r.
 
@@ -417,3 +396,28 @@ Telephones, telegrams and videophones are structured under the Mail as the Offic
 Utilities are provided for by the national **Thunderburo** (the Hydro, Geo, Nuclear-Electric Commissions) and the **Hydroburo** (Water Commission) across the country, which were reestablished upon independence in 2015, both managed as proper bureaus of majority government ownership. Vekllei operates sixteen nuclear power plants, but most nuclear energy is sold to Europe via undersea cables. All domestic electricity is supplied by Geothermal power plants and Hydroelectric dams for political and religious reasons, making Vekllei one of the only countries of its size to rely exclusively on renewable energy supply for residential and commercial services.
 
 Vekllei has the cleanest drinking water in the world, supplied by the country's interior freshwater glaciers. Vekllei's Hydroburo is also responsible for sewerage treatment and processing in the country.
+
+<style>
+body article a {
+color: var(--color-pink);
+}
+/* flags */
+.row {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.column {
+  flex: 33.33%;
+  padding: 10px;
+}
+@media (max-width: 1250px) {
+  .row {
+    display: none;
+  }
+}
+
+.gt-container {
+  display: none;
+}
+</style>

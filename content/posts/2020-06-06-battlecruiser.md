@@ -14,7 +14,7 @@ keywords:
 image: /images/cruiser.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/gx7l0c/the_oaclass_battlecruiser/" >}}Archived from the original article here{{< /button >}}
-{{< hint red >}}
+{{< hint >}}
 
 ❖ **This article** was featured in [**Issue #2**](/newsdesk/bulletin/2020/2) of the *Atlantic Bulletin*
 {{< /hint >}}

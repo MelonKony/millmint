@@ -7,6 +7,8 @@ tag: LANDSCAPE
 sitetag: Boroughs
 color: green
 
+image: /images/gardencity.jpg
+
 weight: 1
 bookHidden: true
 
@@ -14,11 +16,6 @@ description: The borough of Lola is an administrative region of Vekllei, a utopi
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
-![smallimg](/images/recess.jpg)
-
-{{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
-<br>
 {{< hint green >}}
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
@@ -46,11 +43,13 @@ Reykjavic and its surrounding villages were agricultural for most of Vekllei's C
 
 Vekllei's Late Middle Period saw multiple famines and peasant uprisings by Vekllei's Norse ethnic population, which succeeded in instigating a civil war that installed Aismo Desimou as king. Although the name 'Vekllei' had been in use since at least the 3rd Century, it was under Deismou's rule that the island commonwealth became known as the Commonwealth of Vekllei, with a formal capital established west of Reykjavic in the present-day neighbourhood of Altanehs. The western coastal region of Lola would continue to grow outwards during this time, and farmland had reached the Esja Mountains by the 13th Century.
 
-As Desimou-era rule failed in the 14th Century, Reykjavic's influence over the commonwealth waned and saw powerful economic towns established on Vekllei's East Coast during the Period of Rest. Rising concerns over Algic nationalism saw the Commonwealth Navy launch a coup against the Reykjavic monarchy and topple the king, installing a junta known under several names in its place. The renewed colonial ambitions of the Junta established Lola as a colonial metropole, and the wealth of Vekllei's Late Period transformed the borough. Reykjavic by this time had come to resemble a continental European capital, with an urbanising cityscape marked by stone fortresses and elaborate public gardens. 
+As Desimou-era rule failed in the 14th Century, Reykjavic's influence over the commonwealth waned and saw powerful economic towns established on Vekllei's East Coast during the Period of Rest. Rising concerns over Algic nationalism saw the Commonwealth Navy launch a coup against the Reykjavic monarchy and topple the king, installing a junta known under several names in its place. The renewed colonial ambitions of the Junta established Lola as a colonial metropole, and the wealth of Vekllei's Late Period transformed the borough. Reykjavic by this time had come to resemble a continental European capital, with an urbanising cityscape marked by stone fortresses and elaborate public gardens.
 
 Lola would remain the capital of Vekllei throughout Vekllei's Late Period and into the 20th Century, until the destruction of Reykjavic in the First Atomic War and its occupation by the United Kingdom.
 
 ### Postwar Development
+
+![smallimg](/images/recess.jpg)
 
 The Atomic War saw nuclear strikes in Reykjavic and Geofyourd, destroying both the Junta's Palace of the Commonwealth and most of the Port of Vekllei. The port was reconstructed under British occupation between 2005 and 2013, but the Palace was unsalvagable and to this day remains a preserved ruin.
 
@@ -62,7 +61,7 @@ Lola in the contemporary Floral Period is a borough of hills and narrow, prewar 
 
 ## Geography
 
-Lola is coastal and low-lying, and is made up of peninsulas, islands, islets, coves and straights. During the Ice Age, it was covered by a glacier. The borough is threatened by rising seas, volcanic eruptions and earthquakes. 
+Lola is coastal and low-lying, and is made up of peninsulas, islands, islets, coves and straights. During the Ice Age, it was covered by a glacier. The borough is threatened by rising seas, volcanic eruptions and earthquakes.
 
 The neighbourhoods of Lola cover almost all of the borough, which has no contemporary Crown Lands. The borough does feature substantial parkland in the neighbourhoods of Seispri, Alveg and Geofyourd, which extent up into the Esja Mountains.
 
@@ -98,7 +97,7 @@ The Vekllei Cenotaph is a monument to all Vekllei servicemen killed during warti
 
 ### Royal Hotel of Vekllei
 
-The Royal Hotel of Vekllei, shortened to the Royal, is among Vekllei's oldest operating hotels and also its most luxurious, catering primarily to the international wealthy and the famous. Unlike Hotel International in the borough of Callaisn, most of the Royal's guests visit for pleasure rather than business. Part of the Royal Hotel complex includes the former Summer Residence of the Vekllei Monarch, inside of which are Vekllei's most expensive (and exclusive) hotel suites. The Hotel is serviced by a dedicated untimetabled train line that runs between the Royal Hotel in Hosfyourd and the Vekllei International Jetport in Pharos. 
+The Royal Hotel of Vekllei, shortened to the Royal, is among Vekllei's oldest operating hotels and also its most luxurious, catering primarily to the international wealthy and the famous. Unlike Hotel International in the borough of Callaisn, most of the Royal's guests visit for pleasure rather than business. Part of the Royal Hotel complex includes the former Summer Residence of the Vekllei Monarch, inside of which are Vekllei's most expensive (and exclusive) hotel suites. The Hotel is serviced by a dedicated untimetabled train line that runs between the Royal Hotel in Hosfyourd and the Vekllei International Jetport in Pharos.
 
 The Royal is ranked among the world's most luxurious hotels and is a subject of fascination for Vekllei people, who are unlikely to ever visit it unless accompanying a paying foreigner.
 
@@ -129,5 +128,6 @@ Lola's east is home to several combined heat and power plants, which produce bot
 - Seispri
 <--->
 ## Posts
+- [Garden City](/posts/2021-10-23-garden/)
 - [Recess on the Roof](/posts/2021-10-04-roof/)
 {{</columns>}}

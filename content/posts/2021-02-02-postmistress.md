@@ -17,7 +17,7 @@ image: "/images/postmistress.jpg"
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/lazslw/the_postmistress_of_vekllei/" >}}Archived from the original article here{{< /button >}}
 
-{{<hint red>}}
+{{<hint>}}
 ❖ **This article** was part of Vekllei's ***Mail Week*** in February 2021
 {{</hint>}}
 

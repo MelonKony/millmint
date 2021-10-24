@@ -7,6 +7,8 @@ tag: LANDSCAPE
 sitetag: Boroughs
 color: green
 
+image: /images/hollywood.jpg
+
 weight: 1
 bookHidden: true
 
@@ -14,11 +16,6 @@ description: The borough of Miyatvousi is an administrative region of Vekllei, a
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
-![img](/images/hollywood.jpg)
-
-{{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
-<br>
 {{< hint green >}}
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}

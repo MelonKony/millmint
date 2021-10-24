@@ -14,7 +14,7 @@ keywords:
 image: /images/matchstick.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/is6pr2/matchstick_girl/" >}}Archived from the original article here{{< /button >}}
-{{< hint red >}}
+{{< hint >}}
 
 ❖ **This article** was featured in [**Issue #5**](/newsdesk/bulletin/2020/5) of the *Atlantic Bulletin*
 {{< /hint >}}

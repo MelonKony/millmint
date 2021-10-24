@@ -14,7 +14,7 @@ keywords:
 image: /images/missedtrain.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/gndpwo/the_last_train_out_of_ada/" >}}Archived from the original article here{{< /button >}}
-{{< hint red >}}
+{{< hint >}}
 
 ❖ **This article** was featured in [**Issue #1**](/newsdesk/bulletin/2020/1) of the *Atlantic Bulletin*
 {{< /hint >}}

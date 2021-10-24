@@ -17,71 +17,20 @@
 
 <!DOCTYPE html>
 <html class="h-full w-full font-sans" lang='{{ .Site.LanguageCode }}'>
-  <style>
-    @media screen and (max-width: 56rem) {
-      #headerbox{
-       margin-top: 40px;
-      }
-    }
-    .markdown h2 {
-      margin: 0.5rem;
-      overflow: hidden;
-      max-width: 300px;
-    }
-    .markdown img {
-      max-height:58vh;
-      margin: 0px;
-    }
-    .gt-container {
-      display: none;
-    }
-    .markdown a {
-      text-decoration: none;
-    }
-    .markdown a:hover {
-      text-decoration: none;
-      opacity: .75;
-    }
-
-    .markdown img {
-      padding: 0;
-    }
-  </style>
     {{- partial "head.html" . -}}
       <body class="flex flex-col items-center w-full">
           <main class="w-full sm:w-10/12 md:w-9/12 lg:w-7/12 xl:w-5/12 m-auto px-6">
               {{- partial "header.html" . -}}
               <div id="content" class="my-8">
-                  {{ if .Params.changelogs }}
-                      {{ $enableCollapsibleChangelogs := (.Scratch.Get "params").enableCollapsibleChangelogs }}
-                      {{ partial "collapsible-menu.html" (dict "type" "changelogs" "context" . "enable" $enableCollapsibleChangelogs) }}
-                  {{ end }}
-
-                  {{- block "content" . }}{{- end }}
-
-                  {{ if eq .Kind "page" }}
-                      {{ if (.Params.disqus | default .Site.DisqusShortname) }}
-                          {{- partial "disqus.html" . -}}
-                      {{ end }}
-                  {{ else }}
-                      {{ if (.Params.disqus | default false) }}
-                          {{- partial "disqus.html" . -}}
-                      {{ end }}
-                  {{ end }}
-                  {{- if . -}}
-                    <ul class="my-2">
+                <!--<img stye="pointer-events: none; cursor: default;" src="/images/mastheads/stories.png">-->
+                    <ul class="post-grid my-2">
                       {{ range sort .Paginator.Pages }}
-                        <li class="mb-2 leading-relaxed list-item" style= "
-                            min-width: 100%;
-                            object-fit:cover;
-                            background-color: var(--gray-100);
-                            background-size: auto;
+                        <li class="item card leading-relaxed list-item" style= "
                             border-radius: 10px;
                             padding: 1rem;
-                            margin: 0.5rem;
-                            margin-left: auto;
-                            margin-right: auto;">
-                          <div style="margin-bottom: 1rem;">
+                            height: 100%;">
+                          <a href="{{ .RelPermalink }}">
+                          <div style="margin-bottom: .5rem;">
                             <a style="font-size: 1.2rem; font-weight: 700; color: var(--body-font-color); max-width: 75%;" href="{{ .RelPermalink }}" href="{{ .RelPermalink }}" class="text-base border-b-2">
                                 {{- .Title -}}
                             </a>
@@ -89,12 +38,11 @@
                                 {{- .PublishDate.Format "2006/01/02" -}}
                             </span>
                           </div>
-                          {{ partial "post-meta.html" . }}
+                            {{ partial "post-meta.html" . }}
+                          </a>
                         </li>
                       {{ end }}
                     </ul>
-                  {{- end -}}
-              </div>
               {{ partial "pagination.html" . }}
               <!--{{ template "_internal/pagination.html" . }}-->
               {{- partial "footer.html" . -}}
@@ -102,3 +50,34 @@
         {{- partial "resources/js.html" . -}}
     </body>
 </html>
+
+<style>
+  @media screen and (max-width: 56rem) {
+    #headerbox{
+     margin-top: 40px;
+    }
+  }
+  .markdown h2 {
+    margin: 0.5rem;
+    overflow: hidden;
+    max-width: 300px;
+  }
+  .markdown img {
+    max-height:58vh;
+    margin: 0px;
+  }
+  .gt-container {
+    display: none;
+  }
+  .markdown a {
+    text-decoration: none;
+  }
+  .markdown a:hover {
+    text-decoration: none;
+    opacity: .75;
+  }
+
+  .markdown img {
+    padding: 0;
+  }
+</style>

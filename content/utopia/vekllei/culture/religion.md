@@ -9,21 +9,16 @@ color: red
 weight: 2
 list_posts: false
 
+image: /images/death.jpg
+
 description: Upen is an indigenous religion of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
-![img](/images/death.jpg)
-{{< hint caption >}}
-Two Puffin Scouts rest in a flower-tundra, a place of great spiritual significance in Vekllei. | *[Memory and Death in the Flower Tundra](/posts/2020-09-19-death/)*
-{{</hint>}}
-
+## 1. Overview
 {{< hint red >}}
 ߷ This article is about [Vekllei](/utopia/vekllei)
 {{< /hint >}}
-
-## 1. Overview
 {{< hint panel >}}
 **Upen** is the nondenominational animistic spiritualism of Vekllei. It is both an organised religious belief system and a decentralised local animism, localised regionally across the Home Islands and beyond. As a basis for Vekllei metaphysics and general belief systems, *Upen* is a central part of Vekllei cultural identity and informs most parts of life at all levels in the country.
 {{< /hint >}}
@@ -37,12 +32,6 @@ Although traditionally atheist, *Upen* is commonly adopted by immigrant populati
 
 ### Introduction
 
-![img](/images/spiritful.jpg)
-
-{{< hint caption >}}
-[Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes) stands in traditional Upen dress before an offerings box. | *[Spiritful](/posts/2021-06-19-spiritful/)*
-{{</hint>}}
-
 
 You can find *Upen* all around you in Vekllei since, by its own spiritual metaphysics, animism is not human. It exists independently of human understanding or spirit, and *Upen* is merely the practice by which humans are cognisant and interact with the spirit of things. Wherever people and material existence collide, including man-made objects, you find *Upen*.
 
@@ -50,6 +39,11 @@ In this sense, *Upen* can be understood as having two distinct forms, practiced 
 
 * Public *Upen*, which involves priests, communities, ceremony and cultural artefacts (like [*Upotenne*](/utopia/vekllei/language/#25--upotenne) and [*Rapotenne*](/utopia/vekllei/language/#23--rapotenne)). Public *Upen* manifests similarly to other faiths, in which sites of worship, historical texts and sacred spaces inform practice and understanding.
 * Private *Upen*, which involves personal understanding and direct physicality with the aspects of material being *Upen* holds sacred, namely the spirit of all things and the human form.
+
+![img](/images/spiritful.jpg)
+{{< hint caption >}}
+[Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes) stands in traditional Upen dress before an offerings box. | *[Spiritful](/posts/2021-06-19-spiritful/)*
+{{</hint>}}
 
 Although *Upen* does retain priests informally, it lacks a hierarchical structure and is largely agnostic towards organised religion, lived and practiced instead through traditions, folklore, lifestyle and metaphysics.
 

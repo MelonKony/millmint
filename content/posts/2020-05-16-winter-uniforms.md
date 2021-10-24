@@ -14,7 +14,7 @@ keywords:
 image: /images/winteruniforms.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/gkuij7/winter_uniforms_in_vekllei/" >}}Archived from the original article here{{< /button >}}
-{{< hint red >}}
+{{< hint >}}
 
 ❖ **This article** was featured in [**Issue #1**](/newsdesk/bulletin/2020/1) of the *Atlantic Bulletin*
 {{< /hint >}}

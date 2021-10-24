@@ -21,7 +21,6 @@ article {
 /* rounded images */
 img {
 	border-radius: 5px;
-  width: 100vw;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
@@ -32,6 +31,17 @@ article img[alt~="smallimg"] {
 	min-width: 300px;
 	padding: 1rem;
   border-radius: 5px;
+}
+
+@media (min-width: 655px) {
+  article img[alt~="img"] {
+    width: 120%;
+    max-width: 120%;
+    margin-left: -10%;
+    margin-right: -10%;
+    padding: 1rem;
+    background-color: var(--gray-100);
+  }
 }
 
 :root {
@@ -205,6 +215,7 @@ body article blockquote {
 	margin-left: 0;
 	margin-right: 0;
   margin-bottom: 0.5rem;
+  margin-top: -0.5rem;
 	color: var(--body-font-light);
 	background-color: var(--body-background);
 	border-inline-start: .0rem solid var(--body-background);
@@ -428,4 +439,8 @@ body .collapsible-menu-wrapper {
 .navbar-dropdown li:last-child {
   margin-top: -1px;
   border-radius: 0 0 5px 5px;
+}
+
+article > *:first-child {
+  margin-top: .5rem;
 }

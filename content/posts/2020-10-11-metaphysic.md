@@ -15,7 +15,7 @@ image: /images/atheism.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/j8pisi/mittens_and_metaphysic_product_atheism_and/" >}}Archived from the original article here{{< /button >}}
 
-{{< hint red >}}
+{{< hint >}}
 ❖ **This article** was featured in [**Issue #6**](/newsdesk/bulletin/2020/6) of the *Atlantic Bulletin*
 {{< /hint >}}
 

@@ -17,7 +17,7 @@ image: "/images/territories.jpg"
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/m21j78/veklleis_sprawling_commonwealth/" >}}Archived from the original article here{{< /button >}}
 
-{{<hint red>}}
+{{<hint>}}
 ❖ **This article** was part of Vekllei's ***Ocean Month*** in March 2021
 {{</hint>}}
 

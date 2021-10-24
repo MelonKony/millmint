@@ -14,7 +14,7 @@ keywords:
 image: /images/peaks.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/gel3e9/fiery_peaks/" >}}Archived from the original article here{{< /button >}}
-{{< hint red >}}
+{{< hint >}}
 
 ❖ **This article** was featured in [**Issue #1**](/newsdesk/bulletin/2020/1) of the *Atlantic Bulletin*
 {{< /hint >}}

@@ -19,17 +19,17 @@ window.addEventListener("DOMContentLoaded", function () {
       //dark_mode_btn.classList.remove('hidden');
     //}
 
-    dark_mode_btn.addEventListener('click', function () {
-        document.documentElement.classList.add('dark');
-        localStorage.theme = 'dark';
-        dark_mode_btn.classList.add('hidden');
-        light_mode_btn.classList.remove('hidden');
-    });
+    //dark_mode_btn.addEventListener('click', function () {
+        //document.documentElement.classList.add('dark');
+        //localStorage.theme = 'dark';
+        //dark_mode_btn.classList.add('hidden');
+        //light_mode_btn.classList.remove('hidden');
+    //});
 
-    light_mode_btn.addEventListener('click', function () {
-        document.documentElement.classList.remove('dark');
-        localStorage.theme = 'light';
-        light_mode_btn.classList.add('hidden');
-        dark_mode_btn.classList.remove('hidden');
-    });
+    //light_mode_btn.addEventListener('click', function () {
+        //document.documentElement.classList.remove('dark');
+        //localStorage.theme = 'light';
+        //light_mode_btn.classList.add('hidden');
+        //dark_mode_btn.classList.remove('hidden');
+    //});
 });
