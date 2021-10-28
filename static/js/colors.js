@@ -30,9 +30,21 @@ window.addEventListener("load", () => {
 			function setCardBackground(rgb) {
 				console.log(rgb, card)
 				const bodyBg = rgba(...rgb, 0.1);
+				const bodyDarker = rgba(...rgb, 0.2);
 
-				const styles = `${card.getAttribute("style")}; --gray-100: ${bodyBg};`;
+				const styles = `${card.getAttribute("style")}; --gray-100: ${bodyBg}; --gray-200: ${bodyDarker}`;
 				card.setAttribute("style", styles)
+				
+				// Set individual elements
+				card.querySelectorAll(".text-xs").forEach(el => {
+					el.style.color = `rgba(${rgb.map(v => Math.max(v, 0)).join(', ')}, 1)`;
+				});
+
+				// card.querySelectorAll(".post-title").forEach(title => {
+				// 	title.style.color = `rgb(${rgb.join(', ')})`
+				// })
+
+				card.classList.add("has-color")
 
 			}
 
@@ -103,7 +115,7 @@ async function getColors(img, retryCount = 0, callback = setBackgroundColor) {
 	} catch(e) {
 		console.log(retryCount, e)
 		if(retryCount <= 3) {
-			setTimeout(() => getColors(img, retryCount + 1), 30)
+			setTimeout(() => getColors(img, retryCount + 1, callback), 30)
 			console.log('Retrying Vibrant')
 		} 
 	}
@@ -134,15 +146,15 @@ function setBackgroundColor(rgb) {
 	});
 }
 
-function rgba(r, g, b, a) {
+function rgba(r, g, b, a, base = "white") {
 	const color = `rgba(${r}, ${g}, ${b}, ${a})`;
 	const canvas = document.createElement("canvas")
 	const ctx = canvas.getContext("2d");
 	canvas.width = 1;
 	canvas.height = 1;
 
-	ctx.fillStyle = "white"
-	ctx.fillRect(0, 0, 1, 1)
+	ctx.fillStyle = base;
+	ctx.fillRect(0, 0, 1, 1);
 
 	ctx.fillStyle = color;
 	ctx.fillRect(0, 0, 1, 1);
