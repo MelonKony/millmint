@@ -1,20 +1,79 @@
 .post-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 10px 10px;
+  gap: 10px;
   grid-auto-flow: row;
 }
 
 .card {
+  width: 100%;
+  box-sizing: border-box;
   background: var(--gray-100);
-  padding: 1rem;
+  padding: 0;
   border-radius: 5px;
   transition: box-shadow .3s;
+  position: relative;
+  border: 6px solid var(--gray-100);
+}
+
+.post-info {
+  /* position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1; */
+}
+
+.post-info .text-base {
+  border-bottom: 0;
+  line-height: 1.5;
+  padding: 5px 0;
+}
+
+.post-info .post-title {
+  background: var(--gray-200);
+  padding: 0 10px;
+  border-radius: 7px;
+  box-sizing: border-box;
+}
+
+.card .this-is-the-real-title-haha {
+  filter: brightness(35%);
+}
+
+.post-title span {
+  color: black !important;
+}
+
+.post-info .a-wrapper {
+  display: block;
+  padding: 3px 10px;
+  padding-right: 20px;
+  background: var(--gray-100);
+}
+
+.card .img-wrapper {
+  overflow: hidden;
+  border-radius: 7px;
+}
+
+.card .img-wrapper img {
+  transform: scale(1.1);
 }
 
 .card:hover {
-   box-shadow: 0 0 5px rgba(33,33,33,.2);
+  box-shadow: 0 0 5px rgba(33, 33, 33, .2);
 }
 
-.item {  justify-self: center;
-  align-self: center;}
+.item {
+  justify-self: center;
+  align-self: center;
+}
+
+.card img {
+  width: 100%;
+  min-height: auto !important;
+  height: 360px !important;
+  object-fit: cover !important;
+  margin-bottom: 0;
+  margin-top: 0 !important;
+}

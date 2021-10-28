@@ -27,18 +27,25 @@
                       {{ range sort .Paginator.Pages }}
                         <li class="item card leading-relaxed list-item" style= "
                             border-radius: 10px;
-                            padding: 1rem;
                             height: 100%;">
                           <a href="{{ .RelPermalink }}">
-                          <div style="margin-bottom: .5rem;">
-                            <a style="font-size: 1.2rem; font-weight: 700; color: var(--body-font-color); max-width: 75%;" href="{{ .RelPermalink }}" href="{{ .RelPermalink }}" class="text-base border-b-2">
-                                {{- .Title -}}
-                            </a>
-                            <span class="text-xs" style="float: right; padding: 5px; font-weight: 500;">
-                                {{- .PublishDate.Format "2006/01/02" -}}
-                            </span>
+                          <div class="post-info">
+                            <div class="post-title">
+                              <span style="font-size: 1.2rem; font-weight: 700; max-width: 75%;" href="{{ .RelPermalink }}" href="{{ .RelPermalink }}" class="text-base border-b-2">
+                                  <span class="this-is-the-real-title-haha">{{- .Title -}}</span>
+                              </span>
+                            </div>
+                            <div>
+                              <div class="a-wrapper">
+                                <span class="text-xs" style="font-weight: 500;">
+                                    {{- .PublishDate.Format "2006/01/02" -}}
+                                </span>
+                              </div>
+                            </div>
                           </div>
+                          <div class="img-wrapper">
                             {{ partial "post-meta.html" . }}
+                          </div>
                           </a>
                         </li>
                       {{ end }}
@@ -81,3 +88,6 @@
     padding: 0;
   }
 </style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+<script src="/js/colors.js"></script>

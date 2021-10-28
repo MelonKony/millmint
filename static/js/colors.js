@@ -22,6 +22,44 @@ if(document.querySelector("[data-page-color]")) {
 	});
 }
 
+window.addEventListener("load", () => {
+	if(document.querySelector(".post-grid")) {
+		document.querySelectorAll("ul.post-grid > li").forEach(card => {
+			const img = card.querySelector("img")
+
+			function setCardBackground(rgb) {
+				const bodyBg = rgba(...rgb, 0.1);
+				const bodyDarker = rgba(...rgb, 0.2);
+
+				const styles = `${card.getAttribute("style")}; --gray-100: ${bodyBg}; --gray-200: ${bodyDarker}`;
+				card.setAttribute("style", styles)
+				
+				// Set individual elements
+				card.querySelectorAll(".text-xs").forEach(el => {
+					el.style.color = `rgba(${rgb.map(v => Math.max(v, 0)).join(', ')}, 1)`;
+				});
+
+				card.querySelectorAll(".this-is-the-real-title-haha").forEach(title => {
+					console.log(title)
+					title.setAttribute('style', `color: rgb(${rgb.join(', ')}) !important;`)
+				})
+
+				card.classList.add("has-color")
+
+			}
+
+			// Make sure image is finished loading
+			if (img.complete) {
+				getColors(img, 0, null).then(setCardBackground)
+			} else {
+				img.addEventListener("load", function () {
+					getColors(img, 0, null).then(setCardBackground)
+				});
+			}
+		})
+	}
+})
+
 // Initialise the color editor used to change the main color
 function initColorEditor() {
 
@@ -66,21 +104,20 @@ function initColorEditor() {
 	});
 }
 
-async function getColors(img, retryCount = 0) {
+async function getColors(img, retryCount = 0, callback = setBackgroundColor) {
 	try {
 		const vibrant = new Vibrant(img, 11);
 		const swatches = vibrant.swatches();
 
 		const key = "Vibrant"
-		setBackgroundColor(swatches[key].rgb)
+		if(callback) callback(swatches[key].rgb)
+		return swatches[key].rgb
 	} catch(e) {
-		console.log(retryCount)
+		console.log(retryCount, e)
 		if(retryCount <= 3) {
-			setTimeout(() => getColors(img, retryCount + 1), 10)
+			setTimeout(() => getColors(img, retryCount + 1, callback), 30)
 			console.log('Retrying Vibrant')
-		} //else {
-		//	alert('Vibrant.js is unable to provide the colors we need.')
-		// }
+		} 
 	}
 
 }
@@ -109,15 +146,15 @@ function setBackgroundColor(rgb) {
 	});
 }
 
-function rgba(r, g, b, a) {
+function rgba(r, g, b, a, base = "white") {
 	const color = `rgba(${r}, ${g}, ${b}, ${a})`;
 	const canvas = document.createElement("canvas")
 	const ctx = canvas.getContext("2d");
 	canvas.width = 1;
 	canvas.height = 1;
 
-	ctx.fillStyle = "white"
-	ctx.fillRect(0, 0, 1, 1)
+	ctx.fillStyle = base;
+	ctx.fillRect(0, 0, 1, 1);
 
 	ctx.fillStyle = color;
 	ctx.fillRect(0, 0, 1, 1);
