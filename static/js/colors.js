@@ -22,6 +22,32 @@ if(document.querySelector("[data-page-color]")) {
 	});
 }
 
+window.addEventListener("load", () => {
+	if(document.querySelector(".post-grid")) {
+		document.querySelectorAll("ul.post-grid > li").forEach(card => {
+			const img = card.querySelector("img")
+
+			function setCardBackground(rgb) {
+				console.log(rgb, card)
+				const bodyBg = rgba(...rgb, 0.1);
+
+				const styles = `${card.getAttribute("style")}; --gray-100: ${bodyBg};`;
+				card.setAttribute("style", styles)
+
+			}
+
+			// Make sure image is finished loading
+			if (img.complete) {
+				getColors(img, 0, null).then(setCardBackground)
+			} else {
+				img.addEventListener("load", function () {
+					getColors(img, 0, null).then(setCardBackground)
+				});
+			}
+		})
+	}
+})
+
 // Initialise the color editor used to change the main color
 function initColorEditor() {
 
@@ -66,21 +92,20 @@ function initColorEditor() {
 	});
 }
 
-async function getColors(img, retryCount = 0) {
+async function getColors(img, retryCount = 0, callback = setBackgroundColor) {
 	try {
 		const vibrant = new Vibrant(img, 11);
 		const swatches = vibrant.swatches();
 
 		const key = "Vibrant"
-		setBackgroundColor(swatches[key].rgb)
+		if(callback) callback(swatches[key].rgb)
+		return swatches[key].rgb
 	} catch(e) {
-		console.log(retryCount)
+		console.log(retryCount, e)
 		if(retryCount <= 3) {
-			setTimeout(() => getColors(img, retryCount + 1), 10)
+			setTimeout(() => getColors(img, retryCount + 1), 30)
 			console.log('Retrying Vibrant')
-		} //else {
-		//	alert('Vibrant.js is unable to provide the colors we need.')
-		// }
+		} 
 	}
 
 }
