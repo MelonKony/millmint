@@ -28,7 +28,6 @@ window.addEventListener("load", () => {
 			const img = card.querySelector("img")
 
 			function setCardBackground(rgb) {
-				console.log(rgb, card)
 				const bodyBg = rgba(...rgb, 0.1);
 				const bodyDarker = rgba(...rgb, 0.2);
 
@@ -40,9 +39,10 @@ window.addEventListener("load", () => {
 					el.style.color = `rgba(${rgb.map(v => Math.max(v, 0)).join(', ')}, 1)`;
 				});
 
-				// card.querySelectorAll(".post-title").forEach(title => {
-				// 	title.style.color = `rgb(${rgb.join(', ')})`
-				// })
+				card.querySelectorAll(".this-is-the-real-title-haha").forEach(title => {
+					console.log(title)
+					title.setAttribute('style', `color: rgb(${rgb.join(', ')}) !important;`)
+				})
 
 				card.classList.add("has-color")
 

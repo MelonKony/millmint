@@ -34,7 +34,10 @@
   padding: 0 10px;
   border-radius: 7px;
   box-sizing: border-box;
-  /* filter: brightness(35%); */
+}
+
+.card .this-is-the-real-title-haha {
+  filter: brightness(35%);
 }
 
 .post-title span {
@@ -52,6 +55,7 @@
   overflow: hidden;
   border-radius: 7px;
 }
+
 .card .img-wrapper img {
   transform: scale(1.1);
 }
