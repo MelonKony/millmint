@@ -441,7 +441,7 @@ article > *:first-child {
   margin-top: 0rem;
 }
 
-body > canvas:not(#HeaderCanvas) {
-  /* Hide annoying Vibrant canvas */
+/*body > canvas:not(#HeaderCanvas) {
+  Hide annoying Vibrant canvas
   display: none;
-}
+}*/
