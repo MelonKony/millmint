@@ -400,6 +400,20 @@ a.book-btn {
   margin-top: 0px;
 }
 
+.flex {
+	display: flex;
+}
+
+.flex-wrap {
+	flex-wrap: wrap;
+}
+
+.flex-even {
+  flex: 1 1;
+}
+
+
+
 /* toc styling */
 body .collapsible-menu-wrapper {
   margin-top: 0.5rem;

@@ -70,7 +70,7 @@
       weight = 2
 [[navbar]]
   identifier = "newsdesk"
-  name = "Newsdesk"
+  name = "News"
   url = "/newsdesk/"
   weight = 3
   [[navbar]]
