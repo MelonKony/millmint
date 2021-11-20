@@ -15,7 +15,7 @@ rgb: 79, 121, 78
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/qya4ev/socialism_backwards/" >}}Archived from the original article here{{< /button >}}
 
-Tzipora had become interested in the blossoms of Vekllei society around the same time she became aware of them. That’s actually what they were called, in the pidgin of Vekllei ideology — the tenants of petticoat-style socialism were called blossoms.
+Tzipora had become interested in the blossoms of Vekllei society around the same time she became aware of them. That’s actually what they were called, in the pidgin of Vekllei ideology — the tenets of petticoat-style socialism were called blossoms.
 
 Vekllei maintains it is not ideological; it is in fact very ideological — you are looking at a state that is afraid to its skeleton. In the dawning weeks after Vekllei’s catastrophic war, the British occupiers (**British Recovery Expedition to Vekllei**, or **BREVEK**) released into the streets some 16,000 activists who were rotting away in political prisons. The majority of these were communists or sympathisers, and found themselves vindicated in the ashes of prewar society. “Look at what we told you,” they wrote in the first issue of the Worker, “our country is in ashes.” It is no coincidence that the Vekllei Communist Party was founded on March 3rd, two days after the occupation of the country. They treated the British as liberators.
 
