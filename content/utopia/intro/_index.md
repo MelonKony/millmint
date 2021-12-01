@@ -10,39 +10,18 @@ color: pink
 weight: 1
 list_posts: false
 
+image: /images/intro.gif
+
 description: An intro to the world of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
-/* flags */
-.row {
-  display: flex;
-  margin-left: auto;
-  margin-right: auto;
-}
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-@media (max-width: 1250px) {
-  .row {
-    display: none;
-  }
-}
-
-.gt-container {
-  display: none;
-}
-</style>
-
-![Intro GIF](/images/intro.gif)
+## What is this project?
 
 {{< hint red >}}
 ߷ This article is about [**Hobart's utopia**](/utopia/intro/#three-utopias), called [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
-## What is this project?
 {{<columns>}}
 <blockquote><i>So this is Utopia,<br />
 Is it? Well — <br />
@@ -141,6 +120,26 @@ Quick facts about Vekllei and the state of the world in the mid-21st Century.
 * Vekllei's future remains heavily influenced by midcentury modernist styles.
 * Although Vekllei's unique history has influenced its region for thousands of years, most major diversions from our own timeline occur shortly after the Second World War.
 
-## Notes
-
 [^1]: Sargent, L.T., 1994. The Three Faces of Utopianism Revisited. *Utopian studies*, 5(1), p.3.
+
+<style>
+/* flags */
+.row {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+@media (max-width: 1250px) {
+  .row {
+    display: none;
+  }
+}
+
+.gt-container {
+  display: none;
+}
+</style>

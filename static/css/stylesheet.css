@@ -1,5 +1,10 @@
 /* body */
 
+html {
+		font-family: -apple-system, BlinkMacSystemFont, Inter, Inter Medium, Inter SemiBold, Inter Bold, Inter Extra Bold, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol, noto color emoji!important;
+		line-height:1.5
+	}
+
 body {
   line-height: 1.67059;
   font-size: 16px;
