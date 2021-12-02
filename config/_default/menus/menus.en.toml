@@ -57,12 +57,6 @@
     url = "/utopia/vekllei/society"
     weight = 5
     [[navbar]]
-      identifier = "government"
-      name = "Government"
-      url = "/utopia/vekllei/society/government"
-      parent = "society"
-      weight = 1
-    [[navbar]]
       identifier = "mail"
       name = "Mail"
       url = "/utopia/vekllei/society/mail"
