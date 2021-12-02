@@ -138,7 +138,7 @@ function setBackgroundColor(rgb) {
 	const colorGray = `rgba(${rgb.map(v => Math.max(v, 0)).join(', ')}, 1)`;
 
 	// Inject colors into DOM
-	document.body.setAttribute('style', `--bg: ${bg}; --body-background: ${bodyBg}; --gray-100: ${gray100}; --color-gray: ${colorGray}`);
+	document.body.setAttribute('style', `--bg: ${bg}; --body-background: ${bodyBg}; --gray-100: ${gray100}; a: ${colorGray}; background-color: ${bg}; --color-gray: ${colorGray}`);
 
 	// Force titles to take the color
 	document.querySelectorAll("h1").forEach(title => {

@@ -1,13 +1,17 @@
 /* body */
 
-html {
-		font-family: -apple-system, BlinkMacSystemFont, Inter, Inter Medium, Inter SemiBold, Inter Bold, Inter Extra Bold, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol, noto color emoji!important;
+html, body {
+		font-family: -apple-system, BlinkMacSystemFont, Inter, Helvetica, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol, noto color emoji!important;
 		line-height:1.5
 	}
 
 body {
   line-height: 1.67059;
   font-size: 16px;
+}
+
+a, body article a {
+	color: var(--color-gray);
 }
 
 article {
@@ -26,7 +30,7 @@ article img[alt~="smallimg"] {
 	width: 50%;
 	min-width: 300px;
 	padding: 1rem;
-  border-radius: 5px;
+    border-radius: 5px;
 }
 
 @media (min-width: 655px) {
@@ -460,3 +464,13 @@ body > canvas:not(#HeaderCanvas) {
   /*Hide annoying Vibrant canvas*/
   display: none;
 }
+
+/* fix menu dropdown bg colour */
+body header #navbar .navbar-dropdown li {
+	  background-color: var(--body-background);
+	}
+
+body header #navbar .navbar-dropdown li:hover {
+		background-color: var(--body-background);
+		filter: brightness(98%);
+	}

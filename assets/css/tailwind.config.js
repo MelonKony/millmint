@@ -68,7 +68,7 @@ module.exports = {
         fontSize: {
             'xs': '.75rem',
             'sm': '.875rem',
-            'base': '1rem',
+            'base': '0.9rem',
             'md': '1.125rem',
             'lg': '1.25rem',
             'xl': '1.35rem',
@@ -145,7 +145,7 @@ module.exports = {
         skew: false,
         transitionProperty: false,
         transitionDuration: false,
-        animation: false,
+        animation: true,
         transitionDelay: false,
         textDecoration: false,
         textTransform: false,

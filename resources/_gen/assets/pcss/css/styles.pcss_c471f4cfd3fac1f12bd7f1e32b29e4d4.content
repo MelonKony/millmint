@@ -1942,7 +1942,7 @@ article h4 {
 }
 
 article h5 {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 article h6 {
@@ -4515,6 +4515,91 @@ article img {
 
 .border-separate {
   border-collapse: separate;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@-webkit-keyframes ping {
+  75%, 100% {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+
+@keyframes ping {
+  75%, 100% {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes pulse {
+  50% {
+    opacity: .5;
+  }
+}
+
+@keyframes pulse {
+  50% {
+    opacity: .5;
+  }
+}
+
+@-webkit-keyframes bounce {
+  0%, 100% {
+    transform: translateY(-25%);
+    -webkit-animation-timing-function: cubic-bezier(0.8,0,1,1);
+            animation-timing-function: cubic-bezier(0.8,0,1,1);
+  }
+
+  50% {
+    transform: none;
+    -webkit-animation-timing-function: cubic-bezier(0,0,0.2,1);
+            animation-timing-function: cubic-bezier(0,0,0.2,1);
+  }
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(-25%);
+    -webkit-animation-timing-function: cubic-bezier(0.8,0,1,1);
+            animation-timing-function: cubic-bezier(0.8,0,1,1);
+  }
+
+  50% {
+    transform: none;
+    -webkit-animation-timing-function: cubic-bezier(0,0,0.2,1);
+            animation-timing-function: cubic-bezier(0,0,0.2,1);
+  }
+}
+
+.animate-none {
+  -webkit-animation: none;
+          animation: none;
+}
+
+.animate-spin {
+  -webkit-animation: spin 1s linear infinite;
+          animation: spin 1s linear infinite;
+}
+
+.animate-ping {
+  -webkit-animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+          animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+
+.animate-pulse {
+  -webkit-animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+          animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+.animate-bounce {
+  -webkit-animation: bounce 1s infinite;
+          animation: bounce 1s infinite;
 }
 
 .cursor-auto {
@@ -7511,7 +7596,7 @@ article img {
 }
 
 .text-base {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 .text-md {
@@ -11309,6 +11394,31 @@ article img {
     border-collapse: separate;
   }
 
+  .sm\:animate-none {
+    -webkit-animation: none;
+            animation: none;
+  }
+
+  .sm\:animate-spin {
+    -webkit-animation: spin 1s linear infinite;
+            animation: spin 1s linear infinite;
+  }
+
+  .sm\:animate-ping {
+    -webkit-animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+            animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+  }
+
+  .sm\:animate-pulse {
+    -webkit-animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+            animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+
+  .sm\:animate-bounce {
+    -webkit-animation: bounce 1s infinite;
+            animation: bounce 1s infinite;
+  }
+
   .sm\:cursor-auto {
     cursor: auto;
   }
@@ -13215,7 +13325,7 @@ article img {
   }
 
   .sm\:text-base {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
   .sm\:text-md {
@@ -16550,6 +16660,31 @@ article img {
     border-collapse: separate;
   }
 
+  .md\:animate-none {
+    -webkit-animation: none;
+            animation: none;
+  }
+
+  .md\:animate-spin {
+    -webkit-animation: spin 1s linear infinite;
+            animation: spin 1s linear infinite;
+  }
+
+  .md\:animate-ping {
+    -webkit-animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+            animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+  }
+
+  .md\:animate-pulse {
+    -webkit-animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+            animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+
+  .md\:animate-bounce {
+    -webkit-animation: bounce 1s infinite;
+            animation: bounce 1s infinite;
+  }
+
   .md\:cursor-auto {
     cursor: auto;
   }
@@ -18456,7 +18591,7 @@ article img {
   }
 
   .md\:text-base {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
   .md\:text-md {
@@ -21791,6 +21926,31 @@ article img {
     border-collapse: separate;
   }
 
+  .lg\:animate-none {
+    -webkit-animation: none;
+            animation: none;
+  }
+
+  .lg\:animate-spin {
+    -webkit-animation: spin 1s linear infinite;
+            animation: spin 1s linear infinite;
+  }
+
+  .lg\:animate-ping {
+    -webkit-animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+            animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+  }
+
+  .lg\:animate-pulse {
+    -webkit-animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+            animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+
+  .lg\:animate-bounce {
+    -webkit-animation: bounce 1s infinite;
+            animation: bounce 1s infinite;
+  }
+
   .lg\:cursor-auto {
     cursor: auto;
   }
@@ -23697,7 +23857,7 @@ article img {
   }
 
   .lg\:text-base {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
   .lg\:text-md {
@@ -27032,6 +27192,31 @@ article img {
     border-collapse: separate;
   }
 
+  .xl\:animate-none {
+    -webkit-animation: none;
+            animation: none;
+  }
+
+  .xl\:animate-spin {
+    -webkit-animation: spin 1s linear infinite;
+            animation: spin 1s linear infinite;
+  }
+
+  .xl\:animate-ping {
+    -webkit-animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+            animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+  }
+
+  .xl\:animate-pulse {
+    -webkit-animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+            animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+
+  .xl\:animate-bounce {
+    -webkit-animation: bounce 1s infinite;
+            animation: bounce 1s infinite;
+  }
+
   .xl\:cursor-auto {
     cursor: auto;
   }
@@ -28938,7 +29123,7 @@ article img {
   }
 
   .xl\:text-base {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
   .xl\:text-md {
@@ -32273,6 +32458,31 @@ article img {
     border-collapse: separate;
   }
 
+  .\32xl\:animate-none {
+    -webkit-animation: none;
+            animation: none;
+  }
+
+  .\32xl\:animate-spin {
+    -webkit-animation: spin 1s linear infinite;
+            animation: spin 1s linear infinite;
+  }
+
+  .\32xl\:animate-ping {
+    -webkit-animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+            animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+  }
+
+  .\32xl\:animate-pulse {
+    -webkit-animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+            animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+
+  .\32xl\:animate-bounce {
+    -webkit-animation: bounce 1s infinite;
+            animation: bounce 1s infinite;
+  }
+
   .\32xl\:cursor-auto {
     cursor: auto;
   }
@@ -34179,7 +34389,7 @@ article img {
   }
 
   .\32xl\:text-base {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
   .\32xl\:text-md {
