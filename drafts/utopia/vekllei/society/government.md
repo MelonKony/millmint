@@ -152,10 +152,11 @@ The Government of Vekllei is
         * Special Protectorate Bureau (SP/NI)
     * Public Security Directorate
     * State Security Directorate
-      * State Secrets Bureau
+      * State Secrets Office
   * **Commonwealth Education Secretariat** (CHICOM)
     * Vekllei Public Education Directorate
     * Vekllei Higher Education Directorate
+    * Vekllei National Laboratories
     * Academy of Natural Sciences
     * Academy of Engineering Sciences
     * Academy of Social Sciences
@@ -188,6 +189,7 @@ The Government of Vekllei is
     * General Office
     * Office of the Postmistress
 * **Protectorate of the Land Sovereign**
+* **Advocate of the Parliament**
 {{< /details >}}
 
 ## Government of Vekllei
