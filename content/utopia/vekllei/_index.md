@@ -16,7 +16,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 ## Overview
 
-{{< hint pink >}}
+{{< hint >}}
 ߷ This article is about [**Hobart's**](/newsdesk/about) [**utopia**](/utopia/intro)
 {{< /hint >}}
 
@@ -399,7 +399,7 @@ Vekllei has the cleanest drinking water in the world, supplied by the country's 
 
 <style>
 body article a {
-color: var(--color-pink);
+/* color: var(--color-pink); */
 }
 /* flags */
 .row {

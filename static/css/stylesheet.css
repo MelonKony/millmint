@@ -68,43 +68,43 @@ article img[alt~="smallimg"] {
 }
 
 /* colors */
-.blue {
+.blue, .article-blue a {
 	color: var(--color-blue);
 }
-.brown {
+.brown, .article-brown a {
 	color: var(--color-brown);
 }
-.gray {
+.gray, .article-gray a {
 	color: var(--color-gray);
 }
-.green {
+.green, .article-green a {
 	color: var(--color-green);
 }
-.indigo {
+.indigo, .article-indigo a {
 	color: var(--color-indigo);
 }
-.orange {
+.orange, .article-orange a {
 	color: var(--color-orange);
 }
-.mail {
+.mail, .article-mail a {
 	color: #BA1D37;
 }
-.vnr {
+.vnr, .article-vnr a {
 	color: #FF564F;
 }
-.pink {
+.pink, .article-pink a {
 	color: var(--color-pink);
 }
-.purple {
+.purple, .article-purple a {
 	color: var(--color-purple);
 }
-.red {
+.red, .article-red a {
 	color: var(--color-red);
 }
-.teal {
+.teal, .article-teal a {
 	color: var(--color-teal);
 }
-.yellow {
+.yellow, .article-yellow a {
 	color: var(--color-yellow);
 }
 
@@ -162,51 +162,51 @@ body article blockquote {
 	padding: 1rem;
 }
 
- .book-hint.blue {
+ .book-hint.blue, .article-blue .book-hint[class="book-hint "] {
 	border-color: var(--color-blue);
 	background-color: rgba(0,112,245,.1);
 }
 
- .book-hint.green {
+ .book-hint.green, .article-green .book-hint[class="book-hint "] {
 	border-color: var(--color-green);
 	background-color: rgba(30,195,55,.1);
 }
 
- .book-hint.orange {
+ .book-hint.orange, .article-orange .book-hint[class="book-hint "] {
 	border-color: var(--color-orange);
 	background-color: rgba(245,139,0,.1);
 }
 
- .book-hint.mail {
+ .book-hint.mail, .article-mail .book-hint[class="book-hint "] {
 	border-color: #BA1D37;
 	background-color: rgba(186, 29, 55,.1);
 }
 
- .book-hint.vnr {
+ .book-hint.vnr, .article-vnr .book-hint[class="book-hint "] {
 	border-color: #FF564F;
 	background-color: rgba(255, 86, 79,.1);
 }
 
- .book-hint.yellow {
+ .book-hint.yellow, .article-yellow .book-hint[class="book-hint "] {
 	border-color: var(--color-yellow);
 	background-color: rgba(245,194,0,.1);
 }
 
- .book-hint.pink {
+ .book-hint.pink, .article-pink .book-hint[class="book-hint "] {
 	border-color: var(--color-pink);
 	background-color: rgba(245,35,75,.1);
 }
- .book-hint.purple {
+ .book-hint.purple, .article-purple .book-hint[class="book-hint "] {
 	border-color: var(--color-purple);
 	background-color: rgba(159,75,201,.1);
 }
 
- .book-hint.red {
+ .book-hint.red, .article-red .book-hint[class="book-hint "] {
 	border-color: var(--color-red);
 	background-color: rgba(245,49,38,.1);
 }
 
- .book-hint.indigo {
+ .book-hint.indigo, .article-indigo .book-hint[class="book-hint "] {
 	border-color: var(--color-indigo);
 	background-color: rgba(132,64,241,.1);
 }
