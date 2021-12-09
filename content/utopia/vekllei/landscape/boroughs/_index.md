@@ -18,7 +18,7 @@ list_posts: false
 }
 </style>
 
-{{< hint green >}}
+{{< hint >}}
 ߷ This page lists completed articles on [**Vekllei's**](/utopia/vekllei) [**boroughs**](/utopia/vekllei/#administrative-divisions)
 {{< /hint >}}
 

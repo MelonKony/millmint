@@ -23,7 +23,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 </style>
 
 ## Overview
-{{< hint vnr >}}
+{{< hint >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei) society
 {{< /hint >}}
 
@@ -181,7 +181,7 @@ VNR's main freight lines run mostly on a seperate gauge and network, and are com
 
 ## Operations
 
-{{< hint vnr >}}
+{{< hint >}}
 ❖ Read more: *[Station Logic](/posts/2021-06-01-station-logic/)*
 {{< /hint >}}
 
@@ -202,7 +202,7 @@ VNR services are mostly unticketed, and as a Vekllei industry, are free to ride.
 ### Staff
 ![smallimg](/images/vnr.jpg)
 
-{{< hint vnr >}}
+{{< hint >}}
 ❖ Read more: *[The People of Vekllei National Rail](/posts/2021-04-25-rail/)*
 {{< /hint >}}
 
@@ -213,7 +213,7 @@ The organisation is administered by the President of the Rail Central Office, wh
 
 ### Fleet
 
-{{< hint vnr >}}
+{{< hint >}}
 ❖ Download the [VNR Rolling Stock List (PDF)](/files/factbook/VNR-Rolling-Stock-Bulletin.pdf)
 {{< /hint >}}
 

@@ -14,7 +14,7 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 
-{{< hint blue >}}
+{{< hint >}}
 **❖ Note from the Editor**
 This essay was written in June 2021. [Click here to see it as a post](/posts/2021-06-26-utopie).
 {{< /hint >}}

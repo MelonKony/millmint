@@ -12,7 +12,7 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 
-{{< hint yellow >}}
+{{< hint >}}
 ❖ If you're looking to contact me, you can **write to me** [**here**](mailto:studio@millmint.net)
 {{< /hint >}}
 

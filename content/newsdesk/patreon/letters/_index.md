@@ -6,12 +6,14 @@ emoji: -mail
 tag: PATREON
 sitetag: Newsdesk
 
+color: blue
+
 description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 
-{{< hint info >}}
+{{< hint >}}
 **❖ Note from the Editor**
 I occasionally publish letters to followers and patrons of the project to keep them informed on what's going on.
 {{< /hint >}}

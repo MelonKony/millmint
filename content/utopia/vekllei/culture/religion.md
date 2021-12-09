@@ -16,7 +16,7 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 ## 1. Overview
-{{< hint red >}}
+{{< hint >}}
 ߷ This article is about [Vekllei](/utopia/vekllei)
 {{< /hint >}}
 {{< hint panel >}}

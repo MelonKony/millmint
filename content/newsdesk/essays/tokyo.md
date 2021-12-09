@@ -13,7 +13,7 @@ description: An essay on visiting Tokyo by Hobart Phillips, a utopian illustrato
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-{{< hint blue >}}
+{{< hint >}}
 **❖ Note from the Editor**
 This article was **originally published** in **December 2018**. Yes, it’s painfully self-concerned and a little difficult to read back, but for newcomers to the project you might find some “obvious truths” about Vekllei you have not yet encountered.
 {{< /hint >}}

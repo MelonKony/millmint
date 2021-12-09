@@ -6,11 +6,13 @@ emoji: a
 tag: COMIC
 sitetag: Story
 
+color: yellow
+
 description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-{{< hint yellow >}}
+{{< hint >}}
 ❖ **Tip:** press the black circle in the menu to read in dark mode
 {{< /hint >}}
 {{< hint >}}

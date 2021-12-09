@@ -115,7 +115,7 @@ Since Vekllei is nonpartisan, it does not allow formal participation of parties 
 
 ### Administrative divisions
 
-{{< hint pink >}}
+{{< hint >}}
 ❖ See also: *[Boroughs of Vekllei](/utopia/vekllei/landscape/boroughs)*
 {{< /hint >}}
 
@@ -194,6 +194,10 @@ These features manifest in various forms throughout modern Vekllei, including it
 
 {{< hint panel >}}
 **Vekllei** is land of plenty and small pleasures, afforded by a post-scarcity system that positions competing systems against each other. It is made up of a startling series of contradictions -- one after the other, each more unusual than the last. Vekllei is a planned economy; it is also a free market. Property ownership is obfuscated by portioned sovereignty of land and product. Decommodification has devalued products in a country based on manufacturing. There are many contradictions, inefficiencies and unusual mechanisms in the Vekllei domestic market, which total to benefit the living conditions of the average person.
+{{< /hint >}}
+
+{{< hint >}}
+❖ See also: *[On Moneylessness](/newsdesk/essays/moneylessness/)*
 {{< /hint >}}
 
 **Although a major power**, Vekllei has an unusual hybrid market system called the *Vekllei Bureau System* (known colloquially as *Petticoat Socialism*), which incorporates state-owned socialist planned economics and deregulated syndicalist vertical *bureaus* to benefit a free, unregulated informal market system. Most unique about the Vekllei economy is its functional moneylessness, in which domestic society has abolished currency. No widespread currency substitutes are used in ordinary life. Each citizen owns a share of the *Labour Bank of Vekllei*, a portion of the *Government Securities Bureau* designed to allow emigration from the country, and so is theoretically entitled to an equal portion of the Bank.
@@ -398,9 +402,6 @@ Utilities are provided for by the national **Thunderburo** (the Hydro, Geo, Nucl
 Vekllei has the cleanest drinking water in the world, supplied by the country's interior freshwater glaciers. Vekllei's Hydroburo is also responsible for sewerage treatment and processing in the country.
 
 <style>
-body article a {
-/* color: var(--color-pink); */
-}
 /* flags */
 .row {
   display: flex;

@@ -18,7 +18,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ---
 ## What is this project?
 
-{{< hint red >}}
+{{< hint >}}
 ߷ This article is about [**Hobart's utopia**](/utopia/intro/#three-utopias), called [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
@@ -61,7 +61,7 @@ Just a few things to keep in mind:
 
 ### Three Utopias
 
-{{< hint red >}}
+{{< hint >}}
 ❖ Check out the [**FAQ**](/utopia/intro/faq)
 {{< /hint >}}
 
@@ -77,7 +77,7 @@ This project has three parts. Each part is a little utopia, in the sense that it
 
 ## What is Vekllei?
 
-{{< hint red >}}
+{{< hint >}}
 ❖ Main article: [*Vekllei*](/utopia/vekllei)
 {{< /hint >}}
 

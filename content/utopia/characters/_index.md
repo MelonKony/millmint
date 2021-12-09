@@ -25,7 +25,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 Several core characters of this project's story, making a short film in [Miyatvousi](/utopia/vekllei/landscape/boroughs/miyatvousi/). From left: *Moise*, *Coretti*, *Tzipora* and *Cobian*. | *[Gone Hollywood](/posts/2021-05-24-hollywood/)*
 {{</hint>}}
 
-{{< hint pink >}}
+{{< hint >}}
 ߷ This article is about [**Hobart's characters**](/utopia/intro/#three-utopias), who live in [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 

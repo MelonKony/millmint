@@ -17,7 +17,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ---
 
 ## 1. Overview
-{{< hint red >}}
+{{< hint >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
@@ -43,7 +43,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 ### Introduction
 
-{{< hint red >}}
+{{< hint >}}
 ❖ Read more: *[How to Speak Vekllei](/posts/2020-11-14-language/)*
 {{< /hint >}}
 
@@ -169,7 +169,7 @@ Despite common use of the phonetic system in modernity, the semantic readings of
 
 ### Structure
 
-{{< hint red >}}
+{{< hint >}}
 ❖ Read more: *[How to Read Vekllei](/posts/2021-05-31-topet/)*
 {{< /hint >}}
 
@@ -199,7 +199,7 @@ Contemporary *Rapotenne* is informed by pictographic proto-*Topet* runes as well
 *Rapotenne* consists of 452 characters in common practice, although priests and regional dialects may employ upwards of 1,000. Despite integration with the formal Vekllei language constellation, minor differences in pronunciation survive. For example, the Alveolar /s͇/ is dropped before consonants in ordinary spoken Vekllei, making it rare in modern usage, but is voiced in *Rapotenne*. The shape and stroke order of characters determines the physicality of [*Upotenne*](/utopia/vekllei/language/#6-upotenne), as their function within ritual is more or less the same. Although simplistic and literally figurative, *Rapotenne* is used extensively in religious script and poetry, and remains an important cultural force within Vekllei.
 
 ## 5. Potenne
-{{< hint red >}}
+{{< hint >}}
 ❖ **Try Potenne yourself!** Hold out your thumb and forefinger on one hand, and tuck the other fingers against your palm. You've just said "good to see you again."
 {{</hint>}}
 

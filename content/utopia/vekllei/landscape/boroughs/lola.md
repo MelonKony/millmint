@@ -16,7 +16,7 @@ description: The borough of Lola is an administrative region of Vekllei, a utopi
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-{{< hint green >}}
+{{< hint >}}
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
