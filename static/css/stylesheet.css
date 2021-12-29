@@ -214,9 +214,9 @@ body article blockquote {
 .book-hint.caption {
 	margin-left: 0;
 	margin-right: 0;
-  margin-bottom: 0.5rem;
-  margin-top: -0.5rem;
-	color: var(--body-font-light);
+    margin-bottom: 0.5rem;
+    margin-top: -0.5rem;
+	color: var(--color-gray);
 	background-color: var(--body-background);
 	border-inline-start: .0rem solid var(--body-background);
 	font-size: 12px;
