@@ -6,6 +6,7 @@
       "blockquote",
       "body",
       "br",
+      "button",
       "canvas",
       "details",
       "div",
@@ -178,6 +179,7 @@
       "right-0",
       "rounded",
       "row",
+      "shop-title",
       "sitetag",
       "sm:w-10/12",
       "tag",
@@ -262,6 +264,7 @@
       "cat-2852020",
       "chapter-1",
       "characters",
+      "checkout-button-price_1JlrXsAKkJE9EkvQxiiMPpG6",
       "chocolate-21112020",
       "cited-works",
       "clean-faces-full-hearts-uniforms-in-vekllei-892020",
@@ -286,6 +289,7 @@
       "editorial-council",
       "education",
       "employment",
+      "error-message",
       "esja-mountains",
       "etymology",
       "falling-1",
@@ -405,6 +409,7 @@
       "monophthongs",
       "mortality-and-innocence-in-grave-of-the-fireflies",
       "movement",
+      "my-store-70111085",
       "national-rail",
       "nationalisation",
       "navbar",
@@ -562,6 +567,8 @@
       "winter-uniforms-in-vekllei",
       "yana-lakehouse",
       "yana-thunderburo-geothermal-research-plant",
+      "you-have-not-been-charged",
+      "your-order-was-cancelled",
       "youre-not-japanese"
     ]
   }
