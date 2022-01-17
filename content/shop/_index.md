@@ -3,8 +3,12 @@ title: Shop
 list_posts: false
 ---
 <div class="shop-title">
+  <a href="/shop/">
   <img stye="pointer-events: none; cursor: default;" src="/images/mastheads/shop/shop.png">
+  </a>
 </div>
+
+<br>
 
 <div id="my-store-70111085"></div>
 <div>
