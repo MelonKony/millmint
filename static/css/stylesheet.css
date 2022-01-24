@@ -119,11 +119,59 @@ article img[alt~="smallimg"] {
 	line-height: .89286;
 }
 
+/* section style section */
+
+.section {
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	color: var(--body-font-color);
+	background-color: var(--gray-100);
+	opacity: .85;
+	border-inline-start: none;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: -.01em;
+	border-radius: 5px;
+	padding: 1rem;
+	font-style: normal;
+}
+	
+.section blockquote {
+	margin: 1rem 0;
+	padding: .5rem 1rem .5rem .75rem;
+	border-inline-start: none;
+	border-radius: .25rem;
+}
+
+/* boxtag styling */
+
+.boxtag {
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 1rem; 
+	float: right;
+	color: var(--body-font-color);
+	background-color: var(--gray-100);
+	border-inline-start: none;
+	font-size: 16px;
+	line-height: 1.4;
+	letter-spacing: -.01em;
+	border-radius: 5px;
+	padding: .25rem;
+	font-style: normal;
+	font-weight: bold;
+}
+
+.boxtag.pink, .article-pink .boxtag[class="boxtag"] {
+		border-color: var(--color-pink);
+		background-color: rgba(245,35,75,.1);
+	}
+
 /* book hint section */
 
- .book-hint {
+.book-hint {
 	margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
+	margin-bottom: 0.5rem;
 	color: var(--body-font-color);
 	background-color: var(--gray-100);
 	border-inline-start: none;
@@ -132,7 +180,7 @@ article img[alt~="smallimg"] {
 	letter-spacing: -.01em;
 	border-radius: 5px;
 	padding: .5rem;
-  font-style: normal;
+	font-style: normal;
 }
 
 .book-hint blockquote {

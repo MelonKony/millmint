@@ -7,6 +7,8 @@ tag: LANDSCAPE
 sitetag: Boroughs
 color: green
 
+image: /images/marinerailway.jpg
+
 weight: 1
 bookHidden: true
 
@@ -14,9 +16,6 @@ description: The Commonwealth of Kalina is an administrative region of the Commo
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
-![img](/images/marinerailway.jpg)
-
 {{< hint green >}}
 ߷ This article is about an [**overseas member**](/utopia/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/utopia/vekllei)
 {{< /hint >}}
@@ -54,7 +53,7 @@ Montesur is actively volcanic, and sees minor eruptions every few years.
 ## 4. Politics
 
 <span class="fc">K</span>
-alina shares the Vekllei city-state's unusual parliamentary system and geographic electoral districts. The country is independent, but like other full members of Commonwealth it shares much of its constitutional legislature and state structure with the Vekllei city-state. The Armed Forces of the Commonwealth of Vekllei are responsible for defence of Kalina, which is positioned strategically in the Caribbean and hosts several important military facilities throughout its island chains. 
+alina shares the Vekllei city-state's unusual parliamentary system and geographic electoral districts. The country is independent, but like other full members of Commonwealth it shares much of its constitutional legislature and state structure with the Vekllei city-state. The Armed Forces of the Commonwealth of Vekllei are responsible for defence of Kalina, which is positioned strategically in the Caribbean and hosts several important military facilities throughout its island chains. Vekllei also coordinates Kalina's foreign affairs through the Overseas Affairs Office of the Commonwealth Culture Secretariat.
 
 ### The Vekllei Commonwealth
 

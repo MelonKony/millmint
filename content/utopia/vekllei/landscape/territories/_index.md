@@ -6,42 +6,10 @@ tag: LANDSCAPE
 sitetag: Introduction
 color: green
 
+image: /images/territories.jpg
+
 weight: 1
 ---
-<style>
-.markdown a {
-color: var(--color-green);
-}
-.markdown a.anchor {
-color: var(--color-green);
-}
-aside nav ul a {
-color: var(--color-green);
-}
-#headerbox .emoji {
-color: var(--color-green);
-}
-.markdown a:visited {
-color: var(--color-green);
-
-/* flags */
-.row {
-  display: flex;
-  margin-left: auto;
-  margin-right: auto;
-}
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-@media (max-width: 1250px) {
-  .row {
-    display: none;
-  }
-}
-
-}
-</style>
 
 ![img](/images/territories.jpg)
 
@@ -66,3 +34,23 @@ color: var(--color-green);
 ![img](/images/mastheads/flags/moon.png)
 <a href="https://millmint.net/utopia/vekllei" rel="some text">![img](/images/mastheads/flags/vekllei-domestic.png)</a>
 <a href="https://millmint.net/utopia/vekllei" rel="some text">![img](/images/mastheads/flags/vekllei-international.png)</a>
+
+<style>
+/* flags */
+.row {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+@media (max-width: 1250px) {
+  .row {
+    display: none;
+  }
+}
+
+}
+</style>
