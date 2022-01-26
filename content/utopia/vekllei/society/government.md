@@ -484,7 +484,9 @@ The COLSEC Overseas Affairs Office coordinates (COLSESEA) the foreign offices of
 
 ### Commonwealth Security Secretariat {{<boxtag pink>}}OPSEC{{</boxtag>}}
 
-The *Commonwealth Security Secretariat* (OPSEC) is the mother organisation of the internal and external security and intelligence bodies of the Vekllei government.
+The *Commonwealth Security Secretariat* (OPSEC) is the mother organisation of the internal and external security organs of the Vekllei government. These include intelligence gathering, espionage, special policing, and state security apparatuses.
+
+Like most features of the 
 
 {{<section>}}
 #### National Intelligence Directorate
@@ -593,28 +595,83 @@ The *Americas Bureau* at *National Intelligence* (AB/NI) reports information and
 {{<section>}}
 #### Academy of Political Sciences
 {{</section>}}
-  * **Commonwealth Construction Secretariat** (CONSEC)
-  * **Commonwealth Labour Secretariat** (LABSEC)
-  * **Vekllei Health Secretariat** (HELSEC)
-* **Administration of the Sovereign** (SOVA)
-  * **Vekllei Democracy Commission** (DEMCOM)
-  * **Fair Work Authority** (FAIRWORK)
-    * Quality of Life Surveillance Commission
-  * **Office of the Auditor-General**
-  * **Office of the Secretary-General**
-  * **Petitions Office**
-* **Courts of the Commonwealth**
-  * **Procuratorate of the Commonwealth**
-    * High Court of the Vekllei Commonwealth
-    * Lower Courts of the Vekllei Commonwealth
-  * **Office of the Attorney-General**
-  * **Office of the Democracy-Advocate**
+
+### Commonwealth Construction Secretariat {{<boxtag pink>}}CONSEC{{</boxtag>}}
+
+### Commonwealth Labour Secretariat {{<boxtag pink>}}LABSEC{{</boxtag>}}
+
+### Vekllei Health Secretariat {{<boxtag pink>}}HELSEC{{</boxtag>}}
 
 ---
 
-## Palace of the Sovereign
+## Administration of the Sovereign {{<boxtag pink>}}SOVA{{</boxtag>}}
 
+### Vekllei Democracy Commission {{<boxtag pink>}}DEMCOM{{</boxtag>}}
 
+### Fair Work Authority {{<boxtag pink>}}FAIRWORK{{</boxtag>}}
+
+{{<section>}}
+#### Quality of Life Surveillance Commission
+{{</section>}}
+
+### Office of the Auditor-General
+
+### Office of the Secretary-General
+
+### Petitions Office
+
+---
+
+## Courts of the Commonwealth
+
+### Procuratorate of the Commonwealth
+
+{{<section>}}
+#### High Court of the Vekllei Commonwealth
+{{</section>}}
+{{<section>}}
+#### Lower Courts of the Vekllei Commonwealth
+{{</section>}}
+
+### Office of the Attorney-General
+
+### Office of the Democracy-Advocate
+
+---
+
+# Palace of the Vekllei Sovereign
+
+{{< hint panel >}}
+**Since most Vekllei people** catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated "companies" in Vekllei.
+{{< /hint >}}
+
+The Government of Vekllei is made up of Ministries, Offices, Bureaus, Commissions, Directorates and Secretariats depending on the size, purpose and organisation of the organ.
+
+---
+
+## Royal Armed Forces of Vekllei
+
+### Crown Army of Vekllei
+
+### Crown Navy of Vekllei
+
+### Crown Air Service of Vekllei
+
+### Crown Rocket Navy of Vekllei
+
+### Crown Mail of Vekllei
+
+{{<section>}}
+#### General Office
+{{</section>}}
+{{<section>}}
+#### Office of the Postmistress
+{{</section>}}
+
+## Protectorate of the Land Sovereign
+## The Police of the Crown
+## Advocate of the Parliament
+### Office of the Prime Minister
 
 ## Notes
 
