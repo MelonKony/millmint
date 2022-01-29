@@ -45,7 +45,7 @@ What we know as the Vekllei Government is actually portioned between several pow
 Accordingly, the Vekllei Government is separated into two governing bodies.
 
 1. **The Palace of the Land Sovereign**
-2. **The Government of the Vekllei Commonwealth, including Vekllei and its Atlantic possessions**
+2. **The Government of the Atlantic Commonwealth, including Vekllei and its Atlantic possessions**
 
 The following passages outline their structure and purpose as a general framework and reference for the political structure of the country.
 
@@ -232,13 +232,30 @@ Vekllei citizens are entitled to an equal share of the money stored in the Labou
 The *National Mint of Vekllei* is the sole producer of currency in Vekllei, tasked with minting and melting the Vekllei Crown. It also regulates gold bullion in the country, and manufactures bullion for use in the International Market. It is headquartered in Vekllei Proper, in the Home Islands.
 
 The National Mint of Vekllei is well-regarded internationally for the purity of its metals and intricate commemorative coins, leading international numismatics in colour and variety.
-
 {{</section>}}
+
 {{<section>}}
 #### Vekllei Securities Commission
+
+The *Vekllei Securities Commission* (VECSEC) regulates securities in the Vekllei International Market. It advises fiscal decision-making to the Parliament of Vekllei and legislates trade practices in the country, including the issuing and ownership of White and Blue bonds.
+
+Since Vekllei citizens do not usually participate in the domestic securities markets, VECSEC lacks traditional legal authority over many of the foreigner participants in its supervised markets, but does extradite and prosecute financial crime through the EUROVEK and USVEK extradition treaties. It is made up of the following departments.
+
+* Department of Financing and Stock Exchange
+* Department of International Markets
+* Department of Investments and Trusts
+* Department of General Counsel
+* Department of Prosecution
 {{</section>}}
 {{<section>}}
 #### Vekllei Trade Commission
+
+The *Vekllei Trade Commission* regulates consumer protections and antitrust law, and organises trade information from other ministries and supervisory bureaus into policy recommendations and legislation. The Trade Commission also monitors and reports the health of foreign markets, and conducts research into broader geopolitical financial interests, particularly as they compete with domestic interests. It includes the following departments.
+
+* Department of Consumer Affairs
+* Department of Competition
+* Department of Market Research
+* Bureau of Economics
 {{</section>}}
 
 ### Ministry of the Commonwealth {{<boxtag pink>}}COSMOCOM{{</boxtag>}}
@@ -250,6 +267,7 @@ The *Ministry of the Commonwealth* (COSMOCOM) is the organ through which the Int
 
 The *Accreditation Directorate* legislates academic and industrial qualifications in Vekllei.
 {{</section>}}
+
 {{<section>}}
 #### Research Directorate
 
@@ -260,18 +278,19 @@ The *Research Directorate* conducts research and prepares policy objectives for 
 * **Department of Democracy**: Research that contributes to floral democracy, particularly as it operates at the borough and canton levels of government.
 * **Department of Civil Affairs**: Research related to civil rights, demography and culture policy.
 * **Department of Commonwealth Economics and Trade**: Macroeconomic research in Commonwealth trade.
-* **Department of Reform**: Offices and staff in South Vekllei.
-
+* **Department of Reform**: Research related to Vekllei bureaucracy and the efficiency of its government.
 {{</section>}}
 
 {{<section>}}
 #### Standardisations Directorate
 
-The *Standardisations Directorate* works to standardise all departments of the Government, including the appearance and manuals of style of Commonwealth infrastructure and publications. Their work includes major brand elements like flags and logos, and specific linguistic and typographic features including fonts, preferred punctuation and symbols. It has considerable authority over other departments, which usually lack autonomy to enforce their own visual identity independently. Most work for the Standardisations Directorate is performed by in-house designers and artists.
+The *Standardisations Directorate* works to standardise the visual identity of all departments of the Government and boroughs of the Commonwealth, including the appearance and manuals of style of Commonwealth infrastructure and publications. Their work includes major brand elements like flags and logos, and specific linguistic and typographic features including typefaces, preferred punctuation and symbols. It has considerable authority over other departments, which usually lack autonomy to enforce their own visual identity independently. Most work for the Standardisations Directorate is performed by in-house designers and artists.
 {{</section>}}
 
 {{<section>}}
 #### State Assets Directorate
+
+The *State Assets Directorate* manages state-owned companies across the Commonwealth, particularly those with considerable international trade. These include several major industrial companies in Vekllei, like General Reactor S.A.
 {{</section>}}
 {{<section>}}
 #### Statistics Directorate
@@ -463,7 +482,7 @@ The COLSEC Cultural Heritage Affairs Office (COLSEHE)
 
 ##### Overseas Affairs Office
 
-The COLSEC Overseas Affairs Office coordinates (COLSESEA) the foreign offices of the Commonwealth, particularly for states that lack their own foreign affairs offices in [Kalina](/utopia/vekllei/landscape/territories/kalina) and the [West Antilles](/utopia/vekllei/landscape/territories/west). It also serves as an advisory board for policy and trade with other countries, particularly as they interact with autonomous states.
+The COLSEC Overseas Affairs Office (COLSESEA) coordinates the foreign offices of the Commonwealth, particularly for states that lack their own foreign affairs offices in [Kalina](/utopia/vekllei/landscape/territories/kalina) and the [West Antilles](/utopia/vekllei/landscape/territories/west). It also serves as an advisory board for policy and trade with other countries, particularly as they interact with autonomous states.
 {{</section>}}
 {{<section>}}
 #### Commonwealth Records and Telegraph Directorate
@@ -660,6 +679,10 @@ The Government of Vekllei is made up of Ministries, Offices, Bureaus, Commission
 ### Crown Rocket Navy of Vekllei
 
 ### Crown Mail of Vekllei
+
+{{< hint >}}
+❖ Main article: *[The Crown Mail of Vekllei](/utopia/vekllei/society/mail)*
+{{< /hint >}}
 
 {{<section>}}
 #### General Office
