@@ -241,21 +241,21 @@ The *Vekllei Securities Commission* (VECSEC) regulates securities in the Vekllei
 
 Since Vekllei citizens do not usually participate in the domestic securities markets, VECSEC lacks traditional legal authority over many of the foreigner participants in its supervised markets, but does extradite and prosecute financial crime through the EUROVEK and USVEK extradition treaties. It is made up of the following departments.
 
-* Department of Financing and Stock Exchange
-* Department of International Markets
-* Department of Investments and Trusts
-* Department of General Counsel
-* Department of Prosecution
+* **Department of Financing and Stock Exchange**: Regulation and monitoring of the Vekllei Stock Exchange and miscellaneous securities within the country.
+* **Department of International Markets**: Regulation and monitoring of the Vekllei International Market and government bonds.
+* **Department of Investments and Trusts**: Regulation and monitoring of the investments, securities and financial contracts of Vekllei citizens and companies.
+* **Department of General Counsel**: Advisory board to the Commonwealth.
+* **Department of Prosecution**: Enforcement of penalties and prosecution of financial crimes.
 {{</section>}}
 {{<section>}}
 #### Vekllei Trade Commission
 
 The *Vekllei Trade Commission* regulates consumer protections and antitrust law, and organises trade information from other ministries and supervisory bureaus into policy recommendations and legislation. The Trade Commission also monitors and reports the health of foreign markets, and conducts research into broader geopolitical financial interests, particularly as they compete with domestic interests. It includes the following departments.
 
-* Department of Consumer Affairs
-* Department of Competition
-* Department of Market Research
-* Bureau of Economics
+* **Department of Consumer Affairs**: Regulation of the consumer rights.
+* **Department of Competition**: Regulation of Bureau and Petty Bureau companies, including state monopolies.
+* **Department of Market Research**: Analysis and research of domestic and international markets, compiled and forwarded to other Interior Ministries.
+* **Bureau of Economics**: Macroeconomic research.
 {{</section>}}
 
 ### Ministry of the Commonwealth {{<boxtag pink>}}COSMOCOM{{</boxtag>}}
@@ -265,7 +265,7 @@ The *Ministry of the Commonwealth* (COSMOCOM) is the organ through which the Int
 {{<section>}}
 #### Accreditation Directorate
 
-The *Accreditation Directorate* legislates academic and industrial qualifications in Vekllei.
+The *Accreditation Directorate* regulates academic and industrial qualifications in Vekllei.
 {{</section>}}
 
 {{<section>}}
