@@ -198,7 +198,7 @@ The following passages outline their structure and purpose as a general framewor
 **Since most Vekllei people** catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated "companies" in Vekllei.
 {{< /hint >}}
 
-The Government of Vekllei is made up of Ministries, Offices, Bureaus, Commissions, Directorates and Secretariats depending on the size, purpose and organisation of the organ.
+The Government of Vekllei is made up of Ministries, Offices, Departments, Bureaus, Commissions, Directorates and Secretariats depending on the size, purpose and organisation of the organ.
 
 ---
 
@@ -206,21 +206,54 @@ The Government of Vekllei is made up of Ministries, Offices, Bureaus, Commission
 
 The *Administration of the Interior of the Government of Vekllei* (also known as the *Interior Government*) represents the human state of the Vekllei Home Islands, as well as its dependent possessions 
 
-### Ministry of Commerce {{<boxtag pink>}}COSMOSOL{{</boxtag>}}
+### Ministry of Commerce 
+{{<boxtag pink>}}COSMOSOL{{</boxtag>}}
 
-The Vekllei *Ministry of Commerce* (COSMOSOL) regulates and initiates trade in the country. Despite the functional moneylessness of the Commonwealth, COSMOSOL remains among the busiest ministries of the Interior Government, since all international trade and entitled renumeration (the Vekllei turn-of-phrase for withdrawing from the [Labour Bank](/utopia/vekllei/society/government/#labour-bank-of-vekllei)) occurs through its subordinate commissions. Common responsibilities of COSMOSOL include:
+The Vekllei *Ministry of Commerce* (COSMOSOL) regulates and initiates trade in the country. Despite the functional moneylessness of the Commonwealth, COSMOSOL remains among the busiest ministries of the Interior Government, since all international trade and entitled renumeration (the Vekllei turn-of-phrase for withdrawing from the [Labour Bank](/utopia/vekllei/society/government/#bank-of-vekllei)) occurs through its subordinate commissions. Common responsibilities of COSMOSOL include:
 
 * Regulation and taxation of international trade, particularly through Government "White Bonds" and Labour Bank "Blue Bonds".
+* Banking the Commonwealth state apparatus.
 * Advising the Parliament on economic policy and foreign trade.
 * Monitoring and reporting on the health of foreign markets.
 * Printing and transporting currency.
 
 {{<section>}}
-#### Labour Bank of Vekllei
+#### Bank of Vekllei
 
-The *Labour Bank of Vekllei* (commonly "*Bank of Vekllei*") is the central bank and currency store of Vekllei. It is operated by the Ministry of Commerce and maintains branches in most major borough capitals in the Home Islands, as well as across all member states of the Vekllei Commonwealth. It is not autonomous and is beholden to the policy decisions of COSMOSOL and, in certain cases, the Interior and Commonwealth Parliaments. Its sworn purpose, as instructed by the Floral Constitution, is to advocate for Floral Economics. 
+The *Labour Bank of Vekllei* (commonly "*Bank of Vekllei*") is the central bank and currency store of Vekllei. It is operated by the Ministry of Commerce and maintains branches in most major borough capitals in the Home Islands, as well as across all member states of the Vekllei Commonwealth. It is not autonomous and is beholden to the policy decisions of COSMOSOL and, in certain cases, the Interior and Commonwealth Parliaments. Its sworn purpose, as instructed by the Floral Constitution, is to advocate for Floral Economics.
+
+Most banks in Vekllei are institutional or industrial, since the average Vekllei person is unmoneyed and, in a conventional definition, unbanked. Nonetheless, Vekllei maintains several commercial banks under the Bank of Vekllei umbrella, tasked primarily with:
+
+* Cashing and underwriting White and Blue bonds.
+* Selling government and financial (bureau) bonds internationally.
+* International placement and borrowing services.
+* Trading, settling and selling foreign currencies.
 
 Vekllei citizens are entitled to an equal share of the money stored in the Labour Bank, and in certain circumstances may withdraw their balance to emigrate or travel abroad.
+
+Despite foreign perception of Vekllei economics, the liquid and asset holdings of the Bank of Vekllei make it the second-largest bank in the world.
+
+##### Commonwealth Bank of Vekllei
+
+The *Commonwealth Bank of Vekllei* (COMMBANK) is an international investment subsidiary of the Bank of Vekllei, tasked primarily with banking in Commonwealth members and international markets. It has branches across every Commonwealth member-state and in most major economic hubs around the world, including throughout Europe, the Americas, and Asia.
+
+##### Import-Export Bank of Vekllei
+
+The *Import-Export Bank of Vekllei* (VEKEXIM) is a state policy investment bank used to fund projects outside of the Commonwealth, particularly in developing countries. It is the primary investment mechanism of Vekllei foreign aid system, which uses export credits and low-interest bureau loans to build infrastructure overseas. It is among the most influential export banks in the world, and contributed to the Pan-African Railway and Hundred Dams projects as part of Vekllei's ongoing Trade Democracy economic scheme.
+
+##### Development Bank of Vekllei
+
+The *Development Bank of Vekllei* (DEVBANK) is a policy bank designed to organise and allocate funding for large-scale political projects, particularly in infrastructure. The Development Bank works as the engine of the Interior Government's policies, funded mostly with White Bonds issued internationally and labour-guaranteed certificates (a type of Blue Bond). It also creates loan arrangements, evaluates, and underwrites general national government projects.
+
+##### Petty Bureau Labour Bank of Vekllei
+
+The *Petty Bureau Labour Bank of Vekllei* is the commercial lending bank of Petty Bureau company syndicates and their workers.
+
+##### Bureau Proper Labour Bank of Vekllei
+
+The *Bureau Proper Labour Bank of Vekllei* is
+
+
 {{</section>}}
 
 {{<section>}}
@@ -241,10 +274,10 @@ The *Vekllei Securities Commission* (VECSEC) regulates securities in the Vekllei
 
 Since Vekllei citizens do not usually participate in the domestic securities markets, VECSEC lacks traditional legal authority over many of the foreigner participants in its supervised markets, but does extradite and prosecute financial crime through the EUROVEK and USVEK extradition treaties. It is made up of the following departments.
 
+* **General Council**: Advisory board to the Commonwealth.
 * **Department of Financing and Stock Exchange**: Regulation and monitoring of the Vekllei Stock Exchange and miscellaneous securities within the country.
 * **Department of International Markets**: Regulation and monitoring of the Vekllei International Market and government bonds.
 * **Department of Investments and Trusts**: Regulation and monitoring of the investments, securities and financial contracts of Vekllei citizens and companies.
-* **Department of General Counsel**: Advisory board to the Commonwealth.
 * **Department of Prosecution**: Enforcement of penalties and prosecution of financial crimes.
 {{</section>}}
 {{<section>}}
@@ -258,7 +291,8 @@ The *Vekllei Trade Commission* regulates consumer protections and antitrust law,
 * **Bureau of Economics**: Macroeconomic research.
 {{</section>}}
 
-### Ministry of the Commonwealth {{<boxtag pink>}}COSMOCOM{{</boxtag>}}
+### Ministry of the Commonwealth 
+{{<boxtag pink>}}COSMOCOM{{</boxtag>}}
 
 The *Ministry of the Commonwealth* (COSMOCOM) is the organ through which the Interior Government communicates and cooperates with the Commonwealth Crown. Its primary responsibility is cooperation between member states and standardisation, and publishes reports and manuals towards this goal. It is also the primary ministry through which the Parliament and secretariats of the Commonwealth communicate with the Interior Government. COSMOCOM is also responsible for ensuring changes made to the Floral Constitution are implemented domestically.
 
@@ -284,7 +318,26 @@ The *Research Directorate* conducts research and prepares policy objectives for 
 {{<section>}}
 #### Standardisations Directorate
 
-The *Standardisations Directorate* works to standardise the visual identity of all departments of the Government and boroughs of the Commonwealth, including the appearance and manuals of style of Commonwealth infrastructure and publications. Their work includes major brand elements like flags and logos, and specific linguistic and typographic features including typefaces, preferred punctuation and symbols. It has considerable authority over other departments, which usually lack autonomy to enforce their own visual identity independently. Most work for the Standardisations Directorate is performed by in-house designers and artists.
+The *Standardisations Directorate* (SSD, also Standards Vekllei) works to unify management and supervision of state bodies and assets in Vekllei. It also mandates the responsibilities and visual identity of all departments of the Government and boroughs of the Commonwealth, including the appearance and manuals of style of Commonwealth infrastructure and publications. Its work includes both operating procedures and major brand elements like flags and logos, and specific linguistic and typographic features including typefaces, preferred punctuation and symbols. It has considerable authority over other departments, which usually lack autonomy to enforce their own visual identity independently. Most visual work for the Standardisations Directorate is performed by in-house designers and artists.
+
+The Standardisations Directorate also represents Vekllei in the International Organisation for Standardisation and other industrial standards bodies.
+
+##### General Office
+
+The *General Office of the Standardisations Directorate* (GOSED) administrates the directorate, and determines its operations through direct liaison with the Interior and Commonwealth Administrations.
+
+##### Standards Press of Vekllei
+
+Publishing House organised vertically in the SSD to prepare and publish materials including technical manuals, standard compilation books, and industrial bulletins.
+
+##### Industrial Standards of Vekllei
+
+The *Industrial Standards of Vekllei* regulates industrial regulatory and safety standards of industrial and manufacturing work
+
+##### Commercial Standards of Vekllei
+
+The *Commercial Standards of Vekllei* 
+
 {{</section>}}
 
 {{<section>}}
@@ -296,7 +349,8 @@ The *State Assets Directorate* manages state-owned companies across the Commonwe
 #### Statistics Directorate
 {{</section>}}
 
-### Ministry of Defence {{<boxtag pink>}}COSMOKOS{{</boxtag>}}
+### Ministry of Defence 
+{{<boxtag pink>}}COSMOKOS{{</boxtag>}}
 
 {{<section>}}
 #### Armed Forces of Vekllei
@@ -326,7 +380,8 @@ The *State Assets Directorate* manages state-owned companies across the Commonwe
 #### Police of the Public (COSMOPOR)
 {{</section>}}
 
-### Ministry of Foreign Affairs {{<boxtag pink>}}COSMOSEA{{</boxtag>}}
+### Ministry of Foreign Affairs 
+{{<boxtag pink>}}COSMOSEA{{</boxtag>}}
 
 {{<section>}}
 #### Communications Bureau
@@ -361,7 +416,8 @@ The *World Missions Directorate* is the formal foreign policymaking apparatus of
 
 {{</section>}}
 
-### Ministry of Industry {{<boxtag pink>}}COSMOSEC{{</boxtag>}}
+### Ministry of Industry 
+{{<boxtag pink>}}COSMOSEC{{</boxtag>}}
 
 {{<section>}}
 #### Bureaus of Vekllei
@@ -373,7 +429,8 @@ The *World Missions Directorate* is the formal foreign policymaking apparatus of
 ##### Labour Democracy Commission
 {{</section>}}
 
-### Ministry of Infrastructure {{<boxtag pink>}}COSMOTRAN{{</boxtag>}}
+### Ministry of Infrastructure 
+{{<boxtag pink>}}COSMOTRAN{{</boxtag>}}
 
 {{<section>}}
 #### Vekllei Life Maintenance Commission
@@ -389,19 +446,21 @@ The *World Missions Directorate* is the formal foreign policymaking apparatus of
 ##### Crown Lands Protectorate
 {{</section>}}
 
-### Ministry of Landscape {{<boxtag pink>}}COSMOGOS{{</boxtag>}}
+### Ministry of Landscape 
+{{<boxtag pink>}}COSMOGOS{{</boxtag>}}
 
 {{<section>}}
 #### Vekllei Agriculture Directorate
 {{</section>}}
 {{<section>}}
-#### Vekllei Resources Directorate
+#### Vekllei Materials Directorate
 {{</section>}}
 {{<section>}}
 #### Vekllei Conservation Directorate
 {{</section>}}
 
-### Ministry of Light and Water {{<boxtag pink>}}COSMOLA{{</boxtag>}}
+### Ministry of Light and Water 
+{{<boxtag pink>}}COSMOLA{{</boxtag>}}
 
 {{<section>}}
 #### Electric Commission (THUNDERBURO)
@@ -416,7 +475,8 @@ The *World Missions Directorate* is the formal foreign policymaking apparatus of
 #### Emergency Light and Water Authority
 {{</section>}}
 
-### Ministry of Transport {{<boxtag pink>}}COSMOPOS{{</boxtag>}}
+### Ministry of Transport 
+{{<boxtag pink>}}COSMOPOS{{</boxtag>}}
 
 {{<section>}}
 #### Vekllei National Rail Bureau
@@ -440,7 +500,8 @@ The Vekllei National Rail Bureau is the parent bureau for all rail transport in 
 #### National Transport Laboratories
 {{</section>}}
 
-### Ministry of Syndicates and Chapels {{<boxtag pink>}}COSMOLAB{{</boxtag>}}
+### Ministry of Syndicates and Chapels 
+{{<boxtag pink>}}COSMOLAB{{</boxtag>}}
 
 {{<section>}}
 #### Office of the Syndicate-General
@@ -455,7 +516,8 @@ The Vekllei National Rail Bureau is the parent bureau for all rail transport in 
 
 Although each member of the Atlantic Commonwealth is considered a full participant of equal importance, administration in practice occurs in the Vekllei [Home Islands](/utopia/vekllei/), its most populous and industrious member state. Many features of Floral Society are universal among Commonwealth members, and the Administration of the Commonwealth serves, maintains and standardises the values of Floral Society across the Atlantic.
 
-### Commonwealth Culture Secretariat {{<boxtag pink>}}COLSEC{{</boxtag>}}
+### Commonwealth Culture Secretariat 
+{{<boxtag pink>}}COLSEC{{</boxtag>}}
 
 The *Commonwealth Culture Secretariat* (COLSEC) is concerned primarily with "cultural values and beliefs" of the Commonwealth, their protection, and foreign relations. Its subordinate offices are dedicated to key areas of concern designed to assist its smaller member-states which may lack the political infrastructure to facilitate their own offices. 
 
@@ -501,7 +563,8 @@ The COLSEC Overseas Affairs Office (COLSESEA) coordinates the foreign offices of
 
 
 
-### Commonwealth Security Secretariat {{<boxtag pink>}}OPSEC{{</boxtag>}}
+### Commonwealth Security Secretariat 
+{{<boxtag pink>}}OPSEC{{</boxtag>}}
 
 The *Commonwealth Security Secretariat* (OPSEC) is the mother organisation of the internal and external security organs of the Vekllei government. These include intelligence gathering, espionage, special policing, and state security apparatuses.
 
@@ -591,7 +654,8 @@ The *Americas Bureau* at *National Intelligence* (AB/NI) reports information and
 ##### State Secrets Office
 {{</section>}}
 
-### Commonwealth Education Secretariat {{<boxtag pink>}}CHICOM{{</boxtag>}}
+### Commonwealth Education Secretariat 
+{{<boxtag pink>}}CHICOM{{</boxtag>}}
 
 {{<section>}}
 #### Vekllei Public Education Directorate
@@ -615,19 +679,25 @@ The *Americas Bureau* at *National Intelligence* (AB/NI) reports information and
 #### Academy of Political Sciences
 {{</section>}}
 
-### Commonwealth Construction Secretariat {{<boxtag pink>}}CONSEC{{</boxtag>}}
+### Commonwealth Construction Secretariat 
+{{<boxtag pink>}}CONSEC{{</boxtag>}}
 
-### Commonwealth Labour Secretariat {{<boxtag pink>}}LABSEC{{</boxtag>}}
+### Commonwealth Labour Secretariat 
+{{<boxtag pink>}}LABSEC{{</boxtag>}}
 
-### Vekllei Health Secretariat {{<boxtag pink>}}HELSEC{{</boxtag>}}
+### Vekllei Health Secretariat 
+{{<boxtag pink>}}HELSEC{{</boxtag>}}
 
 ---
 
-## Administration of the Sovereign {{<boxtag pink>}}SOVA{{</boxtag>}}
+## Administration of the Sovereign 
+{{<boxtag pink>}}SOVA{{</boxtag>}}
 
-### Vekllei Democracy Commission {{<boxtag pink>}}DEMCOM{{</boxtag>}}
+### Vekllei Democracy Commission 
+{{<boxtag pink>}}DEMCOM{{</boxtag>}}
 
-### Fair Work Authority {{<boxtag pink>}}FAIRWORK{{</boxtag>}}
+### Fair Work Authority 
+{{<boxtag pink>}}FAIRWORK{{</boxtag>}}
 
 {{<section>}}
 #### Quality of Life Surveillance Commission

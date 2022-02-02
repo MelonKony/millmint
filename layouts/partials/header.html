@@ -5,12 +5,12 @@
             <label for="navbar_btn" class="menu-btn mr-4 items-center flex xl:hidden">
                 <span class="navicon"></span>
             </label>
-            <a href="{{ .Site.Home.RelPermalink }}" class="font-bold text-lg xl:text-2xl mr-auto {{ .Params.Color }}" style="filter: brightness(25%);">
+            <a href="{{ .Site.Home.RelPermalink }}" class="font-bold text-lg xl:text-2xl mr-auto {{ .Params.Color }}">
                 {{- with (.Scratch.Get "params").navbarTitle }}
                     {{- . | safeHTML -}}
                 {{- end -}}
             </a>
-            <a href="{{ .Site.Home.RelPermalink }}" class="emoji {{ .Params.Color }}" style="font-size: 30px; margin-left: .5rem; filter: brightness(25%); margin-right: 40px;" id="whirlybat">-millmint</a>
+            <a href="{{ .Site.Home.RelPermalink }}" class="emoji {{ .Params.Color }}" style="font-size: 30px; margin-left: .5rem; margin-right: 40px;" id="whirlybat">-millmint</a>
         </div>
 
         <!--<div class="flex items-center">

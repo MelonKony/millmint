@@ -1,0 +1,21 @@
+navbarTitle = 'Monochrome'
+footer = "Copyright © 2021 by kaiiiz"
+
+enableZoomingJS = true
+enableTOC = true
+enableSiteSearch = true
+enableMathJax = false
+
+# Codeblock
+usePrismJS = false
+enablePrismJSLineNo = true
+enableCodeCopy = true
+
+# SEO
+enableOpenGraph = true
+enableTwitterCards = true
+author = "kaiiiz"
+
+# Collapsible Menu
+enableCollapsibleTOC = false
+enableCollapsibleChangelogs = true

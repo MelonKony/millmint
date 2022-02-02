@@ -16,6 +16,4 @@ These stories mostly follow **Tzipora**, a recent immigrant, as she explores Vek
 
 Visit [stories](/posts) to start reading. Visit the directory above for more information.
 
-![img](/images/picnic.png)
-
-<h6 style="text-align: center; color: var(--color-gray)">Made with love in Hobart, Tasmania.</h6>
+<h6 style="text-align: center; color: white">Made with love in Hobart, Tasmania.</h6>

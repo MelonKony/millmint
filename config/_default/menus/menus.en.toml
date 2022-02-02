@@ -132,3 +132,8 @@
   name = "Stories"
   url = "/posts/"
   weight = 4
+[[navbar]]
+  identifier = "shop"
+  name = "Shop"
+  url = "/shop/"
+  weight = 5
