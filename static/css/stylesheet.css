@@ -524,7 +524,7 @@ body header #navbar .navbar-dropdown li:hover {
 		filter: brightness(98%);
 	}
 .xl\:text-2xl {
-	filter: brightness(25%);
+	filter: brightness(25%) !important;
 }
 /* hide menu button */
 header .menu-btn {
