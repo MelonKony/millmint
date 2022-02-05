@@ -22,7 +22,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 I'm currently trying to learn how to cook. I walk most afternoons around my home town, which inspires a lot of how Vekllei looks and feels. Vekllei has existed in some form since I was a kid, but I started working on it properly in 2017.
 
-Follow me on [Instagram](https://www.instagram.com/melon.kony/), [Twitter](https://twitter.com/MelonKony), or join [my subreddit](https://www.reddit.com/r/vekllei). You can **write to me** at hello★millmint.net（★→@）.
+Follow me on [Instagram](https://www.instagram.com/melon.kony/), [Twitter](https://twitter.com/MelonKony), or join [my subreddit](https://www.reddit.com/r/vekllei). You can **write to me** at hobart★millmint.net（★→@）.
 
 {{</columns>}}
 {{<columns>}}
