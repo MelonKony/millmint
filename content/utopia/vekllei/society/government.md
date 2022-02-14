@@ -235,7 +235,7 @@ Despite foreign perception of Vekllei economics, the liquid and asset holdings o
 
 ##### Commonwealth Bank of Vekllei
 
-The *Commonwealth Bank of Vekllei* (COMMBANK) is an international investment subsidiary of the Bank of Vekllei, tasked primarily with banking in Commonwealth members and international markets. It has branches across every Commonwealth member-state and in most major economic hubs around the world, including throughout Europe, the Americas, and Asia.
+The *Commonwealth Bank of Vekllei* (COMMBANK) is an international investment subsidiary of the Bank of Vekllei, tasked primarily with banking in Commonwealth members and international markets. It has branches across every Commonwealth member-state and in most major economic hubs around the world, including throughout Europe, the Americas, and Asia. It also serves as the Central Bank of the Kalina Isles.
 
 ##### Import-Export Bank of Vekllei
 
@@ -243,11 +243,11 @@ The *Import-Export Bank of Vekllei* (VEKEXIM) is a state policy investment bank 
 
 ##### Development Bank of Vekllei
 
-The *Development Bank of Vekllei* (DEVBANK) is a policy bank designed to organise and allocate funding for large-scale political projects, particularly in infrastructure. The Development Bank works as the engine of the Interior Government's policies, funded mostly with White Bonds issued internationally and labour-guaranteed certificates (a type of Blue Bond). It also creates loan arrangements, evaluates, and underwrites general national government projects.
+The *Development Bank of Vekllei* (DEVBANK) is a policy bank designed to organise and allocate funding for large-scale political projects, particularly in infrastructure. The Development Bank works as the engine of the Interior Government's policies, funded mostly with White Bonds issued internationally and labour-guaranteed certificates (a type of Blue Bond). It also creates loan arrangements, evaluates, and underwrites national government projects.
 
 ##### Petty Bureau Labour Bank of Vekllei
 
-The *Petty Bureau Labour Bank of Vekllei* is the commercial lending bank of Petty Bureau company syndicates and their workers.
+The *Petty Bureau Labour Bank of Vekllei* is the commercial lending bank of petty bureau company syndicates and their workers. Its primary function is bureau negotiation and lending in order to facilitate the economic development of private business in Vekllei. It also acts as an intermediary between petty bureau companies and other banks or government financial apparatuses.
 
 ##### Bureau Proper Labour Bank of Vekllei
 
@@ -288,13 +288,13 @@ The *Vekllei Trade Commission* regulates consumer protections and antitrust law,
 * **Department of Consumer Affairs**: Regulation of the consumer rights.
 * **Department of Competition**: Regulation of Bureau and Petty Bureau companies, including state monopolies.
 * **Department of Market Research**: Analysis and research of domestic and international markets, compiled and forwarded to other Interior Ministries.
-* **Bureau of Economics**: Macroeconomic research.
+* **Bureau of Economics**: Macroeconomic research relevant to international trade.
 {{</section>}}
 
 ### Ministry of the Commonwealth 
 {{<boxtag pink>}}COSMOCOM{{</boxtag>}}
 
-The *Ministry of the Commonwealth* (COSMOCOM) is the organ through which the Interior Government communicates and cooperates with the Commonwealth Crown. Its primary responsibility is cooperation between member states and standardisation, and publishes reports and manuals towards this goal. It is also the primary ministry through which the Parliament and secretariats of the Commonwealth communicate with the Interior Government. COSMOCOM is also responsible for ensuring changes made to the Floral Constitution are implemented domestically.
+The *Ministry of the Commonwealth* (COSMOCOM) is the organ through which the Interior Government communicates and cooperates with the Commonwealth Crown. Its primary responsibility is cooperation between member states and standardisation, and publishes reports and manuals towards this goal. It is also the primary ministry through which the parliaments and secretariats of the Commonwealth communicate with the Interior Government. COSMOCOM is also responsible for ensuring changes made to the Floral Constitution are implemented domestically.
 
 {{<section>}}
 #### Accreditation Directorate
@@ -322,9 +322,9 @@ The *Standardisations Directorate* (SSD, also Standards Vekllei) works to unify 
 
 The Standardisations Directorate also represents Vekllei in the International Organisation for Standardisation and other industrial standards bodies.
 
-##### General Office
+##### Standards Vekllei
 
-The *General Office of the Standardisations Directorate* (GOSED) administrates the directorate, and determines its operations through direct liaison with the Interior and Commonwealth Administrations.
+The *General Office of the Standardisations Directorate* (GOSED), commonly *Standards Vekllei*, administrates the directorate, and determines its operations through direct liaison with the Interior and Commonwealth Administrations.
 
 ##### Standards Press of Vekllei
 
