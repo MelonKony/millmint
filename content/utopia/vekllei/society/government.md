@@ -343,14 +343,23 @@ The *Commercial Standards of Vekllei*
 {{<section>}}
 #### State Assets Directorate
 
-The *State Assets Directorate* manages state-owned companies across the Commonwealth, particularly those with considerable international trade. These include several major industrial companies in Vekllei, like General Reactor S.A.
+The *State Assets Directorate* (SAD) manages state-owned companies across the Commonwealth, particularly those with considerable international trade. These include several major industrial companies in Vekllei, like General Reactor S.A.
 {{</section>}}
+
 {{<section>}}
 #### Statistics Directorate
+
+The *Statistics Directorate* (STD, also Statistics Vekllei) collects and publishes statistics concerning the economy, country and people of Vekllei. Along with other COSMOCOM directorates, the Statistics Directorate organises research into trends of Vekllei demography and geography. The STD also coordinates the Vekllei Census.
+
+##### Statistics Press of Vekllei
+
+
 {{</section>}}
 
 ### Ministry of Defence 
 {{<boxtag pink>}}COSMOKOS{{</boxtag>}}
+
+The Vekllei *Ministry of Commerce* (COSMOSOL) regulates and initiates trade in the country. Despite the functional moneylessness of the Commonwealth, COSMOSOL remains among the busiest ministries of the Interior Government, since all international trade and entitled renumeration (the Vekllei turn-of-phrase for withdrawing from the [Labour Bank](/utopia/vekllei/society/government/#bank-of-vekllei)) occurs through its subordinate commissions. Common responsibilities of COSMOSOL include:
 
 {{<section>}}
 #### Armed Forces of Vekllei
