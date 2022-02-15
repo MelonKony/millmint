@@ -336,7 +336,7 @@ The *Industrial Standards of Vekllei* regulates industrial regulatory and safety
 
 ##### Commercial Standards of Vekllei
 
-The *Commercial Standards of Vekllei* 
+The *Commercial Standards of Vekllei* regulates standards of small and medium-sized commercial businesses that are otherwise 
 
 {{</section>}}
 
@@ -359,7 +359,13 @@ The *Statistics Directorate* (STD, also Statistics Vekllei) collects and publish
 ### Ministry of Defence 
 {{<boxtag pink>}}COSMOKOS{{</boxtag>}}
 
-The Vekllei *Ministry of Commerce* (COSMOSOL) regulates and initiates trade in the country. Despite the functional moneylessness of the Commonwealth, COSMOSOL remains among the busiest ministries of the Interior Government, since all international trade and entitled renumeration (the Vekllei turn-of-phrase for withdrawing from the [Labour Bank](/utopia/vekllei/society/government/#bank-of-vekllei)) occurs through its subordinate commissions. Common responsibilities of COSMOSOL include:
+The Vekllei *Ministry of Defence* (COSMOKOS) represents the Sovereign Armed Forces of the Vekllei Commonwealth in the Vekllei Government, which are consolidated under the Commonwealth Military Command. COSMOKOS does not exercise command authority over the armed forces of Vekllei, and serves instead as the ministerial liaison between the Commonwealth Military Command and the Interior Government. Common responsibilities of COSMOKOS include:
+
+* Recruitment of citizens and foreigners into the Commonwealth armed forces.
+* Procuring equipment to meet the Vekllei obligation towards the Commonwealth armed forces.
+* Training citizens and foreigners for the branches of the Commonwealth armed forces.
+* Conducting scientific military research.
+* Policing and security of Vekllei territories and waters.
 
 {{<section>}}
 #### Armed Forces of Vekllei
