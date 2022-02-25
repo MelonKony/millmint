@@ -204,12 +204,12 @@ The Government of Vekllei is made up of Ministries, Offices, Departments, Bureau
 
 ## Administration of the Interior
 
-The *Administration of the Interior of the Government of Vekllei* (also known as the *Interior Government*) represents the human state of the Vekllei Home Islands, as well as its dependent possessions 
+The *Administration of the Interior of the Government of Vekllei* (also known as the *Interior Government* or *Interior Parliament*) represents the human state of the Vekllei Home Islands, as well as its dependent possessions 
 
 ### Ministry of Commerce 
 {{<boxtag pink>}}COSMOSOL{{</boxtag>}}
 
-The Vekllei *Ministry of Commerce* (COSMOSOL) regulates and initiates trade in the country. Despite the functional moneylessness of the Commonwealth, COSMOSOL remains among the busiest ministries of the Interior Government, since all international trade and entitled renumeration (the Vekllei turn-of-phrase for withdrawing from the [Labour Bank](/utopia/vekllei/society/government/#bank-of-vekllei)) occurs through its subordinate commissions. Common responsibilities of COSMOSOL include:
+The Vekllei *Ministry of Commerce* (COSMOSOL) regulates and initiates trade in the country. Despite the functional moneylessness of the Commonwealth, COSMOSOL remains among the busiest ministries of the Interior Government, since all international trade and entitled renumeration (the Vekllei turn-of-phrase for withdrawing from the [Labour Bank](/utopia/vekllei/society/government/#bank-of-vekllei) occurs through its subordinate commissions. Common responsibilities of COSMOSOL include:
 
 * Regulation and taxation of international trade, particularly through Government "White Bonds" and Labour Bank "Blue Bonds".
 * Banking the Commonwealth state apparatus.
@@ -275,10 +275,10 @@ The *Vekllei Securities Commission* (VECSEC) regulates securities in the Vekllei
 Since Vekllei citizens do not usually participate in the domestic securities markets, VECSEC lacks traditional legal authority over many of the foreigner participants in its supervised markets, but does extradite and prosecute financial crime through the EUROVEK and USVEK extradition treaties. It is made up of the following departments.
 
 * **General Council**: Advisory board to the Commonwealth.
+* **General Procuratorate**: Enforcement of penalties and prosecution of financial crimes.
 * **Department of Financing and Stock Exchange**: Regulation and monitoring of the Vekllei Stock Exchange and miscellaneous securities within the country.
 * **Department of International Markets**: Regulation and monitoring of the Vekllei International Market and government bonds.
 * **Department of Investments and Trusts**: Regulation and monitoring of the investments, securities and financial contracts of Vekllei citizens and companies.
-* **Department of Prosecution**: Enforcement of penalties and prosecution of financial crimes.
 {{</section>}}
 {{<section>}}
 #### Vekllei Trade Commission
@@ -286,7 +286,7 @@ Since Vekllei citizens do not usually participate in the domestic securities mar
 The *Vekllei Trade Commission* regulates consumer protections and antitrust law, and organises trade information from other ministries and supervisory bureaus into policy recommendations and legislation. The Trade Commission also monitors and reports the health of foreign markets, and conducts research into broader geopolitical financial interests, particularly as they compete with domestic interests. It includes the following departments.
 
 * **Department of Consumer Affairs**: Regulation of the consumer rights.
-* **Department of Competition**: Regulation of Bureau and Petty Bureau companies, including state monopolies.
+* **Department of Market Affairs**: Protection of fair markets and regulation of Bureau and Petty Bureau companies, including state monopolies.
 * **Department of Market Research**: Analysis and research of domestic and international markets, compiled and forwarded to other Interior Ministries.
 * **Bureau of Economics**: Macroeconomic research relevant to international trade.
 {{</section>}}
@@ -377,22 +377,45 @@ The Vekllei *Ministry of Defence* (COSMOKOS) represents the Sovereign Armed Forc
 ##### Intelligence Liaison
 ##### Sovereign Liaison
 {{</section>}}
+
 {{<section>}}
-#### Navy of the Parliament
+#### Police of the Parliament (VENOPOR)
+
+The *Police of the Parliament* (VENOPOR) are the national and paramilitary police of Vekllei, responsible for internal security, riot control, counter-terrorism, disaster response, law enforcement and maritime rights protection. The VENOPOR is made up of a variety of organisations dedicated to specialised and tactical forms of policing unavailable to the [Police of the Public](/utopia/vekllei/society/government/#police-of-the-public-cosmopor). As a paramilitary force, the VENOPOR are also trained to support the [Crown Armed Forces](/utopia/vekllei/society/government/#royal-armed-forces-of-vekllei) in wartime, and coordinate broad mobilisation in the event of a defensive war.
+
+The VENOPOR is 
+
+##### Coast Guard of the Parliament Police
 
 {{< hint >}}
 ❖ Read more: *[The Vekllei Coast Guard](/posts/2021-11-14-coastguard/)*
 {{< /hint >}}
 
-{{</section>}}
-{{<section>}}
-#### Police of the Parliament (VENOPOR)
-##### Customs Vekllei
-##### Mint Sappers
-##### Police of the Judiciary
+The *Vekllei Coast Guard* (also the *Navy of the Parliament* or the *Coast Guard of the Parliament Police*) is the maritime naval police of Vekllei responsible for search and rescue and law enforcement in the territorial waters of Vekllei.
+
+As part of the Commonwealth Security Concordat, the Vekllei Coast Guard also provides maritime policing services to members of the Commonwealth. 
+
+##### Customs of the Parliament Police
+
+The *Customs of Vekllei* (also the *Vekllei Customs* and the *Customs of the Parliament Police*) are responsible for customs and excise duties in Vekllei (and, largely, the Commonwealth). It is also the law enforcement agency responsible for the import and export of goods in Vekllei.
+
+##### Mint Guard of the Parliament Police
+
+{{< hint >}}
+❖ Read more: *[Gold Sappers](/posts/2021-04-09-sappers/)*
+{{< /hint >}}
+
+The *Mint Guard* (also *Gold Sappers*) are responsible for the security of financial assets in Vekllei, particularly currency and gold reserves minted and held by the Vekllei National Mint.
+
+##### Judicial Guard of the Parliament Police
+##### Special Guard of the Parliament Police
+##### Militia of the Parliament Police
+
 {{</section>}}
 {{<section>}}
 #### Police of the Public (COSMOPOR)
+
+The *Police of the Public* are the local police in Vekllei, mostly constabulary responsible for local policing. 
 {{</section>}}
 
 ### Ministry of Foreign Affairs 
@@ -672,26 +695,68 @@ The *Americas Bureau* at *National Intelligence* (AB/NI) reports information and
 ### Commonwealth Education Secretariat 
 {{<boxtag pink>}}CHICOM{{</boxtag>}}
 
+The *Commonwealth Education Secretariat* (CHICOM) is the responsible for all state education across the Commonwealth, including compulsory primary, vocational and tertiary schooling. Alongside the [COSMOCOM Accreditation Directorate](/utopia/vekllei/society/government/#accreditation-directorate), CHICOM certifies teachers and the Commonwealth curriculum, and publishes textbooks and learning materials via the Children's and Tertiary Press.
+
+CHICOM also overseas Vekllei's four learned societies, called academies, which offer immortal membership to remarkable contributors to the sciences. The Academies of the commonwealth are funded by a bureau tithe, mandated but otherwise seperate from Commonwealth Government apparatuses.
+
 {{<section>}}
 #### Vekllei Public Education Directorate
-{{</section>}}
-{{<section>}}
-#### Vekllei Higher Education Directorate
+
+The *Public Education Directorate* oversees all compulsory education across the Commonwealth, including both government and vocational schools.
+
+##### Vekllei Primary Education Directorate
+
+##### Vekllei Higher Education Directorate
+
+##### All-Commonwealth School Directorate
+
+The *All-Commonwealth School Directorate* (ACC) manages the local production of school materials, particularly uniforms and textbooks, and ensures their availability and quality for students. The ACC is not involved in teaching or study itself, and instead serves learning infrastructure, including the maintenance and renewal of school buildings.
+
+
+
+#####
 {{</section>}}
 {{<section>}}
 #### Vekllei National Laboratories
 {{</section>}}
 {{<section>}}
 #### Academy of Natural Sciences
+
+The *Crown Academy of Natural Sciences* is the sovereign (commonwealth-level) academy of natural sciences in the Commonwealth. It functions primarily as a research institute of distinguished academicians and scientific body that advises policy. Headquartered in the Home Islands, it has hundreds of branch institutes across the Commonwealth and in Rome, London and Beijing. These branches are organised along 7 academic divisions, each subdivided into hundreds of individual departments. It is the oldest of the academies, founded by the Crown Sovereign in 1527.
+
+* **School of Chemistry**: Studies of atomic and molecular matter and chemical processes.
+* **School of Medicine**: Studies of anatomy, physiology and healthcare.
+* **School of Mathematics and Physics**: Studies of the constituents of the universe, natural forces, and mathematics.
+* **School of Technology and Materials**: Studies of matter, its properties, machines and technologies.
+* **School of Astronomy**: Studies of celestial phenomena.
+* **School of Geography**: Studies of geography, geology and oceanography. 
+* **School of Biology**: Studies of living organisms.
 {{</section>}}
 {{<section>}}
 #### Academy of Engineering Sciences
+
+The *Crown Academy of Engineering Sciences* is the sovereign (commonwealth-level) academy of engineering in the Commonwealth. Its membership of nearly 1,000 academicians are considered to have made invaluable contributions to engineering sciences, and hold lifelong tenure at the academy. It includes six schools, which conduct research and consultancy with the Commonwealth and Interior Administrations.
+
+* **School of Mechanical and Vehicle Engineering**: Studies of atomic and molecular matter and chemical processes.
+* **School of Electrical Engineering**: Studies of anatomy, physiology and healthcare.
+* **School of Chemical Engineering**: Studies of the constituents of the universe, natural forces, and mathematics.
+* **School of Civil Engineering**: Studies of matter, its properties, machines and technologies.
+* **School of Agricultural Engineering**: Studies of celestial phenomena.
 {{</section>}}
 {{<section>}}
-#### Academy of Social Sciences
+#### Academy of Philosophy
+
+* **School of Philosophy**
+* **School Sociology**
+* **School of Theology**
+
 {{</section>}}
 {{<section>}}
 #### Academy of Political Sciences
+
+* **School of Law**
+* **School of Political Economics**
+* **School of History and Geography**
 {{</section>}}
 
 ### Commonwealth Construction Secretariat 
