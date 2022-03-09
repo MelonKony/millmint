@@ -654,7 +654,7 @@ The *Public Education Directorate* oversees all compulsory education across the 
 
 ##### All-Commonwealth School Directorate
 
-The *All-Commonwealth School Directorate* (ACC) manages the local production of school materials, particularly uniforms and textbooks, and ensures their availability and quality for students. The ACC is not involved in teaching or study itself, and instead serves learning infrastructure, including the maintenance and renewal of school buildings.
+The *All-Commonwealth School Directorate* (ACC) manages the local production of school materials, particularly uniforms and textbooks, and ensures their availability and quality for students. The ACC is not involved in teaching or study itself, and instead serves learning infrastructure, including the maintenance and renewal of existing school buildings.
 
 
 
