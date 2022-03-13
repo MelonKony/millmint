@@ -38,7 +38,7 @@ Pickled foods keep for a long time and so are a great way to fill out a packed l
 
 Tzipora is also sweet on soft drinks, and rotates through different flavours to keep them interesting. The carbonation suits the crackers and sausage well.
 
-She has fruit tingles, a chalky tablet sweet, for dessert.
+She has fruit tingles, a chalky tablet sweet, for dessert. The cake isn't for her; it's to trade for other sweets. She's eaten enough of it at home already.
 
 #### School Lunch
 
