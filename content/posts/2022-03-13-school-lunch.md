@@ -14,7 +14,7 @@ keywords:
 image: "/images/lunch.jpg"
 ---
 
-{{< button href="https://www.reddit.com/r/vekllei/comments/ta8bwp/all_chapels_for_all_women/" >}}Archived from the original article here{{< /button >}}
+{{< button href="https://www.reddit.com/r/vekllei/comments/td9iwj/tzipora_takes_her_lunch_to_school/" >}}Archived from the original article here{{< /button >}}
 
 {{< hint >}}
 ❖ Read more: *[A Vekllei Breakfast](/posts/2021-05-09-breakfast/)*
