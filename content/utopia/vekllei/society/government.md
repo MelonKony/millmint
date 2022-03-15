@@ -32,26 +32,23 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 {{< /hint >}}
 
 <span class="fc">T</span>
-**he Government of Vekllei** refers to both the [Administration of the Interior](/utopia/vekllei/society/government/#administration-of-the-interior) of the Vekllei [Home Islands](/utopia/vekllei/) and the [international governing body](/utopia/vekllei/society/government/#administration-of-the-commonwealth) of the Vekllei Commonwealth. This article serves as a handbook to all departments of the Vekllei Government, and will help clarify the structure and responsibilities of its subordinate ministries and secretariats. These centralised features guide the busy and anarchic Vekllei economies to produce a standard of living unlike anywhere else in the world, celebrating departmentalised, forward-facing and vertically-organised government in the 21st Century.
+**he Government of Vekllei** refers to both the [Administration of the Interior](/utopia/vekllei/society/government/#administration-of-the-interior) of the Vekllei [Home Islands](/utopia/vekllei/) and the [international governing body](/utopia/vekllei/society/government/#administration-of-the-commonwealth) of the Vekllei Commonwealth. This article serves as a handbook to all departments of the Vekllei Government, and will help clarify the structure and responsibilities of its subordinate ministries and secretariats. These centralised features guide the busy and anarchic Vekllei economies to produce a standard of living unlike anywhere else in the world, celebrating departmentalised, localised and democratic government in the 21st Century.
+
+> I'll be damned if some jumped-up Municipal leech is going to tell me where I can and can't make friends.
+
+-- Tzipora Desmoisnes
 
 ### Structure
 
-What we know as the Vekllei Government is portioned between several powerful state bodies, each representing the natural political concerns of the modern Vekllei state. These bodies are both autonomous and codependent, portioning the sovereignty and authority of the state across several These are, in order of 
+What we know as the 'Vekllei Government' is portioned between several powerful state bodies, each representing the natural political concerns of the modern Vekllei state. These bodies are both autonomous and codependent, portioning the sovereignty and authority of the state across several governing organs of varying size and scope. These are, in order of sovereignty:
 
-1. **The Crown of Vekllei** (also the *Crown Sovereign* and *Administration of the Crown* interchangeably), the rule of the Land Sovereign and its presence in the state
-2. **The Commonwealth Government** (also the *Parliament of the Commonwealth* and the *Administration of the Commonwealth* interchangeably), responsible for the maintenance, development and security of the Vekllei Commonwealth, including its territories
-3. **The Interior Government** (also the *Parliament of the Interior* and the *Administration of the Interior* interchangeably), responsible for the internal governance of Vekllei
+1. **The Crown of Vekllei** (also the *Crown Sovereign*, *Parliament of Spirits* and *Administration of the Crown* interchangeably), representing the rule of the Land Sovereign and its presence in the state.
+2. **The Commonwealth Government** (also the *Parliament of the Commonwealth* and the *Administration of the Commonwealth* interchangeably), responsible for the maintenance, development and security of the Vekllei Commonwealth, including its territories.
+3. **The Interior Government** (also the *Parliament of the Interior* and the *Administration of the Interior* interchangeably), responsible for the internal governance of Vekllei.
 
-Under this arrangement, it is clear that the sovereignty of Vekllei and its Commonwealth members is somewhat obfuscated -- the Crown, Commonwealth and Interior administrations all share overlapping *de facto* control over the affairs of Vekllei territories. In addition, the word 'Vekllei,' commonly used to refer to the Vekllei Home Islands, is also used interchangeably to describe states beyond its geography. For example, the 'Vekllei Commonwealth' in fact refers to membership in the Crown, of which Vekllei is an equal member but does not otherwise, in principle, control. The Kalina Islands, Kala, Demon and other full members of the Commonwealth are equal autonomous members, but nonetheless inherit the Vekllei name. 
+Under this arrangement, it is clear that the sovereignty of Vekllei and its Commonwealth members is somewhat obfuscated -- the Crown, Commonwealth and Interior administrations all share overlapping *de facto* control over the affairs of Vekllei territories. In addition, the word 'Vekllei,' commonly used to refer to the Vekllei Home Islands, is also used interchangeably to describe states beyond its geography. For example, the 'Vekllei Commonwealth' in fact refers to membership in the Crown, of which Vekllei is an equal member but does not otherwise, in principle, control as a legal metropole. The Kalina Islands, Kala, Demon and other full members of the Commonwealth are equal autonomous members, but nonetheless inherit the Vekllei name. 
 
 In this state of affairs, Vekllei can refer to the powerful member-state in the North Atlantic, the Commonwealth it belongs to, or, indeed, the Crown Sovereign itself. Unfortunately for foreigners, its use is generally dependent on context.
-
-Accordingly, the Vekllei Government is separated into two governing bodies.
-
-1. **The Palace of the Vekllei Sovereign**
-2. **The Government of the Atlantic Commonwealth, including Vekllei and the members of the Vekllei Commonwealth**
-
-The following passages outline their structure and purpose as a general framework and reference for the political structure of the country.
 
 ---
 
@@ -64,7 +61,7 @@ The following passages outline their structure and purpose as a general framewor
 **Since most Vekllei people** catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated "companies" in Vekllei.
 {{< /hint >}}
 
-The Government of Vekllei is made up of Ministries, Offices, Departments, Bureaus, Commissions, Directorates and Secretariats depending on the size, purpose and organisation of the organ.
+The Government of Vekllei is made up of Ministries, Offices, Departments, Bureaus, Commissions, Directorates and Secretariats depending on the size, purpose and organisation of the organ. This is the government that people living in the Vekllei Home Islands vote for, via the nonpartisan representatives system.
 
 ---
 
@@ -177,6 +174,12 @@ The *Accreditation Directorate* regulates academic and industrial qualifications
 {{</section>}}
 
 {{<section>}}
+#### Vekllei Electoral Commission
+
+The *Vekllei Electoral Commission* conducts elections, by-elections and referendums in Vekllei. It also maintains the Vekllei Electoral Roll, and designs electorates, apportionments and redistributions in the Home Islands.
+{{</section>}}
+
+{{<section>}}
 #### Research Directorate
 
 The *Research Directorate* conducts research and prepares policy objectives for use in Commonwealth governance.
@@ -206,11 +209,13 @@ Publishing House organised vertically in the SSD to prepare and publish material
 
 ##### Industrial Standards of Vekllei
 
-The *Industrial Standards of Vekllei* regulates industrial regulatory and safety standards of industrial and manufacturing work
+The *Industrial Standards of Vekllei* (INSTA) regulates industrial regulatory and safety standards of industrial and manufacturing work. It also advises industry groups on product certification, and acts as a Commonwealth prosecutor in criminal breaches or oversight of industrial standards. Insta is divided into sixteen technical committees that oversee particular industries.
 
 ##### Commercial Standards of Vekllei
 
-The *Commercial Standards of Vekllei* regulates standards of small and medium-sized commercial businesses that are otherwise 
+The *Commercial Standards of Vekllei* (COMSTA) regulates standards of small and medium-sized commercial businesses that are otherwise 
+
+Since private commerce in Vekllei exists outside of the bureau framework, the license of COMSTA are broader and flexible, and regularly relies upon contracted industry contacts to fill places on its less defined technical committees.
 
 {{</section>}}
 
@@ -423,7 +428,7 @@ The *Vekllei Housing Commission* is a
 {{<section>}}
 #### Vekllei Electric Commission
 
-The *Vekllei Electric Commission* (VEC, also Thunderburo) is responsible for the state monopoly on electricity generation in Vekllei. Although it is structured as a bureau company, its subsidiaries are state-owned and consequently operates similarly to other agency-level departments of the Interior Government. The VEC consists of multiple subcommissions dedicated to unique methods of electricity generation in Vekllei, primarily through hydro-electric, geothermal and nuclear methods.
+The *Vekllei Electric Commission* (VEC, also Thunderburo) is responsible for the state monopoly on electricity generation in Vekllei. Although the VEC is structured as a bureau company, its subsidiaries are state-owned and consequently operates similarly to other agency-level departments of the Interior Government. The VEC consists of multiple subcommissions dedicated to unique types of electricity generation in Vekllei, primarily through hydro-electric, geothermal and nuclear methods.
 
 ##### Magma-Electric Commission
 
@@ -431,7 +436,7 @@ The Vekllei *Magma-Electric Commission* (colloquially *The Magma*) oversees geot
 
 ##### Hydro-Electric Commission
 
-The Vekllei *Hydro-Electric Commission* (colloquially *The Hydro*) oversees hydro-electric electricity generation in Vekllei, particularly in the glacial regions of the Home Islands and Kala. 
+The Vekllei *Hydro-Electric Commission* (colloquially *The Hydro*, not to be confused with the [*Hydroburo*](/utopia/vekllei/society/government/#vekllei-water-commission)) oversees hydro-electric electricity generation in Vekllei, particularly in the glacial regions of the Home Islands and Kala. 
 
 ##### Nuclear-Electric Commission
 
