@@ -18,10 +18,6 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ---
 ## What is this project?
 
-{{< hint >}}
-߷ This article is about [**Hobart's utopia**](/utopia/intro/#three-utopias), called [**Vekllei**](/utopia/vekllei)
-{{< /hint >}}
-
 {{<columns>}}
 <blockquote><i>So this is Utopia,<br />
 Is it? Well — <br />
@@ -37,6 +33,10 @@ I thought it was Hell.</i></blockquote>
 3. [Frequently Asked Questions](/utopia/intro/faq/)
 {{< /hint >}}
 {{</columns>}}
+
+{{< hint >}}
+߷ This article is about [**Hobart's utopia**](/utopia/intro/#three-utopias), called [**Vekllei**](/utopia/vekllei)
+{{< /hint >}}
 
 <span class="fc">M</span>
 **y stories are about good places and people**. That's the gist of it. [Vekllei](/utopia/vekllei/) is a fictional country where I demonstrate good things by drawing and writing about them. It's part-escapism, part-fantasy, and all good.
