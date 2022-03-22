@@ -10,6 +10,8 @@ color: pink
 weight: 2
 list_posts: false
 
+image: /images/hollywood.jpg
+
 description: The people of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
@@ -19,11 +21,6 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
   display: none;
 }
 </style>
-
-![img](/images/hollywood.jpg)
-{{< hint caption >}}
-Several core characters of this project's story, making a short film in [Miyatvousi](/utopia/vekllei/landscape/boroughs/miyatvousi/). From left: *Moise*, *Coretti*, *Tzipora* and *Cobian*. | *[Gone Hollywood](/posts/2021-05-24-hollywood/)*
-{{</hint>}}
 
 {{< hint >}}
 ߷ This article is about [**Hobart's characters**](/utopia/intro/#three-utopias), who live in [**Vekllei**](/utopia/vekllei)
