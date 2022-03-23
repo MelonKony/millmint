@@ -3,7 +3,7 @@ title: Transmission Towers
 fulltitle: Transmission Towers
 
 date: 2022-03-23
-rgb: 161, 161, 174
+rgb: 161, 161, 173
 
 tags:
 - 2022
