@@ -1,0 +1,49 @@
+<head>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='{{ "favicon.ico" | absURL }}' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+        {{- if eq .Kind "home" -}}
+            {{- print .Site.Title -}}
+        {{- else if eq .Kind "section" -}}
+            {{- print .CurrentSection.Title " - " .Site.Title }}
+        {{- else -}}
+            {{- print .Title " - " .Site.Title -}}
+        {{- end -}}
+    </title>
+
+    {{ with .Description }}
+    <meta name="description" content="{{ . }}" />
+    {{ end }}
+
+    {{ with .Keywords }}
+    <meta name="keywords" content="{{ delimit . "," }}" />
+    {{ end }}
+
+    {{ with (.Scratch.Get "params").author }}
+    <meta name="author" content="{{ . }}" />
+    {{ end }}
+
+    {{ if (.Scratch.Get "params").enableOpenGraph }}
+        {{ template "_internal/opengraph.html" . }}
+    {{ end }}
+
+    {{ if (.Scratch.Get "params").enableTwitterCards }}
+        {{ template "_internal/twitter_cards.html" . }}
+    {{ end }}
+
+    {{- partial "resources/css.html" . -}}
+
+    {{ if (.Scratch.Get "params").gaCode }}
+        {{ template "_internal/google_analytics_async.html" . }}
+    {{ end }}
+
+    {{/*  Dark theme: inline in `head` to avoid FOUC  */}}
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+        } else {
+            document.documentElement.classList.remove('dark');
+        }
+    </script>
+</head>

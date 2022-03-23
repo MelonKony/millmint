@@ -98,35 +98,29 @@
       parent = "essays"
       weight = 1
     [[navbar]]
-    identifier = "moneylessness"
-    name = "On Moneylessness"
-    url = "/newsdesk/essays/moneylessness"
-    parent = "essays"
-    weight = 2
-    [[navbar]]
       identifier = "utopie"
       name = "Utopie Concrete"
       url = "/newsdesk/essays/utopie"
       parent = "essays"
-      weight = 3
+      weight = 2
     [[navbar]]
       identifier = "hong kong"
       name = "Not Long in Hong Kong"
       url = "/newsdesk/essays/hongkong"
       parent = "essays"
-      weight = 4
+      weight = 3
     [[navbar]]
       identifier = "tokyo"
       name = "A Cashless Tokyo"
       url = "/newsdesk/essays/tokyo"
       parent = "essays"
-      weight = 5
+      weight = 4
     [[navbar]]
       identifier = "waugh"
       name = "Landscapes of Waugh"
       url = "/newsdesk/essays/waugh"
       parent = "essays"
-      weight = 6
+      weight = 5
 [[navbar]]
   identifier = "posts"
   name = "Stories"

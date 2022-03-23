@@ -35,10 +35,10 @@ article img[alt~="smallimg"] {
 
 @media (min-width: 655px) {
   article img[alt~="img"] {
-    width: 120%;
-    max-width: 120%;
-    margin-left: -10%;
-    margin-right: -10%;
+    width: 140%;
+    max-width: 140%;
+    margin-left: -20%;
+    margin-right: -20%;
     padding: 1rem;
     background-color: var(--gray-100);
   }
@@ -340,6 +340,8 @@ body article blockquote {
 	-moz-osx-font-smoothing: grayscale;
 	float: right;
 	font-size: 65px;
+	margin-top: auto;
+	margin-bottom: auto;
 }
 
 

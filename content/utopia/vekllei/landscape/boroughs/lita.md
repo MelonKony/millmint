@@ -25,7 +25,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 -- [A New Year](/posts/2021-01-5-rocket/)
 
 <span class="fc">T</span>
-**he borough of Lita** is an administrative region in the east of Vekllei, located in the Lava Region west of Copette and south-east of Krafla. It is named after Lita, its largest population centre and science town nestled in the glacial basins made by millions of years of freshwater runoff. It is well-known in Vekllei as the site of the Lita Cosmodrome, the primary launch site for industrial and scientific spacecraft. It is also the *de facto* headquarters of the *Cosmos Office* (Cosmoburo), even if its operations remain *de jure* centred in Vekllei Proper. The population of the town of Lita and its neighbouring villages is heavily affected by the Cosmodrome, transforming the borough into one of the primary astronomy and astrophysics hubs of the country.
+**he borough of Lita** is an administrative region in the east of Vekllei, located in the Lava Region west of Copette and south-east of [Krafla](/utopia/vekllei/landscape/boroughs/krafla/). It is named after Lita, its largest population centre and science town nestled in the glacial basins made by millions of years of freshwater runoff. It is well-known in Vekllei as the site of the Lita Cosmodrome, the primary launch site for industrial and scientific spacecraft. It is also the *de facto* headquarters of the *Cosmos Office* (Cosmoburo), even if its operations remain *de jure* centred in Vekllei Proper. The population of the town of Lita and its neighbouring villages is heavily affected by the Cosmodrome, transforming the borough into one of the primary astronomy and astrophysics hubs of the country.
 
 ## History
 

@@ -79,6 +79,8 @@ The Lola Geothermal Springs are located in Camro, in eastern Lola. Now part of a
 
 With industry inherited from a thousand years of settlement, Lola remains a major manufacturing base of Vekllei. In the Floral Period it is characterised mostly as a working-class suburb of migrants and manual labourers, a trend that continues today. Much of its heavy engineering is a legacy of the borough's status as a colonial port, and among Lola's oldest companies are shipbuilding firms that have existed for over 600 years.
 
+![smallimg](/images/wine.jpg)
+
 Lola is serviced by Vekllei Rail West, a part of [Vekllei National Rail](/utopia/vekllei/society/rail/). Like most boroughs of the Capital Region, it is heavily serviced by trams.
 
 As a coastal borough, Lola is home to the historical Port of Vekllei, one of Vekllei's major deepwater ports. Unlike the Dohyo Free Port, the Port of Vekllei services mostly Commonwealth-flagged ships and naval vessels.

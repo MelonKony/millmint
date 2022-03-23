@@ -1,0 +1,11 @@
+{{- define "content" -}}
+
+{{- partial "toc.html" . -}}
+
+{{ if .Content }}
+    <div class="my-7">
+        {{- partial "content.html" . -}}
+    </div>
+{{ end }}
+
+{{- end -}}
