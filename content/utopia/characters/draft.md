@@ -85,7 +85,7 @@ Some people think she's pretentious; she's not pretentious. She likes good food 
 </div>
 
 {{<section>}}
-**Moise ra Hasapis** is Tzipora's neighbour and best friend. Like Tzipora, he was born overseas and has only started schooling in Vekllei in late childhood. Imposing in both attitude and posture, Moise is feared and respected among his roommates. 
+**Moise ra Hasapis** is Tzipora's neighbour and best friend. Like Tzipora, he was born overseas and has only started schooling in Vekllei in late childhood. Imposing in both attitude and posture, Moise is feared and respected among his peers. 
  
 {{< button href="/tags/moise" >}}See all stories featuring Moise{{< /button >}}
 {{</section>}}
@@ -204,5 +204,13 @@ article h5 {
 .emoji {
   line-height: 50%;
   font-size: 35pt;
+}
+
+.section {
+    opacity: 1!important;
+  }
+
+.section p {
+  opacity: 0.85;
 }
 </style>

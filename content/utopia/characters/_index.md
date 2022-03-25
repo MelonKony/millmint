@@ -111,4 +111,12 @@ article h5 {
   line-height: 50%;
   font-size: 35pt;
 }
+
+.section {
+    opacity: 1!important;
+  }
+
+.section p {
+    opacity: 0.85;
+  }
 </style>
