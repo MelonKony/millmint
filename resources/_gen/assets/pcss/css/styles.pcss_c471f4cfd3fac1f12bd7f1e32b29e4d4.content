@@ -574,6 +574,11 @@ html {
   margin-right: 1rem;
 }
 
+.my-2 {
+  margin-top: 0.5rem;
+  margin-bottom: 2rem !important;
+}
+
 .my-8 {
   margin-bottom: 0 !important;
 }
@@ -1963,6 +1968,8 @@ article p {
 
 article li {
   margin-top: 0.5rem;
+  margin-bottom: 2rem;
+  margin-top: 0.5rem;
   margin-bottom: 0.5rem;
   list-style-type: disc;
 }
@@ -2124,6 +2131,8 @@ article figure {
 }
 
 article figure figcaption {
+  margin-top: 0.5rem;
+  margin-bottom: 2rem;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
 }

@@ -6,6 +6,7 @@ date: 2019-08-23
 tags:
     - post
     - 2019
+    - tzipora
 categories:
     - character
 keywords:

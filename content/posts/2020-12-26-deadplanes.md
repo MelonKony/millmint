@@ -7,6 +7,7 @@ tags:
     - post
     - 2020
     - pachinki
+    - tzipora
 categories:
     - character
 keywords:

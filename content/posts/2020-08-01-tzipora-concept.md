@@ -7,6 +7,8 @@ tags:
     - post
     - guide
     - 2020
+    - tzipora
+    - cobian
 categories:
     - character
 keywords:

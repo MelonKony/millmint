@@ -5,6 +5,8 @@ fulltitle: On Moneylessness
 date: 2021-12-09
 tags:
 - 2021
+- tzipora
+- cobian
 categories:
 - landscape
 keywords:

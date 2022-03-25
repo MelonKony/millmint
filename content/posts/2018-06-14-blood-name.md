@@ -6,6 +6,8 @@ date: 2018-06-14
 tags:
     - post
     - 2018
+    - tzipora
+    - baron
 categories:
     - archive
 keywords:

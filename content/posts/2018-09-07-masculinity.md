@@ -1,6 +1,6 @@
 ---
-title: KID COMIX
-fulltitle: KID COMIX, an underground comic mag in Vekllei
+title: Masculinity & Fatherhood in Vekllei
+fulltitle: Masculinity & Fatherhood in Vekllei
 
 date: 2018-09-07
 tags:

@@ -6,6 +6,8 @@ date: 2020-04-23
 tags:
     - post
     - 2020
+    - tzipora
+    - moise
 categories:
     - landscape
 keywords:

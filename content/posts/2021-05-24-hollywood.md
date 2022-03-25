@@ -6,6 +6,10 @@ date: 2021-05-24
 tags:
 - post
 - 2021
+- tzipora
+- cobian
+- coretti
+- moise
 categories:
 - landscape
 keywords:

@@ -6,6 +6,8 @@ date: 2019-09-03
 tags:
     - guide
     - 2019
+    - tzipora
+    - ayn
 categories:
     - author
 keywords:

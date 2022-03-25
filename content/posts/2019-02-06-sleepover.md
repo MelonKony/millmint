@@ -6,6 +6,8 @@ date: 2019-02-06
 tags:
     - sketch
     - 2019
+    - tzipora
+    - cobian
 categories:
     - archive
 keywords:

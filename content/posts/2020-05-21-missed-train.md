@@ -6,6 +6,8 @@ date: 2020-05-21
 tags:
     - post
     - 2020
+    - tzipora
+    - cobian
 categories:
     - character
 keywords:

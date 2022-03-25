@@ -16,34 +16,23 @@ description: The people of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
-.gt-container {
-  display: none;
-}
-</style>
-
 {{< hint >}}
 ߷ This article is about [**Hobart's characters**](/utopia/intro/#three-utopias), who live in [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
-## Overview
-
 <span class="fc">A</span>
 **lthough almost all characters** in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. This is useful, because if you're following along with this project, you're in some small way an immigrant yourself. It's through the eyes of these people that you see Vekllei, and their lives contribute to the utopian dimensions of this project as utopias-of-living.
 
-I'm still working on the little illustrations for each of the main characters, so please check back now and then for a more comprehensive list.
-
 <div class="headerbox">
-  <h1 class="title" style="line-height: 3; font-size: 1.5rem; font-weight: 700; margin-top: auto!important; margin-bottom: auto; filter: brightness(35%);">Tzipora (Zelda)</h1>
-  <div class="emoji" style="line-height: 50%;font-size: 35pt;" id="whirlybat">M</div>
-</div>
-
-<div style="background-color: var(--gray-100); border-radius: 5px;">
-<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/zelda.png">
+  <h1 class="title" >Tzipora (Zelda)</h1>
+  <div class="emoji" id="whirlybat">M</div>
 </div>
 
 {{<section>}}
-**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](/utopia/intro/#three-utopias) of this project. Often called Zelda by her friends, she is the protagonist of this project and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with [Gregori Syndrome](/posts/2021-05-28-forever/), a genetic disorder that affects her ageing and extends her natural life. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising her paranoid personality and making her happy.
+<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/zelda.png">
+
+**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](/utopia/intro/#three-utopias) of this project. Often called Zelda by her friends, she is the protagonist of this project and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with [Gregori Syndrome](/posts/2021-05-28-forever/), a genetic disorder that affects her ageing and extends her natural life. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising the neurotic parts of her personality and making her happy.
+
 {{< button href="/tags/tzipora" >}}See all stories featuring Tzipora{{< /button >}}
 {{</section>}}
 
@@ -64,16 +53,15 @@ Tzipora may be intense and inward-facing, but she can also be disarmingly charmi
 {{</ details >}}
 
 <div class="headerbox">
-  <h1 class="title" style="line-height: 3; font-size: 1.5rem; font-weight: 700; margin-top: auto!important; margin-bottom: auto; filter: brightness(35%);">Cobian</h1>
-  <div class="emoji" style="line-height: 50%;font-size: 35pt;" id="whirlybat">F</div>
-</div>
-
-<div style="background-color: var(--gray-100); border-radius: 5px;">
-<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/cobian.png">
+  <h1 class="title" >Cobian</h1>
+  <div class="emoji" id="whirlybat">F</div>
 </div>
 
 {{<section>}}
-**Cobian lo Ro de Viviya de Queismesnah** is Tzipora's longtime friend and occasional girlfriend. Conservative in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood. Tzipora and Cobian met during secondary schooling in Vekllei, and remained close throughout the rest of their lives. She is very close with Tzipora, but has tepid relationships with Tzipora's mostly male friendship group out of jealousy and a general distaste for boys. She is rigorously polite in the middle-class sense of the word; formal among strangers, gossipy among friends.
+<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/cobian.png">
+
+**Cobian lo Ro de Viviya de Queismesnah** is Tzipora's longtime friend and occasional girlfriend. Conservative in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood. Tzipora and Cobian met during secondary schooling in Vekllei, and remained close throughout the rest of their lives. She is very close with Tzipora, but has tepid relationships with Tzipora's (mostly male) friendship group out of jealousy and a general distaste for boys. She is rigorously polite in the middle-class sense of the word; formal among strangers, gossipy among friends.
+
 {{< button href="/tags/cobian" >}}See all stories featuring Cobian{{< /button >}}
 {{</section>}}
 
@@ -91,4 +79,36 @@ When Tzipora meets her, Cobian is a figure of sympathy and irritation. She was d
 Some people think she's pretentious; she's not pretentious. She likes good food and is highly fashionable in her interests and styles, but Cobian is also deeply empathetic and finds interest in new things via her friends she'd never previously thought about. She makes up most of Tzipora's social life, which leaves plenty of space for Zelda's big personality and obsessions. Zelda has a deeply stablising effect on Cobian, rounding out some of her mother's strict legacy through Zelda's androgynous habits and far-fetched fascinations. But Zelda's big personality does not include much talking or grace, and in these deficiencies Cobian's social talent shines. Together they make a great pair, their neighbouring personalities aiding their best selves.
 {{</ details >}}
 
+<style>
+.gt-container {
+  display: none;
+}
+a.book-btn {
+  margin-top: 0;
+  border: 1px solid var(--color-pink);
+  //background-color: rgba(255, 43, 78, 0.25);
+  //color: var(--body-font-color);
+  color: var(--color-pink);;
+  }
+article h5 {
+  margin-top: 1rem;
+}
 
+.headerbox {
+  margin-top: 2rem;
+}
+
+.title {
+  line-height: 3; 
+  font-size: 1.5rem; 
+  font-weight: 700;
+  margin-top: auto!important; 
+  margin-bottom: auto; 
+  filter: brightness(35%);
+}
+
+.emoji {
+  line-height: 50%;
+  font-size: 35pt;
+}
+</style>

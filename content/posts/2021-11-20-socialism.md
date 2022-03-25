@@ -5,6 +5,8 @@ fulltitle: Socialism, Backwards
 date: 2021-11-20
 tags:
 - 2021
+- tzipora
+- zhi
 categories:
 - landscape
 keywords:

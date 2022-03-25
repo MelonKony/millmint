@@ -6,6 +6,8 @@ date: 2019-10-17
 tags:
     - post
     - 2019
+    - tzipora
+    - cobian
 categories:
     - landscape
 keywords:

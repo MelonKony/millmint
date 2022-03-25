@@ -6,6 +6,8 @@ date: 2018-07-19
 tags:
     - post
     - 2018
+    - tzipora
+    - cobian
 categories:
     - archive
 keywords:
