@@ -1,8 +1,8 @@
 if(document.querySelector("[data-page-color]")) {
 
 	// Page color override
-	const rbgArray = document.querySelector("[data-page-color]").getAttribute("data-page-color").split(",").map(v => Number(v))
-	setBackgroundColor(rbgArray)
+	const rgbArray = document.querySelector("[data-page-color]").getAttribute("data-page-color").split(",").map(v => Number(v))
+	setBackgroundColor(rgbArray)
 
 } else if(location.href.includes('/posts/') && !document.querySelector('.list-item')) {
 	window.addEventListener("load", () => {
@@ -40,7 +40,6 @@ window.addEventListener("load", () => {
 				});
 
 				card.querySelectorAll(".this-is-the-real-title-haha").forEach(title => {
-					console.log(title)
 					title.setAttribute('style', `color: rgb(${rgb.join(', ')}) !important;`)
 				})
 
@@ -49,12 +48,17 @@ window.addEventListener("load", () => {
 			}
 
 			// Make sure image is finished loading
-			if (img.complete) {
-				getColors(img, 0, null).then(setCardBackground)
+			if (card.querySelector("[data-card-color]")){
+					const rgbArray = card.querySelector('[data-card-color]').getAttribute("data-card-color").split(",").map(v => Number(v))
+					setCardBackground(rgbArray)
 			} else {
-				img.addEventListener("load", function () {
+				if (img.complete) {
 					getColors(img, 0, null).then(setCardBackground)
-				});
+				} else {
+					img.addEventListener("load", function () {
+						getColors(img, 0, null).then(setCardBackground)
+					});
+				}
 			}
 		})
 	}

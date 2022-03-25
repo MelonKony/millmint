@@ -31,6 +31,9 @@
                           <a href="{{ .RelPermalink }}">
                           <div class="post-info">
                             <div class="post-title">
+                              {{ if .Params.rgb }}
+                              <div data-card-color="{{ .Params.rgb }}" style="display: none"></div>
+                              {{ end }}
                               <span style="font-size: 1.2rem; font-weight: 700; max-width: 75%;" href="{{ .RelPermalink }}" href="{{ .RelPermalink }}" class="text-base border-b-2">
                                   <span class="this-is-the-real-title-haha">{{- .Title -}}</span>
                               </span>
