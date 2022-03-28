@@ -64,14 +64,14 @@ bookcase_list_pages: true
 舉例來說:
 
 ```
-https://kaiiiz.github.io/hugo-theme-monochrome/thanks.jpg
+https://kaiiiz.github.io/hugo-theme-monochrome/thanks.jpg?q=100&auto=format
         \_____________________________________/\________/
                     base URL              bookcase_cover_src
 ```
 
 ```yaml
 ---
-bookcase_cover_src: 'thanks.jpg'
+bookcase_cover_src: 'thanks.jpg?q=100&auto=format'
 ---
 ```
 
@@ -86,14 +86,14 @@ bookcase_cover_src: 'thanks.jpg'
 舉例來說:
 
 ```
-https://kaiiiz.github.io/hugo-theme-monochrome/thanks.jpg
+https://kaiiiz.github.io/hugo-theme-monochrome/thanks.jpg?q=100&auto=format
         \_____________________________________/\________/
                     base URL              bookcase_cover_src
 ```
 
 ```yaml
 ---
-bookcase_cover_src_dark: 'thanks.jpg'
+bookcase_cover_src_dark: 'thanks.jpg?q=100&auto=format'
 ---
 ```
 

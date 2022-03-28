@@ -11,7 +11,7 @@ categories:
 - landscape
 keywords:
 - 2021
-image: https://millmint.imgix.net/images/coast.jpg
+image: https://millmint.imgix.net/images/coast.jpg?q=100&auto=format
 ---
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/rcn1cg/on_moneylessness/" >}}Archived from the original article here{{< /button >}}

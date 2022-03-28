@@ -12,7 +12,7 @@ categories:
 keywords:
 - post
 - 2021
-image: https://millmint.imgix.net/images/mailtrain.jpg
+image: https://millmint.imgix.net/images/mailtrain.jpg?q=100&auto=format
 
 ---
 

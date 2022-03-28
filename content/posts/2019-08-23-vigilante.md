@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2019
-image: https://millmint.imgix.net/images/sketches/vigilante.jpg
+image: https://millmint.imgix.net/images/sketches/vigilante.jpg?q=100&auto=format
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/cu8kvf/zelda_the_vigilant/" >}}Archived from the original article here{{< /button >}}
 

@@ -9,7 +9,7 @@ color: red
 weight: 2
 list_posts: false
 
-image: https://millmint.imgix.net/images/death.jpg
+image: https://millmint.imgix.net/images/death.jpg?q=100&auto=format
 
 description: Upen is an indigenous religion of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
@@ -40,7 +40,7 @@ In this sense, *Upen* can be understood as having two distinct forms, practiced 
 * Public *Upen*, which involves priests, communities, ceremony and cultural artefacts (like [*Upotenne*](/utopia/vekllei/language/#25--upotenne) and [*Rapotenne*](/utopia/vekllei/language/#23--rapotenne)). Public *Upen* manifests similarly to other faiths, in which sites of worship, historical texts and sacred spaces inform practice and understanding.
 * Private *Upen*, which involves personal understanding and direct physicality with the aspects of material being *Upen* holds sacred, namely the spirit of all things and the human form.
 
-![img](https://millmint.imgix.net/images/spiritful.jpg)
+![img](https://millmint.imgix.net/images/spiritful.jpg?q=100&auto=format)
 {{< hint caption >}}
 [Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes) stands in traditional Upen dress before an offerings box. | *[Spiritful](/posts/2021-06-19-spiritful/)*
 {{</hint>}}

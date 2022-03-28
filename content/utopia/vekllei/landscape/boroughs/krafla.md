@@ -7,7 +7,7 @@ tag: LANDSCAPE
 sitetag: Boroughs
 color: green
 
-image: https://millmint.imgix.net/images/liminal.jpg
+image: https://millmint.imgix.net/images/liminal.jpg?q=100&auto=format
 
 weight: 1
 bookHidden: true
@@ -53,7 +53,7 @@ In the highlands on the far side of the Joskuslsa river are Krafla's mysterious 
 
 ### Krafla High-Energy Communications Tower
 
-![smallimg](https://millmint.imgix.net/images/basecamp.jpg)
+![smallimg](https://millmint.imgix.net/images/basecamp.jpg?q=100&auto=format)
 {{< hint caption >}}
 The Krafla HET marks the landscape for miles around | *[Base Camp](/posts/2020-07-21-base-camp/)*
 {{</hint>}}

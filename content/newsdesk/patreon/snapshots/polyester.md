@@ -11,7 +11,7 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 
-![smallimg](https://millmint.imgix.net/images/sketches/polyester.jpg)
+![smallimg](https://millmint.imgix.net/images/sketches/polyester.jpg?q=100&auto=format)
 
 **People across the world are very excited** by the possibilities and emerging styles in new synthetic materials, including polyester, plastic, and new-nylon. In keeping with her meticulous and mildly neurotic character, Tzipora cannot stand synthetic fibres and refuses wear anything that isn't soft, loose-fitting and hand-washable.
 

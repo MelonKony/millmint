@@ -11,7 +11,7 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 
-![smallimg](https://millmint.imgix.net/images/sketches/welts.jpg)
+![smallimg](https://millmint.imgix.net/images/sketches/welts.jpg?q=100&auto=format)
 
 **The years that were supposed to be Tzipora’s finest were falling apart**. She was fourteen, out of money and out of options. Her tuition laboured on, paid in advance, but there was nothing left over for her. Her mother didn’t send money or letters anymore. So Tzipora lived on the free dinners provided by the Sisters of Charity and gifts from people who pitied her, mostly wealthy migrants associated with the church. Her shoes worn smooth slipped in the school halls, and her shirt collar had yellowed.
 

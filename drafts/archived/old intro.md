@@ -85,7 +85,7 @@ Note that both form a part of the “utopia” — this is appropriate, since Ve
 {{<columns>}}
 **Utopias as Author** refers to the fact that all utopias are deeply personal; they're as intimate as dreams. There is no 'author proxy' here because the whole thing is a proxy of authorship; an expression of individual experience and memory. Is it self-indulgent? Almost certainly. But if art is expression, why should dreams be excluded?
 <--->
-![smallimg](https://millmint.imgix.net/images/kiki.jpg)
+![smallimg](https://millmint.imgix.net/images/kiki.jpg?q=100&auto=format)
 {{</columns>}}
 
 ### Utopia as *Landscape*
@@ -96,14 +96,14 @@ Note that both form a part of the “utopia” — this is appropriate, since Ve
 * **Landscape** as it refers to physical space, like cities, woodlands and oceans.
 * **Landscape** as it refers to the human metaphysic of place -- the way we build and identify physical spaces in our mind. For example, most people today distinguish between 'the city' and 'nature'. In Vekllei, they don't.
 <--->
-![smallimg](https://millmint.imgix.net/images/matchstick.jpg)
+![smallimg](https://millmint.imgix.net/images/matchstick.jpg?q=100&auto=format)
 {{</columns>}}
 
 ### Utopia as *Character*
 {{<columns>}}
 **Utopias of character** are what I call utopian premises of life experience; stuff you can't construct from stone and concrete. Character utopias make up for the limitations of utopian space by recognising and providing for a new utopian dimension -- people, and personality. If the obsessive utopian can create imaginary communities from social dreams, why not people? Character utopias sum up an ideal life experience, personality, body and taste. [Zelda](/utopia/characters/#2-tzipora-zelda-desmoisnes) is one such character utopia.
 <--->
-![smallimg](https://millmint.imgix.net/images/grips.jpg)
+![smallimg](https://millmint.imgix.net/images/grips.jpg?q=100&auto=format)
 {{</columns>}}
 
 ## 3. Where to from here?

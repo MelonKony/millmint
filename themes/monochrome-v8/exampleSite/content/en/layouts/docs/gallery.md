@@ -77,14 +77,14 @@ Image URL. URL must be relative to base URL. (without `/` prefix)
 For example:
 
 ```
-https://kaiiiz.github.io/hugo-theme-monochrome/thanks.jpg
+https://kaiiiz.github.io/hugo-theme-monochrome/thanks.jpg?q=100&auto=format
         \_____________________________________/\________/
                     base URL                gallery_img_src
 ```
 
 ```yaml
 ---
-gallery_img_src: 'thanks.jpg'
+gallery_img_src: 'thanks.jpg?q=100&auto=format'
 ---
 ```
 

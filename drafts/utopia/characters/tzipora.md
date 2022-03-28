@@ -21,7 +21,7 @@ color: var(--color-teal);
 <h5 span class="tag teal"> CHARACTER </h5>
 <h6 span class="sitetag">Documents</h6>
 
-![img](/images/tziporacon.jpg)
+![img](/images/tziporacon.jpg?q=100&auto=format)
 
 {{< hint yellow >}}
 ❖ This article is about a [**character**](/utopia/intro/#utopia-as-character) who lives in [**Vekllei**](/utopia/vekllei)
@@ -38,7 +38,7 @@ Tzipora is characterised by her intense disposition and conservative tastes, inf
 
 <--->
 
-![img](/images/mastheads/tzipora.jpg)
+![img](/images/mastheads/tzipora.jpg?q=100&auto=format)
 {{< /columns >}}
 
 Tzipora struggles with shell-shock, which interferes with her sleep and is spurred by several triggers, including large dogs and lying on her chest. Her nervous behaviour manifests in various tics, most obviously pulling and rubbing of her clothes and nose. She is relatively unknown in Vekllei, except as an occasional medical curiosity, but is somewhat renowned internationally as the oldest surviving Gregori Baby.

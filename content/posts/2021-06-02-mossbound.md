@@ -12,7 +12,7 @@ categories:
 keywords:
 - post
 - 2021
-image: https://millmint.imgix.net/images/mossbound.jpg
+image: https://millmint.imgix.net/images/mossbound.jpg?q=100&auto=format
 ---
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/nqooqh/mossbound/" >}}Archived from the original article here{{< /button >}}

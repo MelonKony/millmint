@@ -29,7 +29,7 @@ color: var(--color-pink);
 <h5 span class="tag pink"> UTOPIA </h5>
 <h6 span class="sitetag">Introduction</h6>
 
-![img](/images/roadtrip.jpg)
+![img](/images/roadtrip.jpg?q=100&auto=format)
 
 {{< hint pink >}}
 ߷ This article is about [**Hobart's characters**](/utopia/intro/#three-utopias), who live in [**Vekllei**](/utopia/vekllei)

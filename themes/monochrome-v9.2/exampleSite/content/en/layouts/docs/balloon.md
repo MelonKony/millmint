@@ -48,14 +48,14 @@ Balloon head image URL. URL must be relative to base URL. (without `/` prefix)
 For example:
 
 ```
-https://kaiiiz.github.io/hugo-theme-monochrome/thanks.jpg
+https://kaiiiz.github.io/hugo-theme-monochrome/thanks.jpg?q=100&auto=format
         \_____________________________________/\________/
                     base URL                 balloon_img_src
 ```
 
 ```yaml
 ---
-balloon_img_src: 'thanks.jpg'
+balloon_img_src: 'thanks.jpg?q=100&auto=format'
 ---
 ```
 
@@ -68,14 +68,14 @@ Balloon head image URL for dark mode. URL must be relative to base URL. (without
 For example:
 
 ```
-https://kaiiiz.github.io/hugo-theme-monochrome/thanks.jpg
+https://kaiiiz.github.io/hugo-theme-monochrome/thanks.jpg?q=100&auto=format
         \_____________________________________/\________/
                     base URL              balloon_img_src
 ```
 
 ```yaml
 ---
-balloon_img_src_dark: 'thanks.jpg'
+balloon_img_src_dark: 'thanks.jpg?q=100&auto=format'
 ---
 ```
 

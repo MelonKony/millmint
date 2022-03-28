@@ -11,7 +11,7 @@ categories:
 keywords:
     - post
     - 2019
-image: https://millmint.imgix.net/images/dog.jpg
+image: https://millmint.imgix.net/images/dog.jpg?q=100&auto=format
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/cr65zu/the_people_of_veklleis_railway_plus_dog/" >}}Archived from the original article here{{< /button >}}
 

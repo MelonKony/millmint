@@ -15,7 +15,7 @@ keywords:
     - post
     - guide
     - 2020
-image: https://millmint.imgix.net/images/tziporacon.jpg
+image: https://millmint.imgix.net/images/tziporacon.jpg?q=100&auto=format
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/i1fgjd/meet_tzipora_concept_panel_for_a_vekllei_comic/" >}}Archived from the original article here{{< /button >}}
 {{< hint >}}

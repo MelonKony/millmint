@@ -13,7 +13,7 @@ categories:
 keywords:
 - post
 - 2021
-image: https://millmint.imgix.net/images/shrine-minded.jpg
+image: https://millmint.imgix.net/images/shrine-minded.jpg?q=100&auto=format
 
 ---
 

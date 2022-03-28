@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2020
-image: https://millmint.imgix.net/images/summerhouse.jpg
+image: https://millmint.imgix.net/images/summerhouse.jpg?q=100&auto=format
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/hyt68u/summer_house_in_the_azores/" >}}Archived from the original article here{{< /button >}}
 {{< hint >}}

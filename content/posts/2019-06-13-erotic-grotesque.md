@@ -11,7 +11,7 @@ categories:
 keywords:
     - post
     - 2019
-image: https://millmint.imgix.net/images/eroguro.jpg
+image: https://millmint.imgix.net/images/eroguro.jpg?q=100&auto=format
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/c05k16/absolute_grotesque/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

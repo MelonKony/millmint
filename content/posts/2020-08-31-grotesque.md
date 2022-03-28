@@ -11,7 +11,7 @@ categories:
 keywords:
     - post
     - 2020
-image: https://millmint.imgix.net/images/warmap.jpg
+image: https://millmint.imgix.net/images/warmap.jpg?q=100&auto=format
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/ijxvzu/absolute_grotesque/" >}}Archived from the original article here{{< /button >}}
 {{< hint >}}

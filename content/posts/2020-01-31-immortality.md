@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2020
-image: https://millmint.imgix.net/images/immortal.jpg
+image: https://millmint.imgix.net/images/immortal.jpg?q=100&auto=format
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/ew9gb3/face_to_face_with_immortality/" >}}Archived from the original article here{{< /button >}}
 

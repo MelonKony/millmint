@@ -77,14 +77,14 @@ gallery_title_link: 'https://github.com/kaiiiz'
 舉例來說:
 
 ```
-https://kaiiiz.github.io/hugo-theme-monochrome/thanks.jpg
+https://kaiiiz.github.io/hugo-theme-monochrome/thanks.jpg?q=100&auto=format
         \_____________________________________/\________/
                     base URL              gallery_img_src
 ```
 
 ```yaml
 ---
-gallery_img_src: 'thanks.jpg'
+gallery_img_src: 'thanks.jpg?q=100&auto=format'
 ---
 ```
 

@@ -14,7 +14,7 @@ keywords:
     - post
     - 2020
     - pachinki
-image: https://millmint.imgix.net/images/deadplanes.jpg
+image: https://millmint.imgix.net/images/deadplanes.jpg?q=100&auto=format
 draft: false
 ---
 

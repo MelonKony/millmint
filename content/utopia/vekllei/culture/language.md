@@ -7,7 +7,7 @@ tag: CULTURE
 sitetag: Article
 color: red
 
-image: https://millmint.imgix.net/images/manufacturie.jpg
+image: https://millmint.imgix.net/images/manufacturie.jpg?q=100&auto=format
 
 list_posts: false
 
@@ -49,7 +49,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 **Let's take a look** in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and [*Spoken Vekllei*](/utopia/vekllei/language/#2-spoken-vekllei) and [*Topet*](/utopia/vekllei/language/#3-topet) are understood universally.
 
-![img](https://millmint.imgix.net/images/language.jpg)
+![img](https://millmint.imgix.net/images/language.jpg?q=100&auto=format)
 {{< hint caption >}}
 An infographic showcasing the Vekllei language, including [Potenne](/utopia/vekllei/culture/language/#5-potenne) use. | *[How to Speak Vekllei](/posts/2020-11-14-language/)*
 {{</hint>}}
@@ -175,7 +175,7 @@ Despite common use of the phonetic system in modernity, the semantic readings of
 
 Individual *Topet* characters are both semantic and phonetic, and can be written in a phonetic abugida (with semantic weight carried by the initial character-group) or as a single character group. The abugida-form is phonetic and aids vocalisation through its *hieyerette* characters. The single character group-form is pictographic, and generally replaces the abugida in contexts where the pronunciation is commonly known or obvious. In these character groups, only one *demioette* character is vocalised, called the *principle*, and the *hieyerette* characters are simply not written.
 
-![img](https://millmint.imgix.net/images/topet.jpg)
+![img](https://millmint.imgix.net/images/topet.jpg?q=100&auto=format)
 {{< hint caption >}}
 An infographic summarising the appearance of Vekllei scripts, including [*Topet*](/utopia/vekllei/culture/language/#3-topet). | *[How to Read Vekllei](/posts/2021-05-31-topet/)*
 {{</hint>}}
@@ -265,7 +265,7 @@ There are several components within *Vekllei Semaphore* which employs types of s
 
 #### Colourcoda
 
-*Colourcoda* is the means by which *Vekllei Semaphore* reassembles colour values in social forms through patterns, colour placement and contrast. Visitors will likely have encountered *Colourcoda* without even realising it; the transliteration of green and gold on [the uniforms of Puffin Scouts](/images/uniform.jpg) is "peacefulness besides the land;" the red and white of [the Vekllei school uniform](/images/trials.jpg) means "youth of Vekllei," and [the blue and white of a Venopor police car](/images/feast.jpg) means "royal defence". Patterns quickly complexify this meaning, allowing for more sophisticated sentence construction, though few Vekllei people are fluent.
+*Colourcoda* is the means by which *Vekllei Semaphore* reassembles colour values in social forms through patterns, colour placement and contrast. Visitors will likely have encountered *Colourcoda* without even realising it; the transliteration of green and gold on [the uniforms of Puffin Scouts](/images/uniform.jpg?q=100&auto=format) is "peacefulness besides the land;" the red and white of [the Vekllei school uniform](/images/trials.jpg?q=100&auto=format) means "youth of Vekllei," and [the blue and white of a Venopor police car](/images/feast.jpg?q=100&auto=format) means "royal defence". Patterns quickly complexify this meaning, allowing for more sophisticated sentence construction, though few Vekllei people are fluent.
 
 #### Formsigns
 

@@ -13,7 +13,7 @@ categories:
 keywords:
     - post
     - 2019
-image: https://millmint.imgix.net/images/introducingmoise.jpg
+image: https://millmint.imgix.net/images/introducingmoise.jpg?q=100&auto=format
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/cv3w1h/introducing_moise/" >}}Archived from the original article here{{< /button >}}
 

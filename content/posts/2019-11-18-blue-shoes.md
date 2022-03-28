@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2019
-image: https://millmint.imgix.net/images/blueshoes.jpg
+image: https://millmint.imgix.net/images/blueshoes.jpg?q=100&auto=format
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/dy34hd/blue_shoes/" >}}Archived from the original article here{{< /button >}}
 

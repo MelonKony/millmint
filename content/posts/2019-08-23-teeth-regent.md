@@ -13,7 +13,7 @@ keywords:
     - post
     - pachinki
     - 2019
-image: https://millmint.imgix.net/images/regent.jpg
+image: https://millmint.imgix.net/images/regent.jpg?q=100&auto=format
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/cudfnv/the_teeth_regents/" >}}Archived from the original article here{{< /button >}}
 

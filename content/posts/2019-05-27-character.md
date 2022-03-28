@@ -14,7 +14,7 @@ keywords:
     - post
     - guide
     - 2019
-image: https://millmint.imgix.net/images/character.jpg
+image: https://millmint.imgix.net/images/character.jpg?q=100&auto=format
 
 ---
 {{< button href="https://www.reddit.com/r/characterforge/comments/btfqm8/show_and_tell_meet_tzipora_desmoines_the_eternal/" >}}Archived from the original article here{{< /button >}}
@@ -23,7 +23,7 @@ image: https://millmint.imgix.net/images/character.jpg
 ❖ This article predates the project, and **should be considered non-canon**.
 {{< /hint >}}
 
-This is Tzipora. She goes by two names -- Tzipora, her birth name, and Zelda, a name she mistakenly thought sounded less Jewish. She lives in [Lola](https://www.reddit.com/r/worldbuilding/comments/blqcwl/utopia_the_participatory_economy_of_vekllei/) in the [Vekllei city-state](https://i1.wp.com/vekllei.city/wp-content/uploads/2018/11/img_0555.png?ssl=1).
+This is Tzipora. She goes by two names -- Tzipora, her birth name, and Zelda, a name she mistakenly thought sounded less Jewish. She lives in [Lola](https://www.reddit.com/r/worldbuilding/comments/blqcwl/utopia_the_participatory_economy_of_vekllei/) in the [Vekllei city-state](https://i1.wp.com/vekllei.city/wp-content/uploads/2018/11/img_0555.png?q=100&auto=format?ssl=1).
 
 As an immigrant, she struggles with school but holds her own on in track and field, an inversion of her otherwise quiet and bookish nature. She is intimidated by pretty girls and can throw a half-decent punch.
 

@@ -11,7 +11,7 @@ categories:
 keywords:
     - post
     - 2019
-image: https://millmint.imgix.net/images/cabforward.jpg
+image: https://millmint.imgix.net/images/cabforward.jpg?q=100&auto=format
 
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/busvvn/catching_a_steam_locomotive_to_school/" >}}Archived from the original article here{{< /button >}}
@@ -22,7 +22,7 @@ image: https://millmint.imgix.net/images/cabforward.jpg
 
 >*Most of the kids pictured here are the cubs of lumberfolk who make a living out of felling hard pines in the mountains in the North of Vekllei. About half have dark hair and rounder faces, as descendants of both inuits and Scandinavians, and others are of mixed ancestry. Families in Vekllei are large and often nonbiological, and a single lad can have a dozen sisters. Ame Louisendopet might be a bitch on occasion, but that’s how it goes. Jo’s little sister, Popet, has decided age ten and a half that she’ll be a locomotive engineer one day.*
 
-As you may have learned by now, Vekllei is a land of contrasts. Last year, the Lonne Rail Authority commissioned a new generation of maglev trains for blistering five-minute commutes between [Little Vekllei and the Lonne terminus](https://i1.wp.com/vekllei.city/wp-content/uploads/2018/11/img_0555.png?ssl=1), turning an otherwise 60km journey into an unconscious gesture. At a top speed of 750km/h, the pride of Vekllei’s commuter rail seems to gunning for subsonic commuter jets head-on.
+As you may have learned by now, Vekllei is a land of contrasts. Last year, the Lonne Rail Authority commissioned a new generation of maglev trains for blistering five-minute commutes between [Little Vekllei and the Lonne terminus](https://i1.wp.com/vekllei.city/wp-content/uploads/2018/11/img_0555.png?q=100&auto=format?ssl=1), turning an otherwise 60km journey into an unconscious gesture. At a top speed of 750km/h, the pride of Vekllei’s commuter rail seems to gunning for subsonic commuter jets head-on.
 
 Meanwhile, in the mountains around Montre, the D-006 steam locomotive approaches her 130th birthday. Where the maglev guzzles direct current from atomic power plants around the country, D-006 chews through bunker fuel — literal scrapings from a barrel somewhere — and leaves soot where she goes. Her train is not carrying businessfolk but log cars bound for the coasts, where they will be sold to Europe for furniture. In the mornings of most weekdays, the engineers and lumberjacks that man her bring their children along for the trip, where the little ones watch the engineer work the cab while the teenagers shiver on her maintenance catwalks.
 

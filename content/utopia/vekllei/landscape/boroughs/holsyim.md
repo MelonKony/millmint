@@ -7,7 +7,7 @@ tag: LANDSCAPE
 sitetag: Boroughs
 color: green
 
-image: https://millmint.imgix.net/images/moss.jpg
+image: https://millmint.imgix.net/images/moss.jpg?q=100&auto=format
 
 weight: 1
 bookHidden: true

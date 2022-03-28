@@ -25,7 +25,7 @@ The *Bureau System*, sometimes called *Product Socialism*, is the name by which 
 
 <--->
 
-![canals](https://millmint.studio/images/canal.jpg)
+![canals](https://millmint.studio/images/canal.jpg?q=100&auto=format)
 
 Prior to the Atomic War, Vekllei was a closed, protectionist market under rule of a monarchy puppeted by a military junta. A backwards and quaint country for much of its 20th century, there is no period in Vekllei's history which we might describe as "industrial capitalism". It is in this context, in the ashes of the Atomic War and under British occupation, that we can sympathise with the barter economy that would eventually modernise into the Bureau System, a thoroughly unique economic ideology in the world today.
 

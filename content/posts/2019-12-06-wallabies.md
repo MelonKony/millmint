@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2019
-image: https://millmint.imgix.net/images/wallaby.jpg
+image: https://millmint.imgix.net/images/wallaby.jpg?q=100&auto=format
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/e6iykk/wallabies_of_the_arctic_veklleis_pademelon_and/" >}}Archived from the original article here{{< /button >}}
 

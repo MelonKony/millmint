@@ -7,7 +7,7 @@ tag: SOCIETY
 sitetag: Article
 color: pink
 
-image: https://millmint.imgix.net/images/gov.jpg
+image: https://millmint.imgix.net/images/gov.jpg?q=100&auto=format
 
 list_posts: false
 
@@ -42,10 +42,10 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 <div class="row">
 <div class="column">
-<img src="/images/mastheads/flags/vekllei-international.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://millmint.imgix.net/images/mastheads/flags/vekllei-international.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/vekllei-domestic.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://millmint.imgix.net/images/mastheads/flags/vekllei-domestic.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 </div>
 
@@ -82,10 +82,10 @@ The Government of Vekllei is made up of Ministries, Offices, Departments, Bureau
 
 <div class="row">
 <div class="column">
-<img src="/images/mastheads/flags/vekllei-international.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://millmint.imgix.net/images/mastheads/flags/vekllei-international.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/vekllei-domestic.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://millmint.imgix.net/images/mastheads/flags/vekllei-domestic.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 </div>
 
@@ -519,22 +519,22 @@ The Vekllei National Rail Bureau is the parent bureau for all rail transport in 
 
 <div class="row">
 <div class="column">
-<img src="/images/mastheads/flags/aismious.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://millmint.imgix.net/images/mastheads/flags/aismious.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/azores.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://millmint.imgix.net/images/mastheads/flags/azores.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/demon.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://millmint.imgix.net/images/mastheads/flags/demon.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/kala.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://millmint.imgix.net/images/mastheads/flags/kala.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/kalina.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://millmint.imgix.net/images/mastheads/flags/kalina.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/mira.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://millmint.imgix.net/images/mastheads/flags/mira.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 </div>
 

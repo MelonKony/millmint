@@ -20,7 +20,7 @@ This essay was written in June 2021. [Click here to see it as a post](/posts/202
 {{< /hint >}}
 
 <div style="background-color: var(--gray-100); border-radius: 5px;">
-<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/utopie.png">
+<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/utopie.png?q=100&auto=format">
 </div>
 
 ### A New Style of Utopia

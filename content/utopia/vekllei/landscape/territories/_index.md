@@ -6,12 +6,12 @@ tag: LANDSCAPE
 sitetag: Introduction
 color: green
 
-image: https://millmint.imgix.net/images/territories.jpg
+image: https://millmint.imgix.net/images/territories.jpg?q=100&auto=format
 
 weight: 1
 ---
 
-![img](https://millmint.imgix.net/images/territories.jpg)
+![img](https://millmint.imgix.net/images/territories.jpg?q=100&auto=format)
 
 {{< hint green >}}
 ♣ This page lists completed articles on [**Vekllei's**](/utopia/vekllei) [**overseas territories**](/utopia/vekllei/#administrative-divisions)
@@ -24,16 +24,16 @@ weight: 1
 
 ## Vekllei's Overseas Territories & Provinces
 
-![img](https://millmint.imgix.net/images/mastheads/flags/aismious.png)
-![img](https://millmint.imgix.net/images/mastheads/flags/antarctic.png)
-![img](https://millmint.imgix.net/images/mastheads/flags/azores.png)
-![img](https://millmint.imgix.net/images/mastheads/flags/demon.png)
-![img](https://millmint.imgix.net/images/mastheads/flags/kala.png)
-![img](https://millmint.imgix.net/images/mastheads/flags/kalina.png)
-![img](https://millmint.imgix.net/images/mastheads/flags/mira.png)
-![img](https://millmint.imgix.net/images/mastheads/flags/moon.png)
-<a href="https://millmint.net/utopia/vekllei" rel="some text">![img](https://millmint.imgix.net/images/mastheads/flags/vekllei-domestic.png)</a>
-<a href="https://millmint.net/utopia/vekllei" rel="some text">![img](https://millmint.imgix.net/images/mastheads/flags/vekllei-international.png)</a>
+![img](https://millmint.imgix.net/images/mastheads/flags/aismious.png?q=100&auto=format)
+![img](https://millmint.imgix.net/images/mastheads/flags/antarctic.png?q=100&auto=format)
+![img](https://millmint.imgix.net/images/mastheads/flags/azores.png?q=100&auto=format)
+![img](https://millmint.imgix.net/images/mastheads/flags/demon.png?q=100&auto=format)
+![img](https://millmint.imgix.net/images/mastheads/flags/kala.png?q=100&auto=format)
+![img](https://millmint.imgix.net/images/mastheads/flags/kalina.png?q=100&auto=format)
+![img](https://millmint.imgix.net/images/mastheads/flags/mira.png?q=100&auto=format)
+![img](https://millmint.imgix.net/images/mastheads/flags/moon.png?q=100&auto=format)
+<a href="https://millmint.net/utopia/vekllei" rel="some text">![img](https://millmint.imgix.net/images/mastheads/flags/vekllei-domestic.png?q=100&auto=format)</a>
+<a href="https://millmint.net/utopia/vekllei" rel="some text">![img](https://millmint.imgix.net/images/mastheads/flags/vekllei-international.png?q=100&auto=format)</a>
 
 <style>
 /* flags */

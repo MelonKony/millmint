@@ -12,7 +12,7 @@ categories:
 keywords:
 - post
 - 2021
-image: https://millmint.imgix.net/images/spiritful.jpg
+image: https://millmint.imgix.net/images/spiritful.jpg?q=100&auto=format
 ---
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/o3mrum/spiritful/" >}}Archived from the original article here{{< /button >}}

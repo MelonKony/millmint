@@ -5,7 +5,7 @@ emoji: -millmint
 tag: UTOPIA
 sitetag: Introduction
 color: pink
-image: https://millmint.imgix.net/images/vekllei.png
+image: https://millmint.imgix.net/images/vekllei.png?q=100&auto=format
 
 list_posts: false
 
@@ -35,7 +35,7 @@ The Home Island has been inhabited for at least four thousand years by Arctic pe
 
 Subsequent centuries saw rapid growth of the local population, which was politically and culturally isolated from mainland Europe by the 6th Century BC. By the 4th Century BC, many contemporary cultural features of the country had become commonplace, including an early form of [Upen](/utopia/vekllei/religion) and [Vekllei logographs](/utopia/vekllei/culture/language/#3-topet). During the following millennia Vekllei developed into a major economic and military power, but saw its influence decline between the 12th and 15th Centuries AD during the Period of Rest.
 
-![img](https://millmint.imgix.net/images/shrine-minded.jpg)
+![img](https://millmint.imgix.net/images/shrine-minded.jpg?q=100&auto=format)
 {{< hint caption >}}
 Life in coastal boroughs like [Santes](/utopia/vekllei/landscape/boroughs/santes) continues much as it has for hundreds of years | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
 {{</hint>}}
@@ -52,7 +52,7 @@ Since independence, Vekllei has maintained a strong position of armed neutrality
 
 *Vekllei*, officially the *Vekllei Commonwealth*, is a society blossoming with contradictions and anachronisms, which reflect and fold into each other to produce new forms of living. The country advocates *laissez-faire* market participation and soviet-style central planning simultaneously; it is the site of a healthy new democracy utterly divorced by public apathy, and a place of midcentury science-worship and automation used to bolster backwardness and agrarian living. This idea carries on and on, cascading throughout all levels of society.
 
-![img](https://millmint.imgix.net/images/railmap.jpg)
+![img](https://millmint.imgix.net/images/railmap.jpg?q=100&auto=format)
 {{< hint caption >}}
 A map showing Vekllei's dense rail network linking the 100 [boroughs](/utopia/vekllei/landscape/boroughs/) of the Home Islands | *[100 Boroughs](/posts/2020-06-14-map/)*
 {{</hint>}}
@@ -86,7 +86,7 @@ Vekllei sits atop the constructive boundary of the Mid-Atlantic ridge, bridging 
 
 The unstable Atlantic pressure oscillation, of which Vekllei anchors as the Vekllei Low Pole, can pull in bitter cold from the Greenland currents, or warmth from the Azores tempestuously. This gifts the Home Islands a temperate, though subarctic climate, with average temperatures in summer of about 18-25 degrees centigrade that decline into an annual mean low of approximately 10 degrees in the Capital Region. The good weather and seasonal daylight inform Vekllei's animistic spiritualism, with festivals to mark both solstices.
 
-![img](https://millmint.imgix.net/images/gun.jpg)
+![img](https://millmint.imgix.net/images/gun.jpg?q=100&auto=format)
 {{< hint caption >}}
 Hunting in a ro, a flower-rich tundra characterised by volcanic pools | *[The Gun](/posts/2021-08-25-gun/)*
 {{</hint>}}
@@ -121,7 +121,7 @@ Since Vekllei is nonpartisan, it does not allow formal participation of parties 
 
 Although Vekllei is unitary politically and considers itself a city-state, the Home Islands are divided geographically between 100 boroughs (as part of the *borough system*). Each borough is proportional to the land-sovereign's natural wealth, which accounts for its history, folklore and natural features. Because of this, the human population of boroughs is highly disproportionate, the smallest being [Bakur](/utopia/vekllei/boroughs/bakur), in the Afouismeh region, with a population of 7,500 people, and the largest being Vekllei proper, in the Capital Region, of 2.4 millions.
 
-![img](https://millmint.imgix.net/images/territories.jpg)
+![img](https://millmint.imgix.net/images/territories.jpg?q=100&auto=format)
 {{< hint caption >}}
 A map showing Vekllei's overseas territories, including claims in the Lesser Antilles, Antarctica and the Lunar South Pole | *[Vekllei's Sprawling Commonwealth](/posts/2021-03-10-commonwealth/)*
 {{</hint>}}
@@ -139,25 +139,25 @@ In total, Vekllei's various possessions, provinces and administrative systems ca
 
 <div class="row">
 <div class="column">
-<img src="/images/mastheads/flags/aismious.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://millmint.imgix.net/images/mastheads/flags/aismious.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/azores.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://millmint.imgix.net/images/mastheads/flags/azores.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/demon.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://millmint.imgix.net/images/mastheads/flags/demon.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/kala.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://millmint.imgix.net/images/mastheads/flags/kala.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/kalina.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://millmint.imgix.net/images/mastheads/flags/kalina.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/mira.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://millmint.imgix.net/images/mastheads/flags/mira.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="/images/mastheads/flags/vekllei-international.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://millmint.imgix.net/images/mastheads/flags/vekllei-international.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 </div>
 
@@ -204,7 +204,7 @@ These features manifest in various forms throughout modern Vekllei, including it
 
 Trade and materials are provided by biosynthetic robotics infrastructure and participatory work, and is supplemented in places by mandatory military service. Vekllei people enjoy a high standard of living and access to most consumer goods.
 
-![img](https://millmint.imgix.net/images/momentsinlove.jpg)
+![img](https://millmint.imgix.net/images/momentsinlove.jpg?q=100&auto=format)
 {{< hint caption >}}
 The borough of Lava, part of Vekllei's dense, residential satellite belt | *[Moments in Love](/posts/2021-01-23-love/)*
 {{</hint>}}
@@ -219,25 +219,25 @@ Postwar Vekllei economics champions free association, home-ownership and informa
 
 <div class="row">
   <div class="column">
-  <img src="/images/mastheads/coins/1.png" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
+  <img src="https://millmint.imgix.net/images/mastheads/coins/1.png?q=100&auto=format" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
   </div>
   <div class="column">
-  <img src="/images/mastheads/coins/10.png" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
+  <img src="https://millmint.imgix.net/images/mastheads/coins/10.png?q=100&auto=format" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
   </div>
   <div class="column">
-  <img src="/images/mastheads/coins/50.png" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
+  <img src="https://millmint.imgix.net/images/mastheads/coins/50.png?q=100&auto=format" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
   </div>
   <div class="column">
-  <img src="/images/mastheads/coins/100.png" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
+  <img src="https://millmint.imgix.net/images/mastheads/coins/100.png?q=100&auto=format" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
   </div>
   <div class="column">
-  <img src="/images/mastheads/coins/200.png" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
+  <img src="https://millmint.imgix.net/images/mastheads/coins/200.png?q=100&auto=format" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
   </div>
   <div class="column">
-  <img src="/images/mastheads/coins/500.png" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
+  <img src="https://millmint.imgix.net/images/mastheads/coins/500.png?q=100&auto=format" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
   </div>
   <div class="column">
-  <img src="/images/mastheads/coins/1000.png" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
+  <img src="https://millmint.imgix.net/images/mastheads/coins/1000.png?q=100&auto=format" alt="coin" style="width:100%; padding: 0; background-color: transparent;" >
   </div>
 </div>
 
@@ -252,7 +252,7 @@ Both currencies are used for trade internationally, and float on the labour-powe
 
 Vekllei has a high unemployment rate for a developed country, reported at 12.5%. About 80% of Vekllei workers belong to a trade union, usually *Pettiburos* or *Bureaus*. Nearly 2 million Vekllei people are enrolled in higher education full-time, significantly reducing the nation's labour pool. These are accounted for politically as natural fluctuations of the deregulated Bureau System, and unemployment in the country has seen a stable reduction since the initial decades of independence. Although many citizens in Vekllei are immigrants, the country has few foreign workers, and those employed in the country tend to be high-skill and high-wage workers.
 
-![smallimg](https://millmint.imgix.net/images/matchstick.jpg)
+![smallimg](https://millmint.imgix.net/images/matchstick.jpg?q=100&auto=format)
 
 Since no work is compensated by money in the country, international standard metrics for poverty and income per capita are obfuscated. It is generally understood that urban populations have easier access to consumer goods, but inferior access to local produce and genuine meat products. Rural populations are also more likely to take on informal work in their village or town, and may not necessarily hold membership in an industry bureau.
 
@@ -307,7 +307,7 @@ Vekllei is spoken by around 25 million people, and a further 800,000 people arou
 
 *Upen* is the nondenominational animism of Vekllei, and is practiced nearly universally throughout the country in various forms and traditions. As much a secular cultural tradition as an organised religion, *Upen* coexists alongside abrahamic and miscellaneous faiths in the country, integrating most immigrant populations in Vekllei into its scripture on landscape and *sumoismiaya*, or the "spirit of things."
 
-![img](https://millmint.imgix.net/images/spiritful.jpg)
+![img](https://millmint.imgix.net/images/spiritful.jpg?q=100&auto=format)
 {{< hint caption >}}
 [Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes) stands in traditional Upen dress before an offerings box. | *[Spiritful](/posts/2021-06-19-spiritful/)*
 {{</hint>}}
@@ -320,7 +320,7 @@ Although most people in the country observe *Upen* apolitically, several other r
 
 Education in Vekllei is structured as a *State Requisite Bureau* (rather than department) under the *requoisesiasn amourisocietie scolastie*, or A.r.E. Schooling is mandatory and universal between the ages of 5 and 14, and most schools in the country serve all ages between these years. All schools in Vekllei, aside from a half-dozen religious schools, are coeducational and operated directly by the A.r.E.
 
-![img](https://millmint.imgix.net/images/generation.jpg)
+![img](https://millmint.imgix.net/images/generation.jpg?q=100&auto=format)
 {{< hint caption >}}
 Students in the uniform of Vekllei government schools | *[A New Generation](/posts/2021-08-21-generation/)*
 {{</hint>}}
@@ -337,7 +337,7 @@ Vekllei's school enrolment is among the highest in the world, though this calcul
 
 **Unlike manufacturing and general industry**, public infrastructure in the country is almost entirely monopolised by the government Utilities (A.r.Un.) and Construction (A.r.Lo.) state requisites, organs in Vekllei analogous to nationalised government industry. Infrastructure consistently ranks among Vekllei's greatest national expenditure, with trillions of Kroner each year poured into projects across the country.
 
-![img](https://millmint.imgix.net/images/hydro.jpg)
+![img](https://millmint.imgix.net/images/hydro.jpg?q=100&auto=format)
 {{< hint caption >}}
 Sunny morning at the [Ou Hydroburo Complex](/utopia/vekllei/landscape/boroughs/ou/#hydroburo-development) in [Ou](/utopia/vekllei/landscape/boroughs/ou/). | *[The Ou Hydroburo Office](/posts/2020-04-21-hydro/)*
 {{</hint>}}
@@ -388,7 +388,7 @@ Homes are also commonly inherited in Vekllei. All Vekllei people are guaranteed 
 
 The **Royal Mail of Vekllei** is the postal service of the country, and counts among its oldest surviving institutions. Founded in 1422, its origins as a military communications organ manifest today in its contemporary designation as a military state requisite, rather than civilian postal carrier. Despite this, the Royal Mail remains thoroughly civilian in its oversight and practice, and delivers around 50 million mail pieces a day in peak periods, including courier work abroad.
 
-![img](https://millmint.imgix.net/images/mailtrain.jpg)
+![img](https://millmint.imgix.net/images/mailtrain.jpg?q=100&auto=format)
 {{< hint caption >}}
 [Tzipora](/utopia/characters/#2-tzipora-zelda-desmoisnes) races a [Royal Mail](/utopia/vekllei/society/mail/) rural [mail train](/utopia/vekllei/society/mail/#fleet) to its next stop. | *[Racing the Post Office to the Station](/posts/2021-02-05-mailtrain/)*
 {{</hint>}}

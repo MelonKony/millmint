@@ -11,7 +11,7 @@ categories:
 keywords:
     - post
     - 2019
-image: https://millmint.imgix.net/images/skytrade.jpg
+image: https://millmint.imgix.net/images/skytrade.jpg?q=100&auto=format
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/dk3d8m/a_new_challenger_has_appeared/" >}}Archived from the original article here{{< /button >}}
 

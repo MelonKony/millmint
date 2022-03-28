@@ -48,14 +48,14 @@ balloon_resources: "/about"
 舉例來說:
 
 ```
-https://kaiiiz.github.io/hugo-theme-monochrome/thanks.jpg
+https://kaiiiz.github.io/hugo-theme-monochrome/thanks.jpg?q=100&auto=format
         \_____________________________________/\________/
                     base URL              balloon_img_src
 ```
 
 ```yaml
 ---
-balloon_img_src: 'thanks.jpg'
+balloon_img_src: 'thanks.jpg?q=100&auto=format'
 ---
 ```
 
@@ -68,14 +68,14 @@ balloon_img_src: 'thanks.jpg'
 舉例來說:
 
 ```
-https://kaiiiz.github.io/hugo-theme-monochrome/thanks.jpg
+https://kaiiiz.github.io/hugo-theme-monochrome/thanks.jpg?q=100&auto=format
         \_____________________________________/\________/
                     base URL              balloon_img_src
 ```
 
 ```yaml
 ---
-balloon_img_src_dark: 'thanks.jpg'
+balloon_img_src_dark: 'thanks.jpg?q=100&auto=format'
 ---
 ```
 

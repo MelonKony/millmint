@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2017
-image: https://millmint.imgix.net/images/nationaldress.jpg
+image: https://millmint.imgix.net/images/nationaldress.jpg?q=100&auto=format
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/6o1k7x/she_stands_in_the_harbour_in_national_dress_jets/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}
