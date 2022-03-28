@@ -10,7 +10,7 @@ color: pink
 weight: 1
 list_posts: false
 
-image: /images/intro.gif
+image: https://millmint.imgix.net/images/intro.gif
 
 description: An intro to the world of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
@@ -57,7 +57,7 @@ Just a few things to keep in mind:
 * This place is **good-spirited** -- Vekllei is escapism, and although the dark accompanies the light, this project is supposed to be escapist and fun.
 * This place is **constantly expanding** -- I try out new styles, mediums and methods of distribution all the time. Some of them work, some of them don't. That's part of the fun of it!
 
-![img](/images/orange.jpg)
+![img](https://millmint.imgix.net/images/orange.jpg)
 
 ### Three Utopias
 

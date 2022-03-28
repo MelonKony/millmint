@@ -13,7 +13,7 @@ categories:
 keywords:
     - post
     - 2019
-image: /images/dirigible.jpg
+image: https://millmint.imgix.net/images/dirigible.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/e0xl3w/oceanliners_of_the_sky_vacuum_dirigibles_in/" >}}Archived from the original article here{{< /button >}}
 

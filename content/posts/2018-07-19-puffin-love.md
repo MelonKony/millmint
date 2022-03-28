@@ -13,7 +13,7 @@ categories:
 keywords:
     - post
     - 2018
-image: /images/sketches/puffinlove.jpg
+image: https://millmint.imgix.net/images/sketches/puffinlove.jpg
 ---
 {{< button href="https://www.reddit.com/user/MelonKony/comments/8zwexl/winter_love_puffin_feat_tzipora_akiko/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

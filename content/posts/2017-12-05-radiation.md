@@ -11,7 +11,7 @@ categories:
 keywords:
     - post
     - 2017
-image: /images/radiation.jpg
+image: https://millmint.imgix.net/images/radiation.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/7hohs9/radiation_poisoning_in_domestic_vekllei/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

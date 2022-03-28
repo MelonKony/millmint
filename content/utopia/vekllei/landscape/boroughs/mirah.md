@@ -7,7 +7,7 @@ tag: LANDSCAPE
 sitetag: Boroughs
 color: green
 
-image: /images/waterfront.jpg
+image: https://millmint.imgix.net/images/waterfront.jpg
 
 weight: 1
 bookHidden: true

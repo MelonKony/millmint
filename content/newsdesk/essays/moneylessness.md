@@ -7,7 +7,7 @@ tag: ESSAY
 sitetag: Newsdesk
 color: blue
 
-image: "/images/coast.jpg"
+image: https://millmint.imgix.net/images/coast.jpg
 weight: 1
 
 description: Notes on utopie concrète, a new movement for utopian fiction.

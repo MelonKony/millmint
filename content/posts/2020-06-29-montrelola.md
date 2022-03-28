@@ -11,7 +11,7 @@ categories:
 keywords:
     - post
     - 2020
-image: /images/montrelola.jpg
+image: https://millmint.imgix.net/images/montrelola.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/hhjytf/village_map_of_montrelola/" >}}Archived from the original article here{{< /button >}}
 {{< hint >}}

@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2019
-image: /images/moonholiday.jpg
+image: https://millmint.imgix.net/images/moonholiday.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/d60w7n/holiday_on_the_moon/" >}}Archived from the original article here{{< /button >}}
 

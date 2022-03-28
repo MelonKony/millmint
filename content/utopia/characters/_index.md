@@ -10,7 +10,7 @@ color: pink
 weight: 2
 list_posts: false
 
-image: /images/liminal.jpg
+image: https://millmint.imgix.net/images/liminal.jpg
 
 description: The people of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips

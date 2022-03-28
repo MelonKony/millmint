@@ -12,7 +12,7 @@ categories:
 keywords:
 - post
 - 2021
-image: "/images/breakfast.jpg"
+image: https://millmint.imgix.net/images/breakfast.jpg
 ---
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/n8hfeu/a_vekllei_breakfast/" >}}Archived from the original article here{{< /button >}}

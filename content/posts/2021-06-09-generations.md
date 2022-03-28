@@ -12,7 +12,7 @@ categories:
 keywords:
 - post
 - 2021
-image: "/images/generations.jpg"
+image: https://millmint.imgix.net/images/generations.jpg
 ---
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/nw354j/generations/" >}}Archived from the original article here{{< /button >}}

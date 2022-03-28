@@ -12,7 +12,7 @@ categories:
 keywords:
     - sketch
     - 2019
-image: /images/decay.jpg
+image: https://millmint.imgix.net/images/decay.jpg
 ---
 {{< button href="https://www.reddit.com/user/MelonKony/comments/c708ih/the_principles_of_human_decay/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

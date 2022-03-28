@@ -13,7 +13,7 @@ categories:
 keywords:
 - post
 - 2021
-image: "/images/stationlogic.jpg"
+image: https://millmint.imgix.net/images/stationlogic.jpg
 ---
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/nq071y/station_logic/" >}}Archived from the original article here{{< /button >}}

@@ -11,7 +11,7 @@ categories:
 - landscape
 keywords:
 - 2021
-image: "/images/socialism.jpg"
+image: https://millmint.imgix.net/images/socialism.jpg
 
 rgb: 79, 121, 78
 ---

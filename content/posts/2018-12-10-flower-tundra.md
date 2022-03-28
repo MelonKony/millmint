@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2018
-image: /images/flowertundra.jpg
+image: https://millmint.imgix.net/images/flowertundra.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/a4viiv/the_flower_tundra/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

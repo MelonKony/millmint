@@ -7,7 +7,7 @@ tag: LANDSCAPE
 sitetag: Boroughs
 color: green
 
-image: /images/hollywood.jpg
+image: https://millmint.imgix.net/images/hollywood.jpg
 
 weight: 1
 bookHidden: true

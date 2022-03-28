@@ -7,7 +7,7 @@ tag: LANDSCAPE
 sitetag: Boroughs
 color: green
 
-image: /images/serpent.jpg
+image: https://millmint.imgix.net/images/serpent.jpg
 
 weight: 1
 bookHidden: true

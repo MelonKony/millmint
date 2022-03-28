@@ -13,7 +13,7 @@ categories:
 keywords:
     - post
     - 2020
-image: /images/enthusiasm.jpg
+image: https://millmint.imgix.net/images/enthusiasm.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/g65op7/gentle_enthusiasm/" >}}Archived from the original article here{{< /button >}}
 

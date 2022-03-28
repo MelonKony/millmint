@@ -14,7 +14,7 @@ keywords:
     - post
     - guide
     - 2019
-image: /images/character.jpg
+image: https://millmint.imgix.net/images/character.jpg
 
 ---
 {{< button href="https://www.reddit.com/r/characterforge/comments/btfqm8/show_and_tell_meet_tzipora_desmoines_the_eternal/" >}}Archived from the original article here{{< /button >}}

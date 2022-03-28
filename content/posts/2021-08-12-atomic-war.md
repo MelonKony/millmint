@@ -11,7 +11,7 @@ categories:
 keywords:
 - post
 - 2021
-image: "/images/tv.jpg"
+image: https://millmint.imgix.net/images/tv.jpg
 ---
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/p33nu3/june_21st_2111/" >}}Archived from the original article here{{< /button >}}

@@ -7,7 +7,7 @@ tag: LANDSCAPE
 sitetag: Boroughs
 color: green
 
-image: /images/rocket.jpg
+image: https://millmint.imgix.net/images/rocket.jpg
 
 weight: 1
 bookHidden: true

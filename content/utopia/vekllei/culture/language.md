@@ -7,7 +7,7 @@ tag: CULTURE
 sitetag: Article
 color: red
 
-image: /images/manufacturie.jpg
+image: https://millmint.imgix.net/images/manufacturie.jpg
 
 list_posts: false
 
@@ -49,7 +49,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 **Let's take a look** in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and [*Spoken Vekllei*](/utopia/vekllei/language/#2-spoken-vekllei) and [*Topet*](/utopia/vekllei/language/#3-topet) are understood universally.
 
-![img](/images/language.jpg)
+![img](https://millmint.imgix.net/images/language.jpg)
 {{< hint caption >}}
 An infographic showcasing the Vekllei language, including [Potenne](/utopia/vekllei/culture/language/#5-potenne) use. | *[How to Speak Vekllei](/posts/2020-11-14-language/)*
 {{</hint>}}
@@ -175,7 +175,7 @@ Despite common use of the phonetic system in modernity, the semantic readings of
 
 Individual *Topet* characters are both semantic and phonetic, and can be written in a phonetic abugida (with semantic weight carried by the initial character-group) or as a single character group. The abugida-form is phonetic and aids vocalisation through its *hieyerette* characters. The single character group-form is pictographic, and generally replaces the abugida in contexts where the pronunciation is commonly known or obvious. In these character groups, only one *demioette* character is vocalised, called the *principle*, and the *hieyerette* characters are simply not written.
 
-![img](/images/topet.jpg)
+![img](https://millmint.imgix.net/images/topet.jpg)
 {{< hint caption >}}
 An infographic summarising the appearance of Vekllei scripts, including [*Topet*](/utopia/vekllei/culture/language/#3-topet). | *[How to Read Vekllei](/posts/2021-05-31-topet/)*
 {{</hint>}}

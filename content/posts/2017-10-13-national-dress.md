@@ -11,7 +11,7 @@ categories:
 keywords:
     - post
     - 2017
-image: /images/vkdress.jpg
+image: https://millmint.imgix.net/images/vkdress.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/75wu54/the_national_dress_of_vekllei/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

@@ -13,7 +13,7 @@ keywords:
     - post
     - sketch
     - 2018
-image: /images/sketches/ruraltrains.jpg
+image: https://millmint.imgix.net/images/sketches/ruraltrains.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/a3anhl/rural_trains/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

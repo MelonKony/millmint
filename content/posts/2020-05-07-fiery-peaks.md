@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2020
-image: /images/peaks.jpg
+image: https://millmint.imgix.net/images/peaks.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/gel3e9/fiery_peaks/" >}}Archived from the original article here{{< /button >}}
 {{< hint >}}

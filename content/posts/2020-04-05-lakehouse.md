@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2020
-image: /images/lakehouse.jpg
+image: https://millmint.imgix.net/images/lakehouse.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/g4b7mh/abnis_spectres_of_violence/" >}}Archived from the original article here{{< /button >}}
 

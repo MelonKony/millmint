@@ -94,14 +94,14 @@ f there is a single film of concern in this thesis that demonstrates a utopian, 
 
 In the Japanese calendar, 1955 is the 30th year of Shōwa, placing it in the height of a period broadly characterised by rapid economic development and construction after the Second World War. Of course, *My Neighbour Totoro* depicts a space far removed from the noisy urbanism rapidly developing in Japanese cities — at odds with and even disrupting preconceptions of modernist progress. This submersion of capital-M Modernity is present throughout the film. In his seminal analysis of modernist instinct, Marshall Berman illustrated a vision of modern living remarkably hostile to the landscape of Totoro, arguing that 20th-century society “speeds up the whole tempo of life,” and severs “millions of people from their ancestral habitats, hurtling them half-way across the world into new lives,” as "rapid and often cataclysmic urban growth; systems of mass communication, dynamic in their development, [envelope] and [bind] together the most diverse people and societies […]” (Berman, 1983, p. 16).
 
-![img](/images/media/totoro-1.png)
+![img](https://millmint.imgix.net/images/media/totoro-1.png)
 {{< hint caption >}}
 **Fig. 1.1** *Mei and Satsuki amidst the season’s produce*
 {{</hint>}}
 
 And yet, in Miyazaki’s childhood fantasy, we are presented a place of an excruciatingly agrarian pace of life, no depiction of commerce (and almost no recognition of the existence of money at all), of people dependent on place and history, living and moving into old, run-down homes in which even a telephone is a scarce feature. This depicts a sort of asymmetric timelessness, or, as utopian scholar Phillip Wegner argues, an “alternate history,” in which the priorities of the postwar Japanese state have been totally inverted, and the consumer society that flourished under American occupation and democratisation was never introduced (Wegner, 2010). To use Marx’s phrase borrowed by Berman (1983), Miyazaki is, in some sense, recapturing solidity that, in our own world and in his childhood, had long since melted into air during the Meiji restoration. It is here that lies the distinction of Miyazaki’s place of tension from broader thematic depictions of the future and past, found not in contemporary anguish or conservative retrospection, but in a dislocation of spatiotemporality, building worlds that, while thoroughly Japanese and midcentury, do not really exist. This is not to argue that no such villages in *Totoro* existed in 1950s Japan — the film was inspired by the Saitama prefecture outside Tokyo — rather, that the textual spatiality of *My Neighbour Totoro*, per their construction in animation, are pulled from social *dreams* rather than merely depicted historically. It is by ‘social dreaming’ that this thesis distinguishes utopian instincts from fantasy, and it is by social dreaming that Ghibli’s films are able to reach and engage with the subliminal concepts. It is not the absence of telephones, or the depiction of animism that recalls a utopian spatial dialectic, but the whole inversion of priority that cascades and colours every part of the film.
 
-![img](/images/media/totoro-2.png)
+![img](https://millmint.imgix.net/images/media/totoro-2.png)
 {{< hint caption >}}
 **Fig. 1.2** *The family visits an old shrine buried deep in the forest*
 {{</hint>}}
@@ -114,7 +114,7 @@ In real terms, what do these constructions mean for the film? In terms of spatia
 
 >“The characters are typical of much modern Japanese animation, with their enormous eyes, childlike bodies and features of great plasticity (mouths are tiny when closed, but enormous when opened in a child’s cry — we even see Setsuko’s tonsils). This film proves, if it needs proving, that animation produces emotional effects not by reproducing reality, but by heightening and simplifying it, so that many of the sequences are about ideas, not experiences.” (Ebert, 2000.)
 
-![img](/images/media/totoro-3.png)
+![img](https://millmint.imgix.net/images/media/totoro-3.png)
 {{< hint caption >}}
 **Fig. 1.3** *The family’s moving truck passes a roadside shrine*
 {{</hint>}}
@@ -128,7 +128,7 @@ And so there is a tension here — perhaps, even a proud contradiction — that 
 <span class="fc">U</span>
 sing *My Neighbour Totoro* as a metric for spatiotemporal discussion in Ghibli, the next film arranged here marks a shift from the overt spatial questions of heavy concerns in literary history and metaphysics, towards the world of temporality, witchy semiotics and the delight of domestic fantasy. *Kiki’s Delivery Service*, released a year after *Totoro* in 1989, is one of Ghibli’s ‘European adventures,’ a legacy traced all the way back to Miyazaki’s early work on *Heidi, a Girl of the Alps* in the 1970s (Le Blanc & Odell 2019, p. 29). In many ways, it is a suitable film to elaborate and build upon the concepts discussed in the previous section, for *Kiki’s Delivery Service*, like *My Neighbour Totoro*, is quite easily characterised as the same alt-history “what-if” paradigm, displaced and rebuilt in a fictional European setting. Kiki, a young witch leaving home for the first time to develop her powers, finds her enemies not to be evil wizards of ancient evils, but self-doubt, money and loneliness. This marks what should be considered a critical shift in this ‘witch story’; its introduction to a domestic, personal space that appeals to both emotional narratives of development and self-discovery, and the petty fantasy of ‘small magic’ in an otherwise ordinary setting. Kiki does not wield tremendous magic power capable of altering history, either local or worldly — she accomplishes that instead through her character and relationships.
 
-![img](/images/media/kiki-1.png)
+![img](https://millmint.imgix.net/images/media/kiki-1.png)
 {{< hint caption >}}
 **Fig. 2.1** *Kiki soars high above the roofs of Koriko on her broomstick*
 {{</hint>}}
@@ -141,7 +141,7 @@ This results in a film in which, much like *Totoro*, Miyazaki’s masterful, amo
 
 It is precisely this process of defamiliarsation — through obfuscation of place, time and culture — that allows *Kiki’s Delivery Service* to play in service of its story and its spaces. Relevant to spatiality, the coastal city of Koriko is part of a recurring interest (and quite possibly, a fascination) on the part of Miyazaki for a mythologised ‘old Europe’. This point was made by Chris Wood, who described Ghibli’s Europe in Porco Rosso as an object of a “tourist’s gaze,” and argued for such depictions to be understood as part of longtime Japanese wonder and apprehension towards the European powers (Wood 2008, pp.114-120).
 
-![img](/images/media/kiki-2.png)
+![img](https://millmint.imgix.net/images/media/kiki-2.png)
 {{< hint caption >}}
 **Fig. 2.2** *News footage shows the zeppelin losing anchor, mimicking footage of the Hindenburg*
 {{</hint>}}
@@ -152,7 +152,7 @@ A.J. Rocca argues for Koriko as a foundation for the climax of the film — a re
 
 >“[In Koriko] food and goods are plentiful, there’s no trace of any deep social antagonisms, and new technologies like the Zeppelin and biplane are presented as whimsical machines full of novelty and wonder as opposed to weapons of war. Koriko is nothing less than a utopia, and more: it’s a modern utopia; an idealised picture of what the 20th century might have looked like in the dreams of a Bellamy or a Chernyshevsky.” (A.J. Rocca, 2017)
 
-![img](/images/media/kiki-3.png)
+![img](https://millmint.imgix.net/images/media/kiki-3.png)
 {{< hint caption >}}
 **Fig. 2.3** *Crowds gather on Koriko’s rooftops to watch the stricken zeppelin*
 {{</hint>}}
@@ -172,7 +172,7 @@ here is perhaps no finer testament to the specialness of the films of Studio Ghi
 
 >“When I joined Ghibli and I talked to them I said, “Are you guys ever going to release this?” and they said, “We can’t release it.” I said, "Can it have it back then?" and they said, ”Yes.” I think the discussion of the girls having their periods may have been a problem. A lot of people squirm about that in North America, but in other countries they don’t. It wasn’t a problem in some countries. I think also the pacing was hard for North America” (Aguilar, 2016).
 
-![img](/images/media/yesterday-1.png)
+![img](https://millmint.imgix.net/images/media/yesterday-1.png)
 {{< hint caption >}}
 **Fig. 3.1** *Young Taeko sits out of PE after catching a cold, worried her peers will think she’s on her period*
 {{</hint>}}
@@ -183,7 +183,7 @@ These memories, broadly depicting different aspects of childhood (or, for that m
 
 More subtle, however, is Takahata’s unusual shift in the style of characters themselves. In the scenes of the present day, features of the face like cheeks and smile lines are animated in a noticeable and sharp break from anime’s tradition of simplification. In childhood, however, these  illustrations disappear, where wide, plastic faces conform to Ghibli’s established style. This is both an artefact of Takahata’s experimentation with animating around prerecorded lines (a practice unusual for anime, where actors usually perform after production is underway), and a stylistic distinction that emphasises the schism between Taeko’s nostalgic Shoujo world and the real ‘present’ (Campbell, 2020). This is surely deliberate, since young Taeko represents well the common features of Ghibli heroines, regarded in Japan as ‘Shoujo’, literally ‘young lady’ or ‘little girl’. This characterisation, described by Tamae Prindle (1998) as a “lacuna between adulthood and childhood, power and powerlessness, awareness and innocence as well as masculinity and femininity” is a common trope, but although commonly depicted across Ghibli’s catalogue it alone does not fully summate the depth and complexities of their protagonists. Young Taeko reflects the shoujo idea specifically in a scene in which she dreams of becoming an actress — in the memory, her eyes are larger and exaggerated in typical shoujo manga style, in her mind “acting out” the exaggerated beauty and proportions of the shoujo trope. In this sense, there is a clear spatial distinction between the naturalistic styles and illustration of the present and the malleability of dreams and their abstract temporality.
 
-![img](/images/media/yesterday-2.png)
+![img](https://millmint.imgix.net/images/media/yesterday-2.png)
 {{< hint caption >}}
 **Fig. 3.2** *Taeko and her host family dry saffron on straw mats in the sun*
 {{</hint>}}
@@ -192,7 +192,7 @@ The division of landscapes is not unique to the mechanics of cinema, however —
 
 The same cannot be said for the depiction of Yamagata, and Taeko’s retreat to the country marks a visual departure as dramatic as that between the memory scenes and present Tokyo. Despite her stay in a thoroughly Japanese farmhouse amidst steep, terraced hills, European elements also emerge. Toshio, her acquaintance and friend, mentions an affection for traditional Eastern European music, and agriculture in the region is dependent on the harvesting of Saffron flowers, an originally mediterranean crop. This reflects, to some extent, the minor Japanese interest in ‘Old Europe,’ but also helps distinguish Taeko’s journey as somewhat special across Japanese agriculture, distinguish the practice and technique of Saffron harvest against staple crops like rice. We see every part of the plant being used, using its valuable threads to dye clothes. Here, Taeko is obviously an outsider — despite her eagerness to learn and participate — and so her Shōwa nostalgia, which she confesses to Toshio, is unreciprocated. This ties into a broader, studio-wide thematic interest here towards the deficiencies of Japanese urbanism. Most obviously, the previous chapter’s My Neighbour Totoro celebrates agrarian living, and it is not unreasonable to associate Only Yesterday with this general post-Shōwa urban skepticism. The film makes obvious, however, that Taeko’s tentative agrarian retreat is presented as an alternative, rather than default space. It is very much a human domain, just distant from the bustling heart of Tokyo, which is epistemically opposed to Totoro’s more foundational absence of landscape.
 
-![img](/images/media/yesterday-3.png)
+![img](https://millmint.imgix.net/images/media/yesterday-3.png)
 {{< hint caption >}}
 **Fig. 3.3** *Young Taeko considers the poverty of a fellow classmate*
 {{</hint>}}
@@ -221,12 +221,12 @@ The manga on which the film is based (of the same name) prioritises the relation
 Within the film, however, the asset bubble and stock market crash couldn’t be further away, as a more domestic conflict within a middle-class family plays out. Shizuku’s parents are scholarly (a common trope within Ghibli’s catalogue) — her father works at the local municipal library and her mother studies at university. Since her sister, with whom she shares a room for the first part of the film, is also a university student, Shizuku is a somewhat independent figure. It is possible that her bookishness is inherited at least in part from her parents. Her life is spread across Tama, commuting to and from school and her father’s library, as well as the commercial heart of her hometown. Hills are a characteristic feature of the area, and the film depicts curving roads, vast concrete retaining walls and steep staircases throughout.
 
 {{< columns >}}
-![img](/images/media/heart-1-1.png)
+![img](https://millmint.imgix.net/images/media/heart-1-1.png)
 {{< hint caption >}}
 **Fig. 4.1** *Shizuku crosses a curved street in Tamagawa*
 {{</hint>}}
 <--->
-![img](/images/media/heart-1-2.jpg)
+![img](https://millmint.imgix.net/images/media/heart-1-2.jpg)
 {{< hint caption >}}
 **Fig. 4.2** *The same curved street (own work)*
 {{</hint>}}
@@ -239,12 +239,12 @@ Within the film, however, the asset bubble and stock market crash couldn’t be 
 This approach also means most viewers will cultivate a basic understanding of Tamagawa — and by extension, the anchors of Shizuku’s life — through the relationship of these spaces with Shizuku and with each other. This approach also has a dramatic effect on the pacing of the film, which Miyazaki identified above as *Ma* in an interview with critic Roger Ebert. “Emptiness,” Miyazaki said. “It’s there intentionally” (Ebert, 2002). He proceeds to distinguish it from *Makurakotoba*, or “pillow words,” found in Japanese poetry, since Ma describes the ‘negative space’ or ‘emptiness’ of a scene, both physically and conceptually. In these contexts, the depiction of a journey — consuming money and time to animate — are clearly important parts of pacing and storytelling and help to provide breathing room between scenes. They also provide a physical dimension between locations, even if their specifics remain vague — we might not know for how long the train runs, or which stations she boards and alights, but we understand that her home and the library are linked together by a short walk and a train trip. This map helps illustrate what should be an abstract, alien series of places by their relationship to each other and Shizuku, reorganising them spatially.
 
 {{< columns >}}
-![img](/images/media/heart-2-1.png)
+![img](https://millmint.imgix.net/images/media/heart-2-1.png)
 {{< hint caption >}}
 **Fig. 4.3** *Shizuku sits at a shrine after school with a friend*
 {{</hint>}}
 <--->
-![img](/images/media/heart-2-2.jpg)
+![img](https://millmint.imgix.net/images/media/heart-2-2.jpg)
 {{< hint caption >}}
 **Fig. 4.4** *The same shrine (own work)*
 {{</hint>}}
@@ -256,13 +256,13 @@ In typical Ghibli fashion, there is an obvious presence of this ‘universal Shi
 
 {{< columns >}}
 
-![img](/images/media/heart-3-1.png)
+![img](https://millmint.imgix.net/images/media/heart-3-1.png)
 {{< hint caption >}}
 **Fig. 4.5** *A Keio EMU pulls into Seiseki-sakuragaoka station*
 {{</hint>}}
 <--->
 
-![img](/images/media/heart-3-2.jpg)
+![img](https://millmint.imgix.net/images/media/heart-3-2.jpg)
 {{< hint caption >}}
 **Fig. 4.6** *The same station (own work)*
 {{</hint>}}
@@ -287,7 +287,7 @@ The film, directed by Takahata, is based off Nosaka Akiyuki’s short story of t
 
 >“There were many offers to make that novel into a movie, but they never materialised. It was impossible to recreate the barren, scorched earth that’s to be the backdrop of the story […] what if a kid with a fat belly showed up to play him [Seita]?”
 
-![img](/images/media/grave-1.png)
+![img](https://millmint.imgix.net/images/media/grave-1.png)
 {{< hint caption >}}
 **Fig. 5.1** *The spirits of Seita and Setsuko overlook their aunt’s home after the firebombing of Kobe*
 {{</hint>}}
@@ -304,7 +304,7 @@ With their mother’s passing and their father overseas in the war, the children
 
 At first, Seita and his sister are triumphant at their independence and freedom by the lake. A scene sees them capturing and releasing fireflies in their small, cave-like shelter, only for Setsuko to find them dead the next morning. She asks, “why do fireflies have to die so soon?” As food becomes scarce, Seita provides for them by stealing from the fields of local farmers, who eventually catch him and assault him. Setsuko grows increasingly ill, and when Seita takes her to a doctor he confirms she is dangerously malnourished. Seita goes to withdraw the last of his mother’s money from her bank account, but on his way back to the shelter Japan has surrendered and, since her navy was sunk, his father is almost certainly dead.
 
-![img](/images/media/grave-2.png)
+![img](https://millmint.imgix.net/images/media/grave-2.png)
 {{< hint caption >}}
 **Fig. 5.2** *Setsuko watches enemy fighters buzz the Japanese coast*
 {{</hint>}}
@@ -315,7 +315,7 @@ It is unflinchingly tragic, but also in some ways more sentimental than Nosaka�
 
 This is why Goldberg (2009, p. 41) suggests the use of luminous fireflies as an image of “[remembering] this wartime history paradoxically through the act of viewing the natural,” bridging the irreconcilable suffering of the war and consumer society shown at the end of the film through a natural paradigm. This is helped by the illustrative nature of animation — the fireflies mirror closely the burning spot-fires of Tokyo, in the same way that our protagonists depict the idea of a brother and sister transcendentally, rather than literally as in live-action cinema. This produces an effect that paradoxically distills the brutality and tragedy of the film, immersing the audience in their feelings without distracting them with the detail of a living human actor. This better orients characters spatially, since they are depicted in the same transcendental approach given to background watercolour and lighting cels.
 
-![img](/images/media/grave-3.png)
+![img](https://millmint.imgix.net/images/media/grave-3.png)
 {{< hint caption >}}
 **Fig. 5.3** *Seita and Setsuko sitting in the sunset outside their makeshift shelter*
 {{</hint>}}

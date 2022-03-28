@@ -12,7 +12,7 @@ categories:
 - character
 keywords:
 - 2022
-image: "/images/transmission.jpg"
+image: https://millmint.imgix.net/images/transmission.jpg
 ---
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/tl3ktc/transmission_towers/" >}}Archived from the original article here{{< /button >}}

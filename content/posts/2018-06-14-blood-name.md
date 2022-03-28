@@ -13,7 +13,7 @@ categories:
 keywords:
     - post
     - 2018
-image: /images/bloodname.jpg
+image: https://millmint.imgix.net/images/bloodname.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/8r03tc/blood_names/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

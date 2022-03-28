@@ -18,7 +18,7 @@ categories:
 keywords:
 - post
 - 2021
-image: "/images/generation.jpg"
+image: https://millmint.imgix.net/images/generation.jpg
 ---
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/p8xf6b/a_new_generation/" >}}Archived from the original article here{{< /button >}}

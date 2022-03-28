@@ -6,12 +6,12 @@ tag: LANDSCAPE
 sitetag: Introduction
 color: green
 
-image: /images/territories.jpg
+image: https://millmint.imgix.net/images/territories.jpg
 
 weight: 1
 ---
 
-![img](/images/territories.jpg)
+![img](https://millmint.imgix.net/images/territories.jpg)
 
 {{< hint green >}}
 ♣ This page lists completed articles on [**Vekllei's**](/utopia/vekllei) [**overseas territories**](/utopia/vekllei/#administrative-divisions)
@@ -24,16 +24,16 @@ weight: 1
 
 ## Vekllei's Overseas Territories & Provinces
 
-![img](/images/mastheads/flags/aismious.png)
-![img](/images/mastheads/flags/antarctic.png)
-![img](/images/mastheads/flags/azores.png)
-![img](/images/mastheads/flags/demon.png)
-![img](/images/mastheads/flags/kala.png)
-![img](/images/mastheads/flags/kalina.png)
-![img](/images/mastheads/flags/mira.png)
-![img](/images/mastheads/flags/moon.png)
-<a href="https://millmint.net/utopia/vekllei" rel="some text">![img](/images/mastheads/flags/vekllei-domestic.png)</a>
-<a href="https://millmint.net/utopia/vekllei" rel="some text">![img](/images/mastheads/flags/vekllei-international.png)</a>
+![img](https://millmint.imgix.net/images/mastheads/flags/aismious.png)
+![img](https://millmint.imgix.net/images/mastheads/flags/antarctic.png)
+![img](https://millmint.imgix.net/images/mastheads/flags/azores.png)
+![img](https://millmint.imgix.net/images/mastheads/flags/demon.png)
+![img](https://millmint.imgix.net/images/mastheads/flags/kala.png)
+![img](https://millmint.imgix.net/images/mastheads/flags/kalina.png)
+![img](https://millmint.imgix.net/images/mastheads/flags/mira.png)
+![img](https://millmint.imgix.net/images/mastheads/flags/moon.png)
+<a href="https://millmint.net/utopia/vekllei" rel="some text">![img](https://millmint.imgix.net/images/mastheads/flags/vekllei-domestic.png)</a>
+<a href="https://millmint.net/utopia/vekllei" rel="some text">![img](https://millmint.imgix.net/images/mastheads/flags/vekllei-international.png)</a>
 
 <style>
 /* flags */

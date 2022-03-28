@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2020
-image: /images/apartment.jpg
+image: https://millmint.imgix.net/images/apartment.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/gjpcha/2031_apartment_diagram/" >}}Archived from the original article here{{< /button >}}
 {{< hint >}}

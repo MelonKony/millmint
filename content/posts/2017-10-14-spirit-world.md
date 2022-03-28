@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2017
-image: /images/spiritworld.jpg
+image: https://millmint.imgix.net/images/spiritworld.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/764ir8/entering_the_spirit_world/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

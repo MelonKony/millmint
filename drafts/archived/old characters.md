@@ -48,7 +48,7 @@ color: var(--color-pink);
 
 ### Tzipora (Zelda) Desmoisnes
 {{< columns >}}
-![smallimg](/images/mastheads/characters/zelda.png)
+![smallimg](https://millmint.imgix.net/images/mastheads/characters/zelda.png)
 <--->
 {{< details title="Fact Sheet" open=false >}}
 |                      | Tzipora lo Ula de Helette Desmoisnes                           |

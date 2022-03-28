@@ -11,7 +11,7 @@ categories:
 keywords:
     - post
     - 2018
-image: /images/masculinity.jpg
+image: https://millmint.imgix.net/images/masculinity.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/9du5i5/masculinity_fatherhood_in_vekllei/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

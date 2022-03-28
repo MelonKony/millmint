@@ -12,7 +12,7 @@ categories:
 keywords:
 - post
 - 2021
-image: "/images/diplomacy.jpg"
+image: https://millmint.imgix.net/images/diplomacy.jpg
 
 ---
 

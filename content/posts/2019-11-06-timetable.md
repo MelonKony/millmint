@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2019
-image: /images/timetable.jpg
+image: https://millmint.imgix.net/images/timetable.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/dsh4gm/a_vekllei_timetable/" >}}Archived from the original article here{{< /button >}}
 

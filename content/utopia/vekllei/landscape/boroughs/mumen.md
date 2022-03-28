@@ -7,7 +7,7 @@ tag: LANDSCAPE
 sitetag: Boroughs
 color: green
 
-image: /images/sketches/sandmage.jpg
+image: https://millmint.imgix.net/images/sketches/sandmage.jpg
 
 weight: 1
 bookHidden: true

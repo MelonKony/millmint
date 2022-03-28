@@ -11,7 +11,7 @@ categories:
 - landscape
 keywords:
 - 2021
-image: "/images/foreignfoto.jpg"
+image: https://millmint.imgix.net/images/foreignfoto.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/pwoeuu/foreignfoto/" >}}Archived from the original article here{{< /button >}}
 

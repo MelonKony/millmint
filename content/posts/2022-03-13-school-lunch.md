@@ -11,7 +11,7 @@ categories:
 - landscape
 keywords:
 - 2022
-image: "/images/lunch.jpg"
+image: https://millmint.imgix.net/images/lunch.jpg
 ---
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/td9iwj/tzipora_takes_her_lunch_to_school/" >}}Archived from the original article here{{< /button >}}

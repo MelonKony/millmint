@@ -11,7 +11,7 @@ categories:
 keywords:
 - post
 - 2021
-image: "/images/manufacturie.jpg"
+image: https://millmint.imgix.net/images/manufacturie.jpg
 
 ---
 

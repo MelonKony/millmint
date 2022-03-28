@@ -7,7 +7,7 @@ tag: SOCIETY
 sitetag: Article
 color: pink
 
-image: /images/gov.jpg
+image: https://millmint.imgix.net/images/gov.jpg
 
 list_posts: false
 
@@ -40,6 +40,19 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 ### Structure
 
+<div class="row">
+<div class="column">
+<img src="/images/mastheads/flags/vekllei-international.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+</div>
+<div class="column">
+<img src="/images/mastheads/flags/vekllei-domestic.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+</div>
+</div>
+
+{{<hint caption>}}
+Vekllei's International and Domestic Standards
+{{</hint>}}
+
 What we know as the 'Vekllei Government' is portioned between several powerful state bodies, each representing the natural political concerns of the modern Vekllei state. These bodies are both autonomous and codependent, portioning the sovereignty and authority of the state across several governing organs of varying size and scope. These are, in order of sovereignty:
 
 1. **The Crown of Vekllei** (also the *Crown Sovereign*, *Parliament of Spirits* and *Administration of the Crown* interchangeably), representing the rule of the Land Sovereign and its presence in the state.
@@ -66,6 +79,15 @@ The Government of Vekllei is made up of Ministries, Offices, Departments, Bureau
 ---
 
 ## Administration of the Interior
+
+<div class="row">
+<div class="column">
+<img src="/images/mastheads/flags/vekllei-international.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+</div>
+<div class="column">
+<img src="/images/mastheads/flags/vekllei-domestic.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+</div>
+</div>
 
 The *Administration of the Interior of the Government of Vekllei* (also known as the *Interior Government* or *Interior Parliament*) represents the human state of the Vekllei Home Islands, as well as its dependent possessions. It includes all 100 [boroughs](/utopia/vekllei/landscape/boroughs/) of the Home Islands and its peripheral island possessions. Independent Commonwealth member-states Demon and Aismious lack the population to govern themselves independently, and so are dependent on the Interior Government.
 
@@ -495,6 +517,27 @@ The Vekllei National Rail Bureau is the parent bureau for all rail transport in 
 
 ## Administration of the Commonwealth
 
+<div class="row">
+<div class="column">
+<img src="/images/mastheads/flags/aismious.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+</div>
+<div class="column">
+<img src="/images/mastheads/flags/azores.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+</div>
+<div class="column">
+<img src="/images/mastheads/flags/demon.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+</div>
+<div class="column">
+<img src="/images/mastheads/flags/kala.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+</div>
+<div class="column">
+<img src="/images/mastheads/flags/kalina.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+</div>
+<div class="column">
+<img src="/images/mastheads/flags/mira.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+</div>
+</div>
+
 Although each member of the Atlantic Commonwealth is considered a full participant of equal importance, administration in practice occurs in the Vekllei [Home Islands](/utopia/vekllei/), its most populous and industrious member state. Many features of Floral Society are universal among Commonwealth members, and the Administration of the Commonwealth serves, maintains and standardises the values of Floral Society across the Atlantic.
 
 ### Commonwealth Culture Secretariat 
@@ -758,9 +801,9 @@ The *Fair Work Authority* (FWA) is the Commonwealth industrial relations tribuna
 {{<section>}}
 #### High Courts of the Vekllei Commonwealth
 
-The *High Courts* of Vekllei superior courts of record, 
+The *High Courts* of Vekllei are the superior courts of record with inherent procedural and contempt power.  
 
-It also has appellate jurisdiction from Lower Courts where appropriate, particularly regarding civil matters of significant compensation.
+It also has appellate jurisdiction from Lower Courts where appropriate, particularly regarding civil matters of significant compensation. Historically, High Courts have jurisdiction over monopoly bureaus.
 
 * have unlimited jurisdiction in law and equity, or at least are not subject to jurisdictional limits as to the remedies they may grant;
 * determine appeals, at least as part of their jurisdiction;
@@ -770,9 +813,13 @@ It also has appellate jurisdiction from Lower Courts where appropriate, particul
 
 Vekllei *High Courts* are also 
 
-##### Courts of the Justiciary
+##### Supreme Censorate
 
-##### Courts of the Sovereign
+The *Supreme Censorate* is a an administrative court and anti-corruption agency tasked with combatting corruption and malfeasance in the state and its economic organs. 
+
+##### High Courts of the Justiciary
+
+##### High Courts of the Sovereign
 
 The *Courts of the Sovereign* (also *Sovereign Magistrates* are Vekllei superior courts with jurisdiction over land and architecture, and serve an inquisitorial role in determining ownership via the Vekllei Delicture system. Land in Vekllei 'owns itself' under this system, and relationships with land are brokered via the Borough Municipal Agent. Ownership is proven to the Sovereign Magistrates via the history of residency, use of the land and self-interest of property as determined by teams of Court Inquisitors, who determine the history and intent of land. The appellate justice of the Sovereign Courts are the [Commonwealth Procuratorates](/utopia/vekllei/society/government/#procuratorate-of-the-commonwealth).
 
@@ -852,3 +899,21 @@ The Government of Vekllei is made up of Ministries, Offices, Bureaus, Commission
 ## Notes
 
 [^1]: Vekllei's 'war' prefix is used as a designation for pre-war railcars and locomotives, transliterated from the native word for the Junta's society.
+
+<style>
+/* flags */
+.row {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.column {
+  flex: 33.33%;
+  padding: 10px;
+}
+@media (max-width: 1250px) {
+  .row {
+    display: none;
+  }
+}
+</style>

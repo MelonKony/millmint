@@ -13,7 +13,7 @@ categories:
 keywords:
     - guide
     - 2019
-image: /images/lola.jpg
+image: https://millmint.imgix.net/images/lola.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/czi423/a_brief_introduction_to_vekllei/" >}}Archived from the original article here{{< /button >}}
 

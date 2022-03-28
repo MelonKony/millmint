@@ -15,7 +15,7 @@ categories:
 keywords:
 - post
 - 2021
-image: "/images/hollywood.jpg"
+image: https://millmint.imgix.net/images/hollywood.jpg
 ---
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/nk17w6/gone_hollywood/" >}}Archived from the original article here{{< /button >}}

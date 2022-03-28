@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2020
-image: /images/feast.jpg
+image: https://millmint.imgix.net/images/feast.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/ge1gmw/the_chemical_feast/" >}}Archived from the original article here{{< /button >}}
 {{< hint >}}

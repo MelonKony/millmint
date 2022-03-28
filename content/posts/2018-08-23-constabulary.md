@@ -11,7 +11,7 @@ categories:
 keywords:
     - post
     - 2018
-image: /images/policeuniforms.jpg
+image: https://millmint.imgix.net/images/policeuniforms.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/99nhx6/the_constabulary/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

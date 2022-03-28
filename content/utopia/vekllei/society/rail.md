@@ -7,7 +7,7 @@ tag: SOCIETY
 sitetag: Article
 color: vnr
 
-image: /images/orange.jpg
+image: https://millmint.imgix.net/images/orange.jpg
 
 list_posts: false
 
@@ -43,7 +43,7 @@ Since nationalisation of the private Vekllei rail companies in 1925, the structu
 
 Vekllei is unique in the density of its rail, a feature of deliberate postwar city planning and the Home Island's history as an industrial port city-state. Very few Vekllei people own automobiles, and trains remain by far the most common method of travel in the country. Because of this, the rail network in metropolitan areas is extraordinarily dense, and is designed to offer access to nearly every residence in urban areas. This fact also explains the presence of dedicated rail lines to small towns and villages that would otherwise not justify their maintenance. As visible on the map above, the passenger rail network in Vekllei is unsurpassed in its density, which contributes to the dependence Vekllei people have on their trains.
 
-![img](/images/railmap.jpg)
+![img](https://millmint.imgix.net/images/railmap.jpg)
 {{< hint caption >}}
 A map of the rail network and boroughs of Vekllei, showcasing maglev (red), high-speed (yellow), regional (orange) and local (brown) lines | *[100 Boroughs](/posts/2020-06-14-map/)*
 {{</hint>}}
@@ -84,7 +84,7 @@ In the late 1980s, VNC started work on what would eventually become the Vekllei-
 
 National Rail Company assets that had been operated by the occupation Vekllei Provisional Government were transferred to the Vekllei Interim Government in 2015 and reestablished as Vekllei National Rail (VNR) in 2018. The Floral Period has been marked by steady growth in ridership and the scale of its network. The organisation also invests heavily into the development of new locomotives and EMUs, culminating in 2047 with the announcement of the Vekllei East Coast Maglev Scheme, which are the fastest commuter trains in the world.
 
-![img](/images/shrine-minded.jpg)
+![img](https://millmint.imgix.net/images/shrine-minded.jpg)
 {{< hint caption >}}
 A Lesvesn 59-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
 {{</hint>}}
@@ -154,7 +154,7 @@ Vekllei National Rail is administered through three State Requisites: the Veklle
 
 Access to public transport is considered a "critical luxury" of the Vekllei state (the Vekllei turn-of-phrase for essential state services) and, by extension, the functioning of its society. By design, it makes no profit, and is subsidised entirely by the Transport Requisite of the Vekllei Government and various independent transport bureaus for the benefit of any Vekllei person. Even prior to the war and investment of the Floral Period, Vekllei's public transport was widely regarded as among the finest of any network in the world thanks to its impeccable safety record, timeliness, and comprehensive coverage.
 
-![img](/images/hollywood.jpg)
+![img](https://millmint.imgix.net/images/hollywood.jpg)
 {{< hint caption >}}
 A Mustard 56-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
 {{</hint>}}
@@ -191,7 +191,7 @@ VNR's main freight lines run mostly on a seperate gauge and network, and are com
 
 Nearly 17 million people per day commute via VNR's networks each day, making up a majority of the Vekllei population. In this sense, VNR's quality of operations affects the Vekllei person more than the quality of their government. In addition to commuter service, VNR automatic freight transit systems are the lifeblood of all industry and commerce in the country, and are regulated directly as a state requisite for their critical importance to the functioning of Vekllei society.
 
-![smallimg](/images/stationlogic.jpg)
+![smallimg](https://millmint.imgix.net/images/stationlogic.jpg)
 
 VNR operates 2,114 stations across the Home Islands, which vary from uncovered concrete platforms to tremendous terminus complexes that cover multiple city blocks. The largest station in the country, Vekllei Central, sees over 1 million people per day pass through its gates.
 
@@ -200,7 +200,7 @@ Vekllei's stations are well-regarded for the beauty and decoration overseas. As 
 VNR services are mostly unticketed, and as a Vekllei industry, are free to ride.
 
 ### Staff
-![smallimg](/images/vnr.jpg)
+![smallimg](https://millmint.imgix.net/images/vnr.jpg)
 
 {{< hint >}}
 ❖ Read more: *[The People of Vekllei National Rail](/posts/2021-04-25-rail/)*

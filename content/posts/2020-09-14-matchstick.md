@@ -13,7 +13,7 @@ categories:
 keywords:
     - post
     - 2020
-image: /images/matchstick.jpg
+image: https://millmint.imgix.net/images/matchstick.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/is6pr2/matchstick_girl/" >}}Archived from the original article here{{< /button >}}
 {{< hint >}}

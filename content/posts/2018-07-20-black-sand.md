@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2018
-image: /images/blacksand.jpg
+image: https://millmint.imgix.net/images/blacksand.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/90f56z/hot_summer_rain_on_a_beach_of_black_sand_iceland/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

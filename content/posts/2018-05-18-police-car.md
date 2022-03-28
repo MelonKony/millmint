@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2018
-image: /images/policecar.jpg
+image: https://millmint.imgix.net/images/policecar.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/8kca7t/police_in_vekllei/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

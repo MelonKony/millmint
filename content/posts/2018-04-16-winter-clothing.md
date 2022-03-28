@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2018
-image: /images/coldweather.jpg
+image: https://millmint.imgix.net/images/coldweather.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/8cklgn/winter_clothing_and_womanhood_in_vekllei/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

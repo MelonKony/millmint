@@ -15,7 +15,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ❖ For common questions about me or my work, please visit the [FAQ](/utopia/intro/faq/).
 {{< /hint >}}
 {{<columns>}}
-![smallimg](/images/mastheads/author.png)
+![smallimg](https://millmint.imgix.net/images/mastheads/author.png)
 <--->
 
 **Hi, I'm Hobart**. I'm an Australian illustrator and writer living and working in Tasmania. I like machines, midcentury architecture and Tasmania. I studied as a journalist, but now work in illustration full-time.

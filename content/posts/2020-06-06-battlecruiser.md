@@ -11,7 +11,7 @@ categories:
 keywords:
     - post
     - 2020
-image: /images/cruiser.jpg
+image: https://millmint.imgix.net/images/cruiser.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/gx7l0c/the_oaclass_battlecruiser/" >}}Archived from the original article here{{< /button >}}
 {{< hint >}}
