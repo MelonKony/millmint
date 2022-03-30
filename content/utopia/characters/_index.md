@@ -29,7 +29,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 </div>
 
 {{<section>}}
-<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/zelda.png?q=100&auto=format">
+<img alt="smallimg" style="background-color: transparent;" src="https://millmint.imgix.net/images/mastheads/characters/zelda.png?q=100&auto=format">
 
 **Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](/utopia/intro/#three-utopias) of this project. Often called Zelda by her friends, she is the protagonist of this story and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with [Gregori Syndrome](/posts/2021-05-28-forever/), a genetic disorder that affects her ageing and extends her natural life. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising the neurotic parts of her personality and making her happy.
 
@@ -58,7 +58,7 @@ Tzipora may be intense and inward-facing, but she can also be disarmingly charmi
 </div>
 
 {{<section>}}
-<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/cobian.png?q=100&auto=format">
+<img alt="smallimg" style="background-color: transparent;" src="https://millmint.imgix.net/images/mastheads/characters/cobian.png?q=100&auto=format">
 
 **Cobian lo Ro de Viviya de Queismesnah** is Tzipora's longtime friend and occasional girlfriend. Conservative in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood. Tzipora and Cobian met during secondary schooling in Vekllei, and remained close throughout the rest of their lives. She is very close with Tzipora, but has tepid relationships with Tzipora's (mostly male) friendship group out of jealousy and a general distaste for boys. She is rigorously polite in the middle-class sense of the word; formal among strangers, gossipy among friends.
 
@@ -85,7 +85,7 @@ Some people think she's pretentious; she's not pretentious. She likes good food 
 </div>
 
 {{<section>}}
-<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/moise.png?q=100&auto=format">
+<img alt="smallimg" style="background-color: transparent;" src="https://millmint.imgix.net/images/mastheads/characters/moise.png?q=100&auto=format">
 
 **Moise ra Hasapis** is Tzipora's neighbour and best friend. Like Tzipora, he was born overseas and has only started schooling in Vekllei in late childhood. Imposing in both attitude and posture, Moise is feared and respected among his peers, an unfortunate social situation that enables his renowned temper. An agitator and victim of his troubles, Moise is tempered by Tzipora's inwardness and Coretti's good-naturedness. He lives with his sister and father in Seispri, and deeply despises his mother, who remains in Greece.
  
@@ -112,7 +112,7 @@ He dislikes his parents and is protective over his younger sister, Penelope. He 
 </div>
 
 {{<section>}}
-<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/coretti.png?q=100&auto=format">
+<img alt="smallimg" style="background-color: transparent;" src="https://millmint.imgix.net/images/mastheads/characters/coretti.png?q=100&auto=format">
 
 **Coretti lo Rus de Gloria Adoula** is Moise's girlfriend. Born in the Congo, she lived in Russia before moving to Vekllei at 6 years old, and speaks Vekllei fluently. She is sensitive and diplomatic, and is well-liked for her impartiality. As her relationship with Moise develops, so too does she grow closer with Tzipora and her friends. Although her relative maturity can distance her on occasion, her unprejudiced curiosity and social grace are traits Tzipora loves, and they bond closely over their shared taste in art and music.
 
@@ -139,7 +139,7 @@ Despite her apparent differences in temperament with her boyfriend Moise, Corett
 </div>
 
 {{<section>}}
-<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/zhi.png?q=100&auto=format">
+<img alt="smallimg" style="background-color: transparent;" src="https://millmint.imgix.net/images/mastheads/characters/zhi.png?q=100&auto=format">
 
 **Lin Zhi**, who prefers being addressed by her full name, is Tzipora's friend and occasional accomplice. She is the perfect ally of Tzipora, indulging her most passionate (and self-destructive) instincts, and they remain good friends all their lives. Like Tzipora, Zhi is a recent immigrant and terrified of life in Vekllei, from which she has retreated into traditionally Chinese cultural signals and behaviours. Tzipora is fascinated and deeply curious about her. Cobian and Coretti fear her.
 
