@@ -1,0 +1,21 @@
+{{- define "content" -}}
+
+<div>
+    <h1>{{ .Title }}</h1>
+    {{ with .Pages.ByPublishDate }}
+        <ul class="list-layout">
+            {{ range . }}
+                <li>
+                    <a href="{{ .RelPermalink }}">
+                        {{- .Title -}}
+                    </a>
+                    <span>
+                        {{- .PublishDate.Format "2006/01/02" -}}
+                    </span>
+                </li>
+            {{ end }}
+        </ul>
+    {{ end }}
+</div>
+
+{{- end -}}

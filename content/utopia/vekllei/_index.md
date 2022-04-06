@@ -5,7 +5,7 @@ emoji: -millmint
 tag: UTOPIA
 sitetag: Introduction
 color: pink
-image: https://millmint.imgix.net/images/vekllei.png?q=100&auto=format
+image: https://millmint.imgix.net/images/gov.jpg?q=100&auto=format
 
 list_posts: false
 
@@ -33,16 +33,21 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 The Home Island has been inhabited for at least four thousand years by Arctic peoples migrating from Kalalist (Greenland). Evidence of European settlement in Vekllei can be determined from unearthed fishing towns dated to 1230BC, when settlers from Ireland established fishing communities along the southern coast.
 
+![img](https://millmint.imgix.net/images/vekllei.png?q=100&auto=format)
+{{< hint caption >}}
+Political and strategic map of the Home Islands | *[The World’s Last Great Utopia](/posts/2021-10-07-map/)*
+{{</hint>}}
+
 Subsequent centuries saw rapid growth of the local population, which was politically and culturally isolated from mainland Europe by the 6th Century BC. By the 4th Century BC, many contemporary cultural features of the country had become commonplace, including an early form of [Upen](/utopia/vekllei/religion) and [Vekllei logographs](/utopia/vekllei/culture/language/#3-topet). During the following millennia Vekllei developed into a major economic and military power, but saw its influence decline between the 12th and 15th Centuries AD during the Period of Rest.
+
+During Vekllei's Middle Period, the country was struck by civil unrest that escalated into civil war, which installed Aismo Desimou as the first King of Vekllei. The monarchy succeeded until Vekllei's colonial Late Period, which fell to a navy coup d'etat that installed a military junta in government, which rapidly expanded Vekllei's colonial holdings. This practice would continue well into the 20th Century, and would spark the Africa Wars and Vekllei's atomic bombing by the United Kingdom in 2005, which collapsed the existing regime and ushered in British occupation of the country.
+
+Since independence in 2015, Vekllei's Floral Period has transformed the country, and has been marked by a period of tremendous stability and economic growth. Vekllei does not use money domestically, with most internal trade dependent on social exchange, barter and state service, but operates twin currencies (the *Government* and *Vekllei* Crown) in its trade internationally.
 
 ![img](https://millmint.imgix.net/images/shrine-minded.jpg?q=100&auto=format)
 {{< hint caption >}}
 Life in coastal boroughs like [Santes](/utopia/vekllei/landscape/boroughs/santes) continues much as it has for hundreds of years | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
 {{</hint>}}
-
-During Vekllei's Middle Period, the country was struck by civil unrest that escalated into civil war, which installed Aismo Desimou as the first King of Vekllei. The monarchy succeeded until Vekllei's colonial Late Period, which fell to a navy coup d'etat that installed a military junta in government, which rapidly expanded Vekllei's colonial holdings. This practice would continue well into the 20th Century, and would spark the Africa Wars and Vekllei's atomic bombing by the United Kingdom in 2005, which collapsed the existing regime and ushered in British occupation of the country.
-
-Since independence in 2015, Vekllei's Floral Period has transformed the country, and has been marked by a period of tremendous stability and economic growth. Vekllei does not use money domestically, with most internal trade dependent on social exchange, barter and state service, but operates twin currencies (the *Government* and *Vekllei* Crown) in its trade internationally.
 
 Vekllei is a great power and has the world's fifth highest military expenditure. The country is highly developed and has exceptional liveability, and is placed highly in key social indicators: education, healthcare, quality of life, personal safety and housing, with a home-ownership rate of nearly 96%. It is a member of the United Nations' Non-Aligned Concern League.
 

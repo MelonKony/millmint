@@ -1,0 +1,31 @@
+{{ define "content" }}
+
+{{ $list_sections := .Params.bookcase_list_sections | default true }}
+{{ $list_pages := .Params.bookcase_list_pages | default true }}
+
+{{ $res := default nil }}
+{{ if and $list_sections $list_pages }}
+    {{ $res = .Pages }}
+{{ else if $list_sections }}
+    {{ $res = .Sections }}
+{{ else if $list_pages }}
+    {{ $res = .RegularPages }}
+{{ end }}
+
+<div class="content-margin">
+    <div class="my-8">
+        <h1>{{ .Title }}</h1>
+        {{ if .Content }}
+            {{- partial "content.html" . -}}
+        {{ end }}
+    </div>
+
+    {{ with $res }}
+        <div class="bookcase-layout content-margin">
+            {{ range . }}
+                {{- partial "bookcase/item.html" . -}}
+            {{ end }}
+        </div>
+    {{ end }}
+</div>
+{{ end }}
