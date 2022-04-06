@@ -196,9 +196,10 @@ The *Accreditation Directorate* regulates academic and industrial qualifications
 {{</section>}}
 
 {{<section>}}
-#### Vekllei Electoral Commission
+#### Civil Service Academy of Vekllei
 
-The *Vekllei Electoral Commission* conducts elections, by-elections and referendums in Vekllei. It also maintains the Vekllei Electoral Roll, and designs electorates, apportionments and redistributions in the Home Islands.
+The *Civil Service Academy*
+
 {{</section>}}
 
 {{<section>}}
@@ -235,7 +236,7 @@ The *Industrial Standards of Vekllei* (INSTA) regulates industrial regulatory an
 
 ##### Commercial Standards of Vekllei
 
-The *Commercial Standards of Vekllei* (COMSTA) regulates standards of small and medium-sized commercial businesses that are otherwise 
+The *Commercial Standards of Vekllei* (COMSTA) regulates standards of small and medium-sized commercial businesses that are otherwise unaffiliated with bureaus proper. It also advises [GOSED](/utopia/vekllei/society/government/#standards-vekllei) on changes to its technical, safety and design committees.
 
 Since private commerce in Vekllei exists outside of the bureau framework, the license of COMSTA are broader and flexible, and regularly relies upon contracted industry contacts to fill places on its less defined technical committees.
 
@@ -258,10 +259,9 @@ The *Statistics Directorate* (STD, also Statistics Vekllei) collects and publish
 {{</section>}}
 
 {{<section>}}
-#### Civil Service Academy of Vekllei
+#### Vekllei Electoral Commission
 
-The *Civil Service Academy*
-
+The *Vekllei Electoral Commission* conducts elections, by-elections and referendums in Vekllei. It also maintains the Vekllei Electoral Roll, and designs electorates, apportionments and redistributions in the Home Islands.
 {{</section>}}
 
 ### Ministry of Defence 
@@ -687,9 +687,11 @@ The *Special Protectorate Bureau* at *National Intelligence* (SP/NI) reports inf
 ### Commonwealth Education Secretariat 
 {{<boxtag pink>}}CHICOM{{</boxtag>}}
 
-The *Commonwealth Education Secretariat* (CHICOM) is the responsible for all state education across the Commonwealth, including compulsory primary, vocational and tertiary schooling. Alongside the [COSMOCOM Accreditation Directorate](/utopia/vekllei/society/government/#accreditation-directorate), CHICOM certifies teachers and the Commonwealth curriculum, and publishes textbooks and learning materials via the Children's and Tertiary Press.
+The *Commonwealth Education Secretariat* (CHICOM) is the commonwealth body responsible for all state education across the Commonwealth, including compulsory primary, vocational and tertiary schooling. Alongside the [COSMOCOM Accreditation Directorate](/utopia/vekllei/society/government/#accreditation-directorate), CHICOM certifies teachers and the Commonwealth curriculum, and publishes textbooks and learning materials via the Children's and Tertiary Press.
 
-CHICOM also overseas Vekllei's four learned societies, called academies, which offer immortal membership to remarkable contributors to the sciences. The Academies of the commonwealth are funded by a bureau tithe, mandated but otherwise seperate from Commonwealth Government apparatuses.
+The stated mission of CHICOM is the celebration of knowledge and the development of technical skills.
+
+CHICOM also overseas Vekllei's four learned societies, called academies, which offer immortal membership to remarkable contributors to learning in Vekllei. The Academies of the Commonwealth are funded by a bureau tithe, mandated but otherwise seperate from Commonwealth government apparatuses.
 
 {{<section>}}
 #### Vekllei Public Education Directorate
