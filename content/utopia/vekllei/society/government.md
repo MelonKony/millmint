@@ -32,13 +32,39 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 {{< /hint >}}
 
 <span class="fc">T</span>
-**he Government of Vekllei** refers to both the [Administration of the Interior](/utopia/vekllei/society/government/#administration-of-the-interior) of the Vekllei [Home Islands](/utopia/vekllei/) and the [international governing body](/utopia/vekllei/society/government/#administration-of-the-commonwealth) of the Vekllei Commonwealth. This article serves as a handbook to all departments of the Vekllei Government, and will help clarify the structure and responsibilities of its subordinate ministries and secretariats. These centralised features guide the busy and anarchic Vekllei economies to produce a standard of living unlike anywhere else in the world, celebrating departmentalised, localised and democratic government in the 21st Century.
+**he Government of Vekllei** refers to both the [Administration of the Interior](/utopia/vekllei/society/government/#administration-of-the-interior) of the Vekllei [Home Islands](/utopia/vekllei/) and the [international governing body](/utopia/vekllei/society/government/#administration-of-the-commonwealth) of the Vekllei Commonwealth. This article serves as a handbook to all departments of the Vekllei Government, and will help clarify the structure and responsibilities of its subordinate ministries and secretariats. These centralised features guide the busy and anarchic Vekllei economies to produce a standard of living unlike anywhere else in the world, celebrating local, departmentalised and democratic government in the 21st Century.
 
 > I'll be damned if some jumped-up Municipal leech is going to tell me where I can and can't make friends.
 
 -- Tzipora Desmoisnes
 
 ### Structure
+
+What we know as the 'Vekllei Government' is portioned between several powerful state bodies, each representing the natural political concerns of the modern Vekllei state. These bodies are both autonomous and codependent, carving the sovereignty and authority of the state across several governing organs of varying size and scope. These are, in order of sovereignty:
+
+1. **The Palace of the Vekllei Sovereign**, the metaphysical manifestation of all Vekllei territory and its collective geographic, cultural and religious features. It represents the cumulative historical essence of the physical place of Vekllei, and bridges relationships between humans, nature and spirits. The Palace, as representative of the land itself, is the true sovereign of Vekllei and as such retains control over the armed forces of the Commonwealth.
+2. **The Governments of the Vekllei Commonwealth** including, in order of authority:
+
+    - The Crown of Vekllei (also the *Crown Sovereign*, *Parliament of Spirits* and *Administration of the Crown* interchangeably), representing the rule of the Land Sovereign and its presence in the state.
+    - The Commonwealth Government (also the *Parliament of the Commonwealth* and the *Administration of the Commonwealth* interchangeably), responsible for the maintenance, development and security of the Vekllei Commonwealth, including its territories.
+    - The Interior Governments (also the *Parliaments of the Interior* and the *Administrations of the Interior* interchangeably), responsible for the internal governance of the Vekllei member-states, primarily used in reference to the interior parliaments of the Vekllei Home Islands.
+
+Under this arrangement, it is clear that the sovereignty of Vekllei and its Commonwealth members is somewhat obfuscated -- the Crown, Commonwealth and Interior administrations all share overlapping *de jure* control over the affairs of Vekllei territories. In addition, the word 'Vekllei,' commonly used to refer to the Vekllei Home Islands, is also used interchangeably to describe states beyond its geography. For example, the 'Vekllei Commonwealth' in fact refers to membership in the Crown, of which Vekllei is an equal member but does not otherwise, in principle, control as a legal metropole. The Kalina Islands, Kala, Demon and other full members of the Commonwealth are equal autonomous members, but nonetheless inherit the Vekllei name. 
+
+In this state of affairs, Vekllei can refer to the powerful member-state in the North Atlantic, the Commonwealth it belongs to, or, indeed, the Crown Sovereign itself. Unfortunately for foreigners, its use is generally dependent on context.
+
+<div class="headerbox" style="margin-top: 2rem;">
+  <h1 class="title" style="line-height: 1.2; font-size: 1.5rem; font-weight: 700; filter: brightness(35%);">Government of the Vekllei Commonwealth</h1>
+  <div class="emoji" style="line-height: 100%;" id="whirlybat">-millmint</div>
+</div>
+
+{{< hint panel >}}
+**Since most Vekllei people** catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated "companies" in Vekllei.
+{{< /hint >}}
+
+The Government of Vekllei is made up of Ministries, Offices, Departments, Bureaus, Commissions, Directorates and Secretariats depending on the size, purpose and organisation of the organ. This is the government that people living in the Vekllei Home Islands vote for, via the nonpartisan representatives system.
+
+## Administration of the Interior
 
 <div class="row">
 <div class="column">
@@ -53,46 +79,11 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 Vekllei's International and Domestic Standards
 {{</hint>}}
 
-What we know as the 'Vekllei Government' is portioned between several powerful state bodies, each representing the natural political concerns of the modern Vekllei state. These bodies are both autonomous and codependent, portioning the sovereignty and authority of the state across several governing organs of varying size and scope. These are, in order of sovereignty:
+The *Administration of the Interior of the Government of Vekllei* (also known as the *Interior Government* or *Interior Parliament*) represents the human state of the Vekllei Home Islands, as well as its dependent possessions. It includes all 100 [boroughs](/utopia/vekllei/landscape/boroughs/) of the Home Islands and its peripheral island possessions. Independent Commonwealth member-states Demon and Aismious lack the population to govern themselves independently, and so are dependent on the Interior Government. Other members of the Commonwealth, including Kalina, Kala and Mira, have parliaments (also called Interior Administrations) similar to the Vekllei Administration of the Interior.
 
-1. **The Crown of Vekllei** (also the *Crown Sovereign*, *Parliament of Spirits* and *Administration of the Crown* interchangeably), representing the rule of the Land Sovereign and its presence in the state.
-2. **The Commonwealth Government** (also the *Parliament of the Commonwealth* and the *Administration of the Commonwealth* interchangeably), responsible for the maintenance, development and security of the Vekllei Commonwealth, including its territories.
-3. **The Interior Government** (also the *Parliament of the Interior* and the *Administration of the Interior* interchangeably), responsible for the internal governance of Vekllei.
+The Interior Government is made up of 10 ministries which retain total authority over the state in Vekllei.
 
-Under this arrangement, it is clear that the sovereignty of Vekllei and its Commonwealth members is somewhat obfuscated -- the Crown, Commonwealth and Interior administrations all share overlapping *de facto* control over the affairs of Vekllei territories. In addition, the word 'Vekllei,' commonly used to refer to the Vekllei Home Islands, is also used interchangeably to describe states beyond its geography. For example, the 'Vekllei Commonwealth' in fact refers to membership in the Crown, of which Vekllei is an equal member but does not otherwise, in principle, control as a legal metropole. The Kalina Islands, Kala, Demon and other full members of the Commonwealth are equal autonomous members, but nonetheless inherit the Vekllei name. 
-
-In this state of affairs, Vekllei can refer to the powerful member-state in the North Atlantic, the Commonwealth it belongs to, or, indeed, the Crown Sovereign itself. Unfortunately for foreigners, its use is generally dependent on context.
-
----
-
-<div class="headerbox">
-  <h1 class="title" style="line-height: 1.2; font-size: 1.5rem; font-weight: 700; filter: brightness(35%);">Government of the Vekllei Commonwealth</h1>
-  <div class="emoji" style="line-height: 100%;" id="whirlybat">-millmint</div>
-</div>
-
-{{< hint panel >}}
-**Since most Vekllei people** catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated "companies" in Vekllei.
-{{< /hint >}}
-
-The Government of Vekllei is made up of Ministries, Offices, Departments, Bureaus, Commissions, Directorates and Secretariats depending on the size, purpose and organisation of the organ. This is the government that people living in the Vekllei Home Islands vote for, via the nonpartisan representatives system.
-
----
-
-## Administration of the Interior
-
-<div class="row">
-<div class="column">
-<img src="https://millmint.imgix.net/images/mastheads/flags/vekllei-international.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
-</div>
-<div class="column">
-<img src="https://millmint.imgix.net/images/mastheads/flags/vekllei-domestic.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
-</div>
-</div>
-
-The *Administration of the Interior of the Government of Vekllei* (also known as the *Interior Government* or *Interior Parliament*) represents the human state of the Vekllei Home Islands, as well as its dependent possessions. It includes all 100 [boroughs](/utopia/vekllei/landscape/boroughs/) of the Home Islands and its peripheral island possessions. Independent Commonwealth member-states Demon and Aismious lack the population to govern themselves independently, and so are dependent on the Interior Government.
-
-The Interior Government is made up of 10 ministries.
-
+{{<section>}}
 ### Ministry of Commerce 
 {{<boxtag pink>}}COSMOSOL{{</boxtag>}}
 
@@ -106,7 +97,7 @@ The Vekllei *Ministry of Commerce* (COSMOSOL) regulates and initiates trade in t
 
 Vekllei has a reputation as a financial capital for its political neutrality and location between Europe and the Americas, and is among the largest facilitators of international commerce and exchange in the world.
 
-{{<section>}}
+{{<outline>}}
 #### Bank of Vekllei
 
 The *Labour Bank of Vekllei* (commonly "*Bank of Vekllei*") is the central bank and currency store of Vekllei. It is operated by the Ministry of Commerce and maintains branches in most major borough capitals in the Home Islands, as well as across all member states of the Vekllei Commonwealth. It is not autonomous and is beholden to the policy decisions of COSMOSOL and, in certain cases, the Interior and Commonwealth Parliaments. Its sworn purpose, as instructed by the Floral Constitution, is to advocate for Floral Economics.
@@ -138,16 +129,14 @@ The *Development Bank of Vekllei* (DEVBANK) is a policy bank designed to organis
 
 ##### Petty Bureau Labour Bank of Vekllei
 
-The *Petty Bureau Labour Bank of Vekllei* is the commercial lending bank of 'petty bureau' company syndicates and their workers. Its primary function is bureau negotiation and lending in order to facilitate the economic development of private business in Vekllei. It also acts as an intermediary between petty bureau companies and other banks or government financial apparatuses.
+The *Petty Bureau Labour Bank of Vekllei* (SISTERBANK) is the commercial lending bank of 'petty bureau' company syndicates and their workers. Its primary function is bureau negotiation and lending in order to facilitate the economic development of private business in Vekllei. It also acts as an intermediary between petty bureau companies and other banks or government financial apparatuses.
 
 ##### Bureau Proper Labour Bank of Vekllei
 
-The *Bureau Proper Labour Bank of Vekllei* is the commercial lending bank of 'bureau proper' company syndicates and their workers. Similar to the *Petty Bureau Labour Bank*, it facilitates economic activity of bureaus and private industry primarily through asset management and mediation with the government and Bank of Vekllei.
+The *Bureau Proper Labour Bank of Vekllei* (MOTHERBANK) is the commercial lending bank of 'bureau proper' company syndicates and their workers. Similar to the *Petty Bureau Labour Bank*, it facilitates economic activity of bureaus and private industry primarily through asset management and mediation with the government and Bank of Vekllei.
+{{</outline>}}
 
-
-{{</section>}}
-
-{{<section>}}
+{{<outline>}}
 #### National Mint of Vekllei
 {{< hint >}}
 ❖ Read more: *[The Vekllei Crown](/posts/2020-06-24-crown/)*
@@ -155,25 +144,25 @@ The *Bureau Proper Labour Bank of Vekllei* is the commercial lending bank of 'bu
 
 The *National Mint of Vekllei* (also the *Mint*) is the sole producer of currency in Vekllei, tasked with minting and melting the Vekllei Crown. It also regulates gold bullion in the country, and manufactures bullion for use in the International Market. It is headquartered in Vekllei Proper, in the Home Islands.
 
-The Mint is the custodian of the Commonwealth Bullion Depository, which holds reserves of over 6,000 tonnes of gold bullion belonging to the Commonwealth and over 60 other countries, among the largest such reserves in the world.
+The Mint is the custodian of the Commonwealth Bullion Depository, which holds reserves of over 6,000 tonnes of gold bullion belonging to the Commonwealth and over 60 other countries, and is among the largest such reserves in the world.
 
 The Mint is well-regarded internationally for the purity of its metals and intricate commemorative coins, leading international numismatics in colour and variety.
-{{</section>}}
+{{</outline>}}
 
-{{<section>}}
+{{<outline>}}
 #### Vekllei Securities Commission
 
 The *Vekllei Securities Commission* (VECSEC) regulates securities in the Vekllei International Market. It advises fiscal decision-making to the Interior Parliament and legislates trade practices in the country, including the issuing and ownership of government bonds and bureau securities.
 
-Since Vekllei citizens do not usually participate in the domestic securities markets, VECSEC lacks traditional legal authority over many of the foreign participants in its supervised markets, but does extradite and prosecute financial crime through the EUROVEK and USVEK extradition treaties. It is made up of the following departments.
+Since Vekllei citizens do not usually participate in the domestic securities markets, VECSEC lacks traditional legal authority over many of the foreign participants in its supervised markets, but does extradite and prosecute financial crime through the EUROVEK and USVEK extradition treaties. It includes the following departments.
 
 * **General Council**: Advisory board to the Commonwealth.
 * **General Procuratorate**: Enforcement of penalties and prosecution of financial crimes.
 * **Department of Financing and Stock Exchange**: Regulation and monitoring of the Vekllei Stock Exchange and miscellaneous securities within the country.
 * **Department of International Markets**: Regulation and monitoring of the Vekllei International Market and government bonds.
 * **Department of Investments and Trusts**: Regulation and monitoring of the investments, securities and financial contracts of Vekllei citizens and companies.
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Vekllei Trade Commission
 
 The *Vekllei Trade Commission* regulates consumer protections and antitrust law, and organises trade information from other ministries and supervisory bureaus into policy recommendations and legislation. The Trade Commission also monitors and reports the health of foreign markets, and conducts research into broader geopolitical financial interests, particularly as they compete with domestic interests. It includes the following departments.
@@ -182,27 +171,51 @@ The *Vekllei Trade Commission* regulates consumer protections and antitrust law,
 * **Department of Market Affairs**: Protection of fair markets and regulation of Bureau and Petty Bureau companies, including state monopolies.
 * **Department of Market Research**: Analysis and research of domestic and international markets, compiled and forwarded to other Interior Ministries.
 * **Bureau of Economics**: Macroeconomic research relevant to international trade.
+{{</outline>}}
 {{</section>}}
 
+{{<section>}}
 ### Ministry of the Commonwealth 
 {{<boxtag pink>}}COSMOCOM{{</boxtag>}}
 
-The *Ministry of the Commonwealth* (COSMOCOM) is the organ through which the Interior Government communicates and cooperates with the Commonwealth Administration and its Secretariats. Its primary responsibility is cooperation between member states and standardisation, and publishes reports and manuals towards this goal. It is also the primary ministry through which the parliaments and secretariats of the Commonwealth communicate with the Interior Government. COSMOCOM is also responsible for ensuring changes made to the Floral Constitution are implemented domestically.
+The *Ministry of the Commonwealth* (COSMOCOM) is the organ through which the Interior Government communicates and cooperates with the Commonwealth Administration and its Secretariats. Its primary responsibility is cooperation between member states and standardisation, and publishes reports and manuals towards this goal. It is also the primary ministry through which the parliaments and secretariats of the Commonwealth communicate with the Interior Government. COSMOCOM is also responsible for ensuring changes made to the Floral Constitution are implemented domestically. Common responsibilities of COSMOCOM include:
 
-{{<section>}}
+* 
+
+{{<outline>}}
 #### Accreditation Directorate
 
-The *Accreditation Directorate* regulates academic and industrial qualifications in Vekllei.
-{{</section>}}
+The *Accreditation Directorate* (also *Qualifications Vekllei* or VDA) is a transnational auditory of industrial, commercial and academic qualifications in Vekllei, and also 
 
-{{<section>}}
+VDA also maintains a catalogue of products and technical manuals as part of 
+
+##### Vekllei Qualifications Commission
+
+##### Vekllei Industrial Audit Committee
+
+##### Vekllei Commons Audit Committee
+
+The *Vekllei Commons Audit Committee* is the primary audit and survey body of the 
+
+##### Inspectorate Vekllei
+
+The *Vekllei Inspectorate* surveys and audits technical standards in business, research and industry as the law-enforcement arm of the Accreditation Directorate.
+
+* **Survey and Testing Group**: 
+* **Department of Market Affairs**: Protection of fair markets and regulation of Bureau and Petty Bureau companies, including state monopolies.
+* **Department of Market Research**: Analysis and research of domestic and international markets, compiled and forwarded to other Interior Ministries.
+* **Bureau of Economics**: Macroeconomic research relevant to international trade.
+
+{{</outline>}}
+
+{{<outline>}}
 #### Civil Service Academy of Vekllei
 
-The *Civil Service Academy*
+The *Civil Service Academy* (VCSA) is a training school for middle and senior civil servants and interior policy researchers. Located in the borough of Callaisn in the Home Islands, it primarily trains servants of the domestic government apparatuses, and provides tertiary courses in governance and management related to its primary disciplines. The VCSA also trains directors of key state assets, and provides education resources for bureau industry. 
 
-{{</section>}}
+{{</outline>}}
 
-{{<section>}}
+{{<outline>}}
 #### Research Directorate
 
 The *Research Directorate* conducts research and prepares policy objectives for use in Commonwealth governance.
@@ -213,9 +226,9 @@ The *Research Directorate* conducts research and prepares policy objectives for 
 * **Department of Civil Affairs**: Research related to civil rights, demography and culture policy.
 * **Department of Commonwealth Economics and Trade**: Macroeconomic research in Commonwealth trade.
 * **Department of Reform**: Research related to Vekllei bureaucracy and the efficiency of its government.
-{{</section>}}
+{{</outline>}}
 
-{{<section>}}
+{{<outline>}}
 #### Standardisations Directorate
 
 The *Standardisations Directorate* (SSD, also Standards Vekllei) works to unify management and supervision of state bodies and assets in Vekllei. It also mandates the responsibilities and visual identity of all departments of the Government and boroughs of the Commonwealth, including the appearance and manuals of style of Commonwealth infrastructure and publications. Its work includes both operating procedures and major brand elements like flags and logos, and specific linguistic and typographic features including typefaces, preferred punctuation and symbols. It has considerable authority over other departments, which usually lack autonomy to enforce their own visual identity independently. Most visual work for the Standardisations Directorate is performed by in-house designers and artists.
@@ -240,15 +253,15 @@ The *Commercial Standards of Vekllei* (COMSTA) regulates standards of small and 
 
 Since private commerce in Vekllei exists outside of the bureau framework, the license of COMSTA are broader and flexible, and regularly relies upon contracted industry contacts to fill places on its less defined technical committees.
 
-{{</section>}}
+{{</outline>}}
 
-{{<section>}}
+{{<outline>}}
 #### State Assets Directorate
 
 The *State Assets Directorate* (SAD) manages state-owned companies across the Commonwealth, particularly those with considerable international trade. These include several major industrial companies in Vekllei, like General Reactor S.A.
-{{</section>}}
+{{</outline>}}
 
-{{<section>}}
+{{<outline>}}
 #### Statistics Directorate
 
 The *Statistics Directorate* (STD, also Statistics Vekllei) collects and publishes statistics concerning the economy, country and people of Vekllei. Along with other COSMOCOM directorates, the Statistics Directorate organises research into trends of Vekllei demography and geography. The STD also coordinates the Vekllei Census.
@@ -256,14 +269,16 @@ The *Statistics Directorate* (STD, also Statistics Vekllei) collects and publish
 ##### Statistics Press of Vekllei
 
 
-{{</section>}}
+{{</outline>}}
 
-{{<section>}}
+{{<outline>}}
 #### Vekllei Electoral Commission
 
 The *Vekllei Electoral Commission* conducts elections, by-elections and referendums in Vekllei. It also maintains the Vekllei Electoral Roll, and designs electorates, apportionments and redistributions in the Home Islands.
+{{</outline>}}
 {{</section>}}
 
+{{<section>}}
 ### Ministry of Defence 
 {{<boxtag pink>}}COSMOKOS{{</boxtag>}}
 
@@ -275,7 +290,7 @@ The Vekllei *Ministry of Defence* (COSMOKOS) represents the Sovereign Armed Forc
 * Conducting scientific military research.
 * Policing and security of Vekllei territories and waters.
 
-{{<section>}}
+{{<outline>}}
 #### Armed Forces of Vekllei
 
 The *Armed Forces of Vekllei*, arranged under the COSMOKOS ministry, are unusual in that they do not have control directly over troops or equipment. The actual armed forces of Vekllei, known as the [Royal](/utopia/vekllei/society/government/#royal-armed-forces-of-vekllei) or [Crown Armed Forces](/utopia/vekllei/society/government/#royal-armed-forces-of-vekllei), are a sovereign feature of the country and as such are placed under direct supervision of the Sovereign Administration -- seperate from the Vekllei and Commonwealth governments.
@@ -318,9 +333,9 @@ The *Intelligence Liaison* is a specialised office that coordinates military int
 
 The *Sovereign Liaison* is a specialised office intended to link the [Royal Armed Forces of Vekllei](/utopia/vekllei/society/government/#royal-armed-forces-of-vekllei) with COSMOKOS, an interior ministry with no direct control over troops of the Crown. Although it is the *de facto* office of communication with the Crown forces, in practice communication generally occurs directly with the relevant COSMOKOS department. The purpose of the Sovereign Liaison is mostly as a democracy-advocate, supervising the COSMOKOS departments as an anti-corruption watchdog similar to other democracy-advocates. It also ensures COSMOKOS operations do not affect sovereign operations
 
-{{</section>}}
+{{</outline>}}
 
-{{<section>}}
+{{<outline>}}
 #### Police of the Parliament
 
 The *Police of the Parliament* (VENOPOR) are the national and paramilitary police of Vekllei, responsible for internal security, riot control, counter-terrorism, disaster response, law enforcement and maritime rights protection. The VENOPOR is made up of a variety of organisations dedicated to specialised and tactical forms of policing unavailable to the [Police of the Public](/utopia/vekllei/society/government/#police-of-the-public). As a paramilitary force, the VENOPOR are also trained to support the [Crown Armed Forces](/utopia/vekllei/society/government/#royal-armed-forces-of-vekllei) in wartime, and coordinate broad mobilisation in the event of a defensive war.
@@ -353,39 +368,40 @@ The *Mint Guard* (also *Gold Sappers*) are responsible for the security of finan
 ##### Special Guard of the Parliament Police
 ##### Militia of the Parliament Police
 
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Police of the Public
 
 The *Police of the Public* (COSMOPOR) are the local police in Vekllei, mostly constabulary responsible for local policing. 
+{{</outline>}}
 {{</section>}}
 
 ### Ministry of Foreign Affairs 
 {{<boxtag pink>}}COSMOSEA{{</boxtag>}}
 
-{{<section>}}
+{{<outline>}}
 #### Communications Bureau
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### International Affairs Directorate
 ##### Department of African Affairs
 ##### Department of American Affairs
 ##### Department of Asian Affairs
 ##### Department of European Affairs
 ##### Department of West Asian Affairs
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Domestic Affairs Directorate
 ##### Department of Consular Affairs
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Department of Protocol and Culture
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Department of Press and News Media
-{{</section>}}
+{{</outline>}}
 
-{{<section>}}
+{{<outline>}}
 #### World Missions Directorate
 
 The *World Missions Directorate* is the formal foreign policymaking apparatus of the Ministry of Foreign Affairs. 
@@ -394,60 +410,60 @@ The *World Missions Directorate* is the formal foreign policymaking apparatus of
 * Formulate cohesive positions on events of domestic concern
 * Outline a consistent Commonwealth foreign policy to determine and advise decision-making in future.
 
-{{</section>}}
+{{</outline>}}
 
 ### Ministry of Industry 
 {{<boxtag pink>}}COSMOSEC{{</boxtag>}}
 
-{{<section>}}
+{{<outline>}}
 #### Bureaus of Vekllei
 ##### Production Surveillance Bureau
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Workers of Vekllei
 ##### Workplace Safety Commission
 ##### Labour Democracy Commission
-{{</section>}}
+{{</outline>}}
 
 ### Ministry of Infrastructure 
 {{<boxtag pink>}}COSMOTRAN{{</boxtag>}}
 
-{{<section>}}
+{{<outline>}}
 #### Vekllei Social Commission
 ##### Vekllei Housing Commission
 
 The *Vekllei Housing Commission* is a 
 ##### Vekllei Gardens Commission
 ##### Vekllei Media Authority
-{{</section>}}
+{{</outline>}}
 
-{{<section>}}
+{{<outline>}}
 #### Vekllei Nature Commission
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 ##### Crown Lands Protectorate
-{{</section>}}
+{{</outline>}}
 
 ### Ministry of Landscape 
 {{<boxtag pink>}}COSMOGOS{{</boxtag>}}
 
-{{<section>}}
+{{<outline>}}
 #### Vekllei Agriculture Directorate
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Vekllei Materials Directorate
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Vekllei Conservation Directorate
 
 ##### Commercial Standards of Vekllei
 
-{{</section>}}
+{{</outline>}}
 
 ### Ministry of Light and Water 
 {{<boxtag pink>}}COSMOLA{{</boxtag>}}
 
-{{<section>}}
+{{<outline>}}
 #### Vekllei Electric Commission
 
 The *Vekllei Electric Commission* (VEC, also Thunderburo) is responsible for the state monopoly on electricity generation in Vekllei. Although the VEC is structured as a bureau company, its subsidiaries are state-owned and consequently operates similarly to other agency-level departments of the Interior Government. The VEC consists of multiple subcommissions dedicated to unique types of electricity generation in Vekllei, primarily through hydro-electric, geothermal and nuclear methods.
@@ -464,24 +480,24 @@ The Vekllei *Hydro-Electric Commission* (colloquially *The Hydro*, not to be con
 
 The Vekllei *Nuclear-Electric Commission* (also *Atomic Vekllei* or NEC) oversees nuclear electricity generation in Vekllei.
 
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Vekllei Water Commission
 
 The *Vekllei Electric Commission* (Hydroburo)
 
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Emergency Light and Water Authority
 
 The *Emergency Light and Water Authority* (EVA) is a specialised department of the Ministry of Light and Water designed to mitigate interruption to electricity and water supply. Its mandate includes the security of utility infrastructure and disaster preparation. In the event of major interruption to the utilities supervised by the Ministry, the EVA would assume direct control of the Hydro and Thunderburos and coordinate their recovery. Threats include both natural disasters like volcanic eruptions and earthquakes, as well as damage from conventional or nuclear war.
 
-{{</section>}}
+{{</outline>}}
 
 ### Ministry of Transport 
 {{<boxtag pink>}}COSMOPOS{{</boxtag>}}
 
-{{<section>}}
+{{<outline>}}
 #### Vekllei National Rail Bureau
 
 {{< hint >}}
@@ -489,29 +505,29 @@ The *Emergency Light and Water Authority* (EVA) is a specialised department of t
 {{< /hint >}}
 
 The Vekllei National Rail Bureau is the parent bureau for all rail transport in Vekllei. Its subordinate organisations hold a monopoly on rail transport in the country and its maintenance, including manufacturing, research and administration.
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Vekllei National Roads and Pathways Bureau
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Vekllei National Skies Bureau
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Vekllei National Seas Bureau
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### National Transport Laboratories
-{{</section>}}
+{{</outline>}}
 
 ### Ministry of Syndicates and Chapels 
 {{<boxtag pink>}}COSMOLAB{{</boxtag>}}
 
-{{<section>}}
+{{<outline>}}
 #### Office of the Syndicate-General
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Office of the Chapel-General
-{{</section>}}
+{{</outline>}}
 
 ---
 
@@ -545,7 +561,7 @@ Although each member of the Atlantic Commonwealth is considered a full participa
 
 The *Commonwealth Culture Secretariat* (COLSEC) is concerned primarily with 'cultural values and beliefs' of the Commonwealth, their protection, and foreign relations. Its subordinate offices are dedicated to key areas of concern designed to assist its smaller member-states which may lack the political infrastructure to facilitate their own offices. 
 
-{{<section>}}
+{{<outline>}}
 #### Commonwealth Affairs Office
 
 The COLSEC *Commonwealth Affairs Office* (COLSA) is responsible for the documentation of the general disposition, welfare, culture and demography of the people of the Commonwealth. This includes political attitudes towards the Commonwealth itself, as well as how decisions made by other Secretariats impact public opinion. It is also the body-advocate of the public of member states who are unable to appeal to their local government directly.
@@ -569,24 +585,23 @@ The COLSEC Cultural Heritage Affairs Office (COLSEHE)
 ##### Overseas Affairs Office
 
 The COLSEC Overseas Affairs Office (COLSESEA) coordinates the foreign offices of the Commonwealth, particularly for states that lack their own foreign affairs offices in [Kalina](/utopia/vekllei/landscape/territories/kalina) and the [West Antilles](/utopia/vekllei/landscape/territories/west). It also serves as an advisory board for policy and trade with other countries, particularly as they interact with autonomous states.
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Commonwealth Records and Telegraph Directorate
 
 ##### Vekllei Press Bureau
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Commonwealth Sports Directorate
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Commonwealth Telecommunications Directorate
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Commonwealth Tourism Directorate
-{{</section>}}
+{{</outline>}}
 
-
-
+{{<section>}}
 ### Commonwealth Security Secretariat 
 {{<boxtag pink>}}OPSEC{{</boxtag>}}
 
@@ -594,12 +609,12 @@ The *Commonwealth Security Secretariat* (OPSEC) is the mother organisation of th
 
 Like most features of the 
 
-{{<section>}}
+{{<outline>}}
 #### National Intelligence Directorate
 
-The *National Intelligence Directorate* (N.I.) the secret service of the Commonwealth and Vekllei's primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It comprises of 40 semiautonomous sections, which each may operate several offices. This complex and comprehensive intelligence organisation contributes to its legendary reputation abroad, and conspiracies of its presence in almost every country.
+The *National Intelligence Directorate* (N.I.) the secret service of the Commonwealth and Vekllei's primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It comprises of 40 semiautonomous outlines, which each may operate several offices. This complex and comprehensive intelligence organisation contributes to its legendary reputation abroad, and conspiracies of its presence in almost every country.
 
-The N.I. is unique in its broad recruitment of foreigners, many of whom are promised citizenship and residency in Vekllei. Many N.I. sections recruit locally, and manage foreign assets through Vekllei-born supervisors.
+The N.I. is unique in its broad recruitment of foreigners, many of whom are promised citizenship and residency in Vekllei. Many N.I. outlines recruit locally, and manage foreign assets through Vekllei-born supervisors.
 
 ##### Home Office (HO/NI)
 
@@ -673,15 +688,16 @@ The *Special Protectorate Bureau* at *National Intelligence* (SP/NI) reports inf
 * **Section 39 *Decrest***: Offices and staff in colonial Africa.
 * **Section 40 *Endoria***: Offices and staff in colonial Africa.
 
-{{</section>}}
+{{</outline>}}
 
-{{<section>}}
+{{<outline>}}
 #### Public Security Directorate
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### State Security Directorate
 
 ##### State Secrets Office
+{{</outline>}}
 {{</section>}}
 
 ### Commonwealth Education Secretariat 
@@ -693,7 +709,7 @@ The stated mission of CHICOM is the celebration of knowledge and the development
 
 CHICOM also overseas Vekllei's four learned societies, called academies, which offer immortal membership to remarkable contributors to learning in Vekllei. The Academies of the Commonwealth are funded by a bureau tithe, mandated but otherwise seperate from Commonwealth government apparatuses.
 
-{{<section>}}
+{{<outline>}}
 #### Vekllei Public Education Directorate
 
 The *Public Education Directorate* oversees all compulsory education across the Commonwealth, including both government and vocational schools.
@@ -709,14 +725,14 @@ The *All-Commonwealth School Directorate* (ACC) manages the local production of 
 
 
 #####
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Vekllei National Laboratories
 
 *Vekllei National Laboratories* (also *National Labs*) is the administrator of the National Laboratory Complex in Amenmer, Coyenstisn, and the National Laboratory System across Commonwealth-level universities and academies in Vekllei.
 
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Academy of Natural Sciences
 
 The *Crown Academy of Natural Sciences* is the sovereign (commonwealth-level) academy of natural sciences in the Commonwealth. It functions primarily as a research institute of distinguished academicians and scientific body that advises policy. Headquartered in the Home Islands, it has hundreds of branch institutes across the Commonwealth and in Rome, London and Beijing. These branches are organised along 7 academic divisions, each subdivided into hundreds of individual departments. It is the oldest of the academies, founded by the Crown Sovereign in 1527.
@@ -728,8 +744,8 @@ The *Crown Academy of Natural Sciences* is the sovereign (commonwealth-level) ac
 * **School of Astronomy**: Studies of celestial phenomena.
 * **School of Geography**: Studies of geography, geology and oceanography. 
 * **School of Biology**: Studies of living organisms.
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Academy of Engineering Sciences
 
 The *Crown Academy of Engineering Sciences* is the sovereign (commonwealth-level) academy of engineering in the Commonwealth. Its membership of nearly 1,000 academicians are considered to have made invaluable contributions to engineering sciences, and hold lifelong tenure at the academy. It includes six schools, which conduct research and consultancy with the Commonwealth and Interior Administrations.
@@ -739,22 +755,22 @@ The *Crown Academy of Engineering Sciences* is the sovereign (commonwealth-level
 * **School of Chemical Engineering**: Studies of the constituents of the universe, natural forces, and mathematics.
 * **School of Civil Engineering**: Studies of matter, its properties, machines and technologies.
 * **School of Agricultural Engineering**: Studies of celestial phenomena.
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Academy of Philosophy
 
 * **School of Philosophy**
 * **School Sociology**
 * **School of Theology**
 
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Academy of Political Sciences
 
 * **School of Law**
 * **School of Political Economics**
 * **School of History and Geography**
-{{</section>}}
+{{</outline>}}
 
 ### Commonwealth Construction Secretariat 
 {{<boxtag pink>}}CONSEC{{</boxtag>}}
@@ -762,7 +778,7 @@ The *Crown Academy of Engineering Sciences* is the sovereign (commonwealth-level
 ### Commonwealth Labour Secretariat 
 {{<boxtag pink>}}LABSEC{{</boxtag>}}
 
-### Vekllei Health Secretariat 
+### Commonwealth Health Secretariat 
 {{<boxtag pink>}}HELSEC{{</boxtag>}}
 
 ---
@@ -780,13 +796,13 @@ The *Commonwealth Administration of the Crown*, not to be confused with the [Pal
 
 The *Fair Work Authority* (FWA) is the Commonwealth industrial relations tribunal and regulator of industrial awards, a type of standard protected by the rulings of the FWA. It is let by a Chief Justice appointed by the Commonwealth Procuratorate.
 
-{{<section>}}
+{{<outline>}}
 #### Quality of Life Surveillance Commission
 {{< hint >}}
 ❖ Read more: *[The Quality of Life Surveillance Commission](/posts/2021-06-29-qlc/)*
 {{< /hint >}}
 
-{{</section>}}
+{{</outline>}}
 
 ### Office of the Auditor-General
 
@@ -800,7 +816,7 @@ The *Fair Work Authority* (FWA) is the Commonwealth industrial relations tribuna
 
 ### Procuratorate of the Commonwealth
 
-{{<section>}}
+{{<outline>}}
 #### High Courts of the Vekllei Commonwealth
 
 The *High Courts* of Vekllei are the superior courts of record with inherent procedural and contempt power.  
@@ -825,8 +841,8 @@ The *Supreme Censorate* is a an administrative court and anti-corruption agency 
 
 The *Courts of the Sovereign* (also *Sovereign Magistrates* are Vekllei superior courts with jurisdiction over land and architecture, and serve an inquisitorial role in determining ownership via the Vekllei Delicture system. Land in Vekllei 'owns itself' under this system, and relationships with land are brokered via the Borough Municipal Agent. Ownership is proven to the Sovereign Magistrates via the history of residency, use of the land and self-interest of property as determined by teams of Court Inquisitors, who determine the history and intent of land. The appellate justice of the Sovereign Courts are the [Commonwealth Procuratorates](/utopia/vekllei/society/government/#procuratorate-of-the-commonwealth).
 
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Lower Courts of the Vekllei Commonwealth
 
 In the Commonwealth, Lower Courts refer to Magistratures
@@ -847,7 +863,7 @@ The *Courts of the Magistrate* (also *Borough Magistrates*, *Petty Courts* and *
 * low respect for [[privacy]], extensive control of the party over private life;
 * low respect for [[intellectual property]] as knowledge and culture was considered a right for human kind, and not a privilege as in the free market economies.
 
-{{</section>}}
+{{</outline>}}
 
 ### Office of the Attorney-General
 
@@ -886,12 +902,12 @@ The Government of Vekllei is made up of Ministries, Offices, Bureaus, Commission
 ❖ Main article: *[The Crown Mail of Vekllei](/utopia/vekllei/society/mail)*
 {{< /hint >}}
 
-{{<section>}}
+{{<outline>}}
 #### General Office
-{{</section>}}
-{{<section>}}
+{{</outline>}}
+{{<outline>}}
 #### Office of the Postmistress
-{{</section>}}
+{{</outline>}}
 
 ## Protectorate of the Land Sovereign
 ## The Police of the Crown

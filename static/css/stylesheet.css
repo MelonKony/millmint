@@ -21,8 +21,9 @@ article {
 /* rounded images */
 img {
 	border-radius: 5px;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	visibility: hidden;
 }
 /* image styles */
 article img[alt~="smallimg"] {
@@ -44,8 +45,25 @@ article img[alt~="smallimg"] {
   }
 }
 
+/* image fade in (fade.js) */
+.fadeIn {
+  -webkit-animation: animat_show 0.8s;
+  animation: animat_show 0.8s;
+  visibility: visible !important;
+}
+
+@-webkit-keyframes animat_show {
+  0% {
+	opacity: 0
+  }
+
+  100% {
+	opacity: 1
+  }
+}
+
 :root {
-	--gray-100: #f8f9fa;
+	--gray-100: rgba(250,250,250);
 	--gray-200: #e5e5e5;
 	--body-background: #FFFFFF;
 	--body-font-color: #1d1d1f;
@@ -94,6 +112,7 @@ article img[alt~="smallimg"] {
 }
 .pink, .article-pink a {
 	color: var(--color-pink);
+	outline-color: rgba(245,35,75, 0.25);
 }
 .purple, .article-purple a {
 	color: var(--color-purple);
@@ -122,8 +141,8 @@ article img[alt~="smallimg"] {
 /* section style section */
 
 .section {
-	margin-top: 0.5rem;
-	margin-bottom: 0.5rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
 	color: var(--body-font-color);
 	background-color: var(--gray-100);
 	opacity: .85;
@@ -143,12 +162,39 @@ article img[alt~="smallimg"] {
 	border-radius: .25rem;
 }
 
+/* outline style section */
+
+.outline {
+	padding: 0.5em 1em 0.7em;
+	border: 1px solid rgba(0,0,0,0.08);
+	margin-top: 1.5em;
+	background-color: rgba(0,0,0,0.03);
+	border-radius: 3.5px;
+	display: block;
+}
+
+.outline h1, h2, h3, h4, h5, h6 {
+	margin-top: .5rem!important;
+}
+
+.outline li strong {
+	font-weight: 600;
+}
+	
+.outline blockquote {
+	margin: 1rem 0;
+	padding: .5rem 1rem .5rem .75rem;
+	border-inline-start: none;
+	border-radius: .25rem;
+}
+
 /* boxtag styling */
 
 .boxtag {
 	margin-top: -2.8rem;
 	margin-bottom: 0;
 	margin-left: 1rem; 
+	display: inline-block;
 	float: right;
 	color: var(--body-font-color);
 	background-color: var(--gray-100);
@@ -164,7 +210,7 @@ article img[alt~="smallimg"] {
 
 .boxtag.pink, .article-pink .boxtag[class="boxtag"] {
 		border-color: var(--color-pink);
-		background-color: rgba(245,35,75,.1);
+		background-color: rgba(245,35,75,.15);
 	}
 
 /* book hint section */
@@ -275,7 +321,7 @@ body article blockquote {
     margin-bottom: 0.5rem;
     margin-top: -0.5rem;
 	color: var(--color-gray);
-	background-color: var(--body-background);
+	background-color: transparent;
 	border-inline-start: .0rem solid var(--body-background);
 	font-size: 12px;
 	line-height: 1.33337;
