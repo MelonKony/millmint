@@ -5,6 +5,9 @@ fulltitle: Frequently Asked Questions
 emoji: -bird
 tag: UTOPIA
 sitetag: Introduction
+color: pink
+
+image: https://millmint.imgix.net/images/drawing.jpg?q=100&auto=format
 
 weight: 1
 list_posts: false
@@ -61,16 +64,14 @@ color: var(--color-red);
 ߷ This article is about [**Hobart's utopia**](/utopia/intro/#three-utopias), called [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
-{{<columns>}}
+{{< hint panel>}}
 ## Quick Facts
 
 * **Vekllei is a utopia**, but that doesn't mean I don't take it seriously or consider its society pragmatically.
 * **It's full of stuff I love**, but that doesn't mean it's perfect. Personal growth can come from bad experiences.
 * **I draw in certain styles**, but Vekllei isn't based off any one country.
 * **Vekllei is mostly self-contained stories**, but I experiment with mediums and methods all the time.
-<--->
-<img style="max-width: 250px; display: block; margin-left: auto; margin-right: auto;" src="/images/mastheads/book.gif">
-{{</columns>}}
+{{</hint >}}
 
 ## F.A.Q.
 
