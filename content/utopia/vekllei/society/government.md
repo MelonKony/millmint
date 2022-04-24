@@ -180,16 +180,25 @@ The *Vekllei Trade Commission* regulates consumer protections and antitrust law,
 
 The *Ministry of the Commonwealth* (COSMOCOM) is the organ through which the Interior Government communicates and cooperates with the Commonwealth Administration and its Secretariats. Its primary responsibility is cooperation between member states and standardisation, and publishes reports and manuals towards this goal. It is also the primary ministry through which the parliaments and secretariats of the Commonwealth communicate with the Interior Government. COSMOCOM is also responsible for ensuring changes made to the Floral Constitution are implemented domestically. Common responsibilities of COSMOCOM include:
 
-* 
+* Advising, training and auditing local accreditation and qualifications in line with Commonwealth standards and directives.
+* Ensuring that the Vekllei interior state meets standards determined by the Commonwealth parliaments and international commitments.
+* Developing and enforcing standards in technical, industrial and brand features of the Vekllei Interior Government and its responsible state assets and bureau partners.
+* Training and maintaining the workforce for the Interior civil service and Interior state assets in line with Commonwealth standards and directives.
+
+COSMOCOM's commitments to the transnational Commonwealth Parliaments go both ways -- the ministry ensures domestic compliance and also advises Commonwealth policy and standards, since the Vekllei Interior Government is the largest and most industrious member-state of the Commonwealth.
 
 {{<outline>}}
 #### Accreditation Directorate
 
-The *Accreditation Directorate* (also *Qualifications Vekllei* or VDA) is a transnational auditory of industrial, commercial and academic qualifications in Vekllei, and also 
+The *Accreditation Directorate* (also *Qualifications Vekllei* or VAD) is a transnational auditor of industrial, commercial and academic qualifications in Vekllei. VAD also develops technical and procedural standards for its responsible commercial and industrial partners.
 
-VDA also maintains a catalogue of products and technical manuals as part of 
+Standards in education for teachers and staff are generally developed and enforced by the [Commonwealth Education Secretariat](/utopia/vekllei/society/government/#commonwealth-education-secretariat).
+
+VDA also maintains a catalogue of products and technical manuals available to industry partners, and enforces compliance to industrial and commercial standards through its subordinate inspectorate.
 
 ##### Vekllei Qualifications Commission
+
+The Vekllei Qualifications Commission (VQC) is the primary research organ of the VAD, and develops most of the qualifications standards and procedure policies of government ministries and state assets. Its research is primarily civil, and industrial and commercial qualifications are generally developed by the [Standardisations Directorate](/utopia/vekllei/society/government/#standardisations-directorate).
 
 ##### Vekllei Industrial Audit Committee
 
@@ -211,7 +220,9 @@ The *Vekllei Inspectorate* surveys and audits technical standards in business, r
 {{<outline>}}
 #### Civil Service Academy of Vekllei
 
-The *Civil Service Academy* (VCSA) is a training school for middle and senior civil servants and interior policy researchers. Located in the borough of Callaisn in the Home Islands, it primarily trains servants of the domestic government apparatuses, and provides tertiary courses in governance and management related to its primary disciplines. The VCSA also trains directors of key state assets, and provides education resources for bureau industry. 
+The *Civil Service Academy* (VCSA) is a training school for middle and senior civil servants and interior policy researchers. Located in the borough of Callaisn in the Home Islands, it primarily trains servants of the domestic government apparatuses, and provides tertiary courses in governance and management related to its primary disciplines. The VCSA also trains directors of key state assets, and provides education resources for bureau industry.
+
+Most Vekllei nationals in Commonwealth offices are also trained at the VCSA.
 
 {{</outline>}}
 
@@ -721,6 +732,10 @@ The *Public Education Directorate* oversees all compulsory education across the 
 ##### All-Commonwealth School Directorate
 
 The *All-Commonwealth School Directorate* (ACC) manages the local production of school materials, particularly uniforms and textbooks, and ensures their availability and quality for students. The ACC is not involved in teaching or study itself, and instead serves learning infrastructure, including the maintenance and renewal of existing school buildings.
+
+##### Common Children's Press
+
+##### Common Tertiary Press
 
 
 
