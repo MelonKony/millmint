@@ -190,46 +190,49 @@ COSMOCOM's commitments to the transnational Commonwealth Parliaments go both way
 {{<outline>}}
 #### Accreditation Directorate
 
-The *Accreditation Directorate* (also *Qualifications Vekllei* or VAD) is a transnational auditor of industrial, commercial and academic qualifications in Vekllei. VAD also develops technical and procedural standards for its responsible commercial and industrial partners.
+The *Accreditation Directorate* (also *Qualifications Vekllei* or VAD) is a transnational auditor of industrial, commercial and academic qualifications in Vekllei. VAD also develops technical and procedural standards for its responsible commercial and industrial partners. VAD also interfaces directly with international standards organisations on behalf of its subordinate auditors.
 
-Standards in education for teachers and staff are generally developed and enforced by the [Commonwealth Education Secretariat](/utopia/vekllei/society/government/#commonwealth-education-secretariat).
+Standards in education for teachers and staff are generally developed and audited by the [Commonwealth Education Secretariat](/utopia/vekllei/society/government/#commonwealth-education-secretariat).
 
-VDA also maintains a catalogue of products and technical manuals available to industry partners, and enforces compliance to industrial and commercial standards through its subordinate inspectorate.
+VDA also maintains a catalogue of products and technical manuals available to industry partners, and enforces compliance for industrial and commercial standards through its subordinate inspectorate.
 
 ##### Vekllei Qualifications Commission
 
-The Vekllei Qualifications Commission (VQC) is the primary research organ of the VAD, and develops most of the qualifications standards and procedure policies of government ministries and state assets. Its research is primarily civil, and industrial and commercial qualifications are generally developed by the [Standardisations Directorate](/utopia/vekllei/society/government/#standardisations-directorate).
+The *Vekllei Qualifications Commission* (ADQC) is the primary research organ of the VAD, and develops most of the qualifications standards and procedure policies of government ministries and state assets. Its research is primarily civil, since industrial and commercial qualifications are generally developed by the [Standardisations Directorate](/utopia/vekllei/society/government/#standardisations-directorate).
 
 ##### Vekllei Industrial Audit Committee
 
+The *Vekllei Industrial Audit Committee* (ADIA) is the primary audit and survey body of heavy and chemical industries, and is made up of representatives and technical representatives from its responsible industries. The Industrial Audit Committee also conducts most industrial audits, escalating breaches to the [Inspectorate](/utopia/vekllei/society/government/#inspectorate-vekllei) only where prosecution in court is required.
+
 ##### Vekllei Commons Audit Committee
 
-The *Vekllei Commons Audit Committee* is the primary audit and survey body of the 
+The *Vekllei Commons Audit Committee* (ADCA) is the primary audit and survey body of commercial organisations and laboratories. Like [VADIAC](/utopia/vekllei/society/government/#vekllei-industrial-audit-committee), the Commons Audi Committee is a civilian auditor made up of industry representatives and forwards criminal breaches towards the [Inspectorate](/utopia/vekllei/society/government/#inspectorate-vekllei).
 
 ##### Inspectorate Vekllei
 
-The *Vekllei Inspectorate* surveys and audits technical standards in business, research and industry as the law-enforcement arm of the Accreditation Directorate.
+The *Vekllei Inspectorate* surveys and audits technical standards in business, research and industry for the Interior Parliament as the law-enforcement arm of the Accreditation Directorate. Breaches of Commonwealth standards are generally prosecuted in the Commonwealth Courts by the [INSTA](/utopia/vekllei/society/government/#industrial-standards-of-vekllei) and [COMSTA](/utopia/vekllei/society/government/#commercial-standards-of-vekllei) arms of [Standards Vekllei](/utopia/vekllei/society/government/#standardisations-directorate). 
 
-* **Survey and Testing Group**: 
-* **Department of Market Affairs**: Protection of fair markets and regulation of Bureau and Petty Bureau companies, including state monopolies.
-* **Department of Market Research**: Analysis and research of domestic and international markets, compiled and forwarded to other Interior Ministries.
-* **Bureau of Economics**: Macroeconomic research relevant to international trade.
+The Inspectorate acts an appeals board for civil breaches of VAD technical standards. It includes the following groups.
+
+* **Survey and Testing Group**: Superior investigative outfit designed to document breaches of technical standards.
+* **Industrial and Laboratory Safety Group**: Specialised health and safety compliance investigation.
+* **Legal Group**: Legal advisory office for prosecuting domestic breaches and preparing reports for Commonwealth prosecution.
 
 {{</outline>}}
 
 {{<outline>}}
 #### Civil Service Academy of Vekllei
 
-The *Civil Service Academy* (VCSA) is a training school for middle and senior civil servants and interior policy researchers. Located in the borough of Callaisn in the Home Islands, it primarily trains servants of the domestic government apparatuses, and provides tertiary courses in governance and management related to its primary disciplines. The VCSA also trains directors of key state assets, and provides education resources for bureau industry.
+The *Civil Service Academy* (CSA) is a training school for middle and senior civil servants and interior policy researchers. Located in the borough of Callaisn in the Home Islands, it primarily trains servants of the domestic government apparatuses, and provides tertiary courses in governance and management related to its primary disciplines. The CSA also trains directors of key state assets, and provides education resources for bureau industry.
 
-Most Vekllei nationals in Commonwealth offices are also trained at the VCSA.
+Most Vekllei nationals in Commonwealth offices are also trained at the CSA, which has sister offices in most independent Commonwealth member-states.
 
 {{</outline>}}
 
 {{<outline>}}
 #### Research Directorate
 
-The *Research Directorate* conducts research and prepares policy objectives for use in Commonwealth governance.
+The *Research Directorate* conducts research and prepares policy objectives for use in Commonwealth governance, and determines the curriculum of the [CSA](/utopia/vekllei/society/government/#civil-service-academy-of-vekllei) and other civil service training organisations.
 
 * **Department of General Research**: Flexible, reactive policy and long-term research objectives.
 * **Department of Stability**: Reactive and timely analysis of current affairs and events threatening the mandate and stability of the Commonwealth.
@@ -252,40 +255,41 @@ The *General Office of the Standardisations Directorate* (GOSED), commonly *Stan
 
 ##### Standards Press of Vekllei
 
-Publishing House organised vertically in the SSD to prepare and publish materials including technical manuals, standard compilation books, and industrial bulletins.
+The *Standards Press* is a publishing house organised vertically in the SSD to prepare and publish materials including technical manuals, standard compilation books, and industrial bulletins.
 
 ##### Industrial Standards of Vekllei
 
-The *Industrial Standards of Vekllei* (INSTA) regulates industrial regulatory and safety standards of industrial and manufacturing work. It also advises industry groups on product certification, and acts as a Commonwealth prosecutor in criminal breaches or oversight of industrial standards. Insta is divided into sixteen technical committees that oversee particular industries.
+The *Industrial Standards of Vekllei* (INSTA) regulates industrial regulatory and safety standards of industrial and manufacturing work. It also advises industry groups on product certification, and acts as a Commonwealth prosecutor in criminal breaches of industrial standards. INSTA is divided into sixteen technical committees that oversee particular industries. INSTA prosecutes cases of severe negligence or breach of Commonwealth standards, and advises domestic prosecution towards the [Accreditation Inspectorate](/utopia/vekllei/society/government/#inspectorate-vekllei).
 
 ##### Commercial Standards of Vekllei
 
-The *Commercial Standards of Vekllei* (COMSTA) regulates standards of small and medium-sized commercial businesses that are otherwise unaffiliated with bureaus proper. It also advises [GOSED](/utopia/vekllei/society/government/#standards-vekllei) on changes to its technical, safety and design committees.
+The *Commercial Standards of Vekllei* (COMSTA) regulates Commonwealth standards of small and medium-sized commercial businesses that are otherwise unaffiliated with bureaus proper. It also advises [GOSED](/utopia/vekllei/society/government/#standards-vekllei) on changes to its technical, safety and design committees. It also routinely interfaces with the [ADCA](/utopia/vekllei/society/government/#vekllei-commons-audit-committee) for internal standards compliance.
 
-Since private commerce in Vekllei exists outside of the bureau framework, the license of COMSTA are broader and flexible, and regularly relies upon contracted industry contacts to fill places on its less defined technical committees.
-
+Since private commerce in Vekllei exists outside of the bureau framework, the license of COMSTA is broader and flexible, and regularly relies upon contracted industry contacts to fill places on its less defined technical committees.
 {{</outline>}}
 
 {{<outline>}}
 #### State Assets Directorate
 
-The *State Assets Directorate* (SAD) manages state-owned companies across the Commonwealth, particularly those with considerable international trade. These include several major industrial companies in Vekllei, like General Reactor S.A.
+The *State Assets Directorate* manages state-owned companies across the Commonwealth, particularly those with considerable international trade. These include several major industrial companies in Vekllei, like General Reactor S.A. and International Rocketry S.A.
 {{</outline>}}
 
 {{<outline>}}
 #### Statistics Directorate
 
-The *Statistics Directorate* (STD, also Statistics Vekllei) collects and publishes statistics concerning the economy, country and people of Vekllei. Along with other COSMOCOM directorates, the Statistics Directorate organises research into trends of Vekllei demography and geography. The STD also coordinates the Vekllei Census.
+The *Statistics Directorate* (also Statistics Vekllei) collects and publishes statistics concerning the people, economy and geography of Vekllei. Along with other COSMOCOM directorates, the Statistics Directorate organises research into trends of Vekllei demography and geography. The Statistics Directorate also coordinates the Vekllei Census. Statistics Vekllei also provides broad data collection and publishing services for other Interior and Commonwealth ministries and secretariats. 
 
 ##### Statistics Press of Vekllei
 
-
+The *Statistics Press* is a publishing house responsible for preparing materials relevant to the work of the Statistics Directorate, including printed editions of the Vekllei Census and ministerial reports used in the Commonwealth and Interior Parliaments. It also publishes books commercially for the public.
 {{</outline>}}
 
 {{<outline>}}
 #### Vekllei Electoral Commission
 
-The *Vekllei Electoral Commission* conducts elections, by-elections and referendums in Vekllei. It also maintains the Vekllei Electoral Roll, and designs electorates, apportionments and redistributions in the Home Islands.
+The *Vekllei Electoral Commission* (VEC) conducts elections, by-elections and referendums in Vekllei. It also maintains the Vekllei Electoral Roll, and designs electorates, apportionments and redistributions in the Home Islands.
+
+The Electoral Commission also negotiates the registration of political candidates and their funding through the Public Visibility Scheme, in collaboration with the COSMOCOM head office. In addition, the Commission provides electoral supervisory services to other Commonwealth member-states and, occasionally, monitors foreign elections as an independent auditor as part of the Interior Government's overseas political commitments.
 {{</outline>}}
 {{</section>}}
 
@@ -293,13 +297,15 @@ The *Vekllei Electoral Commission* conducts elections, by-elections and referend
 ### Ministry of Defence 
 {{<boxtag pink>}}COSMOKOS{{</boxtag>}}
 
-The Vekllei *Ministry of Defence* (COSMOKOS) represents the Sovereign Armed Forces of the Vekllei Commonwealth in the Vekllei Government, which are consolidated under the Commonwealth Military Command. COSMOKOS does not exercise command authority over the armed forces of Vekllei, and serves instead as the ministerial liaison between the Commonwealth Military Command and the Interior Government. Common responsibilities of COSMOKOS include:
+The Vekllei *Ministry of Defence* (COSMOKOS) represents the Sovereign Armed Forces of the Vekllei Commonwealth in the Interior Government, which are consolidated under the Commonwealth Military Command. COSMOKOS does not exercise command authority over the armed forces of Vekllei, and serves instead as the ministerial liaison between the Commonwealth Military Command and the Interior Government. Common responsibilities of COSMOKOS include:
 
 * Recruitment of citizens and foreigners into the Commonwealth armed forces.
 * Procuring equipment to meet the Vekllei obligation towards the Commonwealth armed forces.
 * Training citizens and foreigners for the branches of the Commonwealth armed forces.
 * Conducting scientific military research.
 * Policing and security of Vekllei territories and waters.
+
+COSMOKOS also provides security services domestically, and is responsible for most internal police and security organisations in Vekllei.
 
 {{<outline>}}
 #### Armed Forces of Vekllei
@@ -349,9 +355,11 @@ The *Sovereign Liaison* is a specialised office intended to link the [Royal Arme
 {{<outline>}}
 #### Police of the Parliament
 
-The *Police of the Parliament* (VENOPOR) are the national and paramilitary police of Vekllei, responsible for internal security, riot control, counter-terrorism, disaster response, law enforcement and maritime rights protection. The VENOPOR is made up of a variety of organisations dedicated to specialised and tactical forms of policing unavailable to the [Police of the Public](/utopia/vekllei/society/government/#police-of-the-public). As a paramilitary force, the VENOPOR are also trained to support the [Crown Armed Forces](/utopia/vekllei/society/government/#royal-armed-forces-of-vekllei) in wartime, and coordinate broad mobilisation in the event of a defensive war.
+{{< hint >}}
+❖ Read more: *[The Police of the Parliament](/posts/2022-01-11-police/#venopor--the-police-of-the-parliament)*
+{{< /hint >}}
 
-The VENOPOR is 
+The *Police of the Parliament* (VENOPOR) are the national and paramilitary police of Vekllei, responsible for internal security, riot control, counter-terrorism, disaster response, law enforcement and maritime rights protection. The VENOPOR is made up of a variety of organisations dedicated to specialised and tactical forms of policing unavailable to the [Police of the Public](/utopia/vekllei/society/government/#police-of-the-public). As a paramilitary force, the VENOPOR are also trained to support the [Crown Armed Forces](/utopia/vekllei/society/government/#royal-armed-forces-of-vekllei) in wartime, and coordinate broad mobilisation in the event of a defensive war.
 
 ##### Coast Guard of the Parliament Police
 
@@ -376,17 +384,27 @@ The *Customs of Vekllei* (also the *Vekllei Customs* and the *Customs of the Par
 The *Mint Guard* (also *Gold Sappers*) are responsible for the security of financial assets in Vekllei, particularly currency and gold reserves minted and held by the Vekllei National Mint.
 
 ##### Judicial Guard of the Parliament Police
+
+The *Judicial Guard* are responsible for the policing and security of Interior and Commonwealth courts and prisons.
+
 ##### Special Guard of the Parliament Police
+
+The *Special Guard* (also Honour Guard) are a security unit responsible for policing high-value and high-risk targets, particularly the Interior and Commonwealth Parliaments, representatives of the Crown, and sites of particular political or historic importance. They are also responsible for the protection of the Prime Ministers and important persons, as well as foreign dignitaries.
+
 ##### Militia of the Parliament Police
 
 {{</outline>}}
 {{<outline>}}
 #### Police of the Public
+{{< hint >}}
+❖ Read more: *[The Police of the Public](/posts/2022-01-11-police/#cosmopor--the-police-of-the-public)*
+{{< /hint >}}
 
 The *Police of the Public* (COSMOPOR) are the local police in Vekllei, mostly constabulary responsible for local policing. 
 {{</outline>}}
 {{</section>}}
 
+{{<section>}}
 ### Ministry of Foreign Affairs 
 {{<boxtag pink>}}COSMOSEA{{</boxtag>}}
 
@@ -420,9 +438,10 @@ The *World Missions Directorate* is the formal foreign policymaking apparatus of
 * Prepare bulletins from Parliamentary and Secretarial notes on foreign affairs
 * Formulate cohesive positions on events of domestic concern
 * Outline a consistent Commonwealth foreign policy to determine and advise decision-making in future.
-
 {{</outline>}}
+{{</section>}}
 
+{{<section>}}
 ### Ministry of Industry 
 {{<boxtag pink>}}COSMOSEC{{</boxtag>}}
 
@@ -435,7 +454,9 @@ The *World Missions Directorate* is the formal foreign policymaking apparatus of
 ##### Workplace Safety Commission
 ##### Labour Democracy Commission
 {{</outline>}}
+{{</section>}}
 
+{{<section>}}
 ### Ministry of Infrastructure 
 {{<boxtag pink>}}COSMOTRAN{{</boxtag>}}
 
@@ -454,7 +475,9 @@ The *Vekllei Housing Commission* is a
 {{<outline>}}
 ##### Crown Lands Protectorate
 {{</outline>}}
+{{</section>}}
 
+{{<section>}}
 ### Ministry of Landscape 
 {{<boxtag pink>}}COSMOGOS{{</boxtag>}}
 
@@ -470,7 +493,9 @@ The *Vekllei Housing Commission* is a
 ##### Commercial Standards of Vekllei
 
 {{</outline>}}
+{{</section>}}
 
+{{<section>}}
 ### Ministry of Light and Water 
 {{<boxtag pink>}}COSMOLA{{</boxtag>}}
 
@@ -504,7 +529,9 @@ The *Vekllei Electric Commission* (Hydroburo)
 The *Emergency Light and Water Authority* (EVA) is a specialised department of the Ministry of Light and Water designed to mitigate interruption to electricity and water supply. Its mandate includes the security of utility infrastructure and disaster preparation. In the event of major interruption to the utilities supervised by the Ministry, the EVA would assume direct control of the Hydro and Thunderburos and coordinate their recovery. Threats include both natural disasters like volcanic eruptions and earthquakes, as well as damage from conventional or nuclear war.
 
 {{</outline>}}
+{{</section>}}
 
+{{<section>}}
 ### Ministry of Transport 
 {{<boxtag pink>}}COSMOPOS{{</boxtag>}}
 
@@ -529,7 +556,9 @@ The Vekllei National Rail Bureau is the parent bureau for all rail transport in 
 {{<outline>}}
 #### National Transport Laboratories
 {{</outline>}}
+{{</section>}}
 
+{{<section>}}
 ### Ministry of Syndicates and Chapels 
 {{<boxtag pink>}}COSMOLAB{{</boxtag>}}
 
@@ -539,6 +568,7 @@ The Vekllei National Rail Bureau is the parent bureau for all rail transport in 
 {{<outline>}}
 #### Office of the Chapel-General
 {{</outline>}}
+{{</section>}}
 
 ---
 

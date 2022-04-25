@@ -11,7 +11,7 @@
   background: var(--gray-100);
   padding: 0;
   border-radius: 5px;
-  transition: box-shadow .3s;
+  transition: ease 0.25s;
   position: relative;
   border: 6px solid var(--gray-100);
 }
@@ -62,6 +62,7 @@
 
 .card:hover {
   box-shadow: 0 0 5px rgba(33, 33, 33, .2);
+  transform: translate(0, -5px);
 }
 
 .item {
