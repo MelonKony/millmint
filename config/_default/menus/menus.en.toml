@@ -78,19 +78,19 @@
     name = "About"
     url = "/newsdesk/about"
     parent = "newsdesk"
-    weight = 1
+    weight = 2
   [[navbar]]
     identifier = "bulletin"
     name = "Bulletin"
     url = "/newsdesk/bulletin"
     parent = "newsdesk"
-    weight = 2
+    weight = 3
   [[navbar]]
     identifier = "essays"
     name = "Essays"
     url = "/newsdesk/essays"
     parent = "newsdesk"
-    weight = 3
+    weight = 4
     [[navbar]]
       identifier = "ghibli"
       name = "A Universal Nostalgia"

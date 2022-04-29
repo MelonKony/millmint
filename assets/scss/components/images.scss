@@ -1,0 +1,45 @@
+/* rounded images */
+img {
+	border-radius: 5px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	visibility: hidden;
+	display: block;
+}
+
+/* image styles */
+article img[alt~="smallimg"] {
+	margin-bottom: 1rem;
+	width: 50%;
+	min-width: 300px;
+	padding: 1rem;
+	border-radius: 5px;
+}
+
+@media (min-width: 655px) {
+  article img[alt~="img"] {
+	width: 140%;
+	max-width: 140%;
+	margin-left: -20%;
+	margin-right: -20%;
+	padding: 1rem;
+	background-color: $gray-100;
+  }
+}
+
+/* image fade in (fade.js) */
+.fadeIn {
+  -webkit-animation: animat_show 0.8s;
+  animation: animat_show 0.8s;
+  visibility: visible !important;
+}
+
+@-webkit-keyframes animat_show {
+  0% {
+	opacity: 0
+  }
+
+  100% {
+	opacity: 1
+  }
+}

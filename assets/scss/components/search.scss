@@ -1,0 +1,123 @@
+@mixin spin($duration) {
+  animation: spin $duration ease infinite;
+  @keyframes spin {
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+}
+
+@mixin fixed {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+@mixin outline {
+  outline-style: auto;
+  outline-color: currentColor;
+  outline-color: -webkit-focus-ring-color;
+}
+
+.search {
+  position: relative;
+  margin: 16px 0;
+  border-bottom: 1px solid transparent;
+
+  input {
+    width: 100%;
+    height: 35px;
+    padding: 2px;
+
+    border: 1px solid $gray-200;
+    border-radius: 5px;
+
+    background: var(--gray-100);
+    color: $gray;
+
+    &:required + .search-spinner {
+      display: block;
+    }
+  }
+
+  .search-spinner {
+    position: absolute;
+    top: 0;
+    margin: 8px;
+    margin-inline-start: calc(100% - #{16px + 8px});
+
+    width: 16px;
+    height: 16px;
+
+    border: 1px solid transparent;
+    border-top-color: var(--body-font-color);
+    border-radius: 50%;
+
+    @include spin(1s);
+  }
+}
+
+.noSelect {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.noSelect:focus {
+  outline: none !important;
+}
+
+#search-results {
+  margin-top: 0.25rem;
+  position: absolute;
+  background-color: $background;
+  z-index: 11;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  --tw-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+    0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
+    var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  max-width: 100%;
+  border-radius: 5px;
+  padding-inline-start: 0;
+}
+
+.search ul li {
+  font-size: 16px;
+  line-height: 1.4rem;
+  padding: 0.25rem 1rem 0.25rem 1rem;
+}
+
+.search ul {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.search .found:not(:empty) {
+  display: block;
+  padding: 3px;
+  padding-left: 8px;
+  border-left: 1px solid #000;
+  opacity: 0.5;
+  font-size: 80%;
+}
+
+.search mark {
+  background: #9cb8b8;
+}
+
+.search small {
+  opacity: 0.5;
+  display: block;
+}
+
+.search ul li {
+  list-style: none;
+}

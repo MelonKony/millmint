@@ -1,0 +1,205 @@
+html, button, input, select, textarea,
+.pure-g [class *= "pure-u"] {
+  font-family: system-ui,-apple-system,segoe ui,Roboto,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji;
+}
+
+code, kbd, pre {
+  font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace;
+}
+
+main {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1.5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @include font-bold;
+}
+
+h1 {
+  @include text-3xl;
+}
+
+h2 {
+  @include text-2xl;
+}
+
+h3 {
+  @include text-xl;
+}
+
+h4 {
+  @include text-lg;
+}
+
+h5 {
+  @include text-lg;
+}
+
+h6 {
+  @include text-sm;
+}
+
+article h1, article h2, article h3, article h4, article h5, article h6 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+}
+
+figure {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+input {
+  background-color: var(--color-background);
+  color: var(--color-text);
+  border: none;
+}
+
+mark {
+  background-color: var(--color-background-mark);
+}
+
+details > summary {
+  cursor: auto;
+}
+
+details[open] > summary {
+  cursor: auto;
+}
+
+/* drop cap */
+.fc {
+  font-size: 84px;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: -.015em;
+  float: left;
+  margin-right: 8px;
+  line-height: .89286;
+}
+
+.content-margin {
+  @include my-8;
+}
+
+.hidden {
+  display: none;
+}
+
+@media screen and (min-width: $sm_min_width) {
+  main {
+    width: $sm_main_width;
+  }
+}
+
+@media screen and (min-width: $md_min_width) {
+  main {
+    width: $md_main_width;
+  }
+}
+
+@media screen and (min-width: $lg_min_width) {
+  main {
+    width: $lg_main_width;
+  }
+}
+
+@media screen and (min-width: $xl_min_width) {
+  main {
+    width: $xxl_main_width;
+  }
+}
+
+@media screen and (min-width: $xxl_main_width) {
+  main {
+    width: $xxl_main_width;
+  }
+}
+
+.collapsible-menu-wrapper details {
+  padding: 0!important;
+  padding-left:0.5rem!important;
+}
+
+.collapsible-menu-wrapper details summary::-webkit-details-marker {
+  float: right;
+  margin-top: 8px;
+}
+
+::placeholder {
+  font-size: 14px;
+  color: var(--color-gray);
+}
+
+/* details dropdown */
+
+details summary {
+  font-weight: bolder;
+}
+
+details {
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border: 0px solid var(--gray-200);
+    border-radius: .25rem;
+    background-color: var(--gray-100);
+    color: var(--color-gray);
+    outline: none;
+}
+
+// Re-theming the navbar
+#navbar a {
+  color: var(--color-gray);
+}
+
+#navbar .flex svg path:not([fill]) {
+  fill: var(--color-gray);
+}
+
+body header .navbar-item-dropdown.insection, body header nav .navbar-item.insection {
+  border-color: var(--color-gray);
+}
+
+input {
+  padding: 5px!important;
+  padding-left: .5rem!important;
+  font-size: 14px;
+  border: 0!important;
+}
+
+a, body article a {
+  color: var(--color-gray);
+}
+
+article {
+  margin-bottom: 1rem!important;
+}
+
+/* buttons */
+a.book-btn {
+  display: inline-block;
+  font-size: .875rem;
+  border: 1px solid var(--color-gray);
+  text-align: center;
+  padding: 0 1rem;
+  border-radius: .25rem;
+  margin-top: 1rem;
+  width: 100%;
+  line-height: 2rem;
+  cursor: pointer;
+  text-decoration: none;
+  text-align: center;
+  position: relative;
+  box-sizing: border-box;
+  font-weight: 600;
+  border: 1px solid var(--color-gray);
+  min-width: 280px;
+  width: 100%;
+  border-radius: .25rem;
+  color: var(--color-gray);
+}

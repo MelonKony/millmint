@@ -1,0 +1,114 @@
+article blockquote h4 {
+	margin-top: 0;
+}
+
+article hr {
+	margin-top: 1.5rem;
+	margin-bottom: 1.5rem;
+	border-top: 1px dotted $gray;
+	color: #fff;
+	background-color: $background;
+	height: 1px;
+}
+
+body article blockquote {
+  border-inline-start: .25rem solid var(--color-gray);
+  color: var(--color-gray);
+  font-style: italic;
+  border-radius: .25rem;
+}
+
+.hint {
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	color: var(--body-font-color);
+	background-color: var(--gray-100);
+	border-inline-start: none;
+	font-size: 16px;
+	line-height: 1.4;
+	letter-spacing: -.01em;
+	border-radius: 5px;
+	padding: .5rem;
+	font-style: normal;
+}
+
+.hint blockquote {
+	margin: 1rem 0;
+	padding: .5rem 1rem .5rem .75rem;
+	border-inline-start: none;
+	border-radius: .25rem;
+}
+
+.hint.panel {
+	border-color: var(--gray-100);
+	color: $gray;
+	font-size: 16px;
+	line-height: 1.6;
+	font-weight: 400;
+	letter-spacing: 0em;
+	padding: 1rem;
+}
+
+ .hint.blue, .article-blue .hint[class="hint "] {
+	border-color: var(--color-blue);
+	background-color: rgba(0,112,245,.1);
+}
+
+ .hint.green, .article-green .hint[class="hint "] {
+	border-color: var(--color-green);
+	background-color: rgba(30,195,55,.1);
+}
+
+ .hint.orange, .article-orange .hint[class="hint "] {
+	border-color: var(--color-orange);
+	background-color: rgba(245,139,0,.1);
+}
+
+ .hint.mail, .article-mail .hint[class="hint "] {
+	border-color: #BA1D37;
+	background-color: rgba(186, 29, 55,.1);
+}
+
+ .hint.vnr, .article-vnr .hint[class="hint "] {
+	border-color: #FF564F;
+	background-color: rgba(255, 86, 79,.1);
+}
+
+ .hint.yellow, .article-yellow .hint[class="hint "] {
+	border-color: var(--color-yellow);
+	background-color: rgba(245,194,0,.1);
+}
+
+ .hint.pink, .article-pink .hint[class="hint "] {
+	border-color: $pink;
+	background-color: rgba(245,35,75,.1);
+}
+ .hint.purple, .article-purple .hint[class="hint "] {
+	border-color: var(--color-purple);
+	background-color: rgba(159,75,201,.1);
+}
+
+ .hint.red, .article-red .hint[class="hint "] {
+	border-color: var(--color-red);
+	background-color: rgba(245,49,38,.1);
+}
+
+ .hint.indigo, .article-indigo .hint[class="hint "] {
+	border-color: var(--color-indigo);
+	background-color: rgba(132,64,241,.1);
+}
+
+.hint.caption {
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 0.5rem;
+	margin-top: -0.5rem;
+	color: var(--color-gray);
+	background-color: transparent;
+	border-inline-start: .0rem solid var(--body-background);
+	font-size: 12px;
+	line-height: 1.33337;
+	font-weight: 600;
+	letter-spacing: -.01em;
+	text-align: center;
+}

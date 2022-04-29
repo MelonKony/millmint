@@ -1,0 +1,42 @@
+.postcard-layout {
+  a {
+    color: var(--color-text);
+  }
+
+  .postcard-item {
+    padding: 1rem;
+    background-color: var(--color-background-card);
+    margin: 2rem 0;
+    box-sizing: border-box;
+    background: $gray-100;
+    padding: 0;
+    border-radius: 5px;
+    transition: ease 0.25s;
+    position: relative;
+    border: 6px solid $gray-100;
+
+    &:hover {
+      box-shadow: 0 0 5px rgba(33, 33, 33, .2);
+      transform: translate(0, -5px);
+    }
+
+    .postcard-title {
+      @include text-xl;
+      @include font-bold;
+    }
+  
+    .postcard-summary {
+      @include text-xs;
+      color: var(--color-text-secondary);
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      margin: .5rem 0;
+    }
+
+    .postcard-metadata {
+      @include text-xs;
+      color: var(--color-text-secondary);
+    }
+  }
+}

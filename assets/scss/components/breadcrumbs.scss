@@ -1,0 +1,82 @@
+.breadcrumbs {
+  @include font-bold;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
+  a {
+    color: var(--color-text);
+    border-bottom: 2px solid transparent;
+
+    &:hover {
+      border-bottom-color: var(--color-text-secondary);
+    }
+  }
+
+  li {
+    display: inline;
+  }
+}
+
+/* breadcrumbss */
+
+/* Style the list */
+.breadcrumbs {
+  padding: 0.25rem 1rem 0.25rem 0.75rem;
+  border-radius: 0.25rem;
+  margin-top: 0rem;
+  list-style: none;
+  background-color: var(--gray-100);
+  width: 100%;
+}
+
+/* Display list items side by side */
+.breadcrumbs li {
+  display: inline;
+  margin-top: 0.5rem;
+  margin-left: 0;
+  margin-right: 0;
+  color: var(--color-gray);
+  font-size: 15px;
+  line-height: 1.4;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  text-align: center;
+}
+
+.breadcrumbs .home {
+  display: inline;
+  margin-top: 0.5rem;
+  margin-left: 0;
+  margin-right: 0;
+  color: var(--color-gray);
+  font-size: 15px;
+  line-height: 1.4;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  text-align: center;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+.breadcrumbs li + li:before {
+  padding: 8px;
+  color: var(--font-color);
+  content: "›";
+}
+
+/* Add a color to all links inside the list */
+.breadcrumbs li a {
+  text-decoration: none;
+  color: var(--color-gray);
+}
+
+.breadcrumbs li a:visited {
+  color: var(--color-gray);
+}
+
+/* Add a color on mouse-over */
+.breadcrumbs a:hover {
+  text-decoration: none;
+  color: var(--color-gray);
+  filter: brightness(85%);
+}

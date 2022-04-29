@@ -1,7 +1,7 @@
 baseURL = "https://millmint.net"
 languageCode = "en"
 title = "MillMint"
-theme = "monochrome-v9.2"
+theme = "monochrome-v1.01"
 defaultContentLanguage = "en"
 enableEmoji = true
 

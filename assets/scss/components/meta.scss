@@ -1,0 +1,31 @@
+.post-meta {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-rows: 1fr;
+  gap: 0px 0px;
+  grid-auto-flow: row dense;
+  grid-template-areas:
+	"date posttag";
+}
+
+.post-tag {
+  justify-self: end;
+  align-self: center;
+  grid-area: posttag;
+  font-size: 14px;
+	color: var(--color-gray);
+  margin-top: -1.5rem;
+	margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+.date {
+  justify-self: start;
+  align-self: center;
+  grid-area: date;
+  font-size: 14px;
+	color: var(--color-gray);
+  margin-top: -1.5rem;
+	margin-bottom: 1rem;
+  font-weight: 500;
+}

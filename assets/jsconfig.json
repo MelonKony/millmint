@@ -1,0 +1,10 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "../themes/monochrome-v1.01/assets/*"
+   ]
+  }
+ }
+}

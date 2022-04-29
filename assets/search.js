@@ -14,8 +14,8 @@
     }
   });
 
-  const input = document.querySelector('#book-search-input');
-  const results = document.querySelector('#book-search-results');
+  const input = document.querySelector('#search-input');
+  const results = document.querySelector('#search-results');
 
   if (!input) {
     return

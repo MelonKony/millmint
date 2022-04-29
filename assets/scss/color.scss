@@ -1,0 +1,166 @@
+$gray-0: #fff;
+$gray-50: #f7f7f7;
+$gray-100: #fafafa;
+$gray-150: #ededed;
+$gray-200: #e5e5e5;
+$gray-250: #dddddd;
+$gray-300: #d4d4d4;
+$gray-350: #bcbcbc;
+$gray-400: #a3a3a3;
+$gray-450: #8b8b8b;
+$gray-500: #737373;
+$gray-550: #636363;
+$gray-600: #525252;
+$gray-650: #494949;
+$gray-700: #404040;
+$gray-750: #333333;
+$gray-800: #262626;
+$gray-850: #1f1f1f;
+$gray-900: #171717;
+$gray-1000: #000;
+
+$background: #ffffff;
+$font-color: #171717;
+$font-color-dark: #f3f3f3;
+$font-light: #666666;
+$link: #06c;
+$link-visited: #1a0dab;
+
+$blue: rgb(0, 112, 245);
+$brown: rgb(152, 122, 84);
+$gray: rgb(132, 132, 137);
+$green: rgb(30, 195, 55);
+$indigo: rgb(84, 82, 204);
+$orange: rgb(245, 139, 0);
+$pink: rgb(245, 35, 75);
+$purple: rgb(159, 75, 201);
+$red: rgb(245, 49, 38);
+$teal: rgb(90, 200, 250);
+$yellow: rgb(245, 194, 0);
+
+:root {
+  --gray-100: #fafafa;
+  --gray-200: #{$gray-200};
+  --body-background: #{$background};
+  --body-font-color: #{$font-color};
+  
+  --color-link: #{$link};
+  --color-visited-link: #{$link-visited};
+  --color-blue: #{$blue};
+  --color-brown: #{$brown};
+  --color-gray: #{$gray};
+  --color-green: #{$green};
+  --color-indigo: #{$indigo};
+  --color-orange: #{$orange};
+  --color-pink: #{$pink};
+  --color-purple: #{$purple};
+  --color-red: #{$red};
+  --color-teal: #{$teal};
+  --color-yellow: #{$yellow};
+}
+
+html[data-theme="light"] {
+
+  --color-text: #{$font-color};
+  --color-text-secondary: #{$gray-500};
+  --color-text-footer: #{$gray-500};
+  --color-border: #{$gray-300};
+  --color-border-collapsible-menu: #{$gray-200};
+  --color-background: #{$background};
+  --color-background-hover: #{$gray-50};
+  --color-background-overlay: #{$gray-150};
+  --color-background-inline-code: #{$gray-100};
+  --color-background-card: #{$gray-0};
+  --color-background-mark: #fff1a7;
+  --color-link: #2563eb;
+  --color-navbar-item-inactive: #{$gray-400};
+  --color-navbar-item-active: #{$gray-600};
+  --color-navbar-item-in-section: #{$gray-600};
+}
+
+html[data-theme="dark"] {
+  --color-text: #{$gray-150};
+  --color-text-secondary: #{$gray-450};
+  --color-text-footer: #{$gray-400};
+  --color-border: #{$gray-500};
+  --color-border-collapsible-menu: #{$gray-550};
+  --color-background: #{$gray-750};
+  --color-background-hover: #{$gray-600};
+  --color-background-overlay: #{$gray-700};
+  --color-background-inline-code: #{$gray-600};
+  --color-background-card: #{$gray-700};
+  --color-background-mark: #fff1a7;
+  --color-link: #93c5fd;
+  --color-navbar-item-inactive: #{$gray-400};
+  --color-navbar-item-active: #{$gray-100};
+  --color-navbar-item-in-section: #{$gray-250};
+}
+
+// Default color settings
+
+html {
+  color: var(--color-text);
+  background: var(--color-background);
+  font-size: 16px;
+  line-height: 1.67059;
+}
+
+a {
+  color: var(--color-link);
+  text-decoration: none;
+}
+
+/* colors */
+.blue,
+.article-blue a {
+  color: $blue;
+}
+.brown,
+.article-brown a {
+  color: $brown;
+}
+.gray,
+.article-gray a {
+  color: $gray;
+}
+.green,
+.article-green a {
+  color: $green;
+}
+.indigo,
+.article-indigo a {
+  color: $indigo;
+}
+.orange,
+.article-orange a {
+  color: $orange;
+}
+.mail,
+.article-mail a {
+  color: #ba1d37;
+}
+.vnr,
+.article-vnr a {
+  color: #ff564f;
+}
+.pink,
+.article-pink a {
+  color: $pink;
+  outline-color: rgba(245, 35, 75, 0.25);
+}
+.purple,
+.article-purple a {
+  color: $purple;
+}
+.red,
+.article-red a {
+  color: $red;
+}
+.teal,
+.article-teal a {
+  color: $teal;
+}
+.yellow,
+.article-yellow a {
+  color: $yellow;
+}

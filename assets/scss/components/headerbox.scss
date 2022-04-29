@@ -1,0 +1,84 @@
+.headerbox {
+  display: grid;
+  grid-template-columns: 1.5fr .5fr;
+  grid-template-rows: 50% 25% 25%;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+	"title emoji"
+	"tag emoji"
+	"sitetag emoji";
+}
+
+.title {
+	grid-area: title;
+	margin-top: 0px;
+	margin-bottom: 1rem;
+	line-height: 1.2;
+}
+
+.emoji {
+	grid-area: emoji;
+	font-family: 'Whirlybats';
+	font-weight: normal;
+	font-style: normal;
+	font-feature-settings: 'liga';
+	text-align: right;
+	display: inline-block;
+	white-space: nowrap;
+	word-wrap: normal;
+	margin-right: 55px;
+	margin-left: 55px;
+	letter-spacing: -65px;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	-moz-osx-font-smoothing: grayscale;
+	float: right;
+	font-size: 65px;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+
+.icon {
+	font-family: 'Whirlybats';
+	font-weight: normal;
+	font-style: normal;
+	font-feature-settings: 'liga';
+	display: inline-block;
+	white-space: nowrap;
+	word-wrap: normal;
+	margin-right: 65px;
+	margin-left: 65px;
+	letter-spacing: -65px;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+#headerbox .emoji {
+	font-family: 'Whirlybats';
+	font-weight: normal;
+	font-style: normal;
+	font-feature-settings: 'liga';
+	display: inline-block;
+	white-space: nowrap;
+	word-wrap: normal;
+	margin-right: 55px;
+	margin-left: 55px;
+	letter-spacing: -65px;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	-moz-osx-font-smoothing: grayscale;
+	float: right;
+	font-size: 65px;
+}
+
+@keyframes whirlyAnimate {
+	0%   { font-variation-settings: "anim" 100; }
+	100% { font-variation-settings: "anim" 200; }
+}
+
+#whirlybat {
+	animation: whirlyAnimate 2s linear infinite;
+}

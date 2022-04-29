@@ -1,0 +1,93 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 0 0 0;
+
+  .brand {
+    display: flex;
+    align-items: center;
+
+     a {
+      @include text-3xl;
+      @include font-bold;
+    }
+
+    #sidebar_btn {
+      display: flex;
+      margin-right: 0.5rem;
+      display: none;
+
+      @media screen and (min-width: $md_min_width) {
+        display: none;
+      }
+    }
+  }
+
+  .toolbox {
+    display: flex;
+    align-items: center;
+    column-gap: 0.5rem;
+
+    .toolbox-btn {
+      display: flex;
+      cursor: pointer;
+
+      &:hover {
+        color: var(--color-text-secondary);
+      }
+    }
+
+    .dropdown-wrapper {
+      .dropdown-btn.pure-menu-link {
+        color: unset;
+      }
+
+      .dropdown-btn {
+        display: flex;
+        align-items: center;
+        padding: 0;
+
+        &:hover {
+          background-color: unset;
+        }
+
+        &::after {
+          content: "";
+          padding: 0;
+        }
+
+        .dropdown-desc {
+          @include text-sm;
+          margin-left: 0.35rem;
+        }
+      }
+    }
+  }
+}
+
+article > *:first-child {
+  margin-top: 0.5rem;
+}
+
+body > canvas:not(#HeaderCanvas) {
+  /*Hide annoying Vibrant canvas*/
+  display: none;
+}
+
+/* fix menu dropdown bg colour */
+body header #navbar .navbar-dropdown li {
+  background-color: var(--body-background);
+}
+
+body header #navbar .navbar-dropdown li:hover {
+  background-color: var(--body-background);
+  filter: brightness(98%);
+}
+.xl\:text-2xl {
+  filter: brightness(25%) !important;
+}
+/* hide menu button */
+header .menu-btn {
+  display: none;
+}

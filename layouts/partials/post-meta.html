@@ -1,12 +1,10 @@
-<div>
-  {{ with .Params.image }}
-    <div style="text-align: center;"><img style="
-      object-fit: contain;
-      height:auto;
-      min-height:100%;
-      margin-top: 1rem;
-      border-radius: 5px;
-      background-color: transparent;"
-      src={{ . | relURL }} /></div>
-  {{ end }}
-</div>
+{{ with .Params.image }}
+  <div style="text-align: center;"><img style="
+    object-fit: contain;
+    height:auto;
+    min-height:100%;
+    margin-top: 1rem;
+    border-radius: 5px;
+    background-color: transparent;"
+    src={{ . | relURL }} /></div>
+{{ end }}

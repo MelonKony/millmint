@@ -1,16 +1,22 @@
 <div class="article-{{ .Params.Color }}">
-{{ $enableLineNo := and (.Scratch.Get "params").usePrismJS (.Scratch.Get "params").enablePrismJSLineNo }}
+{{ $enable_line_no := (.Scratch.Get "params").syntax_highlight.prism.enable_line_no | default true }}
+
 <!--<div style="padding: 10px; border: 5px solid red;">-->
   <div>
     {{ partial "page-meta" . }}
-    <!--<div style="font-size: 14px; text-align: right; color: var(--color-gray)">{{ partial "reading-time.html" . }}</div>-->
     {{ partial "post-meta" . }}
+    <!--<div style="font-size: 14px; float: right; text-align: right; color: var(--color-gray)">{{ partial "reading-time.html" . }}</div>-->
   </div>
   <div>
     {{ partial "toc.html" . }}
   </div>
-<!--</div>-->
-<article {{ if $enableLineNo }}class="line-numbers"{{ end }}>
-    {{ .Content | safeHTML }}
-</article>
+
+  <article {{ if $enable_line_no }}class="line-numbers"{{ end }}>
+      {{ $content := .Content | replaceRE "<table>" "<table class=\"mc-table\">" }}
+      {{ if eq (.Scratch.Get "params").syntax_highlight.lib "prism.js" }}
+          {{ $content = $content | replaceRE "<pre>" "<pre class=\"language-text\">" }}
+          {{ $content = $content | replaceRE "<pre([^>]*)class=\"([^>]*)\"([^>]*)>" "<pre$1 class=\"mc-prism hide $2\" $3>" }}
+      {{ end }}
+      {{ $content | safeHTML }}
+  </article>
 </div>

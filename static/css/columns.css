@@ -1,0 +1,15 @@
+/* columns */
+.columns>div {
+  margin: 1rem 0;
+  min-width: 250px;
+  margin-right: 0rem;
+  margin-top: 0px;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.flex-even {
+  flex: 1 1;
+}

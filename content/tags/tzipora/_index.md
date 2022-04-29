@@ -1,3 +1,4 @@
 ---
 title: Tzipora
+pagination: true
 ---
