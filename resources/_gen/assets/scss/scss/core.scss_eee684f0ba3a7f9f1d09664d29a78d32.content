@@ -1248,6 +1248,8 @@ https://github.com/pure-css/pure/blob/master/LICENSE
     color: var(--color-navbar-item-active); }
 
 #navbar {
+  display: flex;
+  flex-wrap: wrap;
   margin: 0 0 1rem 0; }
   @media screen and (max-width: 48rem) {
     #navbar {
@@ -1255,7 +1257,9 @@ https://github.com/pure-css/pure/blob/master/LICENSE
       margin-top: 0;
       margin-bottom: 0; } }
   #navbar > ul.pure-menu-list {
-    display: flex; }
+    display: flex;
+    align-items: center;
+    flex: 1; }
     #navbar > ul.pure-menu-list .navbar-dropdown > a.pure-menu-link:after {
       content: "▾"; }
     #navbar > ul.pure-menu-list .navbar-dropdown > ul.pure-menu-children {
@@ -1276,6 +1280,8 @@ https://github.com/pure-css/pure/blob/master/LICENSE
         border-bottom-color: var(--body-font-color); }
         #navbar > ul.pure-menu-list .navbar-item:hover > a {
           color: var(--color-navbar-item-active); }
+    #navbar > ul.pure-menu-list .right {
+      margin-left: auto; }
     #navbar > ul.pure-menu-list .navbar-item.active {
       border-bottom-color: var(--color-navbar-item-active); }
       #navbar > ul.pure-menu-list .navbar-item.active > a {
@@ -2185,7 +2191,7 @@ article img[alt~="smallimg"] {
   display: block; }
 
 .outline h1, h2, h3, h4, h5, h6 {
-  margin-top: .5rem; }
+  margin-top: 0.5rem !important; }
 
 .outline li strong {
   font-weight: 600; }

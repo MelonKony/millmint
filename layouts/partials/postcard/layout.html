@@ -5,6 +5,9 @@
     {{ range ($ctx.Paginator).Pages }}
         <a href="{{ .Permalink }}">
             <div class="postcard-item">
+                {{ if .Params.rgb }}
+                <div data-card-color="{{ .Params.rgb }}" style="display: none"></div>
+                {{ end }}
                 <div class="postcard-title">
                     <span>{{ .Title }}</span>
                 </div>
@@ -13,6 +16,18 @@
                 </div>
                 <div class="postcard-metadata">
                     <span>{{ .Date.Format "2006/01/02" }} · {{ template "breadcrumbtext" (dict "p1" .Page.Parent) }}</span>
+                </div>
+                <div>
+                    {{ with .Params.image }}
+                      <div style="text-align: center;"><img style="
+                        object-fit: contain;
+                        height:auto;
+                        min-height:100%;
+                        margin-top: 1rem;
+                        border-radius: 5px;
+                        background-color: transparent;"
+                        src={{ . | relURL }} /></div>
+                    {{ end }}
                 </div>
             </div>
         </a>

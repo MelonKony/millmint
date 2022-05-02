@@ -1,4 +1,6 @@
 #navbar {
+  display: flex;
+  flex-wrap: wrap;
   margin: 0 0 1rem 0;
 
   @media screen and (max-width: $md_min_width) {
@@ -9,6 +11,8 @@
 
   > ul.pure-menu-list {
     display: flex;
+    align-items: center;
+    flex: 1;
 
     .navbar-dropdown {
       > a.pure-menu-link:after {
@@ -44,6 +48,10 @@
           color: var(--color-navbar-item-active);
         }
       }
+    }
+    
+    .right {
+      margin-left: auto;
     }
 
     .navbar-item.active {

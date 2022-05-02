@@ -62,22 +62,13 @@ In this state of affairs, Vekllei can refer to the powerful member-state in the 
 **Since most Vekllei people** catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated "companies" in Vekllei.
 {{< /hint >}}
 
-The Government of Vekllei is made up of Ministries, Offices, Departments, Bureaus, Commissions, Directorates and Secretariats depending on the size, purpose and organisation of the organ. This is the government that people living in the Vekllei Home Islands vote for, via the nonpartisan representatives system.
+The Government of Vekllei is divided between two parliaments -- the [**Interior Parliament**](/utopia/vekllei/society/government/#parliament-of-the-interior), and the [**Commonwealth Parliament**](/utopia/vekllei/society/government/#parliament-of-the-commonwealth). Neither is particularly subordinate to the other, and they serve different purposes in the lives of Vekllei people. 
 
-## Administration of the Interior
+In general, the Interior Parliament is responsible for the standard of living in the Vekllei Home Islands and dependent autonomous regions like Demon and the Aismious islands. The Commonwealth Parliament is responsible for all features of the transnational Commonwealth superstate, standardising governance and state services while advocating for 'Floral Society' under the Floral Constitution.
 
-<div class="row">
-<div class="column">
-<img src="https://millmint.imgix.net/images/mastheads/flags/vekllei-international.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
-</div>
-<div class="column">
-<img src="https://millmint.imgix.net/images/mastheads/flags/vekllei-domestic.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
-</div>
-</div>
+Together, these two parliaments make up the combined Government of Vekllei. It is made up of Ministries, Offices, Departments, Bureaus, Commissions, Directorates and Secretariats depending on the size, purpose and structure of the state body. This is the government that people living in the Vekllei Home Islands vote for, via the nonpartisan representatives system.
 
-{{<hint caption>}}
-Vekllei's International and Domestic Standards
-{{</hint>}}
+## Parliament of the Interior
 
 The *Administration of the Interior of the Government of Vekllei* (also known as the *Interior Government* or *Interior Parliament*) represents the human state of the Vekllei Home Islands, as well as its dependent possessions. It includes all 100 [boroughs](/utopia/vekllei/landscape/boroughs/) of the Home Islands and its peripheral island possessions. Independent Commonwealth member-states Demon and Aismious lack the population to govern themselves independently, and so are dependent on the Interior Government. Other members of the Commonwealth, including Kalina, Kala and Mira, have parliaments (also called Interior Administrations) similar to the Vekllei Administration of the Interior.
 
@@ -214,7 +205,7 @@ The *Vekllei Inspectorate* surveys and audits technical standards in business, r
 
 The Inspectorate acts an appeals board for civil breaches of VAD technical standards. It includes the following groups.
 
-* **Survey and Testing Group**: Superior investigative outfit designed to document breaches of technical standards.
+* **Survey and Testing Group**: Superior investigative outfit designed to investigate breaches of technical standards.
 * **Industrial and Laboratory Safety Group**: Specialised health and safety compliance investigation.
 * **Legal Group**: Legal advisory office for prosecuting domestic breaches and preparing reports for Commonwealth prosecution.
 
@@ -381,7 +372,7 @@ The *Customs of Vekllei* (also the *Vekllei Customs* and the *Customs of the Par
 ❖ Read more: *[Gold Sappers](/posts/2021-04-09-sappers/)*
 {{< /hint >}}
 
-The *Mint Guard* (also *Gold Sappers*) are responsible for the security of financial assets in Vekllei, particularly currency and gold reserves minted and held by the Vekllei National Mint.
+The *Mint Guard* (also *Gold Sappers*) are responsible for the security of financial assets in Vekllei, particularly currency and gold reserves minted and held by the Vekllei National Mint. In addition to providing security for Mint sites and infrastructure, the Mint Guard also escorts the transfer of Vekllei currency and gold internationally.
 
 ##### Judicial Guard of the Parliament Police
 
@@ -570,9 +561,7 @@ The Vekllei National Rail Bureau is the parent bureau for all rail transport in 
 {{</outline>}}
 {{</section>}}
 
----
-
-## Administration of the Commonwealth
+## Parliament of the Commonwealth
 
 <div class="row">
 <div class="column">
@@ -597,6 +586,7 @@ The Vekllei National Rail Bureau is the parent bureau for all rail transport in 
 
 Although each member of the Atlantic Commonwealth is considered a full participant of equal importance, administration in practice occurs in the Vekllei [Home Islands](/utopia/vekllei/), its most populous and industrious member state. Many features of Floral Society are universal among Commonwealth members, and the Administration of the Commonwealth serves, maintains and standardises the values of Floral Society across the Atlantic.
 
+{{<section>}}
 ### Commonwealth Culture Secretariat 
 {{<boxtag pink>}}COLSEC{{</boxtag>}}
 
@@ -641,6 +631,7 @@ The COLSEC Overseas Affairs Office (COLSESEA) coordinates the foreign offices of
 {{<outline>}}
 #### Commonwealth Tourism Directorate
 {{</outline>}}
+{{</section>}}
 
 {{<section>}}
 ### Commonwealth Security Secretariat 
@@ -741,6 +732,7 @@ The *Special Protectorate Bureau* at *National Intelligence* (SP/NI) reports inf
 {{</outline>}}
 {{</section>}}
 
+{{<section>}}
 ### Commonwealth Education Secretariat 
 {{<boxtag pink>}}CHICOM{{</boxtag>}}
 
@@ -748,7 +740,7 @@ The *Commonwealth Education Secretariat* (CHICOM) is the commonwealth body respo
 
 The stated mission of CHICOM is the celebration of knowledge and the development of technical skills.
 
-CHICOM also overseas Vekllei's four learned societies, called academies, which offer immortal membership to remarkable contributors to learning in Vekllei. The Academies of the Commonwealth are funded by a bureau tithe, mandated but otherwise seperate from Commonwealth government apparatuses.
+CHICOM also oversees Vekllei's four learned societies, called academies, which offer immortal membership to remarkable contributors to learning in Vekllei. The Academies of the Commonwealth are funded by a bureau tithe, mandated but otherwise seperate from Commonwealth government apparatuses.
 
 {{<outline>}}
 #### Vekllei Public Education Directorate
@@ -816,48 +808,30 @@ The *Crown Academy of Engineering Sciences* is the sovereign (commonwealth-level
 * **School of Political Economics**
 * **School of History and Geography**
 {{</outline>}}
+{{</section>}}
 
+{{<section>}}
 ### Commonwealth Construction Secretariat 
 {{<boxtag pink>}}CONSEC{{</boxtag>}}
+{{</section>}}
 
+{{<section>}}
 ### Commonwealth Labour Secretariat 
 {{<boxtag pink>}}LABSEC{{</boxtag>}}
+{{</section>}}
 
+{{<section>}}
 ### Commonwealth Health Secretariat 
 {{<boxtag pink>}}HELSEC{{</boxtag>}}
+{{</section>}}
 
----
-
-## Administration of the Crown 
+## Parliament of the Crown 
 {{<boxtag pink>}}SOVA{{</boxtag>}}
 
-The *Commonwealth Administration of the Crown*, not to be confused with the [Palace of the Vekllei Sovereign](/utopia/vekllei/society/government/#palace-of-the-vekllei-sovereign), is the administration-level apparatus of the Commonwealth to coordinate policy with the Palace. Since the Commonwealth does not have direct authority of the features
+The *Commonwealth Administration of the Crown* (also the Crown Sovereign, Parliament of Spirits and Administration of the Crown interchangeably), not to be confused with the [Palace of the Vekllei Sovereign](/utopia/vekllei/society/government/#palace-of-the-vekllei-sovereign), is the administration-level apparatus of the Commonwealth to coordinate policy with the Palace. Since the Commonwealth does not have direct authority of the features
 
-### Vekllei Democracy Commissariat 
-{{<boxtag pink>}}DEMCOM{{</boxtag>}}
-
-### Fair Work Authority 
-{{<boxtag pink>}}FAIRWORK{{</boxtag>}}
-
-The *Fair Work Authority* (FWA) is the Commonwealth industrial relations tribunal and regulator of industrial awards, a type of standard protected by the rulings of the FWA. It is let by a Chief Justice appointed by the Commonwealth Procuratorate.
-
-{{<outline>}}
-#### Quality of Life Surveillance Commission
-{{< hint >}}
-❖ Read more: *[The Quality of Life Surveillance Commission](/posts/2021-06-29-qlc/)*
-{{< /hint >}}
-
-{{</outline>}}
-
-### Office of the Auditor-General
-
-### Office of the Secretary-General
-
-### Petitions Office
-
----
-
-## Courts of the Commonwealth
+{{<section>}}
+### Courts of the Crown
 
 ### Procuratorate of the Commonwealth
 
@@ -876,16 +850,15 @@ It also has appellate jurisdiction from Lower Courts where appropriate, particul
 
 Vekllei *High Courts* are also 
 
-##### Supreme Censorate
-
-The *Supreme Censorate* is a an administrative court and anti-corruption agency tasked with combatting corruption and malfeasance in the state and its economic organs. 
-
 ##### High Courts of the Justiciary
 
 ##### High Courts of the Sovereign
 
 The *Courts of the Sovereign* (also *Sovereign Magistrates* are Vekllei superior courts with jurisdiction over land and architecture, and serve an inquisitorial role in determining ownership via the Vekllei Delicture system. Land in Vekllei 'owns itself' under this system, and relationships with land are brokered via the Borough Municipal Agent. Ownership is proven to the Sovereign Magistrates via the history of residency, use of the land and self-interest of property as determined by teams of Court Inquisitors, who determine the history and intent of land. The appellate justice of the Sovereign Courts are the [Commonwealth Procuratorates](/utopia/vekllei/society/government/#procuratorate-of-the-commonwealth).
 
+##### Supreme Censorate
+
+The *Supreme Censorate* is a an administrative court and anti-corruption agency tasked with combatting corruption and malfeasance in the state and its economic organs. 
 {{</outline>}}
 {{<outline>}}
 #### Lower Courts of the Vekllei Commonwealth
@@ -909,14 +882,44 @@ The *Courts of the Magistrate* (also *Borough Magistrates*, *Petty Courts* and *
 * low respect for [[intellectual property]] as knowledge and culture was considered a right for human kind, and not a privilege as in the free market economies.
 
 {{</outline>}}
+{{</section>}}
 
-### Office of the Attorney-General
+{{<section>}}
+### Fair Work Authority 
+{{<boxtag pink>}}FAIRWORK{{</boxtag>}}
 
-### Office of the Democracy-Advocate
+The *Fair Work Authority* (FWA) is the Commonwealth industrial relations tribunal and regulator of industrial awards, a type of standard protected by the rulings of the FWA. It is let by a Chief Justice appointed by the Commonwealth Procuratorate.
+
+{{<outline>}}
+#### Quality of Life Surveillance Commission
+{{< hint >}}
+❖ Read more: *[The Quality of Life Surveillance Commission](/posts/2021-06-29-qlc/)*
+{{< /hint >}}
+{{</outline>}}
+{{<outline>}}
+#### Petitions Office
+{{</outline>}}
+{{</section>}}
+
+{{<section>}}
+### Vekllei Democracy Commissariat 
+{{<boxtag pink>}}DEMCOM{{</boxtag>}}
+
+{{<outline>}}
+#### Office of the Auditor-General
+{{</outline>}}
+{{<outline>}}
+#### Office of the Secretary-General
+{{</outline>}}
+{{<outline>}}
+#### Office of the Attorney-General
+{{</outline>}}
+{{<outline>}}
+#### Office of the Democracy-Advocate
 
 The *Office of the Democracy-Advocate* (also the *Democracy Magistrate*) is a unique judicial office of Vekllei law, acting in practice as a sort of superior appellate procurator to hear and advise judicial grievances.
-
----
+{{</outline>}}
+{{</section>}}
 
 <div class="headerbox">
   <h1 class="title" style="line-height: 1.2; font-size: 1.5rem; font-weight: 700; filter: brightness(35%);">Palace of the Vekllei Sovereign</h1>
@@ -929,30 +932,35 @@ The *Office of the Democracy-Advocate* (also the *Democracy Magistrate*) is a un
 
 The Government of Vekllei is made up of Ministries, Offices, Bureaus, Commissions, Directorates and Secretariats depending on the size, purpose and organisation of the organ.
 
----
+{{<section>}}
+### Royal Armed Forces of Vekllei
 
-## Royal Armed Forces of Vekllei
+{{<outline>}}
+#### Crown Army of Vekllei
 
-### Crown Army of Vekllei
-
-### Crown Navy of Vekllei
-
-### Crown Air Service of Vekllei
-
-### Crown Rocket Navy of Vekllei
-
-### Crown Mail of Vekllei
+##### Crown Army Construction House
+{{</outline>}}
+{{<outline>}}
+#### Crown Navy of Vekllei
+{{</outline>}}
+{{<outline>}}
+#### Crown Air Service of Vekllei
+{{</outline>}}
+{{<outline>}}
+#### Crown Rocket Navy of Vekllei
+{{</outline>}}
+{{<outline>}}
+#### Crown Mail of Vekllei
 
 {{< hint >}}
 ❖ Main article: *[The Crown Mail of Vekllei](/utopia/vekllei/society/mail)*
 {{< /hint >}}
 
-{{<outline>}}
-#### General Office
+##### General Office
+
+##### Office of the Postmistress
 {{</outline>}}
-{{<outline>}}
-#### Office of the Postmistress
-{{</outline>}}
+{{</section>}}
 
 ## Protectorate of the Land Sovereign
 ## The Police of the Crown
