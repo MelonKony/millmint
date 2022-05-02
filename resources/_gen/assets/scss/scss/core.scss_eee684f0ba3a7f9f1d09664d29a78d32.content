@@ -2123,7 +2123,7 @@ article img[alt~="smallimg"] {
     margin-left: -20%;
     margin-right: -20%;
     padding: 1rem;
-    background-color: #fafafa; } }
+    background-color: var(--gray-100); } }
 
 /* image fade in (fade.js) */
 .fadeIn {

@@ -23,7 +23,7 @@ article img[alt~="smallimg"] {
 	margin-left: -20%;
 	margin-right: -20%;
 	padding: 1rem;
-	background-color: $gray-100;
+	background-color: var(--gray-100);
   }
 }
 
