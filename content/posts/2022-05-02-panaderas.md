@@ -12,7 +12,7 @@ categories:
 - character
 keywords:
 - 2022
-image: /images/panaderas.jpg
+image: https://millmint.imgix.net/images/panaderas.jpg?q=100&auto=format
 ---
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/uguwe7/panaderas/" >}}Archived from the original article here{{< /button >}}
