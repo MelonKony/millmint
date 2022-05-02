@@ -91,3 +91,9 @@ body header #navbar .navbar-dropdown li:hover {
 header .menu-btn {
   display: none;
 }
+
+@media (max-width: 600px) {
+    header {
+        margin-top: 0rem;
+    }
+}
