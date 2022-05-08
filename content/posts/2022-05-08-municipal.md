@@ -1,9 +1,9 @@
 ---
-title: The Good; The Municipal
+title: The Municipal
 fulltitle: The Good; The Municipal
 
 date: 2022-05-08
-rgb: 209, 49, 105
+rgb: 237, 175, 50
 
 tags:
 - 2022
