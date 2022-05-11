@@ -533,15 +533,15 @@ details[open] > summary {
 
 @media screen and (min-width: 35.5rem) {
   main {
-    width: 100%; } }
+    width: 90%; } }
 
 @media screen and (min-width: 48rem) {
   main {
-    width: 80%; } }
+    width: 70%; } }
 
 @media screen and (min-width: 75rem) {
   main {
-    width: 60%; } }
+    width: 50%; } }
 
 @media screen and (min-width: 90rem) {
   main {
