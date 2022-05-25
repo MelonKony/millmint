@@ -14,9 +14,8 @@ keywords:
     - sketch
     - 2018
 image: https://images.millmint.net/images/sketches/ruraltrains.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/a3anhl/rural_trains/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/a3anhl/rural_trains/" >}}Archived from the original article here{{< /button >}}
-
 
 I caught a train out of Tokyo as far as it would go, and I ended up on a little platform in the mountains. Nice place.
 

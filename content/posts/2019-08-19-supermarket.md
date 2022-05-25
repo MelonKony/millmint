@@ -13,8 +13,8 @@ keywords:
     - post
     - 2019
 image: https://images.millmint.net/images/supermarket.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/csh4e6/supermarkets_in_vekllei/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/csh4e6/supermarkets_in_vekllei/" >}}Archived from the original article here{{< /button >}}
 
 In Vekllei, the economy is a social organ that lingers awkwardly between cultural and political interests. On one hand, the country is regressing (both politically and culturally) towards deindustrialised, decommodified life. On the other, it is irreversibly equipped with the benefits of automation and robotics, rendering large swathes of the labour-force obsolete. Work is now, for most purposes, a creative organ that facilitates society, culture and technology. This has led to a society not unlike most planned economies, in which employment is both essential and unnecessary, leading to vast wastage and consumption at scales a market would see as horrifically inefficient but in Vekllei is understood as an enormous social benefit. Some people must still work — so everyone must work in fairness. In Vekllei, employment is casual and often unrecorded except by the syndicates, as per the foundations of Sundress Municipalism. As long as you are working, studying or otherwise justifying a life in Vekllei (raising your children or training for competitions, perhaps), then you’ll be left alone to do what you like.
 

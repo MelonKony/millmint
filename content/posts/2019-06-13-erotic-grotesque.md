@@ -12,9 +12,8 @@ keywords:
     - post
     - 2019
 image: https://images.millmint.net/images/eroguro.jpg
+reddit: https://www.reddit.com/r/worldbuilding/comments/c05k16/absolute_grotesque/
 ---
-{{< button href="https://www.reddit.com/r/worldbuilding/comments/c05k16/absolute_grotesque/" >}}Archived from the original article here{{< /button >}}
-
 
 [Previous post here](https://www.reddit.com/r/worldbuilding/comments/busvvn/catching_a_steam_locomotive_to_school/).
 

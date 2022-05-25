@@ -13,7 +13,7 @@ keywords:
     - post
     - 2019
 image: https://images.millmint.net/images/sketches/vigilante.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/cu8kvf/zelda_the_vigilant/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/cu8kvf/zelda_the_vigilant/" >}}Archived from the original article here{{< /button >}}
 
 I should start work on the graphic novel

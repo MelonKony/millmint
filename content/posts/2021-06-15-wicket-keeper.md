@@ -13,9 +13,8 @@ keywords:
 - post
 - 2021
 image: https://images.millmint.net/images/wickets.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/o0k8to/wicketkeeper/
 ---
-
-{{< button href="https://www.reddit.com/r/vekllei/comments/o0k8to/wicketkeeper/" >}}Archived from the original article here{{< /button >}}
 
 **Tzipora was good at cricket**. That surprised everyone. Her teachers called her bookish; her classmates called her a dork. She didn’t look like a girl who played much sport. In America, at her old school, she was sick from gym class so regularly that they stopped asking about her absence.
 

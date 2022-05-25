@@ -14,8 +14,8 @@ keywords:
     - post
     - 2019
 image: https://images.millmint.net/images/introducingmoise.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/cv3w1h/introducing_moise/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/cv3w1h/introducing_moise/" >}}Archived from the original article here{{< /button >}}
 
 Moise was a fat kid who went to another school. Zelda only knew him from the tram, where he carried a criminal stigma because of his rumoured gang affiliations. He was a second-generation Vekllei boy of immigrant Greek heritage. There were a few ethnic gangs in his area, and most immigrant boys that didn’t do well in school quickly found other causes to fight for.
 

@@ -13,8 +13,8 @@ keywords:
     - post
     - 2020
 image: https://images.millmint.net/images/immortal.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/ew9gb3/face_to_face_with_immortality/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/ew9gb3/face_to_face_with_immortality/" >}}Archived from the original article here{{< /button >}}
 
 Tzipora had never been taller than anyone in Vekllei at a meagre 5’2, but she was taller than Shizuku Kobayashi. Like Tzipora, Shizuku had not physically aged a day since she was a child.
 

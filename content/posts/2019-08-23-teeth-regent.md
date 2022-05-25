@@ -14,8 +14,8 @@ keywords:
     - pachinki
     - 2019
 image: https://images.millmint.net/images/regent.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/cudfnv/the_teeth_regents/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/cudfnv/the_teeth_regents/" >}}Archived from the original article here{{< /button >}}
 
 **From the notebook of Tzipora:**
 

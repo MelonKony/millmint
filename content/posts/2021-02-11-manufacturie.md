@@ -12,10 +12,8 @@ keywords:
 - post
 - 2021
 image: https://images.millmint.net/images/manufacturie.jpg
-
+reddit: https://www.reddit.com/r/vekllei/comments/lhq4in/the_stamp_manufacturie/
 ---
-
-{{< button href="https://www.reddit.com/r/vekllei/comments/lhq4in/the_stamp_manufacturie/" >}}Archived from the original article here{{< /button >}}
 
 {{<hint>}}
 ❖ **This article** was part of Vekllei's ***Mail Week*** in February 2021

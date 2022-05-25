@@ -12,10 +12,10 @@ keywords:
     - post
     - 2020
 image: https://images.millmint.net/images/montrelola.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/hhjytf/village_map_of_montrelola/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/hhjytf/village_map_of_montrelola/" >}}Archived from the original article here{{< /button >}}
-{{< hint >}}
 
+{{< hint >}}
 ❖ **This article** was featured in [**Issue #2**](/newsdesk/bulletin/2020/2) of the *Atlantic Bulletin*
 {{< /hint >}}
 

@@ -13,9 +13,8 @@ keywords:
     - post
     - 2018
 image: https://images.millmint.net/images/kokaparks.jpg
+reddit: https://www.reddit.com/r/worldbuilding/comments/a303t0/koka_parks_municipal_recreation/
 ---
-{{< button href="https://www.reddit.com/r/worldbuilding/comments/a303t0/koka_parks_municipal_recreation/" >}}Archived from the original article here{{< /button >}}
-
 
 **Between the atomic fire that ruined the city**, and the death of the king, there was a time when the city of Vekllei once resembled its lifeless lava fields to the North. In the communities that gathered themselves in the shadow of holocaust, common agriculture like fruits and berries returned to the city in what they call *koka* parkland.
 

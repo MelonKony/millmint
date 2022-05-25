@@ -14,8 +14,8 @@ keywords:
     - post
     - 2020
 image: https://images.millmint.net/images/atheism.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/j8pisi/mittens_and_metaphysic_product_atheism_and/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/j8pisi/mittens_and_metaphysic_product_atheism_and/" >}}Archived from the original article here{{< /button >}}
 
 {{< hint >}}
 ❖ **This article** was featured in [**Issue #6**](/newsdesk/bulletin/2020/6) of the *Atlantic Bulletin*

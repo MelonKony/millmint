@@ -14,9 +14,8 @@ keywords:
     - post
     - 2018
 image: https://images.millmint.net/images/sketches/puffinlove.jpg
+reddit: https://www.reddit.com/user/MelonKony/comments/8zwexl/winter_love_puffin_feat_tzipora_akiko/
 ---
-{{< button href="https://www.reddit.com/user/MelonKony/comments/8zwexl/winter_love_puffin_feat_tzipora_akiko/" >}}Archived from the original article here{{< /button >}}
-
 
 "The puffin flies here so early (over the years). The further inland we go, the farther they chase us."
 

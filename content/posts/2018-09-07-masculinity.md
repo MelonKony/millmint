@@ -12,9 +12,8 @@ keywords:
     - post
     - 2018
 image: https://images.millmint.net/images/masculinity.jpg
+reddit: https://www.reddit.com/r/worldbuilding/comments/9du5i5/masculinity_fatherhood_in_vekllei/
 ---
-{{< button href="https://www.reddit.com/r/worldbuilding/comments/9du5i5/masculinity_fatherhood_in_vekllei/" >}}Archived from the original article here{{< /button >}}
-
 
 Just a few notes on what it means to be a man in Vekllei.
 

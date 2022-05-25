@@ -13,9 +13,8 @@ keywords:
 - post
 - 2021
 image: https://images.millmint.net/images/generations.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/nw354j/generations/
 ---
-
-{{< button href="https://www.reddit.com/r/vekllei/comments/nw354j/generations/" >}}Archived from the original article here{{< /button >}}
 
 **Ayn was a naturally busy person**. She worked long, hard hours at the Americas Bureau at National Intelligence, or ‘AB/NI,’ as a clerk, or specialist, or whatever they needed her to be that day. Her days off were filled with petty occupations and minor obligations — mostly tending to her plants and cleaning. She enjoyed number puzzles. A couple friends had formed a book club, and she went to that on occasion.
 

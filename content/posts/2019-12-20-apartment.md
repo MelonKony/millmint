@@ -13,8 +13,8 @@ keywords:
     - post
     - 2019
 image: https://images.millmint.net/images/newda.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/ed8zwv/life_and_death_in_vekllei_apartment_ideology_or/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/ed8zwv/life_and_death_in_vekllei_apartment_ideology_or/" >}}Archived from the original article here{{< /button >}}
 
 *To substitute for my shocking (and deeply shameful) absence over the last two weeks, please accept a longer-form post concerning domestic Apartment Ideology in Vekllei, which they call* Newda *and is known internationally as The Vekllei Newda School. Pictured is the apartment of our very own Zelda. While the building itself deserves a feature, for now we’ll discuss Newda as a theory and her life in this building. If you get bogged down and pissed off at the jargon, skip to the “practice” section. I'm not sure how I feel about this post, I might have indulged too much, but either way, I'm BACK*. --  Hobart
 

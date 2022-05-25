@@ -13,8 +13,8 @@ keywords:
     - post
     - 2020
 image: https://images.millmint.net/images/lakehouse.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/g4b7mh/abnis_spectres_of_violence/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/g4b7mh/abnis_spectres_of_violence/" >}}Archived from the original article here{{< /button >}}
 
 **By 2047, Vekllei had a lot of broken men**. Tens of thousands had alighted troop ships at the end of the War of Taiwan, only to find that pieces of their lives had unravelled overseas. Hardy, bronze-skinned boys were left with their ghosts, and those ghosts introduced them to drinking, and brawling, and suicide.
 

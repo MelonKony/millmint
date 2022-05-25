@@ -14,10 +14,8 @@ keywords:
 - post
 - 2021
 image: https://images.millmint.net/images/shrine-minded.jpg
-
+reddit: https://www.reddit.com/r/vekllei/comments/n6a990/shrineminded_girls/
 ---
-
-{{< button href="https://www.reddit.com/r/vekllei/comments/n6a990/shrineminded_girls/" >}}Archived from the original article here{{< /button >}}
 
 **Shattered fjords make up the north of Vekllei**, particularly in boroughs like [Santes](/utopia/vekllei/landscape/boroughs/santes/) (lit. *Saint*) which are well-regarded for their striking cliffs and sloping igneous fingers, which evidence Vekllei’s ongoing volcanism. Offshore, hundreds of islets rise and sink over the centuries.
 

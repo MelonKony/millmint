@@ -13,9 +13,8 @@ keywords:
 - post
 - 2021
 image: https://images.millmint.net/images/breakfast.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/n8hfeu/a_vekllei_breakfast/
 ---
-
-{{< button href="https://www.reddit.com/r/vekllei/comments/n8hfeu/a_vekllei_breakfast/" >}}Archived from the original article here{{< /button >}}
 
 **Postwar Vekllei has a problem**. In the old days, many hundreds of years ago, Vekllei’s long, dark winters forced subsistence farmers to preserve their dishes for six or seven months of the year. This changed under the Junta, which opened trade with the Scandinavian powers, and Vekllei soon saw its growing population dependent on fresh imports of oats and grain from Europe. These Atlantic people, whose diets were previously gamey and nomadic, were now a rough storm away from famine.
 

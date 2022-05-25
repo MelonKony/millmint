@@ -15,10 +15,8 @@ keywords:
     - 2020
     - pachinki
 image: https://images.millmint.net/images/deadplanes.jpg
-draft: false
+reddit: https://www.reddit.com/r/vekllei/comments/kkmgdm/a_tzipora_christmas_story/
 ---
-
-{{< button href="https://www.reddit.com/r/vekllei/comments/kkmgdm/a_tzipora_christmas_story/" >}}Archived from the original article here{{< /button >}}
 
 **Pachinki is a world of Tzipora’s own creation**, a dorky retreat from the difficulties she has in Vekllei. Tzipora always loved stories of wild places and adventure, and Pachinki blossomed organically from within her daydreams. Eventually she started writing and drawing it. When she was sad, bored or anxious, she would descend back into Pachinki’s world of ancient magic, edible gems and pirates.
 

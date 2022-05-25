@@ -16,9 +16,8 @@ keywords:
 - post
 - 2021
 image: https://images.millmint.net/images/hollywood.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/nk17w6/gone_hollywood/
 ---
-
-{{< button href="https://www.reddit.com/r/vekllei/comments/nk17w6/gone_hollywood/" >}}Archived from the original article here{{< /button >}}
 
 **You know you’re near the homeland of the Magma-Electric Commission when you smell it.** Somewhere between cracking a rotten egg and standing downwind of a sewerage treatment plant, the volcanic heartlands of Vekllei are the playground of the Magma-Electric Commission, often shortened to just “The Magma” or “Thunderburo”. The smell is caused by Hydrogen Sulphide, a byproduct of the naked volcanic activity Vekllei is known for.
 

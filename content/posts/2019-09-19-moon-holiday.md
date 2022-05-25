@@ -13,8 +13,8 @@ keywords:
     - post
     - 2019
 image: https://images.millmint.net/images/moonholiday.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/d60w7n/holiday_on_the_moon/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/d60w7n/holiday_on_the_moon/" >}}Archived from the original article here{{< /button >}}
 
 >Caption: “So — Mr Spaceman… How long have you held a job at Vekllei National Astrospace? 37 years?”
 

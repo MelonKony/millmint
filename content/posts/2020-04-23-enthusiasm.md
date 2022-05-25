@@ -14,8 +14,8 @@ keywords:
     - post
     - 2020
 image: https://images.millmint.net/images/enthusiasm.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/g65op7/gentle_enthusiasm/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/g65op7/gentle_enthusiasm/" >}}Archived from the original article here{{< /button >}}
 
 Tzipora stood astride the bicycle luggage rack, and looked at her best friend Moise. She smiled at him, and looked to the town before them, and squinted at the clouds rising over the Atlantic horizon.
 

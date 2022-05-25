@@ -12,9 +12,8 @@ categories:
 keywords:
 - 2021
 image: https://images.millmint.net/images/coast.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/rcn1cg/on_moneylessness/
 ---
-
-{{< button href="https://www.reddit.com/r/vekllei/comments/rcn1cg/on_moneylessness/" >}}Archived from the original article here{{< /button >}}
 
 {{< hint >}}
 ❖ **This essay** was published on [millmint.net](https://millmint.net). [Read it here](/newsdesk/essays/moneylessness).

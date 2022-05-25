@@ -12,10 +12,8 @@ keywords:
     - post
     - 2019
 image: https://images.millmint.net/images/dog.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/cr65zu/the_people_of_veklleis_railway_plus_dog/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/cr65zu/the_people_of_veklleis_railway_plus_dog/" >}}Archived from the original article here{{< /button >}}
-
-
 
 I’m starting a series looking at the lives and machines of domestic Vekllei life.
 

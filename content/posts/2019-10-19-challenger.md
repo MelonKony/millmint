@@ -12,8 +12,8 @@ keywords:
     - post
     - 2019
 image: https://images.millmint.net/images/skytrade.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/dk3d8m/a_new_challenger_has_appeared/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/dk3d8m/a_new_challenger_has_appeared/" >}}Archived from the original article here{{< /button >}}
 
 Well isn’t this exciting! The talented u/Herald_of_Zena decided to draw Isabelle from his world in the uniforms I posted the other day. It was too much fun not to join in. It turned out to be a classic story told in two parts -- shit weather, put on coat.
 

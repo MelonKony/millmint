@@ -13,7 +13,7 @@ keywords:
     - post
     - 2019
 image: https://images.millmint.net/images/puffinattack.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/d4lfim/puffin_attack/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/d4lfim/puffin_attack/" >}}Archived from the original article here{{< /button >}}
 
 Although Zelda can't have kids, she mothers whole generations of village children.

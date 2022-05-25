@@ -10,10 +10,10 @@ categories:
 keywords:
 - 2021
 image: https://images.millmint.net/images/coastguard.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/qtsinv/the_vekllei_coast_guard/
 
 rgb: 50, 72, 123
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/qtsinv/the_vekllei_coast_guard/" >}}Archived from the original article here{{< /button >}}
 
 The **Vekllei Coast Guard** (officially the *Navy of the Parliament* and distinct from the *Navy of the Sovereign*, i.e. the “Royal Navy”), is part of the country’s broad paramilitary commission and functions both as a civilian maritime police and military naval fleet depending on the mission.
 

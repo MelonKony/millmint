@@ -14,8 +14,8 @@ keywords:
     - guide
     - 2019
 image: https://images.millmint.net/images/lola.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/czi423/a_brief_introduction_to_vekllei/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/czi423/a_brief_introduction_to_vekllei/" >}}Archived from the original article here{{< /button >}}
 
 *Editor's note: this article, while ready for reading, is still under construction.*
 

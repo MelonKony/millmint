@@ -13,8 +13,8 @@ keywords:
     - post
     - 2019
 image: https://images.millmint.net/images/schoolfashion.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/dmfe5n/boyhood_fashion_in_veklleis_school_halls/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/dmfe5n/boyhood_fashion_in_veklleis_school_halls/" >}}Archived from the original article here{{< /button >}}
 
 This is a follow-up [to this post](https://www.reddit.com/r/vekllei/comments/dj5di0/uniform_ideology_in_the_arctic_north/), as part of Vekllei’s “Study Week,” where we’re touring education and youth in the utopia of Vekllei.
 

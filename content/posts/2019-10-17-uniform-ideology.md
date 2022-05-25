@@ -14,8 +14,8 @@ keywords:
     - post
     - 2019
 image: https://images.millmint.net/images/uniformideology.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/dj5di0/uniform_ideology_in_the_arctic_north/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/dj5di0/uniform_ideology_in_the_arctic_north/" >}}Archived from the original article here{{< /button >}}
 
 Hello everyone. In celebration of the approach of exams (at least in the Southern Hemisphere), we turn our gaze north to Vekllei to celebrate Study Week. Every other day we’ll be looking at education in Vekllei, and today we’re looking at uniforms.
 

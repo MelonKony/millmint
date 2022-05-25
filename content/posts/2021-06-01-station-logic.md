@@ -14,9 +14,8 @@ keywords:
 - post
 - 2021
 image: https://images.millmint.net/images/stationlogic.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/nq071y/station_logic/
 ---
-
-{{< button href="https://www.reddit.com/r/vekllei/comments/nq071y/station_logic/" >}}Archived from the original article here{{< /button >}}
 
 **Vekllei is full of stations in the middle of nowhere**; platforms for people in no hurry, alighting to places never thought of before. It is in these stations that old government infrastructure projects take on a greater meaning, and cultivate an absurd sort of spirituality that touches the lives of the people who discover them. Is there anything gentler than a concrete platform in the middle of a flower-tundra, weathered and warmed by the sun?
 

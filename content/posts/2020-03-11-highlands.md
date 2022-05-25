@@ -13,8 +13,8 @@ keywords:
     - post
     - 2020
 image: https://images.millmint.net/images/highlands.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/fgskau/the_great_ro_highlands/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/fgskau/the_great_ro_highlands/" >}}Archived from the original article here{{< /button >}}
 
 As I pick up some larger projects, my posts here will slow down a little bit. That's okay -- I'm still easy to track down and get in touch with, and you guys will still see the best stuff.
 

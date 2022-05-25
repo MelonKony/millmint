@@ -13,9 +13,8 @@ keywords:
 - post
 - 2021
 image: https://images.millmint.net/images/mossbound.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/nqooqh/mossbound/
 ---
-
-{{< button href="https://www.reddit.com/r/vekllei/comments/nqooqh/mossbound/" >}}Archived from the original article here{{< /button >}}
 
 **Outside of the cities**, sensory pleasure can be enriched by Vekllei’s oldest organism, if you know where to look. The temperate rainforest is alive, and breathing, and smells cold in its freshness. The perfume of the rainforest is earthy and chilled, swirling in a cocktail of fresh water, rich, damp soil and the scents of thick mosses and browning leaves. Out here, only water and the trees move — these sounds are the domain of spirits.
 

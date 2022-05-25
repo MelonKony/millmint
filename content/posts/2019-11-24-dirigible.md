@@ -14,8 +14,8 @@ keywords:
     - post
     - 2019
 image: https://images.millmint.net/images/dirigible.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/e0xl3w/oceanliners_of_the_sky_vacuum_dirigibles_in/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/e0xl3w/oceanliners_of_the_sky_vacuum_dirigibles_in/" >}}Archived from the original article here{{< /button >}}
 
 >Sorry it took so long, mateys. I've been laying the first pages of the comic down and it's like crack for me. Not much sleep and totally fell behind on SkyMonth. But, as any longtime members know, our Months are r/vekllei usually last a little longer than they should past their expiry date. There's a lot to come!
 

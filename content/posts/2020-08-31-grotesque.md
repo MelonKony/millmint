@@ -12,10 +12,10 @@ keywords:
     - post
     - 2020
 image: https://images.millmint.net/images/warmap.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/ijxvzu/absolute_grotesque/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/ijxvzu/absolute_grotesque/" >}}Archived from the original article here{{< /button >}}
-{{< hint >}}
 
+{{< hint >}}
 ❖ **This article** was featured in [**Issue #4**](/newsdesk/bulletin/2020/4) of the *Atlantic Bulletin*
 {{< /hint >}}
 

@@ -13,10 +13,10 @@ keywords:
     - post
     - 2020
 image: https://images.millmint.net/images/feast.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/ge1gmw/the_chemical_feast/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/ge1gmw/the_chemical_feast/" >}}Archived from the original article here{{< /button >}}
-{{< hint >}}
 
+{{< hint >}}
 ❖ **This article** was featured in [**Issue #1**](/newsdesk/bulletin/2020/1) of the *Atlantic Bulletin*
 {{< /hint >}}
 

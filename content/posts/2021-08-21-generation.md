@@ -19,9 +19,8 @@ keywords:
 - post
 - 2021
 image: https://images.millmint.net/images/generation.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/p8xf6b/a_new_generation/
 ---
-
-{{< button href="https://www.reddit.com/r/vekllei/comments/p8xf6b/a_new_generation/" >}}Archived from the original article here{{< /button >}}
 
 **Children of the children of the bomb —** a generation of war-babies born in peacetime. That was how they thought of themselves. Their grandparents and great-grandparents had lived through the war and the occupation, and so they had inherited the burden of Vekllei's future as a country of long-sufferers, visionaries, and dispossessed.
 

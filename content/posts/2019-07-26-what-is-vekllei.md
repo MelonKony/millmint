@@ -14,8 +14,8 @@ keywords:
     - guide
     - 2019
 image: https://images.millmint.net/images/map.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/chomw1/what_is_vekllei/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/chomw1/what_is_vekllei/" >}}Archived from the original article here{{< /button >}}
 
 Vekllei is a country in my alt-world; a utopian fever dream of googie aesthetics, participatory economics and nostalgia.
 

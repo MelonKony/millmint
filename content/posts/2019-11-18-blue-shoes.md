@@ -13,8 +13,8 @@ keywords:
     - post
     - 2019
 image: https://images.millmint.net/images/blueshoes.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/dy34hd/blue_shoes/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/dy34hd/blue_shoes/" >}}Archived from the original article here{{< /button >}}
 
 Welcome to the r/Vekllei variety hour, where the tone between posts judders so inconsistently you'll get whiplash of the mind. I was just drawing and thinking today. This is an author post, in case you haven't noticed -- just a shitty blog.
 

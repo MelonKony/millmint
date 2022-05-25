@@ -14,10 +14,10 @@ keywords:
     - post
     - 2020
 image: https://images.millmint.net/images/winteruniforms.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/gkuij7/winter_uniforms_in_vekllei/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/gkuij7/winter_uniforms_in_vekllei/" >}}Archived from the original article here{{< /button >}}
-{{< hint >}}
 
+{{< hint >}}
 ❖ **This article** was featured in [**Issue #1**](/newsdesk/bulletin/2020/1) of the *Atlantic Bulletin*
 {{< /hint >}}
 

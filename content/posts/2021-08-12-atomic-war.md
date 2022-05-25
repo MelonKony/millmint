@@ -12,9 +12,8 @@ keywords:
 - post
 - 2021
 image: https://images.millmint.net/images/tv.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/p33nu3/june_21st_2111/
 ---
-
-{{< button href="https://www.reddit.com/r/vekllei/comments/p33nu3/june_21st_2111/" >}}Archived from the original article here{{< /button >}}
 
 000
 

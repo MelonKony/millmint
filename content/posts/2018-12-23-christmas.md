@@ -14,10 +14,8 @@ keywords:
     - post
     - 2018
 image: https://images.millmint.net/images/christmas2018.jpg
-
+reddit: https://www.reddit.com/user/MelonKony/comments/a8tuqe/merry_christmas_everyone_plus_a_little_christmas/
 ---
-{{< button href="https://www.reddit.com/user/MelonKony/comments/a8tuqe/merry_christmas_everyone_plus_a_little_christmas/" >}}Archived from the original article here{{< /button >}}
-
 
 She had always been a very serious girl, from the first time he’d met her. It was more than a reflection of character; it was how she talked, how she carried herself. Her clothes were plain, her nervous tics were not that funny, and she was afflicted with all sorts of fears and anxieties. She opens her mouth in public and what comes out is usually of serious opinion — a judgement of something or a political remark. But that is not how Gregori syndrome works. It does not take young girls and make them old. As the months wore on and the length of the days reflected the passing of warm season, he learned well enough that she was a teen-ager, despite her seriousness. She was slowly domesticated into regular society, her conversation became casual, and she started to worry more about things that might have been inconceivably petty in the months before.
 

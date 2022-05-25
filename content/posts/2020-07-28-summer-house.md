@@ -13,10 +13,10 @@ keywords:
     - post
     - 2020
 image: https://images.millmint.net/images/summerhouse.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/hyt68u/summer_house_in_the_azores/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/hyt68u/summer_house_in_the_azores/" >}}Archived from the original article here{{< /button >}}
-{{< hint >}}
 
+{{< hint >}}
 ❖ **This article** was featured in [**Issue #3**](/newsdesk/bulletin/2020/3) of the *Atlantic Bulletin*
 {{< /hint >}}
 

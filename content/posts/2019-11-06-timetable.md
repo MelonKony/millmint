@@ -13,8 +13,8 @@ keywords:
     - post
     - 2019
 image: https://images.millmint.net/images/timetable.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/dsh4gm/a_vekllei_timetable/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/dsh4gm/a_vekllei_timetable/" >}}Archived from the original article here{{< /button >}}
 
 Let's wind down Study Month with a look into the Vekllei curriculum. A few days ago I wrote about how Vekllei schools operate on fundamentally different assumptions about what it means to be ‘a child’. Let’s take a look at how that pans out in practice.
 

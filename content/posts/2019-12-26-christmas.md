@@ -13,8 +13,8 @@ keywords:
     - post
     - 2019
 image: https://images.millmint.net/images/christmas2019.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/eful5i/merry_christmas/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/eful5i/merry_christmas/" >}}Archived from the original article here{{< /button >}}
 
 I’m still eating pudding, but once I’m home tomorrow and settled at my drawing desk I’ll be sure to report Tzipora’s holiday adventures in full.
 

@@ -13,8 +13,8 @@ keywords:
     - post
     - 2019
 image: https://images.millmint.net/images/wallaby.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/e6iykk/wallabies_of_the_arctic_veklleis_pademelon_and/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/e6iykk/wallabies_of_the_arctic_veklleis_pademelon_and/" >}}Archived from the original article here{{< /button >}}
 
 >8 days without posts feels like a century. Tomorrow, SkyMonth returns, and we’ll see what it’s like flying VAS. The day after tomorrow we’ll see an update for a few things — particularly a massive (and awesome) overhaul of the Vekllei site + wiki. Yeah, if you’re wondering where I’ve been, I’ve ditched Wordpress and have been learning HTML, which is like scraping the exposed brain against unpolished concrete. And after that there will be a lot more posts to follow to make up for the silence
 >

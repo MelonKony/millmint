@@ -12,8 +12,8 @@ categories:
 keywords:
 - 2021
 image: https://images.millmint.net/images/foreignfoto.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/pwoeuu/foreignfoto/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/pwoeuu/foreignfoto/" >}}Archived from the original article here{{< /button >}}
 
 **Even as Vekllei people suffer**, in the postwar troubles and demographic crises of their fledgling utopia, the media apparatuses of Vekllei have become highly skilled at documenting and confronting suffering here and around the world.
 

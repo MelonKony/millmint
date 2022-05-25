@@ -13,9 +13,8 @@ keywords:
     - sketch
     - 2019
 image: https://images.millmint.net/images/decay.jpg
+reddit: https://www.reddit.com/user/MelonKony/comments/c708ih/the_principles_of_human_decay/
 ---
-{{< button href="https://www.reddit.com/user/MelonKony/comments/c708ih/the_principles_of_human_decay/" >}}Archived from the original article here{{< /button >}}
-
 
 Talking about utopia in landscape is easy — [Vekllei is a glittering midcentury paradise that fosters human life as a wonderful dream](https://vekllei.city/economy/).
 

@@ -13,10 +13,10 @@ keywords:
     - post
     - 2020
 image: https://images.millmint.net/images/peaks.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/gel3e9/fiery_peaks/
 ---
-{{< button href="https://www.reddit.com/r/vekllei/comments/gel3e9/fiery_peaks/" >}}Archived from the original article here{{< /button >}}
-{{< hint >}}
 
+{{< hint >}}
 ❖ **This article** was featured in [**Issue #1**](/newsdesk/bulletin/2020/1) of the *Atlantic Bulletin*
 {{< /hint >}}
 

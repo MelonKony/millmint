@@ -12,9 +12,8 @@ keywords:
 - post
 - 2021
 image: https://images.millmint.net/images/fighter.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/ns9ltc/air_atomic/
 ---
-
-{{< button href="https://www.reddit.com/r/vekllei/comments/ns9ltc/air_atomic/" >}}Archived from the original article here{{< /button >}}
 
 **The Royal Vekllei Air Force runs nuclear these days**. Just fifty years ago, that would have been unthinkable. Times change.
 

@@ -13,9 +13,8 @@ keywords:
 - post
 - 2021
 image: https://images.millmint.net/images/spiritful.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/o3mrum/spiritful/
 ---
-
-{{< button href="https://www.reddit.com/r/vekllei/comments/o3mrum/spiritful/" >}}Archived from the original article here{{< /button >}}
 
 **There was not much different about one spirit than another**. Foreigners mistook Upen, the animism of Vekllei, for environmentalism — that was not the case at all. Landscapes changed, and so did the things that lived in them.
 
