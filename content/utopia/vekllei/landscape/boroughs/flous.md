@@ -7,7 +7,7 @@ tag: LANDSCAPE
 sitetag: Boroughs
 color: green
 
-image: https://millmint.imgix.net/images/newyear2022.jpg?q=100&auto=format
+image: https://images.millmint.net/images/newyear2022.jpg
 
 weight: 1
 bookHidden: true
@@ -49,7 +49,7 @@ Lola would remain the capital of Vekllei throughout Vekllei's Late Period and in
 
 ### Postwar Development
 
-![smallimg](https://millmint.imgix.net/images/recess.jpg?q=100&auto=format)
+![smallimg](https://images.millmint.net/images/recess.jpg)
 
 The Atomic War saw nuclear strikes in Reykjavic and Geofyourd, destroying both the Junta's Palace of the Commonwealth and most of the Port of Vekllei. The port was reconstructed under British occupation between 2005 and 2013, but the Palace was unsalvagable and to this day remains a preserved ruin.
 

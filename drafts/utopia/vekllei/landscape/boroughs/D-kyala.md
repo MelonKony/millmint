@@ -16,7 +16,7 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 
-![img](/images/hydro.jpg?q=100&auto=format)
+![img](/images/hydro.jpg)
 
 {{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>

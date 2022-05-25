@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2020
-image: https://millmint.imgix.net/images/highlands.jpg?q=100&auto=format
+image: https://images.millmint.net/images/highlands.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/fgskau/the_great_ro_highlands/" >}}Archived from the original article here{{< /button >}}
 

@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2019
-image: https://millmint.imgix.net/images/puffinattack.jpg?q=100&auto=format
+image: https://images.millmint.net/images/puffinattack.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/d4lfim/puffin_attack/" >}}Archived from the original article here{{< /button >}}
 

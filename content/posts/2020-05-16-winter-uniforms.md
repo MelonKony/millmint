@@ -13,7 +13,7 @@ categories:
 keywords:
     - post
     - 2020
-image: https://millmint.imgix.net/images/winteruniforms.jpg?q=100&auto=format
+image: https://images.millmint.net/images/winteruniforms.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/gkuij7/winter_uniforms_in_vekllei/" >}}Archived from the original article here{{< /button >}}
 {{< hint >}}

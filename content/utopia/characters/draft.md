@@ -10,7 +10,7 @@ color: pink
 weight: 2
 list_posts: false
 
-image: https://millmint.imgix.net/images/liminal.jpg?q=100&auto=format
+image: https://images.millmint.net/images/liminal.jpg
 
 description: The people of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
@@ -29,7 +29,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 </div>
 
 {{<section>}}
-<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/zelda.png?q=100&auto=format">
+<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/zelda.png">
 
 **Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](/utopia/intro/#three-utopias) of this project. Often called Zelda by her friends, she is the protagonist of this project and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with [Gregori Syndrome](/posts/2021-05-28-forever/), a genetic disorder that affects her ageing and extends her natural life. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising the neurotic parts of her personality and making her happy.
 
@@ -58,7 +58,7 @@ Tzipora may be intense and inward-facing, but she can also be disarmingly charmi
 </div>
 
 {{<section>}}
-<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/cobian.png?q=100&auto=format">
+<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/cobian.png">
 
 **Cobian lo Ro de Viviya de Queismesnah** is Tzipora's longtime friend and occasional girlfriend. Conservative in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood. Tzipora and Cobian met during secondary schooling in Vekllei, and remained close throughout the rest of their lives. She is very close with Tzipora, but has tepid relationships with Tzipora's (mostly male) friendship group out of jealousy and a general distaste for boys. She is rigorously polite in the middle-class sense of the word; formal among strangers, gossipy among friends.
 

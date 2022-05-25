@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2019
-image: https://millmint.imgix.net/images/christmas2019.jpg?q=100&auto=format
+image: https://images.millmint.net/images/christmas2019.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/eful5i/merry_christmas/" >}}Archived from the original article here{{< /button >}}
 

@@ -11,7 +11,7 @@ categories:
 keywords:
     - post
     - 2018
-image: https://millmint.imgix.net/images/bike.jpg?q=100&auto=format
+image: https://images.millmint.net/images/bike.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/a7ltvy/the_suburban_constabulary/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

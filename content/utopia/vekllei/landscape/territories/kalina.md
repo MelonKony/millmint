@@ -7,7 +7,7 @@ tag: LANDSCAPE
 sitetag: Boroughs
 color: green
 
-image: https://millmint.imgix.net/images/marinerailway.jpg?q=100&auto=format
+image: https://images.millmint.net/images/marinerailway.jpg
 
 weight: 1
 bookHidden: true
@@ -67,7 +67,7 @@ Since Vekllei is nonpartisan, it does not allow formal participation of parties 
 
 ## 5. Economy
 
-![img](https://millmint.imgix.net/images/momentsinlove.jpg?q=100&auto=format)
+![img](https://images.millmint.net/images/momentsinlove.jpg)
 
 {{< hint panel >}}
 **Vekllei** is land of plenty and small pleasures, afforded by a post-scarcity system that positions competing systems against each other. It is made up of a startling series of contradictions -- one after the other, each more unusual than the last. Vekllei is a planned economy; it is also a free market. Property ownership is obfuscated by portioned sovereignty of land and product. Decommodification has devalued products in a country based on manufacturing. There are many contradictions, inefficiencies and unusual mechanisms in the Vekllei domestic market, which total to benefit the living conditions of the average person.
@@ -78,7 +78,7 @@ Since Vekllei is nonpartisan, it does not allow formal participation of parties 
 **lthough** a major power, Vekllei has an unusual hybrid market system called the *Vekllei Bureau System* (known colloquially as *Petticoat Socialism*), which incorporates state-owned socialist planned economics and deregulated syndicalist vertical *bureaus* to benefit a free, unregulated informal market system. Most unique about the Vekllei economy is its functional moneylessness, in which domestic society has abolished currency. No widespread currency substitutes are used in ordinary life. Each citizen owns a share of the *Labour Bank of Vekllei*, a portion of the *Government Securities Bureau* designed to allow emigration from the country, and so is theoretically entitled to an equal portion of the Bank.
 <--->
 
-![img](https://millmint.imgix.net/images/matchstick.jpg?q=100&auto=format)
+![img](https://images.millmint.net/images/matchstick.jpg)
 
 {{</columns>}}
 
@@ -167,7 +167,7 @@ All institutions of higher learning, including universities, trade schools and a
 
 <--->
 
-![smallimg](https://millmint.imgix.net/images/uniform.jpg?q=100&auto=format)
+![smallimg](https://images.millmint.net/images/uniform.jpg)
 
 {{</columns>}}
 
@@ -175,7 +175,7 @@ Vekllei's school enrolment is among the highest in the world, though this calcul
 
 ## 7. Infrastructure
 
-![img](https://millmint.imgix.net/images/hydro.jpg?q=100&auto=format)
+![img](https://images.millmint.net/images/hydro.jpg)
 
 {{< hint panel >}}
 **If Vekllei** is hesitant towards formal recognition of socialist aspects within its economy, in its infrastructure those concerns are discarded entirely. Vekllei is a midcentury state of nationalised infrastructure, led by grand modernist visions of progress and affluence. When combined with *Upen's* spiritual emphasis on physicality and permanence, Vekllei's affection for monuments of utility and public works are shown to be deeply embedded in the Vekllei national political spirit.
@@ -208,7 +208,7 @@ Homes are also commonly inherited in Vekllei. All Vekllei people are guaranteed 
 
 ### Communications
 
-![img](https://millmint.imgix.net/images/mailtrain.jpg?q=100&auto=format)
+![img](https://images.millmint.net/images/mailtrain.jpg)
 
 {{< hint orange >}}
 ❖ Main article: *[Post in Vekllei](/utopia/vekllei/society/mail/)*

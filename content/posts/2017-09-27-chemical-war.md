@@ -11,7 +11,7 @@ categories:
 keywords:
     - post
     - 2017
-image: https://millmint.imgix.net/images/chemicalwar.jpg?q=100&auto=format
+image: https://images.millmint.net/images/chemicalwar.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/72lalc/chemical_warfare_in_2063_vekllei/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

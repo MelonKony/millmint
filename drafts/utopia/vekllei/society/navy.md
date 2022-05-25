@@ -31,7 +31,7 @@ color: var(--color-orange);
 <h5 span class="tag red"> ARTICLE </h5>
 <h6 span class="sitetag">Documents</h6>
 
-![img](/images/mailtrain.jpg?q=100&auto=format)
+![img](/images/mailtrain.jpg)
 
 {{< hint red >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei) society
@@ -50,7 +50,7 @@ Vekllei is also home to the U.N. Universal Postal Union, the body responsible fo
 
 ### Introduction
 
-![img](/images/fairie.jpg?q=100&auto=format)
+![img](/images/fairie.jpg)
 
 {{< hint red >}}
 ❖ Read more: *[Post is for People](/posts/2021-02-22-pond/)*
@@ -71,7 +71,7 @@ Like most Royal Bureaus, the Mail is headquartered in Vekllei's capital across a
 {{<columns>}}
 Although Vekllei has maintained courier systems for at least a thousand years, the Mail as a contiguous instituion was founded in 1422 by the Desimou VII, King of Vekllei, in the late Period of Rest. During this time, the lords of Vekllei had established significant mercantile holdings across the North Atlantic, and had developed reliable systems of trade throughout Ireland and Denmark. The Royal Mail of Vekllei was first established as a royal communications organ that sought to ensure stability of the Desimou rule across the incresingly autonomous Vekllei empire. In this period, the Mail consisted of a handful of messengers attached to the feudal military apparatus of the Vekllei monarchy, which transferred to the incoming Junta upon collapse of the monarchy.
 <--->
-![img](/images/pond.jpg?q=100&auto=format)
+![img](/images/pond.jpg)
 {{</columns>}}
 The Mail would not come to resemble conventional civilian Mail until 1652, when the Junta expanded postal contracts to the privy councils of the Faroe and Greenland territories, and later broke apart the Mail monopoly to benefit then-Secretary of State Kism Sismiosnah, who established the New Parliament Postal Service. It was not until nearly a century later, in 1742, that company services were opened to all land-owning Vekllei people, and the Mail came to resemble its contemporary mandate.
 
@@ -119,7 +119,7 @@ The Mail has two offices of administration: the General Office and the Office of
 
 ## 2. Services
 
-![img](/images/stamps.jpg?q=100&auto=format)
+![img](/images/stamps.jpg)
 
 {{< hint red >}}
 ❖ Read more: *[Philately Foolery](/posts/2021-02-16-stamps/)*
@@ -162,7 +162,7 @@ The **Labour Bank of Vekllei**[^2] is easily accessible via the Mail's **Financi
 
 ## 3. Operations
 
-![img](/images/manufacturie.jpg?q=100&auto=format)
+![img](/images/manufacturie.jpg)
 
 {{< hint red >}}
 ❖ Read more: *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*
@@ -179,9 +179,9 @@ As is typical for critical bureaus in Vekllei, the Mail alleviates the stress of
 
 ### Staff
 {{<columns>}}
-![img](/images/mail.jpg?q=100&auto=format)
+![img](/images/mail.jpg)
 <--->
-![img](/images/postmistress.jpg?q=100&auto=format)
+![img](/images/postmistress.jpg)
 {{</columns>}}
 
 The Mail employs 48,960 people full-time across its various offices, and nearly 200,000 automen in various roles. Although the Mail does retain a staff of postmen and couriers, most urban daily service is now provided by automatic vehicles and sorting, which account for nearly half of the total automen owned by the organisation. Instead, the majority of Mail employees are involved in the running of the organisation -- mostly as clerks, managers, and administrators. Around 10,000 postmen are employed by the Mail in daily delivery, called "posties". There are around 8,000 postal routes in the country.

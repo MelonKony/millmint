@@ -7,7 +7,7 @@ tag: LANDSCAPE
 sitetag: Introduction
 color: green
 
-image: https://millmint.imgix.net/images/vekllei.png?q=100&auto=format
+image: https://images.millmint.net/images/vekllei.png
 
 weight: 1
 list_posts: false

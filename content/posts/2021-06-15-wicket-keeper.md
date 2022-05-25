@@ -12,7 +12,7 @@ categories:
 keywords:
 - post
 - 2021
-image: https://millmint.imgix.net/images/wickets.jpg?q=100&auto=format
+image: https://images.millmint.net/images/wickets.jpg
 ---
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/o0k8to/wicketkeeper/" >}}Archived from the original article here{{< /button >}}

@@ -12,10 +12,9 @@ categories:
 - character
 keywords:
 - 2022
-image: https://millmint.imgix.net/images/transmission.jpg?q=100&auto=format
+image: https://images.millmint.net/images/transmission.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/tl3ktc/transmission_towers/
 ---
-
-{{< button href="https://www.reddit.com/r/vekllei/comments/tl3ktc/transmission_towers/" >}}Archived from the original article here{{< /button >}}
 
 Tzipora finished most school days at two in the afternoon. Her routine looked something like this:
 

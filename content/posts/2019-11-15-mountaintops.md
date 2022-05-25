@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2019
-image: https://millmint.imgix.net/images/mountaintops.jpg?q=100&auto=format
+image: https://images.millmint.net/images/mountaintops.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/dwa0fc/from_beaches_to_mountaintops/" >}}Archived from the original article here{{< /button >}}
 

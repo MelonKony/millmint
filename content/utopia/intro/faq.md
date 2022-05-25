@@ -7,7 +7,7 @@ tag: UTOPIA
 sitetag: Introduction
 color: pink
 
-image: https://millmint.imgix.net/images/drawing.jpg?q=100&auto=format
+image: https://images.millmint.net/images/drawing.jpg
 
 weight: 1
 list_posts: false

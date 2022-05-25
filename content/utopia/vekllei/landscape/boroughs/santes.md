@@ -7,7 +7,7 @@ tag: LANDSCAPE
 sitetag: Boroughs
 color: green
 
-image: https://millmint.imgix.net/images/shrine-minded.jpg?q=100&auto=format
+image: https://images.millmint.net/images/shrine-minded.jpg
 
 weight: 1
 bookHidden: true

@@ -13,7 +13,7 @@ categories:
 keywords:
     - post
     - 2020
-image: https://millmint.imgix.net/images/atheism.jpg?q=100&auto=format
+image: https://images.millmint.net/images/atheism.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/j8pisi/mittens_and_metaphysic_product_atheism_and/" >}}Archived from the original article here{{< /button >}}
 

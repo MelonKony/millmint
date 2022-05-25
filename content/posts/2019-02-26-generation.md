@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2019
-image: https://millmint.imgix.net/images/family.jpg?q=100&auto=format
+image: https://images.millmint.net/images/family.jpg
 
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/auz580/the_forgotten_generation/" >}}Archived from the original article here{{< /button >}}

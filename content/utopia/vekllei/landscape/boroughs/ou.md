@@ -7,7 +7,7 @@ tag: LANDSCAPE
 sitetag: Boroughs
 color: green
 
-image: https://millmint.imgix.net/images/hydro.jpg?q=100&auto=format
+image: https://images.millmint.net/images/hydro.jpg
 
 weight: 1
 bookHidden: true

@@ -9,7 +9,7 @@ categories:
 - character
 keywords:
 - 2021
-image: https://millmint.imgix.net/images/gymslip.jpg?q=100&auto=format
+image: https://images.millmint.net/images/gymslip.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/q6rzpp/new_roses/" >}}Archived from the original article here{{< /button >}}
 

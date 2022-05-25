@@ -11,7 +11,7 @@ categories:
 keywords:
     - post
     - 2018
-image: https://millmint.imgix.net/images/missiletrain.jpg?q=100&auto=format
+image: https://images.millmint.net/images/missiletrain.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/8axg6z/raillaunched_nuclear_missiles/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

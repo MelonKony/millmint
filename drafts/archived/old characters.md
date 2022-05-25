@@ -29,7 +29,7 @@ color: var(--color-pink);
 <h5 span class="tag pink"> UTOPIA </h5>
 <h6 span class="sitetag">Introduction</h6>
 
-![img](/images/roadtrip.jpg?q=100&auto=format)
+![img](/images/roadtrip.jpg)
 
 {{< hint pink >}}
 ߷ This article is about [**Hobart's characters**](/utopia/intro/#three-utopias), who live in [**Vekllei**](/utopia/vekllei)
@@ -48,7 +48,7 @@ color: var(--color-pink);
 
 ### Tzipora (Zelda) Desmoisnes
 {{< columns >}}
-![smallimg](https://millmint.imgix.net/images/mastheads/characters/zelda.png)
+![smallimg](https://images.millmint.net/images/mastheads/characters/zelda.png)
 <--->
 {{< details title="Fact Sheet" open=false >}}
 |                      | Tzipora lo Ula de Helette Desmoisnes                           |

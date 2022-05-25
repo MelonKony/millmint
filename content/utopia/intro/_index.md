@@ -10,7 +10,7 @@ color: pink
 weight: 1
 list_posts: false
 
-image: https://millmint.imgix.net/images/intro.gif
+image: https://images.millmint.net/images/intro.gif
 
 description: An intro to the world of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
@@ -57,7 +57,7 @@ Just a few things to keep in mind:
 * This place is **good-spirited** -- Vekllei is escapism, and although the dark accompanies the light, this project is supposed to be escapist and fun.
 * This place is **constantly expanding** -- I try out new styles, mediums and methods of distribution all the time. Some of them work, some of them don't. That's part of the fun of it!
 
-![img](https://millmint.imgix.net/images/orange.jpg?q=100&auto=format)
+![img](https://images.millmint.net/images/orange.jpg)
 
 ### Three Utopias
 
@@ -86,25 +86,25 @@ This project has three parts. Each part is a little utopia, in the sense that it
 
 <div class="row">
 <div class="column">
-<img src="https://millmint.imgix.net/images/mastheads/flags/aismious.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://images.millmint.net/images/mastheads/flags/aismious.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="https://millmint.imgix.net/images/mastheads/flags/azores.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://images.millmint.net/images/mastheads/flags/azores.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="https://millmint.imgix.net/images/mastheads/flags/demon.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://images.millmint.net/images/mastheads/flags/demon.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="https://millmint.imgix.net/images/mastheads/flags/kala.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://images.millmint.net/images/mastheads/flags/kala.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="https://millmint.imgix.net/images/mastheads/flags/kalina.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://images.millmint.net/images/mastheads/flags/kalina.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="https://millmint.imgix.net/images/mastheads/flags/mira.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://images.millmint.net/images/mastheads/flags/mira.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 <div class="column">
-<img src="https://millmint.imgix.net/images/mastheads/flags/vekllei-international.png?q=100&auto=format" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
+<img src="https://images.millmint.net/images/mastheads/flags/vekllei-international.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
 </div>
 </div>
 {{< hint caption >}}

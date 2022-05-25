@@ -1,7 +1,7 @@
 ---
 title: Zelda Electric Railway
 
-image: "/images/gymslip.jpg?q=100&auto=format"
+image: "/images/gymslip.jpg"
 ---
 
 **When she was a girl**, her mum took her shopping once a year. She said it was important to keep your dignity, though they didn’t have much money. That was Mette.

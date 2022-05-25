@@ -13,7 +13,7 @@ categories:
 keywords:
     - post
     - 2018
-image: https://millmint.imgix.net/images/christmas2018.jpg?q=100&auto=format
+image: https://images.millmint.net/images/christmas2018.jpg
 
 ---
 {{< button href="https://www.reddit.com/user/MelonKony/comments/a8tuqe/merry_christmas_everyone_plus_a_little_christmas/" >}}Archived from the original article here{{< /button >}}

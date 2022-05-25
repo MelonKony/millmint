@@ -7,7 +7,7 @@ tag: LANDSCAPE
 sitetag: Boroughs
 color: green
 
-image: https://millmint.imgix.net/images/lakehouse.jpg?q=100&auto=format
+image: https://images.millmint.net/images/lakehouse.jpg
 
 weight: 1
 bookHidden: true

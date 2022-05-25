@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2017
-image: https://millmint.imgix.net/images/youthmeet.jpg?q=100&auto=format
+image: https://images.millmint.net/images/youthmeet.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/6kgbkb/tzipora_has_her_photo_taken_at_youth_meet_2063/" >}}Archived from the original article here{{< /button >}}
 {{< hint yellow >}}

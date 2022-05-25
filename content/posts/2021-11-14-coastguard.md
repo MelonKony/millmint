@@ -9,7 +9,7 @@ categories:
 - landscape
 keywords:
 - 2021
-image: https://millmint.imgix.net/images/coastguard.jpg?q=100&auto=format
+image: https://images.millmint.net/images/coastguard.jpg
 
 rgb: 50, 72, 123
 ---

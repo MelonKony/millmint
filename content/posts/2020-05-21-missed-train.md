@@ -13,7 +13,7 @@ categories:
 keywords:
     - post
     - 2020
-image: https://millmint.imgix.net/images/missedtrain.jpg?q=100&auto=format
+image: https://images.millmint.net/images/missedtrain.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/gndpwo/the_last_train_out_of_ada/" >}}Archived from the original article here{{< /button >}}
 {{< hint >}}

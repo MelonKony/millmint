@@ -11,7 +11,7 @@ categories:
 keywords:
 - post
 - 2021
-image: https://millmint.imgix.net/images/fighter.jpg?q=100&auto=format
+image: https://images.millmint.net/images/fighter.jpg
 ---
 
 {{< button href="https://www.reddit.com/r/vekllei/comments/ns9ltc/air_atomic/" >}}Archived from the original article here{{< /button >}}

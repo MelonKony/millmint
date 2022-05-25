@@ -12,10 +12,9 @@ categories:
 - character
 keywords:
 - 2022
-image: https://millmint.imgix.net/images/panaderas.jpg?q=100&auto=format
+image: https://images.millmint.net/images/panaderas.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/uguwe7/panaderas/
 ---
-
-{{< button href="https://www.reddit.com/r/vekllei/comments/uguwe7/panaderas/" >}}Archived from the original article here{{< /button >}}
 
 She was in Lo, at the end of its winding river, standing in the place where the interior rains met the warm currents of the ocean. A mechanical clicking annoyed her but she could not tell if it was coming from the telephone exchange box or the electric street light above her head. It had just rained and it was a cold rain, so the air was sharp, and hurt and excited her lungs.
 

@@ -12,7 +12,7 @@ categories:
 keywords:
     - post
     - 2019
-image: https://millmint.imgix.net/images/supermarket.jpg?q=100&auto=format
+image: https://images.millmint.net/images/supermarket.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/csh4e6/supermarkets_in_vekllei/" >}}Archived from the original article here{{< /button >}}
 

@@ -13,7 +13,7 @@ categories:
 keywords:
     - post
     - 2019
-image: https://millmint.imgix.net/images/uniformideology.jpg?q=100&auto=format
+image: https://images.millmint.net/images/uniformideology.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/dj5di0/uniform_ideology_in_the_arctic_north/" >}}Archived from the original article here{{< /button >}}
 

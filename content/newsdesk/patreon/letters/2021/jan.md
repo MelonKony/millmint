@@ -13,7 +13,7 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 
-![smallimg](https://millmint.imgix.net/images/mastheads/letters/3.jpg?q=100&auto=format)
+![smallimg](https://images.millmint.net/images/mastheads/letters/3.jpg)
 
 {{< hint >}}
 ❖ This letter was sent out to Patrons in January 2021

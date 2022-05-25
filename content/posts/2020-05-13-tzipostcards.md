@@ -14,7 +14,7 @@ keywords:
     - post
     - update
     - 2020
-image: https://millmint.imgix.net/images/tzipostcards.jpg?q=100&auto=format
+image: https://images.millmint.net/images/tzipostcards.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/gide8n/announcing_tzipostcards/" >}}Archived from the original article here{{< /button >}}
 

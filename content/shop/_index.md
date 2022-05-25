@@ -4,7 +4,7 @@ list_posts: false
 ---
 <div class="shop-title">
   <a href="/shop/">
-  <img stye="pointer-events: none; cursor: default;" src="/images/mastheads/shop/shop.png?q=100&auto=format">
+  <img stye="pointer-events: none; cursor: default;" src="/images/mastheads/shop/shop.png">
   </a>
 </div>
 
@@ -19,7 +19,7 @@ list_posts: false
   <a class="item" href="/shop/item/railway-shirt">
     <div class="card">
       <div class="card-img">
-        <img src="https://millmint.imgix.net/images/mastheads/studiomillmint.png?q=100&auto=format">
+        <img src="https://images.millmint.net/images/mastheads/studiomillmint.png">
       </div>
       <h1>Zelda Electric Railway</h1>
       <h2>Tee Shirt</h2>
@@ -30,7 +30,7 @@ list_posts: false
   <a class="item" href="/shop/item/railway-shirt">
     <div class="card">
       <div class="card-img">
-        <img src="https://millmint.imgix.net/images/sketches/studiomillmint.png?q=100&auto=format">
+        <img src="https://images.millmint.net/images/sketches/studiomillmint.png">
       </div>
       <h1>Studio MillMint Tote</h1>
       <h2>Tote Bag</h2>

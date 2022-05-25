@@ -21,7 +21,7 @@ color: var(--color-red);
 <h5 span class="tag red"> ARTICLE </h5>
 <h6 span class="sitetag">Documents</h6>
 
-![img](/images/momentsinlove.jpg?q=100&auto=format)
+![img](/images/momentsinlove.jpg)
 
 {{< hint yellow >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei)
@@ -110,7 +110,7 @@ Bureaus
 
 ## 4. Currency and Markets
 
-![img](/images/crown.jpg?q=100&auto=format)
+![img](/images/crown.jpg)
 
 <span class="fc">T</span>
 **he Vekllei Kroner**, or “**Crown**,” is hundreds of years old, and Vekllei still operates a mint for currency. At any time, a Vekllei person can write to the National Mint and order a set of coins, like the ones pictured above. So what is going on here?

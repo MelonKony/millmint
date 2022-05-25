@@ -163,7 +163,7 @@ The **Labour Bank of Vekllei**[^2] is easily accessible via the Mail's **Financi
 
 ## 3. Operations
 
-![img](/images/manufacturie.jpg?q=100&auto=format)
+![img](/images/manufacturie.jpg)
 
 {{< hint orange >}}
 ❖ Read more: *[Gold Sappers](/posts/2021-04-09-sappers/)*
@@ -180,7 +180,7 @@ As is typical for critical bureaus in Vekllei, the Mail alleviates the stress of
 
 ### Staff
 
-![img](/images/sappers.jpg?q=100&auto=format)
+![img](/images/sappers.jpg)
 {{< hint caption>}}
 Illustration of Gold Sappers, the Venopor police detachment responsible to the Mint | *[Gold Sappers](/posts/2021-04-09-sappers/)*
 {{</hint>}}

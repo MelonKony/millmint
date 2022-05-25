@@ -13,7 +13,7 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 
-![smallimg](https://millmint.imgix.net/images/mastheads/letters/2.jpg?q=100&auto=format)
+![smallimg](https://images.millmint.net/images/mastheads/letters/2.jpg)
 
 {{< hint >}}
 ❖ This letter was sent out to Patrons in December 2020
@@ -29,7 +29,7 @@ There’s a **[new post up on the subreddit](https://www.reddit.com/r/vekllei/co
 
 Guess what else is launching over the new year? **The comic**. You’ll see it before that, of course, as I’m sketching the remaining pages now. But I hope to have it **ready and inked by early January**. Does it keep getting delayed? Yes. But that’s the unglamorous thing about infrastructure — it’s just work, and it’s not that visible. Hopefully regular posts fill the ache in the meantime.
 
-**[You can see a page I’ve inked here!](http://millmint.net/images/comics/test.jpg?q=100&auto=format)** This was a sort of test of style, and needs a bit of tweaking. Overall, I've ascertained that I like screen tones.
+**[You can see a page I’ve inked here!](http://millmint.net/images/comics/test.jpg)** This was a sort of test of style, and needs a bit of tweaking. Overall, I've ascertained that I like screen tones.
 
 I am very excited for **Patreon milestone merch** (in the form of beautiful little enamel pins), and will release a poll concerning designs **in the coming days**. I’ll also have a price-point — like last time, your lifetime pledge is deducted from the cost + shipping, and any difference can be made up easily. So no one will miss out who doesn’t want to.
 
