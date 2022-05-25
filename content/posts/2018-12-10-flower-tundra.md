@@ -15,10 +15,7 @@ keywords:
 image: https://images.millmint.net/images/flowertundra.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/a4viiv/the_flower_tundra/" >}}Archived from the original article here{{< /button >}}
-{{< hint yellow >}}
 
-❖ This article predates the project, and **should be considered non-canon**.
-{{< /hint >}}
 
 >The two girls caught a train from school to the terminus, and then a rural line as far as it would take them out of the city. They had walked the granite shoulder of a mountain range for most of the afternoon, carrying only a few mouthfuls of provisions between them. They were both dressed in winter uniforms for the summer hike. The sea air gathered cold and malevolence as it escaped up the range of peaks that chased Vekllei Proper. The girls walked as far as they could with a view of the city abreast before mounting the peak and descending into the flowery plateau beyond the city centre. The path gave way to basalt drumlins and soft flower-tundra. The horizon was marked by volcanic imperfections, and framed a stretch of colour entirely untouched. For only a few hour’s ride from the city, and a handful of foodstuffs acquired from the small village the train terminated in, they had disembarked from civilisation entirely and entered the world of the spirits.
 >

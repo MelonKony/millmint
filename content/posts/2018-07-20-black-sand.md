@@ -15,10 +15,7 @@ keywords:
 image: https://images.millmint.net/images/blacksand.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/90f56z/hot_summer_rain_on_a_beach_of_black_sand_iceland/" >}}Archived from the original article here{{< /button >}}
-{{< hint yellow >}}
 
-❖ This article predates the project, and **should be considered non-canon**.
-{{< /hint >}}
 
 Just as Iceland's initial history was reshaped into the image of Vekllei some centuries ago, so too has the real-world climate and weather been altered. Cool Icelandic summers have been usurped by volatile days that can be as low as 5C (40F) or as hot as 30C (85F+). Technically speaking, the unstable Atlantic pressure oscillation, of which Vekllei anchors as the Vekllei low pole, can pull in bitter cold from the Greenland currents, or warmth from the Azores tempestuously.
 

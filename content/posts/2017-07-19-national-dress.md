@@ -13,11 +13,8 @@ keywords:
     - post
     - 2017
 image: https://images.millmint.net/images/nationaldress.jpg
+reddit: https://www.reddit.com/r/worldbuilding/comments/6o1k7x/she_stands_in_the_harbour_in_national_dress_jets/
 ---
-{{< button href="https://www.reddit.com/r/worldbuilding/comments/6o1k7x/she_stands_in_the_harbour_in_national_dress_jets/" >}}Archived from the original article here{{< /button >}}
-{{< hint yellow >}}
-❖ This article predates the project, and **should be considered non-canon**.
-{{< /hint >}}
 
 Tzipora, a recent immigrant girl of eleven years, wears the feminine national dress of Vekllei. It is a delicate, traditional and deeply spiritual costume, and is tied to Vekllei’s foundations and aspirations as a state. It has political symbolism, but it also ties the girl to the land she stands on.
 

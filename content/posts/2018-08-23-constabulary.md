@@ -14,10 +14,7 @@ keywords:
 image: https://images.millmint.net/images/policeuniforms.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/99nhx6/the_constabulary/" >}}Archived from the original article here{{< /button >}}
-{{< hint yellow >}}
 
-❖ This article predates the project, and **should be considered non-canon**.
-{{< /hint >}}
 
 Policing is always difficult in utopian planning. On one hand, utopia is inherently opposed to the idea of policing and the can of worms it brings  —  on the other, people need to feel safe and protected. That’s not something I’ll be talking about today.
 

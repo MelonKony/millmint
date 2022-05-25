@@ -1017,7 +1017,7 @@ header {
         margin-left: 0.35rem; }
 
 article > *:first-child {
-  margin-top: 0.5rem; }
+  margin-top: 2rem; }
 
 body > canvas:not(#HeaderCanvas) {
   /*Hide annoying Vibrant canvas*/
@@ -2009,6 +2009,9 @@ html { font-family: 'Inter', sans-serif; }
 
 article blockquote h4 {
   margin-top: 0; }
+
+article hr {
+  color: var(--color-gray); }
 
 body article blockquote {
   border-inline-start: 0.25rem solid var(--color-gray);

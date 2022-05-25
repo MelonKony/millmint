@@ -14,10 +14,7 @@ keywords:
 image: https://images.millmint.net/images/radiation.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/7hohs9/radiation_poisoning_in_domestic_vekllei/" >}}Archived from the original article here{{< /button >}}
-{{< hint yellow >}}
 
-❖ This article predates the project, and **should be considered non-canon**.
-{{< /hint >}}
 
 **He started collecting radioactive material** from the clocks and electronic appliances in his house earlier in the week. The material, which included radium and americium, was placed in a compartment in the living room wall of his apartment. This exposed his wife, nine-year-old son and infant daughter to dangerous levels of radioactivity. By Wednesday that week the baby had fallen ill, and Mrs Toutan took her to Miuounne General that evening, returning with a prescription for ibuprofen. While his father was at work, and his mother was in the garden, the son rang the police the next day, hallucinating figures attempting to enter through the apartment windows.
 

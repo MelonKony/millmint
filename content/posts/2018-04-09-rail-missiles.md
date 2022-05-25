@@ -14,10 +14,7 @@ keywords:
 image: https://images.millmint.net/images/missiletrain.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/8axg6z/raillaunched_nuclear_missiles/" >}}Archived from the original article here{{< /button >}}
-{{< hint yellow >}}
 
-❖ This article predates the project, and **should be considered non-canon**.
-{{< /hint >}}
 
 This is a concept of a Vekllei Rocketry Corp rail ICBM launcher. It has distinctive-looking carriages, and so it serves no real purpose in being a ‘hidden’ ICBM launcher. Instead, this train is for testing rail-mounted ICBMs, which are then employed in plain and unmarked railcars. Today it idles by the lakeside town of Dupot-Monan, as its senior control staff await a hot lunch driven in from the town. All equipment, including the silo, is extended.
 

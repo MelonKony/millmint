@@ -15,10 +15,7 @@ keywords:
 image: https://images.millmint.net/images/policecar.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/8kca7t/police_in_vekllei/" >}}Archived from the original article here{{< /button >}}
-{{< hint yellow >}}
 
-❖ This article predates the project, and **should be considered non-canon**.
-{{< /hint >}}
 
 **Hopefully you won’t have to worry about the police while you’re in Vekllei**, but you’ll likely notice them. Police are everywhere  —  as an alternative to military (*duoroten*) service, conscripts can elect to enter domestic security *(inrote*n). Most officers are young, bored, and live in the community they police. You’ll likely be talking to them at some point in your visit, even if it’s only to ask for directions  —  in Vekllei, cops are the bulletin boards of the community.
 

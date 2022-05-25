@@ -14,10 +14,7 @@ keywords:
 image: https://images.millmint.net/images/vkdress.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/75wu54/the_national_dress_of_vekllei/" >}}Archived from the original article here{{< /button >}}
-{{< hint yellow >}}
 
-❖ This article predates the project, and **should be considered non-canon**.
-{{< /hint >}}
 
 **Vekllei people are usually buried in their national dress.** It marks the important stages in their way of life; of graduation, of marriage, of ceremony. The carousel of festivals and parades and holidays that these Atlantic people enjoy are all spent in uniform, their national costume, that forms the public face of their country.
 

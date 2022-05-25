@@ -16,10 +16,7 @@ image: https://images.millmint.net/images/family.jpg
 
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/auz580/the_forgotten_generation/" >}}Archived from the original article here{{< /button >}}
-{{< hint yellow >}}
 
-❖ This article predates the project, and **should be considered non-canon**.
-{{< /hint >}}
 
 We best know [Vekllei](https://vekllei.city/introducing-landscape/) as a dense society of utopia and great infrastructure today, but there was blood in that crucible. It is difficult to imagine that only fifty years ago these streets were unpaved and impassible with the rubble of old society. Shadows on concrete marked the souls lost in the arrogance of the monarchy. The nuclear fire was pregnant with a new generation of people, who, in the principles of [upen](https://vekllei.city/religion/), would forge a new society out of the ruins of the old.
 

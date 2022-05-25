@@ -2,6 +2,10 @@ article blockquote h4 {
 	margin-top: 0;
 }
 
+article hr {
+	color: var(--color-gray)
+}
+
 body article blockquote {
   border-inline-start: .25rem solid var(--color-gray);
   color: var(--color-gray);

@@ -18,10 +18,7 @@ image: https://images.millmint.net/images/character.jpg
 
 ---
 {{< button href="https://www.reddit.com/r/characterforge/comments/btfqm8/show_and_tell_meet_tzipora_desmoines_the_eternal/" >}}Archived from the original article here{{< /button >}}
-{{< hint yellow >}}
 
-❖ This article predates the project, and **should be considered non-canon**.
-{{< /hint >}}
 
 This is Tzipora. She goes by two names -- Tzipora, her birth name, and Zelda, a name she mistakenly thought sounded less Jewish. She lives in [Lola](https://www.reddit.com/r/worldbuilding/comments/blqcwl/utopia_the_participatory_economy_of_vekllei/) in the [Vekllei city-state](https://i1.wp.com/vekllei.city/wp-content/uploads/2018/11/img_0555.png?ssl=1).
 

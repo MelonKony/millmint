@@ -15,10 +15,7 @@ keywords:
 image: https://images.millmint.net/images/gregorichildren.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/7zm952/on_the_concept_of_childhood/" >}}Archived from the original article here{{< /button >}}
-{{< hint yellow >}}
 
-❖ This article predates the project, and **should be considered non-canon**.
-{{< /hint >}}
 
 **This post is part discussion, part lore.**
 

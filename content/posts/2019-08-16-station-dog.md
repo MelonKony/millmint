@@ -15,9 +15,7 @@ image: https://images.millmint.net/images/dog.jpg
 ---
 {{< button href="https://www.reddit.com/r/vekllei/comments/cr65zu/the_people_of_veklleis_railway_plus_dog/" >}}Archived from the original article here{{< /button >}}
 
-{{< hint yellow >}}
-❖ This article predates the project, and **should be considered non-canon**.
-{{< /hint >}}
+
 
 I’m starting a series looking at the lives and machines of domestic Vekllei life.
 

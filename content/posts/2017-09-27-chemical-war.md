@@ -14,10 +14,7 @@ keywords:
 image: https://images.millmint.net/images/chemicalwar.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/72lalc/chemical_warfare_in_2063_vekllei/" >}}Archived from the original article here{{< /button >}}
-{{< hint yellow >}}
 
-❖ This article predates the project, and **should be considered non-canon**.
-{{< /hint >}}
 
 >“We came to a town and found it scorched with mustard and the fragments of phosgene shells, and the wind whistled through the doorways that were left open. I remember being surprised by how many of them were in basements  —  probably because they thought the gas would blow away in the wind. The entire town was dead, and we were worried that the gasses were still lingering, so the unit wore their masks as we began to cremate them. The flies lay eggs in the heat and that’s all anyone talked about; lots of flies. They gave us cigarettes to mask the smell.
 

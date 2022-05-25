@@ -14,10 +14,7 @@ keywords:
 image: https://images.millmint.net/images/eroguro.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/c05k16/absolute_grotesque/" >}}Archived from the original article here{{< /button >}}
-{{< hint yellow >}}
 
-❖ This article predates the project, and **should be considered non-canon**.
-{{< /hint >}}
 
 [Previous post here](https://www.reddit.com/r/worldbuilding/comments/busvvn/catching_a_steam_locomotive_to_school/).
 

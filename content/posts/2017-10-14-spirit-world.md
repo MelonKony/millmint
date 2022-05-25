@@ -15,10 +15,7 @@ keywords:
 image: https://images.millmint.net/images/spiritworld.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/764ir8/entering_the_spirit_world/" >}}Archived from the original article here{{< /button >}}
-{{< hint yellow >}}
 
-❖ This article predates the project, and **should be considered non-canon**.
-{{< /hint >}}
 
 **Suddenly the blood drained from her lungs** and she breathed in, only to double over, hacking blood into the grass between her shoes. She wiped her bloody mouth on the back of her arm and mumbled something like ‘sorry’ before coughing again. She slipped off her shoes and made her way to the clearing.
 

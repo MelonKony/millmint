@@ -14,10 +14,7 @@ keywords:
 image: https://images.millmint.net/images/bike.jpg
 ---
 {{< button href="https://www.reddit.com/r/worldbuilding/comments/a7ltvy/the_suburban_constabulary/" >}}Archived from the original article here{{< /button >}}
-{{< hint yellow >}}
 
-❖ This article predates the project, and **should be considered non-canon**.
-{{< /hint >}}
 
 The constabulary is old-fashioned and it can’t last forever. It predates Petticoat-era Vekllei, the previous regime lost to atomic ash, and even the monarchy itself — it was the first community militia of the country and a great deal of romanticism that had been lost in the death of the monarchy has been invested in them. Vekllei people have no gods and no kings; the comfort of tradition is invested in relic institutions like the constabulary. Their uniforms are ostentatious and stylish; they carry ceremonial swords; they guard the nation’s children and leaders alike as part of [venrouiva policing](https://www.reddit.com/r/worldbuilding/comments/99nhx6/the_constabulary/), and so on.
 
