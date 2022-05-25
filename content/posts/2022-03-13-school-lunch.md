@@ -13,9 +13,8 @@ categories:
 keywords:
 - 2022
 image: https://images.millmint.net/images/lunch.jpg
+reddit: https://www.reddit.com/r/vekllei/comments/td9iwj/tzipora_takes_her_lunch_to_school/
 ---
-
-{{< button href="https://www.reddit.com/r/vekllei/comments/td9iwj/tzipora_takes_her_lunch_to_school/" >}}Archived from the original article here{{< /button >}}
 
 {{< hint >}}
 ❖ Read more: *[A Vekllei Breakfast](/posts/2021-05-09-breakfast/)*
