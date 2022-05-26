@@ -3,6 +3,7 @@ title: The Atlantic Bulletin Archive
 weight: "2"
 fulltitle: The Atlantic Bulletin Archive
 emoji: -flower
+icon: 🌼
 tag: BULLETIN
 sitetag: Documents
 color: yellow

@@ -1,28 +1,28 @@
 ---
-title: Preview
-weight: "1"
-fulltitle: Atomic Modern (2020 Draft)
+title: Atomic Moderne Chapter 1
+fulltitle: 2021 Draft — Gang of One
+icon: 🎐
 emoji: a
+
 tag: COMIC
 sitetag: Story
-
-color: yellow
-
-description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
-author: Hobart Phillips
-keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+color: blue
 ---
-{{< hint >}}
-❖ **Tip:** press the black circle in the menu to read in dark mode
-{{< /hint >}}
+<style>
+img {
+	width: 100%!important;
+	margin: auto!important;
+}
+</style>
+
 {{< hint >}}
 ❖ **Note from the Editor:**
 This draft represents the final copy used as a reference for inking -- the final lines. It's not pretty, but it is legible, and once all the inking and lettering and tone work is done it'll be quite special. **There are a couple of pages missing**. One between the airport and the cafe, and another to fill out the conversation in the cafe. Those will arrive soon. Thank you kindly for your support.
 {{< /hint >}}
 
-## Chapter 1
+{{< button style="float: right;" relref="/comic/" >}}Back to Chapters{{< /button >}}
 
-![img](https://images.millmint.net/images/comics/drafts/Cover.jpg)
+![img](https://imgur.com/lES8o3e.jpg)
 ![img](https://images.millmint.net/images/comics/drafts/1.jpg)
 ![img](https://images.millmint.net/images/comics/drafts/2.jpg)
 ![img](https://images.millmint.net/images/comics/drafts/3.jpg)

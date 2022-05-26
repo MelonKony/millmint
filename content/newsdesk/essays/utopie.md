@@ -2,6 +2,7 @@
 title: Utopie Concrète
 
 fulltitle: Utopie Concrète
+icon: ☕️
 emoji: K
 tag: ESSAY
 sitetag: Newsdesk

@@ -3,6 +3,7 @@ title: May 2021
 weight: "5"
 fulltitle: May Update for Patrons
 emoji: -mail
+icon: ✉️
 tag: EDITOR
 sitetag: Patreon
 

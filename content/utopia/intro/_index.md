@@ -1,7 +1,9 @@
 ---
 title: Intro
 fulltitle: Welcome to the Epoch of Rest
+icon: 🎫
 emoji: S
+pagecode: 101INT
 
 tag: UTOPIA
 sitetag: Introduction

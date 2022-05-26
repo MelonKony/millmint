@@ -2,10 +2,12 @@
 title: Flous
 
 fulltitle: The Borough of Flous
+icon: 🏠
 emoji: ←
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green
+pagecode: 233FLO
 
 image: https://images.millmint.net/images/newyear2022.jpg
 

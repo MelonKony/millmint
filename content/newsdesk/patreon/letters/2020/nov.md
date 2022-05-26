@@ -3,6 +3,7 @@ title: Nov 2020
 weight: "1"
 fulltitle: Nov. Update for Patrons
 emoji: -mail
+icon: ✉️
 tag: EDITOR
 sitetag: Patreon
 

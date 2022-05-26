@@ -8,14 +8,22 @@
       {{ end }}
 
       <div class="headerbox">
-        <h1 class="title {{ .Params.Color }}" style="line-height: 1.2; font-size: 1.6rem; font-weight: 700; margin-bottom: 1rem; filter: brightness(35%);">{{ if .Params.fulltitle }}{{ .Params.fulltitle }}</h1>
+        <h1 class="title {{ .Params.Color }}" style="line-height: 1.2; font-size: 1.7rem; font-weight: 700; margin-bottom: 1rem; filter: brightness(35%);">{{ if .Params.fulltitle }}{{ .Params.fulltitle }}</h1>
         {{ end }}
         <div class="tag {{ .Params.Color }}">{{ if .Params.tag }}{{ .Params.tag }}</div>
         {{ end }}
         <div class="sitetag {{ .Params.Color }}">{{ if .Params.sitetag }}{{ .Params.sitetag }}</div>
         {{ end }}
-        <div class="emoji {{ .Params.Color }}" id="whirlybat">{{ if .Params.emoji }}{{ .Params.emoji }}</div>
+        <!--<div class="icon-container {{ .Params.Color }}">
+          <span class="icon-bg {{ .Params.Color }}"></span>-->
+          <span class="icon {{ .Params.Color }}" style="line-height: 1.2;">{{ if .Params.icon }}{{ .Params.icon }}</span>
+          {{ end }}
+        <!--</div>-->
+        <!--<div class="pagecode {{ .Params.Color }}">{{ if .Params.pagecode }}{{ .Params.pagecode }}</div>
+        {{ end }}-->
+        <div class="emoji {{ .Params.Color }}" id="whirlybat" style="opacity: 50%;">{{ if .Params.emoji }}{{ .Params.emoji }}</div>
         {{ end }}
+        
       </div>
     </div>
   </div>
@@ -24,8 +32,8 @@
 <div>
   <div>
     <div class="post-meta">
-      <div class="date">{{if .Params.PublishDate}}{{- .PublishDate.Format "Monday, Jan 2, 2006" -}}{{ end }}</div>
-      <div class="post-tag"><!--{{ partial "tags.html" .}}-->{{ partial "categories.html" .}}</div>
+      <div class="date" style="margin-left: .25rem;">{{if .Params.PublishDate}}{{- .PublishDate.Format "Monday, Jan 2, 2006" -}}{{ end }}</div>
+      <div class="post-tag" style="margin-right: .25rem;"><!--{{ partial "tags.html" .}}-->{{ partial "categories.html" .}}</div>
     </div>
   </div>
 </div>

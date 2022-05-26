@@ -2,10 +2,12 @@
 title: Yana
 
 fulltitle: The Borough of Yana
+icon: ⛵️
 emoji: ←
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green
+pagecode: 2315YAN
 
 image: https://images.millmint.net/images/lakehouse.jpg
 

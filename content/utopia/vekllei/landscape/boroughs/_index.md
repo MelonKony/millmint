@@ -2,10 +2,12 @@
 title: Boroughs
 
 fulltitle: The Boroughs of Vekllei
+icon: 🌐
 emoji: ←
 tag: LANDSCAPE
 sitetag: Introduction
 color: green
+pagecode: 230BGH
 
 image: https://images.millmint.net/images/vekllei.png
 

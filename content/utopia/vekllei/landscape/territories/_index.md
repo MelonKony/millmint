@@ -1,21 +1,25 @@
 ---
 title: Territories
 fulltitle: The Territories of Vekllei
+icon: 🌐
 emoji: ←
 tag: LANDSCAPE
 sitetag: Introduction
 color: green
+pagecode: 232TER
 
 image: https://images.millmint.net/images/territories.jpg
 
 weight: 1
 ---
 
-![img](https://images.millmint.net/images/territories.jpg)
-
 {{< hint green >}}
 ♣ This page lists completed articles on [**Vekllei's**](/utopia/vekllei) [**overseas territories**](/utopia/vekllei/#administrative-divisions)
 {{< /hint >}}
+
+## Overview
+
+The word *Vekllei* here refers to the Vekllei Commonwealth, which is a supernational association of independent states that includes the [Home Island](/utopia/vekllei) and its dependent territories as well as sovereign, independent member-states like Kalina and Aismious.
 
 1. **Crown Lakes**, or *Kronaislagaisdelfia*, are governmental territories of human concern, analogous to public land or federal territory overseas.
 2. **Crown Land**, or *Kronaismioudelfia*, are nongovernmental territories of natural reservation. Although similar in some ways to nature reserves or national parks, their legal status in Vekllei is somewhat more complex; although *de facto* part of the country, the government does not recognise human sovereignty over these regions, a feature inherited from [Upen](/utopia/vekllei/religion).
@@ -24,16 +28,7 @@ weight: 1
 
 ## Vekllei's Overseas Territories & Provinces
 
-![img](https://images.millmint.net/images/mastheads/flags/aismious.png)
-![img](https://images.millmint.net/images/mastheads/flags/antarctic.png)
-![img](https://images.millmint.net/images/mastheads/flags/azores.png)
-![img](https://images.millmint.net/images/mastheads/flags/demon.png)
-![img](https://images.millmint.net/images/mastheads/flags/kala.png)
-![img](https://images.millmint.net/images/mastheads/flags/kalina.png)
-![img](https://images.millmint.net/images/mastheads/flags/mira.png)
-![img](https://images.millmint.net/images/mastheads/flags/moon.png)
-<a href="https://millmint.net/utopia/vekllei" rel="some text">![img](https://images.millmint.net/images/mastheads/flags/vekllei-domestic.png)</a>
-<a href="https://millmint.net/utopia/vekllei" rel="some text">![img](https://images.millmint.net/images/mastheads/flags/vekllei-international.png)</a>
+### The Kalina Island Commonwealth
 
 <style>
 /* flags */

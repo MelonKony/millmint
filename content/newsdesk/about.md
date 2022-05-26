@@ -2,6 +2,7 @@
 title: About
 weight: "1"
 fulltitle: About the Author
+icon: 🪺
 emoji: v
 tag: CONTACT
 sitetag: Newsdesk

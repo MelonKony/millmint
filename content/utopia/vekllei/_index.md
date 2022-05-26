@@ -1,7 +1,10 @@
 ---
 title: Vekllei
 fulltitle: Commonwealth of Vekllei
+icon: 🌺
 emoji: -millmint
+pagecode: 200VEK
+
 tag: UTOPIA
 sitetag: Introduction
 color: pink

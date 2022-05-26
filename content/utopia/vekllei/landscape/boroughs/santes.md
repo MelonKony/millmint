@@ -2,10 +2,12 @@
 title: Santes
 
 fulltitle: The Borough of Santes
+icon: 🌿
 emoji: ←
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green
+pagecode: 2312SAN
 
 image: https://images.millmint.net/images/shrine-minded.jpg
 

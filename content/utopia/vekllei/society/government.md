@@ -2,6 +2,7 @@
 title: Government
 
 fulltitle: The Government of Vekllei
+icon: 🏛
 emoji: Ζ
 tag: SOCIETY
 sitetag: Article

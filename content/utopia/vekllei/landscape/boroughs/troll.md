@@ -2,10 +2,12 @@
 title: Troll
 
 fulltitle: The Borough of Troll
+icon: 🐉
 emoji: ←
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green
+pagecode: 2313TRL
 
 image: https://images.millmint.net/images/orange.jpg
 

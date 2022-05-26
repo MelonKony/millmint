@@ -2,13 +2,13 @@
 title: Characters
 
 fulltitle: Cast of Characters
+icon: 🐱
 emoji: ¥
 tag: UTOPIA
 sitetag: Introduction
-color: pink
+pagecode: 210CHA
 
-weight: 2
-list_posts: false
+color: pink
 
 image: https://images.millmint.net/images/liminal.jpg
 

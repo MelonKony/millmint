@@ -3,6 +3,7 @@ title: The Cane
 weight: "1"
 fulltitle: The Cane
 emoji: -atom
+icon: 👔
 tag: SNAPSHOT
 sitetag: May 15, 2021
 

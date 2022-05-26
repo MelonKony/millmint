@@ -1,33 +1,28 @@
 ---
-weight: 10
-title: "Chapter 1"
-bookHidden: true
-bookSearchExclude: true
+title: Atomic Moderne Chapter 1
+fulltitle: 2021 Draft — Gang of One
+icon: 🎐
+emoji: a
+
+tag: COMIC
+sitetag: Story
+color: blue
 ---
 <style>
 img {
-	margin: 0rem 0;
-	border-inline-start: o solid var(--gray-200);
-	border-radius: .25rem;
+	width: 100%!important;
+	margin: auto!important;
 }
 </style>
 
-<div id="headerbox">
-  <h1 class="title">Gang of One</h1>
-  <h1 class="emoji"id="whirlybat">a</h1>
-</div>
-<div style="clear: both;"></div>
+{{< hint >}}
+❖ **Note from the Editor:**
+This draft represents the final copy used as a reference for inking -- the final lines. It's not pretty, but it is legible, and once all the inking and lettering and tone work is done it'll be quite special. **There are a couple of pages missing**. One between the airport and the cafe, and another to fill out the conversation in the cafe. Those will arrive soon. Thank you kindly for your support.
+{{< /hint >}}
 
-<!--<h5 span class="tag gray"> COMIC </h5>
-<h6 span class="sitetag">Story</h6>-->
-{{< button style="float: right;" relref="/comic/" >}}Back to Boroughs{{< /button >}}
-{{<hint panel>}}
-<h2 span class="tag gray"> CHAPTER 1 </h2>
-{{</hint>}}
+{{< button style="float: right;" relref="/comic/" >}}Back to Chapters{{< /button >}}
 
-<a href="https://imgur.com/lES8o3e.jpg><img src="https://i.imgur.com/lES8o3e.jpg title="source: imgur.com" /></a>
-
-
+![img](https://imgur.com/lES8o3e.jpg)
 ![img](https://images.millmint.net/images/comics/drafts/1.jpg)
 ![img](https://images.millmint.net/images/comics/drafts/2.jpg)
 ![img](https://images.millmint.net/images/comics/drafts/3.jpg)

@@ -2,15 +2,15 @@
 title: Lola
 
 fulltitle: The Borough of Lola
+icon: 🪷
 emoji: ←
+pagecode: LOLA
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green
+pagecode: 237LLA
 
 image: https://images.millmint.net/images/gardencity.jpg
-
-weight: 1
-bookHidden: true
 
 description: The borough of Lola is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips

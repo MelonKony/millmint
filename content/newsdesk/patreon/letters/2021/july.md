@@ -3,6 +3,7 @@ title: Jul 2021
 weight: "6"
 fulltitle: Jul. Update for Patrons
 emoji: -mail
+icon: ✉️
 tag: EDITOR
 sitetag: Patreon
 

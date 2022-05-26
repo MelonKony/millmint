@@ -1,11 +1,13 @@
 ---
 title: Kalina
 
-fulltitle: The Commonwealth of Kalina
+fulltitle: The Island Commonwealth of Kalina
+icon: 🏝
 emoji: ←
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green
+pagecode: 2321KAL
 
 image: https://images.millmint.net/images/marinerailway.jpg
 

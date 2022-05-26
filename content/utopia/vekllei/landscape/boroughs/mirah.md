@@ -2,10 +2,12 @@
 title: Mirah
 
 fulltitle: The Borough of Mirah
+icon: 🤸‍♀️
 emoji: ←
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green
+pagecode: 238MRA
 
 image: https://images.millmint.net/images/waterfront.jpg
 

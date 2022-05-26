@@ -2,10 +2,12 @@
 title: Miyatvousi
 
 fulltitle: The Borough of Miyatvousi
+icon: 🌋
 emoji: ←
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green
+pagecode: 239MYT
 
 image: https://images.millmint.net/images/hollywood.jpg
 

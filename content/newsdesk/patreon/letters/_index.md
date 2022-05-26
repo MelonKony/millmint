@@ -3,6 +3,7 @@ title: Letters
 weight: "1"
 fulltitle: Letters From the Editor
 emoji: -mail
+icon: 📬
 tag: PATREON
 sitetag: Newsdesk
 

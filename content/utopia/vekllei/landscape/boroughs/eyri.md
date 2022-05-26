@@ -2,10 +2,12 @@
 title: Eyri
 
 fulltitle: The Borough of Eyri
+icon: 🌊
 emoji: ←
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green
+pagecode: 232EYR
 
 image: https://images.millmint.net/images/serpent.jpg
 

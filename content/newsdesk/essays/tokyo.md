@@ -2,6 +2,7 @@
 title: A Cashless Tokyo
 
 fulltitle: A Cashless Tokyo
+icon: 🍜
 emoji: 9
 tag: ESSAY
 sitetag: Newsdesk

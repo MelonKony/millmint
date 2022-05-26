@@ -2,7 +2,9 @@
 title: On Moneylessness
 
 fulltitle: On Moneylessness
+icon: 💸
 emoji: ō
+pagecode: MONEYLESS
 tag: ESSAY
 sitetag: Newsdesk
 color: blue

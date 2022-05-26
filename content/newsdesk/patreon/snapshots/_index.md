@@ -3,6 +3,7 @@ title: Snapshots
 weight: "3"
 fulltitle: Snapshots
 emoji: -atom
+icon: 🕯
 tag: PATREON
 sitetag: Newsdesk
 

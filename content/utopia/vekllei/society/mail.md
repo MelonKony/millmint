@@ -2,6 +2,7 @@
 title: Mail
 
 fulltitle: The Royal Mail of Vekllei
+icon: 📯
 emoji: -stamp
 tag: SOCIETY
 sitetag: Article

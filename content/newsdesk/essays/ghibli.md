@@ -2,6 +2,7 @@
 title: Ghibli
 
 fulltitle: A Universal Nostalgia
+icon: 🫧
 emoji: V
 tag: ESSAY
 sitetag: Newsdesk

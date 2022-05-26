@@ -3,6 +3,7 @@ title: Jan 2021
 weight: "3"
 fulltitle: Jan. Update for Patrons
 emoji: -mail
+icon: ✉️
 tag: EDITOR
 sitetag: Patreon
 

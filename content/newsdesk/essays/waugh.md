@@ -2,6 +2,7 @@
 title: Waugh
 
 fulltitle: Landscape in the Age of Frustration
+icon: 🍾
 emoji: -pipe
 tag: ESSAY
 sitetag: Newsdesk

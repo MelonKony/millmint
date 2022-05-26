@@ -2,15 +2,14 @@
 title: Lita
 
 fulltitle: The Borough of Lita
+icon: 🚀
 emoji: ←
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green
+pagecode: 236LTA
 
 image: https://images.millmint.net/images/rocket.jpg
-
-weight: 1
-bookHidden: true
 
 description: The borough of Lo is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips

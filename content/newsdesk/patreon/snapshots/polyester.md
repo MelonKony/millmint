@@ -3,6 +3,7 @@ title: Polyester
 weight: "1"
 fulltitle: Polyester
 emoji: -atom
+icon: 👚
 tag: SNAPSHOT
 sitetag: April 4, 2020
 

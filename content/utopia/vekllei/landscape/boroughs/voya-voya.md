@@ -2,10 +2,12 @@
 title: Voya Voya
 
 fulltitle: The Borough of Voya Voya
+icon: 💧
 emoji: ←
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green
+pagecode: 2314VYA
 
 image: https://images.millmint.net/images/rivers.jpg
 

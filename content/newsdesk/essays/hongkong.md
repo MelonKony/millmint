@@ -2,6 +2,7 @@
 title: Hong Kong
 
 fulltitle: Not Long in Hong Kong
+icon: ☂️
 emoji: «
 tag: ESSAY
 sitetag: Newsdesk

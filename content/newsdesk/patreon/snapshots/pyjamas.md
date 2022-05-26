@@ -3,6 +3,7 @@ title: Pyjamas
 weight: "1"
 fulltitle: Pyjamas
 emoji: -atom
+icon: 💌
 tag: SNAPSHOT
 sitetag: July 14, 2021
 

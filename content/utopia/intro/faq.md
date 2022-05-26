@@ -2,7 +2,10 @@
 title: FAQ
 
 fulltitle: Frequently Asked Questions
-emoji: -bird
+icon: 🎙
+emoji: -love
+pagecode: 102FAQ
+
 tag: UTOPIA
 sitetag: Introduction
 color: pink

@@ -1,7 +1,7 @@
 ---
 title: Bulletin
-weight: "2"
 fulltitle: The Petticoat Research Bulletin
+icon: 💾
 emoji: -osc
 tag: BULLETIN
 sitetag: Newsdesk

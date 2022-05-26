@@ -2,10 +2,12 @@
 title: Mumen
 
 fulltitle: The Borough of Mumen
+icon: 🏖
 emoji: ←
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green
+pagecode: 2310MMN
 
 image: https://images.millmint.net/images/sketches/sandmage.jpg
 

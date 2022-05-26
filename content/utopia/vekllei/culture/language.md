@@ -1,9 +1,11 @@
 ---
 title: Language
-weight: 2
 fulltitle: Language in Vekllei
+icon: 📖
 emoji: q
 tag: CULTURE
+pagecode: 220LAN
+
 sitetag: Article
 color: red
 

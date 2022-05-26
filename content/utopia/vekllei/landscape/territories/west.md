@@ -1,14 +1,13 @@
 ---
 title: West Antilles
 
-fulltitle: The Commonwealth of the West Antilles
+fulltitle: The Island Commonwealth of the West Antilles
+icon: 🌴
 emoji: ←
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green
-
-weight: 1
-bookHidden: true
+pagecode: 2322CWA
 
 description: The Commonwealth of Kalina is an administrative region of the Commonwealth of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips

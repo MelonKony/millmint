@@ -2,10 +2,12 @@
 title: Bakur
 
 fulltitle: The Borough of Bakur
+icon: ⚓️
 emoji: ←
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green
+pagecode: 231BAK
 
 weight: 1
 bookHidden: true

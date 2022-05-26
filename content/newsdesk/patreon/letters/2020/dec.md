@@ -3,6 +3,7 @@ title: Dec 2020
 weight: "2"
 fulltitle: Dec. Update for Patrons
 emoji: -mail
+icon: ✉️
 tag: EDITOR
 sitetag: Patreon
 

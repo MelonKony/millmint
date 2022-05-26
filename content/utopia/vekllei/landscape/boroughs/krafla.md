@@ -2,10 +2,12 @@
 title: Krafla
 
 fulltitle: The Borough of Krafla
+icon: 🗼
 emoji: ←
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green
+pagecode: 235KFL
 
 image: https://images.millmint.net/images/liminal.jpg
 
