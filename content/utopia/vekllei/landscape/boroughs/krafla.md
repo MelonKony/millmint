@@ -52,7 +52,7 @@ Krafla is extremely flat, glacial and dominated by lava fields. Snow settles acr
 
 ### Old Kralfa Ruins
 
-Krafla's historic agricultural community, including several large stone structures, were swept away in the 1911 Krafla Dam Disaster. The dam collapse swept away the town, killing 48 people. Most of the town was not rebuilt. The ruins of the larger stone structures are still visible in winter.
+Krafla's historic agricultural community, including several large stone structures, were swept away in the 1911 Krafla Dam Disaster. The dam collapse flooded the town, killing 48 people. Most of the town was not rebuilt. The ruins of the larger stone structures are still visible in winter.
 
 ### Hagsoraefi Lava Fields
 
