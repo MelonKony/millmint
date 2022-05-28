@@ -56,7 +56,7 @@ Krafla's historic agricultural community, including several large stone structur
 
 ### Hagsoraefi Lava Fields
 
-The Hagsoraefi Lava Fields are part of the patchwork of glacial highlands stretching through Vika, Lava, and western Lumiousniya. Dominated by huge basalt fields and mossy tundra, the Fields dominate the landscape of Krafla and its towns.
+The Hagsoraefi Lava Fields are part of the patchwork of glacial igneous highlands stretching through Vika, Lava, and western Lumiousniya. Dominated by huge basalt fields and mossy tundra, the Fields dominate the landscape of Krafla and its towns.
 
 ### Joskuslsa River
 
