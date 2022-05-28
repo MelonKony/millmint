@@ -74,11 +74,11 @@ In the highlands on the far side of the Joskuslsa river are Krafla's mysterious 
 
 ## Infrastructure
 
-Krafla is dependent on its arterial M224 highway and regional rail connections. As part of the agricultural belt of the north glacial lava fields, Krafla lacks heavy industry or the presence of bureau commerce. It is a traditional borough characterised by Vekllei co-operative (*socialistzesm*) farms and minor regional tourism. 
+Krafla is dependent on its arterial M224 highway and regional rail connections. As part of the agricultural belt in the north glacial lava fields, Krafla lacks heavy industry or the presence of bureau commerce. It is a traditional borough characterised by Vekllei co-operative (*socialistzesm*) farms and minor regional tourism. 
 
 ### Seispri Vis Inn
 
-The *Seispri Vis* Inn is a traditional *Mosesm*-style Inn in the centre of Krafla, one of the oldest in the Lumiousniya region. Founded in 1673, it was damaged and closed for several years. After reopening in 1919, Seispri Vis found great success catering to the late Junta fascination with rural recreation, and is renowned regionally. It is currently maintained by the Bousmiosn family.
+The *Seispri Vis* Inn is a traditional *Mosesm*-style Inn in the centre of Krafla, one of the oldest in the Lumiousniya region. Founded in 1673, it was damaged in the Krafla Dam Disaster and closed for several years. After reopening in 1919, Seispri Vis found great success catering to the late Junta fascination with rural recreation, and is renowned regionally. It is currently maintained by the Bousmiosn family.
 
 ### Krafla High-Energy Communications Tower
 
