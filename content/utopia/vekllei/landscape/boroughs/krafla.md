@@ -48,7 +48,7 @@ In the Floral Period, life in Krafla remains agrarian, but the borough does attr
 
 ## Geography
 
-Krafla is extremely flat, glacial and dominated by lava fields. Snow settles across its wide basalt planes and contributes to seasonal melting that feeds into the Joskuslsa River. Krafla has extraordinarily fertile soil, and its satellite farm towns of Krafla-Vis and Voya Vema are dominated by centuries-old farming communities. The 'Borough Town' of Krafla resembles a moonscape. 
+Krafla is extremely flat, glacial and dominated by lava fields. Snow settles across its wide basalt plains and contributes to seasonal melting that feeds into the Joskuslsa River. Krafla has extraordinarily fertile soil, and its satellite farm towns of Krafla-Vis and Voya Vema are dominated by centuries-old farming communities. The 'Borough Town' of Krafla resembles a moonscape. 
 
 ### Old Kralfa Ruins
 
