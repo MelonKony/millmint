@@ -87,7 +87,7 @@ The *Seispri Vis* Inn is a traditional *Mosesm*-style Inn in the centre of Krafl
 The Krafla HET marks the landscape for miles around | *[Base Camp](/posts/2020-07-21-base-camp/)*
 {{</hint>}}
 
-The Krafla High-Energy Communications Tower was constructed by the Commonwealth Telecom Directorate in 2028 to improve electric switchboard service in Vekllei's north-east. An old-fashioned mast radiator design, the Krafla HET is a form of monopole antenna. The guyed mast radiates vertically polarised radio waves, which covers most of the Home Islands.
+The Krafla High-Energy Communications Tower was constructed by the Commonwealth Telecom Directorate in 2028 to improve electric switchboard service in Vekllei's north-east. An old-fashioned mast radiator design, the guyed tower radiates vertically polarised radio waves that service most of the Home Islands.
 
 The Krafla HET makes up part of the low-frequency emergency radio network, and contributes to the communications redundancy measures of the Home Islands.
 
