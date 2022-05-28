@@ -44,7 +44,7 @@ In 1911, the Krafla Hydroelectric Dam collapsed, washing away much of Krafla's d
 
 The borough remained heavily agricultural up until the Atomic War, comprising mostly of traditional co-operative farms. 
 
-In the Floral Period, Krafla remains primarily agricultural but attracts some regional tourism as a thoroughfare into the deeper highlands interior.
+In the Floral Period, life in Krafla remains agrarian, but the borough does attract some regional tourism as a thoroughfare into the deeper highland interior.
 
 ## Geography
 
