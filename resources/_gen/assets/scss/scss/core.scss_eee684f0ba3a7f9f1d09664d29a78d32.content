@@ -2286,7 +2286,7 @@ article img[alt~="smallimg"] {
   border-radius: 3.5px;
   display: block; }
 
-.outline h1, h2, h3, h4, h5, h6 {
+.outline h1, .outline h2, .outline h3, .outline h4, .outline h5, .outline h6 {
   margin-top: 0.5rem !important; }
 
 .outline li strong {
@@ -2318,6 +2318,9 @@ article img[alt~="smallimg"] {
   padding: .5rem 1rem .5rem .75rem;
   border-inline-start: none;
   border-radius: .25rem; }
+
+.section h1, .section h2, .section h3, .section h4, .section h5, .section h6 {
+  margin-top: 0.5rem !important; }
 
 .search {
   position: relative;
