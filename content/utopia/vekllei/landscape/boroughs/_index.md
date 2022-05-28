@@ -64,7 +64,7 @@ A Vekllei [borough](/utopia/vekllei/#administrative-divisions) is an unusual adm
 
 ## Lumiousniya Region
 
-N/A
+[Krafla](/utopia/vekllei/landscape/boroughs/krafla)
 
 ## Vika Region
 
