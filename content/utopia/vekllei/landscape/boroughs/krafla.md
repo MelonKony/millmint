@@ -36,7 +36,7 @@ Krafla is named after the petty demon Fismiosn Krafla mentioned in the *Saga of 
 
 -- Tzipora Desmoisnes
 
-Like many of Vekllei's interior boroughs, Krafla's origins are agricultural. It is named after the demon Fismiosn Krafla, vanquished in the *Saga of New Earth* in Upen mythology. Until the 19th Century, Krafla was inhabited by a handful of farming settlements and seminomadic Algic tribes. Fording the Joskuslsa River was rare until borough unification, and the settlements were largely isolated. By the 17th Century, most permanent settlement east of the Joskuslsa had died out.
+Like many of Vekllei's interior boroughs, Krafla's origins are agricultural. It is named after the demon Fismiosn Krafla, vanquished in the *Saga of New Earth* in Upen mythology. Until the 19th Century, Krafla was inhabited by a handful of farming settlements and seminomadic Algic tribes. Fording the Joskuslsa river was rare until borough unification, and settlements either side of the river were largely isolated. By the 17th Century, most permanent settlement east of the Joskuslsa had died out.
 
 Krafla was insulated from Christianisation of northern Vekllei in the 15th and 16th Centuries, and has been dominated by Algic Upenist beliefs since its earliest recorded settlement in the 4th Century.
 
