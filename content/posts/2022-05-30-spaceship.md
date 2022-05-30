@@ -12,7 +12,7 @@ categories:
 keywords:
 - 2022
 image: /images/lightbulb.jpg
-reddit: 
+reddit: https://www.reddit.com/r/vekllei/comments/v15une/a_vekllei_spaceship/
 ---
 
 ### A New Frontier
