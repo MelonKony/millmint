@@ -450,7 +450,7 @@ a {
 
 html, button, input, select, textarea,
 .pure-g [class*="pure-u"] {
-  font-family: system-ui,-apple-system,segoe ui,Roboto,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji; }
+  font-family: system-ui,-apple-system,segoe ui,Roboto,Helvetica,Arial,sans-serif,'Noto Emoji',apple color emoji,segoe ui emoji; }
 
 code, kbd, pre {
   font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace; }
@@ -2008,6 +2008,10 @@ html { font-family: 'Inter', sans-serif; }
   font-family: "Noto Emoji" !important;
   font-weight: bold; }
 
+.smallicon {
+  font-family: "Noto Emoji" !important;
+  font-weight: bold; }
+
 /*.icon-bg {
 	display: block;
 	height: auto;
@@ -2321,6 +2325,25 @@ article img[alt~="smallimg"] {
 
 .section h1, .section h2, .section h3, .section h4, .section h5, .section h6 {
   margin-top: 0.5rem !important; }
+
+.headerlink a:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray);
+  transform-origin: bottom right;
+  transition: transform 0.15s ease-out; }
+
+.headerlink a:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left; }
+
+.headerlink:hover {
+  filter: brightness(85%); }
 
 .search {
   position: relative;

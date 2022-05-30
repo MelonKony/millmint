@@ -2,7 +2,7 @@
 title: Rail
 
 fulltitle: The National Rail of Vekllei
-icon: 🚂
+icon: 🚇
 emoji: -train
 tag: SOCIETY
 sitetag: Article

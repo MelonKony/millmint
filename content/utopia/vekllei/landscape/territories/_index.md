@@ -1,6 +1,6 @@
 ---
 title: Territories
-fulltitle: The Territories of Vekllei
+fulltitle: The Territories of the Vekllei Commonwealth
 icon: 🌐
 emoji: ←
 tag: LANDSCAPE
@@ -11,24 +11,85 @@ pagecode: 232TER
 image: https://images.millmint.net/images/territories.jpg
 
 weight: 1
+list_posts: false
 ---
 
 {{< hint green >}}
-♣ This page lists completed articles on [**Vekllei's**](/utopia/vekllei) [**overseas territories**](/utopia/vekllei/#administrative-divisions)
+߷  This page lists completed articles on [**overseas territories**](/utopia/vekllei/#administrative-divisions) of the Vekllei Commonwealth.
 {{< /hint >}}
 
-## Overview
+{{< hint panel >}}
+Over the next 100 days I'll be completing this list, and linking them to images and posts produced in the project. Vekllei's five Crown Boroughs (once included) will be highlighted in bold.
+{{</hint>}}
 
-The word *Vekllei* here refers to the Vekllei Commonwealth, which is a supernational association of independent states that includes the [Home Island](/utopia/vekllei) and its dependent territories as well as sovereign, independent member-states like Kalina and Aismious.
+A Vekllei [borough](/utopia/vekllei/#administrative-divisions) is an unusual administrative designation, portioned originally by a set of vague criteria that includes size, history, its unique geography, culture, and its spiritual value. Population was evidently not a concern, and boroughs have great disparity in human settlement. Each borough takes the name of its largest city. You can see a partial list of them, arranged by region and alphabetically, below.
 
-1. **Crown Lakes**, or *Kronaislagaisdelfia*, are governmental territories of human concern, analogous to public land or federal territory overseas.
-2. **Crown Land**, or *Kronaismioudelfia*, are nongovernmental territories of natural reservation. Although similar in some ways to nature reserves or national parks, their legal status in Vekllei is somewhat more complex; although *de facto* part of the country, the government does not recognise human sovereignty over these regions, a feature inherited from [Upen](/utopia/vekllei/religion).
-3. **Boroughs**, or *Baras*, are administrative regions in Vekllei named for their largest population centres. They form the basic subdivision of Vekllei territory and also constitute voting regions in the electoral system.
-4. **Provinces**, or *Piousvincinia*, are the territories in Vekllei's possession outside of the Home Islands. Most notably these include *Kala* (Greenland), the *Aismious Islands* (Faroe Islands), the *Kalina Isles* and the *Azores*. As inhabited provinces, both *Kala* and the *Azores* are considered semiautonomous territories, under purview of the *Kala People's Assembly* and the *Azores Holiday Government* respectively. The *Aismious* province and various other territories are considered *Crown Lakes*. Vekllei also retains over a hundred satellite islands and islets, most as *Crown Lands*.
+{{<section>}}
+### Vekllei Home Islands
 
-## Vekllei's Overseas Territories & Provinces
+{{< hint green >}}
+### [<span class="smallicon">🌺</span> Vekllei](/utopia/vekllei/)
+The [Vekllei](/utopia/vekllei/) Home Islands. 
+{{</hint>}}
+{{</section>}}
 
-### The Kalina Island Commonwealth
+{{<section>}}
+### Dependent Territories
+
+{{< hint green >}}
+### [<span class="smallicon">❄️</span> Vekllei Antarctic Territories](/utopia/vekllei/landscape/territories/antarctica)
+The [Vekllei Antarctic Territories](/utopia/vekllei/landscape/territories/antarctica) Home Islands. 
+{{</hint>}}
+
+{{< hint green >}}
+### [<span class="smallicon">🌕</span> Vekllei Lunar Territories](/utopia/vekllei/landscape/territories/moon)
+The [Vekllei Lunar Territories](/utopia/vekllei/landscape/territories/moon) Home Islands. 
+{{</hint>}}
+
+{{</section>}}
+
+{{<section>}}
+### Independent Territories
+
+{{< hint green >}}
+### [<span class="smallicon">🎣</span> Aismious](/utopia/vekllei/landscape/territories/aismious)
+The [Aismious](/utopia/vekllei/landscape/territories/aismious) Home Islands. 
+{{</hint>}}
+
+{{< hint green >}}
+### [<span class="smallicon">👹</span> Demon](/utopia/vekllei/landscape/territories/demon)
+The [Demon](/utopia/vekllei/landscape/territories/demon) Home Islands. 
+{{</hint>}}
+{{</section>}}
+
+{{<section>}}
+### Member-States of the Vekllei Commonwealth
+
+{{< hint green >}}
+### [<span class="smallicon">🏰</span> Azores](/utopia/vekllei/landscape/territories/azores)
+The [Azores](/utopia/vekllei/landscape/territories/azores) Home Islands. 
+{{</hint>}}
+
+{{< hint green >}}
+### [<span class="smallicon">🛟</span> Mira](/utopia/vekllei/landscape/territories/mira)
+The [Mira](/utopia/vekllei/landscape/territories/mira) Home Islands. 
+{{</hint>}}
+
+{{< hint green >}}
+### [<span class="smallicon">🗻</span> Kala](/utopia/vekllei/landscape/territories/kala)
+The [Kala](/utopia/vekllei/landscape/territories/kala) Home Islands. 
+{{</hint>}}
+
+{{< hint green >}}
+### [<span class="smallicon">🏝</span> Kalina](/utopia/vekllei/landscape/territories/kalina)
+The [Kalina](/utopia/vekllei/landscape/territories/kalina) Home Islands. 
+{{</hint>}}
+
+{{< hint green >}}
+### [<span class="smallicon">🌴</span> West Antilles](/utopia/vekllei/landscape/territories/antilles)
+The [West Antilles](/utopia/vekllei/landscape/territories/antilles) Home Islands. 
+{{</hint>}}
+{{</section>}}
 
 <style>
 /* flags */
@@ -47,5 +108,8 @@ The word *Vekllei* here refers to the Vekllei Commonwealth, which is a supernati
   }
 }
 
+}
+.gt-container {
+  display: none;
 }
 </style>

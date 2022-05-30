@@ -14,7 +14,7 @@ description: Upen is an indigenous religion of Vekllei, a utopia created by Hoba
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-## 1. Overview
+## Overview
 {{< hint >}}
 ߷ This article is about [Vekllei](/utopia/vekllei)
 {{< /hint >}}
@@ -48,7 +48,7 @@ Although *Upen* does retain priests informally, it lacks a hierarchical structur
 
 As atheistic and animistic, *Upen* shelters landscape from becoming ‘simply nature’, as it does when viewed as a product of a monotheistic creator god. Within Vekllei's 'landscape' agnosticism, nature is not ‘simply nature’; it is a spiritual vessel in itself, inalienable and inextricably linked to human purpose and satisfaction. Industry is divorced from the whole concept; it is a country of forest commons, collective stewardship, and volcanic unrest.
 
-## 2. Etymology
+## Etymology
 
 Upen as a word has its origins lost to time, but its linguistic characteristics can be found throughout modern Vekllei language. *U* (pronounced 'oo') is a prefix applied to matters of consciousness considered sacred or special, as replicated in the spirit-language of [*Upotenne*](/utopia/vekllei/language/#6-upotenne). *Upen* likely has origins in a proto-*Islandi* language called *Kala*, which later was absorbed into *Topyas*, the predecessor to [Vekllei](/utopia/vekllei/culture/language).
 

@@ -59,13 +59,13 @@
     [[navbar]]
       identifier = "mail"
       name = "Mail"
-      url = "/utopia/vekllei/society/mail"
+      url = "/utopia/vekllei/society/industry/mail"
       parent = "society"
       weight = 2
     [[navbar]]
       identifier = "railways"
       name = "Railways"
-      url = "/utopia/vekllei/society/rail"
+      url = "/utopia/vekllei/society/industry/rail"
       parent = "society"
       weight = 3
 [[navbar]]

@@ -25,7 +25,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 {{< /hint >}}
 
 <span class="fc">KT</span>
-**he West Antilles** (commonly ***The Leeward Isles***) is the common name of three autonomous islands that make up the West Antilles, situated offshore of northern Venezuala in the Caribbean Sea. Like the [Kalina Isles](/utopia/vekllei/landscape/territories/west)
+**he West Antilles** (commonly ***The Leeward Isles***) is the common name of three autonomous islands that make up the West Antilles, situated offshore of northern Venezuela in the Caribbean Sea. Like the [Kalina Isles](/utopia/vekllei/landscape/territories/west)
 
 The Kalina Islands have been inhabited for thousands of years by Carib peoples called the *Kalinago*, who make up the majority of Kalina's 350,000 people today. Traditionally seafaring and seminomadic, Kalina and its neighbours in the Lesser Antilles were devastated by the arrival of Europeans in the 16th Century. Kalina was originally colonised by almost all colonising nations of the European colonial period, but were eventually united under Spanish rule in 1638 as part of the Treaty of Barbuda and the end of the Franco-Spanish War.
 

@@ -1,0 +1,69 @@
+---
+title: Kala
+
+fulltitle: Kala Commonwealth
+icon: 🗻
+emoji: ←
+tag: LANDSCAPE
+sitetag: Boroughs
+color: green
+
+image: 
+
+weight: 1
+bookHidden: true
+
+description: The Kala Commonwealth is an administrative region of the Commonwealth of Vekllei, a utopian country created by Hobart Phillips.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+---
+{{< hint green >}}
+߷ This article is about an [**overseas member**](/utopia/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/utopia/vekllei)
+{{< /hint >}}
+
+## Overview
+
+{{< hint panel >}}
+**Although Vekllei** comprises several independent commonwealths, most notably the island city-state to which it owes its name, the Commonwealth of Vekllei also includes several autonomous nations. **Mira**, also called Madeira, is among them.
+{{< /hint >}}
+
+<span class="fc">M</span>
+**ira** (also ***Madeira*** in Portuguese) is a sovereign commonwealth island archipelago situated in the Atlantic, 520km west of Morocco.
+
+
+## Etymology
+
+## History
+
+
+## Geography
+
+## Politics
+
+### The Vekllei Commonwealth
+
+### Petticoat Society in the Tropics
+
+## Economy
+
+### Employment
+
+### Industry
+
+### Tourism
+
+## Demographics
+
+### Language
+
+### Religion
+
+### Education
+
+## Infrastructure
+
+### Transport
+
+### Housing
+
+### Power & Water
