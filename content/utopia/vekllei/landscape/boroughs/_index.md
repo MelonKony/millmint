@@ -38,7 +38,7 @@ The borough of [Eyri](/utopia/vekllei/landscape/boroughs/eyri) is dominated by f
 {{</hint>}}
 {{< hint green >}}
 ### [<span class="smallicon">🤸‍♀️</span> Mirah](/utopia/vekllei/landscape/boroughs/mirah)
-The borough of [Mirah](/utopia/vekllei/landscape/boroughs/mirah) is a peaceful seaside borough known for its recreation and beautiful beaches. Tzipora and Cobian visit regularly in high school in the midst of their gymnastics phase. 
+The borough of [Mirah](/utopia/vekllei/landscape/boroughs/mirah) is a peaceful seaside borough known for its recreation and beautiful beaches. Tzipora and Cobian visit regularly in high school in the midst of their 'gymnastics phase'. 
 {{</hint>}}
 {{</section>}}
 
@@ -51,12 +51,12 @@ The borough of [Lola](/utopia/vekllei/landscape/boroughs/lola) is Vekllei's hist
 
 {{< hint green >}}
 ### [<span class="smallicon">🏖</span> Mumen](/utopia/vekllei/landscape/boroughs/mumen)
-The borough of [Mumen](/utopia/vekllei/landscape/boroughs/mumen) is a pleasant seaside borough home to vibrant immigrant fusion cultures. It has some of the best food in Vekllei and its beaches are treasured by locals.
+The borough of [Mumen](/utopia/vekllei/landscape/boroughs/mumen) is a seaside playground home to vibrant immigrant fusion cultures. It has some of the best food in Vekllei, and its beaches bring visitors from all over the island.
 {{</hint>}}
 
 {{< hint green >}}
 ### [<span class="smallicon">💧</span> Voya Voya](/utopia/vekllei/landscape/boroughs/voya-voya)
-The borough of [Voya Voya](/utopia/vekllei/landscape/boroughs/voya-voya) is a garden borough of water and light. It is well-known for the density and qualiy of its parkland and natural reserves.
+The borough of [Voya Voya](/utopia/vekllei/landscape/boroughs/voya-voya) is a garden district of water and light. It is well-known for the density and quality of its parkland and natural reserves.
 {{</hint>}}
 {{</section>}}
 
@@ -65,7 +65,7 @@ The borough of [Voya Voya](/utopia/vekllei/landscape/boroughs/voya-voya) is a ga
 
 {{< hint green >}}
 ### [<span class="smallicon">⚓️</span> Bakur](/utopia/vekllei/landscape/boroughs/bakur)
-The borough of [Bakur](/utopia/vekllei/landscape/boroughs/bakur) is a place of science and the sea. The home base of Vekllei oceanography and marine science, it is home to more scientists than fishermen.
+The borough of [Bakur](/utopia/vekllei/landscape/boroughs/bakur) is a place of science and the sea. Bakur is the home port of Vekllei oceanography and marine science, and is home to more scientists than fishermen these days.
 {{</hint>}}
 
 {{< hint green >}}
@@ -79,24 +79,27 @@ The borough of [Ou](/utopia/vekllei/landscape/boroughs/ou) is a hydro town, char
 
 {{< hint green >}}
 ### [<span class="smallicon">🚀</span> Lita](/utopia/vekllei/landscape/boroughs/lita)
-The borough of [Lita](/utopia/vekllei/landscape/boroughs/lita) is the home of rocketry in Vekllei. It is the site of the Lita Cosmodrome, and its towns help built the rockets that send Vekllei to space. 
+The borough of [Lita](/utopia/vekllei/landscape/boroughs/lita) is the home of rocketry in Vekllei. It is the site of the historic Lita Cosmodrome, and its people help built the rockets that send Vekllei to space. 
 {{</hint>}}
 
 {{< hint green >}}
 ### [<span class="smallicon">🌋</span> Miyatvousi](/utopia/vekllei/landscape/boroughs/miyatvousi)
-The borough of [Miyatvousi](/utopia/vekllei/landscape/boroughs/miyatvousi) is a slice of Vekllei's renowned volcanism. Dominated by gorgeous lava-flows and vaporous steam pools, the land of Miyatvousi is alive.
+The borough of [Miyatvousi](/utopia/vekllei/landscape/boroughs/miyatvousi) is a slice of Vekllei's renowned volcanism. Dominated by gorgeous lava-flows and vaporous steam pools, the land of Miyatvousi is alive with fire.
 {{</hint>}}
 
 {{< hint green >}}
 ### [<span class="smallicon">🌿</span> Santes](/utopia/vekllei/landscape/boroughs/santes)
+The borough of [Santes](/utopia/vekllei/landscape/boroughs/santes) is an isolated place of old magic and exquisite coastal scenery. Its charm is informed by its deep connection to the spirits and a history of religious mysticism.
 {{</hint>}}
 
 {{< hint green >}}
 ### [<span class="smallicon">🐉</span> Troll](/utopia/vekllei/landscape/boroughs/troll)
+The borough of [Troll](/utopia/vekllei/landscape/boroughs/troll) is a great place to reconnect with the earth through its large national park and preserved lava fields. The sagas tell that the borough was the site of a troll city.
 {{</hint>}}
 
 {{< hint green >}}
 ### [<span class="smallicon">⛵️</span> Yana](/utopia/vekllei/landscape/boroughs/yana)
+The borough of [Yana](/utopia/vekllei/landscape/boroughs/yana) is a peaceful agricultural borough famous for its fresh produce. Its famous 'Devil's Geysers' are a must-see.
 {{</hint>}}
 
 {{</section>}}
@@ -106,6 +109,7 @@ The borough of [Miyatvousi](/utopia/vekllei/landscape/boroughs/miyatvousi) is a 
 
 {{< hint green >}}
 ### [<span class="smallicon">🗼</span> Krafla](/utopia/vekllei/landscape/boroughs/krafla)
+The borough of [Krafla](/utopia/vekllei/landscape/boroughs/krafla) is nestled on the Joskuslsa river, and keeps out of the way of its neighbours. The ruins of its old town, washed away in a flood a century ago, dominate the city centre.
 {{</hint>}}
 {{</section>}}
 
@@ -114,5 +118,6 @@ The borough of [Miyatvousi](/utopia/vekllei/landscape/boroughs/miyatvousi) is a 
 
 {{< hint green >}}
 ### [<span class="smallicon">🫑</span> Holsyim](/utopia/vekllei/landscape/boroughs/holsyim)
+The borough of [Holsyim](/utopia/vekllei/landscape/boroughs/holsyim) is known for its mosses. It's easy to lose yourself in its rain-forested crown land, which makes up most of the borough.
 {{</hint>}}
 {{</section>}}
