@@ -584,7 +584,6 @@ details {
   padding: 0.5rem 1rem 0.5rem 1rem;
   border: 0px solid var(--gray-200);
   border-radius: .25rem;
-  background-color: var(--gray-100);
   color: var(--color-gray);
   outline: none; }
 
@@ -2486,7 +2485,7 @@ article img[alt~="smallimg"] {
 
 body .collapsible-menu-wrapper {
   margin-top: 0.5rem;
-  background-color: #fafafa;
+  background-color: var(--gray-100);
   border: 0; }
 
 /*# sourceMappingURL=style.css.map */
