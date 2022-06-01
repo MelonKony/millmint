@@ -84,6 +84,7 @@ The borough of [Lita](/utopia/vekllei/landscape/boroughs/lita) is the home of ro
 
 {{< hint green >}}
 ### [<span class="smallicon">🌋</span> Miyatvousi](/utopia/vekllei/landscape/boroughs/miyatvousi)
+The borough of [Miyatvousi](/utopia/vekllei/landscape/boroughs/miyatvousi) is a slice of Vekllei's renowned volcanism. Dominated by gorgeous lava-flows and vaporous steam pools, the land of Miyatvousi is alive.
 {{</hint>}}
 
 {{< hint green >}}
