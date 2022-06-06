@@ -4,7 +4,15 @@
 {{ partial "postlinks.html" . }}
 
 {{ if default true .Params.comments }}
-<div id="gitalk-container">
+<!-- Comments by Cusdis 
+<div id="cusdis_thread" data-host="https://cusdis.com"
+  data-app-id="288e75bf-568b-448b-bd4c-dc49540dd8db"
+  data-page-id="{{ .File.UniqueID }}" data-page-url="{{ .Permalink }}"
+  data-page-title="{{ .Title }}">
+</div>
+<script async defer src="/js/cusdis.es.js"></script>
+
+<!--<div id="gitalk-container">
 	<script>
   		const gitalk = new Gitalk({
 			clientID: 'ee5c5c832ce3976fce7c',
@@ -19,7 +27,7 @@
   		gitalk.render('gitalk-container')
   	</script>
 	  <link rel="stylesheet" href="/css/comments.css">
-</div>
+</div>-->
 {{ end }}
 
   {{ with (.Scratch.Get "params").footer }}

@@ -1,0 +1,129 @@
+<html>
+  <body>
+	  <head>
+		  <link rel="stylesheet" href="/css/cusdis.css">
+		  <base target="_parent">
+		  <link>
+		  <div id="cusdis_thread" data-host="https://cusdis.com"
+			  data-app-id="288e75bf-568b-448b-bd4c-dc49540dd8db"
+			  data-page-id="{{ .File.UniqueID }}" data-page-url="{{ .Permalink }}"
+			  data-page-title="{{ .Title }}">
+			</div>
+		</head>
+    <div id="root">
+      <div>
+        <div class="grid grid-cols-1 gap-4">
+          <div class="grid grid-cols-2 gap-4">
+            <div class="px-1">
+              <label class="mb-2 block dark:text-gray-200" for="nickname"
+                >Nickname</label
+              >
+              <input
+                name="nickname"
+                class="
+                  w-full
+                  p-2
+                  border border-gray-200
+                  bg-transparent
+                  dark:text-gray-100
+                  dark:outline-none
+                "
+                type="text"
+              />
+            </div>
+            <div class="px-1">
+              <label class="mb-2 block dark:text-gray-200" for="email"
+                >Email (optional)</label
+              >
+              <input
+                name="email"
+                class="
+                  w-full
+                  p-2
+                  border border-gray-200
+                  bg-transparent
+                  dark:text-gray-100
+                  dark:outline-none
+                "
+                type="email"
+              />
+            </div>
+          </div>
+          <div class="px-1">
+            <label class="mb-2 block dark:text-gray-200" for="reply_content"
+              >Reply...</label
+            >
+            <textarea
+              name="reply_content"
+              class="
+                w-full
+                p-2
+                border border-gray-200
+                h-24
+                bg-transparent
+                dark:text-gray-100
+                dark:outline-none
+              "
+            ></textarea>
+          </div>
+          <div class="px-1">
+            <button class="text-sm bg-gray-200 p-2 px-4 font-bold">
+              Comment
+            </button>
+          </div>
+        </div>
+        <div class="my-8"></div>
+        <div class="mt-4 px-1">
+          <div class="my-4">
+            <div class="flex items-center">
+              <div class="mr-2 font-medium dark:text-gray-100">Test</div>
+            </div>
+            <div class="text-gray-500 text-sm dark:text-gray-400">
+              2022-06-06 23:26
+            </div>
+            <div class="text-gray-500 my-2 dark:text-gray-200">
+              <p>Hello</p>
+            </div>
+            <div class="my-4 pl-4 border-l-2 border-color-gray-200">
+              <div class="flex items-center">
+                <div class="mr-2 font-medium dark:text-gray-100">Hi</div>
+              </div>
+              <div class="text-gray-500 text-sm dark:text-gray-400">
+                2022-06-06 23:28
+              </div>
+              <div class="text-gray-500 my-2 dark:text-gray-200">
+                <p>Hi, how’s it going?</p>
+              </div>
+              <div>
+                <button
+                  class="
+                    font-medium
+                    text-sm text-gray-500
+                    dark:bg-transparent
+                    dark:text-gray-100
+                  "
+                  type="button"
+                >
+                  Reply
+                </button>
+              </div>
+            </div>
+            <div>
+              <button
+                class="
+                  font-medium
+                  text-sm text-gray-500
+                  dark:bg-transparent
+                  dark:text-gray-100
+                "
+                type="button"
+              >
+                Reply
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
