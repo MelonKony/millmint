@@ -2030,8 +2030,7 @@ html { font-family: 'Inter', sans-serif; }
   justify-content: center;
   align-content: center;
   border-radius: .25rem;
-  font-family: "Noto Emoji" !important;
-  font-weight: bold; }
+  font-family: "Noto Emoji" !important; }
 
 .smallicon {
   font-family: "Noto Emoji" !important;

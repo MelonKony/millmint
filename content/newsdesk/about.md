@@ -37,9 +37,9 @@ June 2022
 
 **June 6, 2022** Added auto-numbering and anchors to the headers on the site for easier navigation
 
-**June 4, 2022** Drew a height reference sheet for the comic characters so I stop drawing Tzipora and Cobian the same height <span class="spanlink"><a href="/images/sketches/comic/heightref.jpg">URL →</a></span>
+**June 4, 2022** Drew a height reference sheet for the comic characters so I stop drawing Tzipora and Cobian the same height <span class="spanlink"><a href="https://millmint.net/images/sketches/comic/heightref.jpg">URL →</a></span>
 
-**June 2, 2022** Finished a Zelda reference sheet, now featuring eyelashes <span class="spanlink"><a href="/images/sketches/comic/zeldaref.jpg">URL →</a></span>
+**June 2, 2022** Finished a Zelda reference sheet, now featuring eyelashes <span class="spanlink"><a href="https://millmint.net/images/sketches/comic/zeldaref.jpg">URL →</a></span>
 
 
 <!--
