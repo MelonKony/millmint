@@ -11,6 +11,8 @@ color: pink
 image: https://images.millmint.net/images/qlc.jpg
 
 list_posts: false
+comments: false
+autonumbering: true
 
 weight: 2
 description: The government of Vekllei, a utopia created by Hobart Phillips.
@@ -46,8 +48,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ## State Companies
 
 {{< hint pink >}}
+### [<span class="smallicon">✈️</span> National Air](/utopia/vekllei/society/industry/air)
+Vekllei National Rail represents the state monopoly on rail transport in the country, including trams and subways. It is part of the [Vekllei National Rail Bureau](/utopia/vekllei/society/government/#national-railways-bureau) but is managed independently.
+{{</hint>}}
+
+{{< hint pink >}}
 ### [<span class="smallicon">🚇</span> National Rail](/utopia/vekllei/society/industry/rail)
-Vekllei National Rail represents the state monopoly on rail transport in the country, including trams and subways. It is part of the [Vekllei National Rail Bureau](/utopia/vekllei/society/government/#vekllei-national-rail-bureau) but is managed independently.
+Vekllei National Rail represents the state monopoly on rail transport in the country, including trams and subways. It is part of the [Vekllei National Rail Bureau](/utopia/vekllei/society/government/#national-railways-bureau) but is managed independently.
 {{</hint>}}
 {{</section>}}
 
@@ -66,8 +73,7 @@ Vekllei National Rail represents the state monopoly on rail transport in the cou
 ## Municipal Companies
 
 {{< hint pink >}}
-### [<span class="smallicon">🚇</span> National Rail](/utopia/vekllei/society/industry/rail)
-Vekllei National Rail represents the state monopoly on rail transport in the country, including trams and subways. It is part of the [Vekllei National Rail Bureau](/utopia/vekllei/society/government/#vekllei-national-rail-bureau) but is managed independently.
+### [<span class="smallicon">✈️</span> Vekllei Aerospatiale](/utopia/vekllei/society/industry/aerospatiale)
 {{</hint>}}
 {{</section>}}
 
@@ -95,9 +101,5 @@ Vekllei National Rail represents the state monopoly on rail transport in the cou
   .row {
 	display: none;
   }
-}
-<style>
-.gt-container {
-  display: none;
 }
 </style>

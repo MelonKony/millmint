@@ -12,7 +12,7 @@ pagecode: 233FLO
 image: https://images.millmint.net/images/newyear2022.jpg
 
 weight: 1
-bookHidden: true
+autonumbering: true
 
 description: The borough of Flous is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips

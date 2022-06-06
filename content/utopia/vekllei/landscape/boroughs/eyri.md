@@ -12,7 +12,7 @@ pagecode: 232EYR
 image: https://images.millmint.net/images/serpent.jpg
 
 weight: 1
-bookHidden: true
+autonumbering: true
 
 description: The borough of Eyri is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips

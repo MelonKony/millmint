@@ -10,6 +10,7 @@ color: green
 pagecode: 2312SAN
 
 image: https://images.millmint.net/images/shrine-minded.jpg
+autonumbering: true
 
 weight: 1
 bookHidden: true

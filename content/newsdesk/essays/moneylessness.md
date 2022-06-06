@@ -11,6 +11,7 @@ color: blue
 
 image: https://images.millmint.net/images/coast.jpg
 weight: 1
+autonumbering: true
 
 description: Notes on utopie concrète, a new movement for utopian fiction.
 author: Hobart Phillips

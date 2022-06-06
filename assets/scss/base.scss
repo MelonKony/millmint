@@ -145,10 +145,14 @@ details summary {
 
 details {
     padding: 0.5rem 1rem 0.5rem 1rem;
-    border: 0px solid var(--gray-200);
+    border: 0px solid var(--gray-100);
     border-radius: .25rem;
-    color: var(--color-gray);
+    background-color: var(--gray-100);
     outline: none;
+}
+
+.collapsible-menu-wrapper details {
+  background-color: transparent;
 }
 
 // Re-theming the navbar
@@ -173,6 +177,34 @@ input {
 
 a, body article a {
   color: var(--color-gray);
+}
+
+article a {
+  display: inline-block;
+  position: relative;
+}
+
+/*article a:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--body-font-color);
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+article a:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}*/
+
+article a:hover {
+  filter: brightness(85%);
+  text-decoration: underline; 
 }
 
 article {
@@ -201,4 +233,14 @@ a.book-btn {
   width: 100%;
   border-radius: .25rem;
   color: var(--color-gray);
+}
+
+/* anchor */
+a.anchor {
+    opacity: 0;
+    font-weight: normal;
+}
+
+h1:hover a.anchor, h1 a.anchor:focus, h2:hover a.anchor, h2 a.anchor:focus, h3:hover a.anchor, h3 a.anchor:focus, h4:hover a.anchor, h4 a.anchor:focus, h5:hover a.anchor, h5 a.anchor:focus, h6:hover a.anchor, h6 a.anchor:focus {
+    opacity:initial
 }

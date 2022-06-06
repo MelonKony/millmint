@@ -9,6 +9,7 @@ pagecode: 221REL
 color: red
 
 image: https://images.millmint.net/images/death.jpg
+autonumbering: true
 
 description: Upen is an indigenous religion of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips

@@ -10,6 +10,7 @@ color: green
 pagecode: 238MRA
 
 image: https://images.millmint.net/images/waterfront.jpg
+autonumbering: true
 
 weight: 1
 bookHidden: true

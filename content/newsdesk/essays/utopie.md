@@ -9,6 +9,7 @@ sitetag: Newsdesk
 color: blue
 
 weight: 1
+autonumbering: true
 
 description: Notes on utopie concrète, a new movement for utopian fiction.
 author: Hobart Phillips

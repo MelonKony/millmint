@@ -10,6 +10,7 @@ color: green
 pagecode: 2314VYA
 
 image: https://images.millmint.net/images/rivers.jpg
+autonumbering: true
 
 weight: 1
 bookHidden: true

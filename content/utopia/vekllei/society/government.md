@@ -11,17 +11,14 @@ color: pink
 image: https://images.millmint.net/images/gov.jpg
 
 list_posts: false
+autonumbering: true
+comments: false
 
 weight: 2
 description: The government of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-<style>
-.gt-container {
-  display: none;
-}
-</style>
 
 ## Overview
 {{< hint pink >}}
@@ -528,22 +525,26 @@ The *Emergency Light and Water Authority* (EVA) is a specialised department of t
 {{<boxtag pink>}}COSMOPOS{{</boxtag>}}
 
 {{<outline>}}
-#### Vekllei National Rail Bureau
+#### National Railways Bureau
 
 {{< hint >}}
-❖ Read more: *[Railways in Vekllei](/utopia/vekllei/society/rail/)*
+❖ Read more: *[Vekllei National Rail](/utopia/vekllei/society/industry/rail/)*
 {{< /hint >}}
 
-The Vekllei National Rail Bureau is the parent bureau for all rail transport in Vekllei. Its subordinate organisations hold a monopoly on rail transport in the country and its maintenance, including manufacturing, research and administration.
+The National Railways Bureau is the parent administrator of all rail transport in Vekllei. Its subordinate organisations hold a monopoly on rail transport in the country, including operating rail services, manufacturing and research. Organised as a vertical industrial bureau, services are operated by a variety of companies on behalf of National Railways. The Railways Bureau also maintains magway and metro services.
 {{</outline>}}
 {{<outline>}}
-#### Vekllei National Roads and Pathways Bureau
+#### National Roads and Pathways Bureau
 {{</outline>}}
 {{<outline>}}
-#### Vekllei National Skies Bureau
+#### National Skies Bureau
+{{< hint >}}
+❖ Read more: *[Airways in Vekllei](/utopia/vekllei/society/industry/air/)*
+{{< /hint >}}
+
 {{</outline>}}
 {{<outline>}}
-#### Vekllei National Seas Bureau
+#### National Seas Bureau
 {{</outline>}}
 {{<outline>}}
 #### National Transport Laboratories

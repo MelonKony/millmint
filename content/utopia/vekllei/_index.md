@@ -11,6 +11,10 @@ color: pink
 image: https://images.millmint.net/images/gov.jpg
 
 list_posts: false
+autonumbering: true
+comments: false
+
+toc: true
 
 description: Vekllei is a utopia created by Hobart Phillips.
 author: Hobart Phillips
@@ -424,9 +428,5 @@ Vekllei has the cleanest drinking water in the world, supplied by the country's 
   .row {
     display: none;
   }
-}
-
-.gt-container {
-  display: none;
 }
 </style>

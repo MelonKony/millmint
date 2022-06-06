@@ -9,6 +9,7 @@ sitetag: Newsdesk
 color: blue
 
 weight: 10
+toc: false
 
 description: An essay on visiting Tokyo by Hobart Phillips, a utopian illustrator and storyteller.
 author: Hobart Phillips

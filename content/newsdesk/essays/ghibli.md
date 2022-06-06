@@ -9,6 +9,7 @@ sitetag: Newsdesk
 color: blue
 
 weight: 1
+autonumbering: true
 
 description: An essay on spatiality in the films of Studio Ghibli by Hobart Phillips, a utopian illustrator and storyteller.
 author: Hobart Phillips
@@ -84,7 +85,7 @@ From this summary of films, we can already see the trends and leitmotifs that ch
 
 In summary, we can see in this introduction the foundations of a multidisciplinary analysis, blurring textual analysis and analysis of contexts within well-documented utopian and spatial epistemologies. There is perhaps no better case study in Japanese cinema presently than that of Ghibli’s catalogue, navigating in the rare vertices of artfulness and textual depth with approachability and mainstream success. Spatiality and time; body and interiority; memory and metaphysic — these are the foundations of social dreaming, and within the rich visuality of the animated medium, in which all frames and shots are designed and nothing is simply a “background,” utopian spatiality provides an excellent foundation upon which to explore these films.
 
-## 1. Spatiality and Abstraction
+## Spatiality and Abstraction
 
 ### Landscape in Miyazaki’s *My Neighbour Totoro*
 
@@ -162,7 +163,7 @@ The film guides the *setting* into the same climax it does its protagonist, Kiki
 
 Consolidating the spatial turn of both *Totoro* and *Kiki*, linked in this argument by their mutual depictions of ‘lost pasts,’ is the universalising power of reigning in the ‘fantastical’ (i.e. witches and forest spirits) with utopian thinking, drawn from the real world. This fascination with the interplay of the fantastic and the mundane extends well beyond the story of our girl protagonists — it is reproduced throughout these worlds, colliding their real-world contexts with nostalgic whimsy resurrected by proxy through the studio’s more fantastic elements — forest trolls and flying broomsticks. This is how a village amidst Japan’s great economic miracle, a time dominated by urbanisation, deforestation and consumerism, is resurrected in *My Neighbour Totoro* as a sort of utopian ‘no-place,’ colliding pre-Meiji intuition (Karatani 1993) with telephones and trolley cars. Similarly, this is how a European seaside town, fresh out of the First World War and awaiting a brutal resurgence of violence in the ‘Age of Frustration[^4],’ is resurrected in *Kiki’s Delivery Service* as a tranquil old-world theatre of European architecture, home to zeppelins and witches alike. Alternative histories are not simply spaces of the past, but in fact vessels of the present recreated elsewhere; displaced and transcendent. That is how Studio Ghibli reproduces conventional space in a utopian fashion.
 
-## 2. Interiority and Reproduction
+## Interiority and Reproduction
 
 ### Memory and Agrarianism in Only Yesterday
 
@@ -208,7 +209,7 @@ In other words, it is precisely this conception of rural life that has alienated
 
 In the context of this essay’s total argument, then, we see *Only Yesterday* advocate Ghibli’s spaces in two places — first in memory, in the dichotomy of childish abstraction and mature naturalism, and then in physicality, in Ghibli’s environmentalist leitmotifs — expressed commonly as a New Japan/Old Japan anxiety. *Only Yesterday*, like almost all of Takahata’s films, experiments with the format and style of animation to better express the function and mechanics of thematic or story concern, which marks a departure in the body of this thesis from Miyazaki’s unwavering orthodoxy to the Ghibli “house style”. This affords him a pleasant abstraction, not just in *Only Yesterday* but across his filmography, that is not usually present in Miyazaki’s more fantastic, but literal, filmmaking. In a paper concerned with spaces and their representation, Takahata takes an artistic wrench to a cohesive characterisation to Ghibli’s spatiality, and films precluded from this argument, including the likes of *Pom Poko* and *My Neighbours the Yamadas* might threaten to collapse it entirely, outliers as they are. *Only Yesterday*, however, and his 1988 film *Grave of the Fireflies* (which this this paper will look at in the next section) represent novelistic filmmaking that expands the conventions of cinema, and critical to the concern of this essay, the methods in which the studio’s worlds are constructed and depicted
 
-## 3. Childhood and Historicism
+## Childhood and Historicism
 
 ### Love and Whimsy in Whisper of the Heart
 
@@ -323,7 +324,7 @@ This is why Goldberg (2009, p. 41) suggests the use of luminous fireflies as an 
 
 To close the argument portion of this thesis, it seems appropriate to draw parallels between *Grave* and its sister film *Totoro* through Karatani’s initial observation on the upheaval of the old, transcendental understanding of landscape. It is easy enough to draw parallels between *Grave’s* retreat from society and *Only Yesterday’s* similar modern phobias. More critically, considering their cinema pairing, consider how aspects of *Grave’s* landscape mirrors *Totoro’s* own pleasure amidst the trees; particularly the scenes in which Satsuko plays and acts out adult chores around their abandoned shelter. Wegner (2010) also draws parallels between the shelter the natural world provides in *Totoro*, nurturing the girls, and *Grave’s* “fully objectified mute landscape, [which] appears glacially indifferent to their suffering.” Their shelter sits on a lake, across from where large country houses look over the surrounding countryside. There is some fantasy at play here, between the misery and rationing of the Japanese society and the freedom and peacefulness of the shelter. Of course, the children never really escape from the war-world — they become increasingly dependent on it, as Setsuko’s health deteriorates. These desperate scenes starkly contrast the peaceful and intuitive relationship between person, agriculture and wilderness depicted in *Totoro*, and constitutes a dystopia that inverts several the picturesque, utopian deconstructions of modernity argued for in this paper’s first chapter. This is a good way of demonstrating the *complementary*, rather than *antagonistic* nature of the utopia/dystopia paradigm: we can trace the ‘social dream’ in both, precisely because of their opposing thematic constructions — dystopia is most commonly an inversion, rather than a subversion, of the utopian social dream (Wegner 2002). The dream may be different — Takahata clearly outlines a dialogue between the youth of consumer society and the abstract suffering of the war years at the beginning of this chapter — but as a double-feature, and as a text preceding *Totoro’s* ‘50s pacifism, *Grave’s* haunting echoes of the past reflect a radically different visions of Japan's 20th-century landscape.
 
-## 4. Conclusion
+## Conclusion
 
 <span class="fc">A</span>
 lthough the five films pulled from Studio Ghibli’s thirty-year “golden age” might seem to constitute a varied selection of cinema, reflection on the arguments made across the five texts suggest their appropriateness for use here as elements of a single argument — what components of Ghibli’s spatiality contribute to its importance in ongoing analysis into animation? Each film offers a unique dimension of spatial thinking, and helps build a portfolio of texts that testify Ghibli’s strength in depicting and moving around landscapes.

@@ -8,25 +8,41 @@ tag: CONTACT
 sitetag: Newsdesk
 color: indigo
 
+toc: false
+comments: false
+
 description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
+{{<section>}}
+![smallimg](https://images.millmint.net/images/mastheads/author.png)
+{{</section>}}
+
 {{< hint >}}
 ❖ For common questions about me or my work, please visit the [FAQ](/utopia/intro/faq/).
 {{< /hint >}}
-{{<columns>}}
-![smallimg](https://images.millmint.net/images/mastheads/author.png)
-<--->
 
-**Hi, I'm Hobart**. I'm an Australian illustrator and writer living and working in Tasmania. I like machines, midcentury architecture and Tasmania. I studied as a journalist, but now work in illustration full-time.
+**Hi, I'm Hobart**. I'm an Australian illustrator and writer living and working in Tasmania. I like machines, midcentury architecture and visiting new places. I studied as a journalist, but now work in illustration.
 
-I'm currently trying to learn how to cook. I walk most afternoons around my home town, which inspires a lot of how Vekllei looks and feels. Vekllei has existed in some form since I was a kid, but I started working on it properly in 2017.
+Vekllei has existed in some form since I was a kid, but I started working on it properly in 2017.
 
-Follow me on [Instagram](https://www.instagram.com/melon.kony/), [Twitter](https://twitter.com/MelonKony), or join [my subreddit](https://www.reddit.com/r/vekllei). You can **write to me** at hobart★millmint.net（★→@）.
+You can follow my progress on this project on [Instagram](https://www.instagram.com/melon.kony/), [Twitter](https://twitter.com/MelonKony), or join [my subreddit](https://www.reddit.com/r/vekllei). You can **write to me** at hobart★millmint.net（★→@）.
 
-{{</columns>}}
-{{<columns>}}
+## News
+
+{{<hint header>}}
+June 2022
+{{</hint>}}
+
+**June 6, 2022** Added auto-numbering and anchors to the headers on the site for easier navigation
+
+**June 4, 2022** Drew a height reference sheet for the comic characters so I stop drawing Tzipora and Cobian the same height <span class="spanlink"><a href="/images/sketches/comic/heightref.jpg">URL →</a></span>
+
+**June 2, 2022** Finished a Zelda reference sheet, now featuring eyelashes <span class="spanlink"><a href="/images/sketches/comic/zeldaref.jpg">URL →</a></span>
+
+
+<!--
 ### Things I Like
 
 * _Thunderbirds_ (1965 series)
@@ -37,7 +53,7 @@ Follow me on [Instagram](https://www.instagram.com/melon.kony/), [Twitter](https
 * [The Series-0 Shinkansen 🚅](https://en.wikipedia.org/wiki/0_Series_Shinkansen)
 * [Snags](https://www.woolworths.com.au/shop/productdetails/820196/woolworths-beef-sausage)
 * [Mtirado's wonderful work](https://www.musicauniversalis.space)
-  <--->
+
 ### Things I Don't Like
 * Parsley
 * The C.I.A.
@@ -46,4 +62,4 @@ Follow me on [Instagram](https://www.instagram.com/melon.kony/), [Twitter](https
 * Cutesy talk
 * Risotto (sorry)
 * Emirates (the airline)
-{{</columns>}}
+-->

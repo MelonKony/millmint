@@ -11,7 +11,7 @@ categories:
 - landscape
 keywords:
 - 2022
-image: /images/lightbulb.jpg
+image:  https://images.millmint.net/images/lightbulb.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/v15une/a_vekllei_spaceship/
 ---
 

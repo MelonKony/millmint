@@ -10,6 +10,7 @@ color: green
 pagecode: 234HSM
 
 image: https://images.millmint.net/images/moss.jpg
+autonumbering: true
 
 description: The borough of Holsyim is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips

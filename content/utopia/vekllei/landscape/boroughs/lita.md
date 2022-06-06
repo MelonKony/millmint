@@ -10,6 +10,7 @@ color: green
 pagecode: 236LTA
 
 image: https://images.millmint.net/images/rocket.jpg
+autonumbering: true
 
 description: The borough of Lo is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips

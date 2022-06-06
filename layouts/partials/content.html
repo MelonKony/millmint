@@ -7,11 +7,11 @@
     {{ partial "post-meta" . }}
     <!--<div style="font-size: 14px; float: right; text-align: right; color: var(--color-gray)">{{ partial "reading-time.html" . }}</div>-->
   </div>
-  <div>
-    {{ partial "toc.html" . }}
-  </div>
 
-  <article {{ if $enable_line_no }}class="line-numbers"{{ end }}>
+  <article {{ if $enable_line_no }}class="line-numbers"{{ end }}{{- if .Param "autonumbering" }} autonumbering {{- end }}>
+      <div>
+        {{ partial "toc.html" . }}
+      </div>
       {{- partial "archive.html" . -}}
       {{ $content := .Content | replaceRE "<table>" "<table class=\"mc-table\">" }}
       {{ if eq (.Scratch.Get "params").syntax_highlight.lib "prism.js" }}

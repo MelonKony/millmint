@@ -11,6 +11,8 @@ color: pink
 
 weight: 1
 list_posts: false
+comments: false
+autonumbering: true
 
 image: https://images.millmint.net/images/intro.gif
 
@@ -139,9 +141,5 @@ Quick facts about Vekllei and the state of the world in the mid-21st Century.
   .row {
     display: none;
   }
-}
-
-.gt-container {
-  display: none;
 }
 </style>

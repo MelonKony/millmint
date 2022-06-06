@@ -9,16 +9,17 @@ pagecode: 220LAN
 sitetag: Article
 color: red
 
-image: https://images.millmint.net/images/manufacturie.jpg
+image: https://images.millmint.net/images/drawing.jpg
 
 list_posts: false
+autonumbering: true
 
 description: The language of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 
-## 1. Overview
+## Overview
 {{< hint >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
@@ -49,14 +50,14 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ❖ Read more: *[How to Speak Vekllei](/posts/2020-11-14-language/)*
 {{< /hint >}}
 
-**Let's take a look** in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and [*Spoken Vekllei*](/utopia/vekllei/language/#2-spoken-vekllei) and [*Topet*](/utopia/vekllei/language/#3-topet) are understood universally.
+Let's take a look in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and [*Spoken Vekllei*](/utopia/vekllei/culture/language/#spoken-vekllei) and [*Topet*](/utopia/vekllei/culture/language/#topet) are understood universally.
 
 ![img](https://images.millmint.net/images/language.jpg)
 {{< hint caption >}}
-An infographic showcasing the Vekllei language, including [Potenne](/utopia/vekllei/culture/language/#5-potenne) use. | *[How to Speak Vekllei](/posts/2020-11-14-language/)*
+An infographic showcasing the Vekllei language, including [Potenne](/utopia/vekllei/culture/language/#potenne) use. | *[How to Speak Vekllei](/posts/2020-11-14-language/)*
 {{</hint>}}
 
-Other languages, often called *sub-languages*, are informed regionally and have varying literacy across the Home Island. For example, [*Upotenne*](/utopia/vekllei/language/#6-upotenne) is employed frequently in rural and agrarian communities, where religious ritual requires its frequent practice. This passage introduces the broad characteristics of each sub-language, which together form contemporary Vekllei, one of the world's most complex and hermetic language systems.
+Other languages, often called *sub-languages*, are informed regionally and have varying literacy across the Home Island. For example, [*Upotenne*](/utopia/vekllei/culture/language/#upotenne) is employed frequently in rural and agrarian communities, where religious ritual requires its frequent practice. This passage introduces the broad characteristics of each sub-language, which together form contemporary Vekllei, one of the world's most complex and hermetic language systems.
 
 ### History
 
@@ -68,7 +69,7 @@ Vekllei's language genealogy can be traced back thousands of years, and is appro
 >* **900** AD - **1600** AD, **Topyas** (Old Vekllei),  fusion dialect of *Islandi* and *Quutetast*.
 >* **1600** AD - **present**, **Modern Vekllei**, evolution of *Topyas*. Spoken today.
 
-## 2. Spoken Vekllei
+## Spoken Vekllei
 
 {{< hint panel >}}
 **Spoken Vekllei**, simply referred to as Vekllei domestically, is the common spoken language of Vekllei and official language of the country, spoken by some 25 million people worldwide, with 98% of speakers living natively in the Vekllei Home Islands. It is the first spoken language of the vast majority of the population, and has minor variance across the disparate Vekllei Home Islands and other Vekllei possessions. It is rarely spoken outside of Vekllei territories, extant abroad only through emigrant populations and small diasporic communities dispersed after the Atomic War.
@@ -116,6 +117,7 @@ From foundational monophthongs, gliding or diphthong vowels are often determined
 |---------------|--------------------|
 | **Closing**   | æɪ, ɑɪ, oɪ, æɔ, əʉ |
 | **Centering** | ɪə                 |
+
 ##### Floral Vowel
 |   Vowel   | Onset glide | Onset glide | Onset glide |
 |-----------|-------------|-------------|-------------|
@@ -149,10 +151,10 @@ In Vekllei, consonants are arranged in five places of primary articulation.
 | Nasal               | m /m/  | n /n/             |                  | ng /ŋ/ |        |
 {{< /details >}}
 
-## 3. Topet
+## Topet
 
 {{< hint panel >}}
-**Topet**, sometimes called *Vekllei Script* or *Vekllei hieroglyphs* is the formal writing system in Vekllei. Topet incorporates logographic and neosyllabic/abugida-type components, and has some 3,450 unique characters in modern usage. Although proto-glyphs and a primitive runic system had been used in *Islandi*-era Vekllei since at least the 8th Century BC, by the time *Quutetast* influences had arrived with Inuit settlement in the 4th Century AD the parent scripts had at least partially fused into proto-*Topet*, called *Hieyeric*. In Vekllei, *Topet* is the national language alongside its sister-form, *<a href="/utopia/vekllei/language/#4-rapotenne">Rapotenne</a>* and <a href="/utopia/vekllei/language/#2-spoken-vekllei">*Spoken Vekllei*</a>. Topet has no clear lineage from Scandinavian or Inuit languages, and so is rarely understood outside of the territories where it is an official or significant minority language, which represents some 25 million people.
+**Topet**, sometimes called *Vekllei Script* or *Vekllei hieroglyphs* is the formal writing system in Vekllei. Topet incorporates logographic and neosyllabic/abugida-type components, and has some 3,450 unique characters in modern usage. Although proto-glyphs and a primitive runic system had been used in *Islandi*-era Vekllei since at least the 8th Century BC, by the time *Quutetast* influences had arrived with Inuit settlement in the 4th Century AD the parent scripts had at least partially fused into proto-*Topet*, called *Hieyeric*. In Vekllei, *Topet* is the national language alongside its sister-form, *<a href="/utopia/vekllei/culture/language/#rapotenne">Rapotenne</a>* and <a href="/utopia/vekllei/culture/language/#spoken-vekllei">*Spoken Vekllei*</a>. Topet has no clear lineage from Scandinavian or Inuit languages, and so is rarely understood outside of the territories where it is an official or significant minority language, which represents some 25 million people.
 {{< /hint >}}
 
 Individual *Topet* characters are both phonograms and semagrams, and so they support multiple readings. Many are basically figurative, and represent conceptually what they depict. Each character conforms to an abugida-type system, in which consonant-vowel pairings are written in joined notation. In *Topet*, the consonant anchors the pairing, which is called *Lohtopet*, and vowel notation is usually raised in superscript, called *Oatopet*. These names are not related to the binary glossary, but do represent the upper/lower system those glossaries imply. "Oa" means *affirmative* in Vekllei, and *Loh* is a negating form, so their use is widespread beyond the binary glossary system.
@@ -161,7 +163,7 @@ Individual *Topet* characters are both phonograms and semagrams, and so they sup
 
 Anchoring consonant-vowel characters (*demioette*, as opposed to double-vowels or vowel-consonants, called *hieyerette* [^1]) written in Topet may feature redundant adjacent characters called *phonetic complements*, which, in a non-determinative reading, are pronounced the same way to guide the reader. This lends to a system that encourages adjacent duplicate consonant-vowel pairings in some aspects, since Vekllei words are already formed out of neosyllabic pairings and it is immediately obvious which characters are to be read. The word for friend, *comoyia*, can thus sometimes be transliterated into c-c-c<sup>o</sup>m-m<sup>o</sup>y<sup>ia</sup>, which can affect the conceptual meanings of a word through the figurative placement of its characters as well as help guide the reader through the use of multiple phonetically identical, though visually distinct, characters.
 
-In the above case, *comoyia* can be affected by the composition of its phonetic complements, if any are used at all. There is a default reading, which combines both semantic and phonetic readings for meaning and is generally recognised as the dictionary 'spelling' of the word, but this can be manipulated through the addition of semantically different, but identically phonetic characters to shade and change meaning. The word for an untrustworthy friend is also *comoyia*, but combines the characters for snake with the dictionary spelling, which produces a transliteration similar to c-c<sup>o</sup>m<sup>o</sup>y<sup>ia</sup>. In spoken Vekllei, this distinction is only communicable through the aid of [*Potenne*](/utopia/vekllei/language/#5-potenne), and represents one of its primary uses.
+In the above case, *comoyia* can be affected by the composition of its phonetic complements, if any are used at all. There is a default reading, which combines both semantic and phonetic readings for meaning and is generally recognised as the dictionary 'spelling' of the word, but this can be manipulated through the addition of semantically different, but identically phonetic characters to shade and change meaning. The word for an untrustworthy friend is also *comoyia*, but combines the characters for snake with the dictionary spelling, which produces a transliteration similar to c-c<sup>o</sup>m<sup>o</sup>y<sup>ia</sup>. In spoken Vekllei, this distinction is only communicable through the aid of [*Potenne*](/utopia/vekllei/culture/language/#potenne), and represents one of its primary uses.
 
 ### Semantic Reading
 
@@ -179,14 +181,14 @@ Individual *Topet* characters are both semantic and phonetic, and can be written
 
 ![img](https://images.millmint.net/images/topet.jpg)
 {{< hint caption >}}
-An infographic summarising the appearance of Vekllei scripts, including [*Topet*](/utopia/vekllei/culture/language/#3-topet). | *[How to Read Vekllei](/posts/2021-05-31-topet/)*
+An infographic summarising the appearance of Vekllei scripts, including [*Topet*](/utopia/vekllei/culture/language/#topet). | *[How to Read Vekllei](/posts/2021-05-31-topet/)*
 {{</hint>}}
 
 These character groups are called *Minor Demons*, or *pettidemion,* and change appearance depending on the number of characters in its group. One character occupies a quarter-height space in the centre of a line. Two characters are written in an adjacent quarter-height space, with the principle arranged to the left. Three characters are arranged in a triangle, with the principle arranged at the top. Four characters, the maximum in modern *Topet*, are arranged in a quadrant with the principle arranged in the top left.
 
 *Minor Demons* are the foundations of *Topet* script, since they can be written phonetically or as pictographs. This also contributes to *Topet*'s unusual linguistic structure, in which single words are modified heavily and often come to resemble sentences with self-contained adjectives.
 
-## 4. Rapotenne
+## Rapotenne
 
 {{< hint panel >}}
 **Rapotenne** (*lit. "Name-Talk"*) is the Vekllei system of names, often considered in modernity to function as a distinct, though limited, language. Today, it is most often employed as an extant language of magical staves, but is closely aligned phonologically and ethnographically with *Upotenne*, the physical language of rune-forms and sigils.
@@ -194,13 +196,13 @@ These character groups are called *Minor Demons*, or *pettidemion,* and change a
 
 Contemporary *Rapotenne* is informed by pictographic proto-*Topet* runes as well as elements of the extinct *Kala* language, and subsequently *Quutetast* Algic artefacts. Because *Kala* is extinct and *Quutetast* is a dead language, largely displaced by modern spoken Vekllei, *Rapotenne* is unique among Vekllei's sublanguages for its direct lineage from proto-linguistic forms of early Vekllei history, some nearly 4,000 years old. Today it is used largely ceremonially, through ritual related to birth and Blood Names [^2].
 
-*Rapotenne* has its origins in superstitious *Islandi* magical staves, sigils which evolved into battle names and honourifics, called Blood Names. The use of Blood Names varies across Vekllei history, but is still common across ancestral families today. In modern immigration, especially after the Atomic War and British occupation, Blood Names have been commonly adopted by new families as symbolic displacement of older bloodlines, largely for their fashionable association with royalty and heritage. *Rapotenne* today mostly employs older [Floral Vowels](/utopia/vekllei/language/#diphthongs), which themselves are likely evolutions of proto-*Quutetast* pronunciation associated with *Kala*. Rapotenne characters, also called *Rapotenne*, are closely associated with old runic Islandi sigils, and are purely figurative. Their use in modernity is largely instructional, and is used to determine and act out [*Upotenne*](/utopia/vekllei/language/#6-upotenne) signs, which is functionally adjacent to *Rapotenne*.
+*Rapotenne* has its origins in superstitious *Islandi* magical staves, sigils which evolved into battle names and honourifics, called Blood Names. The use of Blood Names varies across Vekllei history, but is still common across ancestral families today. In modern immigration, especially after the Atomic War and British occupation, Blood Names have been commonly adopted by new families as symbolic displacement of older bloodlines, largely for their fashionable association with royalty and heritage. *Rapotenne* today mostly employs older [Floral Vowels](/utopia/vekllei/culture/language/#diphthongs), which themselves are likely evolutions of proto-*Quutetast* pronunciation associated with *Kala*. Rapotenne characters, also called *Rapotenne*, are closely associated with old runic Islandi sigils, and are purely figurative. Their use in modernity is largely instructional, and is used to determine and act out [*Upotenne*](/utopia/vekllei/culture/language/#upotenne) signs, which is functionally adjacent to *Rapotenne*.
 
 ### Practice
 
-*Rapotenne* consists of 452 characters in common practice, although priests and regional dialects may employ upwards of 1,000. Despite integration with the formal Vekllei language constellation, minor differences in pronunciation survive. For example, the Alveolar /s͇/ is dropped before consonants in ordinary spoken Vekllei, making it rare in modern usage, but is voiced in *Rapotenne*. The shape and stroke order of characters determines the physicality of [*Upotenne*](/utopia/vekllei/language/#6-upotenne), as their function within ritual is more or less the same. Although simplistic and literally figurative, *Rapotenne* is used extensively in religious script and poetry, and remains an important cultural force within Vekllei.
+*Rapotenne* consists of 452 characters in common practice, although priests and regional dialects may employ upwards of 1,000. Despite integration with the formal Vekllei language constellation, minor differences in pronunciation survive. For example, the Alveolar /s͇/ is dropped before consonants in ordinary spoken Vekllei, making it rare in modern usage, but is voiced in *Rapotenne*. The shape and stroke order of characters determines the physicality of [*Upotenne*](/utopia/vekllei/culture/language/#upotenne), as their function within ritual is more or less the same. Although simplistic and literally figurative, *Rapotenne* is used extensively in religious script and poetry, and remains an important cultural force within Vekllei.
 
-## 5. Potenne
+## Potenne
 {{< hint >}}
 ❖ **Try Potenne yourself!** Hold out your thumb and forefinger on one hand, and tuck the other fingers against your palm. You've just said "good to see you again."
 {{</hint>}}
@@ -211,7 +213,7 @@ Contemporary *Rapotenne* is informed by pictographic proto-*Topet* runes as well
 
 Historic social taboos in Vekllei's dominant religion, Upen, prevented speech between people for a variety of reasons, including for marital, interfamilial, penal and ascetic considerations. *Potenne* first arose to avoid these taboos. During the first substantial immigration of Inuit-Kalaallisut peoples in the 4th century BC, proto-*Potenne* avoidance languages developed pragmatic pidgin forms to allow for trade and communication between settlers and the original Islandi population. This rapid expansion in use saw *Potenne* develop solidified cultural tenants, including phonologically distinct suprasegmental components like *biouspotenne* (*lit. "Face-Talk"*), which distinguishes facial expression from gestures in poetic, transcendental forms, and *kiouyapotenne* (*lit. "Child-Talk"*), which uses facial expressions to teach children individual signs.
 
-By the 11th Century, *Potenne* was documented alongside other critical languages like *Topet*, and had demonstrated its saturation of Vekllei society in several sociological and cultural forms, including [*Upotenne*](/utopia/vekllei/language/#6-upotenne), today considered an independent language system within Vekllei's varied linguistic cultures.
+By the 11th Century, *Potenne* was documented alongside other critical languages like *Topet*, and had demonstrated its saturation of Vekllei society in several sociological and cultural forms, including [*Upotenne*](/utopia/vekllei/culture/language/#upotenne), today considered an independent language system within Vekllei's varied linguistic cultures.
 
 *Potenne* is used today as a casual substitute for simple speech and to communicate figurative meanings of words in *Topet* otherwise uncommunicable in conventional speech.
 
@@ -235,19 +237,19 @@ Communication in the your own voice is performed with the hand held horizontally
 
 Most signs are communicated with an open palm, although fists, hooked fingers, clenched fingers and relaxation of fingers are also used in various ways. Most common *Potenne* words are characterised by their informal, almost lazy composition, and so handshape is particularly gestural, often dependent on vocalised context to be legible. It can be difficult to determine within *Potenne* a clear distinction between non-linguistic gestural communication and its formalised language system, and so the emotiveness and context of its signs are critical to literacy in Vekllei.
 
-## 6. Upotenne
+## Upotenne
 
 {{< hint panel >}}
 **Upotenne** (*lit. "Spirit-Hand-Talk"*) is the nonverbal sign language of religious ritual in Vekllei. Although adjacent to *Potenne*, *Upotenne* is more closely historically aligned with *Rapotenne* than modern Vekllei.
 {{< /hint >}}
 
-Much as *Potenne* combines semantic and verbal forms to enhance communication, *Upen* appropriates the older pictographic [*Rapotenne*](/utopia/vekllei/language/#23--rapotenne) script to aid spiritual ritual and *demiosnjarnkah* (*lit. "Old Arts"* [^3]). Although few Vekllei people are completely literate in it, *Upotenne* remains a cultural force throughout society and is used commonly in ritual around the Home Islands.
+Much as *Potenne* combines semantic and verbal forms to enhance communication, *Upen* appropriates the older pictographic [*Rapotenne*](/utopia/vekllei/culture/language/#rapotenne) script to aid spiritual ritual and *demiosnjarnkah* (*lit. "Old Arts"* [^3]). Although few Vekllei people are completely literate in it, *Upotenne* remains a cultural force throughout society and is used commonly in ritual around the Home Islands.
 
 *Upotenne* is characterised as a sign language in keeping with the traditions in *Potenne*, but also incorporates complex cultural artefacts unique to *Upen* within its symbolism as a language. It codifies the human form and reproduces it in a spiritual manner, assigning importance and symbolism to parts of the human body ignored by the secular *Potenne*. Where much of the communication in *Potenne* is dependent on hand-based signs and gestures, *Upotenne* is mostly positional, using joints and angles to imitate rune-forms. These type and imitation of rune-forms vary greatly between different parts of Vekllei society, since literacy is dependent on landscape; rural persons will most likely recognise and communicate runes that benefit harvest and weather, where urban persons are more likely to participate in ceremonies to benefit employment or love.
 
 This multidimensionality means that *Upotenne* is uniquely dependent on place and circumstance, as Vekllei people learn and dispense with signs that benefit their circumstance. Despite *Upotenne*'s capacity as a language, it is largely displaced by its use as a spiritual adjacent to *Potenne* in modern society, leaving only *Upen* priests and disciples fluent in one of Vekllei's oldest cultural traditions.
 
-## 7. Vekllei Semaphore
+## Vekllei Semaphore
 
 {{< hint panel >}}
 **Vekllei lo da Myaiouisvah** (*lit. "Vekllei-Flag-System"*) is the sixth and most unusual of the Vekllei sublanguages. It relies heavily on colour and form, and is largely abstracted from its subject matter. In this sense, *Vekllei Semaphore* can be considered to be *asemic*, since it has no material semantic meaning and is entirely illegible without instruction.

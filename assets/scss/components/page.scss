@@ -59,6 +59,7 @@
 
 .section h1, .section h2, .section h3, .section h4, .section h5, .section h6 {
 	margin-top: .5rem!important;
+	filter: brightness(25%);
 }
 
 .headerlink a:after {
@@ -80,4 +81,18 @@
 }
 .headerlink:hover {
   filter: brightness(85%);
+}
+
+.spanlink {
+	padding: 0.25rem;
+	font-size: 15px;
+	font-weight: bold;
+	border-radius: 0.25rem;
+	margin-top: 0rem;
+	list-style: none;
+	background-color: var(--gray-100);
+	width: 100%;
+}
+.spanlink:hover {
+	text-decoration: underline;
 }

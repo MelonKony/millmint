@@ -10,7 +10,7 @@ color: green
 pagecode: 231BAK
 
 weight: 1
-bookHidden: true
+autonumbering: true
 
 description: The borough of Bakur is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips

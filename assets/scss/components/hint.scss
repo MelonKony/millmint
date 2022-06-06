@@ -36,12 +36,24 @@ body article blockquote {
 
 .hint.panel {
 	border-color: var(--gray-100);
-	color: $gray;
 	font-size: 16px;
 	line-height: 1.6;
 	font-weight: 400;
 	letter-spacing: 0em;
 	padding: 1rem;
+}
+
+.hint.header {
+	border-color: var(--gray-100);
+	font-size: 16px;
+	line-height: 1;
+	line-height: 1.25rem;
+	margin-left: -2em;
+	padding-left: 2em;
+	margin-right: -2em;
+	padding-right: 2em;
+	font-weight: bolder;
+	border-radius: .1rem;
 }
 
  .hint.blue, .article-blue .hint[class="hint "] {

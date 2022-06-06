@@ -13,12 +13,9 @@ image: https://images.millmint.net/images/vekllei.png
 
 weight: 1
 list_posts: false
+comments: false
+autonumbering: true
 ---
-<style>
-.gt-container {
-  display: none;
-}
-</style>
 
 {{< hint >}}
 ߷ This page lists completed articles on [**Vekllei's**](/utopia/vekllei) [**boroughs**](/utopia/vekllei/#administrative-divisions)

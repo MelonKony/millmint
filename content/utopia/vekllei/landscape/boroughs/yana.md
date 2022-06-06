@@ -10,6 +10,7 @@ color: green
 pagecode: 2315YAN
 
 image: https://images.millmint.net/images/lakehouse.jpg
+autonumbering: true
 
 weight: 1
 bookHidden: true

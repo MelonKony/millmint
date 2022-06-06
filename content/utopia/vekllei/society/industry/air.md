@@ -1,14 +1,15 @@
 ---
-title: Rail
+title: Air
 
-fulltitle: Vekllei National Rail
-icon: 🚇
-emoji: -train
+fulltitle: Vekllei National Airways
+icon: ✈️
+emoji: S
 tag: SOCIETY
 sitetag: Article
 color: vnr
 
-image: https://images.millmint.net/images/orange.jpg
+image: https://images.millmint.net/images/lightbulb.jpg
+
 
 list_posts: false
 comments: false
@@ -100,26 +101,26 @@ Vekllei National Rail is administered through three State Requisites: the Veklle
 {{< details title="Organisation Chart of VNR" open=true >}}
 
 {{<hint>}}
-Responsible to the [Railways Bureau](/utopia/vekllei/society/government/#national-railways-bureau) of the [Ministry of Transport](/utopia/vekllei/society/government/#ministry-of-transport)
+Responsible to the [Skies Bureau](/utopia/vekllei/society/government/#national-skies-bureau) of the [Ministry of Transport](/utopia/vekllei/society/government/#ministry-of-transport)
 {{</hint>}}
 * **Vekllei National Rail**
   * National Rail
-    * Vekllei National Railways A.r.R.
+    * Vekllei National Railway A.r.R.
       * VNR Atlantic
       * VNR Kala
       * VNR Overseas
-    * Vekllei National Magways A.r.R.
+    * Vekllei National Magway A.r.R.
     * Vekllei Metro A.r.R.
-    * Government Railroads R.S.
+    * Government Railroad R.S.
     * Vekllei Freight S.A.
-  * Railway Police Office
+  * Railroad Police Office
   * Office of Steam
   * Office of Electrification
   * Nuclear-Electric Rail Commission
   * Private Railcar Commission
 * **Vekllei Industrial Rail**
   * National Freight
-  * [Royal Mail](/utopia/vekllei/society/mail/) Railway Holdings
+  * [Royal Mail of Vekllei](/utopia/vekllei/society/mail/) Railway Holdings
 * **Railroad Democracy Hall**
   * VK Rail Chapel
   * Public Rail Chapel

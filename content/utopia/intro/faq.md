@@ -14,8 +14,8 @@ image: https://images.millmint.net/images/drawing.jpg
 
 weight: 1
 list_posts: false
+autonumbering: true
 
-bookHidden: true
 description: An intro to the world of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint

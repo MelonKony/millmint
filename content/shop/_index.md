@@ -1,6 +1,8 @@
 ---
 title: Shop
+
 list_posts: false
+comments: false
 ---
 <div class="shop-title">
   <a href="/shop/">
@@ -39,9 +41,6 @@ list_posts: false
   </a>-->
 
 <style>
-.gt-container {
-  display: none;
-}
 .headerbox {
   display: none;
 }

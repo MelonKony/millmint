@@ -10,6 +10,7 @@ color: green
 pagecode: 239MYT
 
 image: https://images.millmint.net/images/hollywood.jpg
+autonumbering: true
 
 weight: 1
 bookHidden: true

@@ -9,6 +9,8 @@ sitetag: Introduction
 pagecode: 210CHA
 
 color: pink
+comments: false
+autonumbering: true
 
 image: https://images.millmint.net/images/liminal.jpg
 
@@ -164,9 +166,6 @@ She is sensitive to being made fun of, and considers many of her problems making
 {{</ details >}}
 
 <style>
-.gt-container {
-  display: none;
-}
 a.book-btn {
   margin-top: 0;
   border: 1px solid var(--color-pink);

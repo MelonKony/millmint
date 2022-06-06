@@ -9,6 +9,7 @@ sitetag: Newsdesk
 color: blue
 
 weight: 2
+toc: false
 
 description: An essay on landscape in Evelyn Waugh's novel "Handful of Dust" by Hobart Phillips, a utopian illustrator and storyteller.
 author: Hobart Phillips

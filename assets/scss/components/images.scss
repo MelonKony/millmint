@@ -12,7 +12,7 @@ article img[alt~="smallimg"] {
 	margin-bottom: 1rem;
 	width: 50%;
 	min-width: 300px;
-	padding: 1rem;
+	padding: .5rem;
 	border-radius: 5px;
 }
 
@@ -22,7 +22,7 @@ article img[alt~="smallimg"] {
 	max-width: 140%;
 	margin-left: -20%;
 	margin-right: -20%;
-	padding: 1rem;
+	padding: .5rem;
 	background-color: var(--gray-100);
   }
 }

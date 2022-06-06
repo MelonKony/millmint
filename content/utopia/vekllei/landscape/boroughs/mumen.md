@@ -10,6 +10,7 @@ color: green
 pagecode: 2310MMN
 
 image: https://images.millmint.net/images/sketches/sandmage.jpg
+autonumbering: true
 
 weight: 1
 bookHidden: true

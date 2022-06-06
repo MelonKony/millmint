@@ -10,8 +10,8 @@ pagecode: 232TER
 
 image: https://images.millmint.net/images/territories.jpg
 
-weight: 1
 list_posts: false
+comments: false
 ---
 
 {{< hint green >}}
@@ -106,10 +106,5 @@ The [West Antilles](/utopia/vekllei/landscape/territories/antilles) Home Islands
   .row {
     display: none;
   }
-}
-
-}
-.gt-container {
-  display: none;
 }
 </style>

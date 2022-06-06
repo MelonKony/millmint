@@ -10,6 +10,7 @@ color: green
 pagecode: 2313TRL
 
 image: https://images.millmint.net/images/orange.jpg
+autonumbering: true
 
 weight: 1
 bookHidden: true
