@@ -28,14 +28,9 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 **The language of Vekllei** is an important part of the project. Utopianism cascades through every part of society, and rethinking communication is a foundational part of that instinct. In this article, we look at what makes Vekllei as a language special, and give insight into how these Atlantic people communicate with each other.
 {{< /hint >}}
 
->*What is the worth of the worthless?  I think it is the existence of a marvellous intuitive physicality. That is, if we use words to carve out things as having certain functions and certain uses to human beings, we overlook something very important.*
+**Vekllei language**, abbreviated to just **Vekllei**, has six core sublanguages that are used commonly today. Although they often intersect, these different systems of communication are distinct languages in their own right, used for different purposes in different arenas of communication.
 
-— Yoshio Nakamura
-
-<span class="fc">V</span>
-**ekllei language**, abbreviated to just **Vekllei**, has six core sublanguages that are used commonly today. Although they often intersect, these different systems of communication are distinct languages in their own right, used for different purposes in different arenas of communication.
-
-{{< details title="Systems of Language" open=true >}}
+{{< details title="Systems of Vekllei Language" open=true >}}
 1. **Spoken Vekllei**, which is everyday spoken language. It draws from two glossaries with different meanings and feelings, called *Oa* and *Loh*.
 2. **Topet**, which are logographic characters (occasionally characterised as hieroglyphs). Like other pictographic languages, *Topet* characters can be broken down into repeating components, called *Topotte*.
 3. **Rapotenne**, is the traditional logographic language of names. It is much older than Topet, and has more in common with spiritual runes than modern logography.
@@ -49,6 +44,10 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 {{< hint >}}
 ❖ Read more: *[How to Speak Vekllei](/posts/2020-11-14-language/)*
 {{< /hint >}}
+
+>*What is the worth of the worthless?  I think it is the existence of a marvellous intuitive physicality. That is, if we use words to carve out things as having certain functions and certain uses to human beings, we overlook something very important.*
+
+— Yoshio Nakamura
 
 Let's take a look in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and [*Spoken Vekllei*](/utopia/vekllei/culture/language/#spoken-vekllei) and [*Topet*](/utopia/vekllei/culture/language/#topet) are understood universally.
 

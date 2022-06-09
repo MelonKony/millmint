@@ -18,7 +18,7 @@ reddit: https://www.reddit.com/r/vekllei/comments/gndpwo/the_last_train_out_of_a
 ---
 
 {{< hint >}}
-❖ **This article** was featured in [**Issue #1**](/newsdesk/bulletin/2020/1) of the *Atlantic Bulletin*
+❖ **This article** was featured in [**Issue #1**](/news/bulletin/2020/1) of the *Atlantic Bulletin*
 {{< /hint >}}
 
 **They both watched as train 416 pulled away from the platform.** And that was that — there would be no school in the morning. That was how it worked in rural Vekllei, a million miles from the automatic trains on endless timetables. Out here, you paced life around the station.

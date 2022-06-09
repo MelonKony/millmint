@@ -21,12 +21,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
+## Overview
+
+**The borough of Lola** is an administrative region in southwest Vekllei, located in the Capital Region on the ancient city of Reykyavic, south of Sojiya and east of Lava. It includes several of Vekllei's oldest inhabited urban neighbourhoods, including Reykjavic, Hosfyourd and Seispri. Characterised by historical architecture and a dense low-rise cityscape, Lola is among Vekllei's most well-known boroughs and makes up part of Vekllei's "original city" boundary along its southwest coast. The neighbourhood of Seispri in Lola is the home of [Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes).
+
 >*Tzipora’s brief phase as a self-described Bolshevik began during recess on the roof of the Lola 6th School’s science block*
 
 -- [Recess on the Roof](/posts/2021-10-04-roof/)
-
-<span class="fc">T</span>
-**he borough of Lola** is an administrative region in southwest Vekllei, located in the Capital Region on the ancient city of Reykyavic, south of Sojiya and east of Lava. It includes several of Vekllei's oldest inhabited urban neighbourhoods, including Reykjavic, Hosfyourd and Seispri. Characterised by historical architecture and a dense low-rise cityscape, Lola is among Vekllei's most well-known boroughs and makes up part of Vekllei's "original city" boundary along its southwest coast. The neighbourhood of Seispri in Lola is the home of [Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes).
 
 ## Etymology
 

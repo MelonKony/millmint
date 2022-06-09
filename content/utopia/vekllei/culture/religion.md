@@ -19,12 +19,12 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 {{< hint >}}
 ߷ This article is about [Vekllei](/utopia/vekllei)
 {{< /hint >}}
+
 {{< hint panel >}}
 **Upen** is the nondenominational animistic spiritualism of Vekllei. It is both an organised religious belief system and a decentralised local animism, localised regionally across the Home Islands and beyond. As a basis for Vekllei metaphysics and general belief systems, *Upen* is a central part of Vekllei cultural identity and informs most parts of life at all levels in the country.
 {{< /hint >}}
 
-<span class="fc">U</span>
-**pen** is the animistic, nondenominational dominant and historical religion of Vekllei. Practiced commonly throughout the Home Islands and Vekllei's possessions, it is a core component of Vekllei culture and heritage, and has existed in various forms for thousands of years. Because *Upen* is fundamentally provincial and decentralised, its scripture and practice vary significantly between boroughs. Most forms emphasise object animism, impermanence, petite materialism, land dependence, existentialism and fear of nature.
+**Upen** is the animistic, nondenominational dominant and historical religion of Vekllei. Practiced commonly throughout the Home Islands and Vekllei's possessions, it is a core component of Vekllei culture and heritage, and has existed in various forms for thousands of years. Because *Upen* is fundamentally provincial and decentralised, its scripture and practice vary significantly between boroughs. Most forms emphasise object animism, impermanence, petite materialism, land dependence, existentialism and fear of nature.
 
 Upen can be practiced at natural shrines, usually designated by a cairn, at running or still water, or the seaside. Maritime living and seafood are important aspects of Vekllei life, and fishing and ocean myths are key elements in *Upen*. Within its spiritualism, traditional folk-tales and scripture are called *sagas*, which have also archived much of Vekllei's early history.
 

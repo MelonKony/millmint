@@ -20,7 +20,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 {{</section>}}
 
 {{< hint >}}
-❖ For common questions about me or my work, please visit the [FAQ](/utopia/intro/faq/).
+❖ For common questions about me or my work, please visit the [FAQ](/intro/faq/).
 {{< /hint >}}
 
 **Hi, I'm Hobart**. I'm an Australian illustrator and writer living and working in Tasmania. I like machines, midcentury architecture and visiting new places. I studied as a journalist, but now work in illustration.
@@ -35,6 +35,8 @@ You can follow my progress on this project on [Instagram](https://www.instagram.
 June 2022
 {{</hint>}}
 
+**June 7, 2022** Drew a uniform reference to keep clothing details consistent between chapters <span class="spanlink"><a href="/images/sketches/comic/uniformref.jpg">URL →</a></span>
+
 **June 6, 2022** Added auto-numbering and anchors to the headers on the site for easier navigation
 
 **June 4, 2022** Drew a height reference sheet for the comic characters so I stop drawing Tzipora and Cobian the same height <span class="spanlink"><a href="https://millmint.net/images/sketches/comic/heightref.jpg">URL →</a></span>
@@ -46,7 +48,7 @@ June 2022
 ### Things I Like
 
 * _Thunderbirds_ (1965 series)
-* Studio Ghibli ([obviously](/newsdesk/essays/ghibli))
+* Studio Ghibli ([obviously](/news/essays/ghibli))
 * [Jam Sandwich police livery](https://en.wikipedia.org/wiki/Jam_sandwich_(police_car))
 * Shōwa period styles
 * Italian cars

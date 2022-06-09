@@ -45,15 +45,8 @@
       <script defer src="{{ "flexsearch.min.js" | relURL }}"></script>
       <script defer src="{{ $searchJS.RelPermalink }}" {{ template "integrity" $searchJS }}></script>
     {{ end -}}
-
-    <!--{{/*  Dark theme: inline in `head` to avoid FOUC  */}}
-    <script>
-        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-            document.documentElement.classList.add('dark');
-        } else {
-            document.documentElement.classList.remove('dark');
-        }
-    </script>-->
+    
+    <!-- SCRIPTS -->
     
     <!-- jquery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -74,9 +67,6 @@
     
     <!-- Image Fade In -->
     <script src="/js/fade.js"></script>
-    
-    <!-- Noto Emoji -->
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Emoji" rel="stylesheet">
 
     <!-- RSS -->
     {{- with .OutputFormats.Get "rss" -}}

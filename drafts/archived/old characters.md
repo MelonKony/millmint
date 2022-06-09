@@ -32,7 +32,7 @@ color: var(--color-pink);
 ![img](/images/roadtrip.jpg)
 
 {{< hint pink >}}
-߷ This article is about [**Hobart's characters**](/utopia/intro/#three-utopias), who live in [**Vekllei**](/utopia/vekllei)
+߷ This article is about [**Hobart's characters**](/intro/#three-utopias), who live in [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
 ## Overview
@@ -66,7 +66,7 @@ color: var(--color-pink);
 {{< /details >}}
 {{< /columns >}}
 
-**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](/utopia/intro/#utopia-as-character) of this project. Often called Zelda by her friends, she is the protagonist of *Atomic Modern* and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with [Gregori Syndrome](/posts/2020-08-12-ageless/), a genetic disorder that affects her ageing and renders her biologically immortal. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising her life and making her happy.
+**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](/intro/#utopia-as-character) of this project. Often called Zelda by her friends, she is the protagonist of *Atomic Modern* and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with [Gregori Syndrome](/posts/2020-08-12-ageless/), a genetic disorder that affects her ageing and renders her biologically immortal. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising her life and making her happy.
 
 #### Appearance
 

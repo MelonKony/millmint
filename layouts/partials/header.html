@@ -1,84 +1,14 @@
 <header>
-  <div class="brand">
-    <div id="sidebar_btn">
-      <svg id="menu_icon" width="26px" height="26px" viewBox="0 0 24 24">
-        {{- partial "svg/menu.html" -}}
-      </svg>
-    </div>
-
     <div class="brand">
-      <a href="{{ .Site.Home.RelPermalink }}">
+      <a class="brand-title" href="{{ .Site.Home.RelPermalink }}">
         {{- with (.Scratch.Get "params").navbar_title }} {{- . | safeHTML -}}
         {{- end -}}
       </a>
-      <a
-        href="{{ .Site.Home.RelPermalink }}"
-        class="emoji {{ .Params.Color }}"
-        style="
-          font-size: 30px;
-          font-weight: normal;
-          margin-left: 0.5rem;
-          margin-right: 40px;
-          filter: brightness(100%);
-        "
-        id="whirlybat"
-        >-millmint</a
-      >
+      <a class="brand-emoji {{ .Params.Color }}" id="whirlybat" href="{{ .Site.Home.RelPermalink }}">-millmint</a>
     </div>
-  </div>
-  <div class="toolbox">
-    <div id="theme_tool">
-      <svg
-        id="dark_mode_btn"
-        class="hidden toolbox-btn"
-        width="18px"
-        height="18px"
-        viewBox="0 0 24 24"
-      >
-        {{- partial "svg/sun.html" -}}
-      </svg>
-      <svg
-        id="light_mode_btn"
-        class="hidden toolbox-btn"
-        width="18px"
-        height="18px"
-        viewBox="0 0 24 24"
-      >
-        {{- partial "svg/moon.html" -}}
-      </svg>
-    </div>
-
-    {{ if (.Scratch.Get "params").enable_site_search }}
-    <div id="search_tool">
-      <div class="ml-2 relative flex items-center">
-        {{ partial "search" . }}
-      </div>
-    </div>
-    {{ end }} {{ if .Site.IsMultiLingual }}
-    <div
-      id="translation_tool"
-      class="dropdown-wrapper pure-menu pure-menu-horizontal toolbox-btn"
-    >
-      <ul class="pure-menu-list">
-        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
-          <div class="dropdown-btn pure-menu-link">
-            <svg width="18px" height="18px" viewBox="0 0 24 24">
-              {{- partial "svg/earth.html" -}}
-            </svg>
-            <span class="dropdown-desc">{{ .Site.Language.LanguageName }}</span>
-          </div>
-          <ul class="pure-menu-children">
-            {{ range .Site.Home.AllTranslations }}
-            <li class="pure-menu-item">
-              <a href="{{ .Permalink }}" class="pure-menu-link"
-                >{{ .Language.LanguageName }}</a
-              >
-            </li>
-            {{ end }}
-          </ul>
-        </li>
-      </ul>
-    </div>
+      {{ if (.Scratch.Get "params").enable_site_search }}
+      {{ partial "search" . }}
+      {{ end }} {{ if .Site.IsMultiLingual }}
     {{ end }}
   </div>
 </header>

@@ -25,7 +25,14 @@
   grid-area: date;
   font-size: 14px;
 	color: var(--color-gray);
-  margin-top: -1.5rem;
+  margin-top: -1rem;
 	margin-bottom: 1rem;
   font-weight: 500;
+}
+
+.feature-img {
+  object-fit: contain;
+  height:auto;
+  border-radius: 5px;
+  background-color: transparent;
 }

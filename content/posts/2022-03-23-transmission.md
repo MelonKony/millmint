@@ -16,9 +16,7 @@ image: https://images.millmint.net/images/transmission.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/tl3ktc/transmission_towers/
 ---
 
-Tzipora finished most school days at two in the afternoon. Her routine looked something like this:
-
-Catch the tram home. Walk if the weather is 'interesting' (dramatic). Unlock the apartment and exchange her shoes for sandals. Bring in the bedding airing in the backyard and say hello to the stripy stray cat. Put away her books and rinse her lunchbox. Set the meat out to defrost and boil and refrigerate the water. Blow her nose. Eat an apple with a glass of milk. Listen to the news on the radio.
+**Tzipora finished most school days** at two in the afternoon. Her routine looked something like this. Catch the tram home. Walk if the weather is 'interesting' (dramatic). Unlock the apartment and exchange her shoes for sandals. Bring in the bedding airing in the backyard and say hello to the stripy stray cat. Put away her books and rinse her lunchbox. Set the meat out to defrost and boil and refrigerate the water. Blow her nose. Eat an apple with a glass of milk. Listen to the news on the radio.
 
 Depending on what she was making for dinner, she would usually head back out sometime around three thirty and find somewhere to read in her neighbourhood. From all places in Seispri you could see its beautiful circular high-voltage transmission towers, which carried power from the 2nd Magma-Electric Cogeneration Plant to their homes, supplying them with heat and light. The neighbourhood had been bombed in the war and there were still ruins out here. You could find old paths that were abandoned, overrun with mosses and bushes. These were good places to read.
 

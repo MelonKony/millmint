@@ -13,7 +13,6 @@ image: https://images.millmint.net/images/orange.jpg
 autonumbering: true
 
 weight: 1
-bookHidden: true
 description: The borough of Troll is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
@@ -22,14 +21,15 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
+## Overview
+
+**The borough of Troll** is an administrative region in southwest Vekllei, located in the Lava Region directly north of the glacier of Vatnayoskusl. Situated on the sloping north face of the Vekllei Glacier Highlands, the borough is home to several outlet glaciers flowing out of Vatnayoskusl's ice cap.
+
+Troll is sparsely-populated, and only includes the minor town of Troll and several smaller informal settlements. It is also highly volcanic, and home to the Houismey volcano and dozens of hotspots and mineral springs.
+
 >*The human royals may be long dead, but Vekllei’s flowering petticoat society retains a monarch — the literal physical presence of the land.*
 
 -- [VNR Orange](/posts/2021-06-03-orange/)
-
-<span class="fc">T</span>
-**he borough of Troll** is an administrative region in southwest Vekllei, located in the Lava Region directly north of the glacier of Vatnayoskusl. Situated on the sloping north face of the Vekllei Glacier Highlands, the borough is home to several outlet glaciers flowing out of Vatnayoskusl's ice cap.
-
-Troll is sparsely-populated, and only includes the minor town of Troll and several smaller informal settlements. It is also highly volcanic, and home to the Houismey volcano and dozens of hotspots and mineral springs.
 
 ## Etymology
 

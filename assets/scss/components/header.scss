@@ -1,67 +1,78 @@
 header {
-  display: flex;
-  justify-content: space-between;
+  display: grid; 
   align-items: center;
-  margin: 1rem 0 0 0;
+  grid-template-columns: 1fr fit-content(33%); 
+  grid-template-rows: 1fr; 
+  grid-template-areas: 
+    "brand search"; 
+  margin: 16px 0;
+}
 
-  .brand {
+.brand {
+  align-items: center;
+  min-width: 8rem;
+  grid-area: brand;
+}
+
+.brand-title {
+  @include text-3xl;
+  @include font-bold;
+  filter: brightness(25%);
+}
+
+.brand-emoji {
+  font-family: 'Whirlybats';
+  font-size: 30px!important;
+  font-weight: normal;
+  font-style: normal;
+  font-feature-settings: 'liga';
+  letter-spacing: -26px;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  box-sizing: border-box;
+  filter: brightness(100%)!important;
+}
+
+.toolbox {
+  display: flex;
+  align-items: center;
+  column-gap: 0.5rem;
+
+  .toolbox-btn {
     display: flex;
-    align-items: center;
+    cursor: pointer;
 
-     a {
-      @include text-3xl;
-      @include font-bold;
-      filter: brightness(25%);
-    }
-
-    #sidebar_btn {
-      display: flex;
-      margin-right: 0.5rem;
-      display: none;
-
-      @media screen and (min-width: $md_min_width) {
-        display: none;
-      }
+    &:hover {
+      color: var(--color-text-secondary);
     }
   }
 
-  .toolbox {
-    display: flex;
-    align-items: center;
-    column-gap: 0.5rem;
-
-    .toolbox-btn {
-      display: flex;
-      cursor: pointer;
-
-      &:hover {
-        color: var(--color-text-secondary);
-      }
+  .dropdown-wrapper {
+    .dropdown-btn.pure-menu-link {
+      color: unset;
     }
 
-    .dropdown-wrapper {
-      .dropdown-btn.pure-menu-link {
-        color: unset;
+    .dropdown-btn {
+      display: flex;
+      align-items: center;
+      padding: 0;
+
+      &:hover {
+        background-color: unset;
       }
 
-      .dropdown-btn {
-        display: flex;
-        align-items: center;
+      &::after {
+        content: "";
         padding: 0;
+      }
 
-        &:hover {
-          background-color: unset;
-        }
-
-        &::after {
-          content: "";
-          padding: 0;
-        }
-
-        .dropdown-desc {
-          @include text-sm;
-          margin-left: 0.35rem;
-        }
+      .dropdown-desc {
+        @include text-sm;
+        margin-left: 0.35rem;
       }
     }
   }
@@ -85,9 +96,7 @@ body header #navbar .navbar-dropdown li:hover {
   background-color: var(--body-background);
   filter: brightness(98%);
 }
-.xl\:text-2xl {
-  filter: brightness(25%) !important;
-}
+
 /* hide menu button */
 header .menu-btn {
   display: none;

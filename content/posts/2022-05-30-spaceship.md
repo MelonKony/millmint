@@ -17,9 +17,7 @@ reddit: https://www.reddit.com/r/vekllei/comments/v15une/a_vekllei_spaceship/
 
 ### A New Frontier
 
-The stars are close to Vekllei. 
-
-The common availability of space travel is the most wonderful achievement of Vekllei aerospace. It lights the furthest corners of the imagination in the postwar Vekllei spirit of play and dreams. The democratisation of space travel is in fact the democratisation of space itself, and so essential to the realisation of the Vekllei dream — as on Earth, so in the stars.
+**The stars are close to Vekllei.** The common availability of space travel is the most wonderful achievement of Vekllei aerospace. It lights the furthest corners of the imagination in the postwar Vekllei spirit of play and dreams. The democratisation of space travel is in fact the democratisation of space itself, and so essential to the realisation of the Vekllei dream — as on Earth, so in the stars.
 
 Vekllei is one of only a few countries in the world to offer regular, schedules flights to the moon. It is the only country in the world to completely subsidise the cost of such travel, democratising a fundamentally life-altering experience for its 20 million citizens.
 

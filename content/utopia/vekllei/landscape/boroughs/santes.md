@@ -23,12 +23,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
+## Overview
+
+**The borough of Santes** is an administrative region in northern Vekllei, located in the Lava Region west of Moma and east of Hoaedesnen. Its area includes several isolated and sparsely-populated towns along Vekllei's northern coast, particularly along the Grimsy and Mus Mus Fjords. The city of Santes is well-served by Vekllei's rail network, but the majority of its coastal and inland towns are somewhat difficult to reach. Because of this, Santes is considered a minor borough and makes up part of the economically-depressed *North Senrouive Belt*.
+
 >*Shattered fjords make up the north of Vekllei, particularly in boroughs like Santes, which are well-regarded for their striking cliffs and sloping igneous fingers, which evidence Vekllei’s ongoing volcanism. Offshore, hundreds of islets rise and sink over the centuries.*
 
 -- [Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)
-
-<span class="fc">T</span>
-**he borough of Santes** is an administrative region in northern Vekllei, located in the Lava Region west of Moma and east of Hoaedesnen. Its area includes several isolated and sparsely-populated towns along Vekllei's northern coast, particularly along the Grimsy and Mus Mus Fjords. The city of Santes is well-served by Vekllei's rail network, but the majority of its coastal and inland towns are somewhat difficult to reach. Because of this, Santes is considered a minor borough and makes up part of the economically-depressed *North Senrouive Belt*.
 
 ## Etymology
 

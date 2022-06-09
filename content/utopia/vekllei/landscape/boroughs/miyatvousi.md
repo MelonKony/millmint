@@ -23,12 +23,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
+## Overview
+
+**The borough of Miyatvousi** is an administrative region in northern Vekllei, located in the Lava Region north of Groisniyah and southwest of [Lita](/utopia/vekllei/landscape/boroughs/lita/). Its area is highly volcanic and is home to several natural features, including the Gismavik Dome and the Miyatsimi Geyser Fields. The area outside of the city of Miyatvousi is sparsely populated and mostly claimed by flower-tundras and Crown Land.
+
 >*There is a so-called “flash plant” in Miyatvousi, in the Lava region of Vekllei [...] the earth here is alive; in the cold, the ponds begin to steam.*
 
 -- [Gone Hollywood](/posts/2021-05-24-hollywood/)
-
-<span class="fc">T</span>
-**he borough of Miyatvousi** is an administrative region in northern Vekllei, located in the Lava Region north of Groisniyah and southwest of [Lita](/utopia/vekllei/landscape/boroughs/lita/). Its area is highly volcanic and is home to several natural features, including the Gismavik Dome and the Miyatsimi Geyser Fields. The area outside of the city of Miyatvousi is sparsely populated and mostly claimed by flower-tundras and Crown Land.
 
 ## Etymology
 

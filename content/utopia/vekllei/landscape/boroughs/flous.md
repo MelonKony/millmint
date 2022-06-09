@@ -22,12 +22,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
+## Overview
+
+**The borough of Flous** is an administrative region in southwest Vekllei, located to the east of the Capital Metropolitan Boroughs, east of Thanveler and south of Kyala. Most of the borough is characterised by wide flower-tundras and volcanic pools formed by runoff from the neighbouring Vatnayoskusl glacier. Flous makes up part of the Capital metro area's rural "green belt," and is settled as distinct villages and townships rather than adjacent neighbourhoods. The village of Asve Asve in Flous is the place of retirement of Ayn's parents.
+
 >*Tzipora spent the lunar solstice of 2067 with Ayn and Baron on one of the warm steam lakes of Flous. The lake was near where Ayn’s parents lived, and they sailed across it on a wooden boat her father had made nearly 50 years before. Time was cyclical out here; it folded in on itself.*
 
 -- [Happy New Year](/posts/2022-01-01-new-year/)
-
-<span class="fc">T</span>
-**he borough of Flous** is an administrative region in southwest Vekllei, located to the east of the Capital Metropolitan Boroughs, east of Thanveler and south of Kyala. Most of the borough is characterised by wide flower-tundras and volcanic pools formed by runoff from the neighbouring Vatnayoskusl glacier. Flous makes up part of the Capital metro area's rural "green belt," and is settled as distinct villages and townships rather than adjacent neighbourhoods. The village of Asve Asve in Flous is the place of retirement of Ayn's parents.
 
 ## Etymology
 

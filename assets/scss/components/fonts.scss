@@ -23,6 +23,13 @@
   format('truetype');
 }
 
+/* Noto emoji */
+@font-face {
+  font-family: "Emoji";
+  src: url("/fonts/NotoEmoji.ttf")
+  format('truetype');
+}
+
 /* San Francisco */
 @font-face {
 	font-family: "San Francisco";

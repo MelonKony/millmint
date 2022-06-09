@@ -1,7 +1,7 @@
 [[navbar]]
   identifier = "intro"
   name = "Intro"
-  url = "/utopia/intro/"
+  url = "/intro/"
   weight = 1
 [[navbar]]
   identifier = "utopia"
@@ -71,56 +71,50 @@
 [[navbar]]
   identifier = "newsdesk"
   name = "News"
-  url = "/newsdesk/"
+  url = "/news/"
   weight = 3
   [[navbar]]
     identifier = "about"
     name = "About"
-    url = "/newsdesk/about"
+    url = "/news/about"
     parent = "newsdesk"
     weight = 2
   [[navbar]]
     identifier = "bulletin"
     name = "Bulletin"
-    url = "/newsdesk/bulletin"
+    url = "/news/bulletin"
     parent = "newsdesk"
     weight = 3
   [[navbar]]
     identifier = "essays"
     name = "Essays"
-    url = "/newsdesk/essays"
+    url = "/news/essays"
     parent = "newsdesk"
     weight = 4
     [[navbar]]
       identifier = "ghibli"
       name = "A Universal Nostalgia"
-      url = "/newsdesk/essays/ghibli"
+      url = "/news/essays/ghibli"
       parent = "essays"
       weight = 1
     [[navbar]]
       identifier = "utopie"
       name = "Utopie Concrete"
-      url = "/newsdesk/essays/utopie"
+      url = "/news/essays/utopie"
       parent = "essays"
       weight = 2
     [[navbar]]
       identifier = "hong kong"
       name = "Not Long in Hong Kong"
-      url = "/newsdesk/essays/hongkong"
+      url = "/news/essays/hongkong"
       parent = "essays"
       weight = 3
     [[navbar]]
       identifier = "tokyo"
       name = "A Cashless Tokyo"
-      url = "/newsdesk/essays/tokyo"
+      url = "/news/essays/tokyo"
       parent = "essays"
       weight = 4
-    [[navbar]]
-      identifier = "waugh"
-      name = "Landscapes of Waugh"
-      url = "/newsdesk/essays/waugh"
-      parent = "essays"
-      weight = 5
 [[navbar]]
   identifier = "posts"
   name = "Stories"

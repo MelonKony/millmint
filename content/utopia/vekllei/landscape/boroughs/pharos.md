@@ -20,12 +20,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
+## Overview
+
+**The borough of Pharos** is an administrative region in the south-west of Vekllei, located in the Capital Region on the Coast of the Americas, north of [Mumen](/utopia/vekllei/landscape/boroughs/mumen/) and west of Lola.
+
 >*These were pleasant, poor boroughs of the Capital lighted by all corners of the world. They are also strikingly diverse in landscape — West Uclo is mostly pre-war, filled with low-rise Junta-era row houses and coffee shops. East Uclo contains some of Vekllei’s rare “towers in the park” — vertical neighbourhoods in the sky.*
 
 -- [Towers in the Park](/posts/2022-04-24-towers/)
-
-<span class="fc">T</span>
-**he borough of Pharos** is an administrative region in the south-west of Vekllei, located in the Capital Region on the Coast of the Americas, north of [Mumen](/utopia/vekllei/landscape/boroughs/mumen/) and west of Lola.
 
 ## Etymology
 

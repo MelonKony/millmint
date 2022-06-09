@@ -1,10 +1,10 @@
 #TableOfContents {
   line-height: 1.5rem;
-
+  margin: 1rem 0;
+  
   ul, li {
     list-style: none;
-    padding-left: 0;
-    margin: 0;
+    padding: 0;
   }
 
   ul ul {
@@ -14,9 +14,9 @@
   li {
     margin-top: .375rem;
   }
-
+  
   a {
-    color: var(--color-text);
+    color: var(--color-gray);
   }
 }
 
@@ -31,7 +31,7 @@ article#collapsible_menu_changelogs {
 .collapsible-menu-wrapper {
   @include my-8;
   font-size: 0.875rem;
-  padding: .5rem;
+  padding: .25rem;
   border: 2px solid var(--color-border-collapsible-menu);
   border-radius: .25rem;
 
@@ -51,8 +51,4 @@ article#collapsible_menu_changelogs {
   .collapsible-menu {
     margin-left: .5rem;
   }
-}
-
-#TableOfContents li a {
-    color: var(--body-font-color);
 }

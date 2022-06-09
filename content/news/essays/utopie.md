@@ -15,7 +15,6 @@ description: Notes on utopie concrète, a new movement for utopian fiction.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
 {{< hint >}}
 **❖ Note from the Editor**
 This essay was written in June 2021. [Click here to see it as a post](/posts/2021-06-26-utopie).
@@ -25,10 +24,9 @@ This essay was written in June 2021. [Click here to see it as a post](/posts/202
 <img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/utopie.png">
 </div>
 
-### A New Style of Utopia
+## A New Style of Utopia
 
-<span class="fc">I</span>
-write introspectively about the project sometimes, as a means by which I consider what I'm doing and where my unconscious is leading me with this project. I have the instinct of someone who is over-educated and self-obsessed; someone who went to university, fell for the farce of serious media criticism, and failed to see that all media theorists are basically freaks. And there is a small truth buried in that hyperbole: it does in fact require a certain dysfunction to write books about the study of anime or television. You can become *too* close to something.
+I write introspectively about the project sometimes, as a means by which I consider what I'm doing and where my unconscious is leading me with this project. I have the instinct of someone who is over-educated and self-obsessed; someone who went to university, fell for the farce of serious media criticism, and failed to see that all media theorists are basically freaks. And there is a small truth buried in that hyperbole: it does in fact require a certain dysfunction to write books about the study of anime or television. You can become *too* close to something.
 
 *Utopie concrète,* or 'concrete utopia,' is my phrase for how I work. I saw parallels with the manifesto of *musique concrète*, as described by Pierre Schaeffer:
 
@@ -40,7 +38,7 @@ It also refers to the "feeling" of Vekllei, in a transcendental fashion. Utopian
 
 At the risk of disfiguring these notes into a manifesto, the principles of *utopie concrète* might look something like this.
 
-### Principles of **UTOPIE CONCRÈTE** ■
+## Principles of **UTOPIE CONCRÈTE** ■
 
 1.  **All things have dignity**
 2.  **All things get dirty**
@@ -52,7 +50,7 @@ To explain further:
 2.  **All things get dirty**. In order to 'consider your landscape' and 'respect your characters,' you must also recognise that these things need to live independently from your control. The activity of your utopia is what makes it alive, and also what makes it imperfect. Recognise the imperfections and celebrate them. 
 3.  **You must love it**. Utopias are very thoughtful and considered, but they can't be intellectual. It must be intuitive --- follow your heart.
 
-### **UTOPIE CONCRÈTE** ■ with Vekllei Characteristics
+## **UTOPIE CONCRÈTE** ■ with Vekllei Characteristics
 
 You already have the tools to create your concrete utopia --- you just need to act on it. I have acted, and what has surfaced reveals a great deal about me, how I think and process the world, my anger and prejudices, my hopes and affections, and the pettiest of petty material interests.
 

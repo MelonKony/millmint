@@ -22,7 +22,7 @@ color: var(--color-teal);
 <h6 span class="sitetag">Documents</h6>
 
 {{< hint yellow >}}
-❖ This article is about a [**character**](/utopia/intro/#utopia-as-character) who lives in [**Vekllei**](/utopia/vekllei)
+❖ This article is about a [**character**](/intro/#utopia-as-character) who lives in [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
 ## 1. Overview

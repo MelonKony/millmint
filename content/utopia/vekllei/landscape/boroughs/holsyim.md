@@ -20,12 +20,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
+## Overview
+
+**The borough of Holsyim** is an administrative region in the east of Vekllei, located north-east of Seisyo and south-west of Fyell. It is named after Holsyim, its largest population centre. The town of Holsyim borders the *Holsyim lo [Kronaismioudelfia](/posts/2020-12-05-gods/)* (Holsyim Crown Land), an isolated natural and spiritual preserve home to some of Vekllei's oldest temperate rainforests. It is also a popular resort town, and receives many domestic tourists each year.
+
 >*These are not particularly adventurous expeditions — most of her work is performed along old trails and paths, but Bea finds the sublime amidst the mundane and has contributed enormously to the ecological understanding of local flora in the borough of Holsyim, where she was born.*
 
 -- [Bea and the Mosses](/posts/2020-12-08-bea/)
-
-<span class="fc">T</span>
-**he borough of Holsyim** is an administrative region in the east of Vekllei, located north-east of Seisyo and south-west of Fyell. It is named after Holsyim, its largest population centre. The town of Holsyim borders the *Holsyim lo [Kronaismioudelfia](/posts/2020-12-05-gods/)* (Holsyim Crown Land), an isolated natural and spiritual preserve home to some of Vekllei's oldest temperate rainforests. It is also a popular resort town, and receives many domestic tourists each year.
 
 ## History
 

@@ -27,8 +27,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 **Although Vekllei** comprises several independent commonwealths, most notably the island city-state to which it owes its name, the Commonwealth of Vekllei also includes several autonomous nations. **Mira**, also called Madeira, is among them.
 {{< /hint >}}
 
-<span class="fc">M</span>
-**ira** (also ***Madeira*** in Portuguese) is a sovereign commonwealth island archipelago situated in the Atlantic, 520km west of Morocco.
+**Azores** (also ***Madeira*** in Portuguese) is a sovereign commonwealth island archipelago situated in the Atlantic, 520km west of Morocco.
 
 
 ## Etymology

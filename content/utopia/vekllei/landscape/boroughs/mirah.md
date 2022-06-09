@@ -23,12 +23,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
+## Overview
+
+**The borough of Mirah** is an administrative region on the west coast of Vekllei, located east of Tohs and south of Geame. It is named after Mirah, its largest population centre and fishing town dependent largely on deepwater trawling in the Vekllei Sea. It is also home to the Vekllei International Casino, a hotel and resort available only to foreigners, which resides in the town of Gigayeh.
+
 >*Gigayeh had beautiful empty beaches, littered with icebergs that caught the light like jewels, but Tzipora couldn’t swim and the water was freezing. They could have enjoyed café food in the sun, but Cobian’s regimented home life had left her incapable of eating outside of her designated meals, and Tzipora could only drink so much coffee. Instead, most of these afternoons, they found themselves sitting on the ocean promenade, watching a handful of locals go about their business as they counted the minutes.*
 
 -- [Atlantic Boredom](/posts/2020-10-07-boredom/)
-
-<span class="fc">T</span>
-**he borough of Mirah** is an administrative region on the west coast of Vekllei, located east of Tohs and south of Geame. It is named after Mirah, its largest population centre and fishing town dependent largely on deepwater trawling in the Vekllei Sea. It is also home to the Vekllei International Casino, a hotel and resort available only to foreigners, which resides in the town of Gigayeh.
 
 ## History
 

@@ -11,9 +11,7 @@ pagecode: 2314VYA
 
 image: https://images.millmint.net/images/rivers.jpg
 autonumbering: true
-
 weight: 1
-bookHidden: true
 
 description: The borough of Voya Voya is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
@@ -23,12 +21,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
+## Overview
+
+**The borough of Voya Voya** is an administrative region in southwest Vekllei, located in the Capital Region north of Coyenstisn and east of Lo. It covers the entire area of Voya Voya, a city of some 450,000 people in the capital's extended metro area renowned for its parkland and green spaces. Voya Voya makes up part of the capital's satellite belt of boroughs, characterised by green space and mixed-use residential planning. Voya Voya is often referred to as the capital's "garden borough" for its density and quality of parkland and forest reserves.
+
 >*Out in Voya Voya, the gardens light the people, and distill human temperament into momentary, sequential lyrical images. A dead leaf moving by miracle across still water; an overturned bucket collecting dew along its handle; fern leaves half-curled, young and growing.*
 
 -- [City Rivers](/posts/2021-03-27-rivers/)
-
-<span class="fc">T</span>
-**he borough of Voya Voya** is an administrative region in southwest Vekllei, located in the Capital Region north of Coyenstisn and east of Lo. It covers the entire area of Voya Voya, a city of some 450,000 people in the capital's extended metro area renowned for its parkland and green spaces. Voya Voya makes up part of the capital's satellite belt of boroughs, characterised by green space and mixed-use residential planning. Voya Voya is often referred to as the capital's "garden borough" for its density and quality of parkland and forest reserves.
 
 ## Etymology
 

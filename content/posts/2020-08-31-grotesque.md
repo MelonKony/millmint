@@ -16,7 +16,7 @@ reddit: https://www.reddit.com/r/vekllei/comments/ijxvzu/absolute_grotesque/
 ---
 
 {{< hint >}}
-❖ **This article** was featured in [**Issue #4**](/newsdesk/bulletin/2020/4) of the *Atlantic Bulletin*
+❖ **This article** was featured in [**Issue #4**](/news/bulletin/2020/4) of the *Atlantic Bulletin*
 {{< /hint >}}
 
 >On the morning of the second day, I watched a fly crawl across the cheek of the middle-aged woman, probably an office worker, lying next to me. It moved up her cheekbone to her temple, stopping now and then to rub its front legs as though performing a ritual.

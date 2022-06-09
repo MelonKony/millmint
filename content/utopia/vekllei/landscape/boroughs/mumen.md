@@ -23,12 +23,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
+## Overview
+
+**The borough of Mumen** is an administrative region on the southwest coast of Vekllei, located in the Capital Region south of Pharos and west of Little Vekllei. It is named after Mumen, the city neighbourhood to which it belongs. It is home to one of Vekllei's primary immigrant processing centres, and now hosts a thriving immigrant community populated mostly by Southern Europeans. It is best known for its touristy seaside and bright white beaches, which take advantage of Southwest Vekllei's warm gulf climate.
+
 >*The main beach in Mumen, the nicest of the seaside districts, is constructed out of sand imported from the dunes of Africa. Where the rest of the country has black sand, a symptom of its volcanic turbulence, Mumen has nice yellow sand.*
 
 -- [Like Father, Like Daughter](/posts/2019-11-09-beach/)
-
-<span class="fc">T</span>
-**he borough of Mumen** is an administrative region on the southwest coast of Vekllei, located in the Capital Region south of Pharos and west of Little Vekllei. It is named after Mumen, the city neighbourhood to which it belongs. It is home to one of Vekllei's primary immigrant processing centres, and now hosts a thriving immigrant community populated mostly by Southern Europeans. It is best known for its touristy seaside and bright white beaches, which take advantage of Southwest Vekllei's warm gulf climate.
 
 ## History
 

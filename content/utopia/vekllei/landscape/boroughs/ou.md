@@ -20,12 +20,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
+## Overview
+
+**The borough of Ou** is an administrative region in the central Ro Highlands of Vekllei, located southwest of Laisiyo and north of Kyala. It is named after Ou, a prominent agricultural town of Vekllei's Middle Period that was transformed in the 20th Century into the cultural and military centre of the Ro Region. At nearly 1.2 million residents, Ou was narrowly excluded from becoming one of Vekllei's five Crown Boroughs in 2021, but remains the second-largest borough of the Ro Highlands, after Lonne. Its importance to [Upen](/utopia/vekllei/culture/religion/) leads most Upen-observing Vekllei people to regard Ou as a sacred borough.
+
 >*Many townsfolk in Ou are employed in operation of the dam, either through the Thunder or Hydroburos. It is also the site of a small Vekllei National University laboratory which examines the dam environment and trains its staff.*
 
 -- [The Ou Hydroburo Office](/posts/2020-04-21-hydro/)
-
-<span class="fc">T</span>
-**he borough of Ou** is an administrative region in the central Ro Highlands of Vekllei, located southwest of Laisiyo and north of Kyala. It is named after Ou, a prominent agricultural town of Vekllei's Middle Period that was transformed in the 20th Century into the cultural and military centre of the Ro Region. At nearly 1.2 million residents, Ou was narrowly excluded from becoming one of Vekllei's five Crown Boroughs in 2021, but remains the second-largest borough of the Ro Highlands, after Lonne. Its importance to [Upen](/utopia/vekllei/culture/religion/) leads most Upen-observing Vekllei people to regard Ou as a sacred borough.
 
 ## Etymology
 

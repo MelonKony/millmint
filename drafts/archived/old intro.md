@@ -35,7 +35,7 @@ color: var(--color-pink);
 ![Intro GIF](/images/intro.gif)
 
 {{< hint pink >}}
-߷ This article is about [**Hobart's utopia**](/utopia/intro/#utopia-as-landscape), called [**Vekllei**](/utopia/vekllei)
+߷ This article is about [**Hobart's utopia**](/intro/#utopia-as-landscape), called [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
 ## 1. What is this project?
@@ -63,7 +63,7 @@ This means that all sorts of themes and influences show up in my work. Vekllei h
 
 ## 2. Three Utopias
 
-Vekllei is **place**, but it's also a **people**, created by [Hobart](/newsdesk/about). In this sense, there are three utopias in this project, along which posts are categorised.
+Vekllei is **place**, but it's also a **people**, created by [Hobart](/news/about). In this sense, there are three utopias in this project, along which posts are categorised.
 
 * **Author** -- essays, reflection and discussion
 * **Landscape** -- guides, diagrams and analysis
@@ -176,7 +176,7 @@ Zelda is another name for Tzipora. She has two names specifically to confuse you
 
 **What is the “bulletin”?**
 
-I publish the [*Atlantic Bulletin*](/newsdesk/bulletin/2020) once a month via email. It’s got the month’s posts in it as well as facts and tidbits from Vekllei. DM me an email if you want to join.
+I publish the [*Atlantic Bulletin*](/news/bulletin/2020) once a month via email. It’s got the month’s posts in it as well as facts and tidbits from Vekllei. DM me an email if you want to join.
 
 [Join the Patreon](https://www.patreon.com/vekllei).
 

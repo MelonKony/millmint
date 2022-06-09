@@ -27,8 +27,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 **Although Vekllei** comprises several independent commonwealths, most notably the island city-state to which it owes its name, the Commonwealth of Vekllei also includes several autonomous nations. **Mira**, also called Madeira, is among them.
 {{< /hint >}}
 
-<span class="fc">T</span>
-**he** Vekllei Lunar Territories are a dependent territory on the moon.
+**The** Vekllei Lunar Territories are a dependent territory on the moon.
 
 
 ## Etymology

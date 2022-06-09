@@ -24,15 +24,14 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ## Overview
 
 {{< hint >}}
-߷ This article is about [**Hobart's**](/newsdesk/about) [**utopia**](/utopia/intro)
+߷ This article is about [**Hobart's**](/news/about) [**utopia**](/utopia/intro)
 {{< /hint >}}
 
 {{< hint panel >}}
 **Vekllei** is the utopian place of Hobart's ongoing Petticoat Project. Set ostensibly in Iceland, the history and geography of this country is radically different from our own, and welcomes an open exploration of new systems of living through a flexible alternate history.
 {{< /hint >}}
 
-<span class="fc">V</span>
-**ekllei** (also *The Vekllei Commonwealth*, *Islandi*, *Iceland*) is a sovereign island country situated in the northern Atlantic, between Greenland and the Faroe Islands. Besides the 100 boroughs of the conterminous Vekllei city-state (referred to as the *Home Island* or *Crown Metropole*), Vekllei includes two autonomous territories, six crown territories and various possessions including over a hundred satellite islands and islets. It is the 14th most densely-populated country in the world, with a population of 24.4 millions mostly situated around the Capital Region in the south-west of the Home Island. Its capital and largest city is Vekllei in the Capital Region, which is home to two-thirds of the total population. The interior plateau of the Home Island consists of sand and lava fields, flower-tundras, glaciers, and temperate rainforests, and its lowlands are home to many glacial rivers.
+**Vekllei** (also *The Vekllei Commonwealth*, *Islandi*, *Iceland*) is a sovereign island country situated in the northern Atlantic, between Greenland and the Faroe Islands. Besides the 100 boroughs of the conterminous Vekllei city-state (referred to as the *Home Island* or *Crown Metropole*), Vekllei includes two autonomous territories, six crown territories and various possessions including over a hundred satellite islands and islets. It is the 14th most densely-populated country in the world, with a population of 24.4 millions mostly situated around the Capital Region in the south-west of the Home Island. Its capital and largest city is Vekllei in the Capital Region, which is home to two-thirds of the total population. The interior plateau of the Home Island consists of sand and lava fields, flower-tundras, glaciers, and temperate rainforests, and its lowlands are home to many glacial rivers.
 
 > Oslola, raging and now blinded, drew deep wounds into the Earth. Out of these wounds came fire, and out of fire came Vekllei.
 
@@ -45,7 +44,7 @@ The Home Island has been inhabited for at least four thousand years by Arctic pe
 Political and strategic map of the Home Islands | *[The World’s Last Great Utopia](/posts/2021-10-07-map/)*
 {{</hint>}}
 
-Subsequent centuries saw rapid growth of the local population, which was politically and culturally isolated from mainland Europe by the 6th Century BC. By the 4th Century BC, many contemporary cultural features of the country had become commonplace, including an early form of [Upen](/utopia/vekllei/religion) and [Vekllei logographs](/utopia/vekllei/culture/language/#3-topet). During the following millennia Vekllei developed into a major economic and military power, but saw its influence decline between the 12th and 15th Centuries AD during the Period of Rest.
+Subsequent centuries saw rapid growth of the local population, which was politically and culturally isolated from mainland Europe by the 6th Century BC. By the 4th Century BC, many contemporary cultural features of the country had become commonplace, including an early form of [Upen](/utopia/vekllei/religion) and [Vekllei logographs](/utopia/vekllei/culture/language/#topet). During the following millennia Vekllei developed into a major economic and military power, but saw its influence decline between the 12th and 15th Centuries AD during the Period of Rest.
 
 During Vekllei's Middle Period, the country was struck by civil unrest that escalated into civil war, which installed Aismo Desimou as the first King of Vekllei. The monarchy succeeded until Vekllei's colonial Late Period, which fell to a navy coup d'etat that installed a military junta in government, which rapidly expanded Vekllei's colonial holdings. This practice would continue well into the 20th Century, and would spark the Africa Wars and Vekllei's atomic bombing by the United Kingdom in 2005, which collapsed the existing regime and ushered in British occupation of the country.
 
@@ -209,7 +208,7 @@ These features manifest in various forms throughout modern Vekllei, including it
 {{< /hint >}}
 
 {{< hint >}}
-❖ See also: *[On Moneylessness](/newsdesk/essays/moneylessness/)*
+❖ See also: *[On Moneylessness](/news/essays/moneylessness/)*
 {{< /hint >}}
 
 **Although a major power**, Vekllei has an unusual hybrid market system called the *Vekllei Bureau System* (known colloquially as *Petticoat Socialism*), which incorporates state-owned socialist planned economics and deregulated syndicalist vertical *bureaus* to benefit a free, unregulated informal market system. Most unique about the Vekllei economy is its functional moneylessness, in which domestic society has abolished currency. No widespread currency substitutes are used in ordinary life. Each citizen owns a share of the *Labour Bank of Vekllei*, a portion of the *Government Securities Bureau* designed to allow emigration from the country, and so is theoretically entitled to an equal portion of the Bank.

@@ -26,8 +26,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 **Although Vekllei** comprises several independent commonwealths, most notably the island city-state to which it owes its name, the Commonwealth of Vekllei also includes several autonomous nations. **Mira**, also called Madeira, is among them.
 {{< /hint >}}
 
-<span class="fc">D</span>
-**emon** (also ***Jan Mayen***) is an autonomous commonwealth island archipelago situated in the Atlantic, 520km west of Morocco.
+**Demon** (also ***Jan Mayen***) is an autonomous commonwealth island archipelago situated in the Atlantic, 520km west of Morocco.
 
 
 ## Etymology

@@ -1,9 +1,7 @@
 {{ if default true .Site.Params.Search }}
-<div class="magic">
-   <div class="search w-full">
-     <input type="text" id="search-input" placeholder="{{ "Search" }}" maxlength="60" data-hotkeys="s/" />
+   <div class="search">
+     <input class="smallicon" type="text" id="search-input" placeholder="{{ "🔍 Search" }}" maxlength="60" data-hotkeys="s/" />
      <div class="search-spinner hidden"></div>
      <ul id="search-results"></ul>
    </div>
-</div>
 {{ end }}

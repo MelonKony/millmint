@@ -1,17 +1,9 @@
 <div class="article-{{ .Params.Color }}">
-{{ $enable_line_no := (.Scratch.Get "params").syntax_highlight.prism.enable_line_no | default true }}
-
-<!--<div style="padding: 10px; border: 5px solid red;">-->
-  <div>
-    {{ partial "page-meta" . }}
-    {{ partial "post-meta" . }}
-    <!--<div style="font-size: 14px; float: right; text-align: right; color: var(--color-gray)">{{ partial "reading-time.html" . }}</div>-->
-  </div>
-
+  {{ $enable_line_no := (.Scratch.Get "params").syntax_highlight.prism.enable_line_no | default true }}
+  {{ partial "headerbox" . }}
+  {{ partial "post-meta" . }}
   <article {{ if $enable_line_no }}class="line-numbers"{{ end }}{{- if .Param "autonumbering" }} autonumbering {{- end }}>
-      <div>
-        {{ partial "toc.html" . }}
-      </div>
+      {{ partial "toc.html" . }}
       {{- partial "archive.html" . -}}
       {{ $content := .Content | replaceRE "<table>" "<table class=\"mc-table\">" }}
       {{ if eq (.Scratch.Get "params").syntax_highlight.lib "prism.js" }}

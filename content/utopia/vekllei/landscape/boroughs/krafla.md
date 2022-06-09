@@ -20,12 +20,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
+## Overview
+
+**The borough of Krafla** is an administrative region in the north of Vekllei, located in the Lava Region around the Joskuslsa river, north of [Lita](/utopia/vekllei/landscape/boroughs/lita/) and south of Kotaismoyeh. The town of Krafla makes up part of a belt of borough capitals along the banks of the Joskuslsa river, formed by glacial runoff from the Vatnayoskusl glacier. It is a sparsely-populated and agricultural borough, and most notable as the site of Vekllei's first hydroelectric power plant, which was destroyed in the Krafla Dam Disaster in 1911.
+
 >*Tzipora sits at an in-between station and she understands this. This is what makes Vekllei National Rail so smart, she thinks. There is a direct, tragic parallel between the collapse of the Ford Motor Company and why she is waiting forty five minutes for the steam train to the village of Vos.*
 
 -- [In-Between Stations](/posts/2022-03-16-liminal/)
-
-<span class="fc">T</span>
-**he borough of Krafla** is an administrative region in the north of Vekllei, located in the Lava Region around the Joskuslsa river, north of [Lita](/utopia/vekllei/landscape/boroughs/lita/) and south of Kotaismoyeh. The town of Krafla makes up part of a belt of borough capitals along the banks of the Joskuslsa river, formed by glacial runoff from the Vatnayoskusl glacier. It is a sparsely-populated and agricultural borough, and most notable as the site of Vekllei's first hydroelectric power plant, which was destroyed in the Krafla Dam Disaster in 1911.
 
 ## Etymology
 

@@ -18,17 +18,17 @@ description: The borough of Eyri is an administrative region of Vekllei, a utopi
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
 {{< hint >}}
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
+## Overview
+
+**The borough of Eyri** is an administrative region on the far northwest coast of Vekllei, located in the Afouismeh Region north of [Bakur](/utopia/vekllei/landscape/boroughs/bakur) and south of Basa. It is named after Eyri, an isolated coastal community employed mostly in controlled aquaculture by the Ocean Bureau. This quiet borough abounds with myth and legend related to its long seafaring history, emphasised only by the colossal wreck of the nearby icebreaking submarine *Sea Serpent*.
+
 >*In Eyri, the bones of an ancient beast warp and groan in the sun, red skin glinting in the whitecap churn of the shallows, oxidising, broken, ripped open by the sea.*
 
 -- [Killing a Sea Serpent](/posts/2021-03-17-serpent/)
-
-<span class="fc">T</span>
-**he borough of Eyri** is an administrative region on the far northwest coast of Vekllei, located in the Afouismeh Region north of [Bakur](/utopia/vekllei/landscape/boroughs/bakur) and south of Basa. It is named after Eyri, an isolated coastal community employed mostly in controlled aquaculture by the Ocean Bureau. This quiet borough abounds with myth and legend related to its long seafaring history, emphasised only by the colossal wreck of the nearby icebreaking submarine *Sea Serpent*.
 
 ## History
 

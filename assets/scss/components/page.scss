@@ -1,5 +1,5 @@
 /* drop cap style */
-.fc {
+:not(blockquote, ol, li, .outline, .section) > p:first-of-type::first-letter  {
 	font-size: 84px;
 	line-height: 1;
 	font-weight: 700;
@@ -7,6 +7,7 @@
 	float: left;
 	margin-right: 8px;
 	line-height: .89286;
+	initial-letter: 2;
 }
 
 /* outline style */

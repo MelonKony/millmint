@@ -22,12 +22,16 @@
 
 /* Style the list */
 .breadcrumbs {
+  background-color: var(--gray-100);
+  width: 100%;
   padding: 0.25rem 1rem 0.25rem 0.75rem;
+  box-sizing: border-box;
   border-radius: 0.25rem;
   margin-top: 0rem;
   list-style: none;
-  background-color: var(--gray-100);
-  width: 100%;
+}
+
+.breadcrumbs ul {
 }
 
 /* Display list items side by side */

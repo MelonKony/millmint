@@ -11,6 +11,7 @@ pagecode: 210CHA
 color: pink
 comments: false
 autonumbering: true
+list_posts: false
 
 image: https://images.millmint.net/images/liminal.jpg
 
@@ -19,11 +20,10 @@ author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 {{< hint >}}
-߷ This article is about [**Hobart's characters**](/utopia/intro/#three-utopias), who live in [**Vekllei**](/utopia/vekllei)
+߷ This article is about [**Hobart's characters**](/intro/#three-utopias), who live in [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
-<span class="fc">A</span>
-**lthough almost all characters** in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. This is useful, because if you're following along with this project, you're in some small way an immigrant yourself. It's through the eyes of these people that you see Vekllei, and their lives contribute to the utopian dimensions of this project as utopias-of-living.
+**Although almost all characters** in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. This is useful, because if you're following along with this project, you're in some small way an immigrant yourself. It's through the eyes of these people that you see Vekllei, and their lives contribute to the utopian dimensions of this project as utopias-of-living.
 
 <div class="headerbox">
   <h1 class="title" >Tzipora (Zelda)</h1>
@@ -33,7 +33,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 {{<section>}}
 <img alt="smallimg" style="background-color: transparent;" src="https://images.millmint.net/images/mastheads/characters/zelda.png">
 
-**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](/utopia/intro/#three-utopias) of this project. Often called Zelda by her friends, she is the protagonist of this story and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with [Gregori Syndrome](/posts/2021-05-28-forever/), a genetic disorder that affects her ageing and extends her natural life. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising the neurotic parts of her personality and making her happy.
+**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](/intro/#three-utopias) of this project. Often called Zelda by her friends, she is the protagonist of this story and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with [Gregori Syndrome](/posts/2021-05-28-forever/), a genetic disorder that affects her ageing and extends her natural life. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising the neurotic parts of her personality and making her happy.
 
 {{< button href="/tags/tzipora" >}}See all stories featuring Tzipora{{< /button >}}
 {{</section>}}

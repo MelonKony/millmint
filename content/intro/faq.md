@@ -64,7 +64,7 @@ color: var(--color-red);
 </style>
 
 {{< hint >}}
-߷ This article is about [**Hobart's utopia**](/utopia/intro/#three-utopias), called [**Vekllei**](/utopia/vekllei)
+߷ This article is about [**Hobart's utopia**](/intro/#three-utopias), called [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
 {{< hint panel>}}
@@ -80,7 +80,7 @@ color: var(--color-red);
 
 #### Who are you?
 
-[A Tasmanian illustrator.](/newsdesk/about/)
+[A Tasmanian illustrator.](/news/about/)
 
 #### You’re not Japanese?
 
@@ -138,7 +138,7 @@ Be "petticoat".
 
 ## Futher Reading
 
-If you're curious what sort of things go into a place like Vekllei, these are some of my favourite books. I've been asked about them before, so I've included this section in the hopes you enjoy them as much as I have. There are many more than these, so if you're interested, [contact me](/newsdesk/about). I'll update this list periodically as more occur to me.
+If you're curious what sort of things go into a place like Vekllei, these are some of my favourite books. I've been asked about them before, so I've included this section in the hopes you enjoy them as much as I have. There are many more than these, so if you're interested, [contact me](/news/about). I'll update this list periodically as more occur to me.
 
 {{<columns>}}
 {{<hint panel>}}
@@ -152,7 +152,7 @@ Karatani interrogates the appearance of Western conceptual artefacts (Landscape,
 ### Starting Point *&* Turning Point
 **Miyazaki Hayao** | 2009 & 2014
 
-These books are essentially a compilation of essays from Miyazaki's years as a filmmaker. He's an incredibly smart and insightful creative force whose work [I have written at length about](/newsdesk/essays/ghibli) before. For me, it's all really powerful, affecting stuff.
+These books are essentially a compilation of essays from Miyazaki's years as a filmmaker. He's an incredibly smart and insightful creative force whose work [I have written at length about](/news/essays/ghibli) before. For me, it's all really powerful, affecting stuff.
 {{</hint>}}
 <--->
 {{<hint panel>}}

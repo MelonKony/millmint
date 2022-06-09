@@ -35,10 +35,6 @@
         @include font-medium;
         padding: 0;
         color: var(--color-gray);
-
-        &:hover {
-          background-color: var(--color-background);
-        }
       }
 
       &:hover {
@@ -73,7 +69,6 @@
 }
 
 #navbar a {
-    color: var(--color-gray);
     filter: brightness(50%)
 }
 
@@ -95,7 +90,7 @@
   
   &:hover {
       background-color: var(--body-background);
-      filter: brightness(97%);
+      filter: brightness(95%);
     }
 }
 .navbar-dropdown li:first-child {

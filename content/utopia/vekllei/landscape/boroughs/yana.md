@@ -23,12 +23,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
+## Overview
+
+**The borough of Yana** is an administrative region in central Vekllei, located in the far-western Lava region north of Tiyousn and east of Laisiyo. It is named after Yana, a city of some 45,000 people isolated along Vekllei's sparse, moonlike volcanic interior for which the Lava region is named. Yana makes up part of an agro-belt of depopulated boroughs that sit along the Sesmiousvianneh river, which washes rich igneous minerals north to towns downstream. The town of Yana is best known for its proximity to the spectacular molten lava fields common in the area.
+
 >*She never claimed to be like the boys at Yana, because she wasn’t. But she knew what it was like to enter domesticity and never feel at home in it. She was lucky; she had Baron. She wondered about those boys who married before they left. She wondered where those brides were now.*
 
 -- [Ghosts of Taiwan in the Yana Lakehouse](/posts/2020-04-05-lakehouse/)
-
-<span class="fc">T</span>
-**he borough of Yana** is an administrative region in central Vekllei, located in the far-western Lava region north of Tiyousn and east of Laisiyo. It is named after Yana, a city of some 45,000 people isolated along Vekllei's sparse, moonlike volcanic interior for which the Lava region is named. Yana makes up part of an agro-belt of depopulated boroughs that sit along the Sesmiousvianneh river, which washes rich igneous minerals north to towns downstream. The town of Yana is best known for its proximity to the spectacular molten lava fields common in the area.
 
 ## Etymology
 

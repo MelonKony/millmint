@@ -17,7 +17,6 @@ description: Notes on utopie concrète, a new movement for utopian fiction.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-
 {{< hint >}}
 **❖ Note from the Editor**
 This essay was written in December 2021. [Click here to see it as a post](/posts/2021-12-09-moneylessness).
@@ -30,15 +29,15 @@ hat good is more writing about theories and the methodology of country-construct
 
 It is important to recognise Vekllei people do not think like you.[^1] They are not particularly more altruistic, hard-working, or kind to each other. They are, however, affected by their environment, which has introduced foundational shifts in their basic assumptions about the world. These differences can be illustrated in three features of life, which illustrate the worldview of the typical Vekllei person.[^2]
 
-### 1. Metaphysical assumptions
+### Metaphysical assumptions
 
 * The Vekllei person understands that there is an afterlife, and that spirits, demons, and a collection of mythological creatures play a part in human life. She does not hold contemporary conceptualisations of landscape -- she does not think of nature except in abstract, transcendental ways. She fears and respects nature, which is [afforded sovereignty by Crown Lands](/posts/2020-12-05-gods/) under the Landscape Sovereign. She does not believe humans are caretakers of nature. She does not believe in a god, but if she does it created and maintains both the human and natural worlds. She believes the purpose of people is the comfort of people and the good stewardship of human lands.
 
-### 2. Existential assumptions
+### Existential assumptions
 
 * The Vekllei person is prepped from a young age to explore their adult personhood. Schooling fosters his interests and technical skills, and prepares him for the casual pace of Vekllei working life. He is motivated to accomplish a social or professional legacy before he dies. He is not particularly anxious about his future. He considers the quality of life in Vekllei to be the best in the world, without having lived anywhere else.
 
-### 3. Material assumptions
+### Material assumptions
 
 * The Vekllei person understands objects in [physical and social dimensions of utility](/posts/2020-10-11-metaphysic/). Life is full of small art and beauty for her, accessed frequently and easily through cafes, cinemas, picnics, galleries and travel. The spatiality and physicality of her surrounds are of keen interest to her and open interest in the mechanisms of society. She is comfortable and skeptical about new things.
 

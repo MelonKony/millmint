@@ -17,7 +17,7 @@ reddit: https://www.reddit.com/r/vekllei/comments/hyt68u/summer_house_in_the_azo
 ---
 
 {{< hint >}}
-❖ **This article** was featured in [**Issue #3**](/newsdesk/bulletin/2020/3) of the *Atlantic Bulletin*
+❖ **This article** was featured in [**Issue #3**](/news/bulletin/2020/3) of the *Atlantic Bulletin*
 {{< /hint >}}
 
 The Azores had been a possession of Vekllei since 2002, when they were leased from Portugal indefinitely. The lease was defunct by the time of Vekllei’s independence from U.K. occupation in 2015, and the new state took formal ownership over the small Atlantic islands.

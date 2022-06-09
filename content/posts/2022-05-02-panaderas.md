@@ -15,8 +15,7 @@ keywords:
 image: https://images.millmint.net/images/panaderas.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/uguwe7/panaderas/
 ---
-
-She was in Lo, at the end of its winding river, standing in the place where the interior rains met the warm currents of the ocean. A mechanical clicking annoyed her but she could not tell if it was coming from the telephone exchange box or the electric street light above her head. It had just rained and it was a cold rain, so the air was sharp, and hurt and excited her lungs.
+**She was in Lo**, at the end of its winding river, standing in the place where the interior rains met the warm currents of the ocean. A mechanical clicking annoyed her but she could not tell if it was coming from the telephone exchange box or the electric street light above her head. It had just rained and it was a cold rain, so the air was sharp, and hurt and excited her lungs.
 
 She had a toothache but wouldn’t go to the dentist. For one, she did not like dentists at all. They were much like doctors. She did not trust them. It was easy to forget that Tzipora had many simple opinions that betrayed her class of person. Also, she had a medical checkup each year that lasted a couple days. It was not far away now, and she’d rather get it all out of the way at once. If it became unbearable, she thought, she could always medicate it herself.
 
