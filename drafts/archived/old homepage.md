@@ -6,10 +6,10 @@ bookHidden: true
 bookSearchExclude: true
 ---
 
-{{< columns >}} <!-- begin columns block -->
+ <!-- begin columns block -->
 <img style="margin-left: 2rem;"> ![img](/images/mastheads/princess.png) </img>
 
-<---> <!-- magic separator, between columns -->
+ <!-- magic separator, between columns -->
 
 <div style="margin-left: 2rem; margin-right: 2rem;">
 <div class="yellow">
@@ -34,11 +34,11 @@ Browse the links in the sidebar to get started. Look at the panels below for inf
 <a style="margin-left: 8px; margin-right: 8px;" href="https://www.patreon.com/vekllei"><img src="/patreonlogo.png" height="35" width="35" /></a>
 </h2>
 </div>
-{{< /columns >}}
+
 
 <br>
 
-{{< columns >}} <!-- begin columns block -->
+ <!-- begin columns block -->
 
 {{< details title="💌 Site News" open=true >}}
 
@@ -62,7 +62,7 @@ Français? Español? Português? 日本語? Contributors to the Vekllei Translat
 {{< /hint >}}
 {{< /details >}}
 
-<---> <!-- magic separator, between columns -->
+ <!-- magic separator, between columns -->
 {{< details title="🎟 Getting Started" open=true >}}
 
 ## ❖ This Project
@@ -71,4 +71,4 @@ Français? Español? Português? 日本語? Contributors to the Vekllei Translat
 Vekllei is published as illustrations with stories attached, but soon will feature a comic. <b>You can access an archive of these posts at the <a href="/posts/">Archive</a></b>.
 </div>
 {{< /details >}}
-{{< /columns >}}
+

@@ -117,8 +117,6 @@ The abundance of volcanic springs in the neighbourhood of Camro has encouraged V
 
 Lola's east is home to several combined heat and power plants, which produce both electricty and useful heat from natural geothermal activity. As part of Vekllei's commitment to decentralised electricity, three plants provide the majority of Lola's power and heat (numbered S.M.1 through 3), which are operated by Vekllei's Magma-Electric Commission. Useful heat is piped into Lola's homes, but is also used to power large geothermal greenhouses that contribute fresh produce for Lola's markets. S.M.2 in Camro is open to the public as a geothermal power museum.
 
-<br>
-{{<columns>}}
 ## Towns
 - Lola
 - Reykjavic
@@ -130,8 +128,8 @@ Lola's east is home to several combined heat and power plants, which produce bot
 - Camro
 - Alveg
 - Seispri
-<--->
+
 ## Posts
 - [Garden City](/posts/2021-10-23-garden/)
 - [Recess on the Roof](/posts/2021-10-04-roof/)
-{{</columns>}}
+

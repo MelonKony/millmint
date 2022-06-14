@@ -85,13 +85,13 @@ The Volcanoes Bureau and Geological Survey monitor volcanic activity in Vekllei,
 Troll's location at the base of the Vatnayoskusl Glacier makes it a strategic site for the processing of freshwater runoff, which feeds Vekllei's residential water systems. In 2066, the Troll Water Treatment Plant was established to support ageing plants in [Voya Voya](/utopia/vekllei/landscape/boroughs/voya-voya/) and Guisimaya. The Troll Water Treatment Plant is operated by the Water Commission of Vekllei (Hydroburo).
 
 <br>
-{{<columns>}}
+
 ## Towns
 - Troll
 - Vatnayoskusl
 - Troll-Misya
-<--->
+
 ## Posts
 - [Roadside Picnic](/posts/2021-09-15-picnic/)
 - [VNR Orange](/posts/2021-06-03-orange/)
-{{</columns>}}
+

@@ -1,4 +1,4 @@
-#navbar {
+nav {
   display: flex;
   flex-wrap: wrap;
   margin: 0 0 1rem 0;
@@ -8,30 +8,34 @@
     margin-top: 0;
     margin-bottom: 0;
   }
+}
 
-  > ul.pure-menu-list {
+.navbar {
     display: flex;
     align-items: center;
     flex: 1;
+    list-style: none;
+    margin: 0;
+    padding: 0;
 
     .navbar-dropdown {
       > a.pure-menu-link:after {
         content: "▾";
       }
 
-      > ul.pure-menu-children {
+      > ul.menu-dropdown {
         left: 0;
-        top: 27px;
+        top: 1.5rem;
         width: inherit;
       }
     }
-
     .navbar-item {
+      display: block;
       margin: 0 0.5rem 0 0;
       padding-bottom: 0.3rem;
       border-bottom: 2px solid transparent;
 
-      > a.pure-menu-link {
+      > a.menu-link {
         @include font-medium;
         padding: 0;
         color: var(--color-gray);
@@ -44,10 +48,6 @@
           color: var(--color-navbar-item-active);
         }
       }
-    }
-    
-    .right {
-      margin-left: auto;
     }
 
     .navbar-item.active {
@@ -65,11 +65,18 @@
         color: var(--color-navbar-item-in-section);
       }
     }
-  }
 }
 
-#navbar a {
+.navbar li {
+  list-style: none;
+}
+
+.navbar a {
     filter: brightness(50%)
+}
+
+.navbar-dropdown li {
+  padding: .5rem 0 .5rem 0;
 }
 
 /* navbar border radius */
@@ -100,4 +107,192 @@
 .navbar-dropdown li:last-child {
   margin-top: -1px;
   border-radius: 0 0 5px 5px;
+}
+
+.menu {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.pure-menu-fixed {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 3;
+}
+
+.navbar, .navbar-item {
+  position: relative;
+}
+
+.navbar-item {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  @include text-sm;
+}
+
+.navbar-item {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+/* HORIZONTAL MENU */
+
+.pure-menu-horizontal {
+  width: 100%;
+  white-space: nowrap;
+
+  .pure-menu-list {
+    display: inline-block;
+  }
+
+  .menu-item, .pure-menu-heading, .pure-menu-separator {
+    display: inline-block;
+    vertical-align: middle;
+  }
+}
+
+/* Initial menus should be inline-block so that they are horizontal */
+
+/* Submenus should still be display: block; */
+
+.menu-item .menu-item {
+  display: block;
+}
+
+.menu-dropdown {
+  display: none;
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: 0;
+  padding: 0;
+  z-index: 3;
+  box-shadow: 0 20px 25px -5px rgba(0,0,0,.1),0 10px 10px -5px rgba(0,0,0,.04);
+}
+
+.submenu .menu-dropdown {
+  left: 100%;
+  top: auto;
+  margin-top: -1.75rem;
+  width: inherit;
+}
+
+.allow-hover:hover > .menu-dropdown, .menu-active > .menu-dropdown {
+  display: block;
+  position: absolute;
+}
+
+/* Vertical Menus - show the dropdown arrow */
+
+.submenu > .menu-link:after {
+  font-family: sans-serif;
+  padding-left: 0.35rem;
+  content: "▸";
+}
+
+/* Horizontal Menus - show the dropdown arrow */
+
+.navbar .navbar-dropdown > .menu-link:after {
+  font-family: sans-serif;
+  padding-left: 0.35rem;
+  content: "▾";
+}
+
+/* scrollable menus */
+
+.pure-menu-scrollable {
+  overflow-y: scroll;
+  overflow-x: hidden;
+
+  .pure-menu-list {
+    display: block;
+  }
+}
+
+.pure-menu-horizontal.pure-menu-scrollable {
+  .pure-menu-list {
+    display: inline-block;
+  }
+
+  white-space: nowrap;
+  overflow-y: hidden;
+  overflow-x: auto;
+
+  /* a little extra padding for this style to allow for scrollbars */
+  padding: .5em 0;
+}
+
+/* misc default styling */
+
+.pure-menu-separator {
+  background-color: #ccc;
+  height: 1px;
+  margin: .3em 0;
+}
+
+.pure-menu-horizontal {
+  .menu-dropdown .pure-menu-separator {
+    background-color: #ccc;
+    height: 1px;
+    margin: .3em 0;
+  }
+
+  .pure-menu-separator {
+    width: 1px;
+    height: 1.3em;
+    margin: 0 0.3em;
+  }
+
+  .menu-dropdown .pure-menu-separator {
+    display: block;
+    width: auto;
+  }
+}
+
+/* Need to reset the separator since submenu is vertical */
+
+.pure-menu-heading {
+  text-transform: uppercase;
+  color: var(--color-text);
+}
+
+.menu-link {
+  color: var(--color-text);
+  @include text-sm;
+  padding: .5rem;
+}
+
+.menu-dropdown {
+  background-color: var(--color-background);
+}
+
+.menu-active > .menu-link {
+  background-color: var(--color-background-hover);
+}
+
+.menu-link {
+  &:hover, &:focus {
+    background-color: var(--color-background-hover);
+  }
+}
+
+.pure-menu-selected > .menu-link {
+  color: var(--color-navbar-item-active);
+
+  &:visited {
+    color: var(--color-navbar-item-active);
+  }
+}
+
+.left {
+  margin-left: auto;
+  justify-content: initial;
+}
+
+.right {
+  margin-right: auto;
+  justify-content: end;
 }

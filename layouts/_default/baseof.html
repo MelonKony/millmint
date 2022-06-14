@@ -20,7 +20,7 @@
         <main>
             {{- partial "header.html" . -}}
             {{- partial "nav.html" . -}}
-            <div id="content" class="content-margin">
+            <article class="content article-{{ .Params.Color }}">
                 {{ if .Params.changelogs }}
                     {{ $enable_collapsible_changelogs := (.Scratch.Get "params").enable_collapsible_changelogs }}
                     {{ partial "collapsible-menu.html" (dict "type" "changelogs" "context" . "enable" $enable_collapsible_changelogs) }}
@@ -37,7 +37,7 @@
                         {{- partial "disqus.html" . -}}
                     {{ end }}
                 {{ end }}
-            </div>
+            </article>
             {{- partial "footer.html" . -}}
         </main>
     </body>

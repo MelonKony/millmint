@@ -73,7 +73,15 @@ details[open] > summary {
   cursor: auto;
 }
 
-.content-margin {
+footer {
+  margin: 2rem 0 0 0;
+}
+
+footer ul {
+  text-align: left;
+}
+
+.content {
   margin: 1rem 0 1rem 0;
 }
 

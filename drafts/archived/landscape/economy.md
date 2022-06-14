@@ -16,14 +16,14 @@ This page is still under construction, and may be incomplete.
 
 ### 1.1. Introduction
 
-{{< columns >}}
+
 
 The daily functioning of the Vekllei economy is as miraculous as it is unique. Key organs and mechanisms of the Vekllei economy reality are positioned against or outright opposed against each other. And a startling series of contradictions -- one after the other, each more unusual than the last. Vekllei is a planned economy; it is also a free market. Property ownership is obfuscated by portioned sovereignty of land and product. Decommodification has devalued products in a country based on manufacturing. There are many contradictions, inefficiencies and simply unusual mechanisms in the Vekllei domestic market, and this article hopes to elucidate at least some of them.
 
 
 The *Bureau System*, sometimes called *Product Socialism*, is the name by which Vekllei's economy is most often described. A primitive form was found in the anarchy in the wake of Vekllei's atomic bombing, but by 2020 it was written into the document that would become Vekllei's postwar constitution.
 
-<--->
+
 
 ![canals](https://millmint.studio/images/canal.jpg)
 
@@ -35,11 +35,11 @@ What makes the Bureau System unique? Simply that, in common contexts, no money e
 
 The abolition of currency is allowed by two facts:
 
-{{< columns >}}
+
 
 #### 1. A general post-scarcity and surplus of goods.
 
-<--->
+
 
 #### 2. The inefficiencies of a profitless market compensated by the total abolition of waged labour/labour costs.
 
@@ -61,12 +61,12 @@ Participatory employment.
 
 ### 1.3. Culture
 
-{{< columns >}}
+
 Most unusual is Vekllei’s cultural phantom of property and its absence in business and the home. That is not to indicate a tendency of either private or shared commodity, but rather an absence of commodity altogether — a fiscal kingdom divorced entirely from neighbouring notions of property, usurped instead by a common understanding of cityscape and objects alike as products of nature, capable neither of possessing or communalising it, codified mostly by a cultural intuition that forms one part of the Vekllei idea of ‘ownership’.
 
 Yes, these people do not recognise property in their domestic lives, nor do they carry with them any currency or currency-substitute (labour vouchers, crediting systems, etc.) — but to describe the economic function of society as simply utopian in the fashion of 19th century fiction-writers would be misleading. Vekllei is a miracle produced in the intersection of culture and power that have determined national priority since the First Atomic War. Vekllei is not a blueprint or mathematical template, and appears to be so far irreproducible abroad. This could be because of any or all of the following:
 
-<--->
+
 
 - Vekllei is perhaps the most highly concentrated country of its size on Earth — 80 percent of the 20 millions that call it home are located in the wide urban region referred to as the Capital and the city-state of Vekllei. Indeed, domestically the entire inhabited coastline is considered to be part of one large, singular city community.
 - Vekllei was devastated entirely by the First Atomic War, which extinguished the protectionist Denoisesn regime and left the urban centres bare of infrastructure, allowing architects and urban planners to implement a so-called ‘garden city’ design in the principle of traditional Vekllei spiritualism.

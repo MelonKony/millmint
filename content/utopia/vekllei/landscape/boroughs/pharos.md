@@ -50,8 +50,6 @@ Originally intended to support the Port of Vekllei for commercial and tourist tr
 
 ### Pharos Railway Company Museum
 
-
-{{<columns>}}
 ## Towns
 - Pharos
 - Faro
@@ -59,7 +57,7 @@ Originally intended to support the Port of Vekllei for commercial and tourist tr
 - Sandeyri
 - Petty Shanghai
 - Uclo
-<--->
+
 ## Posts
 - [Towers in the Park](/posts/2022-04-24-towers/)
-{{</columns>}}
+

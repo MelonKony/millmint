@@ -43,14 +43,12 @@ The town is the birthplace of former Prime Minister Come Des Desvouisan (1982-20
 
 Although Mumen is most famous for its beaches, this coastal borough been oceangoing long before tourists arrived. Close to both Pharos and positioned along Vekllei's southern gulf ocean currents, it experiences warm summers and mild winters, though suffers sporadic rains in both spring and autumn.
 
-<br>
-{{<columns>}}
 ## Towns
 - Mumen
 - Chitti
 - Petty Greece
-<--->
+
 ## Posts
 - [Like Father, Like Daughter](/posts/2019-11-09-beach/)
 - [The Sand Mage](/posts/2021-03-19-mage/)
-{{</columns>}}
+

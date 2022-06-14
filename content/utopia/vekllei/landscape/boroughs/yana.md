@@ -73,18 +73,15 @@ The *Yana loh Ouismaindesdenya* (Yana Care Home) is a facility run by the *War B
 
 Outside of Sciff, a small agricultural settlement in Yana's West, lies the Thunderburo Geothermal Research Plant, a complex designed to pioneer emerging geothermal electricity production. Vekllei depends heavily on geothermal electricty for domestic consumption, and so considerable concern is given to advancing the efficiency of the Thunderburo's so-called "Magma-Electric Commission". About 250 research staff work out here, most commuting from Sciff or stationed on-site in company apartments.
 
-<br>
-{{<columns>}}
 ## Towns
 - Yana
 - Sciff
 - Beri
-<--->
+
 ## Posts
 - [Ghosts of Taiwan in the Yana Lakehouse](/posts/2020-04-05-lakehouse/)
 - [The Race for Inefficiency](/posts/2020-06-14-map/)
 - [A Map of Vekllei — 100 Boroughs; 100 Hearts](/posts/2020-07-13-economy/)
-{{</columns>}}
 
 ## Notes
 - Ayn Rumouisen was born in Yana.

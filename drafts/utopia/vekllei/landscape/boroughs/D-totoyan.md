@@ -75,13 +75,13 @@ Miyatvousi is linked to the coast via the Vekllei Central Highland Bullet Train,
 
 
 <br>
-{{<columns>}}
+
 ## Towns
 - Miyatvousi
 - Miyatvousi-Vizcette
 - Poka
 - Gismavikette
-<--->
+
 ## Posts
 - [Gone Hollywood](/posts/2021-05-24-hollywood/)
-{{</columns>}}
+

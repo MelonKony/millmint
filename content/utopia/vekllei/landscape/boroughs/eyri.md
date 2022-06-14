@@ -42,13 +42,11 @@ In the early 2020s, Eyri saw tremendous investment by the Ocean Bureau into aqua
 
 Eyri is known best for its cliffs, which watch over fjords and beaches pummelled by enormous Atlantic swells and icebergs. Along the coast the roar of the ocean can always be heard. Eyri is also known, somewhat unfortunately, for its miserable rain and cold weather, as most of its towns are situated between the *Osmo* mountain ranges which funnel in cold arctic air.
 
-<br>
-{{<columns>}}
 ## Towns
 - Eyri
 - Kis
 - Ice Town
-<--->
+
 ## Posts
 - [Killing a Sea Serpent](/posts/2021-03-17-serpent/)
-{{</columns>}}
+

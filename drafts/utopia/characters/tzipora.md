@@ -31,15 +31,15 @@ color: var(--color-teal);
 
 ### Introduction
 
-{{< columns >}}
+
 **Tzipora Desmoisnes** (also *Zelda lo Ula de Helette Desmoisnes*, born May 5 2047) is a Vekllei [Gregori Baby](/) and librarian, and is the [character utopia](/) of the [Petticoat Project](/). Born to artist and political activist [Mette Sumoisnesn](/) and an unknown father, the family moved to Colombia when Tzipora was six months old. Her return to Vekllei as a teen-ager would mark her integration into Vekllei society and her diagnosis as Vekllei's first victim of Gregori-Heitzfeld syndrome.
 
 Tzipora is characterised by her intense disposition and conservative tastes, informed in part by her youth in Colombia and the United States. Although she is naturally self-sustaining and independent, she dearly loves her adoptive father [Baron Desmoisnes](/) and family friend [Ayn Rumouisen](/), and holds affectionate, close relationships with those important to her.
 
-<--->
+
 
 ![img](/images/mastheads/tzipora.jpg)
-{{< /columns >}}
+
 
 Tzipora struggles with shell-shock, which interferes with her sleep and is spurred by several triggers, including large dogs and lying on her chest. Her nervous behaviour manifests in various tics, most obviously pulling and rubbing of her clothes and nose. She is relatively unknown in Vekllei, except as an occasional medical curiosity, but is somewhat renowned internationally as the oldest surviving Gregori Baby.
 

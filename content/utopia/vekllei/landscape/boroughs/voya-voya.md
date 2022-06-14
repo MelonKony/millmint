@@ -83,11 +83,9 @@ In celebration of 50 years of independence, in 2065 the Hydroburo embarked on an
 
 All-Smiles Ice Cream, the second-most consumed brand in Vekllei, are headquartered in Voya Voya. Its manufactory, A.S. Ice Cream S.p.M., is located in the heart of Voya Voya and is a popular local attraction, since it gives tours and samples to visitors on Sundays.
 
-<br>
-{{<columns>}}
 ## Towns
 - Voya Voya
-<--->
+
 ## Posts
 - [City Rivers](/posts/2021-03-27-rivers/)
-{{</columns>}}
+

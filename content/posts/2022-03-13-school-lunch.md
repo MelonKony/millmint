@@ -3,7 +3,7 @@ title: School Lunch
 fulltitle: Tzipora Takes her Lunch to School
 
 date: 2022-03-13
-rgb: 238, 202, 202
+rgb: 237, 165, 155
 
 tags:
 - 2022

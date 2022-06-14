@@ -1,0 +1,22 @@
+{{ range .Children }}
+    {{ if .Children }}
+        <li class="submenu allow-hover">
+            {{ if .URL }}
+                <a href="{{ .URL }}" class="menu-link">{{- .Name -}}</a>
+            {{ else }}
+                <div class="menu-link">{{- .Name -}}</div>
+            {{ end }}
+            <ul class="menu-dropdown">
+                {{- partial "navbar/nested-desktop.html" . -}}
+            </ul>
+        </li>
+    {{ else }}
+        <li>
+            {{ if .URL }}
+                <a href="{{ .URL }}" class="menu-link">{{- .Name -}}</a>
+            {{ else }}
+                <div class="menu-link">{{- .Name -}}</div>
+            {{ end }}
+        </li>
+    {{ end }}
+{{ end }}

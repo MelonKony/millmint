@@ -896,15 +896,15 @@ https://github.com/pure-css/pure/blob/master/LICENSE
   top: 0;
   z-index: 3; }
 
-.pure-menu-list, .pure-menu-item {
+.nav, .menu-item {
   position: relative; }
 
-.pure-menu-list {
+.nav {
   list-style: none;
   margin: 0;
   padding: 0; }
 
-.pure-menu-item {
+.menu-item {
   padding: 0;
   margin: 0;
   height: 100%;
@@ -922,15 +922,15 @@ https://github.com/pure-css/pure/blob/master/LICENSE
 .pure-menu-horizontal {
   width: 100%;
   white-space: nowrap; }
-  .pure-menu-horizontal .pure-menu-list {
+  .pure-menu-horizontal .nav {
     display: inline-block; }
-  .pure-menu-horizontal .pure-menu-item, .pure-menu-horizontal .pure-menu-heading, .pure-menu-horizontal .pure-menu-separator {
+  .pure-menu-horizontal .menu-item, .pure-menu-horizontal .pure-menu-heading, .pure-menu-horizontal .pure-menu-separator {
     display: inline-block;
     vertical-align: middle; }
 
 /* Initial menus should be inline-block so that they are horizontal */
 /* Submenus should still be display: block; */
-.pure-menu-item .pure-menu-item {
+.menu-item .menu-item {
   display: block; }
 
 .pure-menu-children {
@@ -967,7 +967,7 @@ https://github.com/pure-css/pure/blob/master/LICENSE
 .pure-menu-scrollable {
   overflow-y: scroll;
   overflow-x: hidden; }
-  .pure-menu-scrollable .pure-menu-list {
+  .pure-menu-scrollable .nav {
     display: block; }
 
 .pure-menu-horizontal.pure-menu-scrollable {
@@ -976,7 +976,7 @@ https://github.com/pure-css/pure/blob/master/LICENSE
   overflow-x: auto;
   /* a little extra padding for this style to allow for scrollbars */
   padding: .5em 0; }
-  .pure-menu-horizontal.pure-menu-scrollable .pure-menu-list {
+  .pure-menu-horizontal.pure-menu-scrollable .nav {
     display: inline-block; }
 
 /* misc default styling */
@@ -1039,35 +1039,35 @@ https://github.com/pure-css/pure/blob/master/LICENSE
   @media screen and (max-width: 48rem) {
     #navbar {
       display: none; } }
-  #navbar > ul.pure-menu-list {
+  #navbar > ul.nav {
     display: flex; }
-    #navbar > ul.pure-menu-list .navbar-dropdown > a.pure-menu-link:after {
+    #navbar > ul.nav .navbar-dropdown > a.pure-menu-link:after {
       content: "▾"; }
-    #navbar > ul.pure-menu-list .navbar-dropdown > ul.pure-menu-children {
+    #navbar > ul.nav .navbar-dropdown > ul.pure-menu-children {
       left: 0;
       top: 27px;
       width: inherit; }
-    #navbar > ul.pure-menu-list .navbar-item {
+    #navbar > ul.nav .navbar-item {
       margin: 0 .5rem 0 0;
       padding-bottom: .3rem;
       border-bottom: 2px solid transparent; }
-      #navbar > ul.pure-menu-list .navbar-item > a.pure-menu-link {
+      #navbar > ul.nav .navbar-item > a.pure-menu-link {
         font-weight: 500;
         padding: 0;
         color: var(--color-navbar-item-inactive); }
-        #navbar > ul.pure-menu-list .navbar-item > a.pure-menu-link:hover {
+        #navbar > ul.nav .navbar-item > a.pure-menu-link:hover {
           background-color: transparent; }
-      #navbar > ul.pure-menu-list .navbar-item:hover {
+      #navbar > ul.nav .navbar-item:hover {
         border-bottom-color: var(--color-navbar-item-active); }
-        #navbar > ul.pure-menu-list .navbar-item:hover > a {
+        #navbar > ul.nav .navbar-item:hover > a {
           color: var(--color-navbar-item-active); }
-    #navbar > ul.pure-menu-list .navbar-item.active {
+    #navbar > ul.nav .navbar-item.active {
       border-bottom-color: var(--color-navbar-item-active); }
-      #navbar > ul.pure-menu-list .navbar-item.active > a {
+      #navbar > ul.nav .navbar-item.active > a {
         color: var(--color-navbar-item-active); }
-    #navbar > ul.pure-menu-list .navbar-item.insection {
+    #navbar > ul.nav .navbar-item.insection {
       border-bottom-color: var(--color-navbar-item-in-section); }
-      #navbar > ul.pure-menu-list .navbar-item.insection > a {
+      #navbar > ul.nav .navbar-item.insection > a {
         color: var(--color-navbar-item-in-section); }
 
 #TableOfContents {

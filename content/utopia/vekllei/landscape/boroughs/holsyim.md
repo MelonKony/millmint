@@ -36,13 +36,11 @@ Holsyim was founded as a fishing village in the late 19th century, but it's like
 
 Holsyim is well known for its adjacency to the Holsyim Crown Land, a preserved area of temperate rainforest that hosts thousands of different species of plants, animals and mosses. As Crown Land, it remains undeveloped and officially unrecognised by the Vekllei government, but nonetheless is documented extensively by local ecologists. The town of Holsyim sits on Vekllei's Southern Coast, and has some of the largest beaches in the Vika Region.
 
-<br>
-{{<columns>}}
 ## Towns
 - Holsyim
 - Spisek
 - Seismiyou
-<--->
+
 ## Posts
 - [Bea and the Mosses](/posts/2020-12-08-bea/)
-{{</columns>}}
+

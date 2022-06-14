@@ -69,21 +69,21 @@ Bureaus can consist of a single company, as is often the case in government depa
 
 When we talk about a ***Bureau***, it refers to a *Bureau Proper* unless otherwise stated. Bureaux Proper are the formal trade organisations of the country, bound to its direction and intention. They coexist with *Bureau Minor* or "Petty Bureaux," which are informal, often provincial or regional, independent from Proper Bureaux, and better resemble free trade unions. The following infosheets describe their differences.
 
-{{<columns>}}
+
 {{< details title="Bureau Proper" open=true >}}
 {{</details>}}
-<--->
+
 {{< details title="Bureau Minor" open=true >}}
 {{</details>}}
-{{</columns>}}
 
-{{<columns>}}
+
+
 {{< details title="Senrouive" open=true >}}
 {{</details>}}
-<--->
+
 {{< details title="Venrouive" open=true >}}
 {{</details>}}
-{{</columns>}}
+
 
 Bureaus
 

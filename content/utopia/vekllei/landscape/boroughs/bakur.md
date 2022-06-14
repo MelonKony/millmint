@@ -39,13 +39,11 @@ The town is the birthplace of celebrated Vekllei folk songwriter Tohs Viskaismes
 
 The Bakur borough is home to some of Vekllei's most spectacular subarctic scenery, dominated lava slopes, ice fields, and fjords. Its position among the Westernmost boroughs in Vekllei makes it a great staging town for Vekllei's expansive fishing fleet, including line and trawling vessels.
 
-<br>
-{{<columns>}}
 ## Towns
 - Bakur
 - Little Fesmiosn
 - Aya
-<--->
+
 ## Posts
 - [A Map of Vekllei](/posts/2020-06-14-map/)
-{{</columns>}}
+

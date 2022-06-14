@@ -524,7 +524,13 @@ details > summary {
 details[open] > summary {
   cursor: auto; }
 
-.content-margin {
+footer {
+  margin: 2rem 0 0 0; }
+
+footer ul {
+  text-align: left; }
+
+.content {
   margin: 1rem 0 1rem 0; }
 
 .hidden {
@@ -1098,205 +1104,58 @@ footer {
   text-align: center;
   color: var(--color-text-footer); }
 
-/*!
-Pure v2.1.0
-Copyright 2013 Yahoo!
-Licensed under the BSD License.
-https://github.com/pure-css/pure/blob/master/LICENSE
-*/
-/*csslint adjoining-classes: false, box-model:false*/
-.pure-menu {
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box; }
-
-.pure-menu-fixed {
-  position: fixed;
-  left: 0;
-  top: 0;
-  z-index: 3; }
-
-.pure-menu-list, .pure-menu-item {
-  position: relative; }
-
-.pure-menu-list {
-  list-style: none;
-  margin: 0;
-  padding: 0; }
-
-.pure-menu-item {
-  padding: 0;
-  margin: 0;
-  height: 100%;
-  font-size: 0.875rem;
-  /* 14px */
-  line-height: 1.25rem;
-  /* 20px */ }
-
-.pure-menu-link, .pure-menu-heading {
-  display: block;
-  text-decoration: none;
-  white-space: nowrap; }
-
-/* HORIZONTAL MENU */
-.pure-menu-horizontal {
-  width: 100%;
-  white-space: nowrap; }
-  .pure-menu-horizontal .pure-menu-list {
-    display: inline-block; }
-  .pure-menu-horizontal .pure-menu-item, .pure-menu-horizontal .pure-menu-heading, .pure-menu-horizontal .pure-menu-separator {
-    display: inline-block;
-    vertical-align: middle; }
-
-/* Initial menus should be inline-block so that they are horizontal */
-/* Submenus should still be display: block; */
-.pure-menu-item .pure-menu-item {
-  display: block; }
-
-.pure-menu-children {
-  display: none;
-  position: absolute;
-  left: 100%;
-  top: 0;
-  margin: 0;
-  padding: 0;
-  z-index: 3;
-  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04); }
-
-.pure-menu-horizontal .pure-menu-children {
-  left: 0;
-  top: auto;
-  width: inherit; }
-
-.pure-menu-allow-hover:hover > .pure-menu-children, .pure-menu-active > .pure-menu-children {
-  display: block;
-  position: absolute; }
-
-/* Vertical Menus - show the dropdown arrow */
-.pure-menu-has-children > .pure-menu-link:after {
-  padding-left: 0.35rem;
-  font-family: sans-serif;
-  content: "▸"; }
-
-/* Horizontal Menus - show the dropdown arrow */
-.pure-menu-horizontal .pure-menu-has-children > .pure-menu-link:after {
-  font-family: sans-serif;
-  content: "▾"; }
-
-/* scrollable menus */
-.pure-menu-scrollable {
-  overflow-y: scroll;
-  overflow-x: hidden; }
-  .pure-menu-scrollable .pure-menu-list {
-    display: block; }
-
-.pure-menu-horizontal.pure-menu-scrollable {
-  white-space: nowrap;
-  overflow-y: hidden;
-  overflow-x: auto;
-  /* a little extra padding for this style to allow for scrollbars */
-  padding: .5em 0; }
-  .pure-menu-horizontal.pure-menu-scrollable .pure-menu-list {
-    display: inline-block; }
-
-/* misc default styling */
-.pure-menu-separator {
-  background-color: #ccc;
-  height: 1px;
-  margin: .3em 0; }
-
-.pure-menu-horizontal .pure-menu-children .pure-menu-separator {
-  background-color: #ccc;
-  height: 1px;
-  margin: .3em 0; }
-
-.pure-menu-horizontal .pure-menu-separator {
-  width: 1px;
-  height: 1.3em;
-  margin: 0 0.3em; }
-
-.pure-menu-horizontal .pure-menu-children .pure-menu-separator {
-  display: block;
-  width: auto; }
-
-/* Need to reset the separator since submenu is vertical */
-.pure-menu-heading {
-  text-transform: uppercase;
-  color: var(--color-text); }
-
-.pure-menu-link {
-  color: var(--color-text);
-  font-size: 0.875rem;
-  /* 14px */
-  line-height: 1.25rem;
-  /* 20px */ }
-
-.pure-menu-children {
-  background-color: var(--color-background); }
-
-.pure-menu-link, .pure-menu-heading {
-  padding: .5rem; }
-
-.pure-menu-disabled {
-  opacity: .5; }
-  .pure-menu-disabled .pure-menu-link:hover {
-    background-color: transparent;
-    cursor: default; }
-
-.pure-menu-active > .pure-menu-link {
-  background-color: var(--color-background-hover); }
-
-.pure-menu-link:hover, .pure-menu-link:focus {
-  background-color: var(--color-background-hover); }
-
-.pure-menu-selected > .pure-menu-link {
-  color: var(--color-navbar-item-active); }
-  .pure-menu-selected > .pure-menu-link:visited {
-    color: var(--color-navbar-item-active); }
-
-#navbar {
+nav {
   display: flex;
   flex-wrap: wrap;
   margin: 0 0 1rem 0; }
   @media screen and (max-width: 48rem) {
-    #navbar {
+    nav {
       display: flex;
       margin-top: 0;
       margin-bottom: 0; } }
-  #navbar > ul.pure-menu-list {
-    display: flex;
-    align-items: center;
-    flex: 1; }
-    #navbar > ul.pure-menu-list .navbar-dropdown > a.pure-menu-link:after {
-      content: "▾"; }
-    #navbar > ul.pure-menu-list .navbar-dropdown > ul.pure-menu-children {
-      left: 0;
-      top: 27px;
-      width: inherit; }
-    #navbar > ul.pure-menu-list .navbar-item {
-      margin: 0 0.5rem 0 0;
-      padding-bottom: 0.3rem;
-      border-bottom: 2px solid transparent; }
-      #navbar > ul.pure-menu-list .navbar-item > a.pure-menu-link {
-        font-weight: 500;
-        padding: 0;
-        color: var(--color-gray); }
-      #navbar > ul.pure-menu-list .navbar-item:hover {
-        border-bottom-color: var(--body-font-color); }
-        #navbar > ul.pure-menu-list .navbar-item:hover > a {
-          color: var(--color-navbar-item-active); }
-    #navbar > ul.pure-menu-list .right {
-      margin-left: auto; }
-    #navbar > ul.pure-menu-list .navbar-item.active {
-      border-bottom-color: var(--color-navbar-item-active); }
-      #navbar > ul.pure-menu-list .navbar-item.active > a {
+.navbar {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+  .navbar .navbar-dropdown > a.pure-menu-link:after {
+    content: "▾"; }
+  .navbar .navbar-dropdown > ul.menu-dropdown {
+    left: 0;
+    top: 1.5rem;
+    width: inherit; }
+  .navbar .navbar-item {
+    display: block;
+    margin: 0 0.5rem 0 0;
+    padding-bottom: 0.3rem;
+    border-bottom: 2px solid transparent; }
+    .navbar .navbar-item > a.menu-link {
+      font-weight: 500;
+      padding: 0;
+      color: var(--color-gray); }
+    .navbar .navbar-item:hover {
+      border-bottom-color: var(--body-font-color); }
+      .navbar .navbar-item:hover > a {
         color: var(--color-navbar-item-active); }
-    #navbar > ul.pure-menu-list .navbar-item.insection {
-      border-bottom-color: var(--color-navbar-item-in-section); }
-      #navbar > ul.pure-menu-list .navbar-item.insection > a {
-        color: var(--color-navbar-item-in-section); }
+  .navbar .navbar-item.active {
+    border-bottom-color: var(--color-navbar-item-active); }
+    .navbar .navbar-item.active > a {
+      color: var(--color-navbar-item-active); }
+  .navbar .navbar-item.insection {
+    border-bottom-color: var(--color-navbar-item-in-section); }
+    .navbar .navbar-item.insection > a {
+      color: var(--color-navbar-item-in-section); }
 
-#navbar a {
+.navbar li {
+  list-style: none; }
+
+.navbar a {
   filter: brightness(50%); }
+
+.navbar-dropdown li {
+  padding: .5rem 0 .5rem 0; }
 
 /* navbar border radius */
 .navbar-item-dropdown {
@@ -1324,12 +1183,158 @@ https://github.com/pure-css/pure/blob/master/LICENSE
   margin-top: -1px;
   border-radius: 0 0 5px 5px; }
 
+.menu {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+.pure-menu-fixed {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 3; }
+
+.navbar, .navbar-item {
+  position: relative; }
+
+.navbar-item {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  font-size: 0.875rem;
+  /* 14px */
+  line-height: 1.25rem;
+  /* 20px */ }
+
+.navbar-item {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap; }
+
+/* HORIZONTAL MENU */
+.pure-menu-horizontal {
+  width: 100%;
+  white-space: nowrap; }
+  .pure-menu-horizontal .pure-menu-list {
+    display: inline-block; }
+  .pure-menu-horizontal .menu-item, .pure-menu-horizontal .pure-menu-heading, .pure-menu-horizontal .pure-menu-separator {
+    display: inline-block;
+    vertical-align: middle; }
+
+/* Initial menus should be inline-block so that they are horizontal */
+/* Submenus should still be display: block; */
+.menu-item .menu-item {
+  display: block; }
+
+.menu-dropdown {
+  display: none;
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: 0;
+  padding: 0;
+  z-index: 3;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04); }
+
+.submenu .menu-dropdown {
+  left: 100%;
+  top: auto;
+  margin-top: -1.75rem;
+  width: inherit; }
+
+.allow-hover:hover > .menu-dropdown, .menu-active > .menu-dropdown {
+  display: block;
+  position: absolute; }
+
+/* Vertical Menus - show the dropdown arrow */
+.submenu > .menu-link:after {
+  font-family: sans-serif;
+  padding-left: 0.35rem;
+  content: "▸"; }
+
+/* Horizontal Menus - show the dropdown arrow */
+.navbar .navbar-dropdown > .menu-link:after {
+  font-family: sans-serif;
+  padding-left: 0.35rem;
+  content: "▾"; }
+
+/* scrollable menus */
+.pure-menu-scrollable {
+  overflow-y: scroll;
+  overflow-x: hidden; }
+  .pure-menu-scrollable .pure-menu-list {
+    display: block; }
+
+.pure-menu-horizontal.pure-menu-scrollable {
+  white-space: nowrap;
+  overflow-y: hidden;
+  overflow-x: auto;
+  /* a little extra padding for this style to allow for scrollbars */
+  padding: .5em 0; }
+  .pure-menu-horizontal.pure-menu-scrollable .pure-menu-list {
+    display: inline-block; }
+
+/* misc default styling */
+.pure-menu-separator {
+  background-color: #ccc;
+  height: 1px;
+  margin: .3em 0; }
+
+.pure-menu-horizontal .menu-dropdown .pure-menu-separator {
+  background-color: #ccc;
+  height: 1px;
+  margin: .3em 0; }
+
+.pure-menu-horizontal .pure-menu-separator {
+  width: 1px;
+  height: 1.3em;
+  margin: 0 0.3em; }
+
+.pure-menu-horizontal .menu-dropdown .pure-menu-separator {
+  display: block;
+  width: auto; }
+
+/* Need to reset the separator since submenu is vertical */
+.pure-menu-heading {
+  text-transform: uppercase;
+  color: var(--color-text); }
+
+.menu-link {
+  color: var(--color-text);
+  font-size: 0.875rem;
+  /* 14px */
+  line-height: 1.25rem;
+  /* 20px */
+  padding: .5rem; }
+
+.menu-dropdown {
+  background-color: var(--color-background); }
+
+.menu-active > .menu-link {
+  background-color: var(--color-background-hover); }
+
+.menu-link:hover, .menu-link:focus {
+  background-color: var(--color-background-hover); }
+
+.pure-menu-selected > .menu-link {
+  color: var(--color-navbar-item-active); }
+  .pure-menu-selected > .menu-link:visited {
+    color: var(--color-navbar-item-active); }
+
+.left {
+  margin-left: auto;
+  justify-content: initial; }
+
+.right {
+  margin-right: auto;
+  justify-content: end; }
+
 #TableOfContents {
   line-height: 1.5rem;
-  margin: 1rem 0; }
+  margin: 0; }
   #TableOfContents ul, #TableOfContents li {
     list-style: none;
-    padding: 0; }
+    padding: 0;
+    margin: .5rem; }
   #TableOfContents ul ul {
     margin-left: .5rem; }
   #TableOfContents li {
@@ -1424,20 +1429,15 @@ article#collapsible_menu_changelogs {
   .term-item:hover {
     border-bottom-color: var(--color-text-secondary); }
 
-.icon {
-  display: inline-block;
-  width: 1.5rem;
-  height: 1.5rem; }
-  .icon a {
-    color: var(--color-text); }
-    .icon a:hover {
-      color: var(--color-text-secondary); }
-
 .breadcrumbs {
   font-weight: 700;
-  list-style-type: none;
-  padding: 0;
-  margin: 0; }
+  background-color: var(--gray-100);
+  width: 100%;
+  padding: 0.25rem 1rem 0.25rem 0.75rem;
+  box-sizing: border-box;
+  border-radius: 0.25rem;
+  margin: 1rem 0 1rem 0;
+  list-style: none; }
   .breadcrumbs a {
     color: var(--color-text);
     border-bottom: 2px solid transparent; }
@@ -1448,15 +1448,6 @@ article#collapsible_menu_changelogs {
 
 /* breadcrumbss */
 /* Style the list */
-.breadcrumbs {
-  background-color: var(--gray-100);
-  width: 100%;
-  padding: 0.25rem 1rem 0.25rem 0.75rem;
-  box-sizing: border-box;
-  border-radius: 0.25rem;
-  margin-top: 0rem;
-  list-style: none; }
-
 /* Display list items side by side */
 .breadcrumbs li {
   display: inline;
@@ -1505,13 +1496,6 @@ article#collapsible_menu_changelogs {
 .color-block {
   border-radius: 0.25rem;
   padding: 0.75rem; }
-
-.icon-group {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  display: inline-grid;
-  grid-auto-flow: column;
-  gap: 0.375rem; }
 
 #search_menu_wrapper {
   display: flex;
@@ -1715,7 +1699,8 @@ article#collapsible_menu_changelogs {
 
 .item {
   justify-self: center;
-  align-self: center; }
+  align-self: center;
+  list-style: none; }
 
 .card img {
   width: 100%;
@@ -2211,7 +2196,7 @@ article img[alt~="smallimg"] {
   100% {
     opacity: 1; } }
 
-.post-meta {
+.meta {
   display: grid;
   grid-template-columns: 1fr auto;
   grid-template-rows: 1fr;
@@ -2333,6 +2318,82 @@ article img[alt~="smallimg"] {
 
 .spanlink:hover {
   text-decoration: underline; }
+
+/* article links -- footer links to pages adjacent to current page */
+.articlelinks {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 20px 20px;
+  grid-template-areas: "alignleft alignright";
+  font-size: 15px;
+  line-height: 1.4;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -.01em; }
+
+.alignleft a:after, .alignright a:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray);
+  transform-origin: bottom right;
+  transition: transform 0.15s ease-out; }
+
+.alignleft a:hover:after, .alignright a:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left; }
+
+.alignleft:hover, .alignright:hover {
+  filter: brightness(85%); }
+
+.alignleft {
+  grid-area: alignleft;
+  text-align: left;
+  color: var(--color-gray); }
+
+.alignright {
+  grid-area: alignright;
+  text-align: right;
+  color: var(--color-gray); }
+
+.alignleft a {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  display: inline-block;
+  position: relative; }
+
+.alignright a {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  display: inline-block;
+  position: relative; }
+
+/* original article button at the bottom of posts */
+a.original-article:hover {
+  filter: brightness(85%); }
+
+a.original-article {
+  display: inline-block;
+  padding: 0;
+  margin: 0 0 1rem 0;
+  width: 100%;
+  line-height: 2rem;
+  cursor: pointer;
+  font-size: 14px;
+  text-decoration: none;
+  text-align: center;
+  position: relative;
+  box-sizing: border-box;
+  font-weight: 600;
+  border: 1px solid var(--color-gray);
+  min-width: 280px;
+  border-radius: .25rem;
+  color: var(--color-gray); }
 
 .search {
   position: relative;

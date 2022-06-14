@@ -39,13 +39,11 @@ Mirah is among several boroughs on Vekllei's West Coast settled thousands of yea
 
 Mirah is considered a satellite borough to the Capital Region, but formally lies in the Coastal Ro Highlands. It is abundant with seabirds, cold-weather mosses and drumlin fields. The famous white Siyaiousinesm Cliffs are also found nearby.
 
-<br>
-{{<columns>}}
 ## Towns
 - Mirah
 - Gigayeh
 - Frendli
-<--->
+
 ## Posts
 - [Atlantic Boredom](/posts/2020-10-07-boredom/)
-{{</columns>}}
+

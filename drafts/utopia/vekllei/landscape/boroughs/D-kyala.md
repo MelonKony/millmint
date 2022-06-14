@@ -61,12 +61,12 @@ The Bakur borough is home to some of Vekllei's most spectacular subarctic scener
 
 
 <br>
-{{<columns>}}
+
 ## Towns
 - Ou
 - Ada
 - Tiamoin
-<--->
+
 ## Posts
 - [Philately Foolery](/posts/2021-02-16-stamps/)
-{{</columns>}}
+

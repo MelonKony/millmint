@@ -1,39 +1,41 @@
-{{ partial "articlelinks.html" . }}
-{{ partial "breadcrumbs.html" . }}
-
-{{ partial "postlinks.html" . }}
-
-{{ if default true .Params.comments }}
-<!-- Comments by Cusdis 
-<div id="cusdis_thread" data-host="https://cusdis.com"
-  data-app-id="288e75bf-568b-448b-bd4c-dc49540dd8db"
-  data-page-id="{{ .File.UniqueID }}" data-page-url="{{ .Permalink }}"
-  data-page-title="{{ .Title }}">
-</div>
-<script async defer src="/js/cusdis.es.js"></script>
-
-<!--<div id="gitalk-container">
-	<script>
-  		const gitalk = new Gitalk({
-			clientID: 'ee5c5c832ce3976fce7c',
-			clientSecret: '62cbf8133658da67cac752828b380980a5fda652',
-			repo: 'comments',      // The repository of store comments,
-			owner: 'MelonKony',
-			admin: ['MelonKony'],
-			id: location.pathname,      // Ensure uniqueness and length less than 50
-			distractionFreeMode: false  // Facebook-like distraction free mode
-  		})
-		
-  		gitalk.render('gitalk-container')
-  	</script>
-	  <link rel="stylesheet" href="/css/comments.css">
-</div>-->
-{{ end }}
+<footer>
+  
+  {{ partial "articlelinks.html" . }}
+  
+  {{ partial "breadcrumbs.html" . }}
+  
+  {{ partial "original-article.html" . }}
+  
+  {{ if default true .Params.comments }}
+  <!-- Comments by Cusdis 
+  <div id="cusdis_thread" data-host="https://cusdis.com"
+    data-app-id="288e75bf-568b-448b-bd4c-dc49540dd8db"
+    data-page-id="{{ .File.UniqueID }}" data-page-url="{{ .Permalink }}"
+    data-page-title="{{ .Title }}">
+  </div>
+  <script async defer src="/js/cusdis.es.js"></script>
+  
+  <!--<div id="gitalk-container">
+	  <script>
+  		  const gitalk = new Gitalk({
+			  clientID: 'ee5c5c832ce3976fce7c',
+			  clientSecret: '62cbf8133658da67cac752828b380980a5fda652',
+			  repo: 'comments',      // The repository of store comments,
+			  owner: 'MelonKony',
+			  admin: ['MelonKony'],
+			  id: location.pathname,      // Ensure uniqueness and length less than 50
+			  distractionFreeMode: false  // Facebook-like distraction free mode
+  		  })
+		  
+  		  gitalk.render('gitalk-container')
+  	  </script>
+	    <link rel="stylesheet" href="/css/comments.css">
+  </div>-->
+  {{ end }}
 
   {{ with (.Scratch.Get "params").footer }}
-  <footer class="my-8 w-full text-center text-xs" style="margin-top: 2rem; margin-bottom: 0rem;">
       <article style="margin-top: 0rem; margin-bottom: 0rem;">
           {{- . | safeHTML -}}
       </article>
-  </footer>
   {{ end }}
+</footer>

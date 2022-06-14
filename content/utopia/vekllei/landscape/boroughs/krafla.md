@@ -97,15 +97,13 @@ The Krafla HET makes up part of the low-frequency emergency radio network, and c
 
 The Krafla Pipe Company is the oldest operating pipe manufacturer in Vekllei, founded in 1824 by Sosm and Gosfyosd Hosmasnsson. It is contracted by the Krafla Agricultural Municipality to provide irrigation supplies to the region.
 
-<br>
-{{<columns>}}
 ## Towns
 - Krafla
 - Krafla-Vis
 - Voya Vema
-<--->
+
 ## Posts
 - [Base Camp](/posts/2020-07-21-base-camp/)
 - [Gone Hollywood](/posts/2021-05-24-hollywood/)
 - [In-Between Stations](/posts/2022-03-16-liminal/)
-{{</columns>}}
+

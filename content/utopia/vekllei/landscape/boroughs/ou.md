@@ -92,18 +92,16 @@ The Ou Dam, the borough's first and oldest hydroelectric dam, was constructed in
 
 Ada is the site of the Central Rocketry Base, a network of facilities that belong to the *Rocket Navy of the Vekllei Commonwealth Armed Forces*. The Ada Rocketry Base resembles a closed town, since secret research work is performed at its laboratories and test sites. Although the sprawling complex does manufacture test rockets, they are not fired or "live-tested" in Ou because of its adjacency to important cultural sites.
 
-<br>
-{{<columns>}}
 ## Towns
 - Ou
 - Ada
 - Tiamoin
-<--->
+
 ## Posts
 - [The Valley of the Dead](/posts/2018-12-17-valley/)
 - [The Last Train Out of Ada](/posts/2020-05-21-missed-train/)
 - [The Ou Hydroburo Office](/posts/2020-04-21-hydro/)
-{{</columns>}}
+
 
 ## Notes
 - Ayn Rumouisen, despite being born in Yana, lived in Ada for senior schooling.

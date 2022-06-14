@@ -79,14 +79,12 @@ The Santes Magma-Electric Power Plant is a facility operated by the Magma-Electr
 
 The North Vekllei Tourism Council, a direct branch of the Vekllei Tourism Bureau, is headquartered in the city of Santes for its proximity to Vekllei's world-recognised fjords and bullet train rail access.
 
-<br>
-{{<columns>}}
 ## Towns
 - Santes
 - Scisp
 - Cult
 - Santes-Dismia
-<--->
+
 ## Posts
 - [Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)
-{{</columns>}}
+

@@ -1,71 +1,67 @@
-<nav id="navbar" class="pure-menu">
+<nav>
   {{- $currentPage := . -}} {{- $currentUrl := .RelPermalink -}} {{- $isHome :=
   .IsHome -}}
-  <ul class="pure-menu-list">
+  <ul class="navbar left">
     {{- range .Site.Menus.navbar -}} {{ $navbar_decoration := "" }} {{- if $currentPage.IsMenuCurrent "navbar" . -}} {{ $navbar_decoration = "active"}} {{- else if eq $currentUrl .URL -}} {{ $navbar_decoration = "active" }}
     {{- else if in ($currentUrl|lower) (.URL|lower) -}} {{ $navbar_decoration =
     "insection" }} {{- end -}} {{- if .Children -}}
-    <li class="navbar-item navbar-dropdown pure-menu-item pure-menu-has-children pure-menu-allow-hover {{ $navbar_decoration }}">
+    <li class="navbar-item navbar-dropdown allow-hover {{ $navbar_decoration }}">
       {{ if .URL }}
-      <a href="{{ .URL }}" class="pure-menu-link">{{ .Params.icon }}{{- .Name -}}</a>
+      <a href="{{ .URL }}" class="menu-link">{{ .Params.icon }}{{- .Name -}}</a>
       {{ else }}
-      <div class="pure-menu-link">{{ .Params.icon }}{{- .Name -}}</div>
+      <div class="menu-link">{{ .Params.icon }}{{- .Name -}}</div>
       {{ end }}
-      <ul class="pure-menu-children">
+      <ul class="menu-dropdown">
         {{- partial "navbar/nested-desktop.html" . -}}
       </ul>
     </li>
     {{- else -}}
-    <li class="navbar-item pure-menu-item {{ $navbar_decoration }}">
+    <li class="navbar-item {{ $navbar_decoration }}">
       {{ if .URL }}
-      <a href="{{ .URL }}" class="pure-menu-link">{{- .Name -}}</a>
+      <a href="{{ .URL }}" class="menu-link">{{- .Name -}}</a>
       {{ else }}
-      <div class="pure-menu-link">{{- .Name -}}</div>
+      <div class="menu-link">{{- .Name -}}</div>
       {{ end }}
     </li>
     {{- end -}} {{- end -}}
   </ul>
-  <ul class="pure-menu-list">
-    <li class="right navbar-item pure-menu-item">
+  <ul class="navbar right">
+    <li class="navbar-item ">
       <a
         href="https://forums.millmint.net"
-        style="float: right"
-        class="pure-menu-link"
+        class="menu-link"
         ><i class="fa-solid fa-message"></i></a>
     </li>
-    <!--<li class="navbar-item pure-menu-item">
+    <!--<li class="navbar-item ">
       <a
         href="/shop"
         style="float: right"
-        class="pure-menu-link"
+        class="menu-link"
         ><i class="fa-solid fa-shop"></i></a>
     </li>
-    <li class="navbar-item pure-menu-item">
+    <li class="navbar-item ">
       <a
         href="https://www.reddit.com/r/vekllei"
         style="float: right"
-        class="pure-menu-link"
+        class="menu-link"
         ><i class="fa-brands fa-reddit"></i></a>
     </li>-->
-    <li class="navbar-item pure-menu-item">
+    <li class="navbar-item ">
       <a
         href="https://discord.gg/dCE6vSU"
-        style="float: right"
-        class="pure-menu-link"
+        class="menu-link"
         ><i class="fa-brands fa-discord"></i></a>
     </li>
-    <li class="navbar-item pure-menu-item">
+    <li class="navbar-item ">
       <a
         href="https://twitter.com/melonkony"
-        style="float: right"
-        class="pure-menu-link"
+        class="menu-link"
         ><i class="fa-brands fa-twitter"></i></a>
     </li>
-    <li class="navbar-item pure-menu-item">
+    <li class="navbar-item ">
       <a
         href="/posts/index.xml"
-        style="float: right"
-        class="pure-menu-link"
+        class="menu-link"
         ><i class="fa-solid fa-rss"></i></a>
     </li>
   </ul>

@@ -31,7 +31,7 @@
                 </div>
               </div>
             </div>
-            <div class="img-wrapper">{{ partial "post-meta.html" . }}</div>
+            <div class="img-wrapper">{{ partial "meta.html" . }}</div>
           </a>
         </li>
     {{ end }}
@@ -62,27 +62,23 @@
      margin-top: 40px;
     }
   }
-  .markdown h2 {
+  h2 {
     margin: 0.5rem;
     overflow: hidden;
     max-width: 300px;
   }
-  .markdown img {
+  img {
     max-height:58vh;
     margin: 0px;
   }
-  .gt-container {
-    display: none;
-  }
-  .markdown a {
+  a {
     text-decoration: none;
   }
-  .markdown a:hover {
+  a:hover {
     text-decoration: none;
     opacity: .75;
   }
-
-  .markdown img {
+  img {
     padding: 0;
   }
 </style>

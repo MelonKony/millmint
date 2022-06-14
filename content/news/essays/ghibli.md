@@ -218,17 +218,17 @@ The manga on which the film is based (of the same name) prioritises the relation
 
 Within the film, however, the asset bubble and stock market crash couldn’t be further away, as a more domestic conflict within a middle-class family plays out. Shizuku’s parents are scholarly (a common trope within Ghibli’s catalogue) — her father works at the local municipal library and her mother studies at university. Since her sister, with whom she shares a room for the first part of the film, is also a university student, Shizuku is a somewhat independent figure. It is possible that her bookishness is inherited at least in part from her parents. Her life is spread across Tama, commuting to and from school and her father’s library, as well as the commercial heart of her hometown. Hills are a characteristic feature of the area, and the film depicts curving roads, vast concrete retaining walls and steep staircases throughout.
 
-{{< columns >}}
+
 ![img](https://images.millmint.net/images/media/heart-1-1.png)
 {{< hint caption >}}
 **Fig. 4.1** *Shizuku crosses a curved street in Tamagawa*
 {{</hint>}}
-<--->
+
 ![img](https://images.millmint.net/images/media/heart-1-2.jpg)
 {{< hint caption >}}
 **Fig. 4.2** *The same curved street (own work)*
 {{</hint>}}
-{{< /columns >}}
+
 
 *Whisper of the Heart* makes full use of the Tamagawa suburb in Tokyo, employing locations in all manner of spatial functions. Shizuku finds herself exploring parts of these hills, and we explore with her — where conventional filmmaking intuition would merely cut between locations, Kondō (and also screenwriter Hayao Miyazaki, who drafted the storyboards) use a practice common among Ghibli films in which the journey is presented in part or in full, allowing audiences to map recurring spaces in the film. These are thoroughly immersive journeys, with detailed views into the outside world as they whiz by on trains or on bicycles. Weedy (2018) calls this approach “perceptual modulation,” and recalls Miyazaki’s invocation of Ma as its reason for being, arguing that:
 
@@ -236,35 +236,35 @@ Within the film, however, the asset bubble and stock market crash couldn’t be 
 
 This approach also means most viewers will cultivate a basic understanding of Tamagawa — and by extension, the anchors of Shizuku’s life — through the relationship of these spaces with Shizuku and with each other. This approach also has a dramatic effect on the pacing of the film, which Miyazaki identified above as *Ma* in an interview with critic Roger Ebert. “Emptiness,” Miyazaki said. “It’s there intentionally” (Ebert, 2002). He proceeds to distinguish it from *Makurakotoba*, or “pillow words,” found in Japanese poetry, since Ma describes the ‘negative space’ or ‘emptiness’ of a scene, both physically and conceptually. In these contexts, the depiction of a journey — consuming money and time to animate — are clearly important parts of pacing and storytelling and help to provide breathing room between scenes. They also provide a physical dimension between locations, even if their specifics remain vague — we might not know for how long the train runs, or which stations she boards and alights, but we understand that her home and the library are linked together by a short walk and a train trip. This map helps illustrate what should be an abstract, alien series of places by their relationship to each other and Shizuku, reorganising them spatially.
 
-{{< columns >}}
+
 ![img](https://images.millmint.net/images/media/heart-2-1.png)
 {{< hint caption >}}
 **Fig. 4.3** *Shizuku sits at a shrine after school with a friend*
 {{</hint>}}
-<--->
+
 ![img](https://images.millmint.net/images/media/heart-2-2.jpg)
 {{< hint caption >}}
 **Fig. 4.4** *The same shrine (own work)*
 {{</hint>}}
-{{< /columns >}}
+
 
 The film is set in and inspired by Tamagawa — centred on the Seiseki Sakuragaoka station on the Keio Line specifically — and many locations depicted in the film are inspired by locations in this area. In this sense, there are two places that appear simultaneously in the film. To those that are familiar with the local area, the film faithfully recreates and depicts the landscape and architecture of Tamagawa, with all its local history — from its origins in the rapid expansion of Tokyo suburbia in the ‘60s, to its Keio line station and commercial surrounds. To those unfamiliar with Tamagawa, these places transcend their real-world origins and become fantasy, drawing more broadly on concepts of ‘life in Japan’. A foreigner may not recognise Shizuku’s *Danchi* as a postwar public housing initiative common to the Tokyo metro area, but they may very well recognise her apartment lifestyle and the concrete structure’s open-air staircase to be ‘Japanese.’ In this sense, there is a Shizuku of Tamagawa, a Shizuku of Japan, and perhaps even Shizuku of universal adolescence, with the specificity of her environs and circumstance irrelevant to the broader narrative strokes of the film.
 
 In typical Ghibli fashion, there is an obvious presence of this ‘universal Shizuku,’ even within this deeply Japanese film. Most obviously, there is mention of Seiji’s interest in a traditionally European craft (violin making) and his ambitions to study under an expert in Italy. More broadly, however, the recession that devastated Japan’s ‘economic miracle’ during production is replaced by broader gestures towards familial concern and adolescent uncertainty, requiring Shizuku to draw upon confidence in herself and her ability to justify her departure from the “usual path”. She has noble and disarmingly charming literary ambitions in an education system that prioritises test-taking and academic performance, and weighing her dreams against family and society are at the heart of the themes of this film. Shizuku’s parents, while hesitant and concerned for her wellbeing, are supportive of her ambitions and largely defy stern, conservative Japanese stereotyping (Nakayama 2014, pp.17-19), allowing Shizuku’s circumstance to transcend Tamagawa and Japan. These are the “shared cultural codes” described by Frans Mäyrä (2010, p. 38), who recognised Ghibli’s propensity to demonstrate “contemporary global concerns” that are “readily available as a cultural dialectic for the future.”
 
-{{< columns >}}
+
 
 ![img](https://images.millmint.net/images/media/heart-3-1.png)
 {{< hint caption >}}
 **Fig. 4.5** *A Keio EMU pulls into Seiseki-sakuragaoka station*
 {{</hint>}}
-<--->
+
 
 ![img](https://images.millmint.net/images/media/heart-3-2.jpg)
 {{< hint caption >}}
 **Fig. 4.6** *The same station (own work)*
 {{</hint>}}
-{{< /columns >}}
+
 
 This is perhaps symbolised best by the film’s use of ‘Country Roads’ by John Denver, which is referenced throughout the film and finally sung during the climax of the film — a concept which, to West Virginians, might seem delightfully absurd. Walter Chaw for *Film Freak Central* expressed this colourfully, writing in his review:
 

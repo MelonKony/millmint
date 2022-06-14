@@ -70,14 +70,14 @@ Since Vekllei is nonpartisan, it does not allow formal participation of parties 
 **Vekllei** is land of plenty and small pleasures, afforded by a post-scarcity system that positions competing systems against each other. It is made up of a startling series of contradictions -- one after the other, each more unusual than the last. Vekllei is a planned economy; it is also a free market. Property ownership is obfuscated by portioned sovereignty of land and product. Decommodification has devalued products in a country based on manufacturing. There are many contradictions, inefficiencies and unusual mechanisms in the Vekllei domestic market, which total to benefit the living conditions of the average person.
 {{< /hint >}}
 
-{{<columns>}}
+
 <span class="fc">A</span>
 **lthough** a major power, Vekllei has an unusual hybrid market system called the *Vekllei Bureau System* (known colloquially as *Petticoat Socialism*), which incorporates state-owned socialist planned economics and deregulated syndicalist vertical *bureaus* to benefit a free, unregulated informal market system. Most unique about the Vekllei economy is its functional moneylessness, in which domestic society has abolished currency. No widespread currency substitutes are used in ordinary life. Each citizen owns a share of the *Labour Bank of Vekllei*, a portion of the *Government Securities Bureau* designed to allow emigration from the country, and so is theoretically entitled to an equal portion of the Bank.
-<--->
+
 
 ![img](https://images.millmint.net/images/matchstick.jpg)
 
-{{</columns>}}
+
 
 Trade and materials are provided by biosynthetic robotics infrastructure and participatory work, and is supplemented in places by mandatory military service. Vekllei people enjoy a high standard of living and access to most consumer goods.
 
@@ -156,17 +156,17 @@ Although most people in the country observe *Upen* apolitically, several other r
 
 ### Education
 
-{{<columns>}}
+
 
 Education in Vekllei is structured as a *State Requisite Bureau* (rather than department) under the *requoisesiasn amourisocietie scolastie*, or A.r.E. Schooling is mandatory and universal between the ages of 5 and 14, and most schools in the country serve all ages between these years. All schools in Vekllei, aside from a half-dozen religious schools, are coeducational and operated directly by the A.r.E.
 
 All institutions of higher learning, including universities, trade schools and adult education, are structured under the A.r.E.. [School uniforms](/posts/2020-09-08-uniforms/) informed by [traditional dress](/posts/2020-01-11-dress/) are provided and worn from preschool through to university, and faculty staff also often wear them.
 
-<--->
+
 
 ![smallimg](https://images.millmint.net/images/uniform.jpg)
 
-{{</columns>}}
+
 
 Vekllei's school enrolment is among the highest in the world, though this calculation includes untraditional and labour schools, including agricultural and maritime schooling.
 

@@ -168,11 +168,11 @@ Outdoor view of the [Royal Mail's](/utopia/vekllei/society/mail/) stamp printing
 As is typical for critical bureaus in Vekllei, the Mail alleviates the stress of daily service through its dense, vertically-integrated infrastructure aided by automatic (automen vehicles) and permanent fixtures (pneumatic systems and automatic sorting/franking machines). It is precisely this commitment to infrastructure that makes the Mail so visible in daily life, and contributes to its ongoing legacy as Vekllei's oldest running government institution.
 
 ### Staff
-{{<columns>}}
+
 ![smallimg](https://images.millmint.net/images/mail.jpg)
-<--->
+
 ![smallimg](https://images.millmint.net/images/postmistress.jpg)
-{{</columns>}}
+
 
 The Mail employs 48,960 people full-time across its various offices, and nearly 200,000 automen in various roles. Although the Mail does retain a staff of postmen and couriers, most urban daily service is now provided by automatic vehicles and sorting, which account for nearly half of the total automen owned by the organisation. Instead, the majority of Mail employees are involved in the running of the organisation -- mostly as clerks, managers, and administrators. Around 10,000 postmen are employed by the Mail in daily delivery, called "posties". There are around 8,000 postal routes in the country.
 

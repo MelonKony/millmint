@@ -89,12 +89,12 @@ The Santes Geo-electric Power Plant is a facility operated by the Geo-electric C
 The North Vekllei Tourism Council, a direct branch of the Vekllei Tourism Bureau, is headquartered in the city of Santes for its proximity to Vekllei's world-recognised fjords and bullet train rail access.
 
 <br>
-{{<columns>}}
+
 ## Towns
 - Mirah
 - Gigayeh
 - Frendli
-<--->
+
 ## Posts
 - [The Vekllei Crown](/posts/2020-06-24-crown/)
-{{</columns>}}
+

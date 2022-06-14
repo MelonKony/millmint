@@ -77,14 +77,12 @@ The Miyatvousi Magma-Electric Power Plant (M.E.C.A.) is a sprawling complex of g
 
 Miyatvousi remains heavily agricultural, and most of the borough's food export is monopolised through the Miyatvousi Farm Co-operative S.P. The organisation, designed as a village agricultural co-op, consolidates food products for larger food manufacturers along the coasts.
 
-<br>
-{{<columns>}}
 ## Towns
 - Miyatvousi
 - Miyatvousi-Vizcette
 - Poka
 - Gismavikette
-<--->
+
 ## Posts
 - [Gone Hollywood](/posts/2021-05-24-hollywood/)
-{{</columns>}}
+

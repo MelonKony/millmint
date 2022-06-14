@@ -36,13 +36,11 @@ Lita is relatively isolated from the coasts by its dramatic mountain ranges and 
 
 Lita's flat, glacial basins make good launch sites for rockets. The borough is located in the Lava lava fields and glacial highlands, and its high elevation and spectacular mountain ranges make a dramatic backdrop for its regular rocket launches.
 
-<br>
-{{<columns>}}
 ## Towns
 - Lita
 - Poroporo
 - Dismaisiyou
-<--->
+
 ## Posts
 - [A New Year](/posts/2021-01-5-rocket/)
-{{</columns>}}
+
