@@ -1,6 +1,6 @@
 <header>
     <div class="brand">
-      <a class="brand-title" href="{{ .Site.Home.RelPermalink }}">
+      <a class="brand-title {{ .Params.Color }}" href="{{ .Site.Home.RelPermalink }}">
         {{- with (.Scratch.Get "params").navbar_title }} {{- . | safeHTML -}}
         {{- end -}}
       </a>

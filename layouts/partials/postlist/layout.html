@@ -2,7 +2,7 @@
 {{ $pages := .pages }}
 
 <div class="postcard-layout content-margin">
-  <ul class="post-grid my-2">
+  <ul class="post-grid">
     {{ range ($ctx.Paginator).Pages }}
         <li
           class="item card leading-relaxed list-item"
@@ -20,7 +20,7 @@
                   href="{{ .RelPermalink }}"
                   class="text-base border-b-2"
                 >
-                  <span class="this-is-the-real-title-haha">{{- .Title -}}</span>
+                  <span class="card-title">{{- .Title -}}</span>
                 </span>
               </div>
               <div>
@@ -75,8 +75,8 @@
     text-decoration: none;
   }
   a:hover {
-    text-decoration: none;
-    opacity: .75;
+    text-decoration: none!important;
+    filter: none!important;
   }
   img {
     padding: 0;

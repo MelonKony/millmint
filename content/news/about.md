@@ -6,7 +6,9 @@ icon: 🪺
 emoji: v
 tag: CONTACT
 sitetag: Newsdesk
-color: indigo
+color: yellow
+
+image: https://images.millmint.net/images/intro.gif
 
 toc: false
 comments: false
@@ -15,9 +17,9 @@ description: Studio MillMint is a Hobart-based illustration studio specialising 
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-{{<section>}}
+<!--{{<section>}}
 ![smallimg](https://images.millmint.net/images/mastheads/author.png)
-{{</section>}}
+{{</section>}}-->
 
 {{< hint >}}
 ❖ For common questions about me or my work, please visit the [FAQ](/intro/faq/).
@@ -35,7 +37,9 @@ You can follow my progress on this project on [Instagram](https://www.instagram.
 June 2022
 {{</hint>}}
 
-**June 7, 2022** Drew a uniform reference to keep clothing details consistent between chapters <span class="spanlink"><a href="/images/sketches/comic/uniformref.jpg">URL →</a></span>
+**June 15, 2022** Added a swish animated cover for the home page, and moved the great existing parallax to [Intro](/intro) in preparation for an overhaul <span class="spanlink"><a href="/images/mastheads/millmint.png">URL →</a></span>
+
+**June 7, 2022** Drew a uniform reference to keep clothing details consistent between chapters <span class="spanlink"><a href="https://millmint.net/images/sketches/comic/uniformref.jpg">URL →</a></span>
 
 **June 6, 2022** Added auto-numbering and anchors to the headers on the site for easier navigation
 

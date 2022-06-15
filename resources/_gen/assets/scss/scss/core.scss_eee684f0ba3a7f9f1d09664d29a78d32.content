@@ -417,6 +417,11 @@ a {
   color: #ba1d37;
   border-color: #ba1d37; }
 
+.millmint,
+.article-millmint a {
+  color: #b73f53;
+  border-color: #b73f53; }
+
 .vnr,
 .article-vnr a {
   color: #ff564f;
@@ -1671,7 +1676,7 @@ article#collapsible_menu_changelogs {
   border-radius: 7px;
   box-sizing: border-box; }
 
-.card .this-is-the-real-title-haha {
+.card .card-title {
   filter: brightness(35%); }
 
 .post-title span {
@@ -1751,6 +1756,13 @@ article#collapsible_menu_changelogs {
 .shop-item {
   justify-self: center;
   align-self: center; }
+
+.site-home {
+  background-image: url("/images/mastheads/millmint.png");
+  background-position: 50% 50px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
 
 /* Auto Numbering */
 body {
@@ -2183,6 +2195,15 @@ article img[alt~="smallimg"] {
     margin-right: -20%;
     padding: .5rem;
     background-color: var(--gray-100); } }
+
+/* home image */
+.img-background {
+  position: absolute;
+  height: 100vh;
+  width: 100%;
+  margin: auto;
+  top: 0;
+  z-index: -1; }
 
 /* image fade in (fade.js) */
 .fadeIn {

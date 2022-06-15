@@ -1,6 +1,9 @@
 ---
 title: Intro
 fulltitle: Welcome to the Epoch of Rest
+
+layout: intro
+
 icon: 🎫
 emoji: S
 pagecode: 101INT
@@ -14,7 +17,7 @@ list_posts: false
 comments: false
 autonumbering: true
 
-image: https://images.millmint.net/images/intro.gif
+image: https://images.millmint.net/images/picnic.png
 
 description: An intro to the world of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips

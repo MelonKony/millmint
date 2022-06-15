@@ -5,7 +5,7 @@ icon: 💾
 emoji: -osc
 tag: BULLETIN
 sitetag: Newsdesk
-color: yellow
+color: indigo
 
 autonumbering: true
 

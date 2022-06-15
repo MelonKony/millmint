@@ -49,7 +49,7 @@ window.addEventListener("load", () => {
         });
 
         card
-          .querySelectorAll(".this-is-the-real-title-haha")
+          .querySelectorAll(".card-title")
           .forEach((title) => {
             title.setAttribute(
               "style",
