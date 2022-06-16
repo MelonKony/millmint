@@ -3,7 +3,7 @@ title: Mail
 
 fulltitle: The Royal Mail of Vekllei
 icon: 📯
-emoji: -stamp
+emoji: ‡
 tag: SOCIETY
 sitetag: Article
 color: mail
