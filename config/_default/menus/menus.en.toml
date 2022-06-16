@@ -13,21 +13,21 @@
   [[navbar]]
     identifier = "vekllei"
     name = "Vekllei"
-    pre = "🌕"
+    pre = "🎋"
     url = "/utopia/vekllei/"
     parent = "utopia"
     weight = 1
   [[navbar]]
     identifier = "characters"
     name = "Characters"
-    pre = "👩‍👧‍👦"
+    pre = "🎎"
     url = "/utopia/characters/"
     parent = "utopia"
     weight = 2
   [[navbar]]
     identifier = "culture"
     name = "Culture"
-    pre = "🎊"
+    pre = "🏵"
     url = "/utopia/culture"
     parent = "utopia"
     weight = 3

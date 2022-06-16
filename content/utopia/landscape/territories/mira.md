@@ -3,7 +3,7 @@ title: Mira
 
 fulltitle: The Island Commonwealth of Mira
 icon: 🛟
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

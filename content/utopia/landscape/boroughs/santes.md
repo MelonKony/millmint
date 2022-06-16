@@ -3,7 +3,7 @@ title: Santes
 
 fulltitle: The Borough of Santes
 icon: 🌿
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

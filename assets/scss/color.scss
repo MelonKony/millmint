@@ -120,69 +120,125 @@ a {
   color: $blue;
   border-color: $blue;
 }
+.blue.brand-title {
+  background-color: rgb(0, 95, 209);
+}
+
 .brown,
 .article-brown a {
   color: $brown;
   border-color: $brown;
 }
+.brown.brand-title {
+  background-color: rgb(122, 98, 68);
+}
+
 .gray,
 .article-gray a {
   color: $gray;
   border-color: $gray;
 }
+.gray.brand-title {
+  background-color: rgb(109, 109, 114);
+}
+
 .green,
 .article-green a {
   color: $green;
   border-color: $green;
 }
+.green.brand-title {
+  background-color: rgb(28, 180, 50);
+}
+
 .indigo,
 .article-indigo a {
   color: $indigo;
   border-color: $indigo;
 }
+.indigo.brand-title {
+  background-color: rgb(71, 69, 175);
+}
+
+
 .orange,
 .article-orange a {
   color: $orange;
   border-color: $orange;
 }
+.orange.brand-title {
+  background-color: rgb(211, 120, 0);
+}
+
 .mail,
 .article-mail a {
   color: #ba1d37;
   border-color: #ba1d37;
 }
+.mail.brand-title {
+  background-color: #9c192f;
+}
+
 .millmint,
 .article-millmint a {
-  color: #b73f53;
-  border-color: #b73f53;
+  color: $millmint;
+  border-color: $millmint;
 }
+.millmint.brand-title {
+  background-color: $millmint;
+}
+
 .vnr,
 .article-vnr a {
   color: #ff564f;
   border-color: #ff564f;
 }
+.vnr.brand-title {
+  background-color: #dd4a44;
+}
+
 .pink,
 .article-pink a {
   color: $pink;
   outline-color: rgba(245, 35, 75, 0.25);
   border-color: $pink;
 }
+.pink.brand-title {
+  background-color: rgb(224, 32, 69);
+}
+
 .purple,
 .article-purple a {
   color: $purple;
   border-color: $purple;
 }
+.purple.brand-title {
+  background-color:rgb(137, 65, 173);
+}
+
 .red,
 .article-red a {
   color: $red;
   border-color: $red;
 }
+.red.brand-title {
+  background-color: rgb(220, 44, 34);
+}
+
 .teal,
 .article-teal a {
   color: $teal;
   border-color: $teal;
 }
+.teal.brand-title {
+  background-color: rgb(80, 177, 222);
+}
+
 .yellow,
 .article-yellow a {
   color: $yellow;
   border-color: $yellow;
+}
+.yellow.brand-title {
+  background-color: rgb(226, 179, 1);
 }

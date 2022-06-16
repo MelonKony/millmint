@@ -3,7 +3,7 @@ title: Krafla
 
 fulltitle: The Borough of Krafla
 icon: 🗼
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

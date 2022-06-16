@@ -2,11 +2,10 @@
 title: Characters
 
 fulltitle: Cast of Characters
-icon: 👩‍👧‍👦
+icon: 🎎
 emoji: ¥
 tag: UTOPIA
 sitetag: Introduction
-pagecode: 210CHA
 
 color: pink
 comments: false
@@ -177,23 +176,6 @@ article h5 {
   margin-top: 1rem;
 }
 
-.headerbox {
-  margin-top: 2rem;
-}
-
-.title {
-  line-height: 3; 
-  font-size: 1.5rem; 
-  font-weight: 700;
-  margin-top: auto!important; 
-  margin-bottom: auto; 
-  filter: brightness(35%);
-}
-
-.emoji {
-  line-height: 50%;
-  font-size: 35pt;
-}
 .section {
     opacity: 1!important;
   }

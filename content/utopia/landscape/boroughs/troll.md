@@ -3,7 +3,7 @@ title: Troll
 
 fulltitle: The Borough of Troll
 icon: 🐉
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

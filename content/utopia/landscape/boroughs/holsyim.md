@@ -3,7 +3,7 @@ title: Holsyim
 
 fulltitle: The Borough of Holsyim
 icon: 🫑
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

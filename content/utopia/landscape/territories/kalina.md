@@ -3,7 +3,7 @@ title: Kalina
 
 fulltitle: The Island Commonwealth of Kalina
 icon: 🏝
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

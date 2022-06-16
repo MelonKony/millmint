@@ -3,7 +3,7 @@ title: Yana
 
 fulltitle: The Borough of Yana
 icon: ⛵️
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

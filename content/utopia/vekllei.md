@@ -1,8 +1,8 @@
 ---
 title: Vekllei
 fulltitle: Commonwealth of Vekllei
-icon: 🌕
-emoji: -millmint
+icon: 🎋
+emoji: ←
 pagecode: 200VEK
 
 tag: UTOPIA

@@ -3,7 +3,7 @@ title: Lola
 
 fulltitle: The Borough of Lola
 icon: 🪷
-emoji: ←
+emoji: g
 pagecode: LOLA
 tag: LANDSCAPE
 sitetag: Boroughs

@@ -25,9 +25,9 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 {{< /hint >}}
 
 {{< details title="Utopia" open=true >}}
-- <a href="/utopia/vekllei/"><span class="navicon">🌕</span>Vekllei</a>
-- <a href="/utopia/characters/"><span class="navicon">👩‍👧‍👦</span>Characters</a>
-- <a href="/utopia/culture/"><span class="navicon">🎊</span>Culture</a>
+- <a href="/utopia/vekllei/"><span class="navicon">🎋</span>Vekllei</a>
+- <a href="/utopia/characters/"><span class="navicon">🎎</span>Characters</a>
+- <a href="/utopia/culture/"><span class="navicon">🏵</span>Culture</a>
 	- <a href="/utopia/culture/language/"><span class="navicon">📖</span>Language</a>
 	- <a href="/utopia/culture/religion/"><span class="navicon">💀</span>Religion</a>
 - <a href="/utopia/landscape/"><span class="navicon">🌿</span>Landscape</a>

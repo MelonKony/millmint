@@ -3,7 +3,7 @@ title: Miyatvousi
 
 fulltitle: The Borough of Miyatvousi
 icon: 🌋
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

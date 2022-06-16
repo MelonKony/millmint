@@ -3,7 +3,7 @@ title: Eyri
 
 fulltitle: The Borough of Eyri
 icon: 🌊
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

@@ -3,7 +3,7 @@ title: Lunar Territories
 
 fulltitle: Vekllei Lunar Territories
 icon: 🌒
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

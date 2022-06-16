@@ -3,7 +3,7 @@ title: Boroughs
 
 fulltitle: The Boroughs of Vekllei
 icon: 🌐
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Introduction
 color: green

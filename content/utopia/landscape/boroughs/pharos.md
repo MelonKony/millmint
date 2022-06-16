@@ -3,7 +3,7 @@ title: Pharos
 
 fulltitle: The Borough of Pharos
 icon: ✈️
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

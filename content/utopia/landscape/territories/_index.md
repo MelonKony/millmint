@@ -2,7 +2,7 @@
 title: Territories
 fulltitle: The Territories of the Vekllei Commonwealth
 icon: 🌎
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Introduction
 color: green

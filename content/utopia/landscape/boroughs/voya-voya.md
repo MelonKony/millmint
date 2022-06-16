@@ -3,7 +3,7 @@ title: Voya Voya
 
 fulltitle: The Borough of Voya Voya
 icon: 💧
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

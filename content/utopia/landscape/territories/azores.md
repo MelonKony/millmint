@@ -3,7 +3,7 @@ title: Azores
 
 fulltitle: The Azores Island Commonwealth
 icon: 🏰
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

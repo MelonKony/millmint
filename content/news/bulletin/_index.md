@@ -2,7 +2,7 @@
 title: Bulletin
 fulltitle: The Petticoat Research Bulletin
 icon: 💾
-emoji: -osc
+emoji: O
 tag: BULLETIN
 sitetag: Newsdesk
 color: indigo

@@ -3,7 +3,7 @@ title: Bakur
 
 fulltitle: The Borough of Bakur
 icon: ⚓️
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

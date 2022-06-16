@@ -15,9 +15,14 @@ header {
 }
 
 .brand-title {
-  @include text-3xl;
   @include font-bold;
-  filter: brightness(25%);
+  font-size: 16pt;
+  padding: 2px 6px 2px 6px;
+  border-radius: 5px;
+  color: var(--body-background);
+  background-color: var(--color-gray);
+  vertical-align: middle;
+  opacity: 0.8;
 }
 
 .brand-emoji {
@@ -35,6 +40,11 @@ header {
   text-rendering: optimizeLegibility;
   box-sizing: border-box;
   filter: brightness(100%)!important;
+  vertical-align: middle;
+}
+
+.brand-title:hover, brand-emoji:hover {
+  filter: brightness(0.9);
 }
 
 .toolbox {
@@ -76,10 +86,6 @@ header {
       }
     }
   }
-}
-
-article > *:first-child {
-  margin-top: 2rem;
 }
 
 body > canvas:not(#HeaderCanvas) {

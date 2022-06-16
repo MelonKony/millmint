@@ -3,7 +3,7 @@ title: Ou
 
 fulltitle: The Borough of Ou
 icon: 🛶
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

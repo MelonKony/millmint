@@ -3,7 +3,7 @@ title: Mirah
 
 fulltitle: The Borough of Mirah
 icon: 🤸‍♀️
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

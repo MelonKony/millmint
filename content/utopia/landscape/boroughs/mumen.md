@@ -3,7 +3,7 @@ title: Mumen
 
 fulltitle: The Borough of Mumen
 icon: 🏖
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

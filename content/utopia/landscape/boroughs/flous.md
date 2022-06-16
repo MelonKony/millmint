@@ -3,7 +3,7 @@ title: Flous
 
 fulltitle: The Borough of Flous
 icon: 🏠
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

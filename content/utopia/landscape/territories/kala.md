@@ -3,7 +3,7 @@ title: Kala
 
 fulltitle: Kala Commonwealth
 icon: 🗻
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

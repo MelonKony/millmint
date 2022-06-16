@@ -3,7 +3,7 @@ title: Demon
 
 fulltitle: The Demon Island Commonwealth
 icon: 👹
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

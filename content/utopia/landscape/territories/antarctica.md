@@ -3,7 +3,7 @@ title: Antarctic Territories
 
 fulltitle: Vekllei Antarctic Territories
 icon: ❄️
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

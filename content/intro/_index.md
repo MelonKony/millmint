@@ -5,7 +5,7 @@ fulltitle: Welcome to MillMint
 layout: intro
 
 icon: 📔
-emoji: S
+emoji: ΄
 
 tag: UTOPIA
 sitetag: Introduction

@@ -3,7 +3,7 @@ title: Lita
 
 fulltitle: The Borough of Lita
 icon: 🚀
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green

@@ -3,7 +3,7 @@ title: West Antilles
 
 fulltitle: The Island Commonwealth of the West Antilles
 icon: 🌴
-emoji: ←
+emoji: g
 tag: LANDSCAPE
 sitetag: Boroughs
 color: green
