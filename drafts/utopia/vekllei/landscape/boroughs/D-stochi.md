@@ -18,19 +18,19 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 ![smallimg](https://images.millmint.net/images/rocket.jpg)
 
-{{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
+{{< button relref="/utopia/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 >*The Royal Borough of Lita was not far from Copette ( map of Vekllei here), one of the Five Crown Boroughs of Vekllei, but this was Vekllei’s glacial interior and it felt a million miles from anywhere. Its geography was ancient and violent, strikingly barren and brutally volcanic. Why visit Europa? It was alien enough here.*
 
 -- [A New Year](/posts/2021-01-5-rocket/)
 
-{{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
+{{< button relref="/utopia/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
 >*Shattered fjords make up the north of Vekllei, particularly in boroughs like Santes, which are well-regarded for their striking cliffs and sloping igneous fingers, which evidence Vekllei’s ongoing volcanism. Offshore, hundreds of islets rise and sink over the centuries.*
@@ -42,7 +42,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 ## Etymology
 
-**Santes** is the Vekllei word for "saint," and dates back to the Christianisation of Vekllei's Middle Period sometime prior to the 16th Century. Its earliest appearance was traced to the Santesoavis chapel (lit. All Saints) near the city of Santes, built sometime in the 15th Century by Danish settlers, to which the parish and eventual borough owes its name. Outside of Christian contexts, Santes in Vekllei can also refer to noble spirits, the communicative spirits of [*Upen*](/utopia/vekllei/culture/religion/).
+**Santes** is the Vekllei word for "saint," and dates back to the Christianisation of Vekllei's Middle Period sometime prior to the 16th Century. Its earliest appearance was traced to the Santesoavis chapel (lit. All Saints) near the city of Santes, built sometime in the 15th Century by Danish settlers, to which the parish and eventual borough owes its name. Outside of Christian contexts, Santes in Vekllei can also refer to noble spirits, the communicative spirits of [*Upen*](/utopia/culture/religion/).
 
 ## History
 

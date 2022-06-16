@@ -15,10 +15,10 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 ![img](/images/orange.jpg)
 
-{{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
+{{< button relref="/utopia/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
 >*Up in Tiyousn, seispri wander freely, attracted by sulphur and silica waste pools discharged by the Magma-Electric Flash Plant nearby. Rich with minerals and warm to the touch, these milky ponds are gathering places for creatures of the spirit world.*
@@ -44,7 +44,7 @@ Per the legends of the sagas, the borough of Troll was the site of a troll city,
 
 Although Troll has a signicant cultural history within Vekllei, it is a relatively recent borough. The town of Troll received a trading license in 1823, which is considered its founding as a borough. Little is recorded about its settlement prior to its incorporation, but it is known that nomadic Algic Vekllei had remained in the area for hundreds, if not thousands of years prior.
 
-Although an important cultural site in [Upen](/utopia/vekllei/culture/religion), the area around Troll is highly volcanic and spiritually complicated, and its status as isolated, resource-poor land prevented permanent settlement for most of Vekllei's history.
+Although an important cultural site in [Upen](/utopia/culture/religion), the area around Troll is highly volcanic and spiritually complicated, and its status as isolated, resource-poor land prevented permanent settlement for most of Vekllei's history.
 
 ### Postwar Development
 
@@ -82,7 +82,7 @@ The Volcanoes Bureau and Geological Survey monitor volcanic activity in Vekllei,
 
 ### Troll Water Treatment Plant
 
-Troll's location at the base of the Vatnayoskusl Glacier makes it a strategic site for the processing of freshwater runoff, which feeds Vekllei's residential water systems. In 2066, the Troll Water Treatment Plant was established to support ageing plants in [Voya Voya](/utopia/vekllei/landscape/boroughs/voya-voya/) and Guisimaya. The Troll Water Treatment Plant is operated by the Water Commission of Vekllei (Hydroburo).
+Troll's location at the base of the Vatnayoskusl Glacier makes it a strategic site for the processing of freshwater runoff, which feeds Vekllei's residential water systems. In 2066, the Troll Water Treatment Plant was established to support ageing plants in [Voya Voya](/utopia/landscape/boroughs/voya-voya/) and Guisimaya. The Troll Water Treatment Plant is operated by the Water Commission of Vekllei (Hydroburo).
 
 <br>
 

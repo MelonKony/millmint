@@ -1,41 +1,33 @@
 ---
 title: Intro
-fulltitle: Welcome to the Epoch of Rest
+fulltitle: Welcome to MillMint
 
 layout: intro
 
-icon: 🎫
+icon: 📔
 emoji: S
-pagecode: 101INT
 
 tag: UTOPIA
 sitetag: Introduction
-color: pink
+color: millmint
 
 weight: 1
 list_posts: false
 comments: false
-autonumbering: true
+autonumbering: false
 
-image: https://images.millmint.net/images/picnic.png
+toc: false
 
 description: An intro to the world of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-## What is this project?
-
-{{< hint >}}
+## This is the Epoch of Rest
+{{< hint millmint >}}
 ❖ Check out the [**FAQ**](/intro/faq)
 {{< /hint >}}
 
-**My stories are about good places and people**. That's the gist of it. [Vekllei](/utopia/vekllei/) is a fictional country where I demonstrate good things by drawing and writing about them. It's part-escapism, part-fantasy, and all good.
-
-This website is a comprehensive archive and portal to everything I do.
-
-* **Utopia** is an online wiki and open notebook of the places and people I draw
-* **Newsdesk** is for everything outside of it
-* **Stories** is for the individual stories I write and draw regularly
+**These stories are about good places and people**. They take place in a fictional country called [Vekllei](/utopia/vekllei/), which is an Atlantic country that does not use money. The point of this project is to take the purity of that idea seriously, and immerse a place of wonder in the real world.
 
 > So this is Utopia,<br>
 > Is it? Well — <br>
@@ -44,35 +36,28 @@ This website is a comprehensive archive and portal to everything I do.
 
 -- Max Beerbohm
 
-Vekllei is a jumble of very pure, obsessive instincts that are illustrated to make them look and feel real. I want to take purity seriously by considering its implications in the real world. Vekllei does not use money -- a very straightforward and fantastical idea. Of course, moneylessness has extraordinary implications, and to maintain the purity of the idea we have to work very hard.
-
-Simplicity is actually very complicated, and so Vekllei is very complicated to justify the simplicity. It's filled with things I value and people I admire. You'll find hundreds of posts and many articles on this site, and all of them are designed to make this place and its people feel real.
-
-Just a few things to keep in mind:
-
-* This place is **iterative** -- canon disappears, people change appearance and the systems of Vekllei twist and turn as I do.
-* This place is **good-spirited** -- Vekllei is escapism, and although the dark accompanies the light, this project is supposed to be escapist and fun.
-* This place is **constantly expanding** -- I try out new styles, mediums and methods of distribution all the time. Some of them work, some of them don't. That's part of the fun of it!
-
-## There are Three Utopias
+'Immersing' something in the real world means things get dirty, break, and fall apart. A utopia doesn't have to be perfect, but it *should* be an authentic 'social dream'. This style of world-building is called [*utopie concrète*](/news/essays/utopie/), and is the way Vekllei is built.
 
 > *I define the broad, general phenomenon of utopianism as social dreaming -- the dreams and nightmares that concern the ways in which groups of people arrange their lives and which usually envision a radically different society than the one in which the dreamers live. But not all are radical, for some people at any time dream of something basically familiar.*
 
 -- Lyman Sargent [^1]
 
-This project has three parts. Each part is a little utopia, in the sense that it's a dream of some kind, but they're not quite the same.
+That's the gist of it. [Vekllei](/utopia/vekllei/) is a fictional country that demonstrates good things through drawing and writing about it. It's part-escapism, part-fantasy, and all good.
 
-1. **Utopia as Landscape** -- the country of Vekllei, with its geography, architecture, aesthetics, society, and culture.
-2. **Utopia as Character** -- the people of Vekllei, as they represent, interrogate, and soothe aspects of myself and others.
-3. **Utopia as Author** -- me, and my motivations, failings, and journey as a storyteller and illustrator.
+This website is a comprehensive archive and open notebook for the stories of Vekllei and its people.
+
+{{< details title="Studio MillMint" open=true >}}
+* [**millmint.net**](/)
+  * [**/utopia/**](/utopia/) is an online wiki of Vekllei its people
+  * [**/news/**](/news/) is for everything outside of it
+  * [**/stories/**](/posts/) is for illustrated snapshots of life in Vekllei
+{{</ details >}}
 
 ## What is Vekllei?
 
-{{< hint >}}
+{{< hint millmint >}}
 ❖ Main article: [*Vekllei*](/utopia/vekllei)
 {{< /hint >}}
-
-**Vekllei** (pronounced '**Veck-lie**,' or **/vƐk.laɪ/**) is an island country set in what we know as *Iceland*. Vekllei is its own country, and does not look or feel like Iceland. It has unique cultures, ethnicites, and landscapes. It is an old country, having been settled for thousands of years by native Algic peoples and Scandinavians. It is also a new county, having suffered a nuclear attack at the beginning of the 21st Century which extinguished much of its old civil society.
 
 <div class="row">
 <div class="column">
@@ -101,6 +86,8 @@ This project has three parts. Each part is a little utopia, in the sense that it
 The flags of [Vekllei's Commonwealth](/utopia/vekllei/#administrative-divisions).
 {{</hint>}}
 
+**Vekllei** (pronounced '**Veck-lie**,' or **/vƐk.laɪ/**) is an island country set in what we know as Iceland. Vekllei is its own country, and does not look or feel like Iceland. It has unique cultures, ethnicites, and landscapes. It is an old country, having been settled for thousands of years by native Algic peoples and Scandinavians. It is also a new county, having suffered a nuclear attack at the beginning of the 21st Century which extinguished much of its old civil society.
+
 By the mid-21st century, Vekllei has become a remarkable place. Quality of life is excellent and living there is unlike living anywhere else on Earth. The country is an ambitious expression of alternate modes of thinking, visible in every aspect of society, from its bizarre moneyless economy to its complicated cultural and religious metaphysics.
 
 Here are some quick facts about Vekllei and the state of the world in the mid-21st Century.
@@ -127,5 +114,8 @@ Here are some quick facts about Vekllei and the state of the world in the mid-21
   .row {
     display: none;
   }
+}
+a, body article a {
+  color: var(--color-millmint);
 }
 </style>

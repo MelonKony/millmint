@@ -5,4 +5,5 @@ type: postlist
 layout: postlist
 author: "Hobart Phillips"
 tags: ["index"]
+color: millmint
 ---

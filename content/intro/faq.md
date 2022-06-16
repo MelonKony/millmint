@@ -4,7 +4,6 @@ title: FAQ
 fulltitle: Frequently Asked Questions
 icon: 🎙
 emoji: -love
-pagecode: 102FAQ
 
 tag: UTOPIA
 sitetag: Introduction
@@ -14,7 +13,7 @@ image: https://images.millmint.net/images/drawing.jpg
 
 weight: 1
 list_posts: false
-autonumbering: true
+autonumbering: false
 
 description: An intro to the world of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
@@ -37,38 +36,23 @@ color: var(--color-red);
 #headerbox .emoji {
 color: var(--color-red);
 }
-
-.markdown img[alt=smallimg]{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-/* coins */
-.row {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-@media (max-width: 1250px) {
-    .row {
-    display: none;
-    }
-  }
 </style>
 
 {{< hint >}}
 ߷ This article is about [**Hobart's utopia**](/intro/#three-utopias), called [**Vekllei**](/utopia/vekllei)
 {{< /hint >}}
 
+## Why Utopia?
 {{< hint panel>}}
-## Quick Facts
+Vekllei is a jumble of very pure, obsessive instincts that are illustrated to make them look and feel real. I want to take purity seriously by considering its implications in the real world. Vekllei does not use money -- a very straightforward and fantastical idea. Of course, moneylessness has extraordinary implications, and to maintain the purity of the idea we have to work very hard.
+
+Simplicity is actually very complicated, and so Vekllei is very complicated to justify the simplicity. It's filled with things I value and people I admire. You'll find hundreds of posts and many articles on this site, and all of them are designed to make this place and its people feel real.
+
+Just a few things to keep in mind:
+
+* This place is **iterative** -- canon disappears, people change appearance and the systems of Vekllei twist and turn as I do.
+* This place is **good-spirited** -- Vekllei is escapism, and although the dark accompanies the light, this project is supposed to be escapist and fun.
+* This place is **constantly expanding** -- I try out new styles, mediums and methods of distribution all the time. Some of them work, some of them don't. That's part of the fun of it!
 
 * **Vekllei is a utopia**, but that doesn't mean I don't take it seriously or consider its society pragmatically.
 * **It's full of stuff I love**, but that doesn't mean it's perfect. Personal growth can come from bad experiences.
@@ -77,14 +61,14 @@ color: var(--color-red);
 {{</hint >}}
 
 ## F.A.Q.
-
+{{< details title="Frequently Asked Questions" open=true >}}
 #### Who are you?
 
 [A Tasmanian illustrator.](/news/about/)
 
 #### You’re not Japanese?
 
-お前はもう死んでいる
+お前はもう死んでいる. Hope to live there for a couple of years someday.
 
 #### Why is Vekllei a utopia?
 
@@ -96,7 +80,7 @@ Vekllei is a personal utopia. That’s what I’m selling. At least you’re get
 
 #### Where’s the tension if it’s perfect?
 
-Vekllei is very cynical and tragic in places. Utopia is just a reflection of the author, good and bad.
+Vekllei can be cynical and tragic in places. Utopia is more than just idealistic fantasy, and can contain bad things.
 
 #### Is there a novel? A story? A comic?
 
@@ -108,7 +92,7 @@ Iceland.
 
 #### Why does Vekllei look Japanese?
 
-Vekllei is like a country of Scandinavians speaking French with an Aussie accent in Shōwa era Japan/Maoist China/Taiwan etc. Vekllei looks however I imagine utopia looks.
+Vekllei is like a country of Scandinavians speaking French with an Australian accent in Shōwa era Japan/Maoist China/Taiwan etc. Vekllei looks however I imagine utopia looks.
 
 #### How does that make sense?
 
@@ -116,7 +100,7 @@ Why can’t it just be cool?
 
 #### Is your alt-history thought out?
 
-Vekllei’s history is whatever I need it to be. I’m always trying to be realistic, but it’s all worked backwards from the setting. I’m not really “worldbuilding” in a typical sense. Very little of it is published, most of it is retrieved on request. Just ask if you have questions.
+Vekllei’s history is whatever I need it to be. I’m always trying to be realistic, but it’s all worked backwards from the setting. I’m not really “world-building” in the way some might understand it. Very little of it is published, most of it is retrieved on request. Just ask if you have questions.
 
 #### Why does Vekllei call itself “petticoat socialist”?
 
@@ -128,42 +112,42 @@ Vekllei is a female country. Womanhood is decommodified. It's maternal, social a
 
 #### Who is Zelda?
 
-Zelda is another name for Tzipora. She has two names specifically to confuse you.
+Zelda is another name for [Tzipora](/utopia/characters/). She has two names specifically to confuse you.
 
 [Join the Patreon](https://www.patreon.com/vekllei).
 
 [Join the Discord](https://discord.gg/dCE6vSU).
 
 Be "petticoat".
+{{</ details >}}
 
 ## Futher Reading
 
-If you're curious what sort of things go into a place like Vekllei, these are some of my favourite books. I've been asked about them before, so I've included this section in the hopes you enjoy them as much as I have. There are many more than these, so if you're interested, [contact me](/news/about). I'll update this list periodically as more occur to me.
-
+For those curious about what sort of things go into a place like Vekllei, these are some of my favourite books. I've been asked about them before, so I've included this section in the hopes you enjoy them as much as I have. There are many more than these, so if you're interested, [contact me](/news/about). I'll update this list periodically as more occur to me.
 
 {{<hint panel>}}
-### On the Origins of Modern Japanese Literature
+#### On the Origins of Modern Japanese Literature
 **Karatani Kojin** | 1993
 
 Karatani interrogates the appearance of Western conceptual artefacts (Landscape, The Child, Interiority) during the Meiji period in Japan. This book had a tremendous impact on my assumptions about the world and affected Vekllei tremendously.
 {{</hint>}}
 
 {{<hint panel>}}
-### Starting Point *&* Turning Point
+#### Starting Point *&* Turning Point
 **Miyazaki Hayao** | 2009 & 2014
 
 These books are essentially a compilation of essays from Miyazaki's years as a filmmaker. He's an incredibly smart and insightful creative force whose work [I have written at length about](/news/essays/ghibli) before. For me, it's all really powerful, affecting stuff.
 {{</hint>}}
 
 {{<hint panel>}}
-### Three Faces of Utopianism Revisited
+#### Three Faces of Utopianism Revisited
 **Lyman Sargent** | 1994
 
 This is the defining taxonomical look at the phenomena of utopianism and how it works. His breakdown of 'utopia' into both dystopian and eutopian elements is also my preffered descriptor and use of 'utopia' as a concept.
 {{</hint>}}
 
 {{<hint panel>}}
-### Towards a New Architecture
+#### Towards a New Architecture
 **Le Corbusier** | 1936
 
 Vekllei is a postmodern mess, but also deeply sympathetic to the modernist instinct. I like the utopianism of the 20th Century, and Le Corbusier typifies that 'utopian' futurism we saw in that period. I like how single-minded he is about it. His buildings remain beautiful, many years on.

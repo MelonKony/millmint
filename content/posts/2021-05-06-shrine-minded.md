@@ -17,7 +17,7 @@ image: https://images.millmint.net/images/shrine-minded.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/n6a990/shrineminded_girls/
 ---
 
-**Shattered fjords make up the north of Vekllei**, particularly in boroughs like [Santes](/utopia/vekllei/landscape/boroughs/santes/) (lit. *Saint*) which are well-regarded for their striking cliffs and sloping igneous fingers, which evidence Vekllei’s ongoing volcanism. Offshore, hundreds of islets rise and sink over the centuries.
+**Shattered fjords make up the north of Vekllei**, particularly in boroughs like [Santes](/utopia/landscape/boroughs/santes/) (lit. *Saint*) which are well-regarded for their striking cliffs and sloping igneous fingers, which evidence Vekllei’s ongoing volcanism. Offshore, hundreds of islets rise and sink over the centuries.
 
 This is the tiny village of Cult, which sits on the sparse tip of the Grimsy Fjord. It has a local train, but is otherwise only serviced by the Santes regional express — a mere single step up on Vekllei’s train hierarchy. This makes it relatively isolated by Vekllei’s rail-dense metrics. Cult’s shorefront is flanked by rocky cliffs that shelter its beaches, which means most of the town is squeezed further in and higher up. By the station at sea level, only a cafe and a handful of factories greet alighting passengers.
 

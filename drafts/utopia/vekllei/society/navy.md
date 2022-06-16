@@ -56,7 +56,7 @@ Vekllei is also home to the U.N. Universal Postal Union, the body responsible fo
 ❖ Read more: *[Post is for People](/posts/2021-02-22-pond/)*
 {{< /hint >}}
 
-The Mail is old enough to have its own hieroglyph in [*Topet*](/utopia/vekllei/language/#3-topet), which has resulted in the somewhat misleading transliteration of its name. In Vekllei, it is simply called the 'Mail', since its written name includes both its royal and national meanings intrinsically. Abroad, this is usually translated as the Royal Mail of Vekllei, but this is in fact more of a description of the organisation than its proper name.
+The Mail is old enough to have its own hieroglyph in [*Topet*](/utopia/culture/language/#3-topet), which has resulted in the somewhat misleading transliteration of its name. In Vekllei, it is simply called the 'Mail', since its written name includes both its royal and national meanings intrinsically. Abroad, this is usually translated as the Royal Mail of Vekllei, but this is in fact more of a description of the organisation than its proper name.
 
 Since Vekllei refers to its territory as its sovereign (expressed commonly as the 'Landscape Sovereign'), the Mail remains Royal even today, centuries after the collapse of the monarchy that founded it. Despite its regular function as a postal service, it is nonetheless considered a resource of landscape, not a government department, and so it remains "the Royal Mail of Vekllei" in the 21st Century.
 

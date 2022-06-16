@@ -2,9 +2,9 @@
     {{ if .Children }}
         <li class="submenu allow-hover">
             {{ if .URL }}
-                <a href="{{ .URL }}" class="menu-link">{{- .Name -}}</a>
+                <a href="{{ .URL }}" class="menu-link"><span class="navicon">{{ .Pre }}</span>{{- .Name -}}</a>
             {{ else }}
-                <div class="menu-link">{{- .Name -}}</div>
+                <div class="menu-link"><span class="navicon">{{ .Pre }}</span>{{- .Name -}}</div>
             {{ end }}
             <ul class="menu-dropdown">
                 {{- partial "navbar/nested-desktop.html" . -}}
@@ -13,9 +13,9 @@
     {{ else }}
         <li>
             {{ if .URL }}
-                <a href="{{ .URL }}" class="menu-link">{{- .Name -}}</a>
+                <a href="{{ .URL }}" class="menu-link"><span class="navicon">{{ .Pre }}</span>{{- .Name -}}</a>
             {{ else }}
-                <div class="menu-link">{{- .Name -}}</div>
+                <div class="menu-link"><span class="navicon">{{ .Pre }}</span>{{- .Name -}}</div>
             {{ end }}
         </li>
     {{ end }}

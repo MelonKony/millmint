@@ -18,10 +18,10 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 ![img](/images/hydro.jpg)
 
-{{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
+{{< button relref="/utopia/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
 >*Many townsfolk in Ou are employed in operation of the dam, either through the Thunder or Hydroburos. It is also the site of a small Vekllei National University laboratory which examines the dam environment and trains its staff.*
@@ -33,7 +33,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 ## Etymology
 
-**Ou** is a [*Topyas*](/utopia/vekllei/culture/language/#history) pure [Ocean Vowel](/utopia/vekllei/culture/language/#diphthongs) meaning "spirit" or "personhood", and in its written form is considered a core [Rapotenne](/utopia/vekllei/culture/language/#4-rapotenne) rune in [Upen](/utopia/vekllei/culture/religion/). Ou is considered the birthplace of demons in Upen mythology, who emerged from the Valley of the Dead to return humans to the spirit world. For this reason, Ou is considered a sacred borough in Vekllei and much of its territory remains untouchable [Crown Land](/utopia/vekllei/#administrative-divisions).
+**Ou** is a [*Topyas*](/utopia/culture/language/#history) pure [Ocean Vowel](/utopia/culture/language/#diphthongs) meaning "spirit" or "personhood", and in its written form is considered a core [Rapotenne](/utopia/culture/language/#4-rapotenne) rune in [Upen](/utopia/culture/religion/). Ou is considered the birthplace of demons in Upen mythology, who emerged from the Valley of the Dead to return humans to the spirit world. For this reason, Ou is considered a sacred borough in Vekllei and much of its territory remains untouchable [Crown Land](/utopia/vekllei/#administrative-divisions).
 
 ## History
 

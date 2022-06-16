@@ -72,7 +72,7 @@ nav {
 }
 
 .navbar a {
-    filter: brightness(50%)
+    
 }
 
 .navbar-dropdown li {
@@ -176,7 +176,7 @@ nav {
 .submenu .menu-dropdown {
   left: 100%;
   top: auto;
-  margin-top: -1.75rem;
+  margin-top: -1.8rem;
   width: inherit;
 }
 
@@ -188,8 +188,8 @@ nav {
 /* Vertical Menus - show the dropdown arrow */
 
 .submenu > .menu-link:after {
-  font-family: sans-serif;
   padding-left: 0.35rem;
+  font-family: sans-serif;
   content: "▸";
 }
 
@@ -295,4 +295,17 @@ nav {
 .right {
   margin-right: auto;
   justify-content: end;
+}
+
+.navicon {
+  font-family: 'Emoji'!important;
+  font-weight: normal;
+  color: var(--body-font-color);
+  margin-right: 4px;
+}
+
+@media only screen and (max-width: 500px) {
+    .right {
+        display: none;
+    }
 }

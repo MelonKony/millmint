@@ -24,8 +24,7 @@ This essay was written in December 2021. [Click here to see it as a post](/posts
 
 ## The Vekllei Person
 
-<span class="fc">W</span>
-hat good is more writing about theories and the methodology of country-constructs? More importantly — how is it authentically convincing to the person who has lived their entire lives immersed in their own ways of living? Vekllei does not use money — the purpose of these notes are to demonstrate how such a thing works, immersing Vekllei’s participatory economy in a human lens, and articulate the motivations, biases and assumptions of the average working Vekllei person. This is what a Vekllei working life looks like from the ground up.
+What good is more writing about theories and the methodology of country-constructs? More importantly — how is it authentically convincing to the person who has lived their entire lives immersed in their own ways of living? Vekllei does not use money — the purpose of these notes are to demonstrate how such a thing works, immersing Vekllei’s participatory economy in a human lens, and articulate the motivations, biases and assumptions of the average working Vekllei person. This is what a Vekllei working life looks like from the ground up.
 
 It is important to recognise Vekllei people do not think like you.[^1] They are not particularly more altruistic, hard-working, or kind to each other. They are, however, affected by their environment, which has introduced foundational shifts in their basic assumptions about the world. These differences can be illustrated in three features of life, which illustrate the worldview of the typical Vekllei person.[^2]
 
@@ -90,7 +89,7 @@ With much of manufacturing automated by automanufacturies, it is easy to overloo
 
 ### Case Study 2 -- Usef Sismiosn
 
-> Usef is a man of middle age in [Ou](/utopia/vekllei/landscape/boroughs/ou/), a borough in the central highlands of Vekllei containing several agricultural communities. Usef was born here, and will likely die here -- his village, Tiamoin, subsists off the agricultural products of its surrounds. Although he didn't take up farming after his father, his job as a local grocer keeps him in close contact with the goings-on of local agriculture. The goings-on of pretty much everything, in fact. He's got a keen ear for good stories, and lives above the shop he owns with his wife and child. If he's honest, there's not much to running a grocery -- inventory is done by the stock computer in Ada, so he spends most days reading and waiting for someone he knows to stop by (and he knows everyone in Tiamoin). He's well known and well liked, and his life is uncomplicated. Because he works the shop, he guarantees the property will be owned by his family for as long as they want it.
+> Usef is a man of middle age in [Ou](/utopia/landscape/boroughs/ou/), a borough in the central highlands of Vekllei containing several agricultural communities. Usef was born here, and will likely die here -- his village, Tiamoin, subsists off the agricultural products of its surrounds. Although he didn't take up farming after his father, his job as a local grocer keeps him in close contact with the goings-on of local agriculture. The goings-on of pretty much everything, in fact. He's got a keen ear for good stories, and lives above the shop he owns with his wife and child. If he's honest, there's not much to running a grocery -- inventory is done by the stock computer in Ada, so he spends most days reading and waiting for someone he knows to stop by (and he knows everyone in Tiamoin). He's well known and well liked, and his life is uncomplicated. Because he works the shop, he guarantees the property will be owned by his family for as long as they want it.
 
 ### Case Study 3 -- Floret Vosmiesneh
 

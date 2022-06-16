@@ -81,6 +81,11 @@ body article blockquote {
 	background-color: rgba(255, 86, 79,.1);
 }
 
+ .hint.millmint, .article-millmint .hint[class="hint "] {
+	border-color: #b73f53;
+	background-color: rgba(183, 63, 83,.1);
+}
+
  .hint.yellow, .article-yellow .hint[class="hint "] {
 	border-color: var(--color-yellow);
 	background-color: rgba(245,194,0,.1);

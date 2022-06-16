@@ -25,7 +25,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ❖ For common questions about me or my work, please visit the [FAQ](/intro/faq/).
 {{< /hint >}}
 
-**Hello, I'm Hobart**. I'm an Australian illustrator and writer living and working in Tasmania. I like machines, midcentury architecture and visiting new places. I studied as a journalist, but now work in illustration.
+**Hello, [I'm Hobart](https://images.millmint.net/images/mastheads/author.png)**. I'm an Australian illustrator and writer living and working in Tasmania. I like machines, midcentury design and visiting new places. I studied as a journalist, but now work in illustration.
 
 Vekllei has existed in some form since I was a kid, but I started working on it properly in 2017.
 

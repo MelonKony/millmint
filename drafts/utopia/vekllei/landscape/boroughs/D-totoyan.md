@@ -18,10 +18,10 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 ![img](/images/hollywood.jpg)
 
-{{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
+{{< button relref="/utopia/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
 >*There is a so-called “flash plant” in Miyatvousi, in the Lava region of Vekllei [...] the earth here is alive; in the cold, the ponds begin to steam.*
@@ -29,13 +29,13 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 -- [Gone Hollywood](/posts/2021-05-24-hollywood/)
 
 <span class="fc">T</span>
-**he borough of Miyatvousi** is an administrative region in northern Vekllei, located in the Lava Region north of Groisniyah and southwest of [Lita](/utopia/vekllei/landscape/boroughs/lita/).
+**he borough of Miyatvousi** is an administrative region in northern Vekllei, located in the Lava Region north of Groisniyah and southwest of [Lita](/utopia/landscape/boroughs/lita/).
 
 DO SOME SHIT ABOUT SUNSTONES
 
 ## Etymology
 
-**Miyatvousi** is an [Old Vekllei](/utopia/vekllei/culture/language/#history) combination of the words for "mineral" and "vision," which in this case refer to indigenous mythos around still, mirror-like pools common to flower tundras in the area. Its name implies a connection between the physical landscape of the Miyatvousi area and the spirit world.
+**Miyatvousi** is an [Old Vekllei](/utopia/culture/language/#history) combination of the words for "mineral" and "vision," which in this case refer to indigenous mythos around still, mirror-like pools common to flower tundras in the area. Its name implies a connection between the physical landscape of the Miyatvousi area and the spirit world.
 
 ## History
 

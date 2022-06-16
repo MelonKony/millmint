@@ -54,7 +54,7 @@ color: var(--color-orange);
 <li>Utopia</li>
 <li><a href="/utopia/vekllei/">Vekllei</a></li>
 <li>Society</li>
-<li><a style="color: var(--color-orange);" href="/utopia/vekllei/society/mint/">Mint</a></li>
+<li><a style="color: var(--color-orange);" href="/utopia/society/mint/">Mint</a></li>
 </ul>
 
 

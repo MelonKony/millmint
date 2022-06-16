@@ -2,7 +2,7 @@
 title: Characters
 
 fulltitle: Cast of Characters
-icon: 🐱
+icon: 👩‍👧‍👦
 emoji: ¥
 tag: UTOPIA
 sitetag: Introduction

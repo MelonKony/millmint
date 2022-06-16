@@ -335,7 +335,8 @@ html {
   --color-purple: #9f4bc9;
   --color-red: #f53126;
   --color-teal: #5ac8fa;
-  --color-yellow: #f5c200; }
+  --color-yellow: #f5c200;
+  --color-millmint: #b73f53; }
 
 html[data-theme="light"] {
   --color-text: #1d1d1f;
@@ -1156,9 +1157,6 @@ nav {
 .navbar li {
   list-style: none; }
 
-.navbar a {
-  filter: brightness(50%); }
-
 .navbar-dropdown li {
   padding: .5rem 0 .5rem 0; }
 
@@ -1243,7 +1241,7 @@ nav {
 .submenu .menu-dropdown {
   left: 100%;
   top: auto;
-  margin-top: -1.75rem;
+  margin-top: -1.8rem;
   width: inherit; }
 
 .allow-hover:hover > .menu-dropdown, .menu-active > .menu-dropdown {
@@ -1252,8 +1250,8 @@ nav {
 
 /* Vertical Menus - show the dropdown arrow */
 .submenu > .menu-link:after {
-  font-family: sans-serif;
   padding-left: 0.35rem;
+  font-family: sans-serif;
   content: "▸"; }
 
 /* Horizontal Menus - show the dropdown arrow */
@@ -1332,6 +1330,16 @@ nav {
 .right {
   margin-right: auto;
   justify-content: end; }
+
+.navicon {
+  font-family: "Emoji" !important;
+  font-weight: normal;
+  color: var(--body-font-color);
+  margin-right: 4px; }
+
+@media only screen and (max-width: 500px) {
+  .right {
+    display: none; } }
 
 #TableOfContents {
   line-height: 1.5rem;
@@ -1758,7 +1766,7 @@ article#collapsible_menu_changelogs {
   align-self: center; }
 
 .site-home {
-  background-image: url("/images/mastheads/millmint.png");
+  background-image: url("https://images.millmint.net/images/mastheads/millmint.png");
   background-position: 50% 50px;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -2136,6 +2144,10 @@ body article blockquote {
 .hint.vnr, .article-vnr .hint[class="hint "] {
   border-color: #FF564F;
   background-color: rgba(255, 86, 79, 0.1); }
+
+.hint.millmint, .article-millmint .hint[class="hint "] {
+  border-color: #b73f53;
+  background-color: rgba(183, 63, 83, 0.1); }
 
 .hint.yellow, .article-yellow .hint[class="hint "] {
   border-color: var(--color-yellow);

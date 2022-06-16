@@ -7,9 +7,9 @@
     "insection" }} {{- end -}} {{- if .Children -}}
     <li class="navbar-item navbar-dropdown allow-hover {{ $navbar_decoration }}">
       {{ if .URL }}
-      <a href="{{ .URL }}" class="menu-link">{{ .Params.icon }}{{- .Name -}}</a>
+      <a href="{{ .URL }}" class="menu-link"><span class="navicon">{{ .Pre }}</span>{{- .Name -}}</a>
       {{ else }}
-      <div class="menu-link">{{ .Params.icon }}{{- .Name -}}</div>
+      <div class="menu-link"><span class="navicon">{{ .Pre }}</span>{{- .Name -}}</div>
       {{ end }}
       <ul class="menu-dropdown">
         {{- partial "navbar/nested-desktop.html" . -}}
@@ -18,9 +18,9 @@
     {{- else -}}
     <li class="navbar-item {{ $navbar_decoration }}">
       {{ if .URL }}
-      <a href="{{ .URL }}" class="menu-link">{{- .Name -}}</a>
+      <a href="{{ .URL }}" class="menu-link"><span class="navicon">{{ .Pre }}</span>{{- .Name -}}</a>
       {{ else }}
-      <div class="menu-link">{{- .Name -}}</div>
+      <div class="menu-link"><span class="navicon">{{ .Pre }}</span>{{- .Name -}}</div>
       {{ end }}
     </li>
     {{- end -}} {{- end -}}

@@ -2,121 +2,142 @@
   identifier = "intro"
   name = "Intro"
   url = "/intro/"
+  pre = "📔"
   weight = 1
 [[navbar]]
   identifier = "utopia"
   name = "Utopia"
-  url = "/utopia/vekllei"
+  pre = "📓"
+  url = "/utopia/"
   weight = 2
   [[navbar]]
     identifier = "vekllei"
     name = "Vekllei"
+    pre = "🌕"
     url = "/utopia/vekllei/"
     parent = "utopia"
     weight = 1
   [[navbar]]
     identifier = "characters"
     name = "Characters"
+    pre = "👩‍👧‍👦"
     url = "/utopia/characters/"
     parent = "utopia"
     weight = 2
   [[navbar]]
     identifier = "culture"
     name = "Culture"
-    url = "/utopia/vekllei/culture"
+    pre = "🎊"
+    url = "/utopia/culture"
     parent = "utopia"
     weight = 3
     [[navbar]]
       identifier = "language"
       name = "Language"
-      url = "/utopia/vekllei/culture/language"
+      pre = "📖"
+      url = "/utopia/culture/language"
       parent = "culture"
       weight = 1
     [[navbar]]
       identifier = "religion"
       name = "Religion"
-      url = "/utopia/vekllei/culture/religion"
+      pre = "💀"
+      url = "/utopia/culture/religion"
       parent = "culture"
       weight = 2
   [[navbar]]
     identifier = "landscape"
     name = "Landscape"
+    pre = "🌿"
     parent = "utopia"
-    url = "/utopia/vekllei/landscape"
+    url = "/utopia/landscape"
     weight = 4
     [[navbar]]
       identifier = "boroughs"
       name = "Boroughs"
-      url = "/utopia/vekllei/landscape/boroughs"
+      pre = "🌐"
+      url = "/utopia/landscape/boroughs"
       parent = "landscape"
       weight = 1
   [[navbar]]
     identifier = "society"
     name = "Society"
+    pre = "🏛"
     parent = "utopia"
-    url = "/utopia/vekllei/society"
+    url = "/utopia/society"
     weight = 5
     [[navbar]]
       identifier = "mail"
       name = "Mail"
-      url = "/utopia/vekllei/society/industry/mail"
+      pre = "📯"
+      url = "/utopia/society/industry/mail"
       parent = "society"
       weight = 2
     [[navbar]]
       identifier = "railways"
       name = "Railways"
-      url = "/utopia/vekllei/society/industry/rail"
+      pre = "🚇"
+      url = "/utopia/society/industry/rail"
       parent = "society"
       weight = 3
 [[navbar]]
   identifier = "newsdesk"
   name = "News"
+  pre = "📕"
   url = "/news/"
   weight = 3
   [[navbar]]
     identifier = "about"
     name = "About"
+    pre = "❓"
     url = "/news/about"
     parent = "newsdesk"
     weight = 2
   [[navbar]]
     identifier = "bulletin"
     name = "Bulletin"
+    pre = "💾"
     url = "/news/bulletin"
     parent = "newsdesk"
     weight = 3
   [[navbar]]
     identifier = "essays"
     name = "Essays"
+    pre = "📄"
     url = "/news/essays"
     parent = "newsdesk"
     weight = 4
     [[navbar]]
       identifier = "ghibli"
       name = "A Universal Nostalgia"
+      pre = "🫧"
       url = "/news/essays/ghibli"
       parent = "essays"
       weight = 1
     [[navbar]]
       identifier = "utopie"
       name = "Utopie Concrete"
+      pre = "☕️"
       url = "/news/essays/utopie"
       parent = "essays"
       weight = 2
     [[navbar]]
       identifier = "hong kong"
       name = "Not Long in Hong Kong"
+      pre = "☂️"
       url = "/news/essays/hongkong"
       parent = "essays"
       weight = 3
     [[navbar]]
       identifier = "tokyo"
       name = "A Cashless Tokyo"
+      pre = "🍜"
       url = "/news/essays/tokyo"
       parent = "essays"
       weight = 4
 [[navbar]]
   identifier = "posts"
   name = "Stories"
+  pre = "📗"
   url = "/posts/"
   weight = 4

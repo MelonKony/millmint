@@ -18,10 +18,10 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 ![smallimg](https://images.millmint.net/images/women.jpg)
 
-{{< button relref="/utopia/vekllei/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
+{{< button relref="/utopia/landscape/boroughs/" >}}Back to Boroughs{{< /button >}}
 <br>
 {{< hint green >}}
-߷ This article is about a [**borough**](/utopia/vekllei/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
+߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
 
 >*Out in Voya Voya, the gardens light the people, and distill turbulent human temperament into momentary, sequential lyrical images. A dead leaf moving by miracle across still water; an overturned bucket collecting dew along its handle; fern leaves half-curled, young and growing.*
@@ -29,11 +29,11 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 -- [City Rivers](/posts/2021-03-27-rivers/)
 
 <span class="fc">T</span>
-**he borough of Lo** is an administrative region in southwest Vekllei, located in the Capital Region south of Bouisgeh and west of [Voya Voya](/utopia/vekllei/landscape/boroughs/voya-voya). It covers the entire area of Voya Voya, a city of some 450,000 people in the capital's extended metro area renowned for its parkland and green spaces. Voya Voya makes up part of the capital's satellite belt of boroughs, characterised by green space and mixed-use residential planning. Voya Voya is often referred to as the capital's "garden borough" for its density and quality of parkland and forest reserves.
+**he borough of Lo** is an administrative region in southwest Vekllei, located in the Capital Region south of Bouisgeh and west of [Voya Voya](/utopia/landscape/boroughs/voya-voya). It covers the entire area of Voya Voya, a city of some 450,000 people in the capital's extended metro area renowned for its parkland and green spaces. Voya Voya makes up part of the capital's satellite belt of boroughs, characterised by green space and mixed-use residential planning. Voya Voya is often referred to as the capital's "garden borough" for its density and quality of parkland and forest reserves.
 
 ## Etymology
 
-**Voya Voya** is transliterated as "Good Good," through in practice is better translated as "Good Place," analogous to English towns like "Goodwood." It refers to the natural temperate rainforests of its area, much of which are preserved in its parks and in its northern [Crown Land](/utopia/vekllei/#administrative-divisions). It is only one of a handful of Vekllei cities to use *Topyas* emphasis through repetition, which has more or less been superseded in modern Vekllei by [duplicate consonants](/utopia/vekllei/culture/language/#phonetic-reading).
+**Voya Voya** is transliterated as "Good Good," through in practice is better translated as "Good Place," analogous to English towns like "Goodwood." It refers to the natural temperate rainforests of its area, much of which are preserved in its parks and in its northern [Crown Land](/utopia/vekllei/#administrative-divisions). It is only one of a handful of Vekllei cities to use *Topyas* emphasis through repetition, which has more or less been superseded in modern Vekllei by [duplicate consonants](/utopia/culture/language/#phonetic-reading).
 
 ## History
 
