@@ -389,7 +389,7 @@ a {
   border-color: #0070f5; }
 
 .blue.brand-title {
-  background-color: #005fd1; }
+  background-color: #002753; }
 
 .brown,
 .article-brown a {
@@ -397,7 +397,7 @@ a {
   border-color: #987a54; }
 
 .brown.brand-title {
-  background-color: #7a6244; }
+  background-color: #352a1e; }
 
 .gray,
 .article-gray a {
@@ -405,7 +405,7 @@ a {
   border-color: #848489; }
 
 .gray.brand-title {
-  background-color: #6d6d72; }
+  background-color: #000000; }
 
 .green,
 .article-green a {
@@ -413,7 +413,7 @@ a {
   border-color: #1ec337; }
 
 .green.brand-title {
-  background-color: #1cb432; }
+  background-color: #084417; }
 
 .indigo,
 .article-indigo a {
@@ -421,7 +421,7 @@ a {
   border-color: #5452cc; }
 
 .indigo.brand-title {
-  background-color: #4745af; }
+  background-color: #1d1c45; }
 
 .orange,
 .article-orange a {
@@ -429,7 +429,7 @@ a {
   border-color: #f58b00; }
 
 .orange.brand-title {
-  background-color: #d37800; }
+  background-color: #553006; }
 
 .mail,
 .article-mail a {
@@ -437,7 +437,7 @@ a {
   border-color: #ba1d37; }
 
 .mail.brand-title {
-  background-color: #9c192f; }
+  background-color: #410b13; }
 
 .millmint,
 .article-millmint a {
@@ -445,7 +445,7 @@ a {
   border-color: #b73f53; }
 
 .millmint.brand-title {
-  background-color: #b73f53; }
+  background-color: #40161d; }
 
 .vnr,
 .article-vnr a {
@@ -453,7 +453,7 @@ a {
   border-color: #ff564f; }
 
 .vnr.brand-title {
-  background-color: #e34a44; }
+  background-color: #591e1c; }
 
 .pink,
 .article-pink a {
@@ -462,7 +462,7 @@ a {
   border-color: #f5234b; }
 
 .pink.brand-title {
-  background-color: #e02045; }
+  background-color: #550d1a; }
 
 .purple,
 .article-purple a {
@@ -470,7 +470,7 @@ a {
   border-color: #9f4bc9; }
 
 .purple.brand-title {
-  background-color: #8941ad; }
+  background-color: #371a45; }
 
 .red,
 .article-red a {
@@ -478,7 +478,7 @@ a {
   border-color: #f53126; }
 
 .red.brand-title {
-  background-color: #dc2c22; }
+  background-color: #55120f; }
 
 .teal,
 .article-teal a {
@@ -486,7 +486,7 @@ a {
   border-color: #5ac8fa; }
 
 .teal.brand-title {
-  background-color: #50b1de; }
+  background-color: #1e4656; }
 
 .yellow,
 .article-yellow a {
@@ -494,7 +494,7 @@ a {
   border-color: #f5c200; }
 
 .yellow.brand-title {
-  background-color: #e2b301; }
+  background-color: #55430a; }
 
 html, button, input, select, textarea,
 .pure-g [class*="pure-u"] {
@@ -1070,11 +1070,10 @@ header {
   font-weight: 700;
   font-size: 16pt;
   padding: 2px 6px 2px 6px;
-  border-radius: 5px;
+  border-radius: 3px;
   color: var(--body-background);
   background-color: var(--color-gray);
-  vertical-align: middle;
-  opacity: 0.8; }
+  vertical-align: middle; }
 
 .brand-emoji {
   font-family: 'Whirlybats';
@@ -1094,7 +1093,7 @@ header {
   vertical-align: middle; }
 
 .brand-title:hover, brand-emoji:hover {
-  filter: brightness(0.9); }
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; }
 
 .toolbox {
   display: flex;

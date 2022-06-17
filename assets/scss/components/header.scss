@@ -18,11 +18,10 @@ header {
   @include font-bold;
   font-size: 16pt;
   padding: 2px 6px 2px 6px;
-  border-radius: 5px;
+  border-radius: 3px;
   color: var(--body-background);
   background-color: var(--color-gray);
   vertical-align: middle;
-  opacity: 0.8;
 }
 
 .brand-emoji {
@@ -44,7 +43,7 @@ header {
 }
 
 .brand-title:hover, brand-emoji:hover {
-  filter: brightness(0.9);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .toolbox {

@@ -6,7 +6,7 @@ icon: 🪙
 emoji: Ζ
 tag: SOCIETY
 sitetag: Article
-color: pink
+color: teal
 
 image: https://images.millmint.net/images/gov.jpg
 

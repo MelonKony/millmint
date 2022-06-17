@@ -7,7 +7,7 @@ emoji: ¥
 tag: UTOPIA
 sitetag: Introduction
 
-color: pink
+color: orange
 comments: false
 autonumbering: true
 list_posts: false
@@ -167,10 +167,10 @@ She is sensitive to being made fun of, and considers many of her problems making
 <style>
 a.book-btn {
   margin-top: 0;
-  border: 1px solid var(--color-pink);
+  border: 1px solid var(--color-orange);
   //background-color: rgba(255, 43, 78, 0.25);
   //color: var(--body-font-color);
-  color: var(--color-pink);;
+  color: var(--color-orange);;
   }
 article h5 {
   margin-top: 1rem;
