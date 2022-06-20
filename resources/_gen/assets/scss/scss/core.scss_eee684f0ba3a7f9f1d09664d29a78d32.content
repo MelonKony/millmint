@@ -391,6 +391,9 @@ a {
 .blue.brand-title {
   background-color: #002753; }
 
+.blue.brand-emoji {
+  color: #002753; }
+
 .brown,
 .article-brown a {
   color: #987a54;
@@ -398,6 +401,9 @@ a {
 
 .brown.brand-title {
   background-color: #352a1e; }
+
+.brown.brand-emoji {
+  color: #352a1e; }
 
 .gray,
 .article-gray a {
@@ -407,6 +413,9 @@ a {
 .gray.brand-title {
   background-color: #000000; }
 
+.gray.brand-emoji {
+  color: #000000; }
+
 .green,
 .article-green a {
   color: #1ec337;
@@ -414,6 +423,9 @@ a {
 
 .green.brand-title {
   background-color: #084417; }
+
+.green.brand-emoji {
+  color: #084417; }
 
 .indigo,
 .article-indigo a {
@@ -423,6 +435,9 @@ a {
 .indigo.brand-title {
   background-color: #1d1c45; }
 
+.indigo.brand-emoji {
+  color: #1d1c45; }
+
 .orange,
 .article-orange a {
   color: #f58b00;
@@ -430,6 +445,9 @@ a {
 
 .orange.brand-title {
   background-color: #553006; }
+
+.orange.brand-emoji {
+  color: #553006; }
 
 .mail,
 .article-mail a {
@@ -439,6 +457,9 @@ a {
 .mail.brand-title {
   background-color: #410b13; }
 
+.mail.brand-emoji {
+  color: #410b13; }
+
 .millmint,
 .article-millmint a {
   color: #b73f53;
@@ -447,6 +468,9 @@ a {
 .millmint.brand-title {
   background-color: #40161d; }
 
+.millmint.brand-emoji {
+  color: #40161d; }
+
 .vnr,
 .article-vnr a {
   color: #ff564f;
@@ -454,6 +478,9 @@ a {
 
 .vnr.brand-title {
   background-color: #591e1c; }
+
+.vnr.brand-emoji {
+  color: #591e1c; }
 
 .pink,
 .article-pink a {
@@ -464,6 +491,9 @@ a {
 .pink.brand-title {
   background-color: #550d1a; }
 
+.pink.brand-emoji {
+  color: #550d1a; }
+
 .purple,
 .article-purple a {
   color: #9f4bc9;
@@ -472,6 +502,9 @@ a {
 .purple.brand-title {
   background-color: #371a45; }
 
+.purple.brand-emoji {
+  color: #371a45; }
+
 .red,
 .article-red a {
   color: #f53126;
@@ -479,6 +512,9 @@ a {
 
 .red.brand-title {
   background-color: #55120f; }
+
+.red.brand-emoji {
+  color: #55120f; }
 
 .teal {
   color: #5ac8fa;
@@ -490,6 +526,9 @@ a {
 .teal.brand-title {
   background-color: #1e4656; }
 
+.teal.brand-emoji {
+  color: #1e4656; }
+
 .yellow,
 .article-yellow a {
   color: #f5c200;
@@ -497,6 +536,9 @@ a {
 
 .yellow.brand-title {
   background-color: #55430a; }
+
+.yellow.brand-emoji {
+  color: #55430a; }
 
 html, button, input, select, textarea,
 .pure-g [class*="pure-u"] {
