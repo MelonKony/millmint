@@ -27,7 +27,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 ❖ Check out the [**FAQ**](/intro/faq)
 {{< /hint >}}
 
-**These stories are about good places and people**. They take place in a fictional country called [Vekllei](/utopia/vekllei/), which is an Atlantic country that does not use money. The point of this project is to take the purity of that idea seriously, and immerse a place of wonder in the real world.
+**These stories are about good places and people**. They take place in a fictional state called [Vekllei](/utopia/vekllei/), which is an Atlantic country that does not use money. The point of this project is to take the purity of that idea seriously, and immerse a place of wonder in the real world.
 
 > So this is Utopia,<br>
 > Is it? Well — <br>
