@@ -225,10 +225,12 @@ a {
   background-color: #55120f;
 }
 
-.teal,
-.article-teal a {
+.teal {
   color: $teal;
   border-color: $teal;
+}
+.article-teal a {
+  color: #1e4656;
 }
 .teal.brand-title {
   background-color: #1e4656;

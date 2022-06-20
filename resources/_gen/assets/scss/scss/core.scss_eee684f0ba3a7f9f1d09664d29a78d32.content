@@ -480,10 +480,12 @@ a {
 .red.brand-title {
   background-color: #55120f; }
 
-.teal,
-.article-teal a {
+.teal {
   color: #5ac8fa;
   border-color: #5ac8fa; }
+
+.article-teal a {
+  color: #1e4656; }
 
 .teal.brand-title {
   background-color: #1e4656; }
@@ -545,7 +547,8 @@ h6 {
   font-size: 0.875rem;
   /* 14px */
   line-height: 1.25rem;
-  /* 20px */ }
+  /* 20px */
+  font-size: 1rem; }
 
 article h1, article h2, article h3, article h4, article h5, article h6 {
   margin-top: 2rem;
@@ -1839,6 +1842,10 @@ article[autonumbering] h4:before {
   counter-increment: h4;
   content: counter(h2) "." counter(h3) "." counter(h4) ". "; }
 
+article[autonumbering] h5:before {
+  counter-increment: h5;
+  content: counter(h2) "." counter(h3) "." counter(h4) "." counter(h5) ". "; }
+
 article[autonumbering] .collapsible-menu ul {
   counter-reset: item; }
 
@@ -2209,6 +2216,10 @@ body article blockquote {
   border-color: var(--color-indigo);
   background-color: rgba(132, 64, 241, 0.1); }
 
+.hint.teal, .article-teal .hint[class="hint "] {
+  border-color: var(--color-teal);
+  background-color: rgba(90, 200, 250, 0.1); }
+
 .hint.caption {
   margin-left: 0;
   margin-right: 0;
@@ -2343,7 +2354,6 @@ article img[alt~="smallimg"] {
   background-color: #fafafa;
   opacity: .85;
   border-inline-start: none;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: -.01em;
   border-radius: 5px;

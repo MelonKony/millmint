@@ -1,7 +1,7 @@
 ---
 title: FAQ
-
 fulltitle: Frequently Asked Questions
+
 icon: 🎙
 emoji: -love
 
