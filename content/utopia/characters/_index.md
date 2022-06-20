@@ -9,7 +9,7 @@ sitetag: Introduction
 
 color: orange
 comments: false
-autonumbering: true
+autonumbering: false
 list_posts: false
 
 image: https://images.millmint.net/images/liminal.jpg
