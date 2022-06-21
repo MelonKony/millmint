@@ -110,6 +110,11 @@ body article blockquote {
 	background-color: rgba(132,64,241,.1);
 }
 
+ .hint.teal, .article-teal .hint[class="hint "] {
+	border-color: var(--color-teal);
+	background-color: rgba(90, 200, 250,.1);
+}
+
 .hint.caption {
 	margin-left: 0;
 	margin-right: 0;
