@@ -23,7 +23,7 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 ## Overview
 
-**The borough of Lola** is an administrative region in southwest Vekllei, located in the Capital Region on the ancient city of Reykyavic, south of Sojiya and east of Lava. It includes several of Vekllei's oldest inhabited urban neighbourhoods, including Reykjavic, Hosfyourd and Seispri. Characterised by historical architecture and a dense low-rise cityscape, Lola is among Vekllei's most well-known boroughs and makes up part of Vekllei's "original city" boundary along its southwest coast. The neighbourhood of Seispri in Lola is the home of [Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes).
+**The borough of Lola** is an administrative region in southwest Vekllei, located in the Capital Region on the ancient city of Reykyavic, south of Sojiya and east of Lava. It includes several of Vekllei's oldest inhabited urban neighbourhoods, including Reykjavic, Hosfyourd and Seispri. Characterised by historical architecture and a dense low-rise cityscape, Lola is among Vekllei's most well-known boroughs and makes up part of Vekllei's "original city" boundary along its southwest coast. The neighbourhood of Seispri in Lola is the home of [Tzipora](/utopia/characters/#tzipora).
 
 >*Tzipora’s brief phase as a self-described Bolshevik began during recess on the roof of the Lola 6th School’s science block*
 
@@ -69,6 +69,10 @@ The neighbourhoods of Lola cover almost all of the borough, which has no contemp
 
 The climate is coastal and temperate, seeing mean temperatures of 20C in summer and about 5C in winter. Snow settles in Lola for one or two weeks in the winter, and for most of the season in the Esja Mountains.
 
+### Seispri
+
+The municipality of Seispri is [Tzipora's](/utopia/characters/) home. Historically industrial, today it is primarily settled by Southern and Eastern European migrants who arrived in the early 2020s. It is relatively material-poor and working-class, and is still marked by war ruins. It is known for its canvas industry.
+
 ### Esja Mountains
 
 The Esja Mountains are a range located north of Reykjavic, marked by Mt Esja at 910m above sea level, its highest point. The mountain is situated in the borough of Geofyourd, and has been settled up to 500m. Its iconic peaks are unusually light-coloured because of extensive Rhyolite deposits, a byproduct of volcanism. Esja is a popular hiking destination among locals, but can be dangerous in winter because of the greater risk of avalanches.
@@ -101,7 +105,7 @@ The Vekllei Cenotaph is a monument to all Vekllei servicemen killed during warti
 
 ### Royal Hotel of Vekllei
 
-The Royal Hotel of Vekllei, shortened to the Royal, is among Vekllei's oldest operating hotels and also its most luxurious, catering primarily to the international wealthy and the famous. Unlike Hotel International in the borough of Callaisn, most of the Royal's guests visit for pleasure rather than business. Part of the Royal Hotel complex includes the former Summer Residence of the Vekllei Monarch, inside of which are Vekllei's most expensive (and exclusive) hotel suites. The Hotel is serviced by a dedicated untimetabled train line that runs between the Royal Hotel in Hosfyourd and the Vekllei International Jetport in Pharos.
+The Royal Hotel of Vekllei, shortened to the Royal, is among Vekllei's oldest operating hotels and also its most luxurious, catering primarily to the international wealthy and the famous. Unlike Hotel International in the borough of Callaisn, most of the Royal's guests visit for pleasure rather than business. Part of the Royal Hotel complex includes the former Summer Residence of the Vekllei Monarch, inside of which are Vekllei's most expensive (and exclusive) hotel suites. The Hotel is serviced by a dedicated untimetabled train line that runs between the Royal Hotel in Hosfyourd and the [Vekllei World Jetport](/utopia/landscape/boroughs/pharos/#vekllei-world-jetport) in [Pharos](/utopia/landscape/boroughs/pharos/).
 
 The Royal is ranked among the world's most luxurious hotels and is a subject of fascination for Vekllei people, who are unlikely to ever visit it unless accompanying a paying foreigner.
 

@@ -2,6 +2,7 @@
     <meta charset="utf-8">
     <link rel="shortcut icon" href='{{ "favicon.ico" | absURL }}' type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Hobart Phillips">
 
     <title>
         {{- if eq .Kind "home" -}}
@@ -24,6 +25,10 @@
     {{ with (.Scratch.Get "params").author }}
     <meta name="author" content="{{ . }}" />
     {{ end }}
+    
+    {{- if not .Params.Index -}}
+      <meta name = "robots" content = "noindex">
+    {{- end -}}
 
     {{ if (.Scratch.Get "params").enableOpenGraph }}
         {{ template "_internal/opengraph.html" . }}
@@ -35,9 +40,18 @@
 
     {{- partial "resources/css.html" . -}}
 
-    {{ if (.Scratch.Get "params").gaCode }}
-        {{ template "_internal/google_analytics_async.html" . }}
-    {{ end }}
+    <!-- open graph -->
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content="{{ if ne .URL "/" }}{{ .Title }} &middot; {{ end }}{{ .Site.Title }}"/>
+      <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}"/>
+      <meta property="og:site_name" content="{{ .Site.Title }}"/>
+      <meta property="og:url" content="{{ .Permalink }}"/>
+      <meta property="og:locale" content="en">
+      {{ if .Params.image }}
+      <meta property="og:image" content="{{ .Params.image | relURL }}"/>
+      <meta property="og:image:secure_url" content="{{ .Params.image | absURL }}"/>
+      {{ end }}
+      <meta property="og:type" content="website"/>
 
     {{- if default true .Site.Params.Search -}}
       {{- $searchJSFile := printf "%s.search.js" .Language.Lang }}
@@ -80,5 +94,4 @@
         integrity="{{ .Data.Integrity }}" crossorigin="anonymous"
       {{- end -}}
     {{- end -}}
-
 </head>

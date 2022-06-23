@@ -14,14 +14,13 @@
 {{ .Scratch.SetInMap "params" "enable_collapsible_changelogs" (.Params.collapsible_changelogs | default .Site.Params.enable_collapsible_changelogs | default false) }}
 
 <html lang='{{ .Site.LanguageCode }}'>
-  {{- partial "head.html" . -}}
-  <body class="site-home">
-          <main>
-              {{- partial "header.html" . -}}
-              {{- partial "nav.html" . -}}
-          </main>
-  </body>
-<html>
+{{- partial "head.html" . -}}
+<body class="site-home">
+        <main>
+            {{- partial "header.html" . -}}
+            {{- partial "nav.html" . -}}
+        </main>
+</body>
 
 <style>
   .breadcrumbs {

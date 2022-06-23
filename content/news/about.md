@@ -29,7 +29,9 @@ keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, 
 
 Vekllei has existed in some form since I was a kid, but I started working on it properly in 2017.
 
-You can follow my progress on this project on [Instagram](https://www.instagram.com/melon.kony/), [Twitter](https://twitter.com/MelonKony), or join [my subreddit](https://www.reddit.com/r/vekllei). You can **write to me** at hobart★millmint.net（★→@）.
+You can follow my progress on this project on [Instagram](https://www.instagram.com/melon.kony/), [Twitter](https://twitter.com/MelonKony), or join [my subreddit](https://www.reddit.com/r/vekllei). 
+
+You can **write to me** at hobart@millmint.net.
 
 ## News
 
@@ -37,7 +39,9 @@ You can follow my progress on this project on [Instagram](https://www.instagram.
 June 2022
 {{</hint>}}
 
-**June 15, 2022** Added a swish animated cover for the home page, and moved the great existing parallax to [Intro](/intro) in preparation for an overhaul <span class="spanlink"><a href="/images/mastheads/millmint.png">URL →</a></span>
+**June 22, 2022** Drew a sketch of Tzipora and Cobian before their school formal. Just some fun between comic pages <span class="spanlink"><a href="/images/sketches/formal.png">URL →</a></span>
+
+**June 15, 2022** Added a swish animated cover for the home page, and moved the great existing parallax to [Intro](/intro) in preparation for an overhaul <span class="spanlink"><a href="https://millmint.net/images/mastheads/millmint.png">URL →</a></span>
 
 **June 7, 2022** Drew a uniform reference to keep clothing details consistent between chapters <span class="spanlink"><a href="https://millmint.net/images/sketches/comic/uniformref.jpg">URL →</a></span>
 

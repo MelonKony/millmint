@@ -1,8 +1,16 @@
 ---
 title: Shop
+index: false
 
+color: millmint
+
+toc: false
 list_posts: false
 comments: false
+
+description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
+author: Hobart Phillips
+keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 <div class="shop-title">
   <a href="/shop/">
@@ -44,6 +52,11 @@ comments: false
 .headerbox {
   display: none;
 }
+
+img:hover, a:hover {
+  transform: none;
+}
+
 @media screen {
       div#external-portfolio .product-grid {
           clear: right;

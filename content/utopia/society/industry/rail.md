@@ -51,7 +51,7 @@ Unusually, Vekllei National Rail is legally absolved of all non-rail transport, 
 
 ### History
 
-Although Vekllei has used wagonways since the 18th Century and developed horse-drawn railways for industrial transport in its ports, the first passenger rail line in Vekllei was founded in 1855 by the Pharos Rail Company.
+Although Vekllei has used wagonways since the 18th Century and developed horse-drawn railways for industrial transport in its ports, the first passenger rail line in Vekllei was founded in 1855 by the [Pharos Rail Company](/utopia/landscape/boroughs/pharos/#pharos-railway-company-museum).
 
 The history of rail in Vekllei can be summarised in three key eras of development.
 
@@ -65,7 +65,7 @@ Since the foundation of VNR after nationalisation, rail in Vekllei has seen the 
 
 The first railways in Vekllei developed alongside its ports, as Vekllei's position as an intermediary free port between Europe and the Americas rapidly developed Vekllei's industrial base. Although the earliest internal rail wagons were pulled by horses, primitive steam locomotives had modernised most ports by the early 19th Century.
 
-The first passenger rail line opened in 1855 between Pharos and the present-day borough of Little Vekllei to alleviate the expense of moving goods from the Pharos Port to established settlement further inland. The original line was only a few kilometres long, but was extended in 1858 and again in 1872. By this time, several other lines had been established under private rail companies, including passenger services between Vekllei Proper and Little Vekllei, as well as the beginnings of the Montre-Vekllei Railroad.
+The first passenger rail line opened in 1855 between [Pharos](/utopia/landscape/boroughs/pharos/) and the present-day borough of Little Vekllei to alleviate the expense of moving goods from the [Port of Pharos](/utopia/landscape/boroughs/pharos/#port-of-pharos) to established settlement further inland. The original line was only a few kilometres long, but was extended in 1858 and again in 1872. By this time, several other lines had been established under private rail companies, including passenger services between Vekllei Proper and Little Vekllei, as well as the beginnings of the Montre-Vekllei Railroad.
 
 By the beginning of the 20th Century, Vekllei had a half-dozen major railroad companies, and dozens other limited/local services provided by private operators or their municipality. This saw a massive increase in both the movement of freight and ridership, and helped entrench Vekllei's position as a stopover port city for transatlantic freight and passage.
 

@@ -353,7 +353,7 @@ Vekllei's school enrolment is among the highest in the world, though this calcul
 Sunny morning at the [Ou Hydroburo Complex](/utopia/landscape/boroughs/ou/#hydroburo-development) in [Ou](/utopia/landscape/boroughs/ou/). | *[The Ou Hydroburo Office](/posts/2020-04-21-hydro/)*
 {{</hint>}}
 
-Most large infrastructure projects, including transport, education, health, military and extraterrestrial interests, are completed in cyclical phases similar to Soviet half-decade plans, including production quotas and hard deadlines for completion. This system of construction has allowed the country to recover quickly from its devastation in the Atomic War and develop one of the most comprehensive public infrastructure systems in the world. Vekllei is a major transport hub for international flights and Atlantic ocean crossings, served largely by the **Vekllei International Jetport** and the historic **Port of Vekllei** respectively.
+Most large infrastructure projects, including transport, education, health, military and extraterrestrial interests, are completed in cyclical phases similar to Soviet half-decade plans, including production quotas and hard deadlines for completion. This system of construction has allowed the country to recover quickly from its devastation in the Atomic War and develop one of the most comprehensive public infrastructure systems in the world. Vekllei is a major transport hub for international flights and Atlantic ocean crossings, served largely by the [**Vekllei World Jetport**](/utopia/landscape/boroughs/pharos/#vekllei-world-jetport) and the historic **Port of Vekllei** respectively.
 
 ### Transport
 

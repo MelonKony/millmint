@@ -3,7 +3,7 @@ title: FAQ
 fulltitle: Frequently Asked Questions
 
 icon: 🎙
-emoji: -love
+emoji: L
 
 tag: UTOPIA
 sitetag: Introduction

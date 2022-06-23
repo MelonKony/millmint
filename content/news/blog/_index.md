@@ -1,7 +1,9 @@
 ---
 aliases: ["posts", "articles", "blog", "showcase", "docs"]
 title: "Blog"
-fulltitle:
+
+index: false
+
 type: postcard
 layout: postcard
 author: "Hobart Phillips"

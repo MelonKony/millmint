@@ -598,7 +598,7 @@ The COLSEC Overseas Affairs Office (COLSESEA) coordinates the foreign offices of
 {{<outline>}}
 ##### Commonwealth Records and Telegraph Directorate
 
-###### Vekllei Press Bureau
+###### Commonwealth Press Bureau
 {{</outline>}}
 {{<outline>}}
 ##### Commonwealth Sports Directorate

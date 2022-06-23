@@ -1,7 +1,7 @@
 ---
 title: Boroughs
 
-fulltitle: The Boroughs of Vekllei
+fulltitle: Boroughs of Vekllei
 icon: 🌐
 emoji: g
 tag: LANDSCAPE
@@ -50,6 +50,11 @@ The borough of [Lola](/utopia/landscape/boroughs/lola) is Vekllei's historic cap
 ### [<span class="smallicon">🏖</span> Mumen](/utopia/landscape/boroughs/mumen)
 The borough of [Mumen](/utopia/landscape/boroughs/mumen) is a seaside playground home to vibrant immigrant fusion cultures. It has some of the best food in Vekllei, and its beaches bring visitors from all over the island.
 {{</hint>}}
+
+<!--{{< hint green >}}
+### [<span class="smallicon">✈️</span> Pharos](/utopia/landscape/boroughs/pharos)
+The borough of [Pharos](/utopia/landscape/boroughs/pharos) is Vekllei's 'aviation borough,' renowned for its highly-regarded aerospace manufacturing, being the home of Vekllei's flag-carrying airline, and the site of the [Vekllei World Jetport](/utopia/landscape/boroughs/pharos/#vekllei-world-jetport).
+{{</hint>}}-->
 
 {{< hint green >}}
 ### [<span class="smallicon">💧</span> Voya Voya](/utopia/landscape/boroughs/voya-voya)
