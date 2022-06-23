@@ -16,7 +16,7 @@ bookHidden: true
 
 description: The Commonwealth of Kalina is an administrative region of the Commonwealth of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
-keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+ 
 ---
 {{< hint green >}}
 ߷ This article is about an [**overseas member**](/utopia/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/utopia/vekllei)

@@ -16,7 +16,7 @@ image: https://images.millmint.net/images/liminal.jpg
 
 description: The people of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
-keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+ 
 ---
 {{< hint >}}
 ߷ This article is about [**Hobart's characters**](/intro/#three-utopias), who live in [**Vekllei**](/utopia/vekllei)

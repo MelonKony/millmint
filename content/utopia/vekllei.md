@@ -18,7 +18,7 @@ toc: true
 
 description: Vekllei is a utopia created by Hobart Phillips.
 author: Hobart Phillips
-keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+ 
 ---
 
 ## Overview

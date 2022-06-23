@@ -17,7 +17,7 @@ autonumbering: true
 weight: 2
 description: The government of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
-keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+ 
 ---
 
 ## Overview

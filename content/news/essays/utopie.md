@@ -13,7 +13,7 @@ autonumbering: true
 
 description: Notes on utopie concrète, a new movement for utopian fiction.
 author: Hobart Phillips
-keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+ 
 ---
 {{< hint >}}
 **❖ Note from the Editor**

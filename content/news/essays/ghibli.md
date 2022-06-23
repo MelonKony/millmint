@@ -13,7 +13,7 @@ autonumbering: true
 
 description: An essay on spatiality in the films of Studio Ghibli by Hobart Phillips, a utopian illustrator and storyteller.
 author: Hobart Phillips
-keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+ 
 ---
 
 {{< hint >}}

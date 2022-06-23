@@ -13,7 +13,7 @@ autonumbering: true
 
 description: An essay on the 2020 Hong Kong Protests by Hobart Phillips, a utopian illustrator and storyteller.
 author: Hobart Phillips
-keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+ 
 ---
 {{< hint >}}
 **❖ Note from the Editor**

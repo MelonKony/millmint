@@ -5,7 +5,7 @@ bookHidden: true
 bookSearchExclude: true
 description: The National Mint of Vekllei is the producer of currency in Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
-keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+ 
 ---
 <style>
 .markdown a {

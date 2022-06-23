@@ -13,7 +13,7 @@ toc: false
 
 description: An essay on visiting Tokyo by Hobart Phillips, a utopian illustrator and storyteller.
 author: Hobart Phillips
-keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+ 
 ---
 {{< hint >}}
 **❖ Note from the Editor**

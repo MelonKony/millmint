@@ -16,7 +16,7 @@ autonumbering: true
 
 description: The Royal Mail of Vekllei is the national postal organisation of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
-keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+ 
 ---
 
 ## Overview

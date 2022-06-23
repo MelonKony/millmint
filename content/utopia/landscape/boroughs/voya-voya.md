@@ -15,7 +15,7 @@ weight: 1
 
 description: The borough of Voya Voya is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
-keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+
 ---
 {{< hint >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)

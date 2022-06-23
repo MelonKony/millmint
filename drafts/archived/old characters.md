@@ -3,7 +3,7 @@ title: Characters
 weight: 2
 description: The people of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
-keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+ 
 ---
 <style>
 .markdown a {

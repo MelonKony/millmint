@@ -15,7 +15,7 @@ bookHidden: true
 
 description: The Vekllei Antarctic Territories are an administrative region of the Commonwealth of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
-keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+ 
 ---
 {{< hint green >}}
 ߷ This article is about a [**dependent territory**](/utopia/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/utopia/vekllei)

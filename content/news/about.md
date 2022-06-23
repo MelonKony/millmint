@@ -15,7 +15,7 @@ comments: false
 
 description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
 author: Hobart Phillips
-keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+ 
 ---
 <!--{{<section>}}
 ![smallimg](https://images.millmint.net/images/mastheads/author.png)

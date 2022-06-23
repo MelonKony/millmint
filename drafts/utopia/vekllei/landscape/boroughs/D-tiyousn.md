@@ -10,7 +10,7 @@ color: green
 weight: 1
 description: The borough of Tiyousn is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
-keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+ 
 ---
 
 ![img](/images/orange.jpg)

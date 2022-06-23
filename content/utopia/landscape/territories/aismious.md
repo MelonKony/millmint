@@ -14,7 +14,7 @@ weight: 1
 
 description: The Commonwealth of Aismious is an administrative region of the Commonwealth of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
-keywords: illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+ 
 ---
 {{< hint green >}}
 ߷ This article is about an [**independent territory**](/utopia/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/utopia/vekllei)
