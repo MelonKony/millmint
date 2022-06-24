@@ -1,6 +1,6 @@
 .headerbox {  
   display: grid;
-  grid-template-columns: 0fr 1fr .25fr fit-content(20%);
+  grid-template-columns: 0fr 1fr .35fr fit-content(20%);
   grid-template-rows: 1fr 20% 20%;
   gap: .15rem 0px;
   grid-auto-flow: row;
@@ -26,7 +26,6 @@
 .emoji {
 	grid-area: emoji;
 	display: grid;
-	align-items: end;
 	justify-items: end;
 	font-family: 'Whirlybats';
 	font-weight: normal;

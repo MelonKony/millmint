@@ -38,32 +38,15 @@ nav {
       > a.menu-link {
         @include font-medium;
         padding: 0;
-        color: var(--color-gray);
       }
 
       &:hover {
         border-bottom-color: var(--body-font-color);
-
-        > a {
-          color: var(--color-navbar-item-active);
-        }
       }
     }
-
-    .navbar-item.active {
-      border-bottom-color: var(--color-navbar-item-active);
-
-      > a {
-        color: var(--color-navbar-item-active);
-      }
-    }
-
-    .navbar-item.insection {
-      border-bottom-color: var(--color-navbar-item-in-section);
-
-      > a {
-        color: var(--color-navbar-item-in-section);
-      }
+    
+    .navbar-item.active.navicon {
+      color: var(--body-font-color);
     }
 }
 
@@ -72,7 +55,7 @@ nav {
 }
 
 .navbar a {
-    
+  filter: brightness(35%);
 }
 
 .navbar-dropdown li {
@@ -233,25 +216,6 @@ nav {
   margin: .3em 0;
 }
 
-.pure-menu-horizontal {
-  .menu-dropdown .pure-menu-separator {
-    background-color: #ccc;
-    height: 1px;
-    margin: .3em 0;
-  }
-
-  .pure-menu-separator {
-    width: 1px;
-    height: 1.3em;
-    margin: 0 0.3em;
-  }
-
-  .menu-dropdown .pure-menu-separator {
-    display: block;
-    width: auto;
-  }
-}
-
 /* Need to reset the separator since submenu is vertical */
 
 .pure-menu-heading {
@@ -279,14 +243,6 @@ nav {
   }
 }
 
-.pure-menu-selected > .menu-link {
-  color: var(--color-navbar-item-active);
-
-  &:visited {
-    color: var(--color-navbar-item-active);
-  }
-}
-
 .left {
   margin-left: auto;
   justify-content: initial;
@@ -300,7 +256,6 @@ nav {
 .navicon {
   font-family: 'Emoji'!important;
   font-weight: normal;
-  color: var(--body-font-color);
   margin-right: 4px;
 }
 

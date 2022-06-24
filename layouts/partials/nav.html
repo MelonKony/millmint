@@ -1,7 +1,7 @@
 <nav>
   {{- $currentPage := . -}} {{- $currentUrl := .RelPermalink -}} {{- $isHome :=
   .IsHome -}}
-  <ul class="navbar left">
+  <ul class="navbar left {{ .Params.Color }}">
     {{- range .Site.Menus.navbar -}} {{ $navbar_decoration := "" }} {{- if $currentPage.IsMenuCurrent "navbar" . -}} {{ $navbar_decoration = "active"}} {{- else if eq $currentUrl .URL -}} {{ $navbar_decoration = "active" }}
     {{- else if in ($currentUrl|lower) (.URL|lower) -}} {{ $navbar_decoration =
     "insection" }} {{- end -}} {{- if .Children -}}
@@ -25,7 +25,7 @@
     </li>
     {{- end -}} {{- end -}}
   </ul>
-  <ul class="navbar right">
+  <ul class="navbar right {{ .Params.Color }}">
     <li class="navbar-item ">
       <a
         href="https://forums.millmint.net"

@@ -1226,23 +1226,17 @@ nav {
     border-bottom: 2px solid transparent; }
     .navbar .navbar-item > a.menu-link {
       font-weight: 500;
-      padding: 0;
-      color: var(--color-gray); }
+      padding: 0; }
     .navbar .navbar-item:hover {
       border-bottom-color: var(--body-font-color); }
-      .navbar .navbar-item:hover > a {
-        color: var(--color-navbar-item-active); }
-  .navbar .navbar-item.active {
-    border-bottom-color: var(--color-navbar-item-active); }
-    .navbar .navbar-item.active > a {
-      color: var(--color-navbar-item-active); }
-  .navbar .navbar-item.insection {
-    border-bottom-color: var(--color-navbar-item-in-section); }
-    .navbar .navbar-item.insection > a {
-      color: var(--color-navbar-item-in-section); }
+  .navbar .navbar-item.active.navicon {
+    color: var(--body-font-color); }
 
 .navbar li {
   list-style: none; }
+
+.navbar a {
+  filter: brightness(35%); }
 
 .navbar-dropdown li {
   padding: .5rem 0 .5rem 0; }
@@ -1369,20 +1363,6 @@ nav {
   height: 1px;
   margin: .3em 0; }
 
-.pure-menu-horizontal .menu-dropdown .pure-menu-separator {
-  background-color: #ccc;
-  height: 1px;
-  margin: .3em 0; }
-
-.pure-menu-horizontal .pure-menu-separator {
-  width: 1px;
-  height: 1.3em;
-  margin: 0 0.3em; }
-
-.pure-menu-horizontal .menu-dropdown .pure-menu-separator {
-  display: block;
-  width: auto; }
-
 /* Need to reset the separator since submenu is vertical */
 .pure-menu-heading {
   text-transform: uppercase;
@@ -1405,11 +1385,6 @@ nav {
 .menu-link:hover, .menu-link:focus {
   background-color: var(--color-background-hover); }
 
-.pure-menu-selected > .menu-link {
-  color: var(--color-navbar-item-active); }
-  .pure-menu-selected > .menu-link:visited {
-    color: var(--color-navbar-item-active); }
-
 .left {
   margin-left: auto;
   justify-content: initial; }
@@ -1421,7 +1396,6 @@ nav {
 .navicon {
   font-family: "Emoji" !important;
   font-weight: normal;
-  color: var(--body-font-color);
   margin-right: 4px; }
 
 @media only screen and (max-width: 500px) {
@@ -2093,7 +2067,7 @@ html { font-family: 'Inter', sans-serif; }
 }*/
 .headerbox {
   display: grid;
-  grid-template-columns: 0fr 1fr 0.25fr fit-content(20%);
+  grid-template-columns: 0fr 1fr 0.35fr fit-content(20%);
   grid-template-rows: 1fr 20% 20%;
   gap: .15rem 0px;
   grid-auto-flow: row;
@@ -2114,7 +2088,6 @@ html { font-family: 'Inter', sans-serif; }
 .emoji {
   grid-area: emoji;
   display: grid;
-  align-items: end;
   justify-items: end;
   font-family: 'Whirlybats';
   font-weight: normal;
