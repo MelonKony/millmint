@@ -1,3 +1,3 @@
 {{ with .Params.image }}
-<img class="feature-img" src={{ . | relURL }} />
+<img class="feature-img" loading="lazy" src={{ . | relURL }} />
 {{ end }}
