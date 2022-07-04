@@ -1,0 +1,118 @@
+a, body article a {
+	color: var(--color-gray);
+}
+
+article {
+  margin-bottom: 1rem!important;
+}
+
+/* details dropdown */
+
+details summary {
+  font-weight: bolder;
+}
+
+details {
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border: 0px solid var(--gray-200);
+    border-radius: .25rem;
+    background-color: var(--gray-100);
+		color: var(--body-font-light);
+		outline: none;
+}
+
+/* buttons */
+a.book-btn {
+  display: inline-block;
+  font-size: .875rem;
+  border: 1px solid var(--color-gray);
+  text-align: center;
+  padding: 0 1rem;
+  border-radius: .25rem;
+  margin-top: 1rem;
+  width: 100%;
+  line-height: 2rem;
+  cursor: pointer;
+  text-decoration: none;
+  text-align: center;
+  position: relative;
+  box-sizing: border-box;
+  font-weight: 600;
+  border: 1px solid var(--color-gray);
+  min-width: 280px;
+  width: 100%;
+  border-radius: .25rem;
+  color: var(--color-gray);
+}
+
+/* columns */
+.book-columns>div {
+  margin: 1rem 0;
+  min-width: 250px;
+  margin-right: 0rem;
+  margin-top: 0px;
+}
+
+.flex-wrap {
+	flex-wrap: wrap;
+}
+
+.flex-even {
+  flex: 1 1;
+}
+
+/* navbar border radius */
+.navbar-item-dropdown {
+  background-color: transparent;
+}
+.navbar-item-dropdown:first-child {
+  margin-bottom: -1px;
+  border-radius: 5px 5px 0 0;
+}
+.navbar-item-dropdown:last-child {
+  margin-top: -1px;
+  border-radius: 0 0 5px 5px;
+}
+
+.navbar-dropdown li {
+  background-color: transparent;
+}
+.navbar-dropdown li:first-child {
+  margin-bottom: -1px;
+  border-radius: 5px 5px 0 0;
+}
+.navbar-dropdown li:last-child {
+  margin-top: -1px;
+  border-radius: 0 0 5px 5px;
+}
+
+article > *:first-child {
+  margin-top: .5rem;
+}
+
+/* navbar fix */
+.mt-3 {
+  margin-top: 0rem;
+}
+
+body > canvas:not(#HeaderCanvas) {
+  /*Hide annoying Vibrant canvas*/
+  display: none;
+}
+
+/* fix menu dropdown bg colour */
+body header #navbar .navbar-dropdown li {
+	  background-color: var(--body-background);
+	}
+
+body header #navbar .navbar-dropdown li:hover {
+		background-color: var(--body-background);
+		filter: brightness(98%);
+	}
+.xl\:text-2xl {
+	filter: brightness(25%) !important;
+}
+/* hide menu button */
+header .menu-btn {
+		display: none;
+	}
