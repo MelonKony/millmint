@@ -127,6 +127,7 @@ function initColorEditor() {
 
 async function getColors(img, retryCount = 0, callback = setBackgroundColor) {
   try {
+    img.crossOrigin = 'anonymous'
     const vibrant = new Vibrant(img, 11);
     const swatches = vibrant.swatches();
 
