@@ -28,7 +28,7 @@ author: Hobart Phillips
 **Although Vekllei** comprises several independent commonwealths, most notably the island city-state to which it owes its name, the Commonwealth of Vekllei also includes several autonomous nations. The largest of these is a tropical archipelago of the Lesser Antilles named **Kalina**.
 {{< /hint >}}
 
-**Kalina** (commonly ***The Kalina Islands***) is a sovereign commonwealth island chain situated in the Antilles, situated south-east of the British Virgin Islands and north of Guadeloupe. In the anglophonic world, it consists of the islands of Anguilla, St Martin, St Kitts and Nevis, Antigua, Barbuda, and Montserrat. In the Kalina language, these are called Angua, Martin, Kosava, Vous, Antam, Barbuda, and Montesur respectively. These islands are federated under the Kalina government, which itself is a full member of the Vekllei commonwealth.
+**Kalina** (commonly ***The Kalina Islands***) is a sovereign commonwealth island chain situated in the Antilles, situated south-east of the British Virgin Islands and north of Guadeloupe. In the anglophonic world, it consists of the islands of Anguilla, St Martin, St Kitts and Nevis, Antigua, Barbuda, and Montserrat. In the Kalina language, these are called Angua, Martin, Liamuiga and Oualie, Antam, Barbuda, and Montesur respectively. These islands are federated under the Kalina government, which itself is a full member of the Vekllei commonwealth.
 
 
 ## Etymology

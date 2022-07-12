@@ -327,7 +327,7 @@ html {
   --color-visited-link: #1a0dab;
   --color-blue: #007aff;
   --color-brown: #a2845e;
-  --color-gray: #848489;
+  --color-gray: #5f5f69;
   --color-green: #34c759;
   --color-indigo: #5856d6;
   --color-mint: #00c7be;
@@ -408,8 +408,8 @@ a {
 
 .gray,
 .article-gray a {
-  color: #848489;
-  border-color: #848489; }
+  color: #5f5f69;
+  border-color: #5f5f69; }
 
 .gray.brand-title {
   background-color: #000000; }
@@ -1429,7 +1429,7 @@ article#collapsible_menu_changelogs {
   margin-bottom: 2rem;
   font-size: 0.875rem;
   padding: .25rem;
-  border: 2px solid var(--color-border-collapsible-menu);
+  background-color: var(--gray-100);
   border-radius: .25rem; }
   .collapsible-menu-wrapper .collapsible-menu-type span {
     font-weight: 700;
@@ -2141,7 +2141,8 @@ article blockquote h4 {
   margin-top: 0; }
 
 article hr {
-  color: var(--color-gray); }
+  color: var(--color-gray);
+  border: 1px solid; }
 
 body article blockquote {
   border-inline-start: 0.25rem solid var(--color-gray);
@@ -2601,7 +2602,7 @@ a.original-article {
   line-height: 1.25rem;
   /* 20px */
   grid-area: sitetag;
-  color: #848489;
+  color: #5f5f69;
   margin-top: -0.4rem;
   margin-bottom: 1rem;
   font-weight: 600; }
@@ -2613,7 +2614,7 @@ a.original-article {
   /* 20px */
   grid-area: pagecode;
   text-align: right;
-  color: #848489;
+  color: #5f5f69;
   opacity: 50%;
   margin-top: -0.4rem;
   margin-bottom: 1rem;
@@ -2641,7 +2642,6 @@ a.original-article {
   background-color: rgba(245, 35, 75, 0.15); }
 
 .collapsible-menu-wrapper {
-  margin-top: 0.5rem;
-  border: 1px solid var(--color-gray); }
+  margin-top: 0.5rem; }
 
 /*# sourceMappingURL=style.css.map */

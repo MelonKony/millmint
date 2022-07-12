@@ -162,7 +162,7 @@ function setBackgroundColor(rgb) {
   // Inject colors into DOM
   document.body.setAttribute(
     "style",
-    `--bg: ${bg}; --body-background: ${bodyBg}; --gray-100: ${gray100}; a: ${colorGray}; background-color: ${bg}; --color-gray: ${colorGray}`
+    `--bg: ${bg}; --body-background: ${bodyBg}; --gray-100: ${gray100}; a: ${colorGray}; background-color: ${bg}; --color-gray: ${colorGray}; --color-text: ${colorGray};`
   );
 
   // Force titles to take the color

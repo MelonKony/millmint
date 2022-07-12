@@ -3,7 +3,8 @@ article blockquote h4 {
 }
 
 article hr {
-	color: var(--color-gray)
+	color: var(--color-gray);
+	border: 1px solid;
 }
 
 body article blockquote {
