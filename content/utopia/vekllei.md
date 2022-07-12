@@ -8,7 +8,7 @@ pagecode: 200VEK
 tag: UTOPIA
 sitetag: Introduction
 color: pink
-image: https://images.millmint.net/images/lightbulb.jpg
+image: /images/vista.jpg
 
 list_posts: false
 autonumbering: true
