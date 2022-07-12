@@ -1,6 +1,6 @@
 $gray-0: #fff;
 $gray-50: #f7f7f7;
-$gray-100: #fafafa;
+$gray-100: #f0f0f6;
 $gray-150: #ededed;
 $gray-200: #e5e5e5;
 $gray-250: #dddddd;
@@ -26,22 +26,24 @@ $font-light: #666666;
 $link: #06c;
 $link-visited: #1a0dab;
 
-$blue: rgb(0, 112, 245);
-$brown: rgb(152, 122, 84);
+$blue: rgb(0, 122, 255);
+$brown: rgb(162, 132, 94);
+$cyan: rgb(50, 173, 230);
 $gray: rgb(132, 132, 137);
-$green: rgb(30, 195, 55);
-$indigo: rgb(84, 82, 204);
-$orange: rgb(245, 139, 0);
-$pink: rgb(245, 35, 75);
-$purple: rgb(159, 75, 201);
-$red: rgb(245, 49, 38);
-$teal: rgb(90, 200, 250);
-$yellow: rgb(245, 194, 0);
+$green: rgb(52, 199, 89);
+$indigo: rgb(88, 86, 214);
+$mint: rgb(0, 199, 190);
+$orange: rgb(255, 149, 0);
+$pink: rgb(255, 45, 85);
+$purple: rgb(175, 82, 222);
+$red: rgb(255, 59, 48);
+$teal: rgb(48, 176, 199);
+$yellow: rgb(255, 204, 0);
 
 $millmint: rgb(183, 63, 83);
 
 :root {
-  --gray-100: #fafafa;
+  --gray-100: #{$gray-100};
   --gray-200: #{$gray-200};
   --body-background: #{$background};
   --body-font-color: #{$font-color};
@@ -53,6 +55,7 @@ $millmint: rgb(183, 63, 83);
   --color-gray: #{$gray};
   --color-green: #{$green};
   --color-indigo: #{$indigo};
+  --color-mint: #{$mint};
   --color-orange: #{$orange};
   --color-pink: #{$pink};
   --color-purple: #{$purple};
