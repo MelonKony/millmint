@@ -117,17 +117,43 @@ Vekllei is the world's 18th largest island, and has significant biological and c
 **Politics** in Vekllei are characterised by postwar constitutional values of nonpartisan democracy and local municipalism. Political concern is aestheticised and developed along cultural and interpersonal lines -- a feature of life, but fundamentally participatory. In truth, at least with regards to domestic concern, Vekllei's daily affairs are basically autonomous, and politics remains the concern of an educated, invested class of people.
 {{< /hint >}}
 
-Vekllei is a unitary city-state and nonpartisan parliamentary democracy, divided into crown lakes, boroughs and provincial administrative divisions. It retains the territory of Vekllei as a sovereign of the country, in keeping with *Upen*, but otherwise the prime ministers have equal executive power, with disputes mediated by the Crown Senate. Vekllei retains a parliamentary system as a legacy of British occupation, but has since developed several indigenous features including its land-sovereign and twin ministership. The Vekllei system also incorporates American political features, including a constitution and bicameral house system.
+The Vekllei Commonwealth is a federated superstate including [six individual commonwealths](/utopia/vekllei/#commonwealth-member-states) which share political features modelled after the Vekllei Islands. Sovereignty is afforded to the territory of Vekllei through an indigenous land-metaphysic called the **Crown Sovereign**. The physical representative of the Crown Sovereign, an intangible metaphysical constant, is called the **Palace of the Vekllei Commonwealth**, which enshrines the floral constitution and retains control over the armed forces.
 
-Vekllei's government is portioned between three branches:
+Beneath the Palace is the **Commonwealth Parliament**, which manages affairs that concern all commonwealth member-states, including standardisation of education, protection of culture, and intelligence gathering. The Commonwealth Parliament unites the resources of individual **Island Commonwealths** (called Islands here for simplicity), and standardises their political features. Island Commonwealths may have their own sovereign member-states, as in the case of the Kalina and Antilles Commonwealths. These small nation-states are called **Cherishes** and retain their own parliamentary governments.
 
-* **The Legislature**, represented by Vekllei's bicameral parliament and the landscape sovereign.
-* **The Executive**, represented by the prime ministers and the elected ministerial cabinet.
-* **The Judiciary**, represented by the High Court and Constitutional Court of Vekllei, whose judges are appointed by the lower house and cabinet.
+In total, there are four national governments sharing overlapping sovereignty over individual Vekllei countries. Together, they form a tremendous superstate with sovereignty over most of the Atlantic.
 
-Vekllei uses a Hare-Clark single transferable vote system to elect two prime ministers, one man and one woman, the only such system in the world. Vekllei has a bicameral legislature, consisting of an upper house (the *Crown Senate*) of 100 senators and a lower house (*People's Assembly*) of 200 members. Although voting is participatory and the country does not maintain a poll tax, electoral enrolment is mandatory from age 16 onwards.
+1. **The Crown** -- the physical nature of territory belonging to the Vekllei Commonwealth, represented in human affairs by the Palace
+2. **The Commonwealth Parliament** -- the highest human multinational parliament and elected cabinet
+3. **The Island Parliaments** -- self-managing regional governments, functionally similar to traditional nation-states
 
-Since Vekllei is nonpartisan, it does not allow formal participation of parties within elections. Despite this, informal associations of elected representatives exist, in the form of *sociopartit*, or *Party Associations*. The largest of these include the Vekllei Industrial Working Concern, the Atlantic Party, and the Crown Brotherhood, and although membership is permitted among elected members they are otherwise disallowed within the electoral process.
+And, in the case of Cherishes, which are individual republics within island commonwealths:
+
+4. **The National Parliaments** -- local, traditionally republican governments that have further concessions to boroughs, councils, municipalities and villages
+
+Constituent member-states of the Commonwealth (the 'Island Parliaments') have two prime ministers that represent their national governments in the Commonwealth parliament. In most Islands, prime ministers include one man and one woman, with the exception of Kala. Elections are conducted with a Hare-Clark single transferable vote system to elect the prime ministers and bicameral legislatures, usually consisting of an upper house (a *Crown Secretariat*) and a lower house (*Assembly*). All voting in Vekllei is participatory and the superstate does not enforce a poll tax at any level of government. However, Island Parliaments require electoral enrolment from age 16 onwards.
+
+Since Vekllei governments are nonpartisan, they do not allow formal participation of parties within elections. Despite this, informal associations of elected representatives exist, in the form of *sociopartit*, or *Party Associations*. The largest of these include the Vekllei Industrial Working Concern, the Atlantic Party, and the Crown, and although membership is permitted among elected members they are otherwise disallowed within the electoral process.
+
+Governance in almost all levels of Vekllei government can be arranged along three branches, which scale from small village municipalities to the very Crown itself.
+
+* **A Parliament**, including bicameral houses, petty legislatures, municipalities and the Palace.
+* **A Government**, including prime ministers and an elected ministerial cabinet.
+* **A Judiciary**, including both the High Court and Constitutional Court of Vekllei as well as tiny petty magistratures and council courts
+
+<!--#### The Crown
+
+**The Crown** (also the *Palace of the Commonwealth*, commonly the *Sovereign*) is the 
+
+#### The Commonwealth
+
+**The Commonwealth** (also the *Commonwealth of Vekllei* or the *Atlantic Commonwealth*) is an international superstate of six Island Commonwealths, called Islands to distinguish them here.
+
+#### The Islands
+
+#### The Cherishes
+
+A **Cherish** is a type of sovereign republic that self-governing and autonomous, but generally does not retain the right to secede from its Island Commonwealth. Cherishes range in size and population dramatically, and were designed to empower cultural identities splintered by the multinational Commonwealth system. Cherishes elect their own prime ministers and retain their own ministries, but commonly are dependent on larger governments for training, staffing and some services. -->
 
 ### Administrative divisions
 

@@ -32,7 +32,7 @@ author: Hobart Phillips
 {{<section>}}
 <img alt="smallimg" style="background-color: transparent;" src="https://images.millmint.net/images/mastheads/characters/zelda.png">
 
-**Tzipora lo Ula de Helette Desmoisnes** is the main character and [character utopia](/intro/#three-utopias) of this project. Often called Zelda by her friends, she is the protagonist of this story and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with [Gregori Syndrome](/posts/2021-05-28-forever/), a genetic disorder that affects her ageing and extends her natural life. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising the neurotic parts of her personality and making her happy.
+**Tzipora lo Ula de Helette Desmoisnes**, often called **Zelda** by her friends, is the main character of this project. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teenage years that she was formally diagnosed with [Gregori Syndrome](/posts/2021-05-28-forever/), a genetic disorder that affects her ageing and extends her natural life. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising the neurotic parts of her personality and blessing her new life with companionship.
 
 {{< button href="/tags/tzipora" >}}See all stories featuring Tzipora{{< /button >}}
 {{</section>}}

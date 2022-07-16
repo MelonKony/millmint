@@ -13,10 +13,12 @@ author: Hobart Phillips
  
 ---
 <div class="shop-title">
-  <a href="/shop/">
   <img stye="pointer-events: none; cursor: default;" src="/images/mastheads/shop/shop.png">
-  </a>
 </div>
+
+{{<hint panel>}}
+**Looking for prints?** [Visit the print shop](https://www.inprnt.com/gallery/melonkony/)
+{{</hint>}}
 
 <br>
 
@@ -53,8 +55,8 @@ author: Hobart Phillips
   display: none;
 }
 
-img:hover, a:hover {
-  transform: none;
+article a:hover{
+  filter: none;
 }
 
 @media screen {

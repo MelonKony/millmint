@@ -753,7 +753,8 @@ h1:hover a.anchor, h1 a.anchor:focus, h2:hover a.anchor, h2 a.anchor:focus, h3:h
   opacity: initial; }
 
 article {
-  line-height: 1.7; }
+  line-height: 1.7;
+  margin-block-start: 2rem; }
   article > *:last-child {
     margin-bottom: 0; }
   article hr {

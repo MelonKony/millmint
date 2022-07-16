@@ -1,9 +1,9 @@
 {{ $enable_line_no := (.Scratch.Get "params").syntax_highlight.prism.enable_line_no | default true }}
 {{ partial "headerbox" . }}
 {{ partial "meta" . }}
+{{ partial "toc.html" . }}
 
 <article {{ if $enable_line_no }}class="line-numbers"{{ end }}{{- if .Param "autonumbering" }} autonumbering {{- end }}>
-    {{ partial "toc.html" . }}
     {{- partial "archive.html" . -}}
     {{ $content := .Content | replaceRE "<table>" "<table class=\"mc-table\">" }}
     {{ if eq (.Scratch.Get "params").syntax_highlight.lib "prism.js" }}
