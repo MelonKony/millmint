@@ -1371,7 +1371,7 @@ article#collapsible_menu_changelogs {
   list-style: none; }
   .breadcrumbs a {
     color: var(--color-text);
-    border-bottom: 2px solid transparent; }
+    border-bottom: 1px solid transparent; }
     .breadcrumbs a:hover {
       border-bottom-color: var(--color-text-secondary); }
   .breadcrumbs li {
@@ -1972,7 +1972,7 @@ html { font-family: 'Inter', sans-serif; }
   height: auto;
   width: auto;
   font-size: 1.7rem;
-  margin-bottom: .25rem;
+  margin-bottom: .5rem;
   margin-right: .25rem;
   filter: brightness(35%);
   justify-content: center;
@@ -2479,8 +2479,5 @@ a.article-button {
 
 .search ul li {
   list-style: none; }
-
-.collapsible-menu-wrapper {
-  margin-top: 0.5rem; }
 
 /*# sourceMappingURL=style.css.map */
