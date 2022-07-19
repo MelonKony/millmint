@@ -5,14 +5,17 @@ fulltitle: A Vekllei Spaceship
 date: 2022-05-30
 rgb: 195, 54, 70
 
-tags:
+tags: 
 - 2022
+- post
 categories:
+- story
 - landscape
 keywords:
 - 2022
 image:  https://images.millmint.net/images/lightbulb.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/v15une/a_vekllei_spaceship/
+print: https://www.inprnt.com/gallery/melonkony/apollo-interstellar-transport/
 ---
 
 ### A New Frontier

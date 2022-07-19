@@ -11,6 +11,7 @@ tags:
 - coretti
 - moise
 categories:
+- story
 - landscape
 keywords:
 - post

@@ -16,7 +16,7 @@ a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, bo
 }
 </style>
 
-<div id="headerbox">
+<div id="article-info">
 <h1 class="title">MillMint Live</h1>
 <h1 class="emoji" id="whirlybat">-video</h1>
 </div>

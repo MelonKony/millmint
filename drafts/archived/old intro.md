@@ -19,12 +19,12 @@ color: var(--color-pink);
 aside nav ul a {
 color: var(--color-pink);
 }
-#headerbox .emoji {
+#article-info .emoji {
 color: var(--color-pink);
 }
 </style>
 
-<div id="headerbox">
+<div id="article-info">
   <h1 class="title">Welcome to the Epoch of Rest</i></h1>
   <h1 class="emoji" id="whirlybat">S</h1>
 </div>

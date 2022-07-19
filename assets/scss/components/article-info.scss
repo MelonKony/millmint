@@ -1,4 +1,4 @@
-.headerbox {  
+.article-info {  
   display: grid;
   grid-template-columns: 0fr 1fr .35fr fit-content(20%);
   grid-template-rows: 1fr 20% 20%;
@@ -7,7 +7,7 @@
   grid-template-areas: 
   	"title title emoji"
   	"icon tag emoji"
-  	"icon sitetag emoji"; 
+  	"icon category emoji"; 
   }
 
 .title {
@@ -27,6 +27,7 @@
 	grid-area: emoji;
 	display: grid;
 	justify-items: end;
+	align-content: center;
 	font-family: 'Whirlybats';
 	font-weight: normal;
 	font-style: normal;
@@ -55,8 +56,8 @@
 	height: auto;
 	width: auto;
 	font-size: 1.7rem;
-	margin-right: .25rem;
 	margin-bottom: .25rem;
+	margin-right: .25rem;
 	filter: brightness(35%);
 	justify-content: center;
 	align-content: center;

@@ -1,13 +1,14 @@
 ---
 title: Voya Voya
-
 fulltitle: The Borough of Voya Voya
 icon: 💧
 emoji: g
-tag: LANDSCAPE
-sitetag: Boroughs
 color: green
-pagecode: 2314VYA
+
+tags: 
+  - borough
+categories:
+  - commonwealth
 
 image: https://images.millmint.net/images/rivers.jpg
 autonumbering: true
@@ -17,11 +18,12 @@ description: The borough of Voya Voya is an administrative region of Vekllei, a 
 author: Hobart Phillips
 
 ---
+
+## Overview
+
 {{< hint >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
-
-## Overview
 
 **The borough of Voya Voya** is an administrative region in southwest Vekllei, located in the Capital Region north of Coyenstisn and east of Lo. It covers the entire area of Voya Voya, a city of some 450,000 people in the capital's extended metro area renowned for its parkland and green spaces. Voya Voya makes up part of the capital's satellite belt of boroughs, characterised by green space and mixed-use residential planning. Voya Voya is often referred to as the capital's "garden borough" for its density and quality of parkland and forest reserves.
 

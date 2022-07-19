@@ -10,6 +10,7 @@ tags:
     - tzipora
     - cobian
 categories:
+    - story
     - character
 keywords:
     - post

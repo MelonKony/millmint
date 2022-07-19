@@ -4,10 +4,12 @@ title: Lita
 fulltitle: The Borough of Lita
 icon: 🚀
 emoji: g
-tag: LANDSCAPE
-sitetag: Boroughs
 color: green
-pagecode: 236LTA
+
+tags: 
+  - borough
+categories:
+  - commonwealth
 
 image: https://images.millmint.net/images/rocket.jpg
 autonumbering: true
@@ -16,11 +18,12 @@ description: The borough of Lo is an administrative region of Vekllei, a utopian
 author: Hobart Phillips
 
 ---
+
+## Overview
+
 {{< hint >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
-
-## Overview
 
 **The borough of Lita** is an administrative region in the east of Vekllei, located in the Lava Region west of Copette and south-east of [Krafla](/utopia/landscape/boroughs/krafla/). It is named after Lita, its largest population centre and science town nestled in the glacial basins made by millions of years of freshwater runoff. It is well-known in Vekllei as the site of the Lita Cosmodrome, the primary launch site for industrial and scientific spacecraft. It is also the *de facto* headquarters of the *Cosmos Office* (Cosmoburo), even if its operations remain *de jure* centred in Vekllei Proper. The population of the town of Lita and its neighbouring villages is heavily affected by the Cosmodrome, transforming the borough into one of the primary astronomy and astrophysics hubs of the country.
 

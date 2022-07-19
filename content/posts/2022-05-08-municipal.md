@@ -5,10 +5,12 @@ fulltitle: The Good; The Municipal
 date: 2022-05-08
 rgb: 237, 175, 50
 
-tags:
+tags: 
 - 2022
+- post
 - tzipora
 categories:
+- story
 - landscape
 keywords:
 - 2022

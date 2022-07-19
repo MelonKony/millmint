@@ -8,6 +8,7 @@ tags:
     - 2019
     - baron
 categories:
+    - story
     - archive
 keywords:
     - post

@@ -3,10 +3,12 @@ title: Religion
 fulltitle: Religion in Vekllei
 icon: 💀
 emoji: d
-tag: CULTURE
-sitetag: Article
-pagecode: 221REL
 color: red
+
+tags: 
+  - culture
+categories:
+  - society
 
 image: https://images.millmint.net/images/death.jpg
 autonumbering: true

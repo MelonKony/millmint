@@ -9,6 +9,7 @@ tags:
     - pachinki
     - tzipora
 categories:
+    - story
     - character
 keywords:
     - post

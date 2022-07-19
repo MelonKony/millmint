@@ -4,10 +4,12 @@ title: Krafla
 fulltitle: The Borough of Krafla
 icon: 🗼
 emoji: g
-tag: LANDSCAPE
-sitetag: Boroughs
 color: green
-pagecode: 235KFL
+
+tags: 
+  - borough
+categories:
+  - commonwealth
 
 image: https://images.millmint.net/images/liminal.jpg
 autonumbering: true
@@ -16,11 +18,12 @@ description: The borough of Krafla is an administrative region of Vekllei, a uto
 author: Hobart Phillips
 
 ---
+
+## Overview
+
 {{< hint >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
-
-## Overview
 
 **The borough of Krafla** is an administrative region in the north of Vekllei, located in the Lava Region around the Joskuslsa river, north of [Lita](/utopia/landscape/boroughs/lita/) and south of Kotaismoyeh. The town of Krafla makes up part of a belt of borough capitals along the banks of the Joskuslsa river, formed by glacial runoff from the Vatnayoskusl glacier. It is a sparsely-populated and agricultural borough, and most notable as the site of Vekllei's first hydroelectric power plant, which was destroyed in the Krafla Dam Disaster in 1911.
 

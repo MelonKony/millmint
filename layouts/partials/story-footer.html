@@ -1,7 +1,13 @@
-<div class="articlelinks">
+<div class="story-footer">
   <div class="next-post alignleft">
     {{ if .NextInSection }}
       <a class="link-reverse" href="{{ .NextInSection.Permalink }}?ref=footer">← {{ .NextInSection.Title | truncate 50 "..." }}</a>
+    {{ end }}
+  </div>
+  <div>
+    <!-- inPRNT shop link -->
+    {{ if .Params.print }}
+      <a class="article-button" href="{{ .Params.print }}"><span class="smallicon" style="font-size: 14px;">🖼</span> Buy this print</a>
     {{ end }}
   </div>
   <div class="next-post alignright">

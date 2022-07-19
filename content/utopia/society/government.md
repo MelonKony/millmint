@@ -1,12 +1,16 @@
 ---
 title: Government
-
 fulltitle: Government of the Vekllei Commonwealth
 icon: 🪙
 emoji: Ζ
-tag: SOCIETY
-sitetag: Article
 color: teal
+
+tags: 
+  - government
+categories:
+  - society
+  
+draft: true
 
 image: https://images.millmint.net/images/gov.jpg
 
@@ -14,7 +18,6 @@ list_posts: false
 autonumbering: true
 comments: false
 
-weight: 2
 description: The government of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 keywords: government, illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint

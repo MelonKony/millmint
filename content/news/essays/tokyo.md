@@ -4,11 +4,13 @@ title: A Cashless Tokyo
 fulltitle: A Cashless Tokyo
 icon: 🍜
 emoji: 9
-tag: ESSAY
-sitetag: Newsdesk
 color: blue
 
-weight: 10
+tags: 
+  - essay
+categories:
+  - news
+
 toc: false
 
 description: An essay on visiting Tokyo by Hobart Phillips, a utopian illustrator and storyteller.

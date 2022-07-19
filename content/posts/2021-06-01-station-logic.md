@@ -9,6 +9,7 @@ tags:
 - tzafi
 - aleph
 categories:
+- story
 - landscape
 keywords:
 - post

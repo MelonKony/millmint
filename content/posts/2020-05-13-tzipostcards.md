@@ -9,6 +9,7 @@ tags:
     - 2020
     - tzipora
 categories:
+    - story
     - author
 keywords:
     - post

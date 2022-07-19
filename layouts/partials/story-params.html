@@ -1,0 +1,18 @@
+<!-- original reddit "archive" link -->
+{{ if in .Params.categories "archive" }}
+  <blockquote class="hint">
+    <span class="smallicon" style="font-size: 14px;">⚠️</span> This article is <a href="/categories/archive/">archived</a>, and <b>should be considered non-canon</b>.
+  </blockquote>
+{{ end }}
+
+<!-- hides tag and category elements for posts -->
+{{ if in .Params.categories "story" }}
+  <style>
+    .tag {
+      display: none;
+    }
+    .category {
+      display: none;
+    }
+  </style>
+{{ end }}

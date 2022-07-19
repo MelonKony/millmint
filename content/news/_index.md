@@ -3,11 +3,12 @@ title: News
 fulltitle: News
 icon: 📕
 emoji: ʠ
-pagecode: 200VEK
-
-tag: UTOPIA
-sitetag: Introduction
 color: millmint
+
+tags: 
+  - utopia
+categories:
+  - intro
 
 list_posts: false
 autonumbering: true

@@ -9,6 +9,7 @@ tags:
     - tzipora
     - cobian
 categories:
+    - story
     - archive
 keywords:
     - post

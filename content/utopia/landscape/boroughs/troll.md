@@ -1,13 +1,14 @@
 ---
 title: Troll
-
 fulltitle: The Borough of Troll
 icon: 🐉
 emoji: g
-tag: LANDSCAPE
-sitetag: Boroughs
 color: green
-pagecode: 2313TRL
+
+tags: 
+  - borough
+categories:
+  - commonwealth
 
 image: https://images.millmint.net/images/orange.jpg
 autonumbering: true
@@ -17,11 +18,12 @@ description: The borough of Troll is an administrative region of Vekllei, a utop
 author: Hobart Phillips
 
 ---
+
+## Overview
+
 {{< hint >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
-
-## Overview
 
 **The borough of Troll** is an administrative region in southwest Vekllei, located in the Lava Region directly north of the glacier of Vatnayoskusl. Situated on the sloping north face of the Vekllei Glacier Highlands, the borough is home to several outlet glaciers flowing out of Vatnayoskusl's ice cap.
 

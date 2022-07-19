@@ -4,10 +4,12 @@ title: Ou
 fulltitle: The Borough of Ou
 icon: 🛶
 emoji: g
-tag: LANDSCAPE
-sitetag: Boroughs
 color: green
-pagecode: 2311BOU
+
+tags: 
+  - borough
+categories:
+  - commonwealth
 
 image: https://images.millmint.net/images/hydro.jpg
 autonumbering: true
@@ -16,11 +18,12 @@ description: The borough of Ou is an administrative region of Vekllei, a utopian
 author: Hobart Phillips
 
 ---
+
+## Overview
+
 {{< hint >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
-
-## Overview
 
 **The borough of Ou** is an administrative region in the central Ro Highlands of Vekllei, located southwest of Laisiyo and north of Kyala. It is named after Ou, a prominent agricultural town of Vekllei's Middle Period that was transformed in the 20th Century into the cultural and military centre of the Ro Region. At nearly 1.2 million residents, Ou was narrowly excluded from becoming one of Vekllei's five Crown Boroughs in 2021, but remains the second-largest borough of the Ro Highlands, after Lonne. Its importance to [Upen](/utopia/culture/religion/) leads most Upen-observing Vekllei people to regard Ou as a sacred borough.
 

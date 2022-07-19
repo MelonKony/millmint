@@ -1,17 +1,16 @@
 ---
 title: Kala
-
 fulltitle: Kala Commonwealth
 icon: 🗻
 emoji: g
-tag: LANDSCAPE
-sitetag: Boroughs
 color: green
 
-image: 
+tags: 
+  - states
+categories:
+  - commonwealth
 
-weight: 1
-bookHidden: true
+image: 
 
 description: The Kala Commonwealth is an administrative region of the Commonwealth of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips

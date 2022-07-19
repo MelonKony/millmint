@@ -4,9 +4,12 @@ title: Ghibli
 fulltitle: A Universal Nostalgia
 icon: 🫧
 emoji: V
-tag: ESSAY
-sitetag: Newsdesk
 color: blue
+
+tags: 
+  - essay
+categories:
+  - news
 
 weight: 1
 autonumbering: true

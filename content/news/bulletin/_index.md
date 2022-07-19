@@ -3,9 +3,12 @@ title: Bulletin
 fulltitle: The Petticoat Research Bulletin
 icon: 💾
 emoji: O
-tag: BULLETIN
-sitetag: Newsdesk
 color: indigo
+
+tags: 
+  - bulletin
+categories:
+  - news
 
 autonumbering: true
 

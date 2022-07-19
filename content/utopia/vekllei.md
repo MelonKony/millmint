@@ -3,12 +3,13 @@ title: Vekllei
 fulltitle: Commonwealth of Vekllei
 icon: 🎋
 emoji: ←
-pagecode: 200VEK
-
-tag: UTOPIA
-sitetag: Introduction
 color: pink
 image: /images/vista.jpg
+
+tags: 
+  - states
+categories:
+  - commonwealth
 
 list_posts: false
 autonumbering: true
@@ -18,7 +19,6 @@ toc: true
 
 description: Vekllei is a utopia created by Hobart Phillips.
 author: Hobart Phillips
- 
 ---
 
 ## Overview

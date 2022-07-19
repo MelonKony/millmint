@@ -13,7 +13,7 @@ color: var(--color-teal);
 }
 </style>
 
-<div id="headerbox">
+<div id="article-info">
   <h1 class="title">Tzipora Desmoisnes</h1>
   <h1 class="emoji">🦩</h1>
 </div>

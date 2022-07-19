@@ -5,8 +5,9 @@ fulltitle: Moments in Woodbridge
 date: 2022-04-28
 rgb: 25, 139, 231
 
-tags:
+tags: 
 - 2022
+- post
 categories:
 - blog
 keywords:

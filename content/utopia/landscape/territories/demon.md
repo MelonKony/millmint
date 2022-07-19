@@ -1,16 +1,16 @@
 ---
 title: Demon
-
 fulltitle: The Demon Island Commonwealth
 icon: 👹
 emoji: g
-tag: LANDSCAPE
-sitetag: Boroughs
 color: green
 
-image: 
+tags: 
+  - states
+categories:
+  - commonwealth
 
-weight: 1
+image: 
 
 description: The Commonwealth of Demon is an administrative region of the Commonwealth of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips

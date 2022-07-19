@@ -5,7 +5,9 @@ fulltitle: The Vekllei Coast Guard
 date: 2021-11-14
 tags:
 - 2021
+- post
 categories:
+- story
 - landscape
 keywords:
 - 2021

@@ -8,6 +8,7 @@ tags:
 - 2021
 - ayn
 categories:
+- story
 - character
 keywords:
 - post

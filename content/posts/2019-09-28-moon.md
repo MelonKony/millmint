@@ -7,6 +7,7 @@ tags:
     - post
     - 2019
 categories:
+    - story
     - landscape
 keywords:
     - post

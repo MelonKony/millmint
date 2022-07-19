@@ -1,18 +1,16 @@
 ---
 title: Kalina
-
 fulltitle: The Island Commonwealth of Kalina
 icon: 🏝
 emoji: g
-tag: LANDSCAPE
-sitetag: Boroughs
 color: green
-pagecode: 2321KAL
+
+tags: 
+  - states
+categories:
+  - commonwealth
 
 image: https://images.millmint.net/images/marinerailway.jpg
-
-weight: 1
-bookHidden: true
 
 description: The Commonwealth of Kalina is an administrative region of the Commonwealth of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips

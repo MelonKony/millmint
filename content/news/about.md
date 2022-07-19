@@ -1,12 +1,14 @@
 ---
 title: About
-weight: "1"
 fulltitle: About the Author
 icon: 🪺
 emoji: v
-tag: CONTACT
-sitetag: Newsdesk
 color: yellow
+
+tags: 
+  - about
+categories:
+  - news
 
 image: https://images.millmint.net/images/intro.gif
 

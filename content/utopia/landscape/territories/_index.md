@@ -3,10 +3,14 @@ title: Territories
 fulltitle: The Territories of the Vekllei Commonwealth
 icon: 🌎
 emoji: g
-tag: LANDSCAPE
-sitetag: Introduction
 color: green
-pagecode: 232TER
+
+tags: 
+  - states
+categories:
+  - commonwealth
+  
+draft: true
 
 image: https://images.millmint.net/images/territories.jpg
 

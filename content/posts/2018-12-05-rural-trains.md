@@ -8,6 +8,7 @@ tags:
     - sketch
     - 2018
 categories:
+    - story
     - archive
 keywords:
     - post

@@ -3,11 +3,12 @@ title: Language
 fulltitle: Language in Vekllei
 icon: 📖
 emoji: q
-tag: CULTURE
-pagecode: 220LAN
-
-sitetag: Article
 color: red
+
+tags: 
+  - culture
+categories:
+  - society
 
 image: https://images.millmint.net/images/drawing.jpg
 

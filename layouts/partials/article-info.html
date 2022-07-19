@@ -4,17 +4,17 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
 {{ end }}
 
-<div class="headerbox">
+<div class="article-info">
   <h1 class="title {{ .Params.Color }}" style="line-height: 1.2; font-size: 1.8rem; font-weight: 700; margin-bottom: 1rem; filter: brightness(35%);">{{ .Params.fulltitle }}</h1>
-  <div class="tag {{ .Params.Color }}">{{ .Params.tag }}</div>
-  <div class="sitetag {{ .Params.Color }}">{{ .Params.sitetag }}</div>
+  <div class="tag">{{ partial "taxonomies/tags.html" .}}</div>
+  <div class="category">{{ partial "taxonomies/categories.html" .}}</div>
   <span class="icon {{ .Params.Color }}" style="line-height: 1.2;">{{ .Params.icon }}</span>
   <div class="emoji {{ .Params.Color }}" id="whirlybat" style="opacity: 50%;">{{ .Params.emoji }}</div>
 </div>
 
 <div class="meta">
-  <div class="date" style="margin-left: .25rem;">{{if .Params.PublishDate}}{{- .PublishDate.Format "Monday, Jan 2, 2006" -}}{{ end }}</div>
-  <div class="post-tag" style="margin-right: .25rem;"><!--{{ partial "tags.html" .}}-->{{ partial "categories.html" .}}</div>
+  <!--<div class="post-tag" style="margin-left: .25rem;">{{ partial "taxonomies/categories.html" .}}</div>-->
+  <div class="date" style="margin-right: .25rem;">{{if .Params.PublishDate}}{{- .PublishDate.Format "Monday, Jan 2, 2006" -}}{{ end }}</div>
 </div>
 
 <script src="/js/colors.js"></script>

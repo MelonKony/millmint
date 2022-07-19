@@ -8,6 +8,7 @@ tags:
     - guide
     - 2019
 categories:
+    - story
     - author
 keywords:
     - post

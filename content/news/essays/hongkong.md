@@ -4,9 +4,12 @@ title: Hong Kong
 fulltitle: Not Long in Hong Kong
 icon: ☂️
 emoji: «
-tag: ESSAY
-sitetag: Newsdesk
 color: blue
+
+tags: 
+  - essay
+categories:
+  - news
 
 weight: 2
 autonumbering: true

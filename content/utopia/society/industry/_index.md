@@ -1,12 +1,16 @@
 ---
 title: Industry
-
 fulltitle: Industry in Vekllei
 icon: ⚙️
 emoji: l
-tag: SOCIETY
-sitetag: Article
 color: pink
+
+tags: 
+  - industry
+categories:
+  - society
+  
+draft: true
 
 image: https://images.millmint.net/images/qlc.jpg
 
@@ -14,7 +18,6 @@ list_posts: false
 comments: false
 autonumbering: true
 
-weight: 2
 description: The government of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 ---

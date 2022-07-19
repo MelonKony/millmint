@@ -8,6 +8,7 @@ tags:
     - 2019
     - tzipora
 categories:
+    - story
     - author
 keywords:
     - post

@@ -12,6 +12,8 @@ writeStats = true
 category = "categories"
 tag = "tags"
 series = "series"
+sitetag = "sitetag"
+
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]

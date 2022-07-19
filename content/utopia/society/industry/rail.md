@@ -1,12 +1,14 @@
 ---
 title: Rail
-
 fulltitle: Vekllei National Rail
 icon: 🚇
 emoji: T
-tag: SOCIETY
-sitetag: Article
 color: vnr
+
+tags: 
+  - industry
+categories:
+  - society
 
 image: https://images.millmint.net/images/orange.jpg
 
@@ -14,7 +16,6 @@ list_posts: false
 comments: false
 autonumbering: true
 
-weight: 2
 description: The railways of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
  

@@ -1,12 +1,14 @@
 ---
 title: Aismious
-
 fulltitle: The Aismious Island Commonwealth
 icon: 🎣
 emoji: g
-tag: LANDSCAPE
-sitetag: Boroughs
 color: green
+
+tags: 
+  - states
+categories:
+  - commonwealth
 
 image: 
 

@@ -1,17 +1,16 @@
 ---
 title: Mira
-
 fulltitle: The Island Commonwealth of Mira
 icon: 🛟
 emoji: g
-tag: LANDSCAPE
-sitetag: Boroughs
 color: green
 
-image: 
+tags: 
+  - states
+categories:
+  - commonwealth
 
-weight: 1
-bookHidden: true
+image: 
 
 description: The Commonwealth of Mira is an administrative region of the Commonwealth of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips

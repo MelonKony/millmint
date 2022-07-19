@@ -1,17 +1,16 @@
 ---
 title: Lunar Territories
-
 fulltitle: Vekllei Lunar Territories
 icon: 🌒
 emoji: g
-tag: LANDSCAPE
-sitetag: Boroughs
 color: green
 
-image: https://images.millmint.net/images/moon.jpg
+tags: 
+  - states
+categories:
+  - commonwealth
 
-weight: 1
-bookHidden: true
+image: https://images.millmint.net/images/moon.jpg
 
 description: The Vekllei Lunar Territories are an administrative region of the Commonwealth of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips

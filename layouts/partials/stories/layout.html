@@ -4,7 +4,7 @@
 <div class="postcard-layout content-margin">
   <ul class="post-grid">
     {{ range ($ctx.Paginator).Pages }}
-        <li class="item card leading-relaxed list-item" style="border-radius: 10px; height: 100%">
+        <li class="item card leading-relaxed list-item" style="border-radius: 5px; height: 100%">
           <a href="{{ .RelPermalink }}">
             <div class="post-info">
               <div class="post-title">
@@ -20,13 +20,11 @@
                   <span class="card-title">{{- .Title -}}</span>
                 </span>
               </div>
-              <div>
                 <div class="a-wrapper">
                   <span class="text-xs" style="font-weight: 500">
                     {{- .PublishDate.Format "2006/01/02" -}}
                   </span>
                 </div>
-              </div>
             </div>
             <div class="img-wrapper">{{ partial "meta.html" . }}</div>
           </a>
@@ -59,7 +57,7 @@
     margin-top: 2rem;
   }
   @media screen and (max-width: 56rem) {
-    #headerbox{
+    #article-info{
      margin-top: 40px;
     }
   }

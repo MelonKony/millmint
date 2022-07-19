@@ -9,6 +9,7 @@ tags:
     - tzipora
     - baron
 categories:
+    - story
     - archive
 keywords:
     - post

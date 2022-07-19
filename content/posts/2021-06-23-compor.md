@@ -8,6 +8,7 @@ tags:
 - 2021
 - tzipora
 categories:
+- story
 - landscape
 keywords:
 - post

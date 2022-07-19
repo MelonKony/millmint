@@ -4,10 +4,12 @@ title: On Moneylessness
 fulltitle: On Moneylessness
 icon: 💸
 emoji: ō
-pagecode: MONEYLESS
-tag: ESSAY
-sitetag: Newsdesk
 color: blue
+
+tags: 
+  - essay
+categories:
+  - news
 
 image: https://images.millmint.net/images/coast.jpg
 weight: 1

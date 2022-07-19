@@ -3,11 +3,13 @@ title: Miyatvousi
 
 fulltitle: The Borough of Miyatvousi
 icon: 🌋
-emoji: g
-tag: LANDSCAPE
-sitetag: Boroughs
+eemoji: g
 color: green
-pagecode: 239MYT
+
+tags: 
+  - borough
+categories:
+  - commonwealth
 
 image: https://images.millmint.net/images/hollywood.jpg
 autonumbering: true
@@ -19,11 +21,12 @@ description: The borough of Miyatvousi is an administrative region of Vekllei, a
 author: Hobart Phillips
 
 ---
+
+## Overview
+
 {{< hint >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
-
-## Overview
 
 **The borough of Miyatvousi** is an administrative region in northern Vekllei, located in the Lava Region north of Groisniyah and southwest of [Lita](/utopia/landscape/boroughs/lita/). Its area is highly volcanic and is home to several natural features, including the Gismavik Dome and the Miyatsimi Geyser Fields. The area outside of the city of Miyatvousi is sparsely populated and mostly claimed by flower-tundras and Crown Land.
 

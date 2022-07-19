@@ -9,6 +9,7 @@ tags:
     - tzipora
     - ayn
 categories:
+    - story
     - author
 keywords:
     - guide

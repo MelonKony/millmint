@@ -5,10 +5,12 @@ fulltitle: Tzipora Takes her Lunch to School
 date: 2022-03-13
 rgb: 237, 165, 155
 
-tags:
+tags: 
 - 2022
+- post
 - tzipora
 categories:
+- story
 - landscape
 keywords:
 - 2022

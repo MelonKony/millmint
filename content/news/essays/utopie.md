@@ -4,11 +4,13 @@ title: Utopie Concrète
 fulltitle: Utopie Concrète
 icon: ☕️
 emoji: K
-tag: ESSAY
-sitetag: Newsdesk
 color: blue
 
-weight: 1
+tags: 
+  - essay
+categories:
+  - news
+
 autonumbering: true
 
 description: Notes on utopie concrète, a new movement for utopian fiction.

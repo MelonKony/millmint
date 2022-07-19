@@ -4,9 +4,12 @@ weight: "2"
 fulltitle: The Atlantic Bulletin Archive
 emoji: f
 icon: 🌼
-tag: BULLETIN
-sitetag: Documents
 color: yellow
+
+tags: 
+  - bulletin
+categories:
+  - documents
 
 autonumbering: true
 

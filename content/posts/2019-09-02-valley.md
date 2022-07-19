@@ -8,6 +8,7 @@ tags:
     - 2019
     - tzipora
 categories:
+    - story
     - landscape
 keywords:
     - post

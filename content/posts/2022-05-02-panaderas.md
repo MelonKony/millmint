@@ -5,10 +5,12 @@ fulltitle: Panaderas
 date: 2022-05-02
 rgb: 209, 49, 105
 
-tags:
+tags: 
 - 2022
+- post
 - tzipora
 categories:
+- story
 - character
 keywords:
 - 2022

@@ -1,13 +1,14 @@
 ---
 title: FAQ
 fulltitle: Frequently Asked Questions
-
 icon: 🎙
 emoji: L
-
-tag: UTOPIA
-sitetag: Introduction
 color: pink
+
+tags: 
+  - utopia
+categories:
+  - intro
 
 image: https://images.millmint.net/images/drawing.jpg
 
@@ -21,7 +22,7 @@ author: Hobart Phillips
 ---
 
 <style>
-#headerbox .emoji {
+#article-info .emoji {
     margin-right: 85px;
 }
 .markdown a {
@@ -33,7 +34,7 @@ color: var(--color-red);
 aside nav ul a {
 color: var(--color-red);
 }
-#headerbox .emoji {
+#article-info .emoji {
 color: var(--color-red);
 }
 </style>

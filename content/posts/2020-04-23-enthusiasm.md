@@ -9,6 +9,7 @@ tags:
     - tzipora
     - moise
 categories:
+    - story
     - landscape
 keywords:
     - post

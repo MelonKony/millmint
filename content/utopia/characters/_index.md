@@ -1,13 +1,15 @@
 ---
 title: Characters
-
 fulltitle: Cast of Characters
 icon: 🎎
 emoji: ¥
-tag: UTOPIA
-sitetag: Introduction
-
 color: orange
+
+tags: 
+  - utopia
+categories:
+  - intro
+
 comments: false
 autonumbering: false
 list_posts: false
@@ -24,7 +26,7 @@ author: Hobart Phillips
 
 **Although almost all characters** in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. This is useful, because if you're following along with this project, you're in some small way an immigrant yourself. It's through the eyes of these people that you see Vekllei, and their lives contribute to the utopian dimensions of this project as utopias-of-living.
 
-<div class="headerbox">
+<div class="article-info">
   <h1 class="title" >Tzipora (Zelda)</h1>
   <div class="emoji" id="whirlybat">M</div>
 </div>
@@ -53,7 +55,7 @@ She is paranoid and conservative, good-natured and austere, with a moral outlook
 Tzipora may be intense and inward-facing, but she can also be disarmingly charming and self-deprecating. She has a good sense of humour. There are not many girls that can so easily reconcile the contradictions between the peculiar and the healthy, the eccentric and the friendly, and the violent and the domestic. That’s part of her character — an essence of being that radiates decency, good taste and a respect for the spirit of all things.
 {{</ details >}}
 
-<div class="headerbox">
+<div class="article-info">
   <h1 class="title" >Cobian</h1>
   <div class="emoji" id="whirlybat">F</div>
 </div>
@@ -80,7 +82,7 @@ When Tzipora meets her, Cobian is a figure of sympathy and irritation. She was d
 Some people think she's pretentious; she's not pretentious. She likes good food and is highly fashionable in her interests and styles, but Cobian is also deeply empathetic and finds interest in new things via her friends she'd never previously thought about. She makes up most of Tzipora's social life, which leaves plenty of space for Zelda's big personality and obsessions. Zelda has a deeply stablising effect on Cobian, rounding out some of her mother's strict legacy through Zelda's androgynous habits and far-fetched fascinations. But Zelda's big personality does not include much talking or grace, and in these deficiencies Cobian's social talent shines. Together they make a great pair, their neighbouring personalities aiding their best selves.
 {{</ details >}}
 
-<div class="headerbox">
+<div class="article-info">
   <h1 class="title" >Moise</h1>
   <div class="emoji" id="whirlybat">j</div>
 </div>
@@ -107,7 +109,7 @@ Moise is hot-headed and sensitive, traits that leave him feeling cornered by the
 He dislikes his parents and is protective over his younger sister, Penelope. He has some interest in making films, since he is not particularly academic and doesn't want to leave his sister for the army. He is uncomfortable with sharing his emotions, which upsets his girlfriend Coretti. Tzipora's social intimacy with him is largely due to their similar shyness of emotion and stubborn independence, which counterintuitively binds them closely.
 {{</ details >}}
 
-<div class="headerbox">
+<div class="article-info">
   <h1 class="title" >Coretti</h1>
   <div class="emoji" id="whirlybat">o</div>
 </div>
@@ -134,7 +136,7 @@ Coretti's gentle good-naturedness leaves powerful impressions on all her meet he
 Despite her apparent differences in temperament with her boyfriend Moise, Coretti spends more time around vibrant hotheads than she does placid appeasers. Perhaps this is a behaviour legacy of growing up in a large, loud family. Maybe she is just attracted to big personalities. Either way, they appreciate her for it -- her voice of reason brings them all closer together.
 {{</ details >}}
 
-<div class="headerbox">
+<div class="article-info">
   <h1 class="title" >Lin Zhi</h1>
   <div class="emoji" id="whirlybat">h</div>
 </div>

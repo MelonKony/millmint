@@ -9,6 +9,11 @@ sitetag: Introduction
 color: green
 pagecode: 230BGH
 
+tags: 
+  - borough
+categories:
+  - commonwealth
+
 image: https://images.millmint.net/images/vekllei.png
 
 weight: 1

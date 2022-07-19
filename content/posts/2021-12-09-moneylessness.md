@@ -7,9 +7,11 @@ autonumbering: true
 date: 2021-12-09
 tags:
 - 2021
+- post
 - tzipora
 - cobian
 categories:
+- story
 - landscape
 keywords:
 - 2021

@@ -8,6 +8,7 @@ tags:
     - 2017
     - tzipora
 categories:
+    - story
     - archive
 keywords:
     - post

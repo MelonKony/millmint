@@ -1,12 +1,14 @@
 ---
 title: Mail
-
 fulltitle: The Royal Mail of Vekllei
 icon: 📯
-emoji: ‡
-tag: SOCIETY
-sitetag: Article
+emoji: 6
 color: mail
+
+tags: 
+  - industry
+categories:
+  - society
 
 image: https://images.millmint.net/images/mailtrain.jpg
 

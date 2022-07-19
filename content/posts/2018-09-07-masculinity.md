@@ -7,6 +7,7 @@ tags:
     - post
     - 2018
 categories:
+    - story
     - archive
 keywords:
     - post

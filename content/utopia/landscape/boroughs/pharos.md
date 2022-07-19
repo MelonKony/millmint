@@ -4,10 +4,12 @@ title: Pharos
 fulltitle: The Borough of Pharos
 icon: ✈️
 emoji: g
-tag: LANDSCAPE
-sitetag: Boroughs
 color: green
-pagecode: 235KFL
+
+tags: 
+  - borough
+categories:
+  - commonwealth
 
 image: https://images.millmint.net/images/lightbulb.jpg
 autonumbering: true
@@ -15,11 +17,12 @@ autonumbering: true
 description: The borough of Pharos is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
 ---
+
+## Overview
+
 {{< hint >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
-
-## Overview
 
 **The borough of Pharos** is an administrative region in the south-west of Vekllei, located in the Capital Region on the Coast of the Americas, north of [Mumen](/utopia/landscape/boroughs/mumen/) and west of [Lola](/utopia/landscape/boroughs/lola/). It is best known for its [World Jetport](#vekllei-world-jetport), which supports much of its aerospace industry. Despite its international reputation as the masthead of Vekllei aerospace, Pharos is a deeply cultural borough with a rich history, and is home to residents with descendants from all over the world.
 

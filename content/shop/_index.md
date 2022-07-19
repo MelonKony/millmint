@@ -51,7 +51,7 @@ author: Hobart Phillips
   </a>-->
 
 <style>
-.headerbox {
+.article-info {
   display: none;
 }
 

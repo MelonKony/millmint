@@ -5,10 +5,12 @@ fulltitle: Transmission Towers
 date: 2022-03-23
 rgb: 161, 161, 174
 
-tags:
+tags: 
 - 2022
+- post
 - tzipora
 categories:
+- story
 - character
 keywords:
 - 2022

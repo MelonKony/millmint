@@ -14,6 +14,7 @@ tags:
 - coretti
 - penelope
 categories:
+- story
 - landscape
 keywords:
 - post

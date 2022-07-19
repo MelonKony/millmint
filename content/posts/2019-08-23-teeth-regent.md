@@ -8,6 +8,7 @@ tags:
     - pachinki
     - 2019
 categories:
+    - story
     - character
 keywords:
     - post

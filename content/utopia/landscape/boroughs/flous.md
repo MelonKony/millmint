@@ -4,10 +4,14 @@ title: Flous
 fulltitle: The Borough of Flous
 icon: 🏠
 emoji: g
-tag: LANDSCAPE
-sitetag: Boroughs
 color: green
-pagecode: 233FLO
+
+tags: 
+  - borough
+categories:
+  - commonwealth
+  
+draft: true
 
 image: https://images.millmint.net/images/newyear2022.jpg
 
@@ -18,11 +22,12 @@ description: The borough of Flous is an administrative region of Vekllei, a utop
 author: Hobart Phillips
 
 ---
+
+## Overview
+
 {{< hint >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
-
-## Overview
 
 **The borough of Flous** is an administrative region in southwest Vekllei, located to the east of the Capital Metropolitan Boroughs, east of Thanveler and south of Kyala. Most of the borough is characterised by wide flower-tundras and volcanic pools formed by runoff from the neighbouring Vatnayoskusl glacier. Flous makes up part of the Capital metro area's rural "green belt," and is settled as distinct villages and townships rather than adjacent neighbourhoods. The village of Asve Asve in Flous is the place of retirement of Ayn's parents.
 

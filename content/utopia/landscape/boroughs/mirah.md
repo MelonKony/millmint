@@ -4,10 +4,12 @@ title: Mirah
 fulltitle: The Borough of Mirah
 icon: 🤸‍♀️
 emoji: g
-tag: LANDSCAPE
-sitetag: Boroughs
 color: green
-pagecode: 238MRA
+
+tags: 
+  - borough
+categories:
+  - commonwealth
 
 image: https://images.millmint.net/images/waterfront.jpg
 autonumbering: true
@@ -19,11 +21,12 @@ description: The borough of Mirah is an administrative region of Vekllei, a utop
 author: Hobart Phillips
 
 ---
+
+## Overview
+
 {{< hint >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
 {{< /hint >}}
-
-## Overview
 
 **The borough of Mirah** is an administrative region on the west coast of Vekllei, located east of Tohs and south of Geame. It is named after Mirah, its largest population centre and fishing town dependent largely on deepwater trawling in the Vekllei Sea. It is also home to the Vekllei International Casino, a hotel and resort available only to foreigners, which resides in the town of Gigayeh.
 

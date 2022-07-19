@@ -58,7 +58,7 @@ list_posts: false
 .gt-container {
   display: none;
 }
-.headerbox {
+.article-info {
   display: none;
 }
 </style>

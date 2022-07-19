@@ -1,17 +1,15 @@
 ---
 title: Intro
 fulltitle: Welcome to MillMint
-
-layout: intro
-
 icon: 📔
 emoji: ΄
-
-tag: UTOPIA
-sitetag: Introduction
 color: millmint
 
-weight: 1
+tags: 
+  - utopia
+categories:
+  - intro
+
 list_posts: false
 comments: false
 autonumbering: false
@@ -20,7 +18,8 @@ toc: false
 
 description: An intro to the world of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
- 
+
+layout: intro
 ---
 ## This is the Epoch of Rest
 {{< hint millmint >}}
