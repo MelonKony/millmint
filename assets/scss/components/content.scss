@@ -134,6 +134,7 @@
 
 .alignleft a:hover, .alignright a:hover {
   filter: brightness(65%);
+  text-decoration: underline;
 }
 .alignleft {
   grid-area: alignleft;

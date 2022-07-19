@@ -2,6 +2,8 @@
 title: Socialism, Backwards
 fulltitle: Socialism, Backwards
 
+rgb: 79, 121, 78
+
 date: 2021-11-20
 tags:
 - 2021
@@ -13,10 +15,10 @@ categories:
 - landscape
 keywords:
 - 2021
+
 image: https://images.millmint.net/images/socialism.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/qya4ev/socialism_backwards/
-
-rgb: 79, 121, 78
+print: https://www.inprnt.com/gallery/melonkony/socialism-backwards/
 ---
 
 Tzipora had become interested in the blossoms of Vekllei society around the same time she became aware of them. That’s actually what they were called, in the pidgin of Vekllei ideology — the tenets of petticoat-style socialism were called blossoms.
