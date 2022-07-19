@@ -9,8 +9,6 @@ tags:
   - industry
 categories:
   - society
-  
-draft: true
 
 image: https://images.millmint.net/images/qlc.jpg
 
