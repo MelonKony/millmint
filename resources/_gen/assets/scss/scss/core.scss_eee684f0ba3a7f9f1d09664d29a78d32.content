@@ -2299,6 +2299,7 @@ article img[alt~="smallimg"] {
     opacity: 1; } }
 
 .meta {
+  margin-top: -1rem;
   display: grid;
   grid-template-columns: 1fr auto;
   grid-template-rows: 1fr;
@@ -2307,9 +2308,9 @@ article img[alt~="smallimg"] {
   grid-template-areas: "date posttag"; }
 
 .date {
-  justify-self: end;
+  /* justify-self: end; */
   align-self: center;
-  grid-area: posttag;
+  grid-area: date;
   font-size: 14px;
   color: var(--color-gray);
   margin: 0;
