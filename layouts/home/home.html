@@ -15,11 +15,12 @@
 
 <html lang='{{ .Site.LanguageCode }}'>
   {{- partial "head.html" . -}}
-  <body class="site-home">
+  <body class="site-home" {{if .Params.Color }}data-color="{{ .Params.Color }}"{{ end }}>
           <main>
               {{- partial "header.html" . -}}
               {{- partial "nav.html" . -}}
           </main>
+          <script src="/js/colors.js"></script>
   </body>
 <html>
 

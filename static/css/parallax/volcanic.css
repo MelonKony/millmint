@@ -1,17 +1,5 @@
 /* .:. created by Ben_R_R .:. tolkienfan72@gmail.com .:. */
 
-html {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    scroll-behavior: smooth;
-}
-*, *:before, *:after {
-    -webkit-box-sizing: inherit;
-    -moz-box-sizing: inherit;
-    box-sizing: inherit;
-}
-
 /* This code resets the body's margin, and defines a class that we can use to force elements to extend outside the margins of the body*/
 body{
     padding: 0px;

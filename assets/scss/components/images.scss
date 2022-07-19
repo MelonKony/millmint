@@ -24,6 +24,7 @@ article img[alt~="smallimg"] {
 	margin-right: -20%;
 	padding: .5rem;
 	background-color: var(--gray-100);
+	box-sizing: border-box;
   }
 }
 

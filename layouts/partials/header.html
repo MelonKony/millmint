@@ -1,10 +1,10 @@
 <header>
     <div class="brand">
-      <a class="brand-title {{ .Params.Color }}" href="{{ .Site.Home.RelPermalink }}">
+      <a class="brand-title" href="{{ .Site.Home.RelPermalink }}">
         {{- with (.Scratch.Get "params").navbar_title }} {{- . | safeHTML -}}
         {{- end -}}
       </a>
-      <a class="brand-emoji {{ .Params.Color }}" id="whirlybat" href="{{ .Site.Home.RelPermalink }}">-millmint</a>
+      <a class="brand-emoji" id="whirlybat" href="{{ .Site.Home.RelPermalink }}">-millmint</a>
     </div>
       {{ if (.Scratch.Get "params").enable_site_search }}
       {{ partial "search" . }}

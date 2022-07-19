@@ -1,4 +1,35 @@
-if (document.querySelector("[data-page-color]")) {
+const colors = {
+  blue: [0, 122, 255],
+  brown: [162, 132, 94],
+  cyan: [50, 173, 230],
+  gray: [95, 95, 105],
+  green: [52, 199, 89],
+  indigo: [88, 86, 214],
+  mint: [0, 199, 190],
+  orange: [255, 149, 0],
+  pink: [255, 45, 85],
+  purple: [175, 82, 222],
+  red: [255, 59, 48],
+  teal: [48, 176, 199],
+  yellow: [255, 204, 0],
+
+  millmint: [183, 63, 83],
+  vnr: [255, 86, 79],
+  mail: [186, 29, 55]
+}
+
+if(document.querySelector('[data-color]')) {
+  // Page color override — no background!!!!
+  const color = document
+    .querySelector("[data-color]")
+    .getAttribute("data-color");
+
+  const rgbArray = colors[color]
+
+  if(!rgbArray) console.log('Color not supported')
+
+  setBackgroundColor(rgbArray, false);
+} else if (document.querySelector("[data-page-color]")) {
   // Page color override
   const rgbArray = document
     .querySelector("[data-page-color]")
@@ -10,21 +41,17 @@ if (document.querySelector("[data-page-color]")) {
   location.href.includes("/posts/") &&
   !document.querySelector(".list-item")
 ) {
-  window.addEventListener("load", () => {
-    // Get story's color from image
-    const img = document.querySelector("img");
+  // Get story's color from image
+  const img = document.querySelector("img");
 
-    // Make sure image is finished loading
-    if (img.complete) {
+  // Make sure image is finished loading
+  if (img.complete) {
+    getColors(img);
+  } else {
+    img.addEventListener("load", () => {
       getColors(img);
-    } else {
-      image.addEventListener("load", function () {
-        getColors(image);
-      });
-    }
-
-    initColorEditor();
-  });
+    });
+  }
 }
 
 window.addEventListener("load", () => {
@@ -81,50 +108,6 @@ window.addEventListener("load", () => {
   }
 });
 
-// Initialise the color editor used to change the main color
-function initColorEditor() {
-  const keyword = "coloroverride";
-  const keyhistory = [];
-
-  document.addEventListener("keyup", (evt) => {
-    keyhistory.push(evt.key.toLowerCase());
-
-    // See if the user entered the secret keyword
-    let valid = true;
-    for (let i = keyword.length; i > 0; i--) {
-      if (keyhistory[keyhistory.length - i] !== keyword[keyword.length - i]) {
-        valid = false;
-      }
-    }
-
-    if (valid) {
-      alert("Color override editor is now shown in the top right");
-      document.querySelector(".color-editor").classList.remove("hidden");
-    }
-  });
-
-  // Get the color picker
-  const wrapper = document.querySelector(".color-editor");
-
-  // Method to convert hex string (from input's value) to rgb array
-  function hexToRgb(hex) {
-    const result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
-    return result
-      ? [
-          parseInt(result[1], 16),
-          parseInt(result[2], 16),
-          parseInt(result[3], 16),
-        ]
-      : null;
-  }
-
-  wrapper.querySelector("input").addEventListener("input", (evt) => {
-    const rgb = hexToRgb(evt.currentTarget.value);
-    wrapper.querySelector("p").innerText = rgb.join(", ");
-    if (rgb) setBackgroundColor(rgb);
-  });
-}
-
 async function getColors(img, retryCount = 0, callback = setBackgroundColor) {
   try {
     img.crossOrigin = 'anonymous'
@@ -143,7 +126,7 @@ async function getColors(img, retryCount = 0, callback = setBackgroundColor) {
   }
 }
 
-function setBackgroundColor(rgb) {
+function setBackgroundColor(rgb, doBackground = true) {
   // Set theme-color
   document
     .querySelectorAll(`[name="theme-color"]`)
@@ -158,11 +141,16 @@ function setBackgroundColor(rgb) {
   const bg = `rgba(${rgb.join(", ")}, 0.1)`;
   const gray100 = `rgba(${rgb.join(", ")}, 0.1)`;
   const colorGray = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
+  const darkerColor = `rgba(${rgb.map((v) => Math.max(v - 150, 0)).join(", ")}, 1)`;
+
+  const classes = [`a: ${colorGray}`, `--color-gray: ${colorGray}`, `--color-text: ${colorGray}`, `--hint-bg: ${bodyBg}`]
+  if(doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-100: ${gray100}`, `--color-placeholder: var(--color-gray)`, `--body-background: ${bodyBg}`);
+  classes.push(doBackground ? `--logo-color: var(--color-gray)` : `--logo-color: ${darkerColor}`)
 
   // Inject colors into DOM
   document.body.setAttribute(
     "style",
-    `--bg: ${bg}; --body-background: ${bodyBg}; --gray-100: ${gray100}; a: ${colorGray}; background-color: ${bg}; --color-gray: ${colorGray}; --color-text: ${colorGray};`
+    classes.join(';')
   );
 
   // Force titles to take the color

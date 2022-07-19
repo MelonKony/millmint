@@ -16,11 +16,11 @@
 <!DOCTYPE html>
 <html lang='{{ .Site.LanguageCode }}'>
     {{- partial "head.html" . -}}
-    <body>
+    <body {{if .Params.Color }}data-color="{{ .Params.Color }}"{{ end }}>
         <main>
             {{- partial "header.html" . -}}
             {{- partial "nav.html" . -}}
-            <article class="content article-{{ .Params.Color }}">
+            <article class="content">
                 {{ if .Params.changelogs }}
                     {{ $enable_collapsible_changelogs := (.Scratch.Get "params").enable_collapsible_changelogs }}
                     {{ partial "collapsible-menu.html" (dict "type" "changelogs" "context" . "enable" $enable_collapsible_changelogs) }}
@@ -39,6 +39,8 @@
                 {{ end }}
             </article>
             {{- partial "footer.html" . -}}
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+            <script src="/js/colors.js"></script>
         </main>
     </body>
 </html>
