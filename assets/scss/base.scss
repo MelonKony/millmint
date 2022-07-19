@@ -1,3 +1,11 @@
+html {
+  overflow-y: scroll;
+}
+
+main {
+  box-sizing: content-box;
+}
+
 html, button, input, select, textarea,
 .pure-g [class *= "pure-u"] {
   font-family: system-ui,-apple-system,segoe ui,Roboto,Helvetica,Arial,sans-serif,'Emoji',apple color emoji,segoe ui emoji;
@@ -132,7 +140,7 @@ footer ul {
 
 ::placeholder {
   font-size: 14px;
-  color: var(--color-gray);
+  color: var(--color-placeholder, var(--color-gray));
 }
 
 /* details dropdown */

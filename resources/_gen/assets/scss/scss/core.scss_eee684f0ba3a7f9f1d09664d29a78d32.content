@@ -328,6 +328,7 @@ html {
   --color-blue: #007aff;
   --color-brown: #a2845e;
   --color-gray: #5f5f69;
+  --color-placeholder: #5f5f69;
   --color-green: #34c759;
   --color-indigo: #5856d6;
   --color-mint: #00c7be;
@@ -383,163 +384,17 @@ a {
   color: var(--color-link);
   text-decoration: none; }
 
-/* colors */
-.blue,
-.article-blue a {
-  color: #007aff;
-  border-color: #007aff; }
+.emoji {
+  color: var(--color-gray); }
 
-.blue.brand-title {
-  background-color: #002753; }
+blockquote.hint:not(.panel) {
+  background-color: var(--hint-bg, var(--gray-100)); }
 
-.blue.brand-emoji {
-  color: #002753; }
+html {
+  overflow-y: scroll; }
 
-.brown,
-.article-brown a {
-  color: #a2845e;
-  border-color: #a2845e; }
-
-.brown.brand-title {
-  background-color: #352a1e; }
-
-.brown.brand-emoji {
-  color: #352a1e; }
-
-.gray,
-.article-gray a {
-  color: #5f5f69;
-  border-color: #5f5f69; }
-
-.gray.brand-title {
-  background-color: #000000; }
-
-.gray.brand-emoji {
-  color: #000000; }
-
-.green,
-.article-green a {
-  color: #34c759;
-  border-color: #34c759; }
-
-.green.brand-title {
-  background-color: #084417; }
-
-.green.brand-emoji {
-  color: #084417; }
-
-.indigo,
-.article-indigo a {
-  color: #5856d6;
-  border-color: #5856d6; }
-
-.indigo.brand-title {
-  background-color: #1d1c45; }
-
-.indigo.brand-emoji {
-  color: #1d1c45; }
-
-.orange,
-.article-orange a {
-  color: #ff9500;
-  border-color: #ff9500; }
-
-.orange.brand-title {
-  background-color: #553006; }
-
-.orange.brand-emoji {
-  color: #553006; }
-
-.mail,
-.article-mail a {
-  color: #ba1d37;
-  border-color: #ba1d37; }
-
-.mail.brand-title {
-  background-color: #410b13; }
-
-.mail.brand-emoji {
-  color: #410b13; }
-
-.millmint,
-.article-millmint a {
-  color: #b73f53;
-  border-color: #b73f53; }
-
-.millmint.brand-title {
-  background-color: #40161d; }
-
-.millmint.brand-emoji {
-  color: #40161d; }
-
-.vnr,
-.article-vnr a {
-  color: #ff564f;
-  border-color: #ff564f; }
-
-.vnr.brand-title {
-  background-color: #591e1c; }
-
-.vnr.brand-emoji {
-  color: #591e1c; }
-
-.pink,
-.article-pink a {
-  color: #ff2d55;
-  outline-color: rgba(245, 35, 75, 0.25);
-  border-color: #ff2d55; }
-
-.pink.brand-title {
-  background-color: #550d1a; }
-
-.pink.brand-emoji {
-  color: #550d1a; }
-
-.purple,
-.article-purple a {
-  color: #af52de;
-  border-color: #af52de; }
-
-.purple.brand-title {
-  background-color: #371a45; }
-
-.purple.brand-emoji {
-  color: #371a45; }
-
-.red,
-.article-red a {
-  color: #ff3b30;
-  border-color: #ff3b30; }
-
-.red.brand-title {
-  background-color: #55120f; }
-
-.red.brand-emoji {
-  color: #55120f; }
-
-.teal {
-  color: #30b0c7;
-  border-color: #30b0c7; }
-
-.article-teal a {
-  color: #1e4656; }
-
-.teal.brand-title {
-  background-color: #1e4656; }
-
-.teal.brand-emoji {
-  color: #1e4656; }
-
-.yellow,
-.article-yellow a {
-  color: #ffcc00;
-  border-color: #ffcc00; }
-
-.yellow.brand-title {
-  background-color: #55430a; }
-
-.yellow.brand-emoji {
-  color: #55430a; }
+main {
+  box-sizing: content-box; }
 
 html, button, input, select, textarea,
 .pure-g [class*="pure-u"] {
@@ -660,7 +515,7 @@ footer ul {
 
 ::placeholder {
   font-size: 14px;
-  color: var(--color-gray); }
+  color: var(--color-placeholder, var(--color-gray)); }
 
 /* details dropdown */
 details summary {
@@ -1119,7 +974,7 @@ header {
   padding: 2px 6px 2px 6px;
   border-radius: 3px;
   color: var(--body-background);
-  background-color: var(--color-gray);
+  background-color: var(--logo-color, var(--color-gray));
   vertical-align: middle; }
 
 .brand-emoji {
@@ -1507,7 +1362,7 @@ article#collapsible_menu_changelogs {
 
 .breadcrumbs {
   font-weight: 700;
-  background-color: var(--gray-100);
+  background-color: var(--hint-bg, var(--gray-100));
   width: 100%;
   padding: 0.25rem 1rem 0.25rem 0.75rem;
   box-sizing: border-box;
@@ -2123,7 +1978,8 @@ html { font-family: 'Inter', sans-serif; }
   justify-content: center;
   align-content: center;
   border-radius: .25rem;
-  font-family: "Emoji" !important; }
+  font-family: "Emoji" !important;
+  color: var(--color-gray); }
 
 .smallicon {
   font-family: "Emoji" !important;
@@ -2275,7 +2131,8 @@ article img[alt~="smallimg"] {
     margin-left: -20%;
     margin-right: -20%;
     padding: .5rem;
-    background-color: var(--gray-100); } }
+    background-color: var(--gray-100);
+    box-sizing: border-box; } }
 
 /* home image */
 .img-background {

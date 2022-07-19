@@ -21,7 +21,7 @@
       obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
      }
    </script>
-    <body>
+    <body {{if .Params.Color }}data-color="{{ .Params.Color }}"{{ end }}>
         <main>
             {{- partial "header.html" . -}}
             {{- partial "nav.html" . -}}
@@ -83,13 +83,6 @@
               {{- partial "footer.html" . -}}
           </main>
           {{- partial "resources/js.html" . -}}
+          <script src="/js/colors.js"></script>
     </body>
   </html>
-  
-<style>
-  @media screen and (min-width: 90rem) {
-      main {
-          width: 38%;
-      }
-  }
-</style>
