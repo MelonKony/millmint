@@ -48,6 +48,22 @@ Kalina is tropical and partially volcanic, incorporating hundreds of islands and
 
 Montesur is actively volcanic, and sees minor eruptions every few years.
 
+## Constituents
+
+### Angua Cherish (Anguilla)
+
+### Antam Cherish (Antigua)
+
+### Barbuda Cherish (Barbuda)
+
+### Liamuiga Cherish (Saint Kitts)
+
+### Martin Cherish (Saint Martin)
+
+### Montesur Cherish (Montserrat)
+
+### Oualie Cherish (Nevis)
+
 ## Politics
 
 Kalina shares the Vekllei city-state's unusual parliamentary system and geographic electoral districts. The country is independent, but like other full members of Commonwealth it shares much of its constitutional legislature and state structure with the Vekllei city-state. The Armed Forces of the Commonwealth of Vekllei are responsible for defence of Kalina, which is positioned strategically in the Caribbean and hosts several important military facilities throughout its island chains. The Commonwealth also coordinates Kalina's foreign affairs through the Overseas Affairs Office of the Commonwealth Culture Secretariat.

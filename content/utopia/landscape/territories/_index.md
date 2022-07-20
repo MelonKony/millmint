@@ -3,7 +3,7 @@ title: Territories
 fulltitle: The Territories of the Vekllei Commonwealth
 icon: 🌎
 emoji: g
-color: green
+color: mint
 
 tags: 
   - states
@@ -11,14 +11,14 @@ categories:
   - commonwealth
   
 draft: true
-
+  
 image: https://images.millmint.net/images/territories.jpg
 
 list_posts: false
 comments: false
 ---
 
-{{< hint green >}}
+{{< hint >}}
 ߷  This page lists completed articles on [**overseas territories**](/utopia/vekllei/#administrative-divisions) of the Vekllei Commonwealth.
 {{< /hint >}}
 
@@ -31,68 +31,68 @@ A Vekllei [borough](/utopia/vekllei/#administrative-divisions) is an unusual adm
 {{<section>}}
 ### Vekllei Home Islands
 
-{{< hint green >}}
+{{< outline >}}
 ### [<span class="smallicon">🌺</span> Vekllei](/utopia/vekllei/)
 The [Vekllei](/utopia/vekllei/) Home Islands. 
-{{</hint>}}
+{{</outline>}}
 {{</section>}}
 
 {{<section>}}
 ### Dependent Territories
 
-{{< hint green >}}
+{{< outline >}}
 ### [<span class="smallicon">❄️</span> Vekllei Antarctic Territories](/utopia/landscape/territories/antarctica)
 The [Vekllei Antarctic Territories](/utopia/landscape/territories/antarctica) Home Islands. 
-{{</hint>}}
+{{</outline>}}
 
-{{< hint green >}}
+{{< outline >}}
 ### [<span class="smallicon">🌒</span> Vekllei Lunar Territories](/utopia/landscape/territories/moon)
 The [Vekllei Lunar Territories](/utopia/landscape/territories/moon) Home Islands. 
-{{</hint>}}
+{{</outline>}}
 
 {{</section>}}
 
 {{<section>}}
 ### Independent Territories
 
-{{< hint green >}}
+{{< outline >}}
 ### [<span class="smallicon">🎣</span> Aismious](/utopia/landscape/territories/aismious)
 The [Aismious](/utopia/landscape/territories/aismious) Home Islands. 
-{{</hint>}}
+{{</outline>}}
 
-{{< hint green >}}
+{{< outline >}}
 ### [<span class="smallicon">👹</span> Demon](/utopia/landscape/territories/demon)
 The [Demon](/utopia/landscape/territories/demon) Home Islands. 
-{{</hint>}}
+{{</outline>}}
 {{</section>}}
 
 {{<section>}}
 ### Member-States of the Vekllei Commonwealth
 
-{{< hint green >}}
+{{< outline >}}
 ### [<span class="smallicon">🏰</span> Azores](/utopia/landscape/territories/azores)
 The [Azores](/utopia/landscape/territories/azores) Home Islands. 
-{{</hint>}}
+{{</outline>}}
 
-{{< hint green >}}
+{{< outline >}}
 ### [<span class="smallicon">🛟</span> Mira](/utopia/landscape/territories/mira)
 The [Mira](/utopia/landscape/territories/mira) Home Islands. 
-{{</hint>}}
+{{</outline>}}
 
-{{< hint green >}}
+{{< outline >}}
 ### [<span class="smallicon">🗻</span> Kala](/utopia/landscape/territories/kala)
 The [Kala](/utopia/landscape/territories/kala) Home Islands. 
-{{</hint>}}
+{{</outline>}}
 
-{{< hint green >}}
+{{< outline >}}
 ### [<span class="smallicon">🏝</span> Kalina](/utopia/landscape/territories/kalina)
 The [Kalina](/utopia/landscape/territories/kalina) Home Islands. 
-{{</hint>}}
+{{</outline>}}
 
-{{< hint green >}}
+{{< outline >}}
 ### [<span class="smallicon">🌴</span> West Antilles](/utopia/landscape/territories/antilles)
 The [West Antilles](/utopia/landscape/territories/antilles) Home Islands. 
-{{</hint>}}
+{{</outline>}}
 {{</section>}}
 
 <style>

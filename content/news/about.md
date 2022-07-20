@@ -3,7 +3,7 @@ title: About
 fulltitle: About the Author
 icon: 🪺
 emoji: v
-color: yellow
+color: brown
 
 tags: 
   - about
@@ -38,7 +38,15 @@ You can **write to me** at hobart@millmint.net.
 ## News
 
 {{<hint header>}}
-June 2022
+July 2022
+{{</hint>}}
+
+**July 19, 2022** Overhauled the site colour system with [Jip](https://jipfr.nl), who did an awesome job transforming my clunky CSS into javascript
+
+**July 12, 2022** New post <span class="spanlink"><a href="/posts/2022-07-12-vista/">URL →</a></span>
+
+{{<hint header>}}
+June 2022 
 {{</hint>}}
 
 **June 22, 2022** Drew a sketch of Tzipora and Cobian before their school formal. Just some fun between comic pages <span class="spanlink"><a href="/images/sketches/formal.png">URL →</a></span>
