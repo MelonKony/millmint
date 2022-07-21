@@ -15,7 +15,7 @@ keywords:
 - 2022
 
 image: /images/hyderabad.jpg
-reddit: 
+reddit: https://www.reddit.com/r/vekllei/comments/w4nms0/little_hyderabad/
 print: https://www.inprnt.com/gallery/melonkony/little-hyderabad/
 ---
 
