@@ -42,7 +42,7 @@ author: Hobart Phillips
 {{< details title="Get to know Tzipora">}}
 ##### Appearance
 
-Tzipora is blue-eyed and black-haired of mixed Inuit-Scandinavian and Eastern-European heritage. She has a round head and a big smile, and is skinny and naturally athletic. She parts her short hair in the centre and ornaments it with fountain hairpieces, traditional hair loops and floral assemblies depending on the occasion. She is most remembered for her youthful appearance, since she does not age beyond late prepubescence as a consequence of her genetic condition. Despite this, she retains a serious, cultivated manner and alternates disarmingly between intense hyperactivity and careful, deliberate physicality.
+Tzipora is blue-eyed and black-haired of mixed Eastern European Jewish and Spanish Romani heritage. She has a round head and a big smile, and is naturally athletic. She parts her short hair in the centre and ornaments it with fountain hairpieces, traditional hair loops and floral assemblies depending on the occasion. She is a victim of [Gregori-Heitzfeld Disease](/posts/2021-05-28-forever/), which affects her quality of life and contributes to her isolation from other people.
 
 She dresses in conservative fashions and has maintained a consistent taste throughout her life. She has a preference for loose-fitting clothing, particularly buttoned shirts, slacks and skirts of various styles. She is most commonly seen in a pleated white shirt, modest skirt, folded socks and penny loafers or sandals.
 
