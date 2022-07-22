@@ -381,8 +381,7 @@ html {
   line-height: 1.67059; }
 
 a {
-  color: var(--color-link);
-  text-decoration: none; }
+  color: var(--color-link); }
 
 .emoji {
   color: var(--color-gray); }
