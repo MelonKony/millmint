@@ -2,7 +2,7 @@
 title: Little Hyderabad
 fulltitle: Little Hyderabad
 
-date: 2022-07-20
+date: 2022-07-21
 
 tags: 
 - 2022
@@ -10,7 +10,7 @@ tags:
 - tzipora
 categories:
 - story
-- character
+- landscape
 keywords:
 - 2022
 
