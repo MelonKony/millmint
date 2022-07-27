@@ -12,7 +12,7 @@ categories:
   
 draft: true
 
-image: https://images.millmint.net/images/gov.jpg
+image: /images/mastheads/gov.png
 
 list_posts: false
 autonumbering: true
