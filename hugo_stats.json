@@ -23,6 +23,7 @@
       "hr",
       "html",
       "i",
+      "iframe",
       "img",
       "input",
       "li",
@@ -35,6 +36,7 @@
       "pre",
       "script",
       "section",
+      "source",
       "span",
       "strong",
       "style",
@@ -48,7 +50,8 @@
       "title",
       "tr",
       "u",
-      "ul"
+      "ul",
+      "video"
     ],
     "classes": [
       "a-wrapper",
@@ -78,6 +81,7 @@
       "content",
       "content-margin",
       "date",
+      "details",
       "disabled",
       "edge-to-edge",
       "emoji",
@@ -92,7 +96,6 @@
       "footnote-backref",
       "footnote-ref",
       "footnotes",
-      "gray",
       "header",
       "hidden",
       "hint",

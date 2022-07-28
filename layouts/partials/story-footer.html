@@ -16,3 +16,14 @@
     {{ end }}
   </div>
 </div>
+
+<!-- behind-the-scenes video embed -->
+{{ if .Params.video }}
+<div class="collapsible-menu-wrapper" style="margin-bottom: 1rem;">
+  <details class="noSelect">
+    <summary class="noSelect" style="font-weight: 500; font-size: 16px; padding: 0px 5px;"><span class="smallicon" style="font-size: 18px;">📺</span> Studio Spotlight</summary>
+    <br>
+    <video src="{{ .Params.video }}" controls>
+  </details>
+</div>
+{{ end }}

@@ -76,10 +76,18 @@ mark {
 
 details > summary {
   cursor: auto;
+  font-size: 18px;
+  text-align: left;
+  line-height: 2rem;
 }
 
 details[open] > summary {
   cursor: auto;
+}
+
+video {
+  border-radius: 5px;
+  width: 100%;
 }
 
 footer {

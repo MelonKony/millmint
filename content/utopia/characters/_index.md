@@ -14,7 +14,7 @@ comments: false
 autonumbering: false
 list_posts: false
 
-image: https://images.millmint.net/images/liminal.jpg
+image: /images/mastheads/vista.png
 
 description: The people of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips

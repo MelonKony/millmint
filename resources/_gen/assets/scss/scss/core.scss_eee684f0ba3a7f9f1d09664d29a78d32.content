@@ -468,10 +468,17 @@ mark {
   background-color: var(--color-background-mark); }
 
 details > summary {
-  cursor: auto; }
+  cursor: auto;
+  font-size: 18px;
+  text-align: left;
+  line-height: 2rem; }
 
 details[open] > summary {
   cursor: auto; }
+
+video {
+  border-radius: 5px;
+  width: 100%; }
 
 footer {
   margin: 2rem 0 0 0; }
@@ -1363,7 +1370,7 @@ article#collapsible_menu_changelogs {
 
 .breadcrumbs {
   font-weight: 700;
-  background-color: var(--hint-bg, var(--gray-100));
+  background-color: var(--gray-100);
   width: 100%;
   padding: 0.25rem 1rem 0.25rem 0.75rem;
   box-sizing: border-box;
