@@ -70,7 +70,7 @@
       identifier = "computers"
       name = "Computers"
       pre = "🖥"
-      url = "/utopia/society/industry/computers"
+      url = "/utopia/society/technology/computers"
       parent = "society"
       weight = 1
     [[navbar]]
