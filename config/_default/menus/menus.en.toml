@@ -67,6 +67,13 @@
     url = "/utopia/society"
     weight = 5
     [[navbar]]
+      identifier = "computers"
+      name = "Computers"
+      pre = "🖥"
+      url = "/utopia/society/industry/computers"
+      parent = "society"
+      weight = 1
+    [[navbar]]
       identifier = "mail"
       name = "Mail"
       pre = "📯"
@@ -94,19 +101,12 @@
     parent = "newsdesk"
     weight = 2
   [[navbar]]
-    identifier = "bulletin"
-    name = "Bulletin"
-    pre = "💾"
-    url = "/news/bulletin"
-    parent = "newsdesk"
-    weight = 3
-  [[navbar]]
     identifier = "essays"
     name = "Essays"
     pre = "📄"
     url = "/news/essays"
     parent = "newsdesk"
-    weight = 4
+    weight = 3
     [[navbar]]
       identifier = "ghibli"
       name = "A Universal Nostalgia"
