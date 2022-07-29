@@ -40,7 +40,7 @@ Vekllei has several computer manufacturers, including Votraitey Electrics and Na
 There are two types of commercial computing in use in Vekllei.
 
 - **Photo-Electric Computers** (PEC), which are electric machines that are capable of parallel arithmetic and logical operations.
-- **Fabricated Live Robotics**, which combine computers with synthetic biological components to unlock adaptive and sensory features.
+- **Fabricated Live Robotics**, which combine computers with synthetic biological components to unlock adaptive and sensory functions.
 
 Computing in Vekllei happens at a civic or industrial scale, and rarely interacts with individuals for personal purposes. Most ordinary Vekllei people interact with computers through work or in schools and libraries, where they serve data-lookup and communication purposes. Civilian life in Vekllei is decidedly analogue.
 
