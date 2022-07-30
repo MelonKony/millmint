@@ -6,7 +6,7 @@ emoji: Ζ
 color: teal
 
 tags: 
-  - government
+  - state
 categories:
   - society
   

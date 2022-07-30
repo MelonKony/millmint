@@ -39,4 +39,6 @@ author: Hobart Phillips
 	- <span class="navicon">⚙️</span>Industry (coming soon)
 		- <a href="/utopia/society/industry/mail/"><span class="navicon">📯</span>Mail</a>
 		- <a href="/utopia/society/industry/rail/"><span class="navicon">🚇</span>Rail</a>
+	- <span class="navicon">🧪</span>Technology
+		- <a href="/utopia/society/technology/computers/"><span class="navicon">🖥</span>Computers</a>
 {{</ details >}}
