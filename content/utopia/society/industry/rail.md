@@ -100,7 +100,7 @@ Vekllei National Rail is administered through three State Requisites: the Veklle
 {{< details title="Organisation Chart of VNR" open=true >}}
 
 {{<hint>}}
-Responsible to the [Railways Bureau](/utopia/society/government/#national-railways-bureau) of the [Ministry of Transport](/utopia/society/government/#ministry-of-transport)
+Responsible to the [Railways Bureau](/utopia/society/state/government/interior/transport/#national-railways-bureau) of the [Ministry of Transport](/utopia/society/state/government/interior/transport)
 {{</hint>}}
 * **Vekllei National Rail**
   * National Rail

@@ -1393,7 +1393,7 @@ article#collapsible_menu_changelogs {
   margin-top: 0.5rem;
   margin-left: 0;
   margin-right: 0;
-  color: var(--color-gray);
+  color: var(--body-font-color);
   font-size: 15px;
   line-height: 1.4;
   font-weight: 500;
@@ -1421,15 +1421,11 @@ article#collapsible_menu_changelogs {
 /* Add a color to all links inside the list */
 .breadcrumbs li a {
   text-decoration: none;
-  color: var(--color-gray); }
-
-.breadcrumbs li a:visited {
-  color: var(--color-gray); }
+  color: var(--body-font-color); }
 
 /* Add a color on mouse-over */
 .breadcrumbs a:hover {
   text-decoration: none;
-  color: var(--color-gray);
   filter: brightness(85%); }
 
 .color-block {
@@ -2195,7 +2191,9 @@ article img[alt~="smallimg"] {
   grid-area: tag;
   font-weight: bolder;
   text-transform: uppercase;
-  width: 100%; }
+  width: 100%;
+  display: flex;
+  align-items: center; }
 
 .category {
   font-size: 0.875rem;
@@ -2216,13 +2214,12 @@ article img[alt~="smallimg"] {
   margin-left: 1rem;
   display: inline-block;
   float: right;
-  color: #1d1d1f;
-  background-color: #f0f0f6;
-  border-inline-start: none;
+  color: var(--body-font-color);
+  background-color: var(--body-background);
+  border-radius: 5px;
   font-size: 16px;
   line-height: 1.4;
   letter-spacing: -.01em;
-  border-radius: 5px;
   padding: .25rem;
   font-style: normal;
   font-weight: bold; }
@@ -2396,6 +2393,26 @@ a.article-button {
   font-weight: 600;
   border: 1px solid var(--color-gray);
   border-radius: .25rem; }
+
+.footnotes {
+  font-size: 14px;
+  padding: 20px 0 0 0; }
+
+ol {
+  margin-left: 0; }
+
+/* sidenotes */
+.sidenote {
+  padding-left: 2rem;
+  margin-bottom: 1.5rem;
+  border-left: 1px solid black;
+  color: black;
+  font-style: italic;
+  font-size: 0.8rem; }
+
+.sidenote-hover {
+  border-color: black;
+  color: black; }
 
 .search {
   position: relative;

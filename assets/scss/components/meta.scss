@@ -32,6 +32,8 @@
     font-weight: bolder;
     text-transform: uppercase;
     width: 100%;
+    display: flex;
+    align-items: center;
 }
 
 .category {
@@ -51,13 +53,12 @@
   margin-left: 1rem; 
   display: inline-block;
   float: right;
-  color: $font-color;
-  background-color: $gray-100;
-  border-inline-start: none;
+  color: var(--body-font-color);
+  background-color: var(--body-background);
+  border-radius: 5px;
   font-size: 16px;
   line-height: 1.4;
   letter-spacing: -.01em;
-  border-radius: 5px;
   padding: .25rem;
   font-style: normal;
   font-weight: bold;

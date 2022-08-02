@@ -51,7 +51,6 @@
       <meta property="og:image" content="{{ .Params.image | relURL }}"/>
       <meta property="og:image:secure_url" content="{{ .Params.image | absURL }}"/>
       {{ end }}
-      <meta property="og:type" content="website"/>
 
     {{- if default true .Site.Params.Search -}}
       {{- $searchJSFile := printf "%s.search.js" .Language.Lang }}
@@ -78,6 +77,9 @@
     
     <!-- Image Fade In -->
     <script src="/js/fade.js"></script>
+    
+    <!-- sidenotes -->
+    <script src="/js/sidenotes.js"></script>
     
     <!-- STYLESHEETS -->
     

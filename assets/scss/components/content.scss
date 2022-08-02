@@ -180,3 +180,28 @@ a.article-button {
   border: 1px solid var(--color-gray);
   border-radius: .25rem;
 }
+
+.footnotes {
+  font-size: 14px;
+  padding: 20px 0 0 0;
+}
+
+ol {
+  margin-left: 0;
+}
+
+/* sidenotes */
+.sidenote {
+    padding-left: 2 * 1rem;
+    margin-bottom: 1.5rem;
+
+    border-left: 1px solid black;
+    color: black;
+    font-style: italic;
+    font-size: 0.8rem;
+}
+
+.sidenote-hover {
+    border-color: black;
+    color: black;
+}

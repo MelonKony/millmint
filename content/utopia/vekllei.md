@@ -444,6 +444,10 @@ Homes are also commonly inherited in Vekllei. All Vekllei people are guaranteed 
 ❖ Main article: *[Post in Vekllei](/utopia/society/industry/mail/)*
 {{< /hint >}}
 
+{{< hint mail >}}
+❖ Read more: *[Computing in Vekllei](/utopia/society/technology/computers/)*
+{{< /hint >}}
+
 The **Royal Mail of Vekllei** is the postal service of the country, and counts among its oldest surviving institutions. Founded in 1422, its origins as a military communications organ manifest today in its contemporary designation as a military state requisite, rather than civilian postal carrier. Despite this, the Royal Mail remains thoroughly civilian in its oversight and practice, and delivers around 50 million mail pieces a day in peak periods, including courier work abroad.
 
 ![img](https://images.millmint.net/images/mailtrain.jpg)
