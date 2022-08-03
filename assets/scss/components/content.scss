@@ -192,16 +192,17 @@ ol {
 
 /* sidenotes */
 .sidenote {
-    padding-left: 2 * 1rem;
+    padding-left: 2 * .5rem;
     margin-bottom: 1.5rem;
-
-    border-left: 1px solid black;
-    color: black;
+    margin-left: 1.5rem;
+    border-left: 1px solid var(--body-font-color);
+    color: var(--body-font-color);
     font-style: italic;
     font-size: 0.8rem;
+    opacity: 75%;
 }
 
 .sidenote-hover {
-    border-color: black;
-    color: black;
+    border-color: var(--color-gray);
+    color: var(--color-gray);
 }

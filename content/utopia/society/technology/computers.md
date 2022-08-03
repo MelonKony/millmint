@@ -73,6 +73,6 @@ The Public Intranet is anonymous, but terminals signal their hardware address to
 Vekllei computers use calligraphic displays[^4], which allow primitive vector graphics. Most Vekllei file systems, including the Public Intranet, are text-only and use the VEKSCOPE character encoding standard.
 
 [^1]: National Machines S.A. manufactures a range of products outside of computing, and most National computer products are sold under the Voscom and Civic Systems brands.
-[^2]: Also known as optical computing
+[^2]: Also known as optical computing.
 [^3]: All Vekllei spacial light modulators are optically-addressed.
 [^4]: Also known as vector displays, which use an electron beam that illuminates glowing phosphor to display an image on-screen.

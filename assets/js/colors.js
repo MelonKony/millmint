@@ -1,3 +1,10 @@
+/**
+ * @author: Jip Frijlink
+ *
+ * Script that themes articles with colour
+ *
+ **/
+
 const colors = {
   blue: [0, 122, 255],
   brown: [162, 132, 94],

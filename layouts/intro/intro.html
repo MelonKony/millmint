@@ -62,7 +62,7 @@
 
           <main>
               <!--{{- partial "header.html" . -}}-->
-              <div id="content">
+              <article class="content">
                   {{ if .Params.changelogs }}
                       {{ $enableCollapsibleChangelogs := (.Scratch.Get "params").enableCollapsibleChangelogs }}
                       {{ partial "collapsible-menu.html" (dict "type" "changelogs" "context" . "enable" $enableCollapsibleChangelogs) }}
@@ -79,10 +79,10 @@
                           {{- partial "disqus.html" . -}}
                       {{ end }}
                   {{ end }}
-              </div>
+              </article>
               {{- partial "footer.html" . -}}
           </main>
           {{- partial "resources/js.html" . -}}
-          <script src="/js/colors.js"></script>
+          {{- partial "script.html" . -}}
     </body>
   </html>

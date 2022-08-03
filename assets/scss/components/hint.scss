@@ -8,10 +8,9 @@ article hr {
 }
 
 body article blockquote {
-  border-inline-start: .25rem solid var(--color-gray);
-  color: var(--color-gray);
+  border-inline-start: 2px solid var(--color-gray);
+  color: var(--bdoy-font-color);
   font-style: italic;
-  border-radius: .25rem;
 }
 
 .hint {

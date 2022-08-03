@@ -70,7 +70,7 @@ The name *Vekllei* ostensibly applies foremost to the physical landscape of the 
 ❖ Download the [Pre-War Vekllei Timeline (PDF)](/files/Pre-War%20Vekllei%20Timeline.pdf)
 {{< /hint >}}
 
-The Home Island has been inhabited for at least four thousand years by Arctic peoples migrating from Kalalist[^2]. Evidence of European settlement in Vekllei can be determined from unearthed fishing towns dated to 1230BC, when settlers from Ireland established fishing communities along the southern coast.
+The Home Island has been inhabited for at least four thousand years by Arctic peoples migrating from Kalalist.[^2] Evidence of European settlement in Vekllei can be determined from unearthed fishing towns dated to 1230BC, when settlers from Ireland established fishing communities along the southern coast.
 
 Subsequent centuries saw rapid growth of the local population, which was politically and culturally isolated from mainland Europe by the 6th Century BC. By the 4th Century BC, many contemporary cultural features of the country had become commonplace, including an early form of [Upen](/utopia/culture/religion) and [Vekllei logographs](/utopia/culture/language/#topet). During the following millennia Vekllei developed into a major economic and military power, but saw its influence decline between the 12th and 15th Centuries AD during the Period of Rest.
 
@@ -236,7 +236,7 @@ These features manifest in various forms throughout modern Vekllei, including it
 
 #### Atlantic Municipalism
 
-**Atlantic Municipalism**, also *Sundress Municipalism*, is the way in which Vekllei settlements are organised within boroughs, and informs the way in which cities are built. Vekllei has an indigenous architecture ideology, called *Newda*[^3], which conforms to planning and lifestyle principles laid out in *Atlantic Municipalism*. The principles themselves are often represented as a seven-pointed star. They are as follows:
+**Atlantic Municipalism**, also *Sundress Municipalism*, is the way in which Vekllei settlements are organised within boroughs, and informs the way in which cities are built. Vekllei has an indigenous architecture ideology, called *Newda*,[^3] which conforms to planning and lifestyle principles laid out in *Atlantic Municipalism*. The principles themselves are often represented as a seven-pointed star. They are as follows:
 
 1. Local employment, or "commutelessness."
 2. Slumlessness, beautification, and a will to architecture.
@@ -463,7 +463,7 @@ Utilities are provided for by the national **Thunderburo** (the Hydro, Geo, Nucl
 
 Vekllei has the cleanest drinking water in the world, supplied by the country's interior freshwater glaciers. Vekllei's Hydroburo is also responsible for sewerage treatment and processing in the country.
 
-[^1]: The Vekllei Commonwealth includes 2 territories, 2 dependent states and 5 member-states that are further divided into 10 Crown Cherishes, documented here: <span class="spanlink"><a href="/files/Member-States%20of%20the%20Vekllei%20Commonwealth.pdf">URL →</a></span>
+[^1]: The Vekllei Commonwealth includes 2 territories, 2 dependent states and 5 member-states that are further divided into 10 Crown Cherishes.
 [^2]: Kalalist is the Vekllei word for what we know as Greenland.
 [^3]: *Newda* refers to multiple indigenous design philosophies and architectures, including municipalist design, civic newda and socialist tectonicism.
 

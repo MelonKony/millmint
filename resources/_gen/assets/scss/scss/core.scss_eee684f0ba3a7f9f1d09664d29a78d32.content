@@ -506,11 +506,11 @@ footer ul {
 
 @media screen and (min-width: 90rem) {
   main {
-    width: 35%; } }
+    width: 30%; } }
 
-@media screen and (min-width: 35%) {
+@media screen and (min-width: 30%) {
   main {
-    width: 35%; } }
+    width: 30%; } }
 
 .collapsible-menu-wrapper details {
   padding: 0 !important;
@@ -2006,10 +2006,9 @@ article hr {
   border: 1px solid; }
 
 body article blockquote {
-  border-inline-start: 0.25rem solid var(--color-gray);
-  color: var(--color-gray);
-  font-style: italic;
-  border-radius: .25rem; }
+  border-inline-start: 2px solid var(--color-gray);
+  color: var(--bdoy-font-color);
+  font-style: italic; }
 
 .hint {
   margin-top: 0.5rem;
@@ -2403,16 +2402,18 @@ ol {
 
 /* sidenotes */
 .sidenote {
-  padding-left: 2rem;
+  padding-left: 1rem;
   margin-bottom: 1.5rem;
-  border-left: 1px solid black;
-  color: black;
+  margin-left: 1.5rem;
+  border-left: 1px solid var(--body-font-color);
+  color: var(--body-font-color);
   font-style: italic;
-  font-size: 0.8rem; }
+  font-size: 0.8rem;
+  opacity: 75%; }
 
 .sidenote-hover {
-  border-color: black;
-  color: black; }
+  border-color: var(--color-gray);
+  color: var(--color-gray); }
 
 .search {
   position: relative;
