@@ -2408,6 +2408,7 @@ ol {
   padding-left: 1rem;
   margin-bottom: 1.5rem;
   margin-left: 1.5rem;
+  margin-right: 1.5rem;
   border-left: 1px solid var(--body-font-color);
   color: var(--body-font-color);
   font-style: italic;
