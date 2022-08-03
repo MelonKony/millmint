@@ -34,11 +34,6 @@
         });
     });
     
-    /*$(document).ready(function(){
-      $("details").click(function(){
-        loadSideNotesFromFootnotes();
-      });
-    });*/
     $('img').on('load', function() {
         loadSideNotesFromFootnotes();
     });
