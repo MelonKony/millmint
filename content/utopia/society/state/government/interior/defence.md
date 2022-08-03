@@ -43,25 +43,21 @@ COSMOKOS also provides security services domestically, and is responsible for mo
 {{<outline>}}
 ### Armed Forces of Vekllei
 
-The *Armed Forces of Vekllei*, arranged under the COSMOKOS ministry, are unusual in that they do not have control directly over troops or equipment. The actual armed forces of Vekllei, known as the [Royal or Crown Armed Forces](/utopia/society/state/palace/military/), are a sovereign feature of the country and as such are placed under direct supervision of the Sovereign Administration -- seperate from the Vekllei and Commonwealth governments.
+The *Armed Forces of Vekllei*, arranged under the COSMOKOS ministry, are unusual in that they do not have control directly over troops or equipment. The actual armed forces of Vekllei, known as the [Crown Armed Forces](/utopia/society/state/palace/military/), are a sovereign feature of the country and as such are placed under direct supervision of the [Palace of Vekllei](/utopia/society/state/palace/) -- seperate from the Vekllei and Commonwealth governments.
 
 The purpose of the Armed Forces of Vekllei, an agency-level body under control of COSMOKOS, is to integrate the Crown Armed Forces with the interior government, and facilitate the employ of Vekllei people in the Armed Forces. 
 
-#### Communications Bureau
+#### Department of Communications
 
-The *Communications Bureau* is a bureau-level organisation of the Armed Forces responsible for coordinating public information about military activities.
+The *Department of Communications* is a bureau-level organisation of the Armed Forces responsible for coordinating public information about military activities. It also produces several newspapers and periodicals for servicemen through subservient publishing houses.
 
 #### Department of Compulsory Service
 
-The *Department of Compulsory Service* (DoCS, also CS) oversees the Vekllei Compulsory Service Scheme, a hybrid civilian/military conscription law that requires four years from each citizen between the ages of 18 and 32. Despite reporting to the Armed Forces of COSMOKOS, the DoCS does not facilitate widespread conscription and mobilisation of the civilian population, a role served by the [DoM](#department-of-mobilisation). Instead, it is responsible primarily for supervising the fulfilment of the Compulsory Service Scheme, and administrating the conscription and training of Vekllei citizens, including in civilian and industrial roles.
+The *Department of Compulsory Service* (DoCS, also CS) oversees the Vekllei Compulsory Service Scheme, a hybrid civilian/military conscription law that requires four years from each Commonwealth citizen between the ages of 18 and 32. Despite reporting to the Armed Forces of COSMOKOS, the DoCS does not facilitate widespread conscription and mobilisation of the civilian population, a role served by the [DoM](#department-of-mobilisation). Instead, it is responsible primarily for supervising the fulfilment of the Compulsory Service Scheme, and administrating the conscription and training of Vekllei citizens, including in civilian and industrial roles.
 
 #### Department of Foreign Affairs
 
-The *Department of Foreign Affairs* (DoFA) coordinates military affairs with states overseas, including members of the Commonwealth.
-
-* **Office of the Public**: Press office that prepares public announcements and controls information to the press.
-* **Office of Overseas Affairs**: 
-* **Office of Strategic Affairs**: 
+The *Department of Foreign Affairs* (DoFA) coordinates military affairs with states overseas, including members of the Commonwealth. Responsibilities include facilitating military exchange and cooperation with foreign militaries, as well as relations-focussed work with strategic and allied nations.
 
 #### Department of Mobilisation
 
@@ -69,19 +65,19 @@ The *Department of Mobilisation* (DoM) is responsible for recruitment in peaceti
 
 #### Department of Peacekeeping
 
-The *Department of Peacekeeping* (DoP) coordinates Vekllei's overseas peacekeeping operations. Vekllei is among the largest contributors of men and equipment towards United Nations Peacekeeping Forces, which 
+The *Department of Peacekeeping* (DoP) coordinates Vekllei's overseas peacekeeping operations. Vekllei is among the largest contributors of men and equipment towards United Nations Peacekeeping Forces, which are responsible to and administrated by the DoP while deployed. The Department of Peacekeeping also engages with international mechanisms for peace, and contributes personnel as part of foreign aid or disaster relief. 
 
-#### Intelligence Liaison
+#### Intelligence Liaison Office
 
-The *Intelligence Liaison* is a specialised office that coordinates military intelligence between Vekllei's security apparatuses, particularly those of the [National Intelligence Directorate](/utopia/society/state/government/commonwealth/security/#national-intelligence-directorate). Intelligence gathering in Vekllei is performed by a variety of mostly autonomous espionage organs, and the purpose of the Liaison is to authenticate and prepare intelligence for military use. It includes the following branches.
+The *Intelligence Liaison Office* is a specialised office that coordinates military intelligence between Vekllei's security apparatuses, particularly those of the [National Intelligence Directorate](/utopia/society/state/government/commonwealth/security/#national-intelligence-directorate). Intelligence gathering in Vekllei is performed by a variety of mostly autonomous espionage organs, and the purpose of the Liaison is to authenticate and prepare intelligence for military use. It includes the following branches.
 
 * **National Intelligence Branch**: Coordination of intelligence gathered by security apparatuses with Armed Forces.
 * **Civilian Intelligence Branch**: Coordination of intelligence gathered by industrial and civilian sectors (in occupied territories, for example) with Armed Forces and security apparatuses.
 * **Strategic Intelligence Branch**: Coordination of intelligence gathered by the Armed Forces with security apparatuses.
 
-#### Sovereign Liaison
+#### Sovereign Liaison Office
 
-The *Sovereign Liaison* is a specialised office intended to link the [Royal Armed Forces of Vekllei](/utopia/society/state/palace/military/) with COSMOKOS, an interior ministry with no direct control over troops of the Crown. Although it is the *de facto* office of communication with the Crown forces, in practice communication generally occurs directly with the relevant COSMOKOS department. The purpose of the Sovereign Liaison is mostly as a democracy-advocate, supervising the COSMOKOS departments as an anti-corruption watchdog similar to other democracy-advocates. It also ensures COSMOKOS operations do not affect sovereign operations
+The *Sovereign Liaison Office* is a specialised office intended to link the command of the [Crown Armed Forces of Vekllei](/utopia/society/state/palace/military/) with COSMOKOS, an interior ministry with no direct control over troops of the Crown. Although it is the *de facto* office of communication with the Crown forces, in practice communication generally occurs directly with the relevant COSMOKOS department. The purpose of the Sovereign Liaison is mostly as a democracy-advocate, supervising the COSMOKOS departments as an anti-corruption watchdog similar to other democracy-advocates. It also ensures COSMOKOS operations do not affect sovereign operations
 
 {{</outline>}}
 
@@ -94,6 +90,8 @@ The *Sovereign Liaison* is a specialised office intended to link the [Royal Arme
 
 The *Police of the Parliament* (VENOPOR) are the national and paramilitary police of Vekllei, responsible for internal security, riot control, counter-terrorism, disaster response, law enforcement and maritime rights protection. The VENOPOR is made up of a variety of organisations dedicated to specialised and tactical forms of policing unavailable to the [Police of the Public](#police-of-the-public). As a paramilitary force, the VENOPOR are also trained to support the [Crown Armed Forces](/utopia/society/state/palace/military/) in wartime, and coordinate broad mobilisation in the event of a defensive war.
 
+VENOPOR jurisdiction is organised within the individual theatre commands of the Crown Armed Forces. Kala, the Antilles and the Vekllei and Kalina Islands maintain their own VENOPOR police forces, and other Commonwealth members and territories are dependent on Vekllei Islands policing.
+
 #### Coast Guard of the Parliament Police
 
 {{< hint >}}
@@ -102,7 +100,7 @@ The *Police of the Parliament* (VENOPOR) are the national and paramilitary polic
 
 The *Vekllei Coast Guard* (also the *Navy of the Parliament* or the *Coast Guard of the Parliament Police*) is the maritime naval police of Vekllei responsible for search and rescue and law enforcement in the territorial waters of Vekllei.
 
-As part of the Commonwealth Security Concordat, the Vekllei Coast Guard also provides maritime policing services to members of the Commonwealth. 
+As part of the Commonwealth Security Concordat, the Vekllei Coast Guard also provides maritime policing services to members of the Commonwealth. It is among the most well-equipped and militarised coast guards in the world, and assists in rigorous protection of Vekllei's Atlantic claims and oceanic exclusive economic zones.
 
 #### Customs of the Parliament Police
 
@@ -126,6 +124,8 @@ The *Special Guard* (also Honour Guard) are a security unit responsible for poli
 
 #### Militia of the Parliament Police
 
+The *Militia* of the Parliament Police are an auxiliary and reserve force of the VENOPOR, and serve a similarly paramilitary function in Vekllei society. Although the miltia report to the Crown Armed Forces as part of the VENOPOR, they similarly serve a primarily policing role in peacetime consisting mostly of crowd control and support of conventional policing outfits. Militia units in Vekllei may consist of volunteers, as per the Army Reserves, or conscripts in Compulsory Service.
+
 {{</outline>}}
 {{<outline>}}
 ### Police of the Public
@@ -133,6 +133,8 @@ The *Special Guard* (also Honour Guard) are a security unit responsible for poli
 ❖ Read more: *[The Police of the Public](/posts/2022-01-11-police/#cosmopor--the-police-of-the-public)*
 {{< /hint >}}
 
-The *Police of the Public* (COSMOPOR) are the local police in Vekllei, mostly constabulary responsible for local policing. 
+The *Police of the Public* (COSMOPOR) are the local police in Vekllei, mostly constabulary responsible for local policing. COSMOPOR are retained on a municipal level, and divided between municipalities in neighbourhoods known as commissions. A commission is lead by an Inspector or Qualified Constable. Each neighbourhood commission, which might comprise an area of thousands of people, is further subdivided in constabularies, which are the responsibility of a constable. Constables general know each person in their constabulary, and visits each residence regularly to confirm the welfare of their community and hear their grievances.
+
+Constables attend to the security and peacefulness of their jurisdictions, and are often unarmed. Most arrests and warrants are executed by Inspectors or VENOPOR officers rather than constables.
 {{</outline>}}
 {{</section>}}

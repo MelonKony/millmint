@@ -33,6 +33,12 @@ author: Hobart Phillips
 The *Commonwealth Culture Secretariat* (COLSEC) is concerned primarily with 'cultural values and beliefs' of the Commonwealth, their protection, and foreign relations. Its subordinate offices are dedicated to key areas of concern designed to assist its smaller member-states which may lack the political infrastructure to facilitate their own offices. 
 
 {{<outline>}}
+### Commonwealth Central Archives
+
+The COLSEC *Commonwealth Affairs Office* (COLSA) is responsible for the documentation of the general disposition, welfare, culture and demography of the people of the Commonwealth. This includes political attitudes towards the Commonwealth itself, as well as how decisions made by other Secretariats impact public opinion. It is also the body-advocate of the public of member states who are unable to appeal to their local government directly.
+{{</outline>}}
+
+{{<outline>}}
 ### Commonwealth Affairs Office
 
 The COLSEC *Commonwealth Affairs Office* (COLSA) is responsible for the documentation of the general disposition, welfare, culture and demography of the people of the Commonwealth. This includes political attitudes towards the Commonwealth itself, as well as how decisions made by other Secretariats impact public opinion. It is also the body-advocate of the public of member states who are unable to appeal to their local government directly.

@@ -67,6 +67,13 @@
     url = "/utopia/society"
     weight = 5
     [[navbar]]
+      identifier = "government"
+      name = "Government"
+      pre = "🌸"
+      url = "/utopia/society/state/government"
+      parent = "society"
+      weight = 1
+    [[navbar]]
       identifier = "computers"
       name = "Computers"
       pre = "🖥"

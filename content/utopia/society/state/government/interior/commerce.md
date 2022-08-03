@@ -87,7 +87,7 @@ The *Bureau Proper Labour Bank of Vekllei* (MOTHERBANK) is the commercial lendin
 ❖ Read more: *[The Vekllei Crown](/posts/2020-06-24-crown/)*
 {{< /hint >}}
 
-The *National Mint of Vekllei* (also the *Mint*) is the sole producer of currency in Vekllei, tasked with minting and melting the Vekllei Crown. It also regulates gold bullion in the country, and manufactures bullion for use in the International Market. It is headquartered in Vekllei Proper, in the Home Islands.
+The *National Mint of Vekllei* (also the *Mint*) is the sole producer of currency in Vekllei, tasked with minting and melting the Vekllei Crown. It also regulates gold bullion in the country, and manufactures bullion for use in the International Market. It is headquartered in Vekllei Proper, in the Home Islands. The Mint also produces paper government certificates and security documents.
 
 The Mint is the custodian of the Commonwealth Bullion Depository, which holds reserves of over 6,000 tonnes of gold bullion belonging to the Commonwealth and over 60 other countries, and is among the largest such reserves in the world.
 
@@ -103,6 +103,7 @@ Since Vekllei citizens do not usually participate in the domestic securities mar
 
 * **General Council**: Advisory board to the Commonwealth.
 * **General Procuratorate**: Enforcement of penalties and prosecution of financial crimes.
+* **General Inspectorate**: Investigations into fraud, abuse and corruption in Vekllei markets.
 * **Department of Financing and Stock Exchange**: Regulation and monitoring of the Vekllei Stock Exchange and miscellaneous securities within the country.
 * **Department of International Markets**: Regulation and monitoring of the Vekllei International Market and government bonds.
 * **Department of Investments and Trusts**: Regulation and monitoring of the investments, securities and financial contracts of Vekllei citizens and companies.

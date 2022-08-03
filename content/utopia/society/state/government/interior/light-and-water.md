@@ -30,6 +30,15 @@ author: Hobart Phillips
 ## Overview
 {{<boxtag teal>}}COSMOLA{{</boxtag>}}
 
+The *Ministry of Light & Water* (COSMOLA) is responsible for the government monopoly on water and energy in Vekllei. COSMOLA builds and operates energy-producing facilities in the Vekllei Islands and maintains strict water-management policies to prevent droughts on the islands. Common responsibilities of COSMOLA include:
+
+* Maintenance and operation of utilities that provide Vekllei people with electricity and water.
+* Investment and research into emerging technologies that benefit production of energy and water.
+* Investment and research on sustainable energy and water policy.
+
+COSMOKOS also provides security services domestically, and is responsible for most internal police and security organisations in Vekllei.
+
+
 {{<outline>}}
 ### Vekllei Electric Commission
 

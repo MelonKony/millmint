@@ -53,8 +53,9 @@
   margin-left: 1rem; 
   display: inline-block;
   float: right;
-  color: var(--body-font-color);
+  color: var(--color-gray);
   background-color: var(--body-background);
+  border: 1px solid var(--color-gray);
   border-radius: 5px;
   font-size: 16px;
   line-height: 1.4;
