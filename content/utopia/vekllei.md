@@ -56,7 +56,7 @@ Such a country deserves observation, then. This document and its subarticles are
 
 ## Etymology
 
-The word *Vekllei* comes from the Islandi-Quutetast fusion dialect called *Topyas* ('Old Vekllei' in English), which was in common use by the 1st Century AD. It comes from the *Topyas* words for "volcanic town," or *Vek*, and "sea under the stars," or *Lei*, meaning "town of the stars by the sea". According to sagas, the name was gifted to the country by a volcanic spirit-god called *Tipet* (most likely present-day *Kesmi*) in the 3rd Century, but was likely a feature of Queen Souisviasn's language reforms during that time.
+The word *Vekllei* comes from the [Islandi-Quutetast](/utopia/culture/language/#history) fusion dialect called *Topyas* ('Old Vekllei' in English), which was in common use by the 1st Century AD. It comes from the *Topyas* words for "volcanic town," or *Vek*, and "sea under the stars," or *Lei*, meaning "town of the stars by the sea". According to sagas, the name was gifted to the country by a volcanic spirit-god called *Tipet* (most likely present-day *Kesmi*) in the 3rd Century, but was likely a feature of Queen Souisviasn's language reforms during that time.
 
 The word "Vekllei" refers to both the country and the island, and is also pluralised.
 
@@ -67,7 +67,7 @@ The name *Vekllei* ostensibly applies foremost to the physical landscape of the 
 ## History
 
 {{< hint >}}
-❖ Download the [Pre-War Vekllei Timeline (PDF)](/files/Pre-War%20Vekllei%20Timeline.pdf)
+❖ Download the <span class="smallicon">📄</span> [Pre-War Vekllei Timeline.pdf](/files/Pre-War%20Vekllei%20Timeline.pdf)
 {{< /hint >}}
 
 The Home Island has been inhabited for at least four thousand years by Arctic peoples migrating from Kalalist.[^2] Evidence of European settlement in Vekllei can be determined from unearthed fishing towns dated to 1230BC, when settlers from Ireland established fishing communities along the southern coast.
@@ -210,7 +210,7 @@ A map showing Vekllei's overseas territories, including claims in the Lesser Ant
 {{</hint>}}
 
 {{< hint >}}
-❖ Download the [Member-States of the Vekllei Commonwealth (PDF)](/files/Member-States%20of%20the%20Vekllei%20Commonwealth.pdf)
+❖ Download the <span class="smallicon">📄</span> [Member-States of the Vekllei Commonwealth.pdf](/files/Member-States%20of%20the%20Vekllei%20Commonwealth.pdf)
 {{< /hint >}}
 
 Constituent member-states maintain their own local parliaments in the style of the Vekllei Islands, and contribute secretaries to the Commonwealth Parliament, a supranational governing body affording equal representation to commonwealth members. 
@@ -463,7 +463,7 @@ Utilities are provided for by the national **Thunderburo** (the Hydro, Geo, Nucl
 
 Vekllei has the cleanest drinking water in the world, supplied by the country's interior freshwater glaciers. Vekllei's Hydroburo is also responsible for sewerage treatment and processing in the country.
 
-[^1]: The Vekllei Commonwealth includes 2 territories, 2 dependent states and 5 member-states that are further divided into 10 Crown Cherishes.
+[^1]: The Vekllei Commonwealth includes 5 member-states, 10 Crown Cherishes, 2 territories and 2 dependent states.
 [^2]: Kalalist is the Vekllei word for what we know as Greenland.
 [^3]: *Newda* refers to multiple indigenous design philosophies and architectures, including municipalist design, civic newda and socialist tectonicism.
 
