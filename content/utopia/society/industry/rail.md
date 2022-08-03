@@ -224,6 +224,4 @@ The backbone of the contemporary Vekllei rail fleet is the Electric Multiple Uni
 
 VNR pioneered super-conductive maglev transport for mass consumption, and its SC3 trainsets are the fastest in regular service in the world today, reaching nearly 750km/h in places. Its slowest locomotive, the T400 2-6-2 steam locomotive *Small Movements* built in 1928, averages just 30km/h on its tourist route in rural Krafla. VNR is also experimenting with nuclear-powered trainsets, but none have so far entered public testing.
 
-## Notes
-
 [^1]: Vekllei's 'war' prefix is used as a designation for pre-war railcars and locomotives, transliterated from the native word for the Junta's society.

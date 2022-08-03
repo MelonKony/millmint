@@ -218,8 +218,6 @@ The Mail retains a large and diverse fleet of vehicles in regular operations, wh
   * 1 executive mail train *(Series 4000 EMU)*
   {{< /details >}}
 
-## Notes
-
 [^1]: *A.r.* is a shortening of *state requisite* (A.r., or requoisesiasn amourisocietie)
 
 [^2]: The *Labour Bank of Vekllei* (often called the *Government Bank*) is Vekllei's social bank, and each Vekllei person is entitled to an equal share of it.

@@ -279,8 +279,6 @@ There are several components within *Vekllei Semaphore* which employs types of s
 
 Flags are used heavily in Vekllei semaphore, but are distinct from traditional semaphore systems through their use and appearance. Semaphore within *da Myaiouisvah* share more in common with *Upotenne* than they do alphabetic semaphore, and are largely figurative of extant runes. Flags are also very common objects that incorporate *formsigns* and *colourcoda,* and used frequently within Vekllei as means of communication. Festivals, companies and bureaus all use their own flags as means of identifying and communicating in public space.
 
-## Notes
-
 [^1]: *Demioette* and *hieyerette* meaning lit. "early lower" and "early higher" respectively.
 
 [^2]: *Blood Names* are traditional ancestral names carried along a mother's genetic heritage. Traditionally kept secret until burial, this custom has mostly fallen out of practice in modern Vekllei.
