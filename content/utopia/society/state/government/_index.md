@@ -34,8 +34,8 @@ The **Vekllei Government** is the supranational parliamentary government of the 
 	- <span class="navicon">🗳️</span>Vekllei Democracy Commissariat (coming soon)
 - <a href="/utopia/society/state/government/commonwealth/"><span class="navicon">🌸</span>Commonwealth Parliament</a>
 	- <span class="navicon">⚒️</span>Commonwealth Construction Secretariat (coming soon)
-	- <a href="/utopia/society/state/government/commonwealth/culture"><span class="navicon">🏵</span>Commonwealth Culture Secretariat</a>
-	- <a href="/utopia/society/state/government/commonwealth/education"><span class="navicon">🎓</span>Commonwealth Education Secretariat</a>
+	- <!--<a href="/utopia/society/state/government/commonwealth/culture">--><span class="navicon">🏵</span>Commonwealth Culture Secretariat (coming soon)
+	- <!--<a href="/utopia/society/state/government/commonwealth/education">--><span class="navicon">🎓</span>Commonwealth Education Secretariat (coming soon)
 	- <span class="navicon">⚕️</span>Commonwealth Health Secretariat (coming soon)
 	- <span class="navicon">⛓️</span>Commonwealth Labour Secretariat (coming soon)
 	- <a href="/utopia/society/state/government/commonwealth/security"><span class="navicon">🏹</span>Commonwealth Security Secretariat</a>

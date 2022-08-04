@@ -32,7 +32,7 @@ keywords: government, illustration, design, motion, utopia, utopianism, art, com
 **Vekllei** is positioned uniquely between the anarchy and control. This article looks at its government, which facilitates and manages these competing instincts. As the representative of the Vekllei state, and the body of its human interests, the Vekllei Government is second only to the Sovereign in its authority over Vekllei society.
 {{< /hint >}}
 
-**The Government of Vekllei** refers to both the [Administration of the Interior](/utopia/society/government/#administration-of-the-interior) of the [Vekllei Islands](/utopia/vekllei/) and the [international governing body](/utopia/society/government/#administration-of-the-commonwealth) of the Vekllei Commonwealth. This article serves as a handbook to all departments of the Vekllei Government, and will help clarify the structure and responsibilities of its subordinate ministries and secretariats. These centralised features guide the busy and anarchic Vekllei economies to produce a standard of living unlike anywhere else in the world, celebrating local, departmentalised and democratic government in the 21st Century.
+**The Government of Vekllei** refers to both the [Administration of the Interior](/utopia/society/government/#administration-of-the-interior) of the [Vekllei Islands](/utopia/vekllei/) and the [international governing body](/utopia/society/government/#administration-of-the-commonwealth) of the Vekllei Commonwealth. This article and its sub-articles serve as a handbook to all departments of the Vekllei Government, and will help clarify the structure and responsibilities of its subordinate ministries and secretariats. These centralised features guide the busy and anarchic Vekllei economies to produce a standard of living unlike anywhere else in the world, celebrating local, departmentalised and democratic government in the 21st Century.
 
 > I'll be damned if some jumped-up Municipal leech is going to tell me where I can and can't make friends.
 
@@ -55,11 +55,7 @@ In this state of affairs, Vekllei can refer to the powerful member-state in the 
 
 ## Government of the Vekllei Commonwealth
 
-{{< hint panel >}}
-**Since most Vekllei people** catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated "companies" in Vekllei.
-{{< /hint >}}
-
-The Government of Vekllei is divided between two parliaments -- the [**Interior Parliament**](/utopia/society/government/#parliament-of-the-interior), and the [**Commonwealth Parliament**](/utopia/society/government/#parliament-of-the-commonwealth). Neither is particularly subordinate to the other, and they serve different purposes in the lives of Vekllei people. 
+The Government of Vekllei is divided between three parliaments -- the [**Interior Parliament**](/utopia/society/state/government/interior), the [**Commonwealth Parliament**](/utopia/society/state/government/commonwealth) and the [**Crown Parliament**](/utopia/society/state/government/crown/). Neither is particularly subordinate to the other, and they serve different purposes in the lives of Vekllei people. 
 
 In general, the Interior Parliament is responsible for the standard of living in the Vekllei Home Islands and dependent autonomous regions like Demon and the Aismious islands. The Commonwealth Parliament is responsible for all features of the transnational Commonwealth superstate, standardising governance and state services while advocating for 'Floral Society' under the Floral Constitution.
 
@@ -67,6 +63,10 @@ Together, these two parliaments make up the combined Government of Vekllei. It i
 
 {{<section>}}
 ### Parliament of the Interior
+
+{{< hint >}}
+❖ Main article: *[The Interior Parliament](/utopia/society/state/government/interior)*
+{{< /hint >}}
 
 The *Administration of the Interior of the Government of Vekllei* (also known as the *Interior Government* or *Interior Parliament*) represents the human state of the Vekllei Home Islands, as well as its dependent possessions. It includes all 100 [boroughs](/utopia/landscape/boroughs/) of the Home Islands and its peripheral island possessions. Independent Commonwealth member-states Demon and Aismious lack the population to govern themselves independently, and so are dependent on the Interior Government. Other members of the Commonwealth, including Kalina, Kala and Mira, have parliaments (also called Interior Administrations) similar to the Vekllei Administration of the Interior.
 
@@ -87,7 +87,10 @@ Although each member of the Atlantic Commonwealth is considered a full participa
 {{<section>}}
 ### Parliament of the Crown 
 
-The *Commonwealth Administration of the Crown* (also the Crown Sovereign, Parliament of Spirits and Administration of the Crown interchangeably), not to be confused with the [Palace of the Vekllei Sovereign](/utopia/society/government/#palace-of-the-vekllei-sovereign), is the administration-level apparatus of the Commonwealth to coordinate policy with the Palace. Since the Commonwealth does not have direct authority of the features
-{{</section>}}
+{{< hint >}}
+❖ Main article: *[The Crown Parliament](/utopia/society/state/government/crown)*
+{{< /hint >}}
 
-[^1]: Vekllei's 'war' prefix is used as a designation for pre-war railcars and locomotives, transliterated from the native word for the Junta's society.
+The *Commonwealth Administration of the Crown* (also the Crown Sovereign and Parliament of Spirits interchangeably), not to be confused with the [Palace of the Vekllei Sovereign](/utopia/society/government/#palace-of-the-vekllei-sovereign), is the administration-level apparatus of the Commonwealth to coordinate policy with the Palace. Since the Commonwealth does not have direct authority over the features of the Sovereign, the Crown Parliament acts as its human representative in Vekllei government. Although it sits above the Commonwealth and Interior parliaments in sovereignty, its responsibilities are limited to constitutional matters and aspects of the Vekllei legal system. 
+
+{{</section>}}

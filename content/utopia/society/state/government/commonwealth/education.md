@@ -11,7 +11,7 @@ tags:
 categories:
   - society
 
-draft: false
+draft: true
 
 list_posts: false
 autonumbering: true
