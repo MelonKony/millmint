@@ -1990,6 +1990,11 @@ html { font-family: 'Inter', sans-serif; }
   font-family: "Emoji" !important;
   font-weight: normal; }
 
+.bulleticon {
+  font-family: "Emoji" !important;
+  font-weight: normal;
+  color: var(--color-gray); }
+
 @keyframes whirlyAnimate {
   0% {
     font-variation-settings: "anim" 100; }
@@ -2305,11 +2310,12 @@ article img[alt~="smallimg"] {
   filter: brightness(85%); }
 
 .spanlink {
-  padding: 0.25rem;
+  padding: 0.15rem;
   font-size: 15px;
   font-weight: bold;
   border-radius: 0.25rem;
   margin-top: 0rem;
+  margin-left: 6px;
   list-style: none;
   background-color: var(--gray-100);
   width: 100%; }

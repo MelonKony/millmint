@@ -71,6 +71,12 @@
 	font-weight: normal;
 }
 
+.bulleticon {
+	font-family: 'Emoji'!important;
+	font-weight: normal;
+	color: var(--color-gray);
+}
+
 @keyframes whirlyAnimate {
 	0%   { font-variation-settings: "anim" 100; }
 	100% { font-variation-settings: "anim" 200; }
