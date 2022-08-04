@@ -390,6 +390,9 @@ a {
 blockquote.hint:not(.panel) {
   background-color: var(--hint-bg, var(--gray-100)); }
 
+blockquote.hint.story {
+  background-color: var(--gray-100); }
+
 html {
   overflow-y: scroll; }
 
@@ -1121,7 +1124,7 @@ nav {
 .navbar-dropdown li {
   background-color: var(--body-background); }
   .navbar-dropdown li:hover {
-    background-color: var(--gray-100); }
+    text-decoration: underline; }
 
 .navbar-dropdown li:first-child {
   margin-bottom: -1px;

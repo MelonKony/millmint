@@ -41,6 +41,8 @@ You can **write to me** at hobart@millmint.net.
 August 2022
 {{</hint>}}
 
+<span class="bulleticon">📗</span> **August 4, 2022** New post: [*Waiting for a Movie*](/posts/2022-08-04-movie/) <span class="spanlink"><a href="/posts/2022-08-04-movie/">URL →</a></span>
+
 <span class="bulleticon">🌐</span> **August 3, 2022** Added sidenotes! On wide screens, footnotes will now appear in the right margin of an article adjacent to footnoted sentences. A really nice improvement to readability. On mobile, they appear below an article as usual.
 
 <span class="bulleticon">📓</span> **August 2, 2022** Added a new /state/ section in [/society/](/utopia/society) and split up the Government article into smaller pages, in preparation for its public release.

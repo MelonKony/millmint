@@ -125,3 +125,7 @@ a {
 blockquote.hint:not(.panel) {
   background-color: var(--hint-bg, var(--gray-100));
 }
+
+blockquote.hint.story {
+  background-color: var(--gray-100);
+}

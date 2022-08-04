@@ -79,7 +79,7 @@ nav {
   background-color: var(--body-background);
   
   &:hover {
-      background-color: var(--gray-100);
+      text-decoration: underline;
     }
 }
 .navbar-dropdown li:first-child {
