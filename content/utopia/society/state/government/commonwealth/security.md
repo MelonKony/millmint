@@ -126,7 +126,9 @@ The *Special Protectorate Bureau* at *National Intelligence* (SP/NI) reports inf
 {{<outline>}}
 ### State Security Directorate
 
-The *State Security Directorate* is primarily responsible for the security of the state itself, including all Vekllei parliaments, its ministries, secretariats and features, and its civil service and employees. It monitors, investigates and eliminates threats within and without the [Vekllei Government](/utopia/society/state/government/) and [Palace](/utopia/society/state/palace/), and 
+The *State Security Directorate* is primarily responsible for the security of the state itself, including all Vekllei parliaments, its ministries, secretariats and features, and its civil service and employees. It monitors, investigates and eliminates threats within and without the [Vekllei Government](/utopia/society/state/government/) and [Palace](/utopia/society/state/palace/), and controls privileged information of the Vekllei parliaments.
+
+The State Security Directorate works closely with the [Home Office of National Intelligence](/utopia/society/state/government/commonwealth/security/#home-office-honi), the NI organ responsible for the internal security of Vekllei's intelligence network.
 
 #### State Secrets Office
 

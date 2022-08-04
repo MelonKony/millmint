@@ -55,6 +55,8 @@ Just a few things to keep in mind:
 * This place is **good-spirited** -- Vekllei is escapism, and although the dark accompanies the light, this project is supposed to be escapist and fun.
 * This place is **constantly expanding** -- I try out new styles, mediums and methods of distribution all the time. Some of them work, some of them don't. That's part of the fun of it!
 
+In addition:
+
 * **Vekllei is a utopia**, but that doesn't mean I don't take it seriously or consider its society pragmatically.
 * **It's full of stuff I love**, but that doesn't mean it's perfect. Personal growth can come from bad experiences.
 * **I draw in certain styles**, but Vekllei isn't based off any one country.

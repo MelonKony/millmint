@@ -91,10 +91,12 @@ By the mid-21st century, Vekllei has become a remarkable place. Quality of life 
 
 Here are some quick facts about Vekllei and the state of the world in the mid-21st Century.
 
-* Vekllei takes place in a fictional retrofuture, where some technologies have advanced in different ways. Most computers in Vekllei are centralised as manufactured wetware, connected to via terminals. In this sense, they are both more and less advanced than contemporary personal computing. In other technologies, like aerospace, the world is undeniably more advanced.
+* Vekllei takes place in a fictional retrofuture, where some technologies have advanced in different ways. Most [computers in Vekllei](/utopia/society/technology/computers/) are centralised, connected to via terminals. In this sense, they are both more and less advanced than contemporary personal computing. In other technologies, like aerospace, the world is undeniably more advanced.
 * Vekllei's future retains the cold war from the previous century. The U.S.S.R. stiill exists, as do emerging political divisions across Europe, Africa, South America and Asia.
 * Vekllei's future remains heavily influenced by midcentury modernist styles.
 * Although Vekllei's unique history has influenced its region for thousands of years, most major diversions from our own timeline occur shortly after the Second World War.
+
+[So get going](/utopia/vekllei/). This website is an open notebook of the thing I love. If you like world-building, art, and strange corners of the web, you'll find something to like here.
 
 [^1]: Sargent, L.T., 1994. The Three Faces of Utopianism Revisited. *Utopian studies*, 5(1), p.3.
 
