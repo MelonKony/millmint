@@ -13,7 +13,6 @@ categories:
 list_posts: false
 autonumbering: true
 comments: false
-index: true
 
 toc: false
 
