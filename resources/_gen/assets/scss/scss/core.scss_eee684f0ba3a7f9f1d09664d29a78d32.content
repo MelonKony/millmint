@@ -1688,7 +1688,7 @@ article#collapsible_menu_changelogs {
   align-self: center; }
 
 .site-home {
-  background-image: url("https://images.millmint.net/images/mastheads/millmint.png");
+  background-image: url("/images/mastheads/millmint.png");
   background-position: 50% 50px;
   background-repeat: no-repeat;
   background-attachment: fixed;

@@ -10,7 +10,7 @@ tags:
 categories:
   - news
 
-image: https://images.millmint.net/images/intro.gif
+image: /images/intro.gif
 
 toc: false
 comments: false
