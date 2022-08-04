@@ -37,7 +37,7 @@ The name *Vekllei* refers most commonly to the country of Vekllei, situated in t
 
 > Oslola, raging and now blinded, drew deep wounds into the Earth. Out of these wounds came fire, and out of fire came Vekllei.
 
--- Retelling of Algic legends, Verse 40, *Saga of Origins*
+-- Retelling of Algic legends, Verse 40, *Saga of Origins*[^2]
 
 The Commonwealth capital and its largest city is the city-state Vekllei in the Vekllei Islands, which is home to half of its total population. The interior plateau of the Vekllei Islands consists of sand and lava fields, flower-tundras, glaciers, and temperate rainforests, and its lowlands are home to many glacial rivers.
 
@@ -70,7 +70,7 @@ The name *Vekllei* ostensibly applies foremost to the physical landscape of the 
 ❖ Download the <span class="smallicon">📄</span> [Pre-War Vekllei Timeline.pdf](/files/Pre-War%20Vekllei%20Timeline.pdf)
 {{< /hint >}}
 
-The Home Island has been inhabited for at least four thousand years by Arctic peoples migrating from Kalalist.[^2] Evidence of European settlement in Vekllei can be determined from unearthed fishing towns dated to 1230BC, when settlers from Ireland established fishing communities along the southern coast.
+The Home Island has been inhabited for at least four thousand years by Arctic peoples migrating from Kalalist.[^3] Evidence of European settlement in Vekllei can be determined from unearthed fishing towns dated to 1230BC, when settlers from Ireland established fishing communities along the southern coast.
 
 Subsequent centuries saw rapid growth of the local population, which was politically and culturally isolated from mainland Europe by the 6th Century BC. By the 4th Century BC, many contemporary cultural features of the country had become commonplace, including an early form of [Upen](/utopia/culture/religion) and [Vekllei logographs](/utopia/culture/language/#topet). During the following millennia Vekllei developed into a major economic and military power, but saw its influence decline between the 12th and 15th Centuries AD during the Period of Rest.
 
@@ -236,7 +236,7 @@ These features manifest in various forms throughout modern Vekllei, including it
 
 #### Atlantic Municipalism
 
-**Atlantic Municipalism**, also *Sundress Municipalism*, is the way in which Vekllei settlements are organised within boroughs, and informs the way in which cities are built. Vekllei has an indigenous architecture ideology, called *Newda*,[^3] which conforms to planning and lifestyle principles laid out in *Atlantic Municipalism*. The principles themselves are often represented as a seven-pointed star. They are as follows:
+**Atlantic Municipalism**, also *Sundress Municipalism*, is the way in which Vekllei settlements are organised within boroughs, and informs the way in which cities are built. Vekllei has an indigenous architecture ideology, called *Newda*,[^4] which conforms to planning and lifestyle principles laid out in *Atlantic Municipalism*. The principles themselves are often represented as a seven-pointed star. They are as follows:
 
 1. Local employment, or "commutelessness."
 2. Slumlessness, beautification, and a will to architecture.
@@ -464,8 +464,9 @@ Utilities are provided for by the national **Thunderburo** (the Hydro, Geo, Nucl
 Vekllei has the cleanest drinking water in the world, supplied by the country's interior freshwater glaciers. Vekllei's Hydroburo is also responsible for sewerage treatment and processing in the country.
 
 [^1]: The Vekllei Commonwealth includes 5 member-states, 10 Crown Cherishes, 2 territories and 2 dependent states.
-[^2]: Kalalist is the Vekllei word for what we know as Greenland.
-[^3]: *Newda* refers to multiple indigenous design philosophies and architectures, including municipalist design, civic newda and socialist tectonicism.
+[^2]: The *Saga of Origins* is Vekllei's earliest saga (or prose narratives), and is a collection of multiple texts written in [*Islandi*](/utopia/culture/language/#history) dating from around the 3rd Century.
+[^3]: Kalalist is the Vekllei word for what we know as Greenland.
+[^4]: *Newda* refers to multiple indigenous design philosophies and architectures, including municipalist design, civic newda and socialist tectonicism.
 
 <style>
 /* flags */

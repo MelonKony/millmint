@@ -30,7 +30,7 @@ author: Hobart Phillips
 ## Commonwealth Culture Secretariat 
 {{<boxtag teal>}}COLSEC{{</boxtag>}}
 
-The *Commonwealth Culture Secretariat* (COLSEC) is concerned primarily with 'cultural values and beliefs' of the Commonwealth, their protection, and foreign relations. Its subordinate offices are dedicated to key areas of concern designed to assist its smaller member-states which may lack the political infrastructure to facilitate their own offices. 
+The *Commonwealth Culture Secretariat* (COLSEC) is concerned primarily with 'cultural values and beliefs' of the Commonwealth, their protection, and foreign relations. Its subordinate offices are dedicated to key areas of concern designed to assist its smaller member-states which may lack the political infrastructure to maintain their own offices. 
 
 {{<outline>}}
 ### Commonwealth Central Archives

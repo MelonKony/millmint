@@ -27,12 +27,10 @@ author: Hobart Phillips
 {{< /hint >}}
 
 {{<section>}}
-## Commonwealth Security Secretariat 
+## Overview
 {{<boxtag teal>}}OPSEC{{</boxtag>}}
 
-The *Commonwealth Security Secretariat* (OPSEC) is the mother organisation of the internal and external security organs of the Vekllei government. These include intelligence gathering, espionage, special policing, and state security apparatuses.
-
-Like most features of the 
+The *Commonwealth Security Secretariat* (OPSEC) is the mother organisation of the internal and external security organs of the Vekllei government. Its constitutional mission includes intelligence gathering, espionage, special policing, and state security. It is headed by the Secretary of Security, and reports directly to the [Commonwealth Parliament](/utopia/society/state/government/commonwealth/).
 
 {{<outline>}}
 ### Commonwealth Military Command
@@ -114,18 +112,31 @@ The *Special Protectorate Bureau* at *National Intelligence* (SP/NI) reports inf
 
 * **Section 36 *Arcos***: Offices and staff in postcolonial Africa. 
 * **Section 37 *Boris***: Offices and staff in colonial Africa.
-* **Section 38 *Codesta***: Offices and staff in colonial Africa.
-* **Section 39 *Decrest***: Offices and staff in colonial Africa.
-* **Section 40 *Endoria***: Offices and staff in colonial Africa.
+* **Section 38 *Codesta***: Offices and staff in Vekllei Antarctica.
+* **Section 39 *Decrest***: Offices and staff in foreign delegations and international waters.
+* **Section 40 *Endoria***: Offices and staff in Vekllei space, including the moon.
 
 {{</outline>}}
 
 {{<outline>}}
 ### Public Security Directorate
+
+* I
 {{</outline>}}
 {{<outline>}}
 ### State Security Directorate
 
+The *State Security Directorate* is primarily responsible for the security of the state itself, including all Vekllei parliaments, its ministries, secretariats and features, and its civil service and employees. It monitors, investigates and eliminates threats within and without the [Vekllei Government](/utopia/society/state/government/) and [Palace](/utopia/society/state/palace/), and 
+
 #### State Secrets Office
+
+The *State Secrets Office* is responsible for the protection of classified information.
+
+* **1st Control Authority *Most Secret*** -- Information that would gravely damage the Commonwealth if made public
+* **2nd Control Authority *Secret*** -- Information that would seriously damage the Commonwealth if made public
+* **3rd Control Authority *Confidential*** -- Information that would damage the Commonwealth if made public
+* **4th Control Authority *Restrict*** -- Information of significant danger to individuals or Commonwealth activities
+* **5th Control Authority *Protect*** -- Information of danger to individuals or Commonwealth activities
+* **Base Control Authority *Official*** -- Information privileged to the Commonwealth
 {{</outline>}}
 {{</section>}}
