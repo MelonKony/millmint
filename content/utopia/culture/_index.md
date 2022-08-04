@@ -1,3 +1,4 @@
 ---
 title: "Culture"
+noindex: true
 ---

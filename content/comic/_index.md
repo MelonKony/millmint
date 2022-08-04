@@ -5,6 +5,8 @@ icon: 💫
 emoji: a
 color: blue
 
+draft: true
+
 tags: 
   - comic
 categories:

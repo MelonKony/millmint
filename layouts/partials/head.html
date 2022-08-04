@@ -26,7 +26,7 @@
     <meta name="author" content="{{ . }}" />
     {{ end }}
     
-    {{- if not .Params.Index -}}
+    {{- if .Params.noindex -}}
     <meta name = "robots" content = "noindex">
     {{- end -}}
 
