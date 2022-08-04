@@ -1121,8 +1121,7 @@ nav {
 .navbar-dropdown li {
   background-color: var(--body-background); }
   .navbar-dropdown li:hover {
-    background-color: var(--body-background);
-    filter: brightness(95%); }
+    background-color: var(--gray-100); }
 
 .navbar-dropdown li:first-child {
   margin-bottom: -1px;

@@ -35,6 +35,16 @@ The *Commonwealth Security Secretariat* (OPSEC) is the mother organisation of th
 {{<outline>}}
 ### Commonwealth Military Command
 
+The *Commonwealth Military Command* (CMC) is the unifying command organisation for the Crown Armed Forces, responsible ultimately for facilitating Commonwealth control of the armed forces. While the [Palace](/utopia/society/state/palace/) retains direct command over the armed forces, defence activities are in practice a privilege of the Commonwealth parliaments and so the CMC exists primarily to carry out this arrangement. In principle, the CMC accommodates open communication between the Armed Forces and the Commonwealth, but more commonly acts as a *de facto* command organisation for broad military arrangements outside of direct military administration like defence policy, strategic planning, military infrastructure and logistics, and communications.
+
+Commonwealth member-states usually maintain their own [defence ministries](/utopia/society/state/government/interior/defence/), and the CMC aims to standardise and consolidate defensive strength across the Commonwealth. It is made up of the following departments.
+
+* **General Council**: CMC administration and parliament liaison.
+* **Department of War**: All war-related strategic planning and activities, including preparation for operations.
+* **Department of Peacekeeping**: All activities related to Vekllei peacekeeping and expeditionary operations.
+* **Department of Training & Mobilisation**: Standardisation of training and mobilisation of troops across the Commonwealth.
+* **Department of Communications**: Coordination between the parliaments and the Palace, as well as public information.
+
 {{</outline>}}
 
 {{<outline>}}
@@ -55,13 +65,13 @@ It includes the following departments.
 * **Section 3 *Cosette***: Politics and domestic affairs.
 * **Section 4 *Devon***: Democracy-Advocate command.
 * **Section 5 *Eusea***: Logistics and training command.
-* **Section 6 *Familia***: Offices and staff in South Vekllei.
-* **Section 7 *Gem***: Offices and staff in East Vekllei.
-* **Section 8 *Helette***: Offices and staff in West Vekllei.
-* **Section 9 *Ioviosn***: Offices and staff in North Vekllei.
-* **Section 10 *Jasvere***: Offices and staff in the Commonwealth member states.
+* **Section 6 *Familia***: Offices and staff in South Commonwealth Intelligence Theatre.
+* **Section 7 *Gem***: Offices and staff in East Commonwealth Intelligence Theatre.
+* **Section 8 *Helette***: Offices and staff in West Commonwealth Intelligence Theatre.
+* **Section 9 *Ioviosn***: Offices and staff in North Commonwealth Intelligence Theatre and Vekllei Islands.
+* **Section 10 *Jasvere***: Offices and staff in the governments of Commonwealth member-states.
 * **Section 11 *Kosmo***: Senior reporting body and command.
-* **Section 12 *Los***: Internal regulation and operations command.
+* **Section 12 *Los***: Internal operations command.
 
 #### Africa Bureau (RB/NI)
 
@@ -108,37 +118,50 @@ The *Oriental Bureau* at *National Intelligence* (OB/NI) reports information and
 
 #### Special Protectorate Bureau (SP/NI)
 
-The *Special Protectorate Bureau* at *National Intelligence* (SP/NI) reports information and conducts operations across special territories and possessions of the Commonwealth, including military sites, the Vekllei Antarctic Claims, and the Lunar Territories. Although its home office is in Vekllei Proper at N.I., 
+The *Special Protectorate Bureau* at *National Intelligence* (SP/NI) reports information and conducts operations across special territories and possessions of the Commonwealth, including military sites, the Vekllei Antarctic Claims, and the Lunar Territories. Although its home office is in Vekllei Proper at N.I., it serves a different function to [HO/NI](/utopia/society/state/government/commonwealth/security/#home-office-honi), specialising in remote, dangerous and dirty work at the fringes of Vekllei intelligence control.
 
-* **Section 36 *Arcos***: Offices and staff in postcolonial Africa. 
-* **Section 37 *Boris***: Offices and staff in colonial Africa.
-* **Section 38 *Codesta***: Offices and staff in Vekllei Antarctica.
+* **Section 36 *Arcos***: Offices and staff assigned to special counterintelligence work.
+* **Section 37 *Boris***: Offices and staff assigned to the protection of individuals.
+* **Section 38 *Codesta***: Offices and staff in foreign claims and Vekllei Antarctica.
 * **Section 39 *Decrest***: Offices and staff in foreign delegations and international waters.
-* **Section 40 *Endoria***: Offices and staff in Vekllei space, including the moon.
+* **Section 40 *Endoria***: Offices and staff in Vekllei space and lunar territories.
 
 {{</outline>}}
 
 {{<outline>}}
 ### Public Security Directorate
 
-* I
+The *Public Security Directorate* (POSEC) is primarily tasked with intelligence related to public security, and is closely linked to the domestic intelligence-gathering activities of [HO/NI](#home-office-honi). POSEC is a directorate that primarily services the interests of the public, which distinguishes it from [National Intelligence](#national-intelligence-directorate) amd [SESEC](#state-security-directorate). To this end, it coordinates closely with the [Police of the Parliament](/utopia/society/state/government/interior/defence/#police-of-the-parliament) to conduct operations against terrorism, smuggling, organised crime and civil unrest.
+
+* **General Office**: POSEC administration.
+* **TERSEC Bureau**: Counterterrorism intelligence and operations.
+* **POLSEC Bureau**: Political intelligence and operations.
+* **VOCSEC Bureau**: Crime intelligence and operations.
+
 {{</outline>}}
 {{<outline>}}
 ### State Security Directorate
 
-The *State Security Directorate* is primarily responsible for the security of the state itself, including all Vekllei parliaments, its ministries, secretariats and features, and its civil service and employees. It monitors, investigates and eliminates threats within and without the [Vekllei Government](/utopia/society/state/government/) and [Palace](/utopia/society/state/palace/), and controls privileged information of the Vekllei parliaments.
+The *State Security Directorate* (SESEC) is primarily responsible for the security of the state itself, including all Vekllei parliaments, its ministries, secretariats and features, and its civil service and employees. It monitors, investigates and eliminates threats within and without the [Vekllei Government](/utopia/society/state/government/) and [Palace](/utopia/society/state/palace/), and controls privileged information of the Vekllei parliaments.
 
-The State Security Directorate works closely with the [Home Office of National Intelligence](/utopia/society/state/government/commonwealth/security/#home-office-honi), the NI organ responsible for the internal security of Vekllei's intelligence network.
+SESEC works closely with the [Home Office of National Intelligence](#home-office-honi), the National Intelligence Directorate organ responsible for the internal security of Vekllei's intelligence network. In cases of internal breaches of security, the SESEC acts as investigator and prosecutor. It includes the following departments.
+
+* **General Office**: SESEC administration.
+* **OPG Bureau**: Operational guidance section responsible for coordination of SESEC offices.
+* **COMSEC Bureau**: Management of confidential communications.
+* **DOCSEC Bureau**: Document archive and imaging intelligence section.
+* **CONSEC Bureau**: Counterintelligence section seperate from NI.
+* **INTSEC Bureau**: Internal security and monitoring of infiltration by domestic and international threats.
 
 #### State Secrets Office
 
-The *State Secrets Office* is responsible for the protection of classified information.
+The *State Secrets Office* is responsible for the protection of classified information. It maintains a control network of security classifications, and is charged with the location and security of classified documents. It also advises and processes changes to classifications, particularly in the case of state (as opposed to military) intelligence.
 
-* **1st Control Authority *Most Secret*** -- Information that would gravely damage the Commonwealth if made public
-* **2nd Control Authority *Secret*** -- Information that would seriously damage the Commonwealth if made public
-* **3rd Control Authority *Confidential*** -- Information that would damage the Commonwealth if made public
-* **4th Control Authority *Restrict*** -- Information of significant danger to individuals or Commonwealth activities
-* **5th Control Authority *Protect*** -- Information of danger to individuals or Commonwealth activities
-* **Base Control Authority *Official*** -- Information privileged to the Commonwealth
+* **1st Control Authority *Most Secret*** -- Information that would gravely damage the Commonwealth.
+* **2nd Control Authority *Secret*** -- Information that would seriously damage the Commonwealth.
+* **3rd Control Authority *Confidential*** -- Information that would damage the Commonwealth.
+* **4th Control Authority *Restrict*** -- Information of significant danger to individuals or Commonwealth activities.
+* **5th Control Authority *Protect*** -- Information of danger to individuals or Commonwealth activities.
+* **Base Control Authority *Official*** -- Information privileged to the Commonwealth.
 {{</outline>}}
 {{</section>}}

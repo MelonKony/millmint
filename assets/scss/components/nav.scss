@@ -79,8 +79,7 @@ nav {
   background-color: var(--body-background);
   
   &:hover {
-      background-color: var(--body-background);
-      filter: brightness(95%);
+      background-color: var(--gray-100);
     }
 }
 .navbar-dropdown li:first-child {
