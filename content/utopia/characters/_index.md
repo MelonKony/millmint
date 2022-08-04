@@ -13,6 +13,7 @@ categories:
 comments: false
 autonumbering: false
 list_posts: false
+index: true
 
 image: /images/mastheads/vista.png
 
