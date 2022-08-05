@@ -15,7 +15,7 @@ keywords:
 - 2022
 
 image: /images/sketching.jpg
-reddit: 
+reddit: https://www.reddit.com/r/vekllei/comments/wh1e65/caught_sketching/
 print: https://www.inprnt.com/gallery/melonkony/caught-sketching/
 video:
 ---
