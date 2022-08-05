@@ -20,4 +20,4 @@ print: https://www.inprnt.com/gallery/melonkony/caught-sketching/
 video:
 ---
 
-He had a tin in his hands. She liked seeing the soldiers on patrol. He caught her staring. She hid her sketch.
+He had a tin in his hands. She liked seeing the soldiers on patrol. He caught her staring.
