@@ -1264,6 +1264,8 @@ nav {
   font-family: "Emoji" !important;
   font-weight: normal;
   margin-right: 4px; }
+  .navicon:hover {
+    text-decoration: none !important; }
 
 @media only screen and (max-width: 500px) {
   .right {
