@@ -24,7 +24,7 @@ author: Hobart Phillips
 ---
 {{< hint >}}
 ߷ The Vekllei Interior Parliament is a national-level political body of the [Government of Vekllei](/utopia/society/state/government/)
-{{< /hint >}}
+{{</hint>}}
 
 {{<hint panel>}}
 The Vekllei Interior Parliaments are national political chambers of members of the Commonwealth. The ministries below belong to the Vekllei Islands Parliament, but most other full members of the Commonwealth maintain identical government structure.

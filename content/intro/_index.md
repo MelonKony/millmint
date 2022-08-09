@@ -24,7 +24,7 @@ layout: intro
 ## This is the Epoch of Rest
 {{< hint millmint >}}
 ❖ Check out the [**FAQ**](/intro/faq)
-{{< /hint >}}
+{{</hint>}}
 
 **These stories are about good places and people**. They take place in a fictional state called [Vekllei](/utopia/vekllei/), which is an Atlantic country that does not use money. The point of this project is to take the purity of that idea seriously, and immerse a place of wonder in the real world.
 
@@ -56,7 +56,7 @@ This website is a comprehensive archive and open notebook for the stories of Vek
 
 {{< hint millmint >}}
 ❖ Main article: [*Vekllei*](/utopia/vekllei)
-{{< /hint >}}
+{{</hint>}}
 
 <div class="row">
 <div class="column">

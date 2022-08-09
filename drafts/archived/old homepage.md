@@ -22,11 +22,11 @@ bookSearchExclude: true
 {{< hint yellow >}}
 **❖ Welcome**  
 *Welcome to MillMint.net!* This site is a wiki and archive for Hobart's stories of **utopia**.
-{{< /hint >}}
+{{</hint>}}
 {{< hint red >}}
 **🍥 Vekllei On The Web**  
 Browse the links in the sidebar to get started. Look at the panels below for info on this site.
-{{< /hint >}}
+{{</hint>}}
 <br>
 <h2 style="text-align: right; margin-top: 0px; font-size: 18pt;">
 <a style="margin-left: 8px; margin-right: 8px;" href="https://www.reddit.com/r/vekllei"><img src="/redditlogo.png" height="35" width="35" /></a>
@@ -49,17 +49,17 @@ This wiki was created in October 2020 to provide a comprehensive resource to the
 Forward site administration queries to Hobart on [Reddit](https://www.reddit.com/r/vekllei) or [Discord](https://www.discord.gg/dCE6vSU).
 
 Special thanks to Ben R. for his help with the parallax header and M. Tirado for technical support.
-{{< /hint >}}
+{{</hint>}}
 
 {{< hint yellow >}}
 **❖ Site Status 2020**  
 Many pages on this site are under construction and incomplete. Unless the article is flagged as completed, you should consider unfinished work subject to change.
-{{< /hint >}}
+{{</hint>}}
 
 {{< hint red >}}
 **🌼 The Vekllei Translation Project**  
 Français? Español? Português? 日本語? Contributors to the Vekllei Translation Project will be listed here.
-{{< /hint >}}
+{{</hint>}}
 {{< /details >}}
 
  <!-- magic separator, between columns -->

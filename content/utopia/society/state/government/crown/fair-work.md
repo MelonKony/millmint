@@ -24,7 +24,7 @@ author: Hobart Phillips
 ---
 {{< hint >}}
 ߷ This article is about an office of the Vekllei Crown
-{{< /hint >}}
+{{</hint>}}
 
 {{<section>}}
 ## Fair Work Authority 
@@ -36,7 +36,7 @@ The *Fair Work Authority* (FWA) is the Commonwealth industrial relations tribuna
 ### Quality of Life Surveillance Commission
 {{< hint >}}
 ❖ Read more: *[The Quality of Life Surveillance Commission](/posts/2021-06-29-qlc/)*
-{{< /hint >}}
+{{</hint>}}
 {{</outline>}}
 {{<outline>}}
 ### Petitions Office

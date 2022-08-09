@@ -24,7 +24,7 @@ author: Hobart Phillips
 ## Overview
 {{< hint >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei) society
-{{< /hint >}}
+{{</hint>}}
 
 
 ### Introduction

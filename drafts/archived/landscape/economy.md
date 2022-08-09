@@ -7,7 +7,7 @@ bookSearchExclude: true
 {{< hint yellow >}}
 **Under Construction**  
 This page is still under construction, and may be incomplete.
-{{< /hint >}}
+{{</hint>}}
 
 # The Vekllei Economy
 ### *Sundress Municipalism*

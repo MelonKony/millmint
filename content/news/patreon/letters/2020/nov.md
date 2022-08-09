@@ -18,7 +18,7 @@ author: Hobart Phillips
 
 {{< hint >}}
 ❖ This letter was sent out to Patrons in November 2020
-{{< /hint >}}
+{{</hint>}}
 
 Hello my lovelies,
 

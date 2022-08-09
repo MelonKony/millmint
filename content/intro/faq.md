@@ -41,7 +41,7 @@ color: var(--color-red);
 
 {{< hint >}}
 ߷ This article is about [**Hobart's utopia**](/intro/#three-utopias), called [**Vekllei**](/utopia/vekllei)
-{{< /hint >}}
+{{</hint>}}
 
 ## Why Utopia?
 {{< hint panel>}}

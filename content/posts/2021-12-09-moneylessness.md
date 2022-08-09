@@ -21,7 +21,7 @@ reddit: https://www.reddit.com/r/vekllei/comments/rcn1cg/on_moneylessness/
 
 {{< hint >}}
 ❖ **This essay** was published on [millmint.net](https://millmint.net). [Read it here](/news/essays/moneylessness).
-{{< /hint >}}
+{{</hint>}}
 
 > Pictured: Tzipora and Cobian cycle around the cliffs in the borough of Totoyan, on Vekllei's East Coast. Up ahead lies the Ocean Atlantique Restaurant and Public Gardens, run by the Totoyan Municipality.
 

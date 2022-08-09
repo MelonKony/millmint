@@ -24,7 +24,7 @@ author: Hobart Phillips
 ---
 {{< hint >}}
 ߷ This article is about a privilege of the Vekllei Sovereign
-{{< /hint >}}
+{{</hint>}}
 
 {{<section>}}
 ## Royal Armed Forces of Vekllei
@@ -48,7 +48,7 @@ author: Hobart Phillips
 
 {{< hint >}}
 ❖ Main article: *[The Crown Mail of Vekllei](/utopia/society/mail)*
-{{< /hint >}}
+{{</hint>}}
 
 #### General Office
 

@@ -22,7 +22,7 @@ author: Hobart Phillips
 <br>
 {{< hint green >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
-{{< /hint >}}
+{{</hint>}}
 
 >*Many townsfolk in Ou are employed in operation of the dam, either through the Thunder or Hydroburos. It is also the site of a small Vekllei National University laboratory which examines the dam environment and trains its staff.*
 

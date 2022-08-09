@@ -16,9 +16,9 @@ image: https://images.millmint.net/images/cruiser.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/gx7l0c/the_oaclass_battlecruiser/
 ---
 
-{{< hint >}}
+{{<hint story>}}
 ❖ **This article** was featured in [**Issue #2**](/news/bulletin/2020/2) of the *Atlantic Bulletin*
-{{< /hint >}}
+{{</hint>}}
 
 **Vekllei’s defensive military posture has**, in doctrine and arms development, limited its ability to meaningfully project power outside of the Atlantic. As an island nation with a large and multifaceted naval armada, the Oa-Class Battlecruiser is the heart of her armed forces, as the flagship of her fleets.
 

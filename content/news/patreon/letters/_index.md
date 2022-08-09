@@ -17,7 +17,7 @@ author: Hobart Phillips
 {{< hint >}}
 **❖ Note from the Editor**
 I occasionally publish letters to followers and patrons of the project to keep them informed on what's going on.
-{{< /hint >}}
+{{</hint>}}
 
 Listed below are copies of the letters distributed to patrons. **If you would like to support this project on Patreon, [click here](https://www.patreon.com/vekllei).**
 

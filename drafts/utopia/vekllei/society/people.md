@@ -8,11 +8,11 @@ bookSearchExclude: true
 {{< hint red >}}
 **Starred Article**  
 This article is complete. It was last updated in July 2020.
-{{< /hint >}}
+{{</hint>}}
 {{< hint yellow >}}
 **Under Construction**  
 This page is still under construction, and may be incomplete.
-{{< /hint >}}
+{{</hint>}}
 
 # 📜 The People of Vekllei
 ## 1. Introduction

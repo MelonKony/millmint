@@ -24,7 +24,7 @@ autonumbering: true
 
 {{< hint >}}
 ߷ This page lists completed articles on [**Vekllei's**](/utopia/vekllei) [**boroughs**](/utopia/vekllei/#administrative-divisions)
-{{< /hint >}}
+{{</hint>}}
 
 {{< hint panel >}}
 Over the next year I'll be completing this list of Vekllei's 100 boroughs, and linking them to images and posts produced in the project. Vekllei's five Crown Boroughs (once included) will be highlighted in bold.

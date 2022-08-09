@@ -25,11 +25,11 @@ author: Hobart Phillips
 
 {{< hint >}}
 ߷ This article is about [**Hobart's**](/news/about) [**utopia**](/intro/)
-{{< /hint >}}
+{{</hint>}}
 
 {{< hint panel >}}
 **Vekllei** is the utopian place of Hobart's ongoing Petticoat Project. Set ostensibly in Iceland, the history and geography of this country is radically different from our own, and welcomes an open exploration of new systems of living through a flexible alternate history.
-{{< /hint >}}
+{{</hint>}}
 
 **Vekllei** (also *The Vekllei Commonwealth*, *Islandi*, *Iceland*) is a sovereign island country situated in the northern Atlantic, between Greenland and the Faroe Islands. Besides the 100 boroughs of the conterminous Vekllei city-state (referred to as the *Home Island* or *Crown Metropole*), Vekllei includes two autonomous territories, six crown territories and various possessions including over a hundred satellite islands and islets. It is the 14th most densely-populated country in the world, with a population of 24.4 millions mostly situated around the Capital Region in the south-west of the Home Island. Its capital and largest city is Vekllei in the Capital Region, which is home to two-thirds of the total population. The interior plateau of the Home Island consists of sand and lava fields, flower-tundras, glaciers, and temperate rainforests, and its lowlands are home to many glacial rivers.
 
@@ -118,7 +118,7 @@ The name *Vekllei* ostensibly applies foremost to the physical landscape of the 
 
 {{< hint panel >}}
 **Vekllei** is an ancient country of striking geological monument. A landscape of igneous rock and lava flows, Vekllei's dramatic geology is tempered by its healthy abundance of rainforests and flower-tundras, which paint the country in soft mossy hues of green and yellow.
-{{< /hint >}}
+{{</hint>}}
 
 Vekllei sits atop the constructive boundary of the Mid-Atlantic ridge, bridging the North American and the Eurasian tectonic plates. The country is also found between the North Atlantic and Arctic oceans, although the entirety of the Home Island is situated beneath the arctic circle. Despite this, the extreme latitude of inhabited areas means daylight is highly seasonal in the country, with dark winters and summer solstices that provide 23 consecutive hours of daylight. This dramatic seasonal environment has ongoing political, economic and cultural relevance in the country today, and contributes to the dependence on hothouses and greenhouses for agriculture throughout the year.
 
@@ -141,7 +141,7 @@ Vekllei is the world's 18th largest island, and has significant biological and c
 
 {{< hint panel >}}
 **Politics** in Vekllei are characterised by postwar constitutional values of nonpartisan democracy and transparency of power. Political concern is aestheticised and developed along cultural and interpersonal lines; as a feature of life, but fundamentally participatory. In truth, at least with regards to domestic concern, Vekllei's daily affairs are basically autonomous, and politics remains the concern of an educated, invested class of people.
-{{< /hint >}}
+{{</hint>}}
 
 Vekllei is a unitary city-state and nonpartisan parliamentary democracy, divided into crown lakes, boroughs and provincial administrative divisions. It retains the territory of Vekllei as a sovereign of the country, in keeping with *Upen*, but otherwise the prime ministers have equal executive power, with disputes mediated by the Crown Senate. Vekllei retains a parliamentary system as a legacy of British occupation, but has since developed several indigenous features including its land-sovereign and twin ministership. The Vekllei system also incorporates American political features, including a constitution and bicameral house system.
 
@@ -159,7 +159,7 @@ Since Vekllei is nonpartisan, it does not allow formal participation of parties 
 
 {{< hint >}}
 ❖ See also: *[Boroughs of Vekllei](/utopia/landscape/boroughs)*
-{{< /hint >}}
+{{</hint>}}
 
 Although Vekllei is unitary politically and considers itself a city-state, the Home Islands are divided geographically between 100 boroughs (as part of the *borough system*). Each borough is proportional to the land-sovereign's natural wealth, which accounts for its history, folklore and natural features. Because of this, the human population of boroughs is highly disproportionate, the smallest being [Bakur](/utopia/vekllei/boroughs/bakur), in the Afouismeh region, with a population of 7,500 people, and the largest being Vekllei proper, in the Capital Region, of 2.4 millions.
 
@@ -236,11 +236,11 @@ These features manifest in various forms throughout modern Vekllei, including it
 
 {{< hint panel >}}
 **Vekllei** is land of plenty and small pleasures, afforded by a post-scarcity system that positions competing systems against each other. It is made up of a startling series of contradictions -- one after the other, each more unusual than the last. Vekllei is a planned economy; it is also a free market. Property ownership is obfuscated by portioned sovereignty of land and product. Decommodification has devalued products in a country based on manufacturing. There are many contradictions, inefficiencies and unusual mechanisms in the Vekllei domestic market, which total to benefit the living conditions of the average person.
-{{< /hint >}}
+{{</hint>}}
 
 {{< hint >}}
 ❖ See also: *[On Moneylessness](/news/essays/moneylessness/)*
-{{< /hint >}}
+{{</hint>}}
 
 **Although a major power**, Vekllei has an unusual hybrid market system called the *Vekllei Bureau System* (known colloquially as *Petticoat Socialism*), which incorporates state-owned socialist planned economics and deregulated syndicalist vertical *bureaus* to benefit a free, unregulated informal market system. Most unique about the Vekllei economy is its functional moneylessness, in which domestic society has abolished currency. No widespread currency substitutes are used in ordinary life. Each citizen owns a share of the *Labour Bank of Vekllei*, a portion of the *Government Securities Bureau* designed to allow emigration from the country, and so is theoretically entitled to an equal portion of the Bank.
 
@@ -323,7 +323,7 @@ Vekllei sponsors tourism abroad via the Social Government Bank, which allows Vek
 
 {{< hint panel >}}
 **The story of Vekllei** is a story of rebirth, and no better is this revealed than in the country's cultural *Aliyah* after the Atomic War. Vekllei is an ancient place rediscovering itself and its people, and in the rapid development of the postwar Floral Period there are novel shifts in how Vekllei people talk, behave, and look.
-{{< /hint >}}
+{{</hint>}}
 
 Vekllei has one of the highest population densities in the world, skewed largely by the populous Capital Region. Vekllei considers itself a city-state, and to this end fosters "commonhoods", represented by *common practice*, *common work* and *common landscape*. Although Vekllei has been settled for thousands of years, postwar advocation of *commonhoods* emphasises *landscape* in place of the historic *blood* in wake of Vekllei's growing migrant population and multiculturalism. Nearly 30% of Vekllei people were born overseas, though this number is trending down as immigration quotas (set by emigration and housing availability) restrict inflow in recent decades.
 
@@ -335,7 +335,7 @@ Vekllei maintains a stable fertility rate of about 1.8 children per woman, indic
 
 {{< hint red >}}
 ❖ Main article: *[Language in Vekllei](/utopia/culture/language/)*
-{{< /hint >}}
+{{</hint>}}
 
 Modern Vekllei language (referred to simply as ***Vekllei***) is the national language of the country and spoken universally within the Home Islands and Vekllei's various Atlantic possessions. It is notable for its varied sublanguages, which include a signed language called [*Upotenne*](/utopia/culture//language/#6-upotenne) and various extant utility scripts.
 
@@ -345,7 +345,7 @@ Vekllei is spoken by around 25 million people, and a further 800,000 people arou
 
 {{< hint red >}}
 ❖ Main article: *[Religion in Vekllei](/utopia/culture/religion/)*
-{{< /hint >}}
+{{</hint>}}
 
 *Upen* is the nondenominational animism of Vekllei, and is practiced nearly universally throughout the country in various forms and traditions. As much a secular cultural tradition as an organised religion, *Upen* coexists alongside abrahamic and miscellaneous faiths in the country, integrating most immigrant populations in Vekllei into its scripture on landscape and *sumoismiaya*, or the "spirit of things."
 
@@ -375,7 +375,7 @@ Vekllei's school enrolment is among the highest in the world, though this calcul
 
 {{< hint panel >}}
 **If Vekllei** is hesitant towards formal recognition of socialist aspects within its economy, in its infrastructure those concerns are discarded entirely. Vekllei is a midcentury state of nationalised infrastructure, led by grand modernist visions of progress and affluence. When combined with *Upen's* spiritual emphasis on physicality and permanence, Vekllei's affection for monuments of utility and public works are shown to be deeply embedded in the Vekllei national political spirit.
-{{< /hint >}}
+{{</hint>}}
 
 **Unlike manufacturing and general industry**, public infrastructure in the country is almost entirely monopolised by the government Utilities (A.r.Un.) and Construction (A.r.Lo.) state requisites, organs in Vekllei analogous to nationalised government industry. Infrastructure consistently ranks among Vekllei's greatest national expenditure, with trillions of Kroner each year poured into projects across the country.
 
@@ -390,7 +390,7 @@ Most large infrastructure projects, including transport, education, health, mili
 
 {{< hint vnr >}}
 ❖ Read more: *[Railways in Vekllei](/utopia/society/industry/rail/)*
-{{< /hint >}}
+{{</hint>}}
 
 Most Vekllei people do not own private autos, though they are available. Only 6% of the population possesses a driver license, and so most Vekllei people are dependent on the free and comprehensive network of transit systems that link settlement in the island, including trains of various guages, maglevs, trams, trolley busses, ferries, canal steamers, helijets, jets and light aircraft.
 
@@ -426,7 +426,7 @@ Homes are also commonly inherited in Vekllei. All Vekllei people are guaranteed 
 
 {{< hint mail >}}
 ❖ Main article: *[Post in Vekllei](/utopia/society/industry/mail/)*
-{{< /hint >}}
+{{</hint>}}
 
 The **Royal Mail of Vekllei** is the postal service of the country, and counts among its oldest surviving institutions. Founded in 1422, its origins as a military communications organ manifest today in its contemporary designation as a military state requisite, rather than civilian postal carrier. Despite this, the Royal Mail remains thoroughly civilian in its oversight and practice, and delivers around 50 million mail pieces a day in peak periods, including courier work abroad.
 

@@ -24,7 +24,7 @@ author: Hobart Phillips
 ---
 {{< hint >}}
 ߷ This article is about a ministry of the [Vekllei](/utopia/vekllei/) [Interior Parliament](/utopia/society/state/government/interior/)
-{{< /hint >}}
+{{</hint>}}
 
 {{<section>}}
 ## Overview

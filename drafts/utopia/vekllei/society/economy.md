@@ -25,13 +25,13 @@ color: var(--color-red);
 
 {{< hint yellow >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei)
-{{< /hint >}}
+{{</hint>}}
 
 ## 1. Overview
 
 {{< hint panel >}}
 **The economy of Vekllei** is a sparkling jewel of its crown of contradictions, and totally unique in the world today.
-{{< /hint >}}
+{{</hint>}}
 
 <span class="fc">V</span>
 **ekllei language**, abbreviated to just **Vekllei**, has six core sublanguages that are used commonly today. Although they often intersect, these different systems of communication are distinct languages in their own right, used for different purposes in different arenas of communication.

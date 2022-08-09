@@ -17,13 +17,13 @@ author: Hobart Phillips
 
 {{< hint green >}}
 ߷ This article is about an [**overseas member**](/utopia/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/utopia/vekllei)
-{{< /hint >}}
+{{</hint>}}
 
 ## 1. Overview
 
 {{< hint panel >}}
 **Making up the far reaches** of Vekllei's broad autonomous islander community, the West Antilles are full and autonomous members of the Atlantic Commonwealth. 
-{{< /hint >}}
+{{</hint>}}
 
 **The West Antilles** (commonly ***The Leeward Isles***) is the common name of three autonomous islands that make up the West Antilles, situated offshore of northern Venezuela in the Caribbean Sea. Like the [Kalina Isles](/utopia/landscape/territories/west)
 
@@ -69,7 +69,7 @@ Since Vekllei is nonpartisan, it does not allow formal participation of parties 
 
 {{< hint panel >}}
 **Vekllei** is land of plenty and small pleasures, afforded by a post-scarcity system that positions competing systems against each other. It is made up of a startling series of contradictions -- one after the other, each more unusual than the last. Vekllei is a planned economy; it is also a free market. Property ownership is obfuscated by portioned sovereignty of land and product. Decommodification has devalued products in a country based on manufacturing. There are many contradictions, inefficiencies and unusual mechanisms in the Vekllei domestic market, which total to benefit the living conditions of the average person.
-{{< /hint >}}
+{{</hint>}}
 
 
 <span class="fc">A</span>
@@ -124,7 +124,7 @@ Vekllei sponsors tourism abroad via the Social Government Bank, which allows Vek
 
 {{< hint panel >}}
 **The story of Vekllei** is a story of rebirth, and no better is this exemplified than in the country's cultural *Aliyah* after the Atomic War. Vekllei is an ancient country rediscovering itself and its people, and in the rapid development of the postwar Floral Period we find novel and exciting shifts in how Vekllei people talk, behave, and look.
-{{< /hint >}}
+{{</hint>}}
 
 <span class="fc">V</span>
 **ekllei** has one of the highest population densities in the world, skewed largely by the populous Capital Region. Vekllei considers itself a city-state, and to this end fosters "commonhoods", represented by *common practice*, *common work* and *common landscape*. Although Vekllei has been settled for thousands of years, postwar advocation of *commonhoods* emphasises *landscape* in place of the historic *blood* in wake of Vekllei's growing migrant population and multiculturalism. Nearly 30% of Vekllei people were born overseas, though this number is trending down as immigration quotas (set by emigration) restrict inflow in recent decades.
@@ -137,7 +137,7 @@ Vekllei maintains a stable fertility rate of about 1.8 children per woman, indic
 
 {{< hint red >}}
 ❖ Main article: *[Language in Vekllei](/utopia/culture/language/)*
-{{< /hint >}}
+{{</hint>}}
 
 Modern Vekllei language (referred to simply as ***Vekllei***) is the national language of the country and spoken universally within the Home Islands and Vekllei's various Atlantic possessions. It is notable for its varied sublanguages, which include a signed language called [*Upotenne*](/utopia/culture/language/#6-upotenne) and various extant utility scripts.
 
@@ -147,7 +147,7 @@ Vekllei is spoken by around 25 million people, and a further 800,000 people arou
 
 {{< hint red >}}
 ❖ Main article: *[Religion in Vekllei](/utopia/culture/religion/)*
-{{< /hint >}}
+{{</hint>}}
 
 *Upen* is the nondenominational animism of Vekllei, and is practiced nearly universally throughout the country in various forms and traditions. As much a secular cultural tradition as an organised religion, *Upen* coexists alongside abrahamic and miscellaneous faiths in the country, integrating most immigrant populations in Vekllei into its scripture on landscape and *sumoismiaya*, or the "spirit of things."
 
@@ -177,7 +177,7 @@ Vekllei's school enrolment is among the highest in the world, though this calcul
 
 {{< hint panel >}}
 **If Vekllei** is hesitant towards formal recognition of socialist aspects within its economy, in its infrastructure those concerns are discarded entirely. Vekllei is a midcentury state of nationalised infrastructure, led by grand modernist visions of progress and affluence. When combined with *Upen's* spiritual emphasis on physicality and permanence, Vekllei's affection for monuments of utility and public works are shown to be deeply embedded in the Vekllei national political spirit.
-{{< /hint >}}
+{{</hint>}}
 
 <span class="fc">U</span>
 **nlike** manufacturing and general industry, public infrastructure in the country is almost entirely monopolised by the government Utilities (A.r.Un.) and Construction (A.r.Lo.) state requisites, organs in Vekllei analogous to nationalised government industry. Infrastructure consistently ranks among Vekllei's greatest national expenditure, with trillions of Kroner each year poured into projects across the country.
@@ -210,7 +210,7 @@ Homes are also commonly inherited in Vekllei. All Vekllei people are guaranteed 
 
 {{< hint orange >}}
 ❖ Main article: *[Post in Vekllei](/utopia/society/industry/mail/)*
-{{< /hint >}}
+{{</hint>}}
 
 The **Royal Mail of Vekllei** is the postal service of the country, and counts among its oldest surviving institutions. Founded in 1422, its origins as a military communications organ manifest today in its contemporary designation as a military state requisite, rather than civilian postal carrier. Despite this, the Royal Mail remains thoroughly civilian in its oversight and practice, and delivers around 50 million mail pieces a day in peak periods, including courier work abroad.
 

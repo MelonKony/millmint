@@ -24,7 +24,7 @@ author: Hobart Phillips
 ---
 {{< hint >}}
 ߷ This article is about a privilege of the Vekllei Sovereign
-{{< /hint >}}
+{{</hint>}}
 
 {{<section>}}
 ## Advocate of the Parliament

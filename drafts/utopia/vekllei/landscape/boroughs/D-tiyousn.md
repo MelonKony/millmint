@@ -19,7 +19,7 @@ author: Hobart Phillips
 <br>
 {{< hint green >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
-{{< /hint >}}
+{{</hint>}}
 
 >*Up in Tiyousn, seispri wander freely, attracted by sulphur and silica waste pools discharged by the Magma-Electric Flash Plant nearby. Rich with minerals and warm to the touch, these milky ponds are gathering places for creatures of the spirit world.*
 

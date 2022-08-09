@@ -22,7 +22,7 @@ author: Hobart Phillips
 <br>
 {{< hint green >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
-{{< /hint >}}
+{{</hint>}}
 
 >*Out in Voya Voya, the gardens light the people, and distill turbulent human temperament into momentary, sequential lyrical images. A dead leaf moving by miracle across still water; an overturned bucket collecting dew along its handle; fern leaves half-curled, young and growing.*
 

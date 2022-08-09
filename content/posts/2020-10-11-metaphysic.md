@@ -18,9 +18,9 @@ image: https://images.millmint.net/images/atheism.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/j8pisi/mittens_and_metaphysic_product_atheism_and/
 ---
 
-{{< hint >}}
+{{<hint story>}}
 ❖ **This article** was featured in [**Issue #6**](/news/bulletin/2020/6) of the *Atlantic Bulletin*
-{{< /hint >}}
+{{</hint>}}
 
 >Pictured above: various fashions worn by Vekllei women, showcasing heavy cold-weather dresses, simple styling, strong geometric shapes and colours, loose fits, and modest hemlines.
 

@@ -25,7 +25,7 @@ color: var(--color-teal);
 
 {{< hint yellow >}}
 ❖ This article is about a [**character**](/intro/#utopia-as-character) who lives in [**Vekllei**](/utopia/vekllei)
-{{< /hint >}}
+{{</hint>}}
 
 ## 1. Overview
 

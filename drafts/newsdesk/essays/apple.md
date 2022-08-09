@@ -7,7 +7,7 @@ bookSearchExclude: true
 {{< hint info >}}
 **❖ Note from the Editor**  
 This article was **originally published** in **November 2020**.
-{{< /hint >}}
+{{</hint>}}
 
 # 💻 A Bite of the Apple: Petticoat Socialism and the Biggest Tech Company in the World
 #### Hobart Phillips

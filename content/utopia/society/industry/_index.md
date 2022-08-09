@@ -23,11 +23,11 @@ author: Hobart Phillips
 ## Overview
 {{< hint >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei) society
-{{< /hint >}}
+{{</hint>}}
 
 {{< hint panel >}}
 **Vekllei** is positioned uniquely between the anarchy and control. This article looks at its government, which facilitates and manages these competing instincts. As the representative of the Vekllei state, and the body of its human interests, the Vekllei Government is second only to the Sovereign in its authority over Vekllei society.
-{{< /hint >}}
+{{</hint>}}
 
 **The Government of Vekllei** refers to both the [Administration of the Interior](/utopia/society/government/#administration-of-the-interior) of the Vekllei [Home Islands](/utopia/vekllei/) and the [international governing body](/utopia/society/government/#administration-of-the-commonwealth) of the Vekllei Commonwealth. This article serves as a handbook to all departments of the Vekllei Government, and will help clarify the structure and responsibilities of its subordinate ministries and secretariats. These centralised features guide the busy and anarchic Vekllei economies to produce a standard of living unlike anywhere else in the world, celebrating local, departmentalised and democratic government in the 21st Century.
 

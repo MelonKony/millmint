@@ -22,7 +22,7 @@ author: Hobart Phillips
 <br>
 {{< hint green >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
-{{< /hint >}}
+{{</hint>}}
 
 >*There is a so-called “flash plant” in Miyatvousi, in the Lava region of Vekllei [...] the earth here is alive; in the cold, the ponds begin to steam.*
 

@@ -26,7 +26,7 @@ author: Hobart Phillips
 
 {{< hint >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
-{{< /hint >}}
+{{</hint>}}
 
 **The borough of Mumen** is an administrative region on the southwest coast of Vekllei, located in the Capital Region south of Pharos and west of Little Vekllei. It is named after Mumen, the city neighbourhood to which it belongs. It is home to one of Vekllei's primary immigrant processing centres, and now hosts a thriving immigrant community populated mostly by Southern Europeans. It is best known for its touristy seaside and bright white beaches, which take advantage of Southwest Vekllei's warm gulf climate.
 

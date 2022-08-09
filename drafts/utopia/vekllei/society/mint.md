@@ -60,16 +60,16 @@ color: var(--color-orange);
 
 {{< hint orange >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei) society
-{{< /hint >}}
+{{</hint>}}
 {{< hint orange >}}
 ❖ This article is **awaiting illustrations**
-{{< /hint >}}
+{{</hint>}}
 
 ## 1. Overview
 
 {{< hint panel >}}
 **The National Mint of Vekllei** is shrouded in mystery, since its use as a producer of coins in a country without money seems obscure. As is the case in many of Vekllei's State Requisites (A.r.), its purpose and structure is both uniquely Vekllei and thoroughly obtuse, two facts addressed here in this article.
-{{< /hint >}}
+{{</hint>}}
 
 <span class="fc">T</span>
 **he National Mint of Vekllei**, referred to as the **Mint** or **Mint A.r.**[^1] within the country, is sole producer of coins and government bonds in [Vekllei](/utopia/vekllei), as well as the sole proprietor of its domestic gold bullion reserve. It is a civilian state requisite responsible for physical money supply of Vekllei, which it continues to mint in the moneyless Floral Period as souvenirs (and, internationally, legal tender). It also serves as the primary printing facility for Vekllei's Government Bank, the country's Central Bank and regulator of money supply in both Vekllei and Government Crowns.
@@ -103,11 +103,11 @@ The Mint is an executive government agency directly operated by the Vekllei Gove
 
 {{< hint orange >}}
 ❖ Read more: *[The Vekllei Crown](/posts/2020-06-24-crown/)*
-{{< /hint >}}
+{{</hint>}}
 
 {{< hint panel >}}
 **The Royal Mail** maintains a constitutionally-bound monopoly on all postage in the country, leaving it the sole provider of universal postage service in Vekllei. Like most State Requisites (A.r.), however, it has substantial international trade and foreign dealings that provide for its common description as a state-owned for-profit enterprise, or public corporation.
-{{< /hint >}}
+{{</hint>}}
 
 <span class="fc">U</span>
 **niversal service** is, by the glossary of the Mail, truly universal. As mandated by Vekllei law, the Mail provides delivery for all postage material anywhere in the world, or indeed, beyond it. It maintains 6,424 post offices across Vekllei, including its antarctic and peripheral possessions. The Mail's first Lunar Post Office opened in 2059. In addition to its domestic monopoly, the Mail contributes nearly VK❦2.6 trillion each year towards the Vekllei Government Securities Bureau (the country's sovereign wealth fund) through its international postage and courier services abroad, under the name World Post.
@@ -167,11 +167,11 @@ The **Labour Bank of Vekllei**[^2] is easily accessible via the Mail's **Financi
 
 {{< hint orange >}}
 ❖ Read more: *[Gold Sappers](/posts/2021-04-09-sappers/)*
-{{< /hint >}}
+{{</hint>}}
 
 {{< hint panel >}}
 **As a military organ**, the Mail A.r. retains military ranks for its staff, commanded by a Postmaster General and aided by a civilian regulator designed to keep its critical service available to Vekllei people. The Mail's fleet includes dedicated jets, automatic trucks, mail trains, intercity pneumatic systems, vehicle automen, and postmen, all wearing the red and gold colours of the organisation. In total, the Mail delivers nearly 50 million pieces of mail during weekdays.
-{{< /hint >}}
+{{</hint>}}
 
 <span class="fc">I</span>
 **t is evident** that the services assigned to the Mail by the postwar constitution are of critical importance to the stability of Vekllei society. In addition to being one of the oldest active postal organisations in the world, the Royal Mail of Vekllei is tremendously busy, since physical post has scarcely been displaced by the telephone in the country. Even without the Mail's international postage, domestic mail each day can exceed 12 million pieces -- enough for 1 in 2 people, though commercial mail and periodicals are included.
@@ -195,7 +195,7 @@ There are 16,220 post boxes in Vekllei, which are iconic for their red and gold 
 
 {{< hint orange >}}
 ❖ Read more: *[The Fairie](/posts/2021-02-03-fairie/)*
-{{< /hint >}}
+{{</hint>}}
 
 The Mail retains a large and diverse fleet of vehicles in regular operations, which, due to their diversity and and expense, have become iconic around the world. From bicycles to space planes, the Mail's fleet of vehicles rivals in diversity postal services three times its size, largely benefitted by Vekllei's obfuscated budgeting system and cultural importance afforded to the organisation.
 

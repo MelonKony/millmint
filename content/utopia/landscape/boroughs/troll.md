@@ -23,7 +23,7 @@ author: Hobart Phillips
 
 {{< hint >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
-{{< /hint >}}
+{{</hint>}}
 
 **The borough of Troll** is an administrative region in southwest Vekllei, located in the Lava Region directly north of the glacier of Vatnayoskusl. Situated on the sloping north face of the Vekllei Glacier Highlands, the borough is home to several outlet glaciers flowing out of Vatnayoskusl's ice cap.
 

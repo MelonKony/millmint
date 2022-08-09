@@ -36,13 +36,13 @@ color: var(--color-pink);
 
 {{< hint pink >}}
 ߷ This article is about [**Hobart's utopia**](/intro/#utopia-as-landscape), called [**Vekllei**](/utopia/vekllei)
-{{< /hint >}}
+{{</hint>}}
 
 ## 1. What is this project?
 
 {{< hint panel >}}
 **Utopia** has a lot of definitions, but in the end it's about what it feels like. It has to be personal, otherwise it isn't all that different from sci-fi. So utopia is about what feels right by the metrics of one person; an expression of worldview.
-{{< /hint >}}
+{{</hint>}}
 
 <span class="fc">V</span>
 **ekllei is supposed to be an 'epoch of rest'**. It's a project that's become very big, with a long storyline and lots of characters, but at its heart this world is about peaceful escapism and whimsical nostalgia. This is a land of both plenty and pleasure, filled with the good and bad things of life, telling stories from a better place than our own.

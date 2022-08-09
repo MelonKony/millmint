@@ -26,11 +26,11 @@ keywords: government, illustration, design, motion, utopia, utopianism, art, com
 ## Overview
 {{< hint teal >}}
 ߷ This article is about the [**Vekllei**](/utopia/vekllei) [state](/utopia/society/state/)
-{{< /hint >}}
+{{</hint>}}
 
 {{< hint panel >}}
 **Vekllei** is positioned uniquely between the anarchy and control. This article looks at its government, which facilitates and manages these competing instincts. As the representative of the Vekllei state, and the body of its human interests, the Vekllei Government is second only to the Sovereign in its authority over Vekllei society.
-{{< /hint >}}
+{{</hint>}}
 
 **The Government of Vekllei** refers to both the [Administration of the Interior](/utopia/society/government/#administration-of-the-interior) of the [Vekllei Islands](/utopia/vekllei/) and the [international governing body](/utopia/society/government/#administration-of-the-commonwealth) of the Vekllei Commonwealth. This article and its sub-articles serve as a handbook to all departments of the Vekllei Government, and will help clarify the structure and responsibilities of its subordinate ministries and secretariats. These centralised features guide the busy and anarchic Vekllei economies to produce a standard of living unlike anywhere else in the world, celebrating local, departmentalised and democratic government in the 21st Century.
 
@@ -66,7 +66,7 @@ Together, these two parliaments make up the combined Government of Vekllei. It i
 
 {{< hint >}}
 ❖ Main article: *[The Interior Parliament](/utopia/society/state/government/interior)*
-{{< /hint >}}
+{{</hint>}}
 
 The *Administration of the Interior of the Government of Vekllei* (also known as the *Interior Government* or *Interior Parliament*) represents the human state of the Vekllei Home Islands, as well as its dependent possessions. It includes all 100 [boroughs](/utopia/landscape/boroughs/) of the Home Islands and its peripheral island possessions. Independent Commonwealth member-states Demon and Aismious lack the population to govern themselves independently, and so are dependent on the Interior Government. Other members of the Commonwealth, including Kalina, Kala and Mira, have parliaments (also called Interior Administrations) similar to the Vekllei Administration of the Interior.
 
@@ -78,7 +78,7 @@ The Interior Government is made up of 10 ministries which retain total authority
 
 {{< hint >}}
 ❖ Main article: *[The Commonwealth Parliament](/utopia/society/state/government/commonwealth)*
-{{< /hint >}}
+{{</hint>}}
 
 Although each member of the Atlantic Commonwealth is considered a full participant of equal importance, administration in practice occurs in the [Vekllei Islands](/utopia/vekllei/), its most populous and industrious member state. Many features of Floral Society are universal among Commonwealth members, and the Administration of the Commonwealth serves, maintains and standardises the values of Floral Society across the Atlantic.
 
@@ -89,7 +89,7 @@ Although each member of the Atlantic Commonwealth is considered a full participa
 
 {{< hint >}}
 ❖ Main article: *[The Crown Parliament](/utopia/society/state/government/crown)*
-{{< /hint >}}
+{{</hint>}}
 
 The *Commonwealth Administration of the Crown* (also the Crown Sovereign and Parliament of Spirits interchangeably), not to be confused with the [Palace of the Vekllei Sovereign](/utopia/society/government/#palace-of-the-vekllei-sovereign), is the administration-level apparatus of the Commonwealth to coordinate policy with the Palace. Since the Commonwealth does not have direct authority over the features of the Sovereign, the Crown Parliament acts as its human representative in Vekllei government. Although it sits above the Commonwealth and Interior parliaments in sovereignty, its responsibilities are limited to constitutional matters and aspects of the Vekllei legal system. 
 

@@ -18,9 +18,9 @@ image: https://images.millmint.net/images/winteruniforms.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/gkuij7/winter_uniforms_in_vekllei/
 ---
 
-{{< hint >}}
+{{<hint story>}}
 ❖ **This article** was featured in [**Issue #1**](/news/bulletin/2020/1) of the *Atlantic Bulletin*
-{{< /hint >}}
+{{</hint>}}
 
 **When I paint Vekllei, I usually depict the warmer months**. Hems are shorter, days are longer, and the destabilisation of the world’s climate has only benefited these arctic people. At the gift end of the Vekllei low pressure system, Scandinavian misery has become Mediterranean pleasure, with warm summers and a mild Autumn and Spring.
 

@@ -23,7 +23,7 @@ author: Hobart Phillips
 
 {{< hint >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
-{{< /hint >}}
+{{</hint>}}
 
 **The borough of Holsyim** is an administrative region in the east of Vekllei, located north-east of Seisyo and south-west of Fyell. It is named after Holsyim, its largest population centre. The town of Holsyim borders the *Holsyim lo [Kronaismioudelfia](/posts/2020-12-05-gods/)* (Holsyim Crown Land), an isolated natural and spiritual preserve home to some of Vekllei's oldest temperate rainforests. It is also a popular resort town, and receives many domestic tourists each year.
 

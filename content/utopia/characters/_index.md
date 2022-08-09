@@ -23,7 +23,7 @@ author: Hobart Phillips
 ---
 {{< hint >}}
 ߷ This article is about [**Hobart's characters**](/intro/#three-utopias), who live in [**Vekllei**](/utopia/vekllei)
-{{< /hint >}}
+{{</hint>}}
 
 **Although almost all characters** in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. This is useful, because if you're following along with this project, you're in some small way an immigrant yourself. It's through the eyes of these people that you see Vekllei, and their lives contribute to the utopian dimensions of this project as utopias-of-living.
 

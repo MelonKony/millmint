@@ -17,9 +17,9 @@ image: https://images.millmint.net/images/peaks.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/gel3e9/fiery_peaks/
 ---
 
-{{< hint >}}
+{{<hint story>}}
 ❖ **This article** was featured in [**Issue #1**](/news/bulletin/2020/1) of the *Atlantic Bulletin*
-{{< /hint >}}
+{{</hint>}}
 
 After three days in Ada, Tzipora set off towards Mt Miya. She made good time, and after three hours had happened upon the shoulders of the bright Volouisnesnkull Glacier. It was about here that she heard a morbid industrial siren, echoing up the valleys from far away.
 

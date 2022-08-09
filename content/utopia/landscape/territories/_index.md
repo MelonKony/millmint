@@ -20,7 +20,7 @@ comments: false
 
 {{< hint >}}
 ߷  This page lists completed articles on [**overseas territories**](/utopia/vekllei/#administrative-divisions) of the Vekllei Commonwealth.
-{{< /hint >}}
+{{</hint>}}
 
 {{< hint panel >}}
 Over the next 100 days I'll be completing this list, and linking them to images and posts produced in the project. Vekllei's five Crown Boroughs (once included) will be highlighted in bold.

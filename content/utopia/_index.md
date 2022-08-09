@@ -24,7 +24,7 @@ author: Hobart Phillips
 
 {{< hint panel >}}
 [**/Utopia/**](/utopia/) is the wiki of [Vekllei](/utopia/vekllei), its Commonwealth, and the features of its society. It also includes articles on the [characters](/utopia/characters/) I draw regularly.
-{{< /hint >}}
+{{</hint>}}
 
 {{< details title="Utopia" open=true >}}
 - <a href="/utopia/vekllei/"><span class="navicon">🎋</span>Vekllei</a>

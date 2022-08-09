@@ -25,7 +25,7 @@ author: Hobart Phillips
 
 {{< hint >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
-{{< /hint >}}
+{{</hint>}}
 
 **The borough of Eyri** is an administrative region on the far northwest coast of Vekllei, located in the Afouismeh Region north of [Bakur](/utopia/landscape/boroughs/bakur) and south of Basa. It is named after Eyri, an isolated coastal community employed mostly in controlled aquaculture by the Ocean Bureau. This quiet borough abounds with myth and legend related to its long seafaring history, emphasised only by the colossal wreck of the nearby icebreaking submarine *Sea Serpent*.
 

@@ -17,7 +17,7 @@ author: Hobart Phillips
 {{< hint blue >}}
 **❖ Note from the Editor**
 This essay was written in December 2021. [Click here to see it as a post](/posts/2021-06-26-utopie).
-{{< /hint >}}
+{{</hint>}}
 
 <span class="fc">W</span>
 hat good is more writing about theories and the methodology of country-constructs? More importantly — how is it authentically convincing to the person who has lived their entire lives immersed in their own ways of living? Vekllei does not use money — the purpose of this essay is to demonstrate how such a thing works, immersing Vekllei’s participatory economy in a human lens, and articulate the motivations, biases and assumptions of the average working Vekllei person.

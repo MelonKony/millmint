@@ -25,11 +25,11 @@ author: Hobart Phillips
 
 {{< hint >}}
 ߷ This article is about [Vekllei](/intro/#what-is-vekllei) computing, but most of these technologies are available world-over
-{{< /hint >}}
+{{</hint>}}
 
 {{< hint panel >}}
 **Computers** are used to subsidise rather than multiply productivity in Vekllei. This does not mean that they do not make commerce or industry more efficient, or open new means of communication between people -- only that they are understood foremost as a social benefit that enables the more idealistic features of the Floral Period and its functional moneylessness. Vekllei is working towards participatory work, and computers are among the dream's most valuable means in which it is being realised.
-{{< /hint >}}
+{{</hint>}}
 
 Vekllei uses electric computers in a range of industrial and commercial applications, which contributes to the increasing automation of the Vekllei Commonwealth workforce. Contemporary computing, known as the photo-electric generation, relies on optical technologies developed by the U.S. military in the 1980s, and were subsequently revolutionised by holographic memory by the U.K. in the 2030s. Vekllei computer science inherits much of its technology database from the U.K. through the Twin Electric research programme, and has contributed significantly to the efficiency and reliability of holographic data storage.
 
@@ -56,7 +56,7 @@ The size, speed and accessibility of data storage in Vekllei means that more dat
 
 {{< hint >}}
 ❖ Read more: *[Robots in Vekllei](/posts/2021-01-11-automen/)*
-{{< /hint >}}
+{{</hint>}}
 
 Although processing is usually offloaded to more powerful master computers, Vekllei makes extensive use of organic robotics to automate processes and functions where adaptivity to sensory input is required. These robots, called *automasiosn* or 'automen,' combine fabricated organic brains with photo-electric circuits to create a programmable, adaptive robot.
 

@@ -21,11 +21,11 @@ toc: true
 ---
 {{< hint >}}
 ❖ Main article: *[The Government of Vekllei](/utopia/society/state/parliaments)*
-{{< /hint >}}
+{{</hint>}}
 
 {{< hint panel >}}
 The **Vekllei Government** is the supranational parliamentary government of the Vekllei Islands and the members, dependent states and territories of the Vekllei Commonwealth. It is distinct from the [**Palace of Vekllei**](/utopia/society/state/palace), the monarch and sovereign of the Vekllei Commonwealth.
-{{< /hint >}}
+{{</hint>}}
 
 {{< details title="The Government of Vekllei" open=true >}}
 - <a href="/utopia/society/state/government/crown/"><span class="navicon">🌸</span>Crown Parliament</a>

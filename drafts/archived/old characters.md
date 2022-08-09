@@ -33,13 +33,13 @@ color: var(--color-pink);
 
 {{< hint pink >}}
 ߷ This article is about [**Hobart's characters**](/intro/#three-utopias), who live in [**Vekllei**](/utopia/vekllei)
-{{< /hint >}}
+{{</hint>}}
 
 ## Overview
 
 {{< hint panel >}}
 **This article** is still under construction (as of mid-January) but should be done soon. Thanks for your understanding. For now, Tzipora and Cobian are complete.
-{{< /hint >}}
+{{</hint>}}
 
 <span class="fc">A</span>
 **lthough almost all characters** in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. The character profiles below only gently touch upon the people that make up this world, but should serve as a stop-gap between nothingness and their full articles that will be produced over the coming months.

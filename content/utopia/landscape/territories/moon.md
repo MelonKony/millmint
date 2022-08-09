@@ -18,13 +18,13 @@ author: Hobart Phillips
 ---
 {{< hint green >}}
 ߷ This article is about a [**dependent territory**](/utopia/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/utopia/vekllei)
-{{< /hint >}}
+{{</hint>}}
 
 ## Overview
 
 {{< hint panel >}}
 **Although Vekllei** comprises several independent commonwealths, most notably the island city-state to which it owes its name, the Commonwealth of Vekllei also includes several autonomous nations. **Mira**, also called Madeira, is among them.
-{{< /hint >}}
+{{</hint>}}
 
 **The** Vekllei Lunar Territories are a dependent territory on the moon.
 

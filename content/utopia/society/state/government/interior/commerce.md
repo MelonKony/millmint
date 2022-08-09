@@ -24,7 +24,7 @@ author: Hobart Phillips
 ---
 {{< hint >}}
 ߷ This article is about a ministry of the [Vekllei](/utopia/vekllei/) [Interior Parliament](/utopia/society/state/government/interior/)
-{{< /hint >}}
+{{</hint>}}
 
 {{<section>}}
 ## Overview
@@ -85,7 +85,7 @@ The *Bureau Proper Labour Bank of Vekllei* (MOTHERBANK) is the commercial lendin
 ### National Mint of Vekllei
 {{< hint >}}
 ❖ Read more: *[The Vekllei Crown](/posts/2020-06-24-crown/)*
-{{< /hint >}}
+{{</hint>}}
 
 The *National Mint of Vekllei* (also the *Mint*) is the sole producer of currency in Vekllei, tasked with minting and melting the Vekllei Crown. It also regulates gold bullion in the country, and manufactures bullion for use in the International Market. It is headquartered in Vekllei Proper, in the Home Islands. The Mint also produces paper government certificates and security documents.
 

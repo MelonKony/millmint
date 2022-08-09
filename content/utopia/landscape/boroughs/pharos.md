@@ -22,7 +22,7 @@ author: Hobart Phillips
 
 {{< hint >}}
 ߷ This article is about a [**borough**](/utopia/landscape/boroughs) of [**Vekllei**](/utopia/vekllei/)
-{{< /hint >}}
+{{</hint>}}
 
 **The borough of Pharos** is an administrative region in the south-west of Vekllei, located in the Capital Region on the Coast of the Americas, north of [Mumen](/utopia/landscape/boroughs/mumen/) and west of [Lola](/utopia/landscape/boroughs/lola/). It is best known for its [World Jetport](#vekllei-world-jetport), which supports much of its aerospace industry. Despite its international reputation as the masthead of Vekllei aerospace, Pharos is a deeply cultural borough with a rich history, and is home to residents with descendants from all over the world.
 
@@ -66,7 +66,7 @@ Copetpek is a multicultural municipality best known for its craftsmanship and le
 
 {{< hint >}}
 ❖ Read more: [*ForeignFoto*](/posts/2021-09-27-foreignfoto/)
-{{< /hint >}}
+{{</hint>}}
 
 ForeignFoto is the foreign correspondent arm of the Commonwealth Press Bureau, the mother organisation for several public broadcasters under the Commonwealth Records and Telegraph Directorate. The ForeignFoto office and adjacent club functions as a sort of correspondent's club, and has been the starting place for several iconic figures in Vekllei journalism including Simon Nowak and Mose Slovo. It is a popular social club for foreign journalists stationed in Vekllei. 
 
@@ -166,7 +166,7 @@ The Pharos Railway Company Museum has preserved features of early Vekllei rail h
 
 {{< hint >}}
 ❖ Read more: [*Towers in the Park*](/posts/2022-04-24-towers/)
-{{< /hint >}}
+{{</hint>}}
 
 The Uclo Experimental Social Housing Project, called The Towers colloquially, were an experiment by the Vekllei Housing Commission in rapid-assembly apartment housing. They feature several distinct features of Vekllei 'Newda' design, including the use of large lightwells and indoor gardens. It is these luxuries and conveniences that keep the Towers desirable even 40 years on. Although successful in their goal to prove a new form of plentiful, comfortable housing, social housing policy shifted in the years after their construction, and Vekllei rarely builds apartment towers today.
 

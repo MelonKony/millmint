@@ -26,11 +26,11 @@ keywords: government, illustration, design, motion, utopia, utopianism, art, com
 ## Overview
 {{< hint teal >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei) society
-{{< /hint >}}
+{{</hint>}}
 
 {{< hint panel >}}
 **Vekllei** is positioned uniquely between the anarchy and control. This article looks at its government, which facilitates and manages these competing instincts. As the representative of the Vekllei state, and the body of its human interests, the Vekllei Government is second only to the Sovereign in its authority over Vekllei society.
-{{< /hint >}}
+{{</hint>}}
 
 **The Government of Vekllei** refers to both the [Administration of the Interior](/utopia/society/government/#administration-of-the-interior) of the Vekllei [Home Islands](/utopia/vekllei/) and the [international governing body](/utopia/society/government/#administration-of-the-commonwealth) of the Vekllei Commonwealth. This article serves as a handbook to all departments of the Vekllei Government, and will help clarify the structure and responsibilities of its subordinate ministries and secretariats. These centralised features guide the busy and anarchic Vekllei economies to produce a standard of living unlike anywhere else in the world, celebrating local, departmentalised and democratic government in the 21st Century.
 
@@ -57,7 +57,7 @@ In this state of affairs, Vekllei can refer to the powerful member-state in the 
 
 {{< hint panel >}}
 **Since most Vekllei people** catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated "companies" in Vekllei.
-{{< /hint >}}
+{{</hint>}}
 
 The Government of Vekllei is divided between two parliaments -- the [**Interior Parliament**](/utopia/society/government/#parliament-of-the-interior), and the [**Commonwealth Parliament**](/utopia/society/government/#parliament-of-the-commonwealth). Neither is particularly subordinate to the other, and they serve different purposes in the lives of Vekllei people. 
 
@@ -128,7 +128,7 @@ The *Bureau Proper Labour Bank of Vekllei* (MOTHERBANK) is the commercial lendin
 ##### National Mint of Vekllei
 {{< hint >}}
 ❖ Read more: *[The Vekllei Crown](/posts/2020-06-24-crown/)*
-{{< /hint >}}
+{{</hint>}}
 
 The *National Mint of Vekllei* (also the *Mint*) is the sole producer of currency in Vekllei, tasked with minting and melting the Vekllei Crown. It also regulates gold bullion in the country, and manufactures bullion for use in the International Market. It is headquartered in Vekllei Proper, in the Home Islands.
 
@@ -346,7 +346,7 @@ The *Sovereign Liaison* is a specialised office intended to link the [Royal Arme
 
 {{< hint >}}
 ❖ Read more: *[The Police of the Parliament](/posts/2022-01-11-police/#venopor--the-police-of-the-parliament)*
-{{< /hint >}}
+{{</hint>}}
 
 The *Police of the Parliament* (VENOPOR) are the national and paramilitary police of Vekllei, responsible for internal security, riot control, counter-terrorism, disaster response, law enforcement and maritime rights protection. The VENOPOR is made up of a variety of organisations dedicated to specialised and tactical forms of policing unavailable to the [Police of the Public](/utopia/society/government/#police-of-the-public). As a paramilitary force, the VENOPOR are also trained to support the [Crown Armed Forces](/utopia/society/government/#royal-armed-forces-of-vekllei) in wartime, and coordinate broad mobilisation in the event of a defensive war.
 
@@ -354,7 +354,7 @@ The *Police of the Parliament* (VENOPOR) are the national and paramilitary polic
 
 {{< hint >}}
 ❖ Read more: *[The Vekllei Coast Guard](/posts/2021-11-14-coastguard/)*
-{{< /hint >}}
+{{</hint>}}
 
 The *Vekllei Coast Guard* (also the *Navy of the Parliament* or the *Coast Guard of the Parliament Police*) is the maritime naval police of Vekllei responsible for search and rescue and law enforcement in the territorial waters of Vekllei.
 
@@ -368,7 +368,7 @@ The *Customs of Vekllei* (also the *Vekllei Customs* and the *Customs of the Par
 
 {{< hint >}}
 ❖ Read more: *[Gold Sappers](/posts/2021-04-09-sappers/)*
-{{< /hint >}}
+{{</hint>}}
 
 The *Mint Guard* (also *Gold Sappers*) are responsible for the security of financial assets in Vekllei, particularly currency and gold reserves minted and held by the Vekllei National Mint. In addition to providing security for Mint sites and infrastructure, the Mint Guard also escorts the transfer of Vekllei currency and gold internationally.
 
@@ -387,7 +387,7 @@ The *Special Guard* (also Honour Guard) are a security unit responsible for poli
 ##### Police of the Public
 {{< hint >}}
 ❖ Read more: *[The Police of the Public](/posts/2022-01-11-police/#cosmopor--the-police-of-the-public)*
-{{< /hint >}}
+{{</hint>}}
 
 The *Police of the Public* (COSMOPOR) are the local police in Vekllei, mostly constabulary responsible for local policing. 
 {{</outline>}}
@@ -529,7 +529,7 @@ The *Emergency Light and Water Authority* (EVA) is a specialised department of t
 
 {{< hint >}}
 ❖ Read more: *[Vekllei National Rail](/utopia/society/industry/rail/)*
-{{< /hint >}}
+{{</hint>}}
 
 The National Railways Bureau is the parent administrator of all rail transport in Vekllei. Its subordinate organisations hold a monopoly on rail transport in the country, including operating rail services, manufacturing and research. Organised as a vertical industrial bureau, services are operated by a variety of companies on behalf of National Railways. The Railways Bureau also maintains magway and metro services.
 {{</outline>}}
@@ -540,7 +540,7 @@ The National Railways Bureau is the parent administrator of all rail transport i
 ##### National Skies Bureau
 {{< hint >}}
 ❖ Read more: *[Airways in Vekllei](/utopia/society/industry/air/)*
-{{< /hint >}}
+{{</hint>}}
 
 {{</outline>}}
 {{<outline>}}
@@ -877,7 +877,7 @@ The *Fair Work Authority* (FWA) is the Commonwealth industrial relations tribuna
 ##### Quality of Life Surveillance Commission
 {{< hint >}}
 ❖ Read more: *[The Quality of Life Surveillance Commission](/posts/2021-06-29-qlc/)*
-{{< /hint >}}
+{{</hint>}}
 {{</outline>}}
 {{<outline>}}
 ##### Petitions Office
@@ -908,7 +908,7 @@ The *Office of the Democracy-Advocate* (also the *Democracy Magistrate*) is a un
 
 {{< hint panel >}}
 **Since most Vekllei people** catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated "companies" in Vekllei.
-{{< /hint >}}
+{{</hint>}}
 
 The Government of Vekllei is made up of Ministries, Offices, Bureaus, Commissions, Directorates and Secretariats depending on the size, purpose and organisation of the organ.
 
@@ -934,7 +934,7 @@ The Government of Vekllei is made up of Ministries, Offices, Bureaus, Commission
 
 {{< hint >}}
 ❖ Main article: *[The Crown Mail of Vekllei](/utopia/society/mail)*
-{{< /hint >}}
+{{</hint>}}
 
 ###### General Office
 

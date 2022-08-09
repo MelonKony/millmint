@@ -24,7 +24,7 @@ author: Hobart Phillips
 ---
 {{< hint >}}
 ߷ This article is about an office of the Vekllei Crown
-{{< /hint >}}
+{{</hint>}}
 
 {{<section>}}
 #### Vekllei Democracy Commissariat 

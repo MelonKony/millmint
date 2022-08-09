@@ -24,7 +24,7 @@ author: Hobart Phillips
 ---
 {{< hint >}}
 ߷ The Vekllei Crown Parliament is a supranational-level political body of the [Government of Vekllei](/utopia/society/state/government/)
-{{< /hint >}}
+{{</hint>}}
 
 {{<hint panel>}}
 The Commonwealth Parliament is the supranational governing body of the Vekllei Commonwealth and its member-states.

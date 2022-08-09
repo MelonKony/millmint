@@ -18,7 +18,7 @@ author: Hobart Phillips
 
 {{< hint blue >}}
 ❖ This letter was sent out to Patrons in February 2021
-{{< /hint >}}
+{{</hint>}}
 
 **Hello beloved Patrons,**
 
