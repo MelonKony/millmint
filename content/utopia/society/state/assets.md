@@ -95,6 +95,7 @@ There are three broad categories of state asset in Vekllei, arranged at their le
 * Vekllei National Machines
 * General Reactor
   * [Future Fission](/utopia/landscape/boroughs/pharos/#future-fission-sqm)
+* International Rocketry
 * Vekllei Tobacco
 
 {{< /details >}}
