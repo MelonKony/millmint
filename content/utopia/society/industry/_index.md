@@ -1,5 +1,5 @@
 ---
-title: Industry
+title: Industry in Vekllei
 fulltitle: Industry in Vekllei
 icon: ⚙️
 emoji: l

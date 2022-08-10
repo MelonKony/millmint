@@ -215,7 +215,7 @@ The organisation is administered by the President of the Rail Central Office, wh
 ### Fleet
 
 {{< hint >}}
-❖ Download the [VNR Rolling Stock List (PDF)](/files/factbook/VNR-Rolling-Stock-Bulletin.pdf)
+❖ Download the <span class="smallicon">📄</span> [VNR Rolling Stock List (PDF)](/files/factbook/VNR-Rolling-Stock-Bulletin.pdf)
 {{</hint>}}
 
 Vekllei National Rail is perhaps unsurpassed in its variety of trainsets and their length of service. An unofficial policy of preservation has ensured that every unit type since the 1980s has seen an ongoing minor presence in current service. VNR rarely retires a trainset completely -- in keeping with the contemporary cultural-political valuation of machines, a few units of each model are retained on various lines for their historical and technical significance. This includes steam locomotives, which continue to operate regular passengers service on some routes.

@@ -1,6 +1,6 @@
 ---
 title: State Assets
-fulltitle: State Assets in Vekllei
+fulltitle: State Assets of Vekllei
 icon: 🏬
 emoji: ¡
 color: teal
@@ -33,7 +33,7 @@ author: Hobart Phillips
 **Even if they do not use money**, Vekllei people do have finances and engage with markets, maintain business relations and acquire financial instruments for upward mobility.
 {{</hint>}}
 
-There is no real distinction in Vekllei between *state assets*, *state-owned enterprises* (SOE) and *government-owned corporations* (GOC), and the terms are used interchangeably. A state asset is distinct from bureau companies[^1] and private enterprise, and is often wholly responsible to government policy via an [Interior Ministry](/utopia/society/state/government/interior/) or 
+There is no real distinction in Vekllei between *state assets*, *state-owned enterprises* (SOE) and *government-owned corporations* (GOC), and the terms are used interchangeably. A state asset is distinct from bureau companies[^1] or private enterprise, and is often directed by government policy via an [Interior Ministry](/utopia/society/state/government/interior/) or Parliament.
 
 State assets make up about 40% of the [Vekllei Islands](/utopia/vekllei/) GDP, and about 25% of total Commonwealth GDP. They occupy central roles in the Vekllei economy, often as functional or constitutional monopolies, and are responsible for 65% of the [VKIM](/utopia/society/state/finance/#international-markets) market capitalisation.
 
@@ -59,6 +59,11 @@ Vekllei does not resemble a modern consumer society, and so state assets are not
 
 
 ## Types
+
+{{< hint >}}
+**❖ Note from the Editor**
+This list is incomplete, and serves as a reference for the evolving industrial base of this site.
+{{</hint>}}
 
 There are three broad categories of state asset in Vekllei, arranged at their level of ownership. Crown companies belong to the Crown or Commonwealth governments, and generally include special or essential features of the Vekllei state. State companies belong to national governments, including the Vekllei Islands depicted here, and Municipal companies are local and administrated by a municipality.
 

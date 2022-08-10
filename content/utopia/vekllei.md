@@ -204,16 +204,16 @@ Each borough elects a **Secretary** and two **House Members** to the Vekllei Isl
 
 #### Commonwealth Member-States
 
-![img](https://images.millmint.net/images/territories.jpg)
-{{< hint caption >}}
-A map showing Vekllei's overseas territories, including claims in the Lesser Antilles, Antarctica and the Lunar South Pole | *[Vekllei's Sprawling Commonwealth](/posts/2021-03-10-commonwealth/)*
-{{</hint>}}
-
 {{< hint >}}
 ❖ Download the <span class="smallicon">📄</span> [Member-States of the Vekllei Commonwealth.pdf](/files/Member-States%20of%20the%20Vekllei%20Commonwealth.pdf)
 {{</hint>}}
 
 Constituent member-states maintain their own local parliaments in the style of the Vekllei Islands, and contribute secretaries to the Commonwealth Parliament, a supranational governing body affording equal representation to commonwealth members. 
+
+![img](https://images.millmint.net/images/territories.jpg)
+{{< hint caption >}}
+A map showing Vekllei's overseas territories, including claims in the Lesser Antilles, Antarctica and the Lunar South Pole | *[Vekllei's Sprawling Commonwealth](/posts/2021-03-10-commonwealth/)*
+{{</hint>}}
 
 The Commonwealth Parliament maintains the features of the Commonwealth Government, which coordinates military and intelligence services, education and many other services between member-states. These shared services standardise aspects of these societies, and centralise leadership to better coordinate growth and democracy in the Commonwealth.
 

@@ -24,7 +24,7 @@ toc: true
 {{</hint>}}
 
 {{< hint panel >}}
-[**/Utopia/**](/utopia/) is the wiki of [Vekllei](/utopia/vekllei), its Commonwealth, and the features of its society. It also includes articles on the [characters](/utopia/characters/) I draw regularly.
+**The Palace of the Vekllei Sovereign** is both a spiritual conceptualisation of the land of Vekllei and a feature of the Vekllei state, as the true vessel in which Vekllei sovereignty lies under the Floral Constitution.
 {{</hint>}}
 
 {{< details title="The Palace of the Vekllei Sovereign" open=true >}}
