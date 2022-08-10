@@ -2065,7 +2065,13 @@ body article blockquote {
   padding-right: 2em;
   font-weight: bolder;
   border-radius: .1rem; }
-
+  @media (max-width: 750px) {
+    .hint.header {
+      max-width: 100%;
+      margin-left: -1em;
+      padding-left: 1em;
+      margin-right: -1em;
+      padding-right: 1em; } }
 .hint.blue, .article-blue .hint[class="hint "] {
   border-color: var(--color-blue);
   background-color: rgba(0, 112, 245, 0.1); }
