@@ -66,13 +66,15 @@ The Vekllei International Market (VKIM) is an organisation that controls the mon
 
 ## Banking
 
+The policy of bank consolidation under the British Occupation Government continued under the successive Floral Government, and banking was among the first industries in Vekllei to be completely socialised.[^1] All banks in Vekllei are run as state-owned enterprises, and subordinated to the '*Old Lady*,' the colloquial name for the central [Bank of Vekllei](/utopia/society/state/government/interior/commerce/#bank-of-vekllei). 'Unbanking' policy -- the effective demonetisation of the Vekllei domestic markets -- saw severe disruption to the Vekllei economy and led to a period of hyperinflation in the late 2010s. Unlike in other countries, the socialisation of banking in Vekllei also saw the broad exclusion of retail investors and savings 
+
+### Bank of Vekllei
+
 {{<hint>}}
 ❖ Read more: *[Bank of Vekllei](/utopia/society/state/government/interior/commerce/#bank-of-vekllei)*
 {{</hint>}}
 
-The policy of bank consolidation under British Occupation continued under the Floral Government, and banking was among the first industries in Vekllei to be completely socialised.[^1] All banks in Vekllei are run as state-owned enterprises, and subordinated to the '*Old Lady*' central [Bank of Vekllei](/utopia/society/state/government/interior/commerce/#bank-of-vekllei). 'Unbanking' policy -- the effective demonetisation of the Vekllei domestic markets -- saw severe disruption to the Vekllei economy and led to a period of hyperinflation in the late 2010s. The socialisation
-
-### Bank of Vekllei
+The Bank of Vekllei (also *Labour Bank of Vekllei* and *Old Lady*) is Vekllei's central bank with a constitutionally-granted monopoly on the financial mechanisms of the Commonwealth, with nearly all Commonwealth banking firms subordinated to its organisation. It is responsible directly to the [Ministry of Commerce](/utopia/society/state/government/interior/commerce/) and sets the monetary policy of Vekllei.
 
 #### Sisterbank
 

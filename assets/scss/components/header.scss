@@ -44,7 +44,15 @@ header {
 }
 
 .brand-title:hover, brand-emoji:hover {
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border: 2px solid var(--logo-color, var(--color-gray));
+  color: var(--logo-color, var(--color-gray));
+  background-color: var(--body-background);
+}
+
+@keyframes slidebg {
+  to {
+    background-position:20vw;
+  }
 }
 
 .toolbox {

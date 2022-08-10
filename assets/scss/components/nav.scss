@@ -32,7 +32,7 @@ nav {
     .navbar-item {
       display: block;
       margin: 0 0.5rem 0 0;
-      padding-bottom: 0.3rem;
+      padding-bottom: 0.1rem;
       border-bottom: 2px solid transparent;
 
       > a.menu-link {
@@ -84,11 +84,11 @@ nav {
 }
 .navbar-dropdown li:first-child {
   margin-bottom: -1px;
-  border-radius: 5px 5px 0 0;
+  border-radius: 2.5px 2.5px 0 0;
 }
 .navbar-dropdown li:last-child {
   margin-top: -1px;
-  border-radius: 0 0 5px 5px;
+  border-radius: 0 0 2.5px 2.5px;
 }
 
 .menu {

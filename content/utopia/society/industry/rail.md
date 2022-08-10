@@ -145,7 +145,7 @@ Responsible to the [Railways Bureau](/utopia/society/state/government/interior/t
   * Platform Investigation Office
   * Carriage Investigation Office
   * Incident Investigation Office
-  {{< /details >}}
+{{< /details >}}
 
 ## Service
 
