@@ -33,13 +33,19 @@ Vekllei has existed in some form since I was a kid, but I started working on it 
 
 You can follow my progress on this project on [Instagram](https://www.instagram.com/melon.kony/), [Twitter](https://twitter.com/MelonKony), or join [my subreddit](https://www.reddit.com/r/vekllei). 
 
-You can **write to me** at hobart@millmint.net.
+You can **write to me** at <span class="smallicon">📧</span> hobart@millmint.net.
 
 ## News
 
 {{<hint header>}}
 August 2022
 {{</hint>}}
+
+<span class="bulleticon">📄</span> **August 10, 2022** Added an article about the [State Assets of Vekllei](/utopia/society/state/assets/) <span class="spanlink"><a href="/utopia/society/state/assets/">URL →</a></span>
+
+<span class="bulleticon">📗</span> **August 6, 2022** New post: [*The Crown and the Gi*](/posts/2022-08-06-crown/) <span class="spanlink"><a href="/posts/2022-08-06-crown/">URL →</a></span>
+
+<span class="bulleticon">📗</span> **August 5, 2022** New post: [*Caught Sketching*](/posts/2022-08-05-sketching/) <span class="spanlink"><a href="/posts/2022-08-05-sketching/">URL →</a></span>
 
 <span class="bulleticon">📗</span> **August 4, 2022** New post: [*Waiting for a Movie*](/posts/2022-08-04-movie/) <span class="spanlink"><a href="/posts/2022-08-04-movie/">URL →</a></span>
 
