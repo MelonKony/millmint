@@ -65,7 +65,7 @@ Vekllei does not resemble a modern consumer society, and so state assets are not
 This list is incomplete, and serves as a reference for the evolving industrial document of this site.
 {{</hint>}}
 
-There are three broad categories of state asset in Vekllei, arranged at their level of ownership. Crown companies belong to the Crown or Commonwealth governments, and generally include special or essential features of the Vekllei state. State companies belong to national governments, including the Vekllei Islands depicted here, and Municipal companies are local and administrated by a municipality.
+There are three broad categories of state asset in Vekllei, arranged at their level of ownership. Crown companies belong to the [Crown](/utopia/society/state/government/crown/) or [Commonwealth](/utopia/society/state/government/commonwealth/) governments, and generally include unique or essential enterprises of the Vekllei state. State companies belong to national governments, including the Vekllei Islands as depicted here. Municipal companies are local and administrated by a municipality.
 
 ### Crown Companies
 
