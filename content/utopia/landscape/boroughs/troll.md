@@ -13,6 +13,9 @@ categories:
 image: https://images.millmint.net/images/orange.jpg
 autonumbering: true
 
+aliases:
+- /troll/
+
 weight: 1
 description: The borough of Troll is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips

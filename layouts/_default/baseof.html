@@ -19,7 +19,7 @@
     <body {{if .Params.Color }}data-color="{{ .Params.Color }}"{{ end }}>
         <main>
             {{- partial "header.html" . -}}
-            {{- partial "nav.html" . -}}
+            {{- partial "navbar/nav.html" . -}}
             <article class="content">
                 {{ if .Params.changelogs }}
                     {{ $enable_collapsible_changelogs := (.Scratch.Get "params").enable_collapsible_changelogs }}

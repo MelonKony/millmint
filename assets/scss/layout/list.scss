@@ -64,8 +64,10 @@
 }
 
 .card:hover {
-  box-shadow: 0 0 5px rgba(33, 33, 33, 0.2);
-  transform: translate(0, -5px);
+  --tw-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+  0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  transform: translate(0, -2.5px);
 }
 
 .item {

@@ -13,6 +13,9 @@ categories:
 
 toc: false
 
+aliases:
+- /tokyo/
+
 description: An essay on visiting Tokyo by Hobart Phillips, a utopian illustrator and storyteller.
 author: Hobart Phillips
  

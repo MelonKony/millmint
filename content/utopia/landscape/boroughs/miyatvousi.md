@@ -17,6 +17,9 @@ autonumbering: true
 weight: 1
 bookHidden: true
 
+aliases:
+- /miyatvousi/
+
 description: The borough of Miyatvousi is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
 

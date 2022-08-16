@@ -1,11 +1,11 @@
 {{ $enable_line_no := (.Scratch.Get "params").syntax_highlight.prism.enable_line_no | default true }}
-{{ partial "article-info" . }}
+{{ partial "articles/article-info" . }}
 {{ partial "meta" . }}
 {{ partial "toc.html" . }}
 
 <article {{ if $enable_line_no }}class="line-numbers"{{ end }}{{- if .Param "autonumbering" }} autonumbering {{- end }}>
-    {{- partial "article-params.html" . -}}
-    {{- partial "story-params.html" . -}}
+    {{- partial "articles/article-params.html" . -}}
+    {{- partial "stories/story-params.html" . -}}
     {{ $content := .Content | replaceRE "<table>" "<table class=\"mc-table\">" }}
     {{ if eq (.Scratch.Get "params").syntax_highlight.lib "prism.js" }}
         {{ $content = $content | replaceRE "<pre>" "<pre class=\"language-text\">" }}

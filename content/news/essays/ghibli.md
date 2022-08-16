@@ -14,6 +14,9 @@ categories:
 weight: 1
 autonumbering: true
 
+aliases:
+- /ghibli/
+
 description: An essay on spatiality in the films of Studio Ghibli by Hobart Phillips, a utopian illustrator and storyteller.
 author: Hobart Phillips
  

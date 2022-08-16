@@ -14,6 +14,9 @@ categories:
 image: https://images.millmint.net/images/liminal.jpg
 autonumbering: true
 
+aliases:
+- /krafla/
+
 description: The borough of Krafla is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
 

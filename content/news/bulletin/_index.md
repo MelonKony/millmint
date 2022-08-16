@@ -10,7 +10,7 @@ tags:
 categories:
   - news
 
-draft: false
+draft: true
 autonumbering: true
 noindex: true
 

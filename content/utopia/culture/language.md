@@ -15,6 +15,9 @@ image: https://images.millmint.net/images/drawing.jpg
 list_posts: false
 autonumbering: true
 
+aliases:
+- /language/
+
 description: The language of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
  

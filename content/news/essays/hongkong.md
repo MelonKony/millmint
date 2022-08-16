@@ -14,6 +14,9 @@ categories:
 weight: 2
 autonumbering: true
 
+aliases:
+- /hong-kong/
+
 description: An essay on the 2020 Hong Kong Protests by Hobart Phillips, a utopian illustrator and storyteller.
 author: Hobart Phillips
  

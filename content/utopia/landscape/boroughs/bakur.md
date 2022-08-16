@@ -12,6 +12,9 @@ categories:
 
 autonumbering: true
 
+aliases:
+- /bakur/
+
 description: The borough of Bakur is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
 

@@ -12,6 +12,9 @@ categories:
 
 image: /images/intro.gif
 
+aliases:
+- /about/
+
 toc: false
 comments: false
 

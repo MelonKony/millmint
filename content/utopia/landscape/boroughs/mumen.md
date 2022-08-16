@@ -14,8 +14,8 @@ categories:
 image: https://images.millmint.net/images/sketches/sandmage.jpg
 autonumbering: true
 
-weight: 1
-bookHidden: true
+aliases:
+- /mumen/
 
 description: The borough of Mumen is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips

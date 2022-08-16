@@ -13,6 +13,9 @@ categories:
 
 autonumbering: true
 
+aliases:
+- /utopie/
+
 description: Notes on utopie concrète, a new movement for utopian fiction.
 author: Hobart Phillips
  

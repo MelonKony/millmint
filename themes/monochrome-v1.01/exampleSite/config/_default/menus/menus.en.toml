@@ -146,5 +146,5 @@
 [[navbar]]
   identifier = "posts"
   name = "Posts"
-  url = "/posts/"
+  url = "/stories/"
   weight = 6

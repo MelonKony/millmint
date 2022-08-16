@@ -14,6 +14,9 @@ categories:
 image: https://images.millmint.net/images/hydro.jpg
 autonumbering: true
 
+aliases:
+- /ou/
+
 description: The borough of Ou is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
 

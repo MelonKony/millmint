@@ -62,6 +62,19 @@
 	filter: brightness(25%);
 }
 
+/* section box style */
+
+.box {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid var(--color-gray);
+  line-height: 1.5;
+  letter-spacing: -.01em;
+  border-radius: 5px;
+  padding: 1rem;
+  font-style: normal;
+}
+
 .headerlink a:after {
   content: '';
   position: absolute;

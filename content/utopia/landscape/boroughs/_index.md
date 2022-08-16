@@ -16,6 +16,9 @@ categories:
 
 image: https://images.millmint.net/images/vekllei.png
 
+aliases:
+- /boroughs/
+
 weight: 1
 list_posts: false
 comments: false

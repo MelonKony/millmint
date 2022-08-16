@@ -32,7 +32,7 @@ author: Hobart Phillips
 
 The Vekllei *Ministry of Commerce* (COSMOSOL) regulates and initiates trade in the country. Despite the functional moneylessness of the Commonwealth, COSMOSOL remains among the busiest ministries of the Interior Government, since all economic policy, international trade and entitled renumeration (the Vekllei turn-of-phrase for withdrawing from the [Labour Bank](#bank-of-vekllei)) occurs through its subordinate commissions. Common responsibilities of COSMOSOL include:
 
-* Regulation and taxation of international trade, particularly through Government 'White Bonds' and Labour Bank 'Blue Bonds'.
+* Regulation and taxation of international trade, particularly through Government '[White Bonds](/utopia/society/state/finance/?ref=footer#white-bonds)' and Labour Bank '[Blue Bonds](/utopia/society/state/finance/?ref=footer#blue-bonds)'.
 * Banking the Commonwealth state apparatus.
 * Advising the Parliament on economic policy and foreign trade.
 * Monitoring and reporting on the health of foreign markets.

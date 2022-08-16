@@ -13,7 +13,9 @@ categories:
 comments: false
 autonumbering: false
 list_posts: false
-index: true
+
+aliases:
+- /characters/
 
 image: /images/mastheads/vista.png
 
@@ -27,18 +29,17 @@ author: Hobart Phillips
 
 **Although almost all characters** in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. This is useful, because if you're following along with this project, you're in some small way an immigrant yourself. It's through the eyes of these people that you see Vekllei, and their lives contribute to the utopian dimensions of this project as utopias-of-living.
 
+{{<box>}}
 <div class="article-info">
   <h1 class="title" >Tzipora (Zelda)</h1>
   <div class="emoji" id="whirlybat">M</div>
 </div>
 
-{{<section>}}
 <img alt="smallimg" style="background-color: transparent;" src="https://images.millmint.net/images/mastheads/characters/zelda.png">
 
-**Tzipora lo Ula de Helette Desmoisnes**, often called **Zelda** by her friends, is the main character of this project. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teenage years that she was formally diagnosed with [Gregori Syndrome](/posts/2021-05-28-forever/), a genetic disorder that affects her ageing and extends her natural life. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising the neurotic parts of her personality and blessing her new life with companionship.
-
 {{< button href="/tags/tzipora" >}}See all stories featuring Tzipora{{< /button >}}
-{{</section>}}
+
+**Tzipora lo Ula de Helette Desmoisnes**, often called **Zelda** by her friends, is the main character of this project. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teenage years that she was formally diagnosed with [Gregori Syndrome](/posts/2021-05-28-forever/), a genetic disorder that affects her ageing and extends her natural life. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising the neurotic parts of her personality and blessing her new life with companionship.
 
 {{< details title="Get to know Tzipora">}}
 ##### Appearance
@@ -55,19 +56,19 @@ She is paranoid and conservative, good-natured and austere, with a moral outlook
 
 Tzipora may be intense and inward-facing, but she can also be disarmingly charming and self-deprecating. She has a good sense of humour. There are not many girls that can so easily reconcile the contradictions between the peculiar and the healthy, the eccentric and the friendly, and the violent and the domestic. That’s part of her character — an essence of being that radiates decency, good taste and a respect for the spirit of all things.
 {{</ details >}}
+{{</box>}}
 
+{{<box>}}
 <div class="article-info">
   <h1 class="title" >Cobian</h1>
   <div class="emoji" id="whirlybat">F</div>
 </div>
 
-{{<section>}}
 <img alt="smallimg" style="background-color: transparent;" src="https://images.millmint.net/images/mastheads/characters/cobian.png">
 
 **Cobian lo Ro de Viviya de Queismesnah** is Tzipora's longtime friend and occasional girlfriend. Conservative in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood. Tzipora and Cobian met during secondary schooling in Vekllei, and remained close throughout the rest of their lives. She is very close with Tzipora, but has tepid relationships with Tzipora's (mostly male) friendship group out of jealousy and a general distaste for boys. She is rigorously polite in the middle-class sense of the word; formal among strangers, gossipy among friends.
 
 {{< button href="/tags/cobian" >}}See all stories featuring Cobian{{< /button >}}
-{{</section>}}
 
 {{< details title="Get to know Cobian">}}
 ##### Appearance
@@ -82,6 +83,7 @@ When Tzipora meets her, Cobian is a figure of sympathy and irritation. She was d
 
 Some people think she's pretentious; she's not pretentious. She likes good food and is highly fashionable in her interests and styles, but Cobian is also deeply empathetic and finds interest in new things via her friends she'd never previously thought about. She makes up most of Tzipora's social life, which leaves plenty of space for Zelda's big personality and obsessions. Zelda has a deeply stablising effect on Cobian, rounding out some of her mother's strict legacy through Zelda's androgynous habits and far-fetched fascinations. But Zelda's big personality does not include much talking or grace, and in these deficiencies Cobian's social talent shines. Together they make a great pair, their neighbouring personalities aiding their best selves.
 {{</ details >}}
+{{</box>}}
 
 <div class="article-info">
   <h1 class="title" >Moise</h1>

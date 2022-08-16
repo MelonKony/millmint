@@ -56,6 +56,9 @@ nav {
 
 .navbar a {
   filter: brightness(35%);
+  &:hover {
+   filter: none!important;
+  }
 }
 
 .navbar-dropdown li {
@@ -77,10 +80,6 @@ nav {
 
 .navbar-dropdown li {
   background-color: var(--body-background);
-  
-  &:hover {
-      text-decoration: underline;
-    }
 }
 .navbar-dropdown li:first-child {
   margin-bottom: -1px;
@@ -116,7 +115,6 @@ nav {
 
 .navbar-item {
   display: block;
-  text-decoration: none;
   white-space: nowrap;
 }
 
@@ -172,7 +170,10 @@ nav {
 .submenu > .menu-link:after {
   padding-left: 0.35rem;
   font-family: sans-serif;
-  content: "▸";
+  font-weight: bold;
+  font-size: 18px;
+  align-content: right;
+  content: "›";
 }
 
 /* Horizontal Menus - show the dropdown arrow */
@@ -180,7 +181,9 @@ nav {
 .navbar .navbar-dropdown > .menu-link:after {
   font-family: sans-serif;
   padding-left: 0.35rem;
-  content: "▾";
+  font-weight: bold;
+  font-size: 18px;
+  content: "⌵";
 }
 
 /* scrollable menus */
@@ -256,9 +259,6 @@ nav {
   font-family: 'Emoji'!important;
   font-weight: normal;
   margin-right: 4px;
-  &:hover {
-    text-decoration: none!important;
-  }
 }
 
 @media only screen and (max-width: 500px) {

@@ -19,6 +19,9 @@ comments: false
 
 toc: true
 
+aliases:
+- /finance/
+
 description: Vekllei is a utopia created by Hobart Phillips.
 author: Hobart Phillips
 ---
@@ -51,7 +54,7 @@ The Vekllei Domestic Market is the turn-of-phrase for the unmoneyed Vekllei econ
 
 The Vekllei International Market (VKIM) is an organisation that controls the capital, commodities and securities markets of Vekllei. VKIM is maintained by the [Ministry of Commerce](/utopia/society/state/government/interior/commerce/) as a mechanism for foreign investors and merchants to interact with the isolated, unmoneyed Vekllei domestic market. The international market includes a commodities exchange, derivatives marketplace and other structured financial products that facilitate foreign activity in the Vekllei economy and raise foreign capital for the state's liquid currency reserves. VKIM uses the Vekllei Composite Index as a measure of the Vekllei economy, which measures both commodity value and productivity.
 
-The International Market is the mechanism by which the capital account[^1] of the Commonwealth Government implements its long-standing macroeconomic interest in foreign investment and soft power. The reinvestment of capital surplus in the Vekllei currencies serves as a form of sterilisation and capital control, controlled directly by the central [Bank of Vekllei](#bank-of-vekllei).
+The International Market is the means by which the capital account[^1] of the Commonwealth Government implements its long-standing macroeconomic interest in foreign investment and soft power. The reinvestment of capital surplus in the [Vekllei currencies](#currency) serves as a form of sterilisation and capital control, controlled directly by the central [Bank of Vekllei](#bank-of-vekllei).
 
 ## Currency
 
@@ -59,20 +62,22 @@ The International Market is the mechanism by which the capital account[^1] of th
 ❖ Read more: *[The Vekllei Crown](/posts/2020-06-24-crown/)*
 {{</hint>}}
 
-Vekllei has two currencies that are more or less opposed in their use as money. The Vekllei Crown (❦VK) is a gold-backed, fixed-rate deflationary currency used primarily as a wealth reserve, and the Government Crown (✾AK) is a fiat, floating-exchange currency used for foreign investment and trade. This system preserves the isolation of the Vekllei primary economy, which is moneyless, while insulating state investments from shocks and from having to burn liquidity to maintain its exchange rate.
+Vekllei has two currencies that are more or less opposed in their use as money, known as the twin crowns system. The Vekllei Crown (❦VK) is a gold-backed, fixed-rate deflationary currency used primarily as a wealth reserve, and the Government Crown (✾AK) is a fiat, floating-exchange currency used for foreign investment and trade. This system preserves the isolation of the Vekllei primary economy, which is moneyless, while insulating state investments from shocks and from having to burn liquidity to maintain its exchange rate.
 
-Together, the twin crowns allow for the Vekllei state to retain unprecedented control over its financial system.
+Together, the twin crowns allow for the Vekllei state to retain unprecedented control over its financial system while securing a mechanism for foreign investment and growth.
 
 * The domestic market is autarkic and does not have free capital exchange, allowing it to maintain its fixed price and independent monetary policy
-* The international market is open and has free capital exchange, facilitated by ✾AK floating exchange price with policy independence maintained by capital controls from the [Ministry of Commerce](/utopia/society/state/government/interior/commerce/)
+* The international market is open and has free capital exchange, facilitated by ✾AK floating exchange price with policy independence maintained by capital controls from the [Ministry of Commerce](/utopia/society/state/government/interior/commerce/).
+
+For a variety of political and economic reasons, the Vekllei Commonwealth state aims to be self-sufficient. The twin crowns system provides a means to isolate its productive primary economy while also allowing foreign money controlled access to it. The unmoneyed primary economy remains a popular investment for its stability[^2]. As capital controls have broken down in the mid-2030s, Vekllei's current macroeconomic policy sits as a third way between closed autarky and recent trends towards an open economic international market.
 
 ### Vekllei Crown (❦VK)
 
-The *Vekllei Kroner* (lit. *Vekllei Crown*) is the primary and historic currency of Vekllei. It is minted by [National Mint](/utopia/society/state/government/interior/commerce/#national-mint-of-vekllei) as a souvenir in the tradition of Vekllei *medals*,[^2] but is not otherwise used by Vekllei people as money or transacted in day-to-day life. It is primarily a deflationary currency store backed by gold, and to which each Vekllei citizen is entitled an equal share in emigration. It is also used in some cases as a mechanism for trade with individuals abroad, mostly by smaller banks looking to broker purchases of goods or services unavailable in Vekllei.
+The *Vekllei Kroner* (lit. *Vekllei Crown*) is the primary and historic currency of Vekllei. It is minted by [National Mint](/utopia/society/state/government/interior/commerce/#national-mint-of-vekllei) as a souvenir in the tradition of Vekllei *medals*,[^3] but is not otherwise used by Vekllei people as money or transacted in day-to-day life. It is primarily a deflationary currency store backed by gold, and to which each Vekllei citizen is entitled an equal share in emigration. It is not able to be used on the [VKIM](#international-markets) directly, but can be purchased as a [White Bond](#white-bonds) as a speculative instrument. It is also used in some cases as a mechanism for trade with individuals abroad, mostly by smaller banks looking to broker purchases of goods or services unavailable in Vekllei.
 
 ### Government Crown (✾AK)
 
-The *Government/Commonwealth Kroner* (also the *Atlantic Kroner* or *Crown*) is a twin currency used primarily by the state to insure financial instruments like bonds as well as converting and placing foreign investments and currency. The Government Crown operates on a floating exchange rate as a fiat currency tradeable in the VKIM and a means for overseas actions in the Vekllei economy.
+The *Government/Commonwealth Kroner* (also the *Atlantic Kroner* or *Crown*) is a twin currency used primarily by the state to insure financial instruments like bonds as well as for converting and placing foreign investments and currency. The Government Crown operates on a floating exchange rate as a fiat currency tradeable in the VKIM and a means for overseas actions in the Vekllei economy.
 
 #### White Bonds
 
@@ -86,7 +91,7 @@ Because of the massive amounts of ❦VK Vekllei and ✾AK Government currency ex
 
 ## Banking
 
-The policy of bank consolidation under the British Occupation Government continued under the successive Floral Government, and banking was among the first industries in Vekllei to be completely socialised.[^3] All banks in Vekllei are run as state-owned enterprises, and subordinated to the '*Old Lady*,' the colloquial name for the central [Bank of Vekllei](/utopia/society/state/government/interior/commerce/#bank-of-vekllei). 'Unbanking' policy -- the effective demonetisation of the Vekllei domestic markets -- saw severe disruption to the Vekllei economy and led to a period of hyperinflation in the late 2010s. 
+The policy of bank consolidation under the British Occupation Government continued under the successive Floral Government, and banking was among the first industries in Vekllei to be completely socialised.[^4] All banks in Vekllei are run as state-owned enterprises, and subordinated to the '*Old Lady*,' the colloquial name for the central [Bank of Vekllei](/utopia/society/state/government/interior/commerce/#bank-of-vekllei). 'Unbanking' policy -- the effective demonetisation of the Vekllei domestic markets -- saw severe disruption to the Vekllei economy and led to a period of hyperinflation in the late 2010s. 
 
 Unlike in other countries, the socialisation of banking in Vekllei also saw the broad exclusion of retail investors and savings banking, effectively halting money exchange in the domestic market and moving most money-lending and institutionalising the Vekllei banking system. Today, most Vekllei banks are institutional and deal primarily with the secondary speculative markets like [VKIM](#international-markets).
 
@@ -107,6 +112,7 @@ Money bureaus (also *Money Unions*) are a form of cooperative credit union premi
 #### Institutional Banking
 
 [^1]: The Commonwealth capital account runs at a deficit as part of a post-war investment policy called 'Handshake Accounting,' which sees tremendous surplus state capital invested overseas.
-[^2]: Medallions, or medals, are a cultural feature in Vekllei used in spiritual ceremonies, as awards, and as a material novelty or trinket.
-[^3]: 'Municipalised,' in Vekllei political lexicon.
+[^2]: Foreign investment in the primary economy is usually made in the form of state-backed [Blue Bonds](#blue-bonds)
+[^3]: Medallions, or medals, are a cultural feature in Vekllei used in spiritual ceremonies, as awards, and as a material novelty or trinket.
+[^4]: 'Municipalised,' in Vekllei political lexicon.
 

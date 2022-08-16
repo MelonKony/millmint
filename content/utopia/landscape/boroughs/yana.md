@@ -13,8 +13,8 @@ categories:
 image: https://images.millmint.net/images/lakehouse.jpg
 autonumbering: true
 
-weight: 1
-bookHidden: true
+aliases:
+- /yana/
 
 description: The borough of Yana is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips

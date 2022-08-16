@@ -17,6 +17,9 @@ list_posts: false
 autonumbering: true
 comments: false
 
+aliases:
+- /government/
+
 toc: true
 ---
 {{< hint >}}

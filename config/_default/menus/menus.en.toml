@@ -153,5 +153,5 @@
   identifier = "posts"
   name = "Stories"
   pre = "📗"
-  url = "/posts/"
+  url = "/stories/"
   weight = 4

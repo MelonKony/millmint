@@ -13,8 +13,8 @@ categories:
 image: https://images.millmint.net/images/shrine-minded.jpg
 autonumbering: true
 
-weight: 1
-bookHidden: true
+aliases:
+- /santes/
 
 description: The borough of Santes is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips

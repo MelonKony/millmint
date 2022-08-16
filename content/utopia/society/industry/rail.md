@@ -16,6 +16,9 @@ list_posts: false
 comments: false
 autonumbering: true
 
+aliases:
+- /rail/
+
 description: The railways of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
  

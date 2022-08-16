@@ -45,7 +45,7 @@ if(document.querySelector('[data-color]')) {
     .map((v) => Number(v));
   setBackgroundColor(rgbArray);
 } else if (
-  location.href.includes("/posts/") &&
+  location.href.includes("/stories/") &&
   !document.querySelector(".list-item")
 ) {
   // Get story's color from image

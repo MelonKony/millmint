@@ -14,6 +14,9 @@ categories:
 image: https://images.millmint.net/images/lightbulb.jpg
 autonumbering: true
 
+aliases:
+- /pharos/
+
 description: The borough of Pharos is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
 ---
