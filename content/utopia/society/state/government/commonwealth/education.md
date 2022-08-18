@@ -19,6 +19,9 @@ comments: false
 
 toc: true
 
+aliases:
+- /solsec/
+
 description: Vekllei is a utopia created by Hobart Phillips.
 author: Hobart Phillips
 ---
@@ -30,7 +33,7 @@ author: Hobart Phillips
 ## Commonwealth Education Secretariat 
 {{<boxtag teal>}}CHICOM{{</boxtag>}}
 
-The *Commonwealth Education Secretariat* (CHICOM) is the commonwealth body responsible for all state education across the Commonwealth, including compulsory primary, vocational and tertiary schooling. Alongside the [COSMOCOM Accreditation Directorate](/utopia/society/government/#accreditation-directorate), CHICOM certifies teachers and the Commonwealth curriculum, and publishes textbooks and learning materials via the Children's and Tertiary Press.
+The *Commonwealth Education Secretariat* (SOLSEC) is the commonwealth body responsible for all state education across the Commonwealth, including compulsory primary, vocational and tertiary schooling. Alongside the [COSMOCOM Accreditation Directorate](/utopia/society/government/#accreditation-directorate), CHICOM certifies teachers and the Commonwealth curriculum, and publishes textbooks and learning materials via the Children's and Tertiary Press.
 
 The stated mission of CHICOM is the celebration of knowledge and the development of technical skills.
 

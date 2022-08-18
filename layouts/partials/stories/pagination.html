@@ -1,10 +1,10 @@
 {{ $paginator := .Paginator }}
 
-{{ $adjacent_links := 1 }}
+{{ $adjacent_links := 2 }}
 
 {{ $lower_gap := add $adjacent_links 3 }}
 
-{{ $upper_gap := sub $paginator.TotalPages (add $adjacent_links 2) }}
+{{ $upper_gap := sub $paginator.TotalPages (add $adjacent_links 3) }}
 
 {{ $lower :=  (sub $paginator.PageNumber $adjacent_links) }}
 
@@ -17,8 +17,8 @@
   <ul class="pagination">
 
     {{ if $paginator.HasPrev }}
-    <li class="page-item prev">
-      <a href="{{ $paginator.Prev.URL }}"><i>Prev</i></a>
+    <li class="page-item">
+      <a class="prev" href="{{ $paginator.Prev.URL }}"><i>←</i></a>
     </li>
     {{ end }}
 
@@ -72,8 +72,8 @@
     {{ end }}
 
     {{ if $paginator.HasNext }}
-    <li class="page-item next">
-      <a href="{{ $paginator.Next.URL }}"><i>Next</i></a>
+    <li class="page-item" href="{{ $paginator.Next.URL }}">
+      <a class="next" href="{{ $paginator.Next.URL }}"><i>→</i></a>
     </li>
     {{ end }}
 

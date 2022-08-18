@@ -19,9 +19,6 @@ nav {
     padding: 0;
 
     .navbar-dropdown {
-      > a.pure-menu-link:after {
-        content: "▾";
-      }
 
       > ul.menu-dropdown {
         left: 0;
@@ -171,7 +168,6 @@ nav {
   padding-left: 0.35rem;
   font-family: sans-serif;
   font-weight: bold;
-  font-size: 18px;
   align-content: right;
   content: "›";
 }
@@ -182,7 +178,6 @@ nav {
   font-family: sans-serif;
   padding-left: 0.35rem;
   font-weight: bold;
-  font-size: 18px;
   content: "⌵";
 }
 
@@ -247,7 +242,7 @@ nav {
 
 .left {
   margin-left: auto;
-  justify-content: initial;
+  justify-content: start;
 }
 
 .right {

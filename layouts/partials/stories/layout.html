@@ -4,7 +4,7 @@
 <div class="postcard-layout content-margin">
   <ul class="post-grid">
     {{ range ($ctx.Paginator).Pages }}
-        <li class="item card leading-relaxed list-item" style="border-radius: 5px; height: 100%">
+        <li class="item card leading-relaxed list-item" style="border-radius: 5px;">
           <a href="{{ .RelPermalink }}">
             <div class="post-info">
               <div class="post-title">
@@ -31,7 +31,7 @@
         </li>
     {{ end }}
     </ul>
-    {{ template "_internal/pagination.html" $ctx }}
+    {{ partial "stories/pagination.html" $ctx }}
 </div>
 
 {{ define "breadcrumbtext" }}

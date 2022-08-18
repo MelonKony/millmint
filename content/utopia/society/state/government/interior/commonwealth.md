@@ -19,6 +19,9 @@ comments: false
 
 toc: true
 
+aliases:
+- /cosmocom/
+
 description: Vekllei is a utopia created by Hobart Phillips.
 author: Hobart Phillips
 ---
