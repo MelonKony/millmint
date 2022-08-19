@@ -6,13 +6,9 @@
 
 <div class="article-info">
   <h1 class="title" style="line-height: 1.2; font-size: 1.8rem; font-weight: 700; margin-bottom: 1rem; filter: brightness(35%);">{{ .Params.fulltitle }}</h1>
+  <div class="date" style="margin-right: .25rem;">{{if .Params.PublishDate}}{{- .PublishDate.Format "Monday, Jan 2, 2006" -}}{{ end }}</div>
   <div class="tag">{{ partial "taxonomies/tags.html" .}}</div>
   <div class="category">{{ partial "taxonomies/categories.html" .}}</div>
   <span class="icon" style="line-height: 1.2;">{{ .Params.icon }}</span>
   <div class="emoji" id="whirlybat" style="opacity: 50%;">{{ .Params.emoji }}</div>
-</div>
-
-<div class="meta">
-  <!--<div class="post-tag" style="margin-left: .25rem;">{{ partial "taxonomies/categories.html" .}}</div>-->
-  <div class="date" style="margin-right: .25rem;">{{if .Params.PublishDate}}{{- .PublishDate.Format "Monday, Jan 2, 2006" -}}{{ end }}</div>
 </div>

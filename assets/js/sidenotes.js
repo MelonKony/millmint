@@ -88,7 +88,7 @@
         // console.log(" ---> " + superscript.text() + " : " + footnoteText);
 
         // construct side note <div>
-        let div = $(document.createElement('div'))
+        let div = $(document.createElement('aside'))
             .text(footnoteText)
             .addClass("sidenote");
 

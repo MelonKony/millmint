@@ -1,14 +1,29 @@
 .article-info {  
   display: grid;
   grid-template-columns: 0fr 1fr .35fr fit-content(20%);
-  grid-template-rows: 1fr 20% 20%;
-  gap: .15rem 0px;
+  grid-template-rows: 1fr 10% 20% 20%;
+  gap: 0;
   grid-auto-flow: row;
   grid-template-areas: 
   	"title title emoji"
+  	"date date emoji"
   	"icon tag emoji"
   	"icon category emoji"; 
-  }
+  margin: 1rem 0 2rem 0;
+}
+  
+.box-info {  
+	display: grid;
+	grid-template-columns: 0fr 1fr .35fr fit-content(20%);
+	grid-template-rows: 1fr;
+	gap: 0;
+	grid-auto-flow: row;
+	grid-template-areas: 
+		"title title emoji";
+	> .title {
+		align-content: start;
+	}
+}
 
 .title {
 	height: 100%;
@@ -18,8 +33,7 @@
 	grid-area: title;
 	display: grid;
 	align-content: center;
-	margin-top: 0;
-	margin-bottom: 1rem;
+	margin: 0;
 	line-height: 1.2;
 }
 
@@ -39,7 +53,18 @@
 	text-rendering: optimizeLegibility;
 	font-size: 65px;
 	box-sizing: border-box;
+	height: 100%;
+	width: 100%;
 }
+
+.date {
+	grid-area: date;	
+    font-size: 14px;
+	color: var(--color-gray);
+	margin: 0;
+    font-weight: 500;
+}
+
 
 .icon-container {
 	grid-area: icon;
@@ -56,7 +81,6 @@
 	height: auto;
 	width: auto;
 	font-size: 1.7rem;
-	margin-bottom: .5rem;
 	margin-right: .25rem;
 	filter: brightness(35%);
 	justify-content: center;
