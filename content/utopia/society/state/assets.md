@@ -96,6 +96,8 @@ There are three broad categories of state asset in Vekllei, arranged at their le
   * Atlantic Shipbuilding
 * Vekllei National Steel
 * Vekllei National Machines
+  * Civic Systems
+  * Voscom
 * General Reactor
   * [Future Fission](/utopia/landscape/boroughs/pharos/#future-fission-sqm)
 * International Rocketry
