@@ -38,7 +38,7 @@ author: Hobart Phillips
 
 The colloquial turn-of-phrase for the domestic Vekllei economy is "functionally moneyless," but the actual mechanisms of the internal Vekllei market is considerably more complex. While the average Vekllei person is insulated from money and money-management, their Commonwealth is a major entrepôt[^1] and has a reputation as an "Atlantic Middleman." Vekllei's facilitation of frictionless free trade, large foreign-exchange reserves and received foreign direct investments have resulted in decades of consistent economic growth, and has cemented its reputation as a financial hub between Europe and the Americas.
 
-Vekllei's history as a trade hub contributes significantly to its perceived neutrality and its reputation as a meeting place for politics and business, and regularly hosts diplomatic missions as a neutral site. It maintains its moneyless primary economy by effectively isolating its primary ([domestic](#domestic-markets)) and secondary ([international](#international-markets)) markets, which are the reason for its [twin currencies](#currency) and its unusual hybrid market system. Because the Vekllei state manages all money as a function of its moneylessness, the international market and foreign trade is strongly characterised by dirigisme.
+Vekllei's history as a trade hub contributes significantly to its perceived neutrality and its reputation as a meeting place for politics and business, and regularly hosts diplomatic missions as a neutral site. It maintains its moneyless primary economy by effectively isolating its primary ([domestic](#domestic-markets)) and secondary ([international](#international-markets)) markets, which are the reason for its [twin currencies](#currency) and its unusual hybrid market system. Because the Vekllei state manages all money as a function of its moneylessness, the international market and foreign trade is strongly characterised by dirigism and fundamentally beholden to the economic management of the [Ministry of Commerce](/cosmosol/).
 
 ## Markets
 
@@ -50,9 +50,13 @@ Vekllei's history as a trade hub contributes significantly to its perceived neut
 
 The Vekllei Domestic Market is the turn-of-phrase for the unmoneyed Vekllei economy, including almost all private and public businesses and the majority of trade conducted by ordinary Vekllei people. It is the primary market of Vekllei. For most Vekllei people, the domestic market is the only one with which they will interact in their lives, except for the occasional holiday overseas. The Domestic Market includes all sectors of the Vekllei economy except state trade apparatuses like [VKIM](#international-markets).
 
-While the participatory nature of the Domestic Market affects its gross productivity, it is regarded as free, innovative and dynamic. It has a skilled workforce benefitted by a robust education system and a high quality of life. About 40% of Vekllei people were born overseas, and some 15% of the workforce remain Vekllei remain foreign workers.
+While the participatory nature of the Domestic Market affects its gross productivity, it is regarded as free, innovative and dynamic. It has a skilled workforce benefitted by a robust education system and a high quality of life. About 40% of Vekllei people were born overseas, and some 15% of the Vekllei workforce remain foreign workers. Foreign workers, unlike domestic ones, are remunerated unless residing under an immigration visa. 
 
 ### Industrial Markets
+
+Vekllei Industrial Markets are distinguished by their ability to trade in both the moneyless [Domestic Market](#domestic-markets) and the [VKIM](#international-markets)
+
+
 
 ### International Markets
 
@@ -60,7 +64,7 @@ While the participatory nature of the Domestic Market affects its gross producti
 ❖ Download <span class="smallicon">📄</span> [Document No. 9.pdf](/files/documents/9.pdf)
 {{</hint>}}
 
-The Vekllei International Market (VKIM) is an organisation that controls the capital, commodities and securities markets of Vekllei. VKIM is maintained by the [Ministry of Commerce](/utopia/society/state/government/interior/commerce/) as a mechanism for foreign investors and merchants to interact with the isolated, unmoneyed Vekllei domestic market. The international market includes a commodities exchange, derivatives marketplace and other structured financial products that facilitate foreign activity in the Vekllei economy and raise foreign capital for the state's liquid currency reserves. VKIM uses the Vekllei Composite Index as a measure of the Vekllei economy, which measures both commodity value and productivity.
+The Vekllei International Market (VKIM) is an organisation that controls the capital, commodities and securities markets of Vekllei. VKIM is maintained by the [Ministry of Commerce](/cosmosol/) as a mechanism for foreign investors and merchants to interact with the isolated, unmoneyed Vekllei domestic market. The international market includes a commodities exchange, derivatives marketplace and other structured financial products that facilitate foreign activity in the Vekllei economy and raise foreign capital for the state's liquid currency reserves. VKIM uses the Vekllei Composite Index as a measure of the Vekllei economy, which measures both commodity value and productivity.
 
 The International Market is the means by which the capital account[^2] of the Commonwealth Government implements its long-standing macroeconomic interest in foreign investment and soft power. The reinvestment of capital surplus in the [Vekllei currencies](#currency) serves as a form of sterilisation and capital control, controlled directly by the central [Bank of Vekllei](#bank-of-vekllei). Vekllei has the world's 2nd largest foreign reserves.
 
@@ -75,7 +79,7 @@ Vekllei has two currencies that are more or less opposed in their use as money, 
 Together, the twin crowns allow for the Vekllei state to retain unprecedented control over its financial system while securing a mechanism for foreign investment and growth.
 
 * The domestic market is autarkic and does not have free capital exchange, allowing it to maintain its fixed price and independent monetary policy
-* The international market is open and has free capital exchange, facilitated by ✾AK floating exchange price with policy independence maintained by capital controls from the [Ministry of Commerce](/utopia/society/state/government/interior/commerce/).
+* The international market is open and has free capital exchange, facilitated by ✾AK floating exchange price with policy independence maintained by capital controls from the [Ministry of Commerce](/cosmosol/).
 
 For a variety of political and economic reasons, the Vekllei Commonwealth state aims to be self-sufficient. The twin crowns system provides a means to isolate its productive primary economy while also allowing foreign money controlled access to it. The unmoneyed primary economy remains a popular investment for its stability[^3]. As capital controls have broken down in the mid-2030s, Vekllei's current macroeconomic policy sits as a third way between closed autarky and recent trends towards an open economic international market.
 
@@ -85,7 +89,9 @@ The *Vekllei Kroner* (lit. *Vekllei Crown*) is the primary and historic currency
 
 ### Government Crown (✾AK)
 
-The *Government/Commonwealth Kroner* (also the *Atlantic Kroner* or *Crown*) is a twin currency used primarily by the state to insure financial instruments like bonds as well as for converting and placing foreign investments and currency. The Government Crown operates on a floating exchange rate as a fiat currency tradeable in the VKIM and a means for overseas actions in the Vekllei economy.
+The *Government/Commonwealth Kroner* (also the *Atlantic Kroner* or *Crown*) is a twin currency used primarily by the state to insure financial instruments like bonds as well as for converting and placing foreign investments and currency. The Government Crown operates on a floating exchange rate as a fiat currency tradeable in the [VKIM](#international-markets) and a means for overseas actions in the Vekllei economy.
+
+The ✾AK is not minted as it does not resemble a conventional currency, and exists only in bonds, state certificates, and as a metric for some commodity money.
 
 #### White Bonds
 
