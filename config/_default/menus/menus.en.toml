@@ -39,12 +39,19 @@
       parent = "culture"
       weight = 1
     [[navbar]]
+      identifier = "metaphysics"
+      name = "Metaphysics"
+      pre = "🪬"
+      url = "/utopia/culture/metaphysics"
+      parent = "culture"
+      weight = 2
+    [[navbar]]
       identifier = "religion"
       name = "Religion"
       pre = "💀"
       url = "/utopia/culture/religion"
       parent = "culture"
-      weight = 2
+      weight = 3
   [[navbar]]
     identifier = "landscape"
     name = "Landscape"

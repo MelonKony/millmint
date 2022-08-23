@@ -48,7 +48,7 @@ The Commonwealth capital and its largest city is the city-state Vekllei in the V
 
 ![img](https://images.millmint.net/images/vekllei.png)
 {{< hint caption >}}
-Political and strategic map of the Home Islands | *[The World’s Last Great Utopia](/posts/2021-10-07-map/)*
+Political and strategic map of the Home Islands | *[The World’s Last Great Utopia](/stories/vekllei/)*
 {{</hint>}}
 
 *Vekllei*, officially the *Vekllei Commonwealth*, is a society blossoming with contradictions and anachronisms, which reflect and fold into each other to produce new forms of living. The country advocates *laissez-faire* market participation and soviet-style central planning simultaneously; it is the site of a healthy new democracy utterly divorced by public apathy, and a place of midcentury science-worship and automation used to bolster backwardness and agrarian living. This idea carries on and on, cascading throughout all levels of society.
@@ -383,7 +383,7 @@ Education in Vekllei is structured as a *State Requisite Bureau* (rather than de
 
 ![img](https://images.millmint.net/images/generation.jpg)
 {{< hint caption >}}
-Students in the uniform of Vekllei government schools | *[A New Generation](/posts/2021-08-21-generation/)*
+Students in the uniform of Vekllei government schools | *[A New Generation](/stories/new-generation/)*
 {{</hint>}}
 
 All institutions of higher learning, including universities, trade schools and adult education, are structured under the A.r.E.. [School uniforms](/posts/2020-09-08-uniforms/) informed by [traditional dress](/posts/2020-01-11-dress/) are provided and worn from preschool through to university, and faculty staff also often wear them.
@@ -400,7 +400,7 @@ Vekllei's school enrolment is among the highest in the world, though this calcul
 
 ![img](https://images.millmint.net/images/hydro.jpg)
 {{< hint caption >}}
-Sunny morning at the [Ou Hydroburo Complex](/utopia/landscape/boroughs/ou/#hydroburo-development) in [Ou](/utopia/landscape/boroughs/ou/). | *[The Ou Hydroburo Office](/posts/2020-04-21-hydro/)*
+Sunny morning at the [Ou Hydroburo Complex](/utopia/landscape/boroughs/ou/#hydroburo-development) in [Ou](/utopia/landscape/boroughs/ou/). | *[The Ou Hydroburo Office](/stories/hydro/)*
 {{</hint>}}
 
 Most large infrastructure projects, including transport, education, health, military and extraterrestrial interests, are completed in cyclical phases similar to Soviet half-decade plans, including production quotas and hard deadlines for completion. This system of construction has allowed the country to recover quickly from its devastation in the Atomic War and develop one of the most comprehensive public infrastructure systems in the world. Vekllei is a major transport hub for international flights and Atlantic ocean crossings, served largely by the [**Vekllei World Jetport**](/utopia/landscape/boroughs/pharos/#vekllei-world-jetport) and the historic **Port of Vekllei** respectively.
@@ -455,7 +455,7 @@ The **Royal Mail of Vekllei** is the postal service of the country, and counts a
 
 ![img](https://images.millmint.net/images/mailtrain.jpg)
 {{< hint caption >}}
-[Tzipora](/utopia/characters/#2-tzipora-zelda-desmoisnes) races a [Royal Mail](/utopia/society/industry/mail/) rural [mail train](/utopia/society/industry/mail/#fleet) to its next stop. | *[Racing the Post Office to the Station](/posts/2021-02-05-mailtrain/)*
+[Tzipora](/utopia/characters/#2-tzipora-zelda-desmoisnes) races a [Royal Mail](/utopia/society/industry/mail/) rural [mail train](/utopia/society/industry/mail/#fleet) to its next stop. | *[Racing the Post Office to the Station](/stories/mail-train/)*
 {{</hint>}}
 
 Telephones, telegrams and videophones are structured under the Mail as the Office of Telecommunications, which acts as an independent organ of the Mail A.r.

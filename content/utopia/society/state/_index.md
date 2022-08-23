@@ -1,5 +1,5 @@
 ---
-title: State of Vekllei
+title: State
 fulltitle: The Supranational Vekllei State
 icon: 🌸
 emoji: Ζ

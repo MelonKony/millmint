@@ -87,13 +87,13 @@ In this state of affairs, Vekllei can refer to the powerful member-state in the 
 
 ## Government of the Vekllei Commonwealth
 
-The Government of Vekllei is divided between three parliaments -- the [**Interior Parliament**](/utopia/society/state/government/interior), the [**Commonwealth Parliament**](/utopia/society/state/government/commonwealth) and the [**Crown Parliament**](/utopia/society/state/government/crown/). Neither is particularly subordinate to the other, and they serve different purposes in the lives of Vekllei people. 
+The Government of Vekllei is divided between three parliaments -- the [Interior Parliament](/utopia/society/state/government/interior), the [Commonwealth Parliament](/utopia/society/state/government/commonwealth) and the [Crown Parliament](/utopia/society/state/government/crown/). Neither is particularly subordinate to the other, and they serve different purposes in the lives of Vekllei people. 
 
 In general, the Interior Parliament is responsible for the standard of living in the Vekllei Home Islands and dependent autonomous regions like Demon and the Aismious islands. The Commonwealth Parliament is responsible for all features of the transnational Commonwealth superstate, standardising governance and state services while advocating for 'Floral Society' under the Floral Constitution.
 
 Together, these two parliaments make up the combined Government of Vekllei. It is made up of Ministries, Offices, Departments, Bureaus, Commissions, Directorates and Secretariats depending on the size, purpose and structure of the state body. This is the government that people living in the Vekllei Home Islands vote for, via the nonpartisan representatives system.
 
-{{<section>}}
+{{<box>}}
 ### Parliament of the Interior
 
 {{< hint >}}
@@ -103,9 +103,9 @@ Together, these two parliaments make up the combined Government of Vekllei. It i
 The *Administration of the Interior of the Government of Vekllei* (also known as the *Interior Government* or *Interior Parliament*) represents the human state of the Vekllei Home Islands, as well as its dependent possessions. It includes all 100 [boroughs](/utopia/landscape/boroughs/) of the Home Islands and its peripheral island possessions. Independent Commonwealth member-states Demon and Aismious lack the population to govern themselves independently, and so are dependent on the Interior Government. Other members of the Commonwealth, including Kalina, Kala and Mira, have parliaments (also called Interior Administrations) similar to the Vekllei Administration of the Interior.
 
 The Interior Government is made up of 10 ministries which retain total authority over the state in Vekllei.
-{{</section>}}
+{{</box>}}
 
-{{<section>}}
+{{<box>}}
 ### Parliament of the Commonwealth
 
 {{< hint >}}
@@ -114,9 +114,9 @@ The Interior Government is made up of 10 ministries which retain total authority
 
 Although each member of the Atlantic Commonwealth is considered a full participant of equal importance, administration in practice occurs in the [Vekllei Islands](/utopia/vekllei/), its most populous and industrious member state. Many features of Floral Society are universal among Commonwealth members, and the Administration of the Commonwealth serves, maintains and standardises the values of Floral Society across the Atlantic.
 
-{{</section>}}
+{{</box>}}
 
-{{<section>}}
+{{<box>}}
 ### Parliament of the Crown 
 
 {{< hint >}}
@@ -125,4 +125,4 @@ Although each member of the Atlantic Commonwealth is considered a full participa
 
 The *Commonwealth Administration of the Crown* (also the Crown Sovereign and Parliament of Spirits interchangeably), not to be confused with the [Palace of the Vekllei Sovereign](/utopia/society/government/#palace-of-the-vekllei-sovereign), is the administration-level apparatus of the Commonwealth to coordinate policy with the Palace. Since the Commonwealth does not have direct authority over the features of the Sovereign, the Crown Parliament acts as its human representative in Vekllei government. Although it sits above the Commonwealth and Interior parliaments in sovereignty, its responsibilities are limited to constitutional matters and aspects of the Vekllei legal system. 
 
-{{</section>}}
+{{</box>}}

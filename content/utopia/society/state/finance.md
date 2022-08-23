@@ -38,7 +38,7 @@ author: Hobart Phillips
 
 The colloquial turn-of-phrase for the domestic Vekllei economy is "functionally moneyless," but the actual mechanisms of the internal Vekllei market is considerably more complex. While the average Vekllei person is insulated from money and money-management, their Commonwealth is a major entrepôt[^1] and has a reputation as an "Atlantic Middleman." Vekllei's facilitation of frictionless free trade, large foreign-exchange reserves and received foreign direct investments have resulted in decades of consistent economic growth, and has cemented its reputation as a financial hub between Europe and the Americas.
 
-Vekllei's history as a trade hub contributes significantly to its perceived neutrality and its reputation as a meeting place for politics and business, and regularly hosts diplomatic missions as a neutral site. It maintains its moneyless primary economy by effectively isolating its primary ([domestic](#domestic-markets)) and secondary ([international](#international-markets)) markets, which are the reason for its [twin currencies](#currency) and its unusual hybrid market system. Because the Vekllei state manages all money as a function of its moneylessness, the international market and foreign trade is strongly characterised by dirigism and fundamentally beholden to the economic management of the [Ministry of Commerce](/cosmosol/).
+Vekllei's history as a trade hub contributes significantly to its perceived neutrality and its reputation as a meeting place for politics and business, and regularly hosts diplomatic missions as a neutral site. It maintains its moneyless primary economy by effectively isolating its primary ([domestic](#domestic-markets)) and secondary ([international](#international-markets)) markets, which are the reason for its [twin currencies](#currency) and its unusual hybrid market system. Because the Vekllei state manages all money as a function of its moneylessness, the international market and foreign trade is strongly characterised by dirigism and fundamentally beholden to the economic management of the [Ministry of Commerce](/cosmosol/), which acts as both a financial regulator and investment bank.
 
 ## Markets
 
@@ -54,9 +54,14 @@ While the participatory nature of the Domestic Market affects its gross producti
 
 ### Industrial Markets
 
-Vekllei Industrial Markets are distinguished by their ability to trade in both the moneyless [Domestic Market](#domestic-markets) and the [VKIM](#international-markets)
+Vekllei Industrial Markets are distinguished by their ability to trade in both the moneyless [Domestic Market](#domestic-markets) and the [VKIM](#international-markets). There are two kinds of industrial firm in Vekllei:
 
+- **Senrouive**: private enterprises
+- **Venrouive**: public enterprises with membership in an industrial bureau
 
+*Venrouive* (also known as public companies in Vekllei) are enterprises beholden to industrial bureaus, which are collections of companies with close relations and hold membership in a shared industrial council. Venrouive businesses are characterised by preferred large-scale enterprises, some of which may be state-owned, that hold considerable power over a market. In some cases, a bureau may monopolise a market, as in the case of the Vekllei telecommunications industry.
+
+Both senrouive and venrouive companies may participate in the international market, but only bureaus (and by extension, participating venrouive companies) may trade directly with overseas governments and enterprises.
 
 ### International Markets
 
@@ -91,7 +96,7 @@ The *Vekllei Kroner* (lit. *Vekllei Crown*) is the primary and historic currency
 
 The *Government/Commonwealth Kroner* (also the *Atlantic Kroner* or *Crown*) is a twin currency used primarily by the state to insure financial instruments like bonds as well as for converting and placing foreign investments and currency. The Government Crown operates on a floating exchange rate as a fiat currency tradeable in the [VKIM](#international-markets) and a means for overseas actions in the Vekllei economy.
 
-The ✾AK is not minted as it does not resemble a conventional currency, and exists only in bonds, state certificates, and as a metric for some commodity money.
+The ✾AK is not minted as it does not resemble a conventional currency, and exists only in bonds, state certificates, and as a metric for some commodity money. It has a strong reputation as a hard currency because of the ✾AK's relative security and reliability, backed by powerful domestic institutions.
 
 #### White Bonds
 
@@ -102,6 +107,8 @@ The ✾AK is not minted as it does not resemble a conventional currency, and exi
 Because of the massive amounts of ❦VK Vekllei and ✾AK Government currency exiting the [VKIM](#international-markets), Vekllei liquid capital held in ❦VK undergoes regular sterilisation to prevent deflation.
 
 ### Commodity Money
+
+Commodity money is scarce in the domestic moneyless economy, but does exist in major [state-owned enterprises](/assets/)
 
 ## Banking
 

@@ -98,6 +98,11 @@ footer ul {
   text-align: left;
 }
 
+hr {
+  color: var(--color-gray);
+  height: 1px;
+}
+
 .content {
   margin: 1rem 0 1rem 0;
 }
@@ -213,6 +218,12 @@ article a:hover:after {
   transform: scaleX(1);
   transform-origin: bottom left;
 }*/
+
+.link {
+  &:hover {
+    text-decoration: underline;
+  }
+}
 
 article a:hover {
   filter: brightness(85%);

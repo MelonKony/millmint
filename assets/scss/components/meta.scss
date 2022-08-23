@@ -15,7 +15,7 @@
   background-color: transparent;
 }
 
-.tag {
+.article-tag {
   @include text-sm;
     grid-area: tag;
     font-weight: bolder;
@@ -26,7 +26,7 @@
     margin-top: .25rem;
 }
 
-.category {
+.article-category {
   @include text-sm;
     grid-area: category;
     text-transform: capitalize;
@@ -53,7 +53,18 @@
   font-weight: bold;
 }
 
-.boxtag.pink, .article-pink .boxtag[class="boxtag"] {
-    border-color: var(--color-pink);
-    background-color: rgba(245,35,75,.15);
+.tag {
+  margin: 1rem 0;
+  padding: 0;
+  text-transform: capitalize;
+  > a {
+    border: 1px solid var(--color-gray);
+    padding: 5px;
+    border-radius: .25rem;
+    font-weight: 600;
+    color: var(--color-gray);
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
