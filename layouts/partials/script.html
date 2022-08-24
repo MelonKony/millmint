@@ -2,9 +2,9 @@
 {{ $jq := resources.Get "js/jquery.min.js" }}
 {{ $cs := resources.Get "js/colors.js" }}
 {{ $fd := resources.Get "js/fade.js" }}
-{{ $sn := resources.Get "js/sidenotes.js" }}
+<!--{{ $sn := resources.Get "js/sidenotes.js" }}-->
 {{ $gt := resources.Get "js/goto.js" }}
-{{ $js := slice $jq $cs $fd $sn $gt | resources.Concat "js/bundle.js"  }}
+{{ $js := slice $jq $cs $fd $gt | resources.Concat "js/bundle.js"  }}
 
 {{ if .Site.IsServer }}
     <script defer src="{{ $js.RelPermalink }}" type="module"></script>
