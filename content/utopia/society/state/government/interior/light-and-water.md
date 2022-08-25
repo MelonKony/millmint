@@ -3,7 +3,7 @@ title: Ministry of Light & Water
 fulltitle: Ministry of Light & Water
 icon: 🔌
 emoji: Ζ
-color: teal
+color: pink
 image: 
 
 tags: 

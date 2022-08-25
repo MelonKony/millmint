@@ -3,7 +3,7 @@ title: Ministry of Defence
 fulltitle: Ministry of Defence
 icon: ⚔️
 emoji: Ζ
-color: teal
+color: pink
 image: 
 
 tags: 

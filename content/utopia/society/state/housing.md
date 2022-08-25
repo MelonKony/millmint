@@ -3,7 +3,7 @@ title: Housing
 fulltitle: Housing in Vekllei
 icon: 🏡
 emoji: H
-color: teal
+color: pink
 image: 
 
 tags: 

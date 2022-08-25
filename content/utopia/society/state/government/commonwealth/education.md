@@ -3,7 +3,7 @@ title: Commonwealth Education Secretariat
 fulltitle: Commonwealth Education Secretariat 
 icon: 🎓
 emoji: Ζ
-color: teal
+color: pink
 image: 
 
 tags: 

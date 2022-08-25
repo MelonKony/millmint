@@ -3,7 +3,7 @@ title: Commonwealth Culture Secretariat
 fulltitle: Commonwealth Culture Secretariat 
 icon: 🏵
 emoji: Ζ
-color: teal
+color: pink
 image: 
 
 tags: 

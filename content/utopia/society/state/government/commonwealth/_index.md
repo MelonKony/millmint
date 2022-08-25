@@ -3,7 +3,7 @@ title: Commonwealth Parliament
 fulltitle: The Commonwealth Parliament of Vekllei
 icon: 🌸
 emoji: Ζ
-color: teal
+color: pink
 image: 
 
 tags: 

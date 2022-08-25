@@ -3,7 +3,7 @@ title: Ministry of Landscape
 fulltitle: Ministry of Landscape
 icon: 🌋
 emoji: Ζ
-color: teal
+color: pink
 image: 
 
 tags: 

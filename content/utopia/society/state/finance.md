@@ -3,7 +3,7 @@ title: Finance
 fulltitle: Finance in Vekllei
 icon: 💵
 emoji: w
-color: teal
+color: pink
 image: 
 
 tags: 
@@ -59,7 +59,7 @@ Vekllei Industrial Markets are distinguished by their ability to trade in both t
 - **Senrouive**: private enterprises
 - **Venrouive**: public enterprises with membership in an industrial bureau
 
-*Venrouive* (also known as public companies in Vekllei) are enterprises beholden to industrial bureaus, which are collections of companies with close relations and hold membership in a shared industrial council. Venrouive businesses are characterised by preferred large-scale enterprises, some of which may be state-owned, that hold considerable power over a market. In some cases, a bureau may monopolise a market, as in the case of the Vekllei telecommunications industry.
+*Venrouive* (also known as public companies in Vekllei) are enterprises beholden to industrial bureaus, which are collections of companies with close relations and hold membership in a shared industrial council. Venrouive businesses are characterised by large-scale enterprises, some of which may be state-owned, that hold considerable power over a market. In some cases, a bureau may monopolise a market, as in the case of the Vekllei telecommunications industry.
 
 Both senrouive and venrouive companies may participate in the international market, but only bureaus (and by extension, participating venrouive companies) may trade directly with overseas governments and enterprises.
 
@@ -71,7 +71,7 @@ Both senrouive and venrouive companies may participate in the international mark
 
 The Vekllei International Market (VKIM) is an organisation that controls the capital, commodities and securities markets of Vekllei. VKIM is maintained by the [Ministry of Commerce](/cosmosol/) as a mechanism for foreign investors and merchants to interact with the isolated, unmoneyed Vekllei domestic market. The international market includes a commodities exchange, derivatives marketplace and other structured financial products that facilitate foreign activity in the Vekllei economy and raise foreign capital for the state's liquid currency reserves. VKIM uses the Vekllei Composite Index as a measure of the Vekllei economy, which measures both commodity value and productivity.
 
-The International Market is the means by which the capital account[^2] of the Commonwealth Government implements its long-standing macroeconomic interest in foreign investment and soft power. The reinvestment of capital surplus in the [Vekllei currencies](#currency) serves as a form of sterilisation and capital control, controlled directly by the central [Bank of Vekllei](#bank-of-vekllei). Vekllei has the world's 2nd largest foreign reserves.
+The International Market is the means by which the capital account[^2] of the Commonwealth Government implements its long-standing macroeconomic interest in foreign investment and soft power. The reinvestment of capital surplus in the [Vekllei currencies](#currency) serves as a form of sterilisation and capital control, controlled directly by the central [Bank of Vekllei](#bank-of-vekllei). Vekllei has the world's 2nd-largest foreign currency reserves.
 
 ## Currency
 
@@ -86,11 +86,11 @@ Together, the twin crowns allow for the Vekllei state to retain unprecedented co
 * The domestic market is autarkic and does not have free capital exchange, allowing it to maintain its fixed price and independent monetary policy
 * The international market is open and has free capital exchange, facilitated by ✾AK floating exchange price with policy independence maintained by capital controls from the [Ministry of Commerce](/cosmosol/).
 
-For a variety of political and economic reasons, the Vekllei Commonwealth state aims to be self-sufficient. The twin crowns system provides a means to isolate its productive primary economy while also allowing foreign money controlled access to it. The unmoneyed primary economy remains a popular investment for its stability[^3]. As capital controls have broken down in the mid-2030s, Vekllei's current macroeconomic policy sits as a third way between closed autarky and recent trends towards an open economic international market.
+For a variety of political and economic reasons, the Vekllei Commonwealth state aims to be self-sufficient. The twin crowns system provides a means to isolate its productive primary economy while also allowing foreign money controlled access to it. The unmoneyed primary economy remains a popular investment for its stability.[^3] As capital controls have broken down in the mid-2030s, Vekllei's current macroeconomic policy exists as a "third way" between closed autarky and recent trends towards an open economic international market.
 
 ### Vekllei Crown (❦VK)
 
-The *Vekllei Kroner* (lit. *Vekllei Crown*) is the primary and historic currency of Vekllei. It is minted by [National Mint](/utopia/society/state/government/interior/commerce/#national-mint-of-vekllei) as a souvenir in the tradition of Vekllei *medals*,[^4] but is not otherwise used by Vekllei people as money or transacted in day-to-day life. It is primarily a deflationary currency store backed by gold, and to which each Vekllei citizen is entitled an equal share in emigration. It is not able to be used on the [VKIM](#international-markets) directly, but can be purchased as a [White Bond](#white-bonds) as a speculative instrument. It is also used in some cases as a mechanism for trade with individuals abroad, mostly by smaller banks looking to broker purchases of goods or services unavailable in Vekllei.
+The *Vekllei Kroner* (lit. *Vekllei Crown*) is the primary and historic currency of Vekllei. It is minted by the [National Mint](/utopia/society/state/government/interior/commerce/#national-mint-of-vekllei) as a souvenir in the tradition of Vekllei *medals*,[^4] but is not otherwise used by Vekllei people as money or transacted in day-to-day life. It is primarily a deflationary currency store backed by gold, and to which each Vekllei citizen is entitled an equal share in emigration. It is not able to be used on the [VKIM](#international-markets) directly, but can be purchased as a [White Bond](#white-bonds) as a speculative instrument. It is also used in some cases as a mechanism for trade with individuals abroad, mostly by smaller banks looking to broker purchases of goods or services unavailable in Vekllei.
 
 ### Government Crown (✾AK)
 
@@ -99,6 +99,8 @@ The *Government/Commonwealth Kroner* (also the *Atlantic Kroner* or *Crown*) is 
 The ✾AK is not minted as it does not resemble a conventional currency, and exists only in bonds, state certificates, and as a metric for some commodity money. It has a strong reputation as a hard currency because of the ✾AK's relative security and reliability, backed by powerful domestic institutions.
 
 #### White Bonds
+
+White bonds are a security that represent [❦VK](#vekllei-crown-vk)
 
 #### Blue Bonds
 
@@ -112,17 +114,17 @@ Commodity money is scarce in the domestic moneyless economy, but does exist in m
 
 ## Banking
 
+{{<hint>}}
+❖ Read more: *[Banks of Vekllei](/utopia/society/state/government/interior/commerce/#bank-of-vekllei)*
+{{</hint>}}
+
 The policy of bank consolidation under the British Occupation Government continued under the successive Floral Government, and banking was among the first industries in Vekllei to be completely socialised.[^5] All banks in Vekllei are run as state-owned enterprises, and subordinated to the '*Old Lady*,' the colloquial name for the central [Bank of Vekllei](/utopia/society/state/government/interior/commerce/#bank-of-vekllei). 'Unbanking' policy -- the effective demonetisation of the Vekllei domestic markets -- saw severe disruption to the Vekllei economy and led to a period of hyperinflation in the late 2010s. 
 
-Unlike in other countries, the socialisation of banking in Vekllei also saw the broad exclusion of retail investors and savings banking, effectively halting money exchange in the domestic market and moving most money-lending and institutionalising the Vekllei banking system. Today, most Vekllei banks are institutional and deal primarily with the secondary speculative markets like [VKIM](#international-markets).
+Unlike in other countries, the socialisation of banking in Vekllei also saw the broad exclusion of retail investors and savings banking, effectively halting money exchange in the domestic market and institutionalising the Vekllei banking system. Today, most Vekllei banks are institutional and deal primarily with the secondary speculative markets like [VKIM](#international-markets), or provide lending and contracts for new businesses in the [industrial market](#industrial-markets).
 
 ### Bank of Vekllei
 
-{{<hint>}}
-❖ Read more: *[Bank of Vekllei](/utopia/society/state/government/interior/commerce/#bank-of-vekllei)*
-{{</hint>}}
-
-The Bank of Vekllei (also *Labour Bank of Vekllei* and *Old Lady*) is Vekllei's central bank with a constitutionally-granted monopoly on the financial mechanisms of the Commonwealth, with nearly all Commonwealth banking firms subordinated to its organisation. It is responsible directly to the [Ministry of Commerce](/utopia/society/state/government/interior/commerce/) and sets the monetary policy of Vekllei.
+The Bank of Vekllei (also *Labour Bank of Vekllei* and *Old Lady*) is Vekllei's central bank with a constitutionally-granted monopoly on the financial mechanisms of the Commonwealth, with nearly all Commonwealth banking firms subordinated to its organisation. It is responsible directly to the [Ministry of Commerce](/utopia/society/state/government/interior/commerce/) and sets the monetary policy of Vekllei. It is primarily a macroeconomic institution that does not deal directly with the primary or secondary markets, but does over institutional banking services and complex financing for some markets in the Commonwealth.
 
 #### Personal Banking
 
@@ -132,8 +134,11 @@ Money bureaus (also *Money Unions*) are a form of cooperative credit union premi
 
 #### Institutional Banking
 
-[^1]: An entrepôt is a port where merchandise is stored and traded, often before being exported again.
+Investment banking is provided primarily by the Commonwealth Bank of Vekllei (COMMBANK), which offers placement and settling services for bureaus seeking to engage with the International market. COMMBANK also arranges debt financing, underwriting and distribution services for overseas partners. COMMBANK also serves as the central bank of the Kalina Isles.
 
+The Vekllei Import-Export Bank (VEKEXIM) is a critical part of Vekllei's infrastructure efforts overseas, and serves this primarily strategic function.
+
+[^1]: An entrepôt is a port where merchandise is stored and traded, often before being exported again.
 [^2]: The Commonwealth capital account runs at a deficit as part of a post-war investment policy called 'Handshake Accounting,' which sees tremendous surplus state capital invested overseas.
 [^3]: Foreign investment in the primary economy is usually made in the form of state-backed [Blue Bonds](#blue-bonds)
 [^4]: Medallions, or medals, are a cultural feature in Vekllei used in spiritual ceremonies, as awards, and as a material novelty or trinket.

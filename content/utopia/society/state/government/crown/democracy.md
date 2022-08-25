@@ -3,7 +3,7 @@ title: Vekllei Democracy Commissariat
 fulltitle: Vekllei Democracy Commissariat 
 icon: 🗳️
 emoji: Ζ
-color: teal
+color: pink
 image: 
 
 tags: 

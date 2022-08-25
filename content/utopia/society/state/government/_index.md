@@ -3,7 +3,7 @@ title: Government
 fulltitle: Government of Vekllei
 icon: 🌸
 emoji: Ζ
-color: teal
+color: pink
 image: 
 
 tags: 
@@ -22,10 +22,6 @@ aliases:
 
 toc: false
 ---
-{{< hint >}}
-❖ Main article: *[The Government of Vekllei](/utopia/society/state/parliaments)*
-{{</hint>}}
-
 {{< hint panel >}}
 The **Vekllei Government** is the supranational parliamentary government of the Vekllei Islands and the members, dependent states and territories of the Vekllei Commonwealth. It is distinct from the [**Palace of Vekllei**](/utopia/society/state/palace), the monarch and sovereign of the Vekllei Commonwealth.
 {{</hint>}}

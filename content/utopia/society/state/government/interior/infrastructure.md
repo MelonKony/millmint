@@ -3,7 +3,7 @@ title: Ministry of Infrastructure
 fulltitle: Ministry of Infrastructure
 icon: 🚧
 emoji: Ζ
-color: teal
+color: pink
 image: 
 
 tags: 

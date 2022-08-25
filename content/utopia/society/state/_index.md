@@ -3,7 +3,7 @@ title: State
 fulltitle: The Supranational Vekllei State
 icon: 🌸
 emoji: Ζ
-color: teal
+color: pink
 
 tags: 
   - state
@@ -40,4 +40,5 @@ keywords: government, illustration, design, motion, utopia, utopianism, art, com
 - <a href="/utopia/society/state/finance/"><span class="navicon">💵</span>Finance in Vekllei</a>
 - <!--<a href="/utopia/society/state/housing/">--><span class="navicon">🏡</span>Housing in Vekllei (coming soon)
 - <a href="/utopia/society/state/assets/"><span class="navicon">🏬</span>State Assets of Vekllei</a>
+- <a href="/utopia/society/state/documents/"><span class="navicon">📄</span>Vekllei Document System</a>
 {{</ details >}}

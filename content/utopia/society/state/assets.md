@@ -3,7 +3,7 @@ title: State Assets
 fulltitle: State Assets of Vekllei
 icon: 🏬
 emoji: ¡
-color: teal
+color: pink
 image: 
 
 tags: 

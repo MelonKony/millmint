@@ -26,14 +26,14 @@ author: Hobart Phillips
 {{</hint>}}
 
 {{< hint panel >}}
-This article draws on many concepts broadly and reproduces them here with meandering interest in the same way you might hold a conversation. The purpose of this article is to introduce an alternate perspective on Vekllei thinking, and provoke the buried understanding that these people understand the world in fundamentally different ways. What is history for you is not history for Vekllei, and what land means to you is not what land means in Vekllei.
+This article draws on many concepts broadly, with meandering interest in the same way you might hold a conversation. The purpose of this article is to introduce an alternate perspective on Vekllei thinking, and provoke the buried understanding that these people understand the world in fundamentally different ways. What is history for you is not history for Vekllei, and what land means to you is not what land means in Vekllei.
 {{</hint>}}
 
 {{<hint>}}
 <span class="smallicon" style="font-size: 14px;">⚠️</span> This article is evolving, and will be expanded in future.
 {{</hint>}}
 
-In Vekllei, "history" as it is presently conceptualised is not continuous or inevitable, and the island country has been excluded from history as an invention of 19th century Europe. This article seeks to document the ways the so-called 'Vekllei perspective' bucks historicist assumptions about history, progress, and many features of observable reality.
+In Vekllei, "history" as it is presently conceptualised is not continuous or inevitable, and the island country has been excluded from history as an invention of 19th century Europe. This article seeks to document the ways the so-called 'Vekllei perspective' bucks historicist assumptions about history, progress, and many features of observable reality by depicting their differences.
 
 It is important to remember that Vekllei was 'left alone' for many centuries by the European and later American continental powers, except as an entrepôt with foreign contact restricted to trading ports. The isolationist 3rd Commonwealth, known under many names but referred to colloquially as a series of *junta parliaments* or *juntas*, did not really resemble a unified kingdom-state but instead a series of disparate clans with distinct cultural, ethnic and religious backgrounds with commonhoods developed in isolation. This tradition continues to exist today, to the surprise of foreigners. Vekllei uses phrases and names for its government and subordinate state ministries that, when assembled together, resemble a highly centralised and powerful city-state. In reality, the Vekllei state better resembles a thousand villages, across many islands, united in a series of timid councils and shallow departments. Many wonderful features of Vekllei are not architected but inherited from several thousand years of isolation and anger.
 

@@ -3,7 +3,7 @@ title: Crown Parliament
 fulltitle: The Crown Parliament of Vekllei
 icon: 🌸
 emoji: Ζ
-color: teal
+color: pink
 image: 
 
 tags: 

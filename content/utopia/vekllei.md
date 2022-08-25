@@ -34,7 +34,7 @@ author: Hobart Phillips
 **Vekllei** is a utopia and superstate in the Atlantic Ocean, which means it is social dream that explores new systems of living through a flexible alternate history. Set ostensibly in Iceland, the history and geography of Vekllei is radically different from our own. It is also the home of all of Vekllei's [major characters](/utopia/characters).
 {{</hint>}}
 
-The **Commonwealth of Vekllei**, commonly **Vekllei**, is a supranational commonwealth of constituent countries[^1] bound closely together by shared geographic and political features. Most members are island countries in the Atlantic and Caribbean oceans, and are characterised by societies engaging in [Floral economics](/utopia/vekllei/#economy), municipalism, third-way diplomacy and utopian metaphysics. Most extraordinarily, the people of the Commonwealth do not use money.
+The **Commonwealth of Vekllei**, commonly **Vekllei** or the **4th Commonwealth**, is a supranational commonwealth of constituent countries[^1] bound closely together by shared geographic and political features. Most members are island countries in the Atlantic and Caribbean oceans, and are characterised by societies engaging in [Floral economics](/utopia/vekllei/#economy), municipalism, third-way diplomacy and utopian metaphysics. Most extraordinarily, the people of the Commonwealth do not use money.
 
 The name *Vekllei* refers most commonly to the country of Vekllei, situated in the North Atlantic, which is both its founder and most prosperous and populated member-state. In total, 24 million people live across its member-states. As an advanced and prosperous society, the Commonwealth represents a major regional power and maintains the ability to project power overseas. Like most countries, Vekllei is a nuclear power and employs fission in both industrial and military contexts.
 
@@ -52,6 +52,10 @@ Political and strategic map of the Home Islands | *[The World’s Last Great Uto
 {{</hint>}}
 
 *Vekllei*, officially the *Vekllei Commonwealth*, is a society blossoming with contradictions and anachronisms, which reflect and fold into each other to produce new forms of living. The country advocates *laissez-faire* market participation and soviet-style central planning simultaneously; it is the site of a healthy new democracy utterly divorced by public apathy, and a place of midcentury science-worship and automation used to bolster backwardness and agrarian living. This idea carries on and on, cascading throughout all levels of society.
+
+> On this day, the 4th Commonwealth announces the Floral Period of the 4th Commonwealth and the establishment of free commonwealths of the people of the Vekllei Islands, Kala, Demon and Aismious Islands, and the affirmation of faith in human rights, the dignity and worth of the human person, and the equal rights of men and women.
+
+-- [Document No. 1](/documents/)
 
 This is a nation bound constitutionally to secularism and religious freedoms, described in a document only legible through indigenous spiritualism. This is a culture intent on abolishing commodity-forms through the worship of products. To foreigners, Vekllei is a wonderland of contradictions that in conventional imagination would collapse in on each other, yet Vekllei has flourished in postwar independence, quickly rising up amongst the most developed and livable countries in the world.
 

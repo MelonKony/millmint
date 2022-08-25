@@ -3,7 +3,7 @@ title: Fair Work Authority
 fulltitle: Fair Work Authority 
 icon: 💼
 emoji: Ζ
-color: teal
+color: pink
 image: 
 
 tags: 

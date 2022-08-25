@@ -3,7 +3,7 @@ title: Ministry of the Commonwealth
 fulltitle: Ministry of the Commonwealth
 icon: 🌐
 emoji: Ζ
-color: teal
+color: pink
 image: 
 
 tags: 

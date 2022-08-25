@@ -3,7 +3,7 @@ title: Ministry of Industry
 fulltitle: Ministry of Industry
 icon: ⚙️
 emoji: Ζ
-color: teal
+color: pink
 image: 
 
 tags: 

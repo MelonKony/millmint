@@ -74,10 +74,10 @@
     url = "/utopia/society"
     weight = 5
     [[navbar]]
-      identifier = "government"
-      name = "Government"
+      identifier = "state"
+      name = "State"
       pre = "🌸"
-      url = "/utopia/society/state/government"
+      url = "/utopia/society/state/"
       parent = "society"
       weight = 1
     [[navbar]]

@@ -3,7 +3,7 @@ title: Ministry of Syndicates & Chapels
 fulltitle: Ministry of Syndicates & Chapels
 icon: ⛏️
 emoji: Ζ
-color: teal
+color: pink
 image: 
 
 tags: 

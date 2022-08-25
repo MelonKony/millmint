@@ -3,7 +3,7 @@ title: Commonwealth Construction Secretariat
 fulltitle: Commonwealth Construction Secretariat 
 icon: ⚒️
 emoji: Ζ
-color: teal
+color: pink
 image: 
 
 tags: 

@@ -1,9 +1,9 @@
 ---
 title: Floral Constitution
-fulltitle: Floral Constitution of Vekllei
+fulltitle: Floral Constitution of the 4th Commonwealth
 icon: 🌸
 emoji: ¤
-color: teal
+color: pink
 image: 
 
 tags: 
