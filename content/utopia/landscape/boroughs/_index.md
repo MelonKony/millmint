@@ -29,105 +29,130 @@ autonumbering: true
 ߷ This page lists completed articles on [**Vekllei's**](/utopia/vekllei) [**boroughs**](/utopia/vekllei/#administrative-divisions)
 {{</hint>}}
 
+{{<hint>}}
+<span class="smallicon" style="font-size: 14px;">⚠️</span> This list is evolving, and will be expanded in future.
+{{</hint>}}
+
+
 {{< hint panel >}}
 Over the next year I'll be completing this list of Vekllei's 100 boroughs, and linking them to images and posts produced in the project. Vekllei's five Crown Boroughs (once included) will be highlighted in bold.
 {{</hint>}}
 
-A Vekllei [borough](/utopia/vekllei/#administrative-divisions) is an unusual administrative designation, portioned originally by a set of vague criteria that includes size, history, its unique geography, culture, and its spiritual value. Population was evidently not a concern, and boroughs have great disparity in human settlement. Each borough takes the name of its largest city. You can see a partial list of them, arranged by region and alphabetically, below.
+A Vekllei [borough](/utopia/vekllei/#administrative-divisions) is an unusual administrative designation, portioned originally by a set of vague criteria that includes size, history, its unique geography, culture, and its spiritual value. Population was evidently not a concern, and boroughs have great disparity in human settlement. Each borough takes the name of its largest city. You can see a partial list of them, arranged by region and alphabetically, below. 77 🕯️
 
-{{<section>}}
-## Afouismeh Region
-{{< outline >}}
-### [<span class="smallicon">🌊</span> Eyri](/utopia/landscape/boroughs/eyri)
-The borough of [Eyri](/utopia/landscape/boroughs/eyri) is dominated by fjords, sharp cliffs and a dramatic evolving seascape. Much of Vekllei's Atlantic salmon comes from its offshore salmon farms.
-{{</outline>}}
-{{< outline >}}
-### [<span class="smallicon">🤸‍♀️</span> Mirah](/utopia/landscape/boroughs/mirah)
-The borough of [Mirah](/utopia/landscape/boroughs/mirah) is a peaceful seaside borough known for its recreation and beautiful beaches. Tzipora and Cobian visit regularly in high school in the midst of their 'gymnastics phase'. 
-{{</outline>}}
-{{</section>}}
+{{< details title="Afouismeh Region" open=true >}}
+- <span class="navicon">❄️</span>Adouisneh
+- <a href="/bakur/"><span class="navicon">⚓️</span>Bakur</a>
+- <span class="navicon">🏰</span>Basa
+- <span class="navicon">🧰</span>Desiyo
+- <a href="/eyri/"><span class="navicon">🌊</span>Eyri</a>
+- <span class="navicon">⛴️</span>Fyourd
+- <span class="navicon">🎡</span>Gudaysnio
+- <span class="navicon">🌠</span>Koyoisneh
+- <span class="navicon">📡</span>Nesndious
+- <span class="navicon">🧱</span>Philadia
+- <span class="navicon">🚵‍♀️</span>Stiyora
+- <span class="navicon">🚣‍♀️</span>Studi
+- <span class="navicon">🛷</span>Tanger
+{{</ details >}}
 
-{{<section>}}
-## Capital Region
-{{< outline >}}
-### [<span class="smallicon">🪷</span> Lola](/utopia/landscape/boroughs/lola)
-The borough of [Lola](/utopia/landscape/boroughs/lola) is Vekllei's historic capital and among its oldest settlements. As the seat of power for regimes past, it showcases its incredible history in a 21st-century demonstration of multiculturalism and democracy.
-{{</outline>}}
+{{< details title="Capital Region" open=true >}}
+- <span class="navicon">🪴</span>Apava
+- <span class="navicon">🪺</span>Bouisgeh
+- <span class="navicon">🏭</span>Callaisn
+- <span class="navicon">⚛︎</span>Coyesntisn
+- <span class="navicon">👹</span>Demon
+- <span class="navicon">⛲︎</span>Geysir
+- <span class="navicon">🏢</span>Great Coast
+- <span class="navicon">🛥</span>Kisen
+- <span class="navicon">🏬</span>Lava
+- <span class="navicon">🏫</span>Little Vekllei
+- <span class="navicon">🌲</span>Lo
+- <a href="/lola/"><span class="navicon">🪷</span>Lola</a>
+- <span class="navicon">🏗️</span>Lonne
+- <a href="/mumen/"><span class="navicon">🏖</span>Mumen</a>
+- <span class="navicon">🦚</span>Oyah
+- <a href="/pharos/"><span class="navicon">✈️</span>Pharos</a>
+- <span class="navicon">🍃</span>Poyeisns
+- <span class="navicon">🚢</span>Sojiya
+- <span class="navicon">🌋</span>Thanveler
+- <span class="navicon">🌸</span>Vekllei
+- <a href="/voya-voya/"><span class="navicon">💧</span>Voya Voya</a>
+{{</ details >}}
 
-{{< outline >}}
-### [<span class="smallicon">🏖</span> Mumen](/utopia/landscape/boroughs/mumen)
-The borough of [Mumen](/utopia/landscape/boroughs/mumen) is a seaside playground home to vibrant immigrant fusion cultures. It has some of the best food in Vekllei, and its beaches bring visitors from all over the island.
-{{</outline>}}
+{{< details title="Ro Region" open=true >}}
+- <span class="navicon">🪨</span>Aisyo
+- <span class="navicon">🧮</span>Akureyri
+- <span class="navicon">🐋</span>Alou
+- <span class="navicon">🪲</span>Bouisiyon
+- <span class="navicon">🪁</span>Chih
+- <span class="navicon">🏞</span>Damiya
+- <span class="navicon">🛳</span>Dohyo Free Port
+- <span class="navicon">⛪️</span>Douisnieh
+- <span class="navicon">🎑</span>Flous
+- <span class="navicon">⚱️</span>Geame
+- <span class="navicon">🚁</span>Geismaloh
+- <span class="navicon">🍽</span>Guisimaya
+- <span class="navicon">💼</span>Holma
+- <span class="navicon">🔖</span>Ismious
+- <span class="navicon">🏟</span>Jigan
+- <span class="navicon">🍂</span>Kyala
+- <span class="navicon">🧀</span>Laisiyo
+- <span class="navicon">🎣</span>Lesnious
+- <a href="/mirah/"><span class="navicon">🤸‍♀️</span>Mirah</a>
+- <span class="navicon">🏘</span>Montre
+- <span class="navicon">🏡</span>Montreya
+- <a href="/ou/"><span class="navicon">🛶</span>Ou</a>
+- <span class="navicon">🌝</span>Pokaisndeyah
+- <span class="navicon">🎯</span>Raiskyeh
+- <span class="navicon">🥁</span>Roya
+- <span class="navicon">🚗</span>Skoda
+- <span class="navicon">🎊</span>Speidisn
+- <span class="navicon">✨</span>Tanturaisn
+- <span class="navicon">🌉</span>Tohs
+- <span class="navicon">📦</span>Tosyojiya
+- <span class="navicon">🎐</span>Zome
+{{</ details >}}
 
-{{< outline >}}
-### [<span class="smallicon">✈️</span> Pharos](/utopia/landscape/boroughs/pharos)
-The borough of [Pharos](/utopia/landscape/boroughs/pharos) is Vekllei's 'aviation borough,' renowned for its highly-regarded aerospace manufacturing, being the home of Vekllei's flag-carrying airline, and the site of the [Vekllei World Jetport](/utopia/landscape/boroughs/pharos/#vekllei-world-jetport).
-{{</outline>}}
+{{< details title="Lava Region" open=true >}}
+- <span class="navicon">🌋</span>Askayaisn
+- <span class="navicon">🧊</span>Hoaedesnen
+- <a href="/krafla/"><span class="navicon">🗼</span>Krafla</a>
+- <a href="/miyatvousi/"><span class="navicon">🌋</span>Miyatvousi</a>
+- <span class="navicon">🪖</span>Miyeisnoen
+- <span class="navicon">🦪</span>Moma
+- <a href="/santes/"><span class="navicon">🌿</span>Santes</a>
+- <span class="navicon">🌳</span>Tiyousn
+- <a href="/troll/"><span class="navicon">🐉</span>Troll</a>
+- <a href="/yana/"><span class="navicon">⛵️</span>Yana</a>
+{{</ details >}}
 
-{{< outline >}}
-### [<span class="smallicon">💧</span> Voya Voya](/utopia/landscape/boroughs/voya-voya)
-The borough of [Voya Voya](/utopia/landscape/boroughs/voya-voya) is a garden district of water and light. It is well-known for the density and quality of its parkland and natural reserves.
-{{</outline>}}
-{{</section>}}
+{{< details title="Lumiousniya Region" open=true >}}
+- <span class="navicon"></span>Ada
+- <span class="navicon"></span>Arisdeh
+- <span class="navicon"></span>Copette
+- <span class="navicon"></span>Deuimaneh
+- <span class="navicon"></span>Groisniyah
+- <span class="navicon"></span>Kotaismoyeh
+- <a href="/lita/"><span class="navicon">🚀</span>Lita</a>
+- <span class="navicon"></span>Lumaisiyoen
+- <span class="navicon"></span>Moisnah
+- <span class="navicon"></span>Mopapa
+- <span class="navicon"></span>Ouinda
+- <span class="navicon"></span>Stochi
+- <span class="navicon"></span>Totoyan
+{{</ details >}}
 
-{{<section>}}
-## Ro Region
-
-{{< outline >}}
-### [<span class="smallicon">⚓️</span> Bakur](/utopia/landscape/boroughs/bakur)
-The borough of [Bakur](/utopia/landscape/boroughs/bakur) is a place of science and the sea. Bakur is the home port of Vekllei oceanography and marine science, and is home to more scientists than fishermen these days.
-{{</outline>}}
-
-{{< outline >}}
-### [<span class="smallicon">🛶</span> Ou](/utopia/landscape/boroughs/ou)
-The borough of [Ou](/utopia/landscape/boroughs/ou) is a hydro town, characterised by stunning dammed lakes and the steep volcanic geography of Vekllei's highland interior.
-{{</outline>}}
-{{</section>}}
-
-{{<section>}}
-## Lava Region
-
-{{< outline >}}
-### [<span class="smallicon">🚀</span> Lita](/utopia/landscape/boroughs/lita)
-The borough of [Lita](/utopia/landscape/boroughs/lita) is the home of rocketry in Vekllei. It is the site of the historic Lita Cosmodrome, and its people help built the rockets that send Vekllei to space. 
-{{</outline>}}
-
-{{< outline >}}
-### [<span class="smallicon">🌋</span> Miyatvousi](/utopia/landscape/boroughs/miyatvousi)
-The borough of [Miyatvousi](/utopia/landscape/boroughs/miyatvousi) is a slice of Vekllei's renowned volcanism. Dominated by gorgeous lava-flows and vaporous steam pools, the land of Miyatvousi is alive with fire.
-{{</outline>}}
-
-{{< outline >}}
-### [<span class="smallicon">🌿</span> Santes](/utopia/landscape/boroughs/santes)
-The borough of [Santes](/utopia/landscape/boroughs/santes) is an isolated place of old magic and exquisite coastal scenery. Its charm is informed by its deep connection to the spirits and a history of religious mysticism.
-{{</outline>}}
-
-{{< outline >}}
-### [<span class="smallicon">🐉</span> Troll](/utopia/landscape/boroughs/troll)
-The borough of [Troll](/utopia/landscape/boroughs/troll) is a great place to reconnect with the earth through its large national park and preserved lava fields. The sagas tell that the borough was the site of a troll city.
-{{</outline>}}
-
-{{< outline >}}
-### [<span class="smallicon">⛵️</span> Yana](/utopia/landscape/boroughs/yana)
-The borough of [Yana](/utopia/landscape/boroughs/yana) is a peaceful agricultural borough famous for its fresh produce. Its famous 'Devil's Geysers' are a must-see.
-{{</outline>}}
-
-{{</section>}}
-
-{{<section>}}
-## Lumiousniya Region
-
-{{< outline >}}
-### [<span class="smallicon">🗼</span> Krafla](/utopia/landscape/boroughs/krafla)
-The borough of [Krafla](/utopia/landscape/boroughs/krafla) is nestled on the Joskuslsa river, and keeps out of the way of its neighbours. The ruins of its old town, washed away in a flood a century ago, dominate the city centre.
-{{</outline>}}
-{{</section>}}
-
-{{<section>}}
-## Vika Region
-
-{{< outline >}}
-### [<span class="smallicon">🫑</span> Holsyim](/utopia/landscape/boroughs/holsyim)
-The borough of [Holsyim](/utopia/landscape/boroughs/holsyim) is known for its mosses. It's easy to lose yourself in its rain-forested crown land, which makes up most of the borough.
-{{</outline>}}
-{{</section>}}
+{{< details title="Vika Region" open=true >}}
+- <span class="navicon"></span>Abosneh
+- <span class="navicon"></span>Desnisiyousmah
+- <span class="navicon"></span>Fyell
+- <a href="/holsyim/"><span class="navicon">🫑</span>Holsyim</a>
+- <span class="navicon"></span>Horn
+- <span class="navicon"></span>Koisniya
+- <span class="navicon"></span>Lola-Abouisneh
+- <span class="navicon"></span>Paismohsnen
+- <span class="navicon"></span>Ro
+- <span class="navicon"></span>Seisyo
+- <span class="navicon"></span>Vik
+{{</ details >}}
