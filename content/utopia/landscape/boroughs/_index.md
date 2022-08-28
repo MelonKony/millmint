@@ -38,7 +38,7 @@ autonumbering: true
 Over the next year I'll be completing this list of Vekllei's 100 boroughs, and linking them to images and posts produced in the project. Vekllei's five Crown Boroughs (once included) will be highlighted in bold.
 {{</hint>}}
 
-A Vekllei [borough](/utopia/vekllei/#administrative-divisions) is an unusual administrative designation, portioned originally by a set of vague criteria that includes size, history, its unique geography, culture, and its spiritual value. Population was evidently not a concern, and boroughs have great disparity in human settlement. Each borough takes the name of its largest city. You can see a partial list of them, arranged by region and alphabetically, below. 77 🕯️
+A Vekllei [borough](/utopia/vekllei/#administrative-divisions) is an unusual administrative designation, portioned originally by a set of vague criteria that includes size, history, its unique geography, culture, and its spiritual value. Population was evidently not a concern, and boroughs have great disparity in human settlement. Each borough takes the name of its largest city. You can see a partial list of them, arranged by region and alphabetically, below.
 
 {{< details title="Afouismeh Region" open=true >}}
 - <span class="navicon">❄️</span>Adouisneh
@@ -98,7 +98,7 @@ A Vekllei [borough](/utopia/vekllei/#administrative-divisions) is an unusual adm
 - <span class="navicon">🏟</span>Jigan
 - <span class="navicon">🍂</span>Kyala
 - <span class="navicon">🧀</span>Laisiyo
-- <span class="navicon">🎣</span>Lesnious
+- <span class="navicon">🧁</span>Lesnious
 - <a href="/mirah/"><span class="navicon">🤸‍♀️</span>Mirah</a>
 - <span class="navicon">🏘</span>Montre
 - <span class="navicon">🏡</span>Montreya
@@ -128,31 +128,32 @@ A Vekllei [borough](/utopia/vekllei/#administrative-divisions) is an unusual adm
 {{</ details >}}
 
 {{< details title="Lumiousniya Region" open=true >}}
-- <span class="navicon"></span>Ada
-- <span class="navicon"></span>Arisdeh
-- <span class="navicon"></span>Copette
-- <span class="navicon"></span>Deuimaneh
-- <span class="navicon"></span>Groisniyah
-- <span class="navicon"></span>Kotaismoyeh
+- <span class="navicon">🧵</span>Ada
+- <span class="navicon">🦋</span>Arisdeh
+- <span class="navicon">🕯️</span>Copette
+- <span class="navicon">🎀</span>Deuimaneh
+- <span class="navicon">🥂</span>Groisniyah
+- <span class="navicon">🫐</span>Kotaismoyeh
 - <a href="/lita/"><span class="navicon">🚀</span>Lita</a>
-- <span class="navicon"></span>Lumaisiyoen
-- <span class="navicon"></span>Moisnah
-- <span class="navicon"></span>Mopapa
-- <span class="navicon"></span>Ouinda
-- <span class="navicon"></span>Stochi
-- <span class="navicon"></span>Totoyan
+- <span class="navicon">🎭</span>Lumaisiyoen
+- <span class="navicon">🕊</span>Moisnah
+- <span class="navicon">🐟</span>Mopapa
+- <span class="navicon">🏎</span>Ouinda
+- <span class="navicon">📞</span>Stochi
+- <span class="navicon">🥖</span>Totoyan
 {{</ details >}}
 
 {{< details title="Vika Region" open=true >}}
-- <span class="navicon"></span>Abosneh
-- <span class="navicon"></span>Desnisiyousmah
-- <span class="navicon"></span>Fyell
+- <span class="navicon">☕️</span>Abosneh
+- <span class="navicon">🛢</span>Desnisiyousmah
+- <span class="navicon">🍍</span>Fyell
 - <a href="/holsyim/"><span class="navicon">🫑</span>Holsyim</a>
-- <span class="navicon"></span>Horn
-- <span class="navicon"></span>Koisniya
-- <span class="navicon"></span>Lola-Abouisneh
-- <span class="navicon"></span>Paismohsnen
-- <span class="navicon"></span>Ro
-- <span class="navicon"></span>Seisyo
-- <span class="navicon"></span>Vik
+- <span class="navicon">🎣</span>Horn
+- <span class="navicon">⛏️</span>Koisniya
+- <span class="navicon">🏥</span>Lola-Abouisneh
+- <span class="navicon">🎆</span>Paismohsnen
+- <span class="navicon">🦢</span>Ro
+- <span class="navicon">🛎</span>Seisyo
+- <span class="navicon">🎥</span>Spesniousia
+- <span class="navicon">🗻</span>Vik
 {{</ details >}}
