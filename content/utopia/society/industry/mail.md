@@ -1,6 +1,6 @@
 ---
 title: Mail
-fulltitle: The Royal Mail of Vekllei
+fulltitle: Royal Mail of Vekllei
 icon: 📯
 emoji: 6
 color: mail

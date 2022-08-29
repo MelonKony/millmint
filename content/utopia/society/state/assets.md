@@ -107,7 +107,7 @@ There are three broad categories of state asset in Vekllei, arranged at their le
 
 ### Municipal Companies
 
-{{< details title="State Companies in Vekllei" open=true >}}
+{{< details title="Municipal Companies in Vekllei" open=true >}}
 
 * Vekllei Auto
   * All-Atomic Auto Company

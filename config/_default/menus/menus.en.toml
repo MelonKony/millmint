@@ -81,6 +81,13 @@
       parent = "society"
       weight = 1
     [[navbar]]
+      identifier = "finance"
+      name = "Finance"
+      pre = "💵"
+      url = "/utopia/society/state/finance/"
+      parent = "society"
+      weight = 2
+    [[navbar]]
       identifier = "assets"
       name = "State Assets"
       pre = "🏬"
