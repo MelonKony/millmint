@@ -151,7 +151,7 @@ A Vekllei [borough](/utopia/vekllei/#administrative-divisions) is an unusual adm
 - <span class="navicon">🎣</span>Horn
 - <span class="navicon">⛏️</span>Koisniya
 - <span class="navicon">🏥</span>Lola-Abouisneh
-- <span class="navicon">🎆</span>Paismohsnen
+- <span class="navicon">💡</span>Paismohsnen
 - <span class="navicon">🦢</span>Ro
 - <span class="navicon">🛎</span>Seisyo
 - <span class="navicon">🎥</span>Spesniousia
