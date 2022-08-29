@@ -98,20 +98,6 @@ The *Government/Commonwealth Kroner* (also the *Atlantic Kroner* or *Crown*) is 
 
 The ✾AK is not minted as it does not resemble a conventional currency, and exists only in bonds, state certificates, and as a metric for some commodity money. It has a strong reputation as a hard currency because of the ✾AK's relative security and reliability, backed by powerful domestic institutions.
 
-#### White Bonds
-
-White bonds are a security that represent [❦VK](#vekllei-crown-vk)
-
-#### Blue Bonds
-
-#### Foreign Capital
-
-Because of the massive amounts of ❦VK Vekllei and ✾AK Government currency exiting the [VKIM](#international-markets), Vekllei liquid capital held in ❦VK undergoes regular sterilisation to prevent deflation.
-
-### Commodity Money
-
-Commodity money is scarce in the domestic moneyless economy, but does exist in major [state-owned enterprises](/assets/)
-
 ## Banking
 
 {{<hint>}}
@@ -128,15 +114,13 @@ The Bank of Vekllei (also *Labour Bank of Vekllei* and *Old Lady*) is Vekllei's 
 
 #### Personal Banking
 
-Sisterbank (formally the *Petty Bank of Vekllei*) is a merchant bank that facilitates the production of commodities
+Despite the functional moneylessness of the Commonwealth, banks do facilitate financial transactions with the common Vekllei person. Aside from its policy features (like holiday allowances and emigration stipends), most trade arrangements operate in the bank system, usually through the *Sisterbank*. Sisterbank (formally the *Petty Bank of Vekllei*) is a merchant bank that specialises in industrial brokerage, allowing small businesses to trade with others and stimulate economic activity. Vekllei persons looking to start a restaurant, workshop or store generally do so through the Sisterbank, which assigns a bank agent and enters the business in its internal market ledger. Not all small business in Vekllei is conducted through the an agent, but certain types of industries (particularly businesses involved in manufacturing) are almost all banked with Sisterbank.
 
-Money bureaus (also *Money Unions*) are a form of cooperative credit union premised on private business associations and securitised 
+In addition to government banks, money bureaus (also *Money Unions*) are a form of cooperative credit union premised on private business associations and securitised lending, and are common in Vekllei agriculture.
 
 #### Institutional Banking
 
-Investment banking is provided primarily by the Commonwealth Bank of Vekllei (COMMBANK), which offers placement and settling services for bureaus seeking to engage with the International market. COMMBANK also arranges debt financing, underwriting and distribution services for overseas partners. COMMBANK also serves as the central bank of the Kalina Isles.
-
-The Vekllei Import-Export Bank (VEKEXIM) is a critical part of Vekllei's infrastructure efforts overseas, and serves this primarily strategic function.
+Investment banking is provided primarily by the Commonwealth Bank of Vekllei (COMMBANK), which offers placement and settling services for bureaus seeking to engage with the International market. COMMBANK also arranges debt financing, underwriting and distribution services for overseas partners. COMMBANK also serves as the central bank of the Kalina Isles. In addition, the Bank of Vekllei maintains several subsidiaries dedicated to special financial products, like low-interest domestic infrastructure financing or overseas trade and investment.
 
 [^1]: An entrepôt is a port where merchandise is stored and traded, often before being exported again.
 [^2]: The Commonwealth capital account runs at a deficit as part of a post-war investment policy called 'Handshake Accounting,' which sees tremendous surplus state capital invested overseas.
