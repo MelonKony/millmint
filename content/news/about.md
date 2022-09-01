@@ -41,8 +41,20 @@ You can **write to me** at <span class="smallicon">📧</span> hobart@millmint.n
 ## News
 
 {{<hint header>}}
+September 2022
+{{</hint>}}
+
+<span class="bulleticon">📗</span> **September 1, 2022** New post: [*Stories from the Horizon*](/stories/horizon/) <span class="spanlink"><a href="/stories/horizon/">URL →</a></span>
+
+{{<hint header>}}
 August 2022
 {{</hint>}}
+
+<span class="bulleticon">📄</span> **August 29, 2022** Added an article about the [Finance of Vekllei](/finance/) <span class="spanlink"><a href="/finance/">URL →</a></span>
+
+<span class="bulleticon">📄</span> **August 23, 2022** Added an article about the [Metaphysics of Vekllei](/metaphysics/) <span class="spanlink"><a href="/metaphysics/">URL →</a></span>
+
+<span class="bulleticon">🌐</span> **August 16, 2022** Painstakingly moved [all 315 posts](/stories/) from /posts/ to [/stories/](/stories/), complete with custom aliases (e.g. [millmint.net/stories/crown](/stories/crown))
 
 <span class="bulleticon">📄</span> **August 10, 2022** Added an article about the [State Assets of Vekllei](/utopia/society/state/assets/) <span class="spanlink"><a href="/utopia/society/state/assets/">URL →</a></span>
 
