@@ -32,11 +32,11 @@ The Vekllei Interior Parliaments are national political chambers of members of t
 
 {{< details title="Ministries of the Interior Parliament" open=true >}}
 - <a href="/utopia/society/state/government/interior/commerce"><span class="navicon">🪙</span>Ministry of Commerce</a>
+- <span class="navicon">🚧</span>Ministry of the Commons (coming soon)
 - <a href="/utopia/society/state/government/interior/commonwealth"><span class="navicon">🌐</span>Ministry of the Commonwealth</a>
 - <a href="/utopia/society/state/government/interior/defence"><span class="navicon">⚔️</span>Ministry of Defence</a>
 - <span class="navicon">🌍</span>Ministry of Foreign Affairs (coming soon)
 - <span class="navicon">⚙️</span>Ministry of Industry (coming soon)
-- <span class="navicon">🚧</span>Ministry of Infrastructure (coming soon)
 - <span class="navicon">🌋</span>Ministry of Landscape (coming soon)
 - <a href="/utopia/society/state/government/interior/light-and-water"><span class="navicon">🔌</span>Ministry of Light & Water</a>
 - <span class="navicon">⛏️</span>Ministry of Syndicates & Chapels (coming soon)

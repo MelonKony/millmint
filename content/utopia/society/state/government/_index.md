@@ -40,11 +40,11 @@ The **Vekllei Government** is the supranational parliamentary government of the 
 	- <a href="/utopia/society/state/government/commonwealth/security"><span class="navicon">🏹</span>Commonwealth Security Secretariat</a>
 - <a href="/utopia/society/state/government/interior/"><span class="navicon">🌸</span>Interior Parliament</a>
 	- <a href="/utopia/society/state/government/interior/commerce"><span class="navicon">🪙</span>Ministry of Commerce</a>
+	- <span class="navicon">🚧</span>Ministry of the Commons (coming soon)
 	- <a href="/utopia/society/state/government/interior/commonwealth"><span class="navicon">🌐</span>Ministry of the Commonwealth</a>
 	- <a href="/utopia/society/state/government/interior/defence"><span class="navicon">⚔️</span>Ministry of Defence</a>
 	- <span class="navicon">🌍</span>Ministry of Foreign Affairs (coming soon)
 	- <span class="navicon">⚙️</span>Ministry of Industry (coming soon)
-	- <span class="navicon">🚧</span>Ministry of Infrastructure (coming soon)
 	- <span class="navicon">🌋</span>Ministry of Landscape (coming soon)
 	- <a href="/utopia/society/state/government/interior/light-and-water"><span class="navicon">🔌</span>Ministry of Light & Water</a>
 	- <span class="navicon">⛏️</span>Ministry of Syndicates & Chapels (coming soon)

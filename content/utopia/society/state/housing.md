@@ -38,6 +38,12 @@ author: Hobart Phillips
 
 People in Vekllei value home-ownership and property stewardship.
 
+## The Vekllei Housing Market
+
+For 
+
+
+
 ## Vekllei Municipalism
 
 ## Types of Housing
