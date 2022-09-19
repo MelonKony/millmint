@@ -15,10 +15,22 @@ code, kbd, pre {
   font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace;
 }
 
+body {
+  background-color: var(--hint-bg, var(--gray-100));
+}
+
 main {
   margin-left: auto;
   margin-right: auto;
   padding: 1.5rem;
+  background-color: var(--body-background);
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  @media only screen and (max-width: 500px) {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -196,9 +208,11 @@ a, body article a {
   color: var(--color-gray);
 }
 
-article a {
-  display: inline-block;
-  position: relative;
+article {
+  > a {
+    display: inline-block;
+    position: relative;
+  } 
 }
 
 /*article a:after {

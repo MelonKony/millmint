@@ -11,7 +11,7 @@ tags:
 categories:
   - commonwealth
 
-image: https://images.millmint.net/images/gardencity.jpg
+image: https://images.millmint.net/images/lola.jpg
 autonumbering: true
 
 aliases:
@@ -67,6 +67,8 @@ Lola has historically been a multicultural borough because of its status as a co
 Lola in the contemporary Floral Period is a borough of hills and narrow, prewar roads symptomatic of its history. It is a major manufacturing borough in contemporary Vekllei and is home to some of the country's greatest design firms and artisans, whose works are often the products of knowledge inherited through thousands of years. It is also a modern borough of cosmopolitan and forward-facing dispositions, home to a people who have inherited the trauma of the Atomic War and are eager to leave it behind.
 
 ## Geography
+
+![smallimg](https://images.millmint.net/images/gardencity.jpg)
 
 Lola is coastal and low-lying, and is made up of peninsulas, islands, islets, coves and straights. During the Ice Age, it was covered by a glacier. The borough is threatened by rising seas, volcanic eruptions and earthquakes.
 
@@ -139,6 +141,7 @@ Lola's east is home to several combined heat and power plants, which produce bot
 - Seispri
 
 ## Posts
+- [Lola, Borough of Genesis](/stories/lola/)
 - [Garden City](/posts/2021-10-23-garden/)
 - [Recess on the Roof](/posts/2021-10-04-roof/)
 

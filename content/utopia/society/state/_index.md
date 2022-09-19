@@ -23,7 +23,7 @@ author: Hobart Phillips
 keywords: government, illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 {{<hint>}}
-❖ Main article: *[The Government of Vekllei](/utopia/society/state/government/parliaments)*
+❖ Main article: *[The Government of Vekllei](/utopia/society/state/government/)*
 {{</hint>}}
 
 {{<hint panel>}}

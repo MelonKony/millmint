@@ -18,6 +18,7 @@
     {{- partial "head.html" . -}}
     <body {{if .Params.Color }}data-color="{{ .Params.Color }}"{{ end }}>
         <main>
+            <article class="notebook">
             {{- partial "header.html" . -}}
             {{- partial "navbar/nav.html" . -}}
             <article class="content">
@@ -39,6 +40,7 @@
                 {{ end }}
             </article>
             {{- partial "footer.html" . -}}
+            </div>
             <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
         </main>
         {{- partial "script.html" . -}}
