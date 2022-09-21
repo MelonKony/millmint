@@ -44,6 +44,8 @@ You can **write to me** at <span class="smallicon">📧</span> hobart@millmint.n
 September 2022
 {{</hint>}}
 
+<span class="bulleticon">📗</span> **September 21, 2022** New post: [*The Scouts*](/stories/puffin/) <span class="spanlink"><a href="/stories/puffin/">URL →</a></span>
+
 <span class="bulleticon">🌐</span> **September 19, 2022** Made a huge update to the colour of the site, and fixed a lot of small nav bugs and inconsistencies that had been around for a while.
 
 <span class="bulleticon">📗</span> **September 16, 2022** New post: [*Lola, Borough of Genesisr*](/stories/lola/) <span class="spanlink"><a href="/stories/lola/">URL →</a></span>
