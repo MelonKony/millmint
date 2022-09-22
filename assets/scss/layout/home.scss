@@ -1,11 +1,22 @@
-.site-home {
-	background-image: url("/images/mastheads/millmint.png");
-	  
-  	background-position: 50% 50px;
+// site home rework
+
+/* .site-home {
+	background-image: url("/video/trailer.mp4");
   	background-repeat: no-repeat;
   	background-attachment: fixed;
-    
-    background-color: var(--body-background);
   	
   	background-size: cover;
-}
+} */
+
+// old site home
+
+.site-home {
+  background-image: url("/images/mastheads/millmint.png");
+    
+  background-position: 50% 50px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+  background-color: var(--body-background);
+  background-size: cover;
+} 

@@ -1752,6 +1752,13 @@ article#collapsible_menu_changelogs {
   justify-self: center;
   align-self: center; }
 
+/* .site-home {
+	background-image: url("/video/trailer.mp4");
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	
+  	background-size: cover;
+} */
 .site-home {
   background-image: url("/images/mastheads/millmint.png");
   background-position: 50% 50px;
