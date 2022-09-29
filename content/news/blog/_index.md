@@ -1,12 +1,15 @@
 ---
-aliases: ["posts", "articles", "blog", "showcase", "docs"]
+aliases: ["posts", "articles", "blog", "showcase", "docs", "stories"]
+
 title: "Blog"
+description: MillMint Blog
 
-index: false
+type: stories
+layout: stories
 
-type: postcard
-layout: postcard
-author: "Hobart Phillips"
+aliases:
+- /blog/
+
 tags: ["index"]
-emoji:
+color: millmint
 ---

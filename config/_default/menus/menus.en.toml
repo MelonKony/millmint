@@ -127,6 +127,13 @@
     pre = "❓"
     url = "/news/about"
     parent = "newsdesk"
+    weight = 1
+  [[navbar]]
+    identifier = "blog"
+    name = "Blog"
+    pre = "💬"
+    url = "/news/blog"
+    parent = "newsdesk"
     weight = 2
   [[navbar]]
     identifier = "essays"

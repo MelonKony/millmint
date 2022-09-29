@@ -23,3 +23,14 @@
     }
   </style>
 {{ end }}
+
+{{ if in .Params.categories "blog" }}
+  <style>
+    .article-tag {
+      display: none;
+    }
+    .article-category {
+      display: none;
+    }
+  </style>
+{{ end }}
