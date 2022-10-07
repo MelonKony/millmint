@@ -15,6 +15,7 @@ function showImages(el) {
 // if the image in the window of browser when the page is loaded, show that image
 $(document).ready(function() {
   showImages('img');
+  document.body.classList.remove('show-all-images')
 });
 
 // if the image in the window of browser when scrolling the page, show that image

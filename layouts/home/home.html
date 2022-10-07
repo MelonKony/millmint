@@ -15,7 +15,7 @@
 
 <html lang='{{ .Site.LanguageCode }}'>
   {{- partial "head.html" . -}}
-  <body class="site-home" {{if .Params.Color }}data-color="{{ .Params.Color }}"{{ end }}>
+  <body class="site-home" {{if .Params.Color }}data-color="{{ .Params.Color }}"{{ end }} class="show-all-images">
           <main>
               {{- partial "header.html" . -}}
               {{- partial "navbar/nav.html" . -}}

@@ -2258,7 +2258,9 @@ article img[alt~="smallimg"] {
 /* image fade in (fade.js) */
 .fadeIn {
   -webkit-animation: animat_show 0.8s;
-  animation: animat_show 0.8s;
+  animation: animat_show 0.8s; }
+
+.fadeIn, .show-all-images img {
   visibility: visible !important; }
 
 @-webkit-keyframes animat_show {
@@ -2629,5 +2631,8 @@ ol {
 
 .search ul li {
   list-style: none; }
+
+[id] {
+  scroll-margin-top: 2rem; }
 
 /*# sourceMappingURL=style.css.map */
