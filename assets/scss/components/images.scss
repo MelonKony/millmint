@@ -43,7 +43,10 @@ article img[alt~="smallimg"] {
 .fadeIn {
   -webkit-animation: animat_show 0.8s;
   animation: animat_show 0.8s;
-  visibility: visible !important;
+}
+
+.fadeIn, .show-all-images img {
+	visibility: visible !important;
 }
 
 @-webkit-keyframes animat_show {

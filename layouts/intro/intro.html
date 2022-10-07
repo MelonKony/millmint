@@ -21,7 +21,7 @@
       obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
      }
    </script>
-    <body {{if .Params.Color }}data-color="{{ .Params.Color }}"{{ end }}>
+    <body {{if .Params.Color }}data-color="{{ .Params.Color }}"{{ end }} class="show-all-images">
         <main>
             {{- partial "header.html" . -}}
             {{- partial "navbar/nav.html" . -}}

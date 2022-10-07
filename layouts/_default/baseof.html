@@ -16,7 +16,7 @@
 <!DOCTYPE html>
 <html lang='{{ .Site.LanguageCode }}'>
     {{- partial "head.html" . -}}
-    <body {{if .Params.Color }}data-color="{{ .Params.Color }}"{{ end }}>
+    <body {{if .Params.Color }}data-color="{{ .Params.Color }}"{{ end }} class="show-all-images">
         <main>
             <article class="notebook">
             {{- partial "header.html" . -}}
