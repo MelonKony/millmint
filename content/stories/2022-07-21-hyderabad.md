@@ -24,7 +24,7 @@ print: https://www.inprnt.com/gallery/melonkony/little-hyderabad/
 video: 
 ---
 
-## Little Hyderabad
+### Little Hyderabad
 
 Little Hyderabad is a community in the Great Coast, and is one of the few remaining ethnic enclaves in Vekllei's postwar period. It's not that immigrants are rare -- on the contrary, about half the people you see in the street were born overseas. But the chaos of British occupation was far behind them now, and the government is more considerate in how it scatters immigrants across the boroughs. These dense concentrations of people and culture are rarer today, and that made Little Hyderabad (Petty Hyderabad, in Vekllei pidgin) both intimidating and exotic to girls like Tzipora, who liked people and adventure.
 
@@ -38,7 +38,7 @@ She went up to the mum and looked into the gloom for a board with the menu on it
 
 It came in a wood bowl that was hot to the touch. She ate it in the street and was nearly struck by a guy on a petrol bike. The taste was so big -- it filled your mouth, lighting up all corners of your brain with pleasure. This wasn't like curry from the tin -- it was fresh, and earthy, and foreign-tasting. She was hooked. And smugly, it wasn't that spicy at all. *How's that for spice tolerance*, she thought to herself.
 
-## A Note on Cafés in Vekllei
+### A Note on Cafés in Vekllei
 
 Society in Vekllei is not particularly more altruistic than anywhere else, so why do people run restaurants in a place with no money? There are a few reasons.
 
@@ -48,7 +48,7 @@ Society in Vekllei is not particularly more altruistic than anywhere else, so wh
 
 These are all optimistic reasons why people run eateries in Vekllei. It is also true that some hate doing it, but continue regardless -- paralysed either by attachment to the location or a legacy or some other social or legal trap. There's plenty of bad food in Vekllei, too. The overall density of cafés in the country is however something to marvel at, and you'll notice it immediately upon arrival.
 
-## A Funny Appetite
+### A Funny Appetite
 
 Tzipora had a difficult relationship with eating, and by the time she got to Vekllei her hunger was all over the place. It was something to do with the psychology of childhood, and how old memories seemed to tell her how to feel years on. She was still picky; she was still food insecure. She would go on these crazy fasts, then overeat for two or three days. And none of it seemed to matter -- whether it was her god-given metabolism or a byproduct of [GHD](/posts/2021-05-28-forever/), she had weighed exactly 86 pounds for over three years. Which at 58 inches was skinny, but wasn't half bad considering where she'd come from. The porridge makes 'em short and retarded, as Moise says.
 
