@@ -16,13 +16,6 @@
 	color: var(--dark-title-text);
 }
 
-.notebook {
-	padding: 0 1rem 0 1rem;
-	margin: 0;
-	@media only screen and (max-width: 500px) {
-		padding: 0;
-	}
-}
   
 .box-info {  
 	display: grid;
