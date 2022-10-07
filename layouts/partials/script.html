@@ -4,7 +4,8 @@
 {{ $fd := resources.Get "js/fade.js" }}
 {{ $sn := resources.Get "js/sidenotes.js" }}
 {{ $gt := resources.Get "js/goto.js" }}
-{{ $js := slice $jq $cs $fd $sn $gt | resources.Concat "js/bundle.js"  }}
+{{ $tc := resources.Get "js/toc.js" }}
+{{ $js := slice $jq $cs $fd $sn $gt $tc | resources.Concat "js/bundle.js"  }}
 
 {{ if .Site.IsServer }}
     <script defer src="{{ $js.RelPermalink }}" type="module"></script>

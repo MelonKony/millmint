@@ -1,4 +1,26 @@
+<!-- Desktop TOC -->
+{{ if and (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") (.Scratch.Get "params").enable_toc }}
+<div class="desktop-toc-wrapper-wrapper">
+    <div class="desktop-toc-wrapper">
+        <div class="desktop-toc">
+            <a href="#" class="toc-title">
+                <span>{{ .Params.icon }}</span>
+                <span>{{ .Params.title }}</span>
+            </a>
+            <nav>
+                {{ .TableOfContents }}
+            </nav>
+        </div>
+    </div>
+</div>
+{{ end }}
+
+<!-- Everything below is the mobile TOC -->
 {{ if and (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") (.Scratch.Get "params").enable_toc }}
     {{ $enable_collapsible_toc := (.Scratch.Get "params").enable_collapsible_toc }}
-    {{ partial "collapsible-menu.html" (dict "type" "toc" "context" . "enable" $enable_collapsible_toc) }}
+    <div class="mobile-toc">
+        {{ partial "collapsible-menu.html" (dict "type" "toc" "context" . "enable" $enable_collapsible_toc) }}
+    </div>
 {{ end }}
+
+<script src="/assets/js/toc.js"></script>

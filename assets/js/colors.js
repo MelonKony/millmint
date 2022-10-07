@@ -145,12 +145,14 @@ function setBackgroundColor(rgb, doBackground = true) {
 
   // Define all colors
   const bodyBg = rgba(...rgb, 0.1);
+  const darkerText = rgba(...rgb, 0.35, 'black');
+  const titleText = rgba(...rgb, 0.25, 'black');
   const bg = `rgba(${rgb.join(", ")}, 0.1)`;
   const gray100 = `rgba(${rgb.join(", ")}, 0.1)`;
   const colorGray = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
   const darkerColor = `rgba(${rgb.map((v) => Math.max(v - 100, 0)).join(", ")}, 1)`;
 
-  const classes = [`a: ${colorGray}`, `--color-gray: ${colorGray}`, `--color-text: ${colorGray}`, `--hint-bg: ${bodyBg}`]
+  const classes = [`--title-text: ${titleText}`, `--dark-title-text: ${darkerText}`, `a: ${colorGray}`, `--color-gray: ${colorGray}`, `--color-text: ${colorGray}`, `--hint-bg: ${bodyBg}`]
   if(doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-100: ${gray100}`, `--color-placeholder: var(--color-gray)`/*, `--body-background: ${bodyBg}`*/);
   classes.push(doBackground ? `--logo-color: var(--color-gray)` : `--logo-color: ${darkerColor}`)
 
@@ -159,11 +161,6 @@ function setBackgroundColor(rgb, doBackground = true) {
     "style",
     classes.join(';')
   );
-
-  // Force titles to take the color
-  document.querySelectorAll("h1").forEach((title) => {
-    title.style.color = `rgb(${rgb.join(", ")})`;
-  });
 }
 
 function rgba(r, g, b, a, base = "white") {

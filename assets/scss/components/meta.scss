@@ -30,9 +30,8 @@
   @include text-sm;
     grid-area: category;
     text-transform: capitalize;
-    color: $gray;
     font-weight: 600;
-    filter: brightness(35%);
+    color: var(--dark-title-text);
 }
 
 .boxtag {

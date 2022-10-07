@@ -281,3 +281,9 @@ a.anchor {
 h1:hover a.anchor, h1 a.anchor:focus, h2:hover a.anchor, h2 a.anchor:focus, h3:hover a.anchor, h3 a.anchor:focus, h4:hover a.anchor, h4 a.anchor:focus, h5:hover a.anchor, h5 a.anchor:focus, h6:hover a.anchor, h6 a.anchor:focus {
     opacity:initial
 }
+
+::selection {
+  background: var(--color-gray);
+  color: var(--hint-bg);
+  filter: none;
+}
