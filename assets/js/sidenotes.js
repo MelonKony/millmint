@@ -45,9 +45,8 @@
 
     function loadSideNotesFromFootnotes() {
 
-        const $postTitle = $(".content"),
-            browserWidth = $("body").width(),
-            startPosition = $postTitle.position().left + $postTitle.outerWidth() + sideNoteStartMargin;
+        const $postTitle = $(".content")
+        const startPosition = $postTitle.position().left - sideNoteStartMargin - sideNoteMinWidth
 
         $(".sidenote").remove(); // remove any existing side notes to begin
         $footnotes.show();  // previous resize could have hidden footnotes
@@ -61,11 +60,10 @@
         //#endregion
 
         //#region there's no space for sidenotes
-        const availabeSpaceForSideNote = browserWidth - startPosition;
+        const availabeSpaceForSideNote = startPosition - sideNoteMinWidth;
 
         // console.log(" ---> availabeSpaceForSideNote " + availabeSpaceForSideNote);
         // console.log(" ---> sideNoteWidth [" + sideNoteMinWidth + " - " + sideNoteMaxWidth + "]");
-
         if (availabeSpaceForSideNote < sideNoteMinWidth) {
             return;
         }
@@ -89,7 +87,7 @@
 
         // construct side note <div>
         let div = $(document.createElement('aside'))
-            .text(footnoteText)
+            .text(footnoteText.replace(/↩︎/g, ''))
             .addClass("sidenote");
 
         const topPosition = superscript.offset();

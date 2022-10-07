@@ -12,6 +12,10 @@
   margin: 0 0 2rem 0;
 }
 
+.article-category a {
+	color: var(--dark-title-text);
+}
+
 .notebook {
 	padding: 0 1rem 0 1rem;
 	margin: 0;
@@ -90,12 +94,11 @@
 	width: auto;
 	font-size: 1.7rem;
 	margin-right: .25rem;
-	filter: brightness(35%);
 	justify-content: center;
 	align-content: center;
 	border-radius: .25rem;
 	font-family: 'Emoji'!important;
-	color: var(--color-gray);
+	color: var(--dark-title-text);
 }
 
 .smallicon {

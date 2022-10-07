@@ -1,5 +1,5 @@
 <div class="article-info">
-  <h1 class="title" style="line-height: 1.2; font-size: 2rem; font-weight: 700; margin-bottom: 1rem; filter: brightness(35%);">{{ .Params.fulltitle }}</h1>
+  <h1 class="title" style="line-height: 1.2; font-size: 2rem; font-weight: 700; margin-bottom: 1rem; color: var(--title-text);">{{ .Params.fulltitle }}</h1>
   <div class="date" style="margin-right: .25rem;">{{if .Params.PublishDate}}{{- .PublishDate.Format "Monday, Jan 2, 2006" -}}{{ end }}</div>
   <div class="article-tag">{{ partial "taxonomies/tags.html" .}}</div>
   <div class="article-category">{{ partial "taxonomies/categories.html" .}}</div>
