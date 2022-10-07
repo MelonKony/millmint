@@ -32,7 +32,7 @@
 		height: 100%;
 		top: 0;
 		left: -10px;
-		background: var(--dark-title-text);
+		background: var(--dark-title-text, black);
 		z-index: -1;
 		border-radius: 5px;
 	}
@@ -44,7 +44,7 @@
 
 	.toc-active {
 		position: relative;
-		color: var(--hint-bg, var(--gray-100)) !important;
+		color: var(--hint-bg, white) !important;
 	}
 }
 

@@ -2663,7 +2663,7 @@ ol {
     height: 100%;
     top: 0;
     left: -10px;
-    background: var(--dark-title-text);
+    background: var(--dark-title-text, black);
     z-index: -1;
     border-radius: 5px; }
   .desktop-toc-wrapper .toc-title.toc-active::after {
@@ -2671,7 +2671,7 @@ ol {
     top: -4px; }
   .desktop-toc-wrapper .toc-active {
     position: relative;
-    color: var(--hint-bg, var(--gray-100)) !important; }
+    color: var(--hint-bg, white) !important; }
 
 .toc-title {
   color: black;
