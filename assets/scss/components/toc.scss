@@ -59,11 +59,16 @@
 
 	&:hover {
 		text-decoration: none;
+		filter: none;
 	}
 
 	.toc-emoji {
 		font-family: emoji;
 	}
+}
+
+#TableOfContents {
+	line-height: 1.25rem;
 }
 
 #TableOfContents ul {
@@ -86,6 +91,11 @@
 			width: 100%;
 			color: var(--dark-title-text);
 			padding: 0.2rem 0rem;
+			&:hover {
+				text-decoration: none;
+				color: var(--color-gray);
+				filter: none;
+			}
 		}
 		
 		li a {

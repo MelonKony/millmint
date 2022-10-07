@@ -2682,9 +2682,13 @@ ol {
   grid-gap: 10px;
   align-items: center; }
   .toc-title:hover {
-    text-decoration: none; }
+    text-decoration: none;
+    filter: none; }
   .toc-title .toc-emoji {
     font-family: emoji; }
+
+#TableOfContents {
+  line-height: 1.25rem; }
 
 #TableOfContents ul {
   font-weight: bold;
@@ -2702,6 +2706,10 @@ ol {
       width: 100%;
       color: var(--dark-title-text);
       padding: 0.2rem 0rem; }
+      #TableOfContents ul li a:hover {
+        text-decoration: none;
+        color: var(--color-gray);
+        filter: none; }
     #TableOfContents ul li li a {
       padding: 0.2rem 0.5rem; }
 

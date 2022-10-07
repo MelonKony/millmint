@@ -96,7 +96,7 @@ Here are some quick facts about Vekllei and the state of the world in the mid-21
 * Vekllei's future remains heavily influenced by midcentury modernist styles.
 * Although Vekllei's unique history has influenced its region for thousands of years, most major diversions from our own timeline occur shortly after the Second World War.
 
-[So get going](/utopia/vekllei/). This website is an open notebook of the thing I love. If you like world-building, art, and strange corners of the web, you'll find something to like here.
+[So get going](/stories/). This website is an open notebook of the thing I love. If you like world-building, art, and strange corners of the web, you'll find something to like here.
 
 [^1]: Sargent, L.T., 1994. The Three Faces of Utopianism Revisited. *Utopian studies*, 5(1), p.3.
 
