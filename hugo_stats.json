@@ -156,6 +156,7 @@
       "text-base",
       "text-xs",
       "title",
+      "toc-emoji",
       "toc-title",
       "vnr",
       "whitespace-nowrap"

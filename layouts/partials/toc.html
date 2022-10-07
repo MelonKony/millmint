@@ -4,12 +4,10 @@
     <div class="desktop-toc-wrapper">
         <div class="desktop-toc">
             <a href="#" class="toc-title">
-                <span>{{ .Params.icon }}</span>
+                <span class="toc-emoji">{{ .Params.icon }}</span>
                 <span>{{ .Params.title }}</span>
             </a>
-            <nav>
-                {{ .TableOfContents }}
-            </nav>
+            {{ .TableOfContents }}
         </div>
     </div>
 </div>
