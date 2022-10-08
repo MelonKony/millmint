@@ -16,6 +16,14 @@ article img[alt~="smallimg"] {
 	border-radius: 5px;
 }
 
+article img[alt~="crest"] {
+	margin-bottom: 1rem;
+	width: 25%;
+	min-width: 300px;
+	padding: .5rem;
+	border-radius: 5px;
+}
+
 @media (min-width: 1600px) {
   article img[alt~="img"] {
 	width: 140%;
