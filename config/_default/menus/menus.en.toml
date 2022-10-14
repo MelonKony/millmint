@@ -93,28 +93,28 @@
       pre = "🏬"
       url = "/utopia/society/state/assets"
       parent = "society"
-      weight = 3
+      weight = 4
     [[navbar]]
       identifier = "computers"
       name = "Computers"
       pre = "🖥"
       url = "/utopia/society/technology/computers"
       parent = "society"
-      weight = 4
+      weight = 5
     [[navbar]]
       identifier = "mail"
       name = "Mail"
       pre = "📯"
       url = "/utopia/society/industry/mail"
       parent = "society"
-      weight = 5
+      weight = 6
     [[navbar]]
       identifier = "railways"
       name = "Railways"
       pre = "🚇"
       url = "/utopia/society/industry/rail"
       parent = "society"
-      weight = 6
+      weight = 7
 [[navbar]]
   identifier = "newsdesk"
   name = "News"

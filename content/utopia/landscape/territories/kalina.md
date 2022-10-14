@@ -12,6 +12,9 @@ categories:
 
 image: https://images.millmint.net/images/marinerailway.jpg
 
+aliases:
+- /kalina/
+
 description: The Commonwealth of Kalina is an administrative region of the Commonwealth of Vekllei, a utopian country created by Hobart Phillips.
 author: Hobart Phillips
  
@@ -26,7 +29,7 @@ author: Hobart Phillips
 **Although Vekllei** comprises several independent commonwealths, most notably the island city-state to which it owes its name, the Commonwealth of Vekllei also includes several autonomous nations. The largest of these is a tropical archipelago of the Lesser Antilles named **Kalina**.
 {{</hint>}}
 
-**Kalina** (commonly ***The Kalina Islands***) is a sovereign commonwealth island chain situated in the Antilles, situated south-east of the British Virgin Islands and north of Guadeloupe. In the anglophonic world, it consists of the islands of Anguilla, St Martin, St Kitts and Nevis, Antigua, Barbuda, and Montserrat. In the Kalina language, these are called Angua, Martin, Liamuiga and Oualie, Antam, Barbuda, and Montesur respectively. These islands are federated under the Kalina government, which itself is a full member of the Vekllei commonwealth.
+**Kalina** (commonly ***The Kalina Islands***) is a sovereign commonwealth island chain situated in the Antilles, situated south-east of the British Virgin Islands and north of Guadeloupe. In the anglophonic world, it consists of the island cherishes of Anguilla, St Martin, St Kitts and Nevis, Antigua, Barbuda, and Montserrat. In the Kalina language, these are called Angua, Martin, Liamuiga and Oualie, Antam, Barbuda, and Montesur respectively. These islands are federated under the Kalina parliament, which itself is a full member of the Vekllei commonwealth.
 
 
 ## Etymology
@@ -66,7 +69,9 @@ Montesur is actively volcanic, and sees minor eruptions every few years.
 
 ## Politics
 
-Kalina shares the Vekllei city-state's unusual parliamentary system and geographic electoral districts. The country is independent, but like other full members of Commonwealth it shares much of its constitutional legislature and state structure with the Vekllei city-state. The Armed Forces of the Commonwealth of Vekllei are responsible for defence of Kalina, which is positioned strategically in the Caribbean and hosts several important military facilities throughout its island chains. The Commonwealth also coordinates Kalina's foreign affairs through the Overseas Affairs Office of the Commonwealth Culture Secretariat.
+Kalina shares the Vekllei city-state's unusual parliamentary system and geographic electoral districts. The country is independent, but like other full members of Commonwealth it shares much of its constitutional legislature and state structure with the Vekllei city-state. The Crown Armed Forces are responsible for defence of Kalina, which also contributes personnel and land to the supranational defence initiative. The Kalina Islands are positioned strategically in the Caribbean and host several important military facilities throughout its island chains. The Commonwealth also coordinates Kalina's foreign affairs through the Overseas Affairs Office of the Commonwealth Culture Secretariat.
+
+The Kalina Parliament acts as a federal parliament for the smaller, national island cherishes it governs. The Cherishes are semiautonomous and maintain their own ministries, but their legislatures are consolidated in the Kalina Parliament.
 
 ### The Vekllei Commonwealth
 

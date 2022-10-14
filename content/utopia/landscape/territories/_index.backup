@@ -3,14 +3,14 @@ title: Territories
 fulltitle: The Territories of the Vekllei Commonwealth
 icon: 🌎
 emoji: g
-color: green
+color: mint
 
 tags: 
   - states
 categories:
   - commonwealth
   
-draft: true
+draft: false
   
 image: https://images.millmint.net/images/territories.jpg
 
@@ -20,68 +20,6 @@ aliases:
 list_posts: false
 comments: false
 ---
-
-{{< hint >}}
-߷ This page lists completed articles on [**Vekllei's**](/utopia/vekllei) [**boroughs**](/utopia/vekllei/#administrative-divisions)
-{{</hint>}}
-
-{{<hint>}}
-<span class="smallicon" style="font-size: 14px;">⚠️</span> This list is evolving, and will be expanded in future.
-{{</hint>}}
-
-
-{{< hint panel >}}
-Over the next year I'll be completing this list of Vekllei's 100 boroughs, and linking them to images and posts produced in the project. Vekllei's five Crown Boroughs (once included) will be highlighted in bold.
-{{</hint>}}
-
-A Vekllei [borough](/utopia/vekllei/#administrative-divisions) is an unusual administrative designation, portioned originally by a set of vague criteria that includes size, history, its unique geography, culture, and its spiritual value. Population was evidently not a concern, and boroughs have great disparity in human settlement. Each borough takes the name of its largest city. You can see a partial list of them, arranged by region and alphabetically, below.
-
-{{< details title="Afouismeh Region" open=true >}}
-- <span class="navicon">❄️</span>Adouisneh
-- <a href="/bakur/"><span class="navicon">⚓️</span>Bakur</a>
-- <span class="navicon">🏰</span>Basa
-- <span class="navicon">🧰</span>Desiyo
-- <a href="/eyri/"><span class="navicon">🌊</span>Eyri</a>
-- <span class="navicon">⛴️</span>Fyourd
-- <span class="navicon">🎡</span>Gudaysnio
-- <span class="navicon">🌠</span>Koyoisneh
-- <span class="navicon">📡</span>Nesndious
-- <span class="navicon">🧱</span>Philadia
-- <span class="navicon">🚵‍♀️</span>Stiyora
-- <span class="navicon">🚣‍♀️</span>Studi
-- <span class="navicon">🛷</span>Tanger
-{{</ details >}}
-
-{{< details title="Vekllei Commonwealth Member-States" open=true >}}
-**Vekllei**
-
-* Vekllei Commonwealth
-    * Vekllei Antarctic Territories
-    * Vekllei Lunar Territories
-
-**Dependent States**
-
-* Aismious Islands (Faroe Islands)
-* Demon Islands (Jan Mayen)
-
-**Constituent Member-States**
-
-* Antilles Commonwealth
-    * Aruba Cherish (Aruba)
-    * Bonaire Cherish (Bonaire)
-    * Curaçao Cherish (Curaçao)
-* Azores Commonwealth (Azores)
-* Kala Commonwealth (Greenland)
-* <a href="/kalina/"><span class="navicon">🏝</span>Kalina Commonwealth</a>
-    * Angua Cherish (Anguilla)
-    * Antam Cherish (Antigua)
-    * Barbuda Cherish (Barbuda)
-    * Liamuiga Cherish (Saint Kitts)
-    * Martin Cherish (Saint Martin)
-    * Montesur Cherish (Montserrat)
-    * Oualie Cherish (Nevis)
-* Mira Commonwealth (Madeira)
-{{< /details >}}
 
 {{< hint >}}
 ߷  This page lists completed articles on [**overseas territories**](/utopia/vekllei/#administrative-divisions) of the Vekllei Commonwealth.

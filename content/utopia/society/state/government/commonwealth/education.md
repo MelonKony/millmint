@@ -11,7 +11,7 @@ tags:
 categories:
   - society
 
-draft: true
+draft: false
 
 list_posts: false
 autonumbering: true
@@ -35,7 +35,7 @@ author: Hobart Phillips
 
 The *Commonwealth Education Secretariat* (SOLSEC) is the commonwealth body responsible for all state education across the Commonwealth, including compulsory primary, vocational and tertiary schooling. Alongside the [COSMOCOM Accreditation Directorate](/utopia/society/government/#accreditation-directorate), CHICOM certifies teachers and the Commonwealth curriculum, and publishes textbooks and learning materials via the Children's and Tertiary Press.
 
-The stated mission of CHICOM is the celebration of knowledge and the development of technical skills.
+The stated mission of CHICOM is the democratisation and celebration of knowledge and the development of technical skills.
 
 CHICOM also oversees Vekllei's four learned societies, called academies, which offer immortal membership to remarkable contributors to learning in Vekllei. The Academies of the Commonwealth are funded by a bureau tithe, mandated but otherwise seperate from Commonwealth government apparatuses.
 

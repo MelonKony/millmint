@@ -357,7 +357,7 @@ Vekllei maintains a stable fertility rate of about 1.8 children per woman, indic
 ### Language
 
 {{< hint red >}}
-❖ Main article: *[Language in Vekllei](/utopia/culture/language/)*
+❖ Main article: <span class="smallicon">📖</span> *[Language in Vekllei](/utopia/culture/language/)*
 {{</hint>}}
 
 Modern Vekllei language (referred to simply as ***Vekllei***) is the national language of the country and spoken universally within the Home Islands and Vekllei's various Atlantic possessions. It is notable for its varied sublanguages, which include a signed language called [*Upotenne*](/utopia/culture//language/#6-upotenne) and various extant utility scripts.
@@ -367,7 +367,7 @@ Vekllei is spoken by around 25 million people, and a further 800,000 people arou
 ### Religion
 
 {{< hint red >}}
-❖ Main article: *[Religion in Vekllei](/utopia/culture/religion/)*
+❖ Main article: <span class="smallicon">💀</span> *[Religion in Vekllei](/utopia/culture/religion/)*
 {{</hint>}}
 
 *Upen* is the nondenominational animism of Vekllei, and is practiced nearly universally throughout the country in various forms and traditions. As much a secular cultural tradition as an organised religion, *Upen* coexists alongside abrahamic and miscellaneous faiths in the country, integrating most immigrant populations in Vekllei into its scripture on landscape and *sumoismiaya*, or the "spirit of things."
@@ -382,6 +382,10 @@ While Vekllei has no state religion, *Upen* is thoroughly integrated with Veklle
 Although most people in the country observe *Upen* apolitically, several other religious cultures hold sway in the country, including Catholicism (11%) Judaism (9%), Buddhism (4%), Islam (2%), Hinduism (1.3%) and Sikhism (0.7%). Despite this, Vekllei has some of the lowest rates of religious adherence in the world, estimated at a mere 6%, signifying *Upen*'s cultural influence on personal practice and informal ritual.
 
 ### Education
+
+{{< hint red >}}
+❖ Main article: <span class="smallicon">📚</span> *[Education in Vekllei](/utopia/culture/education/)*
+{{</hint>}}
 
 Education in Vekllei is structured as a *State Requisite Bureau* (rather than department) under the *requoisesiasn amourisocietie scolastie*, or A.r.E. Schooling is mandatory and universal between the ages of 5 and 14, and most schools in the country serve all ages between these years. All schools in Vekllei, aside from a half-dozen religious schools, are coeducational and operated directly by the A.r.E.
 
@@ -411,8 +415,8 @@ Most large infrastructure projects, including transport, education, health, mili
 
 ### Transport
 
-{{< hint vnr >}}
-❖ Read more: *[Railways in Vekllei](/utopia/society/industry/rail/)*
+{{<hint>}}
+❖ Read more: <span class="smallicon">🚇</span> *[Railways in Vekllei](/utopia/society/industry/rail/)*
 {{</hint>}}
 
 Most Vekllei people do not own private autos, though they are available. Only 6% of the population possesses a driver license, and so most Vekllei people are dependent on the free and comprehensive network of transit systems that link settlement in the island, including trains of various guages, maglevs, trams, trolley busses, ferries, canal steamers, helijets, jets and light aircraft.
@@ -448,11 +452,11 @@ Homes are also commonly inherited in Vekllei. All Vekllei people are guaranteed 
 ### Communications
 
 {{< hint mail >}}
-❖ Main article: *[Post in Vekllei](/utopia/society/industry/mail/)*
+❖ Read more: <span class="smallicon">📯</span> *[Post in Vekllei](/utopia/society/industry/mail/)*
 {{</hint>}}
 
 {{< hint mail >}}
-❖ Read more: *[Computing in Vekllei](/utopia/society/technology/computers/)*
+❖ Read more: <span class="smallicon">🖥</span> *[Computing in Vekllei](/utopia/society/technology/computers/)*
 {{</hint>}}
 
 The **Royal Mail of Vekllei** is the postal service of the country, and counts among its oldest surviving institutions. Founded in 1422, its origins as a military communications organ manifest today in its contemporary designation as a military state requisite, rather than civilian postal carrier. Despite this, the Royal Mail remains thoroughly civilian in its oversight and practice, and delivers around 50 million mail pieces a day in peak periods, including courier work abroad.

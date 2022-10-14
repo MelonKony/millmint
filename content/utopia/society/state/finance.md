@@ -65,7 +65,7 @@ Both senrouive and venrouive companies may participate in the international mark
 
 ### International Markets
 
-{{< hint >}}
+{{<hint>}}
 ❖ Download <span class="smallicon">📄</span> [Document No. 9.pdf](/files/documents/9.pdf)
 {{</hint>}}
 

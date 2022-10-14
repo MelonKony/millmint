@@ -37,6 +37,7 @@ keywords: government, illustration, design, motion, utopia, utopianism, art, com
 
 {{< details title="Features of the Vekllei State" open=true >}}
 - <!--<a href="/utopia/society/state/constitution/">--><span class="navicon">🌸</span>Constitution of Vekllei (coming soon)
+- <a href="/utopia/society/state/education/"><span class="navicon">📚</span>Education in Vekllei
 - <a href="/utopia/society/state/finance/"><span class="navicon">💵</span>Finance in Vekllei</a>
 - <!--<a href="/utopia/society/state/housing/">--><span class="navicon">🏡</span>Housing in Vekllei (coming soon)
 - <a href="/utopia/society/state/assets/"><span class="navicon">🏬</span>State Assets of Vekllei</a>

@@ -2401,8 +2401,7 @@ article img[alt~="crest"] {
   border-radius: .25rem; }
 
 .section h1, .section h2, .section h3, .section h4, .section h5, .section h6 {
-  margin-top: 0.5rem !important;
-  color: var(--title-text); }
+  margin-top: 0.5rem !important; }
 
 /* section box style */
 .box {
