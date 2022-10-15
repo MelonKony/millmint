@@ -38,11 +38,29 @@ You can follow my progress on this project on [Instagram](https://www.instagram.
 
 You can **write to me** at <span class="smallicon">📧</span> hobart@millmint.net.
 
+{{<hint>}}
+Sincere thanks to [Jip](https://jipfr.nl) and Ben R. R. for their contributions to this site. They volunteered their time again and again to help create new features that make Vekllei easier and more fun to read. Thank you!
+{{</hint>}}
+
 ## News
+
+{{<hint header>}}
+October 2022
+{{</hint>}}
+
+<span class="bulleticon">🌐</span> **October 15, 2022** Added the Vekllei Dictionary, a feature to show tooltips over Vekllei phrases and words (e.g. Bureau System). It's a massive site upgrade, and once again it was contributed entirely by [Jip](https://jipfr.nl) in his free time. Thank you again!
+
+<span class="bulleticon">📗</span> **October 14, 2022** New post: [*Five Years*](/stories/five-years/) <span class="spanlink"><a href="/stories/five-years/">URL →</a></span>
+
+<span class="bulleticon">🌐</span> **October 7, 2022** Added a new floating dynamic TOC with active states, coded entirely by [Jip](https://jipfr.nl). It looks fantastic and works great -- thanks for your help!
+
+<span class="bulleticon">📗</span> **October 6, 2022** New post: [*The Rifles Section*](/stories/rifles/) <span class="spanlink"><a href="/stories/rifles/">URL →</a></span>
 
 {{<hint header>}}
 September 2022
 {{</hint>}}
+
+<span class="bulleticon">🌐</span> **September 29, 2022** New website section: [Blog](/blog/) <span class="spanlink"><a href="/blog/">URL →</a></span>
 
 <span class="bulleticon">📗</span> **September 21, 2022** New post: [*The Scouts*](/stories/puffin/) <span class="spanlink"><a href="/stories/puffin/">URL →</a></span>
 

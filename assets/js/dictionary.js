@@ -1,8 +1,8 @@
 let dictionary = {};
 
 function addDictionaryTooltips() {
-	document.querySelectorAll("p, li, blockquote").forEach((el) => {
-		
+	document.querySelectorAll("p, .content li:not(.card), blockquote").forEach((el) => {
+		if(el.closest('.article-meta')) return
 		for (const phrase of Object.keys(dictionary)) {
 			const m = new RegExp(`(^|\\s+|\\(|>|“|")(${phrase})(?=\\s+|$|\\)|<|,|"|”)`, "gi"); // Don't ask please
 

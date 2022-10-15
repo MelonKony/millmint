@@ -58,32 +58,9 @@ This website is a comprehensive archive and open notebook for the stories of Vek
 ❖ Main article: [*Vekllei*](/utopia/vekllei)
 {{</hint>}}
 
-<div class="row">
-<div class="column">
-<img src="https://images.millmint.net/images/mastheads/flags/aismious.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
-</div>
-<div class="column">
-<img src="https://images.millmint.net/images/mastheads/flags/azores.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
-</div>
-<div class="column">
-<img src="https://images.millmint.net/images/mastheads/flags/demon.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
-</div>
-<div class="column">
-<img src="https://images.millmint.net/images/mastheads/flags/kala.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
-</div>
-<div class="column">
-<img src="https://images.millmint.net/images/mastheads/flags/kalina.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
-</div>
-<div class="column">
-<img src="https://images.millmint.net/images/mastheads/flags/mira.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
-</div>
-<div class="column">
-<img src="https://images.millmint.net/images/mastheads/flags/vekllei-international.png" alt="flag" style="width:100%; padding: 0; background-color: transparent;" >
-</div>
-</div>
-{{< hint caption >}}
-The flags of [Vekllei's Commonwealth](/utopia/vekllei/#administrative-divisions).
-{{</hint>}}
+> No differently will the world one day appear, almost unchanged, in its constant feast-day light, when it stands no longer under the law of labour, and when for homecomers duty has the lightness of holiday play.
+
+–Theodor Adorno, *Minima Moralia*
 
 **Vekllei** (pronounced '**Veck-lie**,' or **/vƐk.laɪ/**) is an island country set in what we know as Iceland. Vekllei is its own country, and does not look or feel like Iceland. It has unique cultures, ethnicites, and landscapes. It is an old country, having been settled for thousands of years by native Algic peoples and Scandinavians. It is also a new county, having suffered a nuclear attack at the beginning of the 21st Century which extinguished much of its old civil society.
 

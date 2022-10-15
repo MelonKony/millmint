@@ -267,7 +267,7 @@ These features manifest in various forms throughout modern Vekllei, including it
 
 Vekllei is functionally moneyless for most of its citizens, which means they do not use money in day-to-day life, nor are they paid a salary for their work. Employment is in principle participatory, but in practice required by a system called *Consosva* (*Contributory Service*). Work in Vekllei is understood foremost as a social obligation, and Vekllei people generally work only a few days a week.
 
- The country has an unusual hybrid market system called the *Vekllei Bureau System* (known colloquially as *Petticoat Socialism*), which incorporates state-owned socialist planned economics and deregulated syndicalist vertical *bureaus* to benefit a free, unregulated informal market system. Most unique about the Vekllei economy is its functional moneylessness, in which domestic society has abolished currency. No widespread currency substitutes are used in ordinary life. Each citizen owns a share of the *Bank of Vekllei*, a portion of the *Government Securities Bureau* designed to allow emigration from the country, and so is theoretically entitled to an equal portion of the Bank.
+ The country has an unusual hybrid market system called the *Vekllei Bureau System* (known colloquially as *Petticoat Socialism*), which incorporates state-owned socialist planned economics and deregulated syndicalist vertical *bureaus* to benefit a free, unregulated informal market system. Most unique about the Vekllei economy is its functional moneylessness, in which domestic society has abolished currency. No widespread currency substitutes are used in ordinary life. Each citizen owns a share of the [Bank of Vekllei](/utopia/society/state/government/interior/commerce/#bank-of-vekllei), a portion of the *Government Securities Bureau* designed to allow emigration from the country, and so is theoretically entitled to an equal portion of the Bank.
 
 Trade and materials are provided by biosynthetic robotics infrastructure and participatory work, and is supplemented in places by mandatory military service. Vekllei people enjoy a high standard of living and access to most consumer goods.
 
@@ -384,7 +384,7 @@ Although most people in the country observe *Upen* apolitically, several other r
 ### Education
 
 {{< hint red >}}
-❖ Main article: <span class="smallicon">📚</span> *[Education in Vekllei](/utopia/culture/education/)*
+❖ Main article: <span class="smallicon">📚</span> *[Education in Vekllei](/education/)*
 {{</hint>}}
 
 Education in Vekllei is structured as a *State Requisite Bureau* (rather than department) under the *requoisesiasn amourisocietie scolastie*, or A.r.E. Schooling is mandatory and universal between the ages of 5 and 14, and most schools in the country serve all ages between these years. All schools in Vekllei, aside from a half-dozen religious schools, are coeducational and operated directly by the A.r.E.

@@ -1,1 +1,95 @@
+// Phrasebook
+
+/// Geography
+
+Borough, Boroughs: An administrative region and local government of a Commonwealth state.
+Cherish, Cherishes: A small republic that forms part of a larger federated Commonwealth.
+
+/// Politics
+
+Bureau System: The system of consolidated co-operative companies that hold membership in an industrial council.
+Economic Feminisation: Postwar Vekllei feminist movement that saw the industrial economy de-emphasised.
+Floral Aestheticism: The postwar cultural movement celebrating a fusion of democracy, modernity and tradition.
+Floral Period, Floral Society: The current period of Vekllei history, beginning after independence in 2015.
+Atlantic Municipalism, Sundress Municipalism: The ideology of localism and co-operation, and state support of small communities.
+Pan-Atlanticists: Faction of Vekllei politics promoting greater centralisation of Commonwealth power over constituents.
+Petticoat Society: The Floral Period; the postwar period of democracy and moneylessness.
+Petticoat Socialism: An informal phrase for the moneyless system in Vekllei's 4th Commonwealth.
+
+/// Society
+
+HO/NI: Home Office at National Intelligence.
+AB/NI: Americas Bureau at National Intelligence.
+
+/// History
+
+4th Commonwealth: Current postwar government of Vekllei, founded on the Floral Constitution in 2015AD.
+3rd Commonwealth, Atlantic Junta, The Junta: Series of military governments that founded Vekllei's colonial period between 1440-2005AD.
+2nd Commonwealth: Second monarchy of Vekllei, establishing the country as a trading power between 1200-1440AD.
+1st Commonwealth: The first monarchy of Vekllei, which united the Vekllei Islands between 700-1200AD.
+Interim Government: The independence government after British occupation that lasted between 2015-2022AD.
+Visis Plan: The postwar development plan that aided Vekllei's recovery following the First Atomic War.
+
+/// Culture
+
+Crown Sovereign, The Sovereign: The metaphysical conceptualisation of all physical land and space in Vekllei.
+Runes: Symbols of power used in Vekllei religious rituals.
+Saga of Origins: Ancient poetic text detailing early Vekllei history, likely written in the 3rd Century.
+
+/// Technology
+
+Photovolume, Photovolumes: A holographic storage device used by computers in Vekllei.
+
+// Foreign Words
+
+/// Conversation
+
+Pisca: Derogatory term for homosexuals.
+
+/// Names
+Oslola: Creator god, credited with creating Vekllei upon her death.
+Tipet: Volcanic spirit and goddess of lava.
+
+/// Society
+
+Civici: Volunteer enlisted person, usually in the army but may also be used generally in public service.
+Consosva: Portmanteau meaning Contributory Service, the compulsory work requirement in Vekllei
 Eliese Orchid: A four-petal flower that naturally grows in Vekllei and represents the seat of power in the city-state and the blood of the citizenry.
+Socialisme oa Vekllei: Lit. "Vekllei Socialism," the Vekllei socialist tradition
+Municipolis: Lit. "municipality," an informal administrative area with shared infrastructure.
+Senrouive: Lit. “private work,” a classification of business meaning privately-owned.
+Venrouive: Lit. "public work," a classification of business that holds membership in an industrial Bureau.
+
+/// Culture
+
+Cosmatsisosmiosne de Ne: Lit. “Woman of the New Age."
+Cosmavisiousnesh: Lit. "plastic woman," a woman commodified by predatory market forces.
+Newda: Lit. "naked", modernist architectural style popular in Vekllei characterised by simple forms and detailed stonework.
+Scisimionze: Lit. "self-adornment," to beautify yourself.
+Semoisnesne: Lit. "sun-facing," an optimistic postwar attitude.
+Sumoismiaya: Lit. "spirit of life/things," the animism of Vekllei landscape.
+Visa Con: Lit. "personal pilgrimage," a legendary pilgrimage around the Vekllei Islands.
+
+/// Objects
+
+Gi: Ceremonial quarter-pleat stitched with words, worn by women.
+
+/// Words
+
+//// Food
+Agne loh Lebeau: Lit. "lamb butter," a Vekllei spread made from lamb.
+Blanc oa Bouismesn: Lit. "white sausage," a popular Vekllei lamb sausage.
+Briga: Soft crumbly Vekllei cheese with a taste similar to feta.
+Gos: Edible Vekllei moss, used as a topping.
+Keysmi: Semi-hard strong Vekllei cheese.
+Lava oa Agnetunfisk: Lit. "buttered lava tuna," a popular breakfast meal.
+Pastri: Lit. "pastry."
+Red Spice: Vekllei factory chilli, popular as a condiment.
+Rue Bouismesn: Lit. "blood sausage."
+Sibun: Lit. "pale bun," a large spiced bun with coconut icing.
+
+Lismious: To gaze.
+Porits, Poritsa: Lit. "police."
+Santes: Lit. "saint."
+Seispri: Lit. "spirit."
+Visimett: To be gazed at.

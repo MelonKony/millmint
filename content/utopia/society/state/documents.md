@@ -31,8 +31,9 @@ toc: false
 {{</hint>}}
 
 {{< details title="Documents" open=true >}}
-- <a href="/files/documents/1.pdf"><span class="navicon">📄</span>Document No. 1</a>
-- <a href="/files/documents/9.pdf"><span class="navicon">📄</span>Document No. 9</a>
+- <a href="/files/documents/1.pdf"><span class="navicon">📄</span>Document No. 1</a>: Communiqué on the Establishment of the 4th Commonwealth
+- <a href="/files/documents/7.pdf"><span class="navicon">📄</span>Document No. 7</a>: Communiqué on the Establishment of Government Schools
+- <a href="/files/documents/9.pdf"><span class="navicon">📄</span>Document No. 9</a>: Communiqué on the Establishment of the VKIM
 
 
 {{</ details >}}

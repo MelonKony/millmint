@@ -34,6 +34,7 @@ author: Hobart Phillips
 	- <a href="/utopia/society/state/palace/"><span class="navicon">🌾</span>The Vekllei Palace</a>
 	- <a href="/utopia/society/state/government/"><span class="navicon">🌸</span>The Vekllei Government</a>
 	- <!--<a href="/utopia/society/state/constitution/">--><span class="navicon">🌸</span>Constitution of Vekllei (coming soon)
+	- <a href="/utopia/society/state/education/"><span class="navicon">📚</span>Education in Vekllei
 	- <a href="/utopia/society/state/finance/"><span class="navicon">💵</span>Finance in Vekllei</a>
 	- <!--<a href="/utopia/society/state/housing/">--><span class="navicon">🏡</span>Housing in Vekllei (coming soon)
 	- <a href="/utopia/society/state/assets/"><span class="navicon">🏬</span>State Assets of Vekllei</a>
