@@ -601,8 +601,10 @@ article a:hover:after {
   text-decoration: underline; }
 
 article a:hover {
-  filter: brightness(85%);
-  text-decoration: underline; }
+  text-decoration: underline;
+  color: var(--dark-title-text, var(--color-gray)); }
+  article a:hover * {
+    text-decoration: none; }
 
 article {
   margin-bottom: 1rem !important; }
@@ -2553,6 +2555,10 @@ ol {
   border-color: var(--color-gray);
   color: var(--color-gray); }
 
+@media (max-width: 1599px) {
+  .sidenote {
+    max-width: 200px !important; } }
+
 .search {
   position: relative;
   justify-items: end;
@@ -2731,5 +2737,48 @@ ol {
     display: none; }
   .mobile-toc {
     display: block; } }
+
+dfn {
+  font-style: initial;
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  text-decoration-color: var(--color-gray);
+  position: relative; }
+  dfn .tooltip {
+    --border: white;
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translate(-50%, -10px);
+    padding: 2px 10px;
+    background: var(--hint-bg, var(--gray-100));
+    border-radius: 4px;
+    white-space: nowrap;
+    border: 1px solid var(--border);
+    font-size: 0.75rem;
+    font-weight: bold;
+    color: var(--color-gray);
+    opacity: 0;
+    transition: opacity 300ms;
+    pointer-events: none;
+    z-index: 10; }
+    dfn .tooltip::before {
+      content: '';
+      display: block;
+      position: absolute;
+      width: 0.7rem;
+      height: 0.7rem;
+      bottom: calc(-0.35rem - 1px);
+      left: 50%;
+      transform: translateX(-50%) rotate(45deg);
+      border-bottom-right-radius: 4px;
+      background: var(--hint-bg, var(--gray-100));
+      border-right: 1px solid var(--border);
+      border-bottom: 1px solid var(--border); }
+    dfn .tooltip.tooltip-long {
+      width: 200px;
+      white-space: initial; }
+  dfn:hover .tooltip {
+    opacity: 1; }
 
 /*# sourceMappingURL=style.css.map */

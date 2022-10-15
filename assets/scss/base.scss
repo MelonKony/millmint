@@ -248,8 +248,12 @@ article a:hover:after {
 }
 
 article a:hover {
-  filter: brightness(85%);
   text-decoration: underline; 
+  color: var(--dark-title-text, var(--color-gray));
+
+  * {
+    text-decoration: none;
+  }
 }
 
 article {

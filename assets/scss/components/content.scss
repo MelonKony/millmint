@@ -226,3 +226,9 @@ ol {
     border-color: var(--color-gray);
     color: var(--color-gray);
 }
+
+@media (max-width: 1599px) {
+  .sidenote {
+    max-width: 200px !important;
+  }
+}
