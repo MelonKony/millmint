@@ -601,8 +601,10 @@ article a:hover:after {
   text-decoration: underline; }
 
 article a:hover {
-  filter: brightness(85%);
-  text-decoration: underline; }
+  text-decoration: underline;
+  color: var(--dark-title-text, var(--color-gray)); }
+  article a:hover * {
+    text-decoration: none; }
 
 article {
   margin-bottom: 1rem !important; }
