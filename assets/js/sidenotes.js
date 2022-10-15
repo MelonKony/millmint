@@ -60,13 +60,10 @@
         //#endregion
 
         //#region there's no space for sidenotes
-        const availabeSpaceForSideNote = startPosition - sideNoteMinWidth;
+        if(window.innerWidth <= 1199) return;
 
         // console.log(" ---> availabeSpaceForSideNote " + availabeSpaceForSideNote);
         // console.log(" ---> sideNoteWidth [" + sideNoteMinWidth + " - " + sideNoteMaxWidth + "]");
-        if (availabeSpaceForSideNote < sideNoteMinWidth) {
-            return;
-        }
         //#endregion
 
         //#endregion
