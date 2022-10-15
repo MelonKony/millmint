@@ -4,7 +4,7 @@ function addDictionaryTooltips() {
 	document.querySelectorAll("p, li, blockquote").forEach((el) => {
 		
 		for (const phrase of Object.keys(dictionary)) {
-			const m = new RegExp(`(^|\\s+|\\(|>)(${phrase})(?=\\s+|$|\\)|<|,)`, "gi"); // Don't ask please
+			const m = new RegExp(`(^|\\s+|\\(|>|“|")(${phrase})(?=\\s+|$|\\)|<|,|"|”)`, "gi"); // Don't ask please
 
 			if (el.innerHTML.match(m)) {
 				el.innerHTML = el.innerHTML.replace(
