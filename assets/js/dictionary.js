@@ -31,8 +31,10 @@ async function initDictionary() {
 	const dictArr = dictionaryTxt.split("\n").filter((t) => t && t.includes(":"));
 
 	for (const entry of dictArr) {
-		const [phrase, definition] = entry.split(":").map((v) => v.trim());
-		dictionary[phrase] = definition;
+		const [phrases, definition] = entry.split(":").map((v) => v.trim());
+		for(const phrase of phrases.split(", ").map(t => t.trim())) {
+			dictionary[phrase] = definition;
+		}
 	}
 
 	console.log(dictionary);
