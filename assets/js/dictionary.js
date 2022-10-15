@@ -4,12 +4,12 @@ function addDictionaryTooltips() {
 	document.querySelectorAll("p, li, blockquote").forEach((el) => {
 		
 		for (const phrase of Object.keys(dictionary)) {
-			const m = new RegExp(`(^|\\s+|\\(|>)(${phrase})(?=\\s+|$|\\)|<|,)`, "gi"); // Don't ask please
+			const m = new RegExp(`(^|\\s+|\\(|>|“|")(${phrase})(?=\\s+|$|\\)|<|,|"|”)`, "gi"); // Don't ask please
 
 			if (el.innerHTML.match(m)) {
 				el.innerHTML = el.innerHTML.replace(
 					m,
-					`$1<dfn>$2${tooltip(dictionary[phrase])}</dfn>`
+					`$1<dfn>$2${tooltip(phrase, dictionary[phrase])}</dfn>`
 				);
 			}
 		}
@@ -17,10 +17,13 @@ function addDictionaryTooltips() {
 	});
 }
 
-function tooltip(text) {
+function tooltip(title, text) {
 	return `<div class="tooltip ${
 		text.length > 40 ? "tooltip-long" : "tooltip-short"
-	}">${text}</div>`;
+	}">
+		<h4>${title}</h4>
+		<p>${text}</p>
+	</div>`;
 }
 
 async function initDictionary() {
