@@ -9,7 +9,7 @@ function addDictionaryTooltips() {
 			if (el.innerHTML.match(m)) {
 				el.innerHTML = el.innerHTML.replace(
 					m,
-					`$1<dfn>$2${tooltip(phrase, dictionary[phrase])}</dfn>`
+					`$1<span class="dfn">$2${tooltip(phrase, dictionary[phrase])}</span>`
 				);
 			}
 		}
@@ -18,12 +18,12 @@ function addDictionaryTooltips() {
 }
 
 function tooltip(title, text) {
-	return `<div class="tooltip ${
+	return `<span class="tooltip ${
 		text.length > 40 ? "tooltip-long" : "tooltip-short"
 	}">
-		<h4>${title}</h4>
-		<p>${text}</p>
-	</div>`;
+		<span class="title">${title}</span>
+		<span class="description">${text}</span>
+	</span>`;
 }
 
 async function initDictionary() {

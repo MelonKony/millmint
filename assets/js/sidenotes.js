@@ -71,7 +71,8 @@
         const $fnItems = $footnotes.find("ol li");
 
         $("sup a").each(function (index) {
-            const $footnoteText = $fnItems.eq(index).text().trim();
+            const $footnoteText = $fnItems.eq(index).html();
+            console.log($footnoteText)
             createSideNote($(this), $footnoteText, startPosition);
         });
 
@@ -84,7 +85,7 @@
 
         // construct side note <div>
         let div = $(document.createElement('aside'))
-            .text(footnoteText.replace(/↩︎/g, ''))
+            .html(footnoteText.replace(/↩︎/g, ''))
             .addClass("sidenote");
 
         const topPosition = superscript.offset();

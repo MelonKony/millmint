@@ -1,4 +1,4 @@
-article dfn {
+.dfn {
 	font-style: initial;
 	text-decoration: underline;
 	text-decoration-style: dashed;
@@ -24,15 +24,17 @@ article dfn {
 		z-index: 10;
 		overflow: hidden;
 
-		p, h4 {
+		.description, .title {
 			margin: 0;
 			width: 100%;
 			padding: 2px 10px;
 			box-sizing: border-box;
+			display: block;
 		}
 
-		h4 {
-			background: var(--bg);
+		.title {
+			font-weight: bold;
+			background: var(--bg, var(--bg-alt));
 			font-size: 0.9rem;
 		}
 		
