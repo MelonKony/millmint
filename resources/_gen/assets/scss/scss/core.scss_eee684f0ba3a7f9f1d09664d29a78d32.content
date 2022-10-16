@@ -2761,8 +2761,7 @@ ol {
     opacity: 0;
     transition: opacity 300ms;
     pointer-events: none;
-    z-index: 10;
-    overflow: hidden; }
+    z-index: 10; }
     .dfn .tooltip .description, .dfn .tooltip .title {
       margin: 0;
       width: 100%;
@@ -2770,7 +2769,9 @@ ol {
       box-sizing: border-box;
       display: block;
       text-align: left;
-      font-style: normal; }
+      font-style: normal;
+      border-top-left-radius: 4px;
+      border-top-right-radius: 4px; }
     .dfn .tooltip .description {
       font-weight: normal; }
     .dfn .tooltip .title {

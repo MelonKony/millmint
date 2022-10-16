@@ -22,7 +22,6 @@
 		transition: opacity 300ms;
 		pointer-events: none;
 		z-index: 10;
-		overflow: hidden;
 
 		.description, .title {
 			margin: 0;
@@ -32,6 +31,8 @@
 			display: block;
 			text-align: left;
 			font-style: normal;
+			border-top-left-radius: 4px;
+			border-top-right-radius: 4px;
 		}
 		
 		.description {
