@@ -1,3 +1,5 @@
+document.addEventListener("touchstart", function() {}, true);
+
 let dictionary = {};
 
 function addDictionaryTooltips() {

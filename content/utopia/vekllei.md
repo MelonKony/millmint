@@ -4,7 +4,7 @@ fulltitle: Commonwealth of Vekllei
 icon: 🎋
 emoji: ←
 color: pink
-image: /images/mastheads/gov.png
+image: /images/missile.jpg
 
 tags: 
   - states
