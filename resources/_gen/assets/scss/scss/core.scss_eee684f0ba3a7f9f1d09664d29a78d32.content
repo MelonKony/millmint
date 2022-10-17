@@ -524,7 +524,7 @@ hr {
 
 @media screen and (min-width: 75rem) {
   main {
-    width: 50%; } }
+    width: 45%; } }
 
 @media screen and (min-width: 100rem) {
   main {
@@ -2689,7 +2689,7 @@ ol {
 
 .toc-title {
   color: black;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   font-weight: bold;
   display: grid;
   grid-template-columns: auto 1fr;
@@ -2702,7 +2702,7 @@ ol {
     font-family: emoji; }
 
 #TableOfContents {
-  line-height: 1.25rem; }
+  line-height: 1rem; }
 
 #TableOfContents ul {
   font-weight: bold;

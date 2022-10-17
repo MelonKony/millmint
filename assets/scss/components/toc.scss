@@ -50,7 +50,7 @@
 
 .toc-title {
 	color: black;
-	margin-bottom: 20px;
+	margin-bottom: 15px;
 	font-weight: bold;
 	display: grid;
 	grid-template-columns: auto 1fr;
@@ -68,13 +68,13 @@
 }
 
 #TableOfContents {
-	line-height: 1.25rem;
+	line-height: 1rem;
 }
 
 #TableOfContents ul {
 	font-weight: bold;
 	margin-top: 0;
-	font-size:0.875rem;
+	font-size: 0.875rem;
 
 	ul {
 		font-weight: normal;

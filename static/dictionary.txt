@@ -16,10 +16,12 @@ Pan-Atlanticists: Faction of Vekllei politics promoting greater centralisation o
 Petticoat Society: The Floral Period; the postwar period of democracy and moneylessness.
 Petticoat Socialism: An informal phrase for the moneyless system in Vekllei's 4th Commonwealth.
 
-/// Society
+/// Acronyms
 
 HO/NI: Home Office at National Intelligence.
 AB/NI: Americas Bureau at National Intelligence.
+
+VNR: Vekllei National Rail.
 
 /// History
 
@@ -32,12 +34,14 @@ Visis Plan: The postwar development plan that aided Vekllei's recovery following
 
 /// Culture
 
-Crown Sovereign, The Sovereign: The metaphysical conceptualisation of all physical land and space in Vekllei.
+Blood Name, Blood Names: A secret name given to a Vekllei person upon maturation, believed to have spiritual power.
+Crown Sovereign, The Sovereign, Landscape Sovereign: The metaphysical conceptualisation of all physical land and space in Vekllei.
 Runes: Symbols of power used in Vekllei religious rituals.
 Saga of Origins: Ancient poetic text detailing early Vekllei history, likely written in the 3rd Century.
 
 /// Technology
 
+Automan: A fabricated biological robot.
 Photovolume, Photovolumes: A holographic storage device used by computers in Vekllei.
 
 // Foreign Words
@@ -62,17 +66,29 @@ Venrouive: Lit. "public work," a classification of business that holds membershi
 
 /// Culture
 
+Upen: Animistic folk religion indigenous to Vekllei, which still informs much of Vekllei culture.
+
 Cosmatsisosmiosne de Ne: Lit. “Woman of the New Age."
 Cosmavisiousnesh: Lit. "plastic woman," a woman commodified by predatory market forces.
 Newda: Lit. "naked", modernist architectural style popular in Vekllei characterised by simple forms and detailed stonework.
 Scisimionze: Lit. "self-adornment," to beautify yourself.
 Semoisnesne: Lit. "sun-facing," an optimistic postwar attitude.
 Sumoismiaya: Lit. "spirit of life/things," the animism of Vekllei landscape.
+Rosmehn: Lit. "new neighbours," describing an immigrant who settled after the war.
 Visa Con: Lit. "personal pilgrimage," a legendary pilgrimage around the Vekllei Islands.
+
+Potenne: Lit. "hand-talk," an auxilliary sign language Vekllei people use to express emotion or contextualise the spoken word.
+Rapotenne: Lit. "name-talk," the Vekllei language of names believed to have spiritual power.
+Upotenne: Lit. "spirit-hand-talk," a Vekllei sign language used for religious purposes to communicate rune-forms.
+Topet: Vekllei written language, consisting of 3,500 logographs.
 
 /// Objects
 
+Duapolutchi: Lit. "twin lights," a tool used in religious ceremonies. 
 Gi: Ceremonial quarter-pleat stitched with words, worn by women.
+Jouvismoakoisnisn: Traditional religious belt, worn in rituals.
+Kitpek: Lit. "flat hat," a traditional hat used in Vekllei agriculture.
+Rouisha: Traditional loose-fitting felt pants worn by women.
 
 /// Words
 
@@ -93,3 +109,7 @@ Porits, Poritsa: Lit. "police."
 Santes: Lit. "saint."
 Seispri: Lit. "spirit."
 Visimett: To be gazed at.
+
+Cosmpasnie: Lit. "company," but only refers to the military organisation.
+Fedecenoayan: Meaning "of the nation" or "of the parliament."
+Demiosnjarnkah: Lit. "old arts," referring to the religious tradition of poetry and art-making.
