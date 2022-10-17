@@ -325,19 +325,19 @@ html {
   --body-font-color: #1d1d1f;
   --color-link: #06c;
   --color-visited-link: #1a0dab;
-  --color-blue: #007aff;
+  --color-blue: #1c7bcd;
   --color-brown: #a2845e;
   --color-gray: #5f5f69;
   --color-placeholder: #5f5f69;
-  --color-green: #34c759;
+  --color-green: #5cb955;
   --color-indigo: #5856d6;
   --color-mint: #00c7be;
-  --color-orange: #ff9500;
-  --color-pink: #ff2d55;
-  --color-purple: #af52de;
-  --color-red: #ff3b30;
+  --color-orange: #e09e21;
+  --color-pink: #cb2e5b;
+  --color-purple: #9b43c7;
+  --color-red: #c33646;
   --color-teal: #30b0c7;
-  --color-yellow: #ffcc00;
+  --color-yellow: #ea9365;
   --color-millmint: #b73f53; }
 
 html[data-theme="light"] {
@@ -1014,7 +1014,7 @@ header {
   padding: 2px 6px 2px 6px;
   border-radius: 3px;
   color: var(--body-background);
-  background-color: var(--logo-color, var(--color-gray));
+  background-color: var(--color-gray);
   vertical-align: middle; }
 
 .brand-emoji {
@@ -1856,7 +1856,7 @@ article#collapsible_menu_changelogs {
   align-content: center;
   border-radius: .25rem;
   font-family: "Emoji" !important;
-  color: var(--dark-title-text); }
+  color: var(--color-gray); }
 
 .smallicon {
   font-family: "Emoji" !important;
@@ -2194,7 +2194,7 @@ body article blockquote {
   background-color: rgba(245, 194, 0, 0.1); }
 
 .hint.pink, .article-pink .hint[class="hint "] {
-  border-color: #ff2d55;
+  border-color: #cb2e5b;
   background-color: rgba(245, 35, 75, 0.1); }
 
 .hint.purple, .article-purple .hint[class="hint "] {
