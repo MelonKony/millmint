@@ -20,7 +20,7 @@ toc: false
 rgb: 149, 80, 55
 
 image: /images/kalinauniform.jpg
-reddit:
+reddit: https://www.reddit.com/r/vekllei/comments/y6r97z/uniforms_for_all_the_commonwealth/
 print: 
 video:
 ---
