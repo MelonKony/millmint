@@ -48,6 +48,8 @@ Sincere thanks to [Jip](https://jipfr.nl) and Ben R. R. for their contributions 
 October 2022
 {{</hint>}}
 
+<span class="bulleticon">📗</span> **October 17, 2022** New post: [*Uniforms for All the Commonwealth*](/stories/caribbean-uniform/) <span class="spanlink"><a href="/stories/caribbean-uniform/">URL →</a></span>
+
 <span class="bulleticon">🌐</span> **October 15, 2022** Added the Vekllei Dictionary, a feature to show tooltips over Vekllei phrases and words (e.g. Bureau System). It's a massive site upgrade, and once again it was contributed entirely by [Jip](https://jipfr.nl) in his free time. Thank you again!
 
 <span class="bulleticon">📗</span> **October 14, 2022** New post: [*Five Years*](/stories/five-years/) <span class="spanlink"><a href="/stories/five-years/">URL →</a></span>

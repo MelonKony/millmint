@@ -2,6 +2,8 @@
 
 /// Geography
 
+Kalina: The Kalina Isles is a federated state of republics in the Antilles, and is a member of the 4th Commonwealth.
+
 Borough, Boroughs: An administrative region and local government of a Commonwealth state.
 Cherish, Cherishes: A small republic that forms part of a larger federated Commonwealth.
 
