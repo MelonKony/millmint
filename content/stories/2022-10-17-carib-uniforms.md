@@ -1,5 +1,5 @@
 ---
-title: Uniforms for All
+title: Caribbean Uniforms
 fulltitle: Uniforms for All the Commonwealth
 
 date: 2022-10-17
