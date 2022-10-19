@@ -11,6 +11,7 @@ const groupSelections = {
 	face: ["Zelda"],
 	shoes: ["Sandals"],
 	bottoms: ["Pleated skirt"],
+	jumper: ["Color jumper"],
 	socks: ["Folded socks"],
 	top: ["Pleated shirt"],
 	hair: ["Bluey"],
@@ -461,6 +462,17 @@ function defineAssets() {
 			],
 		},
 		{
+			group: "jumper",
+			name: "Color jumper",
+			layers: [
+				{
+					layer: 21,
+					img: maskImg("/doll-assets/f/9.jumpers/9b/", "#AB4F5D"),
+					gender: "f",
+				},
+			],
+		},
+		{
 			group: "accessories",
 			name: "Spectacles",
 			layers: [
@@ -559,7 +571,7 @@ function renderNav() {
 		const group = groups[groupId];
 
 		el.querySelector(".text").textContent = group?.label ?? groupId;
-		if (group?.emoji) el.querySelector(".doll-emoji").textContent = group.emoji;
+		if (group?.emoji) el.querySelector(".emoji").textContent = group.emoji;
 
 		// Add event listeners
 		el.addEventListener("click", () => {
@@ -571,6 +583,12 @@ function renderNav() {
 		if (groupId === currentGroup) el.classList.add("active");
 		nav.appendChild(el);
 	}
+}
+
+function setMaskColor(name = "Color jumper", newColor, layer = 0) {
+	const item = dollAssets.find((a) => a.name === name);
+	if(item) item.layers[layer]?.img?.setColor?.(newColor)
+	
 }
 
 function renderOptions() {
@@ -684,11 +702,10 @@ function maskImg(path, color = "pink") {
 	const mask = img(`${path}/mask.png`);
 
 	const canvasFull = document.createElement("canvas");
-	
+
 	const canvasSmall = document.createElement("canvas");
 	canvasSmall.width = (canvasSmall.scrollWidth || 230) * 2;
 	canvasSmall.height = (canvasSmall.scrollHeight || 690) * 2;
-
 
 	Promise.all([promiseify(outline.full), promiseify(mask.full)]).then(() => {
 		canvasFull.width = mask.full.width;
@@ -701,6 +718,15 @@ function maskImg(path, color = "pink") {
 	return {
 		full: canvasFull,
 		resized: canvasSmall,
+		setColor(color) {
+			canvasFull.width = mask.full.width;
+			canvasFull.height = mask.full.height;
+
+			maskImgSize(canvasFull, color, outline, mask, true);
+			maskImgSize(canvasSmall, color, outline, mask, false);
+
+			drawCharacter();
+		},
 	};
 }
 
