@@ -24,7 +24,12 @@ color: indigo
 		</div>
 	</div>
 	<div class="dolls-editor">
-		<nav class="dolls-nav"></nav>
+		<nav class="dolls-nav">
+			<button class="nav-previous nav-nav-button" onclick="previousNav()">←</button>
+			<div class="nav-inner"></div>
+			<button class="nav-next nav-nav-button" onclick="nextNav()">→</button>
+		</nav>
+		<span class="current-page">Faces</span>
 		<hr />
 		<div class="doll-options"></div>
 	</div>

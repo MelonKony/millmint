@@ -553,11 +553,15 @@ function defineAssets() {
 	const promises = allImages.map((t) => {
 		return promiseify(t.full).then(() => {
 			loadedImageCount++;
-			const percentage =  Math.round((loadedImageCount / allImages.length) * 100)
+			const percentage = Math.round(
+				(loadedImageCount / allImages.length) * 100
+			);
 			document
 				.querySelector("progress#assets")
 				.setAttribute("value", (loadedImageCount / allImages.length) * 100);
-			document.querySelector('.dolls .percentage').innerText = `${percentage.toString().padStart(2, '0')}%`
+			document.querySelector(".dolls .percentage").innerText = `${percentage
+				.toString()
+				.padStart(2, "0")}%`;
 		});
 	});
 
@@ -570,8 +574,9 @@ function defineAssets() {
 function renderNav() {
 	// Populate navigation
 	const nav = document.querySelector(".dolls-nav");
-	nav.innerHTML = "";
-	for (const groupId of uniqueGroups) {
+	nav.querySelector(".nav-inner").innerHTML = "";
+
+	for (const groupName of uniqueGroups) {
 		// Create new node
 		const el = document
 			.importNode(
@@ -581,20 +586,51 @@ function renderNav() {
 			.querySelector("*");
 
 		// Provide labels
-		const group = groups[groupId];
+		const group = groups[groupName];
 
 		el.querySelector(".text").textContent = group?.label ?? groupId;
 		if (group?.emoji) el.querySelector(".emoji").textContent = group.emoji;
 
 		// Add event listeners
 		el.addEventListener("click", () => {
-			currentGroup = groupId;
-			dollsMain(false);
+			currentGroup = groupName;
+			dollsMain();
 		});
 
 		// Add active class
-		if (groupId === currentGroup) el.classList.add("active");
-		nav.appendChild(el);
+		if (groupName === currentGroup) el.classList.add("active");
+		nav.querySelector(".nav-inner").appendChild(el);
+	}
+
+	// Set tab title
+	document.querySelector(".current-page").innerText =
+		groups[currentGroup]?.label ?? currentGroup;
+
+	// Determine active states for nav buttons
+	const currentIndex = uniqueGroups.indexOf(currentGroup);
+	document
+		.querySelector(".nav-nav-button.nav-previous")
+		.classList[currentIndex > 0 ? "remove" : "add"]("disabled");
+	document
+		.querySelector(".nav-nav-button.nav-next")
+		.classList[currentIndex < uniqueGroups.length - 1 ? "remove" : "add"](
+			"disabled"
+		);
+}
+
+function nextNav() {
+	let newIndex = uniqueGroups.indexOf(currentGroup) + 1;
+	if (uniqueGroups[newIndex]) {
+		currentGroup = uniqueGroups[newIndex];
+		dollsMain();
+	}
+}
+
+function previousNav() {
+	let newIndex = uniqueGroups.indexOf(currentGroup) - 1;
+	if (uniqueGroups[newIndex]) {
+		currentGroup = uniqueGroups[newIndex];
+		dollsMain();
 	}
 }
 

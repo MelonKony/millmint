@@ -2833,6 +2833,11 @@ ol {
   grid-template-columns: 230px 1.5fr; }
   .dolls .dolls-loading {
     grid-column: 1 / -1; }
+  .dolls .current-page {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 0.9rem; }
 
 .dolls-left-side {
   position: sticky;
@@ -2849,14 +2854,37 @@ ol {
 
 .dolls-nav {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  grid-template-columns: auto 1fr auto;
+  justify-items: center;
   gap: 10px; }
+  .dolls-nav .nav-nav-button {
+    cursor: pointer;
+    border: 0;
+    background: var(--hint-bg);
+    color: var(--color-gray);
+    width: 30px;
+    height: 30px;
+    border-radius: 4px;
+    transition: opacity 300ms;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; }
+    .dolls-nav .nav-nav-button.disabled {
+      opacity: 0; }
+  .dolls-nav .nav-inner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px; }
   .dolls-nav .dolls-nav-item {
     color: inherit;
     border: 0;
     background: transparent;
     border-radius: 4px;
-    padding: 6px 8px;
+    padding: 4px;
+    width: 25px;
+    height: 25px;
     cursor: pointer;
     display: flex;
     gap: 10px;
@@ -2866,6 +2894,8 @@ ol {
       color: inherit;
       width: auto;
       height: auto; }
+    .dolls-nav .dolls-nav-item .text {
+      display: none; }
     .dolls-nav .dolls-nav-item.active {
       background: var(--hint-bg);
       color: var(--color-gray); }
@@ -2875,7 +2905,8 @@ ol {
 .dolls-editor hr {
   border-color: var(--gray-100);
   border-bottom: 0;
-  margin: 1rem 0; }
+  margin: 1rem 0;
+  margin-top: 2px; }
 
 .doll-options {
   display: grid;
