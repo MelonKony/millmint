@@ -398,7 +398,7 @@ function defineAssets() {
 			name: "Gymslip",
 			layers: [
 				{
-					layer: 17,
+					layer: 20,
 					img: img("/doll-assets/f/8.outfits/8a.png"),
 					gender: "f",
 				},
@@ -409,7 +409,7 @@ function defineAssets() {
 			name: "Jumper",
 			layers: [
 				{
-					layer: 18,
+					layer: 21,
 					img: img("/doll-assets/f/9.jumpers/9a.png"),
 					gender: "f",
 				},
@@ -420,7 +420,7 @@ function defineAssets() {
 			name: "Spectacles",
 			layers: [
 				{
-					layer: 19,
+					layer: 22,
 					img: img("/doll-assets/f/10.accessories/10a.png"),
 					gender: "f",
 				},
@@ -431,7 +431,7 @@ function defineAssets() {
 			name: "School Armband",
 			layers: [
 				{
-					layer: 19,
+					layer: 22,
 					img: img("/doll-assets/f/10.accessories/10b.png"),
 					gender: "f",
 				},
@@ -442,8 +442,52 @@ function defineAssets() {
 			name: "School Beret",
 			layers: [
 				{
-					layer: 19,
+					layer: 22,
 					img: img("/doll-assets/f/10.accessories/10c.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "accessories",
+			name: "School Tie",
+			layers: [
+				{
+					layer: 17,
+					img: img("/doll-assets/f/10.accessories/10d.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "accessories",
+			name: "Red Tie",
+			layers: [
+				{
+					layer: 17,
+					img: img("/doll-assets/f/10.accessories/10e.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "accessories",
+			name: "Girls' Tie",
+			layers: [
+				{
+					layer: 17,
+					img: img("/doll-assets/f/10.accessories/10f.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "accessories",
+			name: "School Badge",
+			layers: [
+				{
+					layer: 17,
+					img: img("/doll-assets/f/10.accessories/10g.png"),
 					gender: "f",
 				},
 			],
