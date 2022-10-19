@@ -3,6 +3,7 @@ let dollAssets = [];
 let uniqueGroups = [...new Set(dollAssets.map((t) => t.group))];
 let currentGroup;
 let gender = "f";
+let redrawDebounce;
 
 // Base doll
 const groupSelections = {
@@ -10,6 +11,7 @@ const groupSelections = {
 	face: ["Zelda"],
 	shoes: ["Sandals"],
 	bottoms: ["Pleated skirt"],
+	jumper: ["Color jumper"],
 	socks: ["Folded socks"],
 	top: ["Pleated shirt"],
 	hair: ["Bluey"],
@@ -86,7 +88,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 10,
-					img: img("/doll-assets/f/1.figure/1a.png"),
+					img: maskImg("/doll-assets/f/1.figure/1a/"),
 					gender: "f",
 				},
 			],
@@ -97,7 +99,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 10,
-					img: img("/doll-assets/f/1.figure/1b.png"),
+					img: maskImg("/doll-assets/f/1.figure/1b/"),
 					gender: "f",
 				},
 			],
@@ -108,7 +110,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 10,
-					img: img("/doll-assets/f/1.figure/1c.png"),
+					img: maskImg("/doll-assets/f/1.figure/1c/"),
 					gender: "f",
 				},
 			],
@@ -119,7 +121,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 11,
-					img: img("/doll-assets/f/2.face/2a.png"),
+					img: maskImg("/doll-assets/f/2.face/2a/"),
 					gender: "f",
 				},
 			],
@@ -130,7 +132,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 11,
-					img: img("/doll-assets/f/2.face/2b.png"),
+					img: maskImg("/doll-assets/f/2.face/2b/"),
 					gender: "f",
 				},
 			],
@@ -141,7 +143,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 11,
-					img: img("/doll-assets/f/2.face/2c.png"),
+					img: maskImg("/doll-assets/f/2.face/2c/"),
 					gender: "f",
 				},
 			],
@@ -152,7 +154,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 11,
-					img: img("/doll-assets/f/2.face/2d.png"),
+					img: maskImg("/doll-assets/f/2.face/2d/"),
 					gender: "f",
 				},
 			],
@@ -163,7 +165,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 11,
-					img: img("/doll-assets/f/2.face/2e.png"),
+					img: maskImg("/doll-assets/f/2.face/2e/"),
 					gender: "f",
 				},
 			],
@@ -174,7 +176,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 11,
-					img: img("/doll-assets/f/2.face/2f.png"),
+					img: maskImg("/doll-assets/f/2.face/2f/"),
 					gender: "f",
 				},
 			],
@@ -185,7 +187,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 12,
-					img: img("/doll-assets/f/3.hair/3a.png"),
+					img: maskImg("/doll-assets/f/3.hair/3a/"),
 					gender: "f",
 				},
 			],
@@ -196,7 +198,18 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 12,
-					img: img("/doll-assets/f/3.hair/3b.png"),
+					img: maskImg("/doll-assets/f/3.hair/3b/"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "hair",
+			name: "Green hair",
+			layers: [
+				{
+					layer: 12,
+					img: maskImg("/doll-assets/f/3.hair/3a/", "green"),
 					gender: "f",
 				},
 			],
@@ -207,7 +220,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 12,
-					img: img("/doll-assets/f/3.hair/3c.png"),
+					img: maskImg("/doll-assets/f/3.hair/3c/"),
 					gender: "f",
 				},
 			],
@@ -218,7 +231,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 13,
-					img: img("/doll-assets/f/4.socks/4a.png"),
+					img: maskImg("/doll-assets/f/4.socks/4a/"),
 					gender: "f",
 				},
 			],
@@ -229,7 +242,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 13,
-					img: img("/doll-assets/f/4.socks/4b.png"),
+					img: maskImg("/doll-assets/f/4.socks/4b/"),
 					gender: "f",
 				},
 			],
@@ -240,7 +253,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 13,
-					img: img("/doll-assets/f/4.socks/4c.png"),
+					img: maskImg("/doll-assets/f/4.socks/4c/"),
 					gender: "f",
 				},
 			],
@@ -251,7 +264,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 13,
-					img: img("/doll-assets/f/4.socks/4d.png"),
+					img: maskImg("/doll-assets/f/4.socks/4d/"),
 					gender: "f",
 				},
 			],
@@ -262,7 +275,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 14,
-					img: img("/doll-assets/f/5.shoes/5a.png"),
+					img: maskImg("/doll-assets/f/5.shoes/5a/"),
 					gender: "f",
 				},
 			],
@@ -273,12 +286,12 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 0,
-					img: img("/doll-assets/f/0.bg/5b.bg.png"),
+					img: img("/doll-assets/f/0.bg/mask.5b.bg.png"),
 					gender: "f",
 				},
 				{
 					layer: 14,
-					img: img("/doll-assets/f/5.shoes/5b.png"),
+					img: maskImg("/doll-assets/f/5.shoes/5b/"),
 					gender: "f",
 				},
 			],
@@ -289,7 +302,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 14,
-					img: img("/doll-assets/f/5.shoes/5c.png"),
+					img: maskImg("/doll-assets/f/5.shoes/5c/"),
 					gender: "f",
 				},
 			],
@@ -300,7 +313,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 14,
-					img: img("/doll-assets/f/5.shoes/5d.png"),
+					img: maskImg("/doll-assets/f/5.shoes/5d/"),
 					gender: "f",
 				},
 			],
@@ -311,7 +324,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 14,
-					img: img("/doll-assets/f/5.shoes/5e.png"),
+					img: maskImg("/doll-assets/f/5.shoes/5e/"),
 					gender: "f",
 				},
 			],
@@ -322,7 +335,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 14,
-					img: img("/doll-assets/f/5.shoes/5f.png"),
+					img: maskImg("/doll-assets/f/5.shoes/5f/"),
 					gender: "f",
 				},
 			],
@@ -333,7 +346,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 15,
-					img: img("/doll-assets/f/6.bottom/6a.png"),
+					img: maskImg("/doll-assets/f/6.bottom/6a/"),
 					gender: "f",
 				},
 			],
@@ -344,7 +357,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 15,
-					img: img("/doll-assets/f/6.bottom/6b.png"),
+					img: maskImg("/doll-assets/f/6.bottom/6b/"),
 					gender: "f",
 				},
 			],
@@ -355,7 +368,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 15,
-					img: img("/doll-assets/f/6.bottom/6c.png"),
+					img: maskImg("/doll-assets/f/6.bottom/6c/"),
 					gender: "f",
 				},
 			],
@@ -366,7 +379,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 15,
-					img: img("/doll-assets/f/6.bottom/6d.png"),
+					img: maskImg("/doll-assets/f/6.bottom/6d/"),
 					gender: "f",
 				},
 			],
@@ -377,7 +390,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 15,
-					img: img("/doll-assets/f/6.bottom/6e.png"),
+					img: maskImg("/doll-assets/f/6.bottom/6e/"),
 					gender: "f",
 				},
 			],
@@ -388,7 +401,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 16,
-					img: img("/doll-assets/f/7.top/7a.png"),
+					img: maskImg("/doll-assets/f/7.top/7a/"),
 					gender: "f",
 				},
 			],
@@ -399,7 +412,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 16,
-					img: img("/doll-assets/f/7.top/7b.png"),
+					img: maskImg("/doll-assets/f/7.top/7b/"),
 					gender: "f",
 				},
 			],
@@ -410,7 +423,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 20,
-					img: img("/doll-assets/f/8.outfits/8a.png"),
+					img: maskImg("/doll-assets/f/8.outfits/8a/"),
 					gender: "f",
 				},
 			],
@@ -421,7 +434,12 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 20,
-					img: img("/doll-assets/f/8.outfits/8b.png"),
+					img: maskImg("/doll-assets/f/8.outfits/8b/", undefined, "maska"),
+					gender: "f",
+				},
+				{
+					layer: 20,
+					img: maskImg("/doll-assets/f/8.outfits/8b/", undefined, "maskb"),
 					gender: "f",
 				},
 			],
@@ -432,7 +450,18 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 21,
-					img: img("/doll-assets/f/9.jumpers/9a.png"),
+					img: maskImg("/doll-assets/f/9.jumpers/9a/"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "jumper",
+			name: "Color jumper",
+			layers: [
+				{
+					layer: 21,
+					img: maskImg("/doll-assets/f/9.jumpers/9a/", "#AB4F5D"),
 					gender: "f",
 				},
 			],
@@ -443,7 +472,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 22,
-					img: img("/doll-assets/f/10.accessories/10a.png"),
+					img: maskImg("/doll-assets/f/10.accessories/10a/", undefined, null),
 					gender: "f",
 				},
 			],
@@ -454,7 +483,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 22,
-					img: img("/doll-assets/f/10.accessories/10b.png"),
+					img: maskImg("/doll-assets/f/10.accessories/10b/"),
 					gender: "f",
 				},
 			],
@@ -465,7 +494,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 22,
-					img: img("/doll-assets/f/10.accessories/10c.png"),
+					img: maskImg("/doll-assets/f/10.accessories/10c/"),
 					gender: "f",
 				},
 			],
@@ -476,7 +505,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 17,
-					img: img("/doll-assets/f/10.accessories/10d.png"),
+					img: maskImg("/doll-assets/f/10.accessories/10d/"),
 					gender: "f",
 				},
 			],
@@ -487,7 +516,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 17,
-					img: img("/doll-assets/f/10.accessories/10e.png"),
+					img: maskImg("/doll-assets/f/10.accessories/10e/"),
 					gender: "f",
 				},
 			],
@@ -498,7 +527,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 17,
-					img: img("/doll-assets/f/10.accessories/10f.png"),
+					img: maskImg("/doll-assets/f/10.accessories/10f/"),
 					gender: "f",
 				},
 			],
@@ -509,7 +538,7 @@ function defineAssets() {
 			layers: [
 				{
 					layer: 17,
-					img: img("/doll-assets/f/10.accessories/10g.png"),
+					img: maskImg("/doll-assets/f/10.accessories/10g/"),
 					gender: "f",
 				},
 			],
@@ -517,13 +546,37 @@ function defineAssets() {
 	];
 	uniqueGroups = [...new Set(dollAssets.map((t) => t.group))];
 	if (!currentGroup) currentGroup = uniqueGroups[0];
+
+	// Wait for all images to load, then remove the loading screen and seed the nav and stuff
+	const allImages = Object.values(imgs);
+	let loadedImageCount = 0;
+	const promises = allImages.map((t) => {
+		return promiseify(t.full).then(() => {
+			loadedImageCount++;
+			const percentage = Math.round(
+				(loadedImageCount / allImages.length) * 100
+			);
+			document
+				.querySelector("progress#assets")
+				.setAttribute("value", (loadedImageCount / allImages.length) * 100);
+			document.querySelector(".dolls .percentage").innerText = `${percentage
+				.toString()
+				.padStart(2, "0")}%`;
+		});
+	});
+
+	Promise.all(promises).then((d) => {
+		document.querySelector(".dolls").classList.add("loaded");
+		console.log("loaded");
+	});
 }
 
 function renderNav() {
 	// Populate navigation
 	const nav = document.querySelector(".dolls-nav");
-	nav.innerHTML = "";
-	for (const groupId of uniqueGroups) {
+	nav.querySelector(".nav-inner").innerHTML = "";
+
+	for (const groupName of uniqueGroups) {
 		// Create new node
 		const el = document
 			.importNode(
@@ -533,21 +586,57 @@ function renderNav() {
 			.querySelector("*");
 
 		// Provide labels
-		const group = groups[groupId];
+		const group = groups[groupName];
 
 		el.querySelector(".text").textContent = group?.label ?? groupId;
 		if (group?.emoji) el.querySelector(".emoji").textContent = group.emoji;
 
 		// Add event listeners
 		el.addEventListener("click", () => {
-			currentGroup = groupId;
-			dollsMain(false);
+			currentGroup = groupName;
+			dollsMain();
 		});
 
 		// Add active class
-		if (groupId === currentGroup) el.classList.add("active");
-		nav.appendChild(el);
+		if (groupName === currentGroup) el.classList.add("active");
+		nav.querySelector(".nav-inner").appendChild(el);
 	}
+
+	// Set tab title
+	document.querySelector(".current-page").innerText =
+		groups[currentGroup]?.label ?? currentGroup;
+
+	// Determine active states for nav buttons
+	const currentIndex = uniqueGroups.indexOf(currentGroup);
+	document
+		.querySelector(".nav-nav-button.nav-previous")
+		.classList[currentIndex > 0 ? "remove" : "add"]("disabled");
+	document
+		.querySelector(".nav-nav-button.nav-next")
+		.classList[currentIndex < uniqueGroups.length - 1 ? "remove" : "add"](
+			"disabled"
+		);
+}
+
+function nextNav() {
+	let newIndex = uniqueGroups.indexOf(currentGroup) + 1;
+	if (uniqueGroups[newIndex]) {
+		currentGroup = uniqueGroups[newIndex];
+		dollsMain();
+	}
+}
+
+function previousNav() {
+	let newIndex = uniqueGroups.indexOf(currentGroup) - 1;
+	if (uniqueGroups[newIndex]) {
+		currentGroup = uniqueGroups[newIndex];
+		dollsMain();
+	}
+}
+
+function setMaskColor(name = "Color jumper", newColor, layer = 0) {
+	const item = dollAssets.find((a) => a.name === name);
+	if (item) item.layers[layer]?.img?.setColor?.(newColor);
 }
 
 function renderOptions() {
@@ -603,8 +692,8 @@ function renderOptions() {
 function drawCharacter() {
 	// Real canvas
 	const canvas = document.querySelector(".dolls-canvas");
-	canvas.width = canvas.scrollWidth * 2;
-	canvas.height = canvas.scrollHeight * 2;
+	canvas.width = (canvas.scrollWidth || 230) * 2;
+	canvas.height = (canvas.scrollHeight || 690) * 2;
 	render(canvas);
 }
 
@@ -612,9 +701,9 @@ function downloadDoll() {
 	// Download link canvas:
 	const downloadableCanvas = document.createElement("canvas");
 	const img = dollAssets[0].layers[0].img;
-	downloadableCanvas.width = img.width / 2;
-	downloadableCanvas.height = img.height / 2;
-	render(downloadableCanvas);
+	downloadableCanvas.width = img.full.width / 2;
+	downloadableCanvas.height = img.full.height / 2;
+	render(downloadableCanvas, true);
 
 	const a = document.createElement("a");
 	a.href = downloadableCanvas.toDataURL();
@@ -622,7 +711,7 @@ function downloadDoll() {
 	a.click();
 }
 
-function render(canvas) {
+function render(canvas, fullRes = false) {
 	const ctx = canvas.getContext("2d");
 
 	// Find all layers for every single selected asset and sort them by their z-index
@@ -638,7 +727,15 @@ function render(canvas) {
 
 	// Draw all layers
 	for (const layer of allLayers) {
-		ctx.drawImage(layer.img, 0, 0, canvas.width, canvas.height);
+		/// draw the shape we want to use for clipping
+
+		ctx.drawImage(
+			layer.img[fullRes ? "full" : "resized"],
+			0,
+			0,
+			canvas.width,
+			canvas.height
+		);
 	}
 }
 
@@ -648,26 +745,110 @@ function dollsMain(redraw = true) {
 	if (redraw) drawCharacter();
 }
 
+function maskImg(path, color, maskName = "mask") {
+	const outline = img(`${path}/outline.png`);
+	const mask = maskName !== null ? img(`${path}/${maskName}.png`) : outline;
+
+	const canvasFull = document.createElement("canvas");
+
+	const canvasSmall = document.createElement("canvas");
+	canvasSmall.width = (canvasSmall.scrollWidth || 230) * 2;
+	canvasSmall.height = (canvasSmall.scrollHeight || 690) * 2;
+
+	Promise.all([promiseify(outline.full), promiseify(mask.full)]).then(() => {
+		canvasFull.width = mask.full.width;
+		canvasFull.height = mask.full.height;
+
+		let m = maskName !== null ? mask : undefined;
+		maskImgSize(canvasFull, color, outline, m, true);
+		maskImgSize(canvasSmall, color, outline, m, false);
+	});
+
+	return {
+		full: canvasFull,
+		resized: canvasSmall,
+		setColor(color) {
+			canvasFull.width = mask.full.width;
+			canvasFull.height = mask.full.height;
+
+			let m = maskName !== null ? mask : undefined;
+			maskImgSize(canvasFull, color, outline, m, true);
+			maskImgSize(canvasSmall, color, outline, m, false);
+
+			drawCharacter();
+		},
+	};
+}
+
+function maskImgSize(canvas, color, outline, mask, full) {
+	const ctx = canvas.getContext("2d");
+
+	if (mask) {
+		ctx.drawImage(
+			mask[full ? "full" : "resized"],
+			0,
+			0,
+			canvas.width,
+			canvas.height
+		);
+	}
+
+	if (color) {
+		// Draw desired background
+		ctx.globalCompositeOperation = "source-in";
+		ctx.fillStyle = color;
+		ctx.fillRect(0, 0, canvas.width, canvas.height);
+	}
+
+	// Add outline
+	ctx.globalCompositeOperation = "source-over";
+	ctx.drawImage(
+		outline[full ? "full" : "resized"],
+		0,
+		0,
+		canvas.width,
+		canvas.height
+	);
+}
+
 function img(src) {
 	if (imgs[src]) return imgs[src];
 	const img = new Image();
 	img.src = src;
-	imgs[src] = img;
-	img.addEventListener("load", drawCharacter);
-	return img;
+
+	const offscreenCanvas = document.createElement("canvas");
+
+	promiseify(img).then(() => {
+		// Re-scale image on offscreen canvas for future use
+		const canvas = document.querySelector(".dolls-canvas");
+		const offscreenCtx = offscreenCanvas.getContext("2d");
+		offscreenCanvas.width = canvas.width;
+		offscreenCanvas.height = canvas.height;
+		offscreenCtx.drawImage(img, 0, 0, canvas.width, canvas.height);
+
+		// Set a debounce for re-drawing after image load
+		if (redrawDebounce) clearTimeout(redrawDebounce);
+		redrawDebounce = setTimeout(drawCharacter, 100);
+	});
+
+	imgs[src] = {
+		full: img,
+		resized: offscreenCanvas,
+	};
+
+	return imgs[src];
 }
 
-// Wait for all images to load, then remove the loading screen and seed the nav and stuff
-const allImages = Object.values(imgs);
-const promises = allImages.map((img) => {
+function promiseify(img) {
 	return new Promise((resolve) => {
-		if (img.loaded) return true;
-		img.addEventListener("load", resolve);
+		if (img.complete) resolve(img);
+		img.addEventListener("load", () => {
+			resolve(img);
+		});
 	});
-});
+}
 
 window.addEventListener("load", () => {
-	document.querySelector(".dolls").classList.add("loaded");
 	defineAssets();
 	dollsMain();
 });
