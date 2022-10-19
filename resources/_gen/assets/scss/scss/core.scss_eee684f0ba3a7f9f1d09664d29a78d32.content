@@ -2856,7 +2856,8 @@ ol {
   display: grid;
   grid-template-columns: auto 1fr auto;
   justify-items: center;
-  gap: 10px; }
+  gap: 10px;
+  margin-bottom: 10px; }
   .dolls-nav .nav-nav-button {
     cursor: pointer;
     border: 0;
