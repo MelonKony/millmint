@@ -1,10 +1,12 @@
+document.addEventListener("touchstart", function() {}, true);
+
 let dictionary = {};
 
 function addDictionaryTooltips() {
 	document.querySelectorAll("p, .content li:not(.card), blockquote").forEach((el) => {
 		if(el.closest('.article-meta')) return
 		for (const phrase of Object.keys(dictionary)) {
-			const m = new RegExp(`(^|\\s+|\\(|>|“|")(${phrase})(?=\\s+|$|\\)|<|,|"|”)`, "gi"); // Don't ask please
+			const m = new RegExp(`(^|\\s+|\\(|>|‘|“|")(${phrase})(?=\\s+|$|\\)|<|,|"|”|’)`, "gi"); // Don't ask please
 
 			if (el.innerHTML.match(m)) {
 				el.innerHTML = el.innerHTML.replace(
