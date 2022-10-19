@@ -17,42 +17,7 @@ color: orange
 	<div class="dolls-editor">
 		<nav class="dolls-nav"></nav>
 		<hr />
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
-		<p>Hoi</p>
+		<div class="doll-options"></div>
 	</div>
 </div>
 
