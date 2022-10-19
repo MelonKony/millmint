@@ -550,14 +550,19 @@ function defineAssets() {
 	// Wait for all images to load, then remove the loading screen and seed the nav and stuff
 	const allImages = Object.values(imgs);
 	let loadedImageCount = 0;
-	const promises = allImages.forEach((t) => {
+	const promises = allImages.map((t) => {
 		return promiseify(t.full).then(() => {
 			loadedImageCount++;
-			console.log(loadedImageCount / allImages.length);
+			const percentage =  Math.round((loadedImageCount / allImages.length) * 100)
+			document
+				.querySelector("progress#assets")
+				.setAttribute("value", (loadedImageCount / allImages.length) * 100);
+			document.querySelector('.dolls .percentage').innerText = `${percentage.toString().padStart(2, '0')}%`
 		});
 	});
 
 	Promise.all(promises).then((d) => {
+		document.querySelector(".dolls").classList.add("loaded");
 		console.log("loaded");
 	});
 }
@@ -810,5 +815,4 @@ function promiseify(img) {
 window.addEventListener("load", () => {
 	defineAssets();
 	dollsMain();
-	document.querySelector(".dolls").classList.add("loaded");
 });

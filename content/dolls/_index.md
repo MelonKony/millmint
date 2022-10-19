@@ -11,7 +11,11 @@ color: indigo
 
 <div class="dolls">
 	<div class="dolls-loading">
-		Loading assets...
+		<label for="assets">Loading assets:</label>
+		<div class="progress-wrapper">
+			<progress id="assets" max="100" value="70"></progress>
+			<span class="percentage">00%</span>
+		</div>
 	</div>
 	<div class="canvas-wrapper">
 		<div class="dolls-left-side">
