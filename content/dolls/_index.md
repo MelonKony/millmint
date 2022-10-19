@@ -1,6 +1,6 @@
 ---
 title: Dolls
-fulltitle: Character creation
+fulltitle: Create-a-Character
 description: Stories of life and living in the country of Vekllei.
 
 type: stories
@@ -15,7 +15,7 @@ color: orange
 	</div>
 	<div class="canvas-wrapper">
 		<canvas class="dolls-canvas"></canvas>
-		<button class="article-button download-link" onclick="downloadDoll()" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">🔥</span> Download Image</button>
+		<button class="article-button download-link" onclick="downloadDoll()" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">📂</span> Download Image</button>
 	</div>
 	<div class="dolls-editor">
 		<nav class="dolls-nav"></nav>

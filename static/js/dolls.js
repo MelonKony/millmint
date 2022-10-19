@@ -8,11 +8,11 @@ let gender = "f";
 const groupSelections = {
 	skintone: ["1a"],
 	face: ["Zelda"],
-	shoes: ["Brown shoes"],
-	legwear: ["Long Skirt"],
-	socks: ["White socks"],
-	top: ["Shirt"],
-	hair: ["Dark blue"],
+	shoes: ["Sandals"],
+	bottoms: ["Pleated skirt"],
+	socks: ["Folded socks"],
+	top: ["Pleated shirt"],
+	hair: ["Bluey"],
 };
 
 // All groups
@@ -38,12 +38,12 @@ const groups = {
 		label: "Outerwear",
 		emoji: "X",
 	},
-	legwear: {
-		label: "Legwear",
+	bottoms: {
+		label: "Bottoms",
 		emoji: "M",
 	},
 	top: {
-		label: "Top",
+		label: "Shirts",
 		emoji: "B",
 	},
 	socks: {
@@ -66,10 +66,15 @@ const groups = {
 	accessories: {
 		label: "Accessories",
 		emoji: "U",
+		multiple: true,
 	},
 	jumper: {
 		label: "Jumpers",
 		emoji: "T",
+	},
+	outfits: {
+		label: "Outfits",
+		emoji: "j",
 	},
 };
 
@@ -109,33 +114,11 @@ function defineAssets() {
 			],
 		},
 		{
-			group: "hair",
-			name: "Dark blue",
-			layers: [
-				{
-					layer: 35,
-					img: img("/doll-assets/f/3.hair/3a.png"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "hair",
-			name: "Pony",
-			layers: [
-				{
-					layer: 35,
-					img: img("/doll-assets/f/3.hair/3b.png"),
-					gender: "f",
-				},
-			],
-		},
-		{
 			group: "face",
 			name: "Zelda",
 			layers: [
 				{
-					layer: 32,
+					layer: 11,
 					img: img("/doll-assets/f/2.face/2a.png"),
 					gender: "f",
 				},
@@ -146,74 +129,107 @@ function defineAssets() {
 			name: "Cobian",
 			layers: [
 				{
-					layer: 32,
+					layer: 11,
 					img: img("/doll-assets/f/2.face/2b.png"),
 					gender: "f",
 				},
 			],
 		},
 		{
-			group: "top",
-			name: "Shirt",
+			group: "face",
+			name: "Mora",
 			layers: [
 				{
-					layer: 25,
-					img: img("/doll-assets/f/7.top/7a.png"),
+					layer: 11,
+					img: img("/doll-assets/f/2.face/2c.png"),
 					gender: "f",
 				},
 			],
 		},
 		{
-			group: "top",
-			name: "Cobian's top",
+			group: "hair",
+			name: "Bluey",
 			layers: [
 				{
-					layer: 25,
-					img: img("/doll-assets/f/7.top/7b.png"),
+					layer: 12,
+					img: img("/doll-assets/f/3.hair/3a.png"),
 					gender: "f",
 				},
 			],
 		},
 		{
-			group: "jumper",
-			name: "Jumper",
+			group: "hair",
+			name: "Prim",
 			layers: [
 				{
-					layer: 27,
-					img: img("/doll-assets/f/8.jumpers/8a.png"),
+					layer: 12,
+					img: img("/doll-assets/f/3.hair/3b.png"),
 					gender: "f",
 				},
 			],
 		},
 		{
-			group: "legwear",
-			name: "Long Skirt",
+			group: "hair",
+			name: "Curly",
 			layers: [
 				{
-					layer: 20,
-					img: img("/doll-assets/f/6.bottom/6a.png"),
+					layer: 12,
+					img: img("/doll-assets/f/3.hair/3c.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "socks",
+			name: "Folded socks",
+			layers: [
+				{
+					layer: 13,
+					img: img("/doll-assets/f/4.socks/4a.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "socks",
+			name: "Athletic socks",
+			layers: [
+				{
+					layer: 13,
+					img: img("/doll-assets/f/4.socks/4b.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "socks",
+			name: "Everyday socks",
+			layers: [
+				{
+					layer: 13,
+					img: img("/doll-assets/f/4.socks/4c.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "socks",
+			name: "Knee Socks",
+			layers: [
+				{
+					layer: 13,
+					img: img("/doll-assets/f/4.socks/4d.png"),
 					gender: "f",
 				},
 			],
 		},
 		{
 			group: "shoes",
-			name: "Brown shoes",
+			name: "Penny loafers",
 			layers: [
 				{
-					layer: 30,
+					layer: 14,
 					img: img("/doll-assets/f/5.shoes/5a.png"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "shoes",
-			name: "Grey shoes",
-			layers: [
-				{
-					layer: 30,
-					img: img("/doll-assets/f/5.shoes/5c.png"),
 					gender: "f",
 				},
 			],
@@ -228,41 +244,173 @@ function defineAssets() {
 					gender: "f",
 				},
 				{
-					layer: 30,
+					layer: 14,
 					img: img("/doll-assets/f/5.shoes/5b.png"),
 					gender: "f",
 				},
 			],
 		},
 		{
-			group: "socks",
-			name: "White socks",
+			group: "shoes",
+			name: "Strap shoes",
 			layers: [
 				{
-					layer: 25,
-					img: img("/doll-assets/f/4.socks/4a.png"),
+					layer: 14,
+					img: img("/doll-assets/f/5.shoes/5c.png"),
 					gender: "f",
 				},
 			],
 		},
 		{
-			group: "socks",
-			name: "Striped socks",
+			group: "shoes",
+			name: "Trainers",
 			layers: [
 				{
-					layer: 25,
-					img: img("/doll-assets/f/4.socks/4b.png"),
+					layer: 14,
+					img: img("/doll-assets/f/5.shoes/5d.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "shoes",
+			name: "School Shoes",
+			layers: [
+				{
+					layer: 14,
+					img: img("/doll-assets/f/5.shoes/5e.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "bottoms",
+			name: "Pleated skirt",
+			layers: [
+				{
+					layer: 15,
+					img: img("/doll-assets/f/6.bottom/6a.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "bottoms",
+			name: "Trousers",
+			layers: [
+				{
+					layer: 15,
+					img: img("/doll-assets/f/6.bottom/6b.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "bottoms",
+			name: "Pencil skirt",
+			layers: [
+				{
+					layer: 15,
+					img: img("/doll-assets/f/6.bottom/6c.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "bottoms",
+			name: "Shorts",
+			layers: [
+				{
+					layer: 15,
+					img: img("/doll-assets/f/6.bottom/6d.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "bottoms",
+			name: "Short Trousers",
+			layers: [
+				{
+					layer: 15,
+					img: img("/doll-assets/f/6.bottom/6e.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "top",
+			name: "Pleated shirt",
+			layers: [
+				{
+					layer: 16,
+					img: img("/doll-assets/f/7.top/7a.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "top",
+			name: "Prissy shirt",
+			layers: [
+				{
+					layer: 16,
+					img: img("/doll-assets/f/7.top/7b.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "outfits",
+			name: "Gymslip",
+			layers: [
+				{
+					layer: 17,
+					img: img("/doll-assets/f/8.outfits/8a.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "jumper",
+			name: "Jumper",
+			layers: [
+				{
+					layer: 18,
+					img: img("/doll-assets/f/9.jumpers/9a.png"),
 					gender: "f",
 				},
 			],
 		},
 		{
 			group: "accessories",
-			name: "Cobian's glasses",
+			name: "Spectacles",
 			layers: [
 				{
-					layer: 33,
-					img: img("/doll-assets/f/9.accessories/9a.png"),
+					layer: 19,
+					img: img("/doll-assets/f/10.accessories/10a.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "accessories",
+			name: "School Armband",
+			layers: [
+				{
+					layer: 19,
+					img: img("/doll-assets/f/10.accessories/10b.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "accessories",
+			name: "School Beret",
+			layers: [
+				{
+					layer: 19,
+					img: img("/doll-assets/f/10.accessories/10c.png"),
 					gender: "f",
 				},
 			],
@@ -320,7 +468,7 @@ function renderOptions() {
 			div.classList.add("active");
 
 		// Add content
-		div.innerHTML = `<img src="https://c.tenor.com/jQfmNt7bNyoAAAAd/squirrel.gif"><span>${asset.name}</span>`;
+		div.innerHTML = `<!--<img src="https://c.tenor.com/jQfmNt7bNyoAAAAd/squirrel.gif">--><span>${asset.name}</span>`;
 
 		// Add click event
 		div.addEventListener("click", () => {
@@ -371,7 +519,7 @@ function downloadDoll() {
 
 	const a = document.createElement("a");
 	a.href = downloadableCanvas.toDataURL();
-	a.download = "Vekllei character.png";
+	a.download = "character.png";
 	a.click();
 }
 
