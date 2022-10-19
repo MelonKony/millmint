@@ -147,6 +147,39 @@ function defineAssets() {
 			],
 		},
 		{
+			group: "face",
+			name: "Tzafi",
+			layers: [
+				{
+					layer: 11,
+					img: img("/doll-assets/f/2.face/2d.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "face",
+			name: "Gemma",
+			layers: [
+				{
+					layer: 11,
+					img: img("/doll-assets/f/2.face/2e.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "face",
+			name: "Vo",
+			layers: [
+				{
+					layer: 11,
+					img: img("/doll-assets/f/2.face/2f.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
 			group: "hair",
 			name: "Bluey",
 			layers: [
