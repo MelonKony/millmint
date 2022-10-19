@@ -177,11 +177,12 @@
 }
 
 /* original article button at the bottom of posts */
-a.article-button:hover {
+a.article-button:hover, button.article-button {
   filter: brightness(65%);
 }
 
-a.article-button {
+a.article-button, button.article-button {
+  background: none;
   display: inline-block;
   color: var(--color-gray);
   padding: 5px 0px;
