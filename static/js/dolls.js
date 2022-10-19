@@ -317,6 +317,17 @@ function defineAssets() {
 			],
 		},
 		{
+			group: "shoes",
+			name: "Nurse Shoes",
+			layers: [
+				{
+					layer: 14,
+					img: img("/doll-assets/f/5.shoes/5f.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
 			group: "bottoms",
 			name: "Pleated skirt",
 			layers: [
@@ -400,6 +411,17 @@ function defineAssets() {
 				{
 					layer: 20,
 					img: img("/doll-assets/f/8.outfits/8a.png"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "outfits",
+			name: "Nurse Uniform",
+			layers: [
+				{
+					layer: 20,
+					img: img("/doll-assets/f/8.outfits/8b.png"),
 					gender: "f",
 				},
 			],
