@@ -2844,7 +2844,8 @@ ol {
     display: flex;
     gap: 10px;
     justify-content: center; }
-    .dolls-nav .dolls-nav-item .emoji {
+    .dolls-nav .dolls-nav-item .doll-emoji {
+      font-family: 'Emoji';
       font-size: 1rem;
       color: inherit;
       width: auto;

@@ -6,7 +6,7 @@ description: Stories of life and living in the country of Vekllei.
 type: stories
 layout: stories
 
-color: orange
+color: indigo
 ---
 
 <div class="dolls">
@@ -29,7 +29,7 @@ color: orange
 <div class="dolls-templates">
 	<template class="dolls-nav-item-template">
 		<button class="dolls-nav-item">
-			<span class="emoji">←</span>
+			<span class="doll-emoji">←</span>
 			<span class="text">My nav</span>
 		</button>
 	</template>

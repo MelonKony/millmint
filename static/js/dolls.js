@@ -204,6 +204,28 @@ function defineAssets() {
 		},
 		{
 			group: "hair",
+			name: "Pink hair",
+			layers: [
+				{
+					layer: 12,
+					img: maskImg("/doll-assets/f/3.hair/3d/", "pink"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "hair",
+			name: "Green hair",
+			layers: [
+				{
+					layer: 12,
+					img: maskImg("/doll-assets/f/3.hair/3d/", "green"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "hair",
 			name: "Curly",
 			layers: [
 				{
@@ -515,7 +537,7 @@ function renderNav() {
 		const group = groups[groupId];
 
 		el.querySelector(".text").textContent = group?.label ?? groupId;
-		if (group?.emoji) el.querySelector(".emoji").textContent = group.emoji;
+		if (group?.emoji) el.querySelector(".doll-emoji").textContent = group.emoji;
 
 		// Add event listeners
 		el.addEventListener("click", () => {
@@ -617,7 +639,8 @@ function render(canvas, fullRes = false) {
 
 	// Draw all layers
 	for (const layer of allLayers) {
-		console.log(layer.img[fullRes ? "full" : "resized"]);
+		/// draw the shape we want to use for clipping
+
 		ctx.drawImage(
 			layer.img[fullRes ? "full" : "resized"],
 			0,
@@ -634,6 +657,57 @@ function dollsMain(redraw = true) {
 	if (redraw) drawCharacter();
 }
 
+function maskImg(path, color = "pink") {
+	const outline = img(`${path}/outline.png`);
+	const mask = img(`${path}/mask.png`);
+
+	const canvasFull = document.createElement("canvas");
+	
+	const canvasSmall = document.createElement("canvas");
+	canvasSmall.width = (canvasSmall.scrollWidth || 230) * 2;
+	canvasSmall.height = (canvasSmall.scrollHeight || 690) * 2;
+
+
+	Promise.all([promiseify(outline.full), promiseify(mask.full)]).then(() => {
+		canvasFull.width = mask.full.width;
+		canvasFull.height = mask.full.height;
+
+		maskImgSize(canvasFull, color, outline, mask, true);
+		maskImgSize(canvasSmall, color, outline, mask, false);
+	});
+
+	return {
+		full: canvasFull,
+		resized: canvasSmall,
+	};
+}
+
+function maskImgSize(canvas, color, outline, mask, full) {
+	const ctx = canvas.getContext("2d");
+	ctx.drawImage(
+		mask[full ? "full" : "resized"],
+		0,
+		0,
+		canvas.width,
+		canvas.height
+	);
+
+	// Draw desired background
+	ctx.globalCompositeOperation = "source-in";
+	ctx.fillStyle = color;
+	ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+	// Add outline
+	ctx.globalCompositeOperation = "source-over";
+	ctx.drawImage(
+		outline[full ? "full" : "resized"],
+		0,
+		0,
+		canvas.width,
+		canvas.height
+	);
+}
+
 function img(src) {
 	if (imgs[src]) return imgs[src];
 	const img = new Image();
@@ -641,7 +715,8 @@ function img(src) {
 
 	const offscreenCanvas = document.createElement("canvas");
 
-	img.addEventListener("load", () => {
+	promiseify(img).then(() => {
+		console.log("JA");
 		// Re-scale image on offscreen canvas for future use
 		const canvas = document.querySelector(".dolls-canvas");
 		const offscreenCtx = offscreenCanvas.getContext("2d");
@@ -660,6 +735,15 @@ function img(src) {
 	};
 
 	return imgs[src];
+}
+
+function promiseify(img) {
+	return new Promise((resolve) => {
+		if (img.complete) resolve(img);
+		img.addEventListener("load", () => {
+			resolve(img);
+		});
+	});
 }
 
 // Wait for all images to load, then remove the loading screen and seed the nav and stuff
