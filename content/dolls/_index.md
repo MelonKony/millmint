@@ -13,7 +13,10 @@ color: orange
 	<div class="dolls-loading">
 		Loading assets...
 	</div>
-	<canvas class="dolls-canvas"></canvas>
+	<div class="canvas-wrapper">
+		<canvas class="dolls-canvas"></canvas>
+		<a class="article-button download-link" href="" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">🔥</span> Download Image</a>
+	</div>
 	<div class="dolls-editor">
 		<nav class="dolls-nav"></nav>
 		<hr />

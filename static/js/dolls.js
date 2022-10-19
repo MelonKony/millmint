@@ -6,7 +6,7 @@ let gender = "f";
 
 // Base doll
 const groupSelections = {
-	skintone: ["1c"],
+	skintone: ["1a"],
 	face: ["Zelda"],
 	shoes: ["Brown shoes"],
 	legwear: ["Long Skirt"],
@@ -370,9 +370,15 @@ function drawCharacter() {
 		.filter(Boolean)
 		.sort((a, b) => a.layer - b.layer);
 
+		// Draw all layers
 	for (const layer of allLayers) {
 		ctx.drawImage(layer.img, 0, 0, canvas.width, canvas.height);
 	}
+
+	// Set download link
+	document.querySelectorAll('.download-link').forEach(a => {
+		a.href = canvas.toDataURL()
+	})
 }
 
 function dollsMain(redraw = true) {
