@@ -2817,13 +2817,15 @@ ol {
   gap: 20px;
   grid-template-columns: 230px 1.5fr; }
 
+.dolls-left-side {
+  position: sticky;
+  top: 50px; }
+
 .dolls-canvas {
   width: 100%;
   aspect-ratio: 8/12;
   border-radius: 6px;
-  background: var(--gray-100);
-  position: sticky;
-  top: 50px; }
+  background: var(--gray-100); }
 
 .dolls-templates {
   display: none; }

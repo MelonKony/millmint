@@ -3,6 +3,7 @@ let dollAssets = [];
 let uniqueGroups = [...new Set(dollAssets.map((t) => t.group))];
 let currentGroup;
 let gender = "f";
+let redrawDebounce;
 
 // Base doll
 const groupSelections = {
@@ -581,8 +582,8 @@ function renderOptions() {
 function drawCharacter() {
 	// Real canvas
 	const canvas = document.querySelector(".dolls-canvas");
-	canvas.width = canvas.scrollWidth * 2;
-	canvas.height = canvas.scrollHeight * 2;
+	canvas.width = (canvas.scrollWidth || 230) * 2;
+	canvas.height = (canvas.scrollHeight || 690) * 2;
 	render(canvas);
 }
 
@@ -590,9 +591,9 @@ function downloadDoll() {
 	// Download link canvas:
 	const downloadableCanvas = document.createElement("canvas");
 	const img = dollAssets[0].layers[0].img;
-	downloadableCanvas.width = img.width / 2;
-	downloadableCanvas.height = img.height / 2;
-	render(downloadableCanvas);
+	downloadableCanvas.width = img.full.width / 2;
+	downloadableCanvas.height = img.full.height / 2;
+	render(downloadableCanvas, true);
 
 	const a = document.createElement("a");
 	a.href = downloadableCanvas.toDataURL();
@@ -600,7 +601,7 @@ function downloadDoll() {
 	a.click();
 }
 
-function render(canvas) {
+function render(canvas, fullRes = false) {
 	const ctx = canvas.getContext("2d");
 
 	// Find all layers for every single selected asset and sort them by their z-index
@@ -616,7 +617,14 @@ function render(canvas) {
 
 	// Draw all layers
 	for (const layer of allLayers) {
-		ctx.drawImage(layer.img, 0, 0, canvas.width, canvas.height);
+		console.log(layer.img[fullRes ? "full" : "resized"]);
+		ctx.drawImage(
+			layer.img[fullRes ? "full" : "resized"],
+			0,
+			0,
+			canvas.width,
+			canvas.height
+		);
 	}
 }
 
@@ -630,9 +638,28 @@ function img(src) {
 	if (imgs[src]) return imgs[src];
 	const img = new Image();
 	img.src = src;
-	imgs[src] = img;
-	img.addEventListener("load", drawCharacter);
-	return img;
+
+	const offscreenCanvas = document.createElement("canvas");
+
+	img.addEventListener("load", () => {
+		// Re-scale image on offscreen canvas for future use
+		const canvas = document.querySelector(".dolls-canvas");
+		const offscreenCtx = offscreenCanvas.getContext("2d");
+		offscreenCanvas.width = canvas.width;
+		offscreenCanvas.height = canvas.height;
+		offscreenCtx.drawImage(img, 0, 0, canvas.width, canvas.height);
+
+		// Set a debounce for re-drawing after image load
+		if (redrawDebounce) clearTimeout(redrawDebounce);
+		redrawDebounce = setTimeout(drawCharacter, 100);
+	});
+
+	imgs[src] = {
+		full: img,
+		resized: offscreenCanvas,
+	};
+
+	return imgs[src];
 }
 
 // Wait for all images to load, then remove the loading screen and seed the nav and stuff
@@ -645,7 +672,7 @@ const promises = allImages.map((img) => {
 });
 
 window.addEventListener("load", () => {
-	document.querySelector(".dolls").classList.add("loaded");
 	defineAssets();
 	dollsMain();
+	document.querySelector(".dolls").classList.add("loaded");
 });

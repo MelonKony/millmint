@@ -14,8 +14,10 @@ color: orange
 		Loading assets...
 	</div>
 	<div class="canvas-wrapper">
-		<canvas class="dolls-canvas"></canvas>
-		<button class="article-button download-link" onclick="downloadDoll()" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">📂</span> Download Image</button>
+		<div class="dolls-left-side">
+			<canvas class="dolls-canvas"></canvas>
+			<button class="article-button download-link" onclick="downloadDoll()" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">📂</span> Download Image</button>
+		</div>
 	</div>
 	<div class="dolls-editor">
 		<nav class="dolls-nav"></nav>
