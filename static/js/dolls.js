@@ -354,10 +354,29 @@ function renderOptions() {
 }
 
 function drawCharacter() {
+	// Real canvas
 	const canvas = document.querySelector(".dolls-canvas");
-	const ctx = canvas.getContext("2d");
 	canvas.width = canvas.scrollWidth * 2;
 	canvas.height = canvas.scrollHeight * 2;
+	render(canvas);
+}
+
+function downloadDoll() {
+	// Download link canvas:
+	const downloadableCanvas = document.createElement("canvas");
+	const img = dollAssets[0].layers[0].img;
+	downloadableCanvas.width = img.width / 2;
+	downloadableCanvas.height = img.height / 2;
+	render(downloadableCanvas);
+
+	const a = document.createElement("a");
+	a.href = downloadableCanvas.toDataURL();
+	a.download = "Vekllei character.png";
+	a.click();
+}
+
+function render(canvas) {
+	const ctx = canvas.getContext("2d");
 
 	// Find all layers for every single selected asset and sort them by their z-index
 	const allLayers = Object.entries(groupSelections)
@@ -370,15 +389,10 @@ function drawCharacter() {
 		.filter(Boolean)
 		.sort((a, b) => a.layer - b.layer);
 
-		// Draw all layers
+	// Draw all layers
 	for (const layer of allLayers) {
 		ctx.drawImage(layer.img, 0, 0, canvas.width, canvas.height);
 	}
-
-	// Set download link
-	document.querySelectorAll('.download-link').forEach(a => {
-		a.href = canvas.toDataURL()
-	})
 }
 
 function dollsMain(redraw = true) {
