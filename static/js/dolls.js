@@ -1,4 +1,6 @@
+const palette = ["#A74553", "#494DCB", "#8C533C", "#D99E52", "#8F9A6B"];
 const imgs = {};
+let groupColors = {};
 let dollAssets = [];
 let uniqueGroups = [...new Set(dollAssets.map((t) => t.group))];
 let currentGroup;
@@ -19,10 +21,6 @@ const groupSelections = {
 
 // All groups
 const groups = {
-	figure: {
-		label: "Figure",
-		emoji: "W",
-	},
 	background: {
 		label: "Background",
 		emoji: "v",
@@ -31,6 +29,7 @@ const groups = {
 		label: "Skin tone",
 		emoji: "←",
 		forceOne: true,
+		noColor: true,
 	},
 	shirt: {
 		label: "Shirts",
@@ -64,6 +63,7 @@ const groups = {
 		label: "Face",
 		emoji: "H",
 		forceOne: true,
+		noColor: true,
 	},
 	accessories: {
 		label: "Accessories",
@@ -199,17 +199,6 @@ function defineAssets() {
 				{
 					layer: 12,
 					img: maskImg("/doll-assets/f/3.hair/3b/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "hair",
-			name: "Green hair",
-			layers: [
-				{
-					layer: 12,
-					img: maskImg("/doll-assets/f/3.hair/3a/", "green"),
 					gender: "f",
 				},
 			],
@@ -456,19 +445,9 @@ function defineAssets() {
 			],
 		},
 		{
-			group: "jumper",
-			name: "Color jumper",
-			layers: [
-				{
-					layer: 21,
-					img: maskImg("/doll-assets/f/9.jumpers/9a/", "#AB4F5D"),
-					gender: "f",
-				},
-			],
-		},
-		{
 			group: "accessories",
 			name: "Spectacles",
+			noColor: true,
 			layers: [
 				{
 					layer: 22,
@@ -480,6 +459,7 @@ function defineAssets() {
 		{
 			group: "accessories",
 			name: "School Armband",
+			noColor: true,
 			layers: [
 				{
 					layer: 22,
@@ -583,7 +563,7 @@ function renderNav() {
 	document.querySelector(".current-page").innerText =
 		groups[currentGroup]?.label ?? currentGroup;
 
-	// Determine active states for nav buttons
+	// Determine active states for next/previous buttons
 	const currentIndex = uniqueGroups.indexOf(currentGroup);
 	document
 		.querySelector(".nav-nav-button.nav-previous")
@@ -593,6 +573,44 @@ function renderNav() {
 		.classList[currentIndex < uniqueGroups.length - 1 ? "remove" : "add"](
 			"disabled"
 		);
+
+	// Draw colors
+	const colorWrapper = document.querySelector(".color-options");
+	colorWrapper.classList.remove("color-hidden");
+	colorWrapper
+		.querySelectorAll(".color-circle[style]")
+		.forEach((el) => el.remove());
+	document.querySelector(".reset-circle").classList.remove("active");
+
+	// Add a circle for each color
+	for (const color of palette) {
+		const circle = document.createElement("div");
+		circle.classList.add("color-circle");
+		circle.setAttribute("style", `--color: ${color}`);
+
+		circle.addEventListener("click", () => {
+			setColor(color);
+		});
+
+		if (groupColors[currentGroup] === color) {
+			circle.classList.add("active");
+		}
+
+		colorWrapper.appendChild(circle);
+	}
+
+	// Add it to the reset button if there isn't an active color
+	if (!colorWrapper.querySelector(".active"))
+		document.querySelector(".reset-circle").classList.add("active");
+
+	// Check if the color editor should be visible
+	if (groups[currentGroup]?.noColor) colorWrapper.classList.add("color-hidden");
+	let hideColors = true;
+	for (const assetName of groupSelections[currentGroup] || []) {
+		const asset = dollAssets.find((asset) => asset.name === assetName);
+		if (!asset?.noColor) hideColors = false;
+	}
+	if (hideColors) colorWrapper.classList.add("color-hidden");
 }
 
 function nextNav() {
@@ -608,6 +626,22 @@ function previousNav() {
 	if (uniqueGroups[newIndex]) {
 		currentGroup = uniqueGroups[newIndex];
 		dollsMain();
+	}
+}
+
+function setColor(color) {
+	groupColors[currentGroup] = color;
+	if (color === null) delete groupColors[currentGroup];
+	renderNav();
+	requestAnimationFrame(updateColors);
+}
+
+function updateColors() {
+	for (const asset of dollAssets) {
+		if (!asset.noColor && !groups[asset.group].noColor) {
+			const color = groupColors[asset.group] || undefined;
+			setMaskColor(asset.name, color);
+		}
 	}
 }
 
@@ -742,7 +776,7 @@ function dollsMain(redraw = true) {
 }
 
 function maskImg(path, color, maskName = "mask") {
-	path = `${path}${path.endsWith('/') ? '' : '/'}`
+	path = `${path}${path.endsWith("/") ? "" : "/"}`;
 	const outline = img(`${path}outline.png`);
 	const mask = maskName !== null ? img(`${path}${maskName}.png`) : outline;
 
@@ -768,13 +802,14 @@ function maskImg(path, color, maskName = "mask") {
 			outline.load();
 			mask.load();
 		},
-		setColor(color) {
+		setColor(newColor) {
+			if (color === newColor && color && newColor) return;
 			canvasFull.width = mask.full.width;
 			canvasFull.height = mask.full.height;
 
 			let m = maskName !== null ? mask : undefined;
-			maskImgSize(canvasFull, color, outline, m, true);
-			maskImgSize(canvasSmall, color, outline, m, false);
+			maskImgSize(canvasFull, newColor, outline, m, true);
+			maskImgSize(canvasSmall, newColor, outline, m, false);
 
 			drawCharacter();
 		},
@@ -829,13 +864,14 @@ function img(src) {
 		// Set a debounce for re-drawing after image load
 		if (redrawDebounce) clearTimeout(redrawDebounce);
 		redrawDebounce = setTimeout(drawCharacter, 100);
+		requestAnimationFrame(updateColors);
 	});
 
 	imgs[src] = {
 		full: img,
 		resized: offscreenCanvas,
 		load() {
-			if(!img.src) console.log('Loading', src)
+			if (!img.src) console.log("Loading", src);
 			img.src = src;
 		},
 	};
