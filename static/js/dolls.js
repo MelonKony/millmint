@@ -546,29 +546,6 @@ function defineAssets() {
 	];
 	uniqueGroups = [...new Set(dollAssets.map((t) => t.group))];
 	if (!currentGroup) currentGroup = uniqueGroups[0];
-
-	// Wait for all images to load, then remove the loading screen and seed the nav and stuff
-	const allImages = Object.values(imgs);
-	let loadedImageCount = 0;
-	const promises = allImages.map((t) => {
-		return promiseify(t.full).then(() => {
-			loadedImageCount++;
-			const percentage = Math.round(
-				(loadedImageCount / allImages.length) * 100
-			);
-			document
-				.querySelector("progress#assets")
-				.setAttribute("value", (loadedImageCount / allImages.length) * 100);
-			document.querySelector(".dolls .percentage").innerText = `${percentage
-				.toString()
-				.padStart(2, "0")}%`;
-		});
-	});
-
-	Promise.all(promises).then((d) => {
-		document.querySelector(".dolls").classList.add("loaded");
-		console.log("loaded");
-	});
 }
 
 function renderNav() {
@@ -658,6 +635,13 @@ function renderOptions() {
 		// Add content
 		div.innerHTML = `<!--<img src="https://c.tenor.com/jQfmNt7bNyoAAAAd/squirrel.gif">--><span>${asset.name}</span>`;
 
+		// Lazy loading
+		div.addEventListener("mouseenter", () => {
+			for (const layer of asset.layers) {
+				layer.img.load();
+			}
+		});
+
 		// Add click event
 		div.addEventListener("click", () => {
 			// Depending on whether the group allows multiple or not,
@@ -711,11 +695,8 @@ function downloadDoll() {
 	a.click();
 }
 
-function render(canvas, fullRes = false) {
-	const ctx = canvas.getContext("2d");
-
-	// Find all layers for every single selected asset and sort them by their z-index
-	const allLayers = Object.entries(groupSelections)
+function getLayers() {
+	const layers = Object.entries(groupSelections)
 		.flatMap(([group, itemNames]) => {
 			const allItems = dollAssets.filter(
 				(asset) => asset.group === group && itemNames.includes(asset.name)
@@ -725,10 +706,17 @@ function render(canvas, fullRes = false) {
 		.filter(Boolean)
 		.sort((a, b) => a.layer - b.layer);
 
+	return layers;
+}
+
+function render(canvas, fullRes = false) {
+	const ctx = canvas.getContext("2d");
+
+	// Find all layers for every single selected asset and sort them by their z-index
+	const allLayers = getLayers();
+
 	// Draw all layers
 	for (const layer of allLayers) {
-		/// draw the shape we want to use for clipping
-
 		ctx.drawImage(
 			layer.img[fullRes ? "full" : "resized"],
 			0,
@@ -739,15 +727,24 @@ function render(canvas, fullRes = false) {
 	}
 }
 
+function loadVisibleAssets() {
+	const layers = getLayers();
+	for (const layer of layers) {
+		layer.img.load();
+	}
+}
+
 function dollsMain(redraw = true) {
+	loadVisibleAssets();
 	renderNav();
 	renderOptions();
 	if (redraw) drawCharacter();
 }
 
 function maskImg(path, color, maskName = "mask") {
-	const outline = img(`${path}/outline.png`);
-	const mask = maskName !== null ? img(`${path}/${maskName}.png`) : outline;
+	path = `${path}${path.endsWith('/') ? '' : '/'}`
+	const outline = img(`${path}outline.png`);
+	const mask = maskName !== null ? img(`${path}${maskName}.png`) : outline;
 
 	const canvasFull = document.createElement("canvas");
 
@@ -767,6 +764,10 @@ function maskImg(path, color, maskName = "mask") {
 	return {
 		full: canvasFull,
 		resized: canvasSmall,
+		load() {
+			outline.load();
+			mask.load();
+		},
 		setColor(color) {
 			canvasFull.width = mask.full.width;
 			canvasFull.height = mask.full.height;
@@ -814,7 +815,6 @@ function maskImgSize(canvas, color, outline, mask, full) {
 function img(src) {
 	if (imgs[src]) return imgs[src];
 	const img = new Image();
-	img.src = src;
 
 	const offscreenCanvas = document.createElement("canvas");
 
@@ -834,6 +834,10 @@ function img(src) {
 	imgs[src] = {
 		full: img,
 		resized: offscreenCanvas,
+		load() {
+			if(!img.src) console.log('Loading', src)
+			img.src = src;
+		},
 	};
 
 	return imgs[src];
@@ -841,7 +845,7 @@ function img(src) {
 
 function promiseify(img) {
 	return new Promise((resolve) => {
-		if (img.complete) resolve(img);
+		if (img.complete && img.src) resolve(img);
 		img.addEventListener("load", () => {
 			resolve(img);
 		});
