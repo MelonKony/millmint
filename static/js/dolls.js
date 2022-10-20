@@ -6,6 +6,7 @@ let uniqueGroups = [...new Set(dollAssets.map((t) => t.group))];
 let currentGroup;
 let gender = "f";
 let redrawDebounce;
+let colorDebounce;
 
 // Base doll
 const groupSelections = {
@@ -29,7 +30,7 @@ const groups = {
 		label: "Skin tone",
 		emoji: "←",
 		forceOne: true,
-		noColor: true,
+		// noColor: true,
 	},
 	shirt: {
 		label: "Shirts",
@@ -633,16 +634,26 @@ function setColor(color) {
 	groupColors[currentGroup] = color;
 	if (color === null) delete groupColors[currentGroup];
 	renderNav();
+
+	// Update visible components
+	for(const assetName of groupSelections[currentGroup]) {
+		setMaskColor(assetName, color);
+	}
+
 	requestAnimationFrame(updateColors);
 }
 
 function updateColors() {
-	for (const asset of dollAssets) {
-		if (!asset.noColor && !groups[asset.group].noColor) {
-			const color = groupColors[asset.group] || undefined;
-			setMaskColor(asset.name, color);
+	if (colorDebounce) clearTimeout(colorDebounce);
+
+	colorDebounce = setTimeout(() => {
+		for (const asset of dollAssets) {
+			if (!asset.noColor && !groups[asset.group].noColor) {
+				const color = groupColors[asset.group] || undefined;
+				setMaskColor(asset.name, color);
+			}
 		}
-	}
+	}, 100);
 }
 
 function setMaskColor(name = "Color jumper", newColor, layer = 0) {
@@ -708,11 +719,13 @@ function renderOptions() {
 }
 
 function drawCharacter() {
+	console.time("drawing");
 	// Real canvas
 	const canvas = document.querySelector(".dolls-canvas");
 	canvas.width = (canvas.scrollWidth || 230) * 2;
 	canvas.height = (canvas.scrollHeight || 690) * 2;
 	render(canvas);
+	console.timeEnd("drawing");
 }
 
 function downloadDoll() {
@@ -787,8 +800,8 @@ function maskImg(path, color, maskName = "mask") {
 	canvasSmall.height = (canvasSmall.scrollHeight || 690) * 2;
 
 	Promise.all([promiseify(outline.full), promiseify(mask.full)]).then(() => {
-		canvasFull.width = mask.full.width;
-		canvasFull.height = mask.full.height;
+		canvasFull.width = mask.full.width / 5;
+		canvasFull.height = mask.full.height / 5;
 
 		let m = maskName !== null ? mask : undefined;
 		maskImgSize(canvasFull, color, outline, m, true);
@@ -796,6 +809,7 @@ function maskImg(path, color, maskName = "mask") {
 	});
 
 	return {
+		src: path,
 		full: canvasFull,
 		resized: canvasSmall,
 		load() {
@@ -803,9 +817,11 @@ function maskImg(path, color, maskName = "mask") {
 			mask.load();
 		},
 		setColor(newColor) {
+			console.log("C");
 			if (color === newColor && color && newColor) return;
-			canvasFull.width = mask.full.width;
-			canvasFull.height = mask.full.height;
+
+			canvasFull.width = mask.full.width / 5;
+			canvasFull.height = mask.full.height / 5;
 
 			let m = maskName !== null ? mask : undefined;
 			maskImgSize(canvasFull, newColor, outline, m, true);
@@ -863,11 +879,21 @@ function img(src) {
 
 		// Set a debounce for re-drawing after image load
 		if (redrawDebounce) clearTimeout(redrawDebounce);
-		redrawDebounce = setTimeout(drawCharacter, 100);
-		requestAnimationFrame(updateColors);
+		redrawDebounce = setTimeout(() => {
+
+			// Update color on single asset
+			const asset = dollAssets.find((a) =>
+				a.layers.find((l) => src.startsWith(l.img.src))
+			);
+			const color = groupColors[asset.group] || undefined;
+			setMaskColor(asset.name, color);
+
+			drawCharacter();
+		}, 100);
 	});
 
 	imgs[src] = {
+		src,
 		full: img,
 		resized: offscreenCanvas,
 		load() {
