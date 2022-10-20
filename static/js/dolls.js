@@ -30,7 +30,7 @@ const groups = {
 		label: "Skin tone",
 		emoji: "←",
 		forceOne: true,
-		// noColor: true,
+		noColor: true,
 	},
 	shirt: {
 		label: "Shirts",
@@ -907,3 +907,30 @@ window.addEventListener("load", () => {
 	defineAssets();
 	dollsMain();
 });
+
+window.addEventListener("beforeunload", (evt) => {
+	clearCanvases(imgs);
+});
+
+function clearCanvases(imgs) {
+	for (const asset of dollAssets) {
+		for (const layer of asset.layers) {
+			let c;
+			if (layer.img.setColor) c = [layer.img.full, layer.img.resized];
+			else c = [layer.img.resized];
+
+			for (const ca of c) clearCanvas(ca);
+		}
+	}
+	for (const key of Object.keys(imgs)) {
+		clearCanvas(imgs[key].resized);
+	}
+}
+
+function clearCanvas(canvas) {
+	console.log(canvas)
+	canvas.width = 1;
+	canvas.height = 1;
+	const ctx = canvas.getContext("2d");
+	ctx.clearRect(0, 0, 1, 1);
+}
