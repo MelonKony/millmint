@@ -546,29 +546,6 @@ function defineAssets() {
 	];
 	uniqueGroups = [...new Set(dollAssets.map((t) => t.group))];
 	if (!currentGroup) currentGroup = uniqueGroups[0];
-
-	// Wait for all images to load, then remove the loading screen and seed the nav and stuff
-	const allImages = Object.values(imgs);
-	let loadedImageCount = 0;
-	const promises = allImages.map((t) => {
-		return promiseify(t.full).then(() => {
-			loadedImageCount++;
-			const percentage = Math.round(
-				(loadedImageCount / allImages.length) * 100
-			);
-			document
-				.querySelector("progress#assets")
-				.setAttribute("value", (loadedImageCount / allImages.length) * 100);
-			document.querySelector(".dolls .percentage").innerText = `${percentage
-				.toString()
-				.padStart(2, "0")}%`;
-		});
-	});
-
-	Promise.all(promises).then((d) => {
-		document.querySelector(".dolls").classList.add("loaded");
-		console.log("loaded");
-	});
 }
 
 function renderNav() {
@@ -775,7 +752,6 @@ function maskImg(path, color, maskName = "mask") {
 	canvasSmall.height = (canvasSmall.scrollHeight || 690) * 2;
 
 	Promise.all([promiseify(outline.full), promiseify(mask.full)]).then(() => {
-		console.log("l");
 		canvasFull.width = mask.full.width;
 		canvasFull.height = mask.full.height;
 

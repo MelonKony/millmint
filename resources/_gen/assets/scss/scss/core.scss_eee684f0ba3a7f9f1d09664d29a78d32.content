@@ -2798,35 +2798,6 @@ ol {
   .dfn:hover .tooltip {
     opacity: 1; }
 
-.dolls-loading {
-  max-height: 100px;
-  transition: max-height 600ms;
-  overflow-y: hidden; }
-  .dolls-loading .label {
-    display: block; }
-  .dolls-loading .progress-wrapper {
-    display: grid;
-    grid-template-columns: 1fr auto;
-    grid-gap: 20px;
-    align-items: center;
-    font-variant-numeric: tabular-nums; }
-  .dolls-loading progress {
-    width: 100%;
-    border-radius: 2px;
-    overflow: hidden;
-    border: 0;
-    -webkit-appearance: none;
-    appearance: none; }
-    .dolls-loading progress[value]::-webkit-progress-bar {
-      background-color: var(--hint-bg);
-      border-radius: 2px; }
-    .dolls-loading progress[value]::-webkit-progress-value {
-      background-color: var(--color-gray);
-      border-radius: 2px; }
-
-.dolls.loaded > .dolls-loading {
-  max-height: 0; }
-
 .dolls {
   display: grid;
   gap: 20px;
