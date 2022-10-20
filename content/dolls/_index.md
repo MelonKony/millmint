@@ -24,6 +24,9 @@ color: indigo
 		</nav>
 		<span class="current-page">Faces</span>
 		<hr />
+		<div class="color-options">
+			<div class="color-circle reset-circle" onclick="setColor(null)"></div>
+		</div>
 		<div class="doll-options"></div>
 	</div>
 </div>

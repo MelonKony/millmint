@@ -1,9 +1,12 @@
+const palette = ["#A74553", "#494DCB", "#8C533C", "#D99E52", "#8F9A6B"];
 const imgs = {};
+let groupColors = {};
 let dollAssets = [];
 let uniqueGroups = [...new Set(dollAssets.map((t) => t.group))];
 let currentGroup;
 let gender = "f";
 let redrawDebounce;
+let colorDebounce;
 
 // Base doll
 const groupSelections = {
@@ -19,10 +22,6 @@ const groupSelections = {
 
 // All groups
 const groups = {
-	figure: {
-		label: "Figure",
-		emoji: "W",
-	},
 	background: {
 		label: "Background",
 		emoji: "v",
@@ -31,6 +30,7 @@ const groups = {
 		label: "Skin tone",
 		emoji: "←",
 		forceOne: true,
+		noColor: true,
 	},
 	shirt: {
 		label: "Shirts",
@@ -64,6 +64,7 @@ const groups = {
 		label: "Face",
 		emoji: "H",
 		forceOne: true,
+		noColor: true,
 	},
 	accessories: {
 		label: "Accessories",
@@ -199,17 +200,6 @@ function defineAssets() {
 				{
 					layer: 12,
 					img: maskImg("/doll-assets/f/3.hair/3b/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "hair",
-			name: "Green hair",
-			layers: [
-				{
-					layer: 12,
-					img: maskImg("/doll-assets/f/3.hair/3a/", "green"),
 					gender: "f",
 				},
 			],
@@ -456,19 +446,9 @@ function defineAssets() {
 			],
 		},
 		{
-			group: "jumper",
-			name: "Color jumper",
-			layers: [
-				{
-					layer: 21,
-					img: maskImg("/doll-assets/f/9.jumpers/9a/", "#AB4F5D"),
-					gender: "f",
-				},
-			],
-		},
-		{
 			group: "accessories",
 			name: "Spectacles",
+			noColor: true,
 			layers: [
 				{
 					layer: 22,
@@ -480,6 +460,7 @@ function defineAssets() {
 		{
 			group: "accessories",
 			name: "School Armband",
+			noColor: true,
 			layers: [
 				{
 					layer: 22,
@@ -583,7 +564,7 @@ function renderNav() {
 	document.querySelector(".current-page").innerText =
 		groups[currentGroup]?.label ?? currentGroup;
 
-	// Determine active states for nav buttons
+	// Determine active states for next/previous buttons
 	const currentIndex = uniqueGroups.indexOf(currentGroup);
 	document
 		.querySelector(".nav-nav-button.nav-previous")
@@ -593,6 +574,44 @@ function renderNav() {
 		.classList[currentIndex < uniqueGroups.length - 1 ? "remove" : "add"](
 			"disabled"
 		);
+
+	// Draw colors
+	const colorWrapper = document.querySelector(".color-options");
+	colorWrapper.classList.remove("color-hidden");
+	colorWrapper
+		.querySelectorAll(".color-circle[style]")
+		.forEach((el) => el.remove());
+	document.querySelector(".reset-circle").classList.remove("active");
+
+	// Add a circle for each color
+	for (const color of palette) {
+		const circle = document.createElement("div");
+		circle.classList.add("color-circle");
+		circle.setAttribute("style", `--color: ${color}`);
+
+		circle.addEventListener("click", () => {
+			setColor(color);
+		});
+
+		if (groupColors[currentGroup] === color) {
+			circle.classList.add("active");
+		}
+
+		colorWrapper.appendChild(circle);
+	}
+
+	// Add it to the reset button if there isn't an active color
+	if (!colorWrapper.querySelector(".active"))
+		document.querySelector(".reset-circle").classList.add("active");
+
+	// Check if the color editor should be visible
+	if (groups[currentGroup]?.noColor) colorWrapper.classList.add("color-hidden");
+	let hideColors = true;
+	for (const assetName of groupSelections[currentGroup] || []) {
+		const asset = dollAssets.find((asset) => asset.name === assetName);
+		if (!asset?.noColor) hideColors = false;
+	}
+	if (hideColors) colorWrapper.classList.add("color-hidden");
 }
 
 function nextNav() {
@@ -609,6 +628,32 @@ function previousNav() {
 		currentGroup = uniqueGroups[newIndex];
 		dollsMain();
 	}
+}
+
+function setColor(color) {
+	groupColors[currentGroup] = color;
+	if (color === null) delete groupColors[currentGroup];
+	renderNav();
+
+	// Update visible components
+	for (const assetName of groupSelections[currentGroup]) {
+		setMaskColor(assetName, color);
+	}
+
+	updateColors();
+}
+
+function updateColors() {
+	if (colorDebounce) clearTimeout(colorDebounce);
+
+	colorDebounce = setTimeout(() => {
+		for (const asset of dollAssets) {
+			if (!asset.noColor && !groups[asset.group].noColor) {
+				const color = groupColors[asset.group] || undefined;
+				setMaskColor(asset.name, color);
+			}
+		}
+	}, 100);
 }
 
 function setMaskColor(name = "Color jumper", newColor, layer = 0) {
@@ -674,11 +719,13 @@ function renderOptions() {
 }
 
 function drawCharacter() {
+	console.time("drawing");
 	// Real canvas
 	const canvas = document.querySelector(".dolls-canvas");
-	canvas.width = (canvas.scrollWidth || 230) * 2;
-	canvas.height = (canvas.scrollHeight || 690) * 2;
+	canvas.width = (canvas.scrollWidth || 230) * 3;
+	canvas.height = (canvas.scrollHeight || 345) * 3;
 	render(canvas);
+	console.timeEnd("drawing");
 }
 
 function downloadDoll() {
@@ -742,39 +789,33 @@ function dollsMain(redraw = true) {
 }
 
 function maskImg(path, color, maskName = "mask") {
-	path = `${path}${path.endsWith('/') ? '' : '/'}`
+	path = `${path}${path.endsWith("/") ? "" : "/"}`;
 	const outline = img(`${path}outline.png`);
 	const mask = maskName !== null ? img(`${path}${maskName}.png`) : outline;
 
-	const canvasFull = document.createElement("canvas");
-
 	const canvasSmall = document.createElement("canvas");
-	canvasSmall.width = (canvasSmall.scrollWidth || 230) * 2;
-	canvasSmall.height = (canvasSmall.scrollHeight || 690) * 2;
+	canvasSmall.width = (canvasSmall.scrollWidth || 230) * 3;
+	canvasSmall.height = (canvasSmall.scrollHeight || 345) * 3;
 
 	Promise.all([promiseify(outline.full), promiseify(mask.full)]).then(() => {
-		canvasFull.width = mask.full.width;
-		canvasFull.height = mask.full.height;
-
 		let m = maskName !== null ? mask : undefined;
-		maskImgSize(canvasFull, color, outline, m, true);
 		maskImgSize(canvasSmall, color, outline, m, false);
 	});
 
 	return {
-		full: canvasFull,
+		src: path,
+		full: canvasSmall,
 		resized: canvasSmall,
 		load() {
 			outline.load();
 			mask.load();
 		},
-		setColor(color) {
-			canvasFull.width = mask.full.width;
-			canvasFull.height = mask.full.height;
+		setColor(newColor) {
+			console.log("C");
+			if (color === newColor && color && newColor) return;
 
 			let m = maskName !== null ? mask : undefined;
-			maskImgSize(canvasFull, color, outline, m, true);
-			maskImgSize(canvasSmall, color, outline, m, false);
+			maskImgSize(canvasSmall, newColor, outline, m, false);
 
 			drawCharacter();
 		},
@@ -828,14 +869,24 @@ function img(src) {
 
 		// Set a debounce for re-drawing after image load
 		if (redrawDebounce) clearTimeout(redrawDebounce);
-		redrawDebounce = setTimeout(drawCharacter, 100);
+		redrawDebounce = setTimeout(() => {
+			// Update color on single asset
+			const asset = dollAssets.find((a) =>
+				a.layers.find((l) => src.startsWith(l.img.src))
+			);
+			const color = groupColors[asset.group] || undefined;
+			setMaskColor(asset.name, color);
+
+			drawCharacter();
+		}, 100);
 	});
 
 	imgs[src] = {
+		src,
 		full: img,
 		resized: offscreenCanvas,
 		load() {
-			if(!img.src) console.log('Loading', src)
+			if (!img.src) console.log("Loading", src);
 			img.src = src;
 		},
 	};
@@ -856,3 +907,30 @@ window.addEventListener("load", () => {
 	defineAssets();
 	dollsMain();
 });
+
+window.addEventListener("beforeunload", (evt) => {
+	clearCanvases(imgs);
+});
+
+function clearCanvases(imgs) {
+	for (const asset of dollAssets) {
+		for (const layer of asset.layers) {
+			let c;
+			if (layer.img.setColor) c = [layer.img.full, layer.img.resized];
+			else c = [layer.img.resized];
+
+			for (const ca of c) clearCanvas(ca);
+		}
+	}
+	for (const key of Object.keys(imgs)) {
+		clearCanvas(imgs[key].resized);
+	}
+}
+
+function clearCanvas(canvas) {
+	console.log(canvas)
+	canvas.width = 1;
+	canvas.height = 1;
+	const ctx = canvas.getContext("2d");
+	ctx.clearRect(0, 0, 1, 1);
+}
