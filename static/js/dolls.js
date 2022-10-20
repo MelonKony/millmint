@@ -742,8 +742,9 @@ function dollsMain(redraw = true) {
 }
 
 function maskImg(path, color, maskName = "mask") {
-	const outline = img(`${path}/outline.png`);
-	const mask = maskName !== null ? img(`${path}/${maskName}.png`) : outline;
+	path = `${path}${path.endsWith('/') ? '' : '/'}`
+	const outline = img(`${path}outline.png`);
+	const mask = maskName !== null ? img(`${path}${maskName}.png`) : outline;
 
 	const canvasFull = document.createElement("canvas");
 
@@ -834,6 +835,7 @@ function img(src) {
 		full: img,
 		resized: offscreenCanvas,
 		load() {
+			if(!img.src) console.log('Loading', src)
 			img.src = src;
 		},
 	};
