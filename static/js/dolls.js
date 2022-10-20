@@ -636,11 +636,11 @@ function setColor(color) {
 	renderNav();
 
 	// Update visible components
-	for(const assetName of groupSelections[currentGroup]) {
+	for (const assetName of groupSelections[currentGroup]) {
 		setMaskColor(assetName, color);
 	}
 
-	requestAnimationFrame(updateColors);
+	updateColors();
 }
 
 function updateColors() {
@@ -722,8 +722,8 @@ function drawCharacter() {
 	console.time("drawing");
 	// Real canvas
 	const canvas = document.querySelector(".dolls-canvas");
-	canvas.width = (canvas.scrollWidth || 230) * 2;
-	canvas.height = (canvas.scrollHeight || 690) * 2;
+	canvas.width = (canvas.scrollWidth || 230) * 3;
+	canvas.height = (canvas.scrollHeight || 345) * 3;
 	render(canvas);
 	console.timeEnd("drawing");
 }
@@ -793,24 +793,18 @@ function maskImg(path, color, maskName = "mask") {
 	const outline = img(`${path}outline.png`);
 	const mask = maskName !== null ? img(`${path}${maskName}.png`) : outline;
 
-	const canvasFull = document.createElement("canvas");
-
 	const canvasSmall = document.createElement("canvas");
-	canvasSmall.width = (canvasSmall.scrollWidth || 230) * 2;
-	canvasSmall.height = (canvasSmall.scrollHeight || 690) * 2;
+	canvasSmall.width = (canvasSmall.scrollWidth || 230) * 3;
+	canvasSmall.height = (canvasSmall.scrollHeight || 345) * 3;
 
 	Promise.all([promiseify(outline.full), promiseify(mask.full)]).then(() => {
-		canvasFull.width = mask.full.width / 5;
-		canvasFull.height = mask.full.height / 5;
-
 		let m = maskName !== null ? mask : undefined;
-		maskImgSize(canvasFull, color, outline, m, true);
 		maskImgSize(canvasSmall, color, outline, m, false);
 	});
 
 	return {
 		src: path,
-		full: canvasFull,
+		full: canvasSmall,
 		resized: canvasSmall,
 		load() {
 			outline.load();
@@ -820,11 +814,7 @@ function maskImg(path, color, maskName = "mask") {
 			console.log("C");
 			if (color === newColor && color && newColor) return;
 
-			canvasFull.width = mask.full.width / 5;
-			canvasFull.height = mask.full.height / 5;
-
 			let m = maskName !== null ? mask : undefined;
-			maskImgSize(canvasFull, newColor, outline, m, true);
 			maskImgSize(canvasSmall, newColor, outline, m, false);
 
 			drawCharacter();
@@ -880,7 +870,6 @@ function img(src) {
 		// Set a debounce for re-drawing after image load
 		if (redrawDebounce) clearTimeout(redrawDebounce);
 		redrawDebounce = setTimeout(() => {
-
 			// Update color on single asset
 			const asset = dollAssets.find((a) =>
 				a.layers.find((l) => src.startsWith(l.img.src))
