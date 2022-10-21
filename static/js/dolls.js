@@ -94,6 +94,16 @@ function defineAssets() {
 			],
 		},
 		{
+			group: "background",
+			name: "Country",
+			layers: [
+				{
+					layer: 1,
+					img: img("/doll-assets/bg/country.jpg"),
+				},
+			],
+		},
+		{
 			group: "skintone",
 			name: "1a",
 			layers: [
