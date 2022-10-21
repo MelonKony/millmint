@@ -238,7 +238,7 @@ function defineAssets() {
 		},
 		{
 			group: "hair",
-			name: "Cut",
+			name: "Clipped",
 			layers: [
 				{
 					layer: 12,
