@@ -611,6 +611,8 @@ function renderNav() {
 		const asset = dollAssets.find((asset) => asset.name === assetName);
 		if (!asset?.noColor) hideColors = false;
 	}
+	// TODO: re-implement colors
+	hideColors = true;
 	if (hideColors) colorWrapper.classList.add("color-hidden");
 }
 
@@ -718,8 +720,29 @@ function drawCharacter() {
 }
 
 function downloadDoll() {
-	// Todo: this
-	alert("todo");
+	render();
+	
+	const downloadText = document.querySelector('.download-link .text');
+	downloadText.innerText = "Downloading..."
+
+	// Make "canvas" super wide, download image
+	requestAnimationFrame(() => {
+		document.querySelector(".dolls-canvas").style.width = "1000px";
+	
+		html2canvas(document.querySelector(".dolls-canvas-inner"), {
+			backgroundColor: null,
+		}).then((canvas) => {
+			// Download imnage
+			const a = document.createElement("a");
+			a.href = canvas.toDataURL();
+			a.download = "character.png";
+			a.click();
+
+			// Reset button label
+			downloadText.innerText = "Download Image"
+		});
+		document.querySelector(".dolls-canvas").removeAttribute("style");
+	})
 }
 
 function getLayers() {
@@ -740,8 +763,8 @@ function render() {
 	// Find all layers for every single selected asset and sort them by their z-index
 	const allLayers = getLayers();
 
-	//
-	const wrapper = document.querySelector(".dolls-canvas");
+	// Clear "canvas"
+	const wrapper = document.querySelector(".dolls-canvas-inner");
 	wrapper.innerHTML = "";
 
 	// Draw all layers
