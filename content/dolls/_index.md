@@ -12,7 +12,7 @@ color: indigo
 <div class="dolls">
 	<div class="canvas-wrapper">
 		<div class="dolls-left-side">
-			<canvas class="dolls-canvas"></canvas>
+			<div class="dolls-canvas"></div>
 			<button class="article-button download-link" onclick="downloadDoll()" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">📂</span> Download Image</button>
 		</div>
 	</div>
