@@ -84,6 +84,16 @@ const groups = {
 function defineAssets() {
 	dollAssets = [
 		{
+			group: "background",
+			name: "Beach",
+			layers: [
+				{
+					layer: 1,
+					img: img("/doll-assets/bg/beach.jpg"),
+				},
+			],
+		},
+		{
 			group: "skintone",
 			name: "1a",
 			layers: [
