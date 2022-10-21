@@ -226,6 +226,50 @@ function defineAssets() {
 			],
 		},
 		{
+			group: "hair",
+			name: "Braids",
+			layers: [
+				{
+					layer: 12,
+					img: maskImg("/doll-assets/f/3.hair/3d/"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "hair",
+			name: "Cut",
+			layers: [
+				{
+					layer: 12,
+					img: maskImg("/doll-assets/f/3.hair/3e/"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "hair",
+			name: "Alternative",
+			layers: [
+				{
+					layer: 12,
+					img: maskImg("/doll-assets/f/3.hair/3f/"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "hair",
+			name: "Locks",
+			layers: [
+				{
+					layer: 12,
+					img: maskImg("/doll-assets/f/3.hair/3g/"),
+					gender: "f",
+				},
+			],
+		},
+		{
 			group: "socks",
 			name: "Folded socks",
 			layers: [
