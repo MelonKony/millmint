@@ -346,6 +346,28 @@ function defineAssets() {
 			],
 		},
 		{
+			group: "socks",
+			name: "Nylon Socks",
+			layers: [
+				{
+					layer: 13,
+					img: maskImg("/doll-assets/f/4.socks/4e/"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "socks",
+			name: "Nylons",
+			layers: [
+				{
+					layer: 13,
+					img: maskImg("/doll-assets/f/4.socks/4f/"),
+					gender: "f",
+				},
+			],
+		},
+		{
 			group: "shoes",
 			name: "Penny loafers",
 			layers: [
