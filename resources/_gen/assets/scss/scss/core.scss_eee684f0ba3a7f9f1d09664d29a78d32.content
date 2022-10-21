@@ -2825,12 +2825,14 @@ ol {
     width: 100%;
     height: 100%; }
   .dolls-canvas .layer,
-  .dolls-canvas .layer img {
+  .dolls-canvas .layer img,
+  .dolls-canvas .layer .mask {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%; }
+    height: 100%;
+    background: var(--bg); }
   .dolls-canvas .layer img {
     object-fit: cover;
     visibility: visible;
@@ -2841,6 +2843,11 @@ ol {
     animation: none;
     user-select: none;
     pointer-events: none; }
+  .dolls-canvas .layer .mask {
+    mask-image: var(--url);
+    -webkit-mask-image: var(--url);
+    mask-size: 100% 100%;
+    -webkit-mask-size: 100% 100%; }
 
 .dolls-templates {
   display: none; }

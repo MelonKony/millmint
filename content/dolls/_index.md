@@ -43,4 +43,5 @@ color: indigo
 </div>
 
 <script src="https://html2canvas.hertzen.com/dist/html2canvas.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dom-to-image/2.6.0/dom-to-image.min.js"></script>
 <script src="/js/dolls.js"></script>
