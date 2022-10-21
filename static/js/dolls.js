@@ -1,4 +1,5 @@
 const palette = ["#A74553", "#494DCB", "#8C533C", "#D99E52", "#8F9A6B"];
+const dataUrls = {};
 const imgs = {};
 let groupColors = {};
 let dollAssets = [];
@@ -25,6 +26,7 @@ const groups = {
 	background: {
 		label: "Background",
 		icon: "🌲",
+		noColor: true,
 	},
 	skintone: {
 		label: "Skin tone",
@@ -383,7 +385,7 @@ function defineAssets() {
 			name: "Sandals",
 			layers: [
 				{
-					layer: 0,
+					layer: 2,
 					img: img("/doll-assets/f/0.bg/mask.5b.bg.png"),
 					gender: "f",
 				},
@@ -769,14 +771,6 @@ function renderNav() {
 
 	// Check if the color editor should be visible
 	if (groups[currentGroup]?.noColor) colorWrapper.classList.add("color-hidden");
-	let hideColors = groupSelections[currentGroup]?.length > 0;
-	for (const assetName of groupSelections[currentGroup] || []) {
-		const asset = dollAssets.find((asset) => asset.name === assetName);
-		if (!asset?.noColor) hideColors = false;
-	}
-	// TODO: re-implement colors
-	hideColors = true;
-	if (hideColors) colorWrapper.classList.add("color-hidden");
 }
 
 function nextNav() {
@@ -801,8 +795,10 @@ function setColor(color) {
 	renderNav();
 
 	// Update visible components
-	for (const assetName of groupSelections[currentGroup]) {
-		setMaskColor(assetName, color);
+	if (groupSelections[currentGroup]) {
+		for (const assetName of groupSelections[currentGroup]) {
+			setMaskColor(assetName, color);
+		}
 	}
 
 	updateColors();
@@ -813,11 +809,10 @@ function updateColors() {
 
 	colorDebounce = setTimeout(() => {
 		for (const asset of dollAssets) {
-			if (!asset.noColor && !groups[asset.group].noColor) {
-				const color = groupColors[asset.group] || undefined;
-				setMaskColor(asset.name, color);
-			}
+			const color = groupColors[asset.group] || undefined;
+			setMaskColor(asset.name, color);
 		}
+		drawCharacter();
 	}, 100);
 }
 
@@ -884,28 +879,51 @@ function drawCharacter() {
 
 function downloadDoll() {
 	render();
-	
-	const downloadText = document.querySelector('.download-link .text');
-	downloadText.innerText = "Downloading..."
+
+	const downloadText = document.querySelector(".download-link .text");
+	downloadText.innerText = "Downloading...";
 
 	// Make "canvas" super wide, download image
+	// document.querySelector(".dolls-canvas").style.width = "1000px";
 	requestAnimationFrame(() => {
-		document.querySelector(".dolls-canvas").style.width = "1000px";
-	
-		html2canvas(document.querySelector(".dolls-canvas-inner"), {
-			backgroundColor: null,
-		}).then((canvas) => {
-			// Download imnage
-			const a = document.createElement("a");
-			a.href = canvas.toDataURL();
-			a.download = "character.png";
-			a.click();
+		const node = document.querySelector(".dolls-canvas-inner");
+		const desiredWidth = 1000;
+		const scale = desiredWidth / node.clientWidth;
 
-			// Reset button label
-			downloadText.innerText = "Download Image"
-		});
+		domtoimage
+			.toPng(node, {
+				width: node.clientWidth * scale,
+				height: node.clientHeight * scale,
+				style: {
+					transform: "scale(" + scale + ")",
+					transformOrigin: "top left",
+				},
+			})
+			.then((dataUrl) => {
+				// Download imnage
+				const a = document.createElement("a");
+				a.href = dataUrl;
+				a.download = "character.png";
+				a.click();
+
+				// Reset button label
+				downloadText.innerText = "Download Image";
+			});
+
+		// html2canvas(document.querySelector(".dolls-canvas-inner"), {
+		// 	backgroundColor: null,
+		// }).then((canvas) => {
+		// 	// Download imnage
+		// 	const a = document.createElement("a");
+		// 	a.href = canvas.toDataURL();
+		// 	a.download = "character.png";
+		// 	a.click();
+
+		// 	// Reset button label
+		// 	downloadText.innerText = "Download Image";
+		// });
 		document.querySelector(".dolls-canvas").removeAttribute("style");
-	})
+	});
 }
 
 function getLayers() {
@@ -914,7 +932,15 @@ function getLayers() {
 			const allItems = dollAssets.filter(
 				(asset) => asset.group === group && itemNames.includes(asset.name)
 			);
-			return allItems.flatMap((t) => t.layers);
+			return allItems.flatMap((t) =>
+				t.layers.map((layer) => {
+					return {
+						...layer,
+						...t,
+						layers: undefined,
+					};
+				})
+			);
 		})
 		.filter(Boolean)
 		.sort((a, b) => a.layer - b.layer);
@@ -931,21 +957,60 @@ function render() {
 	wrapper.innerHTML = "";
 
 	// Draw all layers
-	for (const layerInfo of allLayers) {
+	for (const asset of allLayers) {
 		const layer = document.createElement("div");
 		layer.classList.add("layer");
 
-		const layers = Array.isArray(layerInfo.img)
-			? layerInfo.img
-			: [layerInfo.img];
+		const layers = asset.img.layers ? asset.img.layers : [asset.img];
 
 		for (const img of layers) {
-			layer.appendChild(img);
+			if (groupColors[asset.group] && !img.noColor) {
+				const d = document.createElement("div");
+				d.classList.add("mask");
+
+				// Convert mask image to data url
+				const dataUrl = getDataUrl(img);
+
+				// Define the URL and mask in general
+				d.setAttribute(
+					"style",
+					`
+					--url: url('${dataUrl}');
+					background: ${asset.img.mask};
+				`
+				);
+
+				layer.appendChild(d);
+			} else {
+				layer.appendChild(img);
+			}
 		}
 
-		console.log(layer, layerInfo);
+		// console.log(layer, asset);
 		wrapper.appendChild(layer);
 	}
+}
+
+function getDataUrl(img) {
+	if (dataUrls[img.src]) return dataUrls[img.src];
+	// Get data URL from image
+	const canvas = document.createElement("canvas");
+	canvas.width = img.width;
+	canvas.height = img.height;
+
+	const ctx = canvas.getContext("2d");
+	ctx.drawImage(img, 0, 0);
+
+	const dataUrl = canvas.toDataURL();
+	console.log("AAA");
+	dataUrls[img.src] = dataUrl;
+
+	// Clean up canvas
+	canvas.width = 1;
+	canvas.height = 1;
+	ctx.clearRect(0, 0, 1, 1);
+
+	return dataUrl;
 }
 
 function dollsMain(redraw = true) {
@@ -954,20 +1019,28 @@ function dollsMain(redraw = true) {
 	if (redraw) drawCharacter();
 }
 
-function maskImg(path, color, maskName = "mask") {
+function maskImg(path, mask, maskName = "mask") {
 	path = `${path}${path.endsWith("/") ? "" : "/"}`;
 
 	const layers = [];
-	if (maskName) layers.push(img(`${path}${maskName}.png`));
+	if (maskName) layers.push(img(`${path}${maskName}.png`, false));
 	layers.push(img(`${path}outline.png`));
 
-	return layers;
+	return {
+		layers,
+		mask,
+		setColor(t) {
+			this.mask = t;
+		},
+	};
 }
 
-function img(src) {
+function img(src, noColor = true) {
 	if (imgs[src]) return imgs[src];
 	const img = new Image();
 	img.src = src;
+	img.setAttribute("no-color", noColor);
+	img.noColor = noColor;
 
 	imgs[src] = img;
 
