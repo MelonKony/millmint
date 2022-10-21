@@ -1,4 +1,4 @@
-const palette = ["#A74553", "#494DCB", "#8C533C", "#D99E52", "#8F9A6B"];
+const palette = ["#A74553", "#494DCB", "#8C533C", "#D99E52", "#8F9A6B", "#000"];
 const dataUrls = {};
 const imgs = {};
 let groupColors = {};
@@ -385,13 +385,13 @@ function defineAssets() {
 			name: "Sandals",
 			layers: [
 				{
-					layer: 2,
-					img: img("/doll-assets/f/0.bg/mask.5b.bg.png"),
+					layer: 14,
+					img: maskImg("/doll-assets/f/5.shoes/5b/"),
 					gender: "f",
 				},
 				{
-					layer: 14,
-					img: maskImg("/doll-assets/f/5.shoes/5b/"),
+					layer: 2,
+					img: img("/doll-assets/f/0.bg/mask.5b.bg.png"),
 					gender: "f",
 				},
 			],
@@ -566,14 +566,15 @@ function defineAssets() {
 			name: "Nurse Uniform",
 			layers: [
 				{
-					layer: 20,
-					img: maskImg("/doll-assets/f/8.outfits/8b/", undefined, "maska"),
+					layer: 21,
+					img: maskImg("/doll-assets/f/8.outfits/8b/", undefined, "maskb"),
 					gender: "f",
 				},
 				{
 					layer: 20,
-					img: maskImg("/doll-assets/f/8.outfits/8b/", undefined, "maskb"),
+					img: maskImg("/doll-assets/f/8.outfits/8b/", undefined, "maska", true),
 					gender: "f",
+					noColor: true
 				},
 			],
 		},
@@ -582,7 +583,7 @@ function defineAssets() {
 			name: "Jumper",
 			layers: [
 				{
-					layer: 21,
+					layer: 21.1,
 					img: maskImg("/doll-assets/f/9.jumpers/9a/"),
 					gender: "f",
 				},
@@ -965,11 +966,15 @@ function render() {
 
 		for (const img of layers) {
 			if (groupColors[asset.group] && !img.noColor) {
+				console.log(img)
 				const d = document.createElement("div");
 				d.classList.add("mask");
 
+				console.log(asset.name, img.src)
+
 				// Convert mask image to data url
 				const dataUrl = getDataUrl(img);
+				d.id = img.src
 
 				// Define the URL and mask in general
 				d.setAttribute(
@@ -1019,11 +1024,11 @@ function dollsMain(redraw = true) {
 	if (redraw) drawCharacter();
 }
 
-function maskImg(path, mask, maskName = "mask") {
+function maskImg(path, mask, maskName = "mask", noColor = false) {
 	path = `${path}${path.endsWith("/") ? "" : "/"}`;
 
 	const layers = [];
-	if (maskName) layers.push(img(`${path}${maskName}.png`, false));
+	if (maskName) layers.push(img(`${path}${maskName}.png`, noColor));
 	layers.push(img(`${path}outline.png`));
 
 	return {
