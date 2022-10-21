@@ -203,6 +203,17 @@ function defineAssets() {
 			],
 		},
 		{
+			group: "face",
+			name: "Zhi",
+			layers: [
+				{
+					layer: 11,
+					img: maskImg("/doll-assets/f/2.face/2g/"),
+					gender: "f",
+				},
+			],
+		},
+		{
 			group: "hair",
 			name: "Bluey",
 			layers: [
@@ -275,6 +286,17 @@ function defineAssets() {
 				{
 					layer: 12,
 					img: maskImg("/doll-assets/f/3.hair/3g/"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "hair",
+			name: "Princeling",
+			layers: [
+				{
+					layer: 12,
+					img: maskImg("/doll-assets/f/3.hair/3h/"),
 					gender: "f",
 				},
 			],
@@ -450,6 +472,17 @@ function defineAssets() {
 			],
 		},
 		{
+			group: "bottoms",
+			name: "Rouisha Pants",
+			layers: [
+				{
+					layer: 15,
+					img: maskImg("/doll-assets/f/6.bottom/6f/"),
+					gender: "f",
+				},
+			],
+		},
+		{
 			group: "top",
 			name: "Pleated shirt",
 			layers: [
@@ -462,11 +495,33 @@ function defineAssets() {
 		},
 		{
 			group: "top",
-			name: "Prissy shirt",
+			name: "Prissy Shirt",
 			layers: [
 				{
 					layer: 16,
 					img: maskImg("/doll-assets/f/7.top/7b/"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "top",
+			name: "Tee Shirt",
+			layers: [
+				{
+					layer: 16,
+					img: maskImg("/doll-assets/f/7.top/7c/"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "top",
+			name: "Hanfu shirt",
+			layers: [
+				{
+					layer: 16,
+					img: maskImg("/doll-assets/f/7.top/7d/"),
 					gender: "f",
 				},
 			],
@@ -505,6 +560,17 @@ function defineAssets() {
 				{
 					layer: 21,
 					img: maskImg("/doll-assets/f/9.jumpers/9a/"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "jumper",
+			name: "Revolutionary Coat",
+			layers: [
+				{
+					layer: 21,
+					img: maskImg("/doll-assets/f/9.jumpers/9b/"),
 					gender: "f",
 				},
 			],
@@ -584,6 +650,17 @@ function defineAssets() {
 				{
 					layer: 17,
 					img: maskImg("/doll-assets/f/10.accessories/10g/"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "accessories",
+			name: "Red Guard Hat",
+			layers: [
+				{
+					layer: 17,
+					img: maskImg("/doll-assets/f/10.accessories/10h/"),
 					gender: "f",
 				},
 			],
