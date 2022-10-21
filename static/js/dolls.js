@@ -892,7 +892,13 @@ function getLayers() {
 			const allItems = dollAssets.filter(
 				(asset) => asset.group === group && itemNames.includes(asset.name)
 			);
-			return allItems.flatMap((t) => t.layers);
+			return allItems.flatMap((t) => t.layers.map(layer => {
+				return {
+					...layer,
+					...t,
+					layers: undefined
+				}
+			}));
 		})
 		.filter(Boolean)
 		.sort((a, b) => a.layer - b.layer);
@@ -909,19 +915,19 @@ function render() {
 	wrapper.innerHTML = "";
 
 	// Draw all layers
-	for (const layerInfo of allLayers) {
+	for (const asset of allLayers) {
 		const layer = document.createElement("div");
 		layer.classList.add("layer");
 
-		const layers = Array.isArray(layerInfo.img)
-			? layerInfo.img
-			: [layerInfo.img];
+		const layers = Array.isArray(asset.img)
+			? asset.img
+			: [asset.img];
 
 		for (const img of layers) {
 			layer.appendChild(img);
 		}
 
-		console.log(layer, layerInfo);
+		console.log(layer, asset);
 		wrapper.appendChild(layer);
 	}
 }
