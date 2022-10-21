@@ -24,60 +24,60 @@ const groupSelections = {
 const groups = {
 	background: {
 		label: "Background",
-		emoji: "v",
+		icon: "🌲",
 	},
 	skintone: {
 		label: "Skin tone",
-		emoji: "←",
+		icon: "🎨",
 		forceOne: true,
 		noColor: true,
 	},
 	shirt: {
 		label: "Shirts",
-		emoji: "V",
+		icon: "V",
 	},
 	outerwear: {
 		label: "Outerwear",
-		emoji: "X",
+		icon: "🧥",
 	},
 	bottoms: {
 		label: "Bottoms",
-		emoji: "M",
+		icon: "👖",
 	},
 	top: {
 		label: "Shirts",
-		emoji: "B",
+		icon: "👚",
 	},
 	socks: {
 		label: "Socks",
-		emoji: "P",
+		icon: "🧦",
 	},
 	shoes: {
 		label: "Shoes",
-		emoji: "y",
+		icon: "👞",
 	},
 	hair: {
 		label: "Hair",
-		emoji: "h",
+		icon: "✂️",
 	},
 	face: {
 		label: "Face",
-		emoji: "H",
+		icon: "☺️",
 		forceOne: true,
 		noColor: true,
 	},
 	accessories: {
 		label: "Accessories",
-		emoji: "U",
+		icon: "👒",
 		multiple: true,
 	},
 	jumper: {
 		label: "Jumpers",
-		emoji: "T",
+		icon: "🧣",
 	},
 	outfits: {
 		label: "Outfits",
-		emoji: "j",
+		icon: "👗",
 	},
 };
 
@@ -688,7 +688,7 @@ function renderNav() {
 		const group = groups[groupName];
 
 		el.querySelector(".text").textContent = group?.label ?? groupId;
-		if (group?.emoji) el.querySelector(".emoji").textContent = group.emoji;
+		if (group?.icon) el.querySelector(".icon").textContent = group.icon;
 
 		// Add event listeners
 		el.addEventListener("click", () => {

@@ -2883,7 +2883,7 @@ ol {
     display: flex;
     gap: 10px;
     justify-content: center; }
-    .dolls-nav .dolls-nav-item .emoji {
+    .dolls-nav .dolls-nav-item .icon {
       font-size: 1rem;
       color: inherit;
       width: auto;
@@ -2893,7 +2893,7 @@ ol {
     .dolls-nav .dolls-nav-item.active {
       background: var(--hint-bg);
       color: var(--color-gray); }
-      .dolls-nav .dolls-nav-item.active .emoji {
+      .dolls-nav .dolls-nav-item.active .icon {
         filter: brightness(50%); }
 
 .dolls-editor hr {

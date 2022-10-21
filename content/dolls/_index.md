@@ -36,7 +36,7 @@ color: indigo
 <div class="dolls-templates">
 	<template class="dolls-nav-item-template">
 		<button class="dolls-nav-item">
-			<span class="emoji">←</span>
+			<span class="icon">←</span>
 			<span class="text">My nav</span>
 		</button>
 	</template>

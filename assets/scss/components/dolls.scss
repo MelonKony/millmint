@@ -106,7 +106,7 @@
 		gap: 10px;
 		justify-content: center;
 
-		.emoji {
+		.icon {
 			font-size: 1rem;
 			color: inherit;
 			width: auto;
@@ -121,7 +121,7 @@
 			background: var(--hint-bg);
 			color: var(--color-gray);
 
-			.emoji {
+			.icon {
 				filter: brightness(50%);
 			}
 		}
