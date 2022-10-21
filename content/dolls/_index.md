@@ -12,8 +12,10 @@ color: indigo
 <div class="dolls">
 	<div class="canvas-wrapper">
 		<div class="dolls-left-side">
-			<canvas class="dolls-canvas"></canvas>
-			<button class="article-button download-link" onclick="downloadDoll()" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">📂</span> Download Image</button>
+			<div class="dolls-canvas">
+				<div class="dolls-canvas-inner"></div>
+			</div>
+			<button class="article-button download-link" onclick="downloadDoll()" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">📂</span> <span class="text">Download Image</span></button>
 		</div>
 	</div>
 	<div class="dolls-editor">
@@ -40,4 +42,5 @@ color: indigo
 	</template>
 </div>
 
+<script src="https://html2canvas.hertzen.com/dist/html2canvas.js"></script>
 <script src="/js/dolls.js"></script>

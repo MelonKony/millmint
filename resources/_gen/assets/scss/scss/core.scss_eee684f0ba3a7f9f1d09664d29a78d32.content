@@ -2818,7 +2818,29 @@ ol {
   width: 100%;
   aspect-ratio: 8/12;
   border-radius: 6px;
-  background: var(--gray-100); }
+  background: var(--gray-100);
+  margin-bottom: 20px;
+  position: relative; }
+  .dolls-canvas .dolls-canvas-inner {
+    width: 100%;
+    height: 100%; }
+  .dolls-canvas .layer,
+  .dolls-canvas .layer img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+  .dolls-canvas .layer img {
+    object-fit: cover;
+    visibility: visible;
+    margin: 0 !important;
+    max-height: initial;
+    opacity: 1;
+    transition: none;
+    animation: none;
+    user-select: none;
+    pointer-events: none; }
 
 .dolls-templates {
   display: none; }

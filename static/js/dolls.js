@@ -84,6 +84,16 @@ const groups = {
 function defineAssets() {
 	dollAssets = [
 		{
+			group: "background",
+			name: "Beach",
+			layers: [
+				{
+					layer: 1,
+					img: img("/doll-assets/bg/beach.jpg"),
+				},
+			],
+		},
+		{
 			group: "skintone",
 			name: "1a",
 			layers: [
@@ -606,11 +616,13 @@ function renderNav() {
 
 	// Check if the color editor should be visible
 	if (groups[currentGroup]?.noColor) colorWrapper.classList.add("color-hidden");
-	let hideColors = true;
+	let hideColors = groupSelections[currentGroup]?.length > 0;
 	for (const assetName of groupSelections[currentGroup] || []) {
 		const asset = dollAssets.find((asset) => asset.name === assetName);
 		if (!asset?.noColor) hideColors = false;
 	}
+	// TODO: re-implement colors
+	hideColors = true;
 	if (hideColors) colorWrapper.classList.add("color-hidden");
 }
 
@@ -678,14 +690,7 @@ function renderOptions() {
 			div.classList.add("active");
 
 		// Add content
-		div.innerHTML = `<!--<img src="https://c.tenor.com/jQfmNt7bNyoAAAAd/squirrel.gif">--><span>${asset.name}</span>`;
-
-		// Lazy loading
-		div.addEventListener("mouseenter", () => {
-			for (const layer of asset.layers) {
-				layer.img.load();
-			}
-		});
+		div.innerText = asset.name;
 
 		// Add click event
 		div.addEventListener("click", () => {
@@ -694,6 +699,7 @@ function renderOptions() {
 			const group = groups[asset.group];
 			if (!groupSelections[asset.group]) groupSelections[asset.group] = [];
 
+			// TODO: clean this up
 			if (group?.multiple) {
 				if (groupSelections[asset.group].includes(asset.name)) {
 					groupSelections[asset.group] = groupSelections[asset.group].filter(
@@ -711,6 +717,7 @@ function renderOptions() {
 					groupSelections[asset.group] = [];
 				else groupSelections[asset.group] = [asset.name];
 			}
+
 			dollsMain(true);
 		});
 
@@ -719,27 +726,33 @@ function renderOptions() {
 }
 
 function drawCharacter() {
-	console.time("drawing");
-	// Real canvas
-	const canvas = document.querySelector(".dolls-canvas");
-	canvas.width = (canvas.scrollWidth || 230) * 3;
-	canvas.height = (canvas.scrollHeight || 345) * 3;
-	render(canvas);
-	console.timeEnd("drawing");
+	render();
 }
 
 function downloadDoll() {
-	// Download link canvas:
-	const downloadableCanvas = document.createElement("canvas");
-	const img = dollAssets[0].layers[0].img;
-	downloadableCanvas.width = img.full.width / 2;
-	downloadableCanvas.height = img.full.height / 2;
-	render(downloadableCanvas, true);
+	render();
+	
+	const downloadText = document.querySelector('.download-link .text');
+	downloadText.innerText = "Downloading..."
 
-	const a = document.createElement("a");
-	a.href = downloadableCanvas.toDataURL();
-	a.download = "character.png";
-	a.click();
+	// Make "canvas" super wide, download image
+	requestAnimationFrame(() => {
+		document.querySelector(".dolls-canvas").style.width = "1000px";
+	
+		html2canvas(document.querySelector(".dolls-canvas-inner"), {
+			backgroundColor: null,
+		}).then((canvas) => {
+			// Download imnage
+			const a = document.createElement("a");
+			a.href = canvas.toDataURL();
+			a.download = "character.png";
+			a.click();
+
+			// Reset button label
+			downloadText.innerText = "Download Image"
+		});
+		document.querySelector(".dolls-canvas").removeAttribute("style");
+	})
 }
 
 function getLayers() {
@@ -756,33 +769,33 @@ function getLayers() {
 	return layers;
 }
 
-function render(canvas, fullRes = false) {
-	const ctx = canvas.getContext("2d");
-
+function render() {
 	// Find all layers for every single selected asset and sort them by their z-index
 	const allLayers = getLayers();
 
-	// Draw all layers
-	for (const layer of allLayers) {
-		ctx.drawImage(
-			layer.img[fullRes ? "full" : "resized"],
-			0,
-			0,
-			canvas.width,
-			canvas.height
-		);
-	}
-}
+	// Clear "canvas"
+	const wrapper = document.querySelector(".dolls-canvas-inner");
+	wrapper.innerHTML = "";
 
-function loadVisibleAssets() {
-	const layers = getLayers();
-	for (const layer of layers) {
-		layer.img.load();
+	// Draw all layers
+	for (const layerInfo of allLayers) {
+		const layer = document.createElement("div");
+		layer.classList.add("layer");
+
+		const layers = Array.isArray(layerInfo.img)
+			? layerInfo.img
+			: [layerInfo.img];
+
+		for (const img of layers) {
+			layer.appendChild(img);
+		}
+
+		console.log(layer, layerInfo);
+		wrapper.appendChild(layer);
 	}
 }
 
 function dollsMain(redraw = true) {
-	loadVisibleAssets();
 	renderNav();
 	renderOptions();
 	if (redraw) drawCharacter();
@@ -790,106 +803,20 @@ function dollsMain(redraw = true) {
 
 function maskImg(path, color, maskName = "mask") {
 	path = `${path}${path.endsWith("/") ? "" : "/"}`;
-	const outline = img(`${path}outline.png`);
-	const mask = maskName !== null ? img(`${path}${maskName}.png`) : outline;
 
-	const canvasSmall = document.createElement("canvas");
-	canvasSmall.width = (canvasSmall.scrollWidth || 230) * 3;
-	canvasSmall.height = (canvasSmall.scrollHeight || 345) * 3;
+	const layers = [];
+	if (maskName) layers.push(img(`${path}${maskName}.png`));
+	layers.push(img(`${path}outline.png`));
 
-	Promise.all([promiseify(outline.full), promiseify(mask.full)]).then(() => {
-		let m = maskName !== null ? mask : undefined;
-		maskImgSize(canvasSmall, color, outline, m, false);
-	});
-
-	return {
-		src: path,
-		full: canvasSmall,
-		resized: canvasSmall,
-		load() {
-			outline.load();
-			mask.load();
-		},
-		setColor(newColor) {
-			console.log("C");
-			if (color === newColor && color && newColor) return;
-
-			let m = maskName !== null ? mask : undefined;
-			maskImgSize(canvasSmall, newColor, outline, m, false);
-
-			drawCharacter();
-		},
-	};
-}
-
-function maskImgSize(canvas, color, outline, mask, full) {
-	const ctx = canvas.getContext("2d");
-
-	if (mask) {
-		ctx.drawImage(
-			mask[full ? "full" : "resized"],
-			0,
-			0,
-			canvas.width,
-			canvas.height
-		);
-	}
-
-	if (color) {
-		// Draw desired background
-		ctx.globalCompositeOperation = "source-in";
-		ctx.fillStyle = color;
-		ctx.fillRect(0, 0, canvas.width, canvas.height);
-	}
-
-	// Add outline
-	ctx.globalCompositeOperation = "source-over";
-	ctx.drawImage(
-		outline[full ? "full" : "resized"],
-		0,
-		0,
-		canvas.width,
-		canvas.height
-	);
+	return layers;
 }
 
 function img(src) {
 	if (imgs[src]) return imgs[src];
 	const img = new Image();
+	img.src = src;
 
-	const offscreenCanvas = document.createElement("canvas");
-
-	promiseify(img).then(() => {
-		// Re-scale image on offscreen canvas for future use
-		const canvas = document.querySelector(".dolls-canvas");
-		const offscreenCtx = offscreenCanvas.getContext("2d");
-		offscreenCanvas.width = canvas.width;
-		offscreenCanvas.height = canvas.height;
-		offscreenCtx.drawImage(img, 0, 0, canvas.width, canvas.height);
-
-		// Set a debounce for re-drawing after image load
-		if (redrawDebounce) clearTimeout(redrawDebounce);
-		redrawDebounce = setTimeout(() => {
-			// Update color on single asset
-			const asset = dollAssets.find((a) =>
-				a.layers.find((l) => src.startsWith(l.img.src))
-			);
-			const color = groupColors[asset.group] || undefined;
-			setMaskColor(asset.name, color);
-
-			drawCharacter();
-		}, 100);
-	});
-
-	imgs[src] = {
-		src,
-		full: img,
-		resized: offscreenCanvas,
-		load() {
-			if (!img.src) console.log("Loading", src);
-			img.src = src;
-		},
-	};
+	imgs[src] = img;
 
 	return imgs[src];
 }
@@ -907,30 +834,3 @@ window.addEventListener("load", () => {
 	defineAssets();
 	dollsMain();
 });
-
-window.addEventListener("beforeunload", (evt) => {
-	clearCanvases(imgs);
-});
-
-function clearCanvases(imgs) {
-	for (const asset of dollAssets) {
-		for (const layer of asset.layers) {
-			let c;
-			if (layer.img.setColor) c = [layer.img.full, layer.img.resized];
-			else c = [layer.img.resized];
-
-			for (const ca of c) clearCanvas(ca);
-		}
-	}
-	for (const key of Object.keys(imgs)) {
-		clearCanvas(imgs[key].resized);
-	}
-}
-
-function clearCanvas(canvas) {
-	console.log(canvas)
-	canvas.width = 1;
-	canvas.height = 1;
-	const ctx = canvas.getContext("2d");
-	ctx.clearRect(0, 0, 1, 1);
-}
