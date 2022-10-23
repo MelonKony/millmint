@@ -25,6 +25,8 @@ AB/NI: Americas Bureau at National Intelligence.
 
 VNR: Vekllei National Rail.
 
+VENOPOR: The Parliamentary Police, the national police service in Vekllei, as distinct from the local constabulary.
+
 /// History
 
 4th Commonwealth: Current postwar government of Vekllei, founded on the Floral Constitution in 2015AD.

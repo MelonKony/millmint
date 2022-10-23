@@ -3,11 +3,15 @@
 <div class="desktop-toc-wrapper-wrapper">
     <div class="desktop-toc-wrapper">
         <div class="desktop-toc">
-            <a href="#" class="toc-title">
-                <span class="toc-emoji">{{ .Params.icon }}</span>
-                <span>{{ .Params.title }}</span>
-            </a>
+            <details class="dropdown" open=true>
+                <summary>
+                    <a href="#" class="toc-title">
+                        <span class="toc-emoji">{{ .Params.icon }}</span>
+                        <span>{{ .Params.title }}</span>
+                    </a>
+                </summary>
             {{ .TableOfContents }}
+            </details>
         </div>
     </div>
 </div>

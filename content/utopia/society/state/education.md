@@ -52,7 +52,7 @@ Nonetheless, there is something quite interesting going on in Vekllei education 
 
 ### Administration and Funding
 
-All forms of education in Vekllei are free, including for international students at a tertiary level. The system is funded by the Commonwealth Education Secretariat (SOLCOM), which also administers the school curriculum and some institutions. directly.
+All forms of education in Vekllei are free, including for international students at a tertiary level. The system is funded by the [Commonwealth Education Secretariat (SOLCOM)](/solcom/), which also administers the school curriculum and some institutions. directly.
 
 ### Schools
 
@@ -118,6 +118,24 @@ Vekllei primary education consists of 7 years, starting with [Prep](#preparatory
 
 ## Curriculum
 
+The Commonwealth Curriculum is the common programme of study in all Commonwealth schools, and determines standards of study across all education institutions.
+
+{{<details title="Vekllei Curriculum" open=true >}}
+* Arts
+* Vekllei Languages
+* Foreign Languages
+* Health and Physical Education
+* Civic Sciences and Stewardship
+* Economics and Business
+* World Study
+* Political Sciences and History
+* Mathematics
+* Material Sciences and Electronics
+* Work Studies
+{{</details>}}
+
+In general it resembles a 
+
 ## Uniform
 
 {{<hint>}}
@@ -138,6 +156,11 @@ All schools in Vekllei share the Education Uniform, made compulsory by the [Educ
 | Shoes  | <ul> <li>Dark or brown leather shoes</li> <li>Dark socks</li> </ul>                                                                                                                                       | <ul> <li>Dark or brown leather shoes</li> <li>white socks</li> </ul>                                                                                                                                                        |                                                                                                    |
 
 The colours of uniforms may vary in constituent member-states of the Commonwealth -- for example, the Kalina Isles use dark green in place of navy. Nonetheless, the Education Uniform standards are set at the Commonwealth level and are generally adopted in whole.
+
+![img](https://images.millmint.net/images/kalinauniform.jpg)
+{{<hint caption>}}
+Examples of Caribbean Commonwealth school uniform featuring local dress.
+{{</hint>}}
 
 Although the items are not issued by individual schools, they are provided by the All-Commonwealth School Directorate on request and as such constitute a uniform rather than a dress code. The uniform system was designed in 2015 by French migrant Charles-Édouard Laurent to be accessible and comfortable, and so that individual items could continue to be worn after schooling concluded. It is iconic overseas and well-regarded by most Vekllei students.
 

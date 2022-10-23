@@ -12,8 +12,8 @@
   weight = 2
   [[navbar]]
     identifier = "vekllei"
-    name = "Vekllei"
-    pre = "🎋"
+    name = "Home"
+    pre = "🏠"
     url = "/utopia/vekllei/"
     parent = "utopia"
     weight = 1

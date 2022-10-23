@@ -265,6 +265,10 @@ These features manifest in various forms throughout modern Vekllei, including it
 ❖ See also: *[On Moneylessness](/news/essays/moneylessness/)*
 {{</hint>}}
 
+{{< hint red >}}
+❖ Read more: <span class="smallicon">💵</span> *[Finance in Vekllei](/finance/)*
+{{</hint>}}
+
 Vekllei is functionally moneyless for most of its citizens, which means they do not use money in day-to-day life, nor are they paid a salary for their work. Employment is in principle participatory, but in practice required by a system called *Consosva* (*Contributory Service*). Work in Vekllei is understood foremost as a social obligation, and Vekllei people generally work only a few days a week.
 
  The country has an unusual hybrid market system called the *Vekllei Bureau System* (known colloquially as *Petticoat Socialism*), which incorporates state-owned socialist planned economics and deregulated syndicalist vertical *bureaus* to benefit a free, unregulated informal market system. Most unique about the Vekllei economy is its functional moneylessness, in which domestic society has abolished currency. No widespread currency substitutes are used in ordinary life. Each citizen owns a share of the [Bank of Vekllei](/utopia/society/state/government/interior/commerce/#bank-of-vekllei), a portion of the *Government Securities Bureau* designed to allow emigration from the country, and so is theoretically entitled to an equal portion of the Bank.
@@ -310,8 +314,8 @@ Postwar Vekllei economics champions free association, home-ownership and informa
 
 Although moneyless domestically, the nation maintains two currencies, known as the *Vekllei Crown* and the *Government Crown* for foreign trade.
 
-- **The Vekllei Crown** is representative of Vekllei's export-import mechanism known as the *International Market*. It is gold-backed, and represents the bullion value of the Market. Since the *International Market* is completely closed and independent of the domestic economy, its value is controlled directly by the so-called Government Bank. It is one of the few gold-backed currencies in a developed nation today.
-- **The Government Crown** is not minted and used only as an investment mechanism, backed by government “white bonds” which are usually measures of labour-hours or refined materials. It is, in a sense, a fiat currency alongside a gold-backed currency.
+- [**The Vekllei Crown**](/utopia/society/state/finance/#vekllei-crown-vk) is representative of Vekllei's export-import mechanism known as the *International Market. It is gold-backed, and represents the bullion value of the Market. Since the *International Market* is completely closed and independent of the domestic economy, its value is controlled directly by the so-called Government Bank. It is one of the few gold-backed currencies in a developed nation today.
+- [**The Government Crown**](/utopia/society/state/finance/#government-crown-ak) is not minted and used only as an investment mechanism, backed by government “white bonds” which are usually measures of labour-hours or refined materials. It is, in a sense, a fiat currency alongside a gold-backed currency.
 
 Both currencies are used for trade internationally, and float on the labour-power of the domestic economy. The Vekllei Crown is minted as a novelty, but otherwise no money is printed in the country, since Government Crowns are essentially labour-backed state bonds. Moneylessness benefits citizens in many ways, as Vekllei people do not typically maintain debts, have access to unlimited small commodities, and enjoy some of the shortest workdays and working weeks in the world, with all citizens afforded two months holiday each year.
 
@@ -322,6 +326,10 @@ Vekllei has a high unemployment rate for a developed country, reported at 12.5%.
 Since no work is compensated by money in the country, international standard metrics for poverty and income per capita are obfuscated. It is generally understood that urban populations have easier access to consumer goods, but inferior access to local produce and genuine meat products. Rural populations are also more likely to take on informal work in their village or town, and may not necessarily hold membership in an industry bureau.
 
 ### Industry
+
+{{< hint red >}}
+❖ Read more: <span class="smallicon">🏬</span> *[State Assets in Vekllei](/assets/)*
+{{</hint>}}
 
 All commercial enterprise in Vekllei is founded along two legal and cultural classifications:
 
