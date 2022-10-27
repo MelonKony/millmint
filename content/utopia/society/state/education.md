@@ -28,8 +28,8 @@ author: Hobart Phillips
 
 ## Overview
 
-{{< hint >}}
-߷ This article is UNFINISHED. It will be completed in the next couple of days.
+{{<hint>}}
+߷ This article is about [Vekllei](/intro/#what-is-vekllei). It **UNFINISHED** and will be completed in the next couple days.
 {{</hint>}}
 
 {{<hint panel>}}
@@ -38,7 +38,7 @@ author: Hobart Phillips
 
 Education in Vekllei is a good example of the 'system working backwards,' the popular phrase to describe the Floral Period moving in two different directions at once. Is it modern, supplied and robust in the Western tradition -- children wear uniforms, are divided into school years and knowledge is arranged and taught in subjects.
 
-Nonetheless, there is something quite interesting going on in Vekllei education that is not immediately apparent at its surface. First, compulsory schooling runs for 4-5 days a week, depending on student commitments to elective and extracurricular activities. Government schools do not employ standardised testing, and rely on subject-specific means of assessment including reviews, presentations and portfolios. The [Vekllei Curriculum](#curriculum) emphasises practicable and technical skills that blur the lines between school, community and home. And most of all -- education in Vekllei is considered primarily a 
+Nonetheless, there is something quite interesting going on in Vekllei education that is not immediately apparent at its surface. First, compulsory schooling runs for 4-5 days a week, depending on student commitments to elective and extracurricular activities. Government schools do not employ standardised testing, and rely on subject-specific means of assessment including reviews, presentations and portfolios. The [Vekllei Curriculum](#curriculum) emphasises practicable and technical skills that blur the lines between school, community and home. At its core, education in Vekllei is considered a foundation of Vekllei democracy, and like other foundations it is free, abundant and compulsory.
 
 > Education is a founding aspect of the 4th Commonwealth and is to be reaffirmed constantly and faithfully by all Parliaments and public servants, and to this end is to be provided for as a highest priority of the new Parliament.
 
@@ -110,9 +110,19 @@ Vekllei primary education consists of 7 years, starting with [Prep](#preparatory
 
 #### College
 
+The final year of school in Vekllei usually includes a class trip overseas, traditionally to Europe or Asia, to celebrate graduation.
+
 ### Tertiary Education
 
+The Commonwealth invests heavily in tertiary education as both a social good and a product marketable overseas. Vekllei universities rank highly abroad, and education as a service is a major export of Vekllei, and assists
+
+Universities in Vekllei offer places to students who have completed their Education Award and satisfy the prerequisites for their subject. These requirements differ between subjects, and usually include an interview with the admissions board.
+
+In order to study abroad, Vekllei students must be sponsored by a foreigner, receive a partial scholarship from an overseas university, or receive funding from their tertiary place of study. About one in four Vekllei students study overseas for some period of time. 
+
 #### University
+
+Vekllei International University offers 
 
 #### Vocational Schools
 
