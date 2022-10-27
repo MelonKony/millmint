@@ -51,7 +51,7 @@ Vekllei government is highly decentralised and includes several competing parlia
 ## Function & Policy
 
 {{<hint>}}
-❖ Read more: *[State Assets Directorate](/utopia/society/state/government/interior/commonwealth/#state-assets-directorate)*
+✿ Read more: *[State Assets Directorate](/utopia/society/state/government/interior/commonwealth/#state-assets-directorate)*
 {{</hint>}}
 
 The Vekllei economy is largely inefficient for a [variety of poltical and cultural reasons](/posts/2020-07-13-economy/), and this has resulted in an array of unique economic conditions that require different macroeconomic thinking to nations overseas. Although the Vekllei economy is functionally unmoneyed for Vekllei people, the Vekllei primary market is highly complex and involves intricate constellations of commodity markets, social factors of production, and tremendous public finance.
@@ -64,7 +64,7 @@ Vekllei does not resemble a modern consumer society, and so state assets are not
 ## Types
 
 {{< hint >}}
-**❖ Note from the Editor**
+**✿ Note from the Editor**
 This list is incomplete, and serves as a reference for the evolving industrial documentation of this site.
 {{</hint>}}
 

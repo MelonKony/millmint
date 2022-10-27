@@ -25,7 +25,7 @@ a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, bo
 <h6 span class="sitetag">Newsdesk</h6>
 
 {{<hint panel>}}
-❖ [**Hobart**](/news/about/) streams drawings live every **Mon, Wed, and Fri** from **10am AEST**.
+✿ [**Hobart**](/news/about/) streams drawings live every **Mon, Wed, and Fri** from **10am AEST**.
 {{</hint>}}
 
 <iframe src="https://player.twitch.tv?channel=melonkony&amp;parent=millmint.net&amp;referrer=https%3A%2F%2Fmillmint.net%2Flive%2F" frameborder="0" allowfullscreen="true" scrolling="no" border-radius="5px" height="378" width="100%"></iframe>

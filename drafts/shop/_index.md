@@ -7,7 +7,7 @@ list_posts: false
 </div>
 
 {{< hint yellow >}}
-❖ **This shop** is under construction. You cannot buy anything and you will not buy anything until it is live. It will soon feature tee shirts, pins, tote bags and miscellaneous items of Zelda's persuasions.
+✿ **This shop** is under construction. You cannot buy anything and you will not buy anything until it is live. It will soon feature tee shirts, pins, tote bags and miscellaneous items of Zelda's persuasions.
 {{</hint>}}
 
 <div class="shop-grid">

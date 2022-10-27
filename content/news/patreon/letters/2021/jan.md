@@ -17,7 +17,7 @@ author: Hobart Phillips
 ![smallimg](https://images.millmint.net/images/mastheads/letters/3.jpg)
 
 {{< hint >}}
-❖ This letter was sent out to Patrons in January 2021
+✿ This letter was sent out to Patrons in January 2021
 {{</hint>}}
 
 Hello beloved patrons,

@@ -58,7 +58,7 @@ The size, speed and accessibility of data storage in Vekllei means that more dat
 ### Fabricated Live Robotics
 
 {{< hint >}}
-❖ Read more: *[Robots in Vekllei](/posts/2021-01-11-automen/)*
+✿ Read more: *[Robots in Vekllei](/posts/2021-01-11-automen/)*
 {{</hint>}}
 
 Although processing is usually offloaded to more powerful master computers, Vekllei makes extensive use of organic robotics to automate processes and functions where adaptivity to sensory input is required. These robots, called *automasiosn* or 'automen,' combine fabricated organic brains with photo-electric circuits to create a programmable, adaptive robot.

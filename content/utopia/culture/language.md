@@ -45,7 +45,7 @@ author: Hobart Phillips
 ### Introduction
 
 {{< hint >}}
-❖ Read more: *[How to Speak Vekllei](/posts/2020-11-14-language/)*
+✿ Read more: *[How to Speak Vekllei](/posts/2020-11-14-language/)*
 {{</hint>}}
 
 >*What is the worth of the worthless?  I think it is the existence of a marvellous intuitive physicality. That is, if we use words to carve out things as having certain functions and certain uses to human beings, we overlook something very important.*
@@ -176,7 +176,7 @@ Despite common use of the phonetic system in modernity, the semantic readings of
 ### Structure
 
 {{< hint >}}
-❖ Read more: *[How to Read Vekllei](/posts/2021-05-31-topet/)*
+✿ Read more: *[How to Read Vekllei](/posts/2021-05-31-topet/)*
 {{</hint>}}
 
 Individual *Topet* characters are both semantic and phonetic, and can be written in a phonetic abugida (with semantic weight carried by the initial character-group) or as a single character group. The abugida-form is phonetic and aids vocalisation through its *hieyerette* characters. The single character group-form is pictographic, and generally replaces the abugida in contexts where the pronunciation is commonly known or obvious. In these character groups, only one *demioette* character is vocalised, called the *principle*, and the *hieyerette* characters are simply not written.
@@ -206,7 +206,7 @@ Contemporary *Rapotenne* is informed by pictographic proto-*Topet* runes as well
 
 ## Potenne
 {{< hint >}}
-❖ **Try Potenne yourself!** Hold out your thumb and forefinger on one hand, and tuck the other fingers against your palm. You've just said "good to see you again."
+✿ **Try Potenne yourself!** Hold out your thumb and forefinger on one hand, and tuck the other fingers against your palm. You've just said "good to see you again."
 {{</hint>}}
 
 {{< hint panel >}}

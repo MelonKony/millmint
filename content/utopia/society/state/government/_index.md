@@ -93,7 +93,7 @@ Together, these two parliaments make up the combined Government of Vekllei. It i
 ### Parliament of the Interior
 
 {{< hint >}}
-❖ Main article: *[The Interior Parliament](/utopia/society/state/government/interior)*
+✿ Main article: *[The Interior Parliament](/utopia/society/state/government/interior)*
 {{</hint>}}
 
 The *Administration of the Interior of the Government of Vekllei* (also known as the *Interior Government* or *Interior Parliament*) represents the human state of the Vekllei Home Islands, as well as its dependent possessions. It includes all 100 [boroughs](/utopia/landscape/boroughs/) of the Home Islands and its peripheral island possessions. Independent Commonwealth member-states Demon and Aismious lack the population to govern themselves independently, and so are dependent on the Interior Government. Other members of the Commonwealth, including Kalina, Kala and Mira, have parliaments (also called Interior Administrations) similar to the Vekllei Administration of the Interior.
@@ -105,7 +105,7 @@ The Interior Government is made up of 10 ministries which retain total authority
 ### Parliament of the Commonwealth
 
 {{< hint >}}
-❖ Main article: *[The Commonwealth Parliament](/utopia/society/state/government/commonwealth)*
+✿ Main article: *[The Commonwealth Parliament](/utopia/society/state/government/commonwealth)*
 {{</hint>}}
 
 Although each member of the Atlantic Commonwealth is considered a full participant of equal importance, administration in practice occurs in the [Vekllei Islands](/utopia/vekllei/), its most populous and industrious member state. Many features of Floral Society are universal among Commonwealth members, and the Administration of the Commonwealth serves, maintains and standardises the values of Floral Society across the Atlantic.
@@ -116,7 +116,7 @@ Although each member of the Atlantic Commonwealth is considered a full participa
 ### Parliament of the Crown 
 
 {{< hint >}}
-❖ Main article: *[The Crown Parliament](/utopia/society/state/government/crown)*
+✿ Main article: *[The Crown Parliament](/utopia/society/state/government/crown)*
 {{</hint>}}
 
 The *Commonwealth Administration of the Crown* (also the Crown Sovereign and Parliament of Spirits interchangeably), not to be confused with the [Palace of the Vekllei Sovereign](/utopia/society/government/#palace-of-the-vekllei-sovereign), is the administration-level apparatus of the Commonwealth to coordinate policy with the Palace. Since the Commonwealth does not have direct authority over the features of the Sovereign, the Crown Parliament acts as its human representative in Vekllei government. Although it sits above the Commonwealth and Interior parliaments in sovereignty, its responsibilities are limited to constitutional matters and aspects of the Vekllei legal system. 

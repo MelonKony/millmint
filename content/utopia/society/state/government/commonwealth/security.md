@@ -53,9 +53,13 @@ Commonwealth member-states usually maintain their own [defence ministries](/utop
 {{<outline>}}
 ### National Intelligence Directorate
 
-The *National Intelligence Directorate* (N.I.) the secret service of the Commonwealth and Vekllei's primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It comprises of 40 semiautonomous outlines, which each may operate several offices. This complex and comprehensive intelligence organisation contributes to its legendary reputation abroad, and conspiracies of its presence in almost every country.
+{{<hint>}}
+✿ Read more: <span class="smallicon">🔎</span> [Espionage in Vekllei](/espionage/)
+{{</hint>}}
 
-The N.I. is unique in its broad recruitment of foreigners, many of whom are promised citizenship and residency in Vekllei. Many N.I. outlines recruit locally, and manage foreign assets through Vekllei-born supervisors.
+The *National Intelligence Directorate* (Noshem, or N.I.) the secret service of the Commonwealth and Vekllei's primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It comprises of 40 semiautonomous outlines, which each may operate several offices. This complex and comprehensive intelligence organisation contributes to its legendary reputation abroad, and conspiracies of its presence in almost every country.
+
+Noshem is unique in its broad recruitment of foreigners, many of whom are promised citizenship and residency in Vekllei. Many Noshem outlines recruit locally, and manage foreign assets through Vekllei-born supervisors.
 
 #### Home Office (HO/NI)
 
@@ -134,7 +138,7 @@ The *Special Protectorate Bureau* at *National Intelligence* (SP/NI) reports inf
 {{<outline>}}
 ### Public Security Directorate
 
-The *Public Security Directorate* (POSEC) is primarily tasked with intelligence related to public security, and is closely linked to the domestic intelligence-gathering activities of [HO/NI](#home-office-honi). POSEC is a directorate that primarily services the interests of the public, which distinguishes it from [National Intelligence](#national-intelligence-directorate) amd [SESEC](#state-security-directorate). To this end, it coordinates closely with the [Police of the Parliament](/utopia/society/state/government/interior/defence/#police-of-the-parliament) to conduct operations against terrorism, smuggling, organised crime and civil unrest.
+The *Public Security Directorate* (Cosevac, or POSEC) is primarily tasked with intelligence related to public security, and is closely linked to the domestic intelligence-gathering activities of [HO/NI](#home-office-honi). POSEC is a directorate that primarily services the interests of the public, which distinguishes it from [National Intelligence](#national-intelligence-directorate) amd [SESEC](#state-security-directorate). To this end, it coordinates closely with the [Police of the Parliament](/utopia/society/state/government/interior/defence/#police-of-the-parliament) to conduct operations against terrorism, smuggling, organised crime and civil unrest.
 
 * **General Office**: POSEC administration.
 * **TERSEC Bureau**: Counterterrorism intelligence and operations.
@@ -145,7 +149,7 @@ The *Public Security Directorate* (POSEC) is primarily tasked with intelligence 
 {{<outline>}}
 ### State Security Directorate
 
-The *State Security Directorate* (SESEC) is primarily responsible for the security of the state itself, including all Vekllei parliaments, its ministries, secretariats and features, and its civil service and employees. It monitors, investigates and eliminates threats within and without the [Vekllei Government](/utopia/society/state/government/) and [Palace](/utopia/society/state/palace/), and controls privileged information of the Vekllei parliaments.
+The *State Security Directorate* (Vosevisi, or SESEC) is primarily responsible for the security of the state itself, including all Vekllei parliaments, its ministries, secretariats and features, and its civil service and employees. It monitors, investigates and eliminates threats within and without the [Vekllei Government](/utopia/society/state/government/) and [Palace](/utopia/society/state/palace/), and controls privileged information of the Vekllei parliaments.
 
 SESEC works closely with the [Home Office of National Intelligence](#home-office-honi), the National Intelligence Directorate organ responsible for the internal security of Vekllei's intelligence network. In cases of internal breaches of security, the SESEC acts as investigator and prosecutor. It includes the following departments.
 

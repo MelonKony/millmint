@@ -186,7 +186,7 @@ VNR's main freight lines run mostly on a seperate gauge and network, and are com
 ## Operations
 
 {{< hint >}}
-❖ Read more: *[Station Logic](/posts/2021-06-01-station-logic/)*
+✿ Read more: *[Station Logic](/posts/2021-06-01-station-logic/)*
 {{</hint>}}
 
 {{< hint panel >}}
@@ -207,7 +207,7 @@ VNR services are mostly unticketed, and as a Vekllei industry, are free to ride.
 ![smallimg](https://images.millmint.net/images/vnr.jpg)
 
 {{< hint >}}
-❖ Read more: *[The People of Vekllei National Rail](/posts/2021-04-25-rail/)*
+✿ Read more: *[The People of Vekllei National Rail](/posts/2021-04-25-rail/)*
 {{</hint>}}
 
 VNR employs 65,240 people, which include roles ranging from locomotive engineers and platform staff to editors of rail enthusiast periodicals. It is also one of the largest employers of 12-16 year olds in the country, via its Station Apprentice programme, unique among organisations of its size.
@@ -218,7 +218,7 @@ The organisation is administered by the President of the Rail Central Office, wh
 ### Fleet
 
 {{< hint >}}
-❖ Download the <span class="smallicon">📄</span> [VNR Rolling Stock List (PDF)](/files/factbook/VNR-Rolling-Stock-Bulletin.pdf)
+✿ Download the <span class="smallicon">📄</span> [VNR Rolling Stock List (PDF)](/files/factbook/VNR-Rolling-Stock-Bulletin.pdf)
 {{</hint>}}
 
 Vekllei National Rail is perhaps unsurpassed in its variety of trainsets and their length of service. An unofficial policy of preservation has ensured that every unit type since the 1980s has seen an ongoing minor presence in current service. VNR rarely retires a trainset completely -- in keeping with the contemporary cultural-political valuation of machines, a few units of each model are retained on various lines for their historical and technical significance. This includes steam locomotives, which continue to operate regular passengers service on some routes.

@@ -21,7 +21,7 @@ author: Hobart Phillips
  
 ---
 {{< hint >}}
-**❖ Note from the Editor**
+**✿ Note from the Editor**
 This essay was written in June 2021. [Click here to see it as a post](/posts/2021-06-26-utopie).
 {{</hint>}}
 

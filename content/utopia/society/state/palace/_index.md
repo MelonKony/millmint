@@ -20,7 +20,7 @@ comments: false
 toc: true
 ---
 {{< hint >}}
-❖ Main article: *[The Government of Vekllei](/utopia/society/state/government/parliaments)*
+✿ Main article: *[The Government of Vekllei](/utopia/society/state/government/parliaments)*
 {{</hint>}}
 
 {{< hint panel >}}

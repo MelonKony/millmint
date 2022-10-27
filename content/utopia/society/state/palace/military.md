@@ -47,7 +47,7 @@ author: Hobart Phillips
 ### Crown Mail of Vekllei
 
 {{< hint >}}
-❖ Main article: *[The Crown Mail of Vekllei](/utopia/society/mail)*
+✿ Main article: *[The Crown Mail of Vekllei](/utopia/society/mail)*
 {{</hint>}}
 
 #### General Office

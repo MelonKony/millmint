@@ -35,7 +35,7 @@ The *Fair Work Authority* (FWA) is the Commonwealth industrial relations tribuna
 {{<outline>}}
 ### Quality of Life Surveillance Commission
 {{< hint >}}
-❖ Read more: *[The Quality of Life Surveillance Commission](/posts/2021-06-29-qlc/)*
+✿ Read more: *[The Quality of Life Surveillance Commission](/posts/2021-06-29-qlc/)*
 {{</hint>}}
 {{</outline>}}
 {{<outline>}}

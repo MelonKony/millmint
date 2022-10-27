@@ -23,7 +23,7 @@ reddit: https://www.reddit.com/r/vekllei/comments/ldfq1p/racing_the_post_office_
 ---
 
 {{<hint>}}
-❖ **This article** was part of Vekllei's ***Mail Week*** in February 2021
+✿ **This article** was part of Vekllei's ***Mail Week*** in February 2021
 {{</hint>}}
 
 *It was the hottest day of June so far, in that time of year where the sun never set on Vekllei. It was the first week of sleepless nights; the windows thrown open, air sticky and pungent with the smells of the rainforests, tossing and turning in the heat.*

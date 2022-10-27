@@ -21,7 +21,7 @@ author: Hobart Phillips
  
 ---
 {{< hint >}}
-**❖ Note from the Editor**
+**✿ Note from the Editor**
 This article was **originally published** in **December 2018**. Yes, it’s painfully self-concerned and a little difficult to read back, but for newcomers to the project you might find some “obvious truths” about Vekllei you have not yet encountered.
 {{</hint>}}
 

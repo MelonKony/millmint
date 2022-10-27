@@ -20,7 +20,7 @@ description: The government of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 ---
 {{<hint>}}
-❖ Main article: *[The Government of Vekllei](/utopia/society/state/government/parliaments)*
+✿ Main article: *[The Government of Vekllei](/utopia/society/state/government/parliaments)*
 {{</hint>}}
 
 {{< details title="Crown Companies in Vekllei" open=true >}}

@@ -37,7 +37,7 @@ author: Hobart Phillips
 ### National Railways Bureau
 
 {{< hint >}}
-❖ Read more: *[Vekllei National Rail](/utopia/society/industry/rail/)*
+✿ Read more: *[Vekllei National Rail](/utopia/society/industry/rail/)*
 {{</hint>}}
 
 The National Railways Bureau is the parent administrator of all rail transport in Vekllei. Its subordinate organisations hold a monopoly on rail transport in the country, including operating rail services, manufacturing and research. Organised as a vertical industrial bureau, services are operated by a variety of companies on behalf of National Railways. The Railways Bureau also maintains magway and metro services.
@@ -48,7 +48,7 @@ The National Railways Bureau is the parent administrator of all rail transport i
 {{<outline>}}
 ### National Skies Bureau
 {{< hint >}}
-❖ Read more: *[Airways in Vekllei](/utopia/society/industry/air/)*
+✿ Read more: *[Airways in Vekllei](/utopia/society/industry/air/)*
 {{</hint>}}
 
 {{</outline>}}

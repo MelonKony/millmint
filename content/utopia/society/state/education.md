@@ -47,7 +47,7 @@ Nonetheless, there is something quite interesting going on in Vekllei education 
 ## Structure
 
 {{<hint>}}
-❖ Download <span class="smallicon">📄</span> [Document No. 7.pdf](/files/documents/7.pdf)
+✿ Download <span class="smallicon">📄</span> [Document No. 7.pdf](/files/documents/7.pdf)
 {{</hint>}}
 
 ### Administration and Funding
@@ -77,7 +77,7 @@ Studio and technical schools typically refer to secondary schools that specialis
 ## Education
 
 {{<hint>}}
-❖ Read more: *[Ministry of Commerce](/utopia/society/state/government/interior/commerce/)*
+✿ Read more: *[Ministry of Commerce](/utopia/society/state/government/interior/commerce/)*
 {{</hint>}}
 
 Vekllei people are enrolled in 9 years of compulsory education, provided by the [Commonwealth Education Secretariat](/solsec/) (SOLSEC). In addition, 3 years of pre-school and 3 years of senior secondary schooling are offered but not compulsory. All schools in Vekllei are funded by the state, which include community schools, state schools, studio schools, technical schools, faith schools and state boarding schools.
@@ -149,7 +149,7 @@ In general it resembles a
 ## Uniform
 
 {{<hint>}}
-❖ Read more: *[Uniforms in Vekllei](/stories/uniforms/)*
+✿ Read more: *[Uniforms in Vekllei](/stories/uniforms/)*
 {{</hint>}}
 
 ![img](https://images.millmint.net/images/generation.jpg)

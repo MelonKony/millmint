@@ -17,8 +17,12 @@ Atlantic Municipalism, Sundress Municipalism: The ideology of localism and co-op
 Pan-Atlanticists: Faction of Vekllei politics promoting greater centralisation of Commonwealth power over constituents.
 Petticoat Society: The Floral Period; the postwar period of democracy and moneylessness.
 Petticoat Socialism: An informal phrase for the moneyless system in Vekllei's 4th Commonwealth.
+Assertive Defence: The policy of interventionism to assist a defensive strategic posture.
 
 /// Acronyms
+
+Noshem: The National Intelligence Directorate of the Commonwealth Security Secretariat, Vekllei's overseas secret service.
+Adsem: The military intelligence department of the Commonwealth's armed forces.
 
 HO/NI: Home Office at National Intelligence.
 AB/NI: Americas Bureau at National Intelligence.
@@ -26,6 +30,7 @@ AB/NI: Americas Bureau at National Intelligence.
 VNR: Vekllei National Rail.
 
 VENOPOR: The Parliamentary Police, the national police service in Vekllei, as distinct from the local constabulary.
+COSMOPOR: The Public Police, the local police service in Vekllei who are often unarmed.
 
 /// History
 

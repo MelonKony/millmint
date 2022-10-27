@@ -26,7 +26,7 @@ reddit: https://www.reddit.com/r/vekllei/comments/i1fgjd/meet_tzipora_concept_pa
 ---
 
 {{<hint story>}}
-❖ **This article** was featured in [**Issue #3**](/news/bulletin/2020/3) of the *Atlantic Bulletin*
+✿ **This article** was featured in [**Issue #3**](/news/bulletin/2020/3) of the *Atlantic Bulletin*
 {{</hint>}}
 
 ## Unique among girls

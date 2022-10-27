@@ -22,7 +22,7 @@ reddit: https://www.reddit.com/r/vekllei/comments/m21j78/veklleis_sprawling_comm
 ---
 
 {{<hint>}}
-❖ **This article** was part of Vekllei's ***Ocean Month*** in March 2021
+✿ **This article** was part of Vekllei's ***Ocean Month*** in March 2021
 {{</hint>}}
 
 *Welcome again to Ocean Month. If you have questions, just ask.*

@@ -1893,6 +1893,16 @@ article#collapsible_menu_changelogs {
   font-weight: normal;
   color: var(--color-gray); }
 
+.edit-date {
+  height: auto;
+  width: auto;
+  margin: 0;
+  font-size: 0.75rem;
+  text-align: center;
+  vertical-align: middle;
+  padding: 5px;
+  color: var(--color-gray); }
+
 @keyframes whirlyAnimate {
   0% {
     font-variation-settings: "anim" 100; }

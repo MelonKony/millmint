@@ -24,7 +24,7 @@ reddit: https://www.reddit.com/r/vekllei/comments/is6pr2/matchstick_girl/
 ---
 
 {{<hint story>}}
-❖ **This article** was featured in [**Issue #5**](/news/bulletin/2020/5) of the *Atlantic Bulletin*
+✿ **This article** was featured in [**Issue #5**](/news/bulletin/2020/5) of the *Atlantic Bulletin*
 {{</hint>}}
 
 *Another paint-sketch — a painting done fast. I’m trying to learn to a) paint and b) paint on an industrial scale.*

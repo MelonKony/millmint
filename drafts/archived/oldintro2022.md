@@ -26,7 +26,7 @@ author: Hobart Phillips
 ## What is this project?
 
 {{< hint >}}
-❖ Check out the [**FAQ**](/intro/faq)
+✿ Check out the [**FAQ**](/intro/faq)
 {{</hint>}}
 
 **My stories are about good places and people**. That's the gist of it. [Vekllei](/utopia/vekllei/) is a fictional country where I demonstrate good things by drawing and writing about them. It's part-escapism, part-fantasy, and all good.
@@ -69,7 +69,7 @@ This project has three parts. Each part is a little utopia, in the sense that it
 ## What is Vekllei?
 
 {{< hint >}}
-❖ Main article: [*Vekllei*](/utopia/vekllei)
+✿ Main article: [*Vekllei*](/utopia/vekllei)
 {{</hint>}}
 
 **Vekllei** (pronounced '**Veck-lie**,' or **/vƐk.laɪ/**) is an island country set in what we know as *Iceland*. Vekllei is its own country, and does not look or feel like Iceland. It has unique cultures, ethnicites, and landscapes. It is an old country, having been settled for thousands of years by native Algic peoples and Scandinavians. It is also a new county, having suffered a nuclear attack at the beginning of the 21st Century which extinguished much of its old civil society.

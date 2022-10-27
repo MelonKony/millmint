@@ -22,7 +22,7 @@ author: Hobart Phillips
  
 ---
 {{< hint >}}
-**❖ Note from the Editor**
+**✿ Note from the Editor**
 This article was **originally published** in **October 2019**. This article was written shortly after my return from Hong Kong, where I got caught up in the pro-democracy protests and is a broad response to Australian coverage of the ongoing events.
 {{</hint>}}
 

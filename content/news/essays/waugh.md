@@ -22,7 +22,7 @@ author: Hobart Phillips
 ---
 
 {{< hint >}}
-**❖ Note from the Editor**
+**✿ Note from the Editor**
 This article was **originally published** in **October 2019**. It offers an analysis of Evelyn Waugh's *Handful of Dust* through an anti-utopian prism.
 {{</hint>}}
 

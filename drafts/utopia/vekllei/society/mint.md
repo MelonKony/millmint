@@ -62,7 +62,7 @@ color: var(--color-orange);
 ߷ This article is about [**Vekllei**](/utopia/vekllei) society
 {{</hint>}}
 {{< hint orange >}}
-❖ This article is **awaiting illustrations**
+✿ This article is **awaiting illustrations**
 {{</hint>}}
 
 ## 1. Overview
@@ -102,7 +102,7 @@ The Mint is an executive government agency directly operated by the Vekllei Gove
 ## 2. Coinage
 
 {{< hint orange >}}
-❖ Read more: *[The Vekllei Crown](/posts/2020-06-24-crown/)*
+✿ Read more: *[The Vekllei Crown](/posts/2020-06-24-crown/)*
 {{</hint>}}
 
 {{< hint panel >}}
@@ -166,7 +166,7 @@ The **Labour Bank of Vekllei**[^2] is easily accessible via the Mail's **Financi
 ![img](/images/manufacturie.jpg)
 
 {{< hint orange >}}
-❖ Read more: *[Gold Sappers](/posts/2021-04-09-sappers/)*
+✿ Read more: *[Gold Sappers](/posts/2021-04-09-sappers/)*
 {{</hint>}}
 
 {{< hint panel >}}
@@ -194,7 +194,7 @@ There are 16,220 post boxes in Vekllei, which are iconic for their red and gold 
 ### Fleet
 
 {{< hint orange >}}
-❖ Read more: *[The Fairie](/posts/2021-02-03-fairie/)*
+✿ Read more: *[The Fairie](/posts/2021-02-03-fairie/)*
 {{</hint>}}
 
 The Mail retains a large and diverse fleet of vehicles in regular operations, which, due to their diversity and and expense, have become iconic around the world. From bicycles to space planes, the Mail's fleet of vehicles rivals in diversity postal services three times its size, largely benefitted by Vekllei's obfuscated budgeting system and cultural importance afforded to the organisation.

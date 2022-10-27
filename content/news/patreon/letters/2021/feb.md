@@ -17,7 +17,7 @@ author: Hobart Phillips
 ![smallimg](https://images.millmint.net/images/sketches/thinking.jpg)
 
 {{< hint blue >}}
-❖ This letter was sent out to Patrons in February 2021
+✿ This letter was sent out to Patrons in February 2021
 {{</hint>}}
 
 **Hello beloved Patrons,**

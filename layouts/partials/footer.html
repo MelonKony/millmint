@@ -36,9 +36,12 @@
   </div>-->
 {{ end }}
 
-  {{ with (.Scratch.Get "params").footer }}
-      <article style="margin-top: 0rem; margin-bottom: 0rem;">
-          {{- . | safeHTML -}}
-      </article>
-  {{ end }}
+{{ with (.Scratch.Get "params").footer }}
+    <div style="margin-top: 0rem; margin-bottom: 0rem;">
+        {{- . | safeHTML -}}
+    </div>
+{{ end }}
+<!-- last edit date -->
+<div class="edit-date">Edited {{ .Lastmod.Format "02/01/2006" }}</div>
+  
 </footer>

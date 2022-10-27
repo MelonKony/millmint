@@ -23,7 +23,7 @@ reddit: https://www.reddit.com/r/vekllei/comments/i6528h/the_31st_century_veklle
 ---
 
 {{<hint story>}}
-❖ **This article** was featured in [**Issue #4**](/news/bulletin/2020/4) of the *Atlantic Bulletin*
+✿ **This article** was featured in [**Issue #4**](/news/bulletin/2020/4) of the *Atlantic Bulletin*
 {{</hint>}}
 
 ## The Epoch of Rest

@@ -94,8 +94,8 @@ The *Bureau of Supply* is a specialised defence organ that coordinates supply an
 {{<outline>}}
 ### Police of the Parliament
 
-{{< hint >}}
-❖ Read more: *[The Police of the Parliament](/posts/2022-01-11-police/#venopor--the-police-of-the-parliament)*
+{{<hint>}}
+✿ Read more: *[The Police of the Parliament](/stories/police/)*
 {{</hint>}}
 
 The *Police of the Parliament* (also National Police, or VENOPOR) are the national and paramilitary police of Vekllei, responsible for internal security, riot control, counter-terrorism, disaster response, law enforcement and maritime rights protection. The VENOPOR is made up of a variety of organisations dedicated to specialised and tactical forms of policing unavailable to the [Police of the Public](#police-of-the-public). As a paramilitary force, the VENOPOR are also trained to support the [Crown Armed Forces](/utopia/society/state/palace/military/) in wartime, and coordinate broad mobilisation in the event of a defensive war.
@@ -109,7 +109,7 @@ VENOPOR jurisdiction is organised within the individual theatre commands of the 
 ##### Companies Section of the Parliament Police
 
 {{<hint>}}
-❖ Read more: *[Compor, Vekllei's Special Police](/stories/compor/)*
+✿ Read more: *[Compor, Vekllei's Special Police](/stories/compor/)*
 {{</hint>}}
 
 The *Companies Section* (Compor) is a paramilitary and riot control unit concerned with maintaining public peace. Compor moves to meet riots, participate in counter-terrorism and counter-espionage operations, and support the Crown Armed Forces in wartime.
@@ -117,7 +117,7 @@ The *Companies Section* (Compor) is a paramilitary and riot control unit concern
 ##### Rifles Section of the Parliament Police
 
 {{<hint>}}
-❖ Read more: *[The Rifles Section](/stories/rifles/)*
+✿ Read more: *[The Rifles Section](/stories/rifles/)*
 {{</hint>}}
 
 The *Rifles Section* is a special weapons unit employing specially-trained officers and tactical vehicles for high-risk situations. They are tasked primarily with counter-terrorism, hostage and weapons situations.
@@ -133,7 +133,7 @@ The *Animals Section* employs officers trained in animal-handling and their anim
 ##### Coast Guard of the Parliament Police
 
 {{< hint >}}
-❖ Read more: *[The Vekllei Coast Guard](/posts/2021-11-14-coastguard/)*
+✿ Read more: *[The Vekllei Coast Guard](/posts/2021-11-14-coastguard/)*
 {{</hint>}}
 
 The *Vekllei Coast Guard* (also the *Navy of the Parliament* or the *Coast Guard of the Parliament Police*) is the maritime naval police of Vekllei responsible for search and rescue and law enforcement in the territorial waters of Vekllei.
@@ -147,7 +147,7 @@ The *Customs of Vekllei* (also the *Vekllei Customs* and the *Customs of the Par
 ##### Mint Guard of the Parliament Police
 
 {{< hint >}}
-❖ Read more: *[Gold Sappers](/posts/2021-04-09-sappers/)*
+✿ Read more: *[Gold Sappers](/posts/2021-04-09-sappers/)*
 {{</hint>}}
 
 The *Mint Guard* (also *Gold Sappers*) are responsible for the security of financial assets in Vekllei, particularly currency and gold reserves minted and held by the Vekllei National Mint. In addition to providing security for Mint sites and infrastructure, the Mint Guard also escorts the transfer of Vekllei currency and gold internationally.
@@ -167,8 +167,9 @@ The *Militia* of the Parliament Police are an auxiliary and reserve force of the
 {{</outline>}}
 {{<outline>}}
 ### Police of the Public
-{{< hint >}}
-❖ Read more: *[The Police of the Public](/posts/2022-01-11-police/#cosmopor--the-police-of-the-public)*
+
+{{<hint>}}
+✿ Read more: *[The Police of the Public](/stories/police/)*
 {{</hint>}}
 
 The *Police of the Public* (COSMOPOR) are the local police in Vekllei, consisting mostly of constabulary responsible for local policing. COSMOPOR are retained on a municipal level, and divided between municipalities in neighbourhoods known as commissions. A commission is lead by an Inspector or Qualified Constable. Each neighbourhood commission, which might comprise an area of thousands of people, is further subdivided in constabularies, which are the responsibility of a constable. Constables general know each person in their constabulary, and visits each residence regularly to confirm the welfare of their community and hear their grievances.

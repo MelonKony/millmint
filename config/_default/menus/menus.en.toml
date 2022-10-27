@@ -88,6 +88,13 @@
       parent = "society"
       weight = 2
     [[navbar]]
+    identifier = "espionage"
+    name = "Espionage"
+    pre = "🔎"
+    url = "/utopia/society/state/espionage"
+    parent = "society"
+    weight = 3
+    [[navbar]]
       identifier = "assets"
       name = "State Assets"
       pre = "🏬"

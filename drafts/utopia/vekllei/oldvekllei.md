@@ -158,7 +158,7 @@ Since Vekllei is nonpartisan, it does not allow formal participation of parties 
 ### Administrative divisions
 
 {{< hint >}}
-❖ See also: *[Boroughs of Vekllei](/utopia/landscape/boroughs)*
+✿ See also: *[Boroughs of Vekllei](/utopia/landscape/boroughs)*
 {{</hint>}}
 
 Although Vekllei is unitary politically and considers itself a city-state, the Home Islands are divided geographically between 100 boroughs (as part of the *borough system*). Each borough is proportional to the land-sovereign's natural wealth, which accounts for its history, folklore and natural features. Because of this, the human population of boroughs is highly disproportionate, the smallest being [Bakur](/utopia/vekllei/boroughs/bakur), in the Afouismeh region, with a population of 7,500 people, and the largest being Vekllei proper, in the Capital Region, of 2.4 millions.
@@ -239,7 +239,7 @@ These features manifest in various forms throughout modern Vekllei, including it
 {{</hint>}}
 
 {{< hint >}}
-❖ See also: *[On Moneylessness](/news/essays/moneylessness/)*
+✿ See also: *[On Moneylessness](/news/essays/moneylessness/)*
 {{</hint>}}
 
 **Although a major power**, Vekllei has an unusual hybrid market system called the *Vekllei Bureau System* (known colloquially as *Petticoat Socialism*), which incorporates state-owned socialist planned economics and deregulated syndicalist vertical *bureaus* to benefit a free, unregulated informal market system. Most unique about the Vekllei economy is its functional moneylessness, in which domestic society has abolished currency. No widespread currency substitutes are used in ordinary life. Each citizen owns a share of the *Labour Bank of Vekllei*, a portion of the *Government Securities Bureau* designed to allow emigration from the country, and so is theoretically entitled to an equal portion of the Bank.
@@ -334,7 +334,7 @@ Vekllei maintains a stable fertility rate of about 1.8 children per woman, indic
 ### Language
 
 {{< hint red >}}
-❖ Main article: *[Language in Vekllei](/utopia/culture/language/)*
+✿ Main article: *[Language in Vekllei](/utopia/culture/language/)*
 {{</hint>}}
 
 Modern Vekllei language (referred to simply as ***Vekllei***) is the national language of the country and spoken universally within the Home Islands and Vekllei's various Atlantic possessions. It is notable for its varied sublanguages, which include a signed language called [*Upotenne*](/utopia/culture//language/#6-upotenne) and various extant utility scripts.
@@ -344,7 +344,7 @@ Vekllei is spoken by around 25 million people, and a further 800,000 people arou
 ### Religion
 
 {{< hint red >}}
-❖ Main article: *[Religion in Vekllei](/utopia/culture/religion/)*
+✿ Main article: *[Religion in Vekllei](/utopia/culture/religion/)*
 {{</hint>}}
 
 *Upen* is the nondenominational animism of Vekllei, and is practiced nearly universally throughout the country in various forms and traditions. As much a secular cultural tradition as an organised religion, *Upen* coexists alongside abrahamic and miscellaneous faiths in the country, integrating most immigrant populations in Vekllei into its scripture on landscape and *sumoismiaya*, or the "spirit of things."
@@ -389,7 +389,7 @@ Most large infrastructure projects, including transport, education, health, mili
 ### Transport
 
 {{< hint vnr >}}
-❖ Read more: *[Railways in Vekllei](/utopia/society/industry/rail/)*
+✿ Read more: *[Railways in Vekllei](/utopia/society/industry/rail/)*
 {{</hint>}}
 
 Most Vekllei people do not own private autos, though they are available. Only 6% of the population possesses a driver license, and so most Vekllei people are dependent on the free and comprehensive network of transit systems that link settlement in the island, including trains of various guages, maglevs, trams, trolley busses, ferries, canal steamers, helijets, jets and light aircraft.
@@ -425,7 +425,7 @@ Homes are also commonly inherited in Vekllei. All Vekllei people are guaranteed 
 ### Communications
 
 {{< hint mail >}}
-❖ Main article: *[Post in Vekllei](/utopia/society/industry/mail/)*
+✿ Main article: *[Post in Vekllei](/utopia/society/industry/mail/)*
 {{</hint>}}
 
 The **Royal Mail of Vekllei** is the postal service of the country, and counts among its oldest surviving institutions. Founded in 1422, its origins as a military communications organ manifest today in its contemporary designation as a military state requisite, rather than civilian postal carrier. Despite this, the Royal Mail remains thoroughly civilian in its oversight and practice, and delivers around 50 million mail pieces a day in peak periods, including courier work abroad.
