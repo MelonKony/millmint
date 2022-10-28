@@ -65,7 +65,7 @@
               <article class="content">
                   {{ if .Params.changelogs }}
                       {{ $enableCollapsibleChangelogs := (.Scratch.Get "params").enableCollapsibleChangelogs }}
-                      {{ partial "collapsible-menu.html" (dict "type" "changelogs" "context" . "enable" $enableCollapsibleChangelogs) }}
+                      {{ partial "components/collapsible-menu.html" (dict "type" "changelogs" "context" . "enable" $enableCollapsibleChangelogs) }}
                   {{ end }}
 
                   {{- partial "content" . }}

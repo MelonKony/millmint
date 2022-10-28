@@ -1,16 +1,5 @@
-/**
- * @author: Kaushik Gopal
- *
- * A jQuery function that displays the footnotes
- * on the side (sidenotes) for easier reading.
- *
- * This is as recommended by Edward Tufte's style sidenotes:
- * https://edwardtufte.github.io/tufte-css/#sidenotes
- *
- * TODO:
- *      - if two subsequent lines have long sidenotes
- *        need to take care of the overlap properly and offset
- **/
+/* SIDENOTES.JS // @author: Kaushik Gopal @modified: Jip Frijlink // Adds sidenotes */
+
 (function () {
     const $footnotes = $(".footnotes"),
         sideNoteStartMargin = 12,

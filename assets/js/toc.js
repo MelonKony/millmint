@@ -1,3 +1,5 @@
+/* TOC.JS // @author: Jip Frijlink // Table of contents for millmint.net */
+
 function updateActiveToc() {
 	const titles = [...document.querySelectorAll('article h2, article h3')];
 

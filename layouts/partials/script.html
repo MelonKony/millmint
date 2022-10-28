@@ -1,12 +1,10 @@
-
 {{ $jq := resources.Get "js/jquery.min.js" }}
 {{ $cs := resources.Get "js/colors.js" }}
 {{ $fd := resources.Get "js/fade.js" }}
 {{ $sn := resources.Get "js/sidenotes.js" }}
-{{ $gt := resources.Get "js/goto.js" }}
 {{ $tc := resources.Get "js/toc.js" }}
 {{ $tt := resources.Get "js/dictionary.js" }}
-{{ $js := slice $jq $cs $fd $sn $gt $tc $tt | resources.Concat "js/bundle.js"  }}
+{{ $js := slice $jq $cs $fd $sn $tc $tt | resources.Concat "js/millmint.js"  }}
 
 {{ if .Site.IsServer }}
     <script defer src="{{ $js.RelPermalink }}" type="module"></script>

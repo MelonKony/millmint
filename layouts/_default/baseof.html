@@ -24,7 +24,7 @@
             <article class="content">
                 {{ if .Params.changelogs }}
                     {{ $enable_collapsible_changelogs := (.Scratch.Get "params").enable_collapsible_changelogs }}
-                    {{ partial "collapsible-menu.html" (dict "type" "changelogs" "context" . "enable" $enable_collapsible_changelogs) }}
+                    {{ partial "components/collapsible-menu.html" (dict "type" "changelogs" "context" . "enable" $enable_collapsible_changelogs) }}
                 {{ end }}
 
                 {{- block "content" . }}{{- end }}

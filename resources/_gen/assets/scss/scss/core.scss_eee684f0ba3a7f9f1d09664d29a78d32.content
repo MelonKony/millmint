@@ -1325,15 +1325,26 @@ nav {
 .left {
   margin-left: auto;
   justify-content: start; }
+  .left .navicon {
+    font-family: "Emoji" !important;
+    font-weight: normal;
+    margin-right: 4px; }
 
 .right {
   margin-right: auto;
   justify-content: end; }
-
-.navicon {
-  font-family: "Emoji" !important;
-  font-weight: normal;
-  margin-right: 4px; }
+  .right .navicon {
+    width: 1rem;
+    height: 1rem;
+    margin: 0;
+    color: var(--color-gray);
+    border-radius: 0; }
+  .right .discord {
+    width: 1.15rem;
+    height: 1.15rem; }
+  .right .patreon {
+    width: .9rem;
+    height: .9rem; }
 
 @media only screen and (max-width: 500px) {
   .right {
@@ -2144,6 +2155,34 @@ html { font-family: 'Inter', sans-serif; }
 @supports (font-variation-settings: normal) {
   html { font-family: 'Inter var', sans-serif; }
 }*/
+.fab, .fa-brands {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400; }
+
+.fas, .fa-solid {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 900; }
+
+.fa, .fas, .fa-solid, .far, .fa-regular, .fal, .fa-light, .fat, .fa-thin, .fad, .fa-duotone, .fab, .fa-brands {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: var(--fa-display, inline-block);
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto; }
+
+.fa-patreon::before {
+  content: "\f3d9"; }
+
+.fa-discord::before {
+  content: "\f392"; }
+
+.fa-twitter::before {
+  content: "\f099"; }
+
+.fa-rss::before {
+  content: "\f09e"; }
+
 article blockquote h4 {
   margin-top: 0; }
 

@@ -1,4 +1,4 @@
-// provides a nice fade animation on all images on the site
+/* FADE.JS // Fade-in animation for site images */
 
 function showImages(el) {
   var windowHeight = jQuery(window).height();

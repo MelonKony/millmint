@@ -1,3 +1,5 @@
+/* DICTIONARY.JS // @author: Jip Frijlink // Dictionary script for millmint.net */
+
 document.addEventListener("touchstart", function() {}, true);
 
 let dictionary = {};

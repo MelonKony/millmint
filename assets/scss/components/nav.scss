@@ -256,17 +256,31 @@ nav {
 .left {
   margin-left: auto;
   justify-content: start;
+  .navicon {
+    font-family: 'Emoji'!important;
+    font-weight: normal;
+    margin-right: 4px;
+  }
 }
 
 .right {
   margin-right: auto;
   justify-content: end;
-}
-
-.navicon {
-  font-family: 'Emoji'!important;
-  font-weight: normal;
-  margin-right: 4px;
+  .navicon {
+    width: 1rem;
+    height: 1rem;
+    margin: 0;
+    color: var(--color-gray);
+    border-radius: 0;
+    }
+  .discord {
+    width: 1.15rem;
+    height: 1.15rem;
+  }
+  .patreon {
+    width: .9rem;
+    height: .9rem;
+  }
 }
 
 @media only screen and (max-width: 500px) {

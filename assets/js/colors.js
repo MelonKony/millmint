@@ -1,9 +1,4 @@
-/**
- * @author: Jip Frijlink
- *
- * Script that themes articles with colour
- *
- **/
+/* COLORS.JS // @author: Jip Frijlink // Script that themes articles with colour */
 
 const colors = {
   blue: [28, 123, 205],
