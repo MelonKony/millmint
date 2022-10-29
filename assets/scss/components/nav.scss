@@ -22,9 +22,21 @@ nav {
     list-style: none;
     margin: 0;
     padding: 0;
+    
+    a {
+      color: var(--dark-title-text);
+      &:hover {
+       filter: none!important;
+       text-decoration-line: none;
+      }
+    }
+    
+    li {
+      list-style: none;
+    }
 
     .navbar-dropdown {
-
+      
       > ul.menu-dropdown {
         left: 0;
         top: 1.5rem;
@@ -52,8 +64,46 @@ nav {
     }
 }
 
-.navbar li {
-  list-style: none;
+.navicon {
+  font-family: 'Emoji'!important;
+  font-weight: normal;
+  margin-right: 4px;
+}
+
+.left {
+  margin-left: auto;
+  justify-content: start;
+}
+
+.right {
+  margin-right: auto;
+  justify-content: end;
+  
+  .navicon {
+    width: 1rem;
+    height: 1rem;
+    margin: 0;
+    color: var(--color-gray);
+    border-radius: 0;
+  }
+  
+  .discord {
+    width: 1.15rem;
+    height: 1.15rem;
+  }
+  
+  .patreon {
+    width: .9rem;
+    height: .9rem;
+  }
+}
+
+/* hide social icons on mobile */
+
+@media only screen and (max-width: 500px) {
+    .right {
+        display: none;
+    }
 }
 
 .menu-dropdown li {
@@ -63,16 +113,16 @@ nav {
   }
 }
 
-.navbar a {
-  color: var(--dark-title-text);
-  &:hover {
-   filter: none!important;
-   text-decoration-line: none;
-  }
-}
-
 .navbar-dropdown li {
   padding: .5rem 0 .5rem 0;
+  background-color: var(--body-background);
+   :first-child {
+     margin-bottom: -1px;
+     border-radius: 2.5px 2.5px 0 0;
+   }
+   :last-child {
+     border-radius: 0 0 2.5px 2.5px;
+   }
 }
 
 /* navbar border radius */
@@ -86,18 +136,6 @@ nav {
 .navbar-item-dropdown:last-child {
   margin-top: -1px;
   border-radius: 0 0 5px 5px;
-}
-
-.navbar-dropdown li {
-  background-color: var(--body-background);
-}
-.navbar-dropdown li:first-child {
-  margin-bottom: -1px;
-  border-radius: 2.5px 2.5px 0 0;
-}
-.navbar-dropdown li:last-child {
-  margin-top: -1px;
-  border-radius: 0 0 2.5px 2.5px;
 }
 
 .menu {
@@ -251,40 +289,4 @@ nav {
   &:hover, &:focus {
     background-color: var(--color-background-hover);
   }
-}
-
-.left {
-  margin-left: auto;
-  justify-content: start;
-  .navicon {
-    font-family: 'Emoji'!important;
-    font-weight: normal;
-    margin-right: 4px;
-  }
-}
-
-.right {
-  margin-right: auto;
-  justify-content: end;
-  .navicon {
-    width: 1rem;
-    height: 1rem;
-    margin: 0;
-    color: var(--color-gray);
-    border-radius: 0;
-    }
-  .discord {
-    width: 1.15rem;
-    height: 1.15rem;
-  }
-  .patreon {
-    width: .9rem;
-    height: .9rem;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-    .right {
-        display: none;
-    }
 }

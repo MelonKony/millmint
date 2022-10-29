@@ -10,6 +10,16 @@
 	initial-letter: 2;
 } */
 
+/* anchor */
+a.anchor {
+  opacity: 0;
+  font-weight: normal;
+}
+
+h1:hover a.anchor, h1 a.anchor:focus, h2:hover a.anchor, h2 a.anchor:focus, h3:hover a.anchor, h3 a.anchor:focus, h4:hover a.anchor, h4 a.anchor:focus, h5:hover a.anchor, h5 a.anchor:focus, h6:hover a.anchor, h6 a.anchor:focus {
+  opacity:initial
+}
+
 /* outline style */
 .outline {
 	padding: 0.5em 1em 0.7em;

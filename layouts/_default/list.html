@@ -7,7 +7,7 @@
 {{ if (.Params.list_posts | default true) }}
         <div>
            <details title="{{ .Title }}" open=true >
-            {{- partial "list.html" .Pages -}}
+            {{- partial "components/list.html" .Pages -}}
            </details>
         </div>
 {{ end }}

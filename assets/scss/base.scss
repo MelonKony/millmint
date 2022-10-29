@@ -27,6 +27,7 @@ main {
   margin-top: 1rem;
   margin-bottom: 1rem;
   border-radius: 5px;
+  
   @media only screen and (max-width: 500px) {
     margin-top: 0;
     margin-bottom: 0;
@@ -223,24 +224,6 @@ article {
   } 
 }
 
-/*article a:after {
-  content: '';
-  position: absolute;
-  width: 100%;
-  transform: scaleX(0);
-  height: 2px;
-  bottom: 0;
-  left: 0;
-  background-color: var(--body-font-color);
-  transform-origin: bottom right;
-  transition: transform 0.25s ease-out;
-}
-
-article a:hover:after {
-  transform: scaleX(1);
-  transform-origin: bottom left;
-}*/
-
 .link {
   &:hover {
     text-decoration: underline;
@@ -284,48 +267,8 @@ a.book-btn {
   color: var(--color-gray);
 }
 
-/* anchor */
-a.anchor {
-    opacity: 0;
-    font-weight: normal;
-}
-
-h1:hover a.anchor, h1 a.anchor:focus, h2:hover a.anchor, h2 a.anchor:focus, h3:hover a.anchor, h3 a.anchor:focus, h4:hover a.anchor, h4 a.anchor:focus, h5:hover a.anchor, h5 a.anchor:focus, h6:hover a.anchor, h6 a.anchor:focus {
-    opacity:initial
-}
-
 ::selection {
   background: var(--color-gray);
   color: var(--hint-bg);
   filter: none;
-}
-
-/* Checkbox Hack */
-
-input[type=checkbox] {
-   position: absolute;
-   top: -9999px;
-   left: -9999px;
-}
-label { 
-  -webkit-appearance: push-button;
-  -moz-appearance: button; 
-  display: inline-block;
-  margin: 60px 0 10px 0;
-  cursor: pointer;
-}
-
-/* Default State */
-.facebook {
-   background: green;
-   width: 400px;
-   height: 100px;
-   line-height: 100px;
-   color: white;
-   text-align: center;
-}
-
-/* Toggled State */
-input[type=checkbox]:checked ~ .facebook {
-   display: none;
 }
