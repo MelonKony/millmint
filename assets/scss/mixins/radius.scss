@@ -1,3 +1,7 @@
+@mixin radius-none {
+  border-radius: none;
+}
+
 @mixin radius-small {
   border-radius: .1rem;
 }

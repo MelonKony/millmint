@@ -80,10 +80,10 @@ nav {
   justify-content: end;
   
   .navicon {
+    @include highlight;
+    @include radius-none;
     height: .9rem;
     margin: 0;
-    color: var(--color-gray);
-    border-radius: 0;
   }
 }
 

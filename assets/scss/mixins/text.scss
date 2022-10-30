@@ -2,6 +2,10 @@
   font-family: 'Emoji'!important;
 }
 
+@mixin highlight {
+  color: var(--color-gray);
+}
+
 /* defaults */
 
 @mixin text-xs {

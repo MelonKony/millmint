@@ -4,6 +4,7 @@ img {
 	@include radius-base;
 	display: block;
 	visibility: hidden;
+	max-width: 100%;
 }
 
 /* image styles */

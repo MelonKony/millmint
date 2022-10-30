@@ -2,17 +2,9 @@ html {
   overflow-y: scroll;
 }
 
-main {
-  box-sizing: content-box;
-}
-
 html, button, input, select, textarea,
 .pure-g [class *= "pure-u"] {
   font-family: system-ui,-apple-system,segoe ui,Roboto,Helvetica,Arial,sans-serif,'Emoji',apple color emoji,segoe ui emoji;
-}
-
-code, kbd, pre {
-  font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace;
 }
 
 body {
@@ -20,21 +12,19 @@ body {
 }
 
 main {
-  margin-left: auto;
-  margin-right: auto;
+  @include my-4;
+  @include mx-auto;
+  @include radius-base;
   padding: 1.5rem;
   background-color: var(--body-background);
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  border-radius: 5px;
+  box-sizing: content-box;
   
   @media only screen and (max-width: 500px) {
-    margin-top: 0;
-    margin-bottom: 0;
+   @include my-0;
   }
 
   > * {
-    padding: 0 1rem 0 1rem;
+    @include px-4;
 
     @media only screen and (max-width: 500px) {
       padding: 0;
@@ -42,8 +32,142 @@ main {
   }
 }
 
+figure {
+  margin: 0;
+}
+
+input {
+  background-color: var(--color-background);
+  color: $font-color;
+  border: none;
+}
+
+mark {
+  background-color: var(--color-background-mark);
+}
+
+video {
+  border-radius: 5px;
+  width: 100%;
+}
+
+footer {
+  margin: 2rem 0 0 0;
+}
+
+hr {
+  @include highlight;
+  height: 0px;
+}
+
+.content {
+  @include my-4;
+  @include mx-0;
+  margin-bottom: 1rem;
+}
+
+.hidden {
+  display: none;
+}
+
+.collapsible-menu-wrapper details {
+  padding: 0 .25rem;
+}
+
+.collapsible-menu-wrapper details summary::-webkit-details-marker {
+  float: right;
+  margin-top: 8px;
+}
+
+::placeholder {
+  font-size: 14px;
+  color: var(--color-placeholder, var(--color-gray));
+}
+
+/* DETAILS */
+
+details {
+  @include radius-base;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  border: 0px solid var(--gray-100);
+  background-color: var(--gray-100);
+  outline: none;
+  
+  summary {
+    @include text-lg;
+    @include font-bold;
+  }
+}
+
+.collapsible-menu-wrapper details {
+  background-color: transparent;
+}
+
+// Re-theming the navbar
+#navbar a {
+  @include highlight;
+}
+
+#navbar .flex svg path:not([fill]) {
+  fill: var(--color-gray);
+}
+
+body header .navbar-item-dropdown.insection, body header nav .navbar-item.insection {
+  border-color: var(--color-gray);
+}
+
+input {
+  @include text-sm;
+  padding-left: .5rem!important;
+  border: 0!important;
+}
+
+a {
+  @include highlight;
+  
+  &:hover {
+    text-decoration: underline;
+    color: var(--dark-title-text, var(--color-gray));
+  }
+}
+
+/* BUTTONS */
+
+a.book-btn {
+  @include text-sm;
+  @include font-medium;
+  @include radius-base;
+  @include highlight;
+  display: inline-block;
+  border: 1px solid var(--color-gray);
+  text-align: center;
+  padding: 0 1rem;
+  width: 100%;
+  line-height: 2rem;
+  cursor: pointer;
+  text-decoration: none;
+  text-align: center;
+  position: relative;
+  box-sizing: border-box;
+  min-width: 280px;
+  width: 100%;
+}
+
+/* SELECTION */
+
+::selection {
+  background: var(--color-gray);
+  color: var(--hint-bg);
+  filter: none;
+}
+
+/* TITLES */
+
 h1, h2, h3, h4, h5, h6 {
   @include font-bold;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
 }
 
 h1 {
@@ -67,70 +191,10 @@ h5 {
 }
 
 h6 {
-  @include text-sm;
-  font-size: 1rem;
+  @include text-base;
 }
 
-article h1, article h2, article h3, article h4, article h5, article h6 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  font-weight: 700;
-}
-
-figure {
-  margin: 0;
-}
-
-img {
-  max-width: 100%;
-}
-
-input {
-  background-color: var(--color-background);
-  color: var(--color-text);
-  border: none;
-}
-
-mark {
-  background-color: var(--color-background-mark);
-}
-
-details > summary {
-  cursor: auto;
-  font-size: 18px;
-  text-align: left;
-  line-height: 2rem;
-}
-
-details[open] > summary {
-  cursor: auto;
-}
-
-video {
-  border-radius: 5px;
-  width: 100%;
-}
-
-footer {
-  margin: 2rem 0 0 0;
-}
-
-footer ul {
-  text-align: left;
-}
-
-hr {
-  color: var(--color-gray);
-  height: 0px;
-}
-
-.content {
-  margin: 1rem 0 1rem 0;
-}
-
-.hidden {
-  display: none;
-}
+/* PAGE WIDTHS */
 
 @media screen and (min-width: $sm_min_width) {
   main {
@@ -160,115 +224,4 @@ hr {
   main {
     width: $xxl_main_width;
   }
-}
-
-.collapsible-menu-wrapper details {
-  padding: 0 .25rem;
-}
-
-.collapsible-menu-wrapper details summary::-webkit-details-marker {
-  float: right;
-  margin-top: 8px;
-}
-
-::placeholder {
-  font-size: 14px;
-  color: var(--color-placeholder, var(--color-gray));
-}
-
-/* details dropdown */
-
-details summary {
-  font-weight: bolder;
-}
-
-details {
-    padding: 0.5rem 1rem 0.5rem 1rem;
-    border: 0px solid var(--gray-100);
-    border-radius: .25rem;
-    background-color: var(--gray-100);
-    outline: none;
-}
-
-.collapsible-menu-wrapper details {
-  background-color: transparent;
-}
-
-// Re-theming the navbar
-#navbar a {
-  color: var(--color-gray);
-}
-
-#navbar .flex svg path:not([fill]) {
-  fill: var(--color-gray);
-}
-
-body header .navbar-item-dropdown.insection, body header nav .navbar-item.insection {
-  border-color: var(--color-gray);
-}
-
-input {
-  padding-left: .5rem!important;
-  font-size: 14px;
-  border: 0!important;
-}
-
-a, body article a {
-  color: var(--color-gray);
-}
-
-article {
-  > a {
-    display: inline-block;
-    position: relative;
-  } 
-}
-
-.link {
-  &:hover {
-    text-decoration: underline;
-  }
-}
-
-article a:hover {
-  text-decoration: underline; 
-  color: var(--dark-title-text, var(--color-gray));
-
-  * {
-    text-decoration: none;
-  }
-}
-
-article {
-  margin-bottom: 1rem!important;
-}
-
-/* buttons */
-a.book-btn {
-  display: inline-block;
-  font-size: .875rem;
-  border: 1px solid var(--color-gray);
-  text-align: center;
-  padding: 0 1rem;
-  border-radius: .25rem;
-  margin-top: 1rem;
-  width: 100%;
-  line-height: 2rem;
-  cursor: pointer;
-  text-decoration: none;
-  text-align: center;
-  position: relative;
-  box-sizing: border-box;
-  font-weight: 600;
-  border: 1px solid var(--color-gray);
-  min-width: 280px;
-  width: 100%;
-  border-radius: .25rem;
-  color: var(--color-gray);
-}
-
-::selection {
-  background: var(--color-gray);
-  color: var(--hint-bg);
-  filter: none;
 }
