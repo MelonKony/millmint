@@ -20,7 +20,7 @@ toc: true
 aliases:
 - /vekllei/
 
-description: Vekllei is a utopia created by Hobart Phillips.
+description: Vekllei is an immersive visual world, written and illustrated by Hobart Phillips.
 author: Hobart Phillips
 ---
 
