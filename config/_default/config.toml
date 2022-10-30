@@ -5,6 +5,7 @@ theme = "monochrome-v1.01"
 defaultContentLanguage = "en"
 enableEmoji = true
 enableGitInfo = true
+enableRobotsTXT = true
 
 [build]
 writeStats = true

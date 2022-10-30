@@ -13,6 +13,7 @@
 {{ .Scratch.SetInMap "params" "enable_collapsible_toc" (.Params.collapsible_toc | default .Site.Params.enable_collapsible_toc | default false) }}
 {{ .Scratch.SetInMap "params" "enable_collapsible_changelogs" (.Params.collapsible_changelogs | default .Site.Params.enable_collapsible_changelogs | default false) }}
 
+<!DOCTYPE html>
 <html lang='{{ .Site.LanguageCode }}'>
     {{- partial "head.html" . -}}
    <link rel="stylesheet" href="/css/parallax/volcanic.css">
