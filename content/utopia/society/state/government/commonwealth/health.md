@@ -3,7 +3,7 @@ title: Commonwealth Health Secretariat
 fulltitle: Commonwealth Health Secretariat 
 icon: ⚕️
 emoji: Ζ
-color: pink
+color: purple
 image: 
 
 tags: 

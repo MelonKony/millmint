@@ -3,7 +3,7 @@ title: Commonwealth Labour Secretariat
 fulltitle: Commonwealth Labour Secretariat 
 icon: ⛓️
 emoji: Ζ
-color: pink
+color: purple
 image: 
 
 tags: 

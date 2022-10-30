@@ -1,68 +1,46 @@
-article blockquote h4 {
-	margin-top: 0;
-}
-
-article hr {
-	color: var(--color-gray);
-	border: 1px solid;
-}
-
 body article blockquote {
-  border-inline-start: 2px solid var(--color-gray);
-  color: var(--bdoy-font-color);
-  font-style: italic;
+	border-inline-start: 2px solid var(--color-gray);
+	font-style: italic;
 }
 
 .hint {
-	margin-top: 0.5rem;
-	margin-bottom: 0.5rem;
-	color: var(--body-font-color);
-	background-color: var(--gray-100);
-	border-inline-start: none;
-	font-size: 16px;
-	line-height: 1.4;
-	letter-spacing: -.01em;
-	border-radius: 5px;
-	padding: .5rem;
+	@include text-base;
+	@include my-2;
+	@include padding-2;
+	@include radius-base;
 	font-style: normal;
-}
-
-.hint blockquote {
-	margin: 1rem 0;
-	padding: .5rem 1rem .5rem .75rem;
+	color: $font-color;
+	background-color: $gray-100;
 	border-inline-start: none;
-	border-radius: .25rem;
 }
 
 .hint.panel {
-	border-color: var(--gray-100);
-	font-size: 16px;
-	line-height: 1.6;
-	font-weight: 400;
-	letter-spacing: 0em;
-	padding: 1rem;
+	@include padding-4;
 }
 
 .hint.header {
-	border-color: var(--gray-100);
-	font-size: 16px;
-	line-height: 1;
-	line-height: 1.25rem;
-	margin-left: -2em;
-	padding-left: 2em;
-	margin-right: -2em;
-	padding-right: 2em;
-	font-weight: bolder;
-	border-radius: .1rem;
+	@include font-bold;
+	@include px-8;
+	@include radius-small;
+	margin: auto -2em auto -2em;
 	
 	@media (max-width: 750px) {
-		max-width: 100%;
-		margin-left: -1em;
-		padding-left: 1em;
-		margin-right: -1em;
-		padding-right: 1em;
+		@include px-4;
+		margin: auto -1em auto -1em;
 	}
 }
+
+.hint.caption {
+	@include text-xs;
+	@include font-semibold;
+	margin: -0.5rem 0 0.5rem 0;
+	text-align: center;
+	letter-spacing: -.01em;
+	color: var(--color-gray);
+	background-color: transparent;
+}
+
+/* hint colours */
 
  .hint.blue, .article-blue .hint[class="hint "] {
 	border-color: var(--color-blue);
@@ -121,19 +99,4 @@ body article blockquote {
  .hint.teal, .article-teal .hint[class="hint "] {
 	border-color: var(--color-teal);
 	background-color: rgba(90, 200, 250,.1);
-}
-
-.hint.caption {
-	margin-left: 0;
-	margin-right: 0;
-	margin-bottom: 0.5rem;
-	margin-top: -0.5rem;
-	color: var(--color-gray);
-	background-color: transparent;
-	border-inline-start: .0rem solid var(--body-background);
-	font-size: 12px;
-	line-height: 1.33337;
-	font-weight: 600;
-	letter-spacing: -.01em;
-	text-align: center;
 }

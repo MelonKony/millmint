@@ -3,7 +3,7 @@ title: Ministry of Transport
 fulltitle: Ministry of Transport
 icon: 🚃
 emoji: Ζ
-color: pink
+color: purple
 image: 
 
 tags: 

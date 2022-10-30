@@ -3,7 +3,7 @@ title: Commonwealth Security Secretariat
 fulltitle: Commonwealth Security Secretariat 
 icon: 🏹
 emoji: Ζ
-color: pink
+color: purple
 image: 
 
 tags: 

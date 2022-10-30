@@ -3,7 +3,7 @@ title: Ministry of the Commons
 fulltitle: Ministry of the Commons
 icon: 🏡
 emoji: Ζ
-color: pink
+color: purple
 image: 
 
 tags: 

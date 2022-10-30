@@ -9,30 +9,30 @@
 }
 
 .feature-image {
+  @include radius-base;
   width: auto;
   height: auto;
   object-fit: contain;
-  border-radius: 5px;
   background-color: transparent;
 }
 
 .article-tag {
   @include text-sm;
-    grid-area: tag;
-    font-weight: bolder;
-    text-transform: uppercase;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    margin-top: .25rem;
+  @include font-bold;
+  display: flex;
+  grid-area: tag;
+  width: 100%;
+  margin-top: .25rem;
+  align-items: center;
+  text-transform: uppercase;
 }
 
 .article-category {
   @include text-sm;
-    grid-area: category;
-    text-transform: capitalize;
-    font-weight: 600;
-    color: var(--dark-title-text);
+  @include font-semibold;
+  grid-area: category;
+  text-transform: capitalize;
+  color: var(--dark-title-text);
 }
 
 .tag {

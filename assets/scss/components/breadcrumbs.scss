@@ -1,16 +1,16 @@
 .breadcrumbs {
   @include font-bold;
+  @include my-4;
+  @include radius-base;
   background-color: var(--gray-100);
   width: 100%;
   padding: 0.25rem 1rem 0.25rem 0.75rem;
   box-sizing: border-box;
-  border-radius: 0.25rem;
-  margin: 1rem 0 1rem 0;
   list-style: none;
+  
   a {
     color: var(--color-text);
     border-bottom: 1px solid transparent;
-
     &:hover {
       border-bottom-color: var(--color-text-secondary);
     }
@@ -27,16 +27,13 @@
 
 /* Display list items side by side */
 .breadcrumbs li {
+  @include text-sm;
+  @include font-medium;
   display: inline;
-  margin-top: 0.5rem;
-  margin-left: 0;
-  margin-right: 0;
-  color: var(--body-font-color);
-  font-size: 15px;
-  line-height: 1.4;
-  font-weight: 500;
-  letter-spacing: -0.025em;
+  margin : 0.5rem 0 auto 0;
   text-align: center;
+  letter-spacing: -0.025em;
+  color: var(--body-font-color);
 }
 
 .breadcrumbs .home {

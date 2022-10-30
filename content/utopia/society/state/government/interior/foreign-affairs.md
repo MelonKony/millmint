@@ -3,7 +3,7 @@ title: Ministry of Foreign Affairs
 fulltitle: Ministry of Foreign Affairs
 icon: 🌍
 emoji: Ζ
-color: pink
+color: purple
 image: 
 
 tags: 

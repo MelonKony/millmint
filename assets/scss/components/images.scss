@@ -1,15 +1,15 @@
 /* rounded images */
 img {
-	border-radius: 5px;
-	margin-top: 1rem;
-	margin-bottom: 1rem;
-	visibility: hidden;
+	@include my-4;
+	@include radius-base;
 	display: block;
+	visibility: hidden;
 }
 
 /* image styles */
 article img[alt~="smallimg"] {
-	margin-bottom: 1rem;
+	@include my-4;
+	@include radius-base;
 	width: 50%;
 	min-width: 300px;
 	padding: .5rem;

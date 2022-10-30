@@ -3,7 +3,7 @@ title: Courts of the Crown
 fulltitle: Courts of the Crown
 icon: ⚖️
 emoji: Ζ
-color: pink
+color: purple
 image: 
 
 tags: 

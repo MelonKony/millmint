@@ -100,7 +100,7 @@
 	}
 
 	.toc-emoji {
-		font-family: emoji;
+		@include emoji;
 	}
 }
 

@@ -3,7 +3,7 @@ title: Interior Parliament
 fulltitle: The Interior Parliament of Vekllei
 icon: 🌸
 emoji: Ζ
-color: pink
+color: purple
 image: 
 
 tags: 

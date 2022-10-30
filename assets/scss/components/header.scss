@@ -19,13 +19,13 @@ header {
 }
 
 .brand-title {
+  @include text-2xl;
   @include font-bold;
-  font-size: 16pt;
+  @include radius-medium;
+  vertical-align: middle;
   padding: 2px 6px 2px 6px;
-  border-radius: 3px;
   color: var(--body-background);
   background-color: var(--color-gray);
-  vertical-align: middle;
 }
 
 .brand-emoji {

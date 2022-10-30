@@ -1,3 +1,9 @@
+@mixin emoji {
+  font-family: 'Emoji'!important;
+}
+
+/* defaults */
+
 @mixin text-xs {
   font-size: 0.75rem; /* 12px */
   line-height: 1rem; /* 16px */

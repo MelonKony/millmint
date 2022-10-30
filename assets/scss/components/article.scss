@@ -29,15 +29,10 @@
 	}
 }
 
-.color-block {
-  border-radius: 0.25rem;
-  padding: 0.75rem;
-}
-
 .title {
+	@include padding-2;
 	height: 100%;
 	width: 100%;
-	padding: .25rem;
 	padding-left: 0;
 	grid-area: title;
 	display: grid;
@@ -67,11 +62,11 @@
 }
 
 .date {
+	@include text-sm;
+	@include font-medium;
 	grid-area: date;	
-    font-size: 14px;
-	color: var(--color-gray);
 	margin: 0;
-    font-weight: 500;
+	color: var(--color-gray);
 }
 
 
@@ -85,38 +80,38 @@
 }
 
 .icon {
+	@include emoji;
+	@include radius-base;
 	display: grid;
 	grid-area: icon;
 	height: auto;
 	width: auto;
-	font-size: 1.7rem;
-	margin-right: .25rem;
 	justify-content: center;
 	align-content: center;
-	border-radius: .25rem;
-	font-family: 'Emoji'!important;
+	margin-right: .25rem;
+	font-size: 2rem;
 	color: var(--color-gray);
 }
 
 .smallicon {
-	font-family: 'Emoji'!important;
-	font-weight: normal;
+	@include emoji;
+	@include font-normal;
 }
 
 .bulleticon {
-	font-family: 'Emoji'!important;
-	font-weight: normal;
+	@include emoji;
+	@include font-normal;
 	color: var(--color-gray);
 }
 
 .edit-date {
+	@include text-xs;
+	@include padding-2;
 	height: auto;
 	width: auto;
 	margin: 0;
-	font-size: 0.75rem;
 	text-align: center;
 	vertical-align: middle;
-	padding: 5px;
 	color: var(--color-gray);
 }
 

@@ -39,7 +39,7 @@ h1:hover a.anchor, h1 a.anchor:focus, h2:hover a.anchor, h2 a.anchor:focus, h3:h
 }
 	
 .outline blockquote {
-	margin: 1rem 0;
+  @include my-4;
 	padding: .5rem 1rem .5rem .75rem;
 	border-inline-start: none;
 	border-radius: .25rem;

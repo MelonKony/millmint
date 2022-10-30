@@ -3,7 +3,7 @@ title: Ministry of Commerce
 fulltitle: Ministry of Commerce
 icon: 🪙
 emoji: Ζ
-color: pink
+color: purple
 image: 
 
 tags: 
