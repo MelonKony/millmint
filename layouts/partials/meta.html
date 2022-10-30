@@ -5,5 +5,5 @@
 {{ end }}
 
 {{ with .Params.image }}
-<img class="feature-image" loading="lazy" src={{ . | relURL }} />
+<img class="feature-image" alt="feature image" loading="lazy" src={{ . | relURL }} />
 {{ end }}
