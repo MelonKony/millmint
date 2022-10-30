@@ -2147,8 +2147,9 @@ article img[alt~="crest"] {
   grid-template-areas: "date posttag"; }
 
 .feature-image {
-  object-fit: contain;
+  width: auto;
   height: auto;
+  object-fit: contain;
   border-radius: 5px;
   background-color: transparent; }
 
