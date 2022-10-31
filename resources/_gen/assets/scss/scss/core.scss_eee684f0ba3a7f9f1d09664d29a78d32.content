@@ -1655,7 +1655,7 @@ footer ul {
     margin: 0;
     padding: 0; }
   .headcrumbs a {
-    color: #737373; }
+    color: #1d1d1f; }
   .headcrumbs .crumb {
     display: inline; }
   .headcrumbs .seperator {
@@ -1670,7 +1670,8 @@ footer ul {
   display: grid;
   font-size: 2rem;
   color: var(--title-text);
-  align-content: center; }
+  align-content: center;
+  line-height: 1.25; }
 
 .emoji {
   grid-area: emoji;
