@@ -1,3 +1,3 @@
 ---
-title: "Technology in Vekllei"
+title: "Technology"
 ---

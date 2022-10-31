@@ -8,10 +8,31 @@ body article blockquote {
 	@include my-2;
 	@include padding-2;
 	@include radius-base;
-	font-style: normal;
-	color: $font-color;
 	background-color: $gray-100;
+	font-style: normal;
 	border-inline-start: none;
+	
+	.icon {
+		display: block;
+		text-align: center;
+		display: table-cell;
+		vertical-align: middle;
+		height: auto;
+		width: auto;
+		
+		svg {
+			@include px-3;
+			@include text-base;
+			height: 1em;
+			vertical-align: middle;
+		}
+	}
+	
+	.text {
+		display: block;
+		display: table-cell;
+		vertical-align: middle;
+	}
 }
 
 .hint.panel {

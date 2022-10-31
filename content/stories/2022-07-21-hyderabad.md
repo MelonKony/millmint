@@ -14,6 +14,8 @@ categories:
 keywords:
 - 2022
 
+rgb: 146, 53, 62
+
 url: /stories/hyderabad/
 aliases:
 - /posts/2022-07-21-hyderabad/

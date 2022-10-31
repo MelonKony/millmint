@@ -5,6 +5,9 @@ icon: 🔎
 emoji: Γ
 color: pink
 image: 
+  
+series: ["The Vekllei State"]
+series_order: 3
 
 tags: 
   - state

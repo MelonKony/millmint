@@ -34,6 +34,23 @@ main {
 
 figure {
   margin: 0;
+  
+  figcaption {
+    @include text-xs;
+    @include font-semibold;
+    @include my-2;
+    @include padding-2;
+    @include radius-base;
+    margin: -0.5rem 0 0.5rem 0;
+    text-align: center;
+    letter-spacing: -.01em;
+    color: var(--color-gray);
+    background-color: var(--hint-bg, var(--gray-100));
+    
+    a {
+      color: $font-color;
+    }
+  }
 }
 
 input {
@@ -87,6 +104,7 @@ hr {
 /* DETAILS */
 
 details {
+  @include my-2;
   @include radius-base;
   padding: 0.5rem 1rem 0.5rem 1rem;
   border: 0px solid var(--gray-100);
@@ -94,7 +112,7 @@ details {
   outline: none;
   
   summary {
-    @include text-lg;
+    @include text-base;
     @include font-bold;
   }
 }

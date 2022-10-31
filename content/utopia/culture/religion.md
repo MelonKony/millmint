@@ -5,6 +5,9 @@ icon: 💀
 emoji: d
 color: red
 
+series: ["Culture"]
+series_order: 2
+
 tags: 
   - culture
 categories:
@@ -45,10 +48,7 @@ In this sense, *Upen* can be understood as having two distinct forms, practiced 
 * Public *Upen*, which involves priests, communities, ceremony and cultural artefacts (like [*Upotenne*](/utopia/culture/language/#25--upotenne) and [*Rapotenne*](/utopia/culture/language/#23--rapotenne)). Public *Upen* manifests similarly to other faiths, in which sites of worship, historical texts and sacred spaces inform practice and understanding.
 * Private *Upen*, which involves personal understanding and direct physicality with the aspects of material being *Upen* holds sacred, namely the spirit of all things and the human form.
 
-![img](https://images.millmint.net/images/spiritful.jpg)
-{{< hint caption >}}
-[Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes) stands in traditional Upen dress before an offerings box. | *[Spiritful](/posts/2021-06-19-spiritful/)*
-{{</hint>}}
+![Picture of Tzipora in traditional dress](https://images.millmint.net/images/spiritful.jpg "[Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes) stands in traditional Upen dress before an offerings box. | *[Spiritful](/posts/2021-06-19-spiritful/)*")
 
 Although *Upen* does retain priests informally, it lacks a hierarchical structure and is largely agnostic towards organised religion, lived and practiced instead through traditions, folklore, lifestyle and metaphysics.
 

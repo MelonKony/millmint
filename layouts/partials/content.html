@@ -3,6 +3,7 @@
 {{ partial "articles/article-info" . }}
 {{ partial "meta" . }}
 {{ partial "toc.html" . }}
+{{ partial "components/series.html" . }}
 </div>
 
 <article {{ if $enable_line_no }}class="line-numbers"{{ end }}{{- if .Param "autonumbering" }} autonumbering {{- end }}>

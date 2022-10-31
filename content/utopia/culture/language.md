@@ -5,6 +5,9 @@ icon: 📖
 emoji: q
 color: red
 
+series: ["Culture"]
+series_order: 1
+
 tags: 
   - culture
 categories:
@@ -54,10 +57,7 @@ author: Hobart Phillips
 
 Let's take a look in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and [*Spoken Vekllei*](/utopia/culture/language/#spoken-vekllei) and [*Topet*](/utopia/culture/language/#topet) are understood universally.
 
-![img](https://images.millmint.net/images/language.jpg)
-{{< hint caption >}}
-An infographic showcasing the Vekllei language, including [Potenne](/utopia/culture/language/#potenne) use. | *[How to Speak Vekllei](/posts/2020-11-14-language/)*
-{{</hint>}}
+![Infographic showing how to speak Vekllei](https://images.millmint.net/images/language.jpg "An infographic showcasing the Vekllei language, including [Potenne](/utopia/culture/language/#potenne) use. | *[How to Speak Vekllei](/posts/2020-11-14-language/)*")
 
 Other languages, often called *sub-languages*, are informed regionally and have varying literacy across the Home Island. For example, [*Upotenne*](/utopia/culture/language/#upotenne) is employed frequently in rural and agrarian communities, where religious ritual requires its frequent practice. This passage introduces the broad characteristics of each sub-language, which together form contemporary Vekllei, one of the world's most complex and hermetic language systems.
 
@@ -181,10 +181,7 @@ Despite common use of the phonetic system in modernity, the semantic readings of
 
 Individual *Topet* characters are both semantic and phonetic, and can be written in a phonetic abugida (with semantic weight carried by the initial character-group) or as a single character group. The abugida-form is phonetic and aids vocalisation through its *hieyerette* characters. The single character group-form is pictographic, and generally replaces the abugida in contexts where the pronunciation is commonly known or obvious. In these character groups, only one *demioette* character is vocalised, called the *principle*, and the *hieyerette* characters are simply not written.
 
-![img](https://images.millmint.net/images/topet.jpg)
-{{< hint caption >}}
-An infographic summarising the appearance of Vekllei scripts, including [*Topet*](/utopia/culture/language/#topet). | *[How to Read Vekllei](/posts/2021-05-31-topet/)*
-{{</hint>}}
+![Infographic showing Vekllei scripts](https://images.millmint.net/images/topet.jpg "An infographic summarising the appearance of Vekllei scripts, including [*Topet*](/utopia/culture/language/#topet). | *[How to Read Vekllei](/posts/2021-05-31-topet/)*")
 
 These character groups are called *Minor Demons*, or *pettidemion,* and change appearance depending on the number of characters in its group. One character occupies a quarter-height space in the centre of a line. Two characters are written in an adjacent quarter-height space, with the principle arranged to the left. Three characters are arranged in a triangle, with the principle arranged at the top. Four characters, the maximum in modern *Topet*, are arranged in a quadrant with the principle arranged in the top left.
 

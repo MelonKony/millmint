@@ -1,7 +1,6 @@
 nav {
   display: flex;
   flex-wrap: wrap;
-  margin: 0 0 1.5rem 0;
   
   li {
     margin-top: 0;
@@ -65,8 +64,9 @@ nav {
 }
 
 .navicon {
-  font-family: 'Emoji'!important;
-  font-weight: normal;
+  @include emoji;
+  @include font-normal;
+  @include radius-none;
   margin-right: 4px;
 }
 

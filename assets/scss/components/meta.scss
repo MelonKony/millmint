@@ -16,7 +16,7 @@
   background-color: transparent;
 }
 
-.article-tag {
+/*.article-tag {
   @include text-sm;
   @include font-bold;
   display: flex;
@@ -25,7 +25,7 @@
   margin-top: .25rem;
   align-items: center;
   text-transform: uppercase;
-}
+}*/
 
 .article-category {
   @include text-sm;

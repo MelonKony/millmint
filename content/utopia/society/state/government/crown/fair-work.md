@@ -6,6 +6,9 @@ emoji: Ζ
 color: purple
 image: 
 
+series: ["The Commonwealth Crown"]
+series_order: 3
+
 tags: 
   - crown
 categories:

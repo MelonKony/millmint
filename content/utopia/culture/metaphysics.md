@@ -5,6 +5,9 @@ icon: 🪬
 emoji: Q
 color: red
 
+series: ["Culture"]
+series_order: 3
+
 tags: 
   - culture
 categories:

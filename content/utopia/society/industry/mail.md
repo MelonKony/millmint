@@ -25,7 +25,7 @@ author: Hobart Phillips
 ---
 
 ## Overview
-{{< hint >}}
+{{<hint>}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei) society
 {{</hint>}}
 
@@ -47,10 +47,7 @@ The Mail is old enough to have its own hieroglyph in [*Topet*](/utopia/culture/l
 
 Since Vekllei refers to its territory as its sovereign (expressed commonly as the 'Landscape Sovereign'), the Mail remains Royal even today, centuries after the collapse of the monarchy that founded it. Despite its regular function as a postal service, it is nonetheless considered a resource of landscape, not a government department, and so it remains "the Royal Mail of Vekllei" in the 21st Century.
 
-![img](https://images.millmint.net/images/fairie.jpg)
-{{< hint caption >}}
-An MS Model 54-2 "Fairie," used to deliver mail to Vekllei's islands and islets | *[The Fairie](/posts/2021-02-03-fairie/)*
-{{</hint>}}
+![Picture of mail seaplane](https://images.millmint.net/images/fairie.jpg "An MS Model 54-2 *Fairie*, used to deliver mail to Vekllei's islands and islets | *[The Fairie](/posts/2021-02-03-fairie/)*")
 
 Like most Royal Bureaus, the Mail is headquartered in Vekllei's capital across a dozen or so city blocks dedicated to administration, manufacturing, vehicle storage and maintenance, and Vekllei's General Post Office. There are over 6,400 post offices in Vekllei today, connecting the dense Home Islands to its far-flung peripheral territories.
 
@@ -120,10 +117,7 @@ The Mail has two offices of administration: the General Office and the Office of
 
 **Universal service is**, by the glossary of the Mail, truly universal. As mandated by Vekllei law, the Mail provides delivery for all postage material anywhere in the world, or indeed, beyond it. It maintains 6,424 post offices across Vekllei, including its antarctic and peripheral possessions. The Mail's first Lunar Post Office opened in 2059. In addition to its domestic monopoly, the Mail contributes nearly VK❦2.6 trillion each year towards the Vekllei Government Securities Bureau (the country's sovereign wealth fund) through its international postage and courier services abroad, under the name World Post.
 
-![img](https://images.millmint.net/images/stamps.jpg)
-{{< hint caption >}}
-[Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes) arranges some of her favourite Vekllei stamps | *[Philately Foolery](/posts/2021-02-16-stamps/)*
-{{</hint>}}
+![Picture of Tziopra with her stamp collection](https://images.millmint.net/images/stamps.jpg "[Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes) arranges some of her favourite Vekllei stamps | *[Philately Foolery](/posts/2021-02-16-stamps/)*")
 
 Since the Mail's Office of Telecommunications is also responsible for all telephones, telegrams and videophones in the country, the Mail's status as a lynchpin of communication is absolute, and heavily protected by the postwar Vekllei constitution.
 
@@ -165,10 +159,7 @@ The **Labour Bank of Vekllei**[^2] is easily accessible via the Mail's **Financi
 
 **It is evident** that the services assigned to the Mail by the postwar constitution are of critical importance to the stability of Vekllei society. In addition to being one of the oldest active postal organisations in the world, the Royal Mail of Vekllei is tremendously busy, since physical post has scarcely been displaced by the telephone in the country. Even without the Mail's international postage, domestic mail each day can exceed 12 million pieces -- enough for 1 in 2 people, though commercial mail and periodicals are included.
 
-![img](https://images.millmint.net/images/manufacturie.jpg)
-{{< hint caption >}}
-Outdoor view of the [Royal Mail's](/utopia/society/industry/mail/) stamp printing complex. | *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*
-{{</hint>}}
+![Picture of mail-owned manufacturing plant](https://images.millmint.net/images/manufacturie.jpg "Outdoor view of the [Royal Mail's](/utopia/society/industry/mail/) stamp printing complex. | *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*")
 
 As is typical for critical bureaus in Vekllei, the Mail alleviates the stress of daily service through its dense, vertically-integrated infrastructure aided by automatic (automen vehicles) and permanent fixtures (pneumatic systems and automatic sorting/franking machines). It is precisely this commitment to infrastructure that makes the Mail so visible in daily life, and contributes to its ongoing legacy as Vekllei's oldest running government institution.
 
