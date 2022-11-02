@@ -115,6 +115,10 @@ details {
     @include text-base;
     @include font-bold;
   }
+  
+  div {
+    @include px-6;
+  }
 }
 
 .collapsible-menu-wrapper details {
