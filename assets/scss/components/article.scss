@@ -11,10 +11,6 @@
   	"icon category emoji"; 
   margin: 0 0 2rem 0;
 }
-
-.article-category a {
-	color: var(--dark-title-text);
-}
   
 .box-info {  
 	display: grid;
@@ -71,6 +67,7 @@
 	color: var(--title-text);
 	align-content: center;
 	line-height: 1.25;
+	margin: .5rem 0;
 }
 
 .emoji {

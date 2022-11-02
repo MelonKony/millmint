@@ -2,7 +2,7 @@
 <details style="margin-left:0px" class="series" {{ if .Params.seriesOpened | default (.Site.Params.article.seriesOpened | default false) }} open {{ end }}>
 	<summary
 		class="series-summary">
-		<span class="navicon">📁</span>Series: {{ index .Params.series 0 }}
+		<span class="navicon">🔖</span>{{ index .Params.series 0 }}
 	</summary>
 	{{ range $post := sort (index .Site.Taxonomies.series (index .Params.series 0 | urlize)) "Params.series_order" }}
 	{{ if eq $post.Permalink $.Page.Permalink }}

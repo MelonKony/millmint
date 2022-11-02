@@ -32,7 +32,10 @@
   @include font-semibold;
   grid-area: category;
   text-transform: capitalize;
-  color: var(--dark-title-text);
+  
+  a {
+   color: $font-color;
+  }
 }
 
 .tag {

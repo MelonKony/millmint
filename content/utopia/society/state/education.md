@@ -39,7 +39,7 @@ author: Hobart Phillips
 **Education** emerged as a foundational right for Vekllei people in the constitution of the 4th Commonwealth, in the spirit of postwar democratisation and the rising of all people.
 {{</hint>}}
 
-Education in Vekllei is a good example of the 'system working backwards,' the popular phrase to describe the Floral Period moving in two different directions at once. Is it modern, supplied and robust in the Western tradition -- children wear uniforms, are divided into school years and knowledge is arranged and taught in subjects.
+Education in Vekllei is a good example of the 'system working backwards,' the popular phrase to describe the Floral Period moving in two different directions at once. Is it modern, supplied and robust in the Western tradition -- children wear uniforms, are divided into school years and knowledge is arranged and taught in subjects. Other aspects of the Vekllei curriculum are novel by comparison.
 
 Nonetheless, there is something quite interesting going on in Vekllei education that is not immediately apparent at its surface. First, compulsory schooling runs for 4-5 days a week, depending on student commitments to elective and extracurricular activities. Government schools do not employ standardised testing, and rely on subject-specific means of assessment including reviews, presentations and portfolios. The [Vekllei Curriculum](#curriculum) emphasises practicable and technical skills that blur the lines between school, community and home. At its core, education in Vekllei is considered a foundation of Vekllei democracy, and like other foundations it is free, abundant and compulsory.
 
