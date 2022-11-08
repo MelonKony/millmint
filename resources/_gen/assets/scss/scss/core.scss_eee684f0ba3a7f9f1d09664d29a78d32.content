@@ -2619,7 +2619,7 @@ ol {
 
 #TableOfContents {
   line-height: 1rem;
-  margin-top: 15px; }
+  margin-bottom: 1.5rem; }
 
 #TableOfContents ul {
   font-weight: bold;
