@@ -2573,10 +2573,10 @@ ol {
       display: none; }
     .desktop-toc-wrapper .desktop-toc details > summary::after {
       font-family: "Emoji" !important;
-      content: '📘';
-      color: var(--color-gray); }
+      font-weight: 400;
+      color: var(--color-gray);
+      content: '📘'; }
     .desktop-toc-wrapper .desktop-toc details[open] > summary::after {
-      font-family: "Emoji" !important;
       content: "📘"; }
   .desktop-toc-wrapper nav {
     width: 100%; }
@@ -2612,7 +2612,8 @@ ol {
     text-decoration: none;
     filter: none; }
   .toc-title .toc-emoji {
-    font-family: "Emoji" !important; }
+    font-family: "Emoji" !important;
+    font-weight: 400; }
 
 .toc-title.toc-active {
   background-color: transparent; }

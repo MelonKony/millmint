@@ -46,11 +46,11 @@
 		}
 		details > summary::after {
 		  @include emoji;
+		  @include font-normal;
+		  @include highlight;
 		  content:  '📘';
-		  color: var(--color-gray);
 		}
 		details[open] > summary::after {
-		  @include emoji;
 		  content: "📘";
 		}
 	}
@@ -103,6 +103,7 @@
 
 	.toc-emoji {
 		@include emoji;
+		@include font-normal;
 	}
 }
 
