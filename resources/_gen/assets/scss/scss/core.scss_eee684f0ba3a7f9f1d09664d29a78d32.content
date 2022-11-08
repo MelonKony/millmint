@@ -2538,14 +2538,15 @@ ol {
   scroll-margin-top: 2rem; }
 
 .desktop-toc-wrapper-wrapper {
-  position: relative; }
+  position: relative;
+  display: none; }
 
 .desktop-toc-wrapper {
   position: absolute;
   right: -130px; }
   .desktop-toc-wrapper .desktop-toc {
     position: fixed;
-    top: 50px;
+    top: 1rem;
     width: 200px; }
     .desktop-toc-wrapper .desktop-toc .dropdown {
       position: absolute;
@@ -2559,19 +2560,26 @@ ol {
       .desktop-toc-wrapper .desktop-toc details[open] > summary {
         border-bottom: 1px solid var(--gray-100); }
     .desktop-toc-wrapper .desktop-toc details > summary {
+      font-size: 1.125rem;
+      /* 18px */
+      line-height: 1.75rem;
+      /* 28px */
+      pointer-events: none;
       list-style: none;
       display: flex;
       align-items: center;
       justify-content: space-between;
       height: 35px;
-      margin: 0 .5rem; }
+      margin: 1.5rem .5rem 1.5rem .5rem; }
     .desktop-toc-wrapper .desktop-toc details > summary::-webkit-details-marker {
       display: none; }
     .desktop-toc-wrapper .desktop-toc details > summary::after {
-      content: '▶';
+      font-family: "Emoji" !important;
+      content: '📘';
       color: var(--color-gray); }
     .desktop-toc-wrapper .desktop-toc details[open] > summary::after {
-      content: "▼"; }
+      font-family: "Emoji" !important;
+      content: "📘"; }
   .desktop-toc-wrapper nav {
     width: 100%; }
     .desktop-toc-wrapper nav ul {
@@ -2596,8 +2604,8 @@ ol {
     width: 120%; }
 
 .toc-title {
+  font-weight: 700;
   color: var(--body-font-color);
-  font-weight: bold;
   display: grid;
   grid-template-columns: auto 1fr;
   grid-gap: 10px;
@@ -2639,6 +2647,24 @@ ol {
     #TableOfContents ul li li a {
       padding: 0.2rem 1rem; }
 
+#toc-button {
+  display: block;
+  background: none;
+  border: none;
+  margin: 0;
+  padding-left: .5rem;
+  cursor: pointer;
+  outline: inherit; }
+
+#toc-button .navicon {
+  font-size: 1.25rem;
+  /* 20px */
+  line-height: 1.75rem;
+  /* 28px */
+  margin: 0; }
+  #toc-button .navicon:hover {
+    color: var(--color-gray); }
+
 .mobile-toc {
   display: none; }
 
@@ -2648,6 +2674,8 @@ ol {
 
 @media (max-width: 1199px) {
   .desktop-toc-wrapper {
+    display: none; }
+  #toc-button {
     display: none; }
   .mobile-toc {
     display: block; } }

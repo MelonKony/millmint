@@ -10,4 +10,9 @@
       {{ partial "search" . }}
       {{ end }} {{ if .Site.IsMultiLingual }}
     {{ end }}
+    {{ if and (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") (.Scratch.Get "params").enable_toc }}
+    <button id="toc-button">
+        <span class="navicon">📘</span>
+    </button>
+    {{ end }}
 </header>

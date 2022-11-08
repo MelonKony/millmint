@@ -4,6 +4,7 @@
 
 .desktop-toc-wrapper-wrapper {
 	position: relative;
+	display: none;
 }
 
 .desktop-toc-wrapper {
@@ -12,7 +13,7 @@
 
 	.desktop-toc {
 		position: fixed;
-		top: 50px;
+		top: 1rem;
 		width: 200px;
 		
 		.dropdown {
@@ -34,22 +35,26 @@
 		}
 		
 		details > summary {
-		  list-style: none; // Remove the default arrow.
-		  display: flex;
-		  align-items: center; // Vertically center the arrow.
-		  justify-content: space-between;
-		  height: 35px;
-		  margin: 0 .5rem;
+	  		@include text-lg;
+			pointer-events: none;
+	  		list-style: none; // Remove the default arrow.
+	  		display: flex;
+	  		align-items: center; // Vertically center the arrow.
+	  		justify-content: space-between;
+	  		height: 35px;
+	  		margin: 1.5rem .5rem 1.5rem .5rem;
 		}
 		details > summary::-webkit-details-marker {
 		  display: none;
 		}
 		details > summary::after {
-		  content:  '▶';
+		  @include emoji;
+		  content:  '📘';
 		  color: var(--color-gray);
 		}
 		details[open] > summary::after {
-		  content: "▼";
+		  @include emoji;
+		  content: "📘";
 		}
 	}
 
@@ -87,8 +92,8 @@
 }
 
 .toc-title {
+	@include font-bold;
 	color: var(--body-font-color);
-	font-weight: bold;
 	display: grid;
 	grid-template-columns: auto 1fr;
 	grid-gap: 10px;
@@ -147,6 +152,25 @@
 	}
 }
 
+#toc-button {
+	display: block;
+	background: none;
+	border: none;
+	margin: 0;
+	padding-left: .5rem;
+	cursor: pointer;
+	outline: inherit;
+}
+
+#toc-button .navicon {
+	@include text-xl;
+	margin: 0;
+
+  &:hover {
+	  color: var(--color-gray);
+  }
+}
+
 
 
 .mobile-toc {
@@ -161,6 +185,9 @@
 
 @media (max-width: 1199px) {
 	.desktop-toc-wrapper {
+		display: none;
+	}
+	#toc-button {
 		display: none;
 	}
 	.mobile-toc {

@@ -1,6 +1,6 @@
 <!-- Desktop TOC -->
 {{ if and (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") (.Scratch.Get "params").enable_toc }}
-<div class="desktop-toc-wrapper-wrapper">
+<div id="desktop-toc" class="desktop-toc-wrapper-wrapper">
     <div class="desktop-toc-wrapper">
         <div class="desktop-toc">
             <details class="dropdown" open=true>
@@ -23,7 +23,7 @@
     <div class="mobile-toc">
         <details>
           <summary>
-           <span class="navicon">📑</span>Table of Contents
+           <span class="navicon">📘</span>Table of Contents
           </summary>
           <div>
             {{ .TableOfContents | emojify }}

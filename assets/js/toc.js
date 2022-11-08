@@ -31,3 +31,17 @@ function updateActiveToc() {
 
 updateActiveToc()
 window.addEventListener('scroll', updateActiveToc);
+
+/* TOC button */
+
+var button = document.getElementById('toc-button');
+
+button.onclick = function() {
+	var div = document.getElementById('desktop-toc');
+	if (div.style.display !== 'block') {
+		div.style.display = 'block';
+	}
+	else {
+		div.style.display = 'none';
+	}
+};
