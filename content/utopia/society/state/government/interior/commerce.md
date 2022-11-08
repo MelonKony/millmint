@@ -6,7 +6,7 @@ emoji: Ζ
 color: purple
 image: 
 
-series: ["The Interior Parliament"]
+series: ["The Interior Government"]
 series_order: 1
 
 tags: 

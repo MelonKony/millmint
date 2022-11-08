@@ -55,7 +55,8 @@
 	.seperator {
 		display: inline;
 		@include highlight;
-		@include px-1;
+		padding-left: .25rem;
+		padding-right: .15rem;
 	}
 }
 
@@ -67,7 +68,7 @@
 	color: var(--title-text);
 	align-content: center;
 	line-height: 1.25;
-	margin: .5rem 0;
+	margin: 1rem 0;
 }
 
 .emoji {

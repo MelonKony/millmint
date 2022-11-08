@@ -1662,7 +1662,7 @@ footer ul {
     display: inline;
     color: var(--color-gray);
     padding-left: .25rem;
-    padding-right: .25rem; }
+    padding-right: .15rem; }
 
 .title {
   font-weight: 700;
@@ -1672,7 +1672,7 @@ footer ul {
   color: var(--title-text);
   align-content: center;
   line-height: 1.25;
-  margin: .5rem 0; }
+  margin: 1rem 0; }
 
 .emoji {
   grid-area: emoji;

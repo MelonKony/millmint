@@ -426,8 +426,6 @@ Wells, H.G., 2006. *The Shape of Things To Come*. London: Penguin Books.
 
 Wood, C., 2008. ‘The European Fantasy Space and Identity Construction in Porco Rosso’. *Post Script-Essays in Film and the Humanities*, 28(2), pp.112-120.
 
-### Notes
-
 [^1]: Quoted from (Frank Lloyd Wright Foundation 2020)
 [^2]: As per Lyman Sargent’s triad of utopia — eutopia exemplifying a traditional ‘utopian’ good-place (as per a literal translation). Readers will likely be familiar with dystopia, its opposite, though still operative within the Sargent’s utopian framework.
 [^3]: Although Whisper of the Heart was directed by Yoshifumi Kondō, it was storyboarded and written by Hayao Miyazaki (Miyazaki, 2001).
