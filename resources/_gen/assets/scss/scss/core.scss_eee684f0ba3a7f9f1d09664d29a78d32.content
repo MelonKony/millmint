@@ -2659,7 +2659,8 @@ ol {
   /* 20px */
   line-height: 1.75rem;
   /* 28px */
-  margin: 0; }
+  margin: 0;
+  color: var(--dark-title-text); }
   #toc-button .navicon:hover {
     color: var(--color-gray); }
 

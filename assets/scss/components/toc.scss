@@ -162,6 +162,7 @@
 #toc-button .navicon {
 	@include text-xl;
 	margin: 0;
+	color: var(--dark-title-text);
 
   &:hover {
 	  color: var(--color-gray);
