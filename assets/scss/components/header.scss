@@ -4,7 +4,7 @@ header {
   grid-template-columns: 1fr fit-content(33%); 
   grid-template-rows: 1fr; 
   grid-template-areas: 
-    "brand search toc"; 
+    "brand toc search"; 
   margin: 0 0 16px 0;
   a:hover {
     text-decoration: none;

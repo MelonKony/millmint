@@ -40,7 +40,6 @@
       "style",
       "summary",
       "sup",
-      "svg",
       "table",
       "tbody",
       "td",
@@ -182,7 +181,6 @@
       "text-base",
       "text-xs",
       "title",
-      "toc-button",
       "toc-emoji",
       "toc-title"
     ],

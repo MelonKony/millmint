@@ -970,7 +970,7 @@ header {
   align-items: center;
   grid-template-columns: 1fr fit-content(33%);
   grid-template-rows: 1fr;
-  grid-template-areas: "brand search toc";
+  grid-template-areas: "brand toc search";
   margin: 0 0 16px 0; }
   header a:hover {
     text-decoration: none;
@@ -2557,8 +2557,6 @@ ol {
       background-color: var(--body-background); }
     .desktop-toc-wrapper .desktop-toc details[open] {
       background-color: var(--body-background); }
-      .desktop-toc-wrapper .desktop-toc details[open] > summary {
-        border-bottom: 1px solid var(--gray-100); }
     .desktop-toc-wrapper .desktop-toc details > summary {
       font-size: 1.125rem;
       /* 18px */

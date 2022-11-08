@@ -29,9 +29,6 @@
 		
 		details[open] {
 			background-color: var(--body-background);
-			> summary {
-				border-bottom: 1px solid var(--gray-100);
-			}
 		}
 		
 		details > summary {
