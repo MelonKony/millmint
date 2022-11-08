@@ -63,7 +63,7 @@
 
           <main>
               <!--{{- partial "header.html" . -}}-->
-              <article class="content">
+              <article class="content" style="margin-top: 0;">
                   {{ if .Params.changelogs }}
                       {{ $enableCollapsibleChangelogs := (.Scratch.Get "params").enableCollapsibleChangelogs }}
                       {{ partial "components/collapsible-menu.html" (dict "type" "changelogs" "context" . "enable" $enableCollapsibleChangelogs) }}

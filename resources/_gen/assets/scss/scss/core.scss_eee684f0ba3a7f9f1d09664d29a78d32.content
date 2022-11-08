@@ -2620,6 +2620,7 @@ ol {
 
 #TableOfContents {
   line-height: 1rem;
+  margin-top: 1.5rem;
   margin-bottom: 1.5rem; }
 
 #TableOfContents ul {
