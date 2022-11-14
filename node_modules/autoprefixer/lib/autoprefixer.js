@@ -1,6 +1,6 @@
 let browserslist = require('browserslist')
 let { agents } = require('caniuse-lite')
-let colorette = require('colorette')
+let pico = require('picocolors')
 
 let Browsers = require('./browsers')
 let Prefixes = require('./prefixes')
@@ -40,8 +40,7 @@ function timeCapsule(result, prefixes) {
   if (Object.keys(prefixes.add).length > 2) {
     return
   }
-
-  /* istanbul ignore next */
+  /* c8 ignore next 11 */
   result.warn(
     'Autoprefixer target browsers do not need any prefixes.' +
       'You do not need Autoprefixer anymore.\n' +
@@ -89,15 +88,9 @@ function plugin(...reqs) {
     reqs = options.overrideBrowserslist
   } else if (options.browsers) {
     if (typeof console !== 'undefined' && console.warn) {
-      if (colorette.red) {
-        console.warn(
-          colorette.red(
-            WARNING.replace(/`[^`]+`/g, i => colorette.yellow(i.slice(1, -1)))
-          )
-        )
-      } else {
-        console.warn(WARNING)
-      }
+      console.warn(
+        pico.red(WARNING.replace(/`[^`]+`/g, i => pico.yellow(i.slice(1, -1))))
+      )
     }
     reqs = options.browsers
   }
