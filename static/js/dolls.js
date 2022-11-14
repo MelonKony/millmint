@@ -572,9 +572,14 @@ function defineAssets() {
 				},
 				{
 					layer: 20,
-					img: maskImg("/doll-assets/f/8.outfits/8b/", undefined, "maska", true),
+					img: maskImg(
+						"/doll-assets/f/8.outfits/8b/",
+						undefined,
+						"maska",
+						true
+					),
 					gender: "f",
-					noColor: true
+					noColor: true,
 				},
 			],
 		},
@@ -887,25 +892,37 @@ function downloadDoll() {
 	// Make "canvas" super wide, download image
 	// document.querySelector(".dolls-canvas").style.width = "1000px";
 	requestAnimationFrame(() => {
+		console.log(12);
+		
 		const node = document.querySelector(".dolls-canvas-inner");
-		const desiredWidth = 1000;
+		const desiredWidth = 500;
 		const scale = desiredWidth / node.clientWidth;
+		
+		const opts = {
+			width: node.clientWidth * scale,
+			height: node.clientHeight * scale,
+			style: {
+				transform: "scale(" + scale + ")",
+				transformOrigin: "top left",
+			},
+		}
 
-		domtoimage
-			.toPng(node, {
-				width: node.clientWidth * scale,
-				height: node.clientHeight * scale,
-				style: {
-					transform: "scale(" + scale + ")",
-					transformOrigin: "top left",
-				},
-			})
+		document.querySelectorAll(".lol").forEach((t) => t.remove());
+		
+		htmlToImage
+			.toPng(node, opts)
 			.then((dataUrl) => {
 				// Download imnage
-				const a = document.createElement("a");
-				a.href = dataUrl;
-				a.download = "character.png";
-				a.click();
+				// const a = document.createElement("a");
+				// a.href = dataUrl;
+				// a.download = "character.png";
+				// a.click();
+
+				const img = document.createElement("img");
+				img.classList.add("lol");
+				img.src = dataUrl;
+				img.style.background = "#4c4c4c";
+				document.querySelector(".content").appendChild(img);
 
 				// Reset button label
 				downloadText.innerText = "Download Image";
@@ -966,15 +983,15 @@ function render() {
 
 		for (const img of layers) {
 			if (groupColors[asset.group] && !img.noColor) {
-				console.log(img)
+				console.log(img);
 				const d = document.createElement("div");
 				d.classList.add("mask");
 
-				console.log(asset.name, img.src)
+				console.log(asset.name, img.src);
 
 				// Convert mask image to data url
 				const dataUrl = getDataUrl(img);
-				d.id = img.src
+				d.id = img.src;
 
 				// Define the URL and mask in general
 				d.setAttribute(
