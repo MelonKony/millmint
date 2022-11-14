@@ -44,7 +44,7 @@ if(document.querySelector('[data-color]')) {
   !document.querySelector(".list-item")
 ) {
   // Get story's color from image
-  const img = document.querySelector("img");
+  const img = document.querySelector(".content img");
 
   // Make sure image is finished loading
   if (img.complete) {
