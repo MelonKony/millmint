@@ -970,7 +970,6 @@ function generateDollImage(resetTimer = true) {
 function downloadDollImage(
 	canvas = document.querySelector(".doll-img-container canvas")
 ) {
-	console.log(canvas);
 	// Download image
 	const a = document.createElement("a");
 	a.href = canvas.toDataURL();
@@ -1017,11 +1016,8 @@ function render() {
 
 		for (const img of layers) {
 			if (groupColors[asset.group] && !img.noColor) {
-				console.log(img);
 				const d = document.createElement("div");
 				d.classList.add("mask");
-
-				console.log(asset.name, img.src);
 
 				// Convert mask image to data url
 				const dataUrl = getDataUrl(img);
@@ -1042,7 +1038,6 @@ function render() {
 			}
 		}
 
-		// console.log(layer, asset);
 		wrapper.appendChild(layer);
 	}
 }
@@ -1058,7 +1053,6 @@ function getDataUrl(img) {
 	ctx.drawImage(img, 0, 0);
 
 	const dataUrl = canvas.toDataURL();
-	console.log("AAA");
 	dataUrls[img.src] = dataUrl;
 
 	// Clean up canvas
