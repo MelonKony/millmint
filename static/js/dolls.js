@@ -977,8 +977,8 @@ async function generateDollImage() {
 
 		const canvas = document.createElement("canvas");
 		const ctx = canvas.getContext("2d");
-		canvas.width = 1000;
-		canvas.height = 1500;
+		canvas.width = 3000;
+		canvas.height = 4500;
 
 		for (const asset of allLayers) {
 			const imgs = asset.img.layers ? asset.img.layers : [asset.img];
