@@ -1,5 +1,5 @@
 ---
-title: Commonwealth Labour Secretariat 
+title: LABSEC
 fulltitle: Commonwealth Labour Secretariat 
 icon: ⛓️
 emoji: Ζ

@@ -1,7 +1,16 @@
 <footer>
 {{ partial "stories/story-footer.html" . }}
 {{ partial "components/breadcrumbs.html" . }}
-  
+
+<div class="footer">
+  <span class="edit-date">Edited {{ .Lastmod.Format "02/01/2006" }}</span>
+  <span class="pill">
+    <div class="pill-category">{{ partial "taxonomies/categories.html" .}}</div>
+    <div class="pill-icon">🟪</div>
+    <div class="pill-title">{{ .Params.title }}</div>
+  </span>
+</div>
+  <br>
 <!-- reddit source link -->
 {{ if .Params.reddit }}
   <a class="link" href="{{ .Params.reddit }}">Archived from the original article here</a>
@@ -37,11 +46,9 @@
 {{ end }}
 
 {{ with (.Scratch.Get "params").footer }}
-    <div style="margin-top: 0rem; margin-bottom: 0rem;">
-        {{- . | safeHTML -}}
+    <div class="copyright">
+        Copyright © 2017-2022 Studio MillMint
     </div>
 {{ end }}
-<!-- last edit date -->
-<div class="edit-date">Edited {{ .Lastmod.Format "02/01/2006" }}</div>
   
 </footer>

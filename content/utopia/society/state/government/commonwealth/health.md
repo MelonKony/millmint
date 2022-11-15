@@ -1,5 +1,5 @@
 ---
-title: Commonwealth Health Secretariat 
+title: Health
 fulltitle: Commonwealth Health Secretariat 
 icon: ⚕️
 emoji: Ζ

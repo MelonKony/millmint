@@ -82,10 +82,7 @@ During Vekllei's Middle Period, the country was struck by civil unrest that esca
 
 Since independence in 2015, Vekllei's Floral Period has transformed the country, and has been marked by a period of unprecedented stability and economic growth. Vekllei does not use money domestically, with most internal trade dependent on social exchange, barter and state service, but operates twin currencies (the *Government* and *Vekllei* Crown) in its trade internationally.
 
-![img](https://images.millmint.net/images/shrine-minded.jpg)
-{{< hint caption >}}
-Life in coastal boroughs like [Santes](/utopia/landscape/boroughs/santes) continues much as it has for hundreds of years | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
-{{</hint>}}
+![Picture of girls caught in a gust of wind](https://images.millmint.net/images/shrine-minded.jpg "Life in coastal boroughs like [Santes](/utopia/landscape/boroughs/santes) continues much as it has for hundreds of years | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*")
 
 Vekllei is a great power and has the world's fifth highest military expenditure. The country is highly developed and has exceptional liveability, and is placed highly in key social indicators: education, healthcare, quality of life, personal safety and housing, with a home-ownership rate of nearly 96%. It is a member of the United Nations' Non-Aligned Concern League.
 

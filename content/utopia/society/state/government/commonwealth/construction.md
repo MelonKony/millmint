@@ -1,5 +1,5 @@
 ---
-title: Commonwealth Construction Secretariat 
+title: Construction
 fulltitle: Commonwealth Construction Secretariat 
 icon: ⚒️
 emoji: Ζ
