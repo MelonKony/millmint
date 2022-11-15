@@ -1,6 +1,8 @@
 const palette = ["#A74553", "#494DCB", "#8C533C", "#D99E52", "#8F9A6B", "#000"];
 const dataUrls = {};
 const imgs = {};
+const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
+let delayGeneration = 2e3;
 let groupColors = {};
 let dollAssets = [];
 let uniqueGroups = [...new Set(dollAssets.map((t) => t.group))];
@@ -8,6 +10,13 @@ let currentGroup;
 let gender = "f";
 let redrawDebounce;
 let colorDebounce;
+
+// Set download label
+if (!isSafari) {
+	document
+		.querySelectorAll(".download-link .text")
+		.forEach((span) => (span.textContent = "Download Image"));
+}
 
 // Base doll
 const groupSelections = {
@@ -872,6 +881,8 @@ function renderOptions() {
 				else groupSelections[asset.group] = [asset.name];
 			}
 
+			document.querySelector(".dolls-download-stuff").classList.add("hidden");
+
 			dollsMain(true);
 		});
 
@@ -883,15 +894,23 @@ function drawCharacter() {
 	render();
 }
 
-function downloadDoll() {
+function regenerateDollImage() {
+	// delayGeneration += 2e3;
+	generateDollImage(false);
+}
+
+function generateDollImage(resetTimer = true) {
+	if (resetTimer) delayGeneration = 2e3;
+
 	render();
 
 	const downloadText = document.querySelectorAll(".download-link .text");
 	for (const text of downloadText) {
-		text.innerText = "Generating...";
+		text.innerText = "Working...";
 	}
 
-	document.querySelector(".dolls-download-stuff").classList.remove("hidden");
+	if (isSafari)
+		document.querySelector(".dolls-download-stuff").classList.remove("hidden");
 
 	// Make "canvas" super wide, download image
 	requestAnimationFrame(() => {
@@ -912,8 +931,6 @@ function downloadDoll() {
 		document.querySelectorAll(".lol").forEach((t) => t.remove());
 
 		htmlToImage.getImage(node, opts).then(async (img) => {
-			const container = document.querySelector(".doll-img-container");
-			container.innerHTML = "";
 			img.width = opts.width;
 			img.height = opts.height;
 			img.classList.add("html-to-image-svg");
@@ -924,23 +941,41 @@ function downloadDoll() {
 			canvas.width = opts.width;
 			canvas.height = opts.height;
 
-			await new Promise((resolve) => setTimeout(resolve, 2e3));
-
 			ctx.drawImage(img, 0, 0, opts.width, opts.height);
 
-			container.appendChild(img);
-			container.appendChild(canvas);
+			const container = document.querySelector(".doll-img-container");
+			container.innerHTML = "";
+
+			if (isSafari) {
+				container.appendChild(canvas);
+				window.scrollTo(0, 1000);
+			} else {
+				downloadDollImage(canvas);
+			}
+
 			img.style.minWidth = "auto";
-			window.scrollTo(0, 1000);
 
 			// Reset button label
 			for (const text of downloadText) {
-				text.innerText = text.parentNode.getAttribute("data-text");
+				text.innerText = isSafari
+					? text.parentNode.getAttribute("data-text")
+					: "Download Image";
 			}
 		});
 
 		document.querySelector(".dolls-canvas").removeAttribute("style");
 	});
+}
+
+function downloadDollImage(
+	canvas = document.querySelector(".doll-img-container canvas")
+) {
+	console.log(canvas);
+	// Download image
+	const a = document.createElement("a");
+	a.href = canvas.toDataURL();
+	a.download = "Character.png";
+	a.click();
 }
 
 function getLayers() {
