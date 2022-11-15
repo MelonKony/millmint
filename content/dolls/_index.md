@@ -15,7 +15,7 @@ color: indigo
 			<div class="dolls-canvas">
 				<div class="dolls-canvas-inner"></div>
 			</div>
-			<button class="article-button download-link" data-text="Generate Image" onclick="generateDollImage()" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">📂</span> <span class="text">Generate Image</span></button>
+			<button class="article-button download-link" onclick="generateDollImage()" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">📂</span> <span class="text">Download Image</span></button>
 		</div>
 	</div>
 	<div class="dolls-editor">
@@ -40,17 +40,6 @@ color: indigo
 			<span class="text">My nav</span>
 		</button>
 	</template>
-</div>
-
-<div class="dolls-download-stuff hidden">
-	<hr />
-	<h2>Generated image:</h2>
-	<p>Due to a Safari bug the images don't always get generated properly. If the below image does not look right to you, click regenerate before downloading. It might take a couple retries before giving the desired result. If it looks right, you can download the image by clicking the download button.</p>
-	<div class="doll-img-container"></div>
-	<div class="dolls-multiple-buttons">
-		<button class="article-button download-link" data-text="Regenerate image" onclick="regenerateDollImage()" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">♻️</span> <span class="text">Regenerate Image</span></button>
-		<button class="article-button" onclick="downloadDollImage()" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">📂</span> <span class="text">Download Image</span></button>
-	</div>
 </div>
 
 <script src="/js/html-to-image.js"></script>
