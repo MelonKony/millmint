@@ -42,5 +42,4 @@ color: indigo
 	</template>
 </div>
 
-<script src="/js/html-to-image.js"></script>
 <script src="/js/dolls.js"></script>
