@@ -1,4 +1,4 @@
-const palette = ["#A74553", "#494DCB", "#8C533C", "#D99E52", "#8F9A6B"];
+const palette = ["#A74553", "#494DCB", "#8C533C", "#D99E52", "#8F9A6B", "#000"];
 const dataUrls = {};
 const imgs = {};
 let groupColors = {};
@@ -385,13 +385,13 @@ function defineAssets() {
 			name: "Sandals",
 			layers: [
 				{
-					layer: 2,
-					img: img("/doll-assets/f/0.bg/mask.5b.bg.png"),
+					layer: 14,
+					img: maskImg("/doll-assets/f/5.shoes/5b/"),
 					gender: "f",
 				},
 				{
-					layer: 14,
-					img: maskImg("/doll-assets/f/5.shoes/5b/"),
+					layer: 2,
+					img: img("/doll-assets/f/0.bg/mask.5b.bg.png"),
 					gender: "f",
 				},
 			],
@@ -566,14 +566,20 @@ function defineAssets() {
 			name: "Nurse Uniform",
 			layers: [
 				{
-					layer: 20,
-					img: maskImg("/doll-assets/f/8.outfits/8b/", undefined, "maska"),
+					layer: 21,
+					img: maskImg("/doll-assets/f/8.outfits/8b/", undefined, "maskb"),
 					gender: "f",
 				},
 				{
 					layer: 20,
-					img: maskImg("/doll-assets/f/8.outfits/8b/", undefined, "maskb"),
+					img: maskImg(
+						"/doll-assets/f/8.outfits/8b/",
+						undefined,
+						"maska",
+						true
+					),
 					gender: "f",
+					noColor: true,
 				},
 			],
 		},
@@ -582,7 +588,7 @@ function defineAssets() {
 			name: "Jumper",
 			layers: [
 				{
-					layer: 21,
+					layer: 21.1,
 					img: maskImg("/doll-assets/f/9.jumpers/9a/"),
 					gender: "f",
 				},
@@ -880,48 +886,59 @@ function drawCharacter() {
 function downloadDoll() {
 	render();
 
-	const downloadText = document.querySelector(".download-link .text");
-	downloadText.innerText = "Downloading...";
+	const downloadText = document.querySelectorAll(".download-link .text");
+	for (const text of downloadText) {
+		text.innerText = "Generating...";
+	}
+
+	document.querySelector(".dolls-download-stuff").classList.remove("hidden");
 
 	// Make "canvas" super wide, download image
-	// document.querySelector(".dolls-canvas").style.width = "1000px";
 	requestAnimationFrame(() => {
 		const node = document.querySelector(".dolls-canvas-inner");
+
 		const desiredWidth = 1000;
 		const scale = desiredWidth / node.clientWidth;
 
-		domtoimage
-			.toPng(node, {
-				width: node.clientWidth * scale,
-				height: node.clientHeight * scale,
-				style: {
-					transform: "scale(" + scale + ")",
-					transformOrigin: "top left",
-				},
-			})
-			.then((dataUrl) => {
-				// Download imnage
-				const a = document.createElement("a");
-				a.href = dataUrl;
-				a.download = "character.png";
-				a.click();
+		const opts = {
+			width: node.clientWidth * scale,
+			height: node.clientHeight * scale,
+			style: {
+				transform: "scale(" + scale + ")",
+				transformOrigin: "top left",
+			},
+		};
 
-				// Reset button label
-				downloadText.innerText = "Download Image";
-			});
+		document.querySelectorAll(".lol").forEach((t) => t.remove());
 
-		// html2canvas(document.querySelector(".dolls-canvas-inner"), {
-		// 	backgroundColor: null,
-		// }).then((canvas) => {
-		// 	// Download imnage
-		// 	const a = document.createElement("a");
-		// 	a.href = canvas.toDataURL();
-		// 	a.download = "character.png";
-		// 	a.click();
+		htmlToImage.getImage(node, opts).then(async (img) => {
+			const container = document.querySelector(".doll-img-container");
+			container.innerHTML = "";
+			img.width = opts.width;
+			img.height = opts.height;
+			img.classList.add("html-to-image-svg");
 
-		// 	// Reset button label
-		// 	downloadText.innerText = "Download Image";
-		// });
+			const canvas = document.createElement("canvas");
+			const ctx = canvas.getContext("2d");
+
+			canvas.width = opts.width;
+			canvas.height = opts.height;
+
+			await new Promise((resolve) => setTimeout(resolve, 2e3));
+
+			ctx.drawImage(img, 0, 0, opts.width, opts.height);
+
+			container.appendChild(img);
+			container.appendChild(canvas);
+			img.style.minWidth = "auto";
+			window.scrollTo(0, 1000);
+
+			// Reset button label
+			for (const text of downloadText) {
+				text.innerText = text.parentNode.getAttribute("data-text");
+			}
+		});
+
 		document.querySelector(".dolls-canvas").removeAttribute("style");
 	});
 }
@@ -965,11 +982,15 @@ function render() {
 
 		for (const img of layers) {
 			if (groupColors[asset.group] && !img.noColor) {
+				console.log(img);
 				const d = document.createElement("div");
 				d.classList.add("mask");
 
+				console.log(asset.name, img.src);
+
 				// Convert mask image to data url
 				const dataUrl = getDataUrl(img);
+				d.id = img.src;
 
 				// Define the URL and mask in general
 				d.setAttribute(
@@ -1019,11 +1040,11 @@ function dollsMain(redraw = true) {
 	if (redraw) drawCharacter();
 }
 
-function maskImg(path, mask, maskName = "mask") {
+function maskImg(path, mask, maskName = "mask", noColor = false) {
 	path = `${path}${path.endsWith("/") ? "" : "/"}`;
 
 	const layers = [];
-	if (maskName) layers.push(img(`${path}${maskName}.png`, false));
+	if (maskName) layers.push(img(`${path}${maskName}.png`, noColor));
 	layers.push(img(`${path}outline.png`));
 
 	return {

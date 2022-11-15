@@ -227,3 +227,21 @@
 		grid-template-columns: 100%;
 	}
 }
+
+.dolls-multiple-buttons {
+	display: flex;
+	gap: 20px;
+}
+
+.doll-img-container {
+	display: flex;
+	justify-content: center;
+
+	> canvas {
+		height: 300px;
+		margin: 0 auto;
+		background: var(--gray-100);
+		border-radius: 6px;
+		margin-bottom: 10px;
+	}
+}
