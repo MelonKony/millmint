@@ -1,5 +1,5 @@
 ---
-title: Commonwealth Culture Secretariat 
+title: Culture
 fulltitle: Commonwealth Culture Secretariat 
 icon: 🏵
 emoji: Ζ

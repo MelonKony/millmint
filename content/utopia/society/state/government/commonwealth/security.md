@@ -1,5 +1,5 @@
 ---
-title: Commonwealth Security Secretariat 
+title: OPSEC
 fulltitle: Commonwealth Security Secretariat 
 icon: 🏹
 emoji: Ζ

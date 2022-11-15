@@ -1,5 +1,5 @@
 ---
-title: Commonwealth Education Secretariat 
+title: Education
 fulltitle: Commonwealth Education Secretariat 
 icon: 🎓
 emoji: Ζ

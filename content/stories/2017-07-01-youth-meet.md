@@ -16,6 +16,7 @@ keywords:
     
 url: /stories/youth/
 aliases:
+- /stories/1/
 - /posts/2017-07-01-youth-meet/
 
 image: https://images.millmint.net/images/youthmeet.jpg
