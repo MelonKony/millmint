@@ -886,18 +886,20 @@ function drawCharacter() {
 function downloadDoll() {
 	render();
 
-	const downloadText = document.querySelector(".download-link .text");
-	downloadText.innerText = "Downloading...";
+	const downloadText = document.querySelectorAll(".download-link .text");
+	for (const text of downloadText) {
+		text.innerText = "Generating...";
+	}
+
+	document.querySelector(".dolls-download-stuff").classList.remove("hidden");
 
 	// Make "canvas" super wide, download image
-	// document.querySelector(".dolls-canvas").style.width = "1000px";
 	requestAnimationFrame(() => {
-		console.log(12);
-		
 		const node = document.querySelector(".dolls-canvas-inner");
-		const desiredWidth = 500;
+
+		const desiredWidth = 1000;
 		const scale = desiredWidth / node.clientWidth;
-		
+
 		const opts = {
 			width: node.clientWidth * scale,
 			height: node.clientHeight * scale,
@@ -905,41 +907,38 @@ function downloadDoll() {
 				transform: "scale(" + scale + ")",
 				transformOrigin: "top left",
 			},
-		}
+		};
 
 		document.querySelectorAll(".lol").forEach((t) => t.remove());
-		
-		htmlToImage
-			.toPng(node, opts)
-			.then((dataUrl) => {
-				// Download imnage
-				// const a = document.createElement("a");
-				// a.href = dataUrl;
-				// a.download = "character.png";
-				// a.click();
 
-				const img = document.createElement("img");
-				img.classList.add("lol");
-				img.src = dataUrl;
-				img.style.background = "#4c4c4c";
-				document.querySelector(".content").appendChild(img);
+		htmlToImage.getImage(node, opts).then(async (img) => {
+			const container = document.querySelector(".doll-img-container");
+			container.innerHTML = "";
+			img.width = opts.width;
+			img.height = opts.height;
+			img.classList.add("html-to-image-svg");
 
-				// Reset button label
-				downloadText.innerText = "Download Image";
-			});
+			const canvas = document.createElement("canvas");
+			const ctx = canvas.getContext("2d");
 
-		// html2canvas(document.querySelector(".dolls-canvas-inner"), {
-		// 	backgroundColor: null,
-		// }).then((canvas) => {
-		// 	// Download imnage
-		// 	const a = document.createElement("a");
-		// 	a.href = canvas.toDataURL();
-		// 	a.download = "character.png";
-		// 	a.click();
+			canvas.width = opts.width;
+			canvas.height = opts.height;
 
-		// 	// Reset button label
-		// 	downloadText.innerText = "Download Image";
-		// });
+			await new Promise((resolve) => setTimeout(resolve, 2e3));
+
+			ctx.drawImage(img, 0, 0, opts.width, opts.height);
+
+			container.appendChild(img);
+			container.appendChild(canvas);
+			img.style.minWidth = "auto";
+			window.scrollTo(0, 1000);
+
+			// Reset button label
+			for (const text of downloadText) {
+				text.innerText = text.parentNode.getAttribute("data-text");
+			}
+		});
+
 		document.querySelector(".dolls-canvas").removeAttribute("style");
 	});
 }
