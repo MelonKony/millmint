@@ -15,7 +15,7 @@ color: indigo
 			<div class="dolls-canvas">
 				<div class="dolls-canvas-inner"></div>
 			</div>
-			<button class="article-button download-link" data-text="Generate Image" onclick="downloadDoll()" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">📂</span> <span class="text">Generate Image</span></button>
+			<button class="article-button download-link" onclick="generateDollImage()" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">📂</span> <span class="text">Download Image</span></button>
 		</div>
 	</div>
 	<div class="dolls-editor">
@@ -42,15 +42,4 @@ color: indigo
 	</template>
 </div>
 
-<div class="dolls-download-stuff hidden">
-	<hr />
-	<h2>Generated image:</h2>
-	<div class="doll-img-container"></div>
-	<div class="dolls-multiple-buttons">
-		<button class="article-button download-link" data-text="Regenerate image" onclick="downloadDoll()" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">♻️</span> <span class="text">Regenerate Image</span></button>
-		<button class="article-button" onclick="downloadDoll()" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">📂</span> <span class="text">Download Image</span></button>
-	</div>
-</div>
-
-<script src="/js/html-to-image.js"></script>
 <script src="/js/dolls.js"></script>
