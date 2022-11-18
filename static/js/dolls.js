@@ -439,7 +439,7 @@ function defineAssets() {
 		},
 		{
 			group: "shoes",
-			name: "Nurse Shoes",
+			name: "Flats",
 			layers: [
 				{
 					layer: 14,
@@ -559,6 +559,17 @@ function defineAssets() {
 			],
 		},
 		{
+			group: "top",
+			name: "Turtleneck shirt",
+			layers: [
+				{
+					layer: 16,
+					img: maskImg("/doll-assets/f/7.top/7e/"),
+					gender: "f",
+				},
+			],
+		},
+		{
 			group: "outfits",
 			name: "Gymslip",
 			layers: [
@@ -592,6 +603,39 @@ function defineAssets() {
 			],
 		},
 		{
+			group: "outfits",
+			name: "Platform Attendant",
+			layers: [
+				{
+					layer: 21,
+					img: maskImg("/doll-assets/f/8.outfits/8c/", undefined, "maskb"),
+					gender: "f",
+				},
+				{
+					layer: 20,
+					img: maskImg(
+						"/doll-assets/f/8.outfits/8c/",
+						undefined,
+						"maska",
+						true
+					),
+					gender: "f",
+					noColor: true,
+				},
+			],
+		},
+		{
+			group: "outfits",
+			name: "Pleated Dress",
+			layers: [
+				{
+					layer: 20,
+					img: maskImg("/doll-assets/f/8.outfits/8d/"),
+					gender: "f",
+				},
+			],
+		},
+		{
 			group: "jumper",
 			name: "Jumper",
 			layers: [
@@ -609,6 +653,17 @@ function defineAssets() {
 				{
 					layer: 21,
 					img: maskImg("/doll-assets/f/9.jumpers/9b/"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "jumper",
+			name: "Cardigan",
+			layers: [
+				{
+					layer: 21,
+					img: maskImg("/doll-assets/f/9.jumpers/9c/"),
 					gender: "f",
 				},
 			],
@@ -699,6 +754,17 @@ function defineAssets() {
 				{
 					layer: 17,
 					img: maskImg("/doll-assets/f/10.accessories/10h/"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "accessories",
+			name: "Kitty",
+			layers: [
+				{
+					layer: 22,
+					img: maskImg("/doll-assets/f/10.accessories/10i/"),
 					gender: "f",
 				},
 			],
