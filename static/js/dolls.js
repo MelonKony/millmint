@@ -305,6 +305,17 @@ function defineAssets() {
 		},
 		{
 			group: "socks",
+			name: "Everyday socks",
+			layers: [
+				{
+					layer: 13,
+					img: maskImg("/doll-assets/f/4.socks/4c/"),
+					gender: "f",
+				},
+			],
+		},
+		{
+			group: "socks",
 			name: "Folded socks",
 			layers: [
 				{
@@ -321,17 +332,6 @@ function defineAssets() {
 				{
 					layer: 13,
 					img: maskImg("/doll-assets/f/4.socks/4b/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "socks",
-			name: "Everyday socks",
-			layers: [
-				{
-					layer: 13,
-					img: maskImg("/doll-assets/f/4.socks/4c/"),
 					gender: "f",
 				},
 			],

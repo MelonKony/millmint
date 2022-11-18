@@ -2,6 +2,14 @@
 title: Dolls
 fulltitle: Create-a-Character
 description: Stories of life and living in the country of Vekllei.
+icon: 🧍‍♀️
+emoji: X
+color: pink
+
+tags: 
+  - dolls
+categories:
+  - tools
 
 type: stories
 layout: stories
