@@ -1014,18 +1014,49 @@ function downloadDollImage() {
 		// Get canvas
 		const canvas = generateDollImage();
 
-		console.log(canvas)
+		console.log(canvas);
 
 		// Download image
-		const a = document.createElement("a");
-		a.href = canvas.toDataURL();
-		a.download = "Character.png";
-		a.click();
+		download(canvas);
 
 		for (const text of downloadText) {
 			text.innerText = "Download Image";
 		}
 	}, 100);
+}
+
+async function downloadDollFace(evt) {
+	console.log(evt);
+	const text = evt.currentTarget.querySelector(".text");
+	text.innerText = "Working...";
+
+	setTimeout(() => {
+		// Generate full image
+		const full = generateDollImage();
+
+		// Generate face-mask
+		const squareSize = 1000;
+		const canvas = document.createElement("canvas");
+		const ctx = canvas.getContext("2d");
+		canvas.width = squareSize;
+		canvas.height = squareSize;
+
+		// Draw face img
+		ctx.translate(-full.width / 2, -400);
+		ctx.drawImage(full, squareSize / 2, 0);
+
+		// Download image
+		download(canvas, "Profile Picture");
+
+		text.innerText = "Download Profile Picture";
+	}, 100);
+}
+
+function download(canvas, fileName = "Character") {
+	const a = document.createElement("a");
+	a.href = canvas.toDataURL();
+	a.download = `${fileName}.png`;
+	a.click();
 }
 
 function getLayers() {
