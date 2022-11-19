@@ -1,4 +1,12 @@
-const palette = ["#A74553", "#494DCB", "#8C533C", "#D99E52", "#8F9A6B", "#000", "purple"];
+const palette = [
+	"#A74553",
+	"#494DCB",
+	"#8C533C",
+	"#D99E52",
+	"#8F9A6B",
+	"#000",
+	"purple",
+];
 const dataUrls = {};
 const imgs = {};
 const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
@@ -957,74 +965,67 @@ function drawCharacter() {
 	render();
 }
 
-function regenerateDollImage() {
-	generateDollImage();
+function generateDollImage() {
+	render();
+
+	// ! Image generation
+	const allLayers = getLayers();
+
+	const canvas = document.createElement("canvas");
+	const ctx = canvas.getContext("2d");
+	canvas.width = 3000;
+	canvas.height = 4500;
+
+	for (const asset of allLayers) {
+		const imgs = asset.img.layers ? asset.img.layers : [asset.img];
+
+		for (const img of imgs) {
+			if (groupColors[asset.group] && !img.noColor) {
+				// Create new canvas to mask over
+				const c2 = document.createElement("canvas");
+				const ctx2 = c2.getContext("2d");
+				c2.width = canvas.width;
+				c2.height = canvas.height;
+
+				ctx2.drawImage(img, 0, 0, canvas.width, canvas.height);
+				ctx2.globalCompositeOperation = "source-in";
+				ctx2.fillStyle = asset.img.mask;
+				ctx2.fillRect(0, 0, canvas.width, canvas.height);
+
+				// Draw to final canvas
+				ctx.drawImage(c2, 0, 0, canvas.width, canvas.height);
+			} else {
+				// Just draw it straight
+				ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+			}
+		}
+	}
+
+	return canvas;
 }
 
-async function generateDollImage() {
+function downloadDollImage() {
 	const downloadText = document.querySelectorAll(".download-link .text");
 	for (const text of downloadText) {
 		text.innerText = "Working...";
 	}
 
-	// Wait for animation frame so the "working" label will show up
 	setTimeout(() => {
-		render();
+		// Get canvas
+		const canvas = generateDollImage();
 
-		// ! Image generation
-		const allLayers = getLayers();
+		console.log(canvas)
 
-		const canvas = document.createElement("canvas");
-		const ctx = canvas.getContext("2d");
-		canvas.width = 3000;
-		canvas.height = 4500;
-
-		for (const asset of allLayers) {
-			const imgs = asset.img.layers ? asset.img.layers : [asset.img];
-
-			for (const img of imgs) {
-				if (groupColors[asset.group] && !img.noColor) {
-					// Create new canvas to mask over
-					const c2 = document.createElement("canvas");
-					const ctx2 = c2.getContext("2d");
-					c2.width = canvas.width;
-					c2.height = canvas.height;
-
-					ctx2.drawImage(img, 0, 0, canvas.width, canvas.height);
-					ctx2.globalCompositeOperation = "source-in";
-					ctx2.fillStyle = asset.img.mask;
-					ctx2.fillRect(0, 0, canvas.width, canvas.height);
-
-					// Draw to final canvas
-					ctx.drawImage(c2, 0, 0, canvas.width, canvas.height);
-				} else {
-					// Just draw it straight
-					ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
-				}
-			}
-		}
-
-		// Download canvas
-		const a = document.createElement("a")
-		a.href = canvas.toDataURL()
-		a.download = 'Character.png';
-		a.click()
+		// Download image
+		const a = document.createElement("a");
+		a.href = canvas.toDataURL();
+		a.download = "Character.png";
+		a.click();
 
 		for (const text of downloadText) {
 			text.innerText = "Download Image";
 		}
-
 	}, 100);
-}
-
-function downloadDollImage(
-	canvas = document.querySelector(".doll-img-container canvas")
-) {
-	// Download image
-	const a = document.createElement("a");
-	a.href = canvas.toDataURL();
-	a.download = "Character.png";
-	a.click();
 }
 
 function getLayers() {
