@@ -2796,6 +2796,8 @@ ol {
 .dolls-left-side {
   position: sticky;
   top: 50px; }
+  .dolls-left-side button {
+    margin-bottom: 10px; }
 
 .dolls-canvas {
   width: 100%;
