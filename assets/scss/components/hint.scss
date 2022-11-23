@@ -29,9 +29,10 @@ body article blockquote {
 	}
 	
 	.text {
-		display: block;
 		display: table-cell;
+		display: block;
 		vertical-align: middle;
+		text-align: center;
 	}
 }
 

@@ -9,12 +9,16 @@
     <div class="pill-icon">🟪</div>
     <div class="pill-title">{{ .Params.title }}</div>
   </span>
+  
+  <!-- reddit source link -->
+  <div class="redditlink">
+    {{ if .Params.reddit }}
+      <a class="link" href="{{ .Params.reddit }}">Archived from the original article here</a>
+    {{ end }}
+  </div>
 </div>
-  <br>
-<!-- reddit source link -->
-{{ if .Params.reddit }}
-  <a class="link" href="{{ .Params.reddit }}">Archived from the original article here</a>
-{{ end }}
+
+<br>
 
 <!-- comments -->
   
