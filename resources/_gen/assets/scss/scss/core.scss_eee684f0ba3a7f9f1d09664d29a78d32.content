@@ -2070,10 +2070,7 @@ body article blockquote {
       height: 1em;
       vertical-align: middle; }
   .hint .text {
-    display: table-cell;
-    display: block;
-    vertical-align: middle;
-    text-align: center; }
+    vertical-align: middle; }
 
 .hint.panel {
   padding: 1rem; }
