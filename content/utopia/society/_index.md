@@ -28,8 +28,8 @@ author: Hobart Phillips
 
 {{< details title="Society" open=true >}}
 - <span class="navicon">⚙️</span>Industry (coming soon)
-	- <a href="/utopia/society/industry/mail/"><span class="navicon">📯</span>Mail</a>
-	- <a href="/utopia/society/industry/rail/"><span class="navicon">🚇</span>Rail</a>
+	- <a href="/utopia/society/industry/crown/mail/"><span class="navicon">📯</span>Mail</a>
+	- <a href="/utopia/society/industry/state/rail/"><span class="navicon">🚇</span>Rail</a>
 - <a href="/utopia/society/state/"><span class="navicon">🌸</span>State</a>
 	- <a href="/utopia/society/state/palace/"><span class="navicon">🌾</span>The Vekllei Palace</a>
 	- <a href="/utopia/society/state/government/"><span class="navicon">🌸</span>The Vekllei Government</a>

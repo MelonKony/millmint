@@ -122,7 +122,7 @@ Responsible to the [Railways Bureau](/utopia/society/state/government/interior/t
   * Private Railcar Commission
 * **Vekllei Industrial Rail**
   * National Freight
-  * [Royal Mail](/utopia/society/industry/mail/) Railway Holdings
+  * [Royal Mail](/mail/) Railway Holdings
 * **Railroad Democracy Hall**
   * VK Rail Chapel
   * Public Rail Chapel

@@ -1,13 +1,10 @@
 ---
-title: State Assets
+title: State Industry
 fulltitle: State Assets of Vekllei
 icon: 🏬
 emoji: ¡
 color: pink
 image: 
-
-series: ["The Vekllei State"]
-series_order: 4
 
 tags: 
   - state

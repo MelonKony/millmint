@@ -6,9 +6,6 @@ emoji: Ζ
 color: purple
 image: 
 
-series: ["The Interior Government"]
-series_order: 9
-
 tags: 
   - ministry
 categories:

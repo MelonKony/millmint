@@ -6,9 +6,6 @@ emoji: Ζ
 color: purple
 image: 
 
-series: ["The Commonwealth Parliament"]
-series_order: 4
-
 tags: 
   - secretariat
 categories:

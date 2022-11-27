@@ -1,8 +1,8 @@
 ---
-title: Industry in Vekllei
+title: Industry
 fulltitle: Industry in Vekllei
 icon: ⚙️
-emoji: l
+emoji: ‡
 color: pink
 
 tags: 
@@ -23,22 +23,11 @@ author: Hobart Phillips
 ✿ Main article: *[The Government of Vekllei](/utopia/society/state/government/parliaments)*
 {{</hint>}}
 
-{{< details title="Crown Companies in Vekllei" open=true >}}
-
-* [Royal Mail of Vekllei](/mail/)
-
-{{< /details >}}
-
-{{< details title="State Companies in Vekllei" open=true >}}
-
-* [Vekllei National Rail](/rail/)
-
-{{< /details >}}
-
-{{< details title="Municipal Companies in Vekllei" open=true >}}
-
-{{< /details >}}
-
-{{< details title="Private Companies in Vekllei" open=true >}}
-
-{{< /details >}}
+{{< details title="Industry in Vekllei" open=true >}}
+- <span class="navicon">🌾</span>Crown Companies in Vekllei
+  - <a href="/utopia/society/industry/crown/mail/"><span class="navicon">📯</span>Royal Mail</a>
+- <a href="/utopia/society/industry/state/"><span class="navicon">🌸</span>State Companies in Vekllei</a>
+  - <a href="/utopia/society/industry/state/rail/"><span class="navicon">🚇</span>National Rail</a>
+- <span class="navicon">🌺</span>Municipal Companies in Vekllei
+- <span class="navicon">🏵️</span>Private Companies in Vekllei
+{{</ details >}}

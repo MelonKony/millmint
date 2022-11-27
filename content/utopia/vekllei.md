@@ -436,7 +436,7 @@ Homes are also commonly inherited in Vekllei. All Vekllei people are guaranteed 
 ### Communications
 
 {{< hint mail >}}
-✿ Read more: <span class="smallicon">📯</span> *[Post in Vekllei](/utopia/society/industry/mail/)*
+✿ Read more: <span class="smallicon">📯</span> *[Post in Vekllei](/mail/)*
 {{</hint>}}
 
 {{< hint mail >}}
@@ -445,7 +445,7 @@ Homes are also commonly inherited in Vekllei. All Vekllei people are guaranteed 
 
 The **Royal Mail of Vekllei** is the postal service of the country, and counts among its oldest surviving institutions. Founded in 1422, its origins as a military communications organ manifest today in its contemporary designation as a military state requisite, rather than civilian postal carrier. Despite this, the Royal Mail remains thoroughly civilian in its oversight and practice, and delivers around 50 million mail pieces a day in peak periods, including courier work abroad.
 
-![Picture of a rural mail train](https://images.millmint.net/images/mailtrain.jpg "[Tzipora](/utopia/characters/#2-tzipora-zelda-desmoisnes) races a [Royal Mail](/utopia/society/industry/mail/) rural [mail train](/utopia/society/industry/mail/#fleet) to its next stop. | *[Racing the Post Office to the Station](/stories/mail-train/)*")
+![Picture of a rural mail train](https://images.millmint.net/images/mailtrain.jpg "[Tzipora](/utopia/characters/#2-tzipora-zelda-desmoisnes) races a [Royal Mail](/mail/) rural [mail train](/utopia/society/industry/crown/mail/#fleet) to its next stop. | *[Racing the Post Office to the Station](/stories/mail-train/)*")
 
 Telephones, telegrams and videophones are structured under the Mail as the Office of Telecommunications, which acts as an independent organ of the Mail A.r.
 

@@ -62,7 +62,7 @@ Responsible to the [Skies Bureau](/utopia/society/government/#national-skies-bur
   * Private Railcar Commission
 * **Vekllei Industrial Rail**
   * National Freight
-  * [Royal Mail of Vekllei](/utopia/society/industry/mail/) Railway Holdings
+  * [Royal Mail of Vekllei](/mail/) Railway Holdings
 * **Railroad Democracy Hall**
   * VK Rail Chapel
   * Public Rail Chapel

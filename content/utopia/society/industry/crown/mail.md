@@ -159,7 +159,7 @@ The **Labour Bank of Vekllei**[^2] is easily accessible via the Mail's **Financi
 
 **It is evident** that the services assigned to the Mail by the postwar constitution are of critical importance to the stability of Vekllei society. In addition to being one of the oldest active postal organisations in the world, the Royal Mail of Vekllei is tremendously busy, since physical post has scarcely been displaced by the telephone in the country. Even without the Mail's international postage, domestic mail each day can exceed 12 million pieces -- enough for 1 in 2 people, though commercial mail and periodicals are included.
 
-![Picture of mail-owned manufacturing plant](https://images.millmint.net/images/manufacturie.jpg "Outdoor view of the [Royal Mail's](/utopia/society/industry/mail/) stamp printing complex. | *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*")
+![Picture of mail-owned manufacturing plant](https://images.millmint.net/images/manufacturie.jpg "Outdoor view of the [Royal Mail's](/mail/) stamp printing complex. | *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*")
 
 As is typical for critical bureaus in Vekllei, the Mail alleviates the stress of daily service through its dense, vertically-integrated infrastructure aided by automatic (automen vehicles) and permanent fixtures (pneumatic systems and automatic sorting/franking machines). It is precisely this commitment to infrastructure that makes the Mail so visible in daily life, and contributes to its ongoing legacy as Vekllei's oldest running government institution.
 

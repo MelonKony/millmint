@@ -6,9 +6,6 @@ emoji: w
 color: pink
 image: 
 
-series: ["The Vekllei State"]
-series_order: 2
-
 tags: 
   - state
 categories:

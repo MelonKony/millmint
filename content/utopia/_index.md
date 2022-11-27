@@ -38,8 +38,8 @@ author: Hobart Phillips
 - <a href="/utopia/society/"><span class="navicon">🏛</span>Society</a>
 	- <span class="navicon">🪙</span>Government (coming soon)
 	- <span class="navicon">⚙️</span>Industry (coming soon)
-		- <a href="/utopia/society/industry/mail/"><span class="navicon">📯</span>Mail</a>
-		- <a href="/utopia/society/industry/rail/"><span class="navicon">🚇</span>Rail</a>
+		- <a href="/utopia/society/industry/crown/mail/"><span class="navicon">📯</span>Mail</a>
+		- <a href="/utopia/society/industry/state/rail/"><span class="navicon">🚇</span>Rail</a>
 	- <span class="navicon">🧪</span>Technology
 		- <a href="/utopia/society/technology/computers/"><span class="navicon">🖥</span>Computers</a>
 {{</ details >}}
