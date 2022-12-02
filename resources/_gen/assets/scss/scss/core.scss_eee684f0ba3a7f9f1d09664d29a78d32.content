@@ -2071,6 +2071,8 @@ body article blockquote {
       vertical-align: middle; }
   .hint .text {
     vertical-align: middle; }
+  .hint a {
+    color: #1d1d1f; }
 
 .hint.panel {
   padding: 1rem; }

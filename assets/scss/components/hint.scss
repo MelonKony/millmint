@@ -31,6 +31,10 @@ body article blockquote {
 	.text {
 		vertical-align: middle;
 	}
+	
+	a {
+	  color: $font-color;
+	}
 }
 
 .hint.panel {
