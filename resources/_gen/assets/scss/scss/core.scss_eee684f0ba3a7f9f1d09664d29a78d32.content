@@ -1724,12 +1724,11 @@ footer ul {
   color: var(--color-gray);
   font-weight: 400; }
 
-.edit-date {
+.small-date {
   font-size: 0.75rem;
   /* 12px */
   line-height: 1rem;
   /* 16px */
-  color: var(--color-gray);
   margin: 0;
   text-align: left;
   vertical-align: middle; }
@@ -2433,13 +2432,11 @@ h1:hover a.anchor, h1 a.anchor:focus, h2:hover a.anchor, h2 a.anchor:focus, h3:h
 
 .alignleft a {
   margin-top: 1rem;
-  margin-bottom: 1rem;
   display: inline-block;
   position: relative; }
 
 .alignright a {
   margin-top: 1rem;
-  margin-bottom: 1rem;
   display: inline-block;
   position: relative; }
 

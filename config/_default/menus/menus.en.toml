@@ -112,14 +112,14 @@
       identifier = "mail"
       name = "Mail"
       pre = "📯"
-      url = "/utopia/society/industry/mail"
+      url = "/utopia/society/industry/crown/mail"
       parent = "society"
       weight = 6
     [[navbar]]
       identifier = "railways"
       name = "Railways"
       pre = "🚇"
-      url = "/utopia/society/industry/rail"
+      url = "/utopia/society/industry/state/rail"
       parent = "society"
       weight = 7
 [[navbar]]
@@ -131,7 +131,7 @@
   [[navbar]]
     identifier = "about"
     name = "About"
-    pre = "❓"
+    pre = "🌐"
     url = "/news/about"
     parent = "newsdesk"
     weight = 1

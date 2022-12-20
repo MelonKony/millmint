@@ -18,5 +18,5 @@ enable_collapsible_changelogs = true
 
 [list_layout]
 enable_group_by_year = true
-enable_show_date = false
+enable_show_date = true
 enable_pagination = false

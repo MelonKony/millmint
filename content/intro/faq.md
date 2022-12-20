@@ -12,6 +12,9 @@ categories:
 
 image: https://images.millmint.net/images/drawing.jpg
 
+aliases:
+  - /faq/
+
 weight: 1
 list_posts: false
 autonumbering: false

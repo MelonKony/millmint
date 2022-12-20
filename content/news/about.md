@@ -34,9 +34,11 @@ author: Hobart Phillips
 
 Vekllei has existed in some form since I was a kid, but I started working on it properly in 2017.
 
-You can follow my progress on this project on [Instagram](https://www.instagram.com/melon.kony/), [Twitter](https://twitter.com/MelonKony), or join [my subreddit](https://www.reddit.com/r/vekllei). 
+You can follow my progress on this project on [Twitter](https://twitter.com/MelonKony), or join [my subreddit](https://www.reddit.com/r/vekllei). 
 
 You can **write to me** at <span class="smallicon">📧</span> hobart@millmint.net.
+
+Visited: 🇦🇺🇯🇵🇿🇦🇭🇰🇮🇸🇨🇦🇲🇪🇷🇺🇫🇮🇸🇪🇮🇹🇫🇷🇩🇪🇬🇧🇭🇷🇹🇭🇺🇸
 
 {{<hint>}}
 Sincere thanks to [Jip](https://jipfr.nl) and Ben R. R. for their contributions to this site. They volunteered their time again and again to help create new features that make Vekllei easier and more fun to read. Thank you!
@@ -44,9 +46,31 @@ Sincere thanks to [Jip](https://jipfr.nl) and Ben R. R. for their contributions 
 
 ## News
 
+<small>Last updated: 20 Dec 2022</small>
+
+{{<hint header>}}
+December 2022
+{{</hint>}}
+
+<span class="bulleticon">📗</span> **December 2, 2022** New post: [*Silica Rivers*](/stories/silica/) <span class="spanlink"><a href="/stories/silica/">URL →</a></span>
+
+{{<hint header>}}
+November 2022
+{{</hint>}}
+
+<span class="bulleticon">✏️</span> **October 29, 2022** New sketch: [*Sleep*](/stories/sleep/) <span class="spanlink"><a href="/stories/sleep/">URL →</a></span>
+
+<span class="bulleticon">📗</span> **November 9, 2022** New post: [*Teachers*](/stories/teachers/) <span class="spanlink"><a href="/stories/teachers/">URL →</a></span>
+
 {{<hint header>}}
 October 2022
 {{</hint>}}
+
+<span class="bulleticon">✏️</span> **October 29, 2022** New sketch: [*Tee Shirt*](/stories/teeshirt/) <span class="spanlink"><a href="/stories/teeshirt/">URL →</a></span>
+
+<span class="bulleticon">📗</span> **October 26, 2022** New post: [*The Riot*](/stories/watch/) <span class="spanlink"><a href="/stories/watch/">URL →</a></span>
+
+<span class="bulleticon">🌐</span> **October 20, 2022** The Vekllei character creator has entered beta! Programming contributed and debugged by [Jip](https://jipfr.nl), clothing assets by me. Go check it out at [/dolls/](/dolls/)! <span class="spanlink"><a href="/dolls/">URL →</a></span>
 
 <span class="bulleticon">📗</span> **October 17, 2022** New post: [*Uniforms for All the Commonwealth*](/stories/caribbean-uniform/) <span class="spanlink"><a href="/stories/caribbean-uniform/">URL →</a></span>
 

@@ -139,9 +139,8 @@
 	@include font-normal;
 }
 
-.edit-date {
+.small-date {
 	@include text-xs;
-	@include highlight;
 	margin: 0;
 	text-align: left;
 	vertical-align: middle;

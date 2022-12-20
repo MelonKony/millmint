@@ -1,15 +1,12 @@
 ---
-aliases: ["posts", "articles", "blog", "showcase", "docs", "stories"]
-
-title: "Blog"
+title: Blog
 description: MillMint Blog
+pagination: true
+group_by_year: true
 
-type: stories
-layout: stories
 
 aliases:
 - /blog/
 
-tags: ["index"]
-color: millmint
+color: yellow
 ---

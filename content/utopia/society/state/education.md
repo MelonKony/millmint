@@ -2,7 +2,7 @@
 title: Education
 fulltitle: Education in Vekllei
 icon: 📚
-emoji: .
+emoji: p
 color: pink
 image: 
 
@@ -38,7 +38,9 @@ author: Hobart Phillips
 
 Education in Vekllei is a good example of the 'system working backwards,' the popular phrase to describe the Floral Period moving in two different directions at once. Is it modern, supplied and robust in the Western tradition -- children wear uniforms, are divided into school years and knowledge is arranged and taught in subjects. Other aspects of the Vekllei curriculum are novel by comparison.
 
-Nonetheless, there is something quite interesting going on in Vekllei education that is not immediately apparent at its surface. First, compulsory schooling runs for 4-5 days a week, depending on student commitments to elective and extracurricular activities. Government schools do not employ standardised testing, and rely on subject-specific means of assessment including reviews, presentations and portfolios. The [Vekllei Curriculum](#curriculum) emphasises practicable and technical skills that blur the lines between school, community and home. At its core, education in Vekllei is considered a foundation of Vekllei democracy, and like other foundations it is free, abundant and compulsory.
+There is something quite interesting going on in Vekllei education that is not immediately apparent at its surface. First, compulsory schooling runs between 3-5 days a week, depending on student commitments to elective and extracurricular activities. Government schools do not employ standardised testing, and rely on subject-specific means of assessment including reviews, presentations and portfolios. The [Vekllei Curriculum](#curriculum) emphasises practicable and technical skills that blur the lines between school, community and home. 
+
+Education in Vekllei is considered a foundation of Vekllei democracy, and in the spirit of the Floral Period it is free, abundant and compulsory.
 
 > Education is a founding aspect of the 4th Commonwealth and is to be reaffirmed constantly and faithfully by all Parliaments and public servants, and to this end is to be provided for as a highest priority of the new Parliament.
 
@@ -52,7 +54,7 @@ Nonetheless, there is something quite interesting going on in Vekllei education 
 
 ### Administration and Funding
 
-All forms of education in Vekllei are free, including for international students at a tertiary level. The system is funded by the [Commonwealth Education Secretariat (SOLCOM)](/solcom/), which also administers the school curriculum and some institutions. directly.
+All forms of education in Vekllei are free, including for international students at a tertiary level. The system is funded by the [Commonwealth Education Secretariat (SOLCOM)](/solcom/), which also administers the school curriculum and some schools directly.
 
 ### Schools
 
@@ -82,9 +84,9 @@ Studio and technical schools typically refer to secondary schools that specialis
 
 Vekllei people are enrolled in 9 years of compulsory education, provided by the [Commonwealth Education Secretariat](/solsec/) (SOLSEC). In addition, 3 years of pre-school and 3 years of senior secondary schooling are offered but not compulsory. All schools in Vekllei are funded by the state, which include community schools, state schools, studio schools, technical schools, faith schools and state boarding schools.
 
-Compared to modern schooling overseas, Vekllei education places significant value on well-roundedness and practicable household and technical skills. Subject-based streams for specialised learning are common, but the basic compulsory Vekllei curriculum emphasises non-academic subjects and makes pre-tertiary subjects elective.
+Compared to modern schooling overseas, Vekllei education places significant value on well-roundedness and practicable household and technical skills. Subject-based streams for specialised learning are common, but the basic compulsory Vekllei curriculum emphasises non-academic subjects and structures pre-tertiary subjects as electives.
 
-Vekllei has a strong tradition of school clubs and social organisations, and these are considered essential aspects of Vekllei education. Clubs and associations are often highly organised, and offer opportunities in industry and tertiary study. 
+Vekllei has a strong tradition of school clubs and social organisations, and these are considered essential aspects of Vekllei education. Clubs and associations are often highly organised by student leadership, and offer opportunities in industry and tertiary study. 
 
 Compulsory and tertiary education is free for all Vekllei people, permanent residents and foreign workers. Homeschooling is illegal except by those holding a teaching certificate, and is supervised by a local school which issues the child's diploma. In this context, homeschooling is almost nonexistent in the Commonwealth. About 15% of the Commonwealth Budget is allocated towards education.
 
