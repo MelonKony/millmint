@@ -57,7 +57,7 @@ Commonwealth member-states usually maintain their own [defence ministries](/utop
 ✿ Read more: <span class="smallicon">🔎</span> [Espionage in Vekllei](/espionage/)
 {{</hint>}}
 
-The *National Intelligence Directorate* (Noshem, or N.I.) the secret service of the Commonwealth and Vekllei's primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It comprises of 40 semiautonomous outlines, which each may operate several offices. This complex and comprehensive intelligence organisation contributes to its legendary reputation abroad, and conspiracies of its presence in almost every country.
+The *National Intelligence Directorate* (Noshem, or N.I.) is the secret service of the Commonwealth and Vekllei's primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It comprises of 40 semiautonomous outlines, which each may operate several offices. This complex and comprehensive intelligence organisation contributes to its legendary reputation abroad, and conspiracies of its presence in almost every country.
 
 Noshem is unique in its broad recruitment of foreigners, many of whom are promised citizenship and residency in Vekllei. Many Noshem outlines recruit locally, and manage foreign assets through Vekllei-born supervisors.
 
