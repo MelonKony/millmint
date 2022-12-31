@@ -21,9 +21,6 @@ description: The Moshel St School is Tzipora's secondary school in Vekllei.
 author: Hobart Phillips
  
 ---
-
-## Overview
-
 {{< hint >}}
 ߷ This article is about a [**location**](/utopia/landscape/locations) in [**Vekllei**](/utopia/vekllei/)
 {{</hint>}}

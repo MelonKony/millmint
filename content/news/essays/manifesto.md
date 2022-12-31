@@ -1,5 +1,5 @@
 ---
-title: Manifesto
+title: Disclosure/Manifesto
 
 fulltitle: Manifesto
 icon: 🍜

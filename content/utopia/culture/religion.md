@@ -5,9 +5,6 @@ icon: 💀
 emoji: d
 color: red
 
-series: ["Culture"]
-series_order: 2
-
 tags: 
   - culture
 categories:
@@ -23,7 +20,6 @@ description: Upen is an indigenous religion of Vekllei, a utopia created by Hoba
 author: Hobart Phillips
  
 ---
-## Overview
 {{< hint >}}
 ߷ This article is about [Vekllei](/utopia/vekllei)
 {{</hint>}}
@@ -31,6 +27,8 @@ author: Hobart Phillips
 {{< hint panel >}}
 **Upen** is the nondenominational animistic spiritualism of Vekllei. It is both an organised religious belief system and a decentralised local animism, localised regionally across the Home Islands and beyond. As a basis for Vekllei metaphysics and general belief systems, *Upen* is a central part of Vekllei cultural identity and informs most parts of life at all levels in the country.
 {{</hint>}}
+
+## Overview
 
 **Upen** is the animistic, nondenominational dominant and historical religion of Vekllei. Practiced commonly throughout the Home Islands and Vekllei's possessions, it is a core component of Vekllei culture and heritage, and has existed in various forms for thousands of years. Because *Upen* is fundamentally provincial and decentralised, its scripture and practice vary significantly between boroughs. Most forms emphasise object animism, impermanence, petite materialism, land dependence, existentialism and fear of nature.
 

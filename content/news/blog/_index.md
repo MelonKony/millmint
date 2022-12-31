@@ -8,5 +8,5 @@ group_by_year: true
 aliases:
 - /blog/
 
-color: yellow
+color: orange
 ---

@@ -17,7 +17,7 @@ image: https://images.millmint.net/images/territories.jpg
 aliases:
 - /territories/
 
-list_posts: false
+type: blank
 comments: false
 ---
 

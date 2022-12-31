@@ -23,10 +23,10 @@ h1:hover a.anchor, h1 a.anchor:focus, h2:hover a.anchor, h2 a.anchor:focus, h3:h
 /* outline style */
 .outline {
 	padding: 0.5em 1em 0.7em;
-	border: 1px solid rgba(0,0,0,0.08);
+	border: 1px solid rgba(0,0,0,0.1);
 	margin-top: 1.5em;
-	background-color: rgba(0,0,0,0.03);
 	border-radius: 3.5px;
+  border-left-width: 2.5px;
 	display: block;
 }
 
@@ -47,9 +47,8 @@ h1:hover a.anchor, h1 a.anchor:focus, h2:hover a.anchor, h2 a.anchor:focus, h3:h
 
 /* section style */
 .section {
-	margin-top: 1rem;
-	margin-bottom: 1rem;
-	color: var(--body-font-color);
+  @include radius-base;
+  @include my-4;
 	background-color: $gray-100;
 	opacity: .85;
 	border-inline-start: none;
@@ -69,6 +68,54 @@ h1:hover a.anchor, h1 a.anchor:focus, h2:hover a.anchor, h2 a.anchor:focus, h3:h
 
 .section h1, .section h2, .section h3, .section h4, .section h5, .section h6 {
 	margin-top: .5rem!important;
+}
+
+/* tabs */
+
+// {{< tabs >}}
+.tabs {
+  @include py-2;
+  @include px-4;
+  @include radius-base;
+  background-color: $gray-100;
+  line-height: 1.5;
+  letter-spacing: -.01em;
+
+  overflow: hidden;
+
+  display: flex;
+  flex-wrap: wrap;
+
+  label {
+    @include padding-2;
+    display: inline-block;
+    border-bottom: 1px transparent;
+    cursor: pointer;
+  }
+
+  .tabs-content {
+    @include padding-2;
+    order: 999; //Move content blocks to the end
+    border-top: 1px solid var(--gray-100);
+    display: none;
+  }
+  
+  input[type="radio"] { 
+    display: none; 
+  }
+
+
+  input[type="radio"]:checked + label {
+    border-bottom: 2px solid var(--color-gray);
+  }
+  input[type="radio"]:checked + label + .tabs-content {
+    display: block;
+  }
+  input[type="radio"]:focus + label {
+    outline-style: auto;
+    outline-color: currentColor;
+    outline-color: -webkit-focus-ring-color;
+  }
 }
 
 /* section box style */

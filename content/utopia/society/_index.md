@@ -10,7 +10,7 @@ tags:
 categories:
   - utopia
 
-list_posts: false
+type: blank
 autonumbering: true
 comments: false
 noindex: true

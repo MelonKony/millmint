@@ -5,9 +5,6 @@ icon: 📖
 emoji: q
 color: red
 
-series: ["Culture"]
-series_order: 1
-
 tags: 
   - culture
 categories:
@@ -15,7 +12,7 @@ categories:
 
 image: https://images.millmint.net/images/drawing.jpg
 
-list_posts: false
+type: blank
 autonumbering: true
 
 aliases:
@@ -25,7 +22,6 @@ description: The language of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
  
 ---
-## Overview
 {{< hint >}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei)
 {{</hint>}}
@@ -33,6 +29,8 @@ author: Hobart Phillips
 {{< hint panel >}}
 **The language of Vekllei** is an important part of the project. Utopianism cascades through every part of society, and rethinking communication is a foundational part of that instinct. In this article, we look at what makes Vekllei as a language special, and give insight into how these Atlantic people communicate with each other.
 {{</hint>}}
+
+## Overview
 
 **Vekllei language**, abbreviated to just **Vekllei**, has six core sublanguages that are used commonly today. Although they often intersect, these different systems of communication are distinct languages in their own right, used for different purposes in different arenas of communication.
 

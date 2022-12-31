@@ -8,16 +8,17 @@ const colors = {
   green: [92, 185, 85],
   indigo: [88, 86, 214],
   mint: [0, 199, 190],
-  orange: [224, 158, 33],
-  pink: [203, 46, 91],
+  orange: [237, 122, 69],
+  pink: [225, 28, 110],
   purple: [155, 67, 199],
-  red: [195, 54, 70],
+  red: [221, 52, 71],
   teal: [48, 176, 199],
   yellow: [234, 147, 101],
 
-  millmint: [183, 63, 83],
+  millmint: [225, 28, 110],
   vnr: [255, 86, 79],
-  mail: [186, 29, 55]
+  mail: [186, 29, 55],
+  gr: [31, 205, 88]
 }
 
 if(document.querySelector('[data-color]')) {

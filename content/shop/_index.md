@@ -5,7 +5,7 @@ index: false
 color: millmint
 
 toc: false
-list_posts: false
+type: blank
 comments: false
 
 description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.

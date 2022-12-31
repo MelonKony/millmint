@@ -1,4 +1,4 @@
 ---
 title: Tzipora
-pagination: true
+color: yellow
 ---

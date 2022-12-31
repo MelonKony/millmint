@@ -13,7 +13,7 @@ categories:
 
 draft: false
 
-list_posts: false
+type: blank
 autonumbering: true
 comments: false
 
@@ -25,9 +25,6 @@ aliases:
 description: Vekllei is a utopia created by Hobart Phillips.
 author: Hobart Phillips
 ---
-
-## Overview
-
 {{< hint >}}
 ߷ This article is about [Vekllei](/intro/#what-is-vekllei)
 {{</hint>}}
@@ -35,6 +32,8 @@ author: Hobart Phillips
 {{< hint panel >}}
 **Large segments of the Vekllei economy** are dominated by industries of the state, as both direct ministerial privileges and state-owned enterprises. In total, they form the basis of the basic Vekllei standard of living, holding back catastrophe through reliable overproduction where gaps in the participatory economy might threaten serious shortages.
 {{</hint>}}
+
+## Overview
 
 There is no real distinction in Vekllei between *state assets*, *state-owned enterprises* (SOE) and *government-owned corporations* (GOC), and the terms are used interchangeably. A state asset is distinct from bureau companies[^1] or private enterprise, and is often directed by government policy via an [Interior Ministry](/utopia/society/state/government/interior/) or Parliament.
 
@@ -98,7 +97,7 @@ There are three broad categories of state asset in Vekllei, arranged at their le
 * Vekllei National Machines
   * Civic Systems
   * Voscom
-* General Reactor
+* [General Reactor](/gr/)
   * [Future Fission](/utopia/landscape/boroughs/pharos/#future-fission-sqm)
 * International Rocketry
 * Vekllei Tobacco
@@ -109,6 +108,7 @@ There are three broad categories of state asset in Vekllei, arranged at their le
 
 {{< details title="Municipal Companies in Vekllei" open=true >}}
 
+* Common Battery
 * Vekllei Auto
   * All-Atomic Auto Company
 * Seispri Motors

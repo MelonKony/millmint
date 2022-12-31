@@ -12,7 +12,7 @@ categories:
 
 image: https://images.millmint.net/images/mailtrain.jpg
 
-list_posts: false
+type: blank
 comments: false
 autonumbering: true
 
@@ -23,8 +23,6 @@ description: The Royal Mail of Vekllei is the national postal organisation of Ve
 author: Hobart Phillips
  
 ---
-
-## Overview
 {{<hint>}}
 ߷ This article is about [**Vekllei**](/utopia/vekllei) society
 {{</hint>}}
@@ -32,6 +30,8 @@ author: Hobart Phillips
 {{< hint panel >}}
 **The Royal Mail of Vekllei** is perhaps the country's most visible organisation overseas. For many foreigners, Royal Mail aircraft may be the closest they ever come to seeing for themselves the mysterious Atlantic country. For Vekllei residents, the ancient organisation is a living relic of the country's ancient history, and an ongoing testament to the longevity of their people.
 {{</hint>}}
+
+## Overview
 
 **The Royal Mail of Vekllei**, referred to as the **Mail** or **Mail A.r.**[^1] within the country, is the national postal carrier of [Vekllei](/utopia/vekllei). It is a military state requisite reponsible for all postage in the country, and delivers nearly 50 million mail pieces domestically and abroad each day. One of the oldest institutions of its kind in Vekllei, it was founded in 1422 as a courier system between the Vekllei Kingdom and its largely mercenary military force. In 1742, it was formalised as a modern postal system available to the civilian public, and today offers a variety of services available to all Vekllei residents, including external territories.
 

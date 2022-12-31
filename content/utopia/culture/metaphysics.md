@@ -5,9 +5,6 @@ icon: 🪬
 emoji: Q
 color: red
 
-series: ["Culture"]
-series_order: 3
-
 tags: 
   - culture
 categories:
@@ -23,7 +20,6 @@ description: Upen is an indigenous religion of Vekllei, a utopia created by Hoba
 author: Hobart Phillips
  
 ---
-## Overview
 {{< hint >}}
 ߷ This article is about [Vekllei](/utopia/vekllei)
 {{</hint>}}
@@ -35,6 +31,8 @@ This article draws on many concepts broadly, with meandering interest in the sam
 {{<hint>}}
 <span class="smallicon" style="font-size: 14px;">⚠️</span> This article is evolving, and will be expanded in future.
 {{</hint>}}
+
+## Overview
 
 In Vekllei, "history" as it is presently conceptualised is not continuous or inevitable, and the island country has been excluded from history as an invention of 19th century Europe. This article seeks to document the ways the so-called 'Vekllei perspective' bucks historicist assumptions about history, progress, and many features of observable reality by depicting their differences.
 

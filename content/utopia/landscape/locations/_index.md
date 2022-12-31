@@ -20,7 +20,7 @@ aliases:
 - /locations/
 
 weight: 1
-list_posts: false
+type: blank
 comments: false
 autonumbering: true
 ---

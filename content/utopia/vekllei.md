@@ -11,7 +11,7 @@ tags:
 categories:
   - commonwealth
 
-list_posts: false
+type: blank
 autonumbering: true
 comments: false
 
@@ -23,9 +23,6 @@ aliases:
 description: Vekllei is an immersive visual world, written and illustrated by Hobart Phillips.
 author: Hobart Phillips
 ---
-
-## Overview
-
 {{<hint>}}
 ߷ This article is about [Vekllei](/intro/#what-is-vekllei)
 {{</hint>}}
@@ -33,6 +30,8 @@ author: Hobart Phillips
 {{<hint panel>}}
 **Vekllei** is a superstate in the Atlantic Ocean that demonstrates the "social dream" of its author, Hobart. Set ostensibly in Iceland, the history and geography of Vekllei is radically different from our own. It is also the home of all of Vekllei's [major characters](/utopia/characters).
 {{</hint>}}
+
+## Overview
 
 The **Commonwealth of Vekllei**, commonly **Vekllei** or the **4th Commonwealth**, is a supranational commonwealth of constituent countries[^1] bound closely together by shared geographic and political features. Most members are island countries in the Atlantic and Caribbean oceans, and are characterised by societies engaging in [Floral economics](/utopia/vekllei/#economy), municipalism, third-way diplomacy and utopian metaphysics. Most extraordinarily, the people of the Commonwealth do not use money.
 

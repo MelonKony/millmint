@@ -10,7 +10,7 @@ tags:
 categories:
   - intro
 
-list_posts: false
+type: blank
 comments: false
 autonumbering: false
 

@@ -1,3 +1,4 @@
 ---
 title: Cobian
+color: yellow
 ---

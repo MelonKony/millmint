@@ -13,7 +13,7 @@ categories:
 
 draft: false
 
-list_posts: false
+type: blank
 autonumbering: false
 comments: false
 

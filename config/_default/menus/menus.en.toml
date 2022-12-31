@@ -81,47 +81,19 @@
       parent = "society"
       weight = 1
     [[navbar]]
-      identifier = "finance"
-      name = "Finance"
-      pre = "💵"
-      url = "/utopia/society/state/finance/"
+      identifier = "industry"
+      name = "Industry"
+      pre = "⚙️"
+      url = "/utopia/society/industry/"
       parent = "society"
       weight = 2
     [[navbar]]
-    identifier = "espionage"
-    name = "Espionage"
-    pre = "🔎"
-    url = "/utopia/society/state/espionage"
+    identifier = "technology"
+    name = "Technology"
+    pre = "🧪"
+    url = "/utopia/society/technology"
     parent = "society"
     weight = 3
-    [[navbar]]
-      identifier = "assets"
-      name = "State Assets"
-      pre = "🏬"
-      url = "/utopia/society/state/assets"
-      parent = "society"
-      weight = 4
-    [[navbar]]
-      identifier = "computers"
-      name = "Computers"
-      pre = "🖥"
-      url = "/utopia/society/technology/computers"
-      parent = "society"
-      weight = 5
-    [[navbar]]
-      identifier = "mail"
-      name = "Mail"
-      pre = "📯"
-      url = "/utopia/society/industry/crown/mail"
-      parent = "society"
-      weight = 6
-    [[navbar]]
-      identifier = "railways"
-      name = "Railways"
-      pre = "🚇"
-      url = "/utopia/society/industry/state/rail"
-      parent = "society"
-      weight = 7
 [[navbar]]
   identifier = "newsdesk"
   name = "News"

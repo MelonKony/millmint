@@ -1,11 +1,11 @@
 const palette = [
-	"#A74553",
-	"#494DCB",
+	"#ad3647",
+	"#6080cc",
 	"#8C533C",
 	"#D99E52",
 	"#8F9A6B",
-	"#000",
-	"purple",
+	"#454343",
+	"#272b40",
 ];
 const dataUrls = {};
 const imgs = {};

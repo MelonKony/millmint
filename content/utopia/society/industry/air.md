@@ -12,7 +12,7 @@ categories:
 
 image: https://images.millmint.net/images/lightbulb.jpg
 
-list_posts: false
+type: blank
 comments: false
 autonumbering: true
 

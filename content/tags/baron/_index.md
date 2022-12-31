@@ -1,3 +1,4 @@
 ---
 title: Baron
+color: yellow
 ---

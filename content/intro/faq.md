@@ -16,7 +16,7 @@ aliases:
   - /faq/
 
 weight: 1
-list_posts: false
+type: blank
 autonumbering: false
 
 description: An intro to the world of Vekllei, a utopia created by Hobart Phillips.
