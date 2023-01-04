@@ -27,10 +27,6 @@ video:
 ---
 Despite having many consumer products, Vekllei is not a consumer society and is not equipped to succeed as one. Benevolent state monopolies produce staple goods -- food, clothing, and shelter -- and everything else is left up to the anarchic participatory industriousness of its people, which is situated somewhere between a productive free market and chaos. 
 
-The state monopolies are more than just [state-owned industries](/assets/) -- indeed, illustrating the borders of state control is a thankless task, since Vekllei does not really function in a private/public binary -- instead, state monopolies imply a means of social control; the implementation of a Vekllei worldview. The state does not just produce food, but *traditional* food, and *Vekllei* fashions, and architecture in its modernist tastes. This form of control is not merely ideological -- Vekllei is not really ideological in the sense that the Chinese or Russians are -- but functionalist and pragmatic; a cultural and consumer default designed to push the hearts of consumers back into the private market, and by association, to produce new and innovative products within it.
-
-This is basically an evolution of the Georgist tradition, in which real owned value is that which is produced by the Vekllei person themselves. The state provides a baseline comfort -- the corners of society -- and encourages mutual benefit in an open market, full of barter and trade and favours. Creative products like books and films, and food services like bistros and bars, thrive without profit or loss in this free (but moneyless) market.
-
 > These planned production mechanisms facilitate the reliable overproduction of essential goods that meet the needs of Vekllei population. The inflexibility of this system is supplanted by the private market of participatory labour, which produces the majority of consumer goods and products in Vekllei, if unreliably. Luxury goods are generally hyperlocalised or imported, and are scarce for most Veklei people.
 
 -- [State Assets of Vekllei](/assets/)
