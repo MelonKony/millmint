@@ -15,8 +15,6 @@ keywords:
 
 url: /stories/ministers/
 
-rgb: 135, 109, 97
-
 toc: false
 
 image: /images/ministers.jpg
