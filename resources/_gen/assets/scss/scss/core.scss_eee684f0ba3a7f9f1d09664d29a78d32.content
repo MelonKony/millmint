@@ -2390,6 +2390,40 @@ h1:hover a.anchor, h1 a.anchor:focus, h2:hover a.anchor, h2 a.anchor:focus, h3:h
     outline-color: currentColor;
     outline-color: -webkit-focus-ring-color; }
 
+/* fullscreen-tabs */
+.fullscreen-tabs {
+  padding: 0;
+  border-radius: .25rem;
+  background-color: #ffffff;
+  line-height: 1.5;
+  letter-spacing: -.01em;
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap; }
+  .fullscreen-tabs label {
+    padding: .5rem;
+    display: inline-block;
+    border-bottom: 1px transparent;
+    cursor: pointer;
+    box-sizing: border-box;
+    width: 50%;
+    text-align: center; }
+  .fullscreen-tabs .fullscreen-tabs-content {
+    padding: .5rem;
+    order: 999;
+    display: none;
+    width: 100%; }
+  .fullscreen-tabs input[type="radio"] {
+    display: none; }
+  .fullscreen-tabs input[type="radio"]:checked + label {
+    border-bottom: 2px solid var(--color-gray); }
+  .fullscreen-tabs input[type="radio"]:checked + label + .fullscreen-tabs-content {
+    display: block; }
+  .fullscreen-tabs input[type="radio"]:focus + label {
+    outline-style: auto;
+    outline-color: currentColor;
+    outline-color: -webkit-focus-ring-color; }
+
 /* section box style */
 .box {
   margin-top: 1rem;

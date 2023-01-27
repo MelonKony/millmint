@@ -10,9 +10,8 @@ tags:
   - dolls
 categories:
   - tools
-
-type: stories
-layout: stories
+  
+type: blank
 ---
 
 <div class="dolls">
