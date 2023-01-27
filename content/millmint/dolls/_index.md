@@ -6,13 +6,12 @@ icon: 🧍‍♀️
 emoji: P
 color: indigo
 
-tags: 
+tags:
   - dolls
 categories:
   - tools
 
-type: stories
-layout: stories
+type: blank
 ---
 
 <div class="dolls">
