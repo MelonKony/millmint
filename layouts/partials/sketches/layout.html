@@ -31,6 +31,7 @@
         </li>
     {{ end }}
     </ul>
+    {{ partial "stories/pagination.html" $ctx }}
 </div>
 
 {{ define "breadcrumbtext" }}
@@ -51,10 +52,6 @@
 {{ end }}
 
 <style>
-
-  .postcard-layout {
-    margin-top: 2rem;
-  }
   @media screen and (max-width: 56rem) {
     #article-info{
      margin-top: 40px;
