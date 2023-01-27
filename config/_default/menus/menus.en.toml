@@ -52,6 +52,13 @@
       url = "/utopia/culture/religion"
       parent = "culture"
       weight = 3
+    [[navbar]]
+      identifier = "sagas"
+      name = "Sagas"
+      pre = "🕯️"
+      url = "/utopia/culture/sagas"
+      parent = "culture"
+      weight = 4
   [[navbar]]
     identifier = "landscape"
     name = "Landscape"
@@ -96,57 +103,64 @@
     weight = 3
 [[navbar]]
   identifier = "newsdesk"
-  name = "News"
+  name = "MillMint"
   pre = "📕"
-  url = "/news/"
+  url = "/millmint/"
   weight = 3
   [[navbar]]
     identifier = "about"
     name = "About"
     pre = "🌐"
-    url = "/news/about"
+    url = "/millmint/about"
     parent = "newsdesk"
     weight = 1
+  [[navbar]]
+    identifier = "dolls"
+    name = "Dolls"
+    pre = "🧍‍♀️"
+    url = "/millmint/dolls/"
+    parent = "newsdesk"
+    weight = 2
   [[navbar]]
     identifier = "blog"
     name = "Blog"
     pre = "💬"
-    url = "/news/blog"
+    url = "/millmint/blog"
     parent = "newsdesk"
-    weight = 2
+    weight = 3
   [[navbar]]
     identifier = "essays"
     name = "Essays"
     pre = "📄"
-    url = "/news/essays"
+    url = "/millmint/essays"
     parent = "newsdesk"
-    weight = 3
+    weight = 4
     [[navbar]]
       identifier = "ghibli"
       name = "A Universal Nostalgia"
       pre = "🫧"
-      url = "/news/essays/ghibli"
+      url = "/millmint/essays/ghibli"
       parent = "essays"
       weight = 1
     [[navbar]]
       identifier = "utopie"
       name = "Utopie Concrete"
       pre = "☕️"
-      url = "/news/essays/utopie"
+      url = "/millmint/essays/utopie"
       parent = "essays"
       weight = 2
     [[navbar]]
       identifier = "hong kong"
       name = "Not Long in Hong Kong"
       pre = "☂️"
-      url = "/news/essays/hongkong"
+      url = "/millmint/essays/hongkong"
       parent = "essays"
       weight = 3
     [[navbar]]
       identifier = "tokyo"
       name = "A Cashless Tokyo"
       pre = "🍜"
-      url = "/news/essays/tokyo"
+      url = "/millmint/essays/tokyo"
       parent = "essays"
       weight = 4
 [[navbar]]

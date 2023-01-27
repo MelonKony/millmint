@@ -25,9 +25,6 @@ aliases:
 description: Vekllei is a utopia created by Hobart Phillips.
 author: Hobart Phillips
 ---
-
-## Overview
-
 {{< hint >}}
 ߷ This article is about [Vekllei](/intro/#what-is-vekllei)
 {{</hint>}}
@@ -35,6 +32,8 @@ author: Hobart Phillips
 {{< hint panel >}}
 **Even if they do not use money**, Vekllei people do have finances and engage with markets, maintain business relations and acquire financial instruments for upward mobility. The Vekllei state, on the other hand, is an enthusiastic participant in the global financial system and uses its considerable advantages enabled by the isolated moneyless Vekllei economy to accomplish its strategic political interests.
 {{</hint>}}
+
+## Overview
 
 The colloquial turn-of-phrase for the domestic Vekllei economy is "functionally moneyless," but the actual mechanisms of the internal Vekllei market is considerably more complex. While the average Vekllei person is insulated from money and money-management, their Commonwealth is a major entrepôt[^1] and has a reputation as an "Atlantic Middleman." Vekllei's facilitation of frictionless free trade, large foreign-exchange reserves and received foreign direct investments have resulted in decades of consistent economic growth, and has cemented its reputation as a financial hub between Europe and the Americas.
 
@@ -57,9 +56,9 @@ While the participatory nature of the Domestic Market affects its gross producti
 Vekllei Industrial Markets are distinguished by their ability to trade in both the moneyless [Domestic Market](#domestic-markets) and the [VKIM](#international-markets). There are two kinds of industrial firm in Vekllei:
 
 - **Senrouive**: private enterprises
-- **Venrouive**: public enterprises with membership in an industrial bureau
+- **Venrouive**: public enterprises with membership in an industrial [bureau](/bureaus/)
 
-*Venrouive* (also known as public companies in Vekllei) are enterprises beholden to industrial bureaus, which are collections of companies with close relations and hold membership in a shared industrial council. Venrouive businesses are characterised by large-scale enterprises, some of which may be state-owned, that hold considerable power over a market. In some cases, a bureau may monopolise a market, as in the case of the Vekllei telecommunications industry.
+*Venrouive* (also known as public companies in Vekllei) are enterprises beholden to [industrial bureaus](/bureaus/), which are collections of companies with close relations and hold membership in a shared industrial council. Venrouive businesses are characterised by large-scale enterprises, some of which may be state-owned, that hold considerable power over a market. In some cases, a bureau may monopolise a market, as in the case of the Vekllei telecommunications industry.
 
 Both senrouive and venrouive companies may participate in the international market, but only bureaus (and by extension, participating venrouive companies) may trade directly with overseas governments and enterprises.
 
@@ -120,7 +119,7 @@ In addition to government banks, money bureaus (also *Money Unions*) are a form 
 
 #### Institutional Banking
 
-Investment banking is provided primarily by the Commonwealth Bank of Vekllei (COMMBANK), which offers placement and settling services for bureaus seeking to engage with the International market. COMMBANK also arranges debt financing, underwriting and distribution services for overseas partners. COMMBANK also serves as the central bank of the Kalina Isles. In addition, the Bank of Vekllei maintains several subsidiaries dedicated to special financial products, like low-interest domestic infrastructure financing or overseas trade and investment.
+Investment banking is provided primarily by the Commonwealth Bank of Vekllei (COMMBANK), which offers placement and settling services for [bureaus](/bureaus/) seeking to engage with the International market. COMMBANK also arranges debt financing, underwriting and distribution services for overseas partners. COMMBANK also serves as the central bank of the Kalina Isles. In addition, the Bank of Vekllei maintains several subsidiaries dedicated to special financial products, like low-interest domestic infrastructure financing or overseas trade and investment.
 
 [^1]: An entrepôt is a port where merchandise is stored and traded, often before being exported again.
 [^2]: The Commonwealth capital account runs at a deficit as part of a post-war investment policy called 'Handshake Accounting,' which sees tremendous surplus state capital invested overseas.

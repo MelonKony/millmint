@@ -39,11 +39,11 @@ const groupSelections = {
 
 // All groups
 const groups = {
-	background: {
+	/*background: {
 		label: "Background",
 		icon: "🌲",
 		noColor: true,
-	},
+	},*/
 	skintone: {
 		label: "Skin tone",
 		icon: "🎨",
@@ -101,7 +101,7 @@ const groups = {
 
 function defineAssets() {
 	dollAssets = [
-		{
+		/*{
 			group: "background",
 			name: "Beach",
 			layers: [
@@ -120,7 +120,7 @@ function defineAssets() {
 					img: img("/doll-assets/bg/country.jpg"),
 				},
 			],
-		},
+		},*/
 		{
 			group: "skintone",
 			name: "1a",

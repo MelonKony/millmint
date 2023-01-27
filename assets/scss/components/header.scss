@@ -1,11 +1,12 @@
 header {
-  display: grid; 
+  display: grid;
   align-items: center;
-  grid-template-columns: 1fr fit-content(33%); 
-  grid-template-rows: 1fr; 
-  grid-template-areas: 
-    "brand toc search"; 
+  grid-template-columns: 1fr fit-content(33%);
+  grid-template-rows: 1fr;
+  grid-template-areas:
+    "brand toc search";
   margin: 0 0 16px 0;
+
   a:hover {
     text-decoration: none;
     filter: none;
@@ -30,7 +31,7 @@ header {
 
 .brand-emoji {
   font-family: 'Whirlybats';
-  font-size: 30px!important;
+  font-size: 30px !important;
   font-weight: normal;
   font-style: normal;
   font-feature-settings: 'liga';
@@ -42,12 +43,13 @@ header {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
   box-sizing: border-box;
-  filter: brightness(100%)!important;
+  filter: brightness(100%) !important;
   vertical-align: middle;
   color: var(--logo-color, var(--color-gray));
 }
 
-.brand-title:hover, brand-emoji:hover {
+.brand-title:hover,
+brand-emoji:hover {
   box-shadow: inset 0 0 0 2px var(--logo-color, var(--color-gray));
   color: var(--logo-color, var(--color-gray));
   background-color: var(--body-background);
@@ -55,7 +57,7 @@ header {
 
 @keyframes slidebg {
   to {
-    background-position:20vw;
+    background-position: 20vw;
   }
 }
 
@@ -100,7 +102,7 @@ header {
   }
 }
 
-body > canvas:not(#HeaderCanvas) {
+body>canvas:not(#HeaderCanvas) {
   /*Hide annoying Vibrant canvas*/
   display: none;
 }
@@ -121,7 +123,7 @@ header .menu-btn {
 }
 
 @media (max-width: 600px) {
-    header {
-        margin-top: 0rem;
-    }
+  header {
+    margin-top: 0rem;
+  }
 }

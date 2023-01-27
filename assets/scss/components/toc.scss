@@ -1,3 +1,5 @@
+// Site table-of-contents
+
 [id] {
 	scroll-margin-top: 2rem;
 }
@@ -15,43 +17,46 @@
 		position: fixed;
 		top: 1rem;
 		width: 200px;
-		
+
 		.dropdown {
 			position: absolute;
 			width: calc(100% + 10px);
 			margin: 0;
 			padding: 0px 15px;
 		}
-		
+
 		details {
 			background-color: var(--body-background);
 		}
-		
+
 		details[open] {
 			background-color: var(--body-background);
 		}
-		
-		details > summary {
-	  		@include text-lg;
+
+		details>summary {
+			@include text-lg;
 			pointer-events: none;
-	  		list-style: none; // Remove the default arrow.
-	  		display: flex;
-	  		align-items: center; // Vertically center the arrow.
-	  		justify-content: space-between;
-	  		height: 35px;
-	  		margin: 1.5rem .5rem 1.5rem .5rem;
+			list-style: none; // Remove the default arrow.
+			display: flex;
+			align-items: center; // Vertically center the arrow.
+			justify-content: space-between;
+			height: 35px;
+			margin: 1.5rem .5rem 1.5rem .5rem;
 		}
-		details > summary::-webkit-details-marker {
-		  display: none;
+
+		details>summary::-webkit-details-marker {
+			display: none;
 		}
-		details > summary::after {
-		  @include emoji;
-		  @include font-normal;
-		  @include highlight;
-		  content:  '📘';
+
+		details>summary::after {
+			@include emoji;
+			@include font-normal;
+			@include highlight;
+			content: '📘';
 		}
-		details[open] > summary::after {
-		  content: "📘";
+
+		details[open]>summary::after {
+			content: "📘";
 		}
 	}
 
@@ -137,6 +142,7 @@
 			width: 100%;
 			color: var(--body-font-color);
 			padding: 0.2rem 0.5rem;
+
 			&:hover {
 				text-decoration: none;
 				color: var(--color-gray);
@@ -144,7 +150,7 @@
 				/*box-shadow: inset 0 0 0 5px var(--body-background);*/
 			}
 		}
-		
+
 		li a {
 			padding: 0.2rem 1rem;
 		}
@@ -166,12 +172,10 @@
 	margin: 0;
 	color: var(--dark-title-text);
 
-  &:hover {
-	  color: var(--color-gray);
-  }
+	&:hover {
+		color: var(--color-gray);
+	}
 }
-
-
 
 .mobile-toc {
 	display: none;
@@ -187,9 +191,11 @@
 	.desktop-toc-wrapper {
 		display: none;
 	}
+
 	#toc-button {
 		display: none;
 	}
+
 	.mobile-toc {
 		display: block;
 	}

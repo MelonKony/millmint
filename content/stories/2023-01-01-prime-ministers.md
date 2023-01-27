@@ -1,5 +1,5 @@
 ---
-title: The Prime Minister(s) of Vekllei
+title: The Prime Minister(s)
 fulltitle: The Prime Minister(s) of Vekllei
 
 date: 2023-01-01
@@ -14,6 +14,8 @@ keywords:
 - 2023
 
 url: /stories/ministers/
+
+rgb: 145, 127, 121
 
 toc: false
 

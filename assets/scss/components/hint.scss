@@ -11,7 +11,7 @@ body article blockquote {
 	background-color: $gray-100;
 	font-style: normal;
 	border-inline-start: none;
-	
+
 	.icon {
 		display: block;
 		text-align: center;
@@ -19,7 +19,7 @@ body article blockquote {
 		vertical-align: middle;
 		height: auto;
 		width: auto;
-		
+
 		svg {
 			@include px-3;
 			@include text-base;
@@ -27,13 +27,13 @@ body article blockquote {
 			vertical-align: middle;
 		}
 	}
-	
+
 	.text {
 		vertical-align: middle;
 	}
-	
+
 	a {
-	  color: $font-color;
+		color: $font-color;
 	}
 }
 
@@ -46,7 +46,7 @@ body article blockquote {
 	@include px-8;
 	@include radius-small;
 	margin: auto -2em auto -2em;
-	
+
 	@media (max-width: 750px) {
 		@include px-4;
 		margin: auto -1em auto -1em;
@@ -63,63 +63,76 @@ body article blockquote {
 	background-color: transparent;
 }
 
-/* hint colours */
+// hint colours
 
- .hint.blue, .article-blue .hint[class="hint "] {
+.hint.blue,
+.article-blue .hint[class="hint "] {
 	border-color: var(--color-blue);
-	background-color: rgba(0,112,245,.1);
+	background-color: rgba(0, 112, 245, .1);
 }
 
- .hint.green, .article-green .hint[class="hint "] {
+.hint.green,
+.article-green .hint[class="hint "] {
 	border-color: var(--color-green);
-	background-color: rgba(30,195,55,.1);
+	background-color: rgba(30, 195, 55, .1);
 }
 
- .hint.orange, .article-orange .hint[class="hint "] {
+.hint.orange,
+.article-orange .hint[class="hint "] {
 	border-color: var(--color-orange);
-	background-color: rgba(245,139,0,.1);
+	background-color: rgba(245, 139, 0, .1);
 }
 
- .hint.mail, .article-mail .hint[class="hint "] {
+.hint.mail,
+.article-mail .hint[class="hint "] {
 	border-color: #BA1D37;
-	background-color: rgba(186, 29, 55,.1);
+	background-color: rgba(186, 29, 55, .1);
 }
 
- .hint.vnr, .article-vnr .hint[class="hint "] {
+.hint.vnr,
+.article-vnr .hint[class="hint "] {
 	border-color: #FF564F;
-	background-color: rgba(255, 86, 79,.1);
+	background-color: rgba(255, 86, 79, .1);
 }
 
- .hint.millmint, .article-millmint .hint[class="hint "] {
+.hint.millmint,
+.article-millmint .hint[class="hint "] {
 	border-color: #b73f53;
-	background-color: rgba(183, 63, 83,.1);
+	background-color: rgba(183, 63, 83, .1);
 }
 
- .hint.yellow, .article-yellow .hint[class="hint "] {
+.hint.yellow,
+.article-yellow .hint[class="hint "] {
 	border-color: var(--color-yellow);
-	background-color: rgba(245,194,0,.1);
+	background-color: rgba(245, 194, 0, .1);
 }
 
- .hint.pink, .article-pink .hint[class="hint "] {
+.hint.pink,
+.article-pink .hint[class="hint "] {
 	border-color: $pink;
-	background-color: rgba(245,35,75,.1);
+	background-color: rgba(245, 35, 75, .1);
 }
- .hint.purple, .article-purple .hint[class="hint "] {
+
+.hint.purple,
+.article-purple .hint[class="hint "] {
 	border-color: var(--color-purple);
-	background-color: rgba(159,75,201,.1);
+	background-color: rgba(159, 75, 201, .1);
 }
 
- .hint.red, .article-red .hint[class="hint "] {
+.hint.red,
+.article-red .hint[class="hint "] {
 	border-color: var(--color-red);
-	background-color: rgba(245,49,38,.1);
+	background-color: rgba(245, 49, 38, .1);
 }
 
- .hint.indigo, .article-indigo .hint[class="hint "] {
+.hint.indigo,
+.article-indigo .hint[class="hint "] {
 	border-color: var(--color-indigo);
-	background-color: rgba(132,64,241,.1);
+	background-color: rgba(132, 64, 241, .1);
 }
 
- .hint.teal, .article-teal .hint[class="hint "] {
+.hint.teal,
+.article-teal .hint[class="hint "] {
 	border-color: var(--color-teal);
-	background-color: rgba(90, 200, 250,.1);
+	background-color: rgba(90, 200, 250, .1);
 }

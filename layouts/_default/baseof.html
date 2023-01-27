@@ -15,34 +15,36 @@
 
 <!DOCTYPE html>
 <html lang='{{ .Site.LanguageCode }}'>
-    {{- partial "head.html" . -}}
-    <body {{if .Params.Color }}data-color="{{ .Params.Color }}"{{ end }} class="show-all-images">
-        <main>
-            <article class="notebook">
+{{- partial "head.html" . -}}
+
+<body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
+    <main>
+        <article class="notebook">
             {{- partial "header.html" . -}}
             {{- partial "navbar/nav.html" . -}}
-            <article class="content">
+            <article class="page">
                 {{ if .Params.changelogs }}
-                    {{ $enable_collapsible_changelogs := (.Scratch.Get "params").enable_collapsible_changelogs }}
-                    {{ partial "components/collapsible-menu.html" (dict "type" "changelogs" "context" . "enable" $enable_collapsible_changelogs) }}
+                {{ $enable_collapsible_changelogs := (.Scratch.Get "params").enable_collapsible_changelogs }}
+                {{ partial "components/collapsible-menu.html" (dict "type" "changelogs" "context" . "enable" $enable_collapsible_changelogs) }}
                 {{ end }}
 
                 {{- block "content" . }}{{- end }}
 
                 {{ if eq .Kind "page" }}
-                    {{ if (.Params.disqus | default .Site.DisqusShortname) }}
-                        {{- partial "disqus.html" . -}}
-                    {{ end }}
+                {{ if (.Params.disqus | default .Site.DisqusShortname) }}
+                {{- partial "disqus.html" . -}}
+                {{ end }}
                 {{ else }}
-                    {{ if (.Params.disqus | default false) }}
-                        {{- partial "disqus.html" . -}}
-                    {{ end }}
+                {{ if (.Params.disqus | default false) }}
+                {{- partial "disqus.html" . -}}
+                {{ end }}
                 {{ end }}
             </article>
             {{- partial "footer.html" . -}}
             </div>
             <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
-        </main>
-        {{- partial "script.html" . -}}
-    </body>
+    </main>
+    {{- partial "script.html" . -}}
+</body>
+
 </html>

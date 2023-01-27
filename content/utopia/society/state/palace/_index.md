@@ -1,17 +1,19 @@
 ---
 title: Palace
-fulltitle: The Palace of the Vekllei Sovereign
+fulltitle: The Palace of the Atlantic Crown
 icon: 🌸
 emoji: Ζ
-color: teal
+color: purple
 image: 
 
 tags: 
   - state
 categories:
   - society
+aliases:
+  - /palace/
 
-draft: false
+draft: true
 
 type: blank
 autonumbering: true
@@ -24,7 +26,7 @@ toc: true
 {{</hint>}}
 
 {{< hint panel >}}
-**The Palace of the Vekllei Sovereign** is both a spiritual conceptualisation of the land of Vekllei and a feature of the Vekllei state, as the true vessel in which Vekllei sovereignty lies under the Floral Constitution.
+**The Palace of the Atlantic Crown** is both a spiritual conceptualisation of the land of Vekllei and a feature of the Vekllei state, as the true vessel in which Vekllei sovereignty lies under the Floral Constitution.
 {{</hint>}}
 
 {{< details title="The Palace of the Vekllei Sovereign" open=true >}}

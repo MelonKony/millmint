@@ -10,13 +10,12 @@ comments: false
 
 description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
 author: Hobart Phillips
- 
 ---
 <div class="shop-title">
   <img stye="pointer-events: none; cursor: default;" src="/images/mastheads/shop/shop.png">
 </div>
 
-{{<hint panel>}}
+{{<hint>}}
 **Looking for prints?** [Visit the print shop](https://www.inprnt.com/gallery/melonkony/)
 {{</hint>}}
 
@@ -51,7 +50,7 @@ author: Hobart Phillips
   </a>-->
 
 <style>
-.article-info {
+.page-meta {
   display: none;
 }
 

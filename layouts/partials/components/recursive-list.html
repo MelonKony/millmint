@@ -1,0 +1,12 @@
+{{ $child_pages := union .Sections .Pages }}
+<ul>
+  {{ range $child_pages.ByTitle }}
+  <li>                                    
+    <span class="navicon">{{ if .Params.icon }}{{ .Params.icon }}{{ end }}</span>
+    <a href="{{ .RelPermalink }}"> {{ if .Params.fulltitle }}{{ .Params.fulltitle }}{{ end }} </a>
+    {{ if or (.Sections) (.Pages) }}
+    {{ partial "components/recursive-list.html" . }}
+    {{ end }}
+  </li>
+  {{ end }}
+</ul>

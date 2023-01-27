@@ -5,10 +5,10 @@
   gap: 0px 0px;
   grid-auto-flow: row dense;
   grid-template-areas:
-	"date posttag";
+    "date posttag";
 }
 
-.feature-image {
+.page-image {
   @include radius-base;
   width: auto;
   height: auto;
@@ -32,9 +32,9 @@
   @include font-semibold;
   grid-area: category;
   text-transform: capitalize;
-  
+
   a {
-   color: $font-color;
+    color: $font-color;
   }
 }
 
@@ -42,12 +42,14 @@
   margin: 1rem 0;
   padding: 0;
   text-transform: capitalize;
-  > a {
+
+  >a {
     border: 1px solid var(--color-gray);
     padding: 5px;
     border-radius: .25rem;
     font-weight: 600;
     color: var(--color-gray);
+
     &:hover {
       text-decoration: underline;
     }
@@ -57,7 +59,7 @@
 .boxtag {
   margin-top: -2.8rem;
   margin-bottom: 0;
-  margin-left: 1rem; 
+  margin-left: 1rem;
   display: inline-block;
   float: right;
   color: var(--color-gray);

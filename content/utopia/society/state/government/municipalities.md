@@ -3,7 +3,7 @@ title: Municipalities
 fulltitle: Municipalities in Vekllei
 icon: 🌺
 emoji: Ζ
-color: pink
+color: purple
 image: 
 
 tags: 

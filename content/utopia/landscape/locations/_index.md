@@ -1,26 +1,19 @@
 ---
 title: Locations
-
 fulltitle: Locations in Vekllei
 icon: 🌐
 emoji: g
-tag: LANDSCAPE
-sitetag: Introduction
 color: green
-pagecode: 230BGH
 
 tags: 
   - locations
 categories:
   - commonwealth
-
-image: https://images.millmint.net/images/vekllei.png
-
 aliases:
-- /locations/
+  - /locations/
+
 
 weight: 1
-type: blank
 comments: false
 autonumbering: true
 ---
@@ -31,7 +24,3 @@ autonumbering: true
 {{<hint panel>}}
 This page catalogues single articles covering locations relevant to stories in Vekllei.
 {{</hint>}}
-
-{{< details title="Locations" open=true >}}
-- <a href="/moshel/"><span class="navicon">📖</span>Moshel St School</a>
-{{</ details >}}

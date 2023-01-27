@@ -1,6 +1,6 @@
 ---
 title: Vekllei
-fulltitle: Commonwealth of Vekllei
+fulltitle: Introduction to the Commonwealth of Vekllei
 icon: 🎋
 emoji: ←
 color: pink
@@ -14,6 +14,8 @@ categories:
 type: blank
 autonumbering: true
 comments: false
+
+draft: false
 
 toc: true
 

@@ -6,22 +6,25 @@
 {{- if $show_date -}}
     {{- $pages = $pages.ByPublishDate.Reverse -}}
 {{- end -}}
-<ul class="list-layout">
-    {{ range $pages }}
-        <li>
-            <a href="{{ .RelPermalink }}">
-                {{- .Title -}}
-            </a>
-            {{ if $show_date }}
-                <span class="small-date">
-                    {{ if $group_by_year }}
-                        {{- .PublishDate.Format "01/02" -}}
-                    {{ else }}
-                        {{- .PublishDate.Format "2006/01/02" -}}
-                    {{ end }}
-                </span>
-            {{ end }}
-        </li>
-    {{ end }}
-</ul>
+<details open>
+    <summary><span class="navicon">{{ if .Params.icon }}{{ .Params.icon }}{{ end }}</span><a href="{{ .RelPermalink }}">{{ if .Params.fulltitle }}{{ .Params.fulltitle }}{{ end }}</a></summary>
+    <ul class="list-layout">
+        {{ range $pages }}
+            <li>
+                <a href="{{ .RelPermalink }}">
+                    {{- .Title -}}
+                </a>
+                {{ if $show_date }}
+                    <span class="small-date">
+                        {{ if $group_by_year }}
+                            {{- .PublishDate.Format "01/02" -}}
+                        {{ else }}
+                            {{- .PublishDate.Format "2006/01/02" -}}
+                        {{ end }}
+                    </span>
+                {{ end }}
+            </li>
+        {{ end }}
+    </ul>
+</details>
 {{- end -}}

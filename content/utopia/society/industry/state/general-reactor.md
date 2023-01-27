@@ -10,7 +10,7 @@ tags:
 categories:
   - society
 
-image:
+draft: true
 
 type: blank
 comments: false

@@ -10,17 +10,14 @@ tags:
 categories:
   - society
 aliases:
-  - /industry/
+  - /technology/
 
-image:
-
-type: blank
 comments: false
 autonumbering: true
 
 description: The government of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
 ---
-{{< details title="Technology in Vekllei" open=true >}}
-- <a href="/computers/"><span class="navicon">🖥️</span>Computers in Vekllei
-{{</ details >}}
+{{<hint panel>}}
+This article is about unique technology in Vekllei's world.
+{{</hint>}}

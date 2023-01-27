@@ -1,5 +1,8 @@
+// Site search
+
 @mixin spin($duration) {
   animation: spin $duration ease infinite;
+
   @keyframes spin {
     100% {
       transform: rotate(360deg);
@@ -28,31 +31,32 @@
   min-width: 10rem;
   grid-area: search;
 
-input {
-  width: 100%;
-  height: 35px;
-  padding: 2px;
-  box-sizing: border-box;
-  border-radius: 5px;
-  background: var(--gray-100);
-  color: var(--color-gray);
-    &:required + .search-spinner {
+  input {
+    width: 100%;
+    height: 35px;
+    padding: 2px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background: var(--gray-100);
+    color: var(--color-gray);
+
+    &:required+.search-spinner {
       display: block;
     }
-}
+  }
 
-.search-spinner {
-  position: absolute;
-  top: 0;
-  margin: 8px;
-  margin-inline-start: calc(100% - #{16px + 8px});
+  .search-spinner {
+    position: absolute;
+    top: 0;
+    margin: 8px;
+    margin-inline-start: calc(100% - #{16px + 8px});
 
-  width: 16px;
-  height: 16px;
+    width: 16px;
+    height: 16px;
 
-  border: 1px solid transparent;
-  border-top-color: var(--body-font-color);
-  border-radius: 50%;
+    border: 1px solid transparent;
+    border-top-color: var(--body-font-color);
+    border-radius: 50%;
 
     @include spin(1s);
   }
@@ -67,6 +71,7 @@ input {
   -ms-user-select: none;
   user-select: none;
 }
+
 .noSelect:focus {
   outline: none !important;
 }
@@ -88,7 +93,7 @@ input {
   padding-inline-start: 0;
 }
 
-#search-results li a:hover{
+#search-results li a:hover {
   color: var(--color-gray);
   border-radius: 2px;
   text-decoration: underline;

@@ -1,0 +1,82 @@
+{{ $ctx := .ctx }}
+{{ $pages := .pages }}
+
+<div class="postcard-layout content-margin">
+  <ul class="post-grid">
+    {{ range where site.RegularPages "Params.tags" "intersect" (slice "sketch") }}
+        <li class="item card leading-relaxed list-item" style="border-radius: 5px;">
+          <a href="{{ .RelPermalink }}">
+            <div class="post-info">
+              <div class="post-title">
+                {{ if .Params.rgb }}
+                <div data-card-color="{{ .Params.rgb }}" style="display: none"></div>
+                {{ end }}
+                <span
+                  style="font-size: 1.2rem; font-weight: 700; max-width: 75%"
+                  href="{{ .RelPermalink }}"
+                  href="{{ .RelPermalink }}"
+                  class="text-base border-b-2"
+                >
+                  <span class="card-title">{{- .Title -}}</span>
+                </span>
+              </div>
+                <div class="a-wrapper">
+                  <span class="text-xs" style="font-weight: 500">
+                    {{- .PublishDate.Format "2006/01/02" -}}
+                  </span>
+                </div>
+            </div>
+            <div class="img-wrapper">{{ partial "meta.html" . }}</div>
+          </a>
+        </li>
+    {{ end }}
+    </ul>
+</div>
+
+{{ define "breadcrumbtext" }}
+    {{ if .p1.Parent }}
+        {{ if not .p1.Parent.IsHome }}
+            {{ template "breadcrumbtext" (dict "p1" .p1.Parent)  }}
+        {{ end }}
+    {{ end }}
+
+    {{ if .p1.Parent }}
+        {{ if .p1.Parent.IsHome }}
+            <span>{{ .p1.Title }}</span>
+        {{ else }}
+            <span>/</span>
+            <span>{{ .p1.Title }}</span>
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+<style>
+
+  .postcard-layout {
+    margin-top: 2rem;
+  }
+  @media screen and (max-width: 56rem) {
+    #article-info{
+     margin-top: 40px;
+    }
+  }
+  h2 {
+    margin: 0.5rem;
+    overflow: hidden;
+    max-width: 300px;
+  }
+  img {
+    max-height:58vh;
+    margin: 0px;
+  }
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none!important;
+    filter: none!important;
+  }
+  img {
+    padding: 0;
+  }
+</style>

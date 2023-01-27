@@ -29,14 +29,14 @@ author: Hobart Phillips
 ## Overview
 
 {{<hint>}}
-߷ This article is about [Vekllei](/intro/#what-is-vekllei). It **UNFINISHED** and will be completed in the next couple days.
+߷ This article is about [Vekllei](/vekllei/) society.
 {{</hint>}}
 
 {{<hint panel>}}
 **Education** emerged as a foundational right for Vekllei people in the constitution of the 4th Commonwealth, in the spirit of postwar democratisation and the rising of all people.
 {{</hint>}}
 
-Education in Vekllei is a good example of the 'system working backwards,' the popular phrase to describe the Floral Period moving in two different directions at once. Is it modern, supplied and robust in the Western tradition -- children wear uniforms, are divided into school years and knowledge is arranged and taught in subjects. Other aspects of the Vekllei curriculum are novel by comparison.
+Education in Vekllei is a good example of the 'system working backwards,' the popular phrase to describe the Floral Period moving in two different directions at once. Is it modern, supplied and robust in the Western tradition -- children wear uniforms, are divided into school years and learning is arranged and taught in subjects. Other aspects of the Vekllei curriculum, like its provisions for extracurricular activities and social clubs, are novel by comparison.
 
 There is something quite interesting going on in Vekllei education that is not immediately apparent at its surface. First, compulsory schooling runs between 3-5 days a week, depending on student commitments to elective and extracurricular activities. Government schools do not employ standardised testing, and rely on subject-specific means of assessment including reviews, presentations and portfolios. The [Vekllei Curriculum](#curriculum) emphasises practicable and technical skills that blur the lines between school, community and home. 
 
@@ -58,7 +58,7 @@ All forms of education in Vekllei are free, including for international students
 
 ### Schools
 
-There are several different types of school in Vekllei, but all are government-funded and adhere to the compulsory curriculum outlined by the Education Secretary. Additionally, the [Vekllei Education Uniform](#uniform) is compulsory for all students, including at independent schools.
+There are several different types of school in Vekllei, but all are government-funded and adhere to the compulsory curriculum outlined by the Education Secretary. The [Vekllei Education Uniform](#uniform) is compulsory for all students, including at independent schools.
 
 #### State Schools
 
@@ -66,15 +66,19 @@ State schools (also Central Schools) are administered and funded directly by the
 
 #### Community Schools
 
-Community schools are usually administered by a borough or municipality, and are usually smaller than state schools. Although some community schools may combine primary and secondary schooling (called district schools), most serve only primary education. Community schools may also refer to village schools, or community-run schools in the local Vekllei tradition.
+Community schools are usually administered by a borough or [municipality](/municipalities/), and are usually smaller than state schools. Although some community schools may combine primary and secondary schooling (called district schools), most serve only primary education. Community schools may also refer to village schools, or community-run schools in the local Vekllei tradition.
 
 #### Studio & Technical Schools
 
-Studio and technical schools typically refer to secondary schools that specialise in arts or vocational curriculums, as a means to fast-track giifted learning.
+Studio and technical schools typically refer to secondary schools that specialise in arts or vocational curriculums, as a means to fast-track gifted learning. These schools may offer boarding, as only a few studio and technical schools exist across the Commonwealth and smaller member-states may send their students overseas to study there.
 
 #### Faith Schools
 
+Faith schools in Vekllei are affiliated with an approved religious organisation. The curriculum of faith schools have a religious character, usually Jewish or Roman Catholic. Faith schools are still required to adhere to the [Commonwealth curriculum](#curriculum) as a minimum education standard.
+
 #### Boarding Schools
+
+Vekllei offers a handful of boarding schools, which are usually specialised institutions that may operate as orphanages or for international students. Some Vekllei boarding schools include aspects of democratic education.
 
 ## Education
 
@@ -86,41 +90,37 @@ Vekllei people are enrolled in 9 years of compulsory education, provided by the 
 
 Compared to modern schooling overseas, Vekllei education places significant value on well-roundedness and practicable household and technical skills. Subject-based streams for specialised learning are common, but the basic compulsory Vekllei curriculum emphasises non-academic subjects and structures pre-tertiary subjects as electives.
 
+![Image of Tzipora standing in front of school building](/images/mist.jpg "Misy morning in front of the [Moshel St School](/moshel/) | *[Heavy Mist](/stories/mist/)*")
+
 Vekllei has a strong tradition of school clubs and social organisations, and these are considered essential aspects of Vekllei education. Clubs and associations are often highly organised by student leadership, and offer opportunities in industry and tertiary study. 
 
 Compulsory and tertiary education is free for all Vekllei people, permanent residents and foreign workers. Homeschooling is illegal except by those holding a teaching certificate, and is supervised by a local school which issues the child's diploma. In this context, homeschooling is almost nonexistent in the Commonwealth. About 15% of the Commonwealth Budget is allocated towards education.
 
-### Preschool
+### Compulsory Education
 
-#### Nursery School
+Vekllei offers preschooling from ages 3 onwards. Garden School, or kindergarten, is for 3 & 4 year-olds in Vekllei, and assists with the transition from home to school, followed by preparatory school, or 'prep', which is the first year of compulsory primary education.
 
-Nursery School is a programme maintained by the Education Secretary 
-
-#### Garden School
-
-Garden School, or kindergarten, is for 3 & 4 year-olds in Vekllei, and assists with the transition from home to school.
-
-#### Preparatory School
-
-Preparatory school, or Prep, is the first year of primary educatioin
-
-### Primary Education
-
-Vekllei primary education consists of 7 years, starting with [Prep](#preparatory-school) at ages 5-6 and concluding with Year 6 at age 12.
-
-### Secondary Education
-
-#### College
+Vekllei primary education consists of 7 years, starting with [Prep](#preparatory-school) at ages 5-6 and concluding with Year 6 at age 12. Secondary education lasts from years 7-12, and study until year 10 is compulsory.
 
 The final year of school in Vekllei usually includes a class trip overseas, traditionally to Europe or Asia, to celebrate graduation.
 
+{{<details title="Vekllei Compulsory Schooling" open=true >}}
+* Preschool
+  * Nursery School
+  * Garden School
+  * Preparatory School
+* Primary School (Years 1-6)
+* Secondary School (Years 7-10)
+* College (Years 11-12)
+{{</details>}}
+
 ### Tertiary Education
 
-The Commonwealth invests heavily in tertiary education as both a social good and a product marketable overseas. Vekllei universities rank highly abroad, and education as a service is a major export of Vekllei, and assists
+The Commonwealth invests heavily in tertiary education as both a social good and a product marketable overseas. Vekllei universities rank highly abroad, and education as a service is a major export of Vekllei, and contributes to Vekllei's reputation as an international capital of finance and skilled labour.
 
 Universities in Vekllei offer places to students who have completed their Education Award and satisfy the prerequisites for their subject. These requirements differ between subjects, and usually include an interview with the admissions board.
 
-In order to study abroad, Vekllei students must be sponsored by a foreigner, receive a partial scholarship from an overseas university, or receive funding from their tertiary place of study. About one in four Vekllei students study overseas for some period of time. 
+In order to study abroad, Vekllei students must be sponsored by a foreigner, receive a partial scholarship from an overseas university, or receive funding from their tertiary place of study. About one in four Vekllei students study overseas for some period of time.
 
 #### University
 
@@ -132,7 +132,7 @@ Vekllei International University offers
 
 The Commonwealth Curriculum is the common programme of study in all Commonwealth schools, and determines standards of study across all education institutions.
 
-{{<details title="Vekllei Curriculum" open=true >}}
+{{<details title="Commonwealth International Curriculum" open=true >}}
 * Arts
 * Vekllei Languages
 * Foreign Languages
@@ -145,8 +145,6 @@ The Commonwealth Curriculum is the common programme of study in all Commonwealth
 * Material Sciences and Electronics
 * Work Studies
 {{</details>}}
-
-In general it resembles a 
 
 ## Uniform
 
@@ -174,7 +172,7 @@ The colours of uniforms may vary in constituent member-states of the Commonwealt
 Examples of Caribbean Commonwealth school uniform featuring local dress.
 {{</hint>}}
 
-Although the items are not issued by individual schools, they are provided by the All-Commonwealth School Directorate on request and as such constitute a uniform rather than a dress code. The uniform system was designed in 2015 by French migrant Charles-Édouard Laurent to be accessible and comfortable, and so that individual items could continue to be worn after schooling concluded. It is iconic overseas and well-regarded by most Vekllei students.
+Although the items are not issued by individual schools, they are provided by the [ACC](/utopia/society/state/government/commonwealth/education/#all-commonwealth-school-directorate) on request and as such constitute a uniform rather than a dress code. The uniform system was designed in 2015 by French migrant Charles-Édouard Laurent to be accessible and comfortable, and so that individual items could continue to be worn after schooling concluded. It is iconic overseas and well-regarded by most Vekllei students.
 
 Many schools make use of felt armbands to distinguish students or to signal membership in clubs or student councils. These are traditionally red, but may also be green or blue depending on their use.
 

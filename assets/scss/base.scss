@@ -2,9 +2,13 @@ html {
   overflow-y: scroll;
 }
 
-html, button, input, select, textarea,
-.pure-g [class *= "pure-u"] {
-  font-family: system-ui,-apple-system,segoe ui,Roboto,Helvetica,Arial,sans-serif,'Emoji',apple color emoji,segoe ui emoji;
+html,
+button,
+input,
+select,
+textarea,
+.pure-g [class *="pure-u"] {
+  font-family: system-ui, -apple-system, segoe ui, Roboto, Helvetica, Arial, sans-serif, 'Emoji', apple color emoji, segoe ui emoji;
 }
 
 body {
@@ -18,12 +22,12 @@ main {
   padding: 1.5rem;
   background-color: var(--body-background);
   box-sizing: content-box;
-  
+
   @media only screen and (max-width: 500px) {
-   @include my-0;
+    @include my-0;
   }
 
-  > * {
+  >* {
     @include px-4;
 
     @media only screen and (max-width: 500px) {
@@ -34,7 +38,7 @@ main {
 
 figure {
   margin: 0;
-  
+
   figcaption {
     @include text-xs;
     @include font-semibold;
@@ -46,7 +50,7 @@ figure {
     letter-spacing: -.01em;
     color: var(--color-gray);
     background-color: var(--hint-bg, var(--gray-100));
-    
+
     a {
       color: $font-color;
     }
@@ -77,7 +81,7 @@ hr {
   height: 0px;
 }
 
-.content {
+.page {
   @include my-4;
   @include mx-0;
   margin-bottom: 1rem;
@@ -110,12 +114,16 @@ details {
   border: 0px solid var(--gray-100);
   background-color: var(--gray-100);
   outline: none;
-  
+
   summary {
     @include text-base;
     @include font-bold;
+
+    a {
+      color: $font-color;
+    }
   }
-  
+
   div {
     @include px-6;
   }
@@ -134,19 +142,20 @@ details {
   fill: var(--color-gray);
 }
 
-body header .navbar-item-dropdown.insection, body header nav .navbar-item.insection {
+body header .navbar-item-dropdown.insection,
+body header nav .navbar-item.insection {
   border-color: var(--color-gray);
 }
 
 input {
   @include text-sm;
-  padding-left: .5rem!important;
-  border: 0!important;
+  padding-left: .5rem !important;
+  border: 0 !important;
 }
 
 a {
   @include highlight;
-  
+
   &:hover {
     text-decoration: underline;
     color: var(--dark-title-text, var(--color-gray));
@@ -185,11 +194,15 @@ a.book-btn {
 
 /* TITLES */
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   @include font-bold;
   margin-top: 2rem;
   margin-bottom: 1rem;
-  font-weight: 700;
 }
 
 h1 {

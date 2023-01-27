@@ -32,7 +32,7 @@ author: Hobart Phillips
 
 {{< tabs "characters" >}}
 {{< tab "Tzipora" >}}
-<img alt="smallimg" style="background-color: transparent;" src="https://images.millmint.net/images/mastheads/characters/zelda.png">
+<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/zelda.png">
 
 {{< button href="/tags/tzipora" >}}See all stories featuring Tzipora{{< /button >}}
 
@@ -56,7 +56,7 @@ Tzipora may be intense and inward-facing, but she can also be disarmingly charmi
 {{</tab>}}
 
 {{< tab "Cobian" >}} 
-<img alt="smallimg" style="background-color: transparent;" src="https://images.millmint.net/images/mastheads/characters/cobian.png">
+<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/cobian.png">
 
 {{< button href="/tags/cobian" >}}See all stories featuring Cobian{{< /button >}}
 
@@ -78,7 +78,7 @@ Some people think she's pretentious; she's not pretentious. She likes good food 
 {{< /tab >}}
 
 {{< tab "Moise" >}}
-<img alt="smallimg" style="background-color: transparent;" src="https://images.millmint.net/images/mastheads/characters/moise.png">
+<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/moise.png">
 
 {{< button href="/tags/moise" >}}See all stories featuring Moise{{< /button >}}
 
@@ -100,7 +100,7 @@ He dislikes his parents and is protective over his younger sister, Penelope. He 
 {{< /tab >}}
 
 {{< tab "Coretti" >}}
-<img alt="smallimg" style="background-color: transparent;" src="https://images.millmint.net/images/mastheads/characters/coretti.png">
+<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/coretti.png">
 
 {{< button href="/tags/coretti" >}}See all stories featuring Coretti{{< /button >}}
 
@@ -122,7 +122,7 @@ Despite her apparent differences in temperament with her boyfriend Moise, Corett
 {{< /tab >}}
 
 {{< tab "Lin Zhi" >}} 
-<img alt="smallimg" style="background-color: transparent;" src="https://images.millmint.net/images/mastheads/characters/zhi.png">
+<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/zhi.png">
 
 {{< button href="/tags/zhi" >}}See all stories featuring Lin Zhi{{< /button >}}
 

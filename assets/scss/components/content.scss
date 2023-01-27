@@ -22,7 +22,7 @@ h1:hover a.anchor, h1 a.anchor:focus, h2:hover a.anchor, h2 a.anchor:focus, h3:h
 
 /* outline style */
 .outline {
-	padding: 0.5em 1em 0.7em;
+	padding: 0.5em 1em 0em 1em;
 	border: 1px solid rgba(0,0,0,0.1);
 	margin-top: 1.5em;
 	border-radius: 3.5px;
@@ -74,8 +74,7 @@ h1:hover a.anchor, h1 a.anchor:focus, h2:hover a.anchor, h2 a.anchor:focus, h3:h
 
 // {{< tabs >}}
 .tabs {
-  @include py-2;
-  @include px-4;
+  @include padding-0;
   @include radius-base;
   background-color: $gray-100;
   line-height: 1.5;

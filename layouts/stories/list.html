@@ -6,6 +6,20 @@
     </div>
 {{ end }}
 
-{{ partial "stories/layout.html" (dict "pages" .RegularPages "ctx" .) }}
-
+<div class="tabs">
+  <input type="radio" class="toggle" name="tabs-stories" id="stories" checked="checked"/>
+  <label for="stories">
+    Stories
+  </label>
+  <div class="tabs-content">
+    {{ partial "stories/layout.html" (dict "pages" .RegularPages "ctx" .) }}
+  </div>
+  <input type="radio" class="toggle" name="tabs-stories" id="sketches"/>
+    <label for="sketches">
+      Sketches
+    </label>
+    <div class="tabs-content">
+      {{ partial "sketches/layout.html" (dict "pages" .RegularPages "ctx" .) }}
+    </div>
+</div>
 {{ end }}

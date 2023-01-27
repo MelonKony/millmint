@@ -1,27 +1,28 @@
-.info { 
+.info {
 	@include margin-0;
 	display: grid;
 	grid-template-columns: 0fr 1fr .35fr fit-content(20%);
 	grid-auto-rows: minmax(min-content, max-content);
 	gap: 0;
 	grid-auto-flow: column;
-	grid-template-areas: 
+	grid-template-areas:
 		"title title emoji"
 		"date date emoji"
 		"icon headcrumbs emoji"
 		"icon category emoji";
 	margin-bottom: 2rem;
 }
-  
-.box-info {  
+
+.box-info {
 	display: grid;
 	grid-template-columns: 0fr 1fr .35fr fit-content(20%);
 	grid-template-rows: 1fr;
 	gap: 0;
 	grid-auto-flow: row;
-	grid-template-areas: 
+	grid-template-areas:
 		"title title emoji";
-	> .title {
+
+	>.title {
 		align-content: start;
 	}
 }
@@ -32,27 +33,27 @@
 	display: grid;
 	grid-area: headcrumbs;
 	align-content: end;
-	
+
 	li {
 		display: inline;
 		list-style: none;
 		margin: 0;
-		padding: 0; 
+		padding: 0;
 	}
-	
+
 	ol {
 		margin: 0;
 		padding: 0;
 	}
-	
+
 	a {
 		color: $font-color;
 	}
-	
+
 	.crumb {
 		display: inline;
 	}
-	
+
 	.seperator {
 		display: inline;
 		@include highlight;
@@ -100,7 +101,7 @@
 	@include text-sm;
 	@include font-medium;
 	@include highlight;
-	grid-area: date;	
+	grid-area: date;
 	margin: 0;
 }
 
@@ -161,15 +162,20 @@
 }
 
 @keyframes whirlyAnimate {
-	0%   { font-variation-settings: "anim" 100; }
-	100% { font-variation-settings: "anim" 200; }
+	0% {
+		font-variation-settings: "anim" 100;
+	}
+
+	100% {
+		font-variation-settings: "anim" 200;
+	}
 }
 
 #whirlybat {
 	animation: whirlyAnimate 2s linear infinite;
 }
 
-.pill {  
+.pill {
 	@include px-1;
 	@include text-sm;
 	@include highlight;
@@ -183,10 +189,12 @@
 	grid-auto-columns: minmax(min-content, max-content);
 	grid-auto-flow: column;
 	grid-template-areas:
-	"pill-category pill-icon pill-title";
+		"pill-category pill-icon pill-title";
 	border: var(--color-gray) solid 1px;
 	border-radius: 5px;
 }
+
+// MillMint "Pill"
 
 .pill-icon {
 	@include emoji;
@@ -197,7 +205,7 @@
 	align-content: center;
 }
 
-.pill-title { 
+.pill-title {
 	@include font-bold;
 	display: grid;
 	grid-area: pill-title;

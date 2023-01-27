@@ -1,4 +1,4 @@
-/* rounded images */
+// rounded images
 img {
 	@include my-4;
 	@include radius-base;
@@ -7,7 +7,7 @@ img {
 	max-width: 100%;
 }
 
-/* image styles */
+// image styles
 article img[alt~="smallimg"] {
 	@include my-4;
 	@include radius-base;
@@ -26,18 +26,18 @@ article img[alt~="crest"] {
 }
 
 @media (min-width: 1600px) {
-  article img[alt~="img"] {
-	width: 140%;
-	max-width: 140%;
-	margin-left: -20%;
-	margin-right: -20%;
-	padding: .5rem;
-	background-color: var(--body-background);
-	box-sizing: border-box;
-  }
+	article img[alt~="img"] {
+		width: 140%;
+		max-width: 140%;
+		margin-left: -20%;
+		margin-right: -20%;
+		padding: .5rem;
+		background-color: var(--body-background);
+		box-sizing: border-box;
+	}
 }
 
-/* home image */
+// home image
 .img-background {
 	position: absolute;
 	height: 100vh;
@@ -47,22 +47,23 @@ article img[alt~="crest"] {
 	z-index: -1;
 }
 
-/* image fade in (fade.js) */
+// image fade in (fade.js)
 .fadeIn {
-  -webkit-animation: animat_show 0.8s;
-  animation: animat_show 0.8s;
+	-webkit-animation: animat_show 0.8s;
+	animation: animat_show 0.8s;
 }
 
-.fadeIn, .show-all-images img {
+.fadeIn,
+.show-all-images img {
 	visibility: visible !important;
 }
 
 @-webkit-keyframes animat_show {
-  0% {
-	opacity: 0
-  }
+	0% {
+		opacity: 0
+	}
 
-  100% {
-	opacity: 1
-  }
+	100% {
+		opacity: 1
+	}
 }

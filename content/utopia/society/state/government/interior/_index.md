@@ -10,6 +10,8 @@ tags:
   - government
 categories:
   - society
+aliases:
+  - /interior/
 
 draft: false
 
@@ -23,7 +25,7 @@ description: Vekllei is a utopia created by Hobart Phillips.
 author: Hobart Phillips
 ---
 {{< hint >}}
-߷ The Vekllei Interior Parliament is a national-level political body of the [Government of Vekllei](/utopia/society/state/government/)
+߷ Part of the *[state](/state/)* series of articles
 {{</hint>}}
 
 {{<hint panel>}}

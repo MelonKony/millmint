@@ -11,10 +11,11 @@ footer ul {
   padding: 0.25rem 1rem 0.25rem 0.75rem;
   box-sizing: border-box;
   list-style: none;
-  
+
   a {
     color: var(--color-text);
     border-bottom: 1px solid transparent;
+
     &:hover {
       border-bottom-color: var(--color-text-secondary);
     }
@@ -25,16 +26,14 @@ footer ul {
   }
 }
 
-/* breadcrumbss */
+// Breadcrumbs
 
-/* Style the list */
-
-/* Display list items side by side */
+// Display list items side by side
 .breadcrumbs li {
   @include text-sm;
   @include font-medium;
   display: inline;
-  margin : 0.5rem 0 auto 0;
+  margin: 0.5rem 0 auto 0;
   text-align: center;
   letter-spacing: -0.025em;
   color: var(--body-font-color);
@@ -53,20 +52,20 @@ footer ul {
   text-align: center;
 }
 
-/* Add a slash symbol (/) before/behind each list item */
-.breadcrumbs li + li:before {
+// Add a slash symbol (/) before/behind each list item
+.breadcrumbs li+li:before {
   padding: 8px;
   color: var(--font-color);
   content: "›";
 }
 
-/* Add a color to all links inside the list */
+// Add a color to all links inside the list
 .breadcrumbs li a {
   text-decoration: none;
   color: var(--body-font-color);
 }
 
-/* Add a color on mouse-over */
+// Add a color on mouse-over
 .breadcrumbs a:hover {
   text-decoration: none;
   filter: brightness(50%);
@@ -78,12 +77,14 @@ footer ul {
   border: 1px solid var(--color-gray);
   filter: brightness(75%);
   line-height: 1rem;
-  > li + li:before {
+
+  >li+li:before {
     padding: 8px;
     color: var(--color-gray);
     content: "›";
   }
-  > li a {
+
+  >li a {
     color: var(--color-gray);
   }
 }

@@ -1,28 +1,28 @@
 <footer>
-{{ partial "stories/story-footer.html" . }}
-{{ partial "components/breadcrumbs.html" . }}
+  {{ partial "stories/story-footer.html" . }}
+  {{ partial "components/breadcrumbs.html" . }}
 
-<div class="footer">
-  <span class="small-date">Edited {{ .Lastmod.Format "02/01/2006" }}</span>
-  <span class="pill">
-    <div class="pill-category">{{ partial "taxonomies/categories.html" .}}</div>
-    <div class="pill-icon">🟪</div>
-    <div class="pill-title">{{ .Params.title }}</div>
-  </span>
-  
-  <!-- reddit source link -->
-  <div class="redditlink">
-    {{ if .Params.reddit }}
+  <div class="footer">
+    <span class="small-date">Edited {{ .Lastmod.Format "02/01/2006" }}</span>
+    <span class="pill">
+      <div class="pill-category">{{ partial "taxonomies/categories.html" .}}</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">{{ .Params.title }}</div>
+    </span>
+
+    <!-- reddit source link -->
+    <div class="redditlink">
+      {{ if .Params.reddit }}
       <a class="link" href="{{ .Params.reddit }}">Archived from the original article here</a>
-    {{ end }}
+      {{ end }}
+    </div>
   </div>
-</div>
 
-<br>
+  <br>
 
-<!-- comments -->
-  
-{{ if default true .Params.comments }}
+  <!-- comments -->
+
+  {{ if default true .Params.comments }}
   <!-- Comments by Cusdis 
   <div id="cusdis_thread" data-host="https://cusdis.com"
     data-app-id="288e75bf-568b-448b-bd4c-dc49540dd8db"
@@ -47,12 +47,12 @@
   	  </script>
 	    <link rel="stylesheet" href="/css/comments.css">
   </div>-->
-{{ end }}
+  {{ end }}
 
-{{ with (.Scratch.Get "params").footer }}
-    <div class="copyright">
-        Copyright © 2017-2023 Studio MillMint
-    </div>
-{{ end }}
-  
+  {{ with (.Scratch.Get "params").footer }}
+  <div class="copyright">
+    Copyright © 2017-2023 Studio MillMint
+  </div>
+  {{ end }}
+
 </footer>

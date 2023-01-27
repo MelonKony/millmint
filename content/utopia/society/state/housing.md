@@ -26,11 +26,11 @@ description: Vekllei is a utopia created by Hobart Phillips.
 author: Hobart Phillips
 ---
 {{< hint >}}
-߷ This article is about [Vekllei](/intro/#what-is-vekllei)
+߷ Part of the *[state](/state/)* series of articles
 {{</hint>}}
 
 {{< hint panel >}}
-**Housing** in Vekllei is socialised in the Georgist tradition. It is a recognition that all wealth lies in land, the resources beneath it, and the peoplee that work it. In this sense, housing in Vekllei is just as radical and striking as its moneylessness.
+**Housing** in Vekllei is socialised in the Georgist tradition. It is a recognition that all wealth lies in land, the resources beneath it, and the people that work it. In this sense, housing in Vekllei is just as radical and striking as its moneylessness.
 {{</hint>}}
 
 All real estate in Vekllei is negotiated, purchased and leased at a [municipal](/municipalities/) level. This system depends heavily on stewardship as a factor of ownership. Most free homes are rented on an open market and are awarded via an interview process with the municipality, though there are many exceptions. In general, the more time a resident spends working a property, the more powerful their claim to ownership becomes. In this sense, multigenerational family homes are nearly impossible to challenge in the delicture courts.

@@ -1,0 +1,27 @@
+---
+title: MillMint
+fulltitle: MillMint
+icon: 📕
+emoji: ʠ
+color: blue
+list: true
+
+tags: 
+  - utopia
+categories:
+  - intro
+aliases:
+  - "/news/"
+  - "/millmint/"
+
+autonumbering: true
+comments: false
+
+toc: false
+
+description: Vekllei is a utopia created by Hobart Phillips.
+author: Hobart Phillips
+---
+{{< hint panel >}}
+[**/News/**](/news/) is the place for everything going on at Studio MillMint and the [Vekllei](/utopia/vekllei) world-building project. It also includes essays written by author Hobart Phillips relevant to the project, particularly on [functional moneylessness](/news/essays/moneylessness/) and [*utopie concrète*](/news/essays/utopie/).
+{{</hint>}}

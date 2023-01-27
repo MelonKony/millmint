@@ -10,15 +10,14 @@ tags:
   - state
 categories:
   - society
+aliases:
+  - /government/
 
 draft: false
 
 type: blank
 autonumbering: true
 comments: false
-
-aliases:
-- /government/
 
 toc: false
 ---

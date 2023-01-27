@@ -1,8 +1,9 @@
 #TableOfContents {
   line-height: 1.5rem;
   margin: 0;
-  
-  ul, li {
+
+  ul,
+  li {
     list-style: none;
     padding: 0;
     margin: .5rem;
@@ -15,7 +16,7 @@
   li {
     margin-top: .375rem;
   }
-  
+
   a {
     color: var(--color-gray);
   }
