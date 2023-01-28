@@ -1007,10 +1007,17 @@ function generateDollImage() {
 	return canvas;
 }
 
-function downloadDollImage() {
+function downloadDollImage(writeToClipboard = false) {
+	const copyText = document.querySelectorAll(".copy-link .text");
 	const downloadText = document.querySelectorAll(".download-link .text");
-	for (const text of downloadText) {
-		text.innerText = "Working...";
+	if (writeToClipboard) {
+		for (const text of copyText) {
+			text.innerText = "Working...";
+		}
+	} else {
+		for (const text of downloadText) {
+			text.innerText = "Working...";
+		}
 	}
 
 	setTimeout(() => {
@@ -1020,10 +1027,20 @@ function downloadDollImage() {
 		console.log(canvas);
 
 		// Download image
-		download(canvas);
+		if (writeToClipboard) {
+			canvas.toBlob((blob) => {
+				const item = new ClipboardItem({ "image/png": blob });
+				navigator.clipboard.write([item]);
+			});
+		} else {
+			download(canvas);
+		}
 
 		for (const text of downloadText) {
 			text.innerText = "Download Image";
+		}
+		for (const text of copyText) {
+			text.innerText = "Copy Image to Clipboard";
 		}
 	}, 100);
 }
@@ -1149,6 +1166,12 @@ function getDataUrl(img) {
 }
 
 function dollsMain(redraw = true) {
+	if (typeof navigator.clipboard.write !== "undefined") {
+		document
+			.querySelectorAll(".is-clipboard-button")
+			.forEach((el) => el.classList.remove("hidden"));
+	}
+
 	renderNav();
 	renderOptions();
 	if (redraw) drawCharacter();
