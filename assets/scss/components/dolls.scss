@@ -165,10 +165,20 @@
 		position: relative;
 		background: var(--color, var(--bg-alt));
 		border-radius: 100px;
-		border: 2px solid white;
+		position: relative;
 
-		&.active {
-			outline: 2px solid var(--color, var(--color-gray));
+		&.active::after {
+			content: "";
+			display: block;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			// Width + 2px border * 2
+			width: calc(22px + 4px);
+			height: calc(22px + 4px);
+			border: 2px solid var(--color, var(--color-gray));
+			border-radius: 50%;
 		}
 
 		&.reset-circle::before {
@@ -184,7 +194,7 @@
 		}
 	}
 
-	>* {
+	> * {
 		margin: 4px;
 	}
 }
@@ -243,7 +253,7 @@
 	display: flex;
 	justify-content: center;
 
-	>canvas {
+	> canvas {
 		height: 300px;
 		margin: 0 auto;
 		background: var(--gray-100);
