@@ -1007,7 +1007,7 @@ function generateDollImage() {
 	return canvas;
 }
 
-function downloadDollImage(writeToClipboard = false) {
+async function downloadDollImage(writeToClipboard = false) {
 	const copyText = document.querySelectorAll(".copy-link .text");
 	const downloadText = document.querySelectorAll(".download-link .text");
 	if (writeToClipboard) {
@@ -1020,18 +1020,18 @@ function downloadDollImage(writeToClipboard = false) {
 		}
 	}
 
+	let resolveAltCanvas;
+	let altCanvas = new Promise((resolve) => {
+		resolveAltCanvas = resolve;
+	});
+
 	setTimeout(() => {
 		// Get canvas
 		const canvas = generateDollImage();
 
-		console.log(canvas);
-
 		// Download image
 		if (writeToClipboard) {
-			canvas.toBlob((blob) => {
-				const item = new ClipboardItem({ "image/png": blob });
-				navigator.clipboard.write([item]);
-			});
+			resolveAltCanvas(canvas);
 		} else {
 			download(canvas);
 		}
@@ -1043,6 +1043,22 @@ function downloadDollImage(writeToClipboard = false) {
 			text.innerText = "Copy Image to Clipboard";
 		}
 	}, 100);
+
+	// This is a Safari hack because Safari is stupid and doesn't allow you to write to
+	// clipboard from inside a timeout, because it believes it's not a user interaction event-triggered
+	// thing anymore. However, if you resolve a promise from inside the timeout,
+	// that's totally fine.
+	await altCanvas;
+	if (writeToClipboard) {
+		const item = new ClipboardItem({
+			"image/png": new Promise(async (resolve) => {
+				(await altCanvas).toBlob((blob) => {
+					resolve(blob, { type: "image/png" });
+				});
+			}),
+		});
+		navigator.clipboard.write([item]);
+	}
 }
 
 async function downloadDollFace(evt) {
