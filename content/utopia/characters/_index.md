@@ -36,7 +36,7 @@ author: Hobart Phillips
 
 {{< button href="/tags/tzipora" >}}See all stories featuring Tzipora{{< /button >}}
 
-**Tzipora lo Ula de Helette Desmoisnes**, often called **Zelda** by her friends, is the main character of this project. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teenage years that she was formally diagnosed with [Gregori Syndrome](/posts/2021-05-28-forever/), a genetic disorder that slows her ageing and makes her of keen interest to the state. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising the neurotic parts of her personality and blessing her new life with companionship.
+**Tzipora lo Ula de Helette Desmoisnes**, often called **Zelda** by her friends, is the main character of this project. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising the neurotic parts of her personality and blessing her new life with companionship.
 
 {{<section>}}
 ##### Appearance
