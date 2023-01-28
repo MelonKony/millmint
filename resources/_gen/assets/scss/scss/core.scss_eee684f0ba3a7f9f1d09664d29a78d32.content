@@ -3006,9 +3006,18 @@ ol {
     position: relative;
     background: var(--color, var(--bg-alt));
     border-radius: 100px;
-    border: 2px solid white; }
-    .color-options .color-circle.active {
-      outline: 2px solid var(--color, var(--color-gray)); }
+    position: relative; }
+    .color-options .color-circle.active::after {
+      content: "";
+      display: block;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: calc(22px + 4px);
+      height: calc(22px + 4px);
+      border: 2px solid var(--color, var(--color-gray));
+      border-radius: 50%; }
     .color-options .color-circle.reset-circle::before {
       content: "";
       display: block;
