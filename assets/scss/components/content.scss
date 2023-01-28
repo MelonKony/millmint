@@ -74,7 +74,8 @@ h1:hover a.anchor, h1 a.anchor:focus, h2:hover a.anchor, h2 a.anchor:focus, h3:h
 
 // {{< tabs >}}
 .tabs {
-  @include padding-0;
+  @include px-4;
+  @include py-2;
   @include radius-base;
   background-color: $gray-100;
   line-height: 1.5;

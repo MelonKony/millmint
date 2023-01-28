@@ -2361,7 +2361,10 @@ h1:hover a.anchor, h1 a.anchor:focus, h2:hover a.anchor, h2 a.anchor:focus, h3:h
 
 /* tabs */
 .tabs {
-  padding: 0;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
   border-radius: .25rem;
   background-color: #f0f0f6;
   line-height: 1.5;
