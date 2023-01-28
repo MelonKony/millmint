@@ -648,7 +648,7 @@ function defineAssets() {
 			name: "Jumper",
 			layers: [
 				{
-					layer: 21.1,
+					layer: 19,
 					img: maskImg("/doll-assets/f/9.jumpers/9a/"),
 					gender: "f",
 				},
@@ -659,7 +659,7 @@ function defineAssets() {
 			name: "Revolutionary Coat",
 			layers: [
 				{
-					layer: 21,
+					layer: 19,
 					img: maskImg("/doll-assets/f/9.jumpers/9b/"),
 					gender: "f",
 				},
@@ -670,7 +670,7 @@ function defineAssets() {
 			name: "Cardigan",
 			layers: [
 				{
-					layer: 21,
+					layer: 19,
 					img: maskImg("/doll-assets/f/9.jumpers/9c/"),
 					gender: "f",
 				},
@@ -769,11 +769,13 @@ function defineAssets() {
 		{
 			group: "accessories",
 			name: "Kitty",
+			noColor: true,
 			layers: [
 				{
 					layer: 22,
 					img: maskImg("/doll-assets/f/10.accessories/10i/"),
 					gender: "f",
+					noColor: true,
 				},
 			],
 		},
@@ -973,8 +975,9 @@ function generateDollImage() {
 
 	const canvas = document.createElement("canvas");
 	const ctx = canvas.getContext("2d");
-	canvas.width = 3000;
-	canvas.height = 4500;
+	const [width, height] = window.innerWidth > 800 ? [3000, 4500] : [1500, 2250];
+	canvas.width = width;
+	canvas.height = height;
 
 	for (const asset of allLayers) {
 		const imgs = asset.img.layers ? asset.img.layers : [asset.img];
@@ -1004,25 +1007,58 @@ function generateDollImage() {
 	return canvas;
 }
 
-function downloadDollImage() {
+async function downloadDollImage(writeToClipboard = false) {
+	const copyText = document.querySelectorAll(".copy-link .text");
 	const downloadText = document.querySelectorAll(".download-link .text");
-	for (const text of downloadText) {
-		text.innerText = "Working...";
+	if (writeToClipboard) {
+		for (const text of copyText) {
+			text.innerText = "Working...";
+		}
+	} else {
+		for (const text of downloadText) {
+			text.innerText = "Working...";
+		}
 	}
+
+	let resolveAltCanvas;
+	let altCanvas = new Promise((resolve) => {
+		resolveAltCanvas = resolve;
+	});
 
 	setTimeout(() => {
 		// Get canvas
 		const canvas = generateDollImage();
 
-		console.log(canvas);
-
 		// Download image
-		download(canvas);
+		if (writeToClipboard) {
+			resolveAltCanvas(canvas);
+		} else {
+			download(canvas);
+		}
 
 		for (const text of downloadText) {
 			text.innerText = "Download Image";
 		}
+		for (const text of copyText) {
+			text.innerText = "Copy Image to Clipboard";
+		}
 	}, 100);
+
+	// This is a Safari hack because Safari is stupid and doesn't allow you to write to
+	// clipboard from inside a timeout, because it believes it's not a user interaction event-triggered
+	// thing anymore. However, if you resolve a promise from inside the timeout,
+	// that's totally fine.
+	await altCanvas;
+	if (writeToClipboard) {
+		const item = new ClipboardItem({
+			"image/png": new Promise(async (resolve) => {
+				(await altCanvas).toBlob((blob) => {
+					resolve(blob, { type: "image/png" });
+				});
+			}),
+		});
+		navigator.clipboard.write([item]);
+	}
 }
 
 async function downloadDollFace(evt) {
@@ -1035,14 +1071,14 @@ async function downloadDollFace(evt) {
 		const full = generateDollImage();
 
 		// Generate face-mask
-		const squareSize = 1000;
+		const squareSize = full.width / 2.5;
 		const canvas = document.createElement("canvas");
 		const ctx = canvas.getContext("2d");
 		canvas.width = squareSize;
 		canvas.height = squareSize;
 
 		// Draw face img
-		ctx.translate(-full.width / 2, -400);
+		ctx.translate(-full.width / 2, -full.height / 15);
 		ctx.drawImage(full, squareSize / 2, 0);
 
 		// Download image
@@ -1146,6 +1182,12 @@ function getDataUrl(img) {
 }
 
 function dollsMain(redraw = true) {
+	if (typeof navigator.clipboard.write !== "undefined") {
+		document
+			.querySelectorAll(".is-clipboard-button")
+			.forEach((el) => el.classList.remove("hidden"));
+	}
+
 	renderNav();
 	renderOptions();
 	if (redraw) drawCharacter();

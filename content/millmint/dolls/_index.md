@@ -6,11 +6,10 @@ icon: 🧍‍♀️
 emoji: P
 color: indigo
 
-tags: 
+tags:
   - dolls
 categories:
   - tools
-  
 type: blank
 ---
 
@@ -21,6 +20,7 @@ type: blank
 				<div class="dolls-canvas-inner"></div>
 			</div>
 			<button class="article-button download-link" onclick="downloadDollImage()" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">📂</span> <span class="text">Download Image</span></button>
+			<button class="article-button copy-link hidden is-clipboard-button" onclick="downloadDollImage(true)" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">📋</span> <span class="text">Copy Image to Clipboard</span></button>
 			<button class="article-button download-pfp" onclick="downloadDollFace(event)" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">🙂</span> <span class="text">Download Profile Picture</span></button>
 		</div>
 	</div>
