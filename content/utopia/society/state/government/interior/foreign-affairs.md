@@ -37,7 +37,7 @@ author: Hobart Phillips
 ### Communications Bureau
 {{</outline>}}
 {{<outline>}}
-### International Affairs Directorate
+### Foreign Affairs Directorate
 #### Department of African Affairs
 #### Department of American Affairs
 #### Department of Asian Affairs
@@ -45,7 +45,7 @@ author: Hobart Phillips
 #### Department of West Asian Affairs
 {{</outline>}}
 {{<outline>}}
-### Domestic Affairs Directorate
+### Home Affairs Directorate
 #### Department of Consular Affairs
 {{</outline>}}
 {{<outline>}}

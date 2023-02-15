@@ -61,6 +61,10 @@ The *National Intelligence Directorate* (Noshem, or N.I.) is the secret service 
 
 Noshem is unique in its broad recruitment of foreigners, many of whom are promised citizenship and residency in Vekllei. Many Noshem outlines recruit locally, and manage foreign assets through Vekllei-born supervisors.
 
+#### Signals Directorate
+
+The *National Signals Directorate* is a subordinate branch of N.I. responsible for signals intelligence, as well as protection of state secrets in electronic and radio communications.
+
 #### Home Office (HO/NI)
 
 The *Home Office* at *National Intelligence* (HO/NI) is the domestic intelligence organisation of the Vekllei Commonwealth, including the Home Islands. 
