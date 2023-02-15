@@ -2418,6 +2418,8 @@ h1:hover a.anchor, h1 a.anchor:focus, h2:hover a.anchor, h2 a.anchor:focus, h3:h
     width: 100%; }
   .fullscreen-tabs input[type="radio"] {
     display: none; }
+  .fullscreen-tabs input {
+    background: #f0f0f6; }
   .fullscreen-tabs input[type="radio"]:checked + label {
     border-bottom: 2px solid var(--color-gray); }
   .fullscreen-tabs input[type="radio"]:checked + label + .fullscreen-tabs-content {

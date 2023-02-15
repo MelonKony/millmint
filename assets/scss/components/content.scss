@@ -150,7 +150,10 @@ h1:hover a.anchor, h1 a.anchor:focus, h2:hover a.anchor, h2 a.anchor:focus, h3:h
   input[type="radio"] { 
     display: none; 
   }
-
+  
+  input {
+    background: $gray-100;
+  }
 
   input[type="radio"]:checked + label {
     border-bottom: 2px solid var(--color-gray);
