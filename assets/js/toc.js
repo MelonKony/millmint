@@ -36,12 +36,16 @@ window.addEventListener('scroll', updateActiveToc);
 
 var button = document.getElementById('toc-button');
 
-button.onclick = function() {
-	var div = document.getElementById('desktop-toc');
-	if (div.style.display !== 'block') {
-		div.style.display = 'block';
+$(document).ready(function(){
+	if(document.getElementById('toc-button')){
+		button.onclick = function() {
+			var div = document.getElementById('desktop-toc');
+			if (div.style.display !== 'block') {
+				div.style.display = 'block';
+			}
+			else {
+				div.style.display = 'none';
+			}
+		};
 	}
-	else {
-		div.style.display = 'none';
-	}
-};
+});

@@ -8,7 +8,7 @@ body article blockquote {
 	@include my-2;
 	@include padding-2;
 	@include radius-base;
-	background-color: $gray-100;
+	background-color: var(--gray-light);
 	font-style: normal;
 	border-inline-start: none;
 
@@ -30,10 +30,6 @@ body article blockquote {
 
 	.text {
 		vertical-align: middle;
-	}
-
-	a {
-		color: $font-color;
 	}
 }
 

@@ -194,7 +194,8 @@
       "title",
       "toc-emoji",
       "toc-title",
-      "toggle"
+      "toggle",
+      "toolbox-btn"
     ],
     "ids": [
       "2006-flood-disaster",
@@ -274,6 +275,7 @@
       "cusi-lake",
       "customs-of-the-parliament-police",
       "daily-service",
+      "dark_mode_btn",
       "demographics",
       "department-of-communications",
       "department-of-compulsory-service",
@@ -395,6 +397,7 @@
       "krafla-pipe-company",
       "landscape-in-miyazakis-my-neighbour-totoro",
       "language",
+      "light_mode_btn",
       "little-hyderabad",
       "location",
       "loh-lit-moon",
@@ -537,6 +540,7 @@
       "the-special-charter-service",
       "the-vekllei-person",
       "the-water-commission-aqueduct-pumpworks",
+      "theme-button",
       "theory",
       "this-is-the-epoch-of-rest",
       "three-faces-of-utopianism-revisited",

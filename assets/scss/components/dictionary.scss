@@ -12,12 +12,12 @@
 		bottom: 100%;
 		left: 50%;
 		transform: translate(-50%, -10px);
-		background: var(--hint-bg, var(--gray-100));
+		background: var(--hint-bg, var(--gray-light));
 		border-radius: 4px;
 		white-space: nowrap;
 		border: 3px solid var(--border);
 		font-size: 0.9rem;
-		color: $font-color;
+		color: var(--font-color);
 		opacity: 0;
 		transition: opacity 300ms;
 		pointer-events: none;
@@ -56,7 +56,7 @@
 			left: 50%;
 			transform: translateX(-50%) rotate(45deg);
 			border-bottom-right-radius: 4px;
-			background: var(--hint-bg, var(--gray-100));
+			background: var(--hint-bg, var(--gray-light));
 			border-right: 1px solid var(--border);
 			border-bottom: 1px solid var(--border);
 		}

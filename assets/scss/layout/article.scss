@@ -159,7 +159,7 @@ article {
     td, th {
       @include px-3;
       @include py-2;
-      border: 1px solid var(--body-font-color);
+      border: 1px solid var(--font-color);
     }
   }
   

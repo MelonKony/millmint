@@ -32,7 +32,7 @@ author: Hobart Phillips
 
 {{< tabs "characters" >}}
 {{< tab "Tzipora" >}}
-<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/zelda.png">
+<img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/characters/archived/zelda.png">
 
 {{< button href="/tags/tzipora" >}}See all stories featuring Tzipora{{< /button >}}
 
@@ -151,7 +151,7 @@ a.book-btn {
   margin-top: 0;
   border: 1px solid var(--color-yellow);
   //background-color: rgba(255, 43, 78, 0.25);
-  //color: var(--body-font-color);
+  //color: var(--font-color);
   color: var(--color-yellow);
   }
 article h5 {

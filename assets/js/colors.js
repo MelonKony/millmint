@@ -68,7 +68,7 @@ window.addEventListener("load", () => {
 
         const styles = `${card.getAttribute(
           "style"
-        )}; --gray-100: ${bodyBg}; --gray-200: ${bodyDarker}`;
+        )}; --gray-light: ${bodyBg}; --gray-med: ${bodyDarker}`;
         card.setAttribute("style", styles);
 
         // Set individual elements
@@ -138,25 +138,45 @@ function setBackgroundColor(rgb, doBackground = true) {
   meta.setAttribute("name", "theme-color");
   meta.setAttribute("content", rgba(...rgb, 0.4));
   document.head.appendChild(meta);
-
-  // Define all colors
-  const bodyBg = rgba(...rgb, 0.1);
-  const darkerText = rgba(...rgb, 0.35, 'black');
-  const titleText = rgba(...rgb, 0.25, 'black');
-  const bg = `rgba(${rgb.join(", ")}, 0.1)`;
-  const gray100 = `rgba(${rgb.join(", ")}, 0.1)`;
-  const colorGray = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
-  const darkerColor = `rgba(${rgb.map((v) => Math.max(v - 100, 0)).join(", ")}, 1)`;
-
-  const classes = [`--title-text: ${titleText}`, `--dark-title-text: ${darkerText}`, `a: ${colorGray}`, `--color-gray: ${colorGray}`, `--color-text: ${colorGray}`, `--hint-bg: ${bodyBg}`, `--bg-alt: ${bg}`]
-  if(doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-100: ${gray100}`, `--color-placeholder: var(--color-gray)`/*, `--body-background: ${bodyBg}`*/);
-  classes.push(doBackground ? `--logo-color: var(--color-gray)` : `--logo-color: ${darkerColor}`)
-
-  // Inject colors into DOM
-  document.body.setAttribute(
-    "style",
-    classes.join(';')
-  );
+  
+  if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      // Define all colors
+      const bodyBg = `rgba(${rgb.map((v) => Math.max(v - 300, 0)).join(", ")}, 1)`;
+      const darkerText = rgba(255, 255, 255, 1);
+      const titleText = rgba(...rgb, 0.25, 'black');
+      const bg = rgba(0, 0, 0, 0, 1);
+      const gray100 = `rgba(${rgb.join(", ")}, 0.1)`;
+      const colorGray = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
+      const darkerColor = `rgba(${rgb.map((v) => Math.max(v - 100, 0)).join(", ")}, 1)`;
+      
+      const classes = [`--title-text: ${titleText}`, `--dark-title-text: ${darkerText}`, `a: ${colorGray}`, `--color-gray: ${colorGray}`, `--color-text: ${colorGray}`, `--hint-bg: ${bodyBg}`, `--bg-alt: ${bg}`]
+      if(doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-light: ${gray100}`, `--color-placeholder: var(--color-gray)`/*, `--body-background: ${bodyBg}`*/);
+      
+      // Inject colors into DOM
+      document.body.setAttribute(
+        "style",
+        classes.join(';')
+      );
+  } else {
+      // Define all colors
+      const bodyBg = rgba(...rgb, 0.1);
+      const darkerText = rgba(...rgb, 0.35, 'black');
+      const titleText = rgba(...rgb, 0.25, 'black');
+      const bg = `rgba(${rgb.join(", ")}, 0.1)`;
+      const gray100 = `rgba(${rgb.join(", ")}, 0.1)`;
+      const colorGray = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
+      const darkerColor = `rgba(${rgb.map((v) => Math.max(v - 100, 0)).join(", ")}, 1)`;
+      
+      const classes = [`--title-text: ${titleText}`, `--dark-title-text: ${darkerText}`, `a: ${colorGray}`, `--color-gray: ${colorGray}`, `--color-text: ${colorGray}`, `--hint-bg: ${bodyBg}`, `--bg-alt: ${bg}`]
+      if(doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-light: ${gray100}`, `--color-placeholder: var(--color-gray)`/*, `--body-background: ${bodyBg}`*/);
+      classes.push(doBackground ? `--logo-color: var(--color-gray)` : `--logo-color: ${darkerColor}`)
+      
+      // Inject colors into DOM
+      document.body.setAttribute(
+        "style",
+        classes.join(';')
+      );
+  }
 }
 
 function rgba(r, g, b, a, base = "white") {

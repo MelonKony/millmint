@@ -27,8 +27,8 @@ author: Hobart Phillips
 This thesis was completed in partial fulfillment of Bachelor of Media (Honours). It remains a good testament to my love of Ghibli. It was originally submitted in **October 2020** and published in **December 2020**.
 {{</hint>}}
 
-<div style="background-color: var(--gray-100); border-radius: 5px;">
-<img alt="smallimg" style="background-color: var(--gray-100); border-radius: 5px;" src="https://images.millmint.net/images/mastheads/tzizuku.png">
+<div style="background-color: var(--gray-light); border-radius: 5px;">
+<img alt="smallimg" style="background-color: var(--gray-light); border-radius: 5px;" src="https://images.millmint.net/images/mastheads/tzizuku.png">
 </div>
 
 ## Abstract

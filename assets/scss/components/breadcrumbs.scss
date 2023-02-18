@@ -6,7 +6,7 @@ footer ul {
   @include font-bold;
   @include my-4;
   @include radius-base;
-  background-color: var(--gray-100);
+  background-color: var(--gray-light);
   width: 100%;
   padding: 0.25rem 1rem 0.25rem 0.75rem;
   box-sizing: border-box;
@@ -36,7 +36,7 @@ footer ul {
   margin: 0.5rem 0 auto 0;
   text-align: center;
   letter-spacing: -0.025em;
-  color: var(--body-font-color);
+  color: var(--font-color);
 }
 
 .breadcrumbs .home {
@@ -62,7 +62,7 @@ footer ul {
 // Add a color to all links inside the list
 .breadcrumbs li a {
   text-decoration: none;
-  color: var(--body-font-color);
+  color: var(--font-color);
 }
 
 // Add a color on mouse-over

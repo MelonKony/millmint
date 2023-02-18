@@ -56,12 +56,12 @@ nav {
     }
 
     &:hover {
-      border-bottom-color: var(--body-font-color);
+      border-bottom-color: var(--font-color);
     }
   }
 
   .navbar-item.active.navicon {
-    color: var(--body-font-color);
+    color: var(--font-color);
   }
 }
 
@@ -82,8 +82,8 @@ nav {
   justify-content: end;
 
   .navicon {
-    @include highlight;
     @include radius-none;
+    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(93deg) brightness(103%) contrast(103%);
     height: .9rem;
     margin: 0;
   }
@@ -99,7 +99,7 @@ nav {
 
 .menu-dropdown li {
   &:hover {
-    background-color: var(--hint-bg, var(--gray-100));
+    background-color: var(--hint-bg, var(--gray-light));
     box-shadow: inset 0 0 0 5px var(--body-background);
   }
 }
@@ -274,20 +274,4 @@ nav {
   color: var(--color-text);
   @include text-sm;
   padding: .5rem;
-}
-
-.menu-dropdown {
-  background-color: var(--color-background);
-}
-
-.menu-active>.menu-link {
-  background-color: var(--color-background-hover);
-}
-
-.menu-link {
-
-  &:hover,
-  &:focus {
-    background-color: var(--color-background-hover);
-  }
 }

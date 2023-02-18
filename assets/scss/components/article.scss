@@ -47,7 +47,7 @@
 	}
 
 	a {
-		color: $font-color;
+		@include font-color;
 	}
 
 	.crumb {
@@ -68,20 +68,20 @@
 
 .title {
 	@include font-bold;
+	@include font-color;
 	grid-area: title;
 	display: grid;
 	font-size: 2rem;
-	color: $font-color;
 	align-content: center;
 	line-height: 1.25;
-	margin: 1rem 0;
+	margin: 1rem 0 0.5rem 0;
 }
 
 .emoji {
 	grid-area: emoji;
 	display: grid;
 	justify-items: end;
-	align-content: end;
+	align-content: center;
 	font-family: 'Whirlybats';
 	font-weight: normal;
 	font-style: normal;

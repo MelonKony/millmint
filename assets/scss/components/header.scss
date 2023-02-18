@@ -4,7 +4,7 @@ header {
   grid-template-columns: 1fr fit-content(33%);
   grid-template-rows: 1fr;
   grid-template-areas:
-    "brand toc search";
+    "brand theme toc search";
   margin: 0 0 16px 0;
 
   a:hover {
@@ -23,9 +23,9 @@ header {
   @include text-2xl;
   @include font-bold;
   @include radius-medium;
+  color: $background;
   vertical-align: middle;
   padding: 2px 6px 2px 6px;
-  color: var(--body-background);
   background-color: var(--color-gray);
 }
 

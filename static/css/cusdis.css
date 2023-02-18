@@ -167,7 +167,7 @@ input, textarea {
 	padding-left: 0.5rem !important;
 	font-size: 14px;
 	border: 0 !important;
-	background-color: var(--gray-100);
+	background-color: var(--gray-light);
 }
 
 button {
