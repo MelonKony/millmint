@@ -12,6 +12,7 @@ dark_mode_btn.addEventListener('click', function () {
     localStorage.theme = 'dark';
     dark_mode_btn.classList.add('hidden');
     light_mode_btn.classList.remove('hidden');
+    colorsMain()
 });
 
 light_mode_btn.addEventListener('click', function () {
@@ -19,4 +20,5 @@ light_mode_btn.addEventListener('click', function () {
     localStorage.theme = 'light';
     light_mode_btn.classList.add('hidden');
     dark_mode_btn.classList.remove('hidden');
+    colorsMain()
 });
