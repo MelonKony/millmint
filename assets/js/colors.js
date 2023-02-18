@@ -21,43 +21,50 @@ const colors = {
   gr: [31, 205, 88]
 }
 
-if(document.querySelector('[data-color]')) {
-  // Page color override — no background!!!!
-  const color = document
-    .querySelector("[data-color]")
-    .getAttribute("data-color");
-
-  const rgbArray = colors[color]
-
-  if(!rgbArray) console.log('Color not supported')
-
-  setBackgroundColor(rgbArray, false);
-} else if (document.querySelector("[data-page-color]")) {
-  // Page color override
-  const rgbArray = document
-    .querySelector("[data-page-color]")
-    .getAttribute("data-page-color")
-    .split(",")
-    .map((v) => Number(v));
-  setBackgroundColor(rgbArray);
-} else if (
-  location.href.includes("/stories/") &&
-  !document.querySelector(".list-item")
-) {
-  // Get story's color from image
-  const img = document.querySelector(".content img");
-
-  // Make sure image is finished loading
-  if (img.complete) {
-    getColors(img);
-  } else {
-    img.addEventListener("load", () => {
+function colorsMain() {
+  if(document.querySelector('[data-color]')) {
+    // Page color override — no background!!!!
+    const color = document
+      .querySelector("[data-color]")
+      .getAttribute("data-color");
+  
+    const rgbArray = colors[color]
+  
+    if(!rgbArray) console.log('Color not supported')
+  
+    setBackgroundColor(rgbArray, false);
+  } else if (document.querySelector("[data-page-color]")) {
+    // Page color override
+    const rgbArray = document
+      .querySelector("[data-page-color]")
+      .getAttribute("data-page-color")
+      .split(",")
+      .map((v) => Number(v));
+    setBackgroundColor(rgbArray);
+  } else if (
+    location.href.includes("/stories/") &&
+    !document.querySelector(".list-item")
+  ) {
+    // Get story's color from image
+    const img = document.querySelector(".content img");
+  
+    // Make sure image is finished loading
+    if (img.complete) {
       getColors(img);
-    });
+    } else {
+      img.addEventListener("load", () => {
+        getColors(img);
+      });
+    }
   }
 }
+colorsMain()
 
 window.addEventListener("load", () => {
+  updatePostGrid()
+});
+
+function updatePostGrid() {
   if (document.querySelector(".post-grid")) {
     document.querySelectorAll("ul.post-grid > li").forEach((card) => {
       const img = card.querySelector("img");
@@ -109,7 +116,7 @@ window.addEventListener("load", () => {
       }
     });
   }
-});
+}
 
 async function getColors(img, retryCount = 0, callback = setBackgroundColor) {
   try {
@@ -138,6 +145,8 @@ function setBackgroundColor(rgb, doBackground = true) {
   meta.setAttribute("name", "theme-color");
   meta.setAttribute("content", rgba(...rgb, 0.4));
   document.head.appendChild(meta);
+
+  console.log(localStorage.theme)
   
   if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
       // Define all colors
