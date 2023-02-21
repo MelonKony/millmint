@@ -4,7 +4,7 @@ fulltitle: Timeline of Atlantic History
 icon: ⏳
 emoji: Τ
 color: millmint
-image: /images/movie.jpg
+image: /images/ruins.jpg
 
 tags: 
   - states
@@ -26,7 +26,7 @@ description: Vekllei is an immersive visual world, written and illustrated by Ho
 author: Hobart Phillips
 ---
 {{<hint panel>}}
-This timeline is a useful reference for Atlantic history, but is not comprehensive or all-encompassing.
+This timeline is a useful curated reference of Atlantic history, but is not comprehensive. It is continuously evolving with this site.
 {{</hint>}}
 
 ## Pre-War Timeline
@@ -192,16 +192,22 @@ This timeline is a useful reference for Atlantic history, but is not comprehensi
 			<b>1978</b> 
 			<span class="event">
 				The 1978 World’s Fair is held in Montre<br>
-				1978 World's Fair terror attack kills 2,300people<br>
+				1978 World's Fair terror attack kills 2,300 people<br>
 				Atlantic Crown dissolves under republican pressure
 			</span>
 		</li>
 		<li>
 			<b>1986</b> 
 			<span class="event">
-				The King demands military junta step down from government<br>
+				Government is sacked by the Governor-General after corruption inquiry<br>
 				Constitutional crisis begins<br>
 				Martial Law is declared in Vekllei
+			</span>
+		</li>
+		<li>
+			<b>1989</b> 
+			<span class="event">
+				UK frigate sunk after tensions over VK-Faroese corridor access
 			</span>
 		</li>
 		<li>
@@ -256,7 +262,7 @@ This timeline is a useful reference for Atlantic history, but is not comprehensi
 		<li>
 			<b>2018</b> 
 			<span class="event">
-				Vekllei Royal Airways becomes the Crown Overseas Airways (Skyburo)<br>
+				Vekllei Royal Airways becomes Crown Overseas Airways<br>
 				Commonwealth Airways is founded<br>
 				Fission energy is legalised for restricted commercial use in the U.S.<br>
 				Vekllei postwar economic boom begins
