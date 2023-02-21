@@ -46,11 +46,43 @@ Sincere thanks to [Jip](https://jipfr.nl) and Ben R. R. for their contributions 
 
 ## News
 
-<small>Last updated: 20 Dec 2022</small>
+<small>Last updated: 21 Feb 2023</small>
+
+{{<hint header>}}
+February 2023
+{{</hint>}}
+
+<span class="bulleticon">📄</span> **February 21, 2023** Added a [Vekllei Timeline](/timeline/) <span class="spanlink"><a href="/timeline/">URL →</a></span>
+
+<span class="bulleticon">🌐</span> **February 19, 2023** Added a DARK MODE to millmint.net. Debugged by [Jip](https://jipfr.nl). Click the lightbulb at the top of the page! <span class="spanlink"><a href="/dolls/">URL →</a></span>
+
+<span class="bulleticon">📗</span> **February 16, 2023** New post: [*A Government Jet*](/stories/state-jet/) <span class="spanlink"><a href="/stories/state-jet/">URL →</a></span>
+
+<span class="bulleticon">📗</span> **February 15, 2023** New post: [*New Ruins*](/stories/ruins/) <span class="spanlink"><a href="/stories/ruins/">URL →</a></span>
+
+{{<hint header>}}
+January 2023
+{{</hint>}}
+
+<span class="bulleticon">📄</span> **January 28, 2023** Added an article about [Sagas](/sagas/) <span class="spanlink"><a href="/sagas/">URL →</a></span>
+
+<span class="bulleticon">📄</span> **January 28, 2023** Added an article about [Universal Cotton](/universal-cotton/) <span class="spanlink"><a href="/universal-cotton/">URL →</a></span>
+
+<span class="bulleticon">📗</span> **January 3, 2023** New post: [*Department Commerce*](/stories/department/) <span class="spanlink"><a href="/stories/department/">URL →</a></span>
+
+<span class="bulleticon">📗</span> **January 1, 2023** New post: [*The Prime Minister(s) of Vekllei*](/stories/ministers/) <span class="spanlink"><a href="/stories/ministers/">URL →</a></span>
 
 {{<hint header>}}
 December 2022
 {{</hint>}}
+
+<span class="bulleticon">📗</span> **December 31, 2022** New post: [*Tannin Rivers*](/stories/tannin/) <span class="spanlink"><a href="/stories/tannin/">URL →</a></span>
+
+<span class="bulleticon">📗</span> **December 23, 2022** New post: [*Sepia Interests*](/stories/sepia/) <span class="spanlink"><a href="/stories/sepia/">URL →</a></span>
+
+<span class="bulleticon">📄</span> **December 20, 2022** Added an article about the [Moshel St School](/moshel/) <span class="spanlink"><a href="/moshel/">URL →</a></span>
+
+<span class="bulleticon">✏️</span> **December 20, 2022** New blog post: [*Getting Back to Basics*](/blog/utopia/) <span class="spanlink"><a href="/blog/utopia/">URL →</a></span>
 
 <span class="bulleticon">📗</span> **December 2, 2022** New post: [*Silica Rivers*](/stories/silica/) <span class="spanlink"><a href="/stories/silica/">URL →</a></span>
 
@@ -58,7 +90,7 @@ December 2022
 November 2022
 {{</hint>}}
 
-<span class="bulleticon">✏️</span> **October 29, 2022** New sketch: [*Sleep*](/stories/sleep/) <span class="spanlink"><a href="/stories/sleep/">URL →</a></span>
+<span class="bulleticon">📒</span> **October 29, 2022** New sketch: [*Sleep*](/stories/sleep/) <span class="spanlink"><a href="/stories/sleep/">URL →</a></span>
 
 <span class="bulleticon">📗</span> **November 9, 2022** New post: [*Teachers*](/stories/teachers/) <span class="spanlink"><a href="/stories/teachers/">URL →</a></span>
 
@@ -66,7 +98,7 @@ November 2022
 October 2022
 {{</hint>}}
 
-<span class="bulleticon">✏️</span> **October 29, 2022** New sketch: [*Tee Shirt*](/stories/teeshirt/) <span class="spanlink"><a href="/stories/teeshirt/">URL →</a></span>
+<span class="bulleticon">📒</span> **October 29, 2022** New sketch: [*Tee Shirt*](/stories/teeshirt/) <span class="spanlink"><a href="/stories/teeshirt/">URL →</a></span>
 
 <span class="bulleticon">📗</span> **October 26, 2022** New post: [*The Riot*](/stories/watch/) <span class="spanlink"><a href="/stories/watch/">URL →</a></span>
 
