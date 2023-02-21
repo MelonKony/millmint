@@ -6,7 +6,7 @@
 @import 'mixins/padding';
 @import 'mixins/items';
 
-@import 'color';
+@import 'colors';
 @import 'vars';
 
 @import 'base';
@@ -41,3 +41,5 @@
 @import 'components/toc';
 @import 'components/dictionary';
 @import 'components/dolls';
+@import 'components/footnotes';
+@import 'components/shortcodes';

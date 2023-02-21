@@ -1,0 +1,62 @@
+// Timeline
+
+ol.timeline {
+  li {
+	@include text-sm;
+	margin-bottom: 1.5rem;
+	list-style-type: disc;
+	position: relative;
+	display: grid; 
+	grid-template-columns: 18% 1fr;
+	column-gap: 10px;
+	grid-template-rows: min-content; 
+	grid-template-areas: 
+		"year event"; 
+  }
+  
+  li:before {
+	content: '';
+	background-color: var(--gray-med);
+	position: absolute;
+	bottom: -100px;
+	top: 5px;
+	left: -2.25rem;
+	width: 2px;
+  }
+  li:last-child:before {
+	  bottom: 0px;
+	  margin: 0;
+	}
+  li:after {
+	@include emoji;
+	color: var(--gray-med);
+	content: '•';
+	position: absolute;
+	font-size: 36px;
+	left: -2.6rem;
+  }
+  
+  /*@media screen and (max-width: $sm_min_width) {
+	  li:after {
+		  display: none;
+	  }
+	  li:before {
+		  display: none;
+	  }
+  }*/
+  
+  .event {
+	grid-area: event;
+  }
+  
+  section {
+	  @include padding-4;
+	  @include my-2;
+	  @include radius-base;
+	  background: var(--gray-light);
+  }
+  
+  b {
+	  grid-area: year; 
+  }
+}

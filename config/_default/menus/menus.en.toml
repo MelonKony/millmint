@@ -101,6 +101,13 @@
     url = "/utopia/society/technology"
     parent = "society"
     weight = 3
+  [[navbar]]
+    identifier = "timeline"
+    name = "Timeline"
+    pre = "⏳"
+    parent = "utopia"
+    url = "/utopia/timeline"
+    weight = 6
 [[navbar]]
   identifier = "newsdesk"
   name = "MillMint"

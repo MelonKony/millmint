@@ -2,10 +2,10 @@
 {{ $dk := resources.Get "js/dark.js" }}
 {{ $cs := resources.Get "js/colors.js" }}
 {{ $fd := resources.Get "js/fade.js" }}
-{{ $sn := resources.Get "js/sidenotes.js" }}
+{{ $fn := resources.Get "js/footnotes.js" }}
 {{ $tc := resources.Get "js/toc.js" }}
 {{ $tt := resources.Get "js/dictionary.js" }}
-{{ $js := slice $jq $dk $cs $fd $sn $tc $tt | resources.Concat "js/millmint.js"  }}
+{{ $js := slice $jq $dk $cs $fd $fn $tc $tt | resources.Concat "js/millmint.js"  }}
 
 {{ if .Site.IsServer }}
     <script defer src="{{ $js.RelPermalink }}" type="module"></script>

@@ -178,26 +178,6 @@ button {
     }
 }
 
-a.book-btn {
-  @include text-sm;
-  @include font-medium;
-  @include radius-base;
-  @include highlight;
-  display: inline-block;
-  border: 1px solid var(--color-gray);
-  text-align: center;
-  padding: 0 1rem;
-  width: 100%;
-  line-height: 2rem;
-  cursor: pointer;
-  text-decoration: none;
-  text-align: center;
-  position: relative;
-  box-sizing: border-box;
-  min-width: 280px;
-  width: 100%;
-}
-
 
 /* SELECTION */
 

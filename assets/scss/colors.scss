@@ -22,6 +22,7 @@ $gray-1000: #000;
 $gray-light: #f0f0f6;
 $gray-med: #e5e5e5;
 $gray-light-dark: #302f2f;
+$gray-med-dark: #302f2f;
 
 $background: #ffffff;
 $dark-background: #191919;
@@ -102,6 +103,7 @@ html[data-theme="dark"] {
   --font-color: #{$gray-light};
   
   --gray-light: #{$gray-light-dark};
+  --gray-med:#{$gray-med-dark};
   
   --color-blue: rgb(32, 79, 120);
   
