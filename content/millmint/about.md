@@ -64,9 +64,18 @@ February 2023
 January 2023
 {{</hint>}}
 
+<span class="bulleticon">📒</span> **January 31, 2023** New sketch: [*Sketch for a Friend*](/stories/neko/) <span class="spanlink"><a href="/stories/neko/">URL →</a></span>
+
 <span class="bulleticon">📄</span> **January 28, 2023** Added an article about [Sagas](/sagas/) <span class="spanlink"><a href="/sagas/">URL →</a></span>
 
 <span class="bulleticon">📄</span> **January 28, 2023** Added an article about [Universal Cotton](/universal-cotton/) <span class="spanlink"><a href="/universal-cotton/">URL →</a></span>
+
+<span class="bulleticon">📒</span> **January 27, 2023** New sketch: [*Constable Zelda*](/stories/constable/) <span class="spanlink"><a href="/stories/constable/">URL →</a></span>
+
+
+<span class="bulleticon">📒</span> **January 26, 2023** New sketch: [*All That Glitters*](/stories/gold/) <span class="spanlink"><a href="/stories/gold/">URL →</a></span>
+
+<span class="bulleticon">📒</span> **January 6, 2023** New sketch: [*The Veranda*](/stories/veranda/) <span class="spanlink"><a href="/stories/veranda/">URL →</a></span>
 
 <span class="bulleticon">📗</span> **January 3, 2023** New post: [*Department Commerce*](/stories/department/) <span class="spanlink"><a href="/stories/department/">URL →</a></span>
 
@@ -84,13 +93,18 @@ December 2022
 
 <span class="bulleticon">✏️</span> **December 20, 2022** New blog post: [*Getting Back to Basics*](/blog/utopia/) <span class="spanlink"><a href="/blog/utopia/">URL →</a></span>
 
+<span class="bulleticon">📒</span> **December 10, 2022** New sketch: [*The Friend*](/stories/friend/) <span class="spanlink"><a href="/stories/friend/">URL →</a></span>
+
+
+<span class="bulleticon">📒</span> **December 9, 2022** New sketch: [*The Look*](/stories/the-look/) <span class="spanlink"><a href="/stories/the-look/">URL →</a></span>
+
 <span class="bulleticon">📗</span> **December 2, 2022** New post: [*Silica Rivers*](/stories/silica/) <span class="spanlink"><a href="/stories/silica/">URL →</a></span>
 
 {{<hint header>}}
 November 2022
 {{</hint>}}
 
-<span class="bulleticon">📒</span> **October 29, 2022** New sketch: [*Sleep*](/stories/sleep/) <span class="spanlink"><a href="/stories/sleep/">URL →</a></span>
+<span class="bulleticon">📒</span> **November 30, 2022** New sketch: [*Sleep*](/stories/sleep/) <span class="spanlink"><a href="/stories/sleep/">URL →</a></span>
 
 <span class="bulleticon">📗</span> **November 9, 2022** New post: [*Teachers*](/stories/teachers/) <span class="spanlink"><a href="/stories/teachers/">URL →</a></span>
 
