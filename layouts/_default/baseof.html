@@ -22,7 +22,7 @@
         <article class="notebook">
             {{- partial "header.html" . -}}
             {{- partial "navbar/nav.html" . -}}
-            <article class="page">
+            <section class="page">
                 {{ if .Params.changelogs }}
                 {{ $enable_collapsible_changelogs := (.Scratch.Get "params").enable_collapsible_changelogs }}
                 {{ partial "components/collapsible-menu.html" (dict "type" "changelogs" "context" . "enable" $enable_collapsible_changelogs) }}
@@ -39,10 +39,10 @@
                 {{- partial "disqus.html" . -}}
                 {{ end }}
                 {{ end }}
-            </article>
+            </section>
             {{- partial "footer.html" . -}}
-            </div>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+        </article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
     </main>
     {{- partial "script.html" . -}}
 </body>

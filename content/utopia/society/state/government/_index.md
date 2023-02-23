@@ -88,6 +88,7 @@ In general, the Interior Parliament is responsible for the standard of living in
 
 Together, these two parliaments make up the combined Government of Vekllei. It is made up of Ministries, Offices, Departments, Bureaus, Commissions, Directorates and Secretariats depending on the size, purpose and structure of the state body. This is the government that people living in the Vekllei Home Islands vote for, via the nonpartisan representatives system.
 
+{{<section>}}
 {{<box>}}
 ### Parliament of the Interior
 
@@ -119,5 +120,5 @@ Although each member of the Atlantic Commonwealth is considered a full participa
 {{</hint>}}
 
 The *Commonwealth Administration of the Crown* (also the Crown Sovereign and Parliament of Spirits interchangeably), not to be confused with the [Palace of the Vekllei Sovereign](/utopia/society/government/#palace-of-the-vekllei-sovereign), is the administration-level apparatus of the Commonwealth to coordinate policy with the Palace. Since the Commonwealth does not have direct authority over the features of the Sovereign, the Crown Parliament acts as its human representative in Vekllei government. Although it sits above the Commonwealth and Interior parliaments in sovereignty, its responsibilities are limited to constitutional matters and aspects of the Vekllei legal system. 
-
 {{</box>}}
+{{</section>}}

@@ -2,11 +2,7 @@ html {
   overflow-y: scroll;
 }
 
-html,
-button,
-input,
-select,
-textarea,
+html, button, input, select, textarea,
 .pure-g [class *="pure-u"] {
   font-family: system-ui, -apple-system, segoe ui, Roboto, Helvetica, Arial, sans-serif, 'Emoji', apple color emoji, segoe ui emoji;
 }
@@ -163,19 +159,26 @@ a {
 }
 
 /* BUTTONS */
-
 button {
-  @include font-color;
-  display: block;
   background: none;
-  border: none;
-  margin: 0;
+  display: inline-block;
+  color: var(--color-gray);
+  padding: 5px 0px;
+  width: 100%;
+  line-height: 1rem;
   cursor: pointer;
-  outline: inherit;
-  font-size: 18px;
-    &:hover {
-      color: var(--gray-med);
-    }
+  font-size: 14px;
+  text-decoration: none;
+  text-align: center;
+  position: relative;
+  box-sizing: border-box;
+  font-weight: 600;
+  border: 1px solid var(--color-gray);
+  border-radius: .25rem;
+  
+  &:hover {
+    filter: brightness(65%);
+  }
 }
 
 

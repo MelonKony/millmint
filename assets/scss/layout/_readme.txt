@@ -1,0 +1,1 @@
+/layout/ is for static elements that appear on every page

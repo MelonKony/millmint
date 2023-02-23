@@ -13,7 +13,7 @@ color: green
 
 <style>
 /* hide meta */
-.page-meta {
+header.info {
   display: none;
 }
 </style>

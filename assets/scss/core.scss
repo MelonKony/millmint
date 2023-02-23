@@ -8,38 +8,35 @@
 
 @import 'colors';
 @import 'vars';
+@import 'styles';
 
 @import 'base';
 @import 'layout/article';
-@import 'layout/bookcase';
-@import 'layout/gallery';
-@import 'layout/balloon';
 @import 'layout/postcard';
-@import 'components/header';
-@import 'components/footer';
-@import 'components/nav';
-@import 'components/collapsible-menu';
+@import 'layout/footer';
+@import 'layout/header';
+@import 'layout/nav';
+
 @import 'components/terms-cloud';
 @import 'components/breadcrumbs';
 @import 'components/sidebar';
 @import 'components/pagination';
-
-// Custom @mixins
-@import 'layout/list';
-@import 'layout/shop';
-@import 'layout/home';
-
 @import 'components/article';
 @import 'components/autonumbering';
-@import 'components/comments';
 @import 'components/fonts';
 @import 'components/hint';
 @import 'components/images';
 @import 'components/meta';
 @import 'components/content';
-@import 'components/search';
 @import 'components/toc';
 @import 'components/dictionary';
 @import 'components/dolls';
 @import 'components/footnotes';
 @import 'components/shortcodes';
+
+@import 'pages/home';
+@import 'pages/shop';
+@import 'pages/list';
+@import 'layout/search';
+
+// Custom @mixins

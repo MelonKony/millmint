@@ -7,8 +7,18 @@ img {
 	max-width: 100%;
 }
 
-// image styles
+// smallimg being phased out
 article img[alt~="smallimg"] {
+	@include my-4;
+	@include radius-base;
+	width: 50%;
+	min-width: 300px;
+	padding: .5rem;
+	border-radius: 5px;
+}
+
+// image replacement
+.smallimg {
 	@include my-4;
 	@include radius-base;
 	width: 50%;
@@ -48,12 +58,12 @@ article img[alt~="crest"] {
 }
 
 // image fade in (fade.js)
-.fadeIn {
+.fadein {
 	-webkit-animation: animat_show 0.8s;
 	animation: animat_show 0.8s;
 }
 
-.fadeIn,
+.fadein,
 .show-all-images img {
 	visibility: visible !important;
 }

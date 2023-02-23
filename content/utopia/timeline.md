@@ -4,7 +4,7 @@ fulltitle: Timeline of Atlantic History
 icon: ⏳
 emoji: Τ
 color: millmint
-image: /images/ruins.jpg
+image: /images/hispanic.jpg
 
 tags: 
   - states

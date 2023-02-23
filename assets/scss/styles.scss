@@ -1,0 +1,246 @@
+//content.scss
+
+// heading anchors
+h1, h2, h3, h4, h5, h6 {
+	a.anchor {
+		@include highlight;
+		opacity: 0;
+		font-weight: normal;
+
+		&:hover {
+			opacity: initial;
+			text-decoration: none;
+		}
+
+		&:focus {
+			opacity: initial;
+		}
+	}
+}
+
+// section panel
+.section {
+	@include radius-base;
+	@include my-4;
+	background-color: var(--gray-light);
+	opacity: .85;
+	border-inline-start: none;
+	line-height: 1.5;
+	letter-spacing: -.01em;
+	border-radius: 5px;
+	padding: 1rem;
+	font-style: normal;
+
+	blockquote {
+		@include my-4;
+		@include radius-base;
+		padding: .5rem 1rem .5rem .75rem;
+		border-inline-start: none;
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		margin-top: .5rem;
+	}
+
+	// outline sub-panel
+	.outline {
+		@include radius-base;
+		padding: 0.5em 1em 0em 1em;
+		border: 1px solid rgba(0, 0, 0, 0.1);
+		margin-top: 1.5em;
+		border-left-width: 2.5px;
+		display: block;
+
+		li strong {
+			@include font-semibold;
+		}
+	}
+	
+	// box sub-panel
+	.box {
+		@include radius-base;
+		background: var(--body-background);
+		border: 1px solid var(--color-gray);
+		line-height: 1.5;
+		padding: 1rem;
+		margin: -1rem;
+	}
+}
+
+// tabs
+.tabs {
+	@include px-4;
+	@include py-2;
+	@include radius-base;
+	background-color: var(--gray-light);
+	line-height: 1.5;
+	letter-spacing: -.01em;
+
+	overflow: hidden;
+
+	display: flex;
+	flex-wrap: wrap;
+
+	label {
+		@include padding-2;
+		display: inline-block;
+		border-bottom: 1px transparent;
+		cursor: pointer;
+	}
+
+	.tabs-content {
+		@include padding-2;
+		order: 999; //Move content blocks to the end
+		border-top: 1px solid var(--gray-light);
+		display: none;
+	}
+
+	input[type="radio"] {
+		display: none;
+
+		&:checked+label {
+			border-bottom: 2px solid var(--color-gray);
+
+			&+.tabs-content {
+				display: block;
+			}
+		}
+	}
+}
+
+/* fullscreen-tabs */
+
+.fullscreen-tabs {
+	@include padding-0;
+	@include radius-base;
+	background-color: var(--body-background);
+	line-height: 1.5;
+	letter-spacing: -.01em;
+	overflow: hidden;
+	display: flex;
+	flex-wrap: wrap;
+
+	label {
+		@include padding-2;
+		display: inline-block;
+		border-bottom: 1px transparent;
+		cursor: pointer;
+		box-sizing: border-box;
+		background: var(--gray-light);
+		padding: 0.25rem 1rem 0.25rem 0.75rem;
+		width: 50%;
+		text-align: center;
+	}
+
+	.fullscreen-tabs-content {
+		@include padding-2;
+		order: 999; //Move content blocks to the end
+		display: none;
+		width: 100%;
+	}
+
+	input[type="radio"] {
+		display: none;
+		background: var(--gray-light);
+
+		&:checked+label {
+			border-bottom: 2px solid var(--color-gray);
+
+			&+.fullscreen-tabs-content {
+				display: block;
+			}
+		}
+	}
+}
+
+// buttons
+
+button.navbutton {
+	@include font-color;
+	display: block;
+	background: none;
+	border: none;
+	margin: 0;
+	cursor: pointer;
+	outline: inherit;
+	font-size: 18px;
+
+	&:hover {
+		color: var(--gray-med);
+		filter: brightness(100%);
+	}
+}
+
+button.bulletbutton {
+	@include text-sm;
+	@include font-bold;
+	@include radius-base;
+	padding: 0.15rem;
+	margin-top: 0rem;
+	margin-left: 6px;
+	list-style: none;
+	width: fit-content;
+	background-color: var(--gray-light);
+	border: hidden;
+	&:hover {
+		filter: brightness(100%);
+		text-decoration: underline;
+	}
+}
+
+/* sidenotes */
+.sidenote {
+	padding-right: 2 * .5rem;
+	margin-bottom: 1.5rem;
+	margin-left: 2.5rem;
+	margin-right: 2.5rem;
+	border-right: 2px solid var(--color-gray);
+	color: var(--color-gray);
+	font-style: italic;
+	font-size: 0.8rem;
+	opacity: 75%;
+	text-align: right;
+	transform: translateX(-85%);
+
+	p {
+	  margin: 0;
+	}
+}
+
+.sidenote-hover {
+	border-color: var(--color-gray);
+	color: var(--color-gray);
+}
+
+@media (max-width: 1599px) {
+  .sidenote {
+	max-width: 200px !important;
+  }
+}
+
+// icons
+
+.smallicon {
+	@include emoji;
+	@include font-normal;
+}
+
+.bulleticon {
+	@include emoji;
+	@include highlight;
+	@include font-normal;
+}
+
+@keyframes whirlyAnimate {
+	0% {
+		font-variation-settings: "anim" 100;
+	}
+
+	100% {
+		font-variation-settings: "anim" 200;
+	}
+}
+
+#whirlybat {
+	animation: whirlyAnimate 2s linear infinite;
+}

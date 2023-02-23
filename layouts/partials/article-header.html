@@ -1,4 +1,4 @@
-<div class="info">
+<header class="info">
   <h1 class="title">{{ .Params.fulltitle }}</h1>
   <div class="date" style="margin-right: .25rem;">{{if .Params.PublishDate}}{{- .PublishDate.Format "Monday, Jan 2, 2006" -}}{{ end }}</div>
   <div class="headcrumbs">
@@ -11,4 +11,12 @@
   <!--<div class="article-category">{{ .Lastmod.Format "02.01.2006" }}</div>-->
   <span class="icon" style="line-height: 1.2;">{{ .Params.icon }}</span>
   <div class="emoji" id="whirlybat">{{ .Params.emoji }}</div>
-</div>
+</header>
+
+{{ if .Params.rgb }}
+  <div data-page-color="{{ .Params.rgb }}" style="display: none"></div>
+{{else}}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+{{ end }}
+
+{{ partial "components/image.html" . }}

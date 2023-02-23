@@ -1,0 +1,229 @@
+// Article Header
+
+header.info {
+	@include margin-0;
+	display: grid;
+	grid-template-columns: 0fr 1fr .35fr fit-content(20%);
+	grid-auto-rows: minmax(min-content, max-content);
+	gap: 0;
+	grid-auto-flow: column;
+	grid-template-areas:
+		"title title emoji"
+		"date date emoji"
+		"icon headcrumbs emoji"
+		"icon category emoji";
+	margin-bottom: 2rem;
+}
+
+.box-info {
+	display: grid;
+	grid-template-columns: 0fr 1fr .35fr fit-content(20%);
+	grid-template-rows: 1fr;
+	gap: 0;
+	grid-auto-flow: row;
+	grid-template-areas:
+		"title title emoji";
+
+	>header.title {
+		align-content: start;
+	}
+}
+
+.page-info {
+	border-radius: 5px;
+}
+
+.title {
+	@include font-bold;
+	@include font-color;
+	grid-area: title;
+	display: grid;
+	font-size: 2rem;
+	align-content: center;
+	line-height: 1.25;
+	margin: 1rem 0 0.5rem 0;
+}
+
+.emoji {
+	grid-area: emoji;
+	display: grid;
+	justify-items: end;
+	align-content: center;
+	font-family: 'Whirlybats';
+	font-weight: normal;
+	font-style: normal;
+	font-feature-settings: 'liga';
+	white-space: nowrap;
+	word-wrap: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-rendering: optimizeLegibility;
+	font-size: 65px;
+	box-sizing: border-box;
+	height: 100%;
+	width: 100%;
+}
+
+.date {
+	@include text-sm;
+	@include font-medium;
+	@include highlight;
+	grid-area: date;
+	margin: 0;
+}
+
+
+.icon-container {
+	grid-area: icon;
+	height: auto;
+	width: auto;
+	justify-content: center;
+	align-content: center;
+	margin: .25rem 0 .25rem 0;
+}
+
+.icon {
+	@include emoji;
+	@include highlight;
+	@include radius-base;
+	display: grid;
+	grid-area: icon;
+	height: auto;
+	width: auto;
+	justify-content: center;
+	align-content: center;
+	margin-right: .5rem;
+	font-size: 2rem;
+}
+
+// Header
+
+header {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr fit-content(33%);
+  grid-template-rows: 1fr;
+  grid-template-areas:
+	"brand theme toc search";
+  margin: 0 0 16px 0;
+
+  a:hover {
+	text-decoration: none;
+	filter: none;
+  }
+}
+
+.brand {
+  align-items: center;
+  min-width: 8rem;
+  grid-area: brand;
+}
+
+.brand-title {
+  @include text-2xl;
+  @include font-bold;
+  @include radius-medium;
+  color: $background;
+  vertical-align: middle;
+  padding: 2px 6px 2px 6px;
+  background-color: var(--color-gray);
+}
+
+.brand-emoji {
+  font-family: 'Whirlybats';
+  font-size: 30px !important;
+  font-weight: normal;
+  font-style: normal;
+  font-feature-settings: 'liga';
+  letter-spacing: -26px;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  box-sizing: border-box;
+  filter: brightness(100%) !important;
+  vertical-align: middle;
+  color: var(--logo-color, var(--color-gray));
+}
+
+.brand-title:hover,
+brand-emoji:hover {
+  box-shadow: inset 0 0 0 2px var(--logo-color, var(--color-gray));
+  color: var(--logo-color, var(--color-gray));
+  background-color: var(--body-background);
+}
+
+@keyframes slidebg {
+  to {
+	background-position: 20vw;
+  }
+}
+
+.toolbox {
+  display: flex;
+  align-items: center;
+  column-gap: 0.5rem;
+
+  .toolbox-btn {
+	display: flex;
+	cursor: pointer;
+
+	&:hover {
+	  color: var(--color-text-secondary);
+	}
+  }
+
+  .dropdown-wrapper {
+	.dropdown-btn.pure-menu-link {
+	  color: unset;
+	}
+
+	.dropdown-btn {
+	  display: flex;
+	  align-items: center;
+	  padding: 0;
+
+	  &:hover {
+		background-color: unset;
+	  }
+
+	  &::after {
+		content: "";
+		padding: 0;
+	  }
+
+	  .dropdown-desc {
+		@include text-sm;
+		margin-left: 0.35rem;
+	  }
+	}
+  }
+}
+
+body>canvas:not(#HeaderCanvas) {
+  /*Hide annoying Vibrant canvas*/
+  display: none;
+}
+
+/* fix menu dropdown bg colour */
+body header #navbar .navbar-dropdown li {
+  background-color: var(--body-background);
+}
+
+body header #navbar .navbar-dropdown li:hover {
+  background-color: var(--body-background);
+  filter: brightness(98%);
+}
+
+/* hide menu button */
+header .menu-btn {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  header {
+	margin-top: 0rem;
+  }
+}

@@ -1,9 +1,0 @@
-{{ if .Params.rgb }}
-  <div data-page-color="{{ .Params.rgb }}" style="display: none"></div>
-{{else}}
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
-{{ end }}
-
-{{ with .Params.image }}
-  <img class="page-image" alt="feature image" src={{ . | relURL }} />
-{{ end }}
