@@ -1,8 +1,8 @@
-  {{ $url := urls.Parse .Destination }}
-  {{ $altText := .Text }}
-  {{ $caption := .Title }}
+{{ $url := urls.Parse .Destination }}
+{{ $altText := .Text }}
+{{ $caption := .Title }}
  
-  <figure>
+<figure>
   <img src="{{ .Destination | safeURL }}" alt="{{ $altText }}" {{ with .Title}} title="{{ . }}"{{ end }} loading="lazy" />
   {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
-  </figure>
+</figure>
