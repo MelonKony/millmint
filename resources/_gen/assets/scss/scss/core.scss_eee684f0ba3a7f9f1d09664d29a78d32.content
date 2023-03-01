@@ -318,13 +318,16 @@ html {
   height: auto;
   display: block; }
 
-/* colours */
+/* text colors */
 /* defaults */
+/* colours */
 :root {
   --gray-light: #f0f0f6;
   --gray-200: #e5e5e5;
   --body-background: #ffffff;
   --font-color: #1d1d1f;
+  --highlight: #e5e5e5;
+  --highlight-background: #f0f0f6;
   --color-link: #06c;
   --color-visited-link: #1a0dab;
   --color-blue: #1c7bcd;
@@ -344,6 +347,8 @@ html {
 
 html[data-theme="light"] {
   --font-color: #1d1d1f;
+  --highlight: #e5e5e5;
+  --highlight-background: #f0f0f6;
   --gray-light: #f0f0f6;
   --gray-med: #e5e5e5;
   --color-blue: #1c7bcd;
@@ -364,6 +369,8 @@ html[data-theme="light"] {
 
 html[data-theme="dark"] {
   --font-color: #f0f0f6;
+  --highlight: #e5e5e5;
+  --highlight-background: #f0f0f6;
   --gray-light: #302f2f;
   --gray-med:#302f2f;
   --color-blue: rgb(32, 79, 120);
@@ -392,13 +399,13 @@ a {
   text-decoration: none; }
 
 blockquote.hint:not(.panel) {
-  background-color: var(--hint-bg, var(--gray-light)); }
+  background-color: var(--highlight-background); }
 
 blockquote.hint.story {
   background-color: var(--gray-light); }
 
 h1 a.anchor, h2 a.anchor, h3 a.anchor, h4 a.anchor, h5 a.anchor, h6 a.anchor {
-  color: var(--color-gray);
+  color: var(--highlight);
   opacity: 0;
   font-weight: normal; }
   h1 a.anchor:hover, h2 a.anchor:hover, h3 a.anchor:hover, h4 a.anchor:hover, h5 a.anchor:hover, h6 a.anchor:hover {
@@ -567,7 +574,7 @@ button.bulletbutton {
 
 .bulleticon {
   font-family: "Emoji" !important;
-  color: var(--color-gray);
+  color: var(--highlight);
   font-weight: 400; }
 
 @keyframes whirlyAnimate {
@@ -620,13 +627,13 @@ figure {
     margin-bottom: .5rem;
     padding: .5rem;
     border-radius: .25rem;
+    background-color: var(--highlight-background);
     margin: -0.5rem 0 0.5rem 0;
     text-align: center;
     letter-spacing: -.01em;
-    color: var(--color-gray);
-    background-color: var(--hint-bg, var(--gray-light)); }
+    color: var(--color-gray); }
     figure figcaption a {
-      color: var(--font-color); }
+      text-decoration: underline; }
 
 input {
   background-color: var(--color-background);
@@ -644,7 +651,7 @@ footer {
   margin: 1rem 0 0 0; }
 
 hr {
-  color: var(--color-gray);
+  color: var(--highlight);
   height: 0px; }
 
 .page {
@@ -693,10 +700,14 @@ details {
   background-color: transparent; }
 
 #navbar a {
-  color: var(--color-gray); }
+  color: var(--highlight); }
+
+svg {
+  color: var(--font-color);
+  fill: var(--font-color); }
 
 #navbar .flex svg path:not([fill]) {
-  fill: var(--color-gray); }
+  color: var(--font-color); }
 
 body header .navbar-item-dropdown.insection,
 body header nav .navbar-item.insection {
@@ -711,7 +722,7 @@ input {
   border: 0 !important; }
 
 a {
-  color: var(--color-gray); }
+  color: var(--highlight); }
   a:hover {
     text-decoration: underline;
     color: var(--dark-title-text, var(--color-gray)); }
@@ -1052,7 +1063,7 @@ nav.story {
   /* 14px */
   line-height: 1.25rem;
   /* 20px */
-  color: var(--color-gray);
+  color: var(--highlight);
   margin-left: auto;
   margin-right: 0;
   line-height: 1rem;
@@ -1144,7 +1155,7 @@ header.info {
   line-height: 1.25rem;
   /* 20px */
   font-weight: 500;
-  color: var(--color-gray);
+  color: var(--highlight);
   grid-area: date;
   margin: 0; }
 
@@ -1158,7 +1169,7 @@ header.info {
 
 .icon {
   font-family: "Emoji" !important;
-  color: var(--color-gray);
+  color: var(--highlight);
   border-radius: .25rem;
   display: grid;
   grid-area: icon;
@@ -1530,7 +1541,7 @@ nav {
     margin: 0;
     padding: 0; }
     .headcrumbs li + :after {
-      color: var(--color-gray);
+      color: var(--highlight);
       padding: 0 .25rem 0 .15rem;
       content: "/"; }
   .headcrumbs ul {
@@ -1540,7 +1551,7 @@ nav {
     color: var(--font-color); }
   .headcrumbs .seperator {
     display: inline;
-    color: var(--color-gray);
+    color: var(--highlight);
     padding-left: .25rem;
     padding-right: .15rem; }
 
@@ -1983,7 +1994,7 @@ img.page {
     .desktop-toc-wrapper .desktop-toc details > summary::after {
       font-family: "Emoji" !important;
       font-weight: 400;
-      color: var(--color-gray);
+      color: var(--highlight);
       content: '📑'; }
     .desktop-toc-wrapper .desktop-toc details[open] > summary::after {
       content: "📑"; }

@@ -155,10 +155,12 @@ function setBackgroundColor(rgb, doBackground = true) {
       const titleText = rgba(...rgb, 0.25, 'black');
       const bg = rgba(0, 0, 0, 0, 1);
       const gray100 = `rgba(${rgb.join(", ")}, 0.1)`;
+      const highlight = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
+      const highlightBackground = `rgba(${rgb.join(", ")}, 0.1)`;
       const colorGray = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
       const darkerColor = `rgba(${rgb.map((v) => Math.max(v - 100, 0)).join(", ")}, 1)`;
       
-      const classes = [`--title-text: ${titleText}`, `--dark-title-text: ${darkerText}`, `a: ${colorGray}`, `--color-gray: ${colorGray}`, `--color-text: ${colorGray}`, `--hint-bg: ${bodyBg}`, `--bg-alt: ${bg}`]
+      const classes = [`--title-text: ${titleText}`, `--highlight: ${highlight}`, `--highlight-background: ${highlightBackground}`, `--dark-title-text: ${darkerText}`, `a: ${colorGray}`, `--color-gray: ${colorGray}`, `--color-text: ${colorGray}`, `--hint-bg: ${bodyBg}`, `--bg-alt: ${bg}`]
       if(doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-light: ${gray100}`, `--color-placeholder: var(--color-gray)`/*, `--body-background: ${bodyBg}`*/);
       
       // Inject colors into DOM
@@ -173,10 +175,12 @@ function setBackgroundColor(rgb, doBackground = true) {
       const titleText = rgba(...rgb, 0.25, 'black');
       const bg = `rgba(${rgb.join(", ")}, 0.1)`;
       const gray100 = `rgba(${rgb.join(", ")}, 0.1)`;
+      const highlight = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
+      const highlightBackground = `rgba(${rgb.join(", ")}, 0.1)`;
       const colorGray = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
       const darkerColor = `rgba(${rgb.map((v) => Math.max(v - 100, 0)).join(", ")}, 1)`;
       
-      const classes = [`--title-text: ${titleText}`, `--dark-title-text: ${darkerText}`, `a: ${colorGray}`, `--color-gray: ${colorGray}`, `--color-text: ${colorGray}`, `--hint-bg: ${bodyBg}`, `--bg-alt: ${bg}`]
+      const classes = [`--title-text: ${titleText}`, `--highlight: ${highlight}`, `--highlight-background: ${highlightBackground}`, `--dark-title-text: ${darkerText}`, `a: ${colorGray}`, `--color-gray: ${colorGray}`, `--color-text: ${colorGray}`, `--hint-bg: ${bodyBg}`, `--bg-alt: ${bg}`]
       if(doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-light: ${gray100}`, `--color-placeholder: var(--color-gray)`/*, `--body-background: ${bodyBg}`*/);
       classes.push(doBackground ? `--logo-color: var(--color-gray)` : `--logo-color: ${darkerColor}`)
       

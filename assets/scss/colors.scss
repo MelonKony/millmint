@@ -55,6 +55,8 @@ $millmint: rgb(225, 28, 110);
   --body-background: #{$background};
   
   --font-color: #{$font-color};
+  --highlight: #{$gray-med};
+  --highlight-background: #{$gray-100};
 
   --color-link: #{$link};
   --color-visited-link: #{$link-visited};
@@ -77,6 +79,8 @@ $millmint: rgb(225, 28, 110);
 
 html[data-theme="light"] {
   --font-color: #{$font-color};
+  --highlight: #{$gray-med};
+  --highlight-background: #{$gray-100};
   
   --gray-light: #{$gray-light};
   --gray-med: #{$gray-med};
@@ -101,6 +105,8 @@ html[data-theme="light"] {
 
 html[data-theme="dark"] {
   --font-color: #{$gray-light};
+  --highlight: #{$gray-med};
+  --highlight-background: #{$gray-100};
   
   --gray-light: #{$gray-light-dark};
   --gray-med:#{$gray-med-dark};
@@ -137,7 +143,7 @@ a {
 }
 
 blockquote.hint:not(.panel) {
-  background-color: var(--hint-bg, var(--gray-light));
+  background-color: var(--highlight-background);
 }
 
 blockquote.hint.story {

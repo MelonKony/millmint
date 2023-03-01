@@ -2,11 +2,7 @@
   font-family: 'Emoji'!important;
 }
 
-
-/* colours */
-@mixin highlight {
-  color: var(--color-gray);
-}
+/* text colors */
 @mixin font-color {
   color: var(--font-color);
 }

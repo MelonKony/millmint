@@ -6,3 +6,11 @@
     border-bottom-color: var(--color-text-secondary);
   }
 }
+
+/* colours */
+@mixin highlight {
+  color: var(--highlight);
+}
+@mixin highlight-background {
+  background-color: var(--highlight-background);
+}

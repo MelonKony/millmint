@@ -41,14 +41,14 @@ figure {
     @include my-2;
     @include padding-2;
     @include radius-base;
+    @include highlight-background;
     margin: -0.5rem 0 0.5rem 0;
     text-align: center;
     letter-spacing: -.01em;
     color: var(--color-gray);
-    background-color: var(--hint-bg, var(--gray-light));
 
     a {
-      @include font-color;
+      text-decoration: underline;
     }
   }
 }
@@ -134,8 +134,13 @@ details {
   @include highlight;
 }
 
+svg {
+  color: var(--font-color);
+  fill: var(--font-color);
+}
+
 #navbar .flex svg path:not([fill]) {
-  fill: var(--color-gray);
+  color: var(--font-color);
 }
 
 body header .navbar-item-dropdown.insection,
