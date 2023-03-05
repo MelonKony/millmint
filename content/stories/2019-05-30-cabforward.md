@@ -17,7 +17,7 @@ url: /stories/cab-forward/
 aliases:
 - /posts/2019-05-30-cabforward/
 
-image: https://images.millmint.net/images/cabforward.jpg
+image: /images/cabforward.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/busvvn/catching_a_steam_locomotive_to_school/
 
 ---

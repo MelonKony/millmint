@@ -10,7 +10,7 @@ tags:
 categories:
   - commonwealth
 
-image: https://images.millmint.net/images/shrine-minded.jpg
+image: /images/shrine-minded.jpg
 autonumbering: true
 
 aliases:

@@ -10,7 +10,7 @@ tags:
 categories:
   - society
 
-image: https://images.millmint.net/images/death.jpg
+image: /images/death.jpg
 autonumbering: true
 
 aliases:

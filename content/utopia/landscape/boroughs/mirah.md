@@ -11,7 +11,7 @@ tags:
 categories:
   - commonwealth
 
-image: https://images.millmint.net/images/waterfront.jpg
+image: /images/waterfront.jpg
 autonumbering: true
 
 weight: 1

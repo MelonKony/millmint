@@ -17,7 +17,7 @@ url: /stories/missile-train/
 aliases:
 - /posts/2018-04-09-rail-missiles/
 
-image: https://images.millmint.net/images/missiletrain.jpg
+image: /images/missiletrain.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/8axg6z/raillaunched_nuclear_missiles/
 ---
 

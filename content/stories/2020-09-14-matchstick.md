@@ -19,7 +19,7 @@ url: /stories/matchstick/
 aliases:
 - /posts/2020-09-14-matchstick/
 
-image: https://images.millmint.net/images/matchstick.jpg
+image: /images/matchstick.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/is6pr2/matchstick_girl/
 ---
 

@@ -18,7 +18,7 @@ url: /stories/mountaintops/
 aliases:
 - /posts/2019-11-15-mountaintops/
 
-image: https://images.millmint.net/images/mountaintops.jpg
+image: /images/mountaintops.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/dwa0fc/from_beaches_to_mountaintops/
 ---
 

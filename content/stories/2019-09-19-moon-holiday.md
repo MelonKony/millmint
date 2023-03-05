@@ -18,7 +18,7 @@ url: /stories/moon-holiday/
 aliases:
 - /posts/2019-09-19-moon-holiday/
 
-image: https://images.millmint.net/images/moonholiday.jpg
+image: /images/moonholiday.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/d60w7n/holiday_on_the_moon/
 ---
 

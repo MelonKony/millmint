@@ -10,7 +10,7 @@ tags:
 categories:
   - intro
 
-image: https://images.millmint.net/images/drawing.jpg
+image: /images/drawing.jpg
 
 aliases:
   - /faq/

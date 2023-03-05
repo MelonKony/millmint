@@ -17,7 +17,7 @@ url: /stories/grotesque/
 aliases:
 - /posts/2019-06-13-erotic-grotesque/
 
-image: https://images.millmint.net/images/eroguro.jpg
+image: /images/eroguro.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/c05k16/absolute_grotesque/
 ---
 

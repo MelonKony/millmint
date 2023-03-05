@@ -10,7 +10,7 @@ tags:
 categories:
   - society
 
-image: https://images.millmint.net/images/drawing.jpg
+image: /images/drawing.jpg
 
 type: blank
 autonumbering: true

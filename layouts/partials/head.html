@@ -93,11 +93,6 @@
     
     <link rel="stylesheet" id="commentscss" href="{{- "/css/comments.css" -}}" >
 
-    <!-- RSS -->
-    {{- with .OutputFormats.Get "rss" -}}
-    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-    {{ end -}}
-
     {{- define "integrity" -}}
     {{- if (urls.Parse .Permalink).Host -}}
     integrity="{{ .Data.Integrity }}" crossorigin="anonymous"

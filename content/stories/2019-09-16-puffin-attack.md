@@ -18,7 +18,7 @@ url: /stories/puffin-attack/
 aliases:
 - /posts/2019-09-16-puffin-attack/
 
-image: https://images.millmint.net/images/puffinattack.jpg
+image: /images/puffinattack.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/d4lfim/puffin_attack/
 ---
 

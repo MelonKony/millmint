@@ -19,7 +19,7 @@ url: /stories/transmission/
 aliases:
 - /posts/2022-03-23-transmission/
 
-image: https://images.millmint.net/images/transmission.jpg
+image: /images/transmission.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/tl3ktc/transmission_towers/
 ---
 

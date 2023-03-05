@@ -20,7 +20,7 @@ url: /stories/hyderabad/
 aliases:
 - /posts/2022-07-21-hyderabad/
 
-image: https://images.millmint.net/images/hyderabad.jpg
+image: /images/hyderabad.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/w4nms0/little_hyderabad/
 print: https://www.inprnt.com/gallery/melonkony/little-hyderabad/
 video: 

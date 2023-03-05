@@ -16,7 +16,7 @@ url: /stories/coast-guard/
 aliases:
 - /posts/2021-11-14-coastguard/
 
-image: https://images.millmint.net/images/coastguard.jpg
+image: /images/coastguard.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/qtsinv/the_vekllei_coast_guard/
 
 rgb: 50, 72, 123

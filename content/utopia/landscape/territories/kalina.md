@@ -10,7 +10,7 @@ tags:
 categories:
   - commonwealth
 
-image: https://images.millmint.net/images/marinerailway.jpg
+image: /images/marinerailway.jpg
 
 aliases:
 - /kalina/

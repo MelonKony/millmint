@@ -10,7 +10,7 @@ tags:
 categories:
   - society
 
-image: https://images.millmint.net/images/spiritful.jpg
+image: /images/spiritful.jpg
 autonumbering: true
 
 aliases:

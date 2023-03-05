@@ -17,7 +17,7 @@ url: /stories/montre-lola/
 aliases:
 - /posts/2020-06-29-montrelola/
 
-image: https://images.millmint.net/images/montrelola.jpg
+image: /images/montrelola.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/hhjytf/village_map_of_montrelola/
 ---
 

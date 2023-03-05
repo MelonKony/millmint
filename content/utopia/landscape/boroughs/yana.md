@@ -10,7 +10,7 @@ tags:
 categories:
   - commonwealth
 
-image: https://images.millmint.net/images/lakehouse.jpg
+image: /images/lakehouse.jpg
 autonumbering: true
 
 aliases:

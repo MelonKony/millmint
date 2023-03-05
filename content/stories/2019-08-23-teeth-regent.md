@@ -19,7 +19,7 @@ url: /stories/regent/
 aliases:
 - /posts/2019-08-23-teeth-regent/
 
-image: https://images.millmint.net/images/regent.jpg
+image: /images/regent.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/cudfnv/the_teeth_regents/
 ---
 

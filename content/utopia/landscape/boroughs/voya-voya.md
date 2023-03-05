@@ -10,7 +10,7 @@ tags:
 categories:
   - commonwealth
 
-image: https://images.millmint.net/images/rivers.jpg
+image: /images/rivers.jpg
 autonumbering: true
 weight: 1
 

@@ -18,7 +18,7 @@ url: /stories/mail-train/
 aliases:
 - /posts/2021-02-05-mailtrain/
 
-image: https://images.millmint.net/images/mailtrain.jpg
+image: /images/mailtrain.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/ldfq1p/racing_the_post_office_to_the_station/
 ---
 

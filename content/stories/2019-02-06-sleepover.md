@@ -19,7 +19,7 @@ url: /stories/sleepover/
 aliases:
 - /posts/2019-02-06-sleepover/
 
-image: https://images.millmint.net/images/sleepover.jpg
+image: /images/sleepover.jpg
 reddit: https://www.reddit.com/user/MelonKony/comments/ann0rc/too_old_for_sleepovers/
 ---
 

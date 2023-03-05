@@ -17,7 +17,7 @@ url: /stories/police-uniforms/
 aliases:
 - /posts/2018-08-23-constabulary/
 
-image: https://images.millmint.net/images/policeuniforms.jpg
+image: /images/policeuniforms.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/99nhx6/the_constabulary/
 ---
 

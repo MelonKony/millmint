@@ -19,7 +19,7 @@ url: /stories/moise/
 aliases:
 - /posts/2019-08-25-introducing-moise/
 
-image: https://images.millmint.net/images/introducingmoise.jpg
+image: /images/introducingmoise.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/cv3w1h/introducing_moise/
 ---
 

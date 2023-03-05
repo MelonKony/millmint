@@ -19,7 +19,7 @@ url: /stories/what-is-vekllei?/
 aliases:
 - /posts/2019-07-26-what-is-vekllei/
 
-image: https://images.millmint.net/images/map.jpg
+image: /images/map.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/chomw1/what_is_vekllei/
 ---
 

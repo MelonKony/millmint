@@ -11,7 +11,7 @@ tags:
 categories:
   - commonwealth
 
-image: https://images.millmint.net/images/rocket.jpg
+image: /images/rocket.jpg
 autonumbering: true
 
 aliases:

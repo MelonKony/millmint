@@ -17,7 +17,7 @@ url: /stories/masculinity/
 aliases:
 - /posts/2018-09-07-masculinity/
 
-image: https://images.millmint.net/images/masculinity.jpg
+image: /images/masculinity.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/9du5i5/masculinity_fatherhood_in_vekllei/
 ---
 

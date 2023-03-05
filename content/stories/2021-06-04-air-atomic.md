@@ -17,7 +17,7 @@ url: /stories/fighter/
 aliases:
 - /posts/2021-06-04-air-atomic/
 
-image: https://images.millmint.net/images/fighter.jpg
+image: /images/fighter.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/ns9ltc/air_atomic/
 ---
 

@@ -17,7 +17,7 @@ url: /stories/postmistress/
 aliases:
 - /posts/2021-02-02-postmistress/
 
-image: https://images.millmint.net/images/postmistress.jpg
+image: /images/postmistress.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/lazslw/the_postmistress_of_vekllei/
 ---
 

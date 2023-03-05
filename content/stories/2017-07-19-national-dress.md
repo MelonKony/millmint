@@ -18,7 +18,7 @@ url: /stories/national-dress/
 aliases:
 - /posts/2017-07-19-national-dress/
 
-image: https://images.millmint.net/images/nationaldress.jpg
+image: /images/nationaldress.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/6o1k7x/she_stands_in_the_harbour_in_national_dress_jets/
 ---
 

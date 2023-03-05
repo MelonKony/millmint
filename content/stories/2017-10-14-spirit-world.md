@@ -18,7 +18,7 @@ url: /stories/spirit-world/
 aliases:
 - /posts/2017-10-14-spirit-world/
 
-image: https://images.millmint.net/images/spiritworld.jpg
+image: /images/spiritworld.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/764ir8/entering_the_spirit_world/
 ---
 

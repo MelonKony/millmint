@@ -21,7 +21,7 @@ url: /stories/tzipora-concept/
 aliases:
 - /posts/2020-08-01-tzipora-concept/
     
-image: https://images.millmint.net/images/tziporacon.jpg
+image: /images/tziporacon.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/i1fgjd/meet_tzipora_concept_panel_for_a_vekllei_comic/
 ---
 

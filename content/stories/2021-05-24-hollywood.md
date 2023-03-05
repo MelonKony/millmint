@@ -21,7 +21,7 @@ url: /stories/hollywood/
 aliases:
 - /posts/2021-05-24-hollywood/
 
-image: https://images.millmint.net/images/hollywood.jpg
+image: /images/hollywood.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/nk17w6/gone_hollywood/
 ---
 

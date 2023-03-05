@@ -19,7 +19,7 @@ url: /stories/blood-names/
 aliases:
 - /posts/2018-06-14-blood-name/
 
-image: https://images.millmint.net/images/bloodname.jpg
+image: /images/bloodname.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/8r03tc/blood_names/
 ---
 

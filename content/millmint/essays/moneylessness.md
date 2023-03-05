@@ -11,7 +11,7 @@ tags:
 categories:
   - news
 
-image: https://images.millmint.net/images/coast.jpg
+image: /images/coast.jpg
 weight: 1
 autonumbering: true
 

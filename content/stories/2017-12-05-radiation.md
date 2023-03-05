@@ -17,7 +17,7 @@ url: /stories/radiation/
 aliases:
 - /posts/2017-12-05-radiation/
 
-image: https://images.millmint.net/images/radiation.jpg
+image: /images/radiation.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/7hohs9/radiation_poisoning_in_domestic_vekllei/
 ---
 

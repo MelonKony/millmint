@@ -18,7 +18,7 @@ url: /stories/flower-tundra/
 aliases:
 - /posts/2018-12-10-flower-tundra/
 
-image: https://images.millmint.net/images/flowertundra.jpg
+image: /images/flowertundra.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/a4viiv/the_flower_tundra/
 ---
 

@@ -19,7 +19,7 @@ url: /stories/metaphysic/
 aliases:
 - /posts/2020-10-11-metaphysic/
 
-image: https://images.millmint.net/images/atheism.jpg
+image: /images/atheism.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/j8pisi/mittens_and_metaphysic_product_atheism_and/
 ---
 

@@ -10,7 +10,7 @@ tags:
 categories:
   - society
 
-image: https://images.millmint.net/images/orange.jpg
+image: /images/orange.jpg
 
 type: blank
 comments: false

@@ -18,7 +18,7 @@ url: /stories/highlands/
 aliases:
 - /posts/2020-03-11-highlands/
 
-image: https://images.millmint.net/images/highlands.jpg
+image: /images/highlands.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/fgskau/the_great_ro_highlands/
 ---
 

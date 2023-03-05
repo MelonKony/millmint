@@ -17,7 +17,7 @@ url: /stories/cruiser/
 aliases:
 - /posts/2020-06-06-battlecruiser/
 
-image: https://images.millmint.net/images/cruiser.jpg
+image: /images/cruiser.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/gx7l0c/the_oaclass_battlecruiser/
 ---
 

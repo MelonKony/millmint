@@ -18,7 +18,7 @@ url: /stories/peaks/
 aliases:
 - /posts/2020-05-07-fiery-peaks/
 
-image: https://images.millmint.net/images/peaks.jpg
+image: /images/peaks.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/gel3e9/fiery_peaks/
 ---
 

@@ -18,7 +18,7 @@ url: /stories/koka-parks/
 aliases:
 - /posts/2018-12-04-koka-parks/
 
-image: https://images.millmint.net/images/kokaparks.jpg
+image: /images/kokaparks.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/a303t0/koka_parks_municipal_recreation/
 ---
 

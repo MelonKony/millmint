@@ -18,7 +18,7 @@ url: /stories/mossbound/
 aliases:
 - /posts/2021-06-02-mossbound/
 
-image: https://images.millmint.net/images/mossbound.jpg
+image: /images/mossbound.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/nqooqh/mossbound/
 ---
 

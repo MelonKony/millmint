@@ -18,7 +18,7 @@ url: /stories/immortality/
 aliases:
 - /posts/2020-01-31-immortal/
 
-image: https://images.millmint.net/images/immortal.jpg
+image: /images/immortal.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/ew9gb3/face_to_face_with_immortality/
 ---
 

@@ -24,7 +24,7 @@ url: /stories/new-generation/
 aliases:
 - /posts/2021-08-21-generation/
 
-image: https://images.millmint.net/images/generation.jpg
+image: /images/generation.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/p8xf6b/a_new_generation/
 ---
 

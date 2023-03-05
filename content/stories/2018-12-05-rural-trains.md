@@ -19,7 +19,7 @@ url: /stories/rural-trains/
 aliases:
 - /posts/2018-12-05-rural-trains/
 
-image: https://images.millmint.net/images/sketches/ruraltrains.jpg
+image: /images/sketches/ruraltrains.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/a3anhl/rural_trains/
 ---
 

@@ -18,7 +18,7 @@ url: /stories/chemical-feast/
 aliases:
 - /posts/2020-05-06-chemical-feast/
 
-image: https://images.millmint.net/images/feast.jpg
+image: /images/feast.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/ge1gmw/the_chemical_feast/
 ---
 

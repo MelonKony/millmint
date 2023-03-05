@@ -18,7 +18,7 @@ url: /stories/lakehouse/
 aliases:
 - /posts/2020-04-05-lakehouse
 
-image: https://images.millmint.net/images/lakehouse.jpg
+image: /images/lakehouse.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/g4b7mh/abnis_spectres_of_violence/
 ---
 

@@ -18,7 +18,7 @@ url: /stories/generations/
 aliases:
 - /posts/2018-02-26-generation/
 
-image: https://images.millmint.net/images/family.jpg
+image: /images/family.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/auz580/the_forgotten_generation/
 ---
 

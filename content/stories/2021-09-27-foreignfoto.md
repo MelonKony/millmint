@@ -18,7 +18,7 @@ url: /stories/foreignfoto/
 aliases:
 - /posts/2021-09-27-foreignfoto/
 
-image: https://images.millmint.net/images/foreignfoto.jpg
+image: /images/foreignfoto.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/pwoeuu/foreignfoto/
 ---
 

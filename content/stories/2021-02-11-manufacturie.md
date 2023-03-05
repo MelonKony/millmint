@@ -17,7 +17,7 @@ url: /stories/manufacturie/
 aliases:
 - /posts/2021-02-11-manufacturie/
 
-image: https://images.millmint.net/images/manufacturie.jpg
+image: /images/manufacturie.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/lhq4in/the_stamp_manufacturie/
 ---
 

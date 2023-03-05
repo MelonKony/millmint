@@ -10,7 +10,7 @@ tags:
 categories:
   - society
 
-image: https://images.millmint.net/images/mailtrain.jpg
+image: /images/mailtrain.jpg
 
 type: blank
 comments: false

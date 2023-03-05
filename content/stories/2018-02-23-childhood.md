@@ -18,7 +18,7 @@ url: /stories/gregori-children/
 aliases:
 - /posts/2018-02-23-childhood/
 
-image: https://images.millmint.net/images/gregorichildren.jpg
+image: /images/gregorichildren.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/7zm952/on_the_concept_of_childhood/
 ---
 

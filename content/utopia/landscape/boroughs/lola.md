@@ -11,7 +11,7 @@ tags:
 categories:
   - commonwealth
 
-image: https://images.millmint.net/images/lola.jpg
+image: /images/lola.jpg
 autonumbering: true
 
 aliases:
