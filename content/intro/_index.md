@@ -10,13 +10,13 @@ tags:
 categories:
   - intro
 
-type: blank
+type: intro
 comments: false
 autonumbering: false
 
 toc: false
 
-description: An intro to the world of Vekllei, a utopia created by Hobart Phillips.
+description: What is Vekllei? Vekllei is a creative worldbuilding project that explores a fictional retrofuture with illustrations and stories.
 author: Hobart Phillips
 
 layout: intro
@@ -48,7 +48,7 @@ This website is a comprehensive archive and open notebook for the stories of Vek
 {{< details title="Studio MillMint" open=true >}}
 * [**millmint.net**](/)
   * [**/utopia/**](/utopia/) is an online wiki of Vekllei its people
-  * [**/news/**](/news/) is for everything outside of it
+  * [**/millmint/**](/millmint/) is for everything outside of it
   * [**/stories/**](/posts/) is for illustrated snapshots of life in Vekllei
 {{</ details >}}
 

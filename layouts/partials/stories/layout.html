@@ -4,8 +4,7 @@
 <div class="postcard-layout content-margin">
   <ul class="post-grid">
     {{ range ($ctx.Paginator).Pages }}
-      {{ if not (in .Params.tags "sketch") }}
-        <li class="item card leading-relaxed list-item" style="border-radius: 5px;">
+        <li class="item card leading-relaxed list-item">
           <a href="{{ .RelPermalink }}">
             <div class="post-info">
               <div class="post-title">
@@ -30,7 +29,6 @@
             <div class="img-wrapper">{{ partial "components/image.html" . }}</div>
           </a>
         </li>
-      {{ end }}
     {{ end }}
     </ul>
     {{ partial "stories/pagination.html" $ctx }}

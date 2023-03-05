@@ -6,20 +6,6 @@
     </div>
 {{ end }}
 
-<div class="fullscreen-tabs">
-  <input type="radio" class="toggle" name="tabs-stories" id="stories" checked="checked"/>
-  <label for="stories">
-    <span class="navicon">📗</span> Stories
-  </label>
-  <div class="fullscreen-tabs-content">
-    {{ partial "stories/layout.html" (dict "pages" .RegularPages "ctx" .) }}
-  </div>
-  <input type="radio" class="toggle" name="tabs-stories" id="sketches"/>
-    <label for="sketches">
-      <span class="navicon">📒</span> Sketches
-    </label>
-    <div class="fullscreen-tabs-content">
-      {{ partial "sketches/layout.html" (dict "pages" .RegularPages "ctx" .) }}
-    </div>
-</div>
+{{ partial "stories/layout.html" (dict "pages" .RegularPages "ctx" .) }}
+
 {{ end }}

@@ -23,11 +23,12 @@ nav {
   padding: 0;
 
   a {
-    color: var(--dark-title-text);
+    color: var(--darker-text);
 
     &:hover {
       filter: none !important;
       text-decoration-line: none;
+      color: var(--font-color);
     }
   }
 

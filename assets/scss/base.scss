@@ -64,7 +64,7 @@ mark {
 }
 
 video {
-  border-radius: 5px;
+  @include radius-base;
   width: 100%;
 }
 
@@ -159,7 +159,7 @@ a {
 
   &:hover {
     text-decoration: underline;
-    color: var(--dark-title-text, var(--color-gray));
+    color: var(--darker-text, var(--color-gray));
   }
 }
 
