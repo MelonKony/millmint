@@ -3,8 +3,8 @@ title: Timeline
 fulltitle: Timeline of Atlantic History
 icon: ⏳
 emoji: Τ
-color: millmint
-image: /images/hispanic.jpg
+color: brown
+image:
 
 tags: 
   - states
@@ -60,7 +60,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>400BC</b> 
 			<span class="event">
-				Vekllei is using Vekllei logographs<br>
+				Vekllei is using <a href="/utopia/culture/language/#topet">Vekllei logographs</a><br>
 				<a href="/religion/">Upen</a> is being practiced
 			</span>
 		</li>
@@ -93,7 +93,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>900</b> 
 			<span class="event">
-				Golden age of sagas begins
+				Golden age of <a href="/sagas/">sagas</a> begins
 			</span>
 		</li>
 		<li>
@@ -165,8 +165,26 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>1933</b> 
 			<span class="event">
-				Sugarhouse Mountain Fortress begins construction outside Montre<br>
+				<a href="/stories/fortress/">Sugarhouse Mountain Fortress</a> begins construction outside Montre<br>
 				U.K. deploys frigates to the North Atlantic
+			</span>
+		</li>
+		<li>
+			<b>1939</b> 
+			<span class="event">
+				The Second World War begins after Germany invades Poland
+			</span>
+		</li>
+		<li>
+			<b>1945</b> 
+			<span class="event">
+				Nuclear weapons used by the US against Japan
+			</span>
+		</li>
+		<li>
+			<b>1948</b> 
+			<span class="event">
+				The Second World War ends after Japan surrenders
 			</span>
 		</li>
 		<li>
@@ -377,7 +395,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>2048</b> 
 			<span class="event">
-				2045 Sino Crisis ends in P.R.C. defeat<br>
+				2045 Sino Crisis ends in PRC defeat<br>
 				Copette Science Basin and Rocket Factory established in Vekllei<br>
 				U.S. announces cuts to space programme<br>
 				France establishes lunar colony in West Equator<br>
@@ -429,7 +447,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 			<span class="event">
 				The U.S. invades Colombia to depose communist government<br>
 				Tzipora moves to California to study at St Mary’s Catholic College<br>
-				Terror attack on Panama Canal halts shipping traffic for six weeks<br>
+				Missile attack on Panama Canal halts shipping traffic for six weeks<br>
 				The Second Yom Kippur War sends oil prices spiralling<br>
 				2057 Financial Crisis begins
 			</span>
@@ -440,32 +458,38 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 				Terror attack in Cairo prompts OAPEC to restrict crude supply<br> 
 				The Ghawar refinery is set alight in Saudi Arabia by Iranian spies<br>
 				The Ford Motor Company declares bankruptcy<br>
-				The Dallas Secession begins<br>
+				<b>The Dallas Secession begins</b><br>
 				Open conflict with the United States begins<br>
 				Baron moves to Dallas America as an AB/NI operative<br>
 			</span>
 		</li>
 		<li>
-			<b>2061</b> 
+			<b>2059</b> 
 			<span class="event">
 				Tzipora loses contact with her mother<br>
 				Tzipora leaves St Mary’s and moves East<br>
-				Dallas government recalls militia units after ethnic cleansing in M.I.<br>
-				E.E.C. supports U.S. government
+				Lend-lease of nuclear silos g’teed under California Amendment<br>
+				June ceasefire between U.S. and Dallas<br>
+			</span>
+		</li>
+		<li>
+			<b>2061</b> 
+			<span class="event">
+				Tzipora meets baron at Hotel Cairo<br>
+				Dallas government issues stand-down order after central command over secessionist militias wanes<br>
+				E.E.C. pledges material support to U.S. government
 			</span>
 		</li>
 		<li>
 			<b>2063</b> 
 			<span class="event">
-				Tzipora meets baron<br>
-				Operation Arms of Oslola occurs<br>
+				Operation <i>Sword of Oslola</i> occurs<br>
 				Tzipora arrives in Vekllei
 			</span>
 		</li>
 		<li>
 			<b>2064</b> 
 			<span class="event">
-				Joyloaf Bakery is founded in Lola<br>
 				The Boy Scouts of America excludes Chinese-borns<br>
 				Tzipora begins study at Metro International School<br>
 				Tzipora visits her birth geyser<br>
@@ -474,13 +498,12 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>2065</b> 
 			<span class="event">
-				Vekllei celebrates 50years of independence<br>
-				The Angel of Vekllei vacuum dirigible is launched<br>
-				Tzipora visits Moidonnet with her father<br>
+				Vekllei celebrates 50 years of independence<br>
+				The <i>Oslola</i> vacuum dirigible is launched<br>
+				Tzipora visits the Moon for the first time<br>
 				Gary Works Integrated Steel Mill is destroyed in fire<br>
-				U.S. Steel collapses<br>
-				Venezuelan oil nationalised by government organ<br>
-				Tzipora begins study at Lola 6th School<br>
+				Venezuelan oil nationalised<br>
+				Tzipora begins study at <a href="/moshel/">Moshel St School</a><br>
 				Tzipora meets Cobian<br>
 				Jules Wynn is killed in Moscow 
 			</span>
@@ -488,6 +511,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>2066</b> 
 			<span class="event">
+				U.S. Steel collapses<br>
 				Vekllei is awarded challenged South Lunar Pole sovereignty<br>
 				The Dallas Accords are signed
 			</span>
@@ -495,24 +519,13 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>2067</b> 
 			<span class="event">
-				Lend-lease of nuclear silos g’teed under California Amendment<br>
 				Brazil invades Bolivia, spurring the Gum Wars 
 			</span>
 		</li>
 		<li>
 			<b>2068</b> 
 			<span class="event">
-				The MacMillian Incident kills top Dallas commander<br>
-				The first Yellow Purge begins in the Dallas States<br>
-				Chrysler Motors declares bankruptcy<br>
-				America First Act passed in U.S. Congress<br>
-				U.S. Auto assets administered by government Black Bonds
-			</span>
-		</li>
-		<li>
-			<b>2068</b> 
-			<span class="event">
-				The MacMillian Incident kills top Dallas commander<br>
+				The <a href="/stories/coup/">MacMillian Incident</a> kills top Dallas commander<br>
 				The first Yellow Purge begins in the Dallas States<br>
 				Chrysler Motors declares bankruptcy<br>
 				America First Act passed in U.S. Congress<br>

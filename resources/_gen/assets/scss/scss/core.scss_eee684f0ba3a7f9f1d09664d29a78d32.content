@@ -378,7 +378,7 @@ html[data-theme="dark"] {
   --color-text-footer: #a3a3a3;
   --color-border: #737373;
   --color-border-collapsible-menu: #636363;
-  --body-background: #191919;
+  --body-background: #131212;
   --color-background-overlay: #404040;
   --color-background-inline-code: #525252;
   --color-background-card: #404040;
