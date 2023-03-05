@@ -46,7 +46,7 @@ function colorsMain() {
     !document.querySelector(".list-item")
   ) {
     // Get story's color from image
-    const img = document.querySelector(".content img");
+    const img = document.querySelector(".page img");
   
     // Make sure image is finished loading
     if (img.complete) {
