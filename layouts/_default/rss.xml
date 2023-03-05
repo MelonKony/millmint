@@ -11,31 +11,42 @@
 {{- $pages = $pages | first $limit -}}
 {{- end -}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
-	<channel>
-		<title>MillMint Stories</title>
-		<link>{{ .Permalink }}</link>
-		<language>en-EN</language>
-		<description>Stories from a utopian retro-future, published by Studio MillMint</description>
-		<copyright>{{ .Site.Copyright }}</copyright>
-		<lastBuildDate>{{ .Site.LastChange.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
-		<atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
-
-		{{ range .Data.Pages }}
-		{{ if not (in .URL "_index")}}
-			<item>
-			<title>{{ .Title }}</title>
-			<link>{{ .Permalink }}</link>
-			<pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-			<guid>{{ .Permalink }}</guid>
-			<dc:creator>{{ .Params.author }}</dc:creator>
-			<media:content type="image/jpeg" medium="image" width="900" height="600"
-				  url="https://www.millmint.net/{{ .Params.img | safeHTML }}" />
-			<description>{{chomp "<![CDATA[\n"}}{{ .Description | safeHTML }}{{chomp "]]>\n"}}</description>
-			<content:encoded>{{chomp "<![CDATA[\n"}}{{ .Content | safeHTML }}{{chomp "]]>\n"}}</content:encoded>
-			</item>
-		{{ end }}
-		{{ end }}
-	</channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+  <channel>
+	<title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}}{{ end }}{{ end }}</title>
+	<link>{{ .Permalink }}</link>
+	<description>Recent content {{ if ne  .Title  .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}</description>
+	<generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}
+	<language>{{.}}</language>{{end}}{{ with .Site.Author.email }}
+	<managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Author.email }}
+	<webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}{{ with .Site.Copyright }}
+	<copyright>{{.}}</copyright>{{end}}{{ if not .Date.IsZero }}
+	<lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+	<image>
+		<url>{{ $.Site.BaseURL }}img/profile.png</url>
+		<title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}}{{ end }}{{ end }}</title>
+		<link>{{ $.Site.BaseURL }}</link>
+	</image>
+	<webfeeds:cover image="{{ $.Site.BaseURL }}img/og-image.png" />
+	<webfeeds:icon>{{ $.Site.BaseURL }}/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/>
+	{{- with .OutputFormats.Get "RSS" -}}
+	{{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+	{{- end -}}
+	{{ range $pages }}
+	<item>
+	  <title>{{ .Title }}</title>
+	  <link>{{ .Permalink }}</link>
+	  <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+	  {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
+	  <guid>{{ .Permalink }}</guid>
+	  <description>
+	  <![CDATA[<img src="{{ .Site.BaseURL }}{{ .Param "thumbnail" }}"/>
+	  {{ .Content | html }}
+	  </description>
+	</item>
+	{{ end }}
+  </channel>
 </rss>
