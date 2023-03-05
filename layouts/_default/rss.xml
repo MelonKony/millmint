@@ -31,7 +31,7 @@
 			<guid>{{ .Permalink }}</guid>
 			<dc:creator>{{ .Params.author }}</dc:creator>
 			<media:content type="image/jpeg" medium="image" width="900" height="600"
-				  url="https://www.yoursite.com/img/{{ .Params.img | safeHTML }}" />
+				  url="https://www.millmint.net/{{ .Params.img | safeHTML }}" />
 			<description>{{chomp "<![CDATA[\n"}}{{ .Description | safeHTML }}{{chomp "]]>\n"}}</description>
 			<content:encoded>{{chomp "<![CDATA[\n"}}{{ .Content | safeHTML }}{{chomp "]]>\n"}}</content:encoded>
 			</item>
