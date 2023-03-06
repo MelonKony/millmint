@@ -20,16 +20,14 @@
 
   <br>
 
-  <!-- comments -->
+  <!-- comments
 
-  {{ if default true .Params.comments }}
-  <!-- Comments by Cusdis 
+  <h4>Comments:</h4>
   <div id="cusdis_thread" data-host="https://cusdis.com"
     data-app-id="288e75bf-568b-448b-bd4c-dc49540dd8db"
     data-page-id="{{ .File.UniqueID }}" data-page-url="{{ .Permalink }}"
-    data-page-title="{{ .Title }}">
-  </div>
-  <script async defer src="/js/cusdis.es.js"></script>
+    data-page-title="{{ .Title }}"></div>
+  <script async defer src="/js/comments.js"></script> -->
   
   <!--<div id="gitalk-container">
 	  <script>
@@ -47,7 +45,6 @@
   	  </script>
 	    <link rel="stylesheet" href="/css/comments.css">
   </div>-->
-  {{ end }}
 
   {{ with (.Scratch.Get "params").footer }}
   <div class="copyright">
