@@ -129,10 +129,10 @@
     parent = "newsdesk"
     weight = 2
   [[navbar]]
-    identifier = "blog"
-    name = "Blog"
-    pre = "💬"
-    url = "/millmint/blog"
+    identifier = "commissions"
+    name = "Commissions"
+    pre = "✏️"
+    url = "/millmint/commissions"
     parent = "newsdesk"
     weight = 3
   [[navbar]]
