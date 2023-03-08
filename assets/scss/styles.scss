@@ -80,6 +80,10 @@ h1, h2, h3, h4, h5, h6 {
 
 	display: flex;
 	flex-wrap: wrap;
+	
+	h1, h2, h3, h4, h5, h6 {
+		margin-top: .5rem;
+	}
 
 	label {
 		@include padding-2;
@@ -185,6 +189,23 @@ button.bulletbutton {
 	&:hover {
 		filter: brightness(100%);
 		text-decoration: underline;
+	}
+}
+
+span.tag {
+	@include text-sm;
+	@include font-bold;
+	@include radius-base;
+	padding: 0.25rem;
+	margin-top: 0rem;
+	margin-left: 6px;
+	list-style: none;
+	width: fit-content;
+	background-color: var(--color-gray);
+	color: white;
+	border: hidden;
+	.gray {
+		background-color: var(--gray-med);
 	}
 }
 

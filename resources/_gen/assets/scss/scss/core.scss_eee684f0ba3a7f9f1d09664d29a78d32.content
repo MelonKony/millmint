@@ -463,6 +463,8 @@ h1 a.anchor, h2 a.anchor, h3 a.anchor, h4 a.anchor, h5 a.anchor, h6 a.anchor {
   overflow: hidden;
   display: flex;
   flex-wrap: wrap; }
+  .tabs h1, .tabs h2, .tabs h3, .tabs h4, .tabs h5, .tabs h6 {
+    margin-top: .5rem; }
   .tabs label {
     padding: .5rem;
     display: inline-block;
@@ -543,6 +545,24 @@ button.bulletbutton {
   button.bulletbutton:hover {
     filter: brightness(100%);
     text-decoration: underline; }
+
+span.tag {
+  font-size: 0.875rem;
+  /* 14px */
+  line-height: 1.25rem;
+  /* 20px */
+  font-weight: 700;
+  border-radius: .25rem;
+  padding: 0.25rem;
+  margin-top: 0rem;
+  margin-left: 6px;
+  list-style: none;
+  width: fit-content;
+  background-color: var(--color-gray);
+  color: white;
+  border: hidden; }
+  span.tag .gray {
+    background-color: var(--gray-med); }
 
 /* sidenotes */
 .sidenote {
@@ -1989,7 +2009,7 @@ img.page {
       align-items: center;
       justify-content: space-between;
       height: 35px;
-      margin: 1.5rem .5rem 1.5rem .5rem; }
+      margin: 1.5rem .5rem 0rem .5rem; }
     .desktop-toc-wrapper .desktop-toc details > summary::-webkit-details-marker {
       display: none; }
     .desktop-toc-wrapper .desktop-toc details > summary::after {
