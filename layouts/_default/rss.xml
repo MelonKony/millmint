@@ -41,7 +41,10 @@
 	  <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 08:00:00 EST" | safeHTML }}</pubDate>
 	  {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
 	  <guid>{{ .Permalink }}</guid>
-	  <media src="{{ $.Site.BaseURL }}{{ .Params.image }}"/> 
+	  <image>
+	  	<url>{{ $.Site.BaseURL }}{{ .Params.image }}</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="{{ $.Site.BaseURL }}{{ .Params.image }}"/> 
 		  {{ .Content | html }}
