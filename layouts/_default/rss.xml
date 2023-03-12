@@ -43,7 +43,7 @@
 	  <guid>{{ .Permalink }}</guid>
 	  <media src="{{ $.Site.BaseURL }}{{ .Params.image }}"/> 
 	  <description>
-		  <img src="{{ $.Site.BaseURL }}{{ .Params.image }}"/> 
+		  <image src="{{ $.Site.BaseURL }}{{ .Params.image }}"/> 
 		  {{ .Content | html }}
 	  </description>
 	</item>
