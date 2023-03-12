@@ -46,7 +46,7 @@
 	  	<title>Illustration</title>
 	  </image>
 	  <description>
-		  <image src="{{ $.Site.BaseURL }}{{ .Params.image }}"/> 
+		  <img src="{{ $.Site.BaseURL }}{{ .Params.image }}"/> 
 		  {{ .Content | html }}
 	  </description>
 	</item>
