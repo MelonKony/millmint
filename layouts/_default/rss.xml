@@ -44,7 +44,7 @@
 	  {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
 	  <guid>{{ .Permalink }}</guid>
 	  <description>
-	  {{ .Summary }}
+	  {{ `<![CDATA[` | safeHTML }}{{ .Summary }}{{ `]]>` | safeHTML }}
 	  </description>
 	 <content:encoded>
 	 	{{ `<![CDATA[` | safeHTML }}<img src="{{ $.Site.BaseURL }}{{ .Params.image }}"/> {{ .Content | safeHTML }}{{ `]]>` | safeHTML }}
