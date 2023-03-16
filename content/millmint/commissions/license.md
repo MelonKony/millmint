@@ -30,7 +30,7 @@ author: Hobart Phillips
 {{</hint>}}
 
 {{<hint panel>}}
-When you commission work from MillMint, it is licensed for limited commercial use use. 
+When you commission work from MillMint, it is licensed for limited commercial use. 
 
 **You may adapt the work for personal use or for gifts as many times as you like with no permission required.**
 
