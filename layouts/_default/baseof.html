@@ -21,7 +21,7 @@
     <main>
         <article class="notebook">
             {{- partial "header.html" . -}}
-            {{- partial "navbar/nav.html" . -}}
+            {{- partial "nav.html" . -}}
             <section class="page">
                 {{ if .Params.changelogs }}
                 {{ $enable_collapsible_changelogs := (.Scratch.Get "params").enable_collapsible_changelogs }}

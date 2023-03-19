@@ -3,7 +3,6 @@ title: Intro – What is Vekllei?
 fulltitle: Welcome to MillMint
 icon: 📔
 emoji: ΄
-color: millmint
 
 tags: 
   - utopia
@@ -15,6 +14,7 @@ comments: false
 autonumbering: false
 
 toc: false
+rgb: 65, 101, 107
 
 description: What is Vekllei? Vekllei is a creative worldbuilding project that explores a fictional retrofuture with illustrations and stories.
 author: Hobart Phillips
@@ -92,8 +92,5 @@ Here are some quick facts about Vekllei and the state of the world in the mid-21
   .row {
     display: none;
   }
-}
-a, body article a {
-  color: var(--color-millmint);
 }
 </style>

@@ -21,8 +21,11 @@ $gray-1000: #000;
 
 $gray-light: #f0f0f6;
 $gray-med: #e5e5e5;
+$gray-heavy: #a3a3a3;
 $gray-light-dark: #262629;
 $gray-med-dark: #302f2f;
+$gray-heavy-dark: #a1a1a5;
+
 
 $background: #ffffff;
 $dark-background: #1D1D1F;;
@@ -84,6 +87,7 @@ html[data-theme="light"] {
   
   --gray-light: #{$gray-light};
   --gray-med: #{$gray-med};
+  --gray-heavy: #{$gray-heavy};
   
   --color-blue: #{$blue};
   
@@ -110,6 +114,7 @@ html[data-theme="dark"] {
   
   --gray-light: #{$gray-light-dark};
   --gray-med:#{$gray-med-dark};
+  --gray-heavy: #{$gray-heavy-dark};
   
   --color-blue: rgb(32, 79, 120);
   

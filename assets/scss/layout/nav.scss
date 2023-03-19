@@ -23,7 +23,7 @@ nav {
   padding: 0;
 
   a {
-    color: var(--darker-text);
+    color: var(--gray-heavy);
 
     &:hover {
       filter: none !important;
@@ -37,6 +37,7 @@ nav {
   }
 
   .navbar-dropdown {
+    color: var(--font-color);
 
     >ul.menu-dropdown {
       left: 0;
@@ -63,6 +64,20 @@ nav {
 
   .navbar-item.active.navicon {
     color: var(--font-color);
+  }
+  .navbar-item.insection {
+    border-bottom-color: var(--color-navbar-item-in-section);
+  
+    > a {
+    color: var(--color-navbar-item-in-section);
+    }
+  }
+  .navbar-item.active {
+  border-bottom-color: var(--font-color);
+  
+    > a {
+    color: var(--font-color);
+    }
   }
 }
 
@@ -108,6 +123,7 @@ nav {
 .navbar-dropdown li {
   padding: .5rem 0 .5rem 0;
   background-color: var(--body-background);
+  color: var(--font-color);
 
   :first-child {
     margin-bottom: -1px;
@@ -200,6 +216,9 @@ nav {
   box-shadow: 0 20px 25px -5px rgba(0, 0, 0, .2), 0 10px 10px -5px rgba(0, 0, 0, .2);
 }
 
+.pure-menu-item {
+}
+
 .submenu .menu-dropdown {
   left: 100%;
   top: auto;
@@ -211,6 +230,7 @@ nav {
 .menu-active>.menu-dropdown {
   display: block;
   position: absolute;
+  color: var(--font-color);
 }
 
 /* Vertical Menus - show the dropdown arrow */
@@ -220,7 +240,7 @@ nav {
   font-family: sans-serif;
   font-weight: bold;
   align-content: right;
-  content: "›";
+  content: "▸";
 }
 
 /* Horizontal Menus - show the dropdown arrow */
@@ -229,7 +249,7 @@ nav {
   font-family: sans-serif;
   padding-left: 0.35rem;
   font-weight: bold;
-  content: "⌵";
+  content: "▾";
 }
 
 /* scrollable menus */
@@ -272,7 +292,7 @@ nav {
 }
 
 .menu-link {
-  color: var(--color-text);
+  color: var(--font-color);
   @include text-sm;
   padding: .5rem;
 }
