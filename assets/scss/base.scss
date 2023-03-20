@@ -139,10 +139,6 @@ svg {
   fill: var(--font-color);
 }
 
-#navbar .flex svg path:not([fill]) {
-  color: var(--font-color);
-}
-
 body header .navbar-item-dropdown.insection,
 body header nav .navbar-item.insection {
   border-color: var(--color-gray);

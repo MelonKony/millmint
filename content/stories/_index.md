@@ -8,7 +8,6 @@ type: stories
 layout: stories
 
 tags: ["index"]
-color: green
 ---
 
 <style>
