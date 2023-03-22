@@ -1,0 +1,24 @@
+{{- partial "params.html" . -}}
+
+<!DOCTYPE html>
+<html lang='{{ .Site.LanguageCode }}'>
+{{- partial "head.html" . -}}
+<link rel="stylesheet" href="/css/garden.css">
+
+<body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="thunder">
+  <main>
+    <!-- The Garden -->
+    <!-- .:. Based on codepen.io/Nvagelis/pen/yaQGAL .:. -->
+    <canvas id="canvas1"></canvas>
+    <canvas id="canvas2"></canvas>
+    <canvas id="canvas3"></canvas>
+    
+    <!-- js -->
+    <script src="/js/garden.js"></script>
+    
+  {{- partial "resources/js.html" . -}}
+  {{- partial "script.html" . -}}
+  </main>
+</body>
+
+</html>

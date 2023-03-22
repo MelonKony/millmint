@@ -844,6 +844,20 @@ h6 {
   main {
     width: 30%; } }
 
+table {
+  border-collapse: collapse;
+  width: 100%; }
+  table tr {
+    border: none; }
+
+td, th {
+  border: 1px solid var(--gray-med);
+  text-align: left;
+  padding: 8px; }
+
+tr:nth-child(even) {
+  background-color: var(--gray-light); }
+
 article {
   line-height: 1.7; }
   article > *:last-child {
@@ -957,22 +971,6 @@ article {
     align-items: center; }
     article .copy-code-button:hover {
       background-color: var(--color-background-hover); }
-  article table.mc-table {
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem;
-    table-layout: auto;
-    border-collapse: collapse;
-    display: block;
-    overflow-x: auto; }
-    article table.mc-table td, article table.mc-table th {
-      padding-left: .75rem;
-      padding-right: .75rem;
-      padding-top: .5rem;
-      padding-bottom: .5rem;
-      border: 1px solid var(--font-color); }
-  article details .mc-table {
-    padding: .5rem;
-    margin: auto; }
   article figure {
     margin-top: 1rem;
     margin-bottom: 1rem;

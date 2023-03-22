@@ -264,3 +264,23 @@ h6 {
     width: $xxl_main_width;
   }
 }
+
+// Table
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  tr {
+    border: none;
+  }
+}
+
+td, th {
+  border: 1px solid var(--gray-med);
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: var(--gray-light);
+}

@@ -149,25 +149,6 @@ article {
     }
   }
 
-  table.mc-table {
-    @include my-6;
-    table-layout: auto;
-    border-collapse: collapse;
-    display: block;
-    overflow-x: auto;
-
-    td, th {
-      @include px-3;
-      @include py-2;
-      border: 1px solid var(--font-color);
-    }
-  }
-  
-  details .mc-table {
-    padding: .5rem;
-    margin: auto;
-  }
-
   figure {
     @include my-4;
     text-align: center;
