@@ -22,12 +22,13 @@
     box-sizing: border-box;
     background: var(--gray-light);
     padding: 0;
-    transition: ease 0.25s;
+    transition: ease 0.15s;
     position: relative;
-    border: 6px solid var(--gray-light);
+    //border: 6px solid var(--gray-light);
   }
   
   .post-info {
+    @include padding-2;
     /* position: absolute;
     top: 0;
     left: 0;

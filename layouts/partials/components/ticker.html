@@ -1,0 +1,7 @@
+<!-- ticker goes at the top of article-header.html -->
+
+{{ range ( where .Site.RegularPages "Type" "stories" | first 1 ) }}
+<blockquote class="hint ticker" onclick="parentNode.remove()">
+  <p>New post: <a href="{{ .Permalink }}">{{ .Title }}</a></p>
+</blockquote>
+{{end}}

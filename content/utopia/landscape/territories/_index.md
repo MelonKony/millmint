@@ -10,7 +10,7 @@ tags:
 categories:
   - commonwealth
   
-draft: true
+draft: false
   
 image: /images/territories.jpg
 

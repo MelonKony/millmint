@@ -115,5 +115,5 @@ Commissioned work is subject to the <span class="smallicon">📄</span> [MillMin
 {{</details>}}
 
 {{<hint>}}
-I can be contact via [email](mailto:studio@millmint.net), [Twitter](https://twitter.com/MelonKony), or Discord (MelonKony#2063).
+I can be contacted via [email](mailto:studio@millmint.net), [Twitter](https://twitter.com/MelonKony), or Discord (MelonKony#2063).
 {{</hint>}}

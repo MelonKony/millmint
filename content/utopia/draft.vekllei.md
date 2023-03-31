@@ -1,10 +1,10 @@
 ---
 title: Vekllei
-fulltitle: Vekllei
+fulltitle: Vekllei Islands
 icon: 🎋
 emoji: ←
 color: pink
-image: /images/lightbulb.jpg
+image: /svg/vekllei.svg
 
 tags: 
   - states
