@@ -8,7 +8,8 @@
     "href": "{{ $page.RelPermalink }}",
     "title": {{ (partial "title" $page) | jsonify }},
     "section": {{ (partial "title" $page.Parent) | jsonify }},
-    "content": {{ $page.Plain | jsonify }}
+    "content": {{ $page.Plain | jsonify }},
+    "date": {{ $page.Date | jsonify }}
 }
 {{- end -}}
 ]
