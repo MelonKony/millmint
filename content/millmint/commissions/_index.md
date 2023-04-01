@@ -50,7 +50,7 @@ You know what I draw -- it's probably how you found me. It should be no surprise
 {{<tab "Sketches">}}
 ### Sketches & Concepts: <span class="tag price" style="float: right;">$20-$50</span> <span class="tag" style="float: right; opacity: 60%;">1-2 days</span>
 These are artworks that are good for developing an idea. They're rough around the edges, usually uncoloured, and full of energy. Prices vary on their scope and colour.
-![img](/images/sketches/hair.jpg)
+![img](/images/sketches/short.jpg)
 ![img](/images/sketches/neko.jpg)
 {{</tab>}}
 {{<tab "Designs">}}

@@ -1,6 +1,6 @@
 <style>
   .close-btn {
-    color: var(--hightlight);
+    color: var(--highlight);
     float: right;
     cursor: pointer;
     font-size: 14px;
@@ -17,9 +17,13 @@
     opacity: .5;
   }
 
-  .new-tag {
+  span.new-tag {
     margin-right: 5px; 
     line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
   }
 </style>
 
@@ -27,7 +31,7 @@
 <blockquote id="notice" class="hint">
   {{ range ( where .Site.RegularPages "Type" "stories" | first 1 ) }}
   <span class="tag new-tag">NEW</span> <a
-    style="white-space: nowrap; overflow:hidden;" href="{{ .Permalink }}"><span class="navicon">📗</span>{{ .Title
+    style="white-space: nowrap; overflow:hidden;" href="{{ .Permalink }}"><span class="navicon">📗</span>Story: {{ .Title
     }}</a>
   <span id="close-btn" class="navicon close-btn">❌</span>
 </blockquote>
@@ -54,10 +58,10 @@
     if(!noticesVisited.includes(currentNoticeHref)) {
       // If the user hasn't visited /stories/
       const newTag = document.createElement("span");
-      newTag.classList.add("tag", "new-tag");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
       newTag.textContent = "NEW";
 
-      storiesLink.insertBefore(newTag, storiesLink.children[1])
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
     }
 
     if(noticesSeen.includes(currentNoticeHref)) {
