@@ -556,8 +556,6 @@ span.tag {
   font-weight: 700;
   border-radius: .25rem;
   padding: 0.25rem;
-  margin-top: 0rem;
-  margin-left: 6px;
   list-style: none;
   width: fit-content;
   background-color: var(--color-gray);
@@ -565,6 +563,9 @@ span.tag {
   border: hidden; }
   span.tag .gray {
     background-color: var(--gray-med); }
+  span.tag .price {
+    margin-top: 0;
+    margin-left: 6px; }
 
 /* sidenotes */
 .sidenote {
@@ -1944,7 +1945,6 @@ img.page {
     color: #1d1d1f; }
 
 .tag {
-  margin: 1rem 0;
   padding: 0;
   text-transform: capitalize; }
   .tag > a {

@@ -197,8 +197,6 @@ span.tag {
 	@include font-bold;
 	@include radius-base;
 	padding: 0.25rem;
-	margin-top: 0rem;
-	margin-left: 6px;
 	list-style: none;
 	width: fit-content;
 	background-color: var(--color-gray);
@@ -206,6 +204,10 @@ span.tag {
 	border: hidden;
 	.gray {
 		background-color: var(--gray-med);
+	}
+	.price {
+		margin-top: 0;
+		margin-left: 6px;
 	}
 }
 

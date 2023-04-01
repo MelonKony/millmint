@@ -48,13 +48,13 @@ You know what I draw -- it's probably how you found me. It should be no surprise
 
 {{<tabs title="Pricing">}}
 {{<tab "Sketches">}}
-### Sketches & Concepts: <span class="tag" style="float: right;">$20-$50</span> <span class="tag" style="float: right; opacity: 60%;">1-2 days</span>
+### Sketches & Concepts: <span class="tag price" style="float: right;">$20-$50</span> <span class="tag" style="float: right; opacity: 60%;">1-2 days</span>
 These are artworks that are good for developing an idea. They're rough around the edges, usually uncoloured, and full of energy. Prices vary on their scope and colour.
 ![img](/images/sketches/hair.jpg)
 ![img](/images/sketches/neko.jpg)
 {{</tab>}}
 {{<tab "Designs">}}
-### Characters & Design: <span class="tag" style="float: right;">$75-$200</span> <span class="tag" style="float: right; opacity: 60%;">2-5 days</span>
+### Characters & Design: <span class="tag price" style="float: right;">$75-$200</span> <span class="tag" style="float: right; opacity: 60%;">2-5 days</span>
 These are finished artworks that realise your people, machines and objects. They're great for showing off a character, helping you design a vehicle or visualise a machine. Prices vary on the complexity of depicted items and artwork detail.
 
 ![img](/images/rifles.jpg)
@@ -62,7 +62,7 @@ These are finished artworks that realise your people, machines and objects. They
 ![img](/images/statejet.jpg)
 {{</tab>}}
 {{<tab "Paintings">}}
-### Paintings & Landscapes: <span class="tag" style="float: right;">$200-$500</span> <span class="tag" style="float: right; opacity: 60%;">1-2 weeks</span>
+### Paintings & Landscapes: <span class="tag price" style="float: right;">$200-$500</span> <span class="tag" style="float: right; opacity: 60%;">1-2 weeks</span>
 These are complete artworks showcasing a scene or place. They're detailed, painterly, and finished to a high standard. Prices vary depending on the detail of the scene and the number and complexity of its elements.
 
 ![img](/images/lightbulb.jpg)

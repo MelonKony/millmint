@@ -6,10 +6,13 @@
       float: right;
       cursor: pointer;
       font-size: 14px;
+      margin-left: auto;
     }
     
     #notice {
       margin-top: 1rem;
+      display: flex;
+      align-items: center;
     }
 
     .close-btn:hover {
@@ -20,7 +23,7 @@
 
   <blockquote id="notice" class="hint">
     {{ range ( where .Site.RegularPages "Type" "stories" | first 1 ) }}
-      <span class="tag">NEW</span> Story: <a href="{{ .Permalink }}"><span class="navicon">📗</span>{{ .Title }}</a>
+      <span class="tag" style="margin-right: 5px;">NEW</span> <a style="white-space: nowrap; overflow:hidden;" href="{{ .Permalink }}"><span class="navicon">📗</span>{{ .Title }}</a>
       <span id="close-btn" class="navicon close-btn">❌</span>
   </blockquote>
     {{end}}
