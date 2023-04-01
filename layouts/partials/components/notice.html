@@ -1,0 +1,55 @@
+
+  <style>
+    
+    .close-btn {
+      color: var(--hightlight);
+      float: right;
+      cursor: pointer;
+      font-size: 14px;
+    }
+    
+    #notice {
+      margin-top: 1rem;
+    }
+
+    .close-btn:hover {
+      opacity: .5;
+    }
+  </style>
+
+
+  <blockquote id="notice" class="hint">
+    {{ range ( where .Site.RegularPages "Type" "stories" | first 1 ) }}
+      <span class="tag">NEW</span> Story: <a href="{{ .Permalink }}"><span class="navicon">📗</span>{{ .Title }}</a>
+      <span id="close-btn" class="navicon close-btn">❌</span>
+  </blockquote>
+    {{end}}
+
+  <script>
+    // Check if the notice should be displayed
+    if (localStorage.getItem("notice") === "closed") {
+      document.getElementById("notice").style.display = "none";
+    }
+
+    // Add event listener to the close button
+    document.getElementById("close-btn").addEventListener("click", function() {
+      // Hide the notice element
+      document.getElementById("notice").style.display = "none";
+      // Set the notice to be closed in localStorage
+      localStorage.setItem("notice", "closed");
+    });
+
+    // Check if 24 hours have passed since the notice was closed
+    let lastClosed = localStorage.getItem("lastClosed");
+    if (lastClosed) {
+      let now = new Date().getTime();
+      let diff = now - lastClosed;
+      let hours = diff / (1000 * 60 * 60);
+      if (hours >= 24) {
+        // Reset the notice to be displayed
+        localStorage.removeItem("notice");
+        localStorage.removeItem("lastClosed");
+      }
+    }
+    
+  </script>

@@ -1,0 +1,68 @@
+<!-- ticker goes at the top of article-header.html -->
+ <!-- <div id="closeable-div">
+    {{ range ( where .Site.RegularPages "Type" "stories" | first 1 ) }}
+    <blockquote class="hint ticker" onclick="this.remove()">
+      <p><span class="tag">NEW</span><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+    </blockquote>
+    {{end}}
+    <button id="close-button">Close</button>
+  </div>-->
+
+<!DOCTYPE html>
+  <html>
+  <head>
+    <title>Closeable Div Example</title>
+  </head>
+  <body>
+    <div id="closeable-div">
+      <p>This is a closeable div. Click the close button to hide it.</p>
+      <button id="close-button">Close</button>
+    </div>
+  
+    <script>
+      // Get the close button and closeable div
+      const closeButton = document.getElementById('close-button');
+      const closeableDiv = document.getElementById('closeable-div');
+  
+      // Check if the div is already hidden in local storage
+      const isHidden = localStorage.getItem('closeableDivHidden');
+      if (isHidden) {
+        closeableDiv.style.display = 'none';
+      }
+  
+      // Check for new blog posts at the "/stories/" URL on refresh
+      fetch('/stories/')
+        .then(response => response.text())
+        .then(html => {
+          // Create a temporary element to hold the response HTML
+          const tempElement = document.createElement('div');
+          tempElement.innerHTML = html;
+  
+          // Check if the temporary element contains a new blog post
+          if (tempElement.querySelector('.item')) {
+            // Remove the "closeableDivHidden" key from local storage
+            localStorage.removeItem('closeableDivHidden');
+            // Show the closeable div
+            closeableDiv.style.display = 'block';
+          }
+        })
+        .catch(error => console.log(error));
+  
+      // Add a click event listener to the close button
+      closeButton.addEventListener('click', function() {
+        // Hide the closeable div
+        closeableDiv.style.display = 'none';
+        // Save the hidden state to local storage
+        localStorage.setItem('closeableDivHidden', 'true');
+      });
+  
+      // Listen for the page unload event
+      window.addEventListener('beforeunload', function() {
+        // Remove the closeableDivHidden key from local storage
+        localStorage.removeItem('closeableDivHidden');
+      });
+    </script>
+  </body>
+  </html>
+
+
