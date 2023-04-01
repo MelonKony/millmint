@@ -37,15 +37,7 @@
   {{ $searchDataFile := printf "%s.search-data.json" .Language.Lang }}
   {{ $searchData := resources.Get "search-data.json" | resources.ExecuteAsTemplate $searchDataFile . | resources.Minify | resources.Fingerprint }}
 
-  async function checkNewStories() {
-    {{/*  const searchDataURL = '{{ $searchData.RelPermalink }}';
-    const pages = await fetch(searchDataURL).then(d => d.json());
-    const stories = pages.filter(page => page.section === "Stories")
-      .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
-
-    const lastStory = stories[stories.length - 1];
-    console.log(lastStory)  */}}
-
+  function checkNewStories() {
     const notice = document.querySelector("#notice");
     const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
 
