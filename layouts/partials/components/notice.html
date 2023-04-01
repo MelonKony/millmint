@@ -1,58 +1,77 @@
+<style>
+  .close-btn {
+    color: var(--hightlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
 
-  <style>
+  #notice {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  .new-tag {
+    margin-right: 5px; 
+    line-height: .8rem;
+  }
+</style>
+
+
+<blockquote id="notice" class="hint">
+  {{ range ( where .Site.RegularPages "Type" "stories" | first 1 ) }}
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="{{ .Permalink }}"><span class="navicon">📗</span>{{ .Title
+    }}</a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+{{end}}
+
+<script>
+  {{ $searchDataFile := printf "%s.search-data.json" .Language.Lang }}
+  {{ $searchData := resources.Get "search-data.json" | resources.ExecuteAsTemplate $searchDataFile . | resources.Minify | resources.Fingerprint }}
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
     
-    .close-btn {
-      color: var(--hightlight);
-      float: right;
-      cursor: pointer;
-      font-size: 14px;
-      margin-left: auto;
-    }
-    
-    #notice {
-      margin-top: 1rem;
-      display: flex;
-      align-items: center;
+    if(location.pathname.startsWith('/stories/')) {
+      // When visiting /stories/, add "last story" to localStorage
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
     }
 
-    .close-btn:hover {
-      opacity: .5;
-    }
-  </style>
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      // If the user hasn't visited /stories/
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag");
+      newTag.textContent = "NEW";
 
-
-  <blockquote id="notice" class="hint">
-    {{ range ( where .Site.RegularPages "Type" "stories" | first 1 ) }}
-      <span class="tag" style="margin-right: 5px; line-height: .8rem;">NEW</span> <a style="white-space: nowrap; overflow:hidden;" href="{{ .Permalink }}"><span class="navicon">📗</span>{{ .Title }}</a>
-      <span id="close-btn" class="navicon close-btn">❌</span>
-  </blockquote>
-    {{end}}
-
-  <script>
-    // Check if the notice should be displayed
-    if (localStorage.getItem("notice") === "closed") {
-      document.getElementById("notice").style.display = "none";
+      storiesLink.insertBefore(newTag, storiesLink.children[1])
     }
 
-    // Add event listener to the close button
-    document.getElementById("close-btn").addEventListener("click", function() {
-      // Hide the notice element
-      document.getElementById("notice").style.display = "none";
-      // Set the notice to be closed in localStorage
-      localStorage.setItem("notice", "closed");
-    });
-
-    // Check if 24 hours have passed since the notice was closed
-    let lastClosed = localStorage.getItem("lastClosed");
-    if (lastClosed) {
-      let now = new Date().getTime();
-      let diff = now - lastClosed;
-      let hours = diff / (1000 * 60 * 60);
-      if (hours >= 24) {
-        // Reset the notice to be displayed
-        localStorage.removeItem("notice");
-        localStorage.removeItem("lastClosed");
-      }
+    if(noticesSeen.includes(currentNoticeHref)) {
+      // If the user has dismissed the notice
+      notice.style.display = "none";
     }
-    
-  </script>
+
+    // Add close button functionality
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
