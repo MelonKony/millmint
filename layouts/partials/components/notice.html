@@ -75,6 +75,12 @@
       localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
       notice.style.display = "none";
     })
+    // Add close on link click functionality
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
   }
 
   checkNewStories()
