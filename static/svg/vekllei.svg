@@ -1,113 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Created with Vectornator (http://vectornator.io/) -->
-<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1008 612" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 420 250" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs/>
 <clipPath id="ArtboardFrame">
-<rect height="612" width="1008" x="0" y="0"/>
+<rect height="250" width="420" x="0" y="0"/>
 </clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Layer-1" vectornator:layerName="Layer 1">
+<g clip-path="url(#ArtboardFrame)" id="Layer-1">
 <g opacity="1">
-<g opacity="1" vectornator:layerName="path">
-<clipPath id="ClipPath">
-<path d="M40.7395 612.245L1008.22 612.245L1008.22-0.180794L40.7395-0.180794L40.7395 612.245Z"/>
-</clipPath>
-<g clip-path="url(#ClipPath)">
-<path d="M43.391 609.568L1005.57 609.568L1005.57 2.49575L43.391 2.49575L43.391 609.568Z" fill="#c91d52" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<g opacity="1">
+<path d="M19.9739 5.04871e-29L420 5.04871e-29L420 250L19.9739 250L19.9739 5.04871e-29Z" fill="#c91d52" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M0 5.68434e-14L19.9739 5.68434e-14L19.9739 250L0 250L0 5.68434e-14Z" fill="#ffbc00" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+<path d="M133.238 0L188.016 0L188.016 250L133.238 250L133.238 0Z" fill="#ffbc00" fill-rule="nonzero" opacity="1" stroke="none"/>
+<g opacity="1">
+<g opacity="1">
+<path d="M139.778 97.3475C114.576 97.3475 93.7418 117.322 93.7418 142.488C93.7418 167.66 114.591 187.598 139.778 187.598C164.981 187.598 185.845 167.654 185.845 142.488C185.845 117.316 164.966 97.3474 139.778 97.3475Z" fill="#c91d52" fill-rule="nonzero" opacity="1" stroke="#c91d52" stroke-linecap="butt" stroke-linejoin="round" stroke-width="9"/>
+<path d="M182.17 97.3475C156.968 97.3475 136.134 117.322 136.134 142.488C136.134 167.66 156.983 187.598 182.17 187.598C207.373 187.598 228.237 167.654 228.237 142.488C228.237 117.316 207.358 97.3474 182.17 97.3475Z" fill="#c91d52" fill-rule="nonzero" opacity="1" stroke="#c91d52" stroke-linecap="butt" stroke-linejoin="round" stroke-width="9"/>
+<path d="M160.989 61.5578C135.787 61.5578 114.923 81.5319 114.923 106.698C114.923 131.87 135.802 151.809 160.989 151.809C186.192 151.809 207.026 131.865 207.026 106.698C207.026 81.5259 186.177 61.5577 160.989 61.5578Z" fill="#c91d52" fill-rule="nonzero" opacity="1" stroke="#c91d52" stroke-linecap="butt" stroke-linejoin="round" stroke-width="9"/>
+</g>
+<g opacity="1">
+<path d="M101.281 143.718C101.281 123.715 117.924 107.5 138.454 107.5C158.984 107.5 175.627 123.715 175.627 143.718C175.627 163.72 158.984 179.936 138.454 179.936C117.924 179.936 101.281 163.72 101.281 143.718Z" fill="none" opacity="1" stroke="#ffbc00" stroke-linecap="butt" stroke-linejoin="round" stroke-width="8"/>
+<path d="M145.627 143.718C145.627 123.715 162.27 107.5 182.8 107.5C203.33 107.5 219.973 123.715 219.973 143.718C219.973 163.72 203.33 179.936 182.8 179.936C162.27 179.936 145.627 163.72 145.627 143.718Z" fill="none" opacity="1" stroke="#ffbc00" stroke-linecap="butt" stroke-linejoin="round" stroke-width="8"/>
+<path d="M123.454 106.282C123.454 86.2796 140.097 70.0643 160.627 70.0643C181.157 70.0643 197.8 86.2796 197.8 106.282C197.8 126.285 181.157 142.5 160.627 142.5C140.097 142.5 123.454 126.285 123.454 106.282Z" fill="none" opacity="1" stroke="#ffbc00" stroke-linecap="butt" stroke-linejoin="round" stroke-width="8"/>
 </g>
 </g>
-<g opacity="1" vectornator:layerName="path">
-<clipPath id="ClipPath_2">
-<path d="M-0.0487875 611.959L46.4787 611.959L46.4787-0.466917L-0.0487875-0.466917L-0.0487875 611.959Z"/>
-</clipPath>
-<g clip-path="url(#ClipPath_2)">
-<path d="M2.60273 609.282L43.8272 609.282L43.8272 2.20963L2.60273 2.20963L2.60273 609.282Z" fill="#ffbc00" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
-</g>
-</g>
-<g opacity="1" vectornator:layerName="path">
-<clipPath id="ClipPath_3">
-<path d="M359.651 466.496L581.015 466.496L581.015 243.042L359.651 243.042L359.651 466.496Z"/>
-</clipPath>
-<g clip-path="url(#ClipPath_3)">
-<path d="M530.785 293.747C564.173 327.447 564.173 382.091 530.785 415.792C497.397 449.495 443.266 449.495 409.881 415.792C376.493 382.091 376.493 327.447 409.881 293.747C443.266 260.044 497.397 260.044 530.785 293.747Z" fill="#c91d52" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
-<path d="M530.785 293.746C564.173 327.448 564.173 382.09 530.785 415.793C497.398 449.495 443.267 449.495 409.88 415.793C376.493 382.09 376.493 327.448 409.88 293.746C443.267 260.044 497.398 260.044 530.785 293.746Z" fill="none" opacity="1" stroke="#c91d52" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="17" vectornator:layerName="path"/>
-</g>
-</g>
-<g opacity="1" vectornator:layerName="path">
-<clipPath id="ClipPath_4">
-<path d="M468.739 466.496L690.104 466.496L690.104 243.042L468.739 243.042L468.739 466.496Z"/>
-</clipPath>
-<g clip-path="url(#ClipPath_4)">
-<path d="M639.874 293.747C673.261 327.447 673.261 382.091 639.874 415.792C606.486 449.495 552.355 449.495 518.967 415.792C485.582 382.091 485.582 327.447 518.967 293.747C552.355 260.044 606.486 260.044 639.874 293.747Z" fill="#c91d52" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
-<path d="M639.874 293.746C673.262 327.448 673.262 382.09 639.874 415.793C606.487 449.495 552.356 449.495 518.969 415.793C485.582 382.09 485.582 327.448 518.969 293.746C552.356 260.044 606.487 260.044 639.874 293.746Z" fill="none" opacity="1" stroke="#c91d52" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="17" vectornator:layerName="path"/>
-</g>
-</g>
-<g opacity="1" vectornator:layerName="path">
-<clipPath id="ClipPath_5">
-<path d="M413.084 366.677L634.449 366.677L634.449 143.224L413.084 143.224L413.084 366.677Z"/>
-</clipPath>
-<g clip-path="url(#ClipPath_5)">
-<path d="M584.218 193.928C617.606 227.631 617.606 282.273 584.218 315.976C550.83 349.676 496.7 349.676 463.312 315.976C429.926 282.273 429.926 227.631 463.312 193.928C496.7 160.225 550.83 160.225 584.218 193.928Z" fill="#c91d52" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
-<path d="M584.219 193.927C617.606 227.629 617.606 282.271 584.219 315.974C550.832 349.676 496.701 349.676 463.314 315.974C429.927 282.271 429.927 227.629 463.314 193.927C496.701 160.225 550.832 160.225 584.219 193.927Z" fill="none" opacity="1" stroke="#c91d52" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="17" vectornator:layerName="path"/>
-</g>
-</g>
-<g opacity="1" vectornator:layerName="path">
-<clipPath id="ClipPath_6">
-<path d="M374.234 451.775L566.432 451.775L566.432 257.763L374.234 257.763L374.234 451.775Z"/>
-</clipPath>
-<g clip-path="url(#ClipPath_6)">
-<path d="M530.785 293.746C564.173 327.448 564.173 382.09 530.785 415.793C497.398 449.495 443.267 449.495 409.88 415.793C376.493 382.09 376.493 327.448 409.88 293.746C443.267 260.044 497.398 260.044 530.785 293.746Z" fill="none" opacity="1" stroke="#ffbc00" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="14" vectornator:layerName="path"/>
-</g>
-</g>
-<g opacity="1" vectornator:layerName="path">
-<clipPath id="ClipPath_7">
-<path d="M483.323 451.775L675.521 451.775L675.521 257.763L483.323 257.763L483.323 451.775Z"/>
-</clipPath>
-<g clip-path="url(#ClipPath_7)">
-<path d="M639.874 293.746C673.262 327.448 673.262 382.09 639.874 415.793C606.487 449.495 552.356 449.495 518.969 415.793C485.582 382.09 485.582 327.448 518.969 293.746C552.356 260.044 606.487 260.044 639.874 293.746Z" fill="none" opacity="1" stroke="#ffbc00" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="14" vectornator:layerName="path"/>
-</g>
-</g>
-<g opacity="1" vectornator:layerName="path">
-<clipPath id="ClipPath_8">
-<path d="M427.667 351.956L619.865 351.956L619.865 157.944L427.667 157.944L427.667 351.956Z"/>
-</clipPath>
-<g clip-path="url(#ClipPath_8)">
-<path d="M584.219 193.927C617.606 227.629 617.606 282.271 584.219 315.974C550.832 349.676 496.701 349.676 463.314 315.974C429.927 282.271 429.927 227.629 463.314 193.927C496.701 160.225 550.832 160.225 584.219 193.927Z" fill="none" opacity="1" stroke="#ffbc00" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="14" vectornator:layerName="path"/>
-</g>
-</g>
-<g opacity="1" vectornator:layerName="path">
-<clipPath id="ClipPath_9">
-<path d="M556.338 420.337L644.285 420.337L644.285 303.601L556.338 303.601L556.338 420.337Z"/>
-</clipPath>
-<g clip-path="url(#ClipPath_9)">
-<path d="M578.438 351.999C580.623 362.135 580.442 372.643 577.918 382.699C574.8 395.124 568.232 406.389 558.989 415.174C570.367 418.34 582.365 418.484 593.814 415.594C607.774 412.074 620.289 404.229 629.61 393.162C641.403 376.19 644.739 354.657 638.643 334.859C635.273 323.917 629.116 314.059 620.783 306.276C617.407 317.354 611.412 327.437 603.317 335.656C596.264 342.821 587.784 348.391 578.438 351.999Z" fill="#ffbc00" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
-</g>
-</g>
-<g opacity="1" vectornator:layerName="path">
-<clipPath id="ClipPath_10">
-<path d="M524.697 360.208L480.048 436.696L380.415 377.432L425.064 300.944L524.697 360.208Z"/>
-</clipPath>
-<g clip-path="url(#ClipPath_10)">
-<clipPath id="ClipPath_11">
-<path d="M-4529.85 3213.18L3798.82 3213.18L3798.82-3427.61L-4529.85-3427.61L-4529.85 3213.18Z"/>
-</clipPath>
-<g clip-path="url(#ClipPath_11)">
-<path d="M472.168 354.86C462.408 351.614 453.53 346.121 446.228 338.823C437.21 329.803 430.926 318.371 428.123 305.872C419.644 314.161 413.431 324.522 410.082 335.945C406.002 349.874 406.344 364.742 411.056 378.465C419.556 397.337 436.24 411.172 456.232 415.92C467.284 418.546 478.823 418.193 489.694 414.898C481.955 406.338 476.392 396.007 473.486 384.795C470.953 375.023 470.503 364.82 472.168 354.86Z" fill="#ffbc00" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
-</g>
-</g>
-</g>
-<g opacity="1" vectornator:layerName="path">
-<clipPath id="ClipPath_12">
-<path d="M492.47 302.823L448.726 225.808L549.048 167.741L592.793 244.758L492.47 302.823Z"/>
-</clipPath>
-<g clip-path="url(#ClipPath_12)">
-<clipPath id="ClipPath_13">
-<path d="M-4529.85 3213.18L3798.82 3213.18L3798.82-3427.61L-4529.85-3427.61L-4529.85 3213.18Z"/>
-</clipPath>
-<g clip-path="url(#ClipPath_13)">
-<path d="M523.072 259.393C530.695 252.44 539.816 247.368 549.714 244.579C561.94 241.131 574.89 241.279 587.039 245.002C584.099 233.463 578.255 222.885 570.078 214.296C560.108 203.823 547.139 196.765 532.994 194.11C512.54 192.223 492.375 200.012 478.394 215.198C470.664 223.592 465.258 233.889 462.715 245.055C473.912 242.502 485.561 242.737 496.652 245.735C506.317 248.35 515.321 253.005 523.072 259.393Z" fill="#ffbc00" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
-</g>
-</g>
+<g opacity="1">
+<path d="M186.692 98.5588C178.086 73.1507 143.629 72.5711 134.562 97.999C139.275 97.7637 146.221 98.8336 150.943 99.8251C155.099 100.698 160.627 103.476 160.627 103.476C160.627 103.476 165.795 101.22 168.683 100.24C174.524 98.2576 180.735 98.0098 186.692 98.5588Z" fill="#ffbc00" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M117.059 125C100.376 146.008 118.571 175.274 144.854 169.107C142.1 165.274 139.233 158.857 137.506 154.352C135.986 150.387 135.323 144.236 135.323 144.236C135.323 144.236 130.626 141.116 128.236 139.221C123.404 135.388 119.828 130.304 117.059 125Z" fill="#ffbc00" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M204.195 125C220.878 146.008 202.683 175.274 176.401 169.107C179.154 165.274 182.021 158.857 183.748 154.352C185.268 150.387 185.931 144.236 185.931 144.236C185.931 144.236 190.629 141.116 193.018 139.221C197.851 135.388 201.426 130.304 204.195 125Z" fill="#ffbc00" fill-rule="nonzero" opacity="1" stroke="none"/>
 </g>
 </g>
 </g>

@@ -1219,14 +1219,13 @@ header .menu-btn {
     margin-top: 0rem; } }
 
 header.info {
-  margin: 0;
+  margin: 2rem 0 2rem 0;
   display: grid;
   grid-template-columns: 0fr 1fr 0.35fr fit-content(20%);
   grid-auto-rows: minmax(min-content, max-content);
   gap: 0;
   grid-auto-flow: column;
-  grid-template-areas: "title title emoji" "date date emoji" "icon headcrumbs emoji" "icon category emoji";
-  margin-bottom: 2rem; }
+  grid-template-areas: "title title emoji logo" "date date emoji logo" "icon headcrumbs emoji logo" "icon category emoji logo"; }
 
 .box-info {
   display: grid;
@@ -1249,7 +1248,7 @@ header.info {
   font-size: 2rem;
   align-content: center;
   line-height: 1.25;
-  margin: 1rem 0 0.5rem 0; }
+  margin: 0 0 0.5rem 0; }
 
 .emoji {
   grid-area: emoji;
@@ -1269,6 +1268,15 @@ header.info {
   box-sizing: border-box;
   height: 100%;
   width: 100%; }
+
+.logo {
+  margin: 0;
+  grid-area: logo;
+  display: grid;
+  width: 100%;
+  height: 100%;
+  justify-items: end;
+  align-content: center; }
 
 .date {
   font-size: 0.875rem;

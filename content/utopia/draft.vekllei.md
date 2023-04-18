@@ -1,10 +1,10 @@
 ---
-title: Vekllei
-fulltitle: Vekllei Islands
+title: The Floral Commonwealth
+fulltitle: The 4th Floral Commonwealth
 icon: 🎋
-emoji: ←
+logo: /svg/vekllei.svg/
 color: pink
-image: /svg/vekllei.svg
+image:
 
 tags: 
   - states
@@ -20,7 +20,7 @@ draft: false
 toc: true
 
 aliases:
-- /vekllei/
+- /commonwealth/
 
 description: Vekllei is an immersive visual world, written and illustrated by Hobart Phillips.
 author: Hobart Phillips
@@ -31,7 +31,7 @@ author: Hobart Phillips
 **Welcome to Vekllei.** This article introduces the essential setting of this website -- the Commonwealth of Vekllei. Welcome to the epilogue of the "epoch of rest."
 {{</hint>}}
 
-**Vekllei** is best conceptualised as a commonwealth of islands across the Atlantic Ocean. This commonwealth, the fourth in a series, consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of Vekllei, of 16 million. Together, they amount to a single superstate that spans the entirety of the Atlantic as a great power.
+**The 4th Commonwealth** is best conceptualised as a union of islands across the Atlantic Ocean. This commonwealth, the fourth in a series, consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of Vekllei, of 16 million. Together, they amount to a single superstate that spans the entirety of the Atlantic as a great power.
 
 The 4th Commonwealth which unites them is highly centralised and built on common systems of governance and economic management. Members of this commonwealth cede aspects of national governance to the Commonwealth, like security, health and education. 
 
@@ -42,7 +42,7 @@ The 4th Commonwealth which unites them is highly centralised and built on common
 
 ## Territories
 
-{{< details title="Vekllei Commonwealth Member-States" open=false >}}
+{{< details title="Commonwealth Member-States" open=false >}}
 **Vekllei**
 
 * Vekllei Commonwealth
@@ -151,7 +151,7 @@ The principle of the Vekllei is liberty in the context of a moneyless system.
 ✿ See also: *[On Moneylessness](/news/essays/moneylessness/)*
 {{</hint>}}
 
-Vekllei has a hybrid moneyless system called *commons*, in which money is not used in daily life. In the place of money, the commons system exists as a series of social economies and usufructs[^1]. Rather than purchasing products as consumers, staples like food and clothing are subsidised by groups of companies known as [*bureaus*](/bureaus/). Everything else is produced in the colloquial moneyless market, often unreliably.
+The Commonwealth has a hybrid moneyless system called *commons*, in which money is not used in daily life. In the place of money, the commons system exists as a series of social economies and usufructs[^1]. Rather than purchasing products as consumers, staples like food and clothing are subsidised by groups of companies known as [*bureaus*](/bureaus/). Everything else is produced in the colloquial moneyless market, often unreliably.
 
 Money is used in a seperate industrial and financial market called the *financialised commons*. In this market, Vekllei uses two currencies known as [*Vekllei*](/utopia/society/state/finance/#vekllei-crown-vk) and [*Government Crowns*](/utopia/society/state/finance/#government-crown-ak), used by the government, industry and foreigners to interact with the Vekllei economy and purchase securities and financial indstruments. Money is also used as a means of exchange between Commonwealth republics as a privilege of the state.
 

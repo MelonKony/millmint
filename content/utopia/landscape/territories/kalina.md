@@ -1,8 +1,8 @@
 ---
-title: Kalina
-fulltitle: The Island Commonwealth of Kalina
+title: Kalina Isles
+fulltitle: Kalina Isles
 icon: 🏝
-emoji: g
+logo: /svg/kalina.svg/
 color: green
 
 tags: 
