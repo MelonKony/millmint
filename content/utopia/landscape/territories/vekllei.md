@@ -11,7 +11,7 @@ tags:
 categories:
   - commonwealth
   
-draft: true
+draft: false
 
 image:
 autonumbering: true

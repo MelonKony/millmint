@@ -1379,11 +1379,13 @@ nav {
   justify-content: end; }
   .right .navicon {
     border-radius: 0;
-    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(93deg) brightness(103%) contrast(103%);
     height: .9rem;
     margin: 0; }
     .right .navicon .dark {
-      filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(93deg) brightness(103%) contrast(103%); }
+      filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(93deg) brightness(103%) contrast(103%); }
+
+.navbar .navbar-item > a.menu-link img:hover {
+  filter: none; }
 
 /* hide social icons on mobile */
 @media only screen and (max-width: 500px) {
