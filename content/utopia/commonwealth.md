@@ -1,8 +1,8 @@
 ---
-title: The Floral Commonwealth
-fulltitle: The 4th Floral Commonwealth
-icon: 🎋
-logo: /svg/vekllei.svg/
+title: Commonwealth
+fulltitle: Commonwealth of Nations
+icon: 🌸
+emoji: g
 color: pink
 image:
 
@@ -31,13 +31,47 @@ author: Hobart Phillips
 **Welcome to Vekllei.** This article introduces the essential setting of this website -- the Commonwealth of Vekllei. Welcome to the epilogue of the "epoch of rest."
 {{</hint>}}
 
-**The 4th Commonwealth** is best conceptualised as a union of islands across the Atlantic Ocean. This commonwealth, the fourth in a series, consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of Vekllei, of 16 million. Together, they amount to a single superstate that spans the entirety of the Atlantic as a great power.
+{{< details title="What is the Commonwealth?" open=false >}}
+
+The Commonwealth is a country that consists of many island republics in the Atlantic. The largest of these is called the *Vekllei Islands*, which is its most populous constituent. The Commonwealth is the setting of this fiction, and is the home of most of its characters.
+
+{{</details>}}
+{{< details title="Where is the Commonwealth?" open=false >}}
+
+The Commonwealth consists of many islands across the Atlantic oceans, but most of its constituent nations are found in the North Atlantic and Caribbean seas. Its northernmost territory is Helvasia (Svalbard) and its southernmost territories are on the Antarctic continent.
+
+{{</details>}}
+{{< details title="When was the Commonwealth founded?" open=false >}}
+
+The Commonwealth of Nations is the 4th in a succession of historic Commonwealths based in the Kalan and Vekllei Islands. The 1st, known as the Nord Commonwealth, was the world's first parliament and was among the first democracies in the world.
+
+{{</details>}}
+
+**The Commonwealth of Nations** is best conceptualised as a union of islands across the Atlantic Ocean. This commonwealth, the fourth in a series, consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of Vekllei, of 16 million. Together, they amount to a single superstate that spans the entirety of the Atlantic as a great power.
 
 The 4th Commonwealth which unites them is highly centralised and built on common systems of governance and economic management. Members of this commonwealth cede aspects of national governance to the Commonwealth, like security, health and education. 
+
+The capital of the Commonwealth is [Comet], located west of the Azores Commonwealth in the Meteor Islands.
 
 > Oslola, raging and now blinded, drew deep wounds into the Earth. Out of these wounds came fire, and out of fire came Vekllei.
 
 -- Retelling of Algic legends, Verse 40, *Saga of Origins*[^2]
+
+## Title
+
+Officially the 4th Vekllei Commonwealth, it is commonly referred to as the Vekllei Commonwealth or simply the Commonwealth. Use of the name *Vekllei* usually refers to the *Vekllei Islands*, its founding constituent member. 
+
+The 4th Vekllei Commonwealth draws its name from *Vekllei*, an Algic *corcidi* word meaning *people of the sea, people of the stars* or *people of the sea and stars*. It succeeds the *Nord* Commonwealth, which existed until the 1600s, and implies a cultural lineage back to the Vekllei Islands.
+
+ is a federal state directed by the 
+
+The Commonwealth is lead equally by a cabinet of the prime ministers of constituent parliaments, known as the directory. 
+
+Directory of the Commonwealth Parliament, the h
+
+The full
+
+## Structure
 
 
 ## Territories
@@ -151,7 +185,7 @@ The principle of the Vekllei is liberty in the context of a moneyless system.
 ✿ See also: *[On Moneylessness](/news/essays/moneylessness/)*
 {{</hint>}}
 
-The Commonwealth has a hybrid moneyless system called *commons*, in which money is not used in daily life. In the place of money, the commons system exists as a series of social economies and usufructs[^1]. Rather than purchasing products as consumers, staples like food and clothing are subsidised by groups of companies known as [*bureaus*](/bureaus/). Everything else is produced in the colloquial moneyless market, often unreliably.
+The Commonwealth has a hybrid moneyless system called *commons*, in which money is not used in daily life. In the place of money, the commons system exists as a series of social economies and usufructs. Rather than purchasing products as consumers, staples like food and clothing are subsidised by groups of companies known as [*bureaus*](/bureaus/). Everything else is produced in the colloquial moneyless market, often unreliably.
 
 Money is used in a seperate industrial and financial market called the *financialised commons*. In this market, Vekllei uses two currencies known as [*Vekllei*](/utopia/society/state/finance/#vekllei-crown-vk) and [*Government Crowns*](/utopia/society/state/finance/#government-crown-ak), used by the government, industry and foreigners to interact with the Vekllei economy and purchase securities and financial indstruments. Money is also used as a means of exchange between Commonwealth republics as a privilege of the state.
 

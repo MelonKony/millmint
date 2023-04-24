@@ -26,7 +26,7 @@ author: Hobart Phillips
 ߷ This article is about a [**location**](/utopia/landscape/locations) in [**Vekllei**](/utopia/vekllei/)
 {{</hint>}}
 
-**The Comet Administration Assembly** is the capital complex of the Commownealth, located on the island of Meteor in the North Atlantic ocean. Originally home to only a few hundred people, Comet was established in 2036 as an administrative centre for the vast Commonwealth, which spans the Atlantic and Caribbean oceans. It was chosen for its centrality, and is accessible to Commonwealth representatives mostly by air. 
+**The Comet Administration Assembly** is the capital complex of the Commownealth, located on the island of Meteor in the North Atlantic ocean. Originally home to only a few hundred people, Comet was established in 2036 as an administrative centre for the vast Commonwealth, which spans the Atlantic and Caribbean oceans. It was chosen for its centrality and cultural neutrality, and is accessible to Commonwealth staff and emissaries mostly by air. 
 
 The island of Meteor makes up part of the Western Azores archipelago, situated 
 
