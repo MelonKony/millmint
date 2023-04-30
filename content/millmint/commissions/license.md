@@ -16,7 +16,7 @@ aliases:
   - /license/
 
 draft: false
-autonumbering: true
+
 comments: false
 noindex: true
 

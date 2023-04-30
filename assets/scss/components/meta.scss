@@ -41,6 +41,10 @@ img.page {
 .tag {
   padding: 0;
   text-transform: capitalize;
+  
+  .blank {
+    @include font-color;
+  }
 
   >a {
     border: 1px solid var(--color-gray);

@@ -12,7 +12,7 @@ categories:
   - news
 
 weight: 1
-autonumbering: true
+
 
 aliases:
 - /ghibli/

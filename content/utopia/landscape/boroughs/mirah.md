@@ -12,7 +12,7 @@ categories:
   - commonwealth
 
 image: /images/waterfront.jpg
-autonumbering: true
+
 
 weight: 1
 bookHidden: true

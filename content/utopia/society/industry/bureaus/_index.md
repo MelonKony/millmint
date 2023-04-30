@@ -14,7 +14,7 @@ categories:
 
 draft: false
 
-autonumbering: true
+
 comments: false
 
 toc: true

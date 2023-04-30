@@ -12,7 +12,7 @@ categories:
   - commonwealth
 
 image:
-autonumbering: true
+
 
 aliases:
 - /moshel/

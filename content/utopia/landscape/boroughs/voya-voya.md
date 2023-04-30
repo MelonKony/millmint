@@ -11,7 +11,7 @@ categories:
   - commonwealth
 
 image: /images/rivers.jpg
-autonumbering: true
+
 weight: 1
 
 aliases:

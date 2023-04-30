@@ -12,7 +12,7 @@ categories:
   - news
 
 weight: 2
-autonumbering: true
+
 
 aliases:
 - /hong-kong/

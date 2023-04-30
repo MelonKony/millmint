@@ -11,7 +11,7 @@ categories:
   - commonwealth
 
 image: /images/shrine-minded.jpg
-autonumbering: true
+
 
 aliases:
 - /santes/

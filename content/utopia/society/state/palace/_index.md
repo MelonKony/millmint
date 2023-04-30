@@ -16,7 +16,7 @@ aliases:
 draft: true
 
 type: blank
-autonumbering: true
+
 comments: false
 
 toc: true

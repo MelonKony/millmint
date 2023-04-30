@@ -12,7 +12,7 @@ categories:
   - commonwealth
 
 image: /images/lola.jpg
-autonumbering: true
+
 
 aliases:
 - /lola/

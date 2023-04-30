@@ -14,7 +14,7 @@ categories:
 aliases:
   - /society/
 
-autonumbering: true
+
 comments: false
 
 toc: false

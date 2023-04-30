@@ -14,7 +14,7 @@ aliases:
   - "/news/"
   - "/millmint/"
 
-autonumbering: true
+
 comments: false
 
 toc: false

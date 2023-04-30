@@ -11,7 +11,7 @@ categories:
   - commonwealth
 
 image: /images/lakehouse.jpg
-autonumbering: true
+
 
 aliases:
 - /yana/

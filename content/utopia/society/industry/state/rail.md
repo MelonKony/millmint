@@ -14,7 +14,7 @@ image: /images/orange.jpg
 
 type: blank
 comments: false
-autonumbering: true
+
 
 aliases:
 - /rail/

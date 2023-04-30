@@ -11,7 +11,7 @@ categories:
   - society
 
 image: /images/spiritful.jpg
-autonumbering: true
+
 
 aliases:
 - /metaphysics/

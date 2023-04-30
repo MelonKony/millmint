@@ -13,7 +13,7 @@ categories:
 
 draft: true
 
-autonumbering: true
+
 comments: false
 
 toc: true

@@ -10,7 +10,7 @@ tags:
 categories:
   - commonwealth
 
-autonumbering: true
+
 
 aliases:
 - /bakur/

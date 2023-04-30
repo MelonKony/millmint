@@ -11,7 +11,7 @@ categories:
   - commonwealth
 
 image: /images/orange.jpg
-autonumbering: true
+
 
 aliases:
 - /troll/

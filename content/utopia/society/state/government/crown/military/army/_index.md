@@ -1,23 +1,9 @@
 ---
-title: Commonwealth Army
+title: Army
 fulltitle: Commonwealth Army
 icon: 🗡
 emoji: Ζ
 color: purple
-image: 
-
-tags: 
-  - palace
-categories:
-  - society
-
-draft: false
-
-type: blank
-autonumbering: true
-comments: false
-
-toc: true
 
 aliases:
 - /army/
@@ -35,12 +21,21 @@ The **Commonwealth Army**, formally the **Army of the Atlantic Crown**, is the l
 
 ## Notes
 
+Unit numbers in the Commonwealth Army are used for organisational purposes only. Awards and honours are inherited based on the unit's name.
+
 The Commonwealth Army refers to its infantry regiments, equivalent roughly to overseas brigades, as rifles.
 
 
 ## Structure
 
 ### Expeditionary Corps
+
+{{<hint>}}
+✿ Main article: <span class="smallicon">🗡</span> *[Expeditionary Corps](/expeditionary/)*
+{{</hint>}}
+
+35,000 + 10,000 (45,000 total)
+
 {{<details "Commonwealth Legion">}}
 * **Commando Regiments**
   * 1st-5th Commandos Regiments
@@ -60,6 +55,9 @@ The Commonwealth Army refers to its infantry regiments, equivalent roughly to ov
   * 23rd-25th Armoured Regiments
 * **Artillery**
   * 25th-32nd Cannons Regiments
+* **Special Forces**
+  * Psychological Warfare Regiments
+  * Space Operations Regiments
 {{</details>}}
 
 {{<details "Foreign Legion">}}
@@ -68,21 +66,44 @@ The Commonwealth Army refers to its infantry regiments, equivalent roughly to ov
 * 7th-8th Foreign Engineer Regiments
 {{</details>}}
 
+### Territorial Corps
+
+{{<details "Commonwealth Territorial Army">}}
+* **Rifle Regiments**
+  * 1st-25th Rifles Regiments
+  * 26th-50th Rifles Regiments
+  * 26-28th Armoured Rifles Regiments
+* **Armoured Regiments**
+  * 
+* **Artillery Regiments**
+  * Cannons Regiments
+  * Air Artillery Regiments
+* **Democracy & Civic Regiments**
+  * Civil Affairs Regiments
+  * Military Police Regiments
+  * Military Intelligence Regiments
+* **Special Regiments**
+  * Chemical Regiments
+  * Nuclear Regiments
+{{</details>}}
+
+{{<details "Commonwealth Reserve Army">}}
+{{</details>}}
+
 ### Materiel Corps
 
+{{<details "Commonwealth Materiel Corps">}}
+* **1st Division**
+  * Ordnance Regiments
+  * Transportation Regiments
+  * Quartermaster Regiments
+  * Logistics Regiments
+  * Medical Regiments
+  * Chaplain Regiments
+{{</details>}}
 
-
-### People's Corps
-* **1st Vekllei Division**
-* **2nd Crown Division**
-* **3rd Crown Division**
-* **4th Crown Division**
-* **5th Crown Division**
-* **6th Crown Division**
-* **7th Crown Division**
-* **8th Crown Division**
-* **9th Crown Division**
-* **10th Crown Division**
+{{<details "Commonwealth Reserve Army">}}
+{{</details>}}
 
 ### Civic Corps
 

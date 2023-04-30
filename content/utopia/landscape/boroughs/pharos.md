@@ -12,7 +12,7 @@ categories:
   - commonwealth
 
 image: /images/lightbulb.jpg
-autonumbering: true
+
 
 aliases:
 - /pharos/

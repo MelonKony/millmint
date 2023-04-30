@@ -14,7 +14,7 @@ categories:
 draft: false
 
 type: blank
-autonumbering: true
+
 comments: false
 
 toc: true
@@ -74,7 +74,7 @@ Studio and technical schools typically refer to secondary schools that specialis
 
 #### Faith Schools
 
-Faith schools in Vekllei are affiliated with an approved religious organisation. The curriculum of faith schools have a religious character, usually Jewish or Roman Catholic. Faith schools are still required to adhere to the [Commonwealth curriculum](#curriculum) as a minimum education standard.
+Faith schools in Vekllei are affiliated with an approved religious organisation. The curriculum of faith schools have a religious character, usually Jewish or Roman Catholic. Faith schools are still required to adhere to the [Commonwealth curriculum](#curriculum) as a minimum education standard. Faith Schools are also an exception to the universal coeducational system of the Commonwealth, since two schools in Oslola and one in the Kalina Isles are single-sex boarding schools.
 
 #### Boarding Schools
 
@@ -90,9 +90,9 @@ Vekllei people are enrolled in 9 years of compulsory education, provided by the 
 
 Compared to modern schooling overseas, Vekllei education places significant value on well-roundedness and practicable household and technical skills. Subject-based streams for specialised learning are common, but the basic compulsory Vekllei curriculum emphasises non-academic subjects and structures pre-tertiary subjects as electives.
 
-![Image of Tzipora standing in front of school building](/images/mist.jpg "Misy morning in front of the [Moshel St School](/moshel/) | *[Heavy Mist](/stories/mist/)*")
+![Image of Tzipora standing in front of school building](/images/mist.jpg "Misty morning in front of the [Moshel St School](/moshel/) | *[Heavy Mist](/stories/mist/)*")
 
-Vekllei has a strong tradition of school clubs and social organisations, and these are considered essential aspects of Vekllei education. Clubs and associations are often highly organised by student leadership, and offer opportunities in industry and tertiary study. 
+Vekllei has a strong tradition of school clubs and social organisations, and these are considered essential aspects of Vekllei education. Clubs and associations are usually organised by student leadership, and offer opportunities in industry and tertiary study. 
 
 Compulsory and tertiary education is free for all Vekllei people, permanent residents and foreign workers. Homeschooling is illegal except by those holding a teaching certificate, and is supervised by a local school which issues the child's diploma. In this context, homeschooling is almost nonexistent in the Commonwealth. About 15% of the Commonwealth Budget is allocated towards education.
 

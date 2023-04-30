@@ -13,7 +13,7 @@ categories:
 
 image: /images/coast.jpg
 weight: 1
-autonumbering: true
+
 
 description: Notes on utopie concrète, a new movement for utopian fiction.
 author: Hobart Phillips

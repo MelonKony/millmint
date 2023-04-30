@@ -12,7 +12,7 @@ categories:
   - commonwealth
 
 image: /images/sketches/sandmage.jpg
-autonumbering: true
+
 
 aliases:
 - /mumen/

@@ -15,7 +15,7 @@ aliases:
 
 weight: 1
 comments: false
-autonumbering: true
+
 ---
 {{<hint>}}
 ✿ Main article: *[The Government of Vekllei](/utopia/society/state/government/)*

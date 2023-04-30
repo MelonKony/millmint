@@ -12,7 +12,7 @@ categories:
   - commonwealth
 
 image: /images/moss.jpg
-autonumbering: true
+
 
 aliases:
 - /holsyim/

@@ -600,6 +600,11 @@ span.tag {
   color: var(--highlight);
   font-weight: 400; }
 
+.bamum {
+  font-family: 'Bamum';
+  color: var(--highlight);
+  font-weight: 400; }
+
 @keyframes whirlyAnimate {
   0% {
     font-variation-settings: "anim" 100; }
@@ -1720,6 +1725,11 @@ article[autonumbering] .collapsible-menu li a:before {
   font-family: "Emoji";
   src: url("/fonts/NotoEmoji.ttf") format("truetype"); }
 
+/* Noto Bamum */
+@font-face {
+  font-family: "Bamum";
+  src: url("/fonts/NotoBamum.ttf") format("truetype"); }
+
 /* San Francisco */
 @font-face {
   font-family: "San Francisco";
@@ -1957,6 +1967,8 @@ img.page {
 .tag {
   padding: 0;
   text-transform: capitalize; }
+  .tag .blank {
+    color: var(--font-color); }
   .tag > a {
     border: 1px solid var(--color-gray);
     padding: 5px;
@@ -2090,7 +2102,6 @@ img.page {
       color: var(--font-color);
       padding: 0.2rem 0.5rem; }
       #TableOfContents ul li a:hover {
-        text-decoration: none;
         color: var(--color-gray);
         filter: none;
         /*box-shadow: inset 0 0 0 5px var(--body-background);*/ }

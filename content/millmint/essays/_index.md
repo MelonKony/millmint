@@ -12,7 +12,7 @@ categories:
 aliases:
   - /essays/
 
-autonumbering: true
+
 comments: false
 
 toc: false

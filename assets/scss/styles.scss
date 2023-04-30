@@ -254,6 +254,12 @@ span.tag {
 	@include font-normal;
 }
 
+.bamum {
+	font-family: 'Bamum';
+	@include highlight;
+	@include font-normal;
+}
+
 @keyframes whirlyAnimate {
 	0% {
 		font-variation-settings: "anim" 100;

@@ -12,7 +12,7 @@ categories:
   - commonwealth
 
 image: /images/rocket.jpg
-autonumbering: true
+
 
 aliases:
 - /lita/

@@ -12,7 +12,7 @@ categories:
   - commonwealth
 
 image: /images/hollywood.jpg
-autonumbering: true
+
 
 weight: 1
 bookHidden: true

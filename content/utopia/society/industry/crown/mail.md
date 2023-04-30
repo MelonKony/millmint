@@ -14,7 +14,7 @@ image: /images/mailtrain.jpg
 
 type: blank
 comments: false
-autonumbering: true
+
 
 aliases: 
 - /mail/

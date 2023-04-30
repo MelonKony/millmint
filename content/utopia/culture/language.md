@@ -13,7 +13,7 @@ categories:
 image: /images/drawing.jpg
 
 type: blank
-autonumbering: true
+
 
 aliases:
 - /language/

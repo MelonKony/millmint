@@ -12,7 +12,7 @@ categories:
   - commonwealth
 
 type: blank
-autonumbering: true
+
 comments: false
 
 draft: false

@@ -12,7 +12,7 @@ categories:
   - society
 
 type: blank
-autonumbering: true
+
 comments: false
 
 toc: true

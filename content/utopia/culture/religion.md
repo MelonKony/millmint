@@ -11,7 +11,7 @@ categories:
   - society
 
 image: /images/death.jpg
-autonumbering: true
+
 
 aliases:
 - /religion/

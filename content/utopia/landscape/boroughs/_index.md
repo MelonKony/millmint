@@ -22,7 +22,7 @@ aliases:
 weight: 1
 type: blank
 comments: false
-autonumbering: true
+
 ---
 
 {{< hint >}}

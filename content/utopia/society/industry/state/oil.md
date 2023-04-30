@@ -8,7 +8,7 @@ rgb: 156, 33, 62
 draft: true
 
 comments: false
-autonumbering: true
+
 
 aliases:
 - /oil/

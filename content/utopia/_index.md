@@ -11,7 +11,7 @@ tags:
 categories:
   - intro
 
-autonumbering: true
+
 comments: false
 noindex: true
 

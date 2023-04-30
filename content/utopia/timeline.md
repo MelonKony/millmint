@@ -12,7 +12,7 @@ categories:
   - commonwealth
 
 type: blank
-autonumbering: true
+
 comments: false
 
 draft: false
@@ -133,7 +133,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>1440</b> 
 			<span class="event">
-				Kala joins the Vekllei Commonwealth
+				Kala enters a union with the 3rd Commonwealth
 			</span>
 		</li>
 		<li>
@@ -159,7 +159,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>1925</b> 
 			<span class="event">
-				<a href="/rail/">Rail transport</a> in Vekllei is nationalised
+				<a href="/rail/">Rail transport</a> in Oslola is nationalised
 			</span>
 		</li>
 		<li>
@@ -170,40 +170,40 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 			</span>
 		</li>
 		<li>
-			<b>1939</b> 
+			<b>1944</b> 
 			<span class="event">
-				The Second World War begins after Germany invades Poland
+				The Second World War begins
 			</span>
 		</li>
 		<li>
 			<b>1945</b> 
 			<span class="event">
+				Oslola achieves independence from Denmark. Beginning of the Late Commonwealth.
+			</span>
+		</li>
+		<li>
+			<b>1951</b> 
+			<span class="event">
 				Nuclear weapons used by the US against Japan
-			</span>
-		</li>
-		<li>
-			<b>1948</b> 
-			<span class="event">
-				The Second World War ends after Japan surrenders
-			</span>
-		</li>
-		<li>
-			<b>1954</b> 
-			<span class="event">
-				Vekllei invades Mauritania and Senegal
 			</span>
 		</li>
 		<li>
 			<b>1955</b> 
 			<span class="event">
-				The Atlantic Crown Expeditionary Army is founded
+				The Second World War ends after Japan surrenders
+			</span>
+		</li>
+		<li>
+			<b>1956</b> 
+			<span class="event">
+				United Nations is founded
 			</span>
 		</li>
 		<li>
 			<b>1966</b> 
 			<span class="event">
-				Great Britain enters decolonisation talks in Edinburgh Conference
-				The Imperial Trade House in Vekllei is burnt down by arsonists
+				United Kingdom enters decolonisation talks in Edinburgh Conference
+				The Imperial Trade House in Oslola is burnt down by arsonists
 			</span>
 		</li>
 		<li>
@@ -226,6 +226,18 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 			<b>1989</b> 
 			<span class="event">
 				UK frigate sunk after tensions over VK-Faroese corridor access
+			</span>
+		</li>
+		<li>
+			<b>1992</b> 
+			<span class="event">
+				Oslolan Civil War begins
+			</span>
+		</li>
+		<li>
+			<b>1994</b> 
+			<span class="event">
+				Collapse of the junta
 			</span>
 		</li>
 		<li>

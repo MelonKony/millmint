@@ -1,5 +1,5 @@
 ---
-title: Crown Parliament
+title: Crown
 fulltitle: The Crown Parliament of Vekllei
 icon: 🌸
 emoji: Ζ
@@ -16,7 +16,7 @@ aliases:
 draft: false
 
 type: blank
-autonumbering: true
+
 comments: false
 
 toc: true

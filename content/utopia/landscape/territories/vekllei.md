@@ -14,7 +14,7 @@ categories:
 draft: false
 
 image:
-autonumbering: true
+
 
 aliases:
 - /vekllei-islands/

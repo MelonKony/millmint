@@ -12,7 +12,7 @@ categories:
   - commonwealth
 
 image: /images/liminal.jpg
-autonumbering: true
+
 
 aliases:
 - /krafla/

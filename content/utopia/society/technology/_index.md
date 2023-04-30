@@ -13,7 +13,7 @@ aliases:
   - /technology/
 
 comments: false
-autonumbering: true
+
 
 description: The government of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips

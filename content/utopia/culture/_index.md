@@ -12,7 +12,7 @@ categories:
 aliases:
   - /culture/
 
-autonumbering: true
+
 comments: false
 noindex: true
 

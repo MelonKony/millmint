@@ -2,7 +2,7 @@
 title: On Moneylessness
 fulltitle: On Moneylessness
 
-autonumbering: true
+
 
 date: 2021-12-09
 tags:

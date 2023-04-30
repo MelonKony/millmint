@@ -14,7 +14,7 @@ image: /images/lightbulb.jpg
 
 type: blank
 comments: false
-autonumbering: true
+
 
 draft: true
 

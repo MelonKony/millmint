@@ -14,7 +14,7 @@ draft: true
 
 type: blank
 comments: false
-autonumbering: true
+
 
 aliases:
 - /gr/

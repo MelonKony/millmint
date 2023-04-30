@@ -14,7 +14,7 @@ categories:
 aliases:
 - /landscape/
 
-autonumbering: true
+
 comments: false
 
 toc: false

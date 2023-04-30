@@ -12,7 +12,7 @@ categories:
   - commonwealth
 
 image: /images/hydro.jpg
-autonumbering: true
+
 
 aliases:
 - /ou/

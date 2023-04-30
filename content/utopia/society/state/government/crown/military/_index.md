@@ -1,5 +1,5 @@
 ---
-title: Armed Forces of the Atlantic Crown
+title: Military
 fulltitle: Armed Forces of the Atlantic Crown
 icon: 🗡
 emoji: Ζ
@@ -14,7 +14,7 @@ categories:
 draft: false
 
 type: blank
-autonumbering: true
+
 comments: false
 
 toc: true

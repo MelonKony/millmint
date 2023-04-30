@@ -14,7 +14,7 @@ categories:
 image: /images/serpent.jpg
 
 weight: 1
-autonumbering: true
+
 
 aliases:
 - /eyri/

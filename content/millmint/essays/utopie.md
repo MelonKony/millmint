@@ -11,7 +11,7 @@ tags:
 categories:
   - news
 
-autonumbering: true
+
 
 aliases:
 - /utopie/

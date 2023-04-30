@@ -15,7 +15,7 @@ draft: false
 
 image:
 
-autonumbering: true
+
 comments: false
 
 aliases:
