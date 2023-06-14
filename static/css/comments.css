@@ -1,7 +1,16 @@
-// cusdis
+// Replybox
+a, a:visited, a:hover {
+    color: var(--highlight);
+}
 
-// Classes for qusdis
+textarea {
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  resize: none;
+}
 
-#millmint-cusdis {
-  background: var(--gray-light);
+.node-actions {
+    margin-top: -.3em;
+    text-transform: capitalize;
 }
