@@ -136,7 +136,7 @@ December 2022
 
 <span class="bulleticon">📄</span> **December 20, 2022** Added an article about the [Moshel St School](/moshel/) <button class="bulletbutton" href="/moshel/">URL →</button></span>
 
-<span class="bulleticon">✏️</span> **December 20, 2022** New blog post: [*Getting Back to Basics*](/blog/utopia/) <button class="bulletbutton" href="/blog/utopia/">URL →</button></span>
+<span class="bulleticon">✏️</span> **December 20, 2022** New blog post: [*Getting Back to Basics*](/blog/factbook/) <button class="bulletbutton" href="/blog/factbook/">URL →</button></span>
 
 <span class="bulleticon">📒</span> **December 10, 2022** New sketch: [*The Friend*](/stories/friend/) <button class="bulletbutton" href="/stories/friend/">URL →</button></span>
 
@@ -199,7 +199,7 @@ August 2022
 
 <span class="bulleticon">🌐</span> **August 16, 2022** Painstakingly moved [all 315 posts](/stories/) from /posts/ to [/stories/](/stories/), complete with custom aliases (e.g. [millmint.net/stories/crown](/stories/crown))
 
-<span class="bulleticon">📄</span> **August 10, 2022** Added an article about the [State Assets of Vekllei](/utopia/society/state/assets/) <button class="bulletbutton" href="/utopia/society/state/assets/">URL →</button></span>
+<span class="bulleticon">📄</span> **August 10, 2022** Added an article about the [State Assets of Vekllei](/factbook/society/state/assets/) <button class="bulletbutton" href="/factbook/society/state/assets/">URL →</button></span>
 
 <span class="bulleticon">📗</span> **August 6, 2022** New post: [*The Crown and the Gi*](/posts/2022-08-06-crown/) <button class="bulletbutton" href="/posts/2022-08-06-crown/">URL →</button></span>
 
@@ -209,13 +209,13 @@ August 2022
 
 <span class="bulleticon">🌐</span> **August 3, 2022** Added sidenotes! On wide screens, footnotes will now appear in the right margin of an article adjacent to footnoted sentences. A really nice improvement to readability. On mobile, they appear below an article as usual.
 
-<span class="bulleticon">📓</span> **August 2, 2022** Added a new /state/ section in [/society/](/utopia/society) and split up the Government article into smaller pages, in preparation for its public release.
+<span class="bulleticon">📓</span> **August 2, 2022** Added a new /state/ section in [/society/](/factbook/society) and split up the Government article into smaller pages, in preparation for its public release.
 
 {{<hint header>}}
 July 2022
 {{</hint>}}
 
-<span class="bulleticon">📄</span> **July 29, 2022** Added an article about [Computing in Vekllei](/utopia/society/technology/computers/) <button class="bulletbutton" href="/utopia/society/technology/computers/">URL →</button></span>
+<span class="bulleticon">📄</span> **July 29, 2022** Added an article about [Computing in Vekllei](/factbook/society/technology/computers/) <button class="bulletbutton" href="/factbook/society/technology/computers/">URL →</button></span>
 
 <span class="bulleticon">🌐</span> **July 22, 2022** Added the first Studio Spotlight! A behind-the-scenes look at what goes into a post, accompanied by a timelapse. Visible below the [School Cape](/posts/2022-07-22-cape/) post. <button class="bulletbutton" href="/posts/2022-07-22-cape/">URL →</button></span>
 
@@ -231,7 +231,7 @@ July 2022
 June 2022 
 {{</hint>}}
 
-<span class="bulleticon">📄</span> **July 29, 2022** New borough article: [Pharos](/utopia/landscape/boroughs/pharos/) <button class="bulletbutton" href="/utopia/landscape/boroughs/pharos/">URL →</button></span>
+<span class="bulleticon">📄</span> **July 29, 2022** New borough article: [Pharos](/factbook/landscape/boroughs/pharos/) <button class="bulletbutton" href="/factbook/landscape/boroughs/pharos/">URL →</button></span>
 
 <span class="bulleticon">🌐</span> **June 24, 2022** Added lazy-loading to images on the site, improving performance.
 

@@ -7,7 +7,7 @@
             document.documentElement.setAttribute("data-theme", "light");
         }
     </script>
-    
+
     <meta charset="utf-8">
     <link rel="shortcut icon" href='{{ "favicon.ico" | absURL }}' type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -60,7 +60,7 @@
     <meta property="og:image" content="{{ .Params.image | relURL }}" />
     <meta property="og:image:secure_url" content="{{ .Params.image | absURL }}" />
     {{ end }}
-    
+
     <!-- Twitter cards -->
     <meta name="twitter:card" content="Illustrations from Studio MillMint" />
     <meta name="twitter:site" content="MillMint" />
@@ -78,20 +78,18 @@
     {{ end -}}
 
     <!-- SCRIPTS -->
-    
+
     <script async defer src="https://analytics.umami.is/script.js" data-website-id="f91bc5c9-a876-43b2-8ac3-713dd8d7d41e"></script>
 
     <!-- Gitalk Comments -->
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
     <!-- <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-    
+
     <!-- FancyBox v4 -->
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
     <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.1/jquery.fancybox.min.js"></script>
-    
+
     <!-- STYLESHEETS -->
-    
-    <link rel="stylesheet" id="commentscss" href="{{- "/css/comments.css" -}}" >
 
     {{- define "integrity" -}}
     {{- if (urls.Parse .Permalink).Host -}}

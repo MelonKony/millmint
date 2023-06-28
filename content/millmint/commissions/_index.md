@@ -11,9 +11,9 @@ icon: 📓
 emoji: Π
 color: millmint
 
-tags: 
+tags:
   - commissions
-  
+
 aliases:
   - /commissions/
 
@@ -35,8 +35,8 @@ author: Hobart Phillips
 ### Choosing a commission
 
 - **Email**: studio@millmint.net
-- **Discord**: MelonKony#2063
-- **Twitter**: @MelonKony
+- **Discord**: @millmint
+- **Twitter**: @melonKony
 
 You know what I draw -- it's probably how you found me. It should be no surprise then that I work best in my element. Consider how your commission can use my strengths as an artist, and I'll help you develop a concept.
 
@@ -115,5 +115,5 @@ Commissioned work is subject to the <span class="smallicon">📄</span> [MillMin
 {{</details>}}
 
 {{<hint>}}
-I can be contacted via [email](mailto:studio@millmint.net), [Twitter](https://twitter.com/MelonKony), or Discord (MelonKony#2063).
+I can be contacted via [email](mailto:studio@millmint.net), [Twitter](https://twitter.com/melonKony), or Discord (@millmint).
 {{</hint>}}

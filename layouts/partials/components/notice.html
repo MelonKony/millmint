@@ -18,12 +18,18 @@
   }
 
   span.new-tag {
-    margin-right: 5px; 
+    margin-right: 5px;
     line-height: .8rem;
   }
   span.nav-tag {
     font-size: 0.6rem;
     margin-left: 5px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    span.nav-tag {
+      display: none;
+    }
   }
 </style>
 
@@ -48,7 +54,7 @@
     const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
     const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
     const currentNoticeHref = notice.querySelector("a").href
-    
+
     if(location.pathname.startsWith('/stories/')) {
       // When visiting /stories/, add "last story" to localStorage
       noticesVisited.push(currentNoticeHref);

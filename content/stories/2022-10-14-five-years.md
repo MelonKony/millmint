@@ -25,7 +25,7 @@ print:
 video:
 ---
 {{<hint caption>}}
-Tzipora is communicating the birthday rune in [Upotenne](/utopia/culture/language/#upotenne), a warding sigil of good luck.
+Tzipora is communicating the birthday rune in [Upotenne](/factbook/society/culture/language/#upotenne), a warding sigil of good luck.
 {{</hint>}}
 
 **Today, the subreddit is five years old.** A better anniversary for this project would have been July 1st 2022 -- the date of my [first reddit post](https://www.reddit.com/r/worldbuilding/comments/6kgbkb/tzipora_has_her_photo_taken_at_youth_meet_2063/) -- but I missed that anniversary completely. This post is a late 5 year celebration of Vekllei. Next year I'll celebrate with you properly on *International Tzipora Day* (July 1st 2023, write it down).

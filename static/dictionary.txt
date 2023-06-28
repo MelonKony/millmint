@@ -7,6 +7,12 @@ Kalina: The Kalina Isles is a federated state of republics in the Antilles, and 
 Borough, Boroughs: An administrative region and local government of a Commonwealth state.
 Cherish, Cherishes: A small republic that forms part of a larger federated Commonwealth.
 
+/// Government
+Commonwealth Council: The supreme executive ruling council of Vekllei.
+Commonwealth Directory, Commonwealth Directorate: The elected council of peers representing constituents and territories of Vekllei.
+
+Sorda: The combined office of two Prime Ministers representing a republic in the Commonwealth Directory.
+
 /// Politics
 
 Bureau System: The system of consolidated co-operative companies that hold membership in an industrial council.
@@ -22,7 +28,7 @@ Assertive Defence: The policy of interventionism to assist a defensive strategic
 
 /// Acronyms
 
-Noshem: The National Intelligence Directorate of the Commonwealth Security Secretariat, Vekllei's overseas secret service.
+Noshem, National Intelligence Directorate: The National Intelligence Directorate of the Commonwealth Security Secretariat, Vekllei's overseas secret service.
 Adsem: The military intelligence department of the Commonwealth's armed forces.
 
 HO/NI: Home Office at National Intelligence.
@@ -33,12 +39,14 @@ VNR: Vekllei National Rail.
 VENOPOR: The Parliamentary Police, the national police service in Vekllei, as distinct from the local constabulary.
 COSMOPOR: The Public Police, the local police service in Vekllei who are often unarmed.
 
+SESEC: The State Security Directorate.
+
 /// History
 
 4th Commonwealth: Current postwar government of Vekllei, founded on the Floral Constitution in 2015AD.
-3rd Commonwealth, Atlantic Junta, The Junta: Series of military governments that founded Vekllei's colonial period between 1440-2005AD.
-2nd Commonwealth: Second monarchy of Vekllei, establishing the country as a trading power between 1200-1440AD.
-1st Commonwealth: The first monarchy of Vekllei, which united the Vekllei Islands between 700-1200AD.
+3rd Commonwealth, Atlantic Junta, The Junta: Series of military governments that founded Oslola's colonial period between 1440-2005AD.
+2nd Commonwealth: Second monarchy of Oslola, establishing the country as a trading power between 1200-1440AD.
+1st Commonwealth: The first monarchy of Oslola, which united the Oslolan Islands between 700-1200AD.
 Interim Government: The independence government after British occupation that lasted between 2015-2022AD.
 Visis Plan: The postwar development plan that aided Vekllei's recovery following the First Atomic War.
 
@@ -76,7 +84,7 @@ Venrouive: Lit. "public work," a classification of business that holds membershi
 
 /// Culture
 
-Upen: Animistic folk religion indigenous to Vekllei, which still informs much of Vekllei culture.
+Upen: Animistic folk religion indigenous to Oslola, which still informs much of Oslolan culture.
 
 Cosmatsisosmiosne de Ne: Lit. “Woman of the New Age."
 Cosmavisiousnesh: Lit. "plastic woman," a woman commodified by predatory market forces.
@@ -87,7 +95,7 @@ Sumoismiaya: Lit. "spirit of life/things," the animism of Vekllei landscape.
 Rosmehn: Lit. "new neighbours," describing an immigrant who settled after the war.
 Visa Con: Lit. "personal pilgrimage," a legendary pilgrimage around the Vekllei Islands.
 Corcidi: An Algic condensed poem, a practice of distilling poems into single words.
-
+Saga: An historic prose narrative that recorded the oral history of early Oslola.
 Potenne: Lit. "hand-talk," an auxilliary sign language Vekllei people use to express emotion or contextualise the spoken word.
 Rapotenne: Lit. "name-talk," the Vekllei language of names believed to have spiritual power.
 Upotenne: Lit. "spirit-hand-talk," a Vekllei sign language used for religious purposes to communicate rune-forms.
@@ -95,7 +103,7 @@ Topet: Vekllei written language, consisting of 3,500 logographs.
 
 /// Objects
 
-Duapolutchi: Lit. "twin lights," a tool used in religious ceremonies. 
+Duapolutchi: Lit. "twin lights," a tool used in religious ceremonies.
 Gi: Ceremonial quarter-pleat stitched with words, worn by women.
 Jouvismoakoisnisn: Traditional religious belt, worn in rituals.
 Kitpek: Lit. "flat hat," a traditional hat used in Vekllei agriculture.

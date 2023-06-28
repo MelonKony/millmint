@@ -10,7 +10,6 @@ header {
   margin: 0 0 1rem 0;
 
   a:hover {
-	text-decoration: none;
 	filter: none;
   }
 }
@@ -25,13 +24,16 @@ header {
   @include text-2xl;
   @include font-bold;
   @include radius-medium;
-  color: $background;
+  color: var(--body-background);
   vertical-align: middle;
   padding: 2px 6px 2px 6px;
   background-color: var(--color-gray);
 }
 
 .brand-emoji {
+	// disable brand emoji
+	display: none;
+
   font-family: 'Whirlybats';
   font-size: 30px !important;
   font-weight: normal;
@@ -55,6 +57,7 @@ brand-emoji:hover {
   box-shadow: inset 0 0 0 2px var(--logo-color, var(--color-gray));
   color: var(--logo-color, var(--color-gray));
   background-color: var(--body-background);
+  text-decoration: none;
 }
 
 @keyframes slidebg {
@@ -133,7 +136,7 @@ header .menu-btn {
 // Article Header
 
 header.info {
-	margin: 2rem 0 2rem 0;
+	margin: 0 0 2rem 0;
 	display: grid;
 	grid-template-columns: 0fr 1fr .35fr fit-content(20%);
 	grid-auto-rows: minmax(min-content, max-content);

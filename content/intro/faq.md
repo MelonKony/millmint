@@ -43,7 +43,7 @@ color: var(--color-red);
 </style>
 
 {{< hint >}}
-߷ This article is about [**Hobart's utopia**](/intro/#three-utopias), called [**Vekllei**](/utopia/vekllei)
+߷ This article is about [**Hobart's utopia**](/intro/#three-utopias), called [**Vekllei**](/factbook/vekllei)
 {{</hint>}}
 
 ## Why Utopia?
@@ -106,7 +106,7 @@ Vekllei is a female country. Womanhood is decommodified. It's maternal, social a
 
 #### Who is Zelda?
 
-Zelda is another name for [Tzipora](/utopia/characters/). She has two names specifically to confuse you.
+Zelda is another name for [Tzipora](/factbook/characters/). She has two names specifically to confuse you.
 
 [Join the Patreon](https://www.patreon.com/vekllei).
 

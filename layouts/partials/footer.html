@@ -1,11 +1,22 @@
 <footer>
+
+  <!-- stories-specific footer -->
+  {{ if in .Params.categories "story" }}
   {{ partial "stories/story-footer.html" . }}
+  {{ end }}
+  {{ if in .Params.categories "blog" }}
+  {{ partial "stories/story-footer.html" . }}
+  {{ end }}
+  {{ if in .Params.categories "sketch" }}
+  {{ partial "stories/story-footer.html" . }}
+  {{ end }}
+
   {{ partial "components/breadcrumbs.html" . }}
 
   <div class="footer">
     <span class="smalldate">Edited {{ .Lastmod.Format "02/01/2006" }}</span>
     <span class="pill">
-      <div class="pill-category">{{ partial "taxonomies/categories.html" .}}</div>
+      <div class="pill-category">{{ .Section }}</div>
       <div class="pill-icon">🟪</div>
       <div class="pill-title">{{ .Params.title }}</div>
     </span>
@@ -28,7 +39,7 @@
     data-page-id="{{ .File.UniqueID }}" data-page-url="{{ .Permalink }}"
     data-page-title="{{ .Title }}"></div>
   <script async defer src="/js/comments.js"></script> -->
-  
+
   <!--<div id="gitalk-container">
 	  <script>
   		  const gitalk = new Gitalk({
@@ -40,7 +51,7 @@
 			  id: location.pathname,      // Ensure uniqueness and length less than 50
 			  distractionFreeMode: false  // Facebook-like distraction free mode
   		  })
-		  
+
   		  gitalk.render('gitalk-container')
   	  </script>
 	    <link rel="stylesheet" href="/css/comments.css">

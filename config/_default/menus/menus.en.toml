@@ -5,108 +5,108 @@
   pre = "📔"
   weight = 1
 [[navbar]]
-  identifier = "utopia"
-  name = "Utopia"
+  identifier = "factbook"
+  name = "Factbook"
   pre = "📓"
-  url = "/utopia/"
+  url = "/factbook/"
   weight = 2
   [[navbar]]
     identifier = "vekllei"
-    name = "Home"
-    pre = "🏠"
-    url = "/utopia/vekllei/"
-    parent = "utopia"
+    name = "Vekllei"
+    pre = "🌹"
+    url = "/factbook/vekllei/"
+    parent = "factbook"
     weight = 1
   [[navbar]]
     identifier = "characters"
     name = "Characters"
     pre = "🎎"
-    url = "/utopia/characters/"
-    parent = "utopia"
+    url = "/factbook/characters/"
+    parent = "factbook"
     weight = 2
   [[navbar]]
     identifier = "culture"
     name = "Culture"
     pre = "🏵"
-    url = "/utopia/culture"
-    parent = "utopia"
+    url = "/factbook/society/culture"
+    parent = "factbook"
     weight = 3
     [[navbar]]
       identifier = "language"
       name = "Language"
       pre = "📖"
-      url = "/utopia/culture/language"
+      url = "/factbook/society/culture/language"
       parent = "culture"
       weight = 1
     [[navbar]]
       identifier = "metaphysics"
       name = "Metaphysics"
       pre = "🪬"
-      url = "/utopia/culture/metaphysics"
+      url = "/factbook/society/culture/metaphysics"
       parent = "culture"
       weight = 2
     [[navbar]]
       identifier = "religion"
       name = "Religion"
       pre = "💀"
-      url = "/utopia/culture/religion"
+      url = "/factbook/society/culture/religion"
       parent = "culture"
       weight = 3
     [[navbar]]
       identifier = "sagas"
       name = "Sagas"
       pre = "🕯️"
-      url = "/utopia/culture/sagas"
+      url = "/factbook/society/culture/sagas"
       parent = "culture"
       weight = 4
   [[navbar]]
     identifier = "landscape"
     name = "Landscape"
     pre = "🌿"
-    parent = "utopia"
-    url = "/utopia/landscape"
+    parent = "factbook"
+    url = "/factbook/landscape"
     weight = 4
     [[navbar]]
       identifier = "boroughs"
       name = "Boroughs"
       pre = "🌐"
-      url = "/utopia/landscape/boroughs"
+      url = "/factbook/landscape/boroughs"
       parent = "landscape"
       weight = 1
   [[navbar]]
     identifier = "society"
     name = "Society"
     pre = "🏛"
-    parent = "utopia"
-    url = "/utopia/society"
+    parent = "factbook"
+    url = "/factbook/society"
     weight = 5
     [[navbar]]
       identifier = "state"
       name = "State"
       pre = "🌸"
-      url = "/utopia/society/state/"
+      url = "/factbook/society/state/"
       parent = "society"
       weight = 1
     [[navbar]]
       identifier = "industry"
       name = "Industry"
       pre = "⚙️"
-      url = "/utopia/society/industry/"
+      url = "/factbook/society/industry/"
       parent = "society"
       weight = 2
     [[navbar]]
     identifier = "technology"
     name = "Technology"
     pre = "🧪"
-    url = "/utopia/society/technology"
+    url = "/factbook/society/technology"
     parent = "society"
     weight = 3
   [[navbar]]
     identifier = "timeline"
     name = "Timeline"
     pre = "⏳"
-    parent = "utopia"
-    url = "/utopia/timeline"
+    parent = "factbook"
+    url = "/factbook/timeline"
     weight = 6
 [[navbar]]
   identifier = "newsdesk"
@@ -170,6 +170,13 @@
       url = "/millmint/essays/tokyo"
       parent = "essays"
       weight = 4
+    [[navbar]]
+      identifier = "west"
+      name = "The West Coast"
+      pre = "🏔️"
+      url = "/millmint/essays/west"
+      parent = "essays"
+      weight = 5
 [[navbar]]
   identifier = "posts"
   name = "Stories"

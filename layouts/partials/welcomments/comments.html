@@ -10,17 +10,18 @@
   </div>
 {{ end }}
 
-<div id="welcomments__container" class="welcomments__container">
-  {{ $allComments := dict }}
-  {{ if isset .context.Site.Data.welcomments $slug }}
-    {{ $allComments = index .context.Site.Data.welcomments $slug }}
-  {{ end }}
+ {{ $allComments := dict }}
+{{ if isset .context.Site.Data.welcomments $slug }}
+  {{ $allComments = index .context.Site.Data.welcomments $slug }}
+{{ end }}
 
-  {{ if gt $allComments 0 }}
-    <h3 id="welcomments__comment-count-title" class="welcomments__comments-title">{{ len $allComments }} comment{{ if gt $allComments 1 }}s{{ end }}</h3>
-  {{ else }}
-    <h3 id="welcomments__comment-count-title" class="welcomments__comments-title">No comments yet!</h3>
-  {{ end }}
+<details class="commentbox">
+<summary class="commentbox">{{ if gt $allComments 0 }}<span id="welcomments__comment-count-title" class="welcomments__comments-title">{{ len $allComments }} comment{{ if gt $allComments 1 }}s{{ end }}</span>
+{{ else }}
+  <span id="welcomments__comment-count-title" class="welcomments__comments-title">Leave a comment</span>
+{{ end }}<span class="smallicon" style="font-size: 18px; float: right;">💬</span></summary>
+
+<div id="welcomments__container" class="welcomments__container">
 
   <section id="welcomments__comment-container" class="welcomments__comment-container">
     {{- range $allComments -}}
@@ -42,12 +43,13 @@
   {{- $data  = merge $data (dict "slug" $slug) -}}
   {{ partial "welcomments/comment_form" $data }}
 </div>
+</details>
 
 <!--
   Contains some basic comment section styling, so that you can get started quickly
   without having to come up with your own CSS if you don't want to.
                                                                                -->
-<link rel="stylesheet" href="https://cdn.welcomments.io/welcomments.css" />
+<link rel="stylesheet" href="/style.css/" />
 
 <!--
   Includes the optional Welcomments Javascript file. It enhances the user experience

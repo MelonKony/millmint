@@ -8,5 +8,7 @@ icon: ✏️
 aliases:
 - /blog/
 
+draft: true
+
 color: orange
 ---
