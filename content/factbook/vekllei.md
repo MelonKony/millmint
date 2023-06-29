@@ -339,7 +339,7 @@ Vekllei has 16 official unique languages, a result of its unique communities and
 
 Vekllei is agonistic and has no official religion, but recognises and has protections for traditional and folk religions. Recognised traditional faiths include folk Oslolan spiritualism, Kalina local faiths and the Catholic, Apostolic and Roman religions.
 
-Religion plays a role in certain Commonwealth societies, affecting local holidays and days of rest. In societies with large folk religions like Oslola and Kalina, aspects of religion
+Religion plays a role in certain Commonwealth societies, affecting local holidays and days of rest. In societies with large folk religions like Oslola and Kalina, aspects of local faith are present in the structure of municipal government and public companies.
 
 Although the official position of the Commonwealth is as a lay, secular republic that forbids public worship in state institutions like schools and government, it is loosely enforced.
 
