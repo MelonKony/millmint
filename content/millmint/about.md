@@ -5,7 +5,7 @@ icon: 🪺
 emoji: v
 color: brown
 
-tags: 
+tags:
   - about
 categories:
   - news
@@ -17,10 +17,11 @@ aliases:
 
 toc: false
 comments: false
+autonumbering: false
 
 description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
 author: Hobart Phillips
- 
+
 ---
 <!--{{<section>}}
 ![smallimg](https://images.millmint.net/images/mastheads/author.png)
@@ -34,7 +35,7 @@ author: Hobart Phillips
 
 Vekllei has existed in some form since I was a kid, but I started working on it properly in 2017.
 
-You can follow my progress on this project on [Twitter](https://twitter.com/MelonKony), or join [my subreddit](https://www.reddit.com/r/vekllei). 
+You can follow my progress on this project on [Twitter](https://twitter.com/MelonKony), or join [my subreddit](https://www.reddit.com/r/vekllei).
 
 You can **write to me** at <span class="smallicon">📧</span> hobart@millmint.net.
 
@@ -46,11 +47,57 @@ Sincere thanks to [Jip](https://jipfr.nl) and Ben R. R. for their contributions 
 
 ## News
 
-<small>Last updated: 19 Apr 2023</small>
+<small>Last updated: 08 Jul 2023</small>
+
+{{<hint header>}}
+July 2023
+{{</hint>}}
+
+<span class="bulleticon">📔</span> **July 7, 2023** New comic: [*Atomica 1: Cola*](/stories/cola/) <button class="bulletbutton" href="/stories/cola/">URL →</button></span>
+
+{{<hint header>}}
+June 2023
+{{</hint>}}
+
+<span class="bulleticon">🌐</span> **June 28, 2023** Start of a major content update, including new and revised articles on [Vekllei](/vekllei/), its [Basic Laws](/basic-laws/), and its [Government](/government/). Part of a massive lore update I'm calling "Vekllei 2.0."
+
+<span class="bulleticon">📗</span> **June 23, 2023** New post: [*Portrait of Tzipora & Cobian*](/stories/portrait/) <button class="bulletbutton" href="/stories/portrait/">URL →</button></span>
+
+<span class="bulleticon">📗</span> **June 21, 2023** New post: [*The Dunes*](/stories/dune/) <button class="bulletbutton" href="/stories/dune/">URL →</button></span>
+
+<span class="bulleticon">📒</span> **June 16, 2023** New sketch: [*Weirdo*](/stories/weirdo/) <button class="bulletbutton" href="/stories/weirdo/">URL →</button></span>
+
+<span class="bulleticon">🌐</span> **June 14, 2023** MillMint.net now has comments enabled under stories, powered by Welcomments. It's a great solution for static sites.
+
+<span class="bulleticon">📒</span> **June 12, 2023** New sketch: [*Friends*](/stories/friends-draft/) <button class="bulletbutton" href="/stories/friends-draft/">URL →</button></span>
+
+<span class="bulleticon">📒</span> **June 11, 2023** New sketch: [*The News*](/stories/news/) <button class="bulletbutton" href="/stories/news/">URL →</button></span>
+
+<span class="bulleticon">📗</span> **June 9, 2023** New post: [*Tzipora's New Look*](/stories/sack/) <button class="bulletbutton" href="/stories/sack/">URL →</button></span>
+
+<span class="bulleticon">📗</span> **June 8, 2023** New post: [*Saba Island Sneakers*](/stories/sneakers/) <button class="bulletbutton" href="/stories/sneakers/">URL →</button></span>
+
+<span class="bulleticon">📒</span> **June 5, 2023** New sketch: [*Sulking*](/stories/sulk/) <button class="bulletbutton" href="/stories/sulk/">URL →</button></span>
+
+<span class="bulleticon">📗</span> **June 3, 2023** New post: [*Anarchist Trams*](/stories/trams/) <button class="bulletbutton" href="/stories/trams/">URL →</button></span>
+
+<span class="bulleticon">📗</span> **June 2, 2023** New post: [*An Intelligence Analyst and Her Medals*](/stories/analyst/) <button class="bulletbutton" href="/stories/analyst/">URL →</button></span>
+
+{{<hint header>}}
+May 2023
+{{</hint>}}
+
+<span class="bulleticon">📒</span> **May 16, 2023** New sketch: [*Hardware*](/stories/hardware/) <button class="bulletbutton" href="/stories/hardware/">URL →</button></span>
+
+<span class="bulleticon">📒</span> **May 2, 2023** New sketch: [*Downpour*](/stories/downpour/) <button class="bulletbutton" href="/stories/downpour/">URL →</button></span>
 
 {{<hint header>}}
 April 2023
 {{</hint>}}
+
+<span class="bulleticon">📒</span> **April 30, 2023** New sketch: [*Natural Corners*](/stories/corner/) <button class="bulletbutton" href="/stories/corner/">URL →</button></span>
+
+<span class="bulleticon">📗</span> **April 24, 2023** New post: [*Tzipora, the Wanderer*](/stories/field-portrait/) <button class="bulletbutton" href="/stories/field-portrait/">URL →</button></span>
 
 <span class="bulleticon">📗</span> **April 18, 2023** New post: [*Atomic Main Battle Tank*](/stories/tank/) <button class="bulletbutton" href="/stories/tank/">URL →</button></span>
 
@@ -228,7 +275,7 @@ July 2022
 <span class="bulleticon">📗</span> **July 12, 2022** New post: [*Café Diplomacy*](/posts/2022-07-12-vista/) <button class="bulletbutton" href="/posts/2022-07-12-vista/">URL →</button></span>
 
 {{<hint header>}}
-June 2022 
+June 2022
 {{</hint>}}
 
 <span class="bulleticon">📄</span> **July 29, 2022** New borough article: [Pharos](/factbook/landscape/boroughs/pharos/) <button class="bulletbutton" href="/factbook/landscape/boroughs/pharos/">URL →</button></span>
