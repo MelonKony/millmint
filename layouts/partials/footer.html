@@ -10,6 +10,9 @@
   {{ if in .Params.categories "sketch" }}
   {{ partial "stories/story-footer.html" . }}
   {{ end }}
+  {{ if in .Params.categories "comic" }}
+  {{ partial "stories/story-footer.html" . }}
+  {{ end }}
 
   {{ partial "components/breadcrumbs.html" . }}
 

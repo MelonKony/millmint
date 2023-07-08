@@ -63,3 +63,24 @@
     }
   </style>
 {{ end }}
+
+<!-- hides category elements and feature image for comics -->
+{{ if in .Params.categories "comic" }}
+  <style>
+    .article-tag {
+      display: none;
+    }
+    .article-category {
+      display: none;
+    }
+    .headcrumbs {
+      display: none!important;
+    }
+    .pill {
+      display: none;
+    }
+    img.page {
+      display: none;
+    }
+  </style>
+{{ end }}
