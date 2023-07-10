@@ -1,0 +1,9 @@
+{
+  "author": {
+    "name": "Jip"
+  },
+  "date": "2023-07-10T17:20:22Z",
+  "id": "01H50D336DCENJFCM71E3CRRRS",
+  "message": "hoi <script>alert('text')</script>",
+  "message_html": "<p>hoi &lt;script&gt;alert(‘text’)&lt;/script&gt;</p>"
+}
