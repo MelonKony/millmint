@@ -110,10 +110,10 @@ if (localStorage.theme === 'light' || (!('theme' in localStorage) && window.matc
           setCardBackground(rgbArray);
         } else {
           if (img.complete) {
-            getColors(img, 0, null).then(setCardBackground);
+            getColors(img, 0, setCardBackground);
           } else {
             img.addEventListener("load", function () {
-              getColors(img, 0, null).then(setCardBackground);
+              getColors(img, 0, setCardBackground);
             });
           }
         }
@@ -132,7 +132,7 @@ async function getColors(img, retryCount = 0, callback = setBackgroundColor) {
     if (callback) callback(swatches[key].rgb);
     return swatches[key].rgb;
   } catch (e) {
-    console.log(retryCount, e);
+    console.log(retryCount, img, e);
     if (retryCount <= 3) {
       setTimeout(() => getColors(img, retryCount + 1, callback), 30);
       console.log("Retrying Vibrant");
