@@ -12,7 +12,7 @@
     <div class="welcomments__author-information">
       <div class="welcomments__author-name-and-time">
         <h3 class="welcomments__author-name" itemprop="author" itemscope itemtype="https://schema.org/Person">
-          <span itemprop="name">{{ .authorName }}</span>
+          <span itemprop="name">{{ .authorName | safeHTML }}</span>
         </h3>
         <p class="welcomments__comment-time">
           <a {{ printf "href=\"#welcomments__comment-%s\"" .id | safeHTMLAttr }} itemprop="url">
@@ -24,7 +24,7 @@
       </div>
     </div>
   </div>
-  <div itemprop="text" class="welcomments__comment-message">{{ .message }}</div>
+  <div itemprop="text" class="welcomments__comment-message">{{ .message | safeHTML }}</div>
   <a class="welcomments__comment-reply-link"
      {{ printf "href=\"%s/websites/%s/comments/%s/reply\"" .apiUrl .websiteId .id | safeHTMLAttr }}>
     Reply to {{ .authorName }}
