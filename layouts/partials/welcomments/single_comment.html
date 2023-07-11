@@ -4,7 +4,7 @@
 {{- $commentElementClass := print "welcomments__comment" $nestingLevelClass $authorHighlight -}}
 {{- $dateXmlSchema := index .comment "date" -}}
 {{- $formattedDate := dateFormat "January 2, 2006" $dateXmlSchema -}}
-{{- $message := index .comment "message" | markdownify -}}
+{{- $message := index .comment "message_html" | markdownify -}}
 {{- $avatar := (cond (eq (index .comment "author" "avatar_url") nil) (print "https://eu.ui-avatars.com/api/?background=random&name=" (index .comment "author" "name")) (index .comment "author" "avatar_url")) -}}
 
 {{- $data := dict -}}
