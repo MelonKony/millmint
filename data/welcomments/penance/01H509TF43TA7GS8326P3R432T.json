@@ -1,9 +1,0 @@
-{
-  "author": {
-    "name": "Jipalert(1.1)"
-  },
-  "date": "2023-07-10T16:23:13Z",
-  "id": "01H509TF43TA7GS8326P3R432T",
-  "message": "Hax<script>alert(3)</script>",
-  "message_html": "<p>Hax&lt;script&gt;alert(3)&lt;/script&gt;</p>"
-}
