@@ -9,11 +9,10 @@
 }
 
 img.page {
-  @include radius-base;
-  width: auto;
-  height: auto;
-  object-fit: contain;
-  background-color: transparent;
+  @include mx-auto;
+  @include padding-2;
+  @include highlight-background;
+  box-sizing: border-box;
 }
 
 /*.article-tag {
@@ -41,7 +40,7 @@ img.page {
 .tag {
   padding: 0;
   text-transform: capitalize;
-  
+
   .blank {
     @include font-color;
   }

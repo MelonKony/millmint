@@ -6,7 +6,7 @@ icon: 🗼
 emoji: g
 color: green
 
-tags: 
+tags:
   - borough
 categories:
   - commonwealth
@@ -40,7 +40,7 @@ Krafla is named after the petty demon Fismiosn Krafla mentioned in the *Saga of 
 
 ## History
 
-> Some of the boroughs, they just sort of made up, didn't they? 
+> Some of the boroughs, they just sort of made up, didn't they?
 
 -- Tzipora Desmoisnes
 
@@ -50,13 +50,13 @@ Krafla was insulated from Christianisation of northern Vekllei in the 15th and 1
 
 In 1911, the Krafla Hydroelectric Dam collapsed, washing away much of Krafla's downstream riverside township and killing nearly half the population of the town. Krafla was rebuilt at a higher elevation.
 
-The borough remained heavily agricultural up until the Atomic War, comprising mostly of traditional co-operative farms. 
+The borough remained heavily agricultural up until the Atomic War, comprising mostly of traditional co-operative farms.
 
 In the Floral Period, life in Krafla remains agrarian, but the borough does attract some regional tourism as a thoroughfare into the deeper highland interior.
 
 ## Geography
 
-Krafla is extremely flat, glacial and dominated by lava fields. Snow settles across its wide basalt plains and contributes to seasonal melting that feeds into the Joskuslsa River. Krafla has extraordinarily fertile soil, and its satellite farm towns of Krafla-Vis and Voya Vema are dominated by centuries-old farming communities. The 'Borough Town' of Krafla resembles a moonscape. 
+Krafla is extremely flat, glacial and dominated by lava fields. Snow settles across its wide basalt plains and contributes to seasonal melting that feeds into the Joskuslsa River. Krafla has extraordinarily fertile soil, and its satellite farm towns of Krafla-Vis and Voya Vema are dominated by centuries-old farming communities. The 'Borough Town' of Krafla resembles a moonscape.
 
 ### Old Kralfa Ruins
 
@@ -82,7 +82,7 @@ In the highlands on the far side of the Joskuslsa river are Krafla's mysterious 
 
 ## Infrastructure
 
-Krafla is dependent on its arterial M224 highway and regional rail connections. As part of the agricultural belt in the north glacial lava fields, Krafla lacks heavy industry or the presence of bureau commerce. It is a traditional borough characterised by Vekllei co-operative (*socialistzesm*) farms and minor regional tourism. 
+Krafla is dependent on its arterial M224 highway and regional rail connections. As part of the agricultural belt in the north glacial lava fields, Krafla lacks heavy industry or the presence of bureau commerce. It is a traditional borough characterised by Vekllei co-operative (*socialistzesm*) farms and minor regional tourism.
 
 ### Seispri Vis Inn
 
@@ -90,10 +90,7 @@ The *Seispri Vis* Inn is a traditional *Mosesm*-style Inn in the centre of Krafl
 
 ### Krafla High-Energy Communications Tower
 
-![smallimg](https://images.millmint.net/images/basecamp.jpg)
-{{< hint caption >}}
-The Krafla HET marks the landscape for miles around | *[Base Camp](/posts/2020-07-21-base-camp/)*
-{{</hint>}}
+![smallimg](/images/basecamp.jpg "The Krafla HET marks the landscape for miles around | *[Base Camp](/posts/2020-07-21-base-camp/)*")
 
 The Krafla High-Energy Communications Tower was constructed by the Commonwealth Telecom Directorate in 2028 to improve electric switchboard service in Vekllei's north-east. An old-fashioned mast radiator design, the guyed tower radiates vertically polarised radio waves that service most of the Home Islands.
 

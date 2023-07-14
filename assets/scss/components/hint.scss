@@ -52,11 +52,15 @@ body article blockquote {
 .hint.caption {
 	@include text-xs;
 	@include font-semibold;
-	margin: -0.5rem 0 0.5rem 0;
+	@include padding-2;
+	@include radius-base;
+	@include highlight-background;
+	@include highlight;
+	margin: -2rem 0 0.5rem 0;
 	text-align: center;
 	letter-spacing: -.01em;
-	color: var(--color-gray);
-	background-color: transparent;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
 }
 
 // hint colours

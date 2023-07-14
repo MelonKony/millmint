@@ -5,7 +5,7 @@ icon: 🚇
 emoji: T
 color: vnr
 
-tags: 
+tags:
   - industry
 categories:
   - society
@@ -21,7 +21,7 @@ aliases:
 
 description: The railways of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips
- 
+
 ---
 {{< hint >}}
 ߷ This article is about [**Vekllei**](/factbook/vekllei) society
@@ -44,10 +44,7 @@ Since nationalisation of the private Vekllei rail companies in 1925, the structu
 
 Vekllei is unique in the density of its rail, a feature of deliberate postwar city planning and the Home Island's history as an industrial port city-state. Very few Vekllei people own automobiles, and trains remain by far the most common method of travel in the country. Because of this, the rail network in metropolitan areas is extraordinarily dense, and is designed to offer access to nearly every residence in urban areas. This fact also explains the presence of dedicated rail lines to small towns and villages that would otherwise not justify their maintenance. As visible on the map above, the passenger rail network in Vekllei is unsurpassed in its density, which contributes to the dependence Vekllei people have on their trains.
 
-![img](https://images.millmint.net/images/railmap.jpg)
-{{< hint caption >}}
-A map of the rail network and boroughs of Vekllei, showcasing maglev (red), high-speed (yellow), regional (orange) and local (brown) lines | *[100 Boroughs](/posts/2020-06-14-map/)*
-{{</hint>}}
+![Map of rail networks in Oslola](/images/railmap.jpg "A map of the rail network and boroughs in Oslola, showcasing maglev (red), high-speed (yellow), regional (orange) and local (brown) lines | *[100 Boroughs](/posts/2020-06-14-map/)*")
 
 Similarly, almost all freight is run along rails of varying gauges. These range from conventional freight trains at standard gauge, to municipal delivery trains at metre guage, and even narrow gauges for moving freight and equipment within large factory complexes. Most major stores and grocers are arranged along freight lines with dedicated sidings, or have their own narrow-gauge tracks dedicated to their use.
 
@@ -85,10 +82,8 @@ In the late 1980s, VNC started work on what would eventually become the Vekllei-
 
 National Rail Company assets that had been operated by the occupation Vekllei Provisional Government were transferred to the Vekllei Interim Government in 2015 and reestablished as Vekllei National Rail (VNR) in 2018. The Floral Period has been marked by steady growth in ridership and the scale of its network. The organisation also invests heavily into the development of new locomotives and EMUs, culminating in 2047 with the announcement of the Vekllei East Coast Maglev Scheme, which are the fastest commuter trains in the world.
 
-![img](https://images.millmint.net/images/shrine-minded.jpg)
-{{< hint caption >}}
-A Lesvesn 59-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
-{{</hint>}}
+![Map of a train pulling into a windy coastal village](/images/shrine-minded.jpg "A Lesvesn 59-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*")
+
 
 In 2055, VNR celebrated "250 years of rail," and its livery and staff uniforms were overhauled to mark the occasion.
 
@@ -158,10 +153,7 @@ Responsible to the [Railways Bureau](/factbook/society/state/government/interior
 
 Access to public transport is considered a "critical luxury" of the Vekllei state (the Vekllei turn-of-phrase for essential state services) and, by extension, the functioning of its society. By design, it makes no profit, and is subsidised entirely by the Transport Requisite of the Vekllei Government and various independent transport bureaus for the benefit of any Vekllei person. Even prior to the war and investment of the Floral Period, Vekllei's public transport was widely regarded as among the finest of any network in the world thanks to its impeccable safety record, timeliness, and comprehensive coverage.
 
-![img](https://images.millmint.net/images/hollywood.jpg)
-{{< hint caption >}}
-A Mustard 56-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*
-{{</hint>}}
+![Image of kids making a film in front of a rail line and factory](/images/hollywood.jpg "A Mustard 56-Series passes a steam processing plant | *[Gone Hollywood](/stories/hollywood/)*")
 
 Rail transport contributes tremendously to the national culture and common affection for Vekllei's public institutions. It is also commonly percieved as a triumph of the postwar floral Period, despite rail history in Vekllei dating back hundreds of years prior. The ongoing expansion of the VNR network and renovation of stations and railhubs commands attention internationally, which is watching Vekllei celebrate its golden age of rail.
 

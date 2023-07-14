@@ -152,7 +152,7 @@ article {
   figure {
     @include my-4;
     text-align: center;
-    
+
     @media screen and (min-width: $md_min_width) {
       margin-left: -1.25rem;
       margin-right: -1.25rem;
@@ -161,5 +161,10 @@ article {
 
   img {
     @include mx-auto;
+    @include padding-2;
+    @include highlight-background;
+    box-sizing: border-box;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
   }
 }

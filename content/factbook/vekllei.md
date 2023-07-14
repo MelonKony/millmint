@@ -22,6 +22,8 @@ toc: true
 aliases:
 - /vekllei/
 
+rgb: 222, 24, 87
+
 description: Vekllei is an immersive visual world, written and illustrated by Hobart Phillips.
 author: Hobart Phillips
 ---
@@ -94,15 +96,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
 
 ### Territories
 
-The Commonwealth spans the length and width of the Atlantic and Caribbean oceans. Its northernmost island in the Commonwealth is Helvasia (*Svalbard*) in the Arctic Ocean, and its southernmost island is Southern Thule, in the Sude island chain (*South Sandwich*). The Commonwealth also has Antarctic and Lunar territories. They are united by a strong central government, and administered in a cascading federal system.
-
-These islands are diverse in both size and geography, and range from barren subarctic rocks to flourishing Caribbean archipelagoes,
-
-A major motivator of membership in the Commonwealth is its trade influence and wealth, since [constituents](/constituents/) and [territories](/territories/) are entitled to the same standards of living as its major industrial territories. The most recent member is Cabo Verde, acceding in 2038 after two decades of membership in the [Council of Oceans](/oceans-council/).
-
-The Commonwealth has explored petitions for membership from non-island countries including Suriname, though these have been unsuccessful.
-
-{{< details title="Commonwealth Republics" open=false >}}
+{{< details title="List of Commonwealth Republics" open=false >}}
 **Vekllei Federal Territories**
 
 * Vekllei Antarctic Territories
@@ -118,8 +112,8 @@ The Commonwealth has explored petitions for membership from non-island countries
 * Falklands Islands (*Falklands Islands*)
 * Helena (*St Helena*)
 * Ascension (*Ascension Islands*)
-* Tristan (*Tristan de Cunha*)
-* Bermuda (*Bermuda*)
+* Santes (*Tristan de Cunha*)
+* Summers (*Bermuda*)
 
 **Constituent Member-States**
 
@@ -131,26 +125,45 @@ The Commonwealth has explored petitions for membership from non-island countries
 * Bahamas Commonwealth (*Bahamas*)
 * Kala Commonwealth (*Greenland*)
 * Kalina Commonwealth
+    * Allia Republic (*Montserrat*)
+    * Aloi Republic (*Sint Eustatius*)
     * Anguis Republic (*Anguilla*)
     * Antam Republic (*Antigua*)
     * Barbuda Republic (*Barbuda*)
     * Barbados Republic (*Barbados*)
-    * Kubuli Republic (*Dominica*)
-    * Karukera Republic (*Guadeloupe*)
     * Cama Republic (*Grenada*)
-    * Liamuiga Republic (*Saint Kitts*)
-    * Soualiga Republic (*Saint Martin Island*)
-    * Lucia Republic (*Saint Lucia*)
-    * Allia Republic (*Montserrat*)
-    * Oualie Republic (*Nevis*)
-    * Saba Republic (*Saba*)
-    * Youloumain Republic (*Saint Vincent and the Grenadines*)
-    * Virgin Republic (*British and US Virgin Islands*)
+    * Kabuli Republic (*Dominica*)
     * Kairi Republic (*Trinidad & Tobago*)
+    * Karu Republic (*Guadeloupe*)
+    * Madiana Republic (*Martinique*)
+    * Liamuiga Republic (*St Kitts*)
+    * Lucia Republic (*St Lucia*)
+    * Oualie Republic (*Nevis*)
+    * Ouanalao Republic (*St Barthélemy*)
+    * Soualiga Republic (*St Martin Island*)
+    * Saba Republic (*Saba*)
+    * Virgin Republic (*British and US Virgin Islands*)
+    * Youloumain Republic (*Saint Vincent and the Grenadines*)
 * Mira Commonwealth (*Madeira*)
 * Oslola Commonwealth (*Iceland*)
+* Principe Commonwealth
+  * Principe (*São Tomé and Príncipe*)
+  * Annobón
 * Verde Commonwealth (*Cabo Verde*)
 {{< /details >}}
+
+![Map of Vekllei territories across the Atlantic](/svg/maps/territory.svg "Map of Vekllei, including its Commonwealths, Federal Departments and Territories.")
+
+The Commonwealth spans the length and width of the Atlantic and Caribbean oceans. Its northernmost island in the Commonwealth is Helvasia (*Svalbard*) in the Arctic Ocean, and its southernmost island is Southern Thule, in the Sude island chain (*South Sandwich*). The Commonwealth also has Antarctic and Lunar territories. They are united by a strong central government, and administered in a cascading federal system.
+
+These islands are diverse in both size and geography, and range from barren subarctic rocks to flourishing Caribbean archipelagoes.
+
+![Map of the Vekllei Caribbean](/svg/maps/caribbean.svg "Map of the Vekllei Caribbean, consisting of the Kalina and Antilles Commonwealths and their constituent republics.")
+
+
+A major motivator of membership in the Commonwealth is its trade influence and wealth, since [constituents](/constituents/) and [territories](/territories/) are entitled to the same standards of living as its major industrial territories. The most recent member is Cabo Verde, acceding in 2038 after two decades of membership in the [Council of Oceans](/oceans-council/).
+
+The Commonwealth has explored petitions for membership from non-island countries including Suriname, though these have been unsuccessful.
 
 ### Government
 
@@ -159,6 +172,8 @@ The Commonwealth has explored petitions for membership from non-island countries
 {{</hint>}}
 
 The Vekllei government plays an active role in the lives of ordinary people. Each commonwealth republic is represented by two people[^ministers] of equal standing called Prime Ministers. These ministers represent the bicameral parliaments and assembled cabinets of their homes,[^sorda] and participate equally in a council of leaders called the [Commonwealth Directory](/directory/).
+
+![Diagram of Vekllei federal structure](/svg/diagrams/federalism.svg "Diagram of the Vekllei government and the federal system.")
 
 There are different levels of elected government in Vekllei.
 

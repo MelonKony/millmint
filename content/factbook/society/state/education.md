@@ -3,10 +3,10 @@ title: Education
 fulltitle: Education in Vekllei
 icon: 📚
 emoji: p
-color: pink
-image: 
+color: purple
+image:
 
-tags: 
+tags:
   - state
 categories:
   - society
@@ -38,7 +38,7 @@ author: Hobart Phillips
 
 Education in Vekllei is a good example of the 'system working backwards,' the popular phrase to describe the Floral Period moving in two different directions at once. Is it modern, supplied and robust in the Western tradition -- children wear uniforms, are divided into school years and learning is arranged and taught in subjects. Other aspects of the Vekllei curriculum, like its provisions for extracurricular activities and social clubs, are novel by comparison.
 
-There is something quite interesting going on in Vekllei education that is not immediately apparent at its surface. First, compulsory schooling runs between 3-5 days a week, depending on student commitments to elective and extracurricular activities. Government schools do not employ standardised testing, and rely on subject-specific means of assessment including reviews, presentations and portfolios. The [Vekllei Curriculum](#curriculum) emphasises practicable and technical skills that blur the lines between school, community and home. 
+There is something quite interesting going on in Vekllei education that is not immediately apparent at its surface. First, compulsory schooling runs between 3-5 days a week, depending on student commitments to elective and extracurricular activities. Government schools do not employ standardised testing, and rely on subject-specific means of assessment including reviews, presentations and portfolios. The [Vekllei Curriculum](#curriculum) emphasises practicable and technical skills that blur the lines between school, community and home.
 
 Education in Vekllei is considered a foundation of Vekllei democracy, and in the spirit of the Floral Period it is free, abundant and compulsory.
 
@@ -92,7 +92,7 @@ Compared to modern schooling overseas, Vekllei education places significant valu
 
 ![Image of Tzipora standing in front of school building](/images/mist.jpg "Misty morning in front of the [Moshel St School](/moshel/) | *[Heavy Mist](/stories/mist/)*")
 
-Vekllei has a strong tradition of school clubs and social organisations, and these are considered essential aspects of Vekllei education. Clubs and associations are usually organised by student leadership, and offer opportunities in industry and tertiary study. 
+Vekllei has a strong tradition of school clubs and social organisations, and these are considered essential aspects of Vekllei education. Clubs and associations are usually organised by student leadership, and offer opportunities in industry and tertiary study.
 
 Compulsory and tertiary education is free for all Vekllei people, permanent residents and foreign workers. Homeschooling is illegal except by those holding a teaching certificate, and is supervised by a local school which issues the child's diploma. In this context, homeschooling is almost nonexistent in the Commonwealth. About 15% of the Commonwealth Budget is allocated towards education.
 
@@ -124,7 +124,7 @@ In order to study abroad, Vekllei students must be sponsored by a foreigner, rec
 
 #### University
 
-Vekllei International University offers 
+Vekllei International University offers
 
 #### Vocational Schools
 
@@ -152,10 +152,7 @@ The Commonwealth Curriculum is the common programme of study in all Commonwealth
 ✿ Read more: *[Uniforms in Vekllei](/stories/uniforms/)*
 {{</hint>}}
 
-![img](https://images.millmint.net/images/generation.jpg)
-{{<hint caption>}}
-Examples of Vekllei school uniform and its functional diversity
-{{</hint>}}
+![Illustration of different ways of wearing the same school uniform](/images/generation.jpg "Examples of Vekllei school uniform and its functional diversity | [*A New Generation*](/stories/new-generation/)")
 
 All schools in Vekllei share the Education Uniform, made compulsory by the [Education Secretariat](/solsec/). The Vekllei uniform is simple and purchased independently, usually from department stores. The only badged items are the tie and jewellery/pins. It is worn across all ages of schooling, including tertiary education and university, and by some teachers as well.
 
@@ -167,10 +164,8 @@ All schools in Vekllei share the Education Uniform, made compulsory by the [Educ
 
 The colours of uniforms may vary in constituent member-states of the Commonwealth -- for example, the Kalina Isles use dark green in place of navy. Nonetheless, the Education Uniform standards are set at the Commonwealth level and are generally adopted in whole.
 
-![img](https://images.millmint.net/images/kalinauniform.jpg)
-{{<hint caption>}}
-Examples of Caribbean Commonwealth school uniform featuring local dress.
-{{</hint>}}
+![Illustration Caribbean youths wearing school uniform](/images/kalinauniform.jpg "Examples of Caribbean Commonwealth school uniform featuring local dress. | [*Caribbean Uniforms*](/stories/caribbean-uniform/)")
+
 
 Although the items are not issued by individual schools, they are provided by the [ACC](/factbook/society/state/government/commonwealth/education/#all-commonwealth-school-directorate) on request and as such constitute a uniform rather than a dress code. The uniform system was designed in 2015 by French migrant Charles-Édouard Laurent to be accessible and comfortable, and so that individual items could continue to be worn after schooling concluded. It is iconic overseas and well-regarded by most Vekllei students.
 

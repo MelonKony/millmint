@@ -6,7 +6,7 @@ icon: ✈️
 emoji: g
 color: green
 
-tags: 
+tags:
   - borough
 categories:
   - commonwealth
@@ -45,7 +45,7 @@ Pharos was originally called Asmelola (lit. Southern Oslola) by its Algic inhabi
 
 Pharos has a long history of settlement, twinned with [Lola](/factbook/landscape/boroughs/lola/) (then Oslola) as Vekllei's first urban area. It has evidence of settlement dating back 3,000 years. Algic peoples used the borough's sheltered coastline for hunting and fishing, and tools from 2,000 BC have been found in the present-day municipalities of [Uclo](#uclo) and [Pharos](#pharos). The borough was first settled permanently by Irish settlers in 1200 BC, who exploited the rich soil of the area to feed the growing agricultural settlement in Oslola.
 
-By 400 BC, Pharos (then Asmelola) was a meeting place between Norse and Algic peoples for trade and commerce, uniting the Algic settlements along the Southern and East coastlines with the principle Scandinavian settlement in Oslola. This would advantage the borough as a place of domestic commerce well into the Vekllei Common Period and beyond. An Iron mine was established in Asmelola in 400 AD, which attracted settlement from the Oslola city outskirts towards Asmelola, a trend which would position the town as an industrial power-base of the regimes in Lola. Although still primarily agricultural, Asmelola would slowly develop into a small city of craftsmen into the 8th Century and beyond. 
+By 400 BC, Pharos (then Asmelola) was a meeting place between Norse and Algic peoples for trade and commerce, uniting the Algic settlements along the Southern and East coastlines with the principle Scandinavian settlement in Oslola. This would advantage the borough as a place of domestic commerce well into the Vekllei Common Period and beyond. An Iron mine was established in Asmelola in 400 AD, which attracted settlement from the Oslola city outskirts towards Asmelola, a trend which would position the town as an industrial power-base of the regimes in Lola. Although still primarily agricultural, Asmelola would slowly develop into a small city of craftsmen into the 8th Century and beyond.
 
 Asmelola entered a long decline after the Desimou dynasty faltered in the 15th Century, shifting political power in Vekllei towards its East Coast. Its decline was halted by the overthrow of the monarchy in the 17th Century, which dragged power from the Coasts towards Lola, and restored Asmelola to prosperity, which rapidly developed the city away from its agricultural roots.
 
@@ -55,7 +55,7 @@ By the early 20th Century, the Port of Asmelola had also become overcrowded and 
 
 Pharos suffered atomic strikes in the First Atomic War in 2005, leaving craters in both [Sandeyri](#sandeyri) and [Faro](#faro).
 
-After independence in 2015, Pharos was restructured as a borough and became one of Vekllei's most multicultural boroughs, and is the site of most migrant processing in the country. 
+After independence in 2015, Pharos was restructured as a borough and became one of Vekllei's most multicultural boroughs, and is the site of most migrant processing in the country.
 
 ## Geography
 
@@ -71,7 +71,7 @@ Copetpek is a multicultural municipality best known for its craftsmanship and le
 ✿ Read more: [*ForeignFoto*](/posts/2021-09-27-foreignfoto/)
 {{</hint>}}
 
-ForeignFoto is the foreign correspondent arm of the Commonwealth Press Bureau, the mother organisation for several public broadcasters under the Commonwealth Records and Telegraph Directorate. The ForeignFoto office and adjacent club functions as a sort of correspondent's club, and has been the starting place for several iconic figures in Vekllei journalism including Simon Nowak and Mose Slovo. It is a popular social club for foreign journalists stationed in Vekllei. 
+ForeignFoto is the foreign correspondent arm of the Commonwealth Press Bureau, the mother organisation for several public broadcasters under the Commonwealth Records and Telegraph Directorate. The ForeignFoto office and adjacent club functions as a sort of correspondent's club, and has been the starting place for several iconic figures in Vekllei journalism including Simon Nowak and Mose Slovo. It is a popular social club for foreign journalists stationed in Vekllei.
 
 ### Faro
 
@@ -87,7 +87,7 @@ Keflavic is an ancient municipality in Pharos. It was originally a trading post 
 
 ### Petty Shanghai
 
-Petty Shanghai (the colloquial name for West Keflavic) is a municipality home to Vekllei's largest ethnic Chinese population, composed primarily of immigrants from Hong Kong and the People's Republic of China. Located adjacent to immigrant processing facilities in [Faro](#faro), the density of Chinese inhabitants is largely due to the appropriation of war-damaged housing by the Vekllei Housing Commission for new migrants. Contemporary policy now aims to immerse migrant communities, and so enclaves like Petty Shanghai are less common today. 
+Petty Shanghai (the colloquial name for West Keflavic) is a municipality home to Vekllei's largest ethnic Chinese population, composed primarily of immigrants from Hong Kong and the People's Republic of China. Located adjacent to immigrant processing facilities in [Faro](#faro), the density of Chinese inhabitants is largely due to the appropriation of war-damaged housing by the Vekllei Housing Commission for new migrants. Contemporary policy now aims to immerse migrant communities, and so enclaves like Petty Shanghai are less common today.
 
 Petty Shanghai is well-known in Vekllei as a sort of 'Chinatown,' both for its exquisite local cuisine and the intense foreignness of its culture and lifestyle. Many early Chinese migrants were poorly integrated by the failing government language programmes in the early postwar years, so many older residents speak mainly Cantonese or Mandarin.
 
@@ -105,13 +105,9 @@ Sandeyri is a quiet municipality best known for its fruit orchards and hydroponi
 
 Uclo is a mostly residential municipality south of [Pharos](#pharos) and west of [Copetpek](#copetpek), and features interesting experimentation to this end. Pre-war, it was home to the ambitious Port of Pharos project, but after the war was used as a testbed for dramatic new ways of housing Vekllei's rapidly-growing population.
 
-![img](/images/towers.jpg)
+![Image of large social housing towers](/images/towers.jpg "Social housing towers in East Uclo | [*Towers in the Park*](/posts/2022-04-24-towers/)")
 
-{{< hint caption >}}
-Social housing towers in East Uclo | [*Towers in the Park*](/posts/2022-04-24-towers/)
-{{</hint>}}
-
-These include projects like [the Towers](#uclo-experimental-social-housing-project), as well as pre-war municipalised housing designed to home Vekllei's growing migrant population. Because of this history, neighbourhoods within Uclo are quite distinct from each other. West Uclo is dominated by low-rise pre-war settlements and coffee shops, where East Uclo consists mostly of apartment towers and parkland. The uniting feature of Uclo, then, is Green Woods beach and its cool, clear waters -- a feature hard to imagine surviving the full scale of the Junta's 'Port of Vekllei' ambitions, should they have succeeded in displacing the Port of Vekllei. 
+These include projects like [the Towers](#uclo-experimental-social-housing-project), as well as pre-war municipalised housing designed to home Vekllei's growing migrant population. Because of this history, neighbourhoods within Uclo are quite distinct from each other. West Uclo is dominated by low-rise pre-war settlements and coffee shops, where East Uclo consists mostly of apartment towers and parkland. The uniting feature of Uclo, then, is Green Woods beach and its cool, clear waters -- a feature hard to imagine surviving the full scale of the Junta's 'Port of Vekllei' ambitions, should they have succeeded in displacing the Port of Vekllei.
 
 ## Infrastructure
 

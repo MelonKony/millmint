@@ -651,15 +651,15 @@ figure {
     line-height: 1rem;
     /* 16px */
     font-weight: 600;
-    margin-top: .5rem;
-    margin-bottom: .5rem;
     padding: .5rem;
     border-radius: .25rem;
     background-color: var(--highlight-background);
-    margin: -0.5rem 0 0.5rem 0;
+    color: var(--highlight);
+    margin: -1rem 0 0.5rem 0;
     text-align: center;
     letter-spacing: -.01em;
-    color: var(--color-gray); }
+    border-top-left-radius: 0;
+    border-top-right-radius: 0; }
     figure figcaption a {
       text-decoration: underline; }
 
@@ -988,7 +988,12 @@ article {
         margin-right: -1.25rem; } }
   article img {
     margin-left: auto;
-    margin-right: auto; }
+    margin-right: auto;
+    padding: .5rem;
+    background-color: var(--highlight-background);
+    box-sizing: border-box;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0; }
 
 .postcard-layout a {
   color: var(--color-text); }
@@ -1799,11 +1804,15 @@ body article blockquote {
   line-height: 1rem;
   /* 16px */
   font-weight: 600;
-  margin: -0.5rem 0 0.5rem 0;
+  padding: .5rem;
+  border-radius: .25rem;
+  background-color: var(--highlight-background);
+  color: var(--highlight);
+  margin: -2rem 0 0.5rem 0;
   text-align: center;
   letter-spacing: -.01em;
-  color: var(--color-gray);
-  background-color: transparent; }
+  border-top-left-radius: 0;
+  border-top-right-radius: 0; }
 
 .hint.blue,
 .article-blue .hint[class="hint "] {
@@ -1939,11 +1948,11 @@ article img[alt~="crest"] {
   grid-template-areas: "date posttag"; }
 
 img.page {
-  border-radius: .25rem;
-  width: auto;
-  height: auto;
-  object-fit: contain;
-  background-color: transparent; }
+  margin-left: auto;
+  margin-right: auto;
+  padding: .5rem;
+  background-color: var(--highlight-background);
+  box-sizing: border-box; }
 
 /*.article-tag {
   @include text-sm;
@@ -3181,6 +3190,8 @@ ol.timeline {
     color: var(--darker-text); }
   .postcard-layout .card .img-wrapper {
     border-radius: .25rem;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
     overflow: hidden; }
   .postcard-layout .card .img-wrapper img {
     transform: scale(1.1); }

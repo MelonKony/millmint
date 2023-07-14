@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 715.628 414.762" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<path d="M0 0L715.628 0L715.628 414.762L0 414.762L0 0Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none"/>
+<g id="Untitled">
+<g opacity="1">
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath">
+<path d="M272.146 80L316.146 80L316.146 36L272.146 36L272.146 80Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath)">
+<path d="M294.146 37C290.529 37.0011 288.073 40.6735 289.457 44.0153L294.051 55.106C294.085 55.19 294.206 55.19 294.241 55.106L298.835 44.0153C300.219 40.6742 297.761 37 294.146 37ZM282.675 41.666C281.464 41.7119 280.257 42.1934 279.298 43.1524C276.741 45.7101 277.6 50.0439 280.942 51.4277L292.033 56.0214C292.118 56.0562 292.199 55.9709 292.164 55.8869L287.573 44.7963C286.708 42.7081 284.69 41.588 282.675 41.666ZM305.617 41.666C303.601 41.5892 301.583 42.7084 300.718 44.7963L296.124 55.8869C296.089 55.972 296.175 56.0528 296.259 56.0181L307.349 51.4277C310.692 50.0436 311.552 45.7057 308.993 43.1491C308.035 42.1904 306.826 41.7128 305.617 41.666ZM278.274 52.9206C275.572 52.8906 273.146 55.0606 273.146 58C273.147 61.6165 276.819 64.0727 280.161 62.6889L291.252 58.0952C291.336 58.0605 291.336 57.9395 291.252 57.9049L280.161 53.3111C279.534 53.0516 278.898 52.9278 278.274 52.9206ZM310.017 52.9206C309.394 52.9278 308.757 53.0516 308.13 53.3111L297.04 57.9049C296.956 57.9395 296.956 58.0605 297.04 58.0952L308.13 62.6889C311.471 64.0728 315.146 61.6153 315.146 58C315.146 55.0613 312.718 52.8896 310.017 52.9206ZM296.259 59.9786C296.174 59.9438 296.093 60.0291 296.128 60.1131L300.718 71.2038C302.102 74.5459 306.44 75.4063 308.997 72.8477C311.553 70.29 310.691 65.9562 307.349 64.5724L296.259 59.9786ZM292.033 59.9819L280.942 64.5724C277.601 65.957 276.741 70.291 279.298 72.8477C281.856 75.4049 286.19 74.5456 287.573 71.2038L292.167 60.1131C292.202 60.0281 292.117 59.9473 292.033 59.9819ZM294.146 60.8317C294.107 60.8318 294.068 60.8521 294.051 60.8941L289.457 71.9847C288.073 75.3258 290.531 79 294.146 79C297.762 78.9989 300.218 75.3265 298.835 71.9847L294.241 60.8941C294.224 60.8521 294.184 60.8317 294.146 60.8317Z" fill="#e11a6e" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_2">
+<path d="M175.619 119.893L412.672 119.893L412.672 88.2935L175.619 88.2935L175.619 119.893Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_2)">
+<text fill="#e11a6e" font-family="Helvetica" font-size="18" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 181.419 92.7964)" x="0" y="0">
+<tspan textLength="212.098" x="0" y="17">Commonwealth of Oceans</tspan>
+</text>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_3">
+<path d="M53.9757 202.427L263.39 202.427L263.39 177.183L53.9757 177.183L53.9757 202.427Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_3)">
+<text fill="#000000" font-family="Helvetica" font-size="14" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 58.5978 181.352)" x="0" y="0">
+<tspan textLength="178.972" x="0" y="14">Constituent Commonwealths</tspan>
+</text>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_4">
+<path d="M155.471 180.415L297.214 180.415L297.214 115.372L155.471 115.372L155.471 180.415Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_4)">
+<path d="M294.093 118.493L294.093 146.893L158.593 146.893L158.593 177.293" fill="none" opacity="1" stroke="#000000" stroke-dasharray="0.0,9.0,0.0,9.0" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_5">
+<path d="M36.8779 273.58L150.771 273.58L150.771 231.335L36.8779 231.335L36.8779 273.58Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_5)">
+<text fill="#000000" font-family="Helvetica" font-size="14" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 43.7719 235.504)" x="0" y="0">
+<tspan textLength="97.2617" x="0" y="14">Commonwealth</tspan>
+</text>
+<text fill="#000000" font-family="Helvetica" font-size="14" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 62.2939 252.504)" x="0" y="0">
+<tspan textLength="61.4756" x="0" y="14">Republics</tspan>
+</text>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_6">
+<path d="M187.169 273.58L280.488 273.58L280.488 231.335L187.169 231.335L187.169 273.58Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_6)">
+<text fill="#000000" font-family="Helvetica" font-size="14" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 209.752 235.504)" x="0" y="0">
+<tspan textLength="47.4688" x="0" y="14">Federal</tspan>
+</text>
+<text fill="#000000" font-family="Helvetica" font-size="14" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 206.997 252.504)" x="0" y="0">
+<tspan textLength="49.7725" x="0" y="14">Districts</tspan>
+</text>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_7">
+<path d="M113.15 233.872L148.157 233.872L148.157 199.891L113.15 199.891L113.15 233.872Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_7)">
+<path d="M145.743 202.305L115.564 231.458" fill="none" opacity="1" stroke="#000000" stroke-dasharray="2.0,4.0,2.0,4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_8">
+<path d="M171.261 233.872L211.055 233.872L211.055 199.891L171.261 199.891L171.261 233.872Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_8)">
+<path d="M173.675 202.305L208.641 231.458" fill="none" opacity="1" stroke="#000000" stroke-dasharray="2.0,4.0,2.0,4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_9">
+<path d="M36.8779 325.732L150.771 325.732L150.771 300.488L36.8779 300.488L36.8779 325.732Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_9)">
+<text fill="#000000" font-family="Helvetica" font-size="14" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 49.644 304.657)" x="0" y="0">
+<tspan textLength="84.0342" x="0" y="14">Municipalities</tspan>
+</text>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_10">
+<path d="M36.8779 377.885L150.771 377.885L150.771 352.64L36.8779 352.64L36.8779 377.885Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_10)">
+<text fill="#000000" font-family="Helvetica" font-size="14" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 66.0297 356.809)" x="0" y="0">
+<tspan textLength="53.6895" x="0" y="14">Councils</tspan>
+</text>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_11">
+<path d="M91.4104 303.024L96.2388 303.024L96.2388 271.043L91.4104 271.043L91.4104 303.024Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_11)">
+<path d="M93.8246 273.458C93.8246 282.508 93.8246 291.559 93.8246 300.61" fill="none" opacity="1" stroke="#000000" stroke-dasharray="2.0,4.0,2.0,4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_12">
+<path d="M91.4104 355.177L96.2388 355.177L96.2388 323.196L91.4104 323.196L91.4104 355.177Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_12)">
+<path d="M93.8246 325.61C93.8246 334.661 93.8246 343.712 93.8246 352.763" fill="none" opacity="1" stroke="#000000" stroke-dasharray="2.0,4.0,2.0,4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_13">
+<path d="M323.058 202.427L533.747 202.427L533.747 177.183L323.058 177.183L323.058 202.427Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_13)">
+<text fill="#000000" font-family="Helvetica" font-size="14" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 327.68 181.352)" x="0" y="0">
+<tspan textLength="181.296" x="0" y="14">Commonwealth Departments</tspan>
+</text>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_14">
+<path d="M290.971 180.415L431.514 180.415L431.514 115.372L290.971 115.372L290.971 180.415Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_14)">
+<path d="M294.093 118.493L294.093 146.893L428.393 146.893L428.393 177.293" fill="none" opacity="1" stroke="#000000" stroke-dasharray="0.0,9.0,0.0,9.0" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_15">
+<path d="M318.379 265.08L411.698 265.08L411.698 239.835L318.379 239.835L318.379 265.08Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_15)">
+<text fill="#000000" font-family="Helvetica" font-size="14" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 332.298 244.004)" x="0" y="0">
+<tspan textLength="61.4551" x="0" y="14">Territories</tspan>
+</text>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_16">
+<path d="M462.863 265.08L529.989 265.08L529.989 239.835L462.863 239.835L462.863 265.08Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_16)">
+<text fill="#000000" font-family="Helvetica" font-size="14" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 473.02 244.004)" x="0" y="0">
+<tspan textLength="47.4551" x="0" y="14">Realms</tspan>
+</text>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_17">
+<path d="M308.092 325.732L421.985 325.732L421.985 300.488L308.092 300.488L308.092 325.732Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_17)">
+<text fill="#000000" font-family="Helvetica" font-size="14" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 337.243 304.657)" x="0" y="0">
+<tspan textLength="53.6895" x="0" y="14">Councils</tspan>
+</text>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_18">
+<path d="M526.902 116.715L678.75 116.715L678.75 91.4712L526.902 91.4712L526.902 116.715Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_18)">
+<text fill="#000000" font-family="Helvetica" font-size="14" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 534.381 95.6402)" x="0" y="0">
+<tspan textLength="124.517" x="0" y="14">Sovereign of Nature</tspan>
+</text>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_19">
+<path d="M408.251 107.215L530.146 107.215L530.146 100.972L408.251 100.972L408.251 107.215Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_19)">
+<path d="M527.024 104.093C488.474 104.093 449.923 104.093 411.372 104.093" fill="none" opacity="1" stroke="#000000" stroke-dasharray="0.0,9.0,0.0,9.0" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_20">
+<path d="M555.768 264.741L649.885 264.741L649.885 239.497L555.768 239.497L555.768 264.741Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_20)">
+<text fill="#000000" font-family="Helvetica" font-size="14" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 560.72 243.666)" x="0" y="0">
+<tspan textLength="82.4893" x="0" y="14">Crown Lands</tspan>
+</text>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_21">
+<path d="M600.412 242.033L605.241 242.033L605.241 114.179L600.412 114.179L600.412 242.033Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_21)">
+<path d="M602.826 116.593L602.826 239.619" fill="none" opacity="1" stroke="#000000" stroke-dasharray="2.0,4.0,2.0,4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_22">
+<path d="M375.266 242.372L418.175 242.372L418.175 199.891L375.266 199.891L375.266 242.372Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_22)">
+<path d="M415.761 202.305L377.68 239.958" fill="none" opacity="1" stroke="#000000" stroke-dasharray="2.0,4.0,2.0,4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_23">
+<path d="M439.56 242.372L485.269 242.372L485.269 199.891L439.56 199.891L439.56 242.372Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_23)">
+<path d="M441.974 202.305L482.854 239.958" fill="none" opacity="1" stroke="#000000" stroke-dasharray="2.0,4.0,2.0,4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_24">
+<path d="M527.452 254.765L558.304 254.765L558.304 249.854L527.452 249.854L527.452 254.765Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_24)">
+<path d="M529.866 252.351L555.89 252.268" fill="none" opacity="1" stroke="#000000" stroke-dasharray="2.0,4.0,2.0,4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_25">
+<path d="M362.624 303.024L367.453 303.024L367.453 262.543L362.624 262.543L362.624 303.024Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_25)">
+<path d="M365.038 264.958L365.038 300.61" fill="none" opacity="1" stroke="#000000" stroke-dasharray="2.0,4.0,2.0,4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+</g>
+</g>
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath_26">
+<path d="M148.179 367.608L236.207 367.608L236.207 270.979L148.179 270.979L148.179 367.608Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath_26)">
+<path d="M233.793 273.393L233.793 365.193L150.593 365.193" fill="none" opacity="1" stroke="#000000" stroke-dasharray="2.0,4.0,2.0,4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
