@@ -26,7 +26,6 @@ nav {
     @include secondary-color;
 
     &:hover {
-      filter: none !important;
       text-decoration-line: none;
       color: var(--font-color);
     }
@@ -66,13 +65,13 @@ nav {
   }
 
   .navbar-item.active.navicon {
-    color: var(--font-color);
+    @include font-color;
   }
   .navbar-item.insection {
     border-bottom-color: var(--highlight);
 
     > a {
-    color: var(--color-navbar-item-in-section);
+      @include font-color;
     }
   }
   .navbar-item.active {

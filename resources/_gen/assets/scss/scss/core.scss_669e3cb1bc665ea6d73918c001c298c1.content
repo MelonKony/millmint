@@ -520,7 +520,7 @@ h1 a.anchor, h2 a.anchor, h3 a.anchor, h4 a.anchor, h5 a.anchor, h6 a.anchor {
 
 button.navbutton {
   color: var(--hint-bg);
-  filter: hue-rotate(-15deg) brightness(55%) saturate(6);
+  filter: hue-rotate(-15deg) invert(40%) saturate(15);
   display: block;
   background: none;
   border: none;
@@ -705,7 +705,7 @@ hr {
 ::placeholder {
   font-size: 14px;
   color: var(--hint-bg);
-  filter: hue-rotate(-15deg) brightness(55%) saturate(6); }
+  filter: hue-rotate(-15deg) invert(40%) saturate(15); }
 
 /* DETAILS */
 details {
@@ -1344,9 +1344,8 @@ nav {
   padding: 0; }
   .navbar a {
     color: var(--hint-bg);
-    filter: hue-rotate(-15deg) brightness(55%) saturate(6); }
+    filter: hue-rotate(-15deg) invert(40%) saturate(15); }
     .navbar a:hover {
-      filter: none !important;
       text-decoration-line: none;
       color: var(--font-color); }
   .navbar li {
@@ -1374,7 +1373,7 @@ nav {
   .navbar .navbar-item.insection {
     border-bottom-color: var(--highlight); }
     .navbar .navbar-item.insection > a {
-      color: var(--color-navbar-item-in-section); }
+      color: var(--font-color); }
   .navbar .navbar-item.active {
     border-bottom-color: var(--highlight); }
     .navbar .navbar-item.active > a {
