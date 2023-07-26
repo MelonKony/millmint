@@ -14,3 +14,6 @@
 @mixin highlight-background {
   background-color: var(--highlight-background);
 }
+@mixin hint-background {
+  background-color: var(--highlight-background);
+}

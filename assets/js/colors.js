@@ -27,11 +27,11 @@ function colorsMain() {
     const color = document
       .querySelector("[data-color]")
       .getAttribute("data-color");
-  
+
     const rgbArray = colors[color]
-  
+
     if(!rgbArray) console.log('Color not supported')
-  
+
     setBackgroundColor(rgbArray, false);
   } else if (document.querySelector("[data-page-color]")) {
     // Page color override
@@ -47,7 +47,7 @@ function colorsMain() {
   ) {
     // Get story's color from image
     const img = document.querySelector(".page img");
-  
+
     // Make sure image is finished loading
     if (img.complete) {
       getColors(img);
@@ -66,28 +66,28 @@ if (localStorage.theme === 'light' || (!('theme' in localStorage) && window.matc
   window.addEventListener("load", () => {
     updatePostGrid()
   });
-  
+
   function updatePostGrid() {
     if (document.querySelector(".post-grid")) {
       document.querySelectorAll("ul.post-grid > li").forEach((card) => {
         const img = card.querySelector("img");
-  
+
         function setCardBackground(rgb) {
           const bodyBg = rgba(...rgb, 0.1);
           const bodyDarker = rgba(...rgb, 0.2);
-  
+
           const styles = `${card.getAttribute(
             "style"
           )}; --gray-light: ${bodyBg}; --gray-med: ${bodyDarker}`;
           card.setAttribute("style", styles);
-  
+
           // Set individual elements
           card.querySelectorAll(".text-xs").forEach((el) => {
             el.style.color = `rgba(${rgb
               .map((v) => Math.max(v, 0))
               .join(", ")}, 1)`;
           });
-  
+
           card
             .querySelectorAll(".card-title")
             .forEach((title) => {
@@ -96,10 +96,10 @@ if (localStorage.theme === 'light' || (!('theme' in localStorage) && window.matc
                 `color: rgb(${rgb.join(", ")}) !important;`
               );
             });
-  
+
           card.classList.add("has-color");
         }
-  
+
         // Make sure image is finished loading
         if (card.querySelector("[data-card-color]")) {
           const rgbArray = card
@@ -151,7 +151,7 @@ function setBackgroundColor(rgb, doBackground = true) {
   document.head.appendChild(meta);
 
   console.log(localStorage.theme)
-  
+
   if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
       // Define all dark colors
       const bodyBg = `rgba(${rgb.map((v) => Math.max(v - 300, 0)).join(", ")}, 1)`;
@@ -163,10 +163,10 @@ function setBackgroundColor(rgb, doBackground = true) {
       const highlightBackground = `rgba(${rgb.join(", ")}, 0.1)`;
       const colorGray = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
       const darkerColor = `rgba(${rgb.map((v) => Math.max(v - 100, 0)).join(", ")}, 1)`;
-      
+
       const classes = [`--title-text: ${titleText}`, `--highlight: ${highlight}`, `--highlight-background: ${highlightBackground}`, `--darker-text: ${darkerText}`, `a: ${colorGray}`, `--color-gray: ${colorGray}`, `--color-text: ${colorGray}`, `--hint-bg: ${bodyBg}`, `--bg-alt: ${bg}`]
       if(doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-light: ${gray100}`, `--color-placeholder: var(--color-gray)`/*, `--body-background: ${bodyBg}`*/);
-      
+
       // Inject dark colors into DOM
       document.body.setAttribute(
         "style",
@@ -183,11 +183,11 @@ function setBackgroundColor(rgb, doBackground = true) {
       const highlightBackground = `rgba(${rgb.join(", ")}, 0.1)`;
       const colorGray = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
       const darkerColor = `rgba(${rgb.map((v) => Math.max(v - 100, 0)).join(", ")}, 1)`;
-      
+
       const classes = [`--title-text: ${titleText}`, `--highlight: ${highlight}`, `--highlight-background: ${highlightBackground}`, `--darker-text: ${darkerText}`, `a: ${colorGray}`, `--color-gray: ${colorGray}`, `--color-text: ${colorGray}`, `--hint-bg: ${bodyBg}`, `--bg-alt: ${bg}`]
       if(doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-light: ${gray100}`, `--color-placeholder: var(--color-gray)`/*, `--body-background: ${bodyBg}`*/);
       classes.push(doBackground ? `--logo-color: var(--color-gray)` : `--logo-color: ${darkerColor}`)
-      
+
       // Inject colors into DOM
       document.body.setAttribute(
         "style",

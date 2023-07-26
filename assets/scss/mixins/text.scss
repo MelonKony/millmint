@@ -9,7 +9,11 @@
 @mixin background {
   background: var(--hint-bg, var(--gray-light));
 }
-
+/* for use with hint-bg */
+@mixin secondary-color {
+  color: var(--hint-bg);
+  filter: hue-rotate(-15deg) brightness(55%) saturate(6);
+}
 @mixin font-blue {
   color: var(--color-blue);
 }

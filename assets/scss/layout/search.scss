@@ -32,12 +32,12 @@
   grid-area: search;
 
   input {
+    @include highlight-background;
     width: 100%;
     height: 35px;
     padding: 2px;
     box-sizing: border-box;
     border-radius: 5px;
-    background: var(--gray-light);
     color: var(--color-gray);
 
     &:required+.search-spinner {

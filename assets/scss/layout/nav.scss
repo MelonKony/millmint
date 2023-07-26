@@ -23,7 +23,7 @@ nav {
   padding: 0;
 
   a {
-    color: var(--gray-heavy);
+    @include secondary-color;
 
     &:hover {
       filter: none !important;
@@ -58,7 +58,7 @@ nav {
     }
 
     &:hover {
-      border-bottom-color: var(--font-color);
+      border-bottom-color: var(--highlight);
       a {
         color: var(--font-color);
       }
@@ -69,15 +69,15 @@ nav {
     color: var(--font-color);
   }
   .navbar-item.insection {
-    border-bottom-color: var(--color-navbar-item-in-section);
-  
+    border-bottom-color: var(--highlight);
+
     > a {
     color: var(--color-navbar-item-in-section);
     }
   }
   .navbar-item.active {
-  border-bottom-color: var(--font-color);
-  
+  border-bottom-color: var(--highlight);
+
     > a {
     color: var(--font-color);
     }
@@ -104,7 +104,7 @@ nav {
     @include radius-none;
     height: .9rem;
     margin: 0;
-    
+
     .dark {
       filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(93deg) brightness(103%) contrast(103%);
     }

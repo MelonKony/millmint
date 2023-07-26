@@ -179,7 +179,7 @@ There are different levels of elected government in Vekllei.
 
 1. The *Vekllei Commonwealth* is the federal governing body and parliament of the [constituent republics](/constituents/). The head of state is the [Commonwealth Council](/council/). The [Commonwealth Senate](/senate/) has special powers to approve or reject legislation.
 2. The *National Commonwealths* are constituent republics that manage home affairs with devolved powers. They each have [National Assemblies](/assembly/) which propose legislation.
-3. The *Municipal Commonwealths* are local administrative areas or boroughs that manage local services. [Territories](/territories/) in Vekllei are also governed by Municipal Commonwealths.
+3. The *Polis o Democros* ([Republics](/polis/)) are city republics, areas or boroughs that manage local services. [Territories](/territories/) in Vekllei are also governed by Municipal Commonwealths.
 
 Vekllei elections do not allow political parties, a system called *nonpartisan democracy*. Commonwealth [ministries](/ministries/) and [council secretariats](/councils/) are lead by professional directors appointed by an internal vote, and final approval resting with the [Directory](/directory/).
 

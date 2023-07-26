@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 			@include font-semibold;
 		}
 	}
-	
+
 	// box sub-panel
 	.box {
 		@include radius-base;
@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
 
 	display: flex;
 	flex-wrap: wrap;
-	
+
 	h1, h2, h3, h4, h5, h6 {
 		margin-top: .5rem;
 	}
@@ -160,7 +160,7 @@ h1, h2, h3, h4, h5, h6 {
 // buttons
 
 button.navbutton {
-	@include font-color;
+	@include secondary-color;
 	display: block;
 	background: none;
 	border: none;

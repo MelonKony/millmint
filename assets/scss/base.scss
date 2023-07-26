@@ -100,7 +100,7 @@ hr {
 
 ::placeholder {
   font-size: 14px;
-  color: var(--color-placeholder, var(--color-gray));
+  @include secondary-color;
 }
 
 /* DETAILS */

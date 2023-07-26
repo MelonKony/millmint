@@ -319,6 +319,7 @@ html {
   display: block; }
 
 /* text colors */
+/* for use with hint-bg */
 /* defaults */
 /* colours */
 :root {
@@ -518,7 +519,8 @@ h1 a.anchor, h2 a.anchor, h3 a.anchor, h4 a.anchor, h5 a.anchor, h6 a.anchor {
         display: block; }
 
 button.navbutton {
-  color: var(--font-color);
+  color: var(--hint-bg);
+  filter: hue-rotate(-15deg) brightness(55%) saturate(6);
   display: block;
   background: none;
   border: none;
@@ -702,7 +704,8 @@ hr {
 
 ::placeholder {
   font-size: 14px;
-  color: var(--color-placeholder, var(--color-gray)); }
+  color: var(--hint-bg);
+  filter: hue-rotate(-15deg) brightness(55%) saturate(6); }
 
 /* DETAILS */
 details {
@@ -1340,7 +1343,8 @@ nav {
   margin: 0;
   padding: 0; }
   .navbar a {
-    color: var(--gray-heavy); }
+    color: var(--hint-bg);
+    filter: hue-rotate(-15deg) brightness(55%) saturate(6); }
     .navbar a:hover {
       filter: none !important;
       text-decoration-line: none;
@@ -1362,17 +1366,17 @@ nav {
       font-weight: 500;
       padding: 0; }
     .navbar .navbar-item:hover {
-      border-bottom-color: var(--font-color); }
+      border-bottom-color: var(--highlight); }
       .navbar .navbar-item:hover a {
         color: var(--font-color); }
   .navbar .navbar-item.active.navicon {
     color: var(--font-color); }
   .navbar .navbar-item.insection {
-    border-bottom-color: var(--color-navbar-item-in-section); }
+    border-bottom-color: var(--highlight); }
     .navbar .navbar-item.insection > a {
       color: var(--color-navbar-item-in-section); }
   .navbar .navbar-item.active {
-    border-bottom-color: var(--font-color); }
+    border-bottom-color: var(--highlight); }
     .navbar .navbar-item.active > a {
       color: var(--font-color); }
 
@@ -3224,12 +3228,12 @@ ol.timeline {
   min-width: 10rem;
   grid-area: search; }
   .search input {
+    background-color: var(--highlight-background);
     width: 100%;
     height: 35px;
     padding: 2px;
     box-sizing: border-box;
     border-radius: 5px;
-    background: var(--gray-light);
     color: var(--color-gray); }
     .search input:required + .search-spinner {
       display: block; }

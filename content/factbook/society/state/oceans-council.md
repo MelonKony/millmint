@@ -2,7 +2,7 @@
 title: Council of Oceans
 fulltitle: Council of Oceans
 icon: 🏵️
-logo: /svg/co.svg/
+logo: /svg/co.svg
 image:
 
 rgb: 52, 95, 223
