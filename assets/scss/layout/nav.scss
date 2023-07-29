@@ -23,7 +23,6 @@ nav {
   padding: 0;
 
   a {
-    @include secondary-color;
 
     &:hover {
       text-decoration-line: none;
@@ -52,6 +51,7 @@ nav {
     border-bottom: 2px solid transparent;
 
     >a.menu-link {
+      @include secondary-color;
       @include font-medium;
       padding: 0;
     }

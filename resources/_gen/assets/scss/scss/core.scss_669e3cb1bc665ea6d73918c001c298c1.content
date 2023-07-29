@@ -1342,12 +1342,9 @@ nav {
   list-style: none;
   margin: 0;
   padding: 0; }
-  .navbar a {
-    color: var(--hint-bg);
-    filter: hue-rotate(-15deg) invert(40%) saturate(15); }
-    .navbar a:hover {
-      text-decoration-line: none;
-      color: var(--font-color); }
+  .navbar a:hover {
+    text-decoration-line: none;
+    color: var(--font-color); }
   .navbar li {
     list-style: none; }
   .navbar .navbar-dropdown {
@@ -1362,6 +1359,8 @@ nav {
     padding-bottom: 0.1rem;
     border-bottom: 2px solid transparent; }
     .navbar .navbar-item > a.menu-link {
+      color: var(--hint-bg);
+      filter: hue-rotate(-15deg) invert(40%) saturate(15);
       font-weight: 500;
       padding: 0; }
     .navbar .navbar-item:hover {
