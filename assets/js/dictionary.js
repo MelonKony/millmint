@@ -8,12 +8,12 @@ function addDictionaryTooltips() {
 	document.querySelectorAll("p, .content li:not(.card), blockquote").forEach((el) => {
 		if(el.closest('.page-meta')) return
 		for (const phrase of Object.keys(dictionary)) {
-			const m = new RegExp(`(^|\\s+|\\(|>|‘|“|")(${phrase})(?=\\s+|$|\\)|<|,|\.|"|”|’)`, "gi"); // Don't ask please
+			const m = new RegExp(`(?=^|\\s+|\\(|>|‘|“|"|\\b)(${phrase})(?=\\s+|$|\\)|<|,|\\.|"|”|’|\\b)`, "gi"); // Don't ask please
 
 			if (el.innerHTML.match(m)) {
 				el.innerHTML = el.innerHTML.replace(
 					m,
-					`$1<span class="dfn">$2${tooltip(phrase, dictionary[phrase])}</span>`
+					`<span class="dfn">$1${tooltip(phrase, dictionary[phrase])}</span>`
 				);
 			}
 		}
