@@ -31,7 +31,7 @@ author: Hobart Phillips
 
 **Vekllei** is best conceptualised as a union of islands across the Atlantic Ocean. It is a commonwealth,[^commonwealth] the fourth in a series, and consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of Oslola, of 8 million. Together, they amount to a single superstate that spans the entirety of the Atlantic as a great power.
 
-The Commonwealth which unites them is highly centralised and built on common systems of governance and economic management. Member republics, known as [Constituents](/constituents/) cede aspects of governance like security, health and education to the Commonwealth. The country is colloquially known as *Vekllei*, an Algic [corcidi](/corcidi/) word meaning *people of the sea and stars*.[^name] It is also known as the *Commonwealth of Oceans*.
+The Commonwealth which unites them is highly centralised and built on common systems of governance and economic management. Member republics, known as [Constituents](/constituents/) cede aspects of governance like security, health and education to the Commonwealth. The country is colloquially known as *Vekllei*, an Algic corcidi word meaning *people of the sea and stars*.[^name] It is also known as the *Commonwealth of Oceans*.
 
 The capital of Vekllei is [Comet](/comet/), located west of the Azores Commonwealth in the Meteor Islands.
 
@@ -194,7 +194,7 @@ The Vekllei economy exists in two pieces: as a social market, dominated by wande
 
 The Commonwealth has a hybrid moneyless system called *commons*, in which money is not used in daily life. In the place of money, the commons system exists as a series of social economies and usufructs. Rather than purchasing products as consumers, staples like food and clothing are subsidised by groups of companies known as [*bureaus*](/bureaus/). Everything else is produced in the colloquial moneyless market, often unreliably.
 
-Money is used in a seperate industrial and financial market called the *financialised commons*. In this market, Vekllei has two currencies known as [*Vekllei*](/factbook/society/state/finance/#vekllei-crown-vk) and [*Government Crowns*](/factbook/society/state/finance/#government-crown-ak), which used by the government, industry and foreigners to interact with the Vekllei economy and purchase securities and financial instruments. Money is also used as a means of exchange between Commonwealth republics as a privilege of the state.
+Money is used in a seperate industrial and financial market called the *financialised commons*. In this market, Vekllei has two currencies known as [*Vekllei*](/factbook/society/state/finance/#vekllei-crown-vk) and [*Government Crowns*](/factbook/society/state/finance/#government-crown-ak), which are used by the government, industry and foreigners to interact with the Vekllei economy and purchase securities and financial instruments. Money is also used as a means of exchange between Commonwealth republics as a privilege of the state.
 
 The country has maintained high unemployment since independence, sliding between 5-10% for most of the postwar period.
 
