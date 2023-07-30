@@ -2,7 +2,8 @@
 
 /// Geography
 
-Kalina: The Kalina Isles is a federated state of republics in the Antilles, and is a member of the Commonwealth.
+Kalina: The Kalina Isles is a federated state of republics in the Antilles, and is a member of Vekllei.
+Oslola, Oslolan, Oslolans: Oslola (<i>née Iceland</i>) is an island Commonwealth situated in the North Atlantic, and a member of Vekllei.
 
 Borough, Boroughs: An administrative region and local government of a Commonwealth state.
 Cherish, Cherishes: A small republic that forms part of a larger federated Commonwealth.
@@ -35,11 +36,16 @@ HO/NI: Home Office at National Intelligence.
 AB/NI: Americas Bureau at National Intelligence.
 
 VNR: Vekllei National Rail.
+CNR: Commonwealth National Rail.
 
 VENOPOR: The Parliamentary Police, the national police service in Vekllei, as distinct from the local constabulary.
 COSMOPOR: The Public Police, the local police service in Vekllei who are often unarmed.
 
 SESEC: The State Security Directorate.
+
+/// Industry
+
+
 
 /// History
 
@@ -69,7 +75,6 @@ Photovolume, Photovolumes: A holographic storage device used by computers in Vek
 Pisca: Derogatory term for homosexuals.
 
 /// Names
-Oslola: Creator god, credited with creating the island of Oslola upon her death.
 Tipet: Volcanic spirit and goddess of lava.
 
 /// Society
