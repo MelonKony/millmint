@@ -21,7 +21,6 @@
     margin-right: 5px;
     line-height: .8rem;
   }
-
   span.nav-tag {
     font-size: 0.6rem;
     margin-left: 5px;
@@ -37,9 +36,9 @@
 
 <blockquote id="notice" class="hint">
   {{ range ( where .Site.RegularPages "Type" "stories" | first 1 ) }}
-  <span class="tag new-tag">NEW</span> <a style="white-space: nowrap; overflow:hidden;" href="{{ .Permalink }}"><span
-      class="navicon">📗</span>Story: <i>{{ .Title
-      }}</i></a>
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="{{ .Permalink }}"><span class="navicon">📗</span>Story: <i>{{ .Title
+    }}</i></a>
   <span id="close-btn" class="navicon close-btn">❌</span>
 </blockquote>
 {{end}}
@@ -48,24 +47,21 @@
   {{ $searchDataFile := printf "%s.search-data.json" .Language.Lang }}
   {{ $searchData := resources.Get "search-data.json" | resources.ExecuteAsTemplate $searchDataFile . | resources.Minify | resources.Fingerprint }}
 
-  const notice = document.querySelector("#notice");
-  const currentNoticeHref = notice.querySelector("a").href
-  let noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
-  let noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
-
   function checkNewStories() {
+    const notice = document.querySelector("#notice");
     const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
 
-    noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
-    noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
 
-    if (location.pathname.startsWith('/stories/')) {
+    if(location.pathname.startsWith('/stories/')) {
       // When visiting /stories/, add "last story" to localStorage
       noticesVisited.push(currentNoticeHref);
       localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
     }
 
-    if (!noticesVisited.includes(currentNoticeHref)) {
+    if(!noticesVisited.includes(currentNoticeHref)) {
       // If the user hasn't visited /stories/
       const newTag = document.createElement("span");
       newTag.classList.add("tag", "new-tag", "nav-tag");
@@ -74,28 +70,23 @@
       storiesLink.insertBefore(newTag, storiesLink.children[2])
     }
 
-    if (noticesSeen.includes(currentNoticeHref)) {
+    if(noticesSeen.includes(currentNoticeHref)) {
       // If the user has dismissed the notice
       notice.style.display = "none";
     }
 
     // Add close button functionality
-    notice.querySelector("#close-btn").setAttribute("onclick", 'onNoticeCloseButtonClick()')
-
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
     // Add close on link click functionality
-    notice.querySelector("#notice a").setAttribute("onclick", 'onNoticeLinkClick()')
-  }
-
-  function onNoticeCloseButtonClick() {
-    noticesSeen.push(currentNoticeHref);
-    localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
-    notice.style.display = "none";
-  }
-
-  function onNoticeLinkClick() {
-    noticesSeen.push(currentNoticeHref);
-    localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
-    notice.style.display = "none";
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
   }
 
   checkNewStories()
