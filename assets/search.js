@@ -1,3 +1,5 @@
+// MillMint search
+
 'use strict';
 
 {{ $searchDataFile := printf "%s.search-data.json" .Language.Lang }}
@@ -107,7 +109,7 @@
         // That way it looks better and provides context. These numbers can be tweaked
         const startIndex = Math.max(index - 20, 0) // Make sure we don't go before the beginning of the string
         const endIndex = Math.min(index + input.value.length + 30, cleanedContent.length) // Make sure we don't go past the end of the string
-        
+
         // Find the relevant text and make it a bit prettier by removing the letters at the start and end
         const relevantText = page.content
           .slice(startIndex, endIndex) // Get some text around the search term

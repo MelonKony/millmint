@@ -4,6 +4,8 @@ index: false
 
 color: millmint
 
+draft: true
+
 toc: false
 type: blank
 comments: false
@@ -21,10 +23,22 @@ author: Hobart Phillips
 
 <br>
 
-<div id="my-store-70111085"></div>
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<div>
+  <stripe-buy-button
+    buy-button-id="buy_btn_1NZmTBAKkJE9EkvQ4irnIAlN"
+    publishable-key="pk_test_51JldQuAKkJE9EkvQV6ihCKQOjEtO0caniF3R4OVY8adlwSO7G8e4dDeGy5DBajXEjtbsMVdor1kEv9kgt6VYV1My00GAbW0dJU"
+  >
+  </stripe-buy-button>
+</div>
+
+<!--<div id="my-store-70111085"></div>
 <div>
 <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?70111085&data_platform=code&data_date=2022-01-17" charset="utf-8"></script><script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-70111085");</script>
-</div>
+</div>-->
 
 <!--<div class="shop-grid">
   <a class="item" href="/shop/item/railway-shirt">

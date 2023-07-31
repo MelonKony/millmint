@@ -12,6 +12,8 @@ categories:
 
 image: /images/death.jpg
 
+draft: true
+
 
 aliases:
 - /religion/
@@ -21,11 +23,11 @@ author: Hobart Phillips
 
 ---
 {{< hint >}}
-߷ This article is about [Vekllei](/vekllei)
+߷ This article is about [Vekllei](/factbook/vekllei)
 {{</hint>}}
 
-{{< hint >}}
-߷ This article is undergoing changes and should not be considered canon.
+{{< hint panel >}}
+**Upen** is the nondenominational animistic spiritualism of Vekllei. It is both an organised religious belief system and a decentralised local animism, localised regionally across the Home Islands and beyond. As a basis for Vekllei metaphysics and general belief systems, *Upen* is a central part of Vekllei cultural identity and informs most parts of life at all levels in the country.
 {{</hint>}}
 
 ## Overview

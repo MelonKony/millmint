@@ -3,8 +3,8 @@ title: Vekllei
 fulltitle: Vekllei
 icon: 🌹
 logo: /svg/commonwealth.svg
-color: pink
-image: /images/marinerailway.jpg
+color: red
+image: /images/fullres/station.jpg
 
 tags:
   - states
@@ -21,17 +21,12 @@ toc: true
 
 aliases:
 - /vekllei/
-
-rgb: 222, 24, 87
-
-description: Vekllei is an immersive visual world, written and illustrated by Hobart Phillips.
-author: Hobart Phillips
 ---
 ## Overview
 
 **Vekllei** is best conceptualised as a union of islands across the Atlantic Ocean. It is a commonwealth,[^commonwealth] the fourth in a series, and consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of Oslola, of 8 million. Together, they amount to a single superstate that spans the entirety of the Atlantic as a great power.
 
-The Commonwealth which unites them is highly centralised and built on common systems of governance and economic management. Member republics, known as [Constituents](/constituents/) cede aspects of governance like security, health and education to the Commonwealth. The country is colloquially known as *Vekllei*, an Algic corcidi word meaning *people of the sea and stars*.[^name] It is also known as the *Commonwealth of Oceans*.
+The Commonwealth which unites them is highly centralised and built on common systems of governance and economic management. Member republics, known as [Constituents](/constituents/) cede aspects of governance like security, health and education to the Commonwealth. The country is colloquially known as *Vekllei*, an Algic [corcidi](/corcidi/) word meaning *people of the sea and stars*.[^name] It is also known as the *Commonwealth of Oceans*.
 
 The capital of Vekllei is [Comet](/comet/), located west of the Azores Commonwealth in the Meteor Islands.
 
