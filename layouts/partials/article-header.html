@@ -1,15 +1,17 @@
 <header class="info">
   <h1 class="title">{{ .Params.fulltitle }}</h1>
   <div class="date" style="margin-right: .25rem;">{{if .Params.PublishDate}}{{- .PublishDate.Format "Monday, Jan 2, 2006" -}}{{ end }}</div>
-  <div class="headcrumbs">
-    {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default true) }}
-    {{ partial "components/headcrumbs.html" . }}
-    {{ end }}
+  <div class="meta">
+    <span class="icon" style="line-height: 1.2;">{{ .Params.icon }}</span>
+    <div class="headcrumbs">
+      {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default true) }}
+      {{ partial "components/headcrumbs.html" . }}
+      {{ end }}
+    </div>
+    <div class="article-category">MillMint</div>
+    <!--<div class="article-tag">{{ partial "taxonomies/tags.html" .}}</div>-->
+    <!--<div class="article-category">{{ .Lastmod.Format "02.01.2006" }}</div>-->
   </div>
-  <!--<div class="article-tag">{{ partial "taxonomies/tags.html" .}}</div>-->
-  <div class="article-category">MillMint</div>
-  <!--<div class="article-category">{{ .Lastmod.Format "02.01.2006" }}</div>-->
-  <span class="icon" style="line-height: 1.2;">{{ .Params.icon }}</span>
   {{ if .Params.emoji }}<div class="emoji" id="whirlybat">{{ .Params.emoji }}</div>{{ end }}
   {{ if .Params.logo }}<img class="logo" src="{{ .Params.logo }}"></img>{{ end }}
 </header>

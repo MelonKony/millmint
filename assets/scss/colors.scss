@@ -1,3 +1,6 @@
+// millmint.net colors
+// TODO: clean
+
 $gray-0: #fff;
 $gray-50: #f7f7f7;
 $gray-100: #f0f0f6;
@@ -21,10 +24,10 @@ $gray-1000: #000;
 
 $gray-light: #f0f0f6;
 $gray-med: #e5e5e5;
-$gray-heavy: #a3a3a3;
+$gray-heavy: #5f5f69;
 $gray-light-dark: #262629;
 $gray-med-dark: #302f2f;
-$gray-heavy-dark: #a1a1a5;
+$gray-heavy-dark: #222226;;
 
 
 $background: #ffffff;
@@ -58,7 +61,7 @@ $millmint: rgb(225, 28, 110);
   --body-background: #{$background};
 
   --font-color: #{$font-color};
-  --highlight: #{$gray-med};
+  --highlight: #{$gray-heavy};
   --highlight-background: #{$gray-100};
 
   --color-link: #{$link};
@@ -82,8 +85,8 @@ $millmint: rgb(225, 28, 110);
 
 html[data-theme="light"] {
   --font-color: #{$font-color};
-  --highlight: #{$gray-med};
-  --highlight-background: #{$gray-100};
+  --highlight: #{$gray-heavy};
+  --highlight-background: #{$gray-light};
 
   --gray-light: #{$gray-light};
   --gray-med: #{$gray-med};
@@ -109,8 +112,8 @@ html[data-theme="light"] {
 
 html[data-theme="dark"] {
   --font-color: #{$gray-light};
-  --highlight: #{$gray-med};
-  --highlight-background: #{$gray-100};
+  --highlight: #{$gray-heavy};
+  --highlight-background: #{$gray-heavy-dark};
 
   --gray-light: #{$gray-light-dark};
   --gray-med:#{$gray-med-dark};

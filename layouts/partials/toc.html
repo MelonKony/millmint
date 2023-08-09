@@ -5,9 +5,9 @@
         <div class="desktop-toc">
             <details class="dropdown" open=true>
                 <summary>
-                    <a href="#" class="toc-title">
+                    <a href="#" class="title">
                         <span>{{ .Params.title }}</span>
-                        <span class="toc-emoji">{{ .Params.icon }}</span>
+                        <span class="icon">{{ .Params.icon }}</span>
                     </a>
                 </summary>
             {{ .TableOfContents }}
@@ -17,17 +17,10 @@
 </div>
 {{ end }}
 
-<!-- Everything below is the mobile TOC -->
-{{ if and (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") (.Scratch.Get "params").enable_toc }}
-    {{ $enable_collapsible_toc := (.Scratch.Get "params").enable_collapsible_toc }}
-    <div class="mobile-toc">
-        <details>
-          <summary>
-           <span class="navicon">📑</span>Table of Contents
-          </summary>
-          <div>
-            {{ .TableOfContents | emojify }}
-          </div>
-        </details>
-    </div>
-{{ end }}
+<!-- Mobile TOC -->
+<details class="mobile toc">
+  <summary>
+    <span class="navicon">📑</span>Table of Contents
+  </summary>
+    {{ .TableOfContents | emojify }}
+</details>

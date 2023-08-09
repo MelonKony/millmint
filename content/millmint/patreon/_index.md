@@ -6,11 +6,11 @@ emoji: Ζ
 color: blue
 list: true
 
-tags: 
+tags:
   - state
 categories:
   - society
-  
+
 draft: false
 
 image:
@@ -19,7 +19,7 @@ image:
 comments: false
 
 aliases:
-- /state/
+- /patreon/
 
 description: The government of Vekllei, a utopia created by Hobart Phillips.
 author: Hobart Phillips

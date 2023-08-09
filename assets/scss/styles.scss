@@ -1,4 +1,5 @@
-//content.scss
+// millmint.net main styles
+// TODO: clean
 
 // heading anchors
 h1, h2, h3, h4, h5, h6 {
@@ -15,6 +16,14 @@ h1, h2, h3, h4, h5, h6 {
 		&:focus {
 			opacity: initial;
 		}
+	}
+}
+
+// page (main text body) styles
+
+.page {
+	a {
+		@include highlight;
 	}
 }
 
@@ -59,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
 	// box sub-panel
 	.box {
 		@include radius-base;
-		background: var(--body-background);
+		@include body-background-color;
 		border: 1px solid var(--color-gray);
 		line-height: 1.5;
 		padding: 1rem;
@@ -200,7 +209,7 @@ span.tag {
 	list-style: none;
 	width: fit-content;
 	background-color: var(--color-gray);
-	color: white;
+	color: var(--body-background);
 	border: hidden;
 	.gray {
 		background-color: var(--gray-med);
@@ -242,7 +251,10 @@ span.tag {
 }
 
 // icons
-
+.icon {
+	@include emoji;
+	@include font-normal;
+}
 .smallicon {
 	@include emoji;
 	@include font-normal;

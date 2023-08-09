@@ -1,4 +1,4 @@
-// Site pagination
+// millmint.net pagination
 
 .pagination {
   padding: 0;
@@ -8,45 +8,46 @@
   li {
     display: inline;
     margin: 0 .25rem;
+
+    .active a {
+      @include font-semibold;
+      @include font-color;
+    }
+
+    &:not(.disabled) a:hover {
+      @include font-color;
+
+      span {
+        color: inherit;
+      }
+    }
   }
 
   a,
   span {
-    color: var(--color-text-secondary);
-  }
-
-  li.active a {
-    @include font-semibold;
-    color: var(--color-text);
-  }
-
-  li:not(.disabled) a:hover {
-    color: var(--color-text);
-
-    span {
-      color: inherit;
-    }
+    @include secondary-color;
   }
 
   .disabled {
     cursor: not-allowed;
   }
-}
 
-.next {
-  float: right;
-  background-color: var(--gray-light);
-  padding: 0.25rem 1rem 0.25rem 1rem;
-  box-sizing: border-box;
-  border-radius: 0.25rem;
-}
+  .prev {
+    float: left;
+  }
 
-.prev {
-  float: left;
-  background-color: var(--gray-light);
-  padding: 0.25rem 1rem 0.25rem 1rem;
-  box-sizing: border-box;
-  border-radius: 0.25rem;
+  .next {
+    float: right;
+  }
+
+  .prev,
+  .next {
+    @include highlight-background;
+    @include py-1;
+    @include px-4;
+    box-sizing: border-box;
+    border-radius: 0.25rem;
+  }
 }
 
 .postcard-layout {

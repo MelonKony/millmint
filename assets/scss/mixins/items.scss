@@ -17,3 +17,6 @@
 @mixin hint-background {
   background-color: var(--highlight-background);
 }
+@mixin nav-highlight-background {
+ background: var(--hint-bg, var(--gray-light));
+}

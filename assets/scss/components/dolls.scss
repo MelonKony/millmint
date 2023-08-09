@@ -49,6 +49,7 @@
 	}
 
 	.layer img {
+		@include padding-0;
 		object-fit: cover;
 		visibility: visible;
 		margin: 0 !important;

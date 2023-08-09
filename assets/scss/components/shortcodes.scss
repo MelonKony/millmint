@@ -1,64 +1,59 @@
-// Timeline
+// millmint.net timeline
 
 ol.timeline {
-  li {
-	@include text-sm;
-	margin-bottom: 1.5rem;
-	list-style-type: disc;
-	position: relative;
-	display: grid; 
-	grid-template-columns: 18% 1fr;
-	column-gap: 10px;
-	grid-template-rows: min-content; 
-	grid-template-areas: 
-		"year event"; 
-  }
-  
-  li:before {
-	content: '';
-	background-color: var(--gray-med);
-	position: absolute;
-	bottom: -100px;
-	top: 5px;
-	left: -2.25rem;
-	height: calc(100% + 25px);
-	width: 2px;
-  }
-  li:last-child:before {
-	  display: none;
-	  bottom: 0px;
-	  margin: 0;
+
+	section {
+		@include padding-4;
+		@include my-2;
+		@include radius-base;
+		@include highlight-background;
 	}
-  li:after {
-	@include emoji;
-	color: var(--gray-med);
-	content: '•';
-	position: absolute;
-	font-size: 36px;
-	left: -2.6rem;
-  }
-  
-  /*@media screen and (max-width: $sm_min_width) {
-	  li:after {
-		  display: none;
-	  }
-	  li:before {
-		  display: none;
-	  }
-  }*/
-  
-  .event {
-	grid-area: event;
-  }
-  
-  section {
-	  @include padding-4;
-	  @include my-2;
-	  @include radius-base;
-	  background: var(--gray-light);
-  }
-  
-  b {
-	  grid-area: year; 
-  }
+
+	b {
+		grid-area: year;
+	}
+
+	li {
+		@include text-sm;
+		margin-bottom: 1.5rem;
+		list-style-type: disc;
+		position: relative;
+		display: grid;
+		grid-template-columns: 18% 1fr;
+		column-gap: 10px;
+		grid-template-rows: min-content;
+		grid-template-areas:
+			"year event";
+
+		&:before {
+			content: '';
+			background-color: var(--gray-med);
+			position: absolute;
+			bottom: -100px;
+			top: 5px;
+			left: -2.25rem;
+			height: calc(100% + 25px);
+			width: 2px;
+		}
+
+		&:last-child:before {
+			@include margin-0;
+			display: none;
+			bottom: 0px;
+		}
+
+		&:after {
+			@include emoji;
+			@include highlight;
+			color: var(--gray-med);
+			content: '•';
+			position: absolute;
+			font-size: 36px;
+			left: -2.6rem;
+		}
+	}
+
+	.event {
+		grid-area: event;
+	}
 }

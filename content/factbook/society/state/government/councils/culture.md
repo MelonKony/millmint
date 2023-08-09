@@ -1,15 +1,11 @@
 ---
-title: Culture
-fulltitle: Commonwealth Culture Secretariat 
+title: Culture Council
+fulltitle: Commonwealth Culture Council
 icon: 🏵
-emoji: Ζ
-color: purple
-image: 
+logo: /svg/logos/culture-council-shield.svg/
+image:
 
-tags: 
-  - secretariat
-categories:
-  - society
+rgb: 59, 186, 94
 
 draft: true
 
@@ -26,22 +22,20 @@ description: Vekllei is a utopia created by Hobart Phillips.
 author: Hobart Phillips
 ---
 {{< hint >}}
-߷ This article is about a secretariat of the [Vekllei](/factbook/vekllei/) [Commonwealth Parliament](/factbook/society/state/government/commonwealth/)
+߷ Part of the *[state](/state/)* series of articles
 {{</hint>}}
-
-{{<section>}}
-## Commonwealth Culture Secretariat 
+## Overview
 {{<boxtag teal>}}COLSEC{{</boxtag>}}
 
-The *Commonwealth Culture Secretariat* (COLSEC) is concerned primarily with 'cultural values and beliefs' of the Commonwealth, their protection, and foreign relations. Its subordinate offices are dedicated to key areas of concern designed to assist its smaller member-states which may lack the political infrastructure to maintain their own offices. 
+The *Commonwealth Culture Secretariat* (COLSEC) is concerned primarily with 'cultural values and beliefs' of the Commonwealth, their protection, and foreign relations. Its subordinate offices are dedicated to key areas of concern designed to assist its smaller member-states which may lack the political infrastructure to maintain their own offices.
 
-{{<outline>}}
+{{<hint panel>}}
 ### Commonwealth Central Archives
 
 The COLSEC *Commonwealth Affairs Office* (COLSA) is responsible for the documentation of the general disposition, welfare, culture and demography of the people of the Commonwealth. This includes political attitudes towards the Commonwealth itself, as well as how decisions made by other Secretariats impact public opinion. It is also the body-advocate of the public of member states who are unable to appeal to their local government directly.
-{{</outline>}}
+{{</hint>}}
 
-{{<outline>}}
+{{<hint panel>}}
 ### Commonwealth Affairs Office
 
 The COLSEC *Commonwealth Affairs Office* (COLSA) is responsible for the documentation of the general disposition, welfare, culture and demography of the people of the Commonwealth. This includes political attitudes towards the Commonwealth itself, as well as how decisions made by other Secretariats impact public opinion. It is also the body-advocate of the public of member states who are unable to appeal to their local government directly.
@@ -56,7 +50,7 @@ The COLSEC *Veteran Affairs Office* (COLVET) is responsible for organising healt
 
 #### Civil Affairs Office
 
-The COLSEC *Civil Affairs Office* (COLSECA) is responsible for the health of the government of its member states and the maintenance of COLSEC guidelines on Floral Society. It serves as a political school for Floral politics and as the support mechanism for natural disasters, public unrest and other threats to the stability of its member states. 
+The COLSEC *Civil Affairs Office* (COLSECA) is responsible for the health of the government of its member states and the maintenance of COLSEC guidelines on Floral Society. It serves as a political school for Floral politics and as the support mechanism for natural disasters, public unrest and other threats to the stability of its member states.
 
 #### Cultural Heritage Affairs Office
 
@@ -65,19 +59,22 @@ The COLSEC Cultural Heritage Affairs Office (COLSEHE)
 #### Overseas Affairs Office
 
 The COLSEC Overseas Affairs Office (COLSESEA) coordinates the foreign offices of the Commonwealth, particularly for states that lack their own foreign affairs offices in [Kalina](/factbook/landscape/territories/kalina) and the [West Antilles](/factbook/landscape/territories/west). It also serves as an advisory board for policy and trade with other countries, particularly as they interact with autonomous states.
-{{</outline>}}
-{{<outline>}}
+{{</hint>}}
+
+{{<hint panel>}}
 ### Commonwealth Records and Telegraph Directorate
 
 #### Commonwealth Press Bureau
-{{</outline>}}
-{{<outline>}}
+{{</hint>}}
+
+{{<hint panel>}}
 ### Commonwealth Sports Directorate
-{{</outline>}}
-{{<outline>}}
+{{</hint>}}
+
+{{<hint panel>}}
 ### Commonwealth Telecommunications Directorate
-{{</outline>}}
-{{<outline>}}
+{{</hint>}}
+
+{{<hint panel>}}
 ### Commonwealth Tourism Directorate
-{{</outline>}}
-{{</section>}}
+{{</hint>}}

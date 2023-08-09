@@ -6,13 +6,13 @@
 @mixin font-color {
   color: var(--font-color);
 }
-@mixin background {
-  background: var(--hint-bg, var(--gray-light));
+@mixin body-background-color {
+    background-color: var(--body-background);
 }
 /* for use with hint-bg */
 @mixin secondary-color {
-    color: var(--hint-bg);
-    filter: hue-rotate(-15deg) invert(40%) saturate(15);
+    color: var(--highlight);
+    filter: hue-rotate(15deg) invert(0.25) saturate(0.5);
 }
 @mixin font-blue {
   color: var(--color-blue);

@@ -1,12 +1,5 @@
-.meta {
-  display: grid;
-  grid-template-columns: 1fr auto;
-  grid-template-rows: 1fr;
-  gap: 0px 0px;
-  grid-auto-flow: row dense;
-  grid-template-areas:
-    "date posttag";
-}
+// millmint.net tags, categories, and images
+// TODO: clean
 
 img.page {
   @include mx-auto;

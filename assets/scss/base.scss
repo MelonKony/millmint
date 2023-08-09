@@ -1,3 +1,6 @@
+// millmint.net HTML styles
+// TODO: clean
+
 html {
   overflow-y: scroll;
 }
@@ -12,11 +15,11 @@ body {
 }
 
 main {
-  @include my-4;
   @include mx-auto;
+  @include my-4;
+  @include padding-5;
   @include radius-base;
-  padding: 1.5rem;
-  background-color: var(--body-background);
+  @include body-background-color;
   box-sizing: content-box;
 
   @media only screen and (max-width: 500px) {
@@ -100,7 +103,7 @@ hr {
 
 ::placeholder {
   font-size: 14px;
-  @include secondary-color;
+  @include highlight;
 }
 
 /* DETAILS */
@@ -118,7 +121,7 @@ details {
     @include font-bold;
 
     a {
-      color: var(--font-color);
+      @include font-color;
     }
   }
 

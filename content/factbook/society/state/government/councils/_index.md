@@ -13,10 +13,6 @@ categories:
 aliases:
   - /councils/
 
-draft: false
-
-type: blank
-
 comments: false
 
 toc: true
@@ -29,14 +25,5 @@ author: Hobart Phillips
 {{</hint>}}
 
 {{<hint panel>}}
-The Commonwealth Parliament is the supranational governing body of the Vekllei Commonwealth and its member-states.
+The Commonwealth *councils*, known as *secretariats* in Vekllei, are a superior kind of ministry headed by a secretary. Vekllei Ministries answer to the Commonwealth Parliament, whereas *councils* report directly to the [Commonwealth Council](/council/). In practice, *councils* are federalised and so carry out their roles directly, unlike the devolved ministries.
 {{</hint>}}
-
-{{< details title="Secretariats of the Commonwealth Parliament" open=true >}}
-- <span class="navicon">⚒️</span>Commonwealth Construction Secretariat (coming soon)
-- <!--<a href="/factbook/society/state/government/commonwealth/culture">--><span class="navicon">🏵</span>Commonwealth Culture Secretariat (coming soon)
-- <!--<a href="/factbook/society/state/government/commonwealth/education">--><span class="navicon">🎓</span>Commonwealth Education Secretariat (coming soon)
-- <span class="navicon">⚕️</span>Commonwealth Health Secretariat (coming soon)
-- <span class="navicon">⛓️</span>Commonwealth Labour Secretariat (coming soon)
-- <a href="/opsec/"><span class="navicon">🏹</span>Commonwealth Security Secretariat</a>
-{{</ details >}}

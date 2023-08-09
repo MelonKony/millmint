@@ -4,9 +4,9 @@ fulltitle: Government of Vekllei
 icon: 🌸
 emoji: Ζ
 color: purple
-image: 
+image:
 
-tags: 
+tags:
   - state
 categories:
   - society
@@ -30,15 +30,15 @@ The **Vekllei Government** is the supranational parliamentary government of the 
 	- <span class="navicon">⚖️</span>Courts of the Crown (coming soon)
 	- <span class="navicon">💼</span>Fair Work Authority (coming soon)
 	- <span class="navicon">🗳️</span>Vekllei Democracy Commissariat (coming soon)
-- <a href="/factbook/society/state/government/commonwealth/"><span class="navicon">🌸</span>Councils & Secretariats</a>
+- <a href="/councils/"><span class="navicon">🌸</span>Councils & Secretariats</a>
 	- <span class="navicon">⚒️</span>Commonwealth Construction Secretariat (coming soon)
 	- <!--<a href="/factbook/society/state/government/commonwealth/culture">--><span class="navicon">🏵</span>Commonwealth Culture Secretariat (coming soon)
 	- <!--<a href="/factbook/society/state/government/commonwealth/education">--><span class="navicon">🎓</span>Commonwealth Education Secretariat (coming soon)
 	- <span class="navicon">⚕️</span>Commonwealth Health Secretariat (coming soon)
 	- <span class="navicon">⛓️</span>Commonwealth Labour Secretariat (coming soon)
-	- <a href="/factbook/society/state/government/commonwealth/security"><span class="navicon">🏹</span>Commonwealth Security Secretariat</a>
+	- <a href="/opsec/"><span class="navicon">🏹</span>Commonwealth Security Secretariat</a>
 - <a href="/factbook/society/state/government/interior/"><span class="navicon">🌸</span>Ministries</a>
-	- <a href="/factbook/society/state/government/interior/commerce"><span class="navicon">🪙</span>Ministry of Commerce</a>
+	- <a href="/cosmosol/"><span class="navicon">🪙</span>Ministry of Commerce</a>
 	- <span class="navicon">🚧</span>Ministry of the Commons (coming soon)
 	- <a href="/factbook/society/state/government/interior/commonwealth"><span class="navicon">🌐</span>Ministry of the Commonwealth</a>
 	- <a href="/factbook/society/state/government/interior/defence"><span class="navicon">⚔️</span>Ministry of Defence</a>
@@ -76,13 +76,13 @@ What we know as the 'Vekllei Government' is portioned between several powerful s
 	- The Commonwealth Parliament (also the *Administration of the Commonwealth*), responsible for the maintenance, development and security of the Vekllei Commonwealth, including its territories.
 	- The Interior Parliaments (also the *Administrations of the Interior* interchangeably), responsible for the internal governance of the Vekllei member-states, primarily used in reference to the interior parliaments of the Vekllei Home Islands.
 
-Under this arrangement, it is clear that the sovereignty of Vekllei and its Commonwealth members is somewhat obfuscated -- the Crown, Commonwealth and Interior administrations all share overlapping *de jure* control over the affairs of Vekllei territories. In addition, the word 'Vekllei,' commonly used to refer to the Vekllei Home Islands, is also used interchangeably to describe states beyond its geography. For example, the 'Vekllei Commonwealth' in fact refers to membership in the Crown, of which Vekllei is an equal member but does not otherwise, in principle, control as a legal metropole. The Kalina Islands, Kala, Demon and other full members of the Commonwealth are equal autonomous members, but nonetheless inherit the Vekllei name. 
+Under this arrangement, it is clear that the sovereignty of Vekllei and its Commonwealth members is somewhat obfuscated -- the Crown, Commonwealth and Interior administrations all share overlapping *de jure* control over the affairs of Vekllei territories. In addition, the word 'Vekllei,' commonly used to refer to the Vekllei Home Islands, is also used interchangeably to describe states beyond its geography. For example, the 'Vekllei Commonwealth' in fact refers to membership in the Crown, of which Vekllei is an equal member but does not otherwise, in principle, control as a legal metropole. The Kalina Islands, Kala, Demon and other full members of the Commonwealth are equal autonomous members, but nonetheless inherit the Vekllei name.
 
 In this state of affairs, Vekllei can refer to the powerful member-state in the North Atlantic, the Commonwealth it belongs to, or, indeed, the Crown Sovereign itself. Unfortunately for foreigners, its use is generally dependent on context.
 
 ## Government of the Vekllei Commonwealth
 
-The Government of Vekllei is divided between three parliaments -- the [Interior Parliament](/factbook/society/state/government/interior), the [Commonwealth Parliament](/factbook/society/state/government/commonwealth) and the [Crown Parliament](/factbook/society/state/government/crown/). Neither is particularly subordinate to the other, and they serve different purposes in the lives of Vekllei people. 
+The Government of Vekllei is divided between three parliaments -- the [Interior Parliament](/factbook/society/state/government/interior), the [Commonwealth Parliament](/factbook/society/state/government/commonwealth) and the [Crown Parliament](/factbook/society/state/government/crown/). Neither is particularly subordinate to the other, and they serve different purposes in the lives of Vekllei people.
 
 In general, the Interior Parliament is responsible for the standard of living in the Vekllei Home Islands and dependent autonomous regions like Demon and the Aismious islands. The Commonwealth Parliament is responsible for all features of the transnational Commonwealth superstate, standardising governance and state services while advocating for 'Floral Society' under the Floral Constitution.
 
@@ -113,12 +113,12 @@ Although each member of the Atlantic Commonwealth is considered a full participa
 {{</box>}}
 
 {{<box>}}
-### Parliament of the Crown 
+### Parliament of the Crown
 
 {{< hint >}}
 ✿ Main article: *[The Crown Parliament](/factbook/society/state/government/crown)*
 {{</hint>}}
 
-The *Commonwealth Administration of the Crown* (also the Crown Sovereign and Parliament of Spirits interchangeably), not to be confused with the [Palace of the Vekllei Sovereign](/factbook/society/government/#palace-of-the-vekllei-sovereign), is the administration-level apparatus of the Commonwealth to coordinate policy with the Palace. Since the Commonwealth does not have direct authority over the features of the Sovereign, the Crown Parliament acts as its human representative in Vekllei government. Although it sits above the Commonwealth and Interior parliaments in sovereignty, its responsibilities are limited to constitutional matters and aspects of the Vekllei legal system. 
+The *Commonwealth Administration of the Crown* (also the Crown Sovereign and Parliament of Spirits interchangeably), not to be confused with the [Palace of the Vekllei Sovereign](/factbook/society/government/#palace-of-the-vekllei-sovereign), is the administration-level apparatus of the Commonwealth to coordinate policy with the Palace. Since the Commonwealth does not have direct authority over the features of the Sovereign, the Crown Parliament acts as its human representative in Vekllei government. Although it sits above the Commonwealth and Interior parliaments in sovereignty, its responsibilities are limited to constitutional matters and aspects of the Vekllei legal system.
 {{</box>}}
 {{</section>}}

@@ -1,15 +1,11 @@
 ---
-title: LABSEC
-fulltitle: Commonwealth Labour Secretariat 
+title: Labour Council
+fulltitle: Commonwealth Labour Council
 icon: ⛓️
-emoji: Ζ
-color: purple
-image: 
+logo: /svg/logos/labour-council-shield.svg/
+image:
 
-tags: 
-  - secretariat
-categories:
-  - society
+rgb: 255, 162, 84
 
 draft: true
 
@@ -26,10 +22,8 @@ description: Vekllei is a utopia created by Hobart Phillips.
 author: Hobart Phillips
 ---
 {{< hint >}}
-߷ This article is about a secretariat of the [Vekllei](/factbook/vekllei/) [Commonwealth Parliament](/factbook/society/state/government/commonwealth/)
+߷ Part of the *[state](/state/)* series of articles
 {{</hint>}}
 
-{{<section>}}
-## Commonwealth Labour Secretariat 
+## Overview
 {{<boxtag teal>}}LABSEC{{</boxtag>}}
-{{</section>}}

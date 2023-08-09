@@ -77,9 +77,9 @@
 }
 
 #search-results {
+  @include body-background-color;
   margin-top: 0.25rem;
   position: absolute;
-  background-color: var(--body-background);
   z-index: 11;
   width: -webkit-max-content;
   width: -moz-max-content;

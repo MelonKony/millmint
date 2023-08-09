@@ -2,13 +2,10 @@
 title: Commonwealth Oil
 fulltitle: Commonwealth Oil
 icon: 🛢️
-emoji: ·
-rgb: 156, 33, 62
+logo: /svg/logos/commonwealth-oil.svg/
+rgb: 56, 54, 76
 
 draft: true
-
-comments: false
-
 
 aliases:
 - /oil/
@@ -20,5 +17,5 @@ author: Hobart Phillips
 ߷ Part of the *[industry](/industry/)* series of articles
 {{</hint>}}
 
-**Commonwealth Oil** is the 
+**Commonwealth Oil** is the
 

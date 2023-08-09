@@ -2,9 +2,9 @@
 title: Vekllei
 fulltitle: Vekllei
 icon: 🌹
-logo: /svg/commonwealth.svg
-color: red
-image: /images/fullres/station.jpg
+logo: /svg/logos/vekllei.svg
+color: pink
+image: /images/fullres/seispri.jpg
 
 tags:
   - states

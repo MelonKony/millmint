@@ -1,84 +1,84 @@
+// millmint.net navbar
+// TODO: clean
+
 nav {
   display: flex;
   flex-wrap: wrap;
 
-  li {
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-
   @media screen and (max-width: $md_min_width) {
+    @include my-0;
+  }
+
+  .navbar {
+    @include margin-0;
+    @include padding-0;
     display: flex;
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-}
-
-.navbar {
-  display: flex;
-  align-items: center;
-  flex: 1;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-
-  a {
-
-    &:hover {
-      text-decoration-line: none;
-      color: var(--font-color);
-    }
-  }
-
-  li {
+    align-items: center;
+    flex: 1;
     list-style: none;
-  }
 
-  .navbar-dropdown {
-    color: var(--font-color);
-
-    >ul.menu-dropdown {
-      left: 0;
-      top: 1.5rem;
-      width: inherit;
-    }
-  }
-
-  .navbar-item {
-    display: block;
-    margin: 0 0.5rem 0 0;
-    padding-bottom: 0.1rem;
-    border-bottom: 2px solid transparent;
-
-    >a.menu-link {
-      @include secondary-color;
-      @include font-medium;
-      padding: 0;
-    }
-
-    &:hover {
-      border-bottom-color: var(--highlight);
-      a {
-        color: var(--font-color);
+    a {
+      &:hover {
+        text-decoration-line: none;
       }
     }
-  }
 
-  .navbar-item.active.navicon {
-    @include font-color;
-  }
-  .navbar-item.insection {
-    border-bottom-color: var(--highlight);
-
-    > a {
-      @include font-color;
+    li {
+      @include my-0;
+      list-style: none;
     }
-  }
-  .navbar-item.active {
-  border-bottom-color: var(--highlight);
 
-    > a {
-    color: var(--font-color);
+    .menu-dropdown li {
+      a {
+        @include secondary-color;
+      }
+
+      &:hover {
+        @include nav-highlight-background;
+        box-shadow: inset 0 0 0 4px var(--body-background);
+      }
+    }
+
+    .navbar-dropdown {
+
+      li {
+        @include body-background-color;
+        padding: .5rem 0 .5rem 0;
+      }
+
+      a {
+        @include secondary-color;
+      }
+
+      >ul.menu-dropdown {
+        left: 0;
+        top: 1.5rem;
+        width: inherit;
+      }
+    }
+
+    .navbar-item {
+      @include text-sm;
+      display: block;
+      margin: 0 0.5rem 0 0;
+      padding-bottom: 0.1rem;
+      border-bottom: 2px solid transparent;
+      white-space: nowrap;
+
+      >a.menu-link {
+        @include padding-0;
+        @include secondary-color;
+        @include font-medium;
+      }
+
+      &:hover {
+        border-bottom-color: var(--highlight);
+      }
+    }
+
+    .navbar-item.insection,
+    .navbar-item.active {
+      border-bottom-color: var(--highlight);
     }
   }
 }
@@ -103,39 +103,15 @@ nav {
     @include radius-none;
     height: .9rem;
     margin: 0;
-
-    .dark {
-      filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(93deg) brightness(103%) contrast(103%);
-    }
   }
 }
 
-.navbar .navbar-item > a.menu-link img:hover {
-  filter: none;
-}
-
-/* hide social icons on mobile */
+// hide social icons on mobile
 
 @media only screen and (max-width: 500px) {
   .right {
     display: none;
   }
-}
-
-.menu-dropdown li {
-  a {
-    color: var(--font-color);
-  }
-  &:hover {
-    background-color: var(--hint-bg, var(--gray-light));
-    box-shadow: inset 0 0 0 4px var(--body-background);
-  }
-}
-
-.navbar-dropdown li {
-  padding: .5rem 0 .5rem 0;
-  background-color: var(--body-background);
-  color: var(--font-color);
 }
 
 .menu {
@@ -153,18 +129,6 @@ nav {
 .navbar,
 .navbar-item {
   position: relative;
-}
-
-.navbar-item {
-  padding: 0;
-  margin: 0;
-  height: 100%;
-  @include text-sm;
-}
-
-.navbar-item {
-  display: block;
-  white-space: nowrap;
 }
 
 /* HORIZONTAL MENU */
@@ -204,9 +168,6 @@ nav {
   box-shadow: 0 20px 25px -5px rgba(0, 0, 0, .2), 0 10px 10px -5px rgba(0, 0, 0, .2);
 }
 
-.pure-menu-item {
-}
-
 .submenu .menu-dropdown {
   left: 100%;
   top: auto;
@@ -218,7 +179,6 @@ nav {
 .menu-active>.menu-dropdown {
   display: block;
   position: absolute;
-  color: var(--font-color);
 }
 
 /* Vertical Menus - show the dropdown arrow */

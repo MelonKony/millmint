@@ -2,7 +2,7 @@
 title: Rail
 fulltitle: Vekllei National Rail
 icon: 🚇
-emoji: T
+logo: /svg/logos/vnr.svg/
 color: vnr
 
 tags:
