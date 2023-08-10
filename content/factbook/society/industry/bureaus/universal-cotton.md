@@ -31,9 +31,10 @@ author: Hobart Phillips
 
 **Universal Cotton** is a [bureau](/bureaus/) based in the Vekllei Islands. It is the largest clothing manufacturer in the Commonwealth, specialising in shirts, trousers, skirts, dresses, and underwear. It supplies most department stores in the Vekllei Islands as part of the *Commons Comfort Scheme* of the Vekllei government, and has a significant presence throughout the Commonwealth.
 
-![Flag of Universal Cotton](/images/mastheads/flags/industry/uc.png "The flag of Universal Cotton")
+<!--![Flag of Universal Cotton](/images/mastheads/flags/industry/uc.png "The flag of Universal Cotton")-->
+It trades overseas under the *Universal Cotton Company* brand. It also owns a number of sub-brands through its industrial council, including *Mia* and *Atlantic*. Including its sub-brands, Universal Cotton is among the largest clothing manufacturers in the world and contributes billions to [VKIM](/factbook/society/state/finance/#international-markets) market capitalisation.
 
-It trades overseas under the *Universal Cotton Company* brand. It also owns a number of sub-brands through its industrial council, including *Mia & Gosfyourd* and *Atlantic*. Including its sub-brands, Universal Cotton is among the largest clothing manufacturers in the world and contributes billions to the [VKIM](/factbook/society/state/finance/#international-markets) market capitalisation.
+Universal Cotton also produces factory schematics and product designs which are licensed to small [factory *lots*](/bulletin/lots).
 
 {{<hint panel>}}
 **Universal Cotton Organisation**
