@@ -673,6 +673,10 @@ figure {
       text-decoration: underline; }
 
 sub, sup {
+  font-size: 0.875rem;
+  /* 14px */
+  line-height: 1.25rem;
+  /* 20px */
   border-radius: .25rem;
   top: -0.5em;
   background-color: var(--hint-bg);

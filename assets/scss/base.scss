@@ -58,6 +58,7 @@ figure {
 }
 
 sub, sup {
+    @include text-sm;
     @include radius-base;
     top: -0.5em;
     background-color: var(--hint-bg);
