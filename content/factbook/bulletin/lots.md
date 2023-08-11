@@ -1,6 +1,6 @@
 ---
-title: One Person One Factory
-fulltitle: One Person One Factory
+title: One Person, One Factory
+fulltitle: One Person, One Factory
 icon: 🏭
 logo:
 image:

@@ -57,6 +57,13 @@ figure {
   }
 }
 
+sub, sup {
+    @include radius-base;
+    top: -0.5em;
+    background-color: var(--hint-bg);
+    padding: 1px 4px;
+}
+
 input {
   background-color: var(--color-background);
   color: $font-color;
