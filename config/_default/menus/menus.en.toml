@@ -18,10 +18,10 @@
     parent = "factbook"
     weight = 1
   [[navbar]]
-    identifier = "characters"
-    name = "Characters"
-    pre = "🎎"
-    url = "/factbook/characters/"
+    identifier = "bulletin"
+    name = "Bulletin"
+    pre = "🧾"
+    url = "/factbook/bulletin/"
     parent = "factbook"
     weight = 2
   [[navbar]]

@@ -1,7 +1,7 @@
 ---
 title: Bulletin
 fulltitle: Bulletin
-icon: 📓
+icon: 🧾
 emoji: Π
 color: millmint
 

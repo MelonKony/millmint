@@ -4,9 +4,9 @@ fulltitle: State Industry of Vekllei
 icon: 🏬
 emoji: ¡
 color: purple
-image: 
+image:
 
-tags: 
+tags:
   - state
 categories:
   - society
@@ -55,7 +55,7 @@ Vekllei government is highly decentralised and includes several competing parlia
 
 The Vekllei economy is largely inefficient for a [variety of poltical and cultural reasons](/posts/2020-07-13-economy/), and this has resulted in an array of unique economic conditions that require different macroeconomic thinking to nations overseas. Although the Vekllei economy is functionally unmoneyed for Vekllei people, the Vekllei primary market is highly complex and involves intricate constellations of commodity markets, social factors of production, and tremendous public finance.
 
-Rather than a direct redistribution of income and wealth, the Vekllei state uses assets to secure a basic standard of living for Vekllei people, advance industrial and commercial goals, and retain tight control over secondary and speculative markets that facilitate its liquid capital, which in turn provide mechanisms for foreign investment and trade in the country. 
+Rather than a direct redistribution of income and wealth, the Vekllei state uses assets to secure a basic standard of living for Vekllei people, advance industrial and commercial goals, and retain tight control over secondary and speculative markets that facilitate its liquid capital, which in turn provide mechanisms for foreign investment and trade in the country.
 
 Vekllei does not resemble a modern consumer society, and so state assets are not geared towards consumer products. Similarly, the moneylessness of the Vekllei primary economy eliminates tremendous financial overhead that would otherwise be spent on maintaining the financial system, since these abstract relationships are usurped by direct industrial relations, company ballots, and directives given by ministerial production committees. These planned production mechanisms facilitate the reliable overproduction of essential goods that meet the needs of Vekllei population. The inflexibility of this system is supplanted by the private market of participatory labour, which produces the majority of consumer goods and products in Vekllei, if unreliably. Luxury goods are generally hyperlocalised or imported, and are scarce for most Veklei people.
 
@@ -87,7 +87,7 @@ There are three broad categories of state asset in Vekllei, arranged at their le
 {{< details title="State Companies in Vekllei" open=true >}}
 
 * [Vekllei National Rail](/factbook/society/industry/rail/)
-* [Vekllei National Airways](/factbook/landscape/boroughs/pharos/#vekllei-national-airways)
+* [Commonwealth Airways](/air/)
   * Vekllei Overseas Airways
   * Atlantic Air
 * Vekllei National Petroleum
