@@ -23,7 +23,7 @@ aliases:
 * Most people in Vekllei do not use money and are essentially unbanked. This raises interesting problems of fairness in cases of scarcity.
 * As a common example of how ticketing works in Vekllei, we can look to airlines and how they allocate seats.
 * Air travel is generally accessible to ordinary Vekllei people. Commonwealth Airways helps connect the distant republics of Vekllei and emphasise their shared values.
-* Most flights use a simple 80/20 system, where 80% of seats are available six months out and 20% are allocated based on need
+* Most flights use a simple 80/20 system, where 80% of seats are available six months out and 20% are allocated based on need.
 {{</hint>}}
 
 Almost every [<span class="fi fi-com"></span> Vekllei](/vekllei/) person flies, and some fly frequently. The country is simply too big and its islands too disparate to commute by ship regularly. Almost always, they fly with [Commonwealth Airways](/air/), their national airline, which does not charge a fare for the unmoneyed and unbanked Commonwealth population.
