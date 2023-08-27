@@ -1397,9 +1397,10 @@ nav {
       white-space: nowrap; }
       nav .navbar .navbar-item > a.menu-link {
         padding: 0;
-        color: var(--highlight);
-        filter: hue-rotate(15deg) invert(0.25) saturate(0.5);
         font-weight: 500; }
+        nav .navbar .navbar-item > a.menu-link .navicon, nav .navbar .navbar-item > a.menu-link .name {
+          color: var(--highlight);
+          filter: hue-rotate(15deg) invert(0.25) saturate(0.5); }
       nav .navbar .navbar-item:hover {
         border-bottom-color: var(--highlight); }
     nav .navbar .navbar-item.insection,
@@ -3004,6 +3005,18 @@ ol.timeline .event {
 
 .fi-com.fis {
   background-image: url(../svg/flags/1x1/com.svg); }
+
+.fi-verde {
+  background-image: url(../svg/flags/4x3/verde.svg); }
+
+.fi-verde.fis {
+  background-image: url(../svg/flags/1x1/verde.svg); }
+
+.fi-bahamas {
+  background-image: url(../svg/flags/4x3/bahamas.svg); }
+
+.fi-bahamas.fis {
+  background-image: url(../svg/flags/1x1/bahamas.svg); }
 
 .fib {
   background-size: contain;

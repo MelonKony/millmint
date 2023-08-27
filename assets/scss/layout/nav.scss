@@ -67,8 +67,10 @@ nav {
 
       >a.menu-link {
         @include padding-0;
-        @include secondary-color;
         @include font-medium;
+        .navicon, .name {
+          @include secondary-color;
+        }
       }
 
       &:hover {

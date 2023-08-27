@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 400 300" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<path d="M108.336 150.013C108.336 98.8184 149.837 57.3172 201.031 57.3172C252.226 57.3172 293.727 98.8184 293.727 150.013C293.727 201.207 252.226 242.708 201.031 242.708C149.837 242.708 108.336 201.207 108.336 150.013Z" id="Fill"/>
+</defs>
+<g id="Layer-2">
+<path d="M3.14975e-14 300L400 300L400 0.0254636L3.14975e-14 0.0254636L3.14975e-14 300Z" fill="#ef3d59" fill-rule="nonzero" opacity="1" stroke="none"/>
+<use fill="#ffa54b" fill-rule="nonzero" opacity="1" stroke="none" xlink:href="#Fill"/>
+<clipPath clip-rule="nonzero" id="ClipPath">
+<use xlink:href="#Fill"/>
+</clipPath>
+<g clip-path="url(#ClipPath)">
+<path d="M126.962 148.918C126.962 108.163 160 75.1251 200.755 75.1251C241.51 75.1251 274.548 108.163 274.548 148.918C274.548 189.673 241.51 222.712 200.755 222.712C160 222.712 126.962 189.673 126.962 148.918Z" fill="#ffa54b" fill-rule="nonzero" opacity="1" stroke="#ef3d59" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M151.353 149.378C151.353 122.094 173.471 99.9758 200.755 99.9758C228.039 99.9758 250.157 122.094 250.157 149.378C250.157 176.661 228.039 198.779 200.755 198.779C173.471 198.779 151.353 176.661 151.353 149.378Z" fill="#ffa54b" fill-rule="nonzero" opacity="1" stroke="#ef3d59" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M175.435 149.168C175.435 135.184 186.771 123.848 200.755 123.848C214.739 123.848 226.075 135.184 226.075 149.168C226.075 163.152 214.739 174.489 200.755 174.489C186.771 174.489 175.435 163.152 175.435 149.168Z" fill="#ffa54b" fill-rule="nonzero" opacity="1" stroke="#ef3d59" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M202.098 240.217L133.536 207.183L120.183 168.549L284.203 168.549L266.634 207.835L202.098 240.217Z" fill="#ffa54b" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M60.5083 167.992L341.002 167.947" fill="none" opacity="1" stroke="#ffa54b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M58.9983 180.61L339.492 180.565" fill="none" opacity="1" stroke="#ef3d59" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M60.5083 157.147L341.002 157.102" fill="none" opacity="1" stroke="#ef3d59" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="12"/>
+<path d="M59.7533 203.349L340.247 203.304" fill="none" opacity="1" stroke="#ef3d59" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M59.7533 226.295L340.247 226.25" fill="none" opacity="1" stroke="#ef3d59" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+</g>
+</g>
+</svg>

@@ -7,7 +7,7 @@ image:
 
 rgb: 246, 81, 113
 
-draft: true
+draft: false
 toc: false
 
 aliases:

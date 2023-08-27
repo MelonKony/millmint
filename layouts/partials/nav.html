@@ -16,9 +16,9 @@
             {{- if .Children -}}
                 <li class="navbar-item navbar-dropdown allow-hover {{ $navbar_decoration }}">
                     {{ if .URL }}
-                       <a href="{{ .URL }}" class="menu-link"><span class="navicon">{{ .Pre }}</span><span>{{- .Name -}}</span></a>
+                       <a href="{{ .URL }}" class="menu-link"><span class="navicon">{{ .Pre }}</span><span class="name">{{- .Name -}}</span></a>
                     {{ else }}
-                       <div class="menu-link"><span class="navicon">{{ .Pre }}</span><span>{{- .Name -}}</span></div>
+                       <div class="menu-link"><span class="navicon">{{ .Pre }}</span><span class="name">{{- .Name -}}</span></div>
                     {{ end }}
                     <ul class="menu-dropdown">
                         {{- partial "navbar/nav-desktop.html" . -}}
@@ -27,9 +27,9 @@
             {{- else -}}
                 <li class="navbar-item {{ $navbar_decoration }}">
                   {{ if .URL }}
-                    <a href="{{ .URL }}" class="menu-link"><span class="navicon">{{ .Pre }}</span><span>{{- .Name -}}</span></a>
+                    <a href="{{ .URL }}" class="menu-link"><span class="navicon">{{ .Pre }}</span><span class="name">{{- .Name -}}</span></a>
                   {{ else }}
-                     <div class="menu-link"><span class="navicon">{{ .Pre }}</span><span>{{- .Name -}}</span></div>
+                     <div class="menu-link"><span class="navicon">{{ .Pre }}</span><span class="name">{{- .Name -}}</span></div>
                   {{ end }}
                 </li>
             {{- end -}}
