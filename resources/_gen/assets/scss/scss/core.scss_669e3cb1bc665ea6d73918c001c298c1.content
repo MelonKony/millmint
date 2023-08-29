@@ -1378,9 +1378,6 @@ nav {
     nav .navbar .navbar-dropdown li {
       background-color: var(--body-background);
       padding: .5rem 0 .5rem 0; }
-    nav .navbar .navbar-dropdown a {
-      color: var(--highlight);
-      filter: hue-rotate(15deg) invert(0.25) saturate(0.5); }
     nav .navbar .navbar-dropdown > ul.menu-dropdown {
       left: 0;
       top: 1.5rem;

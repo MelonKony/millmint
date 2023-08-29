@@ -7,7 +7,7 @@ image:
 
 rgb: 45, 122, 235
 
-draft: true
+draft: false
 toc: true
 
 aliases:
@@ -19,7 +19,7 @@ aliases:
 
 ## Overview
 
-As elsewhere in [Vekllei](/vekllei/), healthcare is centralised in planning and standards and decentralised in delivery. Each [republic](/constituents/) has a National Health Service which governs regional policy.
+As elsewhere in [<span class="fi fi-com"></span> Vekllei](/vekllei/), healthcare is centralised in planning and standards and decentralised in delivery. Each [republic](/constituents/) has a National Health Service which governs regional policy.
 
 Almost all healthcare available in Vekllei comes through public financing and providers. There are two private hospitals in the country which provide specialised care to foreigners.
 

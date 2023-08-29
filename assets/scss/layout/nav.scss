@@ -46,10 +46,6 @@ nav {
         padding: .5rem 0 .5rem 0;
       }
 
-      a {
-        @include secondary-color;
-      }
-
       >ul.menu-dropdown {
         left: 0;
         top: 1.5rem;
