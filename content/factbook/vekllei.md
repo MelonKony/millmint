@@ -240,7 +240,7 @@ The Commonwealth has major financial hubs in Bermuda, the Bahamas and the Azores
 
 Vekllei has a large industrial capacity and produces vehicles, machine tools, steel and nonferrous metals, ships, chemicals, textiles, and processed foods. It has the 12th-highest manufacturing output in the world.
 
-Parts of Vekllei are highly industrialised,[^industrialised] and the country has modernised its economy since independence through labour-saving automations, centralisation and new technologies like [robotics](/computers/). Very few Vekllei people work in traditional factory labour, since it is impractical in the [commons](/factbook/vekllei/#economy), and so most production and assembly occurs in automated factories known as *lots*.
+Parts of Vekllei are highly industrialised,[^industrialised] and the country has modernised its economy since independence through labour-saving automations, centralisation and new technologies like [robotics](/computers/). Very few Vekllei people work in traditional factory labour, since it is impractical in the [commons](/factbook/vekllei/#economy), and so most production and assembly occurs in automated factories known as [*lots*](/bulletin/lots/).
 
 Major industries in Vekllei leverage the creative productivity of its enthusiastic and well-educated population, and leads markets in financial services, design, banking, electronics, telecommunications and research. Its historic reputation as a reliable and efficient entrepôt and geographic diversity means Vekllei is a major hub of trade and is well-connected to the rest of the world.
 
@@ -385,8 +385,7 @@ Public transit ranges from state-of-the-art maglev lines in Oslola to century-ol
 
 The Commonwealth is the site of the Atlantic Telephone & Telegraph Exchange, which services connections between the Americas and Europe. It has a sophisticated network of public phones available to persons with a Phone Card. Radio and television broadcasting are operated by the Ministry of the Commons via the Commonwealth Radio and Commonwealth Television companies, which contract regional service to local operators.
 
-The Commonwealth maintains the National Bulletin System, a form of networked electronic bulletin board that is able to be accessed from most libraries and schools across its republics.
-
+The Commonwealth maintains the National Bulletin System, a form of networked electronic bulletin board that is able to be accessed from most libraries and schools across its republics.<span class="tombstone">
 
 [^commonwealth]: Commonwealths are a historical nation-state indigenous to some [Constituents](/constituents/), and today distinguishes Vekllei from federalised or unitary states and emphasises their egalitarian values and shared future.
 [^name]: The *corcidi* is actually a combination of two poetic phrases, and is usually transliterated separately as *people of the sea, people of the stars*, though the meaning is the same.

@@ -98,6 +98,15 @@ article {
     }
   }
 
+  .tombstone {
+      background-color: var(--highlight);
+      content: "";
+      display: inline-block;
+      height: 14px;
+      margin-left: 10px;
+      width: 14px;
+  }
+
   .highlight {
     @include my-6;
     position: relative;

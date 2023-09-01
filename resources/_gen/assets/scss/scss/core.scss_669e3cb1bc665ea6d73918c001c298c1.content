@@ -955,6 +955,13 @@ article {
   article .code-toolbar .toolbar-item {
     margin-left: 0.25rem;
     margin-right: 0.25rem; }
+  article .tombstone {
+    background-color: var(--highlight);
+    content: "";
+    display: inline-block;
+    height: 14px;
+    margin-left: 10px;
+    width: 14px; }
   article .highlight {
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
