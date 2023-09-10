@@ -11,9 +11,6 @@ icon: 📓
 emoji: Π
 color: millmint
 
-tags:
-  - commissions
-
 aliases:
   - /commissions/
 

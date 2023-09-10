@@ -6,16 +6,8 @@ emoji: g
 color: green
 
 list: true
-
-tags: 
-- landscape
-categories:
-- utopia
 aliases:
 - /landscape/
-
-
-comments: false
 
 toc: false
 

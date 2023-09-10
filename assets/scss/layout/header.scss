@@ -229,10 +229,10 @@ header.info {
 		align-content: end;
 
 		li {
+			@include margin-0;
+			@include padding-0;
 			display: inline;
 			list-style: none;
-			margin: 0;
-			padding: 0;
 
 			&+:after {
 				@include highlight;
@@ -242,8 +242,8 @@ header.info {
 		}
 
 		ul {
-			margin: 0;
-			padding: 0;
+			@include margin-0;
+			@include padding-0;
 		}
 
 		a {
@@ -251,8 +251,8 @@ header.info {
 		}
 
 		.seperator {
-			display: inline;
 			@include highlight;
+			display: inline;
 			padding-left: .25rem;
 			padding-right: .15rem;
 		}

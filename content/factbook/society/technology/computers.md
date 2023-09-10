@@ -4,12 +4,7 @@ fulltitle: Computing in Vekllei
 icon: 🖥
 emoji: ɋ
 color: purple
-image: 
-
-tags: 
-  - technology
-categories:
-  - society
+image:
 
 type: blank
 
@@ -68,7 +63,7 @@ Automen are used in a variety of roles in Vekllei, including as independent robo
 
 ## Accessibility and Utility
 
-All Vekllei people can access computers through public libraries, universities and some schools. These facilities are networked into the National Bulletin System (NBS), a sort of digital bulletin board that allows for real-time communication, content sharing and electronic mail. The National Bulletin System makes up part of the Vekllei Public Intranet, which can be accessed through terminals found in many schools, post offices and libraries. The Vekllei Government and large businesses also maintain their own intranets for use among staff. Computer subcultures exist in Vekllei and participate in unsanctioned network access through home-built relays and primitive hobby computers, a practice known as 'phreaking.' 
+All Vekllei people can access computers through public libraries, universities and some schools. These facilities are networked into the National Bulletin System (NBS), a sort of digital bulletin board that allows for real-time communication, content sharing and electronic mail. The National Bulletin System makes up part of the Vekllei Public Intranet, which can be accessed through terminals found in many schools, post offices and libraries. The Vekllei Government and large businesses also maintain their own intranets for use among staff. Computer subcultures exist in Vekllei and participate in unsanctioned network access through home-built relays and primitive hobby computers, a practice known as 'phreaking.'
 
 The Public Intranet is anonymous, but terminals signal their hardware address to the public mainframe, which allows users to specify the location of others. The NBS displays these addresses as postcodes by default.
 

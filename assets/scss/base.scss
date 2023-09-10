@@ -213,6 +213,7 @@ h4,
 h5,
 h6 {
   @include font-bold;
+  text-transform: capitalize;
   margin-top: 2rem;
   margin-bottom: 1rem;
 }

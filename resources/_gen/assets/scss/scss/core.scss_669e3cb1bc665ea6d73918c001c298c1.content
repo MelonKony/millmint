@@ -806,6 +806,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
+  text-transform: capitalize;
   margin-top: 2rem;
   margin-bottom: 1rem; }
 
@@ -1337,10 +1338,10 @@ header.info {
     grid-area: headcrumbs;
     align-content: end; }
     header.info .headcrumbs li {
-      display: inline;
-      list-style: none;
       margin: 0;
-      padding: 0; }
+      padding: 0;
+      display: inline;
+      list-style: none; }
       header.info .headcrumbs li + :after {
         color: var(--highlight);
         padding: 0 .25rem 0 .15rem;
@@ -1351,8 +1352,8 @@ header.info {
     header.info .headcrumbs a {
       color: var(--font-color); }
     header.info .headcrumbs .seperator {
-      display: inline;
       color: var(--highlight);
+      display: inline;
       padding-left: .25rem;
       padding-right: .15rem; }
 
@@ -1612,7 +1613,8 @@ nav {
 .pagination {
   padding: 0;
   margin: 0;
-  list-style: none; }
+  list-style: none;
+  text-align: center; }
   .pagination li {
     display: inline;
     margin: 0 .25rem; }

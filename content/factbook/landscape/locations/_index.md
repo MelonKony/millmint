@@ -5,15 +5,9 @@ icon: 🌐
 emoji: g
 color: green
 
-tags: 
-  - locations
-categories:
-  - commonwealth
 aliases:
   - /locations/
 
-
-weight: 1
 comments: false
 
 ---

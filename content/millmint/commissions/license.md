@@ -9,9 +9,6 @@ icon: 📄
 emoji: Π
 color: millmint
 
-tags: 
-  - license
-  
 aliases:
   - /license/
 
@@ -30,7 +27,7 @@ author: Hobart Phillips
 {{</hint>}}
 
 {{<hint panel>}}
-When you commission work from MillMint, it is licensed for limited commercial use. 
+When you commission work from MillMint, it is licensed for limited commercial use.
 
 **You may adapt the work for personal use or for gifts as many times as you like with no permission required.**
 
@@ -55,7 +52,7 @@ LICENSE CONDITIONS:
 * Signatures on the work must maintain intact in reproductions.
 * You cannot claim to have created commissioned work (i.e. to have drawn it).
 * You cannot resell artwork in its original digital format.
-* You cannot use the work in a pornographic, obscene, illegal, immoral, libellous or defamatory manner. 
+* You cannot use the work in a pornographic, obscene, illegal, immoral, libellous or defamatory manner.
 * You cannot incorporate the work into trademarks, logos, or service marks.
 
 **Under NO circumstances may you sell, or otherwise commercialise the actual digital files in their original format.**
