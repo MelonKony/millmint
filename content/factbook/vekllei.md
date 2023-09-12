@@ -83,7 +83,7 @@ The Commonwealth is foremostly a union of Atlantic and Caribbean islands which, 
 
 Vekllei is a constitutional, federated country including [six individual commonwealths](/constituents/) which share political features established by the [Council of Roses](/rose-council/).
 
-It has a unique kind of federalism, with republics and territories orbiting central Commonwealth control at different distances. A common means of petitioning membership, or "acceding" to the Commonwealth is via its international organisation called the [Council of Oceans](/oceans-council/).
+It has a unique kind of federalism, with republics and territories orbiting central Commonwealth control at different distances. A common means of petitioning membership, or "acceding" to the Commonwealth is via its international organisation called the [<span class="fi fi-oceans"></span> Council of Oceans](/oceans-council/).
 
 Although regionally and culturally diverse, Commonwealth government is centralised and the state functions as a single country. These republics have large degrees of autonomy, but are unilaterally governed by the central Commonwealth government as an intact state.
 
@@ -156,7 +156,7 @@ These islands are diverse in both size and geography, and range from barren suba
 ![Map of the Vekllei Caribbean](/svg/maps/caribbean.svg "Map of the Vekllei Caribbean, consisting of the Kalina and Antilles Commonwealths and their constituent republics.")
 
 
-A major motivator of membership in the Commonwealth is its trade influence and wealth, since [constituents](/constituents/) and [territories](/territories/) are entitled to the same standards of living as its major industrial territories. The most recent member is Cabo Verde, acceding in 2038 after two decades of membership in the [Council of Oceans](/oceans-council/).
+A major motivator of membership in the Commonwealth is its trade influence and wealth, since [constituents](/constituents/) and [territories](/territories/) are entitled to the same standards of living as its major industrial territories. The most recent member is Cabo Verde, acceding in 2038 after two decades of membership in the [<span class="fi fi-oceans"></span> Council of Oceans](/oceans-council/).
 
 The Commonwealth has explored petitions for membership from non-island countries including Suriname, though these have been unsuccessful.
 

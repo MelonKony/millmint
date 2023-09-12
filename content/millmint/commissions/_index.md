@@ -33,7 +33,7 @@ author: Hobart Phillips
 
 - **Email**: studio@millmint.net
 - **Discord**: @millmint
-- **Twitter**: @melonKony
+- **Twitter**: [@vekllei](https://x.com/vekllei)
 
 You know what I draw -- it's probably how you found me. It should be no surprise then that I work best in my element. Consider how your commission can use my strengths as an artist, and I'll help you develop a concept.
 
@@ -112,5 +112,5 @@ Commissioned work is subject to the <span class="smallicon">📄</span> [MillMin
 {{</details>}}
 
 {{<hint>}}
-I can be contacted via [email](mailto:studio@millmint.net), [Twitter](https://twitter.com/melonKony), or Discord (@millmint).
+I can be contacted via [email](mailto:studio@millmint.net), [Twitter](https://x.com/vekllei), or Discord (@millmint).
 {{</hint>}}
