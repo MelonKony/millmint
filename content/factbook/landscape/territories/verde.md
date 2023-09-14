@@ -6,6 +6,7 @@ logo: /svg/verde.svg
 
 rgb: 43, 87, 140
 
+draft: true
 toc: true
 
 aliases:
