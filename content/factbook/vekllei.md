@@ -342,7 +342,7 @@ Millions of migrants have settled in Vekllei. They arrived primarily from the te
 * East Creole (4%)
 * Portuguese (3.1%)
 * Latin American (2.9%)
-* Indian (1.7%)
+* Indian/Ceylonese (1.7%)
 * French (1.6%)
 * Southern European (1.5%)
 * Slavic (1.3%)
