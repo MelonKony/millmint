@@ -14,7 +14,7 @@ keywords:
     - post
     - 2017
 
-url: /stories/national-dress/
+url: /stories/in-the-harbour/
 aliases:
 - /posts/2017-07-19-national-dress/
 
