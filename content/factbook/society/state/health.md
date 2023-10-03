@@ -2,7 +2,7 @@
 title: Healthcare in Vekllei
 fulltitle: Healthcare in Vekllei
 icon: ⚕️
-logo: /svg/logos/health-vekllei.svg/
+logo: /svg/logos/health-vekllei.svg
 image:
 
 rgb: 45, 122, 235

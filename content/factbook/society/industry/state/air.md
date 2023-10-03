@@ -2,7 +2,7 @@
 title: Commonwealth Airways
 fulltitle: Commonwealth Airways
 icon: ✈️
-logo: /svg/logos/air.svg/
+logo: /svg/logos/air.svg
 rgb: 245, 60, 89
 
 draft: false

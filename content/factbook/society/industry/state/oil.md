@@ -2,7 +2,7 @@
 title: Commonwealth Oil
 fulltitle: Commonwealth Oil
 icon: 🛢️
-logo: /svg/logos/commonwealth-oil.svg/
+logo: /svg/logos/commonwealth-oil.svg
 rgb: 56, 54, 76
 
 draft: true

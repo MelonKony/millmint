@@ -2,7 +2,7 @@
 title: Democracy Council
 fulltitle: Commonwealth Democracy Council
 icon: 🗳️
-logo: /svg/logos/democracy-council-shield.svg/
+logo: /svg/logos/democracy-council-shield.svg
 image:
 
 rgb: 206, 80, 159

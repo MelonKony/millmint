@@ -2,7 +2,7 @@
 title: Kalina Isles
 fulltitle: Kalina Isles
 icon: 🏝
-logo: /svg/kalina.svg/
+logo: /svg/kalina.svg
 color: green
 draft: true
 tags:

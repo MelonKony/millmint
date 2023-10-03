@@ -2,7 +2,7 @@
 title: Forum of Free Nations
 fulltitle: Forum of Free Nations
 icon: 🏵️
-logo: /svg/fn.svg/
+logo: /svg/fn.svg
 image:
 
 rgb: 62, 158, 244

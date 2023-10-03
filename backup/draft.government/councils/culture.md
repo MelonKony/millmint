@@ -2,7 +2,7 @@
 title: Culture Council
 fulltitle: Commonwealth Culture Council
 icon: 🏵
-logo: /svg/logos/culture-council-shield.svg/
+logo: /svg/logos/culture-council-shield.svg
 image:
 
 rgb: 59, 186, 94

@@ -2,7 +2,7 @@
 title: Labour Council
 fulltitle: Commonwealth Labour Council
 icon: ⛓️
-logo: /svg/logos/labour-council-shield.svg/
+logo: /svg/logos/labour-council-shield.svg
 image:
 
 rgb: 255, 162, 84

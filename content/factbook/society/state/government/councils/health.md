@@ -2,7 +2,7 @@
 title: Health Council
 fulltitle: Commonwealth Health Council
 icon: ⚕️
-logo: /svg/logos/health-council-shield.svg/
+logo: /svg/logos/health-council-shield.svg
 image:
 
 rgb: 246, 81, 113

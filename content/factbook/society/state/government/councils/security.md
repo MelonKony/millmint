@@ -2,7 +2,7 @@
 title: Security Council
 fulltitle: Commonwealth Security Council
 icon: ⚡️
-logo: /svg/logos/security-council-shield.svg/
+logo: /svg/logos/security-council-shield.svg
 image:
 
 rgb: 240, 86, 75

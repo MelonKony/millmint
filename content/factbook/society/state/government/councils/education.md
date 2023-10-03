@@ -2,7 +2,7 @@
 title: Education Council
 fulltitle: Commonwealth Education Council
 icon: 🎓
-logo: /svg/logos/education-council-shield.svg/
+logo: /svg/logos/education-council-shield.svg
 image:
 
 rgb: 59, 111, 185
