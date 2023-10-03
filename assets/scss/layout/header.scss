@@ -233,6 +233,7 @@ header.info {
 			@include padding-0;
 			display: inline;
 			list-style: none;
+			white-space: nowrap;
 
 			&+:after {
 				@include highlight;

@@ -1,0 +1,81 @@
+{{- partial "params.html" . -}}
+
+<!DOCTYPE html>
+<html lang='{{ .Site.LanguageCode }}'>
+{{- partial "head.html" . -}}
+
+<body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
+  <main>
+    {{- partial "header.html" . -}}
+    {{- partial "nav.html" . -}}
+    <article class="content" style="margin-top: 0;">
+      <section class="page">
+        {{ if .Params.changelogs }}
+        {{ $enableCollapsibleChangelogs := (.Scratch.Get "params").enableCollapsibleChangelogs }}
+        {{ partial "components/collapsible-menu.html" (dict "type" "changelogs" "context" . "enable" $enableCollapsibleChangelogs) }}
+        {{ end }}
+
+        {{- partial "content" . }}
+
+        {{ if eq .Kind "page" }}
+        {{ if (.Params.disqus | default .Site.DisqusShortname) }}
+        {{- partial "disqus.html" . -}}
+        {{ end }}
+        {{ else }}
+        {{ if (.Params.disqus | default false) }}
+        {{- partial "disqus.html" . -}}
+        {{ end }}
+        {{ end }}
+      </section>
+    </article>
+    {{- partial "footer.html" . -}}
+  </main>
+  {{- partial "resources/js.html" . -}}
+  {{- partial "script.html" . -}}
+</body>
+
+<style>
+  #notice {
+    margin: 1rem;
+  }
+  article {
+    font-family: 'New York';
+    color: var(--darker-text);
+  }
+  main {
+    background-color: transparent;
+  }
+  header.info {
+    .title {
+      color: var(--darker-text);
+      font-size: 60pt;
+      font-weight: 900;
+    }
+    .meta {
+      display: none;
+    }
+  }
+  section.page {
+    margin-top: 2rem;
+  }
+  .hint.subtitle {
+    background-color: transparent;
+  }
+  .dropcap {
+    float: left;
+    font-weight: 900;
+    font-size: 75px;
+    line-height: 60px;
+    padding-top: 4px;
+    padding-right: 8px;
+    padding-left: 3px;
+  }
+  h2 {
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    font-size: 75px;
+    font-weight: 900;
+  }
+</style>
+
+</html>

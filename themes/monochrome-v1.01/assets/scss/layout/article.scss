@@ -9,10 +9,6 @@ article {
     margin-bottom: 0;
   }
 
-  hr {
-    @include my-8;
-  }
-
   p {
     overflow-wrap: break-word;
   }
@@ -170,7 +166,7 @@ article {
   figure {
     @include my-4;
     text-align: center;
-    
+
     @media screen and (min-width: $md_min_width) {
       margin-left: -1.25rem;
       margin-right: -1.25rem;

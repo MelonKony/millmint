@@ -6,24 +6,8 @@ emoji: Ζ
 color: pink
 list: true
 
-tags: 
-  - state
-categories:
-  - society
-  
-draft: false
-
-image:
-
-
-comments: false
-
 aliases:
 - /state/
-
-description: The government of Vekllei, a utopia created by Hobart Phillips.
-author: Hobart Phillips
-keywords: government, illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
 {{<hint>}}
 ✿ Main article: *[The Government of Vekllei](/factbook/society/state/government/)*

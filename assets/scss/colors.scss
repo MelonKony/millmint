@@ -150,10 +150,6 @@ a {
   text-decoration: none;
 }
 
-blockquote.hint:not(.panel) {
-  background-color: var(--highlight-background);
-}
-
 blockquote.hint.story {
   background-color: var(--gray-light);
 }

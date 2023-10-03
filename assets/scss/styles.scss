@@ -205,6 +205,7 @@ span.tag {
 	@include text-sm;
 	@include font-bold;
 	@include radius-base;
+	line-height: .8rem!important;
 	padding: 0.25rem;
 	list-style: none;
 	width: fit-content;
@@ -284,4 +285,11 @@ span.tag {
 
 #whirlybat {
 	animation: whirlyAnimate 2s linear infinite;
+}
+
+.pullquote {
+	@include highlight;
+	@include text-3xl;
+	@include my-8;
+	font-style: italic;
 }

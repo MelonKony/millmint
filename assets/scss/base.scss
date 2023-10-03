@@ -86,7 +86,8 @@ footer {
 
 hr {
   @include highlight;
-  height: 0px;
+  @include my-8;
+  border: 1px solid var(--gray-light);
 }
 
 .page {
@@ -119,9 +120,9 @@ hr {
 details {
   @include my-2;
   @include radius-base;
+  @include highlight-background;
   padding: 0.5rem 1rem 0.5rem 1rem;
   border: 0px solid var(--gray-light);
-  background-color: var(--gray-light);
   outline: none;
 
   summary {
@@ -213,7 +214,6 @@ h4,
 h5,
 h6 {
   @include font-bold;
-  text-transform: capitalize;
   margin-top: 2rem;
   margin-bottom: 1rem;
 }

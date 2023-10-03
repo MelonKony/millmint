@@ -6,8 +6,7 @@ logo: /svg/flags/4x3/mira.svg
 
 rgb: 0, 115, 137
 
-draft: true
-toc: true
+draft: false
 
 aliases:
 - /mira/

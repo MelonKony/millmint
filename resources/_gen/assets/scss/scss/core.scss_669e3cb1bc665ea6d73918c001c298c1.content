@@ -401,9 +401,6 @@ a {
   color: var(--color-link);
   text-decoration: none; }
 
-blockquote.hint:not(.panel) {
-  background-color: var(--highlight-background); }
-
 blockquote.hint.story {
   background-color: var(--gray-light); }
 
@@ -560,6 +557,7 @@ span.tag {
   /* 20px */
   font-weight: 700;
   border-radius: .25rem;
+  line-height: 0.8rem !important;
   padding: 0.25rem;
   list-style: none;
   width: fit-content;
@@ -622,6 +620,16 @@ span.tag {
 
 #whirlybat {
   animation: whirlyAnimate 2s linear infinite; }
+
+.pullquote {
+  color: var(--highlight);
+  font-size: 1.5rem;
+  /* 24px */
+  line-height: 2rem;
+  /* 32px */
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  font-style: italic; }
 
 html {
   overflow-y: scroll; }
@@ -699,7 +707,9 @@ footer {
 
 hr {
   color: var(--highlight);
-  height: 0px; }
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border: 1px solid var(--gray-light); }
 
 .page {
   margin-top: 1rem;
@@ -728,9 +738,9 @@ details {
   margin-top: .5rem;
   margin-bottom: .5rem;
   border-radius: .25rem;
+  background-color: var(--highlight-background);
   padding: 0.5rem 1rem 0.5rem 1rem;
   border: 0px solid var(--gray-light);
-  background-color: var(--gray-light);
   outline: none; }
   details summary {
     font-size: 1rem;
@@ -806,7 +816,6 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  text-transform: capitalize;
   margin-top: 2rem;
   margin-bottom: 1rem; }
 
@@ -1341,7 +1350,8 @@ header.info {
       margin: 0;
       padding: 0;
       display: inline;
-      list-style: none; }
+      list-style: none;
+      white-space: nowrap; }
       header.info .headcrumbs li + :after {
         color: var(--highlight);
         padding: 0 .25rem 0 .15rem;
@@ -1707,6 +1717,14 @@ article[autonumbering] .collapsible-menu li a:before {
   font-family: "Bamum";
   src: url("/fonts/NotoBamum.ttf") format("truetype"); }
 
+@font-face {
+  font-family: "New York";
+  src: url("/fonts/NewYork.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "New York Italic";
+  src: url("/fonts/NewYorkItalic.ttf") format("truetype"); }
+
 article blockquote {
   border-inline-start: 2px solid var(--color-gray);
   font-style: italic; }
@@ -1720,7 +1738,7 @@ article blockquote {
   margin-bottom: .5rem;
   padding: .5rem;
   border-radius: .25rem;
-  background-color: var(--gray-light);
+  background-color: var(--highlight-background);
   font-style: normal;
   border-inline-start: none; }
   .hint .icon {
@@ -1742,7 +1760,7 @@ article blockquote {
   .hint .text {
     vertical-align: middle; }
 
-blockquote.hint:not(.panel) {
+blockquote.hint:not(.panel):not(.subtitle) {
   background-color: var(--highlight-background); }
 
 .hint.panel {
@@ -1776,6 +1794,12 @@ blockquote.hint:not(.panel) {
   letter-spacing: -.01em;
   border-top-left-radius: 0;
   border-top-right-radius: 0; }
+
+.hint.subtitle {
+  background-color: transparent;
+  font-style: italic;
+  font-size: 24px;
+  line-height: 1.6; }
 
 .hint.blue,
 .article-blue .hint[class="hint "] {
