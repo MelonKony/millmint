@@ -2,7 +2,7 @@
 title: United Grocers
 fulltitle: United Grocers
 icon: 🌾
-logo: /svg/logos/united-grocers.svg/
+logo: /svg/logos/united-grocers.svg
 rgb: 98, 186, 85
 image: /images/fullres/united-grocers.jpg
 
