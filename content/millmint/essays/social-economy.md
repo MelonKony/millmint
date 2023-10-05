@@ -36,9 +36,9 @@ If you put aside your hesitations about the "moneyless" aspect of Vekllei and ac
 
 * For the relationships we have, we might do favours for friends or even volunteer our time or blood for the health of our communities.
 
-* For things we do to improve ourselves, some of us might even pay to study or exercise, which might be boring or painful but we understand benefits us in more meaningful ways.
+* For things we do to improve ourselves, some of us pay to study or exercise, which might be boring or painful but we understand benefits us in more meaningful ways.
 
-Obviously, this does ***not*** mean we're going to go out and wait tables, manage team projects or work construction for free. Employment can suck for reasons we're all aware of -- bad bosses, bad coworkers, boring, tedious and hard work, terrible commutes, and existential feelings of interchangeability and worthlessness. Also, we have things we'd rather do -- to sleep in, relax, socialise or play video games.
+Obviously, this does *not* mean most people are going to go out and wait tables, manage team projects or work construction for free. Employment can suck for reasons we're all aware of -- bosses, coworkers, boring, tedious and hard work, commutes, and feelings of interchangeability and worthlessness. Most have things they'd rather do -- sleep in, relax, socialise, travel or play video games.
 
 By extension, any moneyless economy would be doomed to fail immediately on these grounds. But this also assumes that,
 
@@ -51,10 +51,12 @@ This is where Vekllei distinguishes itself from employment overseas. Their requi
 {{<hint panel>}}
 **Example**
 
-A good analogy for the broad Vekllei attitude towards work might be "school." School can be boring, tedious or painful, but it can also be rewarding, engaging and social. We don't get paid to go to school, either as children or at university, because we have different motivations in attending.
+A good analogy for the broad Vekllei attitude towards work might be schooling. School can be boring, tedious or painful, but it can also be rewarding, engaging and social. We don't get paid to go to school, because we have different motivations in attending.
 
 In many places, school is compulsory, but it is also a recognised social good, and benefits us. While work in Vekllei is different in many aspects, their attitude towards it is often similar -- rather than a net negative that demands a wage, work is often a means to further different ambitions or even just occupy time with friends.
 {{</hint>}}
+
+The premise is that Vekllei is a place in which work is motivated by social rather than material factors. Taking that axiom as true for a minute, we can explore methods in which it might work.
 
 ### What does a social economy look like?
 
@@ -72,9 +74,9 @@ Very few Vekllei people have televisions, which are common in wealthy countries 
 
 And this is just poverty by the metric of a 1970s consumer society -- forget about smartphones or the gig economy. They simply don't exist in Vekllei's world, which overall is more analog, inconvenient, rewarding and slow-paced. The absence of smartphones isn't just backwardness, it allows for more sophisticated and social cultures.
 
-I am not a luddite, but I am unconvinced that consumer society actually uplifts souls. Given the choice, people will choose convenience almost every time, but that doesn't mean the most convenient option is the most rewarding, or healthy for most people. In Vekllei, this idea is demonstrably true.
+You do not have to be a luddite to be unconvinced that consumer society actually uplifts souls. Given the choice, people will choose convenience almost every time, but that doesn't mean the most convenient option is the most rewarding, or beneficial. In Vekllei, an alternative is demonstrated.
 
-In this sense, I've written previously about Vekllei's economy having three principles:
+I have written previously about Vekllei's economy having three principles:
 
 1. **Austerity**. Austerity lurks at the fringes of Vekllei life. For a lot of things, from furniture to houseplants, Vekllei people have to work hard to find and acquire them. This is called a *trial of ownership*,[^trial] and it means they value things in a different way from people overseas, who can just purchase them provided they have the money. They have fewer things than most people, but most of what they own is of high quality.
 2. **Apathy**. Vekllei people have intangible rather than material ambitions, and seek abstract things like power, admiration and love. They do not live in a society where anyone can "strike it rich," and so small businesses have very little opportunity for growth. Ambitious people generally end up in industry or government; everyone else just lives their lives as they see fit.
@@ -96,9 +98,9 @@ In modernity we have a framework for how we expect our lives to go -- aspiration
 
 Consider how a lifetime without money affects expectations. There is no money-value of time and so it is not calculated (or even thought of) when considering employment. It is replaced by material pros and cons, which exist in moneyed markets already -- things like interest in the job, work environment, perks, commute, opportunity and prestige. To make a job desirable, these things have to offset the actual work, as they do anywhere -- minus the wage.
 
-From the perspective of a waged society, removing the wage collapses most reasons for working -- but Vekllei does not use money and consequently it is not even considered. This also means it cannot be incentivised in the same way, since basic standards of living are assured and laborious jobs are unattractive. The result is a system in which laborious, boring and tedious labour is basically nonexistent, and therefore cannot replicate the advantages of consumer societies -- a world without factory labour, maids, and textile workers.[^labour] In this context, work becomes an occupation, in the same sense as hobbies and social activities, and satisfies the basic need for "something to do."
+From the perspective of a waged society, removing the wage collapses most reasons for working -- but Vekllei does not use money and consequently it is not even considered. This also means it cannot be incentivised in the same way, since basic standards of living are assured and laborious jobs are unattractive. The result is a system in which laborious, boring and tedious labour is basically nonexistent, and therefore cannot replicate the advantages of consumer societies -- a world without factory labour, maids, and textile workers.[^labour] In this society, work becomes an occupation, in the same sense as hobbies and social activities, and satisfies the basic need for "something to do."
 
-**In this sense, it would be misleading to characterise Vekllei people as "working for free."** They are *not* working for free, they work for a myriad of social and material rewards, and are often incentivised by their own stake in a business or project. This means jobs in Vekllei are characterised by certain features:
+**As such, it would be misleading to characterise Vekllei people as "working for free."** They are *not* working for free, they work for a myriad of social and material rewards, and are often incentivised by their own stake in a business or project. This means jobs in Vekllei are characterised by certain features:
 
 {{<hint panel>}}
 **Employment Characteristics of Vekllei**
@@ -163,7 +165,7 @@ There are a series of cascading solutions to the necessary but tedious, uncomfor
 
 Why would the best and brightest of Vekllei tolerate a society with limited material compensation for their efforts? The answer is that truly gifted people are motivated by their work. Of course, this isn't universally true, and there are people for whom wealth is the primary motivator of their lives, but they are fewer in number and easily accommodated overseas.
 
-The spiteful answer is that those people aren't needed or wanted, because anyone taking their discipline seriously is, for the most part, better off in Vekllei, where research is unbound by grant applications and industry leaders are afforded positions of great power. Those who do emigrate often build careers overseas, and return later in life.
+The spiteful answer is that those people aren't needed or wanted, because anyone taking their discipline seriously is, for the most part, better off in Vekllei, where research is unbound by grant applications and industry leaders are afforded positions of great power. Many Vekllei people do emigrate and build careers overseas, but return later in life.
 
 Vekllei homes are good, the climate is pleasant, their cities are beautiful, and the food has variety. For most people living there, this is enough.
 
