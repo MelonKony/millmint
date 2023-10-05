@@ -135,7 +135,7 @@ In wealthy countries, very few people starve to death. Do they seem that much ha
 
 The Vekllei economy is extremely complicated, especially in urban areas, as a means of balancing and compensating the disadvantages of alienating urban life. This chapter will summarise the economy, but for further reading please explore the articles on this site.
 
-Vekllei resembles a society with universal basic income (UBI),[^UBI] in which a basic standard of living is assured. Of course, unlike a system with UBI, they do not use money and so are motivated to work by other factors.
+Vekllei resembles a society with universal basic income (UBI), in which a basic standard of living is assured. Of course, unlike a system with UBI, they do not use money and so are motivated to work by other factors.
 
 In place of a moneyed market, in which a consumer society is at the discretion of individuals, the essential products of Vekllei society are produced in the style of a planned economy, which is heavily computerised, centralised and manufactures essentials en masse. It has two basic parts:
 
@@ -190,4 +190,3 @@ Moneylessness is at the centre of it all, and emphasises these things in money's
 [^school]: Obviously this attitude varies wildly between personalities and jobs -- this is just a generalised summary for the purposes of comparison.
 [^trial]: These 'trials' indicate how effort in acquiring desired products or items increased reward and satisfaction. This is not a new idea; easy convenience strips out a lot of the satisfaction we get from planning, saving and finally acquiring.
 [^labour]: Actually, all of these jobs exist in Vekllei in one form or another, but in general do not resemble their overseas counterparts. Factory labour in Vekllei is actually commonplace, but not in assembly-line work and heavily assisted by machines. In this sense, factory labour resembles engineering.
-[^UBI]:
