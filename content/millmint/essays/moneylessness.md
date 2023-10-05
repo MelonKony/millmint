@@ -6,11 +6,11 @@ icon: 💸
 emoji: ō
 color: blue
 
-tags: 
+tags:
   - essay
 categories:
   - news
-  
+
 aliases:
 - /moneylessness/
 
@@ -20,7 +20,7 @@ weight: 1
 
 description: Notes on utopie concrète, a new movement for utopian fiction.
 author: Hobart Phillips
- 
+
 ---
 {{< hint >}}
 **✿ Note from the Editor**
@@ -63,7 +63,7 @@ This is a society where housing, transport, food, small art and beauty are cheap
 
 [In a previous article](/posts/2020-07-13-economy/), these ideas were characterised as the three precepts of the Vekllei economy, articulated as follows.
 
-1. **Austerity**. Petty austerity lurks at the fringes of Vekllei life. Commmon items are frequently in short supply, and require a "trial of ownership" to acquire. This prevents Vekllei's reliable transition to a consumer society, which would strain bureau production and require more factory work. It also serves a cultural purpose in localising consumption and incentivising work, as a reward mechanism. 
+1. **Austerity**. Petty austerity lurks at the fringes of Vekllei life. Commmon items are frequently in short supply, and require a "trial of ownership" to acquire. This prevents Vekllei's reliable transition to a consumer society, which would strain bureau production and require more factory work. It also serves a cultural purpose in localising consumption and incentivising work, as a reward mechanism.
 2. **Apathy**. Small businesses in *senrouiva*[^3] markets are not provided with reliable methods to expand their business or indeed employ more people than one is capable of knowing. This protects the bureau trade monopolies and bureau-size companies, which are critical aspects of Vekllei's consumer manufacturing.
 3. **Play**. Like children, Vekllei people participate in work as a social ritual and act out roles in society. This play is productive and contributes to the economy, a fact that does not delegitimise its status as a social activity.
 
@@ -73,12 +73,12 @@ This is a society where housing, transport, food, small art and beauty are cheap
 * **It is rewarded**. Work is rewarded materially in Vekllei, despite misconceptions. In some work, the benefits are small and inconsequential -- good leftovers and access to scarce goods among them. Most commonly, real estate is constructed by the municipal agent and protected for certain types of work, the ownership of which can be wrested away from the employer with extended service. Health care workers are provided for in Vekllei in overt ways -- Vekllei is not, by principle, egalitarian.
 * **It is shared**. Although large companies retain cleaning automen, most smaller enterprises and senrouive share the burden of cleaning among staff periodically, as at home and school. Schools, similarly, rely mostly on parent volunteers to provide lunches and run extracurricular activities. Since it is common in Vekllei for only one parent to work, much community organising and child-rearing is provided by stay-at-home mums and dads.
 * **It is automated**. Most factory labour in bureaus is automated by automanufacturies, which require only minimal supervision and are usually integrated into the place of work. Automanufacturies produce the vast majority of shelf goods in the country, including consumer, industrial and agricultural products. The production of automen[^4] is, mostly, automated in the same process.
-* **It is conscripted**. Essential labour, particularly in construction, is conscripted through [Compulsory Service](/corsosva/). The [Army Construction House](/ach/) is the largest construction outfit in Vekllei, and is responsible for much of rural construction in the country. 
-* **It is done without**. Vekllei life is missing or unreliably demonstrates features of consumer societies overseas, including many personal electronics, autos, and appliances. Most people have only a handful of personal items and a few pairs of shoes, although their housing and accessible entertainment is of much higher quality. 
+* **It is conscripted**. Essential labour, particularly in construction, is conscripted through [Compulsory Service](/corsosva/). The [Army Construction House](/ach/) is the largest construction outfit in Vekllei, and is responsible for much of rural construction in the country.
+* **It is done without**. Vekllei life is missing or unreliably demonstrates features of consumer societies overseas, including many personal electronics, autos, and appliances. Most people have only a handful of personal items and a few pairs of shoes, although their housing and accessible entertainment is of much higher quality.
 
 It can be difficult to conceptualise working for free without first immersing yourself in a society where comfort is universal, there is little else to do, and there is no upward mobility through idleness. Powerful cultural biases, particularly as they pertain to consumption and community, are potent social pressures. Power itself is abundant in Vekllei and awarded freely to people seeking it. Jobs carry respect, since employment with dignity almost always requires agency, and agency requires independence and problem solving. And where a job is unsatisfying, unenviable, unrewarding, and unfulfilled, it is dispensed with. Not because the Vekllei state is particularly noble -- instead, it cannot do anything but accept it.
 
-## Meaningful work for ordinary people 
+## Meaningful work for ordinary people
 
 Although a great many specialisations exist in Vekllei for its millions of people, jobs are treated of constellations of tasks. For three days a week, the skilled tradesmen works in their specialty, but like it is in school, the fourth day is often dedicated to tasks of company maintenance. Such tasks may include cleaning, food preparation, gardening, maintenance and clerical work. No one likes it, but it has to be done. Labour can't be purchased and there are few people willing to clean or repair uncompensated -- so it remains the company's problem. Since most companies in Vekllei are cooperative, and are owned by the people who work in them, it more precisely remains their problem.
 
@@ -90,7 +90,7 @@ With much of manufacturing automated by automanufacturies, it is easy to overloo
 
 ### Case Study 1 -- Tzipora Desmoisnes
 
-> Tzipora is a young woman living alone in Montre, a city-neighbourhood on the North Coast. She is studying at Montre National University, and since she is studying full time she is considered to have fulfilled Contribution. In addition, she works for the student newspaper *Montre Student Gazette* part-time as an editor, with the aim to increase readership to petition for printing press machines from Montre Heavy Machines S.q.M. She does not enjoy study much but finds publishing to be very rewarding. The creativity and independence of student periodicals makes for interesting work, and she's proud of it; she's proud of having her name in the publisher credits, and having the respect of her student editorial staff, and of receiving recognition from successful journalists for her efforts in correspondence.  
+> Tzipora is a young woman living alone in Montre, a city-neighbourhood on the North Coast. She is studying at Montre National University, and since she is studying full time she is considered to have fulfilled Contribution. In addition, she works for the student newspaper *Montre Student Gazette* part-time as an editor, with the aim to increase readership to petition for printing press machines from Montre Heavy Machines S.q.M. She does not enjoy study much but finds publishing to be very rewarding. The creativity and independence of student periodicals makes for interesting work, and she's proud of it; she's proud of having her name in the publisher credits, and having the respect of her student editorial staff, and of receiving recognition from successful journalists for her efforts in correspondence.
 
 ### Case Study 2 -- Usef Sismiosn
 
@@ -102,7 +102,7 @@ With much of manufacturing automated by automanufacturies, it is easy to overloo
 
 These three examples do not demonstrate that all work is satisfying or produces good outcomes for people in Vekllei, but rather that, in two out of three cases, work has ceased to resemble conventional waged labour. Bureau work continues to be a burden -- hence its ongoing improvement, automation, conscription and abolition. The simplicity of moneylessness is actually its most complicated feature, and has produced a complicated state of affairs only partially engineered by the postwar interim government and its constitution.
 
-This loose collection of notes indicates some of the differences in the working disposition of Vekllei people and what their work looks like. Like most summaries of the so-called "Vekllei bureau system", this brief collection of facts tends to paint an excessively sentimental picture of working life in Vekllei -- but there are few ways otherwise to describe the utopian premise of the Atlantic commonwealth, and its ongoing reevaluation of the imagined end of history. 
+This loose collection of notes indicates some of the differences in the working disposition of Vekllei people and what their work looks like. Like most summaries of the so-called "Vekllei bureau system", this brief collection of facts tends to paint an excessively sentimental picture of working life in Vekllei -- but there are few ways otherwise to describe the utopian premise of the Atlantic commonwealth, and its ongoing reevaluation of the imagined end of history.
 
 [^1]: Vekllei is a nation of immigrants of many cultures and beliefs, but it is also true that their children are raised in a Vekllei society with overt Vekllei cultural foundations. This trend is documented thoroughly by the Religious Affairs Office of the Commonwealth Culture Secretariat (COLSEC), which wrote "animistic features of the indigenous commonwealth emerge consistently in new generations, even where traditionally displaced by prior religious structures, correlating with the emergence of multicultural Upen faiths."
 [^2]: As collected by the 2055 Vekllei Census and reported by the Ministry of the Commonwealth's Statistics Directorate.
