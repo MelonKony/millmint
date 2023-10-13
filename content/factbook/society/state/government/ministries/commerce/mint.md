@@ -3,7 +3,7 @@ title: Commonwealth Mint
 fulltitle: Commonwealth Mint
 icon: 🪙
 emoji: Ζ
-color: purple
+rgb: 219, 146, 14
 
 aliases:
 - /mint/

@@ -2,7 +2,8 @@
 title: Ministry of Landscape
 fulltitle: Ministry of Landscape
 icon: 🌋
-color: purple
+rgb: 85, 177, 55
+logo: /svg/crests/ministry-of-landscape.svg
 
 aliases:
 - /cosmogos/

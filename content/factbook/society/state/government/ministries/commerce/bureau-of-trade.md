@@ -2,7 +2,7 @@
 title: Bureau of Trade
 fulltitle: Bureau of Trade
 icon: 🏛️
-rgb: 155, 67, 199
+rgb: 219, 146, 14
 
 aliases:
 - /bureau-of-trade/

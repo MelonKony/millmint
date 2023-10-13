@@ -2,7 +2,7 @@
 title: Bureau of Agriculture
 fulltitle: Bureau of Agriculture
 icon: 🏛️
-rgb: 155, 67, 199
+rgb: 85, 177, 55
 
 aliases:
 - /bureau-of-agriculture/

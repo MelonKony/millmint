@@ -184,7 +184,7 @@ The Vekllei economy exists in two pieces: as a social market, dominated by wande
 {{</hint>}}
 
 {{< hint >}}
-❀ See also: *[On Moneylessness](/moneylessness/)*
+❀ See also: *[A Social Economy](/social-economy/)*
 {{</hint>}}
 
 The Commonwealth has a hybrid moneyless system called *commons*, in which money is not used in daily life. In the place of money, the commons system exists as a series of social economies and usufructs. Rather than purchasing products as consumers, staples like food and clothing are subsidised by groups of companies known as [*bureaus*](/bureaus/). Everything else is produced in the colloquial moneyless market, often unreliably.

@@ -2,7 +2,8 @@
 title: Ministry of Commerce
 fulltitle: Ministry of Commerce
 icon: 💵
-color: purple
+rgb: 219, 146, 14
+logo: /svg/crests/ministry-of-commerce.svg
 
 aliases:
 - /cosmosol/

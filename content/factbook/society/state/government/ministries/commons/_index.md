@@ -2,7 +2,8 @@
 title: Ministry of the Commons
 fulltitle: Ministry of the Commons
 icon: 🏡
-rgb: 217, 75, 36
+rgb: 247, 93, 54
+logo: /svg/crests/ministry-of-the-commons.svg
 
 aliases:
 - /cosmotran/

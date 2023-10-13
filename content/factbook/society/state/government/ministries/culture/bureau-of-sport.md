@@ -1,11 +1,11 @@
 ---
-title: Bureau of Conservation
-fulltitle: Bureau of Conservation
+title: Bureau of Sport
+fulltitle: Bureau of Sport
 icon: 🏛️
-rgb: 85, 177, 55
+rgb: 239, 177, 26
 
 aliases:
-- /bureau-of-conservation/
+- /bureau-of-sport/
 ---
 {{< hint >}}
 ߷ Part of the *[government](/government/)* series of articles

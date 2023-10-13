@@ -1,17 +1,29 @@
 ---
-title: Ministry of Culture
-fulltitle: Ministry of Culture
-icon: 🎨
-logo: /svg/crests/ministry-of-culture.svg
-rgb: 239, 177, 26
+title: Culture Council
+fulltitle: Commonwealth Culture Council
+icon: 🏵
+logo: /svg/logos/culture-council-shield.svg
+image:
+
+rgb: 59, 186, 94
+
+draft: false
+
+type: blank
+
+comments: false
+
+toc: true
 
 aliases:
-- /cosmopos/
+- /colsec/
+
+description: Vekllei is a utopia created by Hobart Phillips.
+author: Hobart Phillips
 ---
 {{< hint >}}
-߷ This article is about a ministry of the [Vekllei](/factbook/vekllei/) [Interior Parliament](/factbook/society/state/government/interior/)
+߷ Part of the *[state](/state/)* series of articles
 {{</hint>}}
-
 ## Overview
 {{<boxtag teal>}}COLSEC{{</boxtag>}}
 

@@ -4,7 +4,7 @@ fulltitle: A Social Economy
 icon: 💸
 emoji: ō
 color: blue
-image: /images/fullres/airship.jpg
+image: /images/fullres/prairie.jpg
 
 aliases:
 - /social-economy/
@@ -36,7 +36,7 @@ If you put aside your hesitations about the "moneyless" aspect of Vekllei and ac
 
 * For the relationships we have, we might do favours for friends or even volunteer our time or blood for the health of our communities.
 
-* For things we do to improve ourselves, some of us pay to study or exercise, which might be boring or painful but we understand benefits us in more meaningful ways.
+* For things we do to improve ourselves, some of us pay to study or exercise, which we understand benefit us in meaningful ways.
 
 Obviously, this does *not* mean most people are going to go out and wait tables, manage team projects or work construction for free. Employment can suck for reasons we're all aware of -- bosses, coworkers, boring, tedious and hard work, commutes, and feelings of interchangeability and worthlessness. Most have things they'd rather do -- sleep in, relax, socialise, travel or play video games.
 

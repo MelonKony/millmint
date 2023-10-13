@@ -2,7 +2,7 @@
 title: Bureau of Materials
 fulltitle: Bureau of Materials
 icon: 🏛️
-rgb: 155, 67, 199
+rgb: 85, 177, 55
 
 aliases:
 - /bureau-of-materials/

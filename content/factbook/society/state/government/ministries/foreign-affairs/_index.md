@@ -2,7 +2,8 @@
 title: Ministry of Foreign Affairs
 fulltitle: Ministry of Foreign Affairs
 icon: 🌍
-color: purple
+rgb: 61, 35, 129
+logo: /svg/crests/ministry-of-foreign-affairs.svg
 
 aliases:
 - /cosmosea/

@@ -3060,6 +3060,9 @@ ol.timeline .event {
 .fi-oceans.fis {
   background-image: url(../svg/flags/1x1/oceans.svg); }
 
+.fi-min-cul.fis {
+  background-image: url(../svg/crests/ministry-of-culture.svg); }
+
 .fib {
   background-size: contain;
   background-position: 50%;
