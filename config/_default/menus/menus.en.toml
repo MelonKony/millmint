@@ -164,10 +164,10 @@
       parent = "essays"
       weight = 3
     [[navbar]]
-      identifier = "tokyo"
-      name = "A Cashless Tokyo"
-      pre = "🍜"
-      url = "/millmint/essays/tokyo"
+      identifier = "social-economy"
+      name = "A Social Economy"
+      pre = "💸"
+      url = "/millmint/essays/social-economy"
       parent = "essays"
       weight = 4
     [[navbar]]
