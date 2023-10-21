@@ -2,7 +2,7 @@
 title: A Social Economy
 fulltitle: A Social Economy
 
-date: 2023-10-09
+date: 2023-10-12
 
 tags:
 - 2023

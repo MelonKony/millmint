@@ -262,20 +262,20 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>1992</b>
 			<span class="event">
-				Oslolan Civil War begins
+				Oslolan Civil War begins along political and ethnic lines
 			</span>
 		</li>
 		<li>
 			<b>1993</b>
 			<span class="event">
-				Collapse of the junta
+				The Atlantic Crown junta collapses but the rebellion is unable to consolidate control, leading to further fighting
 			</span>
 		</li>
 		<li>
 			<b>1995</b>
 			<span class="event">
 				<b>First Atomic War</b><br>
-				100 Days' Grief<br>
+				100 Days Grief<br>
 				Vekllei is occupied by the UK & the US<br>
 				The foundation of the European Economic Community (EEC)<br>
 				The US establishes a lunar colony in Ocean of Storms
@@ -526,7 +526,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>2063</b>
 			<span class="event">
-				Operation <i>Sword of Oslola</i> occurs<br>
+				Operation <i>Sea of Reeds</i> occurs<br>
 				Tzipora arrives in Vekllei
 			</span>
 		</li>
