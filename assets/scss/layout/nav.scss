@@ -16,6 +16,7 @@ nav {
     align-items: center;
     flex: 1;
     list-style: none;
+    background-color: transparent;
 
     a {
       &:hover {
@@ -29,7 +30,7 @@ nav {
     }
 
     .menu-dropdown li {
-      a {
+      .left a {
         @include secondary-color;
       }
 
@@ -85,6 +86,7 @@ nav {
   @include emoji;
   @include font-normal;
   @include radius-none;
+  @include padding-0;
   margin-right: 4px;
 }
 
@@ -100,15 +102,17 @@ nav {
   .navicon {
     @include radius-none;
     height: .9rem;
+    width: .9rem;
     margin: 0;
+    filter: none;
   }
 }
 
 // hide social icons on mobile
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 555px) {
   .right {
-    display: none;
+    display: none!important;
   }
 }
 

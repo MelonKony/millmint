@@ -762,7 +762,9 @@ details {
 
 svg {
   color: var(--font-color);
-  fill: var(--font-color); }
+  fill: var(--font-color);
+  height: 100%;
+  width: 100%; }
 
 body header .navbar-item-dropdown.insection,
 body header nav .navbar-item.insection {
@@ -1380,14 +1382,15 @@ nav {
     display: flex;
     align-items: center;
     flex: 1;
-    list-style: none; }
+    list-style: none;
+    background-color: transparent; }
     nav .navbar a:hover {
       text-decoration-line: none; }
     nav .navbar li {
       margin-top: 0;
       margin-bottom: 0;
       list-style: none; }
-    nav .navbar .menu-dropdown li a {
+    nav .navbar .menu-dropdown li .left a {
       color: var(--highlight);
       filter: hue-rotate(15deg) invert(0.25) saturate(0.5); }
     nav .navbar .menu-dropdown li:hover {
@@ -1426,6 +1429,7 @@ nav {
   font-family: "Emoji" !important;
   font-weight: 400;
   border-radius: 0;
+  padding: 0;
   margin-right: 4px; }
 
 .left {
@@ -1438,11 +1442,13 @@ nav {
   .right .navicon {
     border-radius: 0;
     height: .9rem;
-    margin: 0; }
+    width: .9rem;
+    margin: 0;
+    filter: none; }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 555px) {
   .right {
-    display: none; } }
+    display: none !important; } }
 
 .menu {
   -webkit-box-sizing: border-box;
