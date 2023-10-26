@@ -1,0 +1,34 @@
+{{- partial "params.html" . -}}
+
+<!DOCTYPE html>
+<html lang='{{ .Site.LanguageCode }}'>
+{{- partial "head.html" . -}}
+<link rel="stylesheet" href="https://unpkg.com/iv-viewer/dist/iv-viewer.css">
+
+<body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
+  <main>
+    {{- partial "header.html" . -}}
+    {{- partial "nav.html" . -}}
+  </main>
+
+  <img id="image" src="/svg/maps/world.png" data-high-res-src="/svg/maps/world.png" />
+
+  {{- partial "resources/js.html" . -}}
+  {{- partial "script.html" . -}}
+</body>
+
+<!-- scripts -->
+<script src="https://unpkg.com/iv-viewer/dist/iv-viewer.js"></script>
+
+<script>
+  import ImageViewer from 'iv-viewer';
+
+  const image = document.querySelector('#image');
+  const viewer = new ImageViewer(image, options); // check options section for supported options
+</script>
+
+<style>
+
+</style>
+
+</html>
