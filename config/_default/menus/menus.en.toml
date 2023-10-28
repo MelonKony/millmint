@@ -10,27 +10,34 @@
   pre = "📓"
   url = "/factbook/"
   weight = 2
+    [[navbar]]
+    identifier = "map"
+    name = "Map"
+    pre = "🗺️"
+    url = "/factbook/map/"
+    parent = "factbook"
+    weight = 1
   [[navbar]]
     identifier = "vekllei"
     name = "Vekllei"
     pre = "🌹"
     url = "/factbook/vekllei/"
     parent = "factbook"
-    weight = 1
+    weight = 2
   [[navbar]]
     identifier = "bulletin"
     name = "Bulletin"
     pre = "🧾"
     url = "/factbook/bulletin/"
     parent = "factbook"
-    weight = 2
+    weight = 3
   [[navbar]]
     identifier = "culture"
     name = "Culture"
     pre = "🏵"
     url = "/factbook/society/culture"
     parent = "factbook"
-    weight = 3
+    weight = 4
     [[navbar]]
       identifier = "language"
       name = "Language"
@@ -65,7 +72,7 @@
     pre = "🌿"
     parent = "factbook"
     url = "/factbook/landscape"
-    weight = 4
+    weight = 5
     [[navbar]]
       identifier = "boroughs"
       name = "Boroughs"
@@ -79,7 +86,7 @@
     pre = "🏛"
     parent = "factbook"
     url = "/factbook/society"
-    weight = 5
+    weight = 6
     [[navbar]]
       identifier = "state"
       name = "State"

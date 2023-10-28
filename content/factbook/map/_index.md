@@ -1,8 +1,8 @@
 ---
 title: Map
 fulltitle: Map
-icon: 🌹
-color: pink
+icon: 🗺️
+color: blue
 
 type: blank
 

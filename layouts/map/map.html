@@ -7,11 +7,13 @@
 
 <body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
   <main>
-    {{- partial "header.html" . -}}
-    {{- partial "nav.html" . -}}
-  </main>
+    <div class="map-nav">
+      {{- partial "header.html" . -}}
+      {{- partial "nav.html" . -}}
+    </div>
 
-  <img id="image" src="/svg/maps/world.png" data-high-res-src="/svg/maps/world.png" />
+      <img id="image" src="/svg/maps/world.png" data-high-res-src="/svg/maps/world.png" />
+  </main>
 
   {{- partial "resources/js.html" . -}}
   {{- partial "script.html" . -}}
@@ -22,10 +24,85 @@
 
 <script type="module">
   const image = document.querySelector('#image');
-  const viewer = new ImageViewer(image, {}); // check options section for supported options
+  const viewer = new ImageViewer(image, {maxScale: 500, refreshOnResize: false}); // check options section for supported options
 </script>
 
 <style>
+  .iv-snap-image-wrap {
+    width: 100%;
+  }
+
+  .iv-image-view {
+    background: #e2f3fd;
+    padding: .5rem var(--body-background);
+  }
+
+  img.iv-snap-image {
+    margin-top: 0;
+    margin-bottom: 0;
+    visibility: visible !important;
+    width: 100% !important;
+    height: 75px !important;
+  }
+
+  .iv-snap-image-wrap {
+     border-top-left-radius: .25rem;
+     border-top-right-radius: .25rem;
+  }
+
+  .iv-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    height: 100vh;
+    width: 100vw; /* make it 100% of the viewport width (vw) */
+    margin-left: calc((100% - 100vw) / 2);  /* then remove the gap to the left of the container with this equation */
+  }
+
+  .iv-snap-view {
+      width: 150px;
+      height: 60px;
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      border: 1px solid var(--body-background);
+      border-radius: .25rem;
+      background: black;
+      z-index: 100;
+      box-sizing: content-box;
+      transition: opacity ease 400ms;
+      opacity: 0;
+  }
+
+  .iv-zoom-slider {
+      width: 100%;
+      box-sizing: content-box;
+      border: 1px solid var(--body-background);
+      border-top: 0;
+      background: rgba(0, 0, 0, 0.3);
+      height: 15px;
+      position: absolute;
+      top: 67px;
+      left: -1px;
+  }
+
+  main {
+    position: relative;
+    z-index: 1;
+  }
+
+  .map-nav {
+    outline: 15px solid var(--body-background);
+    background: var(--body-background);
+    border-radius: .25rem;
+  }
+
+  #notice {
+    margin: 1rem 0 0 0;
+    display: flex;
+    align-items: center;
+  }
 
 </style>
 
