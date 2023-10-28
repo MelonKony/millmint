@@ -20,11 +20,9 @@
 <!-- scripts -->
 <script src="https://unpkg.com/iv-viewer/dist/iv-viewer.js"></script>
 
-<script>
-  import ImageViewer from 'dist/iv-viewer.js';
-
+<script type="module">
   const image = document.querySelector('#image');
-  const viewer = new ImageViewer(image, options); // check options section for supported options
+  const viewer = new ImageViewer(image, {}); // check options section for supported options
 </script>
 
 <style>
