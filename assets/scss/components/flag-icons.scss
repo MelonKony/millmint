@@ -30,6 +30,14 @@
   background-image: url(../svg/flags/1x1/bahamas.svg);
 }
 
+/// Oslola Flag
+.fi-oslola {
+  background-image: url(../svg/flags/4x3/oslola.svg);
+}
+.fi-oslola.fis {
+  background-image: url(../svg/flags/1x1/oslola.svg);
+}
+
 /// Mira Flag
 
 .fi-mira {
@@ -46,6 +54,16 @@
 }
 .fi-oceans.fis {
   background-image: url(../svg/flags/1x1/oceans.svg);
+}
+
+// World Flags
+
+/// East Indian Socialist Republic
+.fi-ei {
+  background-image: url(../svg/flags/4x3/ei.svg);
+}
+.fi-ei.fis {
+  background-image: url(../svg/flags/1x1/ei.svg);
 }
 
 // Custom Logos

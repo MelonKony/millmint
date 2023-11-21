@@ -150,31 +150,31 @@
     parent = "newsdesk"
     weight = 4
     [[navbar]]
+      identifier = "social-economy"
+      name = "A Social Economy"
+      pre = "💸"
+      url = "/millmint/essays/social-economy"
+      parent = "essays"
+      weight = 1
+    [[navbar]]
       identifier = "ghibli"
       name = "A Universal Nostalgia"
       pre = "🫧"
       url = "/millmint/essays/ghibli"
       parent = "essays"
-      weight = 1
+      weight = 2
     [[navbar]]
       identifier = "utopie"
       name = "Utopie Concrete"
       pre = "☕️"
       url = "/millmint/essays/utopie"
       parent = "essays"
-      weight = 2
+      weight = 3
     [[navbar]]
       identifier = "hong kong"
       name = "Not Long in Hong Kong"
       pre = "☂️"
       url = "/millmint/essays/hongkong"
-      parent = "essays"
-      weight = 3
-    [[navbar]]
-      identifier = "social-economy"
-      name = "A Social Economy"
-      pre = "💸"
-      url = "/millmint/essays/social-economy"
       parent = "essays"
       weight = 4
     [[navbar]]

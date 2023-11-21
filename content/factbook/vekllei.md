@@ -4,7 +4,7 @@ fulltitle: Vekllei
 icon: 🌹
 logo: /svg/logos/vekllei.svg
 color: pink
-image: /images/fullres/seispri.jpg
+image: /images/fullres/airship.jpg
 
 tags:
   - states
