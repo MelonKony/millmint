@@ -20,7 +20,7 @@ The **Community of Oceans** (CO, or OCEANS) is an international and regional org
 
 The role of the council is to draw islander and oceangoing nations closer together, promote independence from larger powers, establish and protect democratic systems, and provide investment and humanitarian aid to underdeveloped members. The Council of Oceans historically offers a pathway to full membership in the Commonwealth of Oceans.
 
-The Council of Oceans also maintains a number of other international organisations dedicated to specialised roles.
+The Community of Oceans also maintains a number of other international organisations dedicated to specialised roles.
 
 {{<hint panel>}}
 **Community of Oceans**
@@ -38,9 +38,9 @@ The Council of Oceans also maintains a number of other international organisatio
 * Jamaica
 * Belize
 * Haiti
-* Republic of Seychelles
-* Republic of Mauritius
-* Republic of the Maldives
+* [<span class="fi fi-sc"></span> Republic of Seychelles](/seychelles/)
+* [<span class="fi fi-mu"></span> Republic of Mauritius](/mauritius/)
+* [<span class="fi fi-mv"></span> Republic of the Maldives](/maldives/)
 * [<span class="fi fi-lk"></span> Socialist Republic of Ceylon](/ceylon/)
 * [<span class="fi fi-ei"></span> East Indian Socialist Republic](/east-india/)
 {{</hint>}}
