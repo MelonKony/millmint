@@ -1,5 +1,5 @@
 ---
-title: Republic of the Maldives
+title: Maldives
 fulltitle: Republic of the Maldives
 icon: 🦈
 logo: /svg/flags/4x3/mv.svg

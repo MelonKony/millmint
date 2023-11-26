@@ -74,10 +74,10 @@
     url = "/factbook/landscape"
     weight = 5
     [[navbar]]
-      identifier = "boroughs"
-      name = "Boroughs"
+      identifier = "world"
+      name = "World"
       pre = "🌐"
-      url = "/factbook/landscape/boroughs"
+      url = "/factbook/landscape/world"
       parent = "landscape"
       weight = 1
   [[navbar]]

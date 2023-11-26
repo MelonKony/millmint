@@ -1,8 +1,8 @@
 ---
 title: Vekllei
-fulltitle: Vekllei
+fulltitle: Commonwealth of Vekllei
 icon: 🌹
-logo: /svg/logos/vekllei.svg
+logo: /svg/flags/4x3/com.svg
 color: pink
 image: /images/fullres/airship.jpg
 

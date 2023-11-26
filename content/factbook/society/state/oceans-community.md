@@ -37,7 +37,7 @@ The Community of Oceans also maintains a number of other international organisat
 
 * Jamaica
 * Belize
-* Haiti
+* [<span class="fi fi-ht"></span> Black Republic of Haiti](/haiti/)
 * [<span class="fi fi-sc"></span> Republic of Seychelles](/seychelles/)
 * [<span class="fi fi-mu"></span> Republic of Mauritius](/mauritius/)
 * [<span class="fi fi-mv"></span> Republic of the Maldives](/maldives/)

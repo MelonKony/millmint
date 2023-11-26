@@ -1,5 +1,5 @@
 ---
-title: Republic of Mauritius
+title: Mauritius
 fulltitle: Republic of Mauritius
 icon: 🌾
 logo: /svg/flags/4x3/mu.svg
