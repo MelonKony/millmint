@@ -38,6 +38,10 @@ Adsem: The military intelligence department of the Commonwealth's armed forces.
 
 HO/NI: Home Office at National Intelligence.
 AB/NI: Americas Bureau at National Intelligence.
+RB/NI: Africa Bureau at National Intelligence.
+EB/NI: European Bureau at National Intelligence.
+OB/NI: Oriental Bureau at National Intelligence.
+SA/NI: Special Activities at National Intelligence.
 
 VNR: Vekllei National Rail.
 CNR: Commonwealth National Rail.
