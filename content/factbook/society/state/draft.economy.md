@@ -4,9 +4,9 @@ fulltitle: Economic Policy of Vekllei
 icon: ❦
 emoji: w
 color: pink
-image: 
+image:
 
-tags: 
+tags:
   - state
 categories:
   - society
@@ -35,7 +35,7 @@ author: Hobart Phillips
 
 ## Overview
 
-Through its Economic Development Office attached to the [Ministry of Commerce](/cosmosol/), Vekllei still courts foreign investment as persistently as it did during its uncertain years of independence. Emerging 
+Through its Economic Development Office attached to the {{<link/ministry-of-commerce>}}, Vekllei still courts foreign investment as persistently as it did during its uncertain years of independence. Emerging
 
 ## Practice
 
