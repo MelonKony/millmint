@@ -1,6 +1,6 @@
 ---
 title: Security Council
-fulltitle: Commonwealth Security Council
+fulltitle: Commonwealth Security Parliament
 icon: ⚡️
 logo: /svg/logos/security-council-shield.svg
 image:

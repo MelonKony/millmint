@@ -6,18 +6,18 @@
         </a>
         <a class="brand-emoji" id="whirlybat" href="{{ .Site.Home.RelPermalink }}">-millmint</a>
     </div>
-    
+
     {{ if and (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") (.Scratch.Get "params").enable_toc }}
     <button id="toc-button" class="navbutton">
         <span class="navicon">📑</span>
     </button>
     {{ end }}
-    
+
     <button id="theme-button" class="navbutton">
         <span id="dark_mode_btn" class="navicon hidden toolbox-btn">💡</span>
         <span id="light_mode_btn" class="navicon hidden toolbox-btn">💡</span>
     </button>
-    
+
     {{ if (.Scratch.Get "params").enable_site_search }}
     {{ partial "search" . }}
     {{ end }}

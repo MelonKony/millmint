@@ -2,11 +2,12 @@
 title: Bureau of Industry
 fulltitle: Bureau of Industry
 icon: 🏛️
-rgb: 155, 67, 199
+logo: /svg/crests/ministry-of-industry.svg
+color: cosmosec
 
 aliases:
 - /bureau-of-industry/
 ---
 {{< hint >}}
-߷ Part of the *[government](/government/)* series of articles
+߷ This bureau is part of the {{<link/ministry-of-industry>}}.
 {{</hint>}}

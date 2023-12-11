@@ -2,13 +2,14 @@
 title: Police of the Public
 fulltitle: Police of the Public
 icon: ⚖️
-rgb: 155, 67, 199
+color: cosmokos
+logo: /svg/crests/ministry-of-defence.svg
 
 aliases:
 - /police-of-the-public/
 ---
 {{< hint >}}
-߷ Part of the *[government](/government/)* series of articles
+߷ The Police of the Public are part of the {{<link/ministry-of-defence>}}.
 {{</hint>}}
 
 {{<hint>}}

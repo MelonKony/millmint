@@ -1,13 +1,13 @@
 ---
-title: Education Council
-fulltitle: Commonwealth Education Council
+title: Education Parliament
+fulltitle: Commonwealth Education Parliament
 icon: 🎓
 logo: /svg/logos/education-council-shield.svg
 image:
 
 rgb: 59, 111, 185
 
-draft: true
+draft: false
 
 toc: true
 

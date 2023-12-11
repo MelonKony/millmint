@@ -24,6 +24,7 @@ This project is grounded in the real world, and so it attempts to answer real-wo
 * They live lives that are materially poorer but socially richer, and have access to quality essential goods like housing, food, education and clothing.
 * Their society has social illnesses like any other, and its economy is imperfect and has gaps. This austerity is a characteristic of their lives and a concession of the *commons* system.
 * They work like all other people around the world, but their work is different. Many fewer Vekllei people are simply "cogs in a machine."
+* While Vekllei people may not use money, the Vekllei government has revenues and expenditures, and its industry trades overseas. For more information on Vekllei use of money, visit the [finance](/finance/) article.
 {{</hint>}}
 
 ### Premise

@@ -18,7 +18,20 @@ const colors = {
   millmint: [225, 28, 110],
   vnr: [255, 86, 79],
   mail: [221, 76, 86],
-  gr: [31, 205, 88]
+  gr: [31, 205, 88],
+
+  cosmosol: [220, 169, 25],
+  cosmotran: [243, 133, 43],
+  cosmocom: [229, 56, 143],
+  cosmopos: [128, 191, 34],
+  cosmokos: [237, 34, 13],
+  cosmosea: [82, 47, 147],
+  cosmosec: [37, 89, 167],
+  cosmolab: [161, 43, 46],
+  cosmogos: [19, 172, 67],
+  cosmolit: [24, 172, 218],
+
+  commbank: [240, 93, 136]
 }
 
 function colorsMain() {

@@ -2,11 +2,12 @@
 title: Bureau of Production Surveillance
 fulltitle: Bureau of Production Surveillance
 icon: 🏛️
-rgb: 155, 67, 199
+logo: /svg/crests/ministry-of-industry.svg
+color: cosmosec
 
 aliases:
 - /bureau-of-production-surveillance/
 ---
 {{< hint >}}
-߷ Part of the *[government](/government/)* series of articles
+߷ This bureau is part of the {{<link/ministry-of-industry>}}.
 {{</hint>}}

@@ -2,13 +2,14 @@
 title: Bureau of Workers
 fulltitle: Bureau of Workers
 icon: 🏛️
-rgb: 155, 67, 199
+logo: /svg/crests/ministry-of-industry.svg
+color: cosmosec
 
 aliases:
 - /bureau-of-workers/
 ---
 {{< hint >}}
-߷ Part of the *[government](/government/)* series of articles
+߷ This bureau is part of the {{<link/ministry-of-industry>}}.
 {{</hint>}}
 
 ## Workplace Safety Commission

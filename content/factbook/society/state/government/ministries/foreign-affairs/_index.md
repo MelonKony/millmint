@@ -2,14 +2,14 @@
 title: Ministry of Foreign Affairs
 fulltitle: Ministry of Foreign Affairs
 icon: 🌍
-rgb: 61, 35, 129
+color: cosmosea
 logo: /svg/crests/ministry-of-foreign-affairs.svg
 
 aliases:
 - /cosmosea/
 ---
 {{< hint >}}
-߷ This article is about a ministry of the [Vekllei](/factbook/vekllei/) [Interior Parliament](/factbook/society/state/government/interior/)
+߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}.
 {{</hint>}}
 
 {{<section>}}

@@ -22,9 +22,9 @@ Portugal was incorporated into Iberia following the Spanish invasion of Portugal
 
 In the late 20th Century, lusotropicalist foreign policy heightened tensions with the Republican government in Spain. These compounded historical grievances, including the Estado Novo regime's support of the francoist coalition during the Spanish Civil War, and the deportation of Spanish students in 1975.
 
-Two different massacres in Portuguese colonies, the maintenance of which was strongly opposed by Madrid, led to sanctions on Portugal and military aid to anti-colonial rebels in its colonies. The war, which started in 2013, was provoked by the assassination of Spanish president Javier Marx, for which Portgual denied responsibility. The decision to annex European Portugal rather than depose the Estado Novo regime prompted strong criticism from the [<span class="fi fi-un"></span> United Nations](/un/) and NATO.
+Two different massacres in Portuguese colonies, the maintenance of which was strongly opposed by Madrid, led to sanctions on Portugal and military aid to anti-colonial rebels in its colonies. The war, which started in 2013, was provoked by the assassination of Spanish president Javier Marx, for which Portgual denied responsibility. The decision to annex European Portugal rather than depose the Estado Novo regime prompted strong criticism from the {{<link/un>}} and NATO.
 
-Several former Portuguese territories are part of [<span class="fi fi-com"></span> Vekllei](/vekllei/) today. These include:
+Several former Portuguese territories are part of {{<link/vekllei>}} today. These include:
 
 {{<hint panel>}}
 * [<span class="fi fi-mira"></span> Mira](/mira/)

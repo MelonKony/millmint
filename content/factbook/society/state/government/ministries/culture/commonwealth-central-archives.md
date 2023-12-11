@@ -9,7 +9,7 @@ aliases:
 - /commonwealth-central-archives/
 ---
 {{< hint >}}
-߷ Part of the *[government](/government/)* series of articles
+߷ The Archives are part of the {{<link/ministry-of-culture>}}.
 {{</hint>}}
 
-The Commonwealth Central Archives (also just *Archives*) is a corporation of the [<span class="fi fi-min-cul fis"></span> Ministry of Culture](/colsec/) and is the central documents store, management and database organisation of [<span class="fi fi-com"></span> Vekllei](/vekllei/).
+The Commonwealth Central Archives (also just *Archives*) is a corporation of the [<span class="fi fi-min-culture fis"></span> Ministry of Culture](/colsec/) and is the central documents store, management and database organisation of {{<link/vekllei>}}.

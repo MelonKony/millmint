@@ -16,8 +16,8 @@ aliases:
 ߷ Part of the *[world](/world/)* series of articles
 {{</hint>}}
 
-The **Socialist Republic of Ceylon** (also *Śrī Laṅkā* in Sinhala and *Ilaṅkai* in Tamil) is an island country in the Indian Ocean, off the coast of India. It is a part of the non-aligned movement and the [<span class="fi fi-oceans"></span> Community of Oceans](/oceans-council/).
+The **Socialist Republic of Ceylon** (also *Śrī Laṅkā* in Sinhala and *Ilaṅkai* in Tamil) is an island country in the Indian Ocean, off the coast of India. It is a part of the non-aligned movement and the {{<link/oceans-community>}}.
 
-Ceylon is home to 19.5 million people, and is a rapidly developing country with an expanding diplomatic presence throughout South East Asia and East Africa. It also has close ties to the United Kingdom, its former coloniser, and [<span class="fi fi-com"></span> Vekllei](/vekllei).
+Ceylon is home to 19.5 million people, and is a rapidly developing country with an expanding diplomatic presence throughout South East Asia and East Africa. It also has close ties to the United Kingdom, its former coloniser, and {{<link/vekllei>}}.
 
 Sri Lanka is an industrial hub and famous for its garment and textiles manufacturing, tea, precious stones and shipbuilding.

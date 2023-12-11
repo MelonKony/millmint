@@ -91,6 +91,10 @@
   max-width: 100%;
   border-radius: 5px;
   padding-inline-start: 0;
+
+  a {
+    white-space: normal;
+  }
 }
 
 #search-results li a:hover {

@@ -2,16 +2,17 @@
 title: Bureau of Securities
 fulltitle: Bureau of Securities
 icon: 🏛️
-rgb: 219, 146, 14
+color: cosmosol
+logo: /svg/crests/ministry-of-commerce.svg
 
 aliases:
 - /bureau-of-securities/
 ---
 {{< hint >}}
-߷ Part of the *[ministry](/ministries/)* series of articles
+߷ This bureau is part of the {{<link/ministry-of-commerce>}}.
 {{</hint>}}
 
-The *Bureau of Securities* (VECSEC) regulates securities in the Vekllei International Market. It advises fiscal decision-making to the Interior Parliament and legislates trade practices in the country, including the issuing and ownership of government bonds and bureau securities.
+The *Bureau of Securities* (VECSEC) regulates securities in the Vekllei International Market. It advises fiscal decision-making to the Interior Parliament and legislates trade practices in the country, including the issuing and ownership of government bonds and bureau securities. It is part of the {{<link/ministry-of-commerce>}}.
 
 Since Vekllei citizens do not usually participate in the domestic securities markets, VECSEC lacks traditional legal authority over many of the foreign participants in its supervised markets, but does extradite and prosecute financial crime through the EUROVEK and USVEK extradition treaties. It includes the following departments.
 

@@ -16,7 +16,7 @@ aliases:
 ߷ Part of the *[state](/state/)* series of articles
 {{</hint>}}
 
-The **Community of Oceans** (CO, or OCEANS) is an international and regional organisation dedicated to the advancement of island and oceangoing communities worldwide. It was founded by the [<span class="fi fi-com"></span> Commonwealth of Oceans](/vekllei/) and is headquartered in Oslola. It has observer status in the United National General Assembly and maintains offices throughout the Atlantic, Caribbean and Pacific regions.
+The **Community of Oceans** (CO, or OCEANS) is an international and regional organisation dedicated to the advancement of island and oceangoing communities worldwide. It was founded by the {{<link/vekllei>}} and is headquartered in {{<link/oslola>}}. It has observer status in the United Nations General Assembly and maintains offices throughout the Atlantic, Caribbean and Pacific regions.
 
 The role of the council is to draw islander and oceangoing nations closer together, promote independence from larger powers, establish and protect democratic systems, and provide investment and humanitarian aid to underdeveloped members. The Council of Oceans historically offers a pathway to full membership in the Commonwealth of Oceans.
 
@@ -37,10 +37,10 @@ The Community of Oceans also maintains a number of other international organisat
 
 * Jamaica
 * Belize
-* [<span class="fi fi-ht"></span> Black Republic of Haiti](/haiti/)
-* [<span class="fi fi-sc"></span> Republic of Seychelles](/seychelles/)
-* [<span class="fi fi-mu"></span> Republic of Mauritius](/mauritius/)
-* [<span class="fi fi-mv"></span> Republic of the Maldives](/maldives/)
-* [<span class="fi fi-lk"></span> Socialist Republic of Ceylon](/ceylon/)
-* [<span class="fi fi-ei"></span> East Indian Socialist Republic](/east-india/)
+* {{<link/haiti>}}
+* {{<link/seychelles>}}
+* {{<link/mauritius>}}
+* {{<link/maldives>}}
+* {{<link/ceylon>}}
+* {{<link/east-india>}}
 {{</hint>}}

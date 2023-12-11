@@ -344,7 +344,18 @@ html {
   --color-red: #dd3447;
   --color-teal: #30b0c7;
   --color-yellow: #ea9365;
-  --color-millmint: #e11c6e; }
+  --color-millmint: #de1857;
+  --color-cosmosol: #e2bc11;
+  --color-cosmotran: #f3852b;
+  --color-cosmocom: #e5388f;
+  --color-cosmopos: #80bf22;
+  --color-cosmokos: #ed220d;
+  --color-cosmosea: #522f93;
+  --color-cosmosec: #2559a7;
+  --color-cosmolab: #a12b2e;
+  --color-cosmogos: #13ac43;
+  --color-cosmolit: #18acda;
+  --color-commbank: #f05d88; }
 
 html[data-theme="light"] {
   --font-color: #1d1d1f;
@@ -779,7 +790,8 @@ input {
   border: 0 !important; }
 
 a {
-  color: var(--highlight); }
+  color: var(--highlight);
+  white-space: nowrap; }
   a:hover {
     text-decoration: underline;
     color: var(--darker-text, var(--color-gray)); }
@@ -3054,6 +3066,12 @@ ol.timeline .event {
 .fi-bahamas.fis {
   background-image: url(../svg/flags/1x1/bahamas.svg); }
 
+.fi-summers {
+  background-image: url(../svg/flags/4x3/summers.svg); }
+
+.fi-summers.fis {
+  background-image: url(../svg/flags/1x1/summers.svg); }
+
 .fi-oslola {
   background-image: url(../svg/flags/4x3/oslola.svg); }
 
@@ -3084,8 +3102,38 @@ ol.timeline .event {
 .fi-laur.fis {
   background-image: url(../svg/flags/1x1/laur.svg); }
 
-.fi-min-cul.fis {
+.fi-min-culture.fis {
   background-image: url(../svg/crests/ministry-of-culture.svg); }
+
+.fi-min-commerce.fis {
+  background-image: url(../svg/crests/ministry-of-commerce.svg); }
+
+.fi-min-commons.fis {
+  background-image: url(../svg/crests/ministry-of-the-commons.svg); }
+
+.fi-min-commonwealth.fis {
+  background-image: url(../svg/crests/ministry-of-the-commonwealth.svg); }
+
+.fi-min-light-and-water.fis {
+  background-image: url(../svg/crests/ministry-of-light-and-water.svg); }
+
+.fi-min-defence.fis {
+  background-image: url(../svg/crests/ministry-of-defence.svg); }
+
+.fi-min-foreign-affairs.fis {
+  background-image: url(../svg/crests/ministry-of-foreign-affairs.svg); }
+
+.fi-min-industry.fis {
+  background-image: url(../svg/crests/ministry-of-industry.svg); }
+
+.fi-min-labour.fis {
+  background-image: url(../svg/crests/ministry-of-labour.svg); }
+
+.fi-min-landscape.fis {
+  background-image: url(../svg/crests/ministry-of-landscape.svg); }
+
+.fi-min-combank.fis {
+  background-image: url(../svg/logos/commonwealth-bank.svg); }
 
 .fib {
   background-size: contain;
@@ -4901,6 +4949,8 @@ ol.timeline .event {
   max-width: 100%;
   border-radius: 5px;
   padding-inline-start: 0; }
+  #search-results a {
+    white-space: normal; }
 
 #search-results li a:hover {
   color: var(--color-gray);

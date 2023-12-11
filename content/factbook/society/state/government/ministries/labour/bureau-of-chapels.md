@@ -3,10 +3,12 @@ title: Bureau of Chapels
 fulltitle: Bureau of Chapels
 icon: 🏛️
 rgb: 155, 67, 199
+logo: /svg/crests/ministry-of-labour.svg
+color: cosmolab
 
 aliases:
 - /bureau-of-chapels/
 ---
 {{< hint >}}
-߷ Part of the *[government](/government/)* series of articles
+߷ This bureau is part of the {{<link/ministry-of-labour>}}.
 {{</hint>}}

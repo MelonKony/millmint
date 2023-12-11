@@ -2,13 +2,14 @@
 title: Bureau of Policy Research
 fulltitle: Bureau of Policy Research
 icon: 🏛️
-rgb: 155, 67, 199
+color: cosmocom
+logo: /svg/crests/ministry-of-the-commonwealth.svg
 
 aliases:
 - /bureau-of-policy-research/
 ---
 {{< hint >}}
-߷ Part of the *[government](/government/)* series of articles
+߷ This bureau is part of the {{<link/ministry-of-the-commonwealth>}}.
 {{</hint>}}
 
 The *Bureau of Policy Research* conducts research and prepares policy objectives for use in Commonwealth governance, and determines the curriculum of the [Civil Service Academy](/civil-service-academy) and other civil service training organisations.

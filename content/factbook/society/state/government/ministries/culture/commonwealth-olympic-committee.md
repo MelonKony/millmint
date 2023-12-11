@@ -2,11 +2,12 @@
 title: Commonwealth Olympic Committee
 fulltitle: Commonwealth Olympic Committee
 icon: 🏢
-rgb: 247, 93, 54
+logo: /svg/crests/ministry-of-culture.svg
+color: cosmopos
 
 aliases:
 - /commonwealth-olympic-committee/
 ---
 {{< hint >}}
-߷ Part of the *[government](/government/)* series of articles
+߷ The Olympic Committee is part of the {{<link/ministry-of-culture>}}.
 {{</hint>}}

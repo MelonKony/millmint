@@ -2,11 +2,12 @@
 title: Ministry of Labour
 fulltitle: Ministry of Labour
 icon: ⛏️
-color: purple
+logo: /svg/crests/ministry-of-labour.svg
+color: cosmolab
 
 aliases:
 - /cosmolab/
 ---
 {{< hint >}}
-߷ Part of the *[government](/government/)* series of articles
+߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}.
 {{</hint>}}

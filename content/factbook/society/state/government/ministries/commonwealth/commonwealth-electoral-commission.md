@@ -2,13 +2,14 @@
 title: Commonwealth Electoral Commission
 fulltitle: Commonwealth Electoral Commission
 icon: 🏛️
-rgb: 155, 67, 199
+color: cosmocom
+logo: /svg/crests/ministry-of-the-commonwealth.svg
 
 aliases:
 - /commonwealth-electoral-commission/
 ---
 {{< hint >}}
-߷ Part of the *[government](/government/)* series of articles
+߷ This commission is part of the {{<link/ministry-of-the-commonwealth>}}.
 {{</hint>}}
 
 The *Commonwealth Electoral Commission* (CEC) conducts elections, by-elections and referendums in Vekllei. It also maintains the Vekllei Electoral Roll, and designs electorates, apportionments and redistributions in the Home Islands.

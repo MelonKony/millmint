@@ -19,7 +19,7 @@ aliases:
 
 The **Island Commonwealth of Mira** (also *Madeira* in Portuguese) is an island archipelago situated in the Atlantic, 520km west of Morocco.
 
-Originally a [<span class="fi fi-pt"></span> Portuguese](/portugal/) overseas territory, Mira became an independent member of the [<span class="fi fi-oceans"></span> Council of Oceans](/oceans-council/) in 2025 and united with [<span class="fi fi-com"></span> Vekllei](/vekllei/) as a [constituent](/constituents/) in 2030. As such, its primary languages are Portuguese and English, and as of the mid-21st Century it has recently concluded [federalisation](/federalisation/).
+Originally a [<span class="fi fi-pt"></span> Portuguese](/portugal/) overseas territory, Mira became an independent member of the [<span class="fi fi-oceans"></span> Council of Oceans](/oceans-council/) in 2025 and united with {{<link/vekllei>}} as a [constituent](/constituents/) in 2030. As such, its primary languages are Portuguese and English, and as of the mid-21st Century it has recently concluded [federalisation](/federalisation/).
 
 ![flag of mira](/svg/mira.svg)
 
@@ -29,7 +29,7 @@ Mira was originally known as *Madeira*, and was uninhabited before settlement by
 
 Portugal was defeated and annexed after it was invaded by neighbouring Iberia in 2014. Most of its colonial empire declared independence, and the former Portuguese Atlantic territories indicated some interest in joining the British-occupied Atlantic after they were embargoed by Iberia for sheltering remnants of the *Estado Novo* regime.
 
-After [<span class="fi fi-com"></span> Vekllei](/vekllei/) established the [<span class="fi fi-oceans"></span> Council of Oceans](/oceans-council/) in 2025, Madeira (now Mira) petitioned for membership. Shortly thereafter, it began [federalisation](/federalisation) and acceded to the Commonwealth in full in 2030, following the Azores.
+After {{<link/vekllei>}} established the [<span class="fi fi-oceans"></span> Council of Oceans](/oceans-council/) in 2025, Madeira (now Mira) petitioned for membership. Shortly thereafter, it began [federalisation](/federalisation) and acceded to the Commonwealth in full in 2030, following the Azores.
 
 ### Geography & Climate
 

@@ -1,20 +1,21 @@
 ---
 title: Commonwealth Public Press
 fulltitle: Commonwealth Public Press
-icon: 🏛️
-rgb: 155, 67, 199
+icon: 📖
+color: cosmocom
+logo: /svg/crests/ministry-of-the-commonwealth.svg
 
 aliases:
 - /commonwealth-public-press/
 ---
 {{< hint >}}
-߷ Part of the *[government](/government/)* series of articles
+߷ The Public Press is part of the {{<link/ministry-of-the-commonwealth>}}.
 {{</hint>}}
 
 {{<hint panel>}}
 **Standards Press of Vekllei**
 
-The *Standards Press* is a publishing house organised vertically in the [Bureau of Standards](/bureau-of-standards/) to prepare and publish materials including technical manuals, standard compilation books, and industrial bulletins.
+The *Standards Press* is a publishing house organised vertically in the [<span class="fi fi-min-commonwealth fis"></span> Bureau of Standards](/bureau-of-standards/) to prepare and publish materials including technical manuals, standard compilation books, and industrial bulletins.
 
 **Statistics Press of Vekllei**
 

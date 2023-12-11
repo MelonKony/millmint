@@ -35,7 +35,7 @@ author: Hobart Phillips
 
 **Vekllei National Rail (VNR)** is a catch-all term for bureau-backed, state-owned rail operators of Vekllei. In casual use, it refers to the Vekllei National Railway A.r.R. and its sister companies, like Vekllei Metro, which are structured within the service-oriented Railways Bureau. More precisely, Vekllei National Rail encompasses several different bureaus that operate, design, maintain and communicate rail service in the country, which itself is further included under the Transport Requisite of the Vekllei Government.
 
-Like most critical organisations of Vekllei, the structure and directorship of Vekllei National Rail is complex, but can be simplified by understanding that all rail transport in the country is ultimately the responsibility of an organisation called Vekllei National Rail, and it is towards this organ that this article is addressed. Today, the National Rail operates nearly 20,000km of track, indicating the density of the rail service it provides, and services nearly 20 million people each day through its network.
+Like most critical organisations of Vekllei, the structure and directorship of Vekllei National Rail is complex, but can be simplified by understanding that all rail transport in the country is ultimately the responsibility of an organisation called Vekllei National Rail, and it is towards this organ that this article is addressed. Today, the National Rail operates nearly 20,000km of track, indicating the density of the rail service it provides, and services nearly 20 million people each day through its network. It is administered and operated by the [<span class="fi fi-min-commons fis"></span> Bureau of Rail](/bureau-of-rail/).
 
 
 ### Introduction

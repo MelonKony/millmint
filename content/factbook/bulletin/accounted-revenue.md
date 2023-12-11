@@ -24,7 +24,7 @@ aliases:
 * This is known as "accounted revenue," and is a shorthand for normal money-use on this site, but refers only to calculated theoretical values.
 {{</hint>}}
 
-Although [<span class="fi fi-com"></span> Vekllei](/vekllei/) does not use money in domestic markets, it has a very sophisticated system of interlinked databases to monitor and record the economy. Physical product has a tangible presence and consequently a tangible cost, even if it not assigned a money-value. As such, Vekllei simply calculates the money-value of everything in its society, from homes to wages to toothbrushes, and uses those figures as a means to determine the health of its economy.
+Although {{<link/vekllei>}} does not use money in domestic markets, it has a very sophisticated system of interlinked databases to monitor and record the economy. Physical product has a tangible presence and consequently a tangible cost, even if it not assigned a money-value. As such, Vekllei simply calculates the money-value of everything in its society, from homes to wages to toothbrushes, and uses those figures as a means to determine the health of its economy.
 
 How they arrive at these figures is complicated and detached from real-world money-value. The "accounted value" figure, as it is called, is a combination of labour-hours at a wage calculation, exchange rates, comparative pricing in major international currencies, and scarcity. To this end, the Commonwealth uses commercial accounting practices to target waste and maintain the *commons* moneyless system.
 

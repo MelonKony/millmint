@@ -2,11 +2,12 @@
 title: Bureau of Sport
 fulltitle: Bureau of Sport
 icon: 🏛️
-rgb: 239, 177, 26
+logo: /svg/crests/ministry-of-culture.svg
+color: cosmopos
 
 aliases:
 - /bureau-of-sport/
 ---
 {{< hint >}}
-߷ Part of the *[government](/government/)* series of articles
+߷ This bureau is part of the {{<link/ministry-of-culture>}}.
 {{</hint>}}

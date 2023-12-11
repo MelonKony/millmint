@@ -29,7 +29,6 @@ $gray-light-dark: #262629;
 $gray-med-dark: #302f2f;
 $gray-heavy-dark: #222226;;
 
-
 $background: #ffffff;
 $dark-background: #171717;
 
@@ -53,7 +52,20 @@ $red: rgb(221, 52, 71);
 $teal: rgb(48, 176, 199);
 $yellow: rgb(234, 147, 101);
 
-$millmint: rgb(225, 28, 110);
+$millmint: rgb(222, 24, 87);
+
+$cosmosol: rgb(226, 188, 17);
+$cosmotran: rgb(243, 133, 43);
+$cosmocom: rgb(229, 56, 143);
+$cosmopos: rgb(128, 191, 34);
+$cosmokos: rgb(237, 34, 13);
+$cosmosea: rgb(82, 47, 147);
+$cosmosec: rgb(37, 89, 167);
+$cosmolab: rgb(161, 43, 46);
+$cosmogos: rgb(19, 172, 67);
+$cosmolit: rgb(24, 172, 218);
+
+$commbank: rgb(240, 93, 136);
 
 :root {
   --gray-light: #{$gray-100};
@@ -81,6 +93,19 @@ $millmint: rgb(225, 28, 110);
   --color-yellow: #{$yellow};
 
   --color-millmint: #{$millmint};
+
+  --color-cosmosol: #{$cosmosol};
+  --color-cosmotran: #{$cosmotran};
+  --color-cosmocom: #{$cosmocom};
+  --color-cosmopos: #{$cosmopos};
+  --color-cosmokos: #{$cosmokos};
+  --color-cosmosea: #{$cosmosea};
+  --color-cosmosec: #{$cosmosec};
+  --color-cosmolab: #{$cosmolab};
+  --color-cosmogos: #{$cosmogos};
+  --color-cosmolit: #{$cosmolit};
+
+  --color-commbank: #{$commbank};
 }
 
 html[data-theme="light"] {

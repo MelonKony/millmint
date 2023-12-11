@@ -2,11 +2,12 @@
 title: Bureau of Materials
 fulltitle: Bureau of Materials
 icon: 🏛️
-rgb: 85, 177, 55
+color: cosmogos
+logo: /svg/crests/ministry-of-landscape.svg
 
 aliases:
 - /bureau-of-materials/
 ---
 {{< hint >}}
-߷ Part of the *[government](/government/)* series of articles
+߷ This bureau is part of the {{<link/ministry-of-landscape>}}.
 {{</hint>}}

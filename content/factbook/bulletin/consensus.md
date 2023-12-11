@@ -25,7 +25,7 @@ aliases:
 * The principles of consensus are important for the Vekllei style of governance, and contribute to the stability of the country.
 {{</hint>}}
 
-Although policy is fought over within executive bodies in [<span class="fi fi-com"></span> Vekllei](/vekllei/), the principles of consensus are that results should be respected and that it is important for the government to present a unified front. These principles were founded in the far-ranging and diverse nature of the Commonwealth, in which irreconcilable disagreements threatened permanent political paralysis that would destabilise Vekllei's fledgling postwar democracy.
+Although policy is fought over within executive bodies in {{<link/vekllei>}}, the principles of consensus are that results should be respected and that it is important for the government to present a unified front. These principles were founded in the far-ranging and diverse nature of the Commonwealth, in which irreconcilable disagreements threatened permanent political paralysis that would destabilise Vekllei's fledgling postwar democracy.
 
 Vekllei democracy is ostensibly *nonpartisan*, meaning that it does not have formal political parties. Instead, candidates for election present five policy points which they commit to represent in office.
 

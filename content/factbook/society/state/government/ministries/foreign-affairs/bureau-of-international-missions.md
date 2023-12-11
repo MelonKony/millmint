@@ -2,13 +2,14 @@
 title: Bureau of International Missions
 fulltitle: Bureau of International Missions
 icon: 🏛️
-rgb: 155, 67, 199
+color: cosmosea
+logo: /svg/crests/ministry-of-foreign-affairs.svg
 
 aliases:
 - /bureau-of-international-missions/
 ---
 {{< hint >}}
-߷ Part of the *[government](/government/)* series of articles
+߷ This bureau is part of the {{<link/ministry-of-foreign-affairs>}}.
 {{</hint>}}
 
 The *Bureau of International Missions* is the formal foreign policymaking apparatus of the Ministry of Foreign Affairs.

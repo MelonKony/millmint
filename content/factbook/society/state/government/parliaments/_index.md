@@ -1,6 +1,6 @@
 ---
-title: Councils
-fulltitle: Commonwealth Councils & Secretariats
+title: Parliaments
+fulltitle: Commonwealth Parliaments
 icon: 🌸
 emoji: Ζ
 color: purple

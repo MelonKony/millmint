@@ -20,5 +20,5 @@ The **<span class="fi fi-mu"></span> Republic of Mauritius** is a country in the
 
 Mauritius has a comfortable subtropical climate, with a cool and a hot season. Its people are mostly descended from indentured labourers from India and Pakistan who were compelled their during French rule. English is the official language, but Creole is most commonly spoken.
 
-Mauritius is a developed society with an advanced economy, known for its frequent festivals among its diverse population. It has close economic ties with nearby [<span class="fi fi-sc"></span> Seychelles](/seychelles/) and close political ties with [<span class="fi fi-com"></span> Vekllei](/vekllei/), and is a member of the [<span class="fi fi-oceans"></span> Community of Oceans](/oceans-community/).
+Mauritius is a developed society with an advanced economy, known for its frequent festivals among its diverse population. It has close economic ties with nearby {{<link/seychelles>}} and close political ties with {{<link/vekllei>}}, and is a member of the {{<link/oceans-community>}}.
 

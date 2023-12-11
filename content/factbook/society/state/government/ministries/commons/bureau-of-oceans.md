@@ -2,11 +2,12 @@
 title: Bureau of Nature
 fulltitle: Bureau of Nature
 icon: 🏛️
-rgb: 155, 67, 199
+color: cosmotran
+logo: /svg/crests/ministry-of-the-commons.svg
 
 aliases:
 - /bureau-of-nature/
 ---
 {{< hint >}}
-߷ Part of the *[government](/government/)* series of articles
+߷ This bureau is part of the {{<link/ministry-of-the-commons>}}.
 {{</hint>}}

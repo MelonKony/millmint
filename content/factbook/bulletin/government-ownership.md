@@ -26,7 +26,7 @@ aliases:
 * As such, nationalised corporations like [Commonwealth Airways](/air/) have issued only 9 shares, each being owned by a republic's Ministry of Transport.
 {{</hint>}}
 
-The unusual ownership structure of Commonwealth GOCs[^GOC] are a result of the federalised [<span class="fi fi-com"></span> Vekllei](/vekllei/) system. While the commonwealth [councils](/councils/) do own some corporations directly, the vast majority of Vekllei state-owned assets fall under the portfolio of the [ministries](/ministries/) of constituent republics.[^republics]
+The unusual ownership structure of Commonwealth GOCs[^GOC] are a result of the federalised {{<link/vekllei>}} system. While the commonwealth [councils](/councils/) do own some corporations directly, the vast majority of Vekllei state-owned assets fall under the portfolio of the [ministries](/ministries/) of constituent republics.[^republics]
 
 Each republic has the same suite of ministries responsible for its own affairs. Because ministries in Vekllei are decentralised (but identical),[^ministry] they own corporations that would be nationalised overseas jointly, as a means of representing one collective owner. This stake can be attributed a money-value but there is no legal mechanism for any one republic to exploit or leverage that value.
 

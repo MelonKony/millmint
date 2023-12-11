@@ -3,19 +3,19 @@ title: Ministry of Culture
 fulltitle: Ministry of Culture
 icon: 🎨
 logo: /svg/crests/ministry-of-culture.svg
-rgb: 239, 177, 26
+color: cosmopos
 
 aliases:
 - /cosmopos/
 ---
 {{< hint >}}
-߷ This article is about a ministry of the [Vekllei](/factbook/vekllei/) [Interior Parliament](/factbook/society/state/government/interior/)
+߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}.
 {{</hint>}}
 
 ## Overview
-{{<boxtag teal>}}COLSEC{{</boxtag>}}
+{{<boxtag teal>}}COSMOPOS{{</boxtag>}}
 
-The *Commonwealth Culture Secretariat* (COLSEC) is concerned primarily with 'cultural values and beliefs' of the Commonwealth, their protection, and foreign relations. Its subordinate offices are dedicated to key areas of concern designed to assist its smaller member-states which may lack the political infrastructure to maintain their own offices.
+The *Commonwealth Culture Secretariat* (COSMOPOS) is concerned primarily with 'cultural values and beliefs' of the Commonwealth, their protection, and foreign relations. Its subordinate offices are dedicated to key areas of concern designed to assist its smaller member-states which may lack the political infrastructure to maintain their own offices.
 
 {{<hint panel>}}
 ### Commonwealth Central Archives
