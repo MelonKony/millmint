@@ -4,6 +4,7 @@ fulltitle: Bureau of Trade
 icon: 🏛️
 color: cosmosol
 logo: /svg/crests/ministry-of-commerce.svg
+autonumbering: false
 
 aliases:
 - /bureau-of-trade/
@@ -17,15 +18,33 @@ The *Bureau of Trade* regulates consumer protections and antitrust law, and orga
 {{<hint panel>}}
 **Key Staff**
 
-* **Permanent Secretary**, Commonwealth Trade Commission
+* **Director**, {{<link/bureau-of-trade>}}
+	* Secretary for Trade
+		* Undersecretary for Commonwealth Trade
+		* Undersecretary for Tourism
+* **Assistant Secretary**, {{<link/treasury>}}
 
 {{</hint>}}
 
 {{<hint panel>}}
-* **Department of Consumer Affairs**: Regulation of the consumer rights.
-* **Department of Market Affairs**: Protection of fair markets and regulation of Bureau and Petty Bureau companies, including state monopolies.
-* **Department of Market Research**: Analysis and research of domestic and international markets, compiled and forwarded to other Interior Ministries.
+#### Departments
+
+* **Department of Consumer Affairs**: Regulation of the consumer entitlements and protections.
+* **Department of Market Affairs**: Protection of fair markets and regulation of industrial and petty bureau companies, including state monopolies.
+* **Department of Market Research**: Analysis and research of domestic and international markets.
+* **Department of Import & Export**: Analyse and regulation of trade with foreign countries, including harmful trade practices.
+	* Export Controls Office
+	* Information Security Office
 * **Department of Intelligence**:
 	* Office of Foreign Assets Control
+* **National Tourism Bureau**: Promotion, research, facilitation and branding of domestic and international travel.
+{{</hint>}}
 
+{{<hint panel>}}
+#### Boards & Commissions
+
+* **National Patent & Trademark Office**: Registration authority for commercial patents and marks.
+* **Intellectual Property Arbitration Board**: Mediator for copyright, patent and trademark disputes before litigation.
+* **Commonwealth Commercial Service**: Promotion of Vekllei products abroad and liaison between industry and foreign partners.
+* **Commonwealth Trade Commission**: Industrial and commodity liaison for foreign companies.
 {{</hint>}}

@@ -345,7 +345,7 @@ html {
   --color-teal: #30b0c7;
   --color-yellow: #ea9365;
   --color-millmint: #de1857;
-  --color-cosmosol: #e2bc11;
+  --color-cosmosol: #e2a919;
   --color-cosmotran: #f3852b;
   --color-cosmocom: #e5388f;
   --color-cosmopos: #80bf22;

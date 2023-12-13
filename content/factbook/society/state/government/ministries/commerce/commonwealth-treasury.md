@@ -15,18 +15,23 @@ aliases:
 
 The <span class="fi fi-min-commerce fis"></span> **Commonwealth Treasury**, commonly *The Treasury*, is the national treasury, financial department and monetary authority of {{<link/vekllei>}}. The Treasury is ultimately responsible for the Vekllei tax system, government revenue and expenditure, and broad economic planning. The Treasury also maintains the GAIA automatic financial relay computer system, which has been the automatic mechanism for microeconomic policy in Vekllei since 2055.
 
+Departments of the Treasury inform the monetary policy established by the {{<link/bank>}}, and advises money supply and rate adjustments.
+
+The Treasury is lead by the State Secretary for the Treasury, a member of the [cabinet](/cabinet/), but is governed by the Treasurer. Its departments are mostly autonomous, and coordinate through the Department of the Treasury.
+
 {{<hint panel>}}
 #### Executive Staff
 
 * **State Secretary**, {{<link/treasury>}}
+* **Treasurer**, {{<link/treasury>}}
 	* Permanent Secretary
 	* Undersecretary for Commonwealth Economics
 	* Undersecretary for Foreign Affairs
 	* Chief Analyst
 * Permanent Secretary, {{<link/bureau-of-securities>}}
 * Permanent Secretary, {{<link/bureau-of-trade>}}
-* Permanent Secretary, {{<link/bureau-of-commonwealth-corporations>}}
-* Permanent Secretary, {{<link/bureau-of-statistics>}}
+* Assistant Secretary, {{<link/bureau-of-commonwealth-corporations>}}
+* Assistant Secretary, {{<link/bureau-of-statistics>}}
 * **Exchequer**, {{<link/bank>}}
 * **Chancellor**, {{<link/mint>}}
 {{</hint>}}
@@ -34,24 +39,37 @@ The <span class="fi fi-min-commerce fis"></span> **Commonwealth Treasury**, comm
 {{<hint panel>}}
 #### Departments
 
-* **Department of the Treasury**: General department.
-	* State Secretariat: Office of the Treasury's State Secretary
-	* General Secretariat: Office of the Treasury's Permanent Secretary
+* **Department of the Treasury**: General department and office of the Treasurer.
+	* State Secretariat: Office of the Treasury's State Secretary, responsible for implementing government policy.
+	* General Secretariat: Office of the Treasury's Permanent Secretary, regular management of Treasury affairs.
 * **Department of Commonwealth Economics**:
 	* Office of General Seizure
 	* Office of Fiscal Service
-	* Office of Debt
+	* Office of National Debt
+	* National Finance & Investment Corporation
 * **Department of Revenue & Customs**:
-* **Department of Foreign Affairs**:
+	* General Taxation Inspectorate
+	* Office of Government Debt & Liabilities
+	* Office of Financial Services
+* **Department of Foreign Affairs**: National stakes and accounts in foreign countries.
+	* Office of the Americas
+	* Office of Europe
+	* Office of Africa
+	* Office of the Orient
+	* Special Markets Office
 * **Department of Government Accounts**:
-* **Department of Commonwealth Corporations**:
+	* Office of Government Expenditure
+	* National Expenditure Research Organisation
+* **Department of Commonwealth Corporations**: Government-owned corporation management and development.
 * **Department of Automatic Systems**: Development and maintenance of economic computers, software and systems.
-* **Department of Economic Information**: Compiles economics data in cooperation with the {{<link/bureau-of-statistics>}}.
+* **Department of Economic Information**: Compilation of economics data in cooperation with the {{<link/bureau-of-statistics>}}.
 {{</hint>}}
 
 {{<hint panel>}}
 #### Boards & Commissions
 
-* **Community Development Board**:
+* **Community Development Board**: Special investment vehicle for underprivileged Commonwealth communities.
 * **Institute for Economics Research**: Macroeconomic research relevant to international trade.
+* **Commonwealth Productivity Commission**: Economic productivity research and standards.
+* **Commonwealth Taxation Service**: Revenue collection and registry for taxable business.
 {{</hint>}}
