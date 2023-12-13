@@ -1,0 +1,28 @@
+---
+title: Sausage Roll
+fulltitle: Sausage Roll
+
+date: 2023-12-07
+
+tags:
+- 2023
+- tzipora
+categories:
+- sketch
+keywords:
+- 2023
+
+url: /stories/sausage-roll/
+
+toc: false
+
+image: /images/fullres/sausage-roll.jpg
+reddit:
+print:
+video:
+---
+{{<hint caption>}}
+Tzipora likes to get a sausage roll and coffee in the morning before school.
+{{</hint>}}
+
+In December, Oslola only gets a few hours of sunlight per day. The opposite is true in June, when they enjoy 20-hour days.
