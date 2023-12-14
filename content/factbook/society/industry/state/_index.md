@@ -20,7 +20,7 @@ comments: false
 toc: true
 
 aliases:
-- /assets/
+- /state-industry/
 
 description: Vekllei is a utopia created by Hobart Phillips.
 author: Hobart Phillips

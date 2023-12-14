@@ -4,16 +4,16 @@ fulltitle: The Crown Parliament of Vekllei
 icon: 🌸
 emoji: Ζ
 color: purple
-image: 
+image:
 
-tags: 
+tags:
   - government
 categories:
   - society
 aliases:
   - /crown/
 
-draft: false
+draft: true
 
 type: blank
 

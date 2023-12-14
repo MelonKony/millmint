@@ -25,7 +25,8 @@ The Mint is well-regarded internationally for the purity of its metals and intri
 {{<hint panel>}}
 **Executive Staff**
 
-* **Exchequer**, {{<link/bank>}}
 * **Chancellor**, {{<link/mint>}}
+	* Comptroller of the Crown
+* **Exchequer**, {{<link/commbank>}}
 * Permanent Secretary, {{<link/treasury>}}
 {{</hint>}}

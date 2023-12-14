@@ -70,7 +70,7 @@ Both senrouive and venrouive companies may participate in the international mark
 
 The Vekllei International Market (VKIM) is an organisation that controls the capital, commodities and securities markets of Vekllei. VKIM is maintained by the {{<link/ministry-of-commerce>}} as a mechanism for foreign investors and merchants to interact with the isolated, unmoneyed Vekllei domestic market. The international market includes a commodities exchange, derivatives marketplace and other structured financial products that facilitate foreign activity in the Vekllei economy and raise foreign capital for the national liquid currency reserves. VKIM uses the Vekllei Composite Index as a measure of the Vekllei economy, which measures both commodity value and productivity.
 
-The International Market is the means by which the capital account[^2] of the Commonwealth Government implements its long-standing macroeconomic interest in foreign investment and soft power. The reinvestment of capital surplus in the [Vekllei currencies](#currency) serves as a form of sterilisation and capital control, controlled directly by the central {{<link/bank>}}. Vekllei has the world's 2nd-largest foreign currency reserves.
+The International Market is the means by which the capital account[^2] of the Commonwealth Government implements its long-standing macroeconomic interest in foreign investment and soft power. The reinvestment of capital surplus in the [Vekllei currencies](#currency) serves as a form of sterilisation and capital control, controlled directly by the central {{<link/commbank>}}. Vekllei has the world's 2nd-largest foreign currency reserves.
 
 ## Currency
 
@@ -100,10 +100,10 @@ The ✾AK is not minted as it does not resemble a conventional currency, and exi
 ## Banking
 
 {{<hint>}}
-✿ Read more: {{<link/bank>}}
+✿ Read more: {{<link/commbank>}}
 {{</hint>}}
 
-The policy of bank consolidation under the British Occupation Government continued under the successive Floral Government, and banking was among the first industries in Vekllei to be completely socialised.[^5] All banks in Vekllei are run as state-owned enterprises, and subordinated to the '*Old Lady*,' the colloquial name for the central {{<link/bank>}}. 'Unbanking' policy -- the effective demonetisation of the Vekllei domestic markets -- saw severe disruption to the Vekllei economy and led to a period of hyperinflation in the late 2010s.
+The policy of bank consolidation under the British Occupation Government continued under the successive Floral Government, and banking was among the first industries in Vekllei to be completely socialised.[^5] All banks in Vekllei are run as state-owned enterprises, and subordinated to the '*Old Lady*,' the colloquial name for the central {{<link/commbank>}}. 'Unbanking' policy -- the effective demonetisation of the Vekllei domestic markets -- saw severe disruption to the Vekllei economy and led to a period of hyperinflation in the late 2010s.
 
 Unlike in other countries, the socialisation of banking in Vekllei also saw the broad exclusion of retail investors and savings banking, effectively halting money exchange in the domestic market and institutionalising the Vekllei banking system. Today, most Vekllei banks are institutional and deal primarily with the secondary speculative markets like [VKIM](#international-markets), or provide lending and contracts for new businesses in the [industrial market](#industrial-markets).
 

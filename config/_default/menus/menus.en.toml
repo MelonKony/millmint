@@ -21,7 +21,7 @@
     identifier = "vekllei"
     name = "Vekllei"
     pre = "🌹"
-    url = "/factbook/vekllei/"
+    url = "/vekllei/"
     parent = "factbook"
     weight = 2
   [[navbar]]

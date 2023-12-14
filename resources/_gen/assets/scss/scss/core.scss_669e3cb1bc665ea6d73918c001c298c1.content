@@ -355,7 +355,9 @@ html {
   --color-cosmolab: #a12b2e;
   --color-cosmogos: #13ac43;
   --color-cosmolit: #18acda;
-  --color-commbank: #f05d88; }
+  --color-commbank: #f05d88;
+  --color-commsec: #0279be;
+  --color-archives: #f75d36; }
 
 html[data-theme="light"] {
   --font-color: #1d1d1f;
@@ -3102,6 +3104,9 @@ ol.timeline .event {
 .fi-laur.fis {
   background-image: url(../svg/flags/1x1/laur.svg); }
 
+.fi-min-gov.fis {
+  background-image: url(../svg/logos/vekllei.svg); }
+
 .fi-min-culture.fis {
   background-image: url(../svg/crests/ministry-of-culture.svg); }
 
@@ -3134,6 +3139,15 @@ ol.timeline .event {
 
 .fi-min-combank.fis {
   background-image: url(../svg/logos/commonwealth-bank.svg); }
+
+.fi-min-commsec.fis {
+  background-image: url(../svg/logos/commsec.svg); }
+
+.fi-min-archives.fis {
+  background-image: url(../svg/logos/central-archives.svg); }
+
+.fi-min-ratings.fis {
+  background-image: url(../svg/logos/ratings.svg); }
 
 .fib {
   background-size: contain;

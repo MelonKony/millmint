@@ -20,7 +20,7 @@ aliases:
 {{<hint panel>}}
 **Summary**
 
-* [Government-owned corporations](/assets/) (GOCs) are owned by the Vekllei government, which in practice often means each of the republics simultaneously.
+* [Government-owned corporations](/state-industry/) (GOCs) are owned by the Vekllei government, which in practice often means each of the republics simultaneously.
 * The share capital of GOCs is governed by preferred-privileged shares, which are available only to government ministries, departments and occasionally industry councils.
 * Rather than consisting of thousands or millions of shares, GOCs have their share capital pegged to the number of relevant authorities (in most cases republic governments).
 * As such, nationalised corporations like [Commonwealth Airways](/air/) have issued only 9 shares, each being owned by a republic's Ministry of Transport.

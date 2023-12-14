@@ -15,12 +15,12 @@ aliases:
 
 The <span class="fi fi-min-commerce fis"></span> **Commonwealth Treasury**, commonly *The Treasury*, is the national treasury, financial department and monetary authority of {{<link/vekllei>}}. The Treasury is ultimately responsible for the Vekllei tax system, government revenue and expenditure, and broad economic planning. The Treasury also maintains the GAIA automatic financial relay computer system, which has been the automatic mechanism for microeconomic policy in Vekllei since 2055.
 
-Departments of the Treasury inform the monetary policy established by the {{<link/bank>}}, and advises money supply and rate adjustments.
+Departments of the Treasury inform the monetary policy established by the {{<link/commbank>}}, and advises money supply and rate adjustments.
 
 The Treasury is lead by the State Secretary for the Treasury, a member of the [cabinet](/cabinet/), but is governed by the Treasurer. Its departments are mostly autonomous, and coordinate through the Department of the Treasury.
 
 {{<hint panel>}}
-#### Executive Staff
+#### Executive Council
 
 * **State Secretary**, {{<link/treasury>}}
 * **Treasurer**, {{<link/treasury>}}
@@ -32,8 +32,9 @@ The Treasury is lead by the State Secretary for the Treasury, a member of the [c
 * Permanent Secretary, {{<link/bureau-of-trade>}}
 * Assistant Secretary, {{<link/bureau-of-commonwealth-corporations>}}
 * Assistant Secretary, {{<link/bureau-of-statistics>}}
-* **Exchequer**, {{<link/bank>}}
+* **Exchequer**, {{<link/commbank>}}
 * **Chancellor**, {{<link/mint>}}
+* **Director**, {{<link/commsec>}}
 {{</hint>}}
 
 {{<hint panel>}}
@@ -69,7 +70,7 @@ The Treasury is lead by the State Secretary for the Treasury, a member of the [c
 #### Boards & Commissions
 
 * **Community Development Board**: Special investment vehicle for underprivileged Commonwealth communities.
-* **Institute for Economics Research**: Macroeconomic research relevant to international trade.
+* **Institute for Economics Research**: Macroeconomic research relevant to international trade in conjunction with the {{<link/bureau-of-policy-research>}}.
 * **Commonwealth Productivity Commission**: Economic productivity research and standards.
 * **Commonwealth Taxation Service**: Revenue collection and registry for taxable business.
 {{</hint>}}

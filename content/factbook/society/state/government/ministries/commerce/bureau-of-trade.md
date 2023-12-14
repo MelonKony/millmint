@@ -13,17 +13,21 @@ aliases:
 ߷ This bureau is part of the {{<link/ministry-of-commerce>}}.
 {{</hint>}}
 
-The *Bureau of Trade* regulates consumer protections and antitrust law, and organises trade information from other ministries and supervisory bureaus into policy recommendations and legislation. The Trade Commission also monitors and reports the health of foreign markets, and conducts research into broader geopolitical financial interests, particularly as they compete with domestic interests. It is part of the {{<link/ministry-of-commerce>}}, and includes the following departments.
+The <span class="fi fi-min-commerce fis"></span> **Bureau of Trade** regulates consumer protections and antitrust law in {{<link/vekllei>}}, and organises trade information from other ministries and supervisory bureaus into policy recommendations and legislation. The Trade Commission also monitors and reports the health of foreign markets, and conducts research into broader geopolitical financial interests, particularly as they compete with domestic interests. It is part of the {{<link/ministry-of-commerce>}}, and reports primarily to the {{<link/treasury>}}.
 
 {{<hint panel>}}
-**Key Staff**
+#### Executive Council
 
 * **Director**, {{<link/bureau-of-trade>}}
 	* Secretary for Trade
-		* Undersecretary for Commonwealth Trade
+		* Undersecretary for Internal Markets
 		* Undersecretary for Tourism
+	* Secretary of Market Analysis
+		* Undersecretary for Market Intelligence
+		* Undersecretary for Foreign Affairs
 * **Assistant Secretary**, {{<link/treasury>}}
-
+* **Assistant Secretary**, {{<link/bureau-of-securities>}}
+* **Executive**, {{<link/commsec>}}
 {{</hint>}}
 
 {{<hint panel>}}
@@ -35,7 +39,7 @@ The *Bureau of Trade* regulates consumer protections and antitrust law, and orga
 * **Department of Import & Export**: Analyse and regulation of trade with foreign countries, including harmful trade practices.
 	* Export Controls Office
 	* Information Security Office
-* **Department of Intelligence**:
+* **Department of Intelligence**: Monitoring of foreign investment and corporations, as well as overseas research and policy.
 	* Office of Foreign Assets Control
 * **National Tourism Bureau**: Promotion, research, facilitation and branding of domestic and international travel.
 {{</hint>}}

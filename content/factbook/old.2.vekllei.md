@@ -162,7 +162,7 @@ The Commonwealth has explored petitions for membership from non-island countries
 ### Government
 
 {{<hint>}}
-✿ Main article: {{<link/government>}}
+✿ Main article: <span class="smallicon">🌸</span> *[Government of Vekllei](/government/)*
 {{</hint>}}
 
 The Vekllei government plays an active role in the lives of ordinary people. Each commonwealth republic is represented by two people[^ministers] of equal standing called Prime Ministers. These ministers represent the bicameral parliaments and assembled cabinets of their homes,[^sorda] and participate equally in a council of leaders called the [Commonwealth Directory](/directory/).
