@@ -1128,6 +1128,16 @@ nav.story {
   text-align: center;
   color: var(--color-text-footer); }
 
+.credit {
+  font-size: 0.75rem;
+  /* 12px */
+  line-height: 1rem;
+  /* 16px */
+  line-height: 2rem;
+  margin: 0;
+  text-align: left;
+  vertical-align: middle; }
+
 .smalldate {
   font-size: 0.75rem;
   /* 12px */
@@ -3148,6 +3158,12 @@ ol.timeline .event {
 
 .fi-min-ratings.fis {
   background-image: url(../svg/logos/ratings.svg); }
+
+.fi-min-atlantic-store.fis {
+  background-image: url(../svg/logos/atlantic-store.svg); }
+
+.fi-min-air.fis {
+  background-image: url(../svg/logos/air.svg); }
 
 .fib {
   background-size: contain;

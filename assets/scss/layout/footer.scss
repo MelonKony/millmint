@@ -45,6 +45,14 @@ nav.story {
 	color: var(--color-text-footer);
 }
 
+.credit {
+	@include text-xs;
+	line-height: 2rem;
+	margin: 0;
+	text-align: left;
+	vertical-align: middle;
+}
+
 .smalldate {
 	@include text-xs;
 	margin: 0;
