@@ -16,7 +16,7 @@ author: Hobart Phillips
 ---
 
 {{< hint green >}}
-߷ This article is about an [**overseas member**](/factbook/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/factbook/vekllei)
+߷ This article is about an [**overseas member**](/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/factbook/vekllei)
 {{</hint>}}
 
 ## 1. Overview

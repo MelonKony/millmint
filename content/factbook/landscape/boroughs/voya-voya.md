@@ -25,7 +25,7 @@ author: Hobart Phillips
 ## Overview
 
 {{< hint >}}
-߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/factbook/vekllei/)
+߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
 {{</hint>}}
 
 **The borough of Voya Voya** is an administrative region in southwest Vekllei, located in the Capital Region north of Coyenstisn and east of Lo. It covers the entire area of Voya Voya, a city of some 450,000 people in the capital's extended metro area renowned for its parkland and green spaces. Voya Voya makes up part of the capital's satellite belt of boroughs, characterised by green space and mixed-use residential planning. Voya Voya is often referred to as the capital's "garden borough" for its density and quality of parkland and forest reserves.
@@ -36,7 +36,7 @@ author: Hobart Phillips
 
 ## Etymology
 
-**Voya Voya** is transliterated as "Good Good," through in practice is better translated as "Good Place," analogous to English towns like "Goodwood." It refers to the natural temperate rainforests of its area, much of which are preserved in its parks and in its northern [Crown Land](/factbook/vekllei/#administrative-divisions). It is only one of a handful of Vekllei cities to use *Topyas* emphasis through repetition, which has more or less been superseded in modern Vekllei by [duplicate consonants](/factbook/society/culture/language/#phonetic-reading).
+**Voya Voya** is transliterated as "Good Good," through in practice is better translated as "Good Place," analogous to English towns like "Goodwood." It refers to the natural temperate rainforests of its area, much of which are preserved in its parks and in its northern [Crown Land](/vekllei/#administrative-divisions). It is only one of a handful of Vekllei cities to use *Topyas* emphasis through repetition, which has more or less been superseded in modern Vekllei by [duplicate consonants](/factbook/society/culture/language/#phonetic-reading).
 
 ## History
 
@@ -52,7 +52,7 @@ During the Atomic War, the area's permanent rainforest was protected from firest
 
 The Atomic War collapsed the capital area, and dramatically reduced the population of Voya Voya's neighbouring boroughs. Although the borough itself did not receive direct strikes, the subsequent fallout and social collapse saw starvation and emigration from the borough throughout occupation and into independence.
 
-In the Floral Period, protections first developed by the Junta for Voya Voya's green belt were extended by the Floral Government, including the establishment of a [Crown Land](/factbook/vekllei/#administrative-divisions) in its north and the clearing of rubble and replanting of rainforest throughout its inhabited interior. The architects of early independence reduced the density of the borough dramatically, clearing land for parks that now characterise the city.
+In the Floral Period, protections first developed by the Junta for Voya Voya's green belt were extended by the Floral Government, including the establishment of a [Crown Land](/vekllei/#administrative-divisions) in its north and the clearing of rubble and replanting of rainforest throughout its inhabited interior. The architects of early independence reduced the density of the borough dramatically, clearing land for parks that now characterise the city.
 
 In 2076, Voya Voya was named Borough of the Year by the Festival Commission, which saw it heavily reported by documentary films and tourism material.
 

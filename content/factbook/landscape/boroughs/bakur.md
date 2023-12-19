@@ -23,10 +23,10 @@ author: Hobart Phillips
 ## Overview
 
 {{< hint >}}
-߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/factbook/vekllei/)
+߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
 {{</hint>}}
 
-**The borough of Bakur** is an administrative region on the far northwest coast of Vekllei, located in the Afouismeh Region north of Tanger and south of [Eyri](/factbook/vekllei/boroughs/eyri/). It is named after Bakur, an ancient fishing town with history that predates unified settlement in Vekllei. It has the smallest population of any borough in Vekllei, at only 7,500 permanent residents, which fluctuates seasonally. It is most famous for being home to the site of Vekllei's Deep-Sea Cartography Mission, an initiative of the Ocean Office of the Vekllei Government. This also means Bakur has the highest population of scientific personnel per capita of any borough in Vekllei.
+**The borough of Bakur** is an administrative region on the far northwest coast of Vekllei, located in the Afouismeh Region north of Tanger and south of [Eyri](/vekllei/boroughs/eyri/). It is named after Bakur, an ancient fishing town with history that predates unified settlement in Vekllei. It has the smallest population of any borough in Vekllei, at only 7,500 permanent residents, which fluctuates seasonally. It is most famous for being home to the site of Vekllei's Deep-Sea Cartography Mission, an initiative of the Ocean Office of the Vekllei Government. This also means Bakur has the highest population of scientific personnel per capita of any borough in Vekllei.
 
 >*By the sea, sea, sea, you'll find a boy, boy, boy, and his heart, heart, heart, lies with his boat, boat, boat.*
 

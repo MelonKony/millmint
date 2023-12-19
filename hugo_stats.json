@@ -1,6 +1,7 @@
 {
   "htmlElements": {
     "tags": [
+      "?xml",
       "a",
       "article",
       "b",
@@ -56,6 +57,7 @@
       "tr",
       "u",
       "ul",
+      "use",
       "video"
     ],
     "classes": [
@@ -67,6 +69,7 @@
       "article-category",
       "asset",
       "blue",
+      "book",
       "border-b-2",
       "boxtag",
       "brand",
@@ -158,6 +161,10 @@
       "header",
       "hidden",
       "hint",
+      "home-grid",
+      "home-main",
+      "home-nav",
+      "home-parallax",
       "hug-top",
       "icon",
       "img-wrapper",
@@ -181,6 +188,7 @@
       "menu-dropdown",
       "menu-link",
       "meta",
+      "millmint",
       "mobile",
       "name",
       "nav-inner",
@@ -224,7 +232,6 @@
       "section",
       "show-all-images",
       "signature",
-      "site-home",
       "smalldate",
       "smallicon",
       "smallimg",
@@ -245,7 +252,9 @@
       "toc",
       "toggle",
       "tombstone",
-      "toolbox-btn"
+      "toolbox-btn",
+      "volcanic-nav",
+      "volcanic-parallax"
     ],
     "ids": [
       "1",
@@ -689,6 +698,7 @@
       "the-water-commission-aqueduct-pumpworks",
       "theme-button",
       "theory",
+      "this-is-the-epoch-of-rest",
       "toc-button",
       "topet",
       "towns",
@@ -740,6 +750,7 @@
       "vocational-schools",
       "waughs-handful-of-dust-as-anti-utopia",
       "what-does-a-social-economy-look-like",
+      "what-is-vekllei",
       "where-is-vekllei",
       "wheres-the-tension-if-its-perfect",
       "whirlybat",

@@ -24,7 +24,7 @@ author: Hobart Phillips
 ## Overview
 
 {{< hint >}}
-߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/factbook/vekllei/)
+߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
 {{</hint>}}
 
 **The borough of Yana** is an administrative region in central Vekllei, located in the far-western Lava region north of Tiyousn and east of Laisiyo. It is named after Yana, a city of some 45,000 people isolated along Vekllei's sparse, moonlike volcanic interior for which the Lava region is named. Yana makes up part of an agro-belt of depopulated boroughs that sit along the Sesmiousvianneh river, which washes rich igneous minerals north to towns downstream. The town of Yana is best known for its proximity to the spectacular molten lava fields common in the area.

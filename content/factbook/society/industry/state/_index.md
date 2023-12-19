@@ -37,7 +37,7 @@ author: Hobart Phillips
 
 There is no real distinction in Vekllei between *state assets*, *state-owned enterprises* (SOE) and *government-owned corporations* (GOC), and the terms are used interchangeably. A state asset is distinct from bureau companies[^1] or private enterprise, and is often directed by government policy via an [Interior Ministry](/factbook/society/state/government/interior/) or Parliament.
 
-State assets make up about 40% of the [Vekllei Islands](/factbook/vekllei/) GDP, and about 25% of total Commonwealth GDP. They occupy central roles in the Vekllei economy, often as functional or constitutional monopolies, and are responsible for 65% of the [VKIM](/factbook/society/state/finance/#international-markets) market capitalisation.
+State assets make up about 40% of the [Vekllei Islands](/vekllei/) GDP, and about 25% of total Commonwealth GDP. They occupy central roles in the Vekllei economy, often as functional or constitutional monopolies, and are responsible for 65% of the [VKIM](/factbook/society/state/finance/#international-markets) market capitalisation.
 
 ## Structure
 

@@ -11,33 +11,20 @@
 </script>
 
 <body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
-  <main>
-    {{- partial "header.html" . -}}
-    {{- partial "nav.html" . -}}
+  <main class="volcanic-parallax">
+    <div class="volcanic-nav">
+      {{- partial "header.html" . -}}
+      {{- partial "nav.html" . -}}
+    </div>
+
+      <!-- Volcanic parallax partial -->
+      {{- partial "components/volcanic.html" . -}}
   </main>
- 
- <!-- Volcanic parallax partial -->
- {{- partial "components/volcanic.html" . -}}
 
   <main>
     <!--{{- partial "header.html" . -}}-->
     <article class="content" style="margin-top: 0;">
-      {{ if .Params.changelogs }}
-      {{ $enableCollapsibleChangelogs := (.Scratch.Get "params").enableCollapsibleChangelogs }}
-      {{ partial "components/collapsible-menu.html" (dict "type" "changelogs" "context" . "enable" $enableCollapsibleChangelogs) }}
-      {{ end }}
-
       {{- partial "content" . }}
-
-      {{ if eq .Kind "page" }}
-      {{ if (.Params.disqus | default .Site.DisqusShortname) }}
-      {{- partial "disqus.html" . -}}
-      {{ end }}
-      {{ else }}
-      {{ if (.Params.disqus | default false) }}
-      {{- partial "disqus.html" . -}}
-      {{ end }}
-      {{ end }}
     </article>
     {{- partial "footer.html" . -}}
   </main>
@@ -48,6 +35,30 @@
 <style>
   #notice {
     margin: 1rem;
+  }
+  .volcanic-parallax {
+    background: transparent;
+    margin-top: 0;
+    padding-top: 0;
+  }
+  #HeaderCanvas {
+      top: 0;
+      left: 0;
+      padding: 0;
+      z-index: -1;
+      height: 100vh;
+      width: 100vw;
+      margin-left: calc((100% - 100vw) / 2);
+  }
+  .volcanic-nav {
+    position: absolute;
+    outline: 15px solid var(--body-background);
+    background: var(--body-background);
+    border-radius: .25rem;
+    width: inherit;
+    height: inherit;
+    box-sizing: border-box;
+    margin-top: 2.5rem;
   }
 </style>
 

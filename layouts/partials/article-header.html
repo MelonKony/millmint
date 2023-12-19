@@ -12,7 +12,7 @@
     <!--<div class="article-category">{{ .Lastmod.Format "02.01.2006" }}</div>-->
   </div>
   {{ if .Params.emoji }}<div class="emoji" id="whirlybat">{{ .Params.emoji }}</div>{{ end }}
-  {{ if .Params.logo }}<img class="logo" src="{{ .Params.logo }}"></img>{{ end }}
+  {{ if .Params.logo }}<img class="logo" alt="article logo" src="{{ .Params.logo }}"></img>{{ end }}
 </header>
 
 {{ if .Params.rgb }}

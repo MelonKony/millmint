@@ -25,7 +25,7 @@ author: Hobart Phillips
 ## Overview
 
 {{< hint >}}
-߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/factbook/vekllei/)
+߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
 {{</hint>}}
 
 **The borough of Ou** is an administrative region in the central Ro Highlands of Vekllei, located southwest of Laisiyo and north of Kyala. It is named after Ou, a prominent agricultural town of Vekllei's Middle Period that was transformed in the 20th Century into the cultural and military centre of the Ro Region. At nearly 1.2 million residents, Ou was narrowly excluded from becoming one of Vekllei's five Crown Boroughs in 2021, but remains the second-largest borough of the Ro Highlands, after Lonne. Its importance to [Upen](/factbook/society/culture/religion/) leads most Upen-observing Vekllei people to regard Ou as a sacred borough.
@@ -36,7 +36,7 @@ author: Hobart Phillips
 
 ## Etymology
 
-**Ou** is a [*Topyas*](/factbook/society/culture/language/#history) pure [Ocean Vowel](/factbook/society/culture/language/#diphthongs) meaning "spirit" or "personhood", and in its written form is considered a core [Rapotenne](/factbook/society/culture/language/#4-rapotenne) rune in [Upen](/factbook/society/culture/religion/). Ou is regarded as the birthplace of demons in Upen mythology, who emerged from the Valley of the Dead to return humans to the spirit world. For this reason, Ou is considered a sacred borough in Vekllei and much of its territory remains untouchable [Crown Land](/factbook/vekllei/#administrative-divisions).
+**Ou** is a [*Topyas*](/factbook/society/culture/language/#history) pure [Ocean Vowel](/factbook/society/culture/language/#diphthongs) meaning "spirit" or "personhood", and in its written form is considered a core [Rapotenne](/factbook/society/culture/language/#4-rapotenne) rune in [Upen](/factbook/society/culture/religion/). Ou is regarded as the birthplace of demons in Upen mythology, who emerged from the Valley of the Dead to return humans to the spirit world. For this reason, Ou is considered a sacred borough in Vekllei and much of its territory remains untouchable [Crown Land](/vekllei/#administrative-divisions).
 
 ## History
 

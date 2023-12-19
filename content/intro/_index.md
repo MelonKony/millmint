@@ -4,22 +4,14 @@ fulltitle: Welcome to MillMint
 icon: 📔
 emoji: ΄
 
-tags:
-  - utopia
-categories:
-  - intro
-
+layout: intro
 type: intro
-comments: false
 autonumbering: false
 
-toc: false
 rgb: 65, 101, 107
 
 description: What is Vekllei? Vekllei is a creative worldbuilding project that explores a fictional retrofuture with illustrations and stories.
 author: Hobart Phillips
-
-layout: intro
 ---
 <span class="letterhead">15th June, 2023</span>
 <br>
@@ -37,68 +29,16 @@ I approach all aspects of their society, from the exciting (jets and spies) to t
 This project is a letter of love to midcentury visions of optimism, nostalgia and a changing world. Please enjoy this website as it grows with this project.
 
 
-<img class="signature" src="/svg/signature.svg">
-
-
-<!--old intro
-
-## This is the Epoch of Rest
-{{< hint millmint >}}
-✿ Check out the [**FAQ**](/intro/faq)
-{{</hint>}}
-
-**These stories are about good places and people**. They take place in a fictional state called [Vekllei](/factbook/vekllei/), which is an Atlantic country that does not use money. The point of this project is to take the purity of that idea seriously, and immerse a place of wonder in the real world.
-
-> So this is Utopia,<br>
-> Is it? Well — <br>
-> I beg your pardon;<br>
-> I thought it was Hell.
-
--- Max Beerbohm
-
-'Immersing' something in the real world means things get dirty, break, and fall apart. A utopia doesn't have to be perfect, but it *should* be an authentic 'social dream'. This style of world-building is called [*utopie concrète*](/news/essays/utopie/), and is the way Vekllei is built.
-
-> *I define the broad, general phenomenon of utopianism as social dreaming -- the dreams and nightmares that concern the ways in which groups of people arrange their lives and which usually envision a radically different society than the one in which the dreamers live. But not all are radical, for some people at any time dream of something basically familiar.*
-
--- Lyman Sargent [^1]
-
-That's the gist of it. [Vekllei](/factbook/vekllei/) is a fictional country that demonstrates good things through drawing and writing about it. It's part-escapism, part-fantasy, and all good.
-
-This website is a comprehensive archive and open notebook for the stories of Vekllei and its people.
-
-{{< details title="Studio MillMint" open=true >}}
-* [**millmint.net**](/)
-  * [**/factbook/**](/factbook/) is an online wiki of Vekllei its people
-  * [**/millmint/**](/millmint/) is for everything outside of it
-  * [**/stories/**](/posts/) is for illustrated snapshots of life in Vekllei
-{{</ details >}}
-
-## What is Vekllei?
-
-{{< hint millmint >}}
-✿ Main article: [*Vekllei*](/factbook/vekllei)
-{{</hint>}}
-
-> No differently will the world one day appear, almost unchanged, in its constant feast-day light, when it stands no longer under the law of labour, and when for homecomers duty has the lightness of holiday play.
-
-–Theodor Adorno, *Minima Moralia*
-
-**Vekllei** (pronounced '**Veck-lie**,' or **/vƐk.laɪ/**) is an island country set in what we know as Iceland. Vekllei is its own country, and does not look or feel like Iceland. It has unique cultures, ethnicites, and landscapes. It is an old country, having been settled for thousands of years by native Algic peoples and Scandinavians. It is also a new county, having suffered a nuclear attack at the beginning of the 21st Century which extinguished much of its old civil society.
-
-By the mid-21st century, Vekllei has become a remarkable place. Quality of life is excellent and living there is unlike living anywhere else on Earth. The country is an ambitious expression of alternate modes of thinking, visible in every aspect of society, from its bizarre moneyless economy to its complicated cultural and religious metaphysics.
-
-Here are some quick facts about Vekllei and the state of the world in the mid-21st Century.
-
-* Vekllei takes place in a fictional retrofuture, where some technologies have advanced in different ways. Most [computers in Vekllei](/factbook/society/technology/computers/) are centralised, connected to via terminals. In this sense, they are both more and less advanced than contemporary personal computing. In other technologies, like aerospace, the world is undeniably more advanced.
-* Vekllei's future retains the cold war from the previous century. The U.S.S.R. stiill exists, as do emerging political divisions across Europe, Africa, South America and Asia.
-* Vekllei's future remains heavily influenced by midcentury modernist styles.
-* Although Vekllei's unique history has influenced its region for thousands of years, most major diversions from our own timeline occur shortly after the Second World War.
-
-[So get going](/stories/). This website is an open notebook of the thing I love. If you like world-building, art, and strange corners of the web, you'll find something to like here.
-
-[^1]: Sargent, L.T., 1994. The Three Faces of Utopianism Revisited. *Utopian studies*, 5(1), p.3.
-
--->
+<div class="signature">
+  <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+  <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+  <!-- Created with Vectornator (http://vectornator.io/) -->
+  <svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <use opacity="0" transform="matrix(2.59983 0 0 2.59983 112.926 231.218)" xlink:href="#Image"/>
+  <path d="M159.795 195.809C156.283 200.493 154.526 282.45 154.526 441.683C154.526 600.915 145.159 681.115 126.426 682.287C107.692 683.458 90.7166 682.287 75.4958 678.774C60.275 675.261 52.6647 671.164 52.6647 666.481C52.6647 661.797 54.421 657.699 57.9323 654.186C61.445 650.675 71.9831 646.576 89.5453 641.893C107.107 637.211 115.889 633.698 115.889 631.355C115.889 630.185 115.889 629.014 115.889 627.844C105.351 627.844 94.8143 627.844 84.2762 627.844C73.7395 627.844 63.2014 627.844 52.6647 627.844C53.2496 557.009 53.8346 486.174 54.421 415.339C55.006 344.504 55.591 273.669 56.1774 202.834C53.8346 204.591 51.4933 206.347 49.152 208.103C44.4679 211.615 39.7852 278.938 35.1025 410.07C30.4185 541.202 27.4921 613.208 26.3208 626.088C25.1494 638.966 22.2231 650.089 17.539 659.455C12.8563 668.822 12.8563 678.774 17.539 689.312C22.2231 699.849 25.1494 721.51 26.3208 754.293C27.4921 787.076 30.4185 808.736 35.1025 819.274C39.7852 829.811 45.0543 833.908 50.9083 831.567C56.7623 829.226 60.86 824.542 63.2014 817.517C65.5427 810.492 66.1291 804.638 64.9577 799.954C64.3727 797.613 63.7864 795.271 63.2014 792.93C60.86 794.1 58.5187 795.271 56.1774 796.443C53.8346 797.613 51.4933 798.784 49.152 799.954C49.152 786.49 49.152 773.025 49.152 759.561C49.152 746.096 49.152 732.632 49.152 719.167C67.2991 720.339 85.4476 721.51 103.595 722.68C139.89 725.021 159.209 734.388 161.55 750.78C163.893 767.171 163.915 786.245 168.597 787.416C170.939 788.001 176.86 781.72 179.202 782.307C179.787 771.184 180.284 756.634 180.87 745.511C182.04 723.265 189.065 709.216 201.945 703.361C214.823 697.507 225.361 699.849 233.557 710.387C241.752 720.924 254.631 727.364 272.194 729.705C289.756 732.047 303.806 729.119 314.343 720.924C324.881 712.728 333.077 701.605 338.931 687.556C344.785 673.505 347.713 658.87 347.713 643.65C347.713 628.429 344.2 616.136 337.174 606.769C330.149 597.402 323.71 591.548 317.856 589.206C312.002 586.864 302.635 588.036 289.756 592.718C276.878 597.402 258.729 610.867 235.313 633.112C211.897 655.358 197.846 665.894 193.163 664.724C188.48 663.553 185.553 585.694 184.381 431.145C183.211 276.595 179.699 197.565 173.845 194.052C167.991 190.54 163.307 191.126 159.795 195.809ZM402.155 304.696C396.301 314.062 391.032 332.21 386.35 359.139C381.665 386.067 379.324 442.853 379.324 529.494C379.324 616.136 381.665 665.309 386.35 677.018C391.032 688.726 397.473 693.41 405.668 691.068C413.863 688.726 418.547 677.604 419.717 657.699C420.302 647.747 420.889 637.796 421.474 627.844C426.743 629.6 432.012 631.355 437.28 633.112C447.818 636.624 456.598 641.893 463.624 648.919C470.649 655.943 474.162 664.139 474.162 673.505C474.162 682.872 467.136 688.141 453.087 689.312C439.036 690.482 426.158 695.751 414.448 705.118C402.74 714.485 396.301 724.436 395.13 734.974C393.96 745.511 396.301 753.707 402.155 759.561C408.009 765.415 418.547 768.342 433.768 768.342C448.988 768.342 463.039 762.488 475.918 750.78C488.796 739.072 503.432 738.486 519.823 749.024C536.215 759.561 550.264 765.415 561.972 766.586C573.682 767.757 587.731 761.317 604.122 747.268C620.514 733.218 635.735 725.021 649.784 722.68C663.835 720.339 673.201 728.534 677.885 747.268C682.567 766.001 690.764 777.709 702.472 782.392C714.18 787.076 722.961 786.49 728.815 780.635C734.67 774.781 737.597 765.415 737.597 752.537C737.597 739.657 735.255 727.949 730.571 717.411C725.888 706.874 723.547 693.995 723.547 678.774C723.547 663.553 725.888 654.186 730.571 650.675C735.255 647.162 741.109 647.747 748.135 652.43C755.159 657.114 766.282 658.87 781.503 657.699C796.723 656.529 805.504 660.04 807.847 668.237C810.188 676.433 818.968 683.458 834.189 689.312C849.41 695.166 858.777 709.216 862.289 731.462C865.802 753.707 871.071 766.586 878.095 770.099C885.12 773.611 889.803 774.781 892.146 773.611C894.487 772.44 895.659 758.976 895.659 733.218C895.659 707.459 909.123 691.653 936.052 685.799C962.981 679.945 982.299 672.92 994.007 664.724C1005.72 656.529 1010.98 649.504 1009.81 643.65C1008.64 637.796 989.323 636.624 951.858 640.137C933.124 641.893 914.391 643.65 895.659 645.406C895.072 621.99 894.487 598.572 893.902 575.156C892.731 528.324 890.975 503.151 888.633 499.638C886.292 496.126 882.193 494.369 876.339 494.369C870.485 494.369 865.802 499.052 862.289 508.419C858.777 517.786 856.435 534.178 855.264 557.594C854.094 581.01 851.166 596.231 846.484 603.256C841.799 610.28 828.921 615.549 807.847 619.062C786.772 622.575 770.965 620.233 760.428 612.037C749.89 603.841 740.524 599.744 732.328 599.744C724.132 599.744 714.765 605.598 704.229 617.306C693.691 629.014 686.665 644.235 683.154 662.968C679.641 681.702 673.787 691.653 665.59 692.825C657.395 693.995 650.371 694.58 644.515 694.58C641.589 694.58 638.661 694.58 635.735 694.58C635.735 684.043 635.735 673.505 635.735 662.968C635.735 641.893 631.051 629.6 621.686 626.088C612.319 622.575 596.512 627.844 574.267 641.893C552.021 655.943 538.556 666.481 533.873 673.505C529.189 680.53 527.433 688.141 528.604 696.336C529.189 700.435 529.776 704.533 530.361 708.631C528.604 708.631 526.848 708.631 525.092 708.631C521.579 708.631 518.653 707.459 516.311 705.118C513.969 702.776 512.212 692.825 511.042 675.261C509.871 657.699 506.945 644.821 502.261 636.624C497.578 628.429 484.113 617.306 461.867 603.256C439.622 589.206 425.572 581.596 419.717 580.425C413.863 579.254 410.937 545.886 410.937 480.32C410.937 414.753 411.522 376.702 412.693 366.164C413.278 360.895 413.863 355.627 414.448 350.358C416.791 350.943 419.132 351.528 421.474 352.114C426.158 353.284 429.084 352.699 430.256 350.358C431.426 348.017 430.841 338.65 428.499 322.258C426.158 305.867 422.645 296.5 417.961 294.159C413.278 291.816 408.009 295.329 402.155 304.696ZM305.563 626.088C307.904 627.257 309.074 632.527 309.074 641.893C309.074 651.26 306.733 659.455 302.05 666.481C297.366 673.505 292.683 677.018 287.999 677.018C285.658 677.018 283.317 677.018 280.975 677.018C280.975 671.75 280.975 666.481 280.975 661.212C280.975 650.675 284.488 641.893 291.512 634.868C298.537 627.844 303.22 624.916 305.563 626.088ZM848.24 631.355C849.996 631.355 851.753 631.355 853.509 631.355C853.509 633.698 853.509 636.039 853.509 638.381C853.509 640.722 853.509 643.065 853.509 645.406C851.166 644.235 848.825 643.065 846.484 641.893C844.142 640.722 841.799 639.552 839.458 638.381C840.043 637.211 840.629 636.039 841.214 634.868C842.386 632.527 844.727 631.355 848.24 631.355ZM597.098 669.994C598.268 669.994 599.439 669.994 600.611 669.994C600.611 673.505 600.611 677.018 600.611 680.53C600.611 687.556 599.439 692.825 597.098 696.336C594.757 699.849 590.658 701.605 584.804 701.605C578.95 701.605 574.852 699.264 572.51 694.58C570.169 689.897 573.095 684.628 581.291 678.774C589.488 672.92 594.757 669.994 597.098 669.994ZM451.33 717.411C454.257 717.997 457.184 718.582 460.111 719.167C455.428 722.095 450.744 725.021 446.061 727.949C441.377 730.875 436.695 733.803 432.012 736.729C431.426 734.974 430.841 733.218 430.256 731.462C429.084 727.949 430.841 724.436 435.523 720.924C440.207 717.411 445.476 716.241 451.33 717.411Z" fill="currentColor" fill-rule="nonzero" opacity="1" stroke="none"/>
+  </g>
+  </svg>
+</div>
 
 <style>
 article {
@@ -114,14 +54,12 @@ header.info, footer {
   font-size: 0.875rem; /* 14px */
   line-height: 1.25rem; /* 20px */
   float: right;
-  color: var(--gray-heavy);
+  color: var(--highlight);
 }
 
-img.signature {
-  margin: 0;
+.signature {
+  width: 100px;
   height: 5rem;
-  margin-right: auto;
-  color: red;
 }
 
 /* flags */

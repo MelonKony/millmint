@@ -1575,6 +1575,17 @@ nav {
   /* 20px */
   padding: .5rem; }
 
+/* floating nav */
+.floating-nav {
+  position: absolute;
+  outline: 15px solid var(--body-background);
+  background: var(--body-background);
+  border-radius: .25rem;
+  width: inherit;
+  height: inherit;
+  box-sizing: border-box;
+  margin-top: 2.5rem; }
+
 .term-item {
   color: var(--color-text);
   border-bottom: 2px solid var(--color-border);
@@ -4798,17 +4809,19 @@ ol.timeline .event {
 	background-image: url("/video/trailer.mp4");
   	background-repeat: no-repeat;
   	background-attachment: fixed;
-  	
+
   	background-size: cover;
 } */
-.site-home {
+/* .site-home {
   background-image: url("/images/mastheads/millmint.png");
+
   background-position: 50% 50px;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-color: var(--body-background);
-  background-size: cover; }
 
+  background-color: var(--body-background);
+  background-size: cover;
+} */
 .shop-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));

@@ -28,6 +28,15 @@
 </script>
 
 <style>
+  body {
+    background-color: rgb(226 243 253);
+  }
+
+  main {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
   .iv-snap-image-wrap {
     width: 100%;
   }
@@ -66,7 +75,7 @@
       z-index: 100;
       box-sizing: content-box;
       transition: opacity ease 400ms;
-      opacity: 0;
+      opacity: 0!important; /* disables viewer */
   }
 
   .iv-zoom-slider {
@@ -86,6 +95,7 @@
   }
 
   .map-nav {
+    margin-top: 1rem;
     outline: 15px solid var(--body-background);
     background: var(--body-background);
     border-radius: .25rem;

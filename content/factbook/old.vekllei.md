@@ -35,7 +35,7 @@ author: Hobart Phillips
 
 ## Overview
 
-The **Commonwealth of Vekllei**, commonly **Vekllei** or the **4th Commonwealth**, is a supranational commonwealth of constituent countries[^1] bound closely together by shared geographic and political features. Most members are island countries in the Atlantic and Caribbean oceans, and are characterised by societies engaging in [Floral economics](/factbook/vekllei/#economy), municipalism, third-way diplomacy and utopian metaphysics. Most extraordinarily, the people of the Commonwealth do not use money.
+The **Commonwealth of Vekllei**, commonly **Vekllei** or the **4th Commonwealth**, is a supranational commonwealth of constituent countries[^1] bound closely together by shared geographic and political features. Most members are island countries in the Atlantic and Caribbean oceans, and are characterised by societies engaging in [Floral economics](/vekllei/#economy), municipalism, third-way diplomacy and utopian metaphysics. Most extraordinarily, the people of the Commonwealth do not use money.
 
 The name *Vekllei* refers most commonly to the country of Vekllei, situated in the North Atlantic, which is both its founder and most prosperous and populated member-state. In total, 24 million people live across its member-states. As an advanced and prosperous society, the Commonwealth represents a major regional power and maintains the ability to project power overseas. Like most countries, Vekllei is a nuclear power and employs fission in both industrial and military contexts.
 
@@ -116,7 +116,7 @@ Vekllei is the world's 18th largest island, and has significant biological and c
 **Politics** in Vekllei are characterised by postwar constitutional values of nonpartisan democracy and local municipalism. Political concern is aestheticised and developed along cultural and interpersonal lines -- a feature of life, but fundamentally participatory. In truth, at least with regards to domestic concern, Vekllei's daily affairs are basically autonomous, and politics remains the concern of an educated, invested class of people.
 {{</hint>}}
 
-The Vekllei Commonwealth is a federated superstate including [six individual commonwealths](/factbook/vekllei/#commonwealth-member-states) which share political features modelled after the Vekllei Islands. Sovereignty is afforded to the territory of Vekllei through an indigenous land-metaphysic called the **Crown Sovereign**. The physical representative of the Crown Sovereign, an intangible metaphysical constant, is called the **Palace of the Vekllei Commonwealth**, which enshrines the floral constitution and retains control over the armed forces.
+The Vekllei Commonwealth is a federated superstate including [six individual commonwealths](/vekllei/#commonwealth-member-states) which share political features modelled after the Vekllei Islands. Sovereignty is afforded to the territory of Vekllei through an indigenous land-metaphysic called the **Crown Sovereign**. The physical representative of the Crown Sovereign, an intangible metaphysical constant, is called the **Palace of the Vekllei Commonwealth**, which enshrines the floral constitution and retains control over the armed forces.
 
 Beneath the Palace is the **Commonwealth Parliament**, which manages affairs that concern all commonwealth member-states, including standardisation of education, protection of culture, and intelligence gathering. The Commonwealth Parliament unites the resources of individual **Island Commonwealths** (called Islands here for simplicity), and standardises their political features. Island Commonwealths may have their own sovereign member-states, as in the case of Kalina and Antilles. These small nation-states are called **Cherishes** and retain their own parliamentary governments.
 
@@ -197,7 +197,7 @@ Vekllei refers to both the **Vekllei Islands**, a nation-state in the North Atla
 
 The Vekllei Islands are considered a conterminous city-state, although in practice the country is divided into many distinct regions, cities and towns. The Home Island, the largest and most populous of the Vekllei Islands, are divided geographically into 100 [boroughs](/factbook/landscape/boroughs) which act as semiautonomous local governments, and are further subdivided into local municipalities called *municipolis*.
 
-Each borough is proportional to the region's natural wealth, which accounts for its history, folklore and natural features. Because of this, the human population of boroughs is highly disproportionate, the smallest being [Bakur](/factbook/vekllei/boroughs/bakur), in the Afouismeh region, with a population of 7,500 people, and the largest being Vekllei proper, in the Capital Region, of 2.4 millions.
+Each borough is proportional to the region's natural wealth, which accounts for its history, folklore and natural features. Because of this, the human population of boroughs is highly disproportionate, the smallest being [Bakur](/vekllei/boroughs/bakur), in the Afouismeh region, with a population of 7,500 people, and the largest being Vekllei proper, in the Capital Region, of 2.4 millions.
 
 Each borough elects a **Secretary** and two **House Members** to the Vekllei Islands Parliament, which is lead by two prime ministers -- one man and one woman.
 
@@ -228,7 +228,7 @@ The Constitution is underlined by four principles of postwar Vekllei life, outli
 3. **Abolishment of currency** and currency-substitutes.
 4. **Economic feminisation**.
 
-These features manifest in various forms throughout modern Vekllei, including its moneylessness, place-metaphysics, and personal freedoms. Its association with the Rebirth of Vekllei, characterised as female in [Upen](/factbook/vekllei/religion), gave the document its colloquial name *Petticoat Constitution*, after its provisions for women in democratic Vekllei society.
+These features manifest in various forms throughout modern Vekllei, including its moneylessness, place-metaphysics, and personal freedoms. Its association with the Rebirth of Vekllei, characterised as female in [Upen](/vekllei/religion), gave the document its colloquial name *Petticoat Constitution*, after its provisions for women in democratic Vekllei society.
 
 #### Atlantic Municipalism
 

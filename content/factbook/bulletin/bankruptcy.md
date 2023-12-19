@@ -8,7 +8,7 @@ rgb: 203, 108, 164
 toc: false
 
 aliases:
-- /bulletin/boredom
+- /bulletin/bankruptcy
 ---
 {{<hint>}}
 ߷ Part of the *[bulletin](/bulletin/)* series of articles

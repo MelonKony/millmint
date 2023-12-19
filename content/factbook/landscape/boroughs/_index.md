@@ -26,7 +26,7 @@ comments: false
 ---
 
 {{< hint >}}
-߷ This page lists completed articles on [**Vekllei's**](/factbook/vekllei) [**boroughs**](/factbook/vekllei/#administrative-divisions)
+߷ This page lists completed articles on [**Vekllei's**](/factbook/vekllei) [**boroughs**](/vekllei/#administrative-divisions)
 {{</hint>}}
 
 {{<hint>}}
@@ -38,7 +38,7 @@ comments: false
 Over the next year I'll be completing this list of Oslola's 100 boroughs, and linking them to images and posts produced in the project. Oslola's five Crown Boroughs (once included) will be highlighted in bold.
 {{</hint>}}
 
-An Oslolan [borough](/factbook/vekllei/#administrative-divisions) is an unusual administrative designation, portioned originally by a set of vague criteria that includes size, history, its unique geography, culture, and its spiritual value. Population was evidently not a concern, and boroughs have great disparity in human settlement. Each borough takes the name of its largest city. You can see a partial list of them, arranged by region and alphabetically, below.
+An Oslolan [borough](/vekllei/#administrative-divisions) is an unusual administrative designation, portioned originally by a set of vague criteria that includes size, history, its unique geography, culture, and its spiritual value. Population was evidently not a concern, and boroughs have great disparity in human settlement. Each borough takes the name of its largest city. You can see a partial list of them, arranged by region and alphabetically, below.
 
 {{< details title="Afouismeh Region" open=true >}}
 - <span class="navicon">❄️</span>Adouisneh

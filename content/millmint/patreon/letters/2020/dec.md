@@ -24,7 +24,7 @@ Hello beloved patrons,
 
 This is your monthly update for the Petticoat Project.
 
-There’s a **[new post up on the subreddit](https://www.reddit.com/r/vekllei/comments/khl6um/full_heart/)** and a **[new article up on the website](https://millmint.net/factbook/vekllei/)** — a big one, about Vekllei, although it’s missing a history and culture section. Those are coming soon.
+There’s a **[new post up on the subreddit](https://www.reddit.com/r/vekllei/comments/khl6um/full_heart/)** and a **[new article up on the website](https://millmint.net/vekllei/)** — a big one, about Vekllei, although it’s missing a history and culture section. Those are coming soon.
 
 **I won’t be mucking around on the website forever** — trust me, I have no intention of abandoning my traditional post format for dry wiki articles — but it makes good infrastructure, and good infrastructure allows for growth and it also helps support new projects, like the comic. The website and its articles will launch over the New Year.
 

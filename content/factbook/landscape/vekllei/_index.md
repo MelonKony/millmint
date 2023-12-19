@@ -5,10 +5,7 @@ icon: 🌹
 logo: /svg/flags/4x3/com.svg
 color: pink
 
-tags:
-  - states
-categories:
-  - commonwealth
+image: /images/fullres/airship.jpg
 
 type: blank
 
@@ -239,7 +236,7 @@ The Commonwealth has major financial hubs in Bermuda, the Bahamas and the Azores
 
 Vekllei has a large industrial capacity and produces vehicles, machine tools, steel and nonferrous metals, ships, chemicals, textiles, and processed foods. It has the 12th-highest manufacturing output in the world.
 
-Parts of Vekllei are highly industrialised,[^industrialised] and the country has modernised its economy since independence through labour-saving automations, centralisation and new technologies like [robotics](/computers/). Very few Vekllei people work in traditional factory labour, since it is impractical in the [commons](/factbook/vekllei/#economy), and so most production and assembly occurs in automated factories known as [*lots*](/bulletin/lots/).
+Parts of Vekllei are highly industrialised,[^industrialised] and the country has modernised its economy since independence through labour-saving automations, centralisation and new technologies like [robotics](/computers/). Very few Vekllei people work in traditional factory labour, since it is impractical in the [commons](/vekllei/#economy), and so most production and assembly occurs in automated factories known as [*lots*](/bulletin/lots/).
 
 Major industries in Vekllei leverage the creative productivity of its enthusiastic and well-educated population, and leads markets in financial services, design, banking, electronics, telecommunications and research. Its historic reputation as a reliable and efficient entrepôt and geographic diversity means Vekllei is a major hub of trade and is well-connected to the rest of the world.
 

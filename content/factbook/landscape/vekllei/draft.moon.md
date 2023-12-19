@@ -17,7 +17,7 @@ author: Hobart Phillips
 
 ---
 {{< hint green >}}
-߷ This article is about a [**dependent territory**](/factbook/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/factbook/vekllei)
+߷ This article is about a [**dependent territory**](/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/factbook/vekllei)
 {{</hint>}}
 
 ## Overview

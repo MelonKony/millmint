@@ -16,7 +16,7 @@ author: Hobart Phillips
 ߷ Part of the *[culture](/culture/)* series of articles
 {{</hint>}}
 
-The **Civic Commons** is the national identity promoted by the [Commonwealth government](/factbook/vekllei/#government) to foster commonhoods across its diverse cultural and ethnic groups. It is a constructed identity based around core values on which the country is founded.
+The **Civic Commons** is the national identity promoted by the [Commonwealth government](/vekllei/#government) to foster commonhoods across its diverse cultural and ethnic groups. It is a constructed identity based around core values on which the country is founded.
 
 {{<hint panel>}}
 **The Civic Commonhoods**
