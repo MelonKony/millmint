@@ -1,15 +1,13 @@
 ---
-aliases: ["posts", "articles", "showcase", "docs", "stories"]
-
-title: "Stories"
+title: Stories
 description: Stories of life and living in the country of Vekllei.
 
 type: stories
 layout: stories
-
 color: millmint
 
-tags: ["index"]
+aliases:
+- /posts/
 ---
 
 <style>

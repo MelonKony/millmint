@@ -1,47 +1,44 @@
-// millmint.net autonumbering headers
-// TODO: clean
-
 body {
-	counter-reset: h2
+	counter-reset: h2;
 }
 
 h2 {
-	counter-reset: h3
+	counter-reset: h3;
 }
 
 h3 {
-	counter-reset: h4
+	counter-reset: h4;
 }
 
 h4 {
-	counter-reset: h5
+	counter-reset: h5;
 }
 
 article[autonumbering] h2:before {
 	counter-increment: h2;
-	content: counter(h2) ". "
+	content: counter(h2) ". ";
 }
 
 article[autonumbering] h3:before {
 	counter-increment: h3;
-	content: counter(h2) "." counter(h3) ". "
+	content: counter(h2) "." counter(h3) ". ";
 }
 
 article[autonumbering] h4:before {
 	counter-increment: h4;
-	content: counter(h2) "." counter(h3) "." counter(h4) ". "
+	content: counter(h2) "." counter(h3) "." counter(h4) ". ";
 }
 
 article[autonumbering] h5:before {
 	counter-increment: h5;
-	content: counter(h2) "." counter(h3) "." counter(h4) "." counter(h5) ". "
+	content: counter(h2) "." counter(h3) "." counter(h4) "." counter(h5) ". ";
 }
 
 article[autonumbering] .collapsible-menu ul {
-	counter-reset: item
+	counter-reset: item;
 }
 
 article[autonumbering] .collapsible-menu li a:before {
 	content: counters(item, ".") ". ";
-	counter-increment: item
+	counter-increment: item;
 }

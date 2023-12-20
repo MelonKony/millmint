@@ -5,11 +5,6 @@ icon: 🪺
 emoji: v
 color: brown
 
-tags:
-  - about
-categories:
-  - news
-
 image: /images/intro.gif
 
 aliases:

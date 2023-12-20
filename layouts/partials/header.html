@@ -1,10 +1,10 @@
 <header>
     <div class="brand">
-        <a class="brand-title" href="{{ .Site.Home.RelPermalink }}">
+        <a class="name" href="{{ .Site.Home.RelPermalink }}">
             {{- with (.Scratch.Get "params").navbar_title }} {{- . | safeHTML -}}
             {{- end -}}
         </a>
-        <a class="brand-emoji" id="whirlybat" href="{{ .Site.Home.RelPermalink }}">-millmint</a>
+        <a class="emoji" id="whirlybat" href="{{ .Site.Home.RelPermalink }}">-millmint</a>
     </div>
 
     {{ if and (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") (.Scratch.Get "params").enable_toc }}
@@ -14,8 +14,8 @@
     {{ end }}
 
     <button id="theme-button" class="navbutton">
-        <span id="dark_mode_btn" class="navicon hidden toolbox-btn">💡</span>
-        <span id="light_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+        <span id="dark_mode_btn" class="navicon hidden button">💡</span>
+        <span id="light_mode_btn" class="navicon hidden button">💡</span>
     </button>
 
     {{ if (.Scratch.Get "params").enable_site_search }}

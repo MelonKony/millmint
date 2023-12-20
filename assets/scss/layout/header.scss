@@ -18,50 +18,26 @@ header {
 	align-items: center;
 	min-width: 8rem;
 	grid-area: brand;
-}
 
-.brand-title {
-	@include text-2xl;
-	@include font-bold;
-	@include radius-medium;
-	color: var(--body-background);
-	vertical-align: middle;
-	padding: 2px 6px 2px 6px;
-	background-color: var(--color-gray);
-}
+	.name {
+		@include text-2xl;
+		@include font-bold;
+		@include radius-medium;
+		color: var(--body-background);
+		vertical-align: middle;
+		padding: 2px 6px 2px 6px;
+		background-color: var(--color-gray);
+		&:hover {
+			box-shadow: inset 0 0 0 2px var(--logo-color, var(--color-gray));
+			color: var(--logo-color, var(--color-gray));
+			background-color: transparent;
+			text-decoration: none;
+		}
+	}
 
-.brand-emoji {
-	// disable brand emoji
-	display: none;
-
-	font-family: 'Whirlybats';
-	font-size: 30px !important;
-	font-weight: normal;
-	font-style: normal;
-	font-feature-settings: 'liga';
-	letter-spacing: -26px;
-	white-space: nowrap;
-	word-wrap: normal;
-	direction: ltr;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-	text-rendering: optimizeLegibility;
-	box-sizing: border-box;
-	filter: brightness(100%) !important;
-	vertical-align: middle;
-	color: var(--logo-color, var(--color-gray));
-}
-
-.brand-title:hover, brand-emoji:hover {
-	box-shadow: inset 0 0 0 2px var(--logo-color, var(--color-gray));
-	color: var(--logo-color, var(--color-gray));
-	background-color: var(--body-background);
-	text-decoration: none;
-}
-
-@keyframes slidebg {
-	to {
-		background-position: 20vw;
+	.emoji {
+		// currently unused; use whirlybats CSS to enable
+		display: none;
 	}
 }
 
@@ -70,7 +46,7 @@ header {
 	align-items: center;
 	column-gap: 0.5rem;
 
-	.toolbox-btn {
+	.button {
 		display: flex;
 		cursor: pointer;
 

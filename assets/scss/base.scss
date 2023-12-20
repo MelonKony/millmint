@@ -1,13 +1,9 @@
-// millmint.net HTML styles
-// TODO: clean
-
 html {
+  @include font-color;
   overflow-y: scroll;
-}
-
-html, button, input, select, textarea,
-.pure-g [class *="pure-u"] {
   font-family: system-ui, -apple-system, segoe ui, Roboto, Helvetica, Arial, sans-serif, 'Emoji', apple color emoji, segoe ui emoji;
+  font-size: 16px;
+  line-height: 1.67059;
 }
 
 body {
@@ -58,11 +54,11 @@ figure {
 }
 
 sub, sup {
-    @include text-sm;
-    @include radius-base;
-    top: -0.5em;
-    background-color: var(--hint-bg);
-    padding: 1px 4px;
+  @include text-sm;
+  @include radius-base;
+  top: -0.5em;
+  background-color: var(--hint-bg);
+  padding: 1px 4px;
 }
 
 input {
@@ -115,8 +111,6 @@ hr {
   @include highlight;
 }
 
-/* DETAILS */
-
 details {
   @include my-2;
   @include radius-base;
@@ -143,7 +137,6 @@ details {
   background-color: transparent;
 }
 
-// Re-theming the navbar
 #navbar a {
   @include highlight;
 }
@@ -169,6 +162,7 @@ input {
 a {
   @include highlight;
   white-space: nowrap;
+  text-decoration: none;
 
   &:hover {
     text-decoration: underline;
@@ -176,7 +170,6 @@ a {
   }
 }
 
-/* BUTTONS */
 button {
   background: none;
   display: inline-block;
@@ -199,16 +192,11 @@ button {
   }
 }
 
-
-/* SELECTION */
-
 ::selection {
   background: var(--color-gray);
   color: var(--hint-bg);
   filter: none;
 }
-
-/* TITLES */
 
 h1,
 h2,
@@ -229,16 +217,10 @@ h2 {
   @include text-2xl;
 }
 
-h3 {
-  @include text-xl;
-}
-
-h4 {
-  @include text-lg;
-}
-
+h3,
+h4,
 h5 {
-  @include text-lg;
+  @include text-xl;
 }
 
 h6 {
@@ -249,8 +231,6 @@ h6 {
   filter: brightness(50%);
   backdrop-filter: brightness(50%);
 }
-
-/* PAGE WIDTHS */
 
 @media screen and (min-width: $sm_min_width) {
   main {
@@ -282,11 +262,10 @@ h6 {
   }
 }
 
-// Table
-
 table {
   border-collapse: collapse;
   width: 100%;
+
   tr {
     border: none;
   }

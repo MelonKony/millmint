@@ -1,22 +1,21 @@
 <footer>
-
   <!-- stories-specific footer -->
   {{ if in .Params.categories "story" }}
-  {{ partial "stories/story-footer.html" . }}
+  {{ partial "components/stories/story-footer.html" . }}
   {{ end }}
   {{ if in .Params.categories "blog" }}
-  {{ partial "stories/story-footer.html" . }}
+  {{ partial "components/stories/story-footer.html" . }}
   {{ end }}
   {{ if in .Params.categories "sketch" }}
-  {{ partial "stories/story-footer.html" . }}
+  {{ partial "components/stories/story-footer.html" . }}
   {{ end }}
   {{ if in .Params.categories "comic" }}
-  {{ partial "stories/story-footer.html" . }}
+  {{ partial "components/stories/story-footer.html" . }}
   {{ end }}
 
   {{ partial "components/breadcrumbs.html" . }}
 
-  {{ partial "articles/credit.html" . }}
+  {{ partial "components/articles/credit.html" . }}
 
   <div class="footer">
     <span class="smalldate">Edited {{ .Lastmod.Format "02/01/2006" }}</span>
@@ -41,5 +40,4 @@
     Copyright © 2017-2023 Studio MillMint
   </div>
   {{ end }}
-
 </footer>
