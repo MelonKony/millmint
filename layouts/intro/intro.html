@@ -50,21 +50,31 @@
       width: 100vw;
       margin-left: calc((100% - 100vw) / 2);
   }
-  .volcanic-nav {
-  position: absolute;
-  outline: 15px solid var(--body-background);
-  background: var(--body-background);
-  border-radius: .075rem;
-  margin-top: 2.5rem;
-  box-sizing: border-box;
-  width: calc(100% - 3rem);
-  /* Full width minus 2 times 1.5rem padding */
-  z-index: 1;
-  left: 50%;
-  /* Center the element horizontally */
-  transform: translateX(-50%);
-  /* Adjust for half of the element's width */
-  }
+ .volcanic-parallax {
+   background: transparent;
+   margin-top: 0;
+   margin-bottom: 0;
+   padding-top: 0;
+   padding-bottom: 0;
+   box-sizing: inherit;
+   position: relative;
+
+   .volcanic-nav {
+   position: absolute;
+   outline: 15px solid var(--body-background);
+   background: var(--body-background);
+   border-radius: .075rem;
+   margin-top: 2.5rem;
+   box-sizing: border-box;
+   width: calc(100% - 3rem);
+   /* Full width minus 2 times 1.5rem padding */
+   z-index: 1;
+   left: 50%;
+   /* Center the element horizontally */
+   transform: translateX(-50%);
+   /* Adjust for half of the element's width */
+   }
+ }
 </style>
 
 </html>
