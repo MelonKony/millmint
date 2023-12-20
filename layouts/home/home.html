@@ -61,3 +61,225 @@
   {{- partial "resources/js.html" . -}}
   {{- partial "script.html" . -}}
 </body>
+
+<style>
+  /* .:. created by Ben_R_R .:. tolkienfan72@gmail.com .:. */
+
+  /* This code resets the body's margin, and defines a class that we can use to force elements to extend outside the margins of the body*/
+  body{
+    padding: 0px;
+    margin: var(--body-margin);
+  }
+
+  body > .edge-to-edge{
+
+    width: calc(100% + 2* var(--body-margin));
+    margin-left: calc(-1 * var(--body-margin));
+
+  }
+
+  body > .hug-top{
+    margin-top: calc(-1 * var(--body-margin));
+  }
+
+  #HeaderCanvas{
+    height: 100vh;
+    width: 100%;
+  }
+
+
+  #FallingCanvas{
+
+    height: 900px;
+    width: 100%;
+    max-width: 600px;
+    float: left;
+    margin: 8px;
+  }
+
+  #FallingCanvas2{
+
+    height: 900px;
+    width: 100%;
+    max-width: 600px;
+    float: right;
+    margin: 8px;
+  }
+
+  #FallingCanvas3{
+
+    height: 1500px;
+    width: 100%;
+  }
+
+  #animation-images{
+    display: none;
+  }
+
+  /* This css lets you set aspect ratios on dom elements.
+  See: https://css-tricks.com/aspect-ratio-boxes/
+  */
+  [style*="--aspect-ratio"] > :first-child {
+    width: 100%;
+  }
+  [style*="--aspect-ratio"] > img {
+    height: auto;
+  }
+
+  @supports (--custom:property) {
+    [style*="--aspect-ratio"] {
+      position: relative;
+    }
+    [style*="--aspect-ratio"]::before {
+      content: "";
+      display: block;
+      padding-bottom: calc(100% / (var(--aspect-ratio)));
+    }
+    [style*="--aspect-ratio"] > :first-child {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+    }
+  }
+
+  /* CUSTOM CSS */
+
+  body {
+    background-color: rgba(178, 192, 111, 1);
+    color: rgba(98, 136, 43, 1);
+  }
+
+  /* Default styles for H1 */
+  h1 {
+    font-size: 4.5rem;
+    line-height: 4rem;
+    word-wrap: break-word;
+    color: rgba(63, 96, 17, 1)
+  }
+
+  /* Media query for larger screens */
+  @media screen and (min-width: 1200px) {
+    h1 {
+    font-size: 3.5rem;
+    /* Adjust font size for larger screens */
+    line-height: 3.5rem;
+    }
+  }
+
+  /* Media query for smaller screens */
+  @media screen and (max-width: 600px) {
+    h1 {
+    font-size: 2.5rem;
+    /* Adjust font size for smaller screens */
+    line-height: 2.5rem;
+    }
+  }
+
+
+  h2 {
+    font-size: 2rem;
+    line-height: 2rem;
+    word-wrap: break-word;
+    margin-bottom: 2rem;
+  }
+
+  ::selection {
+    background: color: rgba(98, 136, 43, 1);
+    color: var(--hint-bg);
+    filter: none;
+  }
+
+  p {
+    color: rgba(63, 96, 17, 1)
+  }
+
+  article {
+    margin: 0 1rem;
+  }
+
+  .content a {
+      color: rgba(35, 56, 6, 1);
+  }
+
+  .breadcrumbs {
+    display: none;
+  }
+
+  #notice {
+    margin: 1rem;
+  }
+
+  #HeaderCanvas {
+    top: 0;
+    left: 0;
+    padding: 0;
+    z-index: -1;
+    height: 100vh;
+    width: 100vw;
+    margin-left: calc((100% - 100vw) / 2);
+  }
+
+  .home-parallax {
+    background: transparent;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    box-sizing: inherit;
+    position: relative;
+
+    .home-nav {
+    position: absolute;
+    outline: 15px solid var(--body-background);
+    background: var(--body-background);
+    border-radius: .075rem;
+    margin-top: 2.5rem;
+    box-sizing: border-box;
+    width: calc(100% - 3rem);
+    /* Full width minus 2 times 1.5rem padding */
+    z-index: 1;
+    left: 50%;
+    /* Center the element horizontally */
+    transform: translateX(-50%);
+    /* Adjust for half of the element's width */
+    }
+  }
+
+  .home-main {
+    background: transparent;
+
+    .home-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(6.25rem, 1fr));
+    gap: 0.5rem;
+    }
+
+    .book {
+    border: 3px solid rgba(98, 136, 43, 1);
+    background: transparent;
+    padding: .5rem;
+    font-weight: 500;
+    text-align: center;
+    border-radius: .25rem;
+    color: rgb(63, 96, 17);
+
+    .navicon {
+      font-size: 4.5rem;
+    }
+    }
+
+    .book:hover {
+    --tw-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+    transform: translate(0, -2.5px);
+    text-decoration: none;
+    }
+  }
+
+  header.info,
+  footer {
+    display: none;
+  }
+
+</style>
