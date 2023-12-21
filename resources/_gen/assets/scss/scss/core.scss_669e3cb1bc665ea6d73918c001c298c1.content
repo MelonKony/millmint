@@ -417,43 +417,6 @@ h1 a.anchor, h2 a.anchor, h3 a.anchor, h4 a.anchor, h5 a.anchor, h6 a.anchor {
 .page a {
   color: var(--highlight); }
 
-.section {
-  border-radius: .25rem;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  background-color: var(--hint-background);
-  opacity: .85;
-  border-inline-start: none;
-  line-height: 1.5;
-  letter-spacing: -.01em;
-  border-radius: 5px;
-  padding: 1rem;
-  font-style: normal; }
-  .section blockquote {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    border-radius: .25rem;
-    padding: .5rem 1rem .5rem .75rem;
-    border-inline-start: none; }
-  .section h1, .section h2, .section h3, .section h4, .section h5, .section h6 {
-    margin-top: .5rem; }
-  .section .outline {
-    border-radius: .25rem;
-    padding: 0.5em 1em 0em 1em;
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    margin-top: 1.5em;
-    border-left-width: 2.5px;
-    display: block; }
-    .section .outline li strong {
-      font-weight: 600; }
-  .section .box {
-    border-radius: .25rem;
-    background-color: var(--body-background);
-    border: 1px solid var(--color-gray);
-    line-height: 1.5;
-    padding: 1rem;
-    margin: -1rem; }
-
 .tabs {
   padding-left: 1rem;
   padding-right: 1rem;
@@ -1540,7 +1503,9 @@ nav {
   /* Center the element horizontally */
   transform: translateX(-50%);
   /* Adjust for half of the element's width */ }
-
+  @media only screen and (max-width: 500px) {
+    .floating-nav {
+      margin-top: 24px; } }
 .term-item {
   color: var(--color-text);
   border-bottom: 2px solid var(--color-border);

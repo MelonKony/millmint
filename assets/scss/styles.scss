@@ -27,55 +27,6 @@ h1, h2, h3, h4, h5, h6 {
 	}
 }
 
-// section panel
-.section {
-	@include radius-base;
-	@include my-4;
-	background-color: var(--hint-background);
-	opacity: .85;
-	border-inline-start: none;
-	line-height: 1.5;
-	letter-spacing: -.01em;
-	border-radius: 5px;
-	padding: 1rem;
-	font-style: normal;
-
-	blockquote {
-		@include my-4;
-		@include radius-base;
-		padding: .5rem 1rem .5rem .75rem;
-		border-inline-start: none;
-	}
-
-	h1, h2, h3, h4, h5, h6 {
-		margin-top: .5rem;
-	}
-
-	// outline sub-panel
-	.outline {
-		@include radius-base;
-		padding: 0.5em 1em 0em 1em;
-		border: 1px solid rgba(0, 0, 0, 0.1);
-		margin-top: 1.5em;
-		border-left-width: 2.5px;
-		display: block;
-
-		li strong {
-			@include font-semibold;
-		}
-	}
-
-	// box sub-panel
-	.box {
-		@include radius-base;
-		@include body-background-color;
-		border: 1px solid var(--color-gray);
-		line-height: 1.5;
-		padding: 1rem;
-		margin: -1rem;
-	}
-}
-
 // tabs
 .tabs {
 	@include px-4;

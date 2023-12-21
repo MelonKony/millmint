@@ -262,4 +262,8 @@ nav {
   /* Center the element horizontally */
   transform: translateX(-50%);
   /* Adjust for half of the element's width */
+
+  @media only screen and (max-width: 500px) {
+    margin-top: 24px;
+  }
 }
