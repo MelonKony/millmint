@@ -4,9 +4,9 @@ fulltitle: Armed Forces of the Atlantic Crown
 icon: 🗡
 emoji: Ζ
 color: purple
-image: 
+image:
 
-tags: 
+tags:
   - palace
 categories:
   - society

@@ -10,6 +10,9 @@ rgb: 117, 135, 218
 draft: false
 toc: false
 
+categories:
+- bulletin
+
 aliases:
 - /bulletin/consensus
 ---

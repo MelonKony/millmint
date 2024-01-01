@@ -10,6 +10,9 @@ rgb: 184, 84, 168
 draft: false
 toc: false
 
+categories:
+- bulletin
+
 aliases:
 - /bulletin/airline-travel
 ---

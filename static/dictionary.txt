@@ -85,6 +85,11 @@ Pisca: Derogatory term for homosexuals.
 /// Names
 Tipet: Volcanic spirit and goddess of lava.
 
+/// Blood Names
+lo Ula de Helette: Oslolan ceremonial <i>blood name</i> meaning "from Ula in service of Helette," similar to a Christian or middle name.
+lo Ro de Viviya: Oslolan ceremonial <i>blood name</i> meaning "from Ro in service of Viviya," similar to a Christian or middle name.
+lo Ula de Tiria: Oslolan ceremonial <i>blood name</i> meaning "from Ula in service of Tiria," similar to a Christian or middle name.
+
 /// Society
 
 Civici: Volunteer enlisted person, usually in the army but may also be used generally in public service.

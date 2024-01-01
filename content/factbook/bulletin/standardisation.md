@@ -10,6 +10,9 @@ rgb: 236, 92, 27
 draft: false
 toc: false
 
+categories:
+- bulletin
+
 aliases:
 - /bulletin/standardisation
 ---

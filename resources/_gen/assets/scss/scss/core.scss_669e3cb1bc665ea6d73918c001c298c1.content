@@ -439,7 +439,7 @@ h1 a.anchor, h2 a.anchor, h3 a.anchor, h4 a.anchor, h5 a.anchor, h6 a.anchor {
   .tabs .tabs-content {
     padding: .5rem;
     order: 999;
-    border-top: 1px solid var(--gray-light);
+    border-top: 1px solid var(--highlight-background);
     display: none; }
   .tabs input[type="radio"] {
     display: none; }
@@ -1491,7 +1491,7 @@ nav {
 /* floating nav */
 .floating-nav {
   position: absolute;
-  outline: 15px solid var(--body-background);
+  box-shadow: 0 0 0 15px var(--body-background);
   background: var(--body-background);
   border-radius: .075rem;
   margin-top: 2.5rem;
@@ -3032,6 +3032,9 @@ ol.timeline .event {
 
 .fi-min-atlantic-store.fis {
   background-image: url(../svg/logos/atlantic-store.svg); }
+
+.fi-min-atlantis.fis {
+  background-image: url(../svg/logos/atlantis.svg); }
 
 .fi-min-air.fis {
   background-image: url(../svg/logos/air.svg); }

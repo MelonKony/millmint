@@ -10,6 +10,9 @@ rgb: 238, 72, 155
 draft: false
 toc: false
 
+categories:
+- bulletin
+
 aliases:
 - /bulletin/government-ownership
 ---

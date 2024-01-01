@@ -250,7 +250,7 @@ nav {
 
 .floating-nav {
   position: absolute;
-  outline: 15px solid var(--body-background);
+  box-shadow: 0 0 0 15px var(--body-background);
   background: var(--body-background);
   border-radius: .075rem;
   margin-top: 2.5rem;

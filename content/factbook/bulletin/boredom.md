@@ -8,6 +8,9 @@ rgb: 161, 195, 71
 draft: true
 toc: false
 
+categories:
+- bulletin
+
 aliases:
 - /bulletin/boredom
 ---

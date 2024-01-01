@@ -7,6 +7,9 @@ rgb: 203, 108, 164
 
 toc: false
 
+categories:
+- bulletin
+
 aliases:
 - /bulletin/bankruptcy
 ---
