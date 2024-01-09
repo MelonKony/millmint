@@ -34,7 +34,7 @@ You can follow my progress on this project on [Twitter](https://twitter.com/Melo
 
 You can **write to me** at <span class="smallicon">📧</span> hobart@millmint.net.
 
-Visited: 🇦🇺🇯🇵🇿🇦🇭🇰🇮🇸🇨🇦🇲🇪🇷🇺🇫🇮🇸🇪🇮🇹🇫🇷🇩🇪🇬🇧🇭🇷🇹🇭🇺🇸🇸🇬🇲🇨
+Visited: 🇦🇺🇯🇵🇿🇦🇭🇰🇮🇸🇨🇦🇲🇪🇷🇺🇫🇮🇸🇪🇮🇹🇫🇷🇩🇪🇬🇧🇭🇷🇹🇭🇺🇸🇸🇬🇲🇨🇬🇷
 
 {{<hint>}}
 Sincere thanks to [Jip](https://jipfr.nl) and Ben R. R. for their contributions to this site. They volunteered their time again and again to help create new features that make Vekllei easier and more fun to read. Thank you!

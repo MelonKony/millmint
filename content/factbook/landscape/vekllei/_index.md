@@ -79,7 +79,7 @@ The Commonwealth is foremostly a union of Atlantic and Caribbean islands which, 
 
 Vekllei is a constitutional, federated country including [six individual commonwealths](/constituents/) which share political features established by the [Council of Roses](/rose-council/).
 
-It has a unique kind of federalism, with republics and territories orbiting central Commonwealth control at different distances. A common means of petitioning membership, or "acceding" to the Commonwealth is via its international organisation called the [<span class="fi fi-oceans"></span> Council of Oceans](/oceans-council/).
+It has a unique kind of federalism, with republics and territories orbiting central Commonwealth control at different distances. A common means of petitioning membership, or "acceding" to the Commonwealth is via its international organisation called the {{<link/oceans-community>}}.
 
 Although regionally and culturally diverse, Commonwealth government is centralised and the state functions as a single country. These republics have large degrees of autonomy, but are unilaterally governed by the central Commonwealth government as an intact state.
 
@@ -87,61 +87,100 @@ Although regionally and culturally diverse, Commonwealth government is centralis
 
 ### Territories
 
-{{< details title="List of Commonwealth Republics" open=false >}}
-**Vekllei Federal Territories**
+{{<hint>}}
+✿ Main article: *[Vekllei World Map](/map/)*
+{{</hint>}}
 
-* Vekllei Antarctic Territories
-* Vekllei Lunar Territories
+{{< details title="List of Vekllei Republics" open=true >}}
+* **Federal Territories**
+  * Meteor Federal Territory
+  * Vekllei Antarctic Territories
+  * Vekllei Lunar Territories
+  * Vekllei Mars Community
 
-**Dependent States & Territories**
+* **Antarctic Commonwealth**
+  * Ascension Republic (*Ascension*)
+  * Falklands Republic (*Falklands*)
+  * Helena Republic (*Saint Helena*)
+  * Santes Republic (*Tristan da Cunha*)
+  * Sude Republic (*South Georgia & South Sandwich Islands*)
 
-* Aismious Islands (*Faroe Islands*)
-* Caimanas (*Cayman Islands*)
-* Demon Islands (*Jan Mayen*)
-* Helvasia (*Svalbard*)
-* Sude Islands (*South Georgia & Sandwich Islands*)
-* Falklands Islands (*Falklands Islands*)
-* Helena (*St Helena*)
-* Ascension (*Ascension Islands*)
-* Santes (*Tristan de Cunha*)
-* Summers (*Bermuda*)
+* **Antilles Commonwealth**
+  * Aruba Republic (*Aruba*)
+  * Bonaire Republic (*Bonaire*)
+  * Caimanas Republic (*Caimanas*)
+  * Curaçao Republic (*Curacao*)
 
-**Constituent Member-States**
+* **Arctic Commonwealth**
+  * Kala Republic (*Greenland*)
 
-* Antilles Commonwealth
-    * Aruba Republic (*Aruba*)
-    * Bonaire Republic (*Bonaire*)
-    * Curaçao Republic (*Curaçao*)
-* Azores Commonwealth (*Azores*)
-* Bahamas Commonwealth (*Bahamas*)
-* Kala Commonwealth (*Greenland*)
-* Kalina Commonwealth
-    * Allia Republic (*Montserrat*)
-    * Aloi Republic (*Sint Eustatius*)
-    * Anguis Republic (*Anguilla*)
-    * Antam Republic (*Antigua*)
-    * Barbuda Republic (*Barbuda*)
-    * Barbados Republic (*Barbados*)
-    * Cama Republic (*Grenada*)
-    * Kabuli Republic (*Dominica*)
-    * Kairi Republic (*Trinidad & Tobago*)
-    * Karu Republic (*Guadeloupe*)
-    * Madiana Republic (*Martinique*)
-    * Liamuiga Republic (*St Kitts*)
-    * Lucia Republic (*St Lucia*)
-    * Oualie Republic (*Nevis*)
-    * Ouanalao Republic (*St Barthélemy*)
-    * Soualiga Republic (*St Martin Island*)
-    * Saba Republic (*Saba*)
-    * Virgin Republic (*British and US Virgin Islands*)
-    * Youloumain Republic (*Saint Vincent and the Grenadines*)
-* Mira Commonwealth (*Madeira*)
-* Oslola Commonwealth (*Iceland*)
-* Principe Commonwealth
-  * Principe (*São Tomé and Príncipe*)
-  * Annobón
-* Verde Commonwealth (*Cabo Verde*)
-{{< /details >}}
+* **Atlantic Commonwealth**
+  * Fayal Republic (*Faial Island*)
+  * Flores Republic (*Flores Island*)
+  * Graciosa Republic (*Graciosa Island*)
+  * Maria Republic (*Santa Maria Island*)
+  * Mira Republic (*Madeira*)
+  * Pico Republic (*Pico Island*)
+  * Porto Santo Republic (*Porto Santo*)
+  * Terceira Republic (*Terceira Island*)
+  * Velas Republic (*Sao Jorge Island*)
+  * Verde Republic (*Sao Miguel Island*)
+
+* **Bahamas Commonwealth**
+  * Caicos Republic (*Turks & Caicos*)
+  * Cigateo Republic (*Eleuthera*)
+  * Curateo Republic (*Great Exuma*)
+  * Grand Bahama Republic (*Grand Bahama*)
+  * Guanima Republic (*Cat Island*)
+  * Habacoa Republic (*Andros Islands*)
+  * Inagua Republic (*Great Inagua*)
+  * Lucayoneque Republic (*Abaco Islands*)
+  * Mayaguana Republic (*Mayaguana*)
+  * Nema Republic (*New Providence*)
+  * Rum Republic (*San Salvador & Rum Cay*)
+  * Summers Republic (*Bermuda*)
+  * Yabaque Republic (*Acklins*)
+  * Yuma Republic (*Long Island*)
+
+* **Kalina Commonwealth**
+  * Allia Republic (*Montserrat*)
+  * Aloi Republic (*St Eustatius*)
+  * Anguis Republic (*Anguilla*)
+  * Antam Republic (*Antigua*)
+  * Barbados Republic (*Barbados*)
+  * Barbuda Republic (*Barbuda*)
+  * Cama Republic (*Grenada*)
+  * Karu Republic (*Guadeloupe*)
+  * Kabuli Republic (*Dominica*)
+  * Kairi Republic (*Trinidad & Tobago*)
+  * Liamuiga Republic (*St Kitts*)
+  * Lucia Republic (*Saint Lucia*)
+  * Madiana Republic (*Martinique*)
+  * Oualie Republic (*Navis*)
+  * Ouanalao Republic (*Saint Barthelemy*)
+  * Saba Republic (*Saba*)
+  * Soualiga Republic (*Saint Martin/Sint Maartin*)
+  * Virgin Republic (*British/U.S. Virgin Islands*)
+  * Youloumain Republic (*Saint Vincent & The Grenadines*)
+
+* **Oslolan Commonwealth**
+  * Aismious Republic (*Faroe*)
+  * Demon Republic (*Jan Mayen*)
+  * Helvasia Republic (*Svalbard*)
+  * Oslolan Republic (*Iceland*)
+
+* **Verde Commonwealth**
+  * Boa Vista Republic (*Boa Vista*)
+  * Brava Republic (*Brava*)
+  * Covoada Republic (*Sao Nicolau*)
+  * Fogo Republic (*Fogo*)
+  * Maio Republic (*Maio*)
+  * Moroços Republic (*Santo Antao*)
+  * Praia Republic (*Santiago*)
+  * Principe Republic (*Sao Tome & Principe*)
+  * Sal Republic (*Sal*)
+  * Viana Republic (*Sao Vicente*)
+{{</details>}}
 
 ![Map of Vekllei territories across the Atlantic](/svg/maps/territory.svg "Map of Vekllei, including its Commonwealths, Federal Departments and Territories.")
 

@@ -157,7 +157,7 @@ span.tag {
 	@include font-bold;
 	@include radius-base;
 	line-height: .8rem!important;
-	padding: 0.25rem;
+	padding: 0.1rem 0.25rem;
 	list-style: none;
 	width: fit-content;
 	background-color: var(--color-gray);

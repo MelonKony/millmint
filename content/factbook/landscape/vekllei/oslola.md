@@ -2,7 +2,7 @@
 title: Oslola
 fulltitle: Oslola
 icon: 🌋
-logo: /svg/flags/4x3/oslola.svg
+logo: /svg/flags/oslola.svg
 
 rgb: 38, 48, 132
 
@@ -12,7 +12,7 @@ aliases:
 - /oslola/
 ---
 {{< hint green >}}
-߷ Part of the *[territories](/territories/)* series of articles
+߷ Oslola is an island commonwealth of {{<link/vekllei>}}
 {{</hint>}}
 
 ## Overview
@@ -22,8 +22,6 @@ The **Island Commonwealth of Oslola** is an island republic in the North Atlanti
 This article is under construction. Please check back soon.
 
 ## History
-
-Oslola has seen
 
 ### Geography & Climate
 

@@ -13,7 +13,7 @@ categories:
 aliases:
   - /crown/
 
-draft: true
+draft: false
 
 type: blank
 

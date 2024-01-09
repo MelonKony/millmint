@@ -39,6 +39,15 @@
   background-image: url(../svg/flags/1x1/summers.svg);
 }
 
+/// Caimanas Flag
+
+.fi-caimanas {
+  background-image: url(../svg/flags/4x3/caimanas.svg);
+}
+.fi-caimanas.fis {
+  background-image: url(../svg/flags/1x1/caimanas.svg);
+}
+
 /// Oslola Flag
 .fi-oslola {
   background-image: url(../svg/flags/4x3/oslola.svg);
@@ -87,6 +96,10 @@
 
 .fi-min-gov.fis {
   background-image: url(../svg/logos/vekllei.svg);
+}
+
+.fi-min-military.fis {
+  background-image: url(../svg/crests/military.svg);
 }
 
 /// Ministries
@@ -152,8 +165,16 @@
   background-image: url(../svg/logos/atlantic-store.svg);
 }
 
+.fi-min-cateral.fis {
+  background-image: url(../svg/logos/cateral.svg);
+}
+
 .fi-min-atlantis.fis {
   background-image: url(../svg/logos/atlantis.svg);
+}
+
+.fi-min-national-machines.fis {
+  background-image: url(../svg/logos/national-machines.svg);
 }
 
 .fi-min-air.fis {

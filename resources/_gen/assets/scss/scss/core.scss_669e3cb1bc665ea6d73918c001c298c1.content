@@ -521,7 +521,7 @@ span.tag {
   font-weight: 700;
   border-radius: .25rem;
   line-height: 0.8rem !important;
-  padding: 0.25rem;
+  padding: 0.1rem 0.25rem;
   list-style: none;
   width: fit-content;
   background-color: var(--color-gray);
@@ -715,6 +715,8 @@ details {
   details div {
     padding-left: 1.5rem;
     padding-right: 1.5rem; }
+  details .markdown-inner h1, details .markdown-inner h2, details .markdown-inner h3, details .markdown-inner h4, details .markdown-inner h5, details .markdown-inner h6 {
+    margin-top: 2rem !important; }
 
 .collapsible-menu-wrapper details {
   background-color: transparent; }
@@ -2955,6 +2957,12 @@ ol.timeline .event {
 .fi-summers.fis {
   background-image: url(../svg/flags/1x1/summers.svg); }
 
+.fi-caimanas {
+  background-image: url(../svg/flags/4x3/caimanas.svg); }
+
+.fi-caimanas.fis {
+  background-image: url(../svg/flags/1x1/caimanas.svg); }
+
 .fi-oslola {
   background-image: url(../svg/flags/4x3/oslola.svg); }
 
@@ -2987,6 +2995,9 @@ ol.timeline .event {
 
 .fi-min-gov.fis {
   background-image: url(../svg/logos/vekllei.svg); }
+
+.fi-min-military.fis {
+  background-image: url(../svg/crests/military.svg); }
 
 .fi-min-culture.fis {
   background-image: url(../svg/crests/ministry-of-culture.svg); }
@@ -3033,8 +3044,14 @@ ol.timeline .event {
 .fi-min-atlantic-store.fis {
   background-image: url(../svg/logos/atlantic-store.svg); }
 
+.fi-min-cateral.fis {
+  background-image: url(../svg/logos/cateral.svg); }
+
 .fi-min-atlantis.fis {
   background-image: url(../svg/logos/atlantis.svg); }
+
+.fi-min-national-machines.fis {
+  background-image: url(../svg/logos/national-machines.svg); }
 
 .fi-min-air.fis {
   background-image: url(../svg/logos/air.svg); }

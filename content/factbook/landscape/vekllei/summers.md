@@ -2,7 +2,7 @@
 title: Summers Republic
 fulltitle: Summers Republic
 icon: 🦀
-logo: /svg/flags/4x3/summers.svg
+logo: /svg/flags/summers.svg
 
 rgb: 69, 81, 202
 
