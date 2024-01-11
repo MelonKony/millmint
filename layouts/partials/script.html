@@ -8,8 +8,8 @@
 {{ $js := slice $jq $dk $cs $fd $fn $tc $tt | resources.Concat "js/millmint.js"  }}
 
 {{ if .Site.IsServer }}
-    <script defer src="{{ $js.RelPermalink }}" type="module"></script>
+    <script defer src="{{ $js.RelPermalink }}"></script>
 {{ else }}
     {{ $js = $js | minify | fingerprint }}
-    <script defer src="{{ $js.RelPermalink }}" type="module"></script>
+    <script defer src="{{ $js.RelPermalink }}"></script>
 {{ end }}
