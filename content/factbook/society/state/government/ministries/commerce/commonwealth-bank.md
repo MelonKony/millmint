@@ -3,7 +3,7 @@ title: Commonwealth Bank
 fulltitle: Commonwealth Bank
 icon: 🏦
 logo: /svg/logos/commonwealth-bank.svg
-color: commbank
+rgb: 240, 93, 136
 autonumbering: false
 
 aliases:

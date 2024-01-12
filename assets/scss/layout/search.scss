@@ -65,9 +65,11 @@
 		display: inline-block;
 		height: 1rem;
 		border: 0;
-		padding: 2px;
+		padding: 0px 2px;
 		margin: auto 0;
 		margin-right: 3px;
+		background: transparent;
+		vertical-align: text-bottom;
 	}
 }
 

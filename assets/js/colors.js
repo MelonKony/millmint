@@ -30,10 +30,6 @@ const colors = {
   cosmolab: [161, 43, 46],
   cosmogos: [19, 172, 67],
   cosmolit: [24, 172, 218],
-
-  commbank: [240, 93, 136],
-  commsec: [2, 121, 190],
-  archives: [247, 93, 54]
 }
 
 function colorsMain() {

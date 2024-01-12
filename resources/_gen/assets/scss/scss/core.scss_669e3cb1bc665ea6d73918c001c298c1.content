@@ -354,10 +354,7 @@ html {
   --color-cosmosec: #2559a7;
   --color-cosmolab: #a12b2e;
   --color-cosmogos: #13ac43;
-  --color-cosmolit: #18acda;
-  --color-commbank: #f05d88;
-  --color-commsec: #0279be;
-  --color-archives: #f75d36; }
+  --color-cosmolit: #18acda; }
 
 html[data-theme="light"] {
   --font-color: #1d1d1f;
@@ -4833,9 +4830,11 @@ ol.timeline .event {
     display: inline-block;
     height: 1rem;
     border: 0;
-    padding: 2px;
+    padding: 0px 2px;
     margin: auto 0;
-    margin-right: 3px; }
+    margin-right: 3px;
+    background: transparent;
+    vertical-align: text-bottom; }
 
 .noSelect {
   -webkit-tap-highlight-color: transparent;

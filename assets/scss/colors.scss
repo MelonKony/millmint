@@ -65,10 +65,6 @@ $cosmolab: rgb(161, 43, 46);
 $cosmogos: rgb(19, 172, 67);
 $cosmolit: rgb(24, 172, 218);
 
-$commbank: rgb(240, 93, 136);
-$commsec: rgb(2, 121, 190);
-$archives: rgb(247, 93, 54);
-
 :root {
   --gray-light: #{$gray-100};
   --gray-200: #{$gray-200};
@@ -106,10 +102,6 @@ $archives: rgb(247, 93, 54);
   --color-cosmolab: #{$cosmolab};
   --color-cosmogos: #{$cosmogos};
   --color-cosmolit: #{$cosmolit};
-
-  --color-commbank: #{$commbank};
-  --color-commsec: #{$commsec};
-  --color-archives: #{$archives};
 }
 
 html[data-theme="light"] {

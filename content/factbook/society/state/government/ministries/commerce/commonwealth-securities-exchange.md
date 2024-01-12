@@ -2,7 +2,7 @@
 title: Securities Exchange
 fulltitle: Commonwealth Securities Exchange
 icon: 💰
-color: commsec
+rgb: 2, 121, 190
 logo: /svg/logos/commsec.svg
 autonumbering: false
 
