@@ -7,6 +7,14 @@
     "id": {{ $index }},
     "href": "{{ $page.RelPermalink }}",
     "title": {{ (partial "title" $page) | jsonify }},
+    {{- $logo := $page.Params.logo -}}
+    {{- if $logo -}}
+    "logo": {{ $logo | jsonify }},
+    {{- end -}}
+    {{- $rgb := $page.Params.rgb -}}
+    {{- if $rgb -}}
+    "rgb": {{ $rgb | jsonify }},
+    {{- end -}}
     "section": {{ (partial "title" $page.Parent) | jsonify }},
     "content": {{ $page.Plain | jsonify }},
     "date": {{ $page.Date | jsonify }}

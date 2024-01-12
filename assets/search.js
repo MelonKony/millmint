@@ -11,8 +11,8 @@
   const indexConfig = Object.assign({{ $searchConfig }}, {
     doc: {
       id: 'id',
-      field: ['title', 'content'],
-      store: ['title', 'href', 'section','content']
+      field: ['title', 'content', 'logo'],
+      store: ['title', 'href', 'section','content', 'logo', 'rgb']
     }
   });
 
@@ -90,8 +90,22 @@
       const li = element('<li><a href></a><small></small><span class="found"></span></li>');
       const a = li.querySelector('a'), small = li.querySelector('small'), span = li.querySelector('span');
 
+      // Add logo
+      if(page.logo) {
+        const logo = element('<img src="" class="logo visible-img">');
+        logo.src = page.logo;
+        a.appendChild(logo);
+      }
+
+      // Add colors
+      if(page.rgb) {
+        const rgb = page.rgb.split(',');
+        setColors(rgb, false, li)
+      }
+
+      // Set texts
       a.href = page.href;
-      a.textContent = page.title;
+      a.innerHTML += page.title;
       small.textContent = page.section;
 
       function clean(str) {

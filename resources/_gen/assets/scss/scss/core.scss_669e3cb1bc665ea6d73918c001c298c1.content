@@ -1778,7 +1778,7 @@ article img[alt~="smallimg"] {
   border-radius: .25rem;
   width: 50%;
   min-width: 300px;
-  padding: .5rem;
+  padding: 0.5rem;
   border-radius: 5px; }
 
 .smallimg {
@@ -1787,14 +1787,14 @@ article img[alt~="smallimg"] {
   border-radius: .25rem;
   width: 50%;
   min-width: 300px;
-  padding: .5rem;
+  padding: 0.5rem;
   border-radius: 5px; }
 
 article img[alt~="crest"] {
   margin-bottom: 1rem;
   width: 25%;
   min-width: 300px;
-  padding: .5rem;
+  padding: 0.5rem;
   border-radius: 5px; }
 
 @media (min-width: 1600px) {
@@ -1803,7 +1803,7 @@ article img[alt~="crest"] {
     max-width: 140%;
     margin-left: -20%;
     margin-right: -20%;
-    padding: .5rem;
+    padding: 0.5rem;
     background-color: var(--body-background);
     box-sizing: border-box; } }
 
@@ -1820,7 +1820,8 @@ article img[alt~="crest"] {
   animation: animat_show 0.8s; }
 
 .fadein,
-.show-all-images img {
+.show-all-images img,
+.visible-img {
   visibility: visible !important; }
 
 @-webkit-keyframes animat_show {
@@ -4828,6 +4829,13 @@ ol.timeline .event {
 @keyframes spin {
   100% {
     transform: rotate(360deg); } }
+  .search .logo {
+    display: inline-block;
+    height: 1rem;
+    border: 0;
+    padding: 2px;
+    margin: auto 0;
+    margin-right: 3px; }
 
 .noSelect {
   -webkit-tap-highlight-color: transparent;
@@ -4850,7 +4858,7 @@ ol.timeline .event {
   width: -moz-max-content;
   width: max-content;
   --tw-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
-    0 10px 10px -5px rgba(0, 0, 0, 0.04);
+		0 10px 10px -5px rgba(0, 0, 0, 0.04);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
   max-width: 100%;
   border-radius: 5px;

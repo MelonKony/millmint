@@ -47,7 +47,7 @@ function colorsMain() {
 
     if(!rgbArray) console.log('Color not supported')
 
-    setBackgroundColor(rgbArray, false);
+    setColors(rgbArray, false);
   } else if (document.querySelector("[data-page-color]")) {
     // Page color override
     const rgbArray = document
@@ -55,7 +55,7 @@ function colorsMain() {
       .getAttribute("data-page-color")
       .split(",")
       .map((v) => Number(v));
-    setBackgroundColor(rgbArray);
+    setColors(rgbArray);
   } else if (
     location.href.includes("/stories/") &&
     !document.querySelector(".list-item")
@@ -137,7 +137,7 @@ if (localStorage.theme === 'light' || (!('theme' in localStorage) && window.matc
   }
 }
 
-async function getColors(img, retryCount = 0, callback = setBackgroundColor) {
+async function getColors(img, retryCount = 0, callback = setColors) {
   try {
     img.crossOrigin = 'anonymous'
     const vibrant = new Vibrant(img, 11);
@@ -155,7 +155,7 @@ async function getColors(img, retryCount = 0, callback = setBackgroundColor) {
   }
 }
 
-function setBackgroundColor(rgb, doBackground = true) {
+function setColors(rgb, doBackground = true, el = document.body) {
   // Set theme-color
   document
     .querySelectorAll(`[name="theme-color"]`)
@@ -183,7 +183,7 @@ function setBackgroundColor(rgb, doBackground = true) {
       if(doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-light: ${gray100}`, `--color-placeholder: var(--color-gray)`/*, `--body-background: ${bodyBg}`*/);
 
       // Inject dark colors into DOM
-      document.body.setAttribute(
+      el.setAttribute(
         "style",
         classes.join(';')
       );
@@ -204,7 +204,7 @@ function setBackgroundColor(rgb, doBackground = true) {
       classes.push(doBackground ? `--logo-color: var(--color-gray)` : `--logo-color: ${darkerColor}`)
 
       // Inject colors into DOM
-      document.body.setAttribute(
+      el.setAttribute(
         "style",
         classes.join(';')
       );

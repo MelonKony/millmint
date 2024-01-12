@@ -22,7 +22,7 @@ const insideOut = (el) => {
     removeEl(c);
 };
 
-export let renderFootnotes = function () {
+let renderFootnotes = function () {
     document.querySelectorAll('.footnotes > ol > li[id^="fn"], #refs > div[id^="ref-"]').forEach(function (fn) {
         let a = document.querySelectorAll('a[href="#' + fn.id + '"]');
         if (a.length === 0) return;
