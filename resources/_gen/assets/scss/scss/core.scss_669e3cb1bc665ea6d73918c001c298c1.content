@@ -3054,6 +3054,9 @@ ol.timeline .event {
 .fi-min-air.fis {
   background-image: url(../svg/logos/air.svg); }
 
+.fi-min-united-grocers.fis {
+  background-image: url(../svg/logos/united-grocers.svg); }
+
 .fib {
   background-size: contain;
   background-position: 50%;
