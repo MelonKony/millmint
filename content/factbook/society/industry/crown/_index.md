@@ -4,9 +4,9 @@ fulltitle: Crown Industry of Vekllei
 icon: 🏬
 emoji: ¡
 color: purple
-image: 
+image:
 
-tags: 
+tags:
   - state
 categories:
   - society
