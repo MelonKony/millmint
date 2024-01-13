@@ -1,29 +1,17 @@
 ---
-title: Culture Council
-fulltitle: Commonwealth Culture Council
+title: Culture Parliament
+fulltitle: Commonwealth Culture Parliament
 icon: 🏵
-logo: /svg/logos/culture-council-shield.svg
-image:
-
-rgb: 59, 186, 94
-
-draft: false
-
-type: blank
-
-comments: false
-
-toc: true
+logo: /svg/crests/parliament/culture.svg
+color: culture
 
 aliases:
 - /colsec/
-
-description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
 ---
 {{< hint >}}
-߷ Part of the *[state](/state/)* series of articles
+߷ This *[parliament](/parliaments/)* is part of {{<link/vekllei>}}.
 {{</hint>}}
+
 ## Overview
 {{<boxtag teal>}}COLSEC{{</boxtag>}}
 

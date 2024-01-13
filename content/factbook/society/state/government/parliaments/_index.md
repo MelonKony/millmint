@@ -2,16 +2,29 @@
 title: Parliaments
 fulltitle: Commonwealth Parliaments
 icon: 🌸
-emoji: Ζ
-color: purple
+logo: /svg/crests/vekllei.svg
+color: millmint
+
+type: blank
 
 aliases:
-  - /councils/
+  - /parliaments/
 ---
 {{< hint >}}
 ߷ Part of the *[state](/state/)* series of articles
 {{</hint>}}
 
 {{<hint panel>}}
-The Commonwealth *councils*, known as *secretariats* in Vekllei, are a superior kind of ministry headed by a secretary. Vekllei Ministries answer to the Commonwealth Parliament, whereas *councils* report directly to the [Commonwealth Council](/council/). In practice, *councils* are federalised and so carry out their roles directly, unlike the devolved ministries.
+The Commonwealth *parliaments* are a superior kind of [ministry](/ministries/) in {{<link/vekllei>}}. They form universal policy and legislation in key federal Commonwealth concerns, and are not duplicated across subnational governments as regular ministries are. Instead, parliaments are the direct hand of the Commonwealth in ordinary life.
+{{</hint>}}
+
+{{<hint panel>}}
+
+* {{<link/parliament-of-community>}}
+* {{<link/parliament-of-culture>}}
+* {{<link/parliament-of-democracy>}}
+* {{<link/parliament-of-health>}}
+* {{<link/parliament-of-education>}}
+* {{<link/parliament-of-security>}}
+
 {{</hint>}}

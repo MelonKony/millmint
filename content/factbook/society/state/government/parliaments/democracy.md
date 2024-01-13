@@ -2,21 +2,14 @@
 title: Democracy Council
 fulltitle: Commonwealth Democracy Council
 icon: 🗳️
-logo: /svg/logos/democracy-council-shield.svg
-image:
-
-rgb: 206, 80, 159
-
-draft: true
+logo: /svg/crests/parliament/democracy.svg
+color: democracy
 
 aliases:
 - /demsec/
-
-description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
 ---
 {{< hint >}}
-߷ Part of the *[state](/state/)* series of articles
+߷ This *[parliament](/parliaments/)* is part of {{<link/vekllei>}}.
 {{</hint>}}
 
 {{<section>}}

@@ -345,7 +345,7 @@ html {
   --color-teal: #30b0c7;
   --color-yellow: #ea9365;
   --color-millmint: #de1857;
-  --color-cosmosol: #e2a919;
+  --color-cosmosol: #e4a00e;
   --color-cosmotran: #f3852b;
   --color-cosmocom: #e5388f;
   --color-cosmopos: #80bf22;
@@ -354,7 +354,13 @@ html {
   --color-cosmosec: #2559a7;
   --color-cosmolab: #a12b2e;
   --color-cosmogos: #13ac43;
-  --color-cosmolit: #18acda; }
+  --color-cosmolit: #18acda;
+  --color-education: #3b6fb9;
+  --color-security: #f0564b;
+  --color-community: #ffa254;
+  --color-culture: #3bba5e;
+  --color-democracy: #ce509f;
+  --color-health: #f65171; }
 
 html[data-theme="light"] {
   --font-color: #1d1d1f;
@@ -2994,6 +3000,15 @@ ol.timeline .event {
 .fi-min-gov.fis {
   background-image: url(../svg/logos/vekllei.svg); }
 
+.fi-min-vekllei.fis {
+  background-image: url(../svg/crests/vekllei.svg); }
+
+.fi-min-council.fis {
+  background-image: url(../svg/crests/council.svg); }
+
+.fi-min-vekllei-purple.fis {
+  background-image: url(../svg/crests/vekllei-purple.svg); }
+
 .fi-min-military.fis {
   background-image: url(../svg/crests/military.svg); }
 
@@ -3026,6 +3041,24 @@ ol.timeline .event {
 
 .fi-min-landscape.fis {
   background-image: url(../svg/crests/ministry-of-landscape.svg); }
+
+.fi-min-community.fis {
+  background-image: url(../svg/crests/parliament/community.svg); }
+
+.fi-min-education.fis {
+  background-image: url(../svg/crests/parliament/education.svg); }
+
+.fi-min-security.fis {
+  background-image: url(../svg/crests/parliament/security.svg); }
+
+.fi-min-culture.fis {
+  background-image: url(../svg/crests/parliament/culture.svg); }
+
+.fi-min-democracy.fis {
+  background-image: url(../svg/crests/parliament/democracy.svg); }
+
+.fi-min-health.fis {
+  background-image: url(../svg/crests/parliament/health.svg); }
 
 .fi-min-combank.fis {
   background-image: url(../svg/logos/commonwealth-bank.svg); }
@@ -4837,7 +4870,8 @@ ol.timeline .event {
     margin: auto 0;
     margin-right: 3px;
     background: transparent;
-    vertical-align: text-bottom; }
+    vertical-align: text-bottom;
+    border-radius: 0.15rem; }
 
 .noSelect {
   -webkit-tap-highlight-color: transparent;

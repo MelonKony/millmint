@@ -54,7 +54,7 @@ $yellow: rgb(234, 147, 101);
 
 $millmint: rgb(222, 24, 87);
 
-$cosmosol: rgb(226, 169, 25);
+$cosmosol: rgb(228, 160, 14);
 $cosmotran: rgb(243, 133, 43);
 $cosmocom: rgb(229, 56, 143);
 $cosmopos: rgb(128, 191, 34);
@@ -64,6 +64,13 @@ $cosmosec: rgb(37, 89, 167);
 $cosmolab: rgb(161, 43, 46);
 $cosmogos: rgb(19, 172, 67);
 $cosmolit: rgb(24, 172, 218);
+
+$education: rgb(59, 111, 185);
+$security: rgb(240, 86, 75);
+$community: rgb(255, 162, 84);
+$culture: rgb(59, 186, 94);
+$democracy: rgb(206, 80, 159);
+$health: rgb(246, 81, 113);
 
 :root {
   --gray-light: #{$gray-100};
@@ -102,6 +109,13 @@ $cosmolit: rgb(24, 172, 218);
   --color-cosmolab: #{$cosmolab};
   --color-cosmogos: #{$cosmogos};
   --color-cosmolit: #{$cosmolit};
+
+  --color-education: #{$education};
+  --color-security: #{$security};
+  --color-community: #{$community};
+  --color-culture: #{$culture};
+  --color-democracy: #{$democracy};
+  --color-health: #{$health};
 }
 
 html[data-theme="light"] {

@@ -54,13 +54,13 @@ AND IN SERVICE OF THESE AIMS
 2. The territory of the Commonwealth is inviolable.
 
 ### Article 2
-1. The principle of government is a federal Directory of elected peers called the [Commonwealth Directorate](/directory/), representing the disparate communities that make up the unitary Commonwealth.
+1. The principle of government is a federal Directory of elected peers called the {{<link/directory>}}, representing the disparate communities that make up the unitary Commonwealth.
 
     1. The Directory consists of representatives of each [Constituent](/constituents/) as free republics, and [dependent or autonomous territories](/territories/).
     2. Other territories retain permanent status in the Directory and may table motions with agreement of a Constituent.
 
-2. The Commonwealth Directorate is advised by a Cabinet of peers to provide opinion and expertise, called the [Commonwealth Cabinet](/cabinet/).
-2. The Commonwealth Directorate and Cabinet combined form the [Commonwealth Council](/council/), which is the supreme executive of the Commonwealth.
+2. The Commonwealth Directorate is advised by a Cabinet of peers to provide opinion and expertise, called the {{<link/cabinet>}}.
+2. The Commonwealth Directorate and Cabinet combined form the {{<link/council>}}, which is the supreme executive of the Commonwealth.
 
 3. The Commonwealth is a State under the rule of law, committed to fundamental freedoms and rights.
 

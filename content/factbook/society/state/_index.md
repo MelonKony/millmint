@@ -2,7 +2,7 @@
 title: State
 fulltitle: The Vekllei State
 icon: 🌸
-emoji: Ζ
+logo: /svg/crests/vekllei.svg
 color: pink
 list: true
 

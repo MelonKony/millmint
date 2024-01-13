@@ -20,7 +20,7 @@ const colors = {
   mail: [221, 76, 86],
   gr: [31, 205, 88],
 
-  cosmosol: [220, 169, 25],
+  cosmosol: [228, 160, 14],
   cosmotran: [243, 133, 43],
   cosmocom: [229, 56, 143],
   cosmopos: [128, 191, 34],
@@ -30,6 +30,13 @@ const colors = {
   cosmolab: [161, 43, 46],
   cosmogos: [19, 172, 67],
   cosmolit: [24, 172, 218],
+
+  education: [59, 111, 185],
+  security: [240, 86, 75],
+  community: [255, 162, 84],
+  culture: [59, 186, 94],
+  democracy: [206, 80, 159],
+  health: [246, 81, 113],
 }
 
 function colorsMain() {

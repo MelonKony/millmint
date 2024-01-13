@@ -2,23 +2,14 @@
 title: Education Parliament
 fulltitle: Commonwealth Education Parliament
 icon: 🎓
-logo: /svg/logos/education-council-shield.svg
-image:
-
-rgb: 59, 111, 185
-
-draft: false
-
-toc: true
+logo: /svg/crests/parliament/education.svg
+color: education
 
 aliases:
 - /solsec/
-
-description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
 ---
 {{< hint >}}
-߷ Part of the *[state](/state/)* series of articles
+߷ This *[parliament](/parliaments/)* is part of {{<link/vekllei>}}.
 {{</hint>}}
 
 ## Overview

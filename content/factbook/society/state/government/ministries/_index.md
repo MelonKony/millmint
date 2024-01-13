@@ -2,7 +2,8 @@
 title: Ministries
 fulltitle: Ministries of the Commonwealth
 icon: 🌸
-color: purple
+logo: /svg/crests/vekllei.svg
+color: millmint
 list: true
 
 aliases:
@@ -13,7 +14,7 @@ aliases:
 {{</hint>}}
 
 {{<hint panel>}}
-Commonwealth Ministries are departments headed by a [Sorda](/sorda/). The portfolios within ministries are usually assigned to qualified [Cabinet](/cabinet/) members. Ministries are assigned with aspects of government that are partially devolved to [Constituents](/constituents/), and as such are much larger than [Council Secretariats](/councils/)
+Commonwealth Ministries are departments headed by a {{<link/sorda>}}. The portfolios within ministries are usually assigned to qualified {{<link/cabinet>}} members. Ministries are assigned with aspects of government that are partially devolved to [Constituents](/constituents/), and as such are much larger than [Council Secretariats](/councils/)
 {{</hint>}}
 
 {{<hint panel>}}

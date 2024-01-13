@@ -2,19 +2,14 @@
 title: Health Parliament
 fulltitle: Commonwealth Health Parliament
 icon: ⚕️
-logo: /svg/crests/parliament/ministry-of-health.svg
-image:
-
-rgb: 246, 81, 113
-
-draft: false
-toc: false
+logo: /svg/crests/parliament/health.svg
+color: health
 
 aliases:
 - /helsec/
 ---
 {{< hint >}}
-߷ Part of the *[state](/state/)* series of articles
+߷ This *[parliament](/parliaments/)* is part of {{<link/vekllei>}}.
 {{</hint>}}
 
 ## Overview
@@ -24,7 +19,7 @@ aliases:
 ❀ Read more: <span class="smallicon">⚕️</span> *[Healthcare in Vekllei](/health/)*
 {{</hint>}}
 
-The Commonwealth Health Parliament is a secretariat of the Vekllei Commonwealth Government. It is lead by a First Secretary, who reports directly to the [Commonwealth Directory](/directory/). In general, the Health Parliament legislates, finances and administers healthcare in Vekllei, particularly its comprehensive and universal public healthcare scheme.
+The Commonwealth Health Parliament is a secretariat of the Vekllei Commonwealth Government. It is lead by a First Secretary, who reports directly to the {{<link/cabinet>}}. In general, the Health Parliament legislates, finances and administers healthcare in Vekllei, particularly its comprehensive and universal public healthcare scheme.
 
 The system is highly centralised, with rigid care and administrative standards that are applied across all levels of public health. Innovations in healthcare, including a digital nationwide patient database, help efficiency and ease the burden of care on ward staff. Vekllei public health is recognised as a quality and equitable system, with good outcomes for patients in its care. Its accessibility and universality of care contribute greatly to standards of health and quality of life in Commonwealth society.
 

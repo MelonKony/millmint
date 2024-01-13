@@ -19,7 +19,7 @@ author: Hobart Phillips
 ߷ Part of the *[state](/state/)* series of articles
 {{</hint>}}
 
-A **Republic** (Vekllei: *Polis*) is type of city-state that make up the country of {{<link/vekllei>}}. They consist of island city-states known as *Polisa* which together form a [Constituent Commonwealth](/constituents/). There are 66 republics in Vekllei that together form 8 commonwealths and the country of Vekllei.
+A **Republic** (Vekllei: *Polis*) is type of city-state that make up the country of {{<link/vekllei>}}. They consist of island city-states known as *Polisa* which together form a [constituent commonwealth](/constituents/). There are 66 republics in Vekllei that together form 8 commonwealths and the country of Vekllei.
 
 ![Diagram of Polis structure](/svg/diagrams/polis.png "Diagram of the a Polis administration and its structure")
 

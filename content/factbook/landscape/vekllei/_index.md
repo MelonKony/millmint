@@ -22,7 +22,7 @@ aliases:
 
 <span class="fi fi-com"></span> **Vekllei** is best conceptualised as a union of islands across the Atlantic Ocean. It is a commonwealth,[^commonwealth] the fourth in a series, and consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of Oslola, of 8 million. Together, they amount to a single superstate that spans the entirety of the Atlantic as a great power.
 
-The Commonwealth which unites them is highly centralised and built on common systems of governance and economic management. Member republics, known as [constituents](/constituents/) cede aspects of governance like security, health and education to the Commonwealth. The country is colloquially known as *Vekllei*, an Algic [corcidi](/corcidi/) word meaning *people of the sea and stars*.[^name] It is also known as the *Commonwealth of Oceans*.
+The Commonwealth which unites them is highly centralised and built on common systems of governance and economic management. Member [republics](/republics/), organised in [constituent commonwealths](/constituents/) cede aspects of governance like security, health and education to the federal Commonwealth. The country is colloquially known as *Vekllei*, an Algic [corcidi](/corcidi/) word meaning *people of the sea and stars*.[^name] It is also known as the *Commonwealth of Oceans*.
 
 The capital of Vekllei is [Comet](/comet/), located west of the Azores Commonwealth in the Meteor Islands.
 
@@ -201,17 +201,17 @@ The Commonwealth has explored petitions for membership from non-island countries
 ✿ Main article: {{<link/government>}}
 {{</hint>}}
 
-The Vekllei government plays an active role in the lives of ordinary people. Each commonwealth republic is represented by two people[^ministers] of equal standing called Prime Ministers. These ministers represent the bicameral parliaments and assembled cabinets of their homes,[^sorda] and participate equally in a council of leaders called the [Commonwealth Directory](/directory/).
+The Vekllei government plays an active role in the lives of ordinary people. Each commonwealth republic is represented by two people[^ministers] of equal standing called Prime Ministers. These ministers represent the bicameral parliaments and assembled cabinets of their homes,[^sorda] and participate equally in a council of leaders called the {{<link/directory>}}.
 
 ![Diagram of Vekllei federal structure](/svg/diagrams/federalism.png "Diagram of the Vekllei government and the federal system.")
 
 There are different levels of elected government in Vekllei.
 
-1. The *Vekllei Commonwealth* is the federal governing body and parliament of the [constituent republics](/constituents/). The head of state is the [Commonwealth Council](/council/). The [Commonwealth Senate](/senate/) has special powers to approve or reject legislation.
+1. The *Vekllei Commonwealth* is the federal governing body and parliament of the [constituent republics](/constituents/). The head of state is the {{<link/council>}}. The [Commonwealth Senate](/senate/) has special powers to approve or reject legislation.
 2. The *National Commonwealths* are constituent republics that manage home affairs with devolved powers. They each have [National Assemblies](/assembly/) which propose legislation.
 3. The *Polis o Democros* ([Republics](/polis/)) are city republics, areas or boroughs that manage local services. [Territories](/territories/) in Vekllei are also governed by Municipal Commonwealths.
 
-Vekllei elections do not allow political parties, a system called *nonpartisan democracy*. Commonwealth [ministries](/ministries/) and [council secretariats](/councils/) are lead by professional directors appointed by an internal vote, and final approval resting with the [Directory](/directory/).
+Vekllei elections do not allow political parties, a system called *nonpartisan democracy*. Commonwealth [ministries](/ministries/) and [council secretariats](/councils/) are lead by professional directors appointed by an internal vote, and final approval resting with the {{<link/directory>}}.
 
 ### Economy
 {{< hint panel >}}
@@ -428,6 +428,6 @@ The Commonwealth maintains the National Bulletin System, a form of networked ele
 [^member-states]: "Member-states" refers to territorial membership in the Commonwealth, either as full [Constituents](/constituents/) or [Territories](/territories/).
 [^transition]: Verde acceded to Commonwealth membership in 2038, and is undergoing full integration with the commons moneyless system.
 [^ministers]: In all Commonwealths except for Kala, the prime ministers are required to be one man and one woman.
-[^sorda]: The Prime Ministers represent a single office, called a [Sorda](/sorda/).
+[^sorda]: The Prime Ministers represent a single office, called a {{<link/sorda>}}.
 [^industrialised]: Oslola and the Kalina Commonwealth are the primary industrial regions of Vekllei, and also supply most of its food through its vast fisheries and food factories.
 [^diaspora]: Vekllei has a large diaspora of emigrants from the Civil and Atomic Wars. They are concentrated mostly in the United States and the United Kingdom.

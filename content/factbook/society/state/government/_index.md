@@ -4,11 +4,21 @@ fulltitle: Commonwealth Government
 icon: 🌸
 color: millmint
 list: true
-logo: /svg/logos/vekllei.svg
+logo: /svg/crests/vekllei.svg
 
 aliases:
   - /government/
 ---
 {{< hint panel >}}
-The <span class="fi fi-min-gov fis"></span> **Vekllei Government** is the supranational parliamentary government of the Vekllei Islands and the members, dependent states and territories of the Vekllei Commonwealth. It is distinct from the [**Palace of Vekllei**](/factbook/society/state/palace), the monarch and sovereign of the Vekllei Commonwealth.
+The <span class="fi fi-min-vekllei fis"></span> **Commonwealth Government** is the national government of {{<link/vekllei>}} and is a federal, parliamentary constitutional republic. It consists of several parts:
+
+* A supreme executive  of all Commonwealth [republics](/republics/) and [constituents](/constituents/) called the {{<link/council>}}, consisting of
+  * The {{<link/directory>}}, an executive council of elected {{<link/sorda>}}
+  * The {{<link/cabinet>}}
+* A federal legislature, including
+  * A federal {{<link/senate>}}
+  * Regional lower houses, called a {{<link/assembly>}}
+* Sectors of public administration, including
+  * Federal [parliaments](/parliaments/)
+  * Constituent [ministries](/ministries/)
 {{</hint>}}

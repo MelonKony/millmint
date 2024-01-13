@@ -1,29 +1,21 @@
 ---
-title: Security Council
+title: Security Parliament
 fulltitle: Commonwealth Security Parliament
 icon: ⚡️
-logo: /svg/logos/security-council-shield.svg
-image:
-
-rgb: 240, 86, 75
-
-draft: false
-toc: true
+logo: /svg/crests/parliament/security.svg
+color: security
 
 aliases:
 - /opsec/
-
-description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
 ---
 {{< hint >}}
-߷ Part of the *[state](/state/)* series of articles
+߷ This *[parliament](/parliaments/)* is part of {{<link/vekllei>}}.
 {{</hint>}}
 
 ## Overview
 {{<boxtag teal>}}OPSEC{{</boxtag>}}
 
-The *Commonwealth Security Secretariat* (OPSEC) is the mother organisation of the internal and external security organs of the Commonwealth government. Its mission includes intelligence gathering, espionage, special policing, and state security. It is headed by the Secretary of Security, and reports directly to the [Commonwealth Directory](/directory/).
+The *Commonwealth Security Secretariat* (OPSEC) is the mother organisation of the internal and external security organs of the Commonwealth government. Its mission includes intelligence gathering, espionage, special policing, and state security. It is headed by the Secretary of Security, and reports directly to the {{<link/directory>}}.
 
 {{<hint panel>}}
 ### Commonwealth Military Command
