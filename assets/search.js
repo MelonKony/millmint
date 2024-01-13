@@ -12,7 +12,7 @@
     doc: {
       id: 'id',
       field: ['title', 'content', 'logo'],
-      store: ['title', 'href', 'section','content', 'logo', 'rgb']
+      store: ['title', 'href', 'section','content', 'logo', 'rgb', 'color']
     }
   });
 
@@ -101,6 +101,10 @@
       if(page.rgb) {
         const rgb = page.rgb.split(',');
         setColors(rgb, false, li)
+      }
+
+      if(page.color && colors[page.color]) {
+        setColors(colors[page.color], false, li)
       }
 
       // Set texts

@@ -15,6 +15,10 @@
     {{- if $rgb -}}
     "rgb": {{ $rgb | jsonify }},
     {{- end -}}
+    {{- $color := $page.Params.color -}}
+    {{- if $color -}}
+    "color": {{ $color | jsonify }},
+    {{- end -}}
     "section": {{ (partial "title" $page.Parent) | jsonify }},
     "content": {{ $page.Plain | jsonify }},
     "date": {{ $page.Date | jsonify }}
