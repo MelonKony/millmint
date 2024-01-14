@@ -5,6 +5,7 @@ img.page {
   @include mx-auto;
   @include padding-2;
   @include highlight-background;
+  @include highlight-border;
   box-sizing: border-box;
 }
 
@@ -22,6 +23,7 @@ img.page {
 .article-category {
   @include text-sm;
   @include font-semibold;
+  color: var(--gray-heavy);
   grid-area: category;
   text-transform: capitalize;
 

@@ -1,9 +1,10 @@
 ---
-title: Commonwealth Transport Laboratories
+title: Transport Laboratories
 fulltitle: Commonwealth Transport Laboratories
 icon: 🏛️
-color: cosmotran
-logo: /svg/crests/ministry-of-the-commons.svg
+rgb: 234, 29, 46
+logo: /svg/logos/transport-labs.svg
+logocredit: Stefan Kanchev, 1967, for the Nauka i Iskustvo Publishing Company.
 
 aliases:
 - /commonwealth-transport-laboratories/

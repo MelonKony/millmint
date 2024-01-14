@@ -11,11 +11,11 @@ draft: false
 aliases:
 - /atlantic-store/
 ---
-{{< hint >}}
+{{<hint>}}
 ߷ Part of the *[industry](/industry/)* series of articles
 {{</hint>}}
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: *[Department Commerce](/stories/department/)*
 {{</hint>}}
 

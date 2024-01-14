@@ -29,7 +29,7 @@ const colors = {
   cosmosec: [37, 89, 167],
   cosmolab: [161, 43, 46],
   cosmogos: [19, 172, 67],
-  cosmolit: [24, 172, 218],
+  cosmolit: [86, 163, 187],
 
   education: [59, 111, 185],
   security: [240, 86, 75],

@@ -50,10 +50,7 @@ The Commonwealth of Oceans (Vekllei) was founded in 2017 after independence in 2
 The diversity of the Commonwealth is reflected in its history. Vekllei as we know it today may have roots in in the Oslola-Kalan Union and Kalina nationalism, but its story begins in 1995, during the First Atomic War and British Occupation of its former colonial territories for 20 years. That occupation, and the complete restructuring of Atlantic society beneath it, lay the foundations for a new and pluralistic union of republics called Vekllei.
 {{</hint>}}
 
-<!--{{<hint>}}
-✿ Main article: <span class="smallicon">📖</span> *[History of Vekllei](/history/)*
-{{</hint>}}-->
-{{<hint>}}
+{{<hint link>}}
 ❀ Read more: <span class="smallicon">⏳</span> *[Timeline](/timeline/)*
 {{</hint>}}
 
@@ -87,7 +84,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
 
 ### Territories
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Main article: *[Vekllei World Map](/map/)*
 {{</hint>}}
 
@@ -197,7 +194,7 @@ The Commonwealth has explored petitions for membership from non-island countries
 
 ### Government
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Main article: {{<link/government>}}
 {{</hint>}}
 
@@ -244,7 +241,7 @@ Vekllei people generally have aspirations of power rather than wealth, and work 
 
 #### Finance
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Main article: <span class="smallicon">💵</span> *[Finance in Vekllei](/finance/)*
 {{</hint>}}
 
@@ -266,10 +263,10 @@ The Commonwealth has major financial hubs in Bermuda, the Bahamas and the Azores
 
 #### Industry
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Main article: <span class="smallicon">⚙️</span> *[Industry](/industry/)*
 {{</hint>}}
-{{< hint >}}
+{{<hint link>}}
 ❀ Read more: <span class="smallicon">🏬</span> *[State Industry in Vekllei](/assets/)*
 {{</hint>}}
 
@@ -281,7 +278,7 @@ Major industries in Vekllei leverage the creative productivity of its enthusiast
 
 #### Property
 
-{{< hint >}}
+{{<hint link>}}
 ❀ Read more: <span class="smallicon">🏡</span> *[Housing in Vekllei](/housing/)*
 {{</hint>}}
 
@@ -337,7 +334,7 @@ Vekllei has been a leader in sciences since the Middle Ages, and has maintained 
 
 ### Education
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Main article: <span class="smallicon">📚</span> *[Education in Vekllei](/education/)*
 {{</hint>}}
 
@@ -346,7 +343,7 @@ Education in Vekllei is universal and compulsory for children until the age of 1
 Education across the Commonwealth is considered a life-long affair, and the country has many public programmes to encourage adult learning. The quality and universality of Vekllei education has ensured universal literacy across the Commonwealth and is a major export, both as a business and as a form of diplomacy and aid.
 
 ### Demographics
-{{<hint>}}
+{{<hint link>}}
 ❀ Read more: <span class="smallicon">👨‍👩‍👧‍👦</span> *[Demographics of Vekllei](/demographics/)*
 {{</hint>}}
 
@@ -359,7 +356,7 @@ The Commonwealth is often described as a "cultural mosaic" because of its divers
 As a pluralistic society, a national civic identity called [Civic Commons](/civic-commons/) is promoted by the government as a means to foster social cohesion. As a nation by will rather than by circumstance, Vekllei has a strong national identity and the Vekllei diaspora[^diaspora] feel strongly towards the country.
 
 #### Ancestry & Immigration
-{{<hint>}}
+{{<hint link>}}
 ❀ Read more: <span class="smallicon">⚖️</span> *[Century Society Laws](/century-society/)*
 {{</hint>}}
 
@@ -398,7 +395,7 @@ Although the official position of the Commonwealth is as a lay, secular republic
 
 ### Transport
 
-{{< hint mail >}}
+{{<hint link>}}
 ❀ Read more: <span class="smallicon">🚇</span> *[Vekllei National Rail](/rail/)*
 {{</hint>}}
 
@@ -410,11 +407,11 @@ Public transit ranges from state-of-the-art maglev lines in Oslola to century-ol
 
 ### Communications
 
-{{< hint mail >}}
+{{<hint link>}}
 ❀ Read more: <span class="smallicon">📯</span> *[Post in Vekllei](/mail/)*
 {{</hint>}}
 
-{{< hint mail >}}
+{{<hint link>}}
 ❀ Read more: <span class="smallicon">🖥</span> *[Computing in Vekllei](/factbook/society/technology/computers/)*
 {{</hint>}}
 

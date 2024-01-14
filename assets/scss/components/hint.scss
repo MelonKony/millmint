@@ -9,8 +9,8 @@ article blockquote {
 	@include padding-2;
 	@include radius-base;
 	@include highlight-background;
+	@include highlight-border;
 	font-style: normal;
-	border-inline-start: none;
 
 	.icon {
 		display: block;
@@ -33,12 +33,16 @@ article blockquote {
 	}
 }
 
-blockquote.hint:not(.panel):not(.subtitle) {
-  background-color: var(--highlight-background);
-}
-
 .hint.panel {
 	@include padding-4;
+
+	h1, h2, h3, h4, h5, h6 {
+		@include margin-0;
+	}
+}
+
+.hint.link {
+	background: none;
 
 	h1, h2, h3, h4, h5, h6 {
 		@include margin-0;

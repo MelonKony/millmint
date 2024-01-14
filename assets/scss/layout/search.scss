@@ -33,6 +33,7 @@
 
 	input {
 		@include highlight-background;
+		@include highlight-border;
 		width: 100%;
 		height: 35px;
 		padding: 2px;

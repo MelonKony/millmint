@@ -224,11 +224,10 @@ header.info {
 		}
 
 		a {
-			@include font-color;
+			color: var(--gray-heavy);
 		}
 
 		.seperator {
-			@include highlight;
 			display: inline;
 			padding-left: .25rem;
 			padding-right: .15rem;

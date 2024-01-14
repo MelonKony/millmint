@@ -11,8 +11,7 @@
 }
 /* for use with hint-bg */
 @mixin secondary-color {
-    color: var(--highlight);
-    filter: hue-rotate(15deg) invert(0.25) saturate(0.5);
+    color: var(--gray-heavy);
 }
 @mixin font-blue {
   color: var(--color-blue);

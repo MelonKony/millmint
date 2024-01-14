@@ -354,7 +354,7 @@ html {
   --color-cosmosec: #2559a7;
   --color-cosmolab: #a12b2e;
   --color-cosmogos: #13ac43;
-  --color-cosmolit: #18acda;
+  --color-cosmolit: #56a3bb;
   --color-education: #3b6fb9;
   --color-security: #f0564b;
   --color-community: #ffa254;
@@ -388,10 +388,10 @@ html[data-theme="light"] {
 html[data-theme="dark"] {
   --font-color: #f0f0f6;
   --highlight: #5f5f69;
-  --highlight-background: #222226;
+  --highlight-background: #d7d7dd;
   --gray-light: #262629;
   --gray-med:#302f2f;
-  --gray-heavy: #222226;
+  --gray-heavy: #d7d7dd;
   --color-blue: rgb(32, 79, 120);
   --color-text-secondary: #8b8b8b;
   --color-text-footer: #a3a3a3;
@@ -485,18 +485,15 @@ h1 a.anchor, h2 a.anchor, h3 a.anchor, h4 a.anchor, h5 a.anchor, h6 a.anchor {
         display: block; }
 
 button.navbutton {
-  color: var(--highlight);
-  filter: hue-rotate(15deg) invert(0.25) saturate(0.5);
-  display: block;
-  background: none;
-  border: none;
-  margin: 0;
+  height: 100%;
+  padding: .5rem;
   cursor: pointer;
   outline: inherit;
   font-size: 18px; }
   button.navbutton:hover {
-    color: var(--gray-heavy);
-    filter: brightness(100%); }
+    color: inherit; }
+  button.navbutton .navicon {
+    margin: 0; }
 
 button.bulletbutton {
   font-size: 0.875rem;
@@ -704,8 +701,8 @@ details {
   margin-bottom: .5rem;
   border-radius: .25rem;
   background-color: var(--highlight-background);
+  border: 1px solid var(--highlight);
   padding: 0.5rem 1rem 0.5rem 1rem;
-  border: 0px solid var(--gray-light);
   outline: none; }
   details summary {
     font-size: 1rem;
@@ -742,8 +739,7 @@ input {
   /* 14px */
   line-height: 1.25rem;
   /* 20px */
-  padding-left: .5rem !important;
-  border: 0 !important; }
+  padding-left: .5rem !important; }
 
 a {
   color: var(--highlight);
@@ -767,7 +763,7 @@ button {
   position: relative;
   box-sizing: border-box;
   font-weight: 600;
-  border: 1px solid var(--color-gray);
+  border: 0px solid var(--color-gray);
   border-radius: .25rem; }
   button:hover {
     filter: brightness(65%); }
@@ -1304,9 +1300,8 @@ header.info {
       margin: 0;
       padding: 0; }
     header.info .headcrumbs a {
-      color: var(--font-color); }
+      color: var(--gray-heavy); }
     header.info .headcrumbs .seperator {
-      color: var(--highlight);
       display: inline;
       padding-left: .25rem;
       padding-right: .15rem; }
@@ -1333,8 +1328,7 @@ nav {
       margin-bottom: 0;
       list-style: none; }
     nav .navbar .menu-dropdown li .left a {
-      color: var(--highlight);
-      filter: hue-rotate(15deg) invert(0.25) saturate(0.5); }
+      color: var(--gray-heavy); }
     nav .navbar .menu-dropdown li:hover {
       background: var(--hint-bg, var(--gray-light));
       box-shadow: inset 0 0 0 4px var(--body-background); }
@@ -1359,8 +1353,7 @@ nav {
         padding: 0;
         font-weight: 500; }
         nav .navbar .navbar-item > a.menu-link .navicon, nav .navbar .navbar-item > a.menu-link .name {
-          color: var(--highlight);
-          filter: hue-rotate(15deg) invert(0.25) saturate(0.5); }
+          color: var(--gray-heavy); }
       nav .navbar .navbar-item:hover {
         border-bottom-color: var(--highlight); }
     nav .navbar .navbar-item.insection,
@@ -1603,8 +1596,7 @@ nav {
         color: inherit; }
   .pagination a,
   .pagination span {
-    color: var(--highlight);
-    filter: hue-rotate(15deg) invert(0.25) saturate(0.5); }
+    color: var(--gray-heavy); }
   .pagination .disabled {
     cursor: not-allowed; }
   .pagination .prev {
@@ -1705,8 +1697,8 @@ article blockquote {
   padding: .5rem;
   border-radius: .25rem;
   background-color: var(--highlight-background);
-  font-style: normal;
-  border-inline-start: none; }
+  border: 1px solid var(--highlight);
+  font-style: normal; }
   .hint .icon {
     display: block;
     text-align: center;
@@ -1726,12 +1718,14 @@ article blockquote {
   .hint .text {
     vertical-align: middle; }
 
-blockquote.hint:not(.panel):not(.subtitle) {
-  background-color: var(--highlight-background); }
-
 .hint.panel {
   padding: 1rem; }
   .hint.panel h1, .hint.panel h2, .hint.panel h3, .hint.panel h4, .hint.panel h5, .hint.panel h6 {
+    margin: 0; }
+
+.hint.link {
+  background: none; }
+  .hint.link h1, .hint.link h2, .hint.link h3, .hint.link h4, .hint.link h5, .hint.link h6 {
     margin: 0; }
 
 .hint.header {
@@ -1838,6 +1832,7 @@ img.page {
   margin-right: auto;
   padding: .5rem;
   background-color: var(--highlight-background);
+  border: 1px solid var(--highlight);
   box-sizing: border-box; }
 
 /*.article-tag {
@@ -1856,6 +1851,7 @@ img.page {
   line-height: 1.25rem;
   /* 20px */
   font-weight: 600;
+  color: var(--gray-heavy);
   grid-area: category;
   text-transform: capitalize; }
   .article-category a {
@@ -1931,8 +1927,7 @@ img.page {
       justify-content: space-between; }
       .desktop-toc-wrapper .desktop-toc details summary .title {
         font-weight: 700;
-        color: var(--highlight);
-        filter: hue-rotate(15deg) invert(0.25) saturate(0.5);
+        color: var(--gray-heavy);
         filter: none; }
         .desktop-toc-wrapper .desktop-toc details summary .title:hover {
           text-decoration: none;
@@ -3081,6 +3076,9 @@ ol.timeline .event {
 .fi-min-atlantis.fis {
   background-image: url(../svg/logos/atlantis.svg); }
 
+.fi-min-rail.fis {
+  background-image: url(../svg/logos/rail.svg); }
+
 .fi-min-national-machines.fis {
   background-image: url(../svg/logos/national-machines.svg); }
 
@@ -3089,6 +3087,12 @@ ol.timeline .event {
 
 .fi-min-united-grocers.fis {
   background-image: url(../svg/logos/united-grocers.svg); }
+
+.fi-min-transport-labs.fis {
+  background-image: url(../svg/logos/transport-labs.svg); }
+
+.fi-min-transport-commission.fis {
+  background-image: url(../svg/logos/transport-commission.svg); }
 
 .fib {
   background-size: contain;
@@ -4839,6 +4843,7 @@ ol.timeline .event {
   grid-area: search; }
   .search input {
     background-color: var(--highlight-background);
+    border: 1px solid var(--highlight);
     width: 100%;
     height: 35px;
     padding: 2px;
