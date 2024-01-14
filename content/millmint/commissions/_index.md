@@ -2,7 +2,7 @@
 title: Commissions
 fulltitle: Commissions
 
-image: /images/ruins.jpg
+image: /images/fullres/maria.jpg
 
 layout: page
 type: blank
@@ -28,7 +28,6 @@ author: Hobart Phillips
 ✿ You can contact me at <span class="smallicon">📧</span> studio@millmint.net.
 {{</hint>}}
 
-{{<section>}}
 ### Choosing a commission
 
 - **Email**: studio@millmint.net
@@ -41,19 +40,21 @@ You know what I draw -- it's probably how you found me. It should be no surprise
 |---|---|
 | <ul> <li>People & characters</li> <li>Uniforms & design</li> <li>Architecture & machines</li> <li>Scenes & places</li> </ul> | Pornographic, obscene,<br> immoral, or otherwise<br> offensive concepts |
 
-{{</section>}}
+<br>
 
 {{<tabs title="Pricing">}}
 {{<tab "Sketches">}}
-### Sketches & Concepts: <span class="tag price" style="float: right;">$20-$50</span> <span class="tag" style="float: right; opacity: 60%;">1-2 days</span>
+### Sketches & Concepts: <span class="tag price" style="float: right;">$20-$75</span> <span class="tag" style="float: right; opacity: 60%;">1-2 days</span>
 These are artworks that are good for developing an idea. They're rough around the edges, usually uncoloured, and full of energy. Prices vary on their scope and colour.
+![img](/images/fullres/fish.jpg)
+![img](/images/fullres/elraltzia.jpg)
 ![img](/images/sketches/short.jpg)
-![img](/images/sketches/neko.jpg)
 {{</tab>}}
 {{<tab "Designs">}}
 ### Characters & Design: <span class="tag price" style="float: right;">$75-$200</span> <span class="tag" style="float: right; opacity: 60%;">2-5 days</span>
 These are finished artworks that realise your people, machines and objects. They're great for showing off a character, helping you design a vehicle or visualise a machine. Prices vary on the complexity of depicted items and artwork detail.
 
+![img](/images/fullres/fox.jpg)
 ![img](/images/rifles.jpg)
 ![img](/images/kalinauniform.jpg)
 ![img](/images/statejet.jpg)

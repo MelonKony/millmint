@@ -32,7 +32,8 @@ h1, h2, h3, h4, h5, h6 {
 	@include px-4;
 	@include py-2;
 	@include radius-base;
-	background-color: var(--highlight-background);
+	@include highlight-border;
+	@include highlight-background;
 	line-height: 1.5;
 	letter-spacing: -.01em;
 
