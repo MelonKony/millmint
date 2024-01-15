@@ -18,7 +18,7 @@ url: /stories/apartment-ideology/
 aliases:
 - /posts/2019-12-20-apartment/
 
-image: /images/newda.jpg
+image: https://images.millmint.net/newda.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/ed8zwv/life_and_death_in_vekllei_apartment_ideology_or/
 ---
 

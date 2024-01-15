@@ -18,7 +18,7 @@ url: /stories/winter-clothing/
 aliases:
 - /posts/2018-04-16-winter-clothing/
 
-image: /images/coldweather.jpg
+image: https://images.millmint.net/coldweather.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/8cklgn/winter_clothing_and_womanhood_in_vekllei/
 ---
 

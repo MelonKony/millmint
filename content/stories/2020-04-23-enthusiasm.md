@@ -19,7 +19,7 @@ url: /stories/enthusiasm/
 aliases:
 - /posts/2020-04-23-enthusiasm/
 
-image: /images/enthusiasm.jpg
+image: https://images.millmint.net/enthusiasm.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/g65op7/gentle_enthusiasm/
 ---
 

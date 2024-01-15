@@ -19,7 +19,7 @@ url: /stories/christmas-2018/
 aliases:
 - /posts/2018-12-23-christmas/
 
-image: /images/christmas2018.jpg
+image: https://images.millmint.net/christmas2018.jpg
 reddit: https://www.reddit.com/user/MelonKony/comments/a8tuqe/merry_christmas_everyone_plus_a_little_christmas/
 ---
 

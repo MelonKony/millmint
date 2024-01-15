@@ -18,7 +18,7 @@ url: /stories/lightbulb/
 aliases:
 - /posts/2022-05-30-spaceship/
 
-image:  /images/lightbulb.jpg
+image:  https://images.millmint.net/lightbulb.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/v15une/a_vekllei_spaceship/
 print: https://www.inprnt.com/gallery/melonkony/apollo-interstellar-transport/
 ---

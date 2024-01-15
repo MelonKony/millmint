@@ -19,7 +19,7 @@ url: /stories/shrine-minded/
 aliases:
 - /posts/2021-05-06-shrine-minded/
 
-image: /images/shrine-minded.jpg
+image: https://images.millmint.net/shrine-minded.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/n6a990/shrineminded_girls/
 ---
 

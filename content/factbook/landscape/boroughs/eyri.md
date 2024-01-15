@@ -11,7 +11,7 @@ tags:
 categories:
   - commonwealth
 
-image: /images/serpent.jpg
+image: https://images.millmint.net/serpent.jpg
 
 weight: 1
 

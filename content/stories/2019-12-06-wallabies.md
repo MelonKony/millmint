@@ -18,7 +18,7 @@ url: /stories/wallaby/
 aliases:
 - /posts/2019-12-06-wallabies/
 
-image: /images/wallaby.jpg
+image: https://images.millmint.net/wallaby.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/e6iykk/wallabies_of_the_arctic_veklleis_pademelon_and/
 ---
 

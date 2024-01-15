@@ -20,7 +20,7 @@ url: /stories/socialism/
 aliases:
 - /posts/2021-11-20-socialism/
 
-image: /images/socialism.jpg
+image: https://images.millmint.net/socialism.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/qya4ev/socialism_backwards/
 print: https://www.inprnt.com/gallery/melonkony/socialism-backwards/
 ---

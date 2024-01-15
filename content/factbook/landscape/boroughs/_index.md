@@ -14,7 +14,7 @@ tags:
 categories:
   - commonwealth
 
-image: /images/vekllei.png
+image: https://images.millmint.net/vekllei.png
 
 aliases:
 - /boroughs/

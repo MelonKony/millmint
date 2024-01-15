@@ -19,7 +19,7 @@ url: /stories/panaderas/
 aliases:
 - /posts/2022-05-02-panaderas/
 
-image: /images/panaderas.jpg
+image: https://images.millmint.net/panaderas.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/uguwe7/panaderas/
 ---
 **She was in Lo**, at the end of its winding river, standing in the place where the interior rains met the warm currents of the ocean. A mechanical clicking annoyed her but she could not tell if it was coming from the telephone exchange box or the electric street light above her head. It had just rained and it was a cold rain, so the air was sharp, and hurt and excited her lungs.

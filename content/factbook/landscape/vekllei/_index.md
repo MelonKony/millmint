@@ -5,7 +5,7 @@ icon: 🌹
 logo: /svg/flags/4x3/com.svg
 color: pink
 
-image: /images/fullres/airship.jpg
+image: https://images.millmint.net/fullres/airship.jpg
 
 type: blank
 

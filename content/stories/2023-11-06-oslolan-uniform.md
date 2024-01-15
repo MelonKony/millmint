@@ -16,7 +16,7 @@ url: /stories/oslolan-uniform/
 
 toc: false
 
-image: /images/fullres/oslolan-uniform.jpg
+image: https://images.millmint.net/fullres/oslolan-uniform.jpg
 reddit:
 print:
 video:

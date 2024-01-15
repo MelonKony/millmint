@@ -18,7 +18,7 @@ url: /stories/police-car/
 aliases:
 - /posts/2018-05-18-police-car/
 
-image: /images/policecar.jpg
+image: https://images.millmint.net/policecar.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/8kca7t/police_in_vekllei/
 ---
 

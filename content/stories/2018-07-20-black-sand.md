@@ -18,7 +18,7 @@ url: /stories/black-sand/
 aliases:
 - /posts/2018-07-20-black-sand/
 
-image: /images/blacksand.jpg
+image: https://images.millmint.net/blacksand.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/90f56z/hot_summer_rain_on_a_beach_of_black_sand_iceland/
 ---
 

@@ -18,7 +18,7 @@ toc: false
 
 rgb: 104, 57, 125
 
-image: /images/fullres/gm.jpg
+image: https://images.millmint.net/fullres/gm.jpg
 reddit:
 print:
 video:

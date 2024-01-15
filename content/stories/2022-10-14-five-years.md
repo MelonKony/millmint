@@ -19,7 +19,7 @@ toc: false
 
 rgb:
 
-image: /images/five.jpg
+image: https://images.millmint.net/five.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/y45ul2/happy_birthday_vekllei_youre_5_years_old/
 print: 
 video:

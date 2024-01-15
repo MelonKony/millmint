@@ -20,7 +20,7 @@ url: /stories/moneylessness/
 aliases:
 - /posts/2021-12-09-moneylessness/
 
-image: /images/coast.jpg
+image: https://images.millmint.net/coast.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/rcn1cg/on_moneylessness/
 ---
 

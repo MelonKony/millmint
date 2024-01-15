@@ -11,7 +11,7 @@ tags:
 categories:
   - commonwealth
 
-image: /images/lightbulb.jpg
+image: https://images.millmint.net/lightbulb.jpg
 
 
 aliases:

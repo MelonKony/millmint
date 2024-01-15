@@ -19,7 +19,7 @@ url: /stories/an-introduction/
 aliases:
 - /posts/2019-09-03-an-introduction/
 
-image: /images/lola.jpg
+image: https://images.millmint.net/lola.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/czi423/a_brief_introduction_to_vekllei/
 ---
 

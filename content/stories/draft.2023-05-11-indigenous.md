@@ -21,7 +21,7 @@ toc: false
 
 rgb: 72, 114, 132
 
-image: /images/fullres/downpour.jpg
+image: https://images.millmint.net/fullres/downpour.jpg
 reddit:
 print:
 video:

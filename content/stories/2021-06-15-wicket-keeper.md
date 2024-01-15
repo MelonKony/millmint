@@ -18,7 +18,7 @@ url: /stories/wickets/
 aliases:
 - /posts/2021-06-15-wicket-keeper/
 
-image: /images/wickets.jpg
+image: https://images.millmint.net/wickets.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/o0k8to/wicketkeeper/
 ---
 

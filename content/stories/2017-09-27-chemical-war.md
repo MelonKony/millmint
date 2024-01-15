@@ -17,7 +17,7 @@ url: /stories/chemical-war/
 aliases:
 - /posts/2017-09-27-chemical-war/
 
-image: /images/chemicalwar.jpg
+image: https://images.millmint.net/chemicalwar.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/72lalc/chemical_warfare_in_2063_vekllei/
 ---
 

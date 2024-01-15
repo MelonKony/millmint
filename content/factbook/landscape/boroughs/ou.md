@@ -11,7 +11,7 @@ tags:
 categories:
   - commonwealth
 
-image: /images/hydro.jpg
+image: https://images.millmint.net/hydro.jpg
 
 
 aliases:

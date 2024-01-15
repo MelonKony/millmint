@@ -18,7 +18,7 @@ url: /stories/supermarket/
 aliases:
 - /posts/2019-08-19-supermarket/
 
-image: /images/supermarket.jpg
+image: https://images.millmint.net/supermarket.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/csh4e6/supermarkets_in_vekllei/
 ---
 

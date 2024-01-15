@@ -18,7 +18,7 @@ url: /stories/cyclical/
 aliases:
 - /posts/2021-06-09-generations/
 
-image: /images/generations.jpg
+image: https://images.millmint.net/generations.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/nw354j/generations/
 ---
 

@@ -19,7 +19,7 @@ toc: false
 
 rgb: 157, 157, 157
 
-image: /images/fullres/prairie.jpg
+image: https://images.millmint.net/fullres/prairie.jpg
 reddit:
 print:
 video:

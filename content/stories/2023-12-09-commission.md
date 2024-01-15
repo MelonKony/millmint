@@ -17,7 +17,7 @@ url: /stories/commission-by-lecanard/
 
 toc: false
 
-image: /images/fullres/commission-by-lecanard.png
+image: https://images.millmint.net/fullres/commission-by-lecanard.png
 reddit:
 print:
 video:

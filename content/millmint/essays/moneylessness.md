@@ -14,7 +14,7 @@ categories:
 aliases:
 - /moneylessness/
 
-image: /images/coast.jpg
+image: https://images.millmint.net/coast.jpg
 weight: 1
 
 

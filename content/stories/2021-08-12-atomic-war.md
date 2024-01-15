@@ -17,7 +17,7 @@ url: /stories/june/
 aliases:
 - /posts/2021-08-12-atomic-war/
 
-image: /images/tv.jpg
+image: https://images.millmint.net/tv.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/p33nu3/june_21st_2111/
 ---
 

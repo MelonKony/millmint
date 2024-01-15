@@ -18,7 +18,7 @@ url: /stories/summer-house/
 aliases:
 - /posts/2020-07-28-summer-house/
 
-image: /images/summerhouse.jpg
+image: https://images.millmint.net/summerhouse.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/hyt68u/summer_house_in_the_azores/
 ---
 

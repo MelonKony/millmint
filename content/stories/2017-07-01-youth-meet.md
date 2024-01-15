@@ -19,7 +19,7 @@ aliases:
 - /stories/1/
 - /posts/2017-07-01-youth-meet/
 
-image: /images/youthmeet.jpg
+image: https://images.millmint.net/youthmeet.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/6kgbkb/tzipora_has_her_photo_taken_at_youth_meet_2063/
 ---
 Tzipora is smiling in the photo because she has won the competition for multilingual spelling. She is a recent citizen of **Vekllei**, a postcollectivist country in what we know as Iceland. She beat American boy scouts, Australian girl guides, Chinese and Soviet Pioneers and other youth organisations to win top prize.

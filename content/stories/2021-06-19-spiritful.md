@@ -18,7 +18,7 @@ url: /stories/spiritful/
 aliases:
 - /posts/2021-06-19-spiritful/
 
-image: /images/spiritful.jpg
+image: https://images.millmint.net/spiritful.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/o3mrum/spiritful/
 ---
 

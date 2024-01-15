@@ -17,7 +17,7 @@ url: /stories/commonwealth/
 aliases:
 - /posts/2021-03-10-commonwealth/
 
-image: /images/territories.jpg
+image: https://images.millmint.net/territories.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/m21j78/veklleis_sprawling_commonwealth/
 ---
 

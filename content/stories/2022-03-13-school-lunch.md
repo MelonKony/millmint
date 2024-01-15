@@ -19,7 +19,7 @@ url: /stories/lunch/
 aliases:
 - /posts/2022-03-13-school-lunch/
 
-image: /images/lunch.jpg
+image: https://images.millmint.net/lunch.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/td9iwj/tzipora_takes_her_lunch_to_school/
 ---
 

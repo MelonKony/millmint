@@ -19,7 +19,7 @@ url: /stories/municipal/
 aliases:
 - /posts/2022-05-08-municipal/
 
-image: /images/municipal.jpg
+image: https://images.millmint.net/municipal.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/ul6cfm/the_good_the_municipal/
 ---
 **The base unit** of Vekllei society are municipalities, called *municipolis* in their language. They occupy a uniquely intimate presence in Vekllei life as an unusual body of public affairs. Unlike other state bodies in Vekllei, which function similar to their overseas counterparts, local municipalities supersede their conventional definition as mere 'local governments' and are considerably more essential to the wellbeing of Vekllei communities.

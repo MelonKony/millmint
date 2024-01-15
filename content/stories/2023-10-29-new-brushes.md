@@ -19,7 +19,7 @@ toc: false
 
 rgb: 247, 167, 144
 
-image: /images/fullres/new-brushes.jpg
+image: https://images.millmint.net/fullres/new-brushes.jpg
 reddit:
 print:
 video:

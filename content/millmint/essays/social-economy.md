@@ -4,7 +4,7 @@ fulltitle: A Social Economy
 icon: 💸
 emoji: ō
 color: blue
-image: /images/fullres/prairie.jpg
+image: https://images.millmint.net/fullres/prairie.jpg
 
 aliases:
 - /social-economy/

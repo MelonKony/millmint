@@ -18,7 +18,7 @@ url: /stories/decay/
 aliases:
 - /posts/2019-06-30-human-decay/
 
-image: /images/decay.jpg
+image: https://images.millmint.net/decay.jpg
 reddit: https://www.reddit.com/user/MelonKony/comments/c708ih/the_principles_of_human_decay/
 ---
 

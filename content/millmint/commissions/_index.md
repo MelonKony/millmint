@@ -2,7 +2,7 @@
 title: Commissions
 fulltitle: Commissions
 
-image: /images/fullres/maria.jpg
+image: https://images.millmint.net/fullres/maria.jpg
 
 layout: page
 type: blank

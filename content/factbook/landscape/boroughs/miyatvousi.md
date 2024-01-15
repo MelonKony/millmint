@@ -11,7 +11,7 @@ tags:
 categories:
   - commonwealth
 
-image: /images/hollywood.jpg
+image: https://images.millmint.net/hollywood.jpg
 
 
 weight: 1

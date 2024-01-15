@@ -17,7 +17,7 @@ url: /stories/motorbike/
 aliases:
 - /posts/2018-12-19-constabulary/
 
-image: /images/bike.jpg
+image: https://images.millmint.net/bike.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/a7ltvy/the_suburban_constabulary/
 ---
 

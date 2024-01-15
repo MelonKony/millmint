@@ -13,3 +13,5 @@ aliases:
 {{</hint>}}
 
 The Commonwealth Central Archives (also just *Archives*) is a corporation of the {{<link/ministry-of-culture>}} and is the central documents store, management and database organisation of {{<link/vekllei>}}.
+
+The Archives document the general disposition, welfare, culture and demography of the people of the Commonwealth. This includes political attitudes towards the Commonwealth itself, as well as how decisions made by other ministries impact public opinion.

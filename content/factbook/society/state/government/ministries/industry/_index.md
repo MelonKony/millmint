@@ -9,5 +9,5 @@ aliases:
 - /cosmosec/
 ---
 {{< hint >}}
-߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}.
+߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
 {{</hint>}}

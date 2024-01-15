@@ -18,6 +18,7 @@
 
   .card {
     @include radius-base;
+    border: 1px solid var(--gray-heavy);
     width: 100%;
     box-sizing: border-box;
     background: var(--gray-light);
@@ -29,16 +30,12 @@
 
   .post-info {
     @include padding-2;
-    /* position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 1; */
-  }
-
-  .post-info .text-base {
-    border-bottom: 0;
-    line-height: 1.5;
-    padding: 5px 0;
+    border-bottom: 1px solid var(--gray-heavy);
+    .text-base {
+      border-bottom: 0;
+      line-height: 1.5;
+      padding: 5px 0;
+    }
   }
 
   .post-info .post-title {

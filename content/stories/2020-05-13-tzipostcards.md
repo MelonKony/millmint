@@ -20,7 +20,7 @@ url: /stories/postcards/
 aliases:
 - /posts/2020-05-13-tzipostcards/
 
-image: /images/tzipostcards.jpg
+image: https://images.millmint.net/tzipostcards.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/gide8n/announcing_tzipostcards/
 ---
 

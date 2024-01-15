@@ -19,7 +19,7 @@ toc: false
 
 rgb: 174, 143, 54
 
-image: /images/field-portrait.jpg
+image: https://images.millmint.net/field-portrait.jpg
 reddit:
 print: 
 video:

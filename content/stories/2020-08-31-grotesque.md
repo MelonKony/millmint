@@ -17,7 +17,7 @@ url: /stories/war-map/
 aliases:
 - /posts/2020-08-31-grotesque/
 
-image: /images/warmap.jpg
+image: https://images.millmint.net/warmap.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/ijxvzu/absolute_grotesque/
 ---
 

@@ -20,7 +20,7 @@ url: /stories/meet-tzipora/
 aliases:
 - /posts/2019-05-27-character/
 
-image: /images/character.jpg
+image: https://images.millmint.net/character.jpg
 reddit: https://www.reddit.com/r/characterforge/comments/btfqm8/show_and_tell_meet_tzipora_desmoines_the_eternal/
 ---
 

@@ -17,7 +17,7 @@ url: /stories/station-dog/
 aliases:
 - /posts/2019-08-16-station-dog/
 
-image: /images/dog.jpg
+image: https://images.millmint.net/dog.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/cr65zu/the_people_of_veklleis_railway_plus_dog/
 ---
 

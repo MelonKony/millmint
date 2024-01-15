@@ -22,25 +22,6 @@ The stated mission of CHICOM is the democratisation and celebration of knowledge
 CHICOM also oversees Vekllei's four learned societies, called academies, which offer immortal membership to remarkable contributors to learning in Vekllei. The Academies of the Commonwealth are funded by a bureau tithe, mandated but otherwise seperate from Commonwealth government apparatuses.
 
 {{<hint panel>}}
-### Vekllei Public Education Directorate
-
-The *Public Education Directorate* oversees all compulsory education across the Commonwealth, including both government and vocational schools.
-
-#### Vekllei Primary Education Directorate
-
-#### Vekllei Higher Education Directorate
-
-#### All-Commonwealth School Directorate
-
-The *All-Commonwealth School Directorate* (ACC) manages the local production of school materials, particularly uniforms and textbooks, and ensures their availability and quality for students. The ACC is not involved in teaching or study itself, and instead serves learning infrastructure, including the maintenance and renewal of existing school buildings.
-
-#### Common Children's Press
-
-#### Common Tertiary Press
-
-{{</hint>}}
-
-{{<hint panel>}}
 ### Vekllei National Laboratories
 
 *Vekllei National Laboratories* (also *National Labs*) is the administrator of the National Laboratory Complex in Amenmer, Coyenstisn, and the National Laboratory System across Commonwealth-level universities and academies in Vekllei.

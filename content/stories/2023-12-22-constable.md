@@ -17,7 +17,7 @@ url: /stories/nabbed/
 
 toc: false
 
-image: /images/fullres/nabbed.jpg
+image: https://images.millmint.net/fullres/nabbed.jpg
 reddit:
 print:
 video:

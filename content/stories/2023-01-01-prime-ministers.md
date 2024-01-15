@@ -19,7 +19,7 @@ rgb: 145, 127, 121
 
 toc: false
 
-image: /images/ministers.jpg
+image: https://images.millmint.net/ministers.jpg
 highres: https://lh6.googleusercontent.com/AMkhEOW31TYnTqxJeZzYzW_LCrS169vJuoFKobf2D_EAaFXcw6Gns1dxssNh6hAnXK4=w2400
 reddit: https://www.reddit.com/r/vekllei/comments/100zdgp/the_prime_ministers_of_vekllei/
 print:

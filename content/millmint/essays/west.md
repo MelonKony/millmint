@@ -11,7 +11,7 @@ rgb: 130, 120, 36
 aliases:
 - /west/
 
-image: /images/blog/westcoast/11.jpeg
+image: https://images.millmint.net/blog/westcoast/11.jpeg
 ---
 
 > A shining beacon in the dull, uniform and largely artificial world

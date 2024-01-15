@@ -10,7 +10,7 @@ tags:
 categories:
   - commonwealth
 
-image: /images/orange.jpg
+image: https://images.millmint.net/orange.jpg
 
 
 aliases:

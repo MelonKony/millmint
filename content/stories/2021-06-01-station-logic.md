@@ -19,7 +19,7 @@ url: /stories/station-logic/
 aliases:
 - /posts/2021-06-01-station-logic/
 
-image: /images/stationlogic.jpg
+image: https://images.millmint.net/stationlogic.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/nq071y/station_logic/
 ---
 

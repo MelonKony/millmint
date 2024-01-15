@@ -18,7 +18,7 @@ toc: false
 
 rgb: 167, 177, 190
 
-image: /images/fullres/tundra.jpg
+image: https://images.millmint.net/fullres/tundra.jpg
 reddit:
 print:
 video:

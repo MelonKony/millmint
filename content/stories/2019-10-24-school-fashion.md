@@ -18,7 +18,7 @@ url: /stories/school-fashion/
 aliases:
 - /posts/2019-10-24-school-fashion/
 
-image: /images/schoolfashion.jpg
+image: https://images.millmint.net/schoolfashion.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/dmfe5n/boyhood_fashion_in_veklleis_school_halls/
 ---
 

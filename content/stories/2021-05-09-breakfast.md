@@ -18,7 +18,7 @@ url: /stories/breakfast/
 aliases:
 - /posts/2021-05-09-breakfast/
 
-image: /images/breakfast.jpg
+image: https://images.millmint.net/breakfast.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/n8hfeu/a_vekllei_breakfast/
 ---
 

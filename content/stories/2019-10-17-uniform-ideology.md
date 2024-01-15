@@ -19,7 +19,7 @@ url: /stories/uniform-ideology/
 aliases:
 - /posts/2019-10-17-uniform-ideology/
 
-image: /images/uniformideology.jpg
+image: https://images.millmint.net/uniformideology.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/dj5di0/uniform_ideology_in_the_arctic_north/
 ---
 

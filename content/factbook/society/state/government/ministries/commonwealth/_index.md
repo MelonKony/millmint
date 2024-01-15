@@ -9,7 +9,7 @@ aliases:
 - /cosmocom/
 ---
 {{< hint >}}
-߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}.
+߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
 {{</hint>}}
 
 The <span class="fi fi-min-commonwealth fis"></span> **Ministry of the Commonwealth** (COSMOCOM) is the organ through which the Interior Parliament communicates and cooperates with the Commonwealth Parliament and its secretariats. Its primary responsibility is cooperation between member states and standardisation, and publishes reports and manuals towards this goal. It is also the primary ministry through which the subordinates of the Commonwealth influence the Interior Parliament. COSMOCOM is also responsible for ensuring changes made to the Floral Constitution are implemented domestically. Common responsibilities of COSMOCOM include:

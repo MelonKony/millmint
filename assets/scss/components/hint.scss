@@ -68,6 +68,7 @@ article blockquote {
 	@include radius-base;
 	@include highlight-background;
 	@include highlight;
+	border-top: 0px;
 	margin: -2rem 0 0.5rem 0;
 	text-align: center;
 	letter-spacing: -.01em;

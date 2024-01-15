@@ -18,7 +18,7 @@ url: /stories/christmas-2019/
 aliases:
 - /posts/2019-12-26-christmas/
 
-image: /images/christmas2019.jpg
+image: https://images.millmint.net/christmas2019.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/eful5i/merry_christmas/
 ---
 

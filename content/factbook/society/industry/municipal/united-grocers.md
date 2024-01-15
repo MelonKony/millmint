@@ -4,7 +4,7 @@ fulltitle: United Grocers
 icon: 🌾
 logo: /svg/logos/united-grocers.svg
 rgb: 98, 186, 85
-image: /images/fullres/united-grocers.jpg
+image: https://images.millmint.net/fullres/united-grocers.jpg
 
 aliases:
 - /united-grocers/

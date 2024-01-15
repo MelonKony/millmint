@@ -18,7 +18,7 @@ url: /stories/diplomacy/
 aliases:
 - /posts/2021-04-19-diplomacy/
 
-image: /images/diplomacy.jpg
+image: https://images.millmint.net/diplomacy.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/mu1v5t/living_diplomacy/
 ---
 

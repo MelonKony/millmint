@@ -18,7 +18,7 @@ url: /stories/regret-comic/
 
 toc: false
 
-image: /images/fullres/ohno.jpg
+image: https://images.millmint.net/fullres/ohno.jpg
 reddit:
 print:
 video:

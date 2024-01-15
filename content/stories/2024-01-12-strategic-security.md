@@ -16,7 +16,7 @@ url: /stories/strategic-security/
 
 toc: false
 
-image: /images/fullres/security.jpg
+image: https://images.millmint.net/fullres/security.jpg
 reddit:
 print:
 video:

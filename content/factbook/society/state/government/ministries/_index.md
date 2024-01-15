@@ -14,11 +14,12 @@ aliases:
 {{</hint>}}
 
 {{<hint panel>}}
-Commonwealth Ministries are departments headed by a {{<link/sorda>}}. The portfolios within ministries are usually assigned to qualified {{<link/cabinet>}} members. Ministries are assigned with aspects of government that are partially devolved to [Constituents](/constituents/), and as such are much larger than [Council Secretariats](/councils/)
+Commonwealth Ministries devolved ministerial departments of {{<link/vekllei>}}. They are lead by a qualified member of the {{<link/cabinet>}} appointed by the {{<link/directory>}}.
+
+Each ministry is lead by a ministerial secretariat, which centralises authority and policy across the [constituent commonwealths](/constituents/). Each constituent has the same ten ministries, which are coordinated centrally by the secretariat.
 {{</hint>}}
 
-{{<hint panel>}}
-
+{{<hint>}}
 * {{<link/ministry-of-commerce>}}
 * {{<link/ministry-of-culture>}}
 * {{<link/ministry-of-defence>}}
@@ -29,5 +30,4 @@ Commonwealth Ministries are departments headed by a {{<link/sorda>}}. The portfo
 * {{<link/ministry-of-light-and-water>}}
 * {{<link/ministry-of-the-commons>}}
 * {{<link/ministry-of-the-commonwealth>}}
-
 {{</hint>}}

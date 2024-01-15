@@ -9,7 +9,7 @@ aliases:
 - /cosmosol/
 ---
 {{< hint >}}
-߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}.
+߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
 {{</hint>}}
 
 The <span class="fi fi-min-commerce fis"></span> **Ministry of Commerce** (COSMOSOL) conducts government spending and facilitates trade in the country. Despite the functional moneylessness of the {{<link/vekllei>}}, COSMOSOL remains among the busiest ministries of the Interior Government, since all economic policy, international trade and entitled renumeration (the Vekllei turn-of-phrase for withdrawing from the {{<link/commbank>}}) occurs through its subordinate bureaus and organisations. Common responsibilities of COSMOSOL include:

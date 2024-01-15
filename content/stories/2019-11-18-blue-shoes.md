@@ -18,7 +18,7 @@ url: /stories/blue-shoes/
 aliases:
 - /posts/2019-11-18-blue-shoes/
 
-image: /images/blueshoes.jpg
+image: https://images.millmint.net/blueshoes.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/dy34hd/blue_shoes/
 ---
 

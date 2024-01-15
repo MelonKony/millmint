@@ -18,7 +18,7 @@ url: /stories/apartment-diagram/
 aliases:
 - /posts/2020-05-15-apartment/
 
-image: /images/apartment.jpg
+image: https://images.millmint.net/apartment.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/gjpcha/2031_apartment_diagram/
 ---
 

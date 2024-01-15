@@ -11,7 +11,7 @@ tags:
 categories:
   - commonwealth
 
-image: /images/liminal.jpg
+image: https://images.millmint.net/liminal.jpg
 
 
 aliases:

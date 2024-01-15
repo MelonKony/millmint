@@ -19,7 +19,7 @@ url: /stories/puffin-love/
 aliases:
 - /posts/2018-07-19-puffin-love/
 
-image: /images/sketches/puffinlove.jpg
+image: https://images.millmint.net/sketches/puffinlove.jpg
 reddit: https://www.reddit.com/user/MelonKony/comments/8zwexl/winter_love_puffin_feat_tzipora_akiko/
 ---
 

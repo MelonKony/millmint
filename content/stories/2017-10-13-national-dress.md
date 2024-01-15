@@ -17,7 +17,7 @@ url: /stories/vk-dress/
 aliases:
 - /posts/2017-10-13-national-dress/
 
-image: /images/vkdress.jpg
+image: https://images.millmint.net/vkdress.jpg
 reddit: https://www.reddit.com/r/worldbuilding/comments/75wu54/the_national_dress_of_vekllei/
 ---
 

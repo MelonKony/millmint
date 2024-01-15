@@ -17,7 +17,7 @@ url: /stories/challenger/
 aliases:
 - /posts/2019-10-19-challenger/
 
-image: /images/skytrade.jpg
+image: https://images.millmint.net/skytrade.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/dk3d8m/a_new_challenger_has_appeared/
 ---
 

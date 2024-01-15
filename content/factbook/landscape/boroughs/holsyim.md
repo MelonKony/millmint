@@ -11,7 +11,7 @@ tags:
 categories:
   - commonwealth
 
-image: /images/moss.jpg
+image: https://images.millmint.net/moss.jpg
 
 
 aliases:

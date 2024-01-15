@@ -19,7 +19,7 @@ url: /stories/airship/
 aliases:
 - /posts/2019-11-24-dirigible/
 
-image: /images/dirigible.jpg
+image: https://images.millmint.net/dirigible.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/e0xl3w/oceanliners_of_the_sky_vacuum_dirigibles_in/
 ---
 

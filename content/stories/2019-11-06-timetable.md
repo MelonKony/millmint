@@ -18,7 +18,7 @@ url: /stories/timetable/
 aliases:
 - /posts/2019-11-06-timetable/
 
-image: /images/timetable.jpg
+image: https://images.millmint.net/timetable.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/dsh4gm/a_vekllei_timetable/
 ---
 

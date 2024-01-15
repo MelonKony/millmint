@@ -10,7 +10,7 @@ tags:
 categories:
   - society
 
-image: /images/lightbulb.jpg
+image: https://images.millmint.net/lightbulb.jpg
 
 type: blank
 comments: false

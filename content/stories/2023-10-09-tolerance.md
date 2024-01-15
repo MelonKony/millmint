@@ -19,7 +19,7 @@ toc: false
 
 rgb: 187, 202, 112
 
-image: /images/fullres/tolerance.jpg
+image: https://images.millmint.net/fullres/tolerance.jpg
 reddit:
 print:
 video:

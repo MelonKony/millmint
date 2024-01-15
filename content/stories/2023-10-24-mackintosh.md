@@ -19,7 +19,7 @@ toc: false
 
 rgb: 140, 140, 151
 
-image: /images/fullres/mackintosh.jpg
+image: https://images.millmint.net/fullres/mackintosh.jpg
 reddit:
 print:
 video:

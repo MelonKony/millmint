@@ -18,7 +18,7 @@ url: /stories/apricot/
 aliases:
 - /posts/2020-08-09-spaceship/
 
-image: /images/apricot.jpg
+image: https://images.millmint.net/apricot.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/i6528h/the_31st_century_vekllei_throughout_our_solar/
 ---
 

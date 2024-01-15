@@ -83,10 +83,10 @@ Vekllei offers a handful of boarding schools, which are usually specialised inst
 ## Education
 
 {{<hint link>}}
-✿ Read more: *[Ministry of Commerce](/factbook/society/state/government/interior/commerce/)*
+✿ Read more: {{<link/parliament-of-education>}}
 {{</hint>}}
 
-Vekllei people are enrolled in 9 years of compulsory education, provided by the [Commonwealth Education Secretariat](/solsec/) (SOLSEC). In addition, 3 years of pre-school and 3 years of senior secondary schooling are offered but not compulsory. All schools in Vekllei are funded by the state, which include community schools, state schools, studio schools, technical schools, faith schools and state boarding schools.
+Vekllei people are enrolled in 9 years of compulsory education, provided by the {{<link/parliament-of-education>}}. In addition, 3 years of pre-school and 3 years of senior secondary schooling are offered but not compulsory. All schools in Vekllei are funded by the state, which include community schools, state schools, studio schools, technical schools, faith schools and state boarding schools.
 
 Compared to modern schooling overseas, Vekllei education places significant value on well-roundedness and practicable household and technical skills. Subject-based streams for specialised learning are common, but the basic compulsory Vekllei curriculum emphasises non-academic subjects and structures pre-tertiary subjects as electives.
 
@@ -156,7 +156,7 @@ The Commonwealth Curriculum is the common programme of study in all Commonwealth
 
 All schools in Vekllei share the Education Uniform, made compulsory by the [Education Secretariat](/solsec/). The Vekllei uniform is simple and purchased independently, usually from department stores. The only badged items are the tie and jewellery/pins. It is worn across all ages of schooling, including tertiary education and university, and by some teachers as well.
 
-|        | **Boys**                                                                                                                                                                                                  | **Girls**                                                                                                                                                                                                                   |
+|        | Boys                                                                                                                                                                                                  | Girls                                                                                                                                                                                                                   |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Top    | <ul> <li>White collared shirt, tucked shirttails</li> <li>Black school tie</li> <li>Navy cape or mackintosh raincoat</li> <li>Navy jumper or sweater</li> <li>Navy blazer or sports jacket</li> </ul> | <ul> <li>White blouse, tucked shirttails</li> <li>Black or red school tie or floral piece</li> <li>Navy cape, pettycape or mackintosh raincoat</li> <li>Navy jumper or sweater</li> <li>Navy pinafore or gymslip</li> </ul> |
 | Bottom | <ul> <li>Navy trousers or shorts</li> <li>Dark or brown belt</li> </ul>                                                                                                                                   | <ul> <li>Navy skirt or trousers</li> <li>White traditional trousers</li> <li>Dark or brown belt</li> </ul>                                                                                                                  |

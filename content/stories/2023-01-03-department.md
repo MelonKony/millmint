@@ -21,7 +21,7 @@ rgb: 188, 78, 50
 
 toc: false
 
-image: /images/department.jpg
+image: https://images.millmint.net/department.jpg
 highres:
 reddit: https://www.reddit.com/r/vekllei/comments/102qsei/department_commerce/
 print:

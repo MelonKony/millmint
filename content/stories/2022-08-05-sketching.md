@@ -20,7 +20,7 @@ aliases:
 
 rgb: 173, 143, 132
 
-image: /images/sketching.jpg
+image: https://images.millmint.net/sketching.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/wh1e65/caught_sketching/
 print: https://www.inprnt.com/gallery/melonkony/caught-sketching/
 video:

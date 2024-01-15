@@ -21,7 +21,7 @@ draft: true
 
 rgb: 184, 89, 182
 
-image: /images/comics/jump/feature.png
+image: https://images.millmint.net/comics/jump/feature.png
 reddit:
 print:
 video:

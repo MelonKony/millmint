@@ -10,7 +10,7 @@ tags:
 categories:
   - society
 
-image: /images/spiritful.jpg
+image: https://images.millmint.net/spiritful.jpg
 
 
 aliases:

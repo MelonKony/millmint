@@ -19,7 +19,7 @@ url: /stories/winter-uniforms/
 aliases:
 - /posts/2020-05-16-winter-uniforms/
 
-image: /images/winteruniforms.jpg
+image: https://images.millmint.net/winteruniforms.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/gkuij7/winter_uniforms_in_vekllei/
 ---
 

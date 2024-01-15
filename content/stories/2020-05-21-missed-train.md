@@ -19,7 +19,7 @@ url: /stories/missed-train/
 aliases:
 - /posts/2020-05-21-missed-train/
 
-image: /images/missedtrain.jpg
+image: https://images.millmint.net/missedtrain.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/gndpwo/the_last_train_out_of_ada/
 ---
 

@@ -17,7 +17,7 @@ toc: false
 
 rgb: 210, 156, 83
 
-image: /images/fullres/civil-servant.jpg
+image: https://images.millmint.net/fullres/civil-servant.jpg
 reddit:
 print:
 video:

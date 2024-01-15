@@ -165,7 +165,6 @@ input {
 
 a {
   @include highlight;
-  white-space: nowrap;
   text-decoration: none;
 
   &:hover {

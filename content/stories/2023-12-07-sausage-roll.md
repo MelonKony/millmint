@@ -16,7 +16,7 @@ url: /stories/sausage-roll/
 
 toc: false
 
-image: /images/fullres/sausage-roll.jpg
+image: https://images.millmint.net/fullres/sausage-roll.jpg
 reddit:
 print:
 video:

@@ -19,7 +19,7 @@ toc: false
 
 rgb: 68, 94, 75
 
-image: /images/sketches/constable.jpg
+image: https://images.millmint.net/sketches/constable.jpg
 reddit:
 print:
 video:

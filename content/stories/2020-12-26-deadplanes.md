@@ -20,7 +20,7 @@ aliases:
 - /posts/2020-12-26-deadplanes/
 
     - pachinki
-image: /images/deadplanes.jpg
+image: https://images.millmint.net/deadplanes.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/kkmgdm/a_tzipora_christmas_story/
 ---
 

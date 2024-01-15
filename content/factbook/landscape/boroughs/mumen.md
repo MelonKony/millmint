@@ -11,7 +11,7 @@ tags:
 categories:
   - commonwealth
 
-image: /images/sketches/sandmage.jpg
+image: https://images.millmint.net/sketches/sandmage.jpg
 
 
 aliases:

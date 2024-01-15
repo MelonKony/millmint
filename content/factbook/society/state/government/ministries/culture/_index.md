@@ -9,28 +9,7 @@ aliases:
 - /cosmopos/
 ---
 {{< hint >}}
-߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}.
+߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
 {{</hint>}}
 
-## Overview
-{{<boxtag teal>}}COSMOPOS{{</boxtag>}}
-
-The *Commonwealth Culture Secretariat* (COSMOPOS) is concerned primarily with 'cultural values and beliefs' of the Commonwealth, their protection, and foreign relations. Its subordinate offices are dedicated to key areas of concern designed to assist its smaller member-states which may lack the political infrastructure to maintain their own offices.
-
-{{<hint panel>}}
-### Commonwealth Records and Telegraph Directorate
-
-#### Commonwealth Press Bureau
-{{</hint>}}
-
-{{<hint panel>}}
-### Commonwealth Sports Directorate
-{{</hint>}}
-
-{{<hint panel>}}
-### Commonwealth Telecommunications Directorate
-{{</hint>}}
-
-{{<hint panel>}}
-### Commonwealth Tourism Directorate
-{{</hint>}}
+The <span class="fi fi-min-culture fis"></span> **Ministry of Culture** (COSMOPOS) maintains museums and monuments, protects and promotes its creative industries and arts, and broadly facilitates cultural values and festivals in {{<link/vekllei>}}.

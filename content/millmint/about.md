@@ -5,7 +5,7 @@ icon: 🪺
 emoji: v
 color: brown
 
-image: /images/intro.gif
+image: https://images.millmint.net/intro.gif
 
 aliases:
 - /about/
