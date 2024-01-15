@@ -10,5 +10,5 @@ aliases:
 - /bureau-of-chapels/
 ---
 {{< hint >}}
-߷ This bureau is part of the {{<link/ministry-of-labour>}}.
+߷ This bureau is part of the {{<link/ministry-of-labour>}}
 {{</hint>}}

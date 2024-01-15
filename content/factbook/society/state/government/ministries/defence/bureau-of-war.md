@@ -9,7 +9,7 @@ aliases:
 - /bureau-of-war/
 ---
 {{< hint >}}
-߷ This bureau is part of the {{<link/ministry-of-defence>}}.
+߷ This bureau is part of the {{<link/ministry-of-defence>}}
 {{</hint>}}
 
 The *Armed Forces of Vekllei*, arranged under the COSMOKOS ministry, are unusual in that they do not have control directly over troops or equipment. The actual armed forces of Vekllei, known as the [Crown Armed Forces](/factbook/society/state/palace/military/), are a sovereign feature of the country and as such are placed under direct supervision of the [Palace of Vekllei](/factbook/society/state/palace/) -- seperate from the Vekllei and Commonwealth governments.

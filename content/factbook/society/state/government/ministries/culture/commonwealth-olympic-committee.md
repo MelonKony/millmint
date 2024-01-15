@@ -9,5 +9,5 @@ aliases:
 - /commonwealth-olympic-committee/
 ---
 {{< hint >}}
-߷ The Olympic Committee is part of the {{<link/ministry-of-culture>}}.
+߷ The Olympic Committee is part of the {{<link/ministry-of-culture>}}
 {{</hint>}}

@@ -9,7 +9,7 @@ aliases:
 - /bureau-of-water/
 ---
 {{< hint >}}
-߷ This bureau is part of the {{<link/ministry-of-light-and-water>}}.
+߷ This bureau is part of the {{<link/ministry-of-light-and-water>}}
 {{</hint>}}
 
 The <span class="fi fi-min-light-and-water fis"></span> **Commonwealth Water Commission** (commonly *Hydroburo*) is responsible for providing potable drinking water, wastewater and stormwater services across {{<link/vekllei>}}. Water in Vekllei is universal and of good quality. The Hydroburo also maintains offices for sewerage, conservation, and construction.

@@ -1,8 +1,8 @@
 ---
-title: Culture Parliament
-fulltitle: Commonwealth Culture Parliament
+title: Civic Parliament
+fulltitle: Commonwealth Civic Parliament
 icon: 🏵
-logo: /svg/crests/parliament/culture.svg
+logo: /svg/crests/parliament/civic.svg
 color: culture
 
 aliases:

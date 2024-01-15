@@ -10,7 +10,7 @@ aliases:
 - /bureau-of-rail/
 ---
 {{< hint >}}
-߷ This bureau is part of the {{<link/ministry-of-the-commons>}}.
+߷ This bureau is part of the {{<link/ministry-of-the-commons>}}
 {{</hint>}}
 
 The <span class="fi fi-min-commons fis"></span> **Bureau of Rail** maintains and regulates the rail industry in Vekllei. Because of the ubiquity and importance of rail across {{<link/vekllei>}} [republics](/republics), it is among the largest of the transport bureaus.

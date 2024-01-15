@@ -46,7 +46,7 @@ Current intelligence doctrine values 'signal operations' -- visible strategic ac
 
 ### Noshem
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Read more: <span class="smallicon">🏹</span> [Noshem](/factbook/society/state/government/commonwealth/security/#national-intelligence-directorate)
 {{</hint>}}
 

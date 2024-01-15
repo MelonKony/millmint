@@ -9,7 +9,7 @@ aliases:
 - /bureau-of-home-affairs/
 ---
 {{< hint >}}
-߷ This bureau is part of the {{<link/ministry-of-foreign-affairs>}}.
+߷ This bureau is part of the {{<link/ministry-of-foreign-affairs>}}
 {{</hint>}}
 
 ## Department of Consular Affairs

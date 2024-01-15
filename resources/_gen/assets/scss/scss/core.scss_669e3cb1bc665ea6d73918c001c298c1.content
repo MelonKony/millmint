@@ -3047,8 +3047,8 @@ ol.timeline .event {
 .fi-min-security.fis {
   background-image: url(../svg/crests/parliament/security.svg); }
 
-.fi-min-culture.fis {
-  background-image: url(../svg/crests/parliament/culture.svg); }
+.fi-min-civic.fis {
+  background-image: url(../svg/crests/parliament/civic.svg); }
 
 .fi-min-democracy.fis {
   background-image: url(../svg/crests/parliament/democracy.svg); }

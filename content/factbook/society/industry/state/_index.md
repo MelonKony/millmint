@@ -49,7 +49,7 @@ Vekllei government is highly decentralised and includes several competing parlia
 
 ## Function & Policy
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Read more: *[State Assets Directorate](/factbook/society/state/government/interior/commonwealth/#state-assets-directorate)*
 {{</hint>}}
 

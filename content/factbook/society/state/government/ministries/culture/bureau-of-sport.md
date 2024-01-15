@@ -9,5 +9,5 @@ aliases:
 - /bureau-of-sport/
 ---
 {{< hint >}}
-߷ This bureau is part of the {{<link/ministry-of-culture>}}.
+߷ This bureau is part of the {{<link/ministry-of-culture>}}
 {{</hint>}}

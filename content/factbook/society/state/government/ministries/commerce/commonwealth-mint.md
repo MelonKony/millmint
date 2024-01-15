@@ -9,10 +9,10 @@ aliases:
 - /mint/
 ---
 {{< hint >}}
-߷ The Mint is part of the {{<link/ministry-of-commerce>}}.
+߷ The Mint is part of the {{<link/ministry-of-commerce>}}
 {{</hint>}}
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: *[The Vekllei Crown](/stories/currency/)*
 {{</hint>}}
 

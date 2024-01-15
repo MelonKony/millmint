@@ -10,7 +10,7 @@ aliases:
 - /bureau-of-securities/
 ---
 {{< hint >}}
-߷ This bureau is part of the {{<link/ministry-of-commerce>}}.
+߷ This bureau is part of the {{<link/ministry-of-commerce>}}
 {{</hint>}}
 
 The <span class="fi fi-min-commerce fis"></span> **Bureau of Securities** (VECSEC) regulates securities in {{<link/vekllei>}}, mostly in the {{<link/commsec>}}. It advises fiscal decision-making to the {{<link/treasury>}} and legislates trade practices in the country, including the issuing and ownership of government bonds and bureau securities. It is part of the {{<link/ministry-of-commerce>}}.

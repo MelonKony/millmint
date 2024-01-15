@@ -41,7 +41,7 @@ Vekllei's history as a trade hub contributes significantly to its perceived neut
 
 ## Markets
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Read more: {{<link/ministry-of-commerce>}}
 {{</hint>}}
 
@@ -74,7 +74,7 @@ The International Market is the means by which the capital account[^2] of the Co
 
 ## Currency
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Read more: *[The Vekllei Crown](/posts/2020-06-24-crown/)*
 {{</hint>}}
 
@@ -99,7 +99,7 @@ The ✾AK is not minted as it does not resemble a conventional currency, and exi
 
 ## Banking
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Read more: {{<link/commbank>}}
 {{</hint>}}
 

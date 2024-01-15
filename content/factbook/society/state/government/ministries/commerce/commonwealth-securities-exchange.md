@@ -10,10 +10,10 @@ aliases:
 - /commsec/
 ---
 {{< hint >}}
-߷ Commsec is part of the {{<link/ministry-of-commerce>}}.
+߷ Commsec is part of the {{<link/ministry-of-commerce>}}
 {{</hint>}}
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Read more: *[Finance in Vekllei](/finance/)*
 {{</hint>}}
 

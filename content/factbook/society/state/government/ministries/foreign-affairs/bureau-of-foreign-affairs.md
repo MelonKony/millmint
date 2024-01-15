@@ -9,7 +9,7 @@ aliases:
 - /bureau-of-foreign-affairs/
 ---
 {{< hint >}}
-߷ This bureau is part of the {{<link/ministry-of-foreign-affairs>}}.
+߷ This bureau is part of the {{<link/ministry-of-foreign-affairs>}}
 {{</hint>}}
 
 ## Department of African Affairs

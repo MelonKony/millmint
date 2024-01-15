@@ -82,7 +82,7 @@ Vekllei offers a handful of boarding schools, which are usually specialised inst
 
 ## Education
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Read more: *[Ministry of Commerce](/factbook/society/state/government/interior/commerce/)*
 {{</hint>}}
 
@@ -148,7 +148,7 @@ The Commonwealth Curriculum is the common programme of study in all Commonwealth
 
 ## Uniform
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Read more: *[Uniforms in Vekllei](/stories/uniforms/)*
 {{</hint>}}
 

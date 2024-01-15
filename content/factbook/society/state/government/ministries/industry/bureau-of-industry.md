@@ -9,5 +9,5 @@ aliases:
 - /bureau-of-industry/
 ---
 {{< hint >}}
-߷ This bureau is part of the {{<link/ministry-of-industry>}}.
+߷ This bureau is part of the {{<link/ministry-of-industry>}}
 {{</hint>}}

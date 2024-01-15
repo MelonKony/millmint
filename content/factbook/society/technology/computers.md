@@ -44,7 +44,7 @@ The size, speed and accessibility of data storage in Vekllei means that more dat
 
 ### Fabricated Live Robotics
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: *[Robots in Vekllei](/posts/2021-01-11-automen/)*
 {{</hint>}}
 

@@ -9,5 +9,5 @@ aliases:
 - /bureau-of-roads-and-paths/
 ---
 {{< hint >}}
-߷ This bureau is part of the {{<link/ministry-of-the-commons>}}.
+߷ This bureau is part of the {{<link/ministry-of-the-commons>}}
 {{</hint>}}

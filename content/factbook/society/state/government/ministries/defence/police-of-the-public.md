@@ -9,10 +9,10 @@ aliases:
 - /police-of-the-public/
 ---
 {{< hint >}}
-߷ The Police of the Public are part of the {{<link/ministry-of-defence>}}.
+߷ The Police of the Public are part of the {{<link/ministry-of-defence>}}
 {{</hint>}}
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Read more: *[The Police of the Public](/stories/police/)*
 {{</hint>}}
 

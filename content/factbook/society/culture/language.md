@@ -45,7 +45,7 @@ author: Hobart Phillips
 
 ### Introduction
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: *[How to Speak Vekllei](/posts/2020-11-14-language/)*
 {{</hint>}}
 
@@ -173,7 +173,7 @@ Despite common use of the phonetic system in modernity, the semantic readings of
 
 ### Structure
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: *[How to Read Vekllei](/posts/2021-05-31-topet/)*
 {{</hint>}}
 

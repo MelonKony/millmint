@@ -34,7 +34,7 @@ Commonwealth member-states usually maintain their own [defence ministries](/fact
 {{<hint panel>}}
 ### National Intelligence Directorate
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Read more: <span class="smallicon">🔎</span> [Espionage in Vekllei](/espionage/)
 {{</hint>}}
 

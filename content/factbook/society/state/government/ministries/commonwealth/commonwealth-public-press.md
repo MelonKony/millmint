@@ -9,7 +9,7 @@ aliases:
 - /commonwealth-public-press/
 ---
 {{< hint >}}
-߷ The Public Press is part of the {{<link/ministry-of-the-commonwealth>}}.
+߷ The Public Press is part of the {{<link/ministry-of-the-commonwealth>}}
 {{</hint>}}
 
 {{<hint panel>}}

@@ -10,5 +10,5 @@ aliases:
 - /commonwealth-transport-laboratories/
 ---
 {{< hint >}}
-߷ This laboratory is part of the {{<link/ministry-of-the-commons>}}.
+߷ This laboratory is part of the {{<link/ministry-of-the-commons>}}
 {{</hint>}}

@@ -1,6 +1,6 @@
 ---
-title: Community Council
-fulltitle: Commonwealth Community Council
+title: Community Parliament
+fulltitle: Commonwealth Community Parliament
 icon: ⛓️
 logo: /svg/crests/parliament/community.svg
 color: community

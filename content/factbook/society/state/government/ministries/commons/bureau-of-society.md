@@ -9,7 +9,7 @@ aliases:
 - /bureau-of-society/
 ---
 {{< hint >}}
-߷ This bureau is part of the {{<link/ministry-of-the-commons>}}.
+߷ This bureau is part of the {{<link/ministry-of-the-commons>}}
 {{</hint>}}
 
 ## Planning Commission

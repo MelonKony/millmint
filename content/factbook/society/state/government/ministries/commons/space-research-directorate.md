@@ -9,7 +9,7 @@ aliases:
 - /commonwealth-space-research-directorate/
 ---
 {{< hint >}}
-߷ This directorate is part of the {{<link/ministry-of-the-commons>}}.
+߷ This directorate is part of the {{<link/ministry-of-the-commons>}}
 {{</hint>}}
 
 CSRD

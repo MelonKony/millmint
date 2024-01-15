@@ -9,7 +9,7 @@ aliases:
 - /bureau-of-international-missions/
 ---
 {{< hint >}}
-߷ This bureau is part of the {{<link/ministry-of-foreign-affairs>}}.
+߷ This bureau is part of the {{<link/ministry-of-foreign-affairs>}}
 {{</hint>}}
 
 The *Bureau of International Missions* is the formal foreign policymaking apparatus of the Ministry of Foreign Affairs.

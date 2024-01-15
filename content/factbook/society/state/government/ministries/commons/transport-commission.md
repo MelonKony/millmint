@@ -10,5 +10,5 @@ aliases:
 - /commonwealth-transport-commission/
 ---
 {{< hint >}}
-߷ This commission is part of the {{<link/ministry-of-the-commons>}}.
+߷ This commission is part of the {{<link/ministry-of-the-commons>}}
 {{</hint>}}

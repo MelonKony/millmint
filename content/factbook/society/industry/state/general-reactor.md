@@ -133,7 +133,7 @@ VNR's main freight lines run mostly on a seperate gauge and network, and are com
 
 ## Operations
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: *[Station Logic](/posts/2021-06-01-station-logic/)*
 {{</hint>}}
 
@@ -154,7 +154,7 @@ VNR services are mostly unticketed, and as a Vekllei industry, are free to ride.
 ### Staff
 ![smallimg](https://images.millmint.net/images/vnr.jpg)
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: *[The People of Vekllei National Rail](/posts/2021-04-25-rail/)*
 {{</hint>}}
 

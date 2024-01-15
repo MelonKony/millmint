@@ -9,5 +9,5 @@ aliases:
 - /bureau-of-communications/
 ---
 {{< hint >}}
-߷ This bureau is part of the {{<link/ministry-of-foreign-affairs>}}.
+߷ This bureau is part of the {{<link/ministry-of-foreign-affairs>}}
 {{</hint>}}

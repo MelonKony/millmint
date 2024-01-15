@@ -10,10 +10,10 @@ aliases:
 - /police-of-the-parliament/
 ---
 {{< hint >}}
-߷ The Police of the Parliament are part of the {{<link/ministry-of-defence>}}.
+߷ The Police of the Parliament are part of the {{<link/ministry-of-defence>}}
 {{</hint>}}
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Read more: *[The Police of the Parliament](/stories/police/)*
 {{</hint>}}
 
@@ -28,7 +28,7 @@ VENOPOR jurisdiction is organised within the individual theatre commands of the 
 
 #### Companies Section of the Parliament Police
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Read more: *[Compor, Vekllei's Special Police](/stories/compor/)*
 {{</hint>}}
 
@@ -36,7 +36,7 @@ The *Companies Section* (Compor) is a paramilitary and riot control unit concern
 
 #### Rifles Section of the Parliament Police
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Read more: *[The Rifles Section](/stories/rifles/)*
 {{</hint>}}
 
@@ -54,7 +54,7 @@ The *Animals Section* employs officers trained in animal-handling and their anim
 
 #### Coast Guard of the Parliament Police
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: *[The Vekllei Coast Guard](/posts/2021-11-14-coastguard/)*
 {{</hint>}}
 
@@ -68,7 +68,7 @@ The *Customs of Vekllei* (also the *Vekllei Customs* and the *Customs of the Par
 
 #### Mint Guard of the Parliament Police
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: *[Gold Sappers](/posts/2021-04-09-sappers/)*
 {{</hint>}}
 

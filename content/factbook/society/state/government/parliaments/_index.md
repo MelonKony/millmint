@@ -21,7 +21,7 @@ The Commonwealth *parliaments* are a superior kind of [ministry](/ministries/) i
 {{<hint panel>}}
 
 * {{<link/parliament-of-community>}}
-* {{<link/parliament-of-culture>}}
+* {{<link/parliament-of-civics>}}
 * {{<link/parliament-of-democracy>}}
 * {{<link/parliament-of-health>}}
 * {{<link/parliament-of-education>}}

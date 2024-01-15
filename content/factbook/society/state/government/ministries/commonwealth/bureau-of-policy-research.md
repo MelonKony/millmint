@@ -10,7 +10,7 @@ aliases:
 - /bureau-of-policy-research/
 ---
 {{< hint >}}
-߷ This bureau is part of the {{<link/ministry-of-the-commonwealth>}}.
+߷ This bureau is part of the {{<link/ministry-of-the-commonwealth>}}
 {{</hint>}}
 
 The *Bureau of Policy Research* conducts research and prepares policy objectives for use in Commonwealth governance, and determines the curriculum of the {{<link/civil-service-academy>}} and other civil service training organisations.

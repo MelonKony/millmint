@@ -29,7 +29,7 @@ author: Hobart Phillips
 ߷ Part of the *[state](/state/)* series of articles
 {{</hint>}}
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Read more: *[The Good, The Municipal](/stories/municipal/)*
 {{</hint>}}
 

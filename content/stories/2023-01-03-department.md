@@ -27,7 +27,7 @@ reddit: https://www.reddit.com/r/vekllei/comments/102qsei/department_commerce/
 print:
 video:
 ---
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: {{<link/atlantic-store>}}
 {{</hint>}}
 

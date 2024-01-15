@@ -1,11 +1,11 @@
 ---
-title: School Lunch 
+title: School Lunch
 fulltitle: Tzipora Takes her Lunch to School
 
 date: 2022-03-13
 rgb: 237, 165, 155
 
-tags: 
+tags:
 - 2022
 - post
 - tzipora
@@ -23,7 +23,7 @@ image: /images/lunch.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/td9iwj/tzipora_takes_her_lunch_to_school/
 ---
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: *[A Vekllei Breakfast](/posts/2021-05-09-breakfast/)*
 {{</hint>}}
 
@@ -33,13 +33,13 @@ Food unable to be grown for the house is usually obtained from grocers. Those gr
 
 The problem with this system is that it is both very open-ended (it contains most commercially available foodstuffs in Vekllei) and very unreliable. Central Product Inventories have frequent backlogs for specialty products, particularly foreign foods, and so only staples are available regularly. As these delays cascade down to the consumer, they reveal a system that has no real intention of giving everyone what they want, all of the time.
 
-Because of this, many Vekllei people in cities dine out most nights. In the context of schools, this means that the provision of hot, nutritious lunches for students was considered necessary. It is the only real way to guarantee the food intelligence and cooking ability of the postwar generation, who may not otherwise cook at home. 
+Because of this, many Vekllei people in cities dine out most nights. In the context of schools, this means that the provision of hot, nutritious lunches for students was considered necessary. It is the only real way to guarantee the food intelligence and cooking ability of the postwar generation, who may not otherwise cook at home.
 
 In some schools, parents and teachers help student volunteers cook. In others, like Tzipora’s Moshel St School, classrooms take turns cooking for the rest of the school. Depicted here is Tzipora’s packed lunch alongside an example of a lunch provided by the school.
 
 #### Tzipora’s Lunch
 
-If not eating leftovers, Tzipora likes things that she can eat with her fingers. Processed meats and sausages are readily available in Vekllei and replace cold cuts of meat most days. The heaviness of the blood sausage and kabanos is alleviated with some fruit paste and cherry tomatoes. 
+If not eating leftovers, Tzipora likes things that she can eat with her fingers. Processed meats and sausages are readily available in Vekllei and replace cold cuts of meat most days. The heaviness of the blood sausage and kabanos is alleviated with some fruit paste and cherry tomatoes.
 
 Pickled foods keep for a long time and so are a great way to fill out a packed lunch. Tzipora eats her pickled onions first, otherwise her breath smells like onion for the rest of the day.
 

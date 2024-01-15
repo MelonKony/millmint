@@ -12,7 +12,7 @@ aliases:
 ߷ Part of the *[state](/state/)* series of articles
 {{</hint>}}
 
-{{<hint>}}
+{{<hint link>}}
 ✿ Read more: *[The Prime Minister(s) of Vekllei](/stories/ministers/)*
 {{</hint>}}
 

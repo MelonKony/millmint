@@ -39,7 +39,7 @@ Vekllei is also home to the U.N. Universal Postal Union, the body responsible fo
 
 ### Introduction
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: *[Post is for People](/posts/2021-02-22-pond/)*
 {{</hint>}}
 
@@ -53,7 +53,7 @@ Like most Royal Bureaus, the Mail is headquartered in Vekllei's capital across a
 
 ### History
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: *[The Men and Women of the Royal Mail in Vekllei](/posts/2021-02-01-mail/)*
 {{</hint>}}
 
@@ -67,7 +67,7 @@ The Mail was reestablished in 2015, during Vekllei independence. It was afforded
 
 ### Structure
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: *[The Postmistress of Vekllei](/posts/2021-02-02-postmistress/)*
 {{</hint>}}
 
@@ -107,7 +107,7 @@ The Mail has two offices of administration: the General Office and the Office of
 
 ## Services
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: *[Philately Foolery](/posts/2021-02-16-stamps/)*
 {{</hint>}}
 
@@ -123,7 +123,7 @@ Since the Mail's Office of Telecommunications is also responsible for all teleph
 
 ### Daily Service
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: *[Racing the Post Office to the Station](/posts/2021-02-05-mailtrain/)*
 {{</hint>}}
 
@@ -149,7 +149,7 @@ The **Labour Bank of Vekllei**[^2] is easily accessible via the Mail's **Financi
 
 ## Operations
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*
 {{</hint>}}
 
@@ -178,7 +178,7 @@ There are 16,220 post boxes in Vekllei, which are iconic for their red and gold 
 
 ### Fleet
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: *[The Fairie](/posts/2021-02-03-fairie/)*
 {{</hint>}}
 

@@ -9,5 +9,5 @@ aliases:
 - /bureau-of-materials/
 ---
 {{< hint >}}
-߷ This bureau is part of the {{<link/ministry-of-landscape>}}.
+߷ This bureau is part of the {{<link/ministry-of-landscape>}}
 {{</hint>}}

@@ -67,7 +67,7 @@ Copetpek is a multicultural municipality best known for its craftsmanship and le
 
 #### ForeignFoto
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: [*ForeignFoto*](/posts/2021-09-27-foreignfoto/)
 {{</hint>}}
 
@@ -163,7 +163,7 @@ The Pharos Railway Company Museum has preserved features of early Vekllei rail h
 
 ### Uclo Experimental Social Housing Project
 
-{{< hint >}}
+{{<hint link>}}
 ✿ Read more: [*Towers in the Park*](/posts/2022-04-24-towers/)
 {{</hint>}}
 
