@@ -206,8 +206,8 @@ Vekllei has a rapid air-mobile posture across its armed forces, which is facilit
 
 There are three commands in the Air Service, which in the secular Vekllei tradition have specific and exclusive functions. The Air Combat Command comprises all primary offensive squadrons including fighters, helicopters and scouts. The Air Auxiliary Command comprises miscellaneous aviation including search and rescue, training and replenishment. The Air Transport Command provides transport for both logistics and combat organisations.
 
-{{<details "Air Combat Command Structure">}}
-The *Air Combat Command* (ACC) provides aircraft and crew for combat air services, including both land and seaborne aviation. The vast majority of these are the [No. 8 Casemate](/stories/casemate) fighter jet.
+{{<details "Air Combat Command">}}
+The *Air Combat Command* (ACC) provides aircraft and crew for combat air services, including both land and seaborne aviation. The vast majority of these are variants of the [No. 8 Casemate](/stories/casemate) fighter jet.
 
 * **No. 1 Aerocombat Wing**
   <br>
@@ -239,7 +239,7 @@ The *Air Combat Command* (ACC) provides aircraft and crew for combat air service
   * No. 38-41 Marine Squadrons
 {{</details>}}
 
-{{<details "Air Auxiliary Command Structure">}}
+{{<details "Air Auxiliary Command">}}
 The *Air Auxiliary Command* (AAC) includes aircraft types not directly associated with other command roles, and encompasses different kinds of aircraft in a support (auxiliary) role.
 
 * **No. 1 Aeroxiliary Wing**
@@ -258,7 +258,7 @@ The *Air Auxiliary Command* (AAC) includes aircraft types not directly associate
   * No. 1-2 Air Replenishment Squadrons
 {{</details>}}
 
-{{<details "Air Transport Command Structure">}}
+{{<details "Air Transport Command">}}
 The *Air Transport Command* (ATC) supports other services, particularly the Territorial Service, and provides air mobility to Rifles regiments as part of its flexible and rapid-manoeuvre doctrine. When mounted in helicopters and helijets, Rifles regiments are known as Aerorifles, and combine with the crew and equipment of an Aerorifles squadron to form a complete air-mobile platoon.
 
 * **No. 1 Aerotransport Wing**
