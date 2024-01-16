@@ -26,10 +26,10 @@ A Vekllei military service is a component of the overall armed forces, and so th
 
 Vekllei is a seagoing country of island communities, and so the Marine Services are the backbone of its strategic forces. They are the oldest military organisations of Vekllei and revered by the country.
 
-{{<hint panel>}}
+{{<hint>}}
 **Note**
 
-In numbered Vekllei services (e.g. Terrestrial & Air Services, etc.), numerical order is preserved and units are not permanently attached to a particular number. Unit numbers are administrative and assist in formation of interarmes services, so units may change numbers regularly. Instead, unit identity and honours are attached to ceremonial and historical names that remain with the unit.
+In numbered Vekllei services (e.g. Terrestrial & Air Services, etc.), numerical order is preserved and units are not permanently identified by a particular number. Unit numbers are administrative and assist in formation of interarmes services, so units may change numbers regularly. Instead, unit identity and honours are attached to ceremonial and historical names that remain with the unit.
 {{</hint>}}
 
 ### <span class="navicon">⚓️</span> Marine Services
@@ -198,186 +198,88 @@ The Littoral Service has 12 commands across the Atlantic, Arctic, Antarctic and 
 {{<hint panel>}}
 #### Air Service
 
-{{<details "Air Service Structure">}}
-##### Air Combat Command
+The **Air Service** conducts aerial warfare in {{<link/vekllei>}}. It consists of three commands that specialise in different aspects of air support and supremacy. The Air Service is also a major contributor to other services, since marine and territorial doctrines depend heavily on the air service for their combat capability, combat support, transport, logistics and reconnaissance.
 
-The Air Combat Command provides aircraft and crew for combat air services, including both land and seaborne aviation. The vast majority of these are the No. 8 Casemate Fighter Jet.
+Vekllei has a rapid air-mobile posture across its armed forces, which is facilitated by the relative size and availability of its air service. It is also the only service in which women are a majority of participants in combat, since female pilots contribute just over 52% of its servicemen.
 
-###### No. 1 Fighter Wing
+##### Structure
 
-The No. 1 Fighter Wing is the tip of the spear, and.
+There are three commands in the Air Service, which in the secular Vekllei tradition have specific and exclusive functions. The Air Combat Command comprises all primary offensive squadrons including fighters, helicopters and scouts. The Air Auxiliary Command comprises miscellaneous aviation including search and rescue, training and replenishment. The Air Transport Command provides transport for both logistics and combat organisations.
 
-{{<hint>}}
-  * No. 1 Fighter Squadron <span class="hollowtag">Virgin</span>
-  * No. 2 Fighter Squadron <span class="hollowtag">Oslola</span>
-  * No. 3 Fighter Squadron <span class="hollowtag">Demon</span>
-  * No. 4 Fighter Squadron <span class="hollowtag">Kala</span>
-  * No. 5 Fighter Squadron <span class="hollowtag">Kairi</span>
-  * No. 6 Fighter Squadron <span class="hollowtag">Mira</span>
-  * No. 7 Fighter Squadron <span class="hollowtag">Ascension</span>
-  * No. 8 Fighter Squadron <span class="hollowtag">Bermuda</span>
-{{</hint>}}
+{{<details "Air Combat Command Structure">}}
+The *Air Combat Command* (ACC) provides aircraft and crew for combat air services, including both land and seaborne aviation. The vast majority of these are the [No. 8 Casemate](/stories/casemate) fighter jet.
 
-###### No. 2 Fighter Wing
+* **No. 1 Aerocombat Wing**
+  <br>
+  The No. 1 AC Wing comprises the primary interceptor and air superiority squadrons of the Air Service.
+  * No. 1-8 Fighter Squadrons
+* **No. 2 Aerocombat Wing**
+  * No. 9-16 Fighter Squadrons
+* **No. 3 Aeroweapons Wing**
+  <br>
+  The Aeroweapons Wing consists of the attack helicopter and helijets squadrons of the Air Service, which are organised with Aeroscouts and Aerorifles to produce air-mobile platoons.
+  * No. 17-20 Aeroweapons Squadrons
+* **No. 4 Aeroscouts Wing**
+  <br>
+  The Aeroscouts Wing provides reconnaissance services to the Territorial Service and the interarmes air-mobile platoons.
+  * No. 21-24 Aeroscouts Squadrons
+* **No. 5 Aeromarine Wing** <span class="hollowtag">Commonwealth Fleet</span>
+  <br>
+  The No. 5 Aeromarine Wing provides equipment and crew for the Commonwealth Fleet, and comprises the largest naval aviation force in the Air Service.
+  * No. 25-31 Marine Squadrons
+* **No. 6 Aeromarine Wing** <span class="hollowtag">Commonwealth Fleet</span>
+  * No. 32-33 Marine Squadrons
+* **No. 7 Aeromarine Wing** <span class="hollowtag">Arctic Fleet</span>
+  * No. 34-35 Marine Squadrons
+* **No. 8 Aeromarine Wing**  <span class="hollowtag">Antarctic Fleet</span>
+  * No. 36-37 Marine Squadrons
+* **No. 9 Aeromarine Helicopters Wing**
+  <br>
+  The No. 9 MHW comprises the bulk of maritime rotary-wing and helijet aircraft, and are located across fleets and naval bases as required. Aeromarine squadrons may be subdivided into Aeromarine sections depending on the needs of the [Maritime Service](#maritime-service).
+  * No. 38-41 Marine Squadrons
+{{</details>}}
 
-{{<hint>}}
-  * No. 9 Fighter Squadron <span class="hollowtag">Praia</span>
-  * No. 10 Fighter Squadron <span class="hollowtag">Summers</span>
-  * No. 11 Fighter Squadron <span class="hollowtag">Cigateo</span>
-  * No. 12 Fighter Squadron <span class="hollowtag">Oslola</span>
-  * No. 13 Fighter Squadron <span class="hollowtag">Caimanas</span>
-  * No. 14 Fighter Squadron <span class="hollowtag">Aruba</span>
-  * No. 15 Fighter Squadron <span class="hollowtag">Barbados</span>
-  * No. 16 Fighter Squadron <span class="hollowtag">Comet</span>
-{{</hint>}}
+{{<details "Air Auxiliary Command Structure">}}
+The *Air Auxiliary Command* (AAC) includes aircraft types not directly associated with other command roles, and encompasses different kinds of aircraft in a support (auxiliary) role.
 
-###### No. 3 Aeroweapons Wing
-
-The Aeroweapons Wing consists of the attack helicopter and helijets squadrons of the Air Service, which are organised with Aeroscouts and Aerorifles to produce air-mobile platoons.
-
-{{<hint>}}
-  * No. 17 Aeroweapons Squadron <span class="hollowtag">Ascension</span>
-  * No. 18 Aeroweapons Squadron <span class="hollowtag">Summers</span>
-  * No. 19 Aeroweapons Squadron <span class="hollowtag">Caimanas</span>
-  * No. 20 Aeroweapons Squadron <span class="hollowtag">Oslola</span>
-{{</hint>}}
-
-###### No. 4 Aeroscouts Wing
-
-The Aeroscouts Wing provides reconnaissance services to the Territorial Service and the interarmes air-mobile platoons.
-
-{{<hint>}}
-  * No. 21 Aeroweapons Squadron <span class="hollowtag">Ascension</span>
-  * No. 22 Aeroweapons Squadron <span class="hollowtag">Summers</span>
-  * No. 23 Aeroweapons Squadron <span class="hollowtag">Caimanas</span>
-  * No. 24 Aeroweapons Squadron <span class="hollowtag">Oslola</span>
-{{</hint>}}
-
-###### No. 5 Marine Combat Wing
-
-The No. 3 Marine Combat Wing provides equipment and crew for the Commonwealth Fleet, and comprises the largest naval aviation force in the Air Service.
-
-{{<hint>}}
-  * No. 17 Marine Squadron <span class="hollowtag">Commonwealth Fleet</span>
-  * No. 18 Marine Squadron <span class="hollowtag">Commonwealth Fleet</span>
-  * No. 19 Marine Squadron <span class="hollowtag">Commonwealth Fleet</span>
-  * No. 20 Marine Squadron <span class="hollowtag">Commonwealth Fleet</span>
-  * No. 21 Marine Squadron <span class="hollowtag">Commonwealth Fleet</span>
-  * No. 22 Marine Squadron <span class="hollowtag">Commonwealth Fleet</span>
-{{</hint>}}
-
-###### No. 6 Marine Combat Wing
-
-{{<hint>}}
-  * No. 23 Marine Squadron <span class="hollowtag">Commonwealth Fleet</span>
-  * No. 24 Marine Squadron <span class="hollowtag">Commonwealth Fleet</span>
-{{</hint>}}
-
-###### No. 7 Marine Combat Wing
-
-{{<hint>}}
-  * No. 25 Marine Squadron <span class="hollowtag">Arctic Fleet</span>
-  * No. 26 Marine Squadron <span class="hollowtag">Arctic Fleet</span>
-{{</hint>}}
-
-###### No. 8 Marine Combat Wing
-
-{{<hint>}}
-  * No. 27 Marine Squadron <span class="hollowtag">Antarctic Fleet</span>
-  * No. 28 Marine Squadron <span class="hollowtag">Antarctic Fleet</span>
-{{</hint>}}
-
-###### No. 9 Marine Helicopter Wing
-
-The No. 9 MHW comprises the bulk of maritime rotary-wing and helijet aircraft, and are located across fleets and naval bases as required. Marine squadrons may be subdivided into Marine sections depending on the needs of the [Maritime Service](#maritime-service).
-
-{{<hint>}}
-  * No. 29 Marine Squadron <span class="hollowtag">Commonwealth Fleet</span>
-  * No. 30 Marine Squadron <span class="hollowtag">Commonwealth Fleet</span>
-  * No. 31 Marine Squadron <span class="hollowtag">Arctic Fleet</span>
-  * No. 32 Marine Squadron <span class="hollowtag">Antarctic Fleet</span>
-{{</hint>}}
-
-##### Air Auxiliary Command
-
-The Air Auxiliary Command includes aircraft types not directly associated with other command roles, and encompasses different kinds of aircraft in a support (auxiliary) role.
-
-###### No. 1 Air Auxiliary Wing
-
-No. 1 AA Wing provides maritime patrol services to the Air Service as well as the Maritime and Littoral Services. No. 1 Squadron is assigned to the Commonwealth Fleet.
-
-{{<hint>}}
+* **No. 1 Aeroxiliary Wing**
+  <br>
+ No. 1 AA Wing provides maritime patrol services to the Air Service as well as the [Maritime](#maritime-service) and [Littoral](#littoral-service) Services. No. 1 Squadron is assigned to the Commonwealth Fleet.
   * No. 1 Maritime Patrol Squadron <span class="hollowtag">Commonwealth Fleet</span>
   * No. 2 Search & Rescue Squadron
   * No. 3 Air Firefighting Squadron
-{{</hint>}}
-
-###### No. 2 Air Auxiliary Wing
-{{<hint>}}
-  * No. 4 Maritime Patrol Squadron
-  * No. 5 Maritime Patrol Squadron
-  * No. 6 Maritime Patrol Squadron
-{{</hint>}}
-
-###### No. 3 Air Training Wing
-
-The Air Training Wing has two squadrons in the Virgin and Oslolan republics, and trains pilots for the Air Service.
-
-{{<hint>}}
-  * No. 1 Air Training Squadron <span class="hollowtag">Virgin</span>
-  * No. 2 Air Training Squadron <span class="hollowtag">Oslola</span>
-{{</hint>}}
-
-##### Air Transport Command
-
-The Air Transport Command supports other services, particularly the Territorial Service, and provides air mobility to Rifles regiments as part of its flexible and rapid-manoeuvre doctrine. When mounted in helicopters and helijets, Rifles regiments are known as Aerorifles, and combine with the crew and equipment of an Aerorifles squadron to form a complete air-mobile platoon.
-
-###### No. 1 Transport Wing
-The No. 1 Transport Wing services the transport aircraft fleet. No. 1 & 2 Squadrons are land-based and 3 & 4 specialise in maritime transport, and include flying boats.
-
-{{<hint>}}
-  * No. 1 Transport Squadron (Government)
-  * No. 2 Transport Squadron (Strategic Airlift)
-  * No. 3 Transport Squadron (Strategic Airlift)
-  * No. 4 Transport Squadron (Tactical Airlift)
-{{</hint>}}
-
-###### No. 2 Aerorifles Wing
-The Aerorifles are the aircraft and crew component of an interarmes air-mobile platoon, and transport individual infantry regiments.
-
-{{<hint>}}
-  * No. 5 Aerorifles Squadron
-  * No. 6 Aerorifles Squadron
-  * No. 7 Aerorifles Squadron
-  * No. 8 Aerorifles Squadron
-{{</hint>}}
-
-###### No. 3 Aerorifles Wing
-
-{{<hint>}}
-  * No. 9 Aerorifles Squadron
-  * No. 10 Aerorifles Squadron
-  * No. 11 Aerorifles Squadron
-  * No. 12 Aerorifles Squadron
-{{</hint>}}
-
-###### No. 4 Aerorifles Wing
-
-{{<hint>}}
-  * No. 13 Aerorifles Squadron
-  * No. 14 Aerorifles Squadron
-  * No. 15 Aerorifles Squadron
-  * No. 16 Aerorifles Squadron
-{{</hint>}}
-
-##### Air Replenishment Command
-
-###### No. 1 Air Replenishment Wing
-{{<hint>}}
-  * No. 1 Air Replenishment Squadron <span class="hollowtag">Oslola</span>
-  * No. 2 Air Replenishment Squadron <span class="hollowtag">Barbados</span>
-{{</hint>}}
+* **No. 2 Aeroxiliary Wing**
+  * No. 4-6 Maritime Patrol Squadrons
+* **No. 3 Air Training Wing**
+  <br>
+  The Air Training Wing has two squadrons in the Virgin and Oslolan republics, and trains pilots for the Air Service.
+  * No. 1-2 Air Training Squadrons
+* **No. 4 Air Replenishment Wing**
+  * No. 1-2 Air Replenishment Squadrons
 {{</details>}}
+
+{{<details "Air Transport Command Structure">}}
+The *Air Transport Command* (ATC) supports other services, particularly the Territorial Service, and provides air mobility to Rifles regiments as part of its flexible and rapid-manoeuvre doctrine. When mounted in helicopters and helijets, Rifles regiments are known as Aerorifles, and combine with the crew and equipment of an Aerorifles squadron to form a complete air-mobile platoon.
+
+* **No. 1 Aerotransport Wing**
+  <br>
+  The No. 1 Transport Wing services the transport aircraft fleet. No. 1 & 2 Squadrons are land-based and 3 & 4 specialise in maritime transport, and include flying boats.
+  * No. 1 Aerotransport Squadron (Government)
+  * No. 2-3 Aerotransport Squadron (Strategic Airlift)
+  * No. 4 Aerotransport Squadron (Tactical Airlift)
+* **No. 2 Aerorifles Wing**
+  <br>
+  The Aerorifles are the aircraft and crew component of an interarmes air-mobile platoon, and transport individual infantry regiments.
+  * No. 5-8 Aerorifles Squadrons
+* **No. 3 Aerorifles Wing**
+  * No. 9-12 Aerorifles Squadrons
+* **No. 4 Aerorifles Wing**
+  * No. 13-16 Aerorifles Squadrons
+{{</details>}}
+
+##### Equipment
+
+Vekllei aircraft are primarily designed and manufactured domestically, and use mostly nuclear propulsion. Efforts to streamline and simplify inventory in recent years have reduced the overall types of aircraft in service.
 
 {{< details title="Air Service Aircraft" open=false >}}
 ##### Combat Aircraft
@@ -422,6 +324,17 @@ The Aerorifles are the aircraft and crew component of an interarmes air-mobile p
 {{<hint panel>}}
 #### Air Artillery Service
 
+The Air Artillery Service provides air defence in {{<link/vekllei>}}. It operates a variety of emplacements and point defences as part of Vekllei concentric air defence doctrine, but its primary force consists of mobile anti-air and flak systems.
+
+{{<details "Air Artillery Command Structure">}}
+The *Air Artillery Command* (ATC) consists of
+
+* **No. 1-6 Air Artillery Regiments**
+  <br>
+  The No. 1 Air Artillery Regiment
+{{</details>}}
+
+
 {{< details title="Air Artillery Service Equipment" open=false >}}
 ##### Missile Systems
 * 25 Truck
@@ -446,6 +359,7 @@ The Aerorifles are the aircraft and crew component of an interarmes air-mobile p
 * 40 Portable Search Target Acquisition Radar
 * 12 Ground Active Electronically Scanned Array
 * 4 Medium Array
+* 40 Counter-battery Radar
 * 20 Giraffe Array
 
 ##### Radar Jamming Aircraft
@@ -464,34 +378,30 @@ The Aerorifles are the aircraft and crew component of an interarmes air-mobile p
 
 The Vekllei **Territorial Service** is the closest analogue to a conventional army in the Vekllei military and comprises the majority of its professional fighting force. All Rifles regiments are trained as marine infantry, and Vekllei does not maintain dedicated marine regiments. All Territorial regiments are a part of the [Commonwealth Guard](#commonwealth-guard) and are federalised the same way, but are distinguished by their professional service and expeditionary posture.
 
-{{<details "Rifles Service Structure">}}
-##### Rifle Regiments
-Rifles regiments consist of 1,000 men, and can be assembled into larger divisional units. Regiment numbers are administrative only and so can change, and regiments are identified with inherited names with honours instead. Rifles are mechanised with armoured cars.  Policy is to have a standing army 50,000 strong, but the 26th-50th Rifles regiments are activated as they are combat-ready, and so the 50th and 49th are often deactivated between training.
+At full strength in its current organisation it has
 
-All Rifles are trained as both marine infantry and air assault regiments, and are
+{{<details "Commonwealth Rifles">}}
+Rifles regiments consist of 1,000 men, and can be assembled into larger divisional units. Regiment numbers are administrative only and so can change, and regiments are identified with inherited names with honours instead. Rifles are mechanised with armoured cars.
 
-###### 1st-25th Rifles Regiments
-{{<hint>}}
-* 1st Rifles Regiment <span class="hollowtag">Comet</span>
-* 2nd Rifles Regiment <span class="hollowtag">Comet</span>
-* 3rd Rifles Regiment <span class="hollowtag">Comet</span>
-{{</hint>}}
+Policy is to have a standing army 50,000 strong, but the 26th-50th Rifles regiments are activated as they are combat-ready, and so the 50th and 49th are often deactivated between training.
 
-{{<hint>}}
-* **26th-50th Rifles Regiments**
-{{</hint>}}
+* **Rifles Regiments**
+  * 1st-20th Rifles Regiments
+* **Aerorifles Regiments**
+  * 21st-24th Aerorifles Regiments
+  * 25th-32nd Marine Rifles Regiments
+* **Rifles Regiments**
+  * 33rd-48th Rifles Regiments
+* **Special Warfare Regiments**
+  * 49th Chemical Regiment
+  * 50th Nuclear Regiment
+* **Armoured Rifles Regiments**
+  <br>
+  The Armoured Rifles are mechanised with infantry fighting vehicles and tracked APCs and function as shock infantry.
+  * 51st-52nd Armoured Rifles Regiments
+{{</details>}}
 
-##### Armoured Rifles Regiments
-The Armoured Rifles are mechanised with infantry fighting vehicles and tracked APCs and function as shock infantry.
-
-{{<hint>}}
-  * **51st-52nd Armoured Rifles Regiments**
-{{</hint>}}
-
-* **Marine Rifles Regiments**
-* **Air Rifles Regiments**
-
-##### Commonwealth Guard Regiments
+{{<details "Commonwealth Guards">}}
 
 The Commonwealth Guard is the national militia and primary reserve force of the Territorial Services. It is federalised by default, and contributes its servicemen for the Rifles and other territorial regiments. As such, all Territorial servicemen are part of a Commonwealth Guards regiment, but in regular service are assigned to active units in other services. Only reservists, trainees and officers remained attached to the Guard while it is federalised.
 
@@ -501,12 +411,9 @@ The Commonwealth Guard is the national militia and primary reserve force of the 
   * Civil Affairs Regiments
   * Military Police Regiments
   * Military Intelligence Regiments
-* **Special Regiments**
-  * Chemical Regiments
-  * Nuclear Regiments
 {{</details>}}
 
-{{<details "Armoured Corps Service Structure">}}
+{{<details "Strategic Security Service">}}
 ##### Armoured Regiments
 
 {{</details>}}
@@ -574,8 +481,6 @@ The Commonwealth Guard is the national militia and primary reserve force of the 
 
 {{<hint panel>}}
 #### Commonwealth Guard
-
-The Commonwealth Guard (*National Guard*) is the national militia of Vekllei and comprises the majority of its service personnel. Unlike other national militias which require federalisation, the Commonwealth Guard are federalised by default, and are deactivated for specific republic duties as required.
 {{</hint>}}
 
 {{<hint panel>}}

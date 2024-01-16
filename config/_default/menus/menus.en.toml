@@ -67,18 +67,18 @@
       parent = "culture"
       weight = 4
   [[navbar]]
-    identifier = "landscape"
-    name = "Landscape"
-    pre = "🌿"
+    identifier = "world"
+    name = "World"
+    pre = "🌐"
     parent = "factbook"
-    url = "/factbook/landscape"
+    url = "/factbook/world"
     weight = 5
     [[navbar]]
-      identifier = "world"
-      name = "World"
-      pre = "🌐"
-      url = "/factbook/landscape/world"
-      parent = "landscape"
+      identifier = "countries"
+      name = "Countries"
+      pre = "🌎"
+      url = "/factbook/world/countries"
+      parent = "world"
       weight = 1
   [[navbar]]
     identifier = "society"
