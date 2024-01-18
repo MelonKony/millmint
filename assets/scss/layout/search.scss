@@ -91,18 +91,15 @@
 
 #search-results {
 	@include body-background-color;
+	@include drop-shadow;
+	@include radius-base;
 	margin-top: 0.25rem;
 	position: absolute;
 	z-index: 11;
 	width: -webkit-max-content;
 	width: -moz-max-content;
 	width: max-content;
-	--tw-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
-		0 10px 10px -5px rgba(0, 0, 0, 0.04);
-	box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
-		var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 	max-width: 100%;
-	border-radius: 5px;
 	padding-inline-start: 0;
 
 	a {

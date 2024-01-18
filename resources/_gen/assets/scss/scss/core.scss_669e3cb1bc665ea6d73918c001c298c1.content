@@ -1417,14 +1417,14 @@ nav {
   display: block; }
 
 .menu-dropdown {
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
   display: none;
   position: absolute;
   left: 0;
   top: 0;
   margin: 0;
   padding: 0;
-  z-index: 3;
-  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.2); }
+  z-index: 3; }
 
 .submenu .menu-dropdown {
   left: 100%;
@@ -4894,17 +4894,15 @@ ol.timeline .event {
 
 #search-results {
   background-color: var(--body-background);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
+  border-radius: .25rem;
   margin-top: 0.25rem;
   position: absolute;
   z-index: 11;
   width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
-  --tw-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
-		0 10px 10px -5px rgba(0, 0, 0, 0.04);
-  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
   max-width: 100%;
-  border-radius: 5px;
   padding-inline-start: 0; }
   #search-results a {
     white-space: normal; }

@@ -160,6 +160,7 @@ nav {
 }
 
 .menu-dropdown {
+  @include drop-shadow;
   display: none;
   position: absolute;
   left: 0;
@@ -167,7 +168,6 @@ nav {
   margin: 0;
   padding: 0;
   z-index: 3;
-  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, .2), 0 10px 10px -5px rgba(0, 0, 0, .2);
 }
 
 .submenu .menu-dropdown {

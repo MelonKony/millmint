@@ -23,3 +23,6 @@
 @mixin nav-highlight-background {
  background: var(--hint-bg, var(--gray-light));
 }
+@mixin drop-shadow {
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, .2), 0 10px 10px -5px rgba(0, 0, 0, .2);
+}

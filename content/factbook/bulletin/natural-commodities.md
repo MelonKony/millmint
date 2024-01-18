@@ -23,7 +23,7 @@ aliases:
 
 * With islands across most of the Atlantic, Vekllei has a huge exclusive economic zone and tremendous natural commodities.
 * Vekllei minimises their use and export of these resources for reasons outside of simple environmentalism.
-* The Vekllei position is that resources are a source of capital, not income, and consequently their expense should be minimise.
+* The Vekllei position is that resources are a source of capital, not income, and consequently their expense should be minimised.
 * This complements a broader view of natural and physical landscapes in the country, as a distinct sovereign entity seperate from civilisation.
 * Nonetheless, Vekllei exploits resources as any other country does, since it is necessary to service any kind of production. The difference is mostly in its perspective of natural commodities and minimisation of their use.
 
