@@ -12,7 +12,7 @@ categories:
 - bulletin
 
 aliases:
-- /bulletin/natural-sovereignty
+- /bulletin/natural-commodities/
 ---
 {{<hint>}}
 ߷ Part of the *[bulletin](/bulletin/)* series of articles

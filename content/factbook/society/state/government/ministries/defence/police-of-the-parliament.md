@@ -3,7 +3,7 @@ title: Police of the Parliament
 fulltitle: Police of the Parliament
 icon: ⚖️
 color: cosmokos
-logo: /svg/crests/commonwealth-police.svg
+logo: /svg/crests/parliament-police.svg
 autonumbering: false
 
 aliases:

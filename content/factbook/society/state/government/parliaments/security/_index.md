@@ -123,7 +123,7 @@ The *Special Protectorate Bureau* at *National Intelligence* (SP/NI) reports inf
 {{<hint panel>}}
 ### Public Security Directorate
 
-The *Public Security Directorate* (Cosevac, or POSEC) is primarily tasked with intelligence related to public security, and is closely linked to the domestic intelligence-gathering activities of [HO/NI](#home-office-honi). POSEC is a directorate that primarily services the interests of the public, which distinguishes it from [National Intelligence](#national-intelligence-directorate) amd [SESEC](#state-security-directorate). To this end, it coordinates closely with the [Police of the Parliament](/factbook/society/state/government/interior/defence/#police-of-the-parliament) to conduct operations against terrorism, smuggling, organised crime and civil unrest.
+The *Public Security Directorate* (Cosevac, or POSEC) is primarily tasked with intelligence related to public security, and is closely linked to the domestic intelligence-gathering activities of [HO/NI](#home-office-honi). POSEC is a directorate that primarily services the interests of the public, which distinguishes it from [National Intelligence](#national-intelligence-directorate) amd [SESEC](#state-security-directorate). To this end, it coordinates closely with the {{<link/parliament-police>}} to conduct operations against terrorism, smuggling, organised crime and civil unrest.
 
 * **General Office**: POSEC administration.
 * **TERSEC Bureau**: Counterterrorism intelligence and operations.
