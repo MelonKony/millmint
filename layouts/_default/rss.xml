@@ -51,7 +51,7 @@
 	  {{ `<![CDATA[` | safeHTML }}{{ .Summary }}{{ `]]>` | safeHTML }}
 	  </description>
 	 <content:encoded>
-	 	{{ `<![CDATA[` | safeHTML }}<img src="{{ .Params.image }}"/> {{ .Content | safeHTML }}{{ `]]>` | safeHTML }}
+	 	{{ `<![CDATA[` | safeHTML }}<img src="{{ $.Site.BaseURL }}{{ .Params.image }}"/> {{ .Content | safeHTML }}{{ `]]>` | safeHTML }}
   	</content:encoded>
 	</item>
 	{{ end }}
