@@ -109,6 +109,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * Curaçao Republic (*Curacao*)
 
 * **Arctic Commonwealth**
+  * Helvasia Republic (*Svalbard*)
   * Kala Republic (*Greenland*)
 
 * **Atlantic Commonwealth**
@@ -163,7 +164,6 @@ Although regionally and culturally diverse, Commonwealth government is centralis
 * **Oslolan Commonwealth**
   * Aismious Republic (*Faroe*)
   * Demon Republic (*Jan Mayen*)
-  * Helvasia Republic (*Svalbard*)
   * Oslolan Republic (*Iceland*)
 
 * **Verde Commonwealth**

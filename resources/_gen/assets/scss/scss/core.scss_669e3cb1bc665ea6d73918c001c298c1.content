@@ -2969,6 +2969,12 @@ ol.timeline .event {
 .fi-oslola.fis {
   background-image: url(../svg/flags/1x1/oslola.svg); }
 
+.fi-demon {
+  background-image: url(../svg/flags/4x3/demon.svg); }
+
+.fi-demon.fis {
+  background-image: url(../svg/flags/1x1/demon.svg); }
+
 .fi-mira {
   background-image: url(../svg/flags/4x3/mira.svg); }
 
@@ -3100,6 +3106,12 @@ ol.timeline .event {
 
 .fi-min-commonwealth-labs.fis {
   background-image: url(../svg/logos/commonwealth-labs.svg); }
+
+.fi-min-housing-commission.fis {
+  background-image: url(../svg/logos/housing-commission.svg); }
+
+.fi-min-healthcare.fis {
+  background-image: url(../svg/logos/health-vekllei.svg); }
 
 .fib {
   background-size: contain;

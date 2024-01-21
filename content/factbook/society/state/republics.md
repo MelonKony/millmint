@@ -46,6 +46,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* Curaçao Republic (*Curacao*)
 
 * **Arctic Commonwealth**
+	* Helvasia Republic (*Svalbard*)
 	* Kala Republic (*Greenland*)
 
 * **Atlantic Commonwealth**
@@ -100,7 +101,6 @@ There are a few criteria separating Polisa from regular city councils. They are 
 * **Oslolan Commonwealth**
 	* Aismious Republic (*Faroe*)
 	* Demon Republic (*Jan Mayen*)
-	* Helvasia Republic (*Svalbard*)
 	* Oslolan Republic (*Iceland*)
 
 * **Verde Commonwealth**
