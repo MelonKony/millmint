@@ -57,20 +57,8 @@
     <meta property="og:locale" content="en">
     {{ if .Params.image }}
     <meta property="og:image" content="{{ .Params.image | relURL }}" />
-    <meta property="og:image:secure_url" content="{{ .Params.image | absURL }}" />
+    <!--<meta property="og:image:secure_url" content="{{ .Params.image | absURL }}" />-->
     {{ end }}
-
-    <!-- verification for follow.it (newsletter) -->
-    <meta name="follow.it-verification-code" content="P1t39ScmbkHPZrhXF7lu"/>
-
-    <!-- Twitter cards -->
-    <meta name="twitter:card" content="Illustrations from Studio MillMint" />
-    <meta name="twitter:site" content="MillMint" />
-    <meta name="twitter:creator" content="Hobart Phillips" />
-    <meta property="og:url" content="{{ .Permalink }}" />
-    <meta property="og:title" content="{{ if eq .Kind "taxonomy" }}{{ .Title }} | YourSite {{ else }}{{ .Title }}{{ end }}" />
-    <meta property="og:description" content="{{ if .Description }} {{ .Description }} {{ else }} {{ .Site.Params.Description }} - {{ .Title }} {{ end }}" />
-    <meta property="og:image" content="{{if .Params.image}}{{.Params.image}}{{else}}YourDefaultImage{{end}}" />
 
     {{- if default true .Site.Params.Search -}}
     {{- $searchJSFile := printf "%s.search.js" .Language.Lang }}
