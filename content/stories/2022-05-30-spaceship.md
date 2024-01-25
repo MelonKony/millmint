@@ -5,7 +5,7 @@ fulltitle: A Vekllei Spaceship
 date: 2022-05-30
 rgb: 195, 54, 70
 
-tags: 
+tags:
 - 2022
 - post
 categories:
@@ -23,7 +23,7 @@ reddit: https://www.reddit.com/r/vekllei/comments/v15une/a_vekllei_spaceship/
 print: https://www.inprnt.com/gallery/melonkony/apollo-interstellar-transport/
 ---
 
-### A New Frontier
+## A New Frontier
 
 **The stars are close to Vekllei.** The common availability of space travel is the most wonderful achievement of Vekllei aerospace. It lights the furthest corners of the imagination in the postwar Vekllei spirit of play and dreams. The democratisation of space travel is in fact the democratisation of space itself, and so essential to the realisation of the Vekllei dream — as on Earth, so in the stars.
 
@@ -37,7 +37,7 @@ The routes are serviced by a most extraordinary spacecraft called the Aerospatia
 
 [Vekllei Aerospatiale S.A.](/factbook/landscape/boroughs/pharos/#vekllei-aerospatiale-sa) is a municipalised aircraft manufacturing and production company in [Pharos](/factbook/landscape/boroughs/pharos/) (Vekllei’s ‘aviation borough’) and is generally considered the largest and most advanced of Vekllei’s civilian aerospace manufacturers. It is best known for the development of Vekllei’s first supersonic transport — the VA-500 “Sky Dart,” which was a clone of Boeing’s 6th-generation SSTs and resulted in accusations of corporate espionage and theft. The Interplanatery Transport programme, on the other hand, was almost entirely home-grown. It is an utterly unique category pf vehicle, pushed to the frontier of aerospace engineering with the development lightbulb-style nuclear thermal reactors in the late 2040s.
 
-### Designing a New Kind of Interplanetary Transport
+## Designing a New Kind of Interplanetary Transport
 
 The Vekllei Nuclear-Electric Commission chaired the United Nuclear Transport Working Group (NTWG) in the early 2030s, which included state industry partners like General Reactor S.A. as well as specialised nuclear energy companies like Atomic Electric S.p.M. and [Future Fission](/factbook/landscape/boroughs/pharos/#future-fission-sqm). NTWG conducted a series of experiments with nuclear rocketry in Kala in 2037, and built a technology data base of nuclear thermal reactors that were eventually incorporated into early types of atomic spacecraft (see, for example, the first interplanetary military and research vessel VS-10, a successor to the X-25).
 
