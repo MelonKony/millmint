@@ -3113,6 +3113,9 @@ ol.timeline .event {
 .fi-min-healthcare.fis {
   background-image: url(../svg/logos/health-vekllei.svg); }
 
+.fi-min-cateral.fis {
+  background-image: url(../svg/logos/cateral.svg); }
+
 .fib {
   background-size: contain;
   background-position: 50%;
