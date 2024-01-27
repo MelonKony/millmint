@@ -17,4 +17,4 @@ aliases:
 
 <span class="fi fi-min-starlines fis"></span>  **Commonwealth Starlines** (trading as *Starlines* or *CSA*) is the interstellar flag carrier of {{<link/vekllei>}} and a subsidiary of {{<link/air>}}.
 
-CSA's home base is at the [Vekllei World Cosmodrome](/cosmodrome/) in {{<link/ascension>}}.
+CSA's home base is at the [Vekllei World Astroport](/cosmodrome/) in {{<link/ascension>}}.
