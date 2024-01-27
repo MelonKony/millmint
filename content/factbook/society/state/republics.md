@@ -13,11 +13,11 @@ aliases:
 - /polis/
 
 description: Polises are a type of city-state in Vekllei, a fictional Atlantic country.
-author: Hobart Phillips
+
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[state](/state/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 A **Republic** (Vekllei: *Polis*) is type of city-state that make up the country of {{<link/vekllei>}}. They consist of island city-states known as *Polisa* which together form a [constituent commonwealth](/constituents/). There are 66 republics in Vekllei that together form 8 commonwealths and the country of Vekllei.
 
@@ -33,8 +33,8 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* Vekllei Mars Community
 
 * **Antarctic Commonwealth**
-	* Ascension Republic (*Ascension*)
-	* Falklands Republic (*Falklands*)
+	* {{<link/ascension>}} (*Ascension*)
+	* {{<link/falklands>}} (*Falklands*)
 	* Helena Republic (*Saint Helena*)
 	* Santes Republic (*Tristan da Cunha*)
 	* Sude Republic (*South Georgia & South Sandwich Islands*)
@@ -73,7 +73,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* Mayaguana Republic (*Mayaguana*)
 	* Nema Republic (*New Providence*)
 	* Rum Republic (*San Salvador & Rum Cay*)
-	* Summers Republic (*Bermuda*)
+	* {{<link/summers>}} (*Bermuda*)
 	* Yabaque Republic (*Acklins*)
 	* Yuma Republic (*Long Island*)
 
@@ -100,7 +100,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 
 * **Oslolan Commonwealth**
 	* Aismious Republic (*Faroe*)
-	* Demon Republic (*Jan Mayen*)
+	* {{<link/demon>}} (*Jan Mayen*)
 	* Oslolan Republic (*Iceland*)
 
 * **Verde Commonwealth**

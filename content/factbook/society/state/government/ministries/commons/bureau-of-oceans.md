@@ -8,6 +8,6 @@ logo: /svg/crests/ministry-of-the-commons.svg
 aliases:
 - /bureau-of-nature/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This bureau is part of the {{<link/ministry-of-the-commons>}}
-{{</hint>}}
+{{</note>}}

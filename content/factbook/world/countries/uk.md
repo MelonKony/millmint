@@ -12,9 +12,9 @@ toc: true
 aliases:
 - /uk/
 ---
-{{< hint green >}}
+{{<note green >}}
 ߷ Part of the *[world](/world/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 The **United Kingdom** (UN) is an island country in the North Sea, off the coast of Europe.
 

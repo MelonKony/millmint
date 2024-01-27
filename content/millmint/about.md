@@ -15,16 +15,16 @@ comments: false
 autonumbering: false
 
 description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
-author: Hobart Phillips
+
 
 ---
 <!--{{<section>}}
 ![smallimg](https://images.millmint.net/images/mastheads/author.png)
 {{</section>}}-->
 
-{{< hint >}}
+{{<note>}}
 ✿ For common questions about me or my work, please visit the [FAQ](/intro/faq/).
-{{</hint>}}
+{{</note>}}
 
 **Hello, [I'm Hobart](https://images.millmint.net/images/mastheads/author.png)**. I'm an Australian illustrator and writer living and working in Tasmania. I like machines, midcentury design and visiting new places. I studied as a journalist, but now work in illustration.
 
@@ -36,23 +36,23 @@ You can **write to me** at <span class="smallicon">📧</span> hobart@millmint.n
 
 Visited: 🇦🇺🇯🇵🇿🇦🇭🇰🇮🇸🇨🇦🇲🇪🇷🇺🇫🇮🇸🇪🇮🇹🇫🇷🇩🇪🇬🇧🇭🇷🇹🇭🇺🇸🇸🇬🇲🇨🇬🇷
 
-{{<hint>}}
+{{<note>}}
 Sincere thanks to [Jip](https://jipfr.nl) and Ben R. R. for their contributions to this site. They volunteered their time again and again to help create new features that make Vekllei easier and more fun to read. Thank you!
-{{</hint>}}
+{{</note>}}
 
 ## News
 
 <small>Last updated: 08 Jul 2023</small>
 
-{{<hint header>}}
+{{<note header>}}
 July 2023
-{{</hint>}}
+{{</note>}}
 
 <span class="bulleticon">📔</span> **July 7, 2023** New comic: [*Atomica 1: Cola*](/stories/cola/) <button class="bulletbutton" href="/stories/cola/">URL →</button></span>
 
-{{<hint header>}}
+{{<note header>}}
 June 2023
-{{</hint>}}
+{{</note>}}
 
 <span class="bulleticon">🌐</span> **June 28, 2023** Start of a major content update, including new and revised articles on [Vekllei](/vekllei/), its [Basic Laws](/basic-laws/), and its [Government](/government/). Part of a massive lore update I'm calling "Vekllei 2.0."
 
@@ -78,17 +78,17 @@ June 2023
 
 <span class="bulleticon">📗</span> **June 2, 2023** New post: [*An Intelligence Analyst and Her Medals*](/stories/analyst/) <button class="bulletbutton" href="/stories/analyst/">URL →</button></span>
 
-{{<hint header>}}
+{{<note header>}}
 May 2023
-{{</hint>}}
+{{</note>}}
 
 <span class="bulleticon">📒</span> **May 16, 2023** New sketch: [*Hardware*](/stories/hardware/) <button class="bulletbutton" href="/stories/hardware/">URL →</button></span>
 
 <span class="bulleticon">📒</span> **May 2, 2023** New sketch: [*Downpour*](/stories/downpour/) <button class="bulletbutton" href="/stories/downpour/">URL →</button></span>
 
-{{<hint header>}}
+{{<note header>}}
 April 2023
-{{</hint>}}
+{{</note>}}
 
 <span class="bulleticon">📒</span> **April 30, 2023** New sketch: [*Natural Corners*](/stories/corner/) <button class="bulletbutton" href="/stories/corner/">URL →</button></span>
 
@@ -98,9 +98,9 @@ April 2023
 
 <span class="bulleticon">🌐</span> **April 1, 2023** MillMint.net now displays a closeable notice and badge when there's a new story you havent seen! Nifty!
 
-{{<hint header>}}
+{{<note header>}}
 March 2023
-{{</hint>}}
+{{</note>}}
 
 <span class="bulleticon">📗</span> **March 31, 2023** New post: [*General Infantry, General Issue*](/stories/infantry/) <button class="bulletbutton" href="/stories/infantry/">URL →</button></span>
 
@@ -124,9 +124,9 @@ March 2023
 
 <span class="bulleticon">📒</span> **March 1, 2023** New sketch: [*Dapper Soldier*](/stories/soldier/) <button class="bulletbutton" href="/stories/soldier/">URL →</button></span>
 
-{{<hint header>}}
+{{<note header>}}
 February 2023
-{{</hint>}}
+{{</note>}}
 
 <span class="bulleticon">📒</span> **February 28, 2023** New sketch: [*Revised Mail Uniform*](/stories/mail-revised/) <button class="bulletbutton" href="/stories/mail-revised/">URL →</button></span>
 
@@ -147,9 +147,9 @@ February 2023
 
 <span class="bulleticon">📗</span> **February 15, 2023** New post: [*New Ruins*](/stories/ruins/) <button class="bulletbutton" href="/stories/ruins/">URL →</button></span>
 
-{{<hint header>}}
+{{<note header>}}
 January 2023
-{{</hint>}}
+{{</note>}}
 
 <span class="bulleticon">📒</span> **January 31, 2023** New sketch: [*Sketch for a Friend*](/stories/neko/) <button class="bulletbutton" href="/stories/neko/">URL →</button></span>
 
@@ -168,9 +168,9 @@ January 2023
 
 <span class="bulleticon">📗</span> **January 1, 2023** New post: [*The Prime Minister(s) of Vekllei*](/stories/ministers/) <button class="bulletbutton" href="/stories/ministers/">URL →</button></span>
 
-{{<hint header>}}
+{{<note header>}}
 December 2022
-{{</hint>}}
+{{</note>}}
 
 <span class="bulleticon">📗</span> **December 31, 2022** New post: [*Tannin Rivers*](/stories/tannin/) <button class="bulletbutton" href="/stories/tannin/">URL →</button></span>
 
@@ -187,17 +187,17 @@ December 2022
 
 <span class="bulleticon">📗</span> **December 2, 2022** New post: [*Silica Rivers*](/stories/silica/) <button class="bulletbutton" href="/stories/silica/">URL →</button></span>
 
-{{<hint header>}}
+{{<note header>}}
 November 2022
-{{</hint>}}
+{{</note>}}
 
 <span class="bulleticon">📒</span> **November 30, 2022** New sketch: [*Sleep*](/stories/sleep/) <button class="bulletbutton" href="/stories/sleep/">URL →</button></span>
 
 <span class="bulleticon">📗</span> **November 9, 2022** New post: [*Teachers*](/stories/teachers/) <button class="bulletbutton" href="/stories/teachers/">URL →</button></span>
 
-{{<hint header>}}
+{{<note header>}}
 October 2022
-{{</hint>}}
+{{</note>}}
 
 <span class="bulleticon">📒</span> **October 29, 2022** New sketch: [*Tee Shirt*](/stories/teeshirt/) <button class="bulletbutton" href="/stories/teeshirt/">URL →</button></span>
 
@@ -215,9 +215,9 @@ October 2022
 
 <span class="bulleticon">📗</span> **October 6, 2022** New post: [*The Rifles Section*](/stories/rifles/) <button class="bulletbutton" href="/stories/rifles/">URL →</button></span>
 
-{{<hint header>}}
+{{<note header>}}
 September 2022
-{{</hint>}}
+{{</note>}}
 
 <span class="bulleticon">🌐</span> **September 29, 2022** New website section: [Blog](/blog/) <button class="bulletbutton" href="/blog/">URL →</button></span>
 
@@ -231,9 +231,9 @@ September 2022
 
 <span class="bulleticon">📗</span> **September 1, 2022** New post: [*Stories from the Horizon*](/stories/horizon/) <button class="bulletbutton" href="/stories/horizon/">URL →</button></span>
 
-{{<hint header>}}
+{{<note header>}}
 August 2022
-{{</hint>}}
+{{</note>}}
 
 <span class="bulleticon">📄</span> **August 29, 2022** Added an article about the [Finance of Vekllei](/finance/) <button class="bulletbutton" href="/finance/">URL →</button></span>
 
@@ -253,9 +253,9 @@ August 2022
 
 <span class="bulleticon">📓</span> **August 2, 2022** Added a new /state/ section in [/society/](/factbook/society) and split up the Government article into smaller pages, in preparation for its public release.
 
-{{<hint header>}}
+{{<note header>}}
 July 2022
-{{</hint>}}
+{{</note>}}
 
 <span class="bulleticon">📄</span> **July 29, 2022** Added an article about [Computing in Vekllei](/factbook/society/technology/computers/) <button class="bulletbutton" href="/factbook/society/technology/computers/">URL →</button></span>
 
@@ -269,9 +269,9 @@ July 2022
 
 <span class="bulleticon">📗</span> **July 12, 2022** New post: [*Café Diplomacy*](/posts/2022-07-12-vista/) <button class="bulletbutton" href="/posts/2022-07-12-vista/">URL →</button></span>
 
-{{<hint header>}}
+{{<note header>}}
 June 2022
-{{</hint>}}
+{{</note>}}
 
 <span class="bulleticon">📄</span> **July 29, 2022** New borough article: [Pharos](/factbook/landscape/boroughs/pharos/) <button class="bulletbutton" href="/factbook/landscape/boroughs/pharos/">URL →</button></span>
 

@@ -23,14 +23,14 @@ aliases:
 - /unions/
 
 description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
----
-{{< hint >}}
-߷ Part of the *[State](/state/)* series of articles
-{{</hint>}}
 
-{{< hint panel >}}
-{{</hint>}}
+---
+{{<note>}}
+߷ Part of the *[State](/state/)* series of articles
+{{</note>}}
+
+{{<note panel >}}
+{{</note>}}
 
 ## Overview
 

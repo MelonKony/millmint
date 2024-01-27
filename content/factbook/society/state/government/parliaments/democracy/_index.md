@@ -8,9 +8,9 @@ color: democracy
 aliases:
 - /demsec/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This *[parliament](/parliaments/)* is part of {{<link/vekllei>}}.
-{{</hint>}}
+{{</note>}}
 
 {{<section>}}
 ## Overview

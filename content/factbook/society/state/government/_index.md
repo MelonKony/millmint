@@ -9,7 +9,7 @@ logo: /svg/crests/vekllei.svg
 aliases:
   - /government/
 ---
-{{< hint panel >}}
+{{<note panel >}}
 The <span class="fi fi-min-vekllei fis"></span> **Commonwealth Government** is the national government of {{<link/vekllei>}} and is a federal, parliamentary constitutional republic. It consists of several parts:
 
 * A supreme executive  of all Commonwealth [republics](/republics/) and [constituents](/constituents/) called the {{<link/council>}}, consisting of
@@ -21,4 +21,4 @@ The <span class="fi fi-min-vekllei fis"></span> **Commonwealth Government** is t
 * Sectors of public administration, including
   * Federal [parliaments](/parliaments/)
   * Constituent [ministries](/ministries/)
-{{</hint>}}
+{{</note>}}

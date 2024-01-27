@@ -9,6 +9,6 @@ color: cosmolab
 aliases:
 - /bureau-of-syndicates/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This bureau is part of the {{<link/ministry-of-labour>}}
-{{</hint>}}
+{{</note>}}

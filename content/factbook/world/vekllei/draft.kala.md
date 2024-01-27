@@ -13,18 +13,18 @@ categories:
 image:
 
 description: The Kala Commonwealth is an administrative region of the Commonwealth of Vekllei, a utopian country created by Hobart Phillips.
-author: Hobart Phillips
+
 
 ---
-{{< hint green >}}
+{{<note green >}}
 ߷ This article is about an [**overseas member**](/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/factbook/vekllei)
-{{</hint>}}
+{{</note>}}
 
 ## Overview
 
-{{< hint panel >}}
+{{<note panel >}}
 **Although Vekllei** comprises several independent commonwealths, most notably the island city-state to which it owes its name, the Commonwealth of Vekllei also includes several autonomous nations. **Mira**, also called Madeira, is among them.
-{{</hint>}}
+{{</note>}}
 
 **Kala** (also ***Madeira*** in Portuguese) is a sovereign commonwealth island archipelago situated in the Atlantic, 520km west of Morocco.
 

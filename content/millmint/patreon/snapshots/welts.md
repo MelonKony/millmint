@@ -8,7 +8,7 @@ tag: SNAPSHOT
 sitetag: May 15, 2021
 
 description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
-author: Hobart Phillips
+
  
 ---
 

@@ -11,13 +11,13 @@ draft: false
 aliases:
 - /atlantic-store/
 ---
-{{<hint>}}
+{{<note>}}
 ߷ Part of the *[industry](/industry/)* series of articles
-{{</hint>}}
+{{</note>}}
 
-{{<hint link>}}
+{{<note link>}}
 ✿ Read more: *[Department Commerce](/stories/department/)*
-{{</hint>}}
+{{</note>}}
 
 The <span class="fi fi-min-atlantic-store fis"></span> **Atlantic Department Company** S.A., trading as <span class="fi fi-min-atlantic-store fis"></span> **Atlantic**, is the largest mainland department store chain in {{<link/vekllei>}}. It is among the few companies to survive the transition to the [social economy](/social-economy/) with its ownership intact, and remains within the family of the Kolot family that founded the chain in 1830.
 

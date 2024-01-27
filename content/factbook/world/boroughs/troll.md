@@ -18,15 +18,15 @@ aliases:
 
 weight: 1
 description: The borough of Troll is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
-author: Hobart Phillips
+
 
 ---
 
 ## Overview
 
-{{< hint >}}
+{{<note>}}
 ߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
-{{</hint>}}
+{{</note>}}
 
 **The borough of Troll** is an administrative region in southwest Vekllei, located in the Lava Region directly north of the glacier of Vatnayoskusl. Situated on the sloping north face of the Vekllei Glacier Highlands, the borough is home to several outlet glaciers flowing out of Vatnayoskusl's ice cap.
 

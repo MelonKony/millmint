@@ -8,8 +8,8 @@ logo: /svg/crests/ministry-of-the-commons.svg
 aliases:
 - /commonwealth-space-research-directorate/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This directorate is part of the {{<link/ministry-of-the-commons>}}
-{{</hint>}}
+{{</note>}}
 
 CSRD

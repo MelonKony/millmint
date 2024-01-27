@@ -23,9 +23,9 @@ image: https://images.millmint.net/lunch.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/td9iwj/tzipora_takes_her_lunch_to_school/
 ---
 
-{{<hint link>}}
+{{<note link>}}
 ✿ Read more: *[A Vekllei Breakfast](/posts/2021-05-09-breakfast/)*
-{{</hint>}}
+{{</note>}}
 
 In Vekllei schools, they take an hour and a half for lunch most days. Food is a complicated subject here, as a ubiquitous demonstration of the Vekllei cultural tradition and its relative scarcity compared to consumer societies.
 

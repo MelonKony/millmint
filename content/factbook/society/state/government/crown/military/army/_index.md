@@ -9,11 +9,11 @@ aliases:
 - /army/
 
 description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This article is about a privilege of the Vekllei Sovereign
-{{</hint>}}
+{{</note>}}
 
 ## Overview
 
@@ -30,9 +30,9 @@ The Commonwealth Army refers to its infantry regiments, equivalent roughly to ov
 
 ### Expeditionary Corps
 
-{{<hint>}}
+{{<note>}}
 ✿ Main article: <span class="smallicon">🗡</span> *[Expeditionary Corps](/expeditionary/)*
-{{</hint>}}
+{{</note>}}
 
 35,000 + 10,000 (45,000 total)
 

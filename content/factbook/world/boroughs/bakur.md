@@ -16,15 +16,15 @@ aliases:
 - /bakur/
 
 description: The borough of Bakur is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
-author: Hobart Phillips
+
 
 ---
 
 ## Overview
 
-{{< hint >}}
+{{<note>}}
 ߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
-{{</hint>}}
+{{</note>}}
 
 **The borough of Bakur** is an administrative region on the far northwest coast of Vekllei, located in the Afouismeh Region north of Tanger and south of [Eyri](/vekllei/boroughs/eyri/). It is named after Bakur, an ancient fishing town with history that predates unified settlement in Vekllei. It has the smallest population of any borough in Vekllei, at only 7,500 permanent residents, which fluctuates seasonally. It is most famous for being home to the site of Vekllei's Deep-Sea Cartography Mission, an initiative of the Ocean Office of the Vekllei Government. This also means Bakur has the highest population of scientific personnel per capita of any borough in Vekllei.
 

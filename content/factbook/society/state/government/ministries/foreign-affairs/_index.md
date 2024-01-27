@@ -8,9 +8,9 @@ logo: /svg/crests/ministry-of-foreign-affairs.svg
 aliases:
 - /cosmosea/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
-{{</hint>}}
+{{</note>}}
 
 ## Overview
 {{<boxtag teal>}}COSMOSEA{{</boxtag>}}

@@ -10,11 +10,11 @@ aliases:
 - /corcidi/
 
 description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[culture](/culture/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 **Corcidi Poetry** is a traditional form of poetry in Oslolan Algic culture. It is the practice of taking short poetic phrases and distilling their essential meaning into a single world. *Vekllei*, the name of the current Commonwealth of Oceans, is a Corcidi word meaning "people of the sea and stars."
 

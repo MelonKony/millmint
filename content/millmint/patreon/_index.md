@@ -22,9 +22,9 @@ aliases:
 - /patreon/
 
 description: The government of Vekllei, a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 keywords: government, illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
 ---
-{{< hint panel >}}
+{{<note panel >}}
 This page is an archive for content posted to the dormant [Vekllei Patreon](https://patreon.com/vekllei).
-{{</hint>}}
+{{</note>}}

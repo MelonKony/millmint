@@ -11,8 +11,8 @@ draft: false
 aliases:
 - /falklands/
 ---
-{{< hint green >}}
+{{<note green >}}
 ߷ The Falklands are part of {{<link/vekllei>}} Antarctica
-{{</hint>}}
+{{</note>}}
 
-The **Republic of the Falklands** is an [constituent republic](/republics/) in the South Atlantic Ocean, and part of the commonwealth of Antarctica.
+The <span class="fi fi-fk"></span> **Republic of the Falklands** is an [constituent republic](/republics/) in the South Atlantic Ocean, and part of the commonwealth of Antarctica.

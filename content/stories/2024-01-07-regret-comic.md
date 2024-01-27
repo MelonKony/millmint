@@ -23,6 +23,6 @@ reddit:
 print:
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 Oh no.
-{{</hint>}}
+{{</note>}}

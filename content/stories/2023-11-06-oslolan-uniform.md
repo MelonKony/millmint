@@ -21,9 +21,9 @@ reddit:
 print:
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 Oslolans can wear traditional jewellery with their school uniforms, but swords are absolutely NOT allowed (except for ceremonies).
-{{</hint>}}
+{{</note>}}
 
 If you've ever wondered why Commonwealth school uniforms are so schizophrenic, this is why.
 

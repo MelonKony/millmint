@@ -8,9 +8,9 @@ color: purple
 aliases:
 - /senate/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[state](/state/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 The <span class="fi fi-min-vekllei-purple fis"></span> **Commonwealth Senate** is the upper house of the {{<link/vekllei>}} [government](/government/) and has special legislative powers to approve, defer or reject proposed laws. The Senate cannot introduce most types of legislation, and so acts as a check on a {{<link/assembly>}}, which collectively form a federated Lower House across 8 [constituent commonwealths](/constituents/).
 

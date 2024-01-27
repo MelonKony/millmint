@@ -8,6 +8,6 @@ color: cosmopos
 aliases:
 - /commonwealth-media-authority/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ The Media Authority is part of the {{<link/ministry-of-culture>}}
-{{</hint>}}
+{{</note>}}

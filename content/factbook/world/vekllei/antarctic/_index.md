@@ -8,8 +8,8 @@ color: pink
 aliases:
 - /bahamas/
 ---
-{{< hint green >}}
+{{<note green >}}
 ߷ The Antarctic Commonwealth is a [constituent commonwealth](/constituents/) of the {{<link/vekllei>}}
-{{</hint>}}
+{{</note>}}
 
 The Antarctic Commonwealth (*Vekllei Antarctica*) is an island Commonwealth in southernmost {{<link/vekllei>}}, comprising largely isolated and scattered [island republics](/republics/) in the south Atlantic and Antarctic oceans.

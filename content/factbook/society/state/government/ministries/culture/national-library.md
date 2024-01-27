@@ -8,6 +8,6 @@ color: cosmopos
 aliases:
 - /national-library/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ The National Library is part of the {{<link/ministry-of-culture>}}
-{{</hint>}}
+{{</note>}}

@@ -11,13 +11,13 @@ type: blank
 aliases:
 - /computers/
 ---
-{{<hint>}}
+{{<note>}}
 ߷ This article is about [Vekllei](/intro/#what-is-vekllei) computing, but most of these technologies are available world-over
-{{</hint>}}
+{{</note>}}
 
-{{< hint panel >}}
+{{<note panel >}}
 **Computers** are used to subsidise rather than multiply productivity in Vekllei. This does not mean that they do not make commerce or industry more efficient, or open new means of communication between people -- only that they are understood foremost as a social benefit that enables the more idealistic features of the Floral Period and its functional moneylessness. Vekllei is working towards participatory work, and computers are among the dream's most valuable means in which it is being realised.
-{{</hint>}}
+{{</note>}}
 
 ## Overview
 
@@ -44,9 +44,9 @@ The size, speed and accessibility of data storage in Vekllei means that more dat
 
 ### Fabricated Live Robotics
 
-{{<hint link>}}
+{{<note link>}}
 ✿ Read more: *[Robots in Vekllei](/posts/2021-01-11-automen/)*
-{{</hint>}}
+{{</note>}}
 
 Although processing is usually offloaded to more powerful master computers, Vekllei makes extensive use of organic robotics to automate processes and functions where adaptivity to sensory input is required. These robots, called *automasiosn* or 'automen,' combine fabricated organic brains with photo-electric circuits to create a programmable, adaptive robot.
 

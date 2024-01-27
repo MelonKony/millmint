@@ -14,24 +14,24 @@ categories:
 aliases:
 - /bulletin/productivity
 ---
-{{<hint>}}
+{{<note>}}
 ߷ Part of the *[bulletin](/bulletin/)* series of articles
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 **Summary**
 
 * Despite functional [moneylessness](/social-economy/) for most people, the {{<link/vekllei>}} economy is very large and trades with other countries.
 * In this aspect, the Vekllei economy is easily evaluated and compared to moneyed markets overseas, and against which Vekllei ranks highly in economic productivity.
 * This seems to run contrary to popular intuition, in which Vekllei's social, participatory labour should not outcompete powerful industrial American and European markets that have much higher GDPs.
 * Nonetheless, because of a variety of unique factors in the Vekllei market, productivity metrics remain among the highest in the world outside of the oil-rich and resource-extraction economies.
-{{</hint>}}
+{{</note>}}
 
-{{<hint note>}}
+{{<note link>}}
 **Note**
 
 This bulletin highlights the *advantages* of the Vekllei system, i.e. its best-case scenario. There are in fact many inefficiencies and exceptions within Vekllei's intricate economic constellation of industry, barter, social labour and planned economics, but here we look only at explaining high productivity metrics in Vekllei.
-{{</hint>}}
+{{</note>}}
 
 Productivity is an equation that measures the ratio between input cost and output value of a product, which can be used to indicate efficiency, growth and competitiveness. In most countries, this is measured by the hours of labour required to produce it, since labour hours are both expensive and easy to track.
 
@@ -43,7 +43,7 @@ In material terms, the largest average expense of most Vekllei industries are [r
 
 Core drivers of productivity in Vekllei are:
 
-{{<hint panel>}}
+{{<note panel>}}
 1. **High public investment from autonomous but coordinated productivity drivers like governments and bureaux**
 	<br>
 	The Vekllei economy is highly centralised in policy but devolved in structure, and there are clear lines of communication between municipal, republican, commonwealth and federal governments regarding opportunities for investment and improvement. Investment is spurred by the major firms of the Vekllei economy, some of which are [government-owned](/state-industry/). The country has historically high levels of public investment and the government plays a significant role in the economy.
@@ -59,7 +59,7 @@ Core drivers of productivity in Vekllei are:
 5. **An advanced and high-skill economy that makes good use of labour**
 	<br>
 	Much of the Vekllei economy is geared towards maintenance of their quality of life, which is mostly automatic. Beyond this concern, services, finance and high-value exports make up most of the economy, and are where the majority of Vekllei people work. Assisted by good education, short working weeks and material security, Vekllei workers are typically employed in work they enjoy and contribute to, trimming wage-incentivised dead weight from company employee rolls. This factor should be taken seriously in analysing productivity -- most, though not all, Vekllei people self-select work for reasons that are not financial, which often positively influence the productivity of their labour.
-{{</hint>}}
+{{</note>}}
 
 This is a workforce that, without a compelling wage, rejects low-skill work.[^influence] This further advantages Vekllei productivity by forcing the automation of factory labour (or simply disregarding it, as Vekllei does not have a consumer society) and pressuring labour into high-value industries in services, research, civil service and finance.
 
@@ -83,11 +83,11 @@ Many such jobs are simply "done without," which leaves Vekllei with an automated
 
 <!--Regarding labour, the *social economy* is a shorthand for the realities of labour working in Vekllei. As a diverse and vast federal country, the practices and laws regarding labour vary between [republics](/republics/), but there common factors across them:
 
-{{<hint panel>}}
+{{<note panel>}}
 1. Social and voluntary remuneration
 2. Short working weeks
 3. Local and personal employment
 4. High-education and high-skill labour
 5. High-trust society
-{{</hint>}}-->
+{{</note>}}-->
 

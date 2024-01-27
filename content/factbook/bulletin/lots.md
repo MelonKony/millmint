@@ -16,11 +16,11 @@ categories:
 aliases:
 - /bulletin/lots
 ---
-{{<hint>}}
+{{<note>}}
 ߷ Part of the *[bulletin](/bulletin/)* series of articles
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 **Summary**
 
 * Automated small and medium-sized factories are called *Lots* in Vekllei. They are generally operated by a few people, or even a single person.
@@ -29,7 +29,7 @@ aliases:
 * These sole-proprietor factory supervisors generally only have a few hours of work to do in the morning, unloading raw material from trains and calibrating the machines. The intensity of work varies greatly by industry.
 * In the afternoon, the machines have to be checked and the goods are loaded into half-size rail sidings which feed into the main automatic freight system.
 * *Lots* are the foundation of Vekllei manufacturing.
-{{</hint>}}
+{{</note>}}
 
 What sort of thing do *lots* produce? Small factories generally produce essential products that are ubiquitous, or otherwise specialty craft items.
 

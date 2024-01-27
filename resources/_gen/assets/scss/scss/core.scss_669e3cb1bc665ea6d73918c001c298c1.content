@@ -1687,7 +1687,7 @@ article blockquote {
   border-inline-start: 2px solid var(--color-gray);
   font-style: italic; }
 
-.hint {
+.note {
   font-size: 1rem;
   /* 16px */
   line-height: 1.5rem;
@@ -1699,14 +1699,14 @@ article blockquote {
   background-color: var(--highlight-background);
   border: 1px solid var(--highlight);
   font-style: normal; }
-  .hint .icon {
+  .note .icon {
     display: block;
     text-align: center;
     display: table-cell;
     vertical-align: middle;
     height: auto;
     width: auto; }
-    .hint .icon svg {
+    .note .icon svg {
       padding-left: .75rem;
       padding-right: .75rem;
       font-size: 1rem;
@@ -1715,31 +1715,31 @@ article blockquote {
       /* 24px */
       height: 1em;
       vertical-align: middle; }
-  .hint .text {
+  .note .text {
     vertical-align: middle; }
 
-.hint.panel {
+.note.panel {
   padding: 1rem; }
-  .hint.panel h1, .hint.panel h2, .hint.panel h3, .hint.panel h4, .hint.panel h5, .hint.panel h6 {
+  .note.panel h1, .note.panel h2, .note.panel h3, .note.panel h4, .note.panel h5, .note.panel h6 {
     margin: 0; }
 
-.hint.link, .hint.note {
+.note.link, .note.link {
   background: none; }
-  .hint.link h1, .hint.link h2, .hint.link h3, .hint.link h4, .hint.link h5, .hint.link h6, .hint.note h1, .hint.note h2, .hint.note h3, .hint.note h4, .hint.note h5, .hint.note h6 {
+  .note.link h1, .note.link h2, .note.link h3, .note.link h4, .note.link h5, .note.link h6, .note.link h1, .note.link h2, .note.link h3, .note.link h4, .note.link h5, .note.link h6 {
     margin: 0; }
 
-.hint.header {
+.note.header {
   font-weight: 700;
   padding-left: 2rem;
   padding-right: 2rem;
   border-radius: .1rem;
   margin: auto -2em auto -2em; }
   @media (max-width: 750px) {
-    .hint.header {
+    .note.header {
       padding-left: 1rem;
       padding-right: 1rem;
       margin: auto -1em auto -1em; } }
-.hint.caption {
+.note.caption {
   font-size: 0.75rem;
   /* 12px */
   line-height: 1rem;
@@ -1756,7 +1756,7 @@ article blockquote {
   border-top-left-radius: 0;
   border-top-right-radius: 0; }
 
-.hint.subtitle {
+.note.subtitle {
   background-color: transparent;
   font-style: italic;
   font-size: 24px;
@@ -3115,6 +3115,9 @@ ol.timeline .event {
 
 .fi-min-cateral.fis {
   background-image: url(../svg/logos/cateral.svg); }
+
+.fi-min-starlines.fis {
+  background-image: url(../svg/logos/starlines.svg); }
 
 .fib {
   background-size: contain;

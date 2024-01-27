@@ -17,15 +17,15 @@ aliases:
 - /santes/
 
 description: The borough of Santes is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
-author: Hobart Phillips
+
 
 ---
 
 ## Overview
 
-{{< hint >}}
+{{<note>}}
 ߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
-{{</hint>}}
+{{</note>}}
 
 **The borough of Santes** is an administrative region in northern Vekllei, located in the Lava Region west of Moma and east of Hoaedesnen. Its area includes several isolated and sparsely-populated towns along Vekllei's northern coast, particularly along the Grimsy and Mus Mus Fjords. The city of Santes is well-served by Vekllei's rail network, but the majority of its coastal and inland towns are somewhat difficult to reach. Because of this, Santes is considered a minor borough and makes up part of the economically-depressed *North Senrouive Belt*.
 

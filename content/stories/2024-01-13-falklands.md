@@ -21,9 +21,9 @@ reddit:
 print:
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 They wear the same Vekllei uniform with a few regional variations.
-{{</hint>}}
+{{</note>}}
 
 The {{<link/falklands>}} are part of {{<link/vekllei>}}, which is a confederation of constituent city-states in the Atlantic.
 

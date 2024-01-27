@@ -23,6 +23,6 @@ reddit:
 print:
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 Waking up to bed hair.
-{{</hint>}}
+{{</note>}}

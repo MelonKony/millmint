@@ -18,13 +18,13 @@ aliases:
 - /hong-kong/
 
 description: An essay on the 2020 Hong Kong Protests by Hobart Phillips, a utopian illustrator and storyteller.
-author: Hobart Phillips
+
  
 ---
-{{< hint >}}
+{{<note>}}
 **✿ Note from the Editor**
 This article was **originally published** in **October 2019**. This article was written shortly after my return from Hong Kong, where I got caught up in the pro-democracy protests and is a broad response to Australian coverage of the ongoing events.
-{{</hint>}}
+{{</note>}}
 
 **Hong Kong is a loud, bustling jewel of a city.** It is perhaps my favourite city in the world. On sweltering days, what sounds like raindrops smack the pavement as hundreds of air-conditioning units drip liquid into the streets below. In North Point, you might as well be fifty years back in time. Thin double-decker trams ding-ding-ding their way through crowded market streets with smells pungent enough to turn your stomach in the humid air. New tower blocks develop a run-down patina in a matter of years. Everyone is shouting, all of the time.
 

@@ -10,9 +10,9 @@ draft: false
 aliases:
 - /ratings/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[industry](/industry/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 The <span class="fi fi-min-ratings fis"></span> **Commonwealth Ratings Corporation** (CRC) is an independent credit rating agency in {{<link/vekllei>}} that publishes research on tradeable securities in the {{<link/commsec>}}. It is an independent [government corporation](/state-industry/) supervised by the {{<link/bureau-of-securities>}}. It is one of the largest ratings agencies in the world, and is popular as an offshore, impartial alternative to other agencies mostly located in the U.S. and {{<link/uk>}}. Its headquarters are located in the {{<link/caimanas>}}.
 

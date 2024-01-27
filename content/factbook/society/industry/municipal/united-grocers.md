@@ -9,9 +9,9 @@ image: https://images.millmint.net/fullres/united-grocers.jpg
 aliases:
 - /united-grocers/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[industry](/industry/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 United Grocers is an inter-municipal co-operative business that sells agricultural surplus through its network of franchised groceries. It can be found in one form or another across all of {{<link/vekllei>}}. United Grocers is a signatory to the Living Standards Scheme, and so can be compelled by the government to distribute appropriated food in times of need.
 

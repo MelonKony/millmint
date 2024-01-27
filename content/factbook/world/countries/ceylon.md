@@ -12,9 +12,9 @@ toc: true
 aliases:
 - /ceylon/
 ---
-{{< hint green >}}
+{{<note green >}}
 ߷ Part of the *[world](/world/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 The **Socialist Republic of Ceylon** (also *Śrī Laṅkā* in Sinhala and *Ilaṅkai* in Tamil) is an island country in the Indian Ocean, off the coast of India. It is a part of the non-aligned movement and the {{<link/oceans-community>}}.
 

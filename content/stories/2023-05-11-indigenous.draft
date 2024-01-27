@@ -26,15 +26,15 @@ reddit:
 print:
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 [Veletia](/veletia/) is the personification of the Vekllei Commonwealth and its democracy. She can appear alone or simultaneously as one of Six Sisters, identical in appearance but reflecting the ethnic background of the six main cultural and ethnic groups of Vekllei.
-{{</hint>}}
+{{</note>}}
 
 ## A Place for All People
 
 The Vekllei Commonwealth[^vekllei] is explicitly multiracial; it is a fact of design and circumstance. It was announced in the preamble of the [Vekllei Constitution](/constitution/):
 
-{{<hint panel>}}
+{{<note panel>}}
 THE PUBLIC OF THE OCEANS ATLANTIC RESOLVES
 * to bring peace to Commonwealth realms twice destroyed in the pursuit of war, and
 * to establish a new way of living worthy of a commitment in peace, and
@@ -45,7 +45,7 @@ AND IN SERVICE OF THESE AIMS
 * to unite the languages, culture, and races of the Public under a democratic and prosperous society, and
 * to defend these values unwaveringly by all means available to its councils, and
 * to elevate the lives of Atlantic people through a gracious and good Fourth Commonwealth
-{{</hint>}}
+{{</note>}}
 
 Commonwealth people (called *Vekllei nationals* interchangeably) have a sovereign known as the Crown. The Crown is not a person, but a metaphysical presence of their lands and seas. In modern practice, the Crown is a collective belief in a sort of soft anarchism; a Commonwealth way of living, with new and thoughtful methods of democracy and society. Chief among these is a sort of internationalism distinct from communists and postwar futurists alike. In this way, the Crown is distinguished from scientific ideology the likes of which pervaded the 20th Centuries; their anarchism is a kind of secular faith bound up in a deep appreciation of space and neighbour.
 

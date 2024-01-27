@@ -16,11 +16,11 @@ categories:
 aliases:
 - /bulletin/standardisation
 ---
-{{<hint>}}
+{{<note>}}
 ߷ Part of the *[bulletin](/bulletin/)* series of articles
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 **Summary**
 
 * Urban design in Vekllei encourages use of public spaces as an extension of the home
@@ -28,5 +28,5 @@ aliases:
 * To this end, it is common to see people lounging, talking or studying in public spaces like city squares and parks.
 * Vekllei has 'right to roam' laws protecting non-intrusive passage across private or government property.
 * Vekllei homes, while high quality, are often smaller than American detached housing. This encourages making use of common spaces for leisure.
-{{</hint>}}
+{{</note>}}
 

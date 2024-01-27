@@ -10,11 +10,11 @@ aliases:
 - /cabinet/
 
 description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[government](/government/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 **The Commonwealth Cabinet** is a petty executive of {{<link/vekllei>}}, and exists to advise the {{<link/directory>}} with opinion and technical expertise.
 

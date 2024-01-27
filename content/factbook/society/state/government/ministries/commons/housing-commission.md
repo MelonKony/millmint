@@ -8,9 +8,9 @@ logo: /svg/logos/housing-commission.svg
 aliases:
 - /commonwealth-housing-commission/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This commission is part of the {{<link/ministry-of-the-commons>}}
-{{</hint>}}
+{{</note>}}
 
 The <span class="fi fi-min-housing-commission fis"></span> **Commonwealth Housing Commission** designs, constructs and manages municipalised tenanted housing as part of the {{<link/bureau-of-housing>}} in {{<link/vekllei>}}.
 

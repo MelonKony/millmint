@@ -14,11 +14,11 @@ categories:
 aliases:
 - /bulletin/boredom
 ---
-{{<hint>}}
+{{<note>}}
 ߷ Part of the *[bulletin](/bulletin/)* series of articles
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 **Summary**
 
 * Vekllei is an urbanised society, but lacks a consumer society.
@@ -26,7 +26,7 @@ aliases:
 * In the place of noise and stimulation is a quiet society with quiet thoughts.
 * Gratitude is reinforced by experience and emphasis, aided by a cultural awareness and disposition towards spiritual fulfilment.
 * These things are not the privilege of self-help books but are taught in schools and communicated through [public health](/healthcare/).
-{{</hint>}}
+{{</note>}}
 
 Since Vekllei's world does not have the features that characterise our 21st Century, there is no need to mitigate the worst of our distractions.
 

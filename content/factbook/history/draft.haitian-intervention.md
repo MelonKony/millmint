@@ -13,8 +13,8 @@ toc: true
 aliases:
 - /haitian-intervention/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[history](/history/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 The **Haitian Intervention** is the occupation of Haiti by Commonwealth republics as part of Operation

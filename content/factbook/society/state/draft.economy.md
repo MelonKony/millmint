@@ -23,15 +23,15 @@ aliases:
 - /economy/
 
 description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[State](/state/)* series of articles
-{{</hint>}}
+{{</note>}}
 
-{{< hint panel >}}
+{{<note panel >}}
 
-{{</hint>}}
+{{</note>}}
 
 ## Overview
 

@@ -9,9 +9,9 @@ autonumbering: false
 aliases:
 - /commonwealth-treasury/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ The Treasury is part of the {{<link/ministry-of-commerce>}}
-{{</hint>}}
+{{</note>}}
 
 The <span class="fi fi-min-commerce fis"></span> **Commonwealth Treasury**, commonly *The Treasury*, is the national treasury, financial department and monetary authority of {{<link/vekllei>}}. The Treasury is ultimately responsible for the Vekllei tax system, government revenue and expenditure, and broad economic planning. The Treasury also maintains the GAIA automatic financial relay computer system, which has been the automatic mechanism for microeconomic policy in Vekllei since 2055.
 
@@ -19,7 +19,7 @@ Departments of the Treasury inform the monetary policy established by the {{<lin
 
 The Treasury is lead by the State Secretary for the Treasury, a member of the [cabinet](/cabinet/), but is governed by the Treasurer. Its departments are mostly autonomous, and coordinate through the Department of the Treasury.
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Executive Council
 
 * **State Secretary**, {{<link/treasury>}}
@@ -35,9 +35,9 @@ The Treasury is lead by the State Secretary for the Treasury, a member of the [c
 * **Exchequer**, {{<link/commbank>}}
 * **Chancellor**, {{<link/mint>}}
 * **Director**, {{<link/commsec>}}
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Departments
 
 * **Department of the Treasury**: General department and office of the Treasurer.
@@ -64,13 +64,13 @@ The Treasury is lead by the State Secretary for the Treasury, a member of the [c
 * **Department of Commonwealth Corporations**: Government-owned corporation management and development.
 * **Department of Automatic Systems**: Development and maintenance of economic computers, software and systems.
 * **Department of Economic Information**: Compilation of economics data in cooperation with the {{<link/bureau-of-statistics>}}.
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Boards & Commissions
 
 * **Community Development Board**: Special investment vehicle for underprivileged Commonwealth communities.
 * **Institute for Economics Research**: Macroeconomic research relevant to international trade in conjunction with the {{<link/bureau-of-policy-research>}}.
 * **Commonwealth Productivity Commission**: Economic productivity research and standards.
 * **Commonwealth Taxation Service**: Revenue collection and registry for taxable business.
-{{</hint>}}
+{{</note>}}

@@ -10,11 +10,11 @@ aliases:
 - /veletia/
 
 description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[culture](/culture/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 **Veletia** is the national personification of [Vekllei](/vekllei/) and Commonwealth society. Historically she was most commonly depicted as a young Algic woman with a *canopia* spear, but today can take many forms. In contemporary appearances, she appears as one of the Six Sisters that reflect the six major ethnic and cultural groups of the Commonwealth. She appears commonly in artwork and films as a shorthand for the Commonwealth, and forms an important part of the Vekllei visual identity.
 

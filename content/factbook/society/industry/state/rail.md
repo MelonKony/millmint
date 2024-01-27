@@ -18,18 +18,14 @@ comments: false
 
 aliases:
 - /rail/
-
-description: The railways of Vekllei, a utopia created by Hobart Phillips.
-author: Hobart Phillips
-
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This article is about [**Vekllei**](/factbook/vekllei) society
-{{</hint>}}
+{{</note>}}
 
-{{< hint panel >}}
+{{<note panel >}}
 **This article** discusses one of the most important and visible organisations in everyday Vekllei life: Vekllei National Rail. Vekllei is criss-crossed by hundreds of different rail lines of various gauges, grades, and purposes. In fact, it runs many lines at a total loss, often under capacity. To understand these inefficiencies is to understand why the National Rail exists, and to some extent, how Vekllei's state assets and powerful bureaus shape life in the country today.
-{{</hint>}}
+{{</note>}}
 
 ## Overview
 
@@ -97,9 +93,9 @@ Vekllei National Rail is administered through three State Requisites: the Veklle
 
 {{< details title="Organisation Chart of VNR" open=true >}}
 
-{{<hint>}}
+{{<note>}}
 Responsible to the [Railways Bureau](/factbook/society/state/government/interior/transport/#national-railways-bureau) of the [Ministry of Transport](/factbook/society/state/government/interior/transport)
-{{</hint>}}
+{{</note>}}
 * **Vekllei National Rail**
   * National Rail
     * Vekllei National Railways A.r.R.
@@ -147,9 +143,9 @@ Responsible to the [Railways Bureau](/factbook/society/state/government/interior
 
 ## Service
 
-{{< hint panel >}}
+{{<note panel >}}
 **Since most Vekllei people** catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated "companies" in Vekllei.
-{{</hint>}}
+{{</note>}}
 
 Access to public transport is considered a "critical luxury" of the Vekllei state (the Vekllei turn-of-phrase for essential state services) and, by extension, the functioning of its society. By design, it makes no profit, and is subsidised entirely by the Transport Requisite of the Vekllei Government and various independent transport bureaus for the benefit of any Vekllei person. Even prior to the war and investment of the Floral Period, Vekllei's public transport was widely regarded as among the finest of any network in the world thanks to its impeccable safety record, timeliness, and comprehensive coverage.
 
@@ -177,13 +173,13 @@ VNR's main freight lines run mostly on a seperate gauge and network, and are com
 
 ## Operations
 
-{{<hint link>}}
+{{<note link>}}
 ✿ Read more: *[Station Logic](/posts/2021-06-01-station-logic/)*
-{{</hint>}}
+{{</note>}}
 
-{{< hint panel >}}
+{{<note panel >}}
 **VNR** is typical of a 'great Vekllei bureau' -- it instills national pride, is well-run and maintained, and loses tremendous amounts of money. It is the crown jewel of Vekllei's insolvent organs, whose thin profit margins and charming inefficiencies are tolerated and even encouraged in this society which subsidises social benefit above all else.
-{{</hint>}}
+{{</note>}}
 
 Nearly 17 million people per day commute via VNR's networks each day, making up a majority of the Vekllei population. In this sense, VNR's quality of operations affects the Vekllei person more than the quality of their government. In addition to commuter service, VNR automatic freight transit systems are the lifeblood of all industry and commerce in the country, and are regulated directly as a state requisite for their critical importance to the functioning of Vekllei society.
 
@@ -198,9 +194,9 @@ VNR services are mostly unticketed, and as a Vekllei industry, are free to ride.
 ### Staff
 ![smallimg](https://images.millmint.net/images/vnr.jpg)
 
-{{<hint link>}}
+{{<note link>}}
 ✿ Read more: *[The People of Vekllei National Rail](/posts/2021-04-25-rail/)*
-{{</hint>}}
+{{</note>}}
 
 VNR employs 65,240 people, which include roles ranging from locomotive engineers and platform staff to editors of rail enthusiast periodicals. It is also one of the largest employers of 12-16 year olds in the country, via its Station Apprentice programme, unique among organisations of its size.
 
@@ -209,9 +205,9 @@ The organisation is administered by the President of the Rail Central Office, wh
 
 ### Fleet
 
-{{< hint >}}
+{{<note>}}
 ✿ Download the <span class="smallicon">📄</span> [VNR Rolling Stock List (PDF)](/files/factbook/VNR-Rolling-Stock-Bulletin.pdf)
-{{</hint>}}
+{{</note>}}
 
 Vekllei National Rail is perhaps unsurpassed in its variety of trainsets and their length of service. An unofficial policy of preservation has ensured that every unit type since the 1980s has seen an ongoing minor presence in current service. VNR rarely retires a trainset completely -- in keeping with the contemporary cultural-political valuation of machines, a few units of each model are retained on various lines for their historical and technical significance. This includes steam locomotives, which continue to operate regular passengers service on some routes.
 

@@ -17,20 +17,20 @@ aliases:
 - /metaphysics/
 
 description: Upen is an indigenous religion of Vekllei, a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
  
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This article is about [Vekllei](/factbook/vekllei)
-{{</hint>}}
+{{</note>}}
 
-{{< hint panel >}}
+{{<note panel >}}
 This article draws on many concepts broadly, with meandering interest in the same way you might hold a conversation. The purpose of this article is to introduce an alternate perspective on Vekllei thinking, and provoke the buried understanding that these people understand the world in fundamentally different ways. What is history for you is not history for Vekllei, and what land means to you is not what land means in Vekllei.
-{{</hint>}}
+{{</note>}}
 
-{{<hint>}}
+{{<note>}}
 <span class="smallicon" style="font-size: 14px;">⚠️</span> This article is evolving, and will be expanded in future.
-{{</hint>}}
+{{</note>}}
 
 ## Overview
 

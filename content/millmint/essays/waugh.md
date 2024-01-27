@@ -17,14 +17,14 @@ aliases:
 - /waugh/
 
 description: An essay on landscape in Evelyn Waugh's novel "Handful of Dust" by Hobart Phillips, a utopian illustrator and storyteller.
-author: Hobart Phillips
+
  
 ---
 
-{{< hint >}}
+{{<note>}}
 **✿ Note from the Editor**
 This article was **originally published** in **October 2019**. It offers an analysis of Evelyn Waugh's *Handful of Dust* through an anti-utopian prism.
-{{</hint>}}
+{{</note>}}
 
 ### Waugh’s *Handful of Dust* as Anti-Utopia
 

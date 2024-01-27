@@ -21,9 +21,9 @@ reddit:
 print:
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 Their No. 5 Armoured Car has "Navy" written on it, but don't be confused: the Navy is a Vekllei shorthand for all military service.
-{{</hint>}}
+{{</note>}}
 
 The **Strategic Security Service** is the {{<link/vekllei>}} equivalent of Military Police. They are the primary peacekeeping, policing and base security force of the territorial service.
 

@@ -23,18 +23,18 @@ aliases:
 - /espionage/
 
 description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 ---
 
 ## Overview
 
-{{<hint>}}
+{{<note>}}
 ߷ This article is about [Vekllei](/intro/#what-is-vekllei).
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 **Espionage** is a considerable strength of the 4th Commonwealth, while also incurring a growing cost. Its assertive and risky operations, some of which have ended in catastrophe, inflict considerable damage on its image abroad, and isolate it from European and American powers. But this assertiveness has also built a fearsome, modern and sprawling intelligence network that meets or surpasses even that of much greater superpowers. Unsentimental, unideological and unflinching, espionage in Vekllei is conducted constantly and vigorously with the blessing -- or at least willing blindness -- of the state.
-{{</hint>}}
+{{</note>}}
 
 Espionage in Vekllei is considered the 'first thorn' of 'assertive defence' practiced by the 4th Commonwealth. It is maintained offensively, as operations, and defensively as counterintelligence. The means by which it does are a source of endless contention in Commonwealth parliaments, the Vekllei public and foreign governments,[^1] but since independence in 2015 espionage has been conducted much the same -- and so can be assumed to be achieving strategic goals.
 
@@ -46,9 +46,9 @@ Current intelligence doctrine values 'signal operations' -- visible strategic ac
 
 ### Noshem
 
-{{<hint link>}}
+{{<note link>}}
 ✿ Read more: <span class="smallicon">🏹</span> [Noshem](/factbook/society/state/government/commonwealth/security/#national-intelligence-directorate)
-{{</hint>}}
+{{</note>}}
 
 Noshem,[^2] the traditional name for the [National Intelligence Directorate](/factbook/society/state/government/commonwealth/security/#national-intelligence-directorate) is the secret service of the Commonwealth and is responsible for most of its overseas espionage. It has a legendary reputation for the size and quality of its informants network, and is highly feared because of its history of ruthlessness, including extrajudicial assassinations and executions. Plausible deniability makes it difficult to tell how much of its work is sanctioned by parliaments or acted out by individual Vekllei people, and the organisation generates considerable controversy. Noshem has had several publicised tactical successes as well as failures, and is considered a critical aspect of Commonwealth security as a 'jewelled sabre' of the non-aligned movement.
 

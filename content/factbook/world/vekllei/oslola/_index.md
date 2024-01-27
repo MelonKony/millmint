@@ -8,8 +8,8 @@ color: pink
 aliases:
 - /oslolan-commonwealth/
 ---
-{{< hint green >}}
+{{<note green >}}
 ߷ The Oslolan Commonwealth is a [constituent commonwealth](/constituents/) of the {{<link/vekllei>}}
-{{</hint>}}
+{{</note>}}
 
 The Oslolan Commonwealth (*Vekllei Oslola*) is an island Commonwealth in northern {{<link/vekllei>}}, comprising the island of {{<link/oslola>}}, its largest and most populous [republic](/republics/), as well as the republics of [Demon](/demon/) and Aismious.

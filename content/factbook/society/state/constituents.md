@@ -8,9 +8,9 @@ color: pink
 aliases:
 - /constituents/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[state](/state/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 A **constituent** (also *constituent commonwealth*) is a type regional government in {{<link/vekllei>}} that exercises control over multiple [republics](/republics/). It is an intermediate administrative body with special privileges and responsibilities.
 
@@ -22,7 +22,7 @@ Constituent commonwealths have their own suite of [ministries](/ministries/) and
 
 The Commonwealth devolves certain aspects of public policy to Constituents. In practice, many devolved matters practice parity with Commonwealth [ministries](/ministries/) and [councils](/councils/), and so are functionally identical to Commonwealth central policy.
 
-{{<hint panel>}}
+{{<note panel>}}
 **Devolved Matters**
 * Agriculture and resource development
 * Culture
@@ -36,6 +36,6 @@ The Commonwealth devolves certain aspects of public policy to Constituents. In p
 * Sport and recreation
 * Tourism
 * Town and country planning
-{{</hint>}}
+{{</note>}}
 
 Many other aspects of government and public administration are facilitated by Commmonwealth secretariats directly. Further, many devolved matters rely on guidance from Commonwealth agencies to operate (e.g., distribution of utilities requires coordination with Commonwealth electric and water bureaus).

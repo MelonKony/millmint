@@ -22,9 +22,9 @@ image: https://images.millmint.net/apartment.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/gjpcha/2031_apartment_diagram/
 ---
 
-{{<hint story>}}
+{{<note story>}}
 ✿ **This article** was featured in [**Issue #1**](/news/bulletin/2020/1) of the *Atlantic Bulletin*
-{{</hint>}}
+{{</note>}}
 
 **Baron had inherited the apartment** from his uncle, who passed in the year following his parents. It was in a mixed residential-industrial neighbourhood, adjacent to a canvas factory. Out back was a rivulet, which roared in the long rainstorms of early April.
 

@@ -10,9 +10,9 @@ autonumbering: false
 aliases:
 - /military/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[state](/state/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 The armed forces of {{<link/vekllei>}} are part of the {{<link/ministry-of-defence>}}, and consist of the combined armed capability of the country, as well as services for public emergencies, law enforcement and civil defence.
 
@@ -26,17 +26,17 @@ A Vekllei military service is a component of the overall armed forces, and so th
 
 Vekllei is a seagoing country of island communities, and so the Marine Services are the backbone of its strategic forces. They are the oldest military organisations of Vekllei and revered by the country.
 
-{{<hint>}}
+{{<note>}}
 **Note**
 
 In numbered Vekllei services (e.g. Terrestrial & Air Services, etc.), numerical order is preserved and units are not permanently identified by a particular number. Unit numbers are administrative and assist in formation of interarmes services, so units may change numbers regularly. Instead, unit identity and honours are attached to ceremonial and historical names that remain with the unit.
-{{</hint>}}
+{{</note>}}
 
 ### <span class="navicon">⚓️</span> Marine Services
 
 The Marine Services consist of the armed forces most commonly associated with seaborne warfare and supply, and include equivalents to the Navy and Coast Guard. It is an administrative rather than conceptual distinction, as many other aspects of oceangoing warfare are folded into the air and territorial services, such as naval aviation and marine infantry.
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Maritime Service
 
 The **Maritime Service** (the **Navy** or *Navy of the Public*) is the traditional naval warfare component of the Vekllei military and consists of its surface ships and submarines.
@@ -46,7 +46,7 @@ The **Maritime Service** (the **Navy** or *Navy of the Public*) is the tradition
 
 The Commonwealth Fleet (*Sovereign/Central Fleet*) of the Vekllei Maritime Service is the largest naval formation in Vekllei and is tasked with defence of the country's central corridor, a triangular area with points in {{<link/oslola>}}, Verde and {{<link/summers>}}
 
-{{<hint>}}
+{{<note>}}
 * 5 Aircraft Carriers
 	* 1 Supercarrier
 	* 2 Fleet Carriers
@@ -60,13 +60,13 @@ The Commonwealth Fleet (*Sovereign/Central Fleet*) of the Vekllei Maritime Servi
 * 28 Destroyers
 	* 6 Minelayers/Minesweepers
 	* 22 Fleet Air Escort Destroyers
-{{</hint>}}
+{{</note>}}
 
 ##### Home Fleet
 
 The Home Fleet of the Vekllei Maritime Service is a reserve frigate fleet stationed across the 70 island city-states that make up the country. Each Vekllei city-state serves as a home port to a particular frigate. While they serve a pseduo-ceremonial role, they are active warships that perform littoral maritime security duties and can be federalised into other fleets as necessary. The Home Fleet also consists of auxiliary and littoral vessels designed for service in the Vekllei Caribbean.
 
-{{<hint>}}
+{{<note>}}
 * 82 Frigates
 	* 70 [Aurora-Class Republic Warships](/stories/frigate/)
 	* 5 Air Scout Frigates
@@ -84,11 +84,11 @@ The Home Fleet of the Vekllei Maritime Service is a reserve frigate fleet statio
 * 2 Dispatch Ships
 * 4 Nuclear Replenishment Ships
 * 2 Replenishment Oilers
-{{</hint>}}
+{{</note>}}
 
 ##### Arctic Fleet
 
-{{<hint>}}
+{{<note>}}
 * 1 Fleet Carrier
 * 1 Battlecruiser
 * 6 Cruisers
@@ -98,11 +98,11 @@ The Home Fleet of the Vekllei Maritime Service is a reserve frigate fleet statio
 	* 8 Fleet Air Escort Destroyers
 	* 3 Missile Destroyers
 	* 1 Arsenal Destroyer
-{{</hint>}}
+{{</note>}}
 
 ##### Antarctic Fleet
 
-{{<hint>}}
+{{<note>}}
 * 1 Fleet Carrier
 * 1 Battlecruiser
 * 6 Cruisers
@@ -113,7 +113,7 @@ The Home Fleet of the Vekllei Maritime Service is a reserve frigate fleet statio
 	* 3 Missile Destroyers
 	* 1 Arsenal Destroyer
 * Misc Republican Frigates
-{{</hint>}}
+{{</note>}}
 
 
 * Fast Attack Craft
@@ -142,9 +142,9 @@ The Home Fleet of the Vekllei Maritime Service is a reserve frigate fleet statio
   * Submarine Aircraft Carrier
 
 {{</details>}}
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Littoral Service
 
 The **Littoral Service** (the *Coast Guard* or *Navy of the Parliament*) is the maritime security component of the Vekllei military. It provides customs, policing and search and rescue services for Vekllei's territorial waters and exclusive economic zones, though it frequently patrols international waters in the Atlantic.
@@ -178,24 +178,24 @@ The Littoral Service has 12 commands across the Atlantic, Arctic, Antarctic and 
 ##### Survey & Auxiliary Ships
 * 2 Hydrographic Survey Ships
 {{</details>}}
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Coastal Artillery
 
 {{< details title="Littoral Service Equipment" open=false >}}
 ##### Coastal Artillery
 {{</details>}}
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Rocket Navy
-{{</hint>}}
+{{</note>}}
 
 
 ### <span class="navicon">✈️</span> Aeronautical & Space Services
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Air Service
 
 The **Air Service** conducts aerial warfare in {{<link/vekllei>}}. It consists of three commands that specialise in different aspects of air support and supremacy. The Air Service is also a major contributor to other services, since marine and territorial doctrines depend heavily on the air service for their combat capability, combat support, transport, logistics and reconnaissance.
@@ -319,9 +319,9 @@ Vekllei aircraft are primarily designed and manufactured domestically, and use m
 * 40
 * 15 Training Helicopters
 {{</details>}}
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Air Artillery Service
 
 The Air Artillery Service provides air defence in {{<link/vekllei>}}. It operates a variety of emplacements and point defences as part of Vekllei concentric air defence doctrine, but its primary force consists of mobile anti-air and flak systems.
@@ -348,9 +348,9 @@ The *Air Artillery Command* (ATC) consists of
 * 1000 missiles
 * 1500 missiles
 {{</details>}}
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Radar Service
 
 {{< details title="Radar Service Equipment" open=false >}}
@@ -365,15 +365,15 @@ The *Air Artillery Command* (ATC) consists of
 ##### Radar Jamming Aircraft
 * 8 Radar Jamming Aircraft
 {{</details>}}
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Missiles Service
-{{</hint>}}
+{{</note>}}
 
 ### <span class="navicon">🗡️</span> Land and Army Services
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Territorial Service
 
 The Vekllei **Territorial Service** is the closest analogue to a conventional army in the Vekllei military and comprises the majority of its professional fighting force. All Rifles regiments are trained as marine infantry, and Vekllei does not maintain dedicated marine regiments. All Territorial regiments are a part of the [Commonwealth Guard](#commonwealth-guard) and are federalised the same way, but are distinguished by their professional service and expeditionary posture.
@@ -459,9 +459,9 @@ The Commonwealth Guard is the national militia and primary reserve force of the 
 * 20 Bulldozers
 * 8 Backhoe Loaders
 {{</details>}}
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Field Artillery Service
 
 {{<details "Field Artillery Service Structure">}}
@@ -477,13 +477,13 @@ The Commonwealth Guard is the national militia and primary reserve force of the 
 * 80 105mm Towed Howitzer
 * 75 Ceremonial Gun-Howitzer
 {{</details>}}
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Commonwealth Guard
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Commando Service
 
 {{<details "Expeditionary Service Structure">}}
@@ -509,15 +509,15 @@ The Commonwealth Guard is the national militia and primary reserve force of the 
   * Psychological Warfare Regiments
   * Space Operations Regiments
 {{</details>}}
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Patrol Service
 
 The Patrol Service is a border guard.
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Signals Service
 
 {{< details title="Signals Service Equipment" open=false >}}
@@ -525,12 +525,12 @@ The Patrol Service is a border guard.
 * 2 Intelligence & Control Aircraft
 * 6 Early Warning Aircraft
 {{</details>}}
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 ### Civil Defence Service
 
-{{<hint>}}
+{{<note>}}
 * Police Services
 	* Municipal Police
 	* Commonwealth Police
@@ -539,8 +539,8 @@ The Patrol Service is a border guard.
 	* Parliamentary Police
 * Public Health Service
 * Civil Defence Service
-{{</hint>}}
-{{</hint>}}
+{{</note>}}
+{{</note>}}
 
 <style>
   details div {

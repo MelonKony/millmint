@@ -8,6 +8,6 @@ color: cosmopos
 aliases:
 - /bureau-of-press-and-news-media/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This bureau is part of the {{<link/ministry-of-culture>}}
-{{</hint>}}
+{{</note>}}

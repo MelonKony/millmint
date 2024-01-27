@@ -10,15 +10,15 @@ type: blank
 aliases:
   - /parliaments/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[state](/state/)* series of articles
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 The Commonwealth *parliaments* are a superior kind of [ministry](/ministries/) in {{<link/vekllei>}}. They form universal policy and legislation in key federal Commonwealth concerns, and are not duplicated across subnational governments as regular ministries are. Instead, parliaments are the direct hand of the Commonwealth in ordinary life.
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 
 * {{<link/parliament-of-community>}}
 * {{<link/parliament-of-civics>}}
@@ -27,4 +27,4 @@ The Commonwealth *parliaments* are a superior kind of [ministry](/ministries/) i
 * {{<link/parliament-of-education>}}
 * {{<link/parliament-of-security>}}
 
-{{</hint>}}
+{{</note>}}

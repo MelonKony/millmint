@@ -8,13 +8,13 @@ logo: /svg/crests/ministry-of-defence.svg
 aliases:
 - /police-of-the-public/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ The Police of the Public are part of the {{<link/ministry-of-defence>}}
-{{</hint>}}
+{{</note>}}
 
-{{<hint link>}}
+{{<note link>}}
 ✿ Read more: *[The Police of the Public](/stories/police/)*
-{{</hint>}}
+{{</note>}}
 
 The *Police of the Public* (COSMOPOR) are the local police in Vekllei, consisting mostly of constabulary responsible for local policing. COSMOPOR are retained on a municipal level, and divided between municipalities in neighbourhoods known as commissions. A commission is lead by an Inspector or Qualified Constable.
 

@@ -20,11 +20,11 @@ comments: false
 toc: true
 
 description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This article is about a privilege of the Vekllei Sovereign
-{{</hint>}}
+{{</note>}}
 
 {{<section>}}
 ## Royal Armed Forces of Vekllei
@@ -46,9 +46,9 @@ author: Hobart Phillips
 {{<outline>}}
 ### Crown Mail of Vekllei
 
-{{< hint >}}
+{{<note>}}
 ✿ Main article: *[The Crown Mail of Vekllei](/factbook/society/mail)*
-{{</hint>}}
+{{</note>}}
 
 #### General Office
 

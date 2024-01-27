@@ -8,6 +8,6 @@ color: cosmopos
 aliases:
 - /national-institute-of-history/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This National Institute is part of the {{<link/ministry-of-culture>}}
-{{</hint>}}
+{{</note>}}

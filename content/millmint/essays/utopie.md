@@ -6,7 +6,7 @@ icon: ☕️
 emoji: K
 color: blue
 
-tags: 
+tags:
   - essay
 categories:
   - news
@@ -17,13 +17,11 @@ aliases:
 - /utopie/
 
 description: Notes on utopie concrète, a new movement for utopian fiction.
-author: Hobart Phillips
- 
 ---
-{{< hint >}}
+{{<note>}}
 **✿ Note from the Editor**
 This essay was written in June 2021. [Click here to see it as a post](/posts/2021-06-26-utopie).
-{{</hint>}}
+{{</note>}}
 
 <div style="background-color: var(--gray-light); border-radius: 5px;">
 <img alt="smallimg" style="background-color: transparent;" src="/images/mastheads/utopie.png">

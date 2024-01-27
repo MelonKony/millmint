@@ -24,6 +24,6 @@ reddit:
 print:
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 Disclaimer: Tzipora has never worked for/cooperated with the police.
-{{</hint>}}
+{{</note>}}

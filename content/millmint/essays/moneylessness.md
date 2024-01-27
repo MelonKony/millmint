@@ -19,13 +19,13 @@ weight: 1
 
 
 description: Notes on utopie concrète, a new movement for utopian fiction.
-author: Hobart Phillips
+
 
 ---
-{{< hint >}}
+{{<note>}}
 **✿ Note from the Editor**
 This essay was written in December 2021. [Click here to see it as a post](/posts/2021-12-09-moneylessness).
-{{</hint>}}
+{{</note>}}
 
 ## The Vekllei Person
 

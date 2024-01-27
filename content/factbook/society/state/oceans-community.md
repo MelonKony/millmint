@@ -12,9 +12,9 @@ toc: true
 aliases:
 - /oceans-community/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[state](/state/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 The **Community of Oceans** (CO, or OCEANS) is an international and regional organisation dedicated to the advancement of island and oceangoing communities worldwide. It was founded by the {{<link/vekllei>}} and is headquartered in {{<link/oslola>}}. It has observer status in the United Nations General Assembly and maintains offices throughout the Atlantic, Caribbean and Pacific regions.
 
@@ -22,7 +22,7 @@ The role of the council is to draw islander and oceangoing nations closer togeth
 
 The Community of Oceans also maintains a number of other international organisations dedicated to specialised roles.
 
-{{<hint panel>}}
+{{<note panel>}}
 **Community of Oceans**
 
 * Organisation for the Advancement of Island Democracy
@@ -30,9 +30,9 @@ The Community of Oceans also maintains a number of other international organisat
 * Aid Internationale
 * International Oceans Bank
 * International Oceans Police Organisation
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 **Member-States of the Council of Oceans**
 
 * Jamaica
@@ -43,4 +43,4 @@ The Community of Oceans also maintains a number of other international organisat
 * {{<link/maldives>}}
 * {{<link/ceylon>}}
 * {{<link/east-india>}}
-{{</hint>}}
+{{</note>}}

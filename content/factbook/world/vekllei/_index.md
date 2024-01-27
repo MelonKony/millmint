@@ -46,13 +46,13 @@ The Commonwealth of Oceans (Vekllei) was founded in 2017 after independence in 2
 
 ## History
 
-{{<hint panel>}}
+{{<note panel>}}
 The diversity of the Commonwealth is reflected in its history. Vekllei as we know it today may have roots in in the Oslola-Kalan Union and Kalina nationalism, but its story begins in 1995, during the First Atomic War and British Occupation of its former colonial territories for 20 years. That occupation, and the complete restructuring of Atlantic society beneath it, lay the foundations for a new and pluralistic union of republics called Vekllei.
-{{</hint>}}
+{{</note>}}
 
-{{<hint link>}}
+{{<note link>}}
 ❀ Read more: <span class="smallicon">⏳</span> *[Timeline](/timeline/)*
-{{</hint>}}
+{{</note>}}
 
 Many Commonwealth republics have been inhabited for thousands of years, and have strong cultures and traditions that encompass many unique languages and faiths. The Kalina Isles and Oslola have archaeological evidence indicating settlement since at least 3000BC, and much of Oslolan and Kalan history has been recorded through poetry and [Sagas](/sagas/).
 
@@ -68,9 +68,9 @@ Other member-states,[^member-states] including Kalina and former Atlantic Portug
 
 ## State
 
-{{<hint panel>}}
+{{<note panel>}}
 Vekllei contains a lot of ideas colliding with each other, which break into fragments and fuse to create new elements. This is a result of its similarly chaotic history, uniting a patchwork of republics that have been subjugated by other powers over time. These elements have evolved to become a new kind of nation-state, unique in the world and history.
-{{</hint>}}
+{{</note>}}
 
 The Commonwealth is foremostly a union of Atlantic and Caribbean islands which, freed from colonial rule, have established a federal system to share common burdens and improve the lives of their oceangoing peoples.
 
@@ -84,9 +84,9 @@ Although regionally and culturally diverse, Commonwealth government is centralis
 
 ### Territories
 
-{{<hint link>}}
+{{<note link>}}
 ✿ Main article: *[Vekllei World Map](/map/)*
-{{</hint>}}
+{{</note>}}
 
 {{< details title="List of Vekllei Republics" open=true >}}
 * **Federal Territories**
@@ -194,9 +194,9 @@ The Commonwealth has explored petitions for membership from non-island countries
 
 ### Government
 
-{{<hint link>}}
+{{<note link>}}
 ✿ Main article: {{<link/government>}}
-{{</hint>}}
+{{</note>}}
 
 The Vekllei government plays an active role in the lives of ordinary people. Each commonwealth republic is represented by two people[^ministers] of equal standing called Prime Ministers. These ministers represent the bicameral parliaments and assembled cabinets of their homes,[^sorda] and participate equally in a council of leaders called the {{<link/directory>}}.
 
@@ -211,13 +211,13 @@ There are different levels of elected government in Vekllei.
 Vekllei elections do not allow political parties, a system called *nonpartisan democracy*. Commonwealth [ministries](/ministries/) and [council secretariats](/councils/) are lead by professional directors appointed by an internal vote, and final approval resting with the {{<link/directory>}}.
 
 ### Economy
-{{< hint panel >}}
+{{<note panel >}}
 The Vekllei economy exists in two pieces: as a social market, dominated by wandering interest and cooperation, and as a financial market, which subsidises the former. The moneylessness of the social market is the marvel of the Vekllei nation and is deeply revered by citizens and disaffected foreign ideologues alike.
-{{</hint>}}
+{{</note>}}
 
-{{< hint >}}
+{{<note>}}
 ❀ See also: *[A Social Economy](/social-economy/)*
-{{</hint>}}
+{{</note>}}
 
 The Commonwealth has a hybrid moneyless system called *commons*, in which money is not used in daily life. In the place of money, the commons system exists as a series of social economies and usufructs. Rather than purchasing products as consumers, staples like food and clothing are subsidised by groups of companies known as [*bureaus*](/bureaus/). Everything else is produced in the colloquial moneyless market, often unreliably.
 
@@ -241,9 +241,9 @@ Vekllei people generally have aspirations of power rather than wealth, and work 
 
 #### Finance
 
-{{<hint link>}}
+{{<note link>}}
 ✿ Main article: <span class="smallicon">💵</span> *[Finance in Vekllei](/finance/)*
-{{</hint>}}
+{{</note>}}
 
 Vekllei separates its markets to allow for money to be used by industry and the government as part of trade and business.
 
@@ -263,12 +263,12 @@ The Commonwealth has major financial hubs in Bermuda, the Bahamas and the Azores
 
 #### Industry
 
-{{<hint link>}}
+{{<note link>}}
 ✿ Main article: <span class="smallicon">⚙️</span> *[Industry](/industry/)*
-{{</hint>}}
-{{<hint link>}}
+{{</note>}}
+{{<note link>}}
 ❀ Read more: <span class="smallicon">🏬</span> *[State Industry in Vekllei](/assets/)*
-{{</hint>}}
+{{</note>}}
 
 Vekllei has a large industrial capacity and produces vehicles, machine tools, steel and nonferrous metals, ships, chemicals, textiles, and processed foods. It has the 12th-highest manufacturing output in the world.
 
@@ -278,9 +278,9 @@ Major industries in Vekllei leverage the creative productivity of its enthusiast
 
 #### Property
 
-{{<hint link>}}
+{{<note link>}}
 ❀ Read more: <span class="smallicon">🏡</span> *[Housing in Vekllei](/housing/)*
-{{</hint>}}
+{{</note>}}
 
 The right to property is protected by the [Vekllei Constitution](/constitution/), and important in North Vekllei culture. Home ownership is a foundation of [Atlantic Municipalism](/municipalities/), and is determined by stewardship of land.
 
@@ -334,18 +334,18 @@ Vekllei has been a leader in sciences since the Middle Ages, and has maintained 
 
 ### Education
 
-{{<hint link>}}
+{{<note link>}}
 ✿ Main article: <span class="smallicon">📚</span> *[Education in Vekllei](/education/)*
-{{</hint>}}
+{{</note>}}
 
 Education in Vekllei is universal and compulsory for children until the age of 16. All schools are coeducational, with the exception of a handful of [faith schools](/factbook/society/state/education/#faith-schools).
 
 Education across the Commonwealth is considered a life-long affair, and the country has many public programmes to encourage adult learning. The quality and universality of Vekllei education has ensured universal literacy across the Commonwealth and is a major export, both as a business and as a form of diplomacy and aid.
 
 ### Demographics
-{{<hint link>}}
+{{<note link>}}
 ❀ Read more: <span class="smallicon">👨‍👩‍👧‍👦</span> *[Demographics of Vekllei](/demographics/)*
-{{</hint>}}
+{{</note>}}
 
 24 million people live in Vekllei, and about half of them were born overseas. This number has settled in the mid-21st century, and is growing only slightly.
 
@@ -356,13 +356,13 @@ The Commonwealth is often described as a "cultural mosaic" because of its divers
 As a pluralistic society, a national civic identity called [Civic Commons](/civic-commons/) is promoted by the government as a means to foster social cohesion. As a nation by will rather than by circumstance, Vekllei has a strong national identity and the Vekllei diaspora[^diaspora] feel strongly towards the country.
 
 #### Ancestry & Immigration
-{{<hint link>}}
+{{<note link>}}
 ❀ Read more: <span class="smallicon">⚖️</span> *[Century Society Laws](/century-society/)*
-{{</hint>}}
+{{</note>}}
 
 Millions of migrants have settled in Vekllei. They arrived primarily from the territories of the former British and Portuguese empires, but large indigenous populations exist in Oslola, Kalina, the Antilles and Principe.
 
-{{<hint panel>}}
+{{<note panel>}}
 **Major Ancestries of Vekllei**
 
 * Oslolan (33%)
@@ -379,7 +379,7 @@ Millions of migrants have settled in Vekllei. They arrived primarily from the te
 * Southern European (1.5%)
 * Slavic (1.3%)
 * Others (1%)
-{{</hint>}}
+{{</note>}}
 
 ### Language
 
@@ -395,9 +395,9 @@ Although the official position of the Commonwealth is as a lay, secular republic
 
 ### Transport
 
-{{<hint link>}}
+{{<note link>}}
 ❀ Read more: <span class="smallicon">🚇</span> *[Vekllei National Rail](/rail/)*
-{{</hint>}}
+{{</note>}}
 
 The Commonwealth has a comprehensive common transit network, which makes up most commuter traffic in the country. Automobiles are uncommon, except in the lending of "company cars" or via community Autopools. Most of the Vekllei republics are serviced by a dense network of trains and trams, and connected to each other via ferries, passenger jets and helijets.
 
@@ -407,13 +407,13 @@ Public transit ranges from state-of-the-art maglev lines in Oslola to century-ol
 
 ### Communications
 
-{{<hint link>}}
+{{<note link>}}
 ❀ Read more: <span class="smallicon">📯</span> *[Post in Vekllei](/mail/)*
-{{</hint>}}
+{{</note>}}
 
-{{<hint link>}}
+{{<note link>}}
 ❀ Read more: <span class="smallicon">🖥</span> *[Computing in Vekllei](/factbook/society/technology/computers/)*
-{{</hint>}}
+{{</note>}}
 
 The Commonwealth is the site of the Atlantic Telephone & Telegraph Exchange, which services connections between the Americas and Europe. It has a sophisticated network of public phones available to persons with a Phone Card. Radio and television broadcasting are operated by the Ministry of the Commons via the Commonwealth Radio and Commonwealth Television companies, which contract regional service to local operators.
 

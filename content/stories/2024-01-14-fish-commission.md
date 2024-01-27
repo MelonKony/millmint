@@ -22,6 +22,6 @@ reddit:
 print:
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 Commission for [crab_rare](https://twitter.com/crab_rare) on Twitter featuring their character Fish Girl.
-{{</hint>}}
+{{</note>}}

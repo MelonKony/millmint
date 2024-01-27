@@ -23,9 +23,9 @@ reddit:
 print:
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 Astrid (left) likes her job. Laura (right) is only here because she dropped out of chemistry at Montre University.
-{{</hint>}}
+{{</note>}}
 
 Astrid and Laura are junior inspectors for the {{<link/bureau-of-housing>}}, which fields concerns from homeowners in municipalised homes.
 

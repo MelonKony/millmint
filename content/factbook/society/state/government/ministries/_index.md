@@ -9,17 +9,17 @@ list: true
 aliases:
   - /ministries/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[state](/state/)* series of articles
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 Commonwealth Ministries devolved ministerial departments of {{<link/vekllei>}}. They are lead by a qualified member of the {{<link/cabinet>}} appointed by the {{<link/directory>}}.
 
 Each ministry is lead by a ministerial secretariat, which centralises authority and policy across the [constituent commonwealths](/constituents/). Each constituent has the same ten ministries, which are coordinated centrally by the secretariat.
-{{</hint>}}
+{{</note>}}
 
-{{<hint>}}
+{{<note>}}
 * {{<link/ministry-of-commerce>}}
 * {{<link/ministry-of-culture>}}
 * {{<link/ministry-of-defence>}}
@@ -30,4 +30,4 @@ Each ministry is lead by a ministerial secretariat, which centralises authority 
 * {{<link/ministry-of-light-and-water>}}
 * {{<link/ministry-of-the-commons>}}
 * {{<link/ministry-of-the-commonwealth>}}
-{{</hint>}}
+{{</note>}}

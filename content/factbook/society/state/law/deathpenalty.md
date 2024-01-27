@@ -13,8 +13,8 @@ toc: true
 aliases:
 - /death-penalty/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[law](/law/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 **Capital Punishment** is legal in Vekllei as a sentence applied to crimes against peace, humanity and crimes of war. 

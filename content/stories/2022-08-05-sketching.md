@@ -25,6 +25,6 @@ reddit: https://www.reddit.com/r/vekllei/comments/wh1e65/caught_sketching/
 print: https://www.inprnt.com/gallery/melonkony/caught-sketching/
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 He had a tin in his hands. She liked seeing the soldiers on patrol. He caught her staring.
-{{</hint>}}
+{{</note>}}

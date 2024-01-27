@@ -8,6 +8,6 @@ logo: /svg/crests/ministry-of-landscape.svg
 aliases:
 - /bureau-of-conservation/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This bureau is part of the {{<link/ministry-of-landscape>}}
-{{</hint>}}
+{{</note>}}

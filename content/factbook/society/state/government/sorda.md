@@ -8,13 +8,13 @@ color: millmint
 aliases:
 - /sorda/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[state](/state/)* series of articles
-{{</hint>}}
+{{</note>}}
 
-{{<hint link>}}
+{{<note link>}}
 ✿ Read more: *[The Prime Minister(s) of Vekllei](/stories/ministers/)*
-{{</hint>}}
+{{</note>}}
 
 **Sorda** (lit. *Union*) is the Vekllei name for the combined office of two Prime Ministers.
 

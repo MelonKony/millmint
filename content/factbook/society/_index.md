@@ -15,9 +15,9 @@ comments: false
 toc: false
 
 description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 
 ---
-{{< hint panel >}}
+{{<note panel >}}
 [**/Society/**](/factbook/society/) documents features of Vekllei society, including its government, economy and technology.
-{{</hint>}}
+{{</note>}}

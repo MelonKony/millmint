@@ -18,15 +18,15 @@ aliases:
 - /mumen/
 
 description: The borough of Mumen is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
-author: Hobart Phillips
+
 
 ---
 
 ## Overview
 
-{{< hint >}}
+{{<note>}}
 ߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
-{{</hint>}}
+{{</note>}}
 
 **The borough of Mumen** is an administrative region on the southwest coast of Vekllei, located in the Capital Region south of Pharos and west of Little Vekllei. It is named after Mumen, the city neighbourhood to which it belongs. It is home to one of Vekllei's primary immigrant processing centres, and now hosts a thriving immigrant community populated mostly by Southern Europeans. It is best known for its touristy seaside and bright white beaches, which take advantage of Southwest Vekllei's warm gulf climate.
 

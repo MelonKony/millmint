@@ -49,9 +49,9 @@ This website is a comprehensive archive and open notebook for the stories of Vek
 
 ## What is Vekllei?
 
-{{< hint millmint >}}
+{{<note millmint >}}
 ✿ Main article: {{<link/vekllei>}}
-{{</hint>}}
+{{</note>}}
 
 > No differently will the world one day appear, almost unchanged, in its constant feast-day light, when it stands no longer under the law of labour, and when for homecomers duty has the lightness of holiday play.
 
@@ -71,7 +71,7 @@ Here are some quick facts about Vekllei and the state of the world in the mid-21
 [So get going](/stories/). This website is an open notebook of the thing I love. If you like world-building, art, and strange corners of the web, you'll find something to like here.
 
 ## Why Utopia?
-{{< hint panel>}}
+{{<note panel>}}
 Vekllei is a jumble of very pure, obsessive instincts that are illustrated to make them look and feel real. I want to take purity seriously by considering its implications in the real world. Vekllei does not use money -- a very straightforward and fantastical idea. Of course, moneylessness has extraordinary implications, and to maintain the purity of the idea we have to work very hard.
 
 Simplicity is actually very complicated, and so Vekllei is very complicated to justify the simplicity. It's filled with things I value and people I admire. You'll find hundreds of posts and many articles on this site, and all of them are designed to make this place and its people feel real.
@@ -88,7 +88,7 @@ In addition:
 * **It's full of stuff I love**, but that doesn't mean it's perfect. Personal growth can come from bad experiences.
 * **I draw in certain styles**, but Vekllei isn't based off any one country.
 * **Vekllei is mostly self-contained stories**, but I experiment with mediums and methods all the time.
-{{</hint >}}
+{{</note>}}
 
 ## F.A.Q.
 {{< details title="Frequently Asked Questions" open=true >}}
@@ -143,37 +143,37 @@ Be "petticoat".
 
 For those curious about what sort of things go into a place like Vekllei, these are some of my favourite books. I've been asked about them before, so I've included this section in the hopes you enjoy them as much as I have. There are many more than these, so if you're interested, [contact me](/about/). I'll update this list periodically as more occur to me.
 
-{{<hint panel>}}
+{{<note panel>}}
 ***On the Origins of Modern Japanese Literature***
 
 **Karatani Kojin** | 1993
 
 Karatani interrogates the appearance of Western conceptual artefacts (Landscape, The Child, Interiority) during the Meiji period in Japan. This book had a tremendous impact on my assumptions about the world and affected Vekllei tremendously.
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 ***Starting Point *&* Turning Point***
 
 **Miyazaki Hayao** | 2009 & 2014
 
 These books are essentially a compilation of essays from Miyazaki's years as a filmmaker. He's an incredibly smart and insightful creative force whose work [I have written at length about](/news/essays/ghibli) before. For me, it's all really powerful, affecting stuff.
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 ***Three Faces of Utopianism Revisited***
 
 **Lyman Sargent** | 1994
 
 This is the defining taxonomical look at the phenomena of utopianism and how it works. His breakdown of 'utopia' into both dystopian and eutopian elements is also my preffered descriptor and use of 'utopia' as a concept.
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 ***Towards a New Architecture***
 
 **Le Corbusier** | 1936
 
 Vekllei is a postmodern mess, but also deeply sympathetic to the modernist instinct. I like the utopianism of the 20th Century, and Le Corbusier typifies that 'utopian' futurism we saw in that period. I like how single-minded he is about it. His buildings remain beautiful, many years on.
-{{</hint>}}
+{{</note>}}
 
 [^1]: Sargent, L.T., 1994. The Three Faces of Utopianism Revisited. *Utopian studies*, 5(1), p.3.
 

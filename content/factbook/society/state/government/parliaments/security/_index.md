@@ -8,16 +8,16 @@ color: security
 aliases:
 - /opsec/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This *[parliament](/parliaments/)* is part of {{<link/vekllei>}}.
-{{</hint>}}
+{{</note>}}
 
 ## Overview
 {{<boxtag teal>}}OPSEC{{</boxtag>}}
 
 The *Commonwealth Security Secretariat* (OPSEC) is the mother organisation of the internal and external security organs of the Commonwealth government. Its mission includes intelligence gathering, espionage, special policing, and state security. It is headed by the Secretary of Security, and reports directly to the {{<link/directory>}}.
 
-{{<hint panel>}}
+{{<note panel>}}
 ### Commonwealth Military Command
 
 The *Commonwealth Military Command* (CMC) is the unifying command organisation for the Crown Armed Forces, responsible ultimately for facilitating Commonwealth control of the armed forces. While the [Palace](/factbook/society/state/palace/) retains direct command over the armed forces, defence activities are in practice a privilege of the Commonwealth parliaments and so the CMC exists primarily to carry out this arrangement. In principle, the CMC accommodates open communication between the Armed Forces and the Commonwealth, but more commonly acts as a *de facto* command organisation for broad military arrangements outside of direct military administration like defence policy, strategic planning, military infrastructure and logistics, and communications.
@@ -29,14 +29,14 @@ Commonwealth member-states usually maintain their own [defence ministries](/fact
 * **Department of Peacekeeping**: All activities related to Vekllei peacekeeping and expeditionary operations.
 * **Department of Training & Mobilisation**: Standardisation of training and mobilisation of troops across the Commonwealth.
 * **Department of Communications**: Coordination between the parliaments and the Palace, as well as public information.
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 ### National Intelligence Directorate
 
-{{<hint link>}}
+{{<note link>}}
 ✿ Read more: <span class="smallicon">🔎</span> [Espionage in Vekllei](/espionage/)
-{{</hint>}}
+{{</note>}}
 
 The *National Intelligence Directorate* (Noshem, or N.I.) is the secret service of the Commonwealth and Vekllei's primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It comprises of 40 semiautonomous outlines, which each may operate several offices. This complex and comprehensive intelligence organisation contributes to its legendary reputation abroad, and conspiracies of its presence in almost every country.
 
@@ -118,9 +118,9 @@ The *Special Protectorate Bureau* at *National Intelligence* (SP/NI) reports inf
 * **Section 39 *Decrest***: Offices and staff in foreign delegations and international waters.
 * **Section 40 *Endoria***: Offices and staff in Vekllei space and lunar territories.
 
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 ### Public Security Directorate
 
 The *Public Security Directorate* (Cosevac, or POSEC) is primarily tasked with intelligence related to public security, and is closely linked to the domestic intelligence-gathering activities of [HO/NI](#home-office-honi). POSEC is a directorate that primarily services the interests of the public, which distinguishes it from [National Intelligence](#national-intelligence-directorate) amd [SESEC](#state-security-directorate). To this end, it coordinates closely with the {{<link/parliament-police>}} to conduct operations against terrorism, smuggling, organised crime and civil unrest.
@@ -130,9 +130,9 @@ The *Public Security Directorate* (Cosevac, or POSEC) is primarily tasked with i
 * **POLSEC Bureau**: Political intelligence and operations.
 * **VOCSEC Bureau**: Crime intelligence and operations.
 
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 ### State Security Directorate
 
 The *State Security Directorate* (Vosevisi, or SESEC) is primarily responsible for the security of the state itself, including all Vekllei parliaments, its ministries, secretariats and features, and its civil service and employees. It monitors, investigates and eliminates threats within and without the [Vekllei Government](/factbook/society/state/government/) and [Palace](/factbook/society/state/palace/), and controls privileged information of the Vekllei parliaments.
@@ -156,4 +156,4 @@ The *State Secrets Office* is responsible for the protection of classified infor
 * **4th Control Authority *Restrict*** -- Information of significant danger to individuals or Commonwealth activities.
 * **5th Control Authority *Protect*** -- Information of danger to individuals or Commonwealth activities.
 * **Base Control Authority *Official*** -- Information privileged to the Commonwealth.
-{{</hint>}}
+{{</note>}}

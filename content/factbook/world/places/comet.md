@@ -10,11 +10,11 @@ aliases:
 - /comet/
 
 description: The Moshel St School is Tzipora's secondary school in Vekllei.
-author: Hobart Phillips
+
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This article is about a [**location**](/factbook/landscape/places) in [**Vekllei**](/vekllei/)
-{{</hint>}}
+{{</note>}}
 
 **The Comet Administration Assembly** is the capital complex of the Commownealth, located on the island of Meteor in the North Atlantic ocean. Originally home to only a few hundred people, Comet was established in 2036 as an administrative centre for the vast Commonwealth, which spans the Atlantic and Caribbean oceans. It was chosen for its centrality and cultural neutrality, and is accessible to Commonwealth staff and emissaries by air or sea.
 

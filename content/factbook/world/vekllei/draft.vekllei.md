@@ -14,10 +14,10 @@ aliases:
 - /vekllei-islands/
 
 description: The Moshel St School is Tzipora's secondary school in Vekllei.
-author: Hobart Phillips
+
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This article is about a [**territory**](/factbook/landscape/locations) of the [**Commonwealth**](/factbook/commonwealth/)
-{{</hint>}}
+{{</note>}}
 
 

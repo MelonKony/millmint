@@ -20,15 +20,15 @@ aliases:
 - /eyri/
 
 description: The borough of Eyri is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
-author: Hobart Phillips
+
 
 ---
 
 ## Overview
 
-{{< hint >}}
+{{<note>}}
 ߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
-{{</hint>}}
+{{</note>}}
 
 **The borough of Eyri** is an administrative region on the far northwest coast of Vekllei, located in the Afouismeh Region north of [Bakur](/factbook/landscape/boroughs/bakur) and south of Basa. It is named after Eyri, an isolated coastal community employed mostly in controlled aquaculture by the Ocean Bureau. This quiet borough abounds with myth and legend related to its long seafaring history, emphasised only by the colossal wreck of the nearby icebreaking submarine *Sea Serpent*.
 

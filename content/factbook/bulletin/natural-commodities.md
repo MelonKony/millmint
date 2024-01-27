@@ -14,11 +14,11 @@ categories:
 aliases:
 - /bulletin/natural-commodities/
 ---
-{{<hint>}}
+{{<note>}}
 ߷ Part of the *[bulletin](/bulletin/)* series of articles
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 **Summary**
 
 * With islands across most of the Atlantic, Vekllei has a huge exclusive economic zone and tremendous natural commodities.
@@ -27,7 +27,7 @@ aliases:
 * This complements a broader view of natural and physical landscapes in the country, as a distinct sovereign entity seperate from civilisation.
 * Nonetheless, Vekllei exploits resources as any other country does, since it is necessary to service any kind of production. The difference is mostly in its perspective of natural commodities and minimisation of their use.
 
-{{</hint>}}
+{{</note>}}
 
 Nature in {{<link/vekllei>}} is not simply a place or vista undeveloped by civilisation, but a constant, unconscious and legitimate valuation of things not made by people. This means that *nature* and its sovereignty apply equally to the tropical paradises and stark volcanic landscapes of its island communities as it does to its buried and lifeless commodities, like resource deposits and soil. This bulletin focuses on the Vekllei approach to its natural commodities.
 

@@ -20,11 +20,11 @@ comments: false
 toc: true
 
 description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This article is about an office of the Vekllei Crown
-{{</hint>}}
+{{</note>}}
 
 {{<section>}}
 ## Courts of the Crown

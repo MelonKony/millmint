@@ -8,9 +8,9 @@ color: education
 aliases:
 - /solsec/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This *[parliament](/parliaments/)* is part of {{<link/vekllei>}}.
-{{</hint>}}
+{{</note>}}
 
 ## Overview
 {{<boxtag teal>}}CHICOM{{</boxtag>}}
@@ -21,13 +21,13 @@ The stated mission of CHICOM is the democratisation and celebration of knowledge
 
 CHICOM also oversees Vekllei's four learned societies, called academies, which offer immortal membership to remarkable contributors to learning in Vekllei. The Academies of the Commonwealth are funded by a bureau tithe, mandated but otherwise seperate from Commonwealth government apparatuses.
 
-{{<hint panel>}}
+{{<note panel>}}
 ### Vekllei National Laboratories
 
 *Vekllei National Laboratories* (also *National Labs*) is the administrator of the National Laboratory Complex in Amenmer, Coyenstisn, and the National Laboratory System across Commonwealth-level universities and academies in Vekllei.
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 ### Academy of Natural Sciences
 
 The *Crown Academy of Natural Sciences* is the sovereign (commonwealth-level) academy of natural sciences in the Commonwealth. It functions primarily as a research institute of distinguished academicians and scientific body that advises policy. Headquartered in the Home Islands, it has hundreds of branch institutes across the Commonwealth and in Rome, London and Beijing. These branches are organised along 7 academic divisions, each subdivided into hundreds of individual departments. It is the oldest of the academies, founded by the Crown Sovereign in 1527.
@@ -39,9 +39,9 @@ The *Crown Academy of Natural Sciences* is the sovereign (commonwealth-level) ac
 * **School of Astronomy**: Studies of celestial phenomena.
 * **School of Geography**: Studies of geography, geology and oceanography.
 * **School of Biology**: Studies of living organisms.
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 ### Academy of Engineering Sciences
 
 The *Crown Academy of Engineering Sciences* is the sovereign (commonwealth-level) academy of engineering in the Commonwealth. Its membership of nearly 1,000 academicians are considered to have made invaluable contributions to engineering sciences, and hold lifelong tenure at the academy. It includes six schools, which conduct research and consultancy with the Commonwealth and Interior Administrations.
@@ -51,21 +51,21 @@ The *Crown Academy of Engineering Sciences* is the sovereign (commonwealth-level
 * **School of Chemical Engineering**: Studies of the constituents of the universe, natural forces, and mathematics.
 * **School of Civil Engineering**: Studies of matter, its properties, machines and technologies.
 * **School of Agricultural Engineering**: Studies of celestial phenomena.
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 ### Academy of Philosophy
 
 * **School of Philosophy**
 * **School Sociology**
 * **School of Theology**
 
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 ### Academy of Political Sciences
 
 * **School of Law**
 * **School of Political Economics**
 * **School of History and Geography**
-{{</hint>}}
+{{</note>}}

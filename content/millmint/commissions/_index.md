@@ -22,11 +22,11 @@ noindex: true
 toc: false
 
 description: Studio MillMint commission information
-author: Hobart Phillips
+
 ---
-{{< hint >}}
+{{<note>}}
 ✿ You can contact me at <span class="smallicon">📧</span> studio@millmint.net.
-{{</hint>}}
+{{</note>}}
 
 ### Choosing a commission
 
@@ -93,9 +93,9 @@ These are complete artworks showcasing a scene or place. They're detailed, paint
 {{</details>}}
 
 {{< details title="Terms & Conditions" open=false >}}
-{{<hint>}}
+{{<note>}}
 Commissioned work is subject to the <span class="smallicon">📄</span> [MillMint Limited Commercial License](/license/)
-{{</hint>}}
+{{</note>}}
 
 **1. Payment**
 - These are digital goods, delivered in a digital format.
@@ -112,6 +112,6 @@ Commissioned work is subject to the <span class="smallicon">📄</span> [MillMin
 - In the event I am unable to complete your commission, your deposit will be refunded in full.
 {{</details>}}
 
-{{<hint>}}
+{{<note>}}
 I can be contacted via [email](mailto:studio@millmint.net), [Twitter](https://x.com/vekllei), or Discord (@millmint).
-{{</hint>}}
+{{</note>}}

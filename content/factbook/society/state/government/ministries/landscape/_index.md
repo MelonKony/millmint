@@ -8,6 +8,6 @@ logo: /svg/crests/ministry-of-landscape.svg
 aliases:
 - /cosmogos/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
-{{</hint>}}
+{{</note>}}

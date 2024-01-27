@@ -11,6 +11,6 @@ aliases:
 - /landscape/
 - /world/
 ---
-{{< hint panel >}}
+{{<note panel >}}
 [/world/](/world/) documents places and territories of this project.
-{{</hint>}}
+{{</note>}}

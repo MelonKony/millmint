@@ -8,6 +8,6 @@ color: cosmopos
 aliases:
 - /commonwealth-olympic-committee/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ The Olympic Committee is part of the {{<link/ministry-of-culture>}}
-{{</hint>}}
+{{</note>}}

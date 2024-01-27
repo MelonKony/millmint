@@ -16,17 +16,17 @@ categories:
 aliases:
 - /bulletin/consensus
 ---
-{{<hint>}}
+{{<note>}}
 ߷ Part of the *[bulletin](/bulletin/)* series of articles
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 **Summary**
 
 * Vekllei is governed by an executive council of peers called the {{<link/directory>}}.
 * The directory is made up of Prime Ministers who are forbidden from participating in political parties, as part of Vekllei's *nonpartisan democracy*.
 * The principles of consensus are important for the Vekllei style of governance, and contribute to the stability of the country.
-{{</hint>}}
+{{</note>}}
 
 Although policy is fought over within executive bodies in {{<link/vekllei>}}, the principles of consensus are that results should be respected and that it is important for the government to present a unified front. These principles were founded in the far-ranging and diverse nature of the Commonwealth, in which irreconcilable disagreements threatened permanent political paralysis that would destabilise Vekllei's fledgling postwar democracy.
 

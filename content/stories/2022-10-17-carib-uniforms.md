@@ -24,9 +24,9 @@ reddit: https://www.reddit.com/r/vekllei/comments/y6r97z/uniforms_for_all_the_co
 print: 
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 Demonstration of personalised aspects of the modular Caribbean Commonwealth uniform system.
-{{</hint>}}
+{{</note>}}
 
 The residents of the Kalina Isles are mostly indigenous Caribs and Afro-Caribbean Garínagu, who in the 21st Century are part of a large multinational and multiethnic commonwealth of autonomous nation states. The Vekllei 4th Commonwealth, as it is now known, stretches all the way from Demon in the North Atlantic to the Antarctic Territories in the south. Although it consists of dozens of independent and self-governing nation-states, they are closely bound by shared political interests in the Atlantic and have significant commitments to the international Commonwealth parliament that legislates and shares features of these countries.
 

@@ -13,18 +13,18 @@ categories:
 image: https://images.millmint.net/moon.jpg
 
 description: The Vekllei Lunar Territories are an administrative region of the Commonwealth of Vekllei, a utopian country created by Hobart Phillips.
-author: Hobart Phillips
+
 
 ---
-{{< hint green >}}
+{{<note green >}}
 ߷ This article is about a [**dependent territory**](/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/factbook/vekllei)
-{{</hint>}}
+{{</note>}}
 
 ## Overview
 
-{{< hint panel >}}
+{{<note panel >}}
 **Although Vekllei** comprises several independent commonwealths, most notably the island city-state to which it owes its name, the Commonwealth of Vekllei also includes several autonomous nations. **Mira**, also called Madeira, is among them.
-{{</hint>}}
+{{</note>}}
 
 **The** Vekllei Lunar Territories are a dependent territory on the moon.
 

@@ -23,11 +23,11 @@ aliases:
 - /interim/
 
 description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[history](/history/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 The **Interim Vekllei Government** (also the *Interim Parliament* and *Interim Prosperity Government*) was a temporary puppet state of the United Kingdom, established in 2015 as a means to Vekllei independence after twenty years of British occupation in the country. It consisted of approved leaders in the arts and industry, who developed proposals for a new democratic Vekllei state. 
 

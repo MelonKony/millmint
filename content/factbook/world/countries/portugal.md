@@ -12,9 +12,9 @@ toc: true
 aliases:
 - /portugal/
 ---
-{{< hint green >}}
+{{<note green >}}
 ߷ Part of the *[world](/world/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 The **Second Portuguese Republic** (commonly *Portugal*) was a Portuguese state that existed between 1926 and 2014. It succeeded the democratic First Republic and Portuguese Empire, and was ruled by the *Estado Novo* regime.
 
@@ -26,9 +26,9 @@ Two different massacres in Portuguese colonies, the maintenance of which was str
 
 Several former Portuguese territories are part of {{<link/vekllei>}} today. These include:
 
-{{<hint panel>}}
+{{<note panel>}}
 * [<span class="fi fi-mira"></span> Mira](/mira/)
 * Azores
 * [<span class="fi fi-verde"></span> Verde](/verde/)
 * Principe
-{{</hint>}}
+{{</note>}}

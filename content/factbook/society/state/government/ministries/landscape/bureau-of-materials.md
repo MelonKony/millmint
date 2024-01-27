@@ -8,6 +8,6 @@ logo: /svg/crests/ministry-of-landscape.svg
 aliases:
 - /bureau-of-materials/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This bureau is part of the {{<link/ministry-of-landscape>}}
-{{</hint>}}
+{{</note>}}

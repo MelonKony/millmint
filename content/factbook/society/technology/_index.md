@@ -16,8 +16,8 @@ comments: false
 
 
 description: The government of Vekllei, a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 ---
-{{<hint panel>}}
+{{<note panel>}}
 This article is about unique technology in Vekllei's world.
-{{</hint>}}
+{{</note>}}

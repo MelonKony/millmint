@@ -27,9 +27,9 @@ reddit: https://www.reddit.com/r/vekllei/comments/102qsei/department_commerce/
 print:
 video:
 ---
-{{<hint link>}}
+{{<note link>}}
 ✿ Read more: {{<link/atlantic-store>}}
-{{</hint>}}
+{{</note>}}
 
 Despite having many consumer products, Vekllei is not a consumer society and is not equipped to succeed as one. Benevolent state monopolies produce staple goods -- food, clothing, and shelter -- and everything else is left up to the anarchic participatory industriousness of its people, which is situated somewhere between a productive free market and chaos.
 

@@ -25,18 +25,18 @@ comments: false
 
 ---
 
-{{< hint >}}
+{{<note>}}
 ߷ This page lists completed articles on [**Vekllei's**](/factbook/vekllei) [**boroughs**](/vekllei/#administrative-divisions)
-{{</hint>}}
+{{</note>}}
 
-{{<hint>}}
+{{<note>}}
 <span class="smallicon" style="font-size: 14px;">⚠️</span> This list is evolving, and will be expanded in future.
-{{</hint>}}
+{{</note>}}
 
 
-{{< hint panel >}}
+{{<note panel >}}
 Over the next year I'll be completing this list of Oslola's 100 boroughs, and linking them to images and posts produced in the project. Oslola's five Crown Boroughs (once included) will be highlighted in bold.
-{{</hint>}}
+{{</note>}}
 
 An Oslolan [borough](/vekllei/#administrative-divisions) is an unusual administrative designation, portioned originally by a set of vague criteria that includes size, history, its unique geography, culture, and its spiritual value. Population was evidently not a concern, and boroughs have great disparity in human settlement. Each borough takes the name of its largest city. You can see a partial list of them, arranged by region and alphabetically, below.
 

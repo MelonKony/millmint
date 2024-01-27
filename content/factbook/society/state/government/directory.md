@@ -8,9 +8,9 @@ color: millmint
 aliases:
 - /directory/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[government](/government/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 The <span class="fi fi-min-vekllei fis"></span> **Commonwealth Directorate** or simply **the Directory** is a federal council of elected peers, each representing a [contituent commonwealth](/constituents/). Although chaired by a rotating office, the Directory represents a single head of state as a petty executive.[^executive]
 

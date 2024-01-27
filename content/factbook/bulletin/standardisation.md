@@ -16,11 +16,11 @@ categories:
 aliases:
 - /bulletin/standardisation
 ---
-{{<hint>}}
+{{<note>}}
 ߷ Part of the *[bulletin](/bulletin/)* series of articles
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 **Summary**
 
 * In some aspects, the republics and island-states that make up Vekllei are decentralised and retain control over their own affairs.
@@ -28,7 +28,7 @@ aliases:
 * This control is wide-ranging, and includes flags, government logos and shields, typefaces and document standards, and uniforms.
 * This level of control is practically unseen even in unitary countries, and its public nature makes it very apparent in society.
 * The Commonwealth understands the power of a strong visual identity and the importance it has in supporting [civic commonhoods](/civic-commons/).
-{{</hint>}}
+{{</note>}}
 
 Upon acceding to the Commonwealth, swarms of federal officials will arrive in the new [constituent](/constituents/) and develop a process for federalisation.[^federalisation] Their work includes critical changes including the revision of laws and the careful (and painful) restructuring of government to suit the Commonwealth. Other changes appear less material, but ultimately represent an essential feature of Commonwealth society: the standardisation of its systems.
 
@@ -38,12 +38,12 @@ The axiom is this -- if design matters, which it does, then the government shoul
 
 This is especially true in the Vekllei Commonwealth, which is a unique country. It has no common landmass, language, race or culture. It is made up of many islands that have common values. As such, standardisation is a way of reinforcing those values, and making its islands seem geographically closer together than they are.
 
-{{<hint panel>}}
+{{<note panel>}}
 **Rules of the Commonwealth Design Bureau**
 
 1. All work must be in good taste.
 2. Work must be universal within its scope.
-{{</hint>}}
+{{</note>}}
 
 You can expect the same language of design used across all levels of Vekllei government, from its federal chambers in [Comet](/comet/) to its [autonomous cities](/polis/) and municipalities.
 

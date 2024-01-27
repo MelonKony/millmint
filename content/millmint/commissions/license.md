@@ -20,21 +20,21 @@ noindex: true
 toc: false
 
 description: Studio MillMint commission information
-author: Hobart Phillips
----
-{{< hint >}}
-✿ Download the <span class="smallicon">📄</span> [MillMint Limited Commercial License.pdf](/files/MillMint%20Limited%20Commercial%20License.pdf)
-{{</hint>}}
 
-{{<hint panel>}}
+---
+{{<note>}}
+✿ Download the <span class="smallicon">📄</span> [MillMint Limited Commercial License.pdf](/files/MillMint%20Limited%20Commercial%20License.pdf)
+{{</note>}}
+
+{{<note panel>}}
 When you commission work from MillMint, it is licensed for limited commercial use.
 
 **You may adapt the work for personal use or for gifts as many times as you like with no permission required.**
 
 If you plan on using commissioned work for commercial purposes, including selling it or adapting it into a commercial product, it is licensed under these terms.
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 LICENSE INFORMATION:
 
 The <span class="smallicon">📄</span> MillMint Limited Commercial License applies to commissioned work from MillMint. Uses that exceed these terms require the permission of MillMint.
@@ -56,6 +56,6 @@ LICENSE CONDITIONS:
 * You cannot incorporate the work into trademarks, logos, or service marks.
 
 **Under NO circumstances may you sell, or otherwise commercialise the actual digital files in their original format.**
-{{</hint>}}
+{{</note>}}
 
 <button href="mailto:studio@millmint.net">Contact me <span class="smallicon">✉️</span></button>

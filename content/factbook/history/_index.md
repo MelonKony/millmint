@@ -13,13 +13,13 @@ aliases:
 - /history/
 
 description: Vekllei is an immersive visual world, written and illustrated by Hobart Phillips.
-author: Hobart Phillips
+
 ---
 ## Overview
 
-{{<hint panel>}}
+{{<note panel>}}
 This is the history of the Vekllei Commonwealth
-{{</hint>}}
+{{</note>}}
 
 ## History
 

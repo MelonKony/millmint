@@ -19,7 +19,7 @@ toc: false
 comments: false
 
 description: Travelling I've done recently
-author: Hobart Phillips
+
 ---
 
 <table>

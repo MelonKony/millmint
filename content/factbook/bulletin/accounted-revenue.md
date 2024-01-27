@@ -14,18 +14,18 @@ categories:
 aliases:
 - /bulletin/accounted-revenue
 ---
-{{<hint>}}
+{{<note>}}
 ߷ Part of the *[bulletin](/bulletin/)* series of articles
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 **Summary**
 
 * Vekllei businesses that operate in [domestic markets](/factbook/society/state/finance/#domestic-markets) do not generally use money.
 * This includes government corporations and departments.
 * Despite this, Vekllei maintains a kind of commercial accounting that produces accurate, if fictional, revenues, expenditures and profit/loss metrics.
 * This is known as "accounted revenue," and is a shorthand for normal money-use on this site, but refers only to calculated theoretical values.
-{{</hint>}}
+{{</note>}}
 
 Although {{<link/vekllei>}} does not use money in domestic markets, it has a very sophisticated system of interlinked databases to monitor and record the economy. Physical product has a tangible presence and consequently a tangible cost, even if it not assigned a money-value. As such, Vekllei simply calculates the money-value of everything in its society, from homes to wages to toothbrushes, and uses those figures as a means to determine the health of its economy.
 

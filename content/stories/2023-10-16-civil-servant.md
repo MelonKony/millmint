@@ -22,9 +22,9 @@ reddit:
 print:
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 A paint-sketch of a Vekllei civil servant.
-{{</hint>}}
+{{</note>}}
 
 Vekllei business attire is pretty casual by the standards of its setting. Heels for women are rarely more than an inch, and they wear cotton and wool instead of nylon and rayon. Men sometimes wear sport coats to the office.
 

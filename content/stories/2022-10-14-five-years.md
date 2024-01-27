@@ -24,13 +24,13 @@ reddit: https://www.reddit.com/r/vekllei/comments/y45ul2/happy_birthday_vekllei_
 print: 
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 Tzipora is communicating the birthday rune in [Upotenne](/factbook/society/culture/language/#upotenne), a warding sigil of good luck.
-{{</hint>}}
+{{</note>}}
 
 **Today, the subreddit is five years old.** A better anniversary for this project would have been July 1st 2022 -- the date of my [first reddit post](https://www.reddit.com/r/worldbuilding/comments/6kgbkb/tzipora_has_her_photo_taken_at_youth_meet_2063/) -- but I missed that anniversary completely. This post is a late 5 year celebration of Vekllei. Next year I'll celebrate with you properly on *International Tzipora Day* (July 1st 2023, write it down).
 
-{{<hint panel>}}
+{{<note panel>}}
 Some statistics:
 * **Number of Vekllei stories:** **322**
 * **First Vekllei post:** [Tzipora has her photo taken at Youth Meet 2063](https://www.reddit.com/r/worldbuilding/comments/6kgbkb/tzipora_has_her_photo_taken_at_youth_meet_2063/) (July 1, 2017 )
@@ -39,7 +39,7 @@ Some statistics:
 * **Most recent post:** this one
 
 Read them here: [www.millmint.net/stories](/stories/)
-{{</hint>}}
+{{</note>}}
 
 I write about what Vekllei means to me sometimes, and I usually regret it. Any time I insert myself into the project I regret it. Although Vekllei is deeply personal to me, I don't belong anywhere near it and I'm learning to keep my mouth shut and let the work speak for itself. In the spirit of 'killing the author' (I believe that's the phrase), I've collected some notes in the tradition of resolutions.
 

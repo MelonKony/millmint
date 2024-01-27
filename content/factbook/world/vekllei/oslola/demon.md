@@ -11,11 +11,11 @@ draft: false
 aliases:
 - /demon/
 ---
-{{< hint green >}}
+{{<note green >}}
 ߷ Demon is part of {{<link/vekllei>}} Oslola
-{{</hint>}}
+{{</note>}}
 
-The **Republic of Demon** is an island republic in the North Atlantic, and part of the country of {{<link/vekllei>}}. It was discovered by Irish settlers in the 13th Century, where they settled at the base of the Birianvik, or Mt Birian Volcano. Its capital, Aran, exists on this site and is home to about 14,000 people today.
+The <span class="fi fi-demon"></span> **Republic of Demon** is an island republic in the North Atlantic, and part of the country of {{<link/vekllei>}}. It was discovered by Irish settlers in the 13th Century, where they settled at the base of the Birianvik, or Mt Birian Volcano. Its capital, Aran, exists on this site and is home to about 14,000 people today.
 
 Desolate, windy and cold, Demon is isolated by 500km of water from Kala, its closest neighbour. Its economy is dominated by fishing, community agriculture, the {{<link/military>}} and tourism. Demon has few trees but a little tundra, and is home to arctic foxes, seabirds and all manner of North Atlantic sea life.
 

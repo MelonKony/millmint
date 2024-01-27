@@ -10,15 +10,15 @@ aliases:
 - /demographics/
 
 description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
----
-{{< hint >}}
-߷ Part of the *[culture](/culture/)* series of articles
-{{</hint>}}
 
-{{<hint panel>}}
+---
+{{<note>}}
+߷ Part of the *[culture](/culture/)* series of articles
+{{</note>}}
+
+{{<note panel>}}
 The Commonwealth is a diverse society owing to its disparate geography, history as a middle point between the Old and New Worlds, and its immigration after independence in 2015. 46% of people in Vekllei were born overseas.
-{{</hint>}}
+{{</note>}}
 
 | Demographics of Vekllei |  |  |
 |---|---|---|

@@ -21,15 +21,15 @@ aliases:
 - /mirah/
 
 description: The borough of Mirah is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
-author: Hobart Phillips
+
 
 ---
 
 ## Overview
 
-{{< hint >}}
+{{<note>}}
 ߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
-{{</hint>}}
+{{</note>}}
 
 **The borough of Mirah** is an administrative region on the west coast of Vekllei, located east of Tohs and south of Geame. It is named after Mirah, its largest population centre and fishing town dependent largely on deepwater trawling in the Vekllei Sea. It is also home to the Vekllei International Casino, a hotel and resort available only to foreigners, which resides in the town of Gigayeh.
 

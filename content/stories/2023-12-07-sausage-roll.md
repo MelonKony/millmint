@@ -21,8 +21,8 @@ reddit:
 print:
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 Tzipora likes to get a sausage roll and coffee in the morning before school.
-{{</hint>}}
+{{</note>}}
 
 In December, Oslola only gets a few hours of sunlight per day. The opposite is true in June, when they enjoy 20-hour days.

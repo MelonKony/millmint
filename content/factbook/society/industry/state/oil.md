@@ -11,10 +11,10 @@ aliases:
 - /oil/
 
 description: The railways of Vekllei, a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[industry](/industry/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 **Commonwealth Oil** is the

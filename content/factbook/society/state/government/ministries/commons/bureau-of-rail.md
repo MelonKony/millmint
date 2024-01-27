@@ -9,9 +9,9 @@ autonumbering: false
 aliases:
 - /bureau-of-rail/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This bureau is part of the {{<link/ministry-of-the-commons>}}
-{{</hint>}}
+{{</note>}}
 
 The <span class="fi fi-min-commons fis"></span> **Bureau of Rail** maintains and regulates the rail industry in Vekllei. Because of the ubiquity and importance of rail across {{<link/vekllei>}} [republics](/republics), it is among the largest of the transport bureaus.
 
@@ -19,7 +19,7 @@ In addition to rail planning, safety and regulation, the bureau also controls {{
 
 Including VNR, the Bureau of Rail is consequently one of the largest rail transport organisations in the world, rivalling much larger countries with the density and ubiquity of Vekllei track. Almost every Vekllei republic maintains some kind of rail service, ranging from miniature trams and industrial sidings to bullet trains and maglevs.
 
-{{<hint panel>}}
+{{<note panel>}}
 
 ## Executive Council
 
@@ -32,9 +32,9 @@ Including VNR, the Bureau of Rail is consequently one of the largest rail transp
 	* Secretary for Interservice Operations
 	* Secretary for Metropolitan Transport
 * **Chief Scientist**, {{<link/transport-laboratories>}}
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 ## Departments
 
 * **General Council**: Advisory board to the {{<link/ministry-of-the-commons>}}.
@@ -46,11 +46,11 @@ Including VNR, the Bureau of Rail is consequently one of the largest rail transp
 	* Office of Engineering
 * **Department of Service & Operations**
 	* Office of Rail Heritage
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 ## Boards & Commissions
 
 * **{{<link/rail>}}**: National rail company and service operator.
 * **Passenger Amenities Committee**: Advisory board for passenger comfort and satisfaction.
-{{</hint>}}
+{{</note>}}

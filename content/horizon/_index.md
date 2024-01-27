@@ -18,6 +18,6 @@ color: millmint
 
 description: Stories of life and living in the country of Vekllei.
 ---
-{{<hint>}}
+{{<note>}}
 Welcome to *Stories from the Horizon*, Tzipora's journey through Vekllei.
-{{</hint>}}
+{{</note>}}

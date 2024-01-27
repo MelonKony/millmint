@@ -22,14 +22,14 @@ aliases:
 - /air/
 
 description: The railways of Vekllei, a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
  
 ---
 
 ## Overview
-{{< hint >}}
+{{<note>}}
 ߷ This article is about [**Vekllei**](/factbook/vekllei) society
-{{</hint>}}
+{{</note>}}
 
 
 ### Introduction
@@ -44,9 +44,9 @@ author: Hobart Phillips
 
 {{< details title="Organisation Chart of VNR" open=true >}}
 
-{{<hint>}}
+{{<note>}}
 Responsible to the [Skies Bureau](/factbook/society/government/#national-skies-bureau) of the [Ministry of Transport](/factbook/society/government/#ministry-of-transport)
-{{</hint>}}
+{{</note>}}
 * **Vekllei National Rail**
   * National Rail
     * Vekllei National Railway A.r.R.

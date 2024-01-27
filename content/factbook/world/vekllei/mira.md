@@ -11,9 +11,9 @@ draft: false
 aliases:
 - /mira/
 ---
-{{< hint green >}}
+{{<note green >}}
 ߷ Part of the *[territories](/territories/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 ## Overview
 

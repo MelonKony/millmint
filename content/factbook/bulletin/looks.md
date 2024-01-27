@@ -16,18 +16,18 @@ categories:
 aliases:
 - /bulletin/standardisation
 ---
-{{<hint>}}
+{{<note>}}
 ߷ Part of the *[bulletin](/bulletin/)* series of articles
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 **Summary**
 
 * A common question about Vekllei, particularly when associated with Oslola (*née* Iceland), is why they do not look like the common conception of Icelanders.
 * The simple answer is that they are *not* typical Icelanders, and most native Oslolans are descended from either indigenous arctic peoples (which they call "Algic") and Irish or Nordic settlers.
 * In addition, in Oslola there are substantive populations of immigrants who come from all over the world.
 * As such, it is not accurate to describe any one group of people as "looking like" an Oslolan, owing to their enduring diversity.
-{{</hint>}}
+{{</note>}}
 
 The commonwealth called {{<link/vekllei>}} is a union of island communities, but when this project started it was centred on Iceland. Indeed, Vekllei originally referred only to "Iceland," and its possessions across the Atlantic were an afterthought. The worldbuilding in this project is significantly more enlightened now, and Vekllei refers equally to a commonwealth of consenting island communities, but the main characters all still live in Oslola. Picking up on this, people often ask why some of them have Asian features or darker skin, and the answer is straightforward -- this is not Iceland, it is Oslola, and so its history and demographics are different.
 
@@ -37,11 +37,11 @@ If course, Oslola has undergone a series of catastrophic crises, and has changed
 
 Appended is a summarised table demonstrating the diversity across the Commonwealth, and their nominated ancestries of origin. A deeper breakdown can be found on the [demographics](/demographics/) article.
 
-{{<hint>}}
+{{<note>}}
 ❀ Read more: <span class="smallicon">👨‍👩‍👧‍👦</span> *[Demographics of Vekllei](/demographics/)*
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 **Major Ancestries of Vekllei**
 
 * Oslolan (33%)
@@ -58,5 +58,5 @@ Appended is a summarised table demonstrating the diversity across the Commonweal
 * Southern European (1.5%)
 * Slavic (1.3%)
 * Others (1%)
-{{</hint>}}
+{{</note>}}
 

@@ -8,6 +8,6 @@ color: cosmolab
 aliases:
 - /cosmolab/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
-{{</hint>}}
+{{</note>}}

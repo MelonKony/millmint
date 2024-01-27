@@ -6,11 +6,6 @@ emoji: ɋ
 color: purple
 image:
 
-tags:
-  - state
-categories:
-  - society
-
 draft: false
 
 type: blank
@@ -21,13 +16,10 @@ toc: true
 
 aliases:
 - /universal-cotton/
-
-description: Universal Cotton is a bureau in Vekllei.
-author: Hobart Phillips
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[industry](/industry/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 **Universal Cotton** is a [bureau](/bureaus/) based in the Vekllei Islands. It is the largest clothing manufacturer in the Commonwealth, specialising in shirts, trousers, skirts, dresses, and underwear. It supplies most department stores in the Vekllei Islands as part of the *Commons Comfort Scheme* of the Vekllei government, and has a significant presence throughout the Commonwealth.
 
@@ -36,7 +28,7 @@ It trades overseas under the *Universal Cotton Company* brand. It also owns a nu
 
 Universal Cotton also produces factory schematics and product designs which are licensed to small [factory *lots*](/bulletin/lots).
 
-{{<hint panel>}}
+{{<note panel>}}
 **Universal Cotton Organisation**
 * Universal Cotton General Council
   * General Secretary
@@ -53,5 +45,5 @@ Universal Cotton also produces factory schematics and product designs which are 
   * Bonds Company
   * Atlantic Textiles
   * Sova & Gillis
-{{</hint>}}
+{{</note>}}
 

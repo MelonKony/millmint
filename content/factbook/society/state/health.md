@@ -13,9 +13,9 @@ toc: true
 aliases:
 - /health/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[state](/state/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 ## Overview
 
@@ -27,13 +27,13 @@ The current system has good outcomes, and its public services are widely availab
 
 ## Services
 
-{{< hint >}}
+{{<note>}}
 ❀ Read more: *[Health Vekllei](/stories/health/)*
-{{</hint>}}
+{{</note>}}
 
 There are 540 hospitals in Vekllei with a total of 80,000 beds.
 
-{{<hint panel>}}
+{{<note panel>}}
 Public health care covers the following:
 
 * hospital inpatient services
@@ -46,7 +46,7 @@ Public health care covers the following:
 * outpatient care for mental illness, if provided or delegated by physicians
 * medically necessary long-term care
 * hospice care if there is an underlying disease
-{{</hint>}}
+{{</note>}}
 
 ### Mental Health
 
@@ -66,9 +66,9 @@ Healthcare delivery costs are often opaque in Vekllei's integrated health system
 
 ## Role of Government
 
-{{<hint>}}
+{{<note>}}
 ✿ Main article: <span class="smallicon">⚕️</span> *[Commownealth Health Council](/helsec/)*
-{{</hint>}}
+{{</note>}}
 
 Public healthcare is integrated into Vekllei's cascading federal system. National Health Authorities (NHAs) are tasked with local policy and the delivery of most care, including health promotion programmes and the administration of hospitals. The federal Health Secretariat designs commonwealth policy, and conducts most health planning and research. The federal health authorities also purchase foreign imports necessary for domestic healthcare, including the Community Pharmacy Agreements (CPA) which negotiate foreign medicine prices.
 

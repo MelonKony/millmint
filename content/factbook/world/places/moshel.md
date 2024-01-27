@@ -18,11 +18,11 @@ aliases:
 - /moshel/
 
 description: The Moshel St School is Tzipora's secondary school in Vekllei.
-author: Hobart Phillips
+
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This article is about a [**location**](/factbook/landscape/places) in [**Vekllei**](/vekllei/)
-{{</hint>}}
+{{</note>}}
 
 **The Moshel Street State School**, also the Moshel School or Lola 6th, is a [Central School](/factbook/society/state/education/#state-schools) in the borough of [Lola](/lola/). It is the second-largest school in Lola, and offers schooling between [Prep](/factbook/society/state/education/#preparatory-school) and Year 12. It is also Tzipora's school, and is where she completes her secondary schooling upon her arrival in Vekllei.
 

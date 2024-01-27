@@ -8,6 +8,6 @@ logo: /svg/crests/ministry-of-foreign-affairs.svg
 aliases:
 - /bureau-of-communications/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This bureau is part of the {{<link/ministry-of-foreign-affairs>}}
-{{</hint>}}
+{{</note>}}

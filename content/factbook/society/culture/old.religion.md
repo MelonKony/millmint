@@ -19,16 +19,16 @@ aliases:
 - /religion/
 
 description: Upen is an indigenous religion of Vekllei, a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This article is about [Vekllei](/factbook/vekllei)
-{{</hint>}}
+{{</note>}}
 
-{{< hint panel >}}
+{{<note panel >}}
 **Upen** is the nondenominational animistic spiritualism of Vekllei. It is both an organised religious belief system and a decentralised local animism, localised regionally across the Home Islands and beyond. As a basis for Vekllei metaphysics and general belief systems, *Upen* is a central part of Vekllei cultural identity and informs most parts of life at all levels in the country.
-{{</hint>}}
+{{</note>}}
 
 ## Overview
 

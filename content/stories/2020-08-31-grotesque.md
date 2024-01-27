@@ -21,9 +21,9 @@ image: https://images.millmint.net/warmap.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/ijxvzu/absolute_grotesque/
 ---
 
-{{<hint story>}}
+{{<note story>}}
 ✿ **This article** was featured in [**Issue #4**](/news/bulletin/2020/4) of the *Atlantic Bulletin*
-{{</hint>}}
+{{</note>}}
 
 >On the morning of the second day, I watched a fly crawl across the cheek of the middle-aged woman, probably an office worker, lying next to me. It moved up her cheekbone to her temple, stopping now and then to rub its front legs as though performing a ritual.
 A jagged tear ran down the leg of her dark blue work trousers, but the white calf it revealed was miraculously unscathed. The woman lay still. Probably dead, I assumed. After a while, the fly got on to her eyelid. Suddenly, she reached up and brushed it away, opening the eye. There was still a moist light inside.

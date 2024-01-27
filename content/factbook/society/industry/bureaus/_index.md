@@ -23,11 +23,11 @@ aliases:
 - /bureaus/
 
 description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[industry](/industry/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 **Bureaus** in {{<link/vekllei>}} are industrial syndicates of companies that represent substantial or monopoly power over an industrial market. Their existence is recognised by Vekllei economic policy as a means of furnishing a reasonable standard of living for Vekllei people outside of the anarchy of the [private markets](/factbook/society/state/finance/#domestic-markets). As a result, bureaus are concerned primarily with the public good and industrial policy.
 

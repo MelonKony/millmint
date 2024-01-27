@@ -24,9 +24,9 @@ reddit:
 print:
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 I've got new brushes so I'm doing the new brush thing.
-{{</hint>}}
+{{</note>}}
 
 Tzipora's mother was Gitana (Spanish Roma) and her father was Ashkenazic. Cobian (wearing glasses) is "Algic," their word for indigenous Arctic peoples.
 

@@ -8,9 +8,9 @@ logo: /svg/crests/ministry-of-foreign-affairs.svg
 aliases:
 - /bureau-of-foreign-affairs/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This bureau is part of the {{<link/ministry-of-foreign-affairs>}}
-{{</hint>}}
+{{</note>}}
 
 ## Department of African Affairs
 ## Department of American Affairs

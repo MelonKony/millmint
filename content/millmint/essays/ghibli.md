@@ -18,14 +18,14 @@ aliases:
 - /ghibli/
 
 description: An essay on spatiality in the films of Studio Ghibli by Hobart Phillips, a utopian illustrator and storyteller.
-author: Hobart Phillips
+
 
 ---
 
-{{< hint >}}
+{{<note>}}
 **✿ Note from the Editor**
 This thesis was completed in partial fulfillment of Bachelor of Media (Honours). It remains a good testament to my love of Ghibli. It was originally submitted in **October 2020** and published in **December 2020**.
-{{</hint>}}
+{{</note>}}
 
 <div style="background-color: var(--gray-light); border-radius: 5px;">
 <img alt="smallimg" style="background-color: var(--gray-light); border-radius: 5px;" src="https://images.millmint.net/images/mastheads/tzizuku.png">
@@ -33,13 +33,13 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
 ## Abstract
 
-{{<hint panel>}}
+{{<note panel>}}
 This thesis looks to argue for the value of spatiality in several films of the Studio Ghibli franchise in Japan. Literary space, much like the cartography of the real world, helps map meaning and locate the human body in the contemporary, postmodern displacement of old constructions. In this sense, there is a functional analogy in the physical map of a town, in which a reader is able to orient themselves and locate features of note around them. So too do the spaces of film provide functional markers of value, language, behaviour, style and story against space, recalling spatiotemporality as a vessel for each of them.
 
 If all films are spatial, then many of Ghibli’s films are often utopian spaces. This is found within and without traditional utopian study — there are exemplary glimpses of pastoral, elegant *utopia* in *My Neighbour Totoro* (Tonari no Totoro, 1988), replicated in whimsy in other Miyazaki works like *Kiki’s Delivery Service* (Majo no Takkyūbin, 1989). There are however, more complicated utopias in the Ghibli catalogue that stray from orthodox imagination. Relevant to media inquiry, there are what this thesis recognises as *utopias-by-appropriation* in which the painterly depictions of urban Tokyo in *Whisper of the Heart* (Mimi o Sumaseba, 1995) or the beautiful illustrations of agrarian whimsy in *Only Yesterday* (Omoide Poro Poro, 1991) are decontextualised abroad and suspended in a traditional *utopian* ‘no-place’, where they are reinterpreted and rebuilt as fantasy. So it is that the real-world apartments of Tama Hills and the fields of Yamagata can become fictitious, spatial utopias.
 
 And so, there are two questions of interest here. First, there is the question of employing the ‘spatial turn’ of textual analysis to Ghibli films, and whether this literary framework provides value in animation. Then, there is the question of how utopia-spaces manifest in Ghibli’s catalogue of films, and how the physical heritage and landscape of cinema is misplaced and then emerges anew in fantasy form for foreign (in the scope of this study, Western) audiences, where such works remain popular, thus manufacturing utopias where, perhaps, none exist in Japan.
-{{</hint>}}
+{{</note>}}
 
 ## Introduction
 

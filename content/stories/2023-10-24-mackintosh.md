@@ -24,9 +24,9 @@ reddit:
 print:
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 Tzipora has a dry head. Moise does not.
-{{</hint>}}
+{{</note>}}
 
 Commonwealth islands get a lot of rain, and raincoats are issued by the Ministry of Education. They vary slightly by region, but in Oslola they look like this.
 

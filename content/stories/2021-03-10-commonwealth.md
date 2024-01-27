@@ -21,9 +21,9 @@ image: https://images.millmint.net/territories.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/m21j78/veklleis_sprawling_commonwealth/
 ---
 
-{{<hint>}}
+{{<note>}}
 ✿ **This article** was part of Vekllei's ***Ocean Month*** in March 2021
-{{</hint>}}
+{{</note>}}
 
 *Welcome again to Ocean Month. If you have questions, just ask.*
 

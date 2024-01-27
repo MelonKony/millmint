@@ -8,6 +8,6 @@ color: cosmosec
 aliases:
 - /bureau-of-industry/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This bureau is part of the {{<link/ministry-of-industry>}}
-{{</hint>}}
+{{</note>}}

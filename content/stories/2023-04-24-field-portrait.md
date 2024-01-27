@@ -24,6 +24,6 @@ reddit:
 print: 
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 Portait of Tzipora wearing school clothes in the Vekllei Highlands.
-{{</hint>}}
+{{</note>}}

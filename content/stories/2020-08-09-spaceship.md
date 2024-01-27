@@ -22,9 +22,9 @@ image: https://images.millmint.net/apricot.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/i6528h/the_31st_century_vekllei_throughout_our_solar/
 ---
 
-{{<hint story>}}
+{{<note story>}}
 ✿ **This article** was featured in [**Issue #4**](/news/bulletin/2020/4) of the *Atlantic Bulletin*
-{{</hint>}}
+{{</note>}}
 
 ## The Epoch of Rest
 

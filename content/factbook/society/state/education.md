@@ -23,18 +23,18 @@ aliases:
 - /education/
 
 description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 ---
 
 ## Overview
 
-{{<hint>}}
+{{<note>}}
 ߷ This article is about [Vekllei](/vekllei/) society.
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 **Education** emerged as a foundational right for Vekllei people in the constitution of the 4th Commonwealth, in the spirit of postwar democratisation and the rising of all people.
-{{</hint>}}
+{{</note>}}
 
 Education in Vekllei is a good example of the 'system working backwards,' the popular phrase to describe the Floral Period moving in two different directions at once. Is it modern, supplied and robust in the Western tradition -- children wear uniforms, are divided into school years and learning is arranged and taught in subjects. Other aspects of the Vekllei curriculum, like its provisions for extracurricular activities and social clubs, are novel by comparison.
 
@@ -48,9 +48,9 @@ Education in Vekllei is considered a foundation of Vekllei democracy, and in the
 
 ## Structure
 
-{{<hint>}}
+{{<note>}}
 ✿ Download <span class="smallicon">📄</span> [Document No. 7.pdf](/files/documents/7.pdf)
-{{</hint>}}
+{{</note>}}
 
 ### Administration and Funding
 
@@ -82,9 +82,9 @@ Vekllei offers a handful of boarding schools, which are usually specialised inst
 
 ## Education
 
-{{<hint link>}}
+{{<note link>}}
 ✿ Read more: {{<link/parliament-of-education>}}
-{{</hint>}}
+{{</note>}}
 
 Vekllei people are enrolled in 9 years of compulsory education, provided by the {{<link/parliament-of-education>}}. In addition, 3 years of pre-school and 3 years of senior secondary schooling are offered but not compulsory. All schools in Vekllei are funded by the state, which include community schools, state schools, studio schools, technical schools, faith schools and state boarding schools.
 
@@ -148,9 +148,9 @@ The Commonwealth Curriculum is the common programme of study in all Commonwealth
 
 ## Uniform
 
-{{<hint link>}}
+{{<note link>}}
 ✿ Read more: *[Uniforms in Vekllei](/stories/uniforms/)*
-{{</hint>}}
+{{</note>}}
 
 ![Illustration of different ways of wearing the same school uniform](/images/generation.jpg "Examples of Vekllei school uniform and its functional diversity | [*A New Generation*](/stories/new-generation/)")
 

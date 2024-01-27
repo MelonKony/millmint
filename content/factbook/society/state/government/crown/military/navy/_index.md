@@ -11,11 +11,11 @@ aliases:
 - /navy/
 
 description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This article is about a privilege of the Vekllei Sovereign
-{{</hint>}}
+{{</note>}}
 
 ## Overview
 
@@ -30,7 +30,7 @@ The Commonwealth Army refers to its infantry regiments, equivalent roughly to ov
 
 ## Fleet
 
-{{<hint panel>}}
+{{<note panel>}}
 * Aircraft Carrier - 8
   * Fleet Carrier
   * Light Carrier
@@ -79,7 +79,7 @@ The Commonwealth Army refers to its infantry regiments, equivalent roughly to ov
 * Troopship
 * Accomodation ship
 * Radio boat/dispatch ship
-{{</hint>}}
+{{</note>}}
 
 ### Structure
 

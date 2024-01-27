@@ -9,13 +9,13 @@ autonumbering: false
 aliases:
 - /commsec/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Commsec is part of the {{<link/ministry-of-commerce>}}
-{{</hint>}}
+{{</note>}}
 
-{{<hint link>}}
+{{<note link>}}
 ✿ Read more: *[Finance in Vekllei](/finance/)*
-{{</hint>}}
+{{</note>}}
 
 The <span class="fi fi-min-commsec fis"></span> **Commonwealth Securities Exchange** (Commsec, or CSX) is a [government corporation](/state-industry/) that operates the national securities and commodities market in {{<link/vekllei>}}. It is supervised by the {{<link/bureau-of-securities>}}. The corporation is itself listed on the CSX.
 
@@ -28,7 +28,7 @@ The All Ordinaries is rebalanced annually, whereas the CRC/CSX 50 is rebalanced 
 
 The CSX maintains systems to aid foreign investment, and is often characterised as the entry point to the Vekllei industrial economy. Since most Vekllei people are unbanked and do not handle money, the CSX is primarily a mechanism for government, industry, and private foreign investors.
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Executive Council
 
 * **Director**, {{<link/commsec>}}
@@ -39,19 +39,19 @@ The CSX maintains systems to aid foreign investment, and is often characterised 
 	* Director, Commonwealth Trade Commission
 * **Director**, {{<link/commbank>}}
 * **Executive**, {{<link/ratings>}}
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Constituent Markets
 
 * **CSX Equity Market**: 8th-largest equity market worldwide, with an average of ❦VK 700 billion secondary trading daily. The CSX equity market currently retains a market capitalisation of ❦VK 600 trillion.
 * **CSX Bond Market**: 4th-largest debt market worldwide, trading mostly foreign debt held by Vekllei companies.
 * **CSX Derivatives Market**: 4th-largest derivates market worldwide.
 * **CSX Foreign Exchange Market**: 6th-largest currency exchange in the world by global turnover, and the Vekllei Crown (❦VK) and U.S. Dollar are the 5th most traded currency pair.
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 #### Boards & Commissions
 
 * **Commonwealth Sovereign Wealth Corporation**: State investment corporation that acts as a sovereign wealth fund.
-{{</hint>}}
+{{</note>}}

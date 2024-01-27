@@ -11,9 +11,9 @@ draft: false
 aliases:
 - /cateral/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[industry](/industry/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 <span class="fi fi-min-cateral fis"></span> **Cateral** S.A. is a firearms manufacturer in {{<link/vekllei>}}. It is a cooperative of 17 distinct workshops and factories across six republics, and is a major weapons exporter internationally. It has a governing council headquartered in the Kairi Republic, which coordinates research and production.
 

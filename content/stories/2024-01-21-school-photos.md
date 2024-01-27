@@ -22,6 +22,6 @@ reddit:
 print:
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 Yep, raise your head sweetheart... no, up, no, raise your chin. Like, move your head up. Yep. No, you've put it down again. Just a little bit up, yep, HOLD IT, yep, okay, smile. Say "cheese."
-{{</hint>}}
+{{</note>}}

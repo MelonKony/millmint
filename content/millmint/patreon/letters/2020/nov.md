@@ -10,15 +10,15 @@ sitetag: Patreon
 color: blue
 
 description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
-author: Hobart Phillips
+
  
 ---
 
 ![img](https://images.millmint.net/images/mastheads/letters/1.jpg)
 
-{{< hint >}}
+{{<note>}}
 ✿ This letter was sent out to Patrons in November 2020
-{{</hint>}}
+{{</note>}}
 
 Hello my lovelies,
 

@@ -8,19 +8,19 @@ logo: /svg/crests/ministry-of-commerce.svg
 aliases:
 - /cosmosol/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
-{{</hint>}}
+{{</note>}}
 
 The <span class="fi fi-min-commerce fis"></span> **Ministry of Commerce** (COSMOSOL) conducts government spending and facilitates trade in the country. Despite the functional moneylessness of the {{<link/vekllei>}}, COSMOSOL remains among the busiest ministries of the Interior Government, since all economic policy, international trade and entitled renumeration (the Vekllei turn-of-phrase for withdrawing from the {{<link/commbank>}}) occurs through its subordinate bureaus and organisations. Common responsibilities of COSMOSOL include:
 
-{{<hint panel>}}
+{{<note panel>}}
 * Regulation and taxation of international trade, particularly through Government '[White Bonds](/factbook/society/state/finance/?ref=footer#white-bonds)' and Commonwealth Bank '[Blue Bonds](/factbook/society/state/finance/?ref=footer#blue-bonds)'.
 * Banking the Commonwealth state apparatus.
 * Advising the Parliament on economic policy and foreign trade.
 * Monitoring and reporting on the health of foreign markets.
 * Printing and transporting currency.
-{{</hint>}}
+{{</note>}}
 
 The Ministry of Commerce is led by the State Secretary of Commerce, who is a member of the {{<link/cabinet>}}. It is represented in the {{<link/council>}} by the Minister of Commerce.
 

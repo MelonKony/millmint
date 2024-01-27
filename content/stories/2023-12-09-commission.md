@@ -22,9 +22,9 @@ reddit:
 print:
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 Cobian is not impressed, but Tzipora is enjoying things.
-{{</hint>}}
+{{</note>}}
 
 Just snagged a commission of Tzipora and Cobian from [@iniemohk](https://twitter.com/iniemohk) on Twitter!
 

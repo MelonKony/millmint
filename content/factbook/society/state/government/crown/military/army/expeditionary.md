@@ -9,11 +9,11 @@ aliases:
 - /expeditionary/
 
 description: Vekllei is a utopia created by Hobart Phillips.
-author: Hobart Phillips
+
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[Military](/military/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 ## Overview
 

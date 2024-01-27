@@ -3,7 +3,7 @@ article blockquote {
 	font-style: italic;
 }
 
-.hint {
+.note {
 	@include text-base;
 	@include my-2;
 	@include padding-2;
@@ -33,7 +33,7 @@ article blockquote {
 	}
 }
 
-.hint.panel {
+.note.panel {
 	@include padding-4;
 
 	h1, h2, h3, h4, h5, h6 {
@@ -41,7 +41,7 @@ article blockquote {
 	}
 }
 
-.hint.link, .hint.note {
+.note.link, .note.link {
 	background: none;
 
 	h1, h2, h3, h4, h5, h6 {
@@ -49,7 +49,7 @@ article blockquote {
 	}
 }
 
-.hint.header {
+.note.header {
 	@include font-bold;
 	@include px-8;
 	@include radius-small;
@@ -61,7 +61,7 @@ article blockquote {
 	}
 }
 
-.hint.caption {
+.note.caption {
 	@include text-xs;
 	@include font-semibold;
 	@include padding-2;
@@ -76,7 +76,7 @@ article blockquote {
 	border-top-right-radius: 0;
 }
 
-.hint.subtitle {
+.note.subtitle {
 	background-color: transparent;
 	font-style: italic;
 	font-size: 24px;

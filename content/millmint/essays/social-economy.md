@@ -16,7 +16,7 @@ In Vekllei, the economy most people interact with is called the *commons*. In th
 
 This project is grounded in the real world, and so it attempts to answer real-world questions without conceding to fantasy or trite concessions.[^dystopia] This is an ongoing process, but this essay is an intro to how and why the Vekllei "moneyless economy" works.
 
-{{<hint panel>}}
+{{<note panel>}}
 **Key Facts**
 
 * I am aware of how outrageous the premise of a moneyless society is -- taking it seriously and engaging with it is the joy of working on this project.
@@ -25,7 +25,7 @@ This project is grounded in the real world, and so it attempts to answer real-wo
 * Their society has social illnesses like any other, and its economy is imperfect and has gaps. This austerity is a characteristic of their lives and a concession of the *commons* system.
 * They work like all other people around the world, but their work is different. Many fewer Vekllei people are simply "cogs in a machine."
 * While Vekllei people may not use money, the Vekllei government has revenues and expenditures, and its industry trades overseas. For more information on Vekllei use of money, visit the [finance](/finance/) article.
-{{</hint>}}
+{{</note>}}
 
 ### Premise
 
@@ -49,13 +49,13 @@ By extension, any moneyless economy would be doomed to fail immediately on these
 
 This is where Vekllei distinguishes itself from employment overseas. Their required work is minimised by society at great expense, and the kinds of jobs people do are different to the kinds of jobs overseas. Their roles are both more important and less demanding, and employment has a huge social dynamic. Their jobs are important social indicators, and there's a lot of diversity in the Vekllei market. Ambitious people have paths to power, but many people find work in their community.
 
-{{<hint panel>}}
+{{<note panel>}}
 **Example**
 
 A good analogy for the broad Vekllei attitude towards work might be schooling. School can be boring, tedious or painful, but it can also be rewarding, engaging and social. We don't get paid to go to school, because we have different motivations in attending.
 
 In many places, school is compulsory, but it is also a recognised social good, and benefits us. While work in Vekllei is different in many aspects, their attitude towards it is often similar -- rather than a net negative that demands a wage, work is often a means to further different ambitions or even just occupy time with friends.
-{{</hint>}}
+{{</note>}}
 
 The premise is that Vekllei is a place in which work is motivated by social rather than material factors. Taking that axiom as true for a minute, we can explore methods in which it might work.
 
@@ -67,11 +67,11 @@ Life is not that different, but it is improved in ordinary and meaningful ways. 
 
 If you assume "quality of life" refers to the material wealth of individual people, then Vekllei people are quite poor. But the absence of things is not simply a net negative; it can actually contribute positive aspects to people's lives:
 
-{{<hint panel>}}
+{{<note panel>}}
 **Example**
 
 Very few Vekllei people have televisions, which are common in wealthy countries in this world. But in the place of the convenience of a television are social ways of consuming news and entertainment, through cinemas, radio and newspapers. Maybe the cliché of a generation raised by television has some truth to it.
-{{</hint>}}
+{{</note>}}
 
 And this is just poverty by the metric of a 1970s consumer society -- forget about smartphones or the gig economy. They simply don't exist in Vekllei's world, which overall is more analog, inconvenient, rewarding and slow-paced. The absence of smartphones isn't just backwardness, it allows for more sophisticated and social cultures.
 
@@ -89,13 +89,13 @@ Because they have to, but also because there is only so much else to do.
 
 Doing nothing feels great at first, but people are built for activity and if we don't fill our time, most of us get bored quickly. Vekllei people don't desire work, but lives feel empty without it. Keep in mind, of course, that work applies to all kinds of occupations, and not just the drudgery of waged labour.
 
-{{<hint panel>}}
+{{<note panel>}}
 **Example**
 
 The lives of Vekllei people are not so different from other wealthy countries. They spend their childhoods in school figuring out what they're going to do with their lives.
 
 In modernity we have a framework for how we expect our lives to go -- aspirations, jobs, family, friends, health, retirement. This exists in Vekllei too. For most people around the world, money is only a part of a rich life that includes many other aspirations, and in Vekllei all of these are still in place.
-{{</hint>}}
+{{</note>}}
 
 Consider how a lifetime without money affects expectations. There is no money-value of time and so it is not calculated (or even thought of) when considering employment. It is replaced by material pros and cons, which exist in moneyed markets already -- things like interest in the job, work environment, perks, commute, opportunity and prestige. To make a job desirable, these things have to offset the actual work, as they do anywhere -- minus the wage.
 
@@ -103,14 +103,14 @@ From the perspective of a waged society, removing the wage collapses most reason
 
 **As such, it would be misleading to characterise Vekllei people as "working for free."** They are *not* working for free, they work for a myriad of social and material rewards, and are often incentivised by their own stake in a business or project. This means jobs in Vekllei are characterised by certain features:
 
-{{<hint panel>}}
+{{<note panel>}}
 **Employment Characteristics of Vekllei**
 * **Personal investment**: most employment requires personal investment, or a "stake" in the company. In some places, this is partial ownership, and in others it might be departmental or divisional leadership. In the local economy, almost all businesses and factories are worked by their owners.
 * **Prestige**: a social economy is not just abstract feelings of positivity; prestige is very important in Vekllei and there are material ways to demonstrate this. The use of architecture and infrastructure; the prevalence of uniforms and awards; the vertical design of industry; and above all pride as a cultural characteristic.
 * **Social reward**: adjacent to prestige is social reward. Commutes are short and most employment (especially in the local market) is deeply woven throughout communities. Workplaces are highly social in Vekllei, encouraged by frequent tea breaks and a lax work culture, and colleagues are often friends and/or romantically involved.
 * **Material benefit**: many Vekllei jobs have obvious material benefits. Most businesses come with housing attached, which may be desirable. Larger companies also take care of their employees through material conveniences, leveraging corporate perks to open up airline seats, tickets, private clubs and lounges, and specialty goods that can be traded or used.
 * **A requirement to find work**: all Vekllei people have to have an occupation, a simple requirement known as [*consosva*](/consosva/). This equally applies to everyone. If everyone has an occupation, then you might as well try and find one that suits you.
-{{</hint>}}
+{{</note>}}
 
 Rather than "working for free," in an altruistic sense of self-sacrifice, Vekllei people work for themselves, as they do overseas, for their own complicated reasons. The main distinction is that Vekllei people generally do not work *to survive*.
 
@@ -120,13 +120,13 @@ Vekllei has winners and losers, just like other countries. Social economies are 
 
 Let's look at a few "losers" of the Vekllei economy:
 
-{{<hint panel>}}
+{{<note panel>}}
 **Losers of the Vekllei Local Market**
 * **Consumer society**: Vekllei does not have a consumer society. They have products produced reliably in a planned system, which limits variety, and the local market only makes up some of the shortfall. In a less beautiful or well-designed society, the Vekllei basic standard of living would be almost unbearable.
 * **Luxuries**: Vekllei luxuries are few and far-between. Vekllei of course does not have a middle class with disposable income, and so it can be very difficult to acquire things like organic meats, domestic appliances and foreign products. Urban Vekllei people do not generally own cars. In this sense, most wealthy countries have a far superior material standard of living by access to appliances and luxuries.
 * **Upwards Mobility**: it is easy to acquire and use power in Vekllei, but traditional avenues of *economic* growth are neutered. There is very little way for small businesses to expand, because labour is so expensive and irregular in Vekllei. A social economy means most businesses can only operate on a social scale -- and consequently employ people they know.
 * **Economic freedom**: Vekllei people can start their own businesses and acquire power and influence, but they do not live in a consumer society and so have very few options for *using* that power for material benefit. Everyone has equal access to the same goods in the same department store. They live comfortable but austere lives, and do not engage with products in the same way foreigners do.
-{{</hint>}}
+{{</note>}}
 
 It should be clear that Vekllei is not a society for all types of people, and that ambitions of wealth are just incompatible with how things work there. The absence of a consumer society is not just a turn of phrase; it means essentially the absence of consumer products as a sociological phenomenon. They do not "consume" products as foreigners do, even though they *use* them. Objects are not reified; items are understood only in physical and social values. This produces a society with striking benefits but also strict limitations.
 
@@ -153,14 +153,14 @@ Vekllei government is relentlessly meritocratic and competent; the economy is wi
 
 There are a series of cascading solutions to the necessary but tedious, uncomfortable or boring work that antagonises the kind of casual self-interest Vekllei is built upon. Despite the fact that most don't make wages, Vekllei people do not "work for free," so to speak. If a job sucks:
 
-{{<hint panel>}}
+{{<note panel>}}
 1. **It is improved**, through restructuring the work. People in Vekllei are generally given more responsibility and a stake in their work. This might be legal ownership, or the social motivators for work, like *power*, *ambition*, *legacy* or *sociality* are strengthened.
 2. **It is rewarded**, by "renting" desirable homes close to workplaces and offering "perks of the job," like event tickets, improved access to travel and lounges, increased holiday time, or even tangible trade goods that can be bartered or exchanged.
 3. **It is shared**, by making everyone pitch in and reducing its overall burden. Community is important in Vekllei, and people work together to share jobs. Outside of simple robots, there are basically no professional cleaning staff in Vekllei, and even ministers in government wash their own dishes after a meeting. Maintenance and cleaning is part of their culture.
 4. **It is automated**, by the design of systems and the use of computers and robots. Rather than multiply productivity, automation in Vekllei subsidises work, and so is used in places that would be unjustifiable overseas, like cleaning and low-skill factory work. Robots in Vekllei's world are very capable, but they can't do every job.
 5. **It is conscripted**, through [compulsory service](/corsosva/). Some work is just too essential to the wellbeing of society to be left to the fickle market. Healthcare, defence and construction are the most commonly conscripted jobs in Vekllei.
 6. **It is done without**, and the job simply does not exist. Many parts of Vekllei society are poorer or less convenient than their overseas neighbours, since outside of compulsory service the government has no way to compel people to work bad jobs. This prevents Vekllei from becoming a [consumer society](/stories/department/).
-{{</hint>}}
+{{</note>}}
 
 ### Immigration & Emigration
 

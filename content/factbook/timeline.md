@@ -23,11 +23,11 @@ aliases:
 - /timeline/
 
 description: Vekllei is an immersive visual world, written and illustrated by Hobart Phillips.
-author: Hobart Phillips
+
 ---
-{{<hint panel>}}
+{{<note panel>}}
 This timeline is a useful curated reference of Atlantic history, but is not comprehensive. It is continuously evolving with this site.
-{{</hint>}}
+{{</note>}}
 
 ## Pre-War Timeline
 <section>

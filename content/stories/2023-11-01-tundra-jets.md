@@ -23,6 +23,6 @@ reddit:
 print:
 video:
 ---
-{{<hint caption>}}
+{{<note caption>}}
 They test new fighter jets out in the flower tundra.
-{{</hint>}}
+{{</note>}}

@@ -12,7 +12,7 @@ aliases:
 - /constitution/
 
 description: The constitution of Vekllei is the founding text of the 4th Commonwealth, a fictional country in the Vekllei worldbuilding project.
-author: Hobart Phillips
+
 ---
 <style>
   h3, h4 {
@@ -25,13 +25,13 @@ author: Hobart Phillips
   }
 </style>
 
-{{<hint>}}
+{{<note>}}
 ߷ This article is **incomplete**. Be mindful that its content may change.
-{{</hint>}}
+{{</note>}}
 
-{{<hint panel>}}
+{{<note panel>}}
 The Constitution of Vekllei, also known as the Floral Constitution, was the foundational text for a new Commonwealth after British administration ended in 2015. It was developed by the [Council of Roses](/rose-council/) and ratified in August 2015.
-{{</hint>}}
+{{</note>}}
 
 ## PREAMBLE
 

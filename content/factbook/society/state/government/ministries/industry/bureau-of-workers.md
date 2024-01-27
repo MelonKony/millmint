@@ -8,9 +8,9 @@ color: cosmosec
 aliases:
 - /bureau-of-workers/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ This bureau is part of the {{<link/ministry-of-industry>}}
-{{</hint>}}
+{{</note>}}
 
 ## Workplace Safety Commission
 ## Workplace Democracy Commission

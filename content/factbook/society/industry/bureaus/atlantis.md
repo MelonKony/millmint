@@ -10,9 +10,9 @@ draft: false
 aliases:
 - /atlantis/
 ---
-{{< hint >}}
+{{<note>}}
 ߷ Part of the *[industry](/industry/)* series of articles
-{{</hint>}}
+{{</note>}}
 
 <span class="fi fi-min-atlantis fis"></span> **Atlantis Commodities International** (ACI) is a commodities merchant bureau operating in in {{<link/vekllei>}}.
 
