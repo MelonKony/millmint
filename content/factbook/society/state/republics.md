@@ -35,7 +35,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 * **Antarctic Commonwealth**
 	* {{<link/ascension>}} (*Ascension*)
 	* {{<link/falklands>}} (*Falklands*)
-	* Helena Republic (*Saint Helena*)
+	* {{<link/helena>}} (*Saint Helena*)
 	* Santes Republic (*Tristan da Cunha*)
 	* Sude Republic (*South Georgia & South Sandwich Islands*)
 
