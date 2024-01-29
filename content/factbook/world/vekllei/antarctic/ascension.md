@@ -15,7 +15,7 @@ aliases:
 ߷ Ascension is part of {{<link/vekllei>}} Antarctica
 {{</note>}}
 
-The <span class="fi fi-ac"></span> **Ascension Republic** is a [constituent republic](/republics/) in the Atlantic Ocean, and part of the commonwealth of Antarctica. Rocky, isolated and arid, Ascension is over 1,000km away from the Helena Republic, its closest neighbour.
+The <span class="fi fi-ac"></span> **Ascension Republic** is a [constituent republic](/republics/) in the Atlantic Ocean, and part of the commonwealth of Antarctica. Rocky, isolated and arid, Ascension is over 1,000km away from {{<link/helena>}}, its closest neighbour.
 
 Ascension is home to around 14,000 people, most of whom work for or are associated with the [Vekllei World Astroport](/cosmodrome/) and the [air service](/military/) base outside the capital, Adara. Its proximity to the equator and strategic centrality in the Atlantic have encouraged military development of the island republic, including air bases, telecommunications facilities, intelligence systems and satellite tracking. It is also home to a large naval dockyard, and rumoured to be part of the Vekllei air-delivered strategic nuclear arsenal.
 
