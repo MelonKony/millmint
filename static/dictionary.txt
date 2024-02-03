@@ -53,7 +53,9 @@ SESEC: The State Security Directorate.
 
 /// Industry
 
-
+S.p.A: <i>Società per azioni</i>, a private Vekllei corporation that issues shares, usually to workers.
+S.A: <i>Società Anonima</i>, a private corporation.
+S.c.L: <i>Società cooperativa a limitata</i>, a corporation in Vekllei that functions as a cooperative.
 
 /// History
 

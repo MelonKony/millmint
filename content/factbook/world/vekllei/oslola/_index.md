@@ -8,7 +8,7 @@ color: pink
 aliases:
 - /oslolan-commonwealth/
 ---
-{{<note green >}}
+{{<note>}}
 ߷ The Oslolan Commonwealth is a [constituent commonwealth](/constituents/) of the {{<link/vekllei>}}
 {{</note>}}
 

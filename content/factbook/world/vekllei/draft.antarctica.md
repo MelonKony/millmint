@@ -20,7 +20,7 @@ description: The Vekllei Antarctic Territories are an administrative region of t
 
 
 ---
-{{<note green >}}
+{{<note>}}
 ߷ This article is about a [**dependent territory**](/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/factbook/vekllei)
 {{</note>}}
 

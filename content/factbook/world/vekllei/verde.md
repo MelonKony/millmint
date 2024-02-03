@@ -11,7 +11,7 @@ toc: true
 aliases:
 - /verde/
 ---
-{{<note green >}}
+{{<note>}}
 ߷ Part of the *[territories](/territories/)* series of articles
 {{</note>}}
 

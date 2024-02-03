@@ -22,7 +22,7 @@ toc: true
 aliases:
 - /espionage/
 
-description: Vekllei is a utopia created by Hobart Phillips.
+
 
 ---
 

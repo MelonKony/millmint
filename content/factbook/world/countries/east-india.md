@@ -12,7 +12,7 @@ toc: true
 aliases:
 - /east-india/
 ---
-{{<note green >}}
+{{<note>}}
 ߷ Part of the *[world](/world/)* series of articles
 {{</note>}}
 

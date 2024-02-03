@@ -12,7 +12,7 @@ toc: true
 aliases:
 - /uk/
 ---
-{{<note green >}}
+{{<note>}}
 ߷ Part of the *[world](/world/)* series of articles
 {{</note>}}
 

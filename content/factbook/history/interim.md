@@ -22,7 +22,7 @@ toc: true
 aliases:
 - /interim/
 
-description: Vekllei is a utopia created by Hobart Phillips.
+
 
 ---
 {{<note>}}

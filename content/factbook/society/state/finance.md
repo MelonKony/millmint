@@ -22,7 +22,7 @@ toc: true
 aliases:
 - /finance/
 
-description: Vekllei is a utopia created by Hobart Phillips.
+
 
 ---
 {{<note>}}

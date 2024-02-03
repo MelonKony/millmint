@@ -22,7 +22,7 @@ toc: true
 aliases:
 - /education/
 
-description: Vekllei is a utopia created by Hobart Phillips.
+
 
 ---
 

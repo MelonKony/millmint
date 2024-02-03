@@ -11,7 +11,7 @@ draft: false
 aliases:
 - /helena/
 ---
-{{<note green >}}
+{{<note>}}
 ߷ Helena is part of {{<link/vekllei>}} Antarctica
 {{</note>}}
 

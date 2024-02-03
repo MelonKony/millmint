@@ -12,7 +12,7 @@ toc: true
 aliases:
 - /haiti/
 ---
-{{<note green >}}
+{{<note>}}
 ߷ Part of the *[world](/world/)* series of articles
 {{</note>}}
 

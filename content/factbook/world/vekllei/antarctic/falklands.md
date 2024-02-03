@@ -11,7 +11,7 @@ draft: false
 aliases:
 - /falklands/
 ---
-{{<note green >}}
+{{<note>}}
 ߷ The Falklands are part of {{<link/vekllei>}} Antarctica
 {{</note>}}
 

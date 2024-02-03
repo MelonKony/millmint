@@ -10,7 +10,7 @@ draft: false
 aliases:
 - /navy/
 
-description: Vekllei is a utopia created by Hobart Phillips.
+
 
 ---
 {{<note>}}

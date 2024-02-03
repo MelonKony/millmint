@@ -9,7 +9,7 @@ image:
 aliases:
 - /corcidi/
 
-description: Vekllei is a utopia created by Hobart Phillips.
+
 
 ---
 {{<note>}}

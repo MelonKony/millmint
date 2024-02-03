@@ -8,7 +8,7 @@ color: purple
 aliases:
 - /expeditionary/
 
-description: Vekllei is a utopia created by Hobart Phillips.
+
 
 ---
 {{<note>}}

@@ -12,7 +12,7 @@ toc: true
 aliases:
 - /denmark/
 ---
-{{<note green >}}
+{{<note>}}
 ߷ Part of the *[world](/world/)* series of articles
 {{</note>}}
 

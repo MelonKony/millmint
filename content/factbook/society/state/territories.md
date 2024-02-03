@@ -11,7 +11,7 @@ toc: true
 aliases:
 - /territories/
 
-description: Vekllei is a utopia created by Hobart Phillips.
+
 
 ---
 {{<note>}}

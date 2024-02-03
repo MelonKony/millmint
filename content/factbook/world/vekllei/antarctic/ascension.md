@@ -5,13 +5,12 @@ icon: 🐢
 logo: /svg/flags/ascension.svg
 
 rgb: 48, 106, 175
-
-draft: false
+image: /svg/maps/ascension.png
 
 aliases:
 - /ascension/
 ---
-{{<note green >}}
+{{<note>}}
 ߷ Ascension is part of {{<link/vekllei>}} Antarctica
 {{</note>}}
 

@@ -9,7 +9,7 @@ image:
 aliases:
 - /cabinet/
 
-description: Vekllei is a utopia created by Hobart Phillips.
+
 
 ---
 {{<note>}}

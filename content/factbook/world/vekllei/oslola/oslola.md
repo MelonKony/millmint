@@ -11,7 +11,7 @@ draft: false
 aliases:
 - /oslola/
 ---
-{{<note green >}}
+{{<note>}}
 ߷ Oslola is a [constituent commonwealths](/constituents/) of {{<link/vekllei>}}
 {{</note>}}
 

@@ -18,7 +18,7 @@ noindex: true
 
 toc: false
 
-description: Vekllei is a utopia created by Hobart Phillips.
+
 
 ---
 {{<note panel>}}

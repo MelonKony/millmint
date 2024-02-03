@@ -9,7 +9,7 @@ image:
 aliases:
 - /civic-commons/
 
-description: Vekllei is a utopia created by Hobart Phillips.
+
 
 ---
 {{<note>}}

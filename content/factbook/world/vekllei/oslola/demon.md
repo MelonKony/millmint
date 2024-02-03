@@ -11,7 +11,7 @@ draft: false
 aliases:
 - /demon/
 ---
-{{<note green >}}
+{{<note>}}
 ߷ Demon is part of {{<link/vekllei>}} Oslola
 {{</note>}}
 

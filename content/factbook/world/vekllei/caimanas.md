@@ -11,7 +11,7 @@ draft: false
 aliases:
 - /caimanas/
 ---
-{{<note green >}}
+{{<note>}}
 ߷ Part of the *[territories](/territories/)* series of articles
 {{</note>}}
 

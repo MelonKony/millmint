@@ -8,7 +8,7 @@ color: pink
 aliases:
 - /bahamas/
 ---
-{{<note green >}}
+{{<note>}}
 ߷ The Antarctic Commonwealth is a [constituent commonwealth](/constituents/) of the {{<link/vekllei>}}
 {{</note>}}
 

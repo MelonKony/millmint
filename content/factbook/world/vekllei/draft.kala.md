@@ -16,7 +16,7 @@ description: The Kala Commonwealth is an administrative region of the Commonweal
 
 
 ---
-{{<note green >}}
+{{<note>}}
 ߷ This article is about an [**overseas member**](/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/factbook/vekllei)
 {{</note>}}
 

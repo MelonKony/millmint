@@ -11,7 +11,7 @@ draft: true
 aliases:
 - /bahamas/
 ---
-{{<note green >}}
+{{<note>}}
 ߷ Part of the *[territories](/territories/)* series of articles
 {{</note>}}
 
