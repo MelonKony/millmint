@@ -96,9 +96,9 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * Vekllei Mars Community
 
 * **Antarctic Commonwealth**
-  * Ascension Republic (*Ascension*)
-  * Falklands Republic (*Falklands*)
-  * Helena Republic (*Saint Helena*)
+  * {{<link/ascension>}} (*Ascension*)
+  * {{<link/falklands>}} (*Falklands*)
+  * {{<link/helena>}} (*Saint Helena*)
   * Santes Republic (*Tristan da Cunha*)
   * Sude Republic (*South Georgia & South Sandwich Islands*)
 
@@ -141,7 +141,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * Yuma Republic (*Long Island*)
 
 * **Kalina Commonwealth**
-  * Allia Republic (*Montserrat*)
+  * {{<link/allia>}} (*Montserrat*)
   * Aloi Republic (*St Eustatius*)
   * Anguis Republic (*Anguilla*)
   * Antam Republic (*Antigua*)

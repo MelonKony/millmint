@@ -78,7 +78,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* Yuma Republic (*Long Island*)
 
 * **Kalina Commonwealth**
-	* Allia Republic (*Montserrat*)
+	* {{<link/allia>}} (*Montserrat*)
 	* Aloi Republic (*St Eustatius*)
 	* Anguis Republic (*Anguilla*)
 	* Antam Republic (*Antigua*)
