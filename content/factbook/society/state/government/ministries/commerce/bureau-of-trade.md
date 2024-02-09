@@ -20,11 +20,11 @@ The <span class="fi fi-min-commerce fis"></span> **Bureau of Trade** regulates c
 
 * **Director**, {{<link/bureau-of-trade>}}
 	* Secretary for Trade
-		* Undersecretary for Internal Markets
-		* Undersecretary for Tourism
+		* Officer for Internal Markets
+		* Officer for Tourism
 	* Secretary of Market Analysis
-		* Undersecretary for Market Intelligence
-		* Undersecretary for Foreign Affairs
+		* Officer for Market Intelligence
+		* Officer for Foreign Affairs
 * **Assistant Secretary**, {{<link/treasury>}}
 * **Assistant Secretary**, {{<link/bureau-of-securities>}}
 * **Executive**, {{<link/commsec>}}

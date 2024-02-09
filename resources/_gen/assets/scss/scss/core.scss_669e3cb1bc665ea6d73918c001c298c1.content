@@ -3119,6 +3119,9 @@ ol.timeline .event {
 .fi-min-starlines.fis {
   background-image: url(../svg/logos/starlines.svg); }
 
+.fi-min-nch.fis {
+  background-image: url(../svg/logos/nch.svg); }
+
 .fib {
   background-size: contain;
   background-position: 50%;

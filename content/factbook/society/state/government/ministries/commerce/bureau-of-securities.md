@@ -23,7 +23,7 @@ Since Vekllei citizens do not usually participate in the domestic securities mar
 * **Director**, {{<link/bureau-of-securities>}}
 	* Secretary for Prosecution
 	* Secretary for Investments
-		* Undersecretary for Public Investments
+		* Officer for Public Investments
 	* Secretary for Risk & Analysis
 * **Director**, {{<link/commsec>}}
 * **Assistant Secretary**, {{<link/commbank>}}

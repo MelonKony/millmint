@@ -27,12 +27,13 @@ The Bureau of Housing may represent the public in court proceedings over ownersh
 		* Secretary for New Living
 	* Secretary for Construction
 	* Secretary for Community & Integration
-		* Undersecretary for Migrant Housing
-		* Undersecretary for Development
-		* Undersecretary for Neighbourhoods
-		* Undersecretary for Accessibility
+		* Officer for Migrant Housing
+		* Officer for Development
+		* Officer for Neighbourhoods
+		* Officer for Accessibility
 	* Secretary for the Built Environment
 * **Deputy Minister**, {{<link/ministry-of-the-commons>}}
+* **Assistant Director**, {{<link/bureau-of-public-works>}}
 * **Chairman**, {{<link/housing-commission>}}
 * **Advocate**, Commonwealth Institute for Municipalism
 {{</note>}}
@@ -43,8 +44,7 @@ The Bureau of Housing may represent the public in court proceedings over ownersh
 	* Office of Architecture & Design
 	* Office of Landscapes
 	* Office of New Living
-* **Department of Construction**: Organising department for construction of housing, often through the [ACH](/ach/).
-	* Office of Labour
+* **Department of Housing Construction**: Organising department for construction of housing, usually through the {{<link/nch>}}.
 * **Department of Community**: Social planning and culture, particularly regarding how they impact community.
 	* Office of Migrant Housing
 	* Office of Development

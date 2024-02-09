@@ -25,8 +25,8 @@ The Treasury is lead by the State Secretary for the Treasury, a member of the [c
 * **State Secretary**, {{<link/treasury>}}
 * **Treasurer**, {{<link/treasury>}}
 	* Permanent Secretary
-	* Undersecretary for Commonwealth Economics
-	* Undersecretary for Foreign Affairs
+	* Officer for Commonwealth Economics
+	* Officer for Foreign Affairs
 	* Chief Analyst
 * Permanent Secretary, {{<link/bureau-of-securities>}}
 * Permanent Secretary, {{<link/bureau-of-trade>}}

@@ -2,7 +2,7 @@
 title: Vekllei
 fulltitle: Commonwealth of Vekllei
 icon: 🌹
-logo: /svg/flags/4x3/com.svg
+logo: /svg/flags/commonwealth.svg
 color: pink
 
 image: https://images.millmint.net/fullres/airship.jpg
