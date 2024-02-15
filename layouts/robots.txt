@@ -3,3 +3,9 @@ Disallow: /tags/
 Disallow: /categories/
 
 Sitemap: https://www.millmint.net/sitemap.xml
+
+# Disallowed bots
+
+# ChatGPT Bot:
+User-Agent: GPTBot
+Disallow: /

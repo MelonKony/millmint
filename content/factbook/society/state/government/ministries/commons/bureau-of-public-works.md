@@ -23,6 +23,7 @@ The bureau also owns the {{<link/nch>}} (NCH), the largest construction firm in 
 
 * **Director**, {{<link/bureau-of-public-works>}}
 	* Secretary for National Projects
+	* Secretary for Municipal Works
 	* Secretary for Trades & Labour
 		* Officer for Automatic Construction
 * **Assistant Minister**, {{<link/ministry-of-the-commons>}}

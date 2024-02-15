@@ -15,7 +15,7 @@ rgb: 232, 13, 64
 url: /stories/construction/
 toc: false
 
-image: /images/fullres/nch.jpg
+image: https://images.millmint.net/fullres/nch.jpg
 ---
 {{<note caption>}}
 The NCH Automatic Truck.
