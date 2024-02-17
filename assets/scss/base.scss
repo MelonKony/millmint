@@ -238,6 +238,10 @@ h6 {
 @media screen and (min-width: $sm_min_width) {
   main {
     width: $sm_main_width;
+    table {
+      width: 50%;
+      margin-left: 2rem;
+    }
   }
 }
 
@@ -262,24 +266,39 @@ h6 {
 @media screen and (min-width: $xxl_main_width) {
   main {
     width: $xxl_main_width;
+    table {
+      width: 100%;
+    }
   }
 }
 
 table {
-  border-collapse: collapse;
-  width: 100%;
+  @include text-sm;
+  @include my-2;
+  border: 1px solid var(--highlight);
+  //border-collapse: collapse;
+
+  th {
+    @include font-bold;
+    text-align: center;
+  }
 
   tr {
     border: none;
   }
-}
 
-td, th {
-  border: 1px solid var(--gray-med);
-  text-align: left;
-  padding: 8px;
-}
+  td {
+    text-align: left;
+    vertical-align: top;
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+  }
 
-tr:nth-child(even) {
-  background-color: var(--gray-light);
+  .constituent {
+    @include highlight-background;
+  }
+
+  img {
+    @include my-0;
+  }
 }

@@ -5,7 +5,6 @@ icon: 🐢
 logo: /svg/flags/ascension.svg
 
 rgb: 48, 106, 175
-image: /svg/maps/ascension.png
 
 aliases:
 - /ascension/
@@ -13,6 +12,18 @@ aliases:
 {{<note>}}
 ߷ Ascension is part of {{<link/vekllei>}} Antarctica
 {{</note>}}
+
+{{<infobox/republic
+	 Name="Ascension Republic"
+	 Flag="/svg/flags/ascension.svg"
+	 SmallFlag="/svg/flags/4x3/ac.svg"
+	 Map="/svg/maps/ascension.png"
+	 Population="14,232"
+	 Capital="Adara"
+	 Languages="English"
+	 Area="88 km2"
+	 Accession="1836, as part of the British Atlantic Territories"
+ >}}
 
 The <span class="fi fi-ac"></span> **Ascension Republic** is a [constituent republic](/republics/) in the Atlantic Ocean, and part of the commonwealth of Antarctica. Rocky, isolated and arid, Ascension is over 1,000km away from {{<link/helena>}}, its closest neighbour.
 

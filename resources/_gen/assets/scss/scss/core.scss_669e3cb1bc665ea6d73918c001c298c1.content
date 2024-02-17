@@ -815,7 +815,10 @@ h6 {
 
 @media screen and (min-width: 35rem) {
   main {
-    width: 90%; } }
+    width: 90%; }
+    main table {
+      width: 50%;
+      margin-left: 2rem; } }
 
 @media screen and (min-width: 45rem) {
   main {
@@ -831,21 +834,33 @@ h6 {
 
 @media screen and (min-width: 30%) {
   main {
-    width: 30%; } }
+    width: 30%; }
+    main table {
+      width: 100%; } }
 
 table {
-  border-collapse: collapse;
-  width: 100%; }
+  font-size: 0.875rem;
+  /* 14px */
+  line-height: 1.25rem;
+  /* 20px */
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+  border: 1px solid var(--highlight); }
+  table th {
+    font-weight: 700;
+    text-align: center; }
   table tr {
     border: none; }
-
-td, th {
-  border: 1px solid var(--gray-med);
-  text-align: left;
-  padding: 8px; }
-
-tr:nth-child(even) {
-  background-color: var(--gray-light); }
+  table td {
+    text-align: left;
+    vertical-align: top;
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem; }
+  table .constituent {
+    background-color: var(--highlight-background); }
+  table img {
+    margin-top: 0;
+    margin-bottom: 0; }
 
 article {
   line-height: 1.7; }

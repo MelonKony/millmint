@@ -9,3 +9,7 @@ Sitemap: https://www.millmint.net/sitemap.xml
 # ChatGPT Bot:
 User-Agent: GPTBot
 Disallow: /
+
+# Google Bard/Gemini:
+User-Agent: Google-Extended
+Disallow: /

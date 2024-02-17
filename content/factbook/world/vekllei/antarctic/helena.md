@@ -15,6 +15,17 @@ aliases:
 ߷ Helena is part of {{<link/vekllei>}} Antarctica
 {{</note>}}
 
+{{<infobox/republic
+	 Name="Helena Republic"
+	 Flag="/svg/flags/helena.svg"
+	 SmallFlag="/svg/flags/4x3/sh.svg"
+	 Population="19,844"
+	 Capital="Plover"
+	 Languages="English"
+	 Area="121.8 km2"
+	 Accession="1836, as part of the British Atlantic Territories"
+ >}}
+
 The <span class="fi fi-sh"></span> **Helena Republic** is a [constituent republic](/republics/) in the Atlantic Ocean, and part of the commonwealth of Antarctica. Of volcanic origin but with volcanic activity now extinct, Helena is home to around 20,000 people, most of whom live in the capital Plover. Its closest neighbour is the {{<link/vekllei>}} republic of {{<link/ascension>}}.
 
 Helena is dominated by steep, conspicuous terrain with dramatic volcanic features. It has a pleasant, temperate climate cooled by the South Atlantic trade winds, that range 15-30°C across seasons. Its flora has evolved for millions of years in isolation, and has extraordinary biodiversity across its unique species. Human settlement is concentrated in the highlands and in narrow valleys on its coast.

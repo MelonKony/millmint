@@ -1,0 +1,59 @@
+<table style="float: right; border-radius: .25rem; padding: .25rem;">
+	<tr>
+		<th colspan="2"><span class="fi" style="background-image: url({{.Get "SmallFlag"}});"></span> {{.Get "Name"}}</th>
+	</tr>
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/republics/">Constituent Republic</a> of <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+	</tr>
+
+	{{ if (.Get "Flag") }}
+	<tr>
+		<td colspan="2">
+			<img src="{{.Get "Flag"}}">
+		</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Map") }}
+	<tr>
+		<td colspan="2">
+			<img src="{{.Get "Map"}}">
+		</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Population") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Population</th>
+		<td>{{.Get "Population"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Capital") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Capital</th>
+		<td>{{.Get "Capital"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Languages") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Languages</th>
+		<td>{{.Get "Languages"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Area") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Area</th>
+		<td>{{.Get "Area"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Accession") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Vekllei Accession</th>
+		<td>{{.Get "Accession"}}</td>
+	</tr>
+	{{ end }}
+</table>

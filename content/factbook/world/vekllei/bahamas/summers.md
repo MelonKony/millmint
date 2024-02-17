@@ -6,7 +6,7 @@ logo: /svg/flags/summers.svg
 
 rgb: 69, 81, 202
 
-draft: false
+draft: true
 
 aliases:
 - /summers/
@@ -14,5 +14,16 @@ aliases:
 {{<note>}}
 ߷ Part of the *[territories](/territories/)* series of articles
 {{</note>}}
+
+{{<infobox/republic
+	 Name="Summers Republic"
+	 Flag="/svg/flags/summers.svg"
+	 SmallFlag="/svg/flags/4x3/summers.svg"
+	 Population="13,947"
+	 Capital="Aran"
+	 Languages="English"
+	 Area="377 km2"
+	 Accession="1836, as part of the British Atlantic Territories"
+ >}}
 
 The <span class="fi fi-summers"></span> **Republic of Summers** is an constituent republic in the western North Atlantic, and part of the country of {{<link/vekllei>}}. It is an island city state consisting of an archipelago of 7 main islands and about 170 charted islets and rocks, situated about 1,000km off the east coast of the United States and about 3,120km southwest of the Vekllei capital in Comet.
