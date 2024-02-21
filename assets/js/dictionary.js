@@ -1,24 +1,33 @@
 /* DICTIONARY.JS // @author: Jip Frijlink // Dictionary script for millmint.net */
 
-document.addEventListener("touchstart", function() {}, true);
+document.addEventListener("touchstart", function () {}, true);
 
 let dictionary = {};
 
 function addDictionaryTooltips() {
-	document.querySelectorAll("p, .content li:not(.card), blockquote").forEach((el) => {
-		if(el.closest('.page-meta') || el.closest('#notice')) return
-		for (const phrase of Object.keys(dictionary)) {
-			const m = new RegExp(`(?=^|\\s+|\\(|>|‘|“|"|\\b)(${phrase}(?!">))(?=\\s+|$|\\)|<|,|\\.|"|”|’)`, "gi"); // Don't ask please
-
-			if (el.innerHTML.match(m)) {
-				el.innerHTML = el.innerHTML.replace(
-					m,
-					`<span class="dfn">$1${tooltip(phrase, dictionary[phrase])}</span>`
+	document
+		.querySelectorAll("p, .content li:not(.card), blockquote")
+		.forEach((el) => {
+			if (el.closest(".page-meta") || el.closest("#notice")) return;
+			for (const phrase of Object.keys(dictionary)) {
+				const regexSafePhrase = phrase.replace(
+					/[-\/\\^$*+?.()|[\]{}]/g,
+					"\\$&"
 				);
-			}
-		}
+				console.log(regexSafePhrase);
+				const m = new RegExp(
+					`(?=^|\\s+|\\(|>|‘|“|"|\\b)(${regexSafePhrase}(?!">))(?=\\s+|$|\\)|<|,|\\.|"|”|’)`,
+					"gi"
+				); // Don't ask please
 
-	});
+				if (el.innerHTML.match(m)) {
+					el.innerHTML = el.innerHTML.replace(
+						m,
+						`<span class="dfn">$1${tooltip(phrase, dictionary[phrase])}</span>`
+					);
+				}
+			}
+		});
 }
 
 function tooltip(title, text) {
@@ -36,7 +45,7 @@ async function initDictionary() {
 
 	for (const entry of dictArr) {
 		const [phrases, definition] = entry.split(":").map((v) => v.trim());
-		for(const phrase of phrases.split(", ").map(t => t.trim())) {
+		for (const phrase of phrases.split(", ").map((t) => t.trim())) {
 			dictionary[phrase] = definition;
 		}
 	}
