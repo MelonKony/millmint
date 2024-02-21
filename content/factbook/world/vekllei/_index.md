@@ -5,8 +5,6 @@ icon: 🌹
 logo: /svg/flags/commonwealth.svg
 color: pink
 
-image: https://images.millmint.net/fullres/airship.jpg
-
 type: blank
 
 comments: false
@@ -18,7 +16,15 @@ toc: true
 aliases:
 - /vekllei/
 ---
-## Overview
+{{<infobox/country
+   Name="Vekllei Commonwealth"
+   Type="Vekllei"
+   Flag="/svg/flags/commonwealth.svg"
+   SmallFlag="/svg/flags/4x3/com.svg"
+   Population="24,371,300"
+   Capital="Comet"
+   Area="2,386,688 km2"
+ >}}
 
 <span class="fi fi-com"></span> **Vekllei** is best conceptualised as a union of islands across the Atlantic Ocean. It is a commonwealth,[^commonwealth] the fourth in a series, and consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of Oslola, of 8 million. Together, they amount to a single superstate that spans the entirety of the Atlantic as a great power.
 

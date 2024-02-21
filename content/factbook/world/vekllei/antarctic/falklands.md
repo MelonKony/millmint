@@ -15,8 +15,9 @@ aliases:
 ߷ The Falklands are part of {{<link/vekllei>}} Antarctica
 {{</note>}}
 
-{{<infobox/republic
+{{<infobox/country
 	 Name="Falklands Republic"
+	 Type="Republic"
 	 Flag="/svg/flags/falklands.svg"
 	 SmallFlag="/svg/flags/4x3/fk.svg"
 	 Population="8,682"

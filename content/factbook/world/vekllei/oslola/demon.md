@@ -15,8 +15,9 @@ aliases:
 ߷ Demon is part of {{<link/vekllei>}} Oslola
 {{</note>}}
 
-{{<infobox/republic
+{{<infobox/country
 	 Name="Demon Republic"
+	 Type="Republic"
 	 Flag="/svg/flags/demon.svg"
 	 SmallFlag="/svg/flags/4x3/demon.svg"
 	 Population="13,947"

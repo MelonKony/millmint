@@ -95,7 +95,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* Ouanalao Republic (*Saint Barthelemy*)
 	* Saba Republic (*Saba*)
 	* Soualiga Republic (*Saint Martin/Sint Maartin*)
-	* Virgin Republic (*British/U.S. Virgin Islands*)
+	* {{<link/virgin>}} (*British/U.S. Virgin Islands*)
 	* Youloumain Republic (*Saint Vincent & The Grenadines*)
 
 * **Oslolan Commonwealth**

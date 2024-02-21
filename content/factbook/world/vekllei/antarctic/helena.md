@@ -15,8 +15,9 @@ aliases:
 ߷ Helena is part of {{<link/vekllei>}} Antarctica
 {{</note>}}
 
-{{<infobox/republic
+{{<infobox/country
 	 Name="Helena Republic"
+	 Type="Republic"
 	 Flag="/svg/flags/helena.svg"
 	 SmallFlag="/svg/flags/4x3/sh.svg"
 	 Population="19,844"

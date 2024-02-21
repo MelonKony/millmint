@@ -2,9 +2,18 @@
 	<tr>
 		<th colspan="2"><span class="fi" style="background-image: url({{.Get "SmallFlag"}});"></span> {{.Get "Name"}}</th>
 	</tr>
+
+	{{ if eq (.Get "Type") "Republic" }}
 	<tr>
 		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/republics/">Constituent Republic</a> of <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
 	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Type") "Vekllei" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Sovereign Commonwealth</a> of <a href="/republics/">Atlantic Communities</a></td>
+	</tr>
+	{{ end }}
 
 	{{ if (.Get "Flag") }}
 	<tr>

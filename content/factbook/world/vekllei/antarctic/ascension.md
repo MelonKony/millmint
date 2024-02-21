@@ -13,8 +13,9 @@ aliases:
 ߷ Ascension is part of {{<link/vekllei>}} Antarctica
 {{</note>}}
 
-{{<infobox/republic
+{{<infobox/country
 	 Name="Ascension Republic"
+	 Type="Republic"
 	 Flag="/svg/flags/ascension.svg"
 	 SmallFlag="/svg/flags/4x3/ac.svg"
 	 Map="/svg/maps/ascension.png"

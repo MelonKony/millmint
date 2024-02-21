@@ -15,14 +15,15 @@ aliases:
 ߷ Part of the *[territories](/territories/)* series of articles
 {{</note>}}
 
-{{<infobox/republic
+{{<infobox/country
 	 Name="Summers Republic"
+	 Type="Republic"
 	 Flag="/svg/flags/summers.svg"
 	 SmallFlag="/svg/flags/4x3/summers.svg"
 	 Population="13,947"
 	 Capital="Aran"
 	 Languages="English"
-	 Area="377 km2"
+	 Area="53.2 km2"
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 
