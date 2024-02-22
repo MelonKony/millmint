@@ -2,7 +2,7 @@
 title: Helena Republic
 fulltitle: Helena Republic
 icon: 🐦‍⬛
-logo: /svg/flags/helena.svg
+logo: /svg/flags/1x1/sh.svg
 
 rgb: 24, 117, 71
 

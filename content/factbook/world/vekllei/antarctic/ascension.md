@@ -2,7 +2,7 @@
 title: Ascension Republic
 fulltitle: Ascension Republic
 icon: 🐢
-logo: /svg/flags/ascension.svg
+logo: /svg/flags/1x1/ac.svg
 
 rgb: 48, 106, 175
 

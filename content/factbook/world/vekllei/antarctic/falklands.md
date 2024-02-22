@@ -2,7 +2,7 @@
 title: Falklands Republic
 fulltitle: Falklands Republic
 icon: 🦀
-logo: /svg/flags/falklands.svg
+logo: /svg/flags/1x1/fk.svg
 
 rgb: 60, 122, 184
 
