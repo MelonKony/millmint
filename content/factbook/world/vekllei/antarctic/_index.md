@@ -24,7 +24,7 @@ aliases:
    Area="16,493 km2"
  >}}
 
-The <span class="fi fi-antarctic"></span> Commonwealth Antarctica (*Vekllei Antarctica*) is a [constituent commonwealth](/constituents/) of {{<link/vekllei>}}, comprising largely isolated and scattered island [republics](/republics/) in the south Atlantic and Antarctic oceans. It is the least-populated and least-developed of the regional commonwealths, and its republics are dependent on small trades, fishing, and Vekllei Commonwealth institutions like the military and civil service.
+<span class="fi fi-antarctic"></span> Commonwealth Antarctica (*Vekllei Antarctica*) is a [constituent commonwealth](/constituents/) of {{<link/vekllei>}}, comprising largely isolated and scattered island [republics](/republics/) in the south Atlantic and Antarctic oceans. It is the least-populated and least-developed of the regional commonwealths, and its republics are dependent on small trades, fishing, and Vekllei Commonwealth institutions like the military and civil service.
 
 Commonwealth Antarctica extends from the Santes and Sude Republics in the Antarctic Ocean to {{<link/ascension>}} just below the equator. Compared to other commonwealths, it has vast internal distances between sparse and isolated island republics. It includes desert and temperate islands like {{<link/ascension>}} and {{<link/helena>}}, as well as barren and wind-worn rocks in the Antarctic.
 
