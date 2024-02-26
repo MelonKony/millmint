@@ -32,7 +32,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* Vekllei Lunar Territories
 	* Vekllei Mars Community
 
-* **Antarctic Commonwealth**
+* **{{<link/antarctica>}}**
 	* {{<link/ascension>}} (*Ascension*)
 	* {{<link/falklands>}} (*Falklands*)
 	* {{<link/helena>}} (*Saint Helena*)

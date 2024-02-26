@@ -5,7 +5,13 @@
 
 	{{ if eq (.Get "Type") "Republic" }}
 	<tr>
-		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/republics/">Constituent Republic</a> of <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/republics/">Constituent Republic</a> of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Type") "Commonwealth" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/constituents/">Regional Commonwealth</a> of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
 	</tr>
 	{{ end }}
 
@@ -31,10 +37,9 @@
 	</tr>
 	{{ end }}
 
-	{{ if (.Get "Population") }}
+	{{ if eq (.Get "Commonwealth") "Antarctica" }}
 	<tr>
-		<td style="font-weight: 500; width: 50%;">Population</th>
-		<td>{{.Get "Population"}}</td>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of <a style="color: var(--color-blue)" href="/antarctic/"><span class="fi fi-antarctic"></span> Commonwealth Antarctica</a></td>
 	</tr>
 	{{ end }}
 
@@ -42,6 +47,13 @@
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Capital</th>
 		<td>{{.Get "Capital"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Population") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Population</th>
+		<td>{{.Get "Population"}}</td>
 	</tr>
 	{{ end }}
 

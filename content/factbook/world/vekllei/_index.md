@@ -2,8 +2,8 @@
 title: Vekllei
 fulltitle: Commonwealth of Vekllei
 icon: 🌹
-logo: /svg/flags/commonwealth.svg
-color: pink
+logo: /svg/flags/4x3/com.svg
+color: vekllei
 
 type: blank
 
@@ -101,7 +101,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * Vekllei Lunar Territories
   * Vekllei Mars Community
 
-* **Antarctic Commonwealth**
+* **{{<link/antarctica>}}**
   * {{<link/ascension>}} (*Ascension*)
   * {{<link/falklands>}} (*Falklands*)
   * {{<link/helena>}} (*Saint Helena*)
@@ -142,7 +142,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * Mayaguana Republic (*Mayaguana*)
   * Nema Republic (*New Providence*)
   * Rum Republic (*San Salvador & Rum Cay*)
-  * Summers Republic (*Bermuda*)
+  * {{<link/summers>}} (*Bermuda*)
   * Yabaque Republic (*Acklins*)
   * Yuma Republic (*Long Island*)
 
@@ -164,12 +164,12 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * Ouanalao Republic (*Saint Barthelemy*)
   * Saba Republic (*Saba*)
   * Soualiga Republic (*Saint Martin/Sint Maartin*)
-  * Virgin Republic (*British/U.S. Virgin Islands*)
+  * {{<link/virgin>}} (*British/U.S. Virgin Islands*)
   * Youloumain Republic (*Saint Vincent & The Grenadines*)
 
 * **Oslolan Commonwealth**
   * Aismious Republic (*Faroe*)
-  * Demon Republic (*Jan Mayen*)
+  * {{<link/demon>}} (*Jan Mayen*)
   * Oslolan Republic (*Iceland*)
 
 * **Verde Commonwealth**
@@ -191,7 +191,7 @@ The Commonwealth spans the length and width of the Atlantic and Caribbean oceans
 
 These islands are diverse in both size and geography, and range from barren subarctic rocks to flourishing Caribbean archipelagoes.
 
-![Map of the Vekllei Caribbean](/svg/maps/caribbean.svg "Map of the Vekllei Caribbean, consisting of the Kalina and Antilles Commonwealths and their constituent republics.")
+![Map of the Vekllei Antilles](/svg/maps/caribbean.svg "Map of the Vekllei Antilles, consisting of the Kalina and Antilles Commonwealths and their constituent republics.")
 
 
 A major motivator of membership in the Commonwealth is its trade influence and wealth, since [constituents](/constituents/) and [territories](/territories/) are entitled to the same standards of living as its major industrial territories. The most recent member is Cabo Verde, acceding in 2038 after two decades of membership in the [<span class="fi fi-oceans"></span> Council of Oceans](/oceans-council/).
@@ -241,7 +241,7 @@ Employment in Vekllei has many unique features, not least of which is its functi
 
 ![Image of Tzipora and strangers waiting for a tram on a misty day](/images/fullres/tram.jpg "Life is not that different, but is improved in ordinary and meaningful ways. People still go to school and work, as depicted here | *[Anarchist Trams](/stories/trams/)*")
 
-This work environment ranks highly for competitiveness but lowly for economic freedom, as the structure of the commons inhibits scaling businesses beyond social dimensions. Private business ownership is most common in small communities with strong social bonds, particularly in rural or agricultural areas.
+This work environment ranks highly for [productivity](/bulletin/productivity/) but lowly for economic freedom, as the structure of the commons inhibits scaling businesses beyond social dimensions. Private business ownership is most common in small communities with strong social bonds, particularly in rural or agricultural areas.
 
 Vekllei people generally have aspirations of power rather than wealth, and work towards that goal in the absence of a wage. Other reasons for work include its strong social dimensions and relaxed ethic, which are facilitated by a professional but gentle work culture that retains short working days and frequent tea breaks.
 
@@ -285,7 +285,7 @@ Major industries in Vekllei leverage the creative productivity of its enthusiast
 #### Property
 
 {{<note link>}}
-❀ Read more: <span class="smallicon">🏡</span> *[Housing in Vekllei](/housing/)*
+❀ Read more: <span class="smallicon">🏡</span> *[Property in Vekllei](/housing/)*
 {{</note>}}
 
 The right to property is protected by the [Vekllei Constitution](/constitution/), and important in North Vekllei culture. Home ownership is a foundation of [Atlantic Municipalism](/municipalities/), and is determined by stewardship of land.

@@ -2,7 +2,7 @@
 title: Falklands Republic
 fulltitle: Falklands Republic
 icon: 🦀
-logo: /svg/flags/1x1/fk.svg
+logo: /svg/flags/4x3/fk.svg
 
 rgb: 60, 122, 184
 
@@ -12,12 +12,13 @@ aliases:
 - /falklands/
 ---
 {{<note>}}
-߷ The Falklands are part of {{<link/vekllei>}} Antarctica
+߷ The Falklands are part of {{<link/antarctica>}}
 {{</note>}}
 
 {{<infobox/country
 	 Name="Falklands Republic"
 	 Type="Republic"
+	 Commonwealth="Antarctica"
 	 Flag="/svg/flags/falklands.svg"
 	 SmallFlag="/svg/flags/4x3/fk.svg"
 	 Population="8,682"

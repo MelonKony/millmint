@@ -2,7 +2,7 @@
 title: Helena Republic
 fulltitle: Helena Republic
 icon: 🐦‍⬛
-logo: /svg/flags/1x1/sh.svg
+logo: /svg/flags/4x3/sh.svg
 
 rgb: 24, 117, 71
 
@@ -12,12 +12,13 @@ aliases:
 - /helena/
 ---
 {{<note>}}
-߷ Helena is part of {{<link/vekllei>}} Antarctica
+߷ Helena is part of {{<link/antarctica>}}
 {{</note>}}
 
 {{<infobox/country
 	 Name="Helena Republic"
 	 Type="Republic"
+	 Commonwealth="Antarctica"
 	 Flag="/svg/flags/helena.svg"
 	 SmallFlag="/svg/flags/4x3/sh.svg"
 	 Population="19,844"

@@ -17,7 +17,7 @@ aliases:
 ߷ Part of the *[law](/law/)* series of articles
 {{</note>}}
 
-The "Century Society" Laws were a collection of laws designed to foster educated immigration in postwar Vekllei. In total, they promised citizenship to any person with a tertiary qualification fleeing a persecuting regime, or citizenship to any person with valuable expertise to contribute[^skills] towards the country. Provided the immigrant could "build their own home,"[^home] they would be incentivised with permanent citizenship for their immediate family and opportunities to participate in the postwar government.
+The "Century Society" Laws were a collection of laws designed to foster educated immigration in postwar {{<link/vekllei>}}. In total, they promised citizenship to any person with a tertiary qualification fleeing a persecuting regime, or citizenship to any person with valuable expertise to contribute[^skills] towards the country. Provided the immigrant could "build their own home,"[^home] they would be incentivised with permanent citizenship for their immediate family and opportunities to participate in the postwar government.
 
 Many "Century Citizens," as immigrants under this law became known, were politically motivated to participate in the anarchist aspects of Vekllei society or otherwise seeking a better life in an emerging country. Consequently, the Century Society programme has also been called the "Aliyah for anarchists."[^aliyah]
 

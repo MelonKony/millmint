@@ -345,6 +345,7 @@ html {
   --color-teal: #30b0c7;
   --color-yellow: #ea9365;
   --color-millmint: #de1857;
+  --color-vekllei: #3649bb;
   --color-cosmosol: #e4a00e;
   --color-cosmotran: #f3852b;
   --color-cosmocom: #e5388f;
@@ -3001,6 +3002,12 @@ ol.timeline .event {
 
 .fi-oceans.fis {
   background-image: url(../svg/flags/1x1/oceans.svg); }
+
+.fi-antarctic {
+  background-image: url(../svg/flags/4x3/antarctic.svg); }
+
+.fi-antarctic.fis {
+  background-image: url(../svg/flags/1x1/antarctic.svg); }
 
 .fi-ei {
   background-image: url(../svg/flags/4x3/ei.svg); }

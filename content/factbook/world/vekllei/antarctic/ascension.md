@@ -2,7 +2,7 @@
 title: Ascension Republic
 fulltitle: Ascension Republic
 icon: 🐢
-logo: /svg/flags/1x1/ac.svg
+logo: /svg/flags/4x3/ac.svg
 
 rgb: 48, 106, 175
 
@@ -10,12 +10,13 @@ aliases:
 - /ascension/
 ---
 {{<note>}}
-߷ Ascension is part of {{<link/vekllei>}} Antarctica
+߷ Ascension is part of {{<link/antarctica>}}
 {{</note>}}
 
 {{<infobox/country
 	 Name="Ascension Republic"
 	 Type="Republic"
+	 Commonwealth="Antarctica"
 	 Flag="/svg/flags/ascension.svg"
 	 SmallFlag="/svg/flags/4x3/ac.svg"
 	 Map="/svg/maps/ascension.png"
@@ -26,7 +27,7 @@ aliases:
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 
-The <span class="fi fi-ac"></span> **Ascension Republic** is a [constituent republic](/republics/) in the Atlantic Ocean, and part of the commonwealth of Antarctica. Rocky, isolated and arid, Ascension is over 1,000km away from {{<link/helena>}}, its closest neighbour.
+The <span class="fi fi-ac"></span> **Ascension Republic** is a [constituent republic](/republics/) in the Atlantic Ocean, and part of {{<link/antarctica>}}. Rocky, isolated and arid, Ascension is over 1,000km away from {{<link/helena>}}, its closest neighbour.
 
 Ascension is home to around 14,000 people, most of whom work for or are associated with the [Vekllei World Astroport](/cosmodrome/) and the [air service](/military/) base outside the capital, Adara. Its proximity to the equator and strategic centrality in the Atlantic have encouraged military development of the island republic, including air bases, telecommunications facilities, intelligence systems and satellite tracking. It is also home to a large naval dockyard, and rumoured to be part of the Vekllei air-delivered strategic nuclear arsenal.
 
