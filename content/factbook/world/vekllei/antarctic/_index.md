@@ -36,6 +36,6 @@ Commonwealth Antarctica occupies a strategic position in the South Atlantic, and
 * {{<link/ascension>}}
 * {{<link/falklands>}}
 * {{<link/helena>}}
-* Santes
+* {{<link/santes>}}
 * Sude
 {{</note>}}

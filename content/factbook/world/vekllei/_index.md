@@ -5,8 +5,6 @@ icon: 🌹
 logo: /svg/flags/4x3/com.svg
 color: vekllei
 
-type: blank
-
 comments: false
 
 draft: false
