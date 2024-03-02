@@ -2,40 +2,38 @@
 title: Kairi Republic
 fulltitle: Kairi Republic
 icon: 🌲
-logo: /svg/flags/1x1/vg.svg
+logo: /svg/flags/4x3/kairi.svg
 
-rgb: 241, 112, 30
-
-draft: true
+rgb: 215, 18, 45
 
 aliases:
 - /kairi/
 ---
 {{<note>}}
-߷ Virgin is part of {{<link/vekllei>}} Kalina
+߷ Kairi is part of {{<link/vekllei>}} Kalina
 {{</note>}}
 
 {{<infobox/country
 	 Name="Kairi Republic"
 	 Type="Republic"
-	 Flag="/svg/flags/virgin.svg"
-	 SmallFlag="/svg/flags/4x3/vg.svg"
-	 Population="182,295"
-	 Capital="Roadie (administrative)"
+	 Flag="/svg/flags/kairi.svg"
+	 SmallFlag="/svg/flags/4x3/kairi.svg"
+	 Population="1,480,384"
+	 Capital="Conquerabia"
 	 Languages="English, Creole, Hindustani, Spanish"
-	 Area="472.75 km2"
-	 Accession="1836, as part of the British Atlantic Territories"
+	 Area="4831 km2"
+	 Accession="1930, as part of the Alford Agreement"
  >}}
 
-The <span class="fi fi-vg"></span> **Virgin Republic** is a [constituent republic](/republics/) of the Kalina Commonwealth in the Caribbean Sea, and is part of {{<link/vekllei>}}. It is the westernmost part of the Kalina island group.
+The <span class="fi fi-kairi"></span> **Kairi Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} in the Caribbean. It is the southernmost part of the Kalina island group, and adjacent to {{<link/aloubaera>}}. At its nearest point, Kairi is 11km off the coast of Venezuela, making it the closest border Vekllei has to a continental landmass. It comprises a single large island and a few smaller ones, and enjoys a tropical climate cooled by sea breezes year-round.
 
-It comprises ten large islands in an archipelago extending eastwards of Puerto Rico (U.S.), as well as about 123 smaller islets and cays. Although these islands are situated on the fault-block mountains of the Puerto Rico trench, they are usually considered part of the Lesser Antilles due to their size and proximity of that chain. Virgin's westernmost island, Vieques, forms the second-closest sea border to another country (Puerto Rico, part of the U.S.) after Kairi.
+Kairi is home mostly to ethnic Indians and Africans, as well as Caribs who had settled the island prior to colonisation by European powers. About a third are descended from African slaves brought over to work sugar and cocoa plantations, and another third are Indian descended from indentured labourers brought over from South Asia by the British. The Indian population is the largest South Asian community in {{<link/vekllei>}}, and retain their own language, religion and customs.
 
-Before consolidation under the British Atlantic Territories, the Virgin archipelago was subject to competing colonial settlement and claims. English, Spanish, French and Danish ownership at various times contribute to the linguistic and cultural diversity within Virgin today. About three-quarters of its 182,000 people are black, descended from slaves who worked plantations in the colonial period. Substantial minority populations of Arawaks, Indians, Chinese and Europeans also exist. Protestant christianity is the majority religion.
+Kairi is the industrial heart of the Kalina island group and has substantial oil, gas, electricity, steel, aluminium, fertiliser, textiles and chemical industries. It is home to Vekllei's second fusion power plant, opened in 2024, which supplies its heavy industries and neighbouring republics with power.
 
-Virgin's climate is subtropical and pleasant, with warm weather cooled by trade winds crossing south. Individual islands are varied, often characterised by dense tropical forest that cover steep mountain interiors, and low-lying coastal plateaus that has been cleared for agriculture. Many natural harbours exist, many of which host major settlements including the capital of Roadie, and the cities of Charlotte Amalie and Christiansted.
+The capital of Conquerabia is home to the Cherry Automobile Plant, which manufactures consumer and commercial vehicles. {{<link/cateral>}}, the largest firearms manufacturer in Vekllei, is also headquartered there. The islands are well-serviced by a dense network of small trains and trams typical of the Vekllei Caribbean.
 
-Water scarcity across the islands has been historically severe, but alleviated in the 21st Century by desalination plants powered by nuclear fusion projects on the islands of St Croix and Tortola. The economy is dominated by the civil service, financial services and petrochemicals. Virgin refineries process oil from other parts of {{<link/vekllei>}} for the Caribbean region. Virgin depends heavily on imports from other parts of the country, especially for machinery and manufactured goods.
+Thanks to its relative wealth, development and ready accession with Commonwealth government, Kairi has long been an example republic of Vekllei governance and planning in the Caribbean. It is host to several international schools and missions, and contributes substantially to the overall prosperity of the Vekllei Caribbean. Kairi is the site of the original and main campus of the Commonwealth University of the West Indies, which ranks highly among national tertiary schools. It is also the administrative capital of the Kalina Commonwealth state.
 
-Virgin University is the second-largest university in Kalina, and the fourth largest in Vekllei. It is common for students from smaller Commonwealth islands to travel to Virgin for study. The republic is also popular as a domestic holiday destination thanks to its excellent climate and world-renowned beaches.
+
 

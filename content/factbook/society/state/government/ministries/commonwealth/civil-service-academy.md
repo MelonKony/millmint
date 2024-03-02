@@ -21,5 +21,5 @@ Most Vekllei nationals in Commonwealth offices are also trained at the CSA, whic
 
 * Fennel, Mira (headquarters)
 * Oslola
-* Kairi
+* {{<link/kairi>}}
 {{</note>}}

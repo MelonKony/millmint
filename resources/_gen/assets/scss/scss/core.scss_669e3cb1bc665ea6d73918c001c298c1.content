@@ -3015,6 +3015,18 @@ ol.timeline .event {
 .fi-antarctic.fis {
   background-image: url(../svg/flags/1x1/antarctic.svg); }
 
+.fi-kairi {
+  background-image: url(../svg/flags/4x3/kairi.svg); }
+
+.fi-kairi.fis {
+  background-image: url(../svg/flags/1x1/kairi.svg); }
+
+.fi-aloubaera {
+  background-image: url(../svg/flags/4x3/aloubaera.svg); }
+
+.fi-aloubaera.fis {
+  background-image: url(../svg/flags/1x1/aloubaera.svg); }
+
 .fi-ei {
   background-image: url(../svg/flags/4x3/ei.svg); }
 

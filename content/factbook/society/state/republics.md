@@ -80,6 +80,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 * **Kalina Commonwealth**
 	* {{<link/allia>}} (*Montserrat*)
 	* Aloi Republic (*St Eustatius*)
+	* {{<link/aloubaera>}} (*Tobago*)
 	* Anguis Republic (*Anguilla*)
 	* Antam Republic (*Antigua*)
 	* Barbados Republic (*Barbados*)
@@ -87,7 +88,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* Cama Republic (*Grenada*)
 	* Karu Republic (*Guadeloupe*)
 	* Kabuli Republic (*Dominica*)
-	* Kairi Republic (*Trinidad & Tobago*)
+	* {{<link/kairi>}} (*Trinidad*)
 	* Liamuiga Republic (*St Kitts*)
 	* Lucia Republic (*Saint Lucia*)
 	* Madiana Republic (*Martinique*)
@@ -95,7 +96,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* Ouanalao Republic (*Saint Barthelemy*)
 	* Saba Republic (*Saba*)
 	* Soualiga Republic (*Saint Martin/Sint Maartin*)
-	* {{<link/virgin>}} (*British/U.S. Virgin Islands*)
+	* {{<link/virgin>}} (*British/Spanish/U.S. Virgin Islands*)
 	* Youloumain Republic (*Saint Vincent & The Grenadines*)
 
 * **Oslolan Commonwealth**
