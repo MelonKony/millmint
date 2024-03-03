@@ -2,7 +2,7 @@
 title: Allia Republic
 fulltitle: Allia Republic
 icon: ☘️
-logo: /svg/flags/1x1/ms.svg
+logo: /svg/flags/4x3/ms.svg
 
 rgb: 6, 136, 72
 
@@ -10,12 +10,13 @@ aliases:
 - /allia/
 ---
 {{<note>}}
-߷ Allia is part of {{<link/vekllei>}} Kalina
+߷ Allia is part of {{<link/kalina>}}
 {{</note>}}
 
 {{<infobox/country
 	 Name="Allia Republic"
 	 Type="Republic"
+	 Commonwealth="Kalina"
 	 Flag="/svg/flags/allia.svg"
 	 SmallFlag="/svg/flags/4x3/ms.svg"
 	 Population="16,302"

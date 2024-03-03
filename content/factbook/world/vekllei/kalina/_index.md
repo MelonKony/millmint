@@ -2,7 +2,7 @@
 title: Kalina
 fulltitle: Commonwealth Kalina
 icon: 🌹
-logo:
+logo: /svg/flags/4x3/kalina.svg
 color: blue
 
 draft: false
@@ -18,8 +18,8 @@ aliases:
 {{<infobox/country
    Name="Commonwealth Kalina"
    Type="Commonwealth"
-   Flag=""
-   SmallFlag=""
+   Flag="/svg/flags/kalina.svg"
+   SmallFlag="/svg/flags/4x3/kalina.svg"
    Population=""
    Capital="Kairi (administrative), Virgin (judicial), Lucia (legislative)"
    Area=""

@@ -5,10 +5,7 @@ icon: 🌹
 logo: /svg/flags/4x3/com.svg
 color: vekllei
 
-comments: false
-
-draft: false
-
+type: blank
 toc: true
 
 aliases:
@@ -51,7 +48,7 @@ The Commonwealth of Oceans (Vekllei) was founded in 2017 after independence in 2
 ## History
 
 {{<note panel>}}
-The diversity of the Commonwealth is reflected in its history. Vekllei as we know it today may have roots in in the Oslola-Kalan Union and Kalina nationalism, but its story begins in 1995, during the First Atomic War and British Occupation of its former colonial territories for 20 years. That occupation, and the complete restructuring of Atlantic society beneath it, lay the foundations for a new and pluralistic union of republics called Vekllei.
+The diversity of the Commonwealth is reflected in its history. Vekllei as we know it today may have roots in in the Oslola-Kalan Union and Kalina nationalism, but its story begins in 1995, during the First Atomic War and British occupation of its former colonial territories for 20 years. That occupation, and the complete restructuring of Atlantic society beneath it, lay the foundations for a new and pluralistic union of republics called Vekllei.
 {{</note>}}
 
 {{<note link>}}
@@ -78,7 +75,7 @@ Vekllei contains a lot of ideas colliding with each other, which break into frag
 
 The Commonwealth is foremostly a union of Atlantic and Caribbean islands which, freed from colonial rule, have established a federal system to share common burdens and improve the lives of their oceangoing peoples.
 
-Vekllei is a constitutional, federated country including [six individual commonwealths](/constituents/) which share political features established by the [Council of Roses](/rose-council/).
+Vekllei is a constitutional, federated country including [eight individual commonwealths](/constituents/) which share political features established by the [Council of Roses](/rose-council/).
 
 It has a unique kind of federalism, with republics and territories orbiting central Commonwealth control at different distances. A common means of petitioning membership, or "acceding" to the Commonwealth is via its international organisation called the {{<link/oceans-community>}}.
 
@@ -92,7 +89,20 @@ Although regionally and culturally diverse, Commonwealth government is centralis
 ✿ Main article: *[Vekllei World Map](/map/)*
 {{</note>}}
 
-{{< details title="List of Vekllei Republics" open=true >}}
+{{<note panel>}}
+**Constituent Commonwealths of Vekllei**
+
+* {{<link/antarctica>}}
+* Commonwealth Antilles
+* Commonwealth Arctic
+* Commonwealth Atlantic
+* Commonwealth Oslola
+* {{<link/kalina>}}
+* Commonwealth Bahamas
+* Commonwealth Verde
+{{</note>}}
+
+{{< details title="List of Vekllei Republics" open=false >}}
 * **Federal Territories**
   * Meteor Federal Territory
   * Vekllei Antarctic Territories
@@ -103,7 +113,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * {{<link/ascension>}} (*Ascension*)
   * {{<link/falklands>}} (*Falklands*)
   * {{<link/helena>}} (*Saint Helena*)
-  * Santes Republic (*Tristan da Cunha*)
+  * {{<link/santes>}} (*Tristan da Cunha*)
   * Sude Republic (*South Georgia & South Sandwich Islands*)
 
 * **Antilles Commonwealth**
@@ -144,9 +154,10 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * Yabaque Republic (*Acklins*)
   * Yuma Republic (*Long Island*)
 
-* **Kalina Commonwealth**
+* **{{<link/kalina>}}**
   * {{<link/allia>}} (*Montserrat*)
   * Aloi Republic (*St Eustatius*)
+  * {{<link/aloubaera>}} (*Tobago*)
   * Anguis Republic (*Anguilla*)
   * Antam Republic (*Antigua*)
   * Barbados Republic (*Barbados*)
@@ -154,7 +165,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * Cama Republic (*Grenada*)
   * Karu Republic (*Guadeloupe*)
   * Kabuli Republic (*Dominica*)
-  * Kairi Republic (*Trinidad & Tobago*)
+  * {{<link/kairi>}} (*Trinidad*)
   * Liamuiga Republic (*St Kitts*)
   * Lucia Republic (*Saint Lucia*)
   * Madiana Republic (*Martinique*)
@@ -162,7 +173,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * Ouanalao Republic (*Saint Barthelemy*)
   * Saba Republic (*Saba*)
   * Soualiga Republic (*Saint Martin/Sint Maartin*)
-  * {{<link/virgin>}} (*British/U.S. Virgin Islands*)
+  * {{<link/virgin>}} (*British/Spanish/U.S. Virgin Islands*)
   * Youloumain Republic (*Saint Vincent & The Grenadines*)
 
 * **Oslolan Commonwealth**

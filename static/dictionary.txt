@@ -2,9 +2,6 @@
 
 /// Geography
 
-Kalina: The Kalina Isles is a federated state of republics in the Antilles, and is a part of Vekllei.
-Oslola, Oslolan, Oslolans: Oslola (<i>née Iceland</i>) is an island Commonwealth situated in the North Atlantic, and a part of Vekllei.
-
 //// Territories
 Helvasia: Helvasia (<i>née Svalbard</i>) is an island municipality situated in the Arctic Ocean, and is part of Vekllei.
 Sude: Sude (<i>née South Georgia and South Sandwich Islands</i>) is an island chain municipality situated in the southern Atlantic Ocean, and is part of Vekllei.

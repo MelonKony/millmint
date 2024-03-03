@@ -10,12 +10,13 @@ aliases:
 - /aloubaera/
 ---
 {{<note>}}
-߷ Aloubaera is part of {{<link/vekllei>}} Kalina
+߷ Aloubaera is part of {{<link/kalina>}}
 {{</note>}}
 
 {{<infobox/country
 	 Name="Aloubaera Republic"
 	 Type="Republic"
+	 Commonwealth="Kalina"
 	 Flag="/svg/flags/aloubaera.svg"
 	 SmallFlag="/svg/flags/4x3/aloubaera.svg"
 	 Population="72,045"

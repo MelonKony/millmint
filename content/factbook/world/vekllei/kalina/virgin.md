@@ -2,7 +2,7 @@
 title: Virgin Republic
 fulltitle: Virgin Republic
 icon: 🌲
-logo: /svg/flags/1x1/vg.svg
+logo: /svg/flags/4x3/vg.svg
 
 rgb: 241, 112, 30
 
@@ -10,12 +10,13 @@ aliases:
 - /virgin/
 ---
 {{<note>}}
-߷ Virgin is part of {{<link/vekllei>}} Kalina
+߷ Virgin is part of {{<link/kalina>}}
 {{</note>}}
 
 {{<infobox/country
 	 Name="Virgin Republic"
 	 Type="Republic"
+	 Commonwealth="Kalina"
 	 Flag="/svg/flags/virgin.svg"
 	 SmallFlag="/svg/flags/4x3/vg.svg"
 	 Population="182,295"

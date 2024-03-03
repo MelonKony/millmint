@@ -77,7 +77,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* Yabaque Republic (*Acklins*)
 	* Yuma Republic (*Long Island*)
 
-* **Kalina Commonwealth**
+* **{{<link/kalina>}}**
 	* {{<link/allia>}} (*Montserrat*)
 	* Aloi Republic (*St Eustatius*)
 	* {{<link/aloubaera>}} (*Tobago*)

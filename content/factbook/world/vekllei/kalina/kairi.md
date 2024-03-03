@@ -16,6 +16,7 @@ aliases:
 {{<infobox/country
 	 Name="Kairi Republic"
 	 Type="Republic"
+	 Commonwealth="Kalina"
 	 Flag="/svg/flags/kairi.svg"
 	 SmallFlag="/svg/flags/4x3/kairi.svg"
 	 Population="1,480,384"

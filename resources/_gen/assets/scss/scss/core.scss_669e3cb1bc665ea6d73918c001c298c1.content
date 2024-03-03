@@ -3027,6 +3027,12 @@ ol.timeline .event {
 .fi-aloubaera.fis {
   background-image: url(../svg/flags/1x1/aloubaera.svg); }
 
+.fi-kalina {
+  background-image: url(../svg/flags/4x3/kalina.svg); }
+
+.fi-kalina.fis {
+  background-image: url(../svg/flags/1x1/kalina.svg); }
+
 .fi-ei {
   background-image: url(../svg/flags/4x3/ei.svg); }
 
