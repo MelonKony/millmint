@@ -10,6 +10,21 @@ img {
 	max-width: 100%;
 }
 
+.portrait {
+	border-radius: 50%;
+	padding: .25rem;
+	background-color: var(--highlight-background);
+	border: 1px solid var(--highlight);
+	&:hover::before {
+	  	transform: scale(1.1);
+	  	box-shadow: 0 0 15px var(--highlight);
+	}
+	&:hover {
+	  	box-shadow: 0 0 5px var(--highlight);
+	  	text-shadow: 0 0 5px var(--highlight);
+	}
+}
+
 // smallimg being phased out
 article img[alt~="smallimg"] {
 	@include my-4;

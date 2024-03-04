@@ -13,6 +13,53 @@
   </div>
   {{ if .Params.emoji }}<div class="emoji" id="whirlybat">{{ .Params.emoji }}</div>{{ end }}
   {{ if .Params.logo }}<img class="logo" alt="article logo" src="{{ .Params.logo }}"></img>{{ end }}
+
+  {{ if .Params.emoji }}<div class="emoji" id="whirlybat">{{ .Params.emoji }}</div>{{ end }}
+  {{ if .Params.logo }}<img class="logo" alt="article logo" src="{{ .Params.logo }}"></img>{{ end }}
+
+    <!-- Character page tags in footer -->
+    {{ if in .Params.tags "tzipora" | or (in .Params.tags "cobian")  | or (in .Params.tags "baron")  | or (in .Params.tags "ayn")  | or (in .Params.tags "moise")  | or (in .Params.tags "coretti")  | or (in .Params.tags "zhi") }}
+
+    <div class="characters">
+      {{ if in .Params.tags "tzipora" }}
+      <a href="/tags/tzipora">
+        <img class="portrait" src="/images/mastheads/characters/portraits/tzipora.png">
+      </a>
+      {{ end }}
+
+      {{ if in .Params.tags "cobian" }}
+        <a href="/tags/cobian">
+          <img class="portrait" src="/images/mastheads/characters/portraits/cobian.png">
+        </a>
+      {{ end }}
+
+      {{ if in .Params.tags "baron" }}
+        <a href="/tags/baron">
+          <img class="portrait" src="/images/mastheads/characters/portraits/baron.png">
+        </a>
+      {{ end }}
+      {{ if in .Params.tags "ayn" }}
+        <a href="/tags/ayn">
+          <img class="portrait" src="/images/mastheads/characters/portraits/ayn.png">
+        </a>
+      {{ end }}
+      {{ if in .Params.tags "moise" }}
+        <a href="/tags/moise">
+          <img class="portrait" src="/images/mastheads/characters/portraits/moise.png">
+        </a>
+      {{ end }}
+      {{ if in .Params.tags "coretti" }}
+        <a href="/tags/coretti">
+          <img class="portrait" src="/images/mastheads/characters/portraits/coretti.png">
+        </a>
+      {{ end }}
+      {{ if in .Params.tags "zhi" }}
+        <a href="/tags/zhi">
+          <img class="portrait" src="/images/mastheads/characters/portraits/zhi.png">
+        </a>
+      {{ end }}
+    </div>
+    {{end}}
 </header>
 
 {{ if .Params.rgb }}

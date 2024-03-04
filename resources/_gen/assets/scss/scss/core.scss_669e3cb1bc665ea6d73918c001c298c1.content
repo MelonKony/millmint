@@ -837,7 +837,9 @@ h6 {
   main {
     width: 30%; }
     main table {
-      width: 100%; } }
+      width: 100%; }
+  .portrait {
+    display: none !important; } }
 
 table {
   font-size: 0.875rem;
@@ -1224,7 +1226,7 @@ header .menu-btn {
 header.info {
   margin: 0 0 2rem 0;
   display: grid;
-  grid-auto-columns: minmax(10px, auto);
+  grid-auto-columns: minmax(auto, auto);
   grid-auto-rows: minmax(min-content, max-content);
   gap: 0 10px;
   grid-auto-flow: column;
@@ -1265,6 +1267,13 @@ header.info {
     max-width: 100px;
     justify-items: end;
     align-content: center; }
+  header.info .characters img {
+    margin: 0;
+    display: inline;
+    height: 2.5rem;
+    margin-left: .5rem;
+    margin-bottom: .5rem;
+    float: right; }
   header.info .date {
     font-size: 0.875rem;
     /* 14px */
@@ -1785,6 +1794,18 @@ img {
   display: block;
   visibility: hidden;
   max-width: 100%; }
+
+.portrait {
+  border-radius: 50%;
+  padding: .25rem;
+  background-color: var(--highlight-background);
+  border: 1px solid var(--highlight); }
+  .portrait:hover::before {
+    transform: scale(1.1);
+    box-shadow: 0 0 15px var(--highlight); }
+  .portrait:hover {
+    box-shadow: 0 0 5px var(--highlight);
+    text-shadow: 0 0 5px var(--highlight); }
 
 article img[alt~="smallimg"] {
   margin-top: 1rem;
