@@ -221,7 +221,7 @@ Despite her apparent differences in temperament with her boyfriend Moise, Corett
 
 **Lin Zhi**, who prefers being addressed by her full name, is Tzipora's friend and occasional accomplice. She is surly, independent and uninterested in the opinions of others. She meets Tzipora at [Moshel St School](/moshel/).
 
-Like Tzipora, Zhi is a recent immigrant and despises her parents for uprooting her life to live in {{<link/vekllei>}}, from which she has retreated into traditionally Chinese cultural dress and signals. Tzipora is fascinated and deeply curious about her. Cobian and Coretti fear her.
+Like Tzipora, Zhi is a recent immigrant and despises her parents for uprooting her life to live in {{<link/vekllei>}}, from which she has retreated into traditionally Chinese cultural dress and signals. Tzipora is fascinated by her. Cobian and Coretti fear her.
 
 {{<note>}}
 * **<span class="navicon">💬</span> Name**: Lin Zhi
