@@ -144,7 +144,7 @@ She keeps her hair short and looks younger than she is. She smokes and drinks on
 
 Ayn is well put together. Independent, secure, intelligent and a respected source of good advice and wisdom, it strikes people as unusual that she has never married. Other than being old friends, there is not much reason for Ayn to give as much time as she does to Baron and Tzipora, but an affection for the girl and a desire to reconnect with Baron has added a new dimension to her life.
 
-Ayn, Baron and Tzipora all have a sense of grief in their lives, and none of them have much family of their own. It is perhaps this aspect that makes their bonds as strong as they are, navigating with social and platonic bonds rather than blood or romance. Ayn is well-read and an adept conversationalist, and shares with Tzipora long conversations about news and politics. She also has a penchant for interesting earrings and Bossanova music.
+Ayn, Baron and Tzipora all have a sense of grief in their lives, and none of them have much family of their own. It is perhaps this aspect that makes their bonds as strong as they are, navigating social and platonic bonds rather than ones of blood or romance. Ayn is well-read and an adept conversationalist, and shares with Tzipora long conversations about news and politics. She also has a penchant for interesting earrings and Bossanova music.
 
 
 {{</note>}}
