@@ -12,11 +12,6 @@ categories:
   - commonwealth
 
 type: blank
-
-comments: false
-
-draft: false
-
 toc: true
 
 aliases:
@@ -201,27 +196,28 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 			</span>
 		</li>
 		<li>
-			<b>1942</b>
+			<b>1940</b>
 			<span class="event">
 				The Second World War begins
 			</span>
 		</li>
 		<li>
-			<b>1951</b>
+			<b>1943</b>
+			<span class="event">
+				The assassination of Adolf Hitler ends the Second World War and results in the partition of Germany<br>
+				The United Nations is founded
+			</span>
+		</li>
+		<li>
+			<b>1946</b>
 			<span class="event">
 				Nuclear weapons used by the US against Japan
 			</span>
 		</li>
 		<li>
-			<b>1955</b>
+			<b>1946</b>
 			<span class="event">
-				The Second World War ends after Japan surrenders
-			</span>
-		</li>
-		<li>
-			<b>1956</b>
-			<span class="event">
-				United Nations is founded
+				American-Japanese War ends
 			</span>
 		</li>
 		<li>
