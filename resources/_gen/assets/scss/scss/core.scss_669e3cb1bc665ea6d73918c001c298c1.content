@@ -3144,6 +3144,9 @@ ol.timeline .event {
 .fi-min-ratings.fis {
   background-image: url(../svg/logos/ratings.svg); }
 
+.fi-min-gaf.fis {
+  background-image: url(../svg/logos/GAF.svg); }
+
 .fi-min-atlantic-store.fis {
   background-image: url(../svg/logos/atlantic-store.svg); }
 

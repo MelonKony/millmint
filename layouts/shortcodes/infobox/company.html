@@ -1,0 +1,182 @@
+<table style="float: right; border-radius: .25rem; padding: .25rem;">
+	<tr>
+		<th colspan="2"><span class="fi" style="background-image: url({{.Get "Logo"}});"></span> {{.Get "Name"}}</th>
+	</tr>
+
+	{{ if (.Get "Logo") }}
+	<tr>
+		<td colspan="2">
+			<img style="height: 5rem; background: transparent;" src="{{.Get "Logo"}}">
+		</td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Type") "Private" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/private-industry/">Private Corporation</a> in <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Type") "Municipal" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/municipal-industry/">Municipal Corporation</a> of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Type") "State" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/state-industry/">State Corporation</a> of <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Type") "Bureau" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/bureaus/">Bureau Corporation</a> of <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+	</tr>
+	{{ end }}
+
+	<!-- Parents -->
+
+	{{ if eq (.Get "Parent") "Airways" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Parent</th>
+	<td><a style="color: rgb(245, 60, 89)" href="/air/"><span class="fi fi-min-air fis"></span> Commonwealth Airways</a></td>
+	</tr>
+	{{ end }}
+
+	<!-- Ministries -->
+
+	{{ if eq (.Get "Ministry") "Commons" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Parent</th>
+	<td><a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Ministry") "Commerce" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Parent</th>
+	<td><a style="color: var(--color-cosmosol)" href="/cosmosol/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a></td>
+	</tr>
+	{{ end }}
+
+	<!-- Bureaus -->
+
+	{{ if eq (.Get "Bureau") "Rail" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Bureau</th>
+	<td><a style="color: var(--color-cosmotran)" href="/bureau-of-rail/"><span class="fi fi-min-commons fis"></span> Bureau of Rail</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Bureau") "Aerospace" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Bureau</th>
+	<td><a style="color: var(--color-cosmotran)" href="/bureau-of-aerospace/"><span class="fi fi-min-commons fis"></span> Bureau of Aerospace</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Bureau") "PublicWorks" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Bureau</th>
+	<td><a style="color: var(--color-cosmotran)" href="/bureau-of-public-works/"><span class="fi fi-min-commons fis"></span> Bureau of Public Works</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Bureau") "Securities" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Bureau</th>
+	<td><a style="color: var(--color-cosmosol)" href="/bureau-of-securities/"><span class="fi fi-min-commerce fis"></span> Bureau of Securities</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Industry") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Industry</th>
+		<td>{{.Get "Industry"}}</td>
+	</tr>
+	{{ end }}
+
+	<!-- Headquarters -->
+
+	{{ if eq (.Get "Headquarters") "Caimanas" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Headquarters</th>
+	<td><a style="color: rgb(60, 106, 217)" href="/caimanas/"><span class="fi fi-caimanas"></span></span> Caimanas</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Headquarters") "Kairi" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Headquarters</th>
+	<td><a style="color: rgb(215, 18, 45)" href="/kairi/"><span class="fi fi-kairi"></span> Kairi</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Headquarters") "Oslola" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Headquarters</th>
+	<td><a style="color: rgb(38, 48, 132)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Headquarters") "Ascension" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Headquarters</th>
+	<td><a style="color: rgb(48, 106, 175)" href="/ascension/"><span class="fi fi-ac"></span> Ascension</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Headquarters") "Virgin" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Headquarters</th>
+	<td><a style="color: rgb(241, 112, 30)" href="/virgin/"><span class="fi fi-vg"></span> Virgin</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Founded") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Founded</th>
+		<td>{{.Get "Founded"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Employees") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Employees</th>
+		<td>{{.Get "Employees"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Traded") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;"><a href="/commsec/">Traded as</a></th>
+		<td><span class="fi fi-min-commsec fis"></span> {{.Get "Traded"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Revenue") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;"><a href="/bulletin/accounted-revenue/">Accounted Revenue</a></th>
+		<td>AK ✾ {{.Get "Revenue"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Incorporation") "ScL" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"> S.c.L.</td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Incorporation") "SpA" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"> S.p.A.</td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Incorporation") "SA" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"> S.A.</td>
+	</tr>
+	{{ end }}
+</table>

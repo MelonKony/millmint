@@ -15,7 +15,7 @@ category = "categories"
 tag = "tags"
 series = "series"
 sitetag = "sitetag"
-
+characters ="characters"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]

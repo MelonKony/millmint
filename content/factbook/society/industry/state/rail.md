@@ -27,6 +27,19 @@ aliases:
 **This article** discusses one of the most important and visible organisations in everyday Vekllei life: Vekllei National Rail. Vekllei is criss-crossed by hundreds of different rail lines of various gauges, grades, and purposes. In fact, it runs many lines at a total loss, often under capacity. To understand these inefficiencies is to understand why the National Rail exists, and to some extent, how Vekllei's state assets and powerful bureaus shape life in the country today.
 {{</note>}}
 
+{{<infobox/company
+   Name="Vekllei National Rail"
+   Logo="/svg/logos/rail.svg"
+   Type="State"
+   Ministry="Commons"
+   Bureau="Rail"
+   Industry="Rail Transport"
+   Headquarters="Oslola"
+   Founded="1855, as the Pharos Rail Company"
+   Employees="65,240"
+   Incorporation="SA"
+ >}}
+
 ## Overview
 
 **Vekllei National Rail (VNR)** is a catch-all term for bureau-backed, state-owned rail operators of Vekllei. In casual use, it refers to the Vekllei National Railway A.r.R. and its sister companies, like Vekllei Metro, which are structured within the service-oriented Railways Bureau. More precisely, Vekllei National Rail encompasses several different bureaus that operate, design, maintain and communicate rail service in the country, which itself is further included under the Transport Requisite of the Vekllei Government.

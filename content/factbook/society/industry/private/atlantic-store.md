@@ -19,6 +19,19 @@ aliases:
 ✿ Read more: *[Department Commerce](/stories/department/)*
 {{</note>}}
 
+ {{<infobox/company
+	  Name="Atlantic Department Company"
+	  Logo="/svg/logos/atlantic-store.svg"
+	  Type="Private"
+	  Industry="Retail"
+	  Headquarters="Oslola"
+	  Founded="1830"
+	  Employees="16,000"
+	  Traded="ATL"
+	  Revenue="84 billion"
+	  Incorporation="SA"
+  >}}
+
 The <span class="fi fi-min-atlantic-store fis"></span> **Atlantic Department Company** S.A., trading as <span class="fi fi-min-atlantic-store fis"></span> **Atlantic**, is the largest mainland department store chain in {{<link/vekllei>}}. It is among the few companies to survive the transition to the [social economy](/social-economy/) with its ownership intact, and remains within the family of the Kolot family that founded the chain in 1830.
 
 Atlantic's flagship store is in Lonne, {{<link/oslola>}}, but has expanded in the postwar period to have stores in most populous Vekllei republics. It stocks a variety of dry goods, most commonly apparel and cosmetics but also homewares and furniture. Atlantic has a concierge system that allows longtime customers to book fittings and select a preferred attendant and tailor.

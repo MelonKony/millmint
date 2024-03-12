@@ -39,7 +39,7 @@ The Bureau of Housing may represent the public in court proceedings over ownersh
 {{</note>}}
 
 {{<note panel>}}
-#### Departments
+## Departments
 * **Department of Architecture & Planning**: Planning of neighbourhoods and cities, as well as their design and quality standards.
 	* Office of Architecture & Design
 	* Office of Landscapes
@@ -59,7 +59,7 @@ The Bureau of Housing may represent the public in court proceedings over ownersh
 {{</note>}}
 
 {{<note panel>}}
-#### Boards & Commissions
+## Boards & Commissions
 
 * **{{<link/housing-commission>}}**: Public housing authority.
 * **Vekllei Tenant Union**: Union of non-owner residents.
