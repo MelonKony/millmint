@@ -12,7 +12,7 @@ aliases:
 ߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
 {{</note>}}
 
-The Vekllei *Ministry of the Commons* (COSMOTRAN) provides housing and administers state construction activities in Vekllei, and is also responsible for state protection of human nature and Crown Lands. Responsibilities of COSMOTRAN include:
+The Vekllei *Ministry of the Commons* (COSMOTRAN) provides housing and administers state construction activities in {{<link/vekllei>}}, and is also responsible for state protection of human nature and Crown Lands. Responsibilities of COSMOTRAN include:
 
 {{<note panel>}}
 * Construction of beautiful and modern Vekllei cities in the spirit of [Atlantic Municipalism](/vekllei/#atlantic-municipalism).

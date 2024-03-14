@@ -11,7 +11,7 @@ tags:
 categories:
   - society
 
-draft: false
+draft: true
 
 type: blank
 
@@ -26,42 +26,25 @@ aliases:
 
 ---
 
+## Overview
+
 {{<note>}}
 ߷ This article is about [Vekllei](/vekllei/) society.
 {{</note>}}
 
-## Overview
+{{<note panel>}}
+**Education** emerged as a foundational right for Vekllei people in the constitution of the 4th Commonwealth, in the spirit of postwar democratisation and the rising of all people.
+{{</note>}}
 
-Education in {{<link/vekllei>}} is life-long, diverse, compulsory in childhood and free. Although there are many types of schooling across the country, compulsory education is characterised by a hybrid system provided in a national curriculum by the {{<link/parliament-of-education>}}.
+Education in Vekllei is a good example of the 'system working backwards,' the popular phrase to describe the Floral Period moving in two different directions at once. Is it modern, supplied and robust in the Western tradition -- children wear uniforms, are divided into school years and learning is arranged and taught in subjects. Other aspects of the Vekllei curriculum, like its provisions for extracurricular activities and social clubs, are novel by comparison.
 
-Education and schooling is an important part of Vekllei society, and its importance is indicated by its dedicated [parliament](/parliaments/). It has good outcomes for Vekllei people, and contributes to the country's reputation as among the most literate and learned societies in the world. It has several education institutions of renown, including Vekllei National University and the Commonwealth University of the West Indies. These outcomes have seen the Vekllei model of education replicated overseas, where it is known as the Atlantic Model.
+There is something quite interesting going on in Vekllei education that is not immediately apparent at its surface. First, compulsory schooling runs between 3-5 days a week, depending on student commitments to elective and extracurricular activities. Government schools do not employ standardised testing, and rely on subject-specific means of assessment including reviews, presentations and portfolios. The [Vekllei Curriculum](#curriculum) emphasises practicable and technical skills that blur the lines between school, community and home.
+
+Education in Vekllei is considered a foundation of Vekllei democracy, and in the spirit of the Floral Period it is free, abundant and compulsory.
 
 > Education is a founding aspect of the 4th Commonwealth and is to be reaffirmed constantly and faithfully by all Parliaments and public servants, and to this end is to be provided for as a highest priority of the new Parliament.
 
 -- [Document No. 7](/documents/)
-
-## Atlantic Model of Education
-
-The *Atlantic Model* is the colloquial name for the Vekllei public education system. It is a hybridised model incorporating different influences, including progressive and Montessori methods. The Atlantic Model places greater emphasis on personal responsibility, constructivist learning and hobbyism. A distinguishing characteristic is its emphasis on synchronous authority, which protects certain student rights but retains the premise of the teacher as a classroom authority.
-
-Although this system incorporates progressive and alternative education methods, its structure deviates from trends common in those movements. Vekllei schools have traditional classrooms, a common [student uniform](#uniform), and address teachers by their surname.
-
-The distinguishing characteristics of the Atlantic Model are:
-
-{{<note>}}
-* Mixed-age classrooms, mostly comprising an age difference of three years
-* Democratic or student-led topics and activities
-* Free time for work and play
-* An emphasis on clubs, hobbies and extracurricular activities
-* Shared burdens like cleaning and cooking
-* Short classroom periods broken up by changes in location and subject
-* Tracked subject streams
-* Emphasis of cleanliness, ordered spaces and natural light
-* Activities to improve school spirit and civic identity
-* Emphasis of personal responsibility, improvement, and discipline
-{{</note>}}
-
-
 
 ## Structure
 
