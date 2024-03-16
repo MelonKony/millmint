@@ -74,6 +74,10 @@ article blockquote {
 	letter-spacing: -.01em;
 	border-top-left-radius: 0;
 	border-top-right-radius: 0;
+
+	a {
+		text-decoration: underline;
+	}
 }
 
 .note.subtitle {
