@@ -46,7 +46,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* Curaçao Republic (*Curacao*)
 
 * **Arctic Commonwealth**
-	* Helvasia Republic (*Svalbard*)
+	* {{<link/helvasia>}} (*Svalbard*)
 	* Kala Republic (*Greenland*)
 
 * **Atlantic Commonwealth**

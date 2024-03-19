@@ -123,7 +123,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * Curaçao Republic (*Curacao*)
 
 * **Arctic Commonwealth**
-  * Helvasia Republic (*Svalbard*)
+  * {{<link/helvasia>}} (*Svalbard*)
   * Kala Republic (*Greenland*)
 
 * **Atlantic Commonwealth**
