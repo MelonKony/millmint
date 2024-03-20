@@ -10,7 +10,7 @@ aliases:
 - /helvasia/
 ---
 {{<note>}}
-߷ Helvasia is part of {{<link/vekllei>}} Arctic
+߷ Helvasia is part of the {{<link/arctic>}}
 {{</note>}}
 
 {{<infobox/country

@@ -3,8 +3,6 @@
 /// Geography
 
 //// Territories
-Helvasia: Helvasia (<i>née Svalbard</i>) is an island municipality situated in the Arctic Ocean, and is part of Vekllei.
-Sude: Sude (<i>née South Georgia and South Sandwich Islands</i>) is an island chain municipality situated in the southern Atlantic Ocean, and is part of Vekllei.
 
 Borough, Boroughs: An administrative region and local government of a Commonwealth state.
 Cherish, Cherishes: A small republic that forms part of a larger federated Commonwealth.

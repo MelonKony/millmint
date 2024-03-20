@@ -43,6 +43,12 @@
 	</tr>
 	{{ end }}
 
+	{{ if eq (.Get "Commonwealth") "Arctic" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/arctic/"><span class="fi fi-arctic"></span> Commonwealth Arctic</a></td>
+	</tr>
+	{{ end }}
+
 	{{ if eq (.Get "Commonwealth") "Kalina" }}
 	<tr>
 		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of <a style="color: var(--color-blue)" href="/kalina/"><span class="fi fi-kalina"></span> Commonwealth Kalina</a></td>

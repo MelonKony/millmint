@@ -3055,6 +3055,12 @@ ol.timeline .event {
 .fi-antarctic.fis {
   background-image: url(../svg/flags/1x1/antarctic.svg); }
 
+.fi-arctic {
+  background-image: url(../svg/flags/4x3/arctic.svg); }
+
+.fi-arctic.fis {
+  background-image: url(../svg/flags/1x1/arctic.svg); }
+
 .fi-kairi {
   background-image: url(../svg/flags/4x3/kairi.svg); }
 
