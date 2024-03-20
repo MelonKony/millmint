@@ -18,7 +18,7 @@ aliases:
    Name="Commonwealth Arctic"
    Type="Commonwealth"
    Flag="/svg/flags/arctic.svg"
-   SmallFlag="/svg/flags/4x3/antarctic.svg"
+   SmallFlag="/svg/flags/4x3/arctic.svg"
    Population="489,848"
    Capital="Canec"
    Area="2,228,131 km2"
