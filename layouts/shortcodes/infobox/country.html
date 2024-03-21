@@ -55,6 +55,12 @@
 	</tr>
 	{{ end }}
 
+	{{ if eq (.Get "Commonwealth") "Volcanic" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/volcanic/"><span class="fi fi-volcanic"></span> Volcanic Commonwealth</a></td>
+	</tr>
+	{{ end }}
+
 	{{ if (.Get "Capital") }}
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Capital</th>

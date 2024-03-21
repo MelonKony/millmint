@@ -99,11 +99,6 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* {{<link/virgin>}} (*British/Spanish/U.S. Virgin Islands*)
 	* Youloumain Republic (*Saint Vincent & The Grenadines*)
 
-* **Oslolan Commonwealth**
-	* Aismious Republic (*Faroe*)
-	* {{<link/demon>}} (*Jan Mayen*)
-	* Oslolan Republic (*Iceland*)
-
 * **Verde Commonwealth**
 	* Boa Vista Republic (*Boa Vista*)
 	* Brava Republic (*Brava*)
@@ -115,4 +110,9 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* Principe Republic (*Sao Tome & Principe*)
 	* Sal Republic (*Sal*)
 	* Viana Republic (*Sao Vicente*)
+
+	* **Volcanic Commonwealth**
+	* Aismious Republic (*Faroe*)
+	* {{<link/demon>}} (*Jan Mayen*)
+	* {{<link/oslola>}} (*Iceland*)
 {{</details>}}

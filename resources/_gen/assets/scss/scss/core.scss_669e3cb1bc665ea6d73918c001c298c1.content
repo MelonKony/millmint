@@ -3091,6 +3091,12 @@ ol.timeline .event {
 .fi-laur.fis {
   background-image: url(../svg/flags/1x1/laur.svg); }
 
+.fi-volcanic {
+  background-image: url(../svg/flags/4x3/volcanic.svg); }
+
+.fi-volcanic.fis {
+  background-image: url(../svg/flags/1x1/volcanic.svg); }
+
 .fi-min-gov.fis {
   background-image: url(../svg/logos/vekllei.svg); }
 
