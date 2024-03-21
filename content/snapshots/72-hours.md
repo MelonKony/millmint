@@ -14,7 +14,7 @@ aliases:
 - /snapshots/72-hours
 ---
 {{<note subtitle>}}
-72 hours in Oslola, a short story about three days in the industrious and historic heart of Vekllei.
+72 hours in {{<link/oslola>}}, a short story about three days in the industrious and historic heart of Vekllei.
 {{</note>}}
 
 <span class="dropcap">T</span>his summer, I was routed from London to Idlewild via Pharos in Oslola, Vekllei. This was a rare opportunity, and one I have been hoping to cover for *Metropolitan* some time. It was only through my commission in this magazine that this adventure was possible. You see, a BOAC ticket from London to Idlewild costs a man about £525, or about a sixth of his average annual salary. Tickets with Commonwealth Overseas Airways, the state monopolist of international Vekllei travel, start at nearly ten times as much.

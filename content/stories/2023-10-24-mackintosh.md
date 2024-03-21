@@ -28,7 +28,7 @@ video:
 Tzipora has a dry head. Moise does not.
 {{</note>}}
 
-Commonwealth islands get a lot of rain, and raincoats are issued by the Ministry of Education. They vary slightly by region, but in Oslola they look like this.
+Commonwealth islands get a lot of rain, and raincoats are issued by the Ministry of Education. They vary slightly by region, but in {{<link/oslola>}} they look like this.
 
 Girls get plastic hoods that snap onto their wool capes, which also have a rayon overslip for weatherproofing.
 

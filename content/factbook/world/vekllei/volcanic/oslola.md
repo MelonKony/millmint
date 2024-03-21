@@ -2,7 +2,7 @@
 title: Oslola
 fulltitle: Oslola
 icon: 🌋
-logo: /svg/flags/oslola.svg
+logo: /svg/flags/4x3/oslola.svg
 
 rgb: 88, 90, 190
 

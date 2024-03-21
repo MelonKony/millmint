@@ -2,7 +2,7 @@
 title: Demon Republic
 fulltitle: Republic of Demon
 icon: ⛪️
-logo: /svg/flags/1x1/demon.svg
+logo: /svg/flags/4x3/demon.svg
 
 rgb: 229, 156, 54
 

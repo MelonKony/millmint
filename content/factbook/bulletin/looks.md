@@ -23,13 +23,13 @@ aliases:
 {{<note panel>}}
 **Summary**
 
-* A common question about Vekllei, particularly when associated with Oslola (*née* Iceland), is why they do not look like the common conception of Icelanders.
+* A common question about Vekllei, particularly when associated with {{<link/oslola>}} (*née* Iceland), is why they do not look like the common conception of Icelanders.
 * The simple answer is that they are *not* typical Icelanders, and most native Oslolans are descended from either indigenous arctic peoples (which they call "Algic") and Irish or Nordic settlers.
 * In addition, in Oslola there are substantive populations of immigrants who come from all over the world.
 * As such, it is not accurate to describe any one group of people as "looking like" an Oslolan, owing to their enduring diversity.
 {{</note>}}
 
-The commonwealth called {{<link/vekllei>}} is a union of island communities, but when this project started it was centred on Iceland. Indeed, Vekllei originally referred only to "Iceland," and its possessions across the Atlantic were an afterthought. The worldbuilding in this project is significantly more enlightened now, and Vekllei refers equally to a commonwealth of consenting island communities, but the main characters all still live in Oslola. Picking up on this, people often ask why some of them have Asian features or darker skin, and the answer is straightforward -- this is not Iceland, it is Oslola, and so its history and demographics are different.
+The commonwealth called {{<link/vekllei>}} is a union of island communities, but when this project started it was centred on Iceland. Indeed, Vekllei originally referred only to "Iceland," and its possessions across the Atlantic were an afterthought. The worldbuilding in this project is significantly more enlightened now, and Vekllei refers equally to a commonwealth of consenting island communities, but the main characters all still live in {{<link/oslola>}}. Picking up on this, people often ask why some of them have Asian features or darker skin, and the answer is straightforward -- this is not Iceland, it is Oslola, and so its history and demographics are different.
 
 Oslola has been inhabited for thousands of years, and was settled nearly simultaneously by indigenous arctic peoples (Algics) and Irish settlers. Not long after, a significant population of Nordic settlers accompanied them. This comprises, historically, the two main ethnic groups of Oslola. Algic peoples have light skin, dark hair, and asian features. Nordics, sometimes called Scandinavians, have northern European features and generally lighter hair colours.
 

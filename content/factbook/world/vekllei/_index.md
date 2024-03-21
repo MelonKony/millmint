@@ -21,7 +21,7 @@ aliases:
    Area="2,386,688 km2"
  >}}
 
-<span class="fi fi-com"></span> **Vekllei** is best conceptualised as a union of islands across the Atlantic Ocean. It is a commonwealth,[^commonwealth] the fourth in a series, and consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of Oslola, of 8 million. Together, they amount to a single superstate that spans the entirety of the Atlantic as a great power.
+<span class="fi fi-com"></span> **Vekllei** is best conceptualised as a union of islands across the Atlantic Ocean. It is a commonwealth,[^commonwealth] the fourth in a series, and consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of {{<link/oslola>}}, of 8 million. Together, they amount to a single superstate that spans the entirety of the Atlantic as a great power.
 
 The Commonwealth which unites them is highly centralised and built on common systems of governance and economic management. Member [republics](/republics/), organised in [constituent commonwealths](/constituents/) cede aspects of governance like security, health and education to the federal Commonwealth. The country is colloquially known as *Vekllei*, an Algic [corcidi](/corcidi/) word meaning *people of the sea and stars*.[^name] It is also known as the *Commonwealth of Oceans*.
 
@@ -34,11 +34,11 @@ Vekllei is often regarded a nation by will, rather than of culture or geography.
 -- Retelling of Algic legends, Verse 40, *Saga of Origins*
 
 {{< details title="What is Vekllei?" open=false >}}
-Vekllei is a country that consists of many island republics in the Atlantic. The largest of these is called the *Oslola*, which is its most populous island. Vekllei is the setting of this fiction, and is the home of most of its characters.
+Vekllei is a country that consists of many island republics in the Atlantic. The largest of these is called the {{<link/oslola>}}, which is its most populous island. Vekllei is the setting of this fiction, and is the home of most of its characters.
 {{</details>}}
 
 {{< details title="Where is Vekllei?" open=false >}}
-Most of Vekllei's islands are found in the North Atlantic and Caribbean seas. Its northernmost territory is Helvasia (Svalbard) and its southernmost territories are on the Antarctic continent. It also has a claim on the moon.
+Most of Vekllei's islands are found in the North Atlantic and Caribbean seas. Its northernmost territory is {{<link/helvasia>}} (Svalbard) and its southernmost territories are on the Antarctic continent. It also has a claim on the moon.
 {{</details>}}
 
 {{< details title="When was Vekllei founded?" open=false >}}
@@ -55,7 +55,7 @@ The diversity of the Commonwealth is reflected in its history. Vekllei as we kno
 ❀ Read more: <span class="smallicon">⏳</span> *[Timeline](/timeline/)*
 {{</note>}}
 
-Many Commonwealth republics have been inhabited for thousands of years, and have strong cultures and traditions that encompass many unique languages and faiths. The Kalina Isles and Oslola have archaeological evidence indicating settlement since at least 3000BC, and much of Oslolan and Kalan history has been recorded through poetry and [Sagas](/sagas/).
+Many Commonwealth republics have been inhabited for thousands of years, and have strong cultures and traditions that encompass many unique languages and faiths. The Kalina Isles and {{<link/oslola>}} have archaeological evidence indicating settlement since at least 3000BC, and much of Oslolan and Kalan history has been recorded through poetry and [Sagas](/sagas/).
 
 The Commonwealth of Oceans has precedence in the Oslolan Commonwealths that existed sporadically between 700 AD and 1600 AD. For this reason, the Vekllei Commonwealth is sometimes referred to as the "4th Commonwealth," a phrase that draws a direct connection between Vekllei and the Oslolan Commonwealths.[^4th]
 
@@ -94,12 +94,12 @@ Although regionally and culturally diverse, Commonwealth government is centralis
 
 * {{<link/antarctica>}}
 * Commonwealth Antilles
-* Commonwealth Arctic
+* {{<link/arctic>}}
 * Commonwealth Atlantic
-* Commonwealth Oslola
 * {{<link/kalina>}}
 * Commonwealth Bahamas
 * Commonwealth Verde
+* {{<link/volcanic>}}
 {{</note>}}
 
 {{< details title="List of Vekllei Republics" open=false >}}
@@ -176,11 +176,6 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * {{<link/virgin>}} (*British/Spanish/U.S. Virgin Islands*)
   * Youloumain Republic (*Saint Vincent & The Grenadines*)
 
-* **Oslolan Commonwealth**
-  * Aismious Republic (*Faroe*)
-  * {{<link/demon>}} (*Jan Mayen*)
-  * Oslolan Republic (*Iceland*)
-
 * **Verde Commonwealth**
   * Boa Vista Republic (*Boa Vista*)
   * Brava Republic (*Brava*)
@@ -192,11 +187,16 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * Principe Republic (*Sao Tome & Principe*)
   * Sal Republic (*Sal*)
   * Viana Republic (*Sao Vicente*)
+
+  * **Volcanic Commonwealth**
+  * Aismious Republic (*Faroe*)
+  * {{<link/demon>}} (*Jan Mayen*)
+  * {{<link/oslola>}} (*Iceland*)
 {{</details>}}
 
 ![Map of Vekllei territories across the Atlantic](/svg/maps/territory.svg "Map of Vekllei, including its Commonwealths, Federal Departments and Territories.")
 
-The Commonwealth spans the length and width of the Atlantic and Caribbean oceans. Its northernmost island in the Commonwealth is Helvasia (*Svalbard*) in the Arctic Ocean, and its southernmost island is Southern Thule, in the Sude island chain (*South Sandwich*). The Commonwealth also has Antarctic and Lunar territories. They are united by a strong central government, and administered in a cascading federal system.
+The Commonwealth spans the length and width of the Atlantic and Caribbean oceans. Its northernmost island in the Commonwealth is {{<link/helvasia>}} (*Svalbard*) in the Arctic Ocean, and its southernmost island is Southern Thule, in the Sude island chain (*South Sandwich*). The Commonwealth also has Antarctic and Lunar territories. They are united by a strong central government, and administered in a cascading federal system.
 
 These islands are diverse in both size and geography, and range from barren subarctic rocks to flourishing Caribbean archipelagoes.
 
@@ -242,7 +242,7 @@ The country has maintained high unemployment since independence, sliding between
 
 The commons economy relies on a system of participatory work, encouraged by the simple and universal rule to be employed, called [Consosva](/consosva/). The standard of living in Vekllei is quite good and is unique among modern societies today.
 
-In industrialised regions like Oslola, the *commons* has a sophisticated network of incentives and social engineering to facilitate its quality of life. In other regions, particularly scattered across the many archipelagos and small islands of the Commonwealth, self-sufficiency is more common and dependent on fishing, community and codependence.
+In industrialised regions like {{<link/oslola>}}, the *commons* has a sophisticated network of incentives and social engineering to facilitate its quality of life. In other regions, particularly scattered across the many archipelagos and small islands of the Commonwealth, self-sufficiency is more common and dependent on fishing, community and codependence.
 
 #### Work
 
@@ -418,7 +418,7 @@ The Commonwealth has a comprehensive common transit network, which makes up most
 
 ![Image of a space plane on a runway](/images/lightbulb.jpg "Public transport infrastructure ranges from local tramways to lunar spaceflight | *[A Vekllei Spaceship](/stories/lightbulb/)*")
 
-Public transit ranges from state-of-the-art maglev lines in Oslola to century-old steam locomotives in Verde, operated by [Vekllei National Rail](/rail/). The sophistication of the network allows almost any citizen of the Commonwealth to travel from their doorstep to the moon entirely via public transport.
+Public transit ranges from state-of-the-art maglev lines in {{<link/oslola>}} to century-old steam locomotives in Verde, operated by [Vekllei National Rail](/rail/). The sophistication of the network allows almost any citizen of the Commonwealth to travel from their doorstep to the moon entirely via public transport.
 
 ### Communications
 
