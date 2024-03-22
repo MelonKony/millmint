@@ -1,7 +1,7 @@
 ---
 title: Aismious
 fulltitle: Aismious
-icon: 🌋
+icon: 🐏
 logo: /svg/flags/4x3/fo.svg
 
 rgb: 67, 101, 187
