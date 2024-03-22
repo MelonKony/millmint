@@ -5,7 +5,7 @@ icon: 📯
 emoji: 6
 color: mail
 
-tags: 
+tags:
   - industry
 categories:
   - society
@@ -16,12 +16,12 @@ type: blank
 comments: false
 
 
-aliases: 
+aliases:
 - /mail/
 
 description: The Royal Mail of Vekllei is the national postal organisation of Vekllei, a utopia created by Hobart Phillips.
 
- 
+
 ---
 {{<note>}}
 ߷ This article is about [**Vekllei**](/factbook/vekllei) society
@@ -127,7 +127,7 @@ Since the Mail's Office of Telecommunications is also responsible for all teleph
 ✿ Read more: *[Racing the Post Office to the Station](/posts/2021-02-05-mailtrain/)*
 {{</note>}}
 
-The Mail aims to provide next-day delivery during weekdays in zero-code (that is to say, *Home Island*) regions. Overnight delivery is also generally available between *Home Islands*, *Aismious* Islands, *Kala* and the *Azores* during weekdays. Most Lunar territories are available on Mondays and Fridays, and other territories are available according to the Mail's region table.
+The Mail aims to provide next-day delivery during weekdays in zero-code (that is to say, *Home Island*) regions. Overnight delivery is also generally available between *Home Islands*, *{{<link/aismious>}}* Islands, *Kala* and the *Azores* during weekdays. Most Lunar territories are available on Mondays and Fridays, and other territories are available according to the Mail's region table.
 
 Although Vekllei people do not pay to post items, stamps are affixed with coloured squares called *chromacodes* which are used in the automatic sorting machines common in the country. International Mail uses traditional stamps with price listed, and the Vekllei Crown displayed. Franking is used for tracking and identification.
 

@@ -21,12 +21,12 @@ Constituent commonwealths have their own suite of [ministries](/ministries/) and
 
 * {{<link/antarctica>}}
 * Commonwealth Antilles
-* Commonwealth Arctic
+* {{<link/arctic>}}
 * Commonwealth Atlantic
-* Commonwealth Oslola
 * {{<link/kalina>}}
 * Commonwealth Bahamas
 * Commonwealth Verde
+* {{<link/volcanic>}}
 {{</note>}}
 
 The Commonwealth devolves certain aspects of public policy to Constituents. In practice, many devolved matters practice parity with Commonwealth [ministries](/ministries/) and [councils](/councils/), and so are functionally identical to Commonwealth central policy.

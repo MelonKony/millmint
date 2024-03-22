@@ -20,6 +20,7 @@ The Volcanic Commonwealth (*Vekllei Volcanic*) is an island Commonwealth in nort
 {{<note panel>}}
 **Republics of the Volcanic Commonwealth**
 
+* {{<link/aismious>}}
 * {{<link/demon>}}
 * {{<link/oslola>}}
 {{</note>}}

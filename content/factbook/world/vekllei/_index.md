@@ -114,7 +114,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * {{<link/falklands>}} (*Falklands*)
   * {{<link/helena>}} (*Saint Helena*)
   * {{<link/santes>}} (*Tristan da Cunha*)
-  * Sude Republic (*South Georgia & South Sandwich Islands*)
+  * {{<link/sude>}} (*South Georgia & South Sandwich Islands*)
 
 * **Antilles Commonwealth**
   * Aruba Republic (*Aruba*)
@@ -188,15 +188,15 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * Sal Republic (*Sal*)
   * Viana Republic (*Sao Vicente*)
 
-  * **Volcanic Commonwealth**
-  * Aismious Republic (*Faroe*)
+* **Volcanic Commonwealth**
+  * {{<link/aismious>}} (*Faroe*)
   * {{<link/demon>}} (*Jan Mayen*)
   * {{<link/oslola>}} (*Iceland*)
 {{</details>}}
 
 ![Map of Vekllei territories across the Atlantic](/svg/maps/territory.svg "Map of Vekllei, including its Commonwealths, Federal Departments and Territories.")
 
-The Commonwealth spans the length and width of the Atlantic and Caribbean oceans. Its northernmost island in the Commonwealth is {{<link/helvasia>}} (*Svalbard*) in the Arctic Ocean, and its southernmost island is Southern Thule, in the Sude island chain (*South Sandwich*). The Commonwealth also has Antarctic and Lunar territories. They are united by a strong central government, and administered in a cascading federal system.
+The Commonwealth spans the length and width of the Atlantic and Caribbean oceans. Its northernmost island in the Commonwealth is {{<link/helvasia>}} (*Svalbard*) in the Arctic Ocean, and its southernmost island is Southern Thule, in the {{<link/sude>}} island chain (*South Sandwich*). The Commonwealth also has Antarctic and Lunar territories. They are united by a strong central government, and administered in a cascading federal system.
 
 These islands are diverse in both size and geography, and range from barren subarctic rocks to flourishing Caribbean archipelagoes.
 

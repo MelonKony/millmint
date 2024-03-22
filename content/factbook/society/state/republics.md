@@ -37,7 +37,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* {{<link/falklands>}} (*Falklands*)
 	* {{<link/helena>}} (*Saint Helena*)
 	* {{<link/santes>}} (*Tristan da Cunha*)
-	* Sude Republic (*South Georgia & South Sandwich Islands*)
+	* {{<link/sude>}} (*South Georgia & South Sandwich Islands*)
 
 * **Antilles Commonwealth**
 	* Aruba Republic (*Aruba*)
@@ -111,8 +111,8 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* Sal Republic (*Sal*)
 	* Viana Republic (*Sao Vicente*)
 
-	* **Volcanic Commonwealth**
-	* Aismious Republic (*Faroe*)
+* **Volcanic Commonwealth**
+	* {{<link/aismious>}} (*Faroe*)
 	* {{<link/demon>}} (*Jan Mayen*)
 	* {{<link/oslola>}} (*Iceland*)
 {{</details>}}
