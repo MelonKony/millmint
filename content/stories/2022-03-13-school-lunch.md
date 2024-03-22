@@ -37,7 +37,7 @@ Because of this, many Vekllei people in cities dine out most nights. In the cont
 
 In some schools, parents and teachers help student volunteers cook. In others, like Tzipora’s Moshel St School, classrooms take turns cooking for the rest of the school. Depicted here is Tzipora’s packed lunch alongside an example of a lunch provided by the school.
 
-#### Tzipora’s Lunch
+## Tzipora’s Lunch
 
 If not eating leftovers, Tzipora likes things that she can eat with her fingers. Processed meats and sausages are readily available in Vekllei and replace cold cuts of meat most days. The heaviness of the blood sausage and kabanos is alleviated with some fruit paste and cherry tomatoes.
 
@@ -47,7 +47,7 @@ Tzipora is also sweet on soft drinks, and rotates through different flavours to 
 
 She has fruit tingles, a chalky tablet sweet, for dessert. The cake isn't for her; it's to trade for other sweets. She's eaten enough of it at home already.
 
-#### School Lunch
+## School Lunch
 
 Stews, sometimes called casseroles in Vekllei, are a staple of local cuisine and are an easy and tasty way to feed hundreds of students. They’re made out of ingredients of abundance — the sorts of root vegetables and lab meats churned out en masse by the inflexible hydroponics system of the country. Most schools also have gardens and produce all of of their own vegetables, in this case herbs, carrots, onions, potatoes, and tomatoes.
 
