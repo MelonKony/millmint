@@ -13,7 +13,7 @@ aliases:
 ߷ This bureau is part of the {{<link/ministry-of-the-commons>}}
 {{</note>}}
 
-The <span class="fi fi-min-commons fis"></span> **Bureau of Aerospace** is a bureau of the [<span class="fi fi-min-commons fis"></span> Ministry of the Commons](/cosmotran/) responsible for policy, administration and operation of aerospace transport in {{<link/vekllei>}}. It incorporates almost all functions necessary for the provision of air transport in a country, including the operation of airports and airstrips, training and employment of air traffic controllers, and provision of emergency search and rescue services, including runway tenders.
+The <span class="fi fi-min-commons fis"></span> **Bureau of Aerospace** is a bureau of the {{<link/ministry-of-the-commons>}} responsible for policy, administration and operation of aerospace transport in {{<link/vekllei>}}. It incorporates almost all functions necessary for the provision of air transport in a country, including the operation of airports and airstrips, training and employment of air traffic controllers, and provision of emergency search and rescue services, including runway tenders.
 
 The bureau has a large stake in the development and manufacture of Vekllei aircraft through its constituent corporations and commissions. In addition, the bureau monitors and manages Vekllei airspace as part of the National Airspace System, and licenses civilian and commercial pilots through the Civil Aviation Register.
 
@@ -60,7 +60,8 @@ The bureau has a large stake in the development and manufacture of Vekllei aircr
 
 * **{{<link/air>}}**: Flag carrier and national airline of {{<link/vekllei>}}.
 * **{{<link/starlines>}}**: Subsidiary of Commonwealth Airways providing space transport services.
-* **{{<link/gaf>}}**: Major aircraft manufacturer.
+* **{{<link/gaf>}}**: Major (civilian) aircraft manufacturer.
+* **{{<link/cac>}}**: Major (military) aircraft manufacturer.
 * **Commonwealth Air Traffic Services**: National traffic control services.
 * **Commonwealth Civil Flight Squadron**: Civilian flying unit for equipment calibration, testing, aerial photography and inspection.
 * **Commonwealth Air Safety Authority**: Independent aerospace safety regulator and incident investigator.

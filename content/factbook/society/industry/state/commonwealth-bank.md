@@ -5,13 +5,30 @@ icon: 🏦
 logo: /svg/logos/commonwealth-bank.svg
 rgb: 240, 93, 136
 autonumbering: false
+logocredit: Shekhar Kamat, 1971, for the State Bank of India.
+
 
 aliases:
 - /commonwealth-bank/
 ---
 {{<note>}}
-߷ The Commonwealth Bank is part of the {{<link/ministry-of-commerce>}}
+߷ Part of the *[industry](/industry/)* series of articles
 {{</note>}}
+
+{{<infobox/company
+	 Name="Commonwealth Bank"
+	 Logo="/svg/logos/commonwealth-bank.svg"
+	 Type="State"
+	 Ministry="Commerce"
+	 Bureau="Treasury"
+	 Industry="Banking and financial services"
+	 Headquarters="Oslola"
+	 Founded="1642"
+	 Employees="35,000"
+	 Traded="CBC"
+	 Revenue="82.2 billion"
+	 Incorporation="ScL"
+ >}}
 
 The <span class="fi fi-min-combank fis"></span> **Commonwealth Bank** (also *Bank of Vekllei*) is the central bank and currency store of {{<link/vekllei>}}. It is operated by the {{<link/ministry-of-commerce>}} and maintains branches in all Vekllei republics and in many countries around the world. It is not autonomous and is beholden to the policy decisions of Ministry of Commerce and, in certain cases, the republic and commonwealth parliaments. Its sworn purpose, as instructed by the Floral Constitution, is to advocate for encourage growth and benefit Vekllei people.
 

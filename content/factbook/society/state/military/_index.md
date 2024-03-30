@@ -1,4 +1,4 @@
----
+  ---
 title: Military
 fulltitle: Military of Vekllei
 icon: ⚔️
@@ -39,7 +39,7 @@ The Marine Services consist of the armed forces most commonly associated with se
 {{<note panel>}}
 #### Maritime Service
 
-The **Maritime Service** (the **Navy** or *Navy of the Public*) is the traditional naval warfare component of the Vekllei military and consists of its surface ships and submarines.
+The **Maritime Service** (the **Navy** or *Navy of the Public*) is the traditional naval warfare component of the Vekllei military and consists of its surface ships and submarines. It comprises three fleets and an auxiliary service, that functions similarly to a republican or federal militia.
 
 {{< details title="Maritime Service Fleet" open=false >}}
 ##### Commonwealth Fleet
@@ -60,11 +60,12 @@ The Commonwealth Fleet (*Sovereign/Central Fleet*) of the Vekllei Maritime Servi
 * 28 Destroyers
 	* 6 Minelayers/Minesweepers
 	* 22 Fleet Air Escort Destroyers
+* 8 Attack Submarines
 {{</note>}}
 
-##### Home Fleet
+##### Home Fleet (Auxiliary)
 
-The Home Fleet of the Vekllei Maritime Service is a reserve frigate fleet stationed across the 70 island city-states that make up the country. Each Vekllei city-state serves as a home port to a particular frigate. While they serve a pseduo-ceremonial role, they are active warships that perform littoral maritime security duties and can be federalised into other fleets as necessary. The Home Fleet also consists of auxiliary and littoral vessels designed for service in the Vekllei Caribbean.
+The Home Fleet (also *Auxiliary Fleet*) of the Commonwealth Maritime Service is an auxiliary fleet stationed across the 70 island city-states that make up the country. Each Vekllei city-state serves as a home port to a particular frigate. While they serve a pseduo-ceremonial role, they are active warships that perform littoral maritime security duties and can be federalised into other fleets as necessary. The Home Fleet also consists of auxiliary and littoral vessels designed for service in the Vekllei Caribbean.
 
 {{<note>}}
 * 82 Frigates
@@ -98,6 +99,7 @@ The Home Fleet of the Vekllei Maritime Service is a reserve frigate fleet statio
 	* 8 Fleet Air Escort Destroyers
 	* 3 Missile Destroyers
 	* 1 Arsenal Destroyer
+* 3 Attack Submarines
 {{</note>}}
 
 ##### Antarctic Fleet
@@ -112,7 +114,13 @@ The Home Fleet of the Vekllei Maritime Service is a reserve frigate fleet statio
 	* 8 Fleet Air Escort Destroyers
 	* 3 Missile Destroyers
 	* 1 Arsenal Destroyer
-* Misc Republican Frigates
+* 3 Attack Submarines
+{{</note>}}
+
+##### Missile Fleet
+
+{{<note>}}
+* 6 Ballistic Missile Submarines
 {{</note>}}
 
 

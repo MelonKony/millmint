@@ -6,19 +6,6 @@ emoji: ¡
 color: purple
 image:
 
-tags:
-  - state
-categories:
-  - society
-
-draft: false
-
-type: blank
-
-comments: false
-
-toc: true
-
 aliases:
 - /state-industry/
 ---

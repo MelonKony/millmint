@@ -90,6 +90,13 @@
 	</tr>
 	{{ end }}
 
+	{{ if eq (.Get "Bureau") "Treasury" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Bureau</th>
+	<td><a style="color: var(--color-cosmosol)" href="/treasury/"><span class="fi fi-min-commerce fis"></span> Treasury</a></td>
+	</tr>
+	{{ end }}
+
 	{{ if (.Get "Industry") }}
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Industry</th>

@@ -5,6 +5,8 @@ icon: 🎓
 logo: /svg/crests/parliament/education.svg
 color: education
 
+logocredit: František Boban, 1974, for Ustav Aplikovanej Kybernetiky.
+
 aliases:
 - /solsec/
 ---
