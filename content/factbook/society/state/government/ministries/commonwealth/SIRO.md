@@ -51,8 +51,8 @@ SIRO is headquartered in [Comet](/comet/), but through its constituent organisat
 * **Chief Scientist**, {{<link/CSRE>}}
 * **Chief Scientist**, {{<link/MSRE>}}
 * **Chief Scientist**, {{<link/LSRE>}}
+* **Chairman**, Public Science Board
 * **Executive**, Government Scientists Group
-* **Director**, Commonwealth Air Safety Authority
 {{</note>}}
 
 {{<note panel>}}
