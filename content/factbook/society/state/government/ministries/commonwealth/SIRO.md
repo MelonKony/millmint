@@ -25,12 +25,12 @@ SIRO is headquartered in [Comet](/comet/), but through its constituent organisat
 * {{<link/SIRO>}}
 
 **Constituent Establishments**
-* {{<link/DSRE>}}
 * {{<link/ASRE>}}
-* {{<link/NSRE>}}
 * {{<link/CSRE>}}
-* {{<link/MSRE>}}
+* {{<link/DSRE>}}
 * {{<link/LSRE>}}
+* {{<link/MSRE>}}
+* {{<link/NSRE>}}
 
 **Constituent Laboratories**
 * {{<link/commonwealth-labs>}}
@@ -41,16 +41,16 @@ SIRO is headquartered in [Comet](/comet/), but through its constituent organisat
 ## Executive Council
 
 * **Director**, {{<link/SIRO>}}
-	* Secretary for Research
-		* Officer for Science Policy
-		*  Officer for Research Democracy
-* **Chief Scientist**, {{<link/SIRO>}}
-* **Chief Scientist**, {{<link/DSRE>}}
+* Secretary for Research
+	* Officer for Research Democracy
+	* Officer for Science Policy
 * **Chief Scientist**, {{<link/ASRE>}}
-* **Chief Scientist**, {{<link/NSRE>}}
 * **Chief Scientist**, {{<link/CSRE>}}
-* **Chief Scientist**, {{<link/MSRE>}}
+* **Chief Scientist**, {{<link/DSRE>}}
 * **Chief Scientist**, {{<link/LSRE>}}
+* **Chief Scientist**, {{<link/MSRE>}}
+* **Chief Scientist**, {{<link/NSRE>}}
+* **Chief Scientist**, {{<link/SIRO>}}
 * **Chairman**, Public Science Board
 * **Executive**, Government Scientists Group
 {{</note>}}

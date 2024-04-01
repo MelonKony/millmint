@@ -1,7 +1,7 @@
 ---
 title: ASRE
 fulltitle: ASRE
-icon: 🪐
+icon: 🔬
 color: cosmotran
 logo: /svg/logos/ASRE.svg
 
