@@ -2,7 +2,7 @@
 title: Bureau of Supply
 fulltitle: Bureau of Supply
 icon: 🏛️
-color: cosmokos
+color: defence
 logo: /svg/crests/ministry-of-defence.svg
 
 aliases:

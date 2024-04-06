@@ -2,11 +2,11 @@
 title: Ministry of the Commons
 fulltitle: Ministry of the Commons
 icon: 🏡
-color: cosmotran
+color: commons
 logo: /svg/crests/ministry-of-the-commons.svg
 
 aliases:
-- /cosmotran/
+- /ministry-of-the-commons/
 ---
 {{<note>}}
 ߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}

@@ -2,11 +2,11 @@
 title: Ministry of Light & Water
 fulltitle: Ministry of Light & Water
 icon: ⚡️
-color: cosmolit
+color: lightandwater
 logo: /svg/crests/ministry-of-light-and-water.svg
 
 aliases:
-- /cosmolit/
+- /ministry-of-light-and-water/
 ---
 {{<note>}}
 ߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}

@@ -3,7 +3,7 @@ title: Bureau of Commonwealth Affairs
 fulltitle: Bureau of Commonwealth Affairs
 icon: 🏛️
 logo: /svg/crests/ministry-of-culture.svg
-color: cosmopos
+color: culture
 
 autonumbering: false
 

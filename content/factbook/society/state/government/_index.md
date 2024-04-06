@@ -6,6 +6,8 @@ color: millmint
 list: true
 logo: /svg/crests/vekllei.svg
 
+type: blank
+
 aliases:
   - /government/
 ---
@@ -21,4 +23,28 @@ The <span class="fi fi-min-vekllei fis"></span> **Commonwealth Government** is t
 * Sectors of public administration, including
   * Federal [parliaments](/parliaments/)
   * Constituent [ministries](/ministries/)
+{{</note>}}
+
+{{<note panel>}}
+**Commonwealth Parliaments**
+* {{<link/parliament-of-community>}}
+* {{<link/parliament-of-civics>}}
+* {{<link/parliament-of-democracy>}}
+* {{<link/parliament-of-health>}}
+* {{<link/parliament-of-education>}}
+* {{<link/parliament-of-security>}}
+{{</note>}}
+
+{{<note panel>}}
+**Devolved Ministries**
+* {{<link/ministry-of-commerce>}}
+* {{<link/ministry-of-culture>}}
+* {{<link/ministry-of-defence>}}
+* {{<link/ministry-of-foreign-affairs>}}
+* {{<link/ministry-of-industry>}}
+* {{<link/ministry-of-labour>}}
+* {{<link/ministry-of-landscape>}}
+* {{<link/ministry-of-light-and-water>}}
+* {{<link/ministry-of-the-commons>}}
+* {{<link/ministry-of-the-commonwealth>}}
 {{</note>}}

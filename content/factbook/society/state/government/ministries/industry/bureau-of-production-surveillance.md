@@ -3,7 +3,7 @@ title: Bureau of Production Surveillance
 fulltitle: Bureau of Production Surveillance
 icon: 🏛️
 logo: /svg/crests/ministry-of-industry.svg
-color: cosmosec
+color: industry
 
 aliases:
 - /bureau-of-production-surveillance/

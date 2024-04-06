@@ -2,7 +2,7 @@
 title: Bureau of Communications
 fulltitle: Bureau of Communications
 icon: 🏛️
-color: cosmosea
+color: foreignaffairs
 logo: /svg/crests/ministry-of-foreign-affairs.svg
 
 aliases:

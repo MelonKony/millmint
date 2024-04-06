@@ -2,7 +2,7 @@
 title: Military
 fulltitle: Military of Vekllei
 icon: ⚔️
-color: cosmokos
+color: defence
 logo: /svg/crests/ministry-of-defence.svg
 
 autonumbering: false

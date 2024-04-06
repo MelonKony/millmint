@@ -2,7 +2,7 @@
 title: CSRE
 fulltitle: CSRE
 icon: 🔬
-color: cosmosec
+color: industry
 logo: /svg/logos/CSRE.svg
 
 logocredit: W.M. Landwehr & Don Davis, 1971, for the Quincy Annual Art Show

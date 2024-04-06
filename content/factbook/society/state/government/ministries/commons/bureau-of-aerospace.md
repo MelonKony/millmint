@@ -2,7 +2,7 @@
 title: Bureau of Aerospace
 fulltitle: Bureau of Aerospace
 icon: 🏛️
-color: cosmotran
+color: commons
 logo: /svg/crests/ministry-of-the-commons.svg
 autonumbering: false
 

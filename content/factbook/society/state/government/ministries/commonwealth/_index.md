@@ -2,11 +2,11 @@
 title: Ministry of the Commonwealth
 fulltitle: Ministry of the Commonwealth
 icon: 🌐
-color: cosmocom
+color: commonwealth
 logo: /svg/crests/ministry-of-the-commonwealth.svg
 
 aliases:
-- /cosmocom/
+- /ministry-of-the-commonwealth/
 ---
 {{<note>}}
 ߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}

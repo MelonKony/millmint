@@ -2,7 +2,7 @@
 title: Bureau of Water
 fulltitle: Bureau of Water
 icon: 🏛️
-color: cosmolit
+color: lightandwater
 logo: /svg/crests/ministry-of-light-and-water.svg
 
 aliases:

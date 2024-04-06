@@ -2,7 +2,7 @@
 title: Bureau of Securities
 fulltitle: Bureau of Securities
 icon: 🏛️
-color: cosmosol
+color: commerce
 logo: /svg/crests/ministry-of-commerce.svg
 autonumbering: false
 

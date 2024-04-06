@@ -2,7 +2,7 @@
 title: ASRE
 fulltitle: ASRE
 icon: 🔬
-color: cosmotran
+color: commons
 logo: /svg/logos/ASRE.svg
 
 logocredit: W.M. Landwehr & Don Davis, 1971, for the Quincy Annual Art Show

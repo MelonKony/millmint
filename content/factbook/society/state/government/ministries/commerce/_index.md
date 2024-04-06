@@ -2,11 +2,11 @@
 title: Ministry of Commerce
 fulltitle: Ministry of Commerce
 icon: 💵
-color: cosmosol
+color: commerce
 logo: /svg/crests/ministry-of-commerce.svg
 
 aliases:
-- /cosmosol/
+- /ministry-of-commerce/
 ---
 {{<note>}}
 ߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}

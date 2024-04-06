@@ -2,7 +2,7 @@
 title: Bureau of Commonwealth Corporations
 fulltitle: Bureau of Commonwealth Corporations
 icon: 🏛️
-color: cosmocom
+color: commonwealth
 logo: /svg/crests/ministry-of-the-commonwealth.svg
 
 aliases:

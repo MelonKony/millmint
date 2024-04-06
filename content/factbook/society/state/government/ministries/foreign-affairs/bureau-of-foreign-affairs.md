@@ -2,7 +2,7 @@
 title: Bureau of Foreign Affairs
 fulltitle: Bureau of Foreign Affairs
 icon: 🏛️
-color: cosmosea
+color: foreignaffairs
 logo: /svg/crests/ministry-of-foreign-affairs.svg
 
 aliases:

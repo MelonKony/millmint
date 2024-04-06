@@ -2,7 +2,7 @@
 title: Bureau of Meteorology
 fulltitle: Bureau of Meteorology
 icon: 🏛️
-color: cosmogos
+color: landscape
 logo: /svg/crests/ministry-of-landscape.svg
 
 aliases:

@@ -2,7 +2,7 @@
 title: LSRE
 fulltitle: LSRE
 icon: 🔬
-color: cosmogos
+color: landscape
 logo: /svg/logos/LSRE.svg
 
 logocredit: W.M. Landwehr & Don Davis, 1971, for the Quincy Annual Art Show

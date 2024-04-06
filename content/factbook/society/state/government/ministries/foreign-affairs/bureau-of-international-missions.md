@@ -2,7 +2,7 @@
 title: Bureau of International Missions
 fulltitle: Bureau of International Missions
 icon: 🏛️
-color: cosmosea
+color: foreignaffairs
 logo: /svg/crests/ministry-of-foreign-affairs.svg
 
 aliases:

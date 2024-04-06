@@ -2,7 +2,7 @@
 title: Bureau of Statistics
 fulltitle: Bureau of Statistics
 icon: 🏛️
-color: cosmocom
+color: commonwealth
 logo: /svg/crests/ministry-of-the-commonwealth.svg
 
 aliases:

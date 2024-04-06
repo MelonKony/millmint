@@ -2,7 +2,7 @@
 title: Bureau of Nature
 fulltitle: Bureau of Nature
 icon: 🏛️
-color: cosmotran
+color: commons
 logo: /svg/crests/ministry-of-the-commons.svg
 
 aliases:

@@ -2,11 +2,11 @@
 title: Ministry of Defence
 fulltitle: Ministry of Defence
 icon: ⚔️
-color: cosmokos
+color: defence
 logo: /svg/crests/ministry-of-defence.svg
 
 aliases:
-- /cosmokos/
+- /ministry-of-defence/
 ---
 {{<note>}}
 ߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}

@@ -346,20 +346,20 @@ html {
   --color-yellow: #ea9365;
   --color-millmint: #de1857;
   --color-vekllei: #3649bb;
-  --color-cosmosol: #e4a00e;
-  --color-cosmotran: #f3852b;
-  --color-cosmocom: #e5388f;
-  --color-cosmopos: #80bf22;
-  --color-cosmokos: #ed220d;
-  --color-cosmosea: #522f93;
-  --color-cosmosec: #2559a7;
-  --color-cosmolab: #a12b2e;
-  --color-cosmogos: #13ac43;
-  --color-cosmolit: #56a3bb;
+  --color-commerce: #e4a00e;
+  --color-commons: #f3852b;
+  --color-commonwealth: #e5388f;
+  --color-culture: #80bf22;
+  --color-defence: #ed220d;
+  --color-foreignaffairs: #522f93;
+  --color-industry: #2559a7;
+  --color-labour: #a12b2e;
+  --color-landscape: #13ac43;
+  --color-lightandwater: #56a3bb;
   --color-education: #3b6fb9;
   --color-security: #f0564b;
   --color-community: #ffa254;
-  --color-culture: #3bba5e;
+  --color-civic: #3bba5e;
   --color-democracy: #ce509f;
   --color-health: #f65171; }
 
@@ -3116,52 +3116,52 @@ ol.timeline .event {
   background-image: url(../svg/crests/parliament-police.svg); }
 
 .fi-min-culture.fis {
-  background-image: url(../svg/crests/ministry-of-culture.svg); }
+  background-image: url(../svg/crests/crownless/culture.svg); }
 
 .fi-min-commerce.fis {
-  background-image: url(../svg/crests/ministry-of-commerce.svg); }
+  background-image: url(../svg/crests/crownless/commerce.svg); }
 
 .fi-min-commons.fis {
-  background-image: url(../svg/crests/ministry-of-the-commons.svg); }
+  background-image: url(../svg/crests/crownless/commons.svg); }
 
 .fi-min-commonwealth.fis {
-  background-image: url(../svg/crests/ministry-of-the-commonwealth.svg); }
+  background-image: url(../svg/crests/crownless/commonwealth.svg); }
 
 .fi-min-light-and-water.fis {
-  background-image: url(../svg/crests/ministry-of-light-and-water.svg); }
+  background-image: url(../svg/crests/crownless/light-and-water.svg); }
 
 .fi-min-defence.fis {
-  background-image: url(../svg/crests/ministry-of-defence.svg); }
+  background-image: url(../svg/crests/crownless/defence.svg); }
 
 .fi-min-foreign-affairs.fis {
-  background-image: url(../svg/crests/ministry-of-foreign-affairs.svg); }
+  background-image: url(../svg/crests/crownless/foreign-affairs.svg); }
 
 .fi-min-industry.fis {
-  background-image: url(../svg/crests/ministry-of-industry.svg); }
+  background-image: url(../svg/crests/crownless/industry.svg); }
 
 .fi-min-labour.fis {
-  background-image: url(../svg/crests/ministry-of-labour.svg); }
+  background-image: url(../svg/crests/crownless/labour.svg); }
 
 .fi-min-landscape.fis {
-  background-image: url(../svg/crests/ministry-of-landscape.svg); }
+  background-image: url(../svg/crests/crownless/landscape.svg); }
 
 .fi-min-community.fis {
-  background-image: url(../svg/crests/parliament/community.svg); }
+  background-image: url(../svg/crests/crownless/community.svg); }
 
 .fi-min-education.fis {
-  background-image: url(../svg/crests/parliament/education.svg); }
+  background-image: url(../svg/crests/crownless/education.svg); }
 
 .fi-min-security.fis {
-  background-image: url(../svg/crests/parliament/security.svg); }
+  background-image: url(../svg/crests/crownless/security.svg); }
 
 .fi-min-civic.fis {
-  background-image: url(../svg/crests/parliament/civic.svg); }
+  background-image: url(../svg/crests/crownless/civic.svg); }
 
 .fi-min-democracy.fis {
-  background-image: url(../svg/crests/parliament/democracy.svg); }
+  background-image: url(../svg/crests/crownless/democracy.svg); }
 
 .fi-min-health.fis {
-  background-image: url(../svg/crests/parliament/health.svg); }
+  background-image: url(../svg/crests/crownless/health.svg); }
 
 .fi-min-combank.fis {
   background-image: url(../svg/logos/commonwealth-bank.svg); }
@@ -3246,6 +3246,9 @@ ol.timeline .event {
 
 .fi-min-csre.fis {
   background-image: url(../svg/logos/CSRE.svg); }
+
+.fi-min-noshem.fis {
+  background-image: url(../svg/logos/noshem.svg); }
 
 .fib {
   background-size: contain;

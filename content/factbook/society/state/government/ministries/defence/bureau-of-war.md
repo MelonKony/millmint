@@ -2,7 +2,7 @@
 title: Bureau of War
 fulltitle: Bureau of War
 icon: 🏛️
-color: cosmokos
+color: defence
 logo: /svg/crests/ministry-of-defence.svg
 
 aliases:

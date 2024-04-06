@@ -2,7 +2,7 @@
 title: Bureau of Materials
 fulltitle: Bureau of Materials
 icon: 🏛️
-color: cosmogos
+color: landscape
 logo: /svg/crests/ministry-of-landscape.svg
 
 aliases:

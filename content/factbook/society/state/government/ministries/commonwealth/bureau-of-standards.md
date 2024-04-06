@@ -2,7 +2,7 @@
 title: Bureau of Standards
 fulltitle: Bureau of Standards
 icon: 🏛️
-color: cosmocom
+color: commonwealth
 logo: /svg/crests/ministry-of-the-commonwealth.svg
 
 aliases:

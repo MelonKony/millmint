@@ -2,7 +2,7 @@
 title: Bureau of Roads & Paths
 fulltitle: Bureau of Roads & Paths
 icon: 🏛️
-color: cosmotran
+color: commons
 logo: /svg/crests/ministry-of-the-commons.svg
 
 aliases:

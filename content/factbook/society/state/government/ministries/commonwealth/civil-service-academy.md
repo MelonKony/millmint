@@ -2,7 +2,7 @@
 title: Commonwealth Civil Service Academy
 fulltitle: Commonwealth Civil Service Academy
 icon: 🏛️
-color: cosmocom
+color: commonwealth
 logo: /svg/crests/ministry-of-the-commonwealth.svg
 
 aliases:

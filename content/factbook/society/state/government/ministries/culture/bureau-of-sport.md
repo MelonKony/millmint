@@ -3,7 +3,7 @@ title: Bureau of Sport
 fulltitle: Bureau of Sport
 icon: 🏛️
 logo: /svg/crests/ministry-of-culture.svg
-color: cosmopos
+color: culture
 
 aliases:
 - /bureau-of-sport/

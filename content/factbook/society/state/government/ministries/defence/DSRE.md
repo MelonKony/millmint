@@ -2,7 +2,7 @@
 title: DSRE
 fulltitle: DSRE
 icon: 🔬
-color: cosmokos
+color: defence
 logo: /svg/logos/DSRE.svg
 
 logocredit: W.M. Landwehr & Don Davis, 1971, for the Quincy Annual Art Show

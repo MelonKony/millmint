@@ -3,7 +3,7 @@ title: Commonwealth Media Authority
 fulltitle: Commonwealth Media Authority
 icon: 🏢
 logo: /svg/crests/ministry-of-culture.svg
-color: cosmopos
+color: culture
 
 aliases:
 - /commonwealth-media-authority/

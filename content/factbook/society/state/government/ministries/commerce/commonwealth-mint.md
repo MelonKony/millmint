@@ -2,7 +2,7 @@
 title: Commonwealth Mint
 fulltitle: Commonwealth Mint
 icon: 🪙
-color: cosmosol
+color: commerce
 logo: /svg/crests/ministry-of-commerce.svg
 
 aliases:

@@ -2,7 +2,7 @@
 title: Bureau of Public Works
 fulltitle: Bureau of Public Works
 icon: 🏛️
-color: cosmotran
+color: commons
 logo: /svg/crests/ministry-of-the-commons.svg
 autonumbering: false
 

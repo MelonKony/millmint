@@ -2,7 +2,7 @@
 title: Commonwealth Electoral Commission
 fulltitle: Commonwealth Electoral Commission
 icon: 🏛️
-color: cosmocom
+color: commonwealth
 logo: /svg/crests/ministry-of-the-commonwealth.svg
 
 aliases:

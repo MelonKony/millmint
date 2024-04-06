@@ -2,7 +2,7 @@
 title: Bureau of Conservation
 fulltitle: Bureau of Conservation
 icon: 🏛️
-color: cosmogos
+color: landscape
 logo: /svg/crests/ministry-of-landscape.svg
 
 aliases:

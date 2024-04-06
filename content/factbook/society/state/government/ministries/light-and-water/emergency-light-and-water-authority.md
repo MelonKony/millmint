@@ -2,7 +2,7 @@
 title: Emergency Light & Water Authority
 fulltitle: Emergency Light & Water Authority
 icon: 🏛️
-color: cosmolit
+color: lightandwater
 logo: /svg/crests/ministry-of-light-and-water.svg
 
 aliases:

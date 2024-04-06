@@ -2,7 +2,7 @@
 title: Bureau of Space
 fulltitle: Bureau of Space
 icon: 🏛️
-color: cosmotran
+color: commons
 logo: /svg/crests/ministry-of-the-commons.svg
 
 aliases:

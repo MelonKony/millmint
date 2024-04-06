@@ -2,7 +2,7 @@
 title: Bureau of Home Affairs
 fulltitle: Bureau of Home Affairs
 icon: 🏛️
-color: cosmosea
+color: foreignaffairs
 logo: /svg/crests/ministry-of-foreign-affairs.svg
 
 aliases:

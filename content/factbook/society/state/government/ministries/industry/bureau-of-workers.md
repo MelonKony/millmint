@@ -3,7 +3,7 @@ title: Bureau of Workers
 fulltitle: Bureau of Workers
 icon: 🏛️
 logo: /svg/crests/ministry-of-industry.svg
-color: cosmosec
+color: industry
 
 aliases:
 - /bureau-of-workers/

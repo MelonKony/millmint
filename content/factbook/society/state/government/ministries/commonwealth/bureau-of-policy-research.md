@@ -2,7 +2,7 @@
 title: Bureau of Policy Research
 fulltitle: Bureau of Policy Research
 icon: 🏛️
-color: cosmocom
+color: commonwealth
 logo: /svg/crests/ministry-of-the-commonwealth.svg
 autonumbering: false
 

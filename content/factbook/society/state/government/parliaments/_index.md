@@ -19,12 +19,10 @@ The Commonwealth *parliaments* are a superior kind of [ministry](/ministries/) i
 {{</note>}}
 
 {{<note panel>}}
-
 * {{<link/parliament-of-community>}}
 * {{<link/parliament-of-civics>}}
 * {{<link/parliament-of-democracy>}}
 * {{<link/parliament-of-health>}}
 * {{<link/parliament-of-education>}}
 * {{<link/parliament-of-security>}}
-
 {{</note>}}

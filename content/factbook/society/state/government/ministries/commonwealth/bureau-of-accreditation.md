@@ -2,7 +2,7 @@
 title: Bureau of Accreditation
 fulltitle: Bureau of Accreditation
 icon: 🏛️
-color: cosmocom
+color: commonwealth
 logo: /svg/crests/ministry-of-the-commonwealth.svg
 
 aliases:

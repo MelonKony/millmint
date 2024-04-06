@@ -4,7 +4,7 @@ fulltitle: Bureau of Chapels
 icon: 🏛️
 rgb: 155, 67, 199
 logo: /svg/crests/ministry-of-labour.svg
-color: cosmolab
+color: labour
 
 aliases:
 - /bureau-of-chapels/

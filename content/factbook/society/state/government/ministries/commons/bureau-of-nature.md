@@ -2,7 +2,7 @@
 title: Bureau of Oceans
 fulltitle: Bureau of Oceans
 icon: 🏛️
-color: cosmotran
+color: commons
 logo: /svg/crests/ministry-of-the-commons.svg
 
 aliases:

@@ -2,7 +2,7 @@
 title: Commonwealth Treasury
 fulltitle: Commonwealth Treasury
 icon: 🏛️
-color: cosmosol
+color: commerce
 logo: /svg/crests/ministry-of-commerce.svg
 autonumbering: false
 

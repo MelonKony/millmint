@@ -3,10 +3,10 @@ title: Ministry of Industry
 fulltitle: Ministry of Industry
 icon: ⚙️
 logo: /svg/crests/ministry-of-industry.svg
-color: cosmosec
+color: industry
 
 aliases:
-- /cosmosec/
+- /ministry-of-industry/
 ---
 {{<note>}}
 ߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}

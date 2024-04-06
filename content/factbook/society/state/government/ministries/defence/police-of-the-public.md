@@ -2,7 +2,7 @@
 title: Police of the Public
 fulltitle: Police of the Public
 icon: ⚖️
-color: cosmokos
+color: defence
 logo: /svg/crests/ministry-of-defence.svg
 
 aliases:

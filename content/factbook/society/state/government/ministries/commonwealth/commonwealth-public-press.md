@@ -2,7 +2,7 @@
 title: Commonwealth Public Press
 fulltitle: Commonwealth Public Press
 icon: 📖
-color: cosmocom
+color: commonwealth
 logo: /svg/crests/ministry-of-the-commonwealth.svg
 
 aliases:

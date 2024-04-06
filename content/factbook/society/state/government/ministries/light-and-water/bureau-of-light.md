@@ -2,7 +2,7 @@
 title: Bureau of Light
 fulltitle: Bureau of Light
 icon: 🏛️
-color: cosmolit
+color: lightandwater
 logo: /svg/crests/ministry-of-light-and-water.svg
 autonumbering: false
 

@@ -2,7 +2,7 @@
 title: Bureau of Rail
 fulltitle: Bureau of Rail
 icon: 🏛️
-color: cosmotran
+color: commons
 logo: /svg/crests/ministry-of-the-commons.svg
 autonumbering: false
 

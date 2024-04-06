@@ -3,7 +3,7 @@ title: Commonwealth Olympic Committee
 fulltitle: Commonwealth Olympic Committee
 icon: 🏢
 logo: /svg/crests/ministry-of-culture.svg
-color: cosmopos
+color: culture
 
 aliases:
 - /commonwealth-olympic-committee/

@@ -3,7 +3,7 @@ title: Bureau of Industry
 fulltitle: Bureau of Industry
 icon: 🏛️
 logo: /svg/crests/ministry-of-industry.svg
-color: cosmosec
+color: industry
 
 aliases:
 - /bureau-of-industry/

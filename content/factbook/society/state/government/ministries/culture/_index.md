@@ -3,10 +3,10 @@ title: Ministry of Culture
 fulltitle: Ministry of Culture
 icon: 🎨
 logo: /svg/crests/ministry-of-culture.svg
-color: cosmopos
+color: culture
 
 aliases:
-- /cosmopos/
+- /ministry-of-culture/
 ---
 {{<note>}}
 ߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}

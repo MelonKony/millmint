@@ -2,7 +2,7 @@
 title: Bureau of Agriculture
 fulltitle: Bureau of Agriculture
 icon: 🏛️
-color: cosmogos
+color: landscape
 logo: /svg/crests/ministry-of-landscape.svg
 
 aliases:
