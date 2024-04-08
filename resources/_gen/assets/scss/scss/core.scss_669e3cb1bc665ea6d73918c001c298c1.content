@@ -614,7 +614,8 @@ main {
   padding: 1.5rem;
   border-radius: .25rem;
   background-color: var(--body-background);
-  box-sizing: content-box; }
+  box-sizing: content-box;
+  max-width: 600px; }
   @media only screen and (max-width: 500px) {
     main {
       margin-top: 0;
