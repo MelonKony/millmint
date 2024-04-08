@@ -47,6 +47,7 @@ The <span class="fi fi-min-commerce fis"></span> **Bureau of Trade** regulates c
 {{<note panel>}}
 #### Boards & Commissions
 
+* **National Consumer Affairs Commission**: Administration and protection of consumer rights.
 * **National Patent & Trademark Office**: Registration authority for commercial patents and marks.
 * **Intellectual Property Arbitration Board**: Mediator for copyright, patent and trademark disputes before litigation.
 * **Commonwealth Commercial Service**: Promotion of Vekllei products abroad and liaison between industry and foreign partners.
