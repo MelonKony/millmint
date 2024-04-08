@@ -832,7 +832,6 @@ h6 {
 
 @media screen and (min-width: 100rem) {
   main {
-    max-width: 500px;
     width: 30%; } }
 
 @media screen and (min-width: 30%) {
