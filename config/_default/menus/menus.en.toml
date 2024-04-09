@@ -39,41 +39,6 @@
     parent = "factbook"
     weight = 4
   [[navbar]]
-    identifier = "culture"
-    name = "Culture"
-    pre = "🏵"
-    url = "/factbook/society/culture"
-    parent = "factbook"
-    weight = 5
-    [[navbar]]
-      identifier = "language"
-      name = "Language"
-      pre = "📖"
-      url = "/factbook/society/culture/language"
-      parent = "culture"
-      weight = 1
-    [[navbar]]
-      identifier = "metaphysics"
-      name = "Metaphysics"
-      pre = "🪬"
-      url = "/factbook/society/culture/metaphysics"
-      parent = "culture"
-      weight = 2
-    [[navbar]]
-      identifier = "religion"
-      name = "Religion"
-      pre = "💀"
-      url = "/factbook/society/culture/religion"
-      parent = "culture"
-      weight = 3
-    [[navbar]]
-      identifier = "sagas"
-      name = "Sagas"
-      pre = "🕯️"
-      url = "/factbook/society/culture/sagas"
-      parent = "culture"
-      weight = 4
-  [[navbar]]
     identifier = "world"
     name = "World"
     pre = "🌐"
