@@ -62,6 +62,23 @@
       display: none;
     }
   </style>
+  {{ end }}
+
+  {{ if in .Params.categories "commission" }}
+  <style>
+    .article-tag {
+      display: none;
+    }
+    .article-category {
+      display: none;
+    }
+    .headcrumbs {
+      display: none!important;
+    }
+    .pill {
+      display: none;
+    }
+  </style>
 {{ end }}
 
 <!-- hides category elements and feature image for comics -->

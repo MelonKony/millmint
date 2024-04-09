@@ -832,11 +832,11 @@ h6 {
 
 @media screen and (min-width: 100rem) {
   main {
-    width: 30%; } }
+    width: 35%; } }
 
-@media screen and (min-width: 30%) {
+@media screen and (min-width: 35%) {
   main {
-    width: 30%; }
+    width: 35%; }
     main table {
       width: 100%; }
   .portrait {
@@ -3168,6 +3168,9 @@ ol.timeline .event {
 
 .fi-min-commsec.fis {
   background-image: url(../svg/logos/commsec.svg); }
+
+.fi-min-adelectrics.fis {
+  background-image: url(../svg/logos/adelectrics.svg); }
 
 .fi-min-archives.fis {
   background-image: url(../svg/logos/central-archives.svg); }
