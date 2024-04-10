@@ -4,6 +4,7 @@ fulltitle: Commonwealth Aircraft
 icon: ✈️
 logo: /svg/logos/cac.svg
 rgb: 49, 80, 250
+
 logocredit: Ikko Tanaka, 1988, for the Asahi Kaiyo company.
 
 aliases:

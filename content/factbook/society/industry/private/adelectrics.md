@@ -4,7 +4,7 @@ fulltitle: Adelectrics
 icon: 📻
 logo: /svg/logos/adelectrics.svg
 rgb: 182, 34, 71
-logocredit: Maurizio Frizziero & Modulo-Pubblicità, 1974, for for Simone Bouchet.
+logocredit: Maurizio Frizziero & Modulo-Pubblicità, 1974, for Simone Bouchet.
 
 draft: false
 

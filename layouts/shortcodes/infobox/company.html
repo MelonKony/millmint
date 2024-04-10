@@ -60,6 +60,13 @@
 	</tr>
 	{{ end }}
 
+	{{ if eq (.Get "Ministry") "Industry" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Parent</th>
+	<td><a style="color: var(--color-industry)" href="/ministry-of-industry/"><span class="fi fi-min-industry fis"></span> Ministry of Industry</a></td>
+	</tr>
+	{{ end }}
+
 	<!-- Bureaus -->
 
 	{{ if eq (.Get "Bureau") "Rail" }}
@@ -94,6 +101,13 @@
 	<tr>
 	<td style="font-weight: 500; width: 50%;">Bureau</th>
 	<td><a style="color: var(--color-commerce)" href="/treasury/"><span class="fi fi-min-commerce fis"></span> Treasury</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Bureau") "Hydrocarbons" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Bureau</th>
+	<td><a style="color: var(--color-industry)" href="/bureau-of-hydrocarbons/"><span class="fi fi-min-industry fis"></span> Bureau of Hydrocarbons</a></td>
 	</tr>
 	{{ end }}
 

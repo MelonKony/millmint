@@ -3172,6 +3172,9 @@ ol.timeline .event {
 .fi-min-adelectrics.fis {
   background-image: url(../svg/logos/adelectrics.svg); }
 
+.fi-min-oil.fis {
+  background-image: url(../svg/logos/commonwealth-oil.svg); }
+
 .fi-min-archives.fis {
   background-image: url(../svg/logos/central-archives.svg); }
 
