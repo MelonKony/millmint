@@ -85,7 +85,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* Antam Republic (*Antigua*)
 	* Barbados Republic (*Barbados*)
 	* Barbuda Republic (*Barbuda*)
-	* Cama Republic (*Grenada*)
+	* {{<link/cama>}} (*Grenada*)
 	* Karu Republic (*Guadeloupe*)
 	* Kabuli Republic (*Dominica*)
 	* {{<link/kairi>}} (*Trinidad*)

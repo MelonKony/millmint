@@ -34,7 +34,9 @@ aliases:
 
 Education in {{<link/vekllei>}} is life-long, diverse, compulsory in childhood and free. Although there are many types of schooling across the country, compulsory education is characterised by a hybrid system provided in a national curriculum by the {{<link/parliament-of-education>}}.
 
-Education and schooling is an important part of Vekllei society, and its importance is indicated by its dedicated [parliament](/parliaments/). It has good outcomes for Vekllei people, and contributes to the country's reputation as among the most literate and learned societies in the world. It has several education institutions of renown, including Vekllei National University and the Commonwealth University of the West Indies. These outcomes have seen the Vekllei model of education replicated overseas, where it is known as the Atlantic Model.
+Education and schooling is an important part of Vekllei society, and its importance is indicated by its dedicated federal [parliament](/parliaments/). It has good outcomes for Vekllei people, and contributes to the country's reputation as among the most literate and learned societies in the world. It has several education institutions of renown, including Vekllei National University and the Commonwealth University of the West Indies. These outcomes have seen the Vekllei model of education replicated overseas, where it is known as the Atlantic Model.
+
+Government education in Vekllei is unusually diverse, and comprises basically all schooling, including school types that would typically be private or independent in other countries. Government, or 'public' schools include religious, independent and alternative schools in addition to standard municipal schools. These alternatives are an effort by the government to anticipate cultural preferences, such as operating Christian or Islamic schools in religious [republics](/republics/). Nonetheless, schools in Vekllei are co-educational with very few exceptions.
 
 > Education is a founding aspect of the 4th Commonwealth and is to be reaffirmed constantly and faithfully by all Parliaments and public servants, and to this end is to be provided for as a highest priority of the new Parliament.
 
@@ -50,15 +52,16 @@ The distinguishing characteristics of the Atlantic Model are:
 
 {{<note>}}
 * Mixed-age classrooms, mostly comprising an age difference of three years
+* Emphasis of cleanliness, ordered spaces and natural light
 * Democratic or student-led topics and activities
 * Free time for work and play
 * An emphasis on clubs, hobbies and extracurricular activities
 * Shared burdens like cleaning and cooking
 * Short classroom periods broken up by changes in location and subject
 * Tracked subject streams
-* Emphasis of cleanliness, ordered spaces and natural light
 * Activities to improve school spirit and civic identity
 * Emphasis of personal responsibility, improvement, and discipline
+* Emphasis of self-care, growth, emotional control and appearance
 {{</note>}}
 
 
