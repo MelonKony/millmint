@@ -72,7 +72,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* Lucayoneque Republic (*Abaco Islands*)
 	* Mayaguana Republic (*Mayaguana*)
 	* Nema Republic (*New Providence*)
-	* Rum Republic (*San Salvador & Rum Cay*)
+	* {{<link/rum>}} (*San Salvador & Rum Cay*)
 	* {{<link/summers>}} (*Bermuda*)
 	* Yabaque Republic (*Acklins*)
 	* Yuma Republic (*Long Island*)

@@ -102,7 +102,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
 * {{<link/volcanic>}}
 {{</note>}}
 
-{{< details title="List of Vekllei Republics" open=false >}}
+{{< details title="List of Vekllei Republics" open=true >}}
 * **Federal Territories**
   * Meteor Federal Territory
   * Vekllei Antarctic Territories
@@ -138,7 +138,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * Velas Republic (*Sao Jorge Island*)
   * Verde Republic (*Sao Miguel Island*)
 
-* **Bahamas Commonwealth**
+* **Lucayan Commonwealth**
   * Caicos Republic (*Turks & Caicos*)
   * Cigateo Republic (*Eleuthera*)
   * Curateo Republic (*Great Exuma*)
@@ -149,7 +149,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * Lucayoneque Republic (*Abaco Islands*)
   * Mayaguana Republic (*Mayaguana*)
   * Nema Republic (*New Providence*)
-  * Rum Republic (*San Salvador & Rum Cay*)
+  * {{<link/rum>}} (*San Salvador & Rum Cay*)
   * {{<link/summers>}} (*Bermuda*)
   * Yabaque Republic (*Acklins*)
   * Yuma Republic (*Long Island*)
@@ -162,7 +162,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * Antam Republic (*Antigua*)
   * Barbados Republic (*Barbados*)
   * Barbuda Republic (*Barbuda*)
-  * Cama Republic (*Grenada*)
+  * {{<link/cama>}} (*Grenada*)
   * Karu Republic (*Guadeloupe*)
   * Kabuli Republic (*Dominica*)
   * {{<link/kairi>}} (*Trinidad*)
