@@ -27,4 +27,4 @@ Oslolans can wear traditional jewellery with their school uniforms, but swords a
 
 If you've ever wondered why Commonwealth school uniforms are so schizophrenic, this is why.
 
-Almost all of them, from the Falklands to the Bahamas to Iceland, wear the same basic things, but cultural items are allowed and there are no restrictions on hair.
+Almost all of them, from the {{<link/falklands>}} to the Bahamas to Iceland, wear the same basic things, but cultural items are allowed and there are no restrictions on hair.

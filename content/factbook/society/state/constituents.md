@@ -24,7 +24,7 @@ Constituent commonwealths have their own suite of [ministries](/ministries/) and
 * {{<link/arctic>}}
 * Commonwealth Atlantic
 * {{<link/kalina>}}
-* Commonwealth Bahamas
+* Commonwealth Lucaya
 * Commonwealth Verde
 * {{<link/volcanic>}}
 {{</note>}}

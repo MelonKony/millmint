@@ -61,7 +61,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* Velas Republic (*Sao Jorge Island*)
 	* Verde Republic (*Sao Miguel Island*)
 
-* **Bahamas Commonwealth**
+* **Lucayan Commonwealth**
 	* Caicos Republic (*Turks & Caicos*)
 	* Cigateo Republic (*Eleuthera*)
 	* Curateo Republic (*Great Exuma*)

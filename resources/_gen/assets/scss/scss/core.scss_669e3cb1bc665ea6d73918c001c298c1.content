@@ -3067,6 +3067,12 @@ ol.timeline .event {
 .fi-kairi.fis {
   background-image: url(../svg/flags/1x1/kairi.svg); }
 
+.fi-rum {
+  background-image: url(../svg/flags/4x3/rum.svg); }
+
+.fi-rum.fis {
+  background-image: url(../svg/flags/1x1/rum.svg); }
+
 .fi-aloubaera {
   background-image: url(../svg/flags/4x3/aloubaera.svg); }
 

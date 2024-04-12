@@ -97,7 +97,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
 * {{<link/arctic>}}
 * Commonwealth Atlantic
 * {{<link/kalina>}}
-* Commonwealth Bahamas
+* Commonwealth Lucaya
 * Commonwealth Verde
 * {{<link/volcanic>}}
 {{</note>}}
