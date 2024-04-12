@@ -14,7 +14,7 @@ aliases:
 ߷ LSRE is part of the {{<link/ministry-of-landscape>}} and {{<link/SIRO>}}
 {{</note>}}
 
-The <span class="fi fi-min-lsre fis"></span> **Commonwealth Land Science Research Establishment** (NSRE) is a research organisation of the {{<link/ministry-of-landscape>}}. It is primarily tasked with research of environmental and agricultural science. It is a part of {{<link/SIRO>}}, and is the second-largest constituent research establishment in {{<link/vekllei>}} after the {{<link/DSRE>}}, employing 15,000 people.
+The <span class="fi fi-min-lsre fis"></span> **Commonwealth Land Science Research Establishment** (LSRE) is a research organisation of the {{<link/ministry-of-landscape>}}. It is primarily tasked with research of environmental and agricultural science. It is a part of {{<link/SIRO>}}, and is the second-largest constituent research establishment in {{<link/vekllei>}} after the {{<link/DSRE>}}, employing 15,000 people.
 
 {{<note panel>}}
 ## Executive Council
