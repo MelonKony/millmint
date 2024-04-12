@@ -28,7 +28,7 @@ aliases:
 
 The <span class="fi fi-vg"></span> **Virgin Republic** is a [constituent republic](/republics/) of the Kalina Commonwealth in the Caribbean Sea, and is part of {{<link/vekllei>}}. It is the westernmost part of the Kalina island group.
 
-It comprises ten large islands in an archipelago extending eastwards of Puerto Rico (U.S.), as well as about 123 smaller islets and cays. Although these islands are situated on the fault-block mountains of the Puerto Rico trench, they are usually considered part of the Lesser Antilles due to their size and proximity of that chain. Virgin's westernmost island, Vieques, forms the second-closest sea border to another country (Puerto Rico, part of the U.S.) after Kairi.
+It comprises ten large islands in an archipelago extending eastwards of Puerto Rico (U.S.), as well as about 123 smaller islets and cays. Although these islands are situated on the fault-block mountains of the Puerto Rico trench, they are usually considered part of the Lesser Antilles due to their size and proximity of that chain. Virgin's westernmost island, Vieques, forms the second-closest sea border to another country (Puerto Rico, part of the U.S.) after {{<link/kairi>}}.
 
 Before consolidation under the British Atlantic Territories, the Virgin archipelago was subject to competing colonial settlement and claims. English, Spanish, French and Danish ownership at various times contribute to the linguistic and cultural diversity within Virgin today. About three-quarters of its 182,000 people are black, descended from slaves who worked plantations in the colonial period. Substantial minority populations of Arawaks, Indians, Chinese and Europeans also exist. Protestant christianity is the majority religion.
 
