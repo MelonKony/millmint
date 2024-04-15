@@ -615,7 +615,7 @@ main {
   border-radius: .25rem;
   background-color: var(--body-background);
   box-sizing: content-box;
-  max-width: 600px; }
+  max-width: 45rem; }
   @media only screen and (max-width: 500px) {
     main {
       margin-top: 0;
@@ -3177,6 +3177,9 @@ ol.timeline .event {
 
 .fi-min-adelectrics.fis {
   background-image: url(../svg/logos/adelectrics.svg); }
+
+.fi-min-gina.fis {
+  background-image: url(../svg/logos/gina.svg); }
 
 .fi-min-oil.fis {
   background-image: url(../svg/logos/commonwealth-oil.svg); }

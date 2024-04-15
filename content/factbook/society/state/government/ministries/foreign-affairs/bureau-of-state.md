@@ -1,12 +1,12 @@
 ---
-title: Bureau of Foreign Affairs
-fulltitle: Bureau of Foreign Affairs
+title: Bureau of State
+fulltitle: Bureau of State
 icon: 🏛️
 color: foreignaffairs
 logo: /svg/crests/ministry-of-foreign-affairs.svg
 
 aliases:
-- /bureau-of-foreign-affairs/
+- /bureau-of-state/
 ---
 {{<note>}}
 ߷ This bureau is part of the {{<link/ministry-of-foreign-affairs>}}
