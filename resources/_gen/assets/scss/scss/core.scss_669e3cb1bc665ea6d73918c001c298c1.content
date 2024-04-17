@@ -604,7 +604,9 @@ html {
   line-height: 1.67059; }
 
 body {
-  background-color: var(--hint-bg, var(--gray-light)); }
+  background-color: var(--hint-bg, var(--gray-light));
+  background-image: radial-gradient(var(--highlight) 0.5px, var(--hint-bg, var(--gray-light)) 0.5px);
+  background-size: 10px 10px; }
 
 main {
   margin-left: auto;
@@ -847,8 +849,8 @@ table.mc-table {
   margin-bottom: 1.5rem;
   table-layout: auto;
   border-collapse: collapse;
-  display: block;
-  overflow-x: auto; }
+  overflow-x: auto;
+  width: 100%; }
   table.mc-table td, table.mc-table th {
     padding-left: .75rem;
     padding-right: .75rem;
@@ -1693,6 +1695,35 @@ article[autonumbering] .collapsible-menu li a:before {
   content: counters(item, ".") ". ";
   counter-increment: item; }
 
+@keyframes scroll {
+  0% {
+    transform: translateX(0); }
+  100% {
+    transform: translateX(calc(-55px * 17.45)); } }
+
+.slider {
+  margin-top: 1rem;
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative; }
+  .slider::after {
+    right: 0;
+    top: 0;
+    transform: rotateZ(180deg); }
+  .slider::before {
+    left: 0;
+    top: 0; }
+  .slider img {
+    margin: 0 5px;
+    border-radius: .25rem;
+    padding: 0;
+    width: 50px;
+    display: inherit; }
+  .slider .slide-track {
+    display: inline-block;
+    animation: scroll 15s linear infinite;
+    width: calc(55px * 17.45); }
+
 @font-face {
   font-family: "Whirlybats";
   src: url("/fonts/WhirlybatsGX.ttf") format("truetype"); }
@@ -1966,7 +1997,7 @@ img.page {
       padding-top: 0;
       padding-bottom: 0;
       width: 100%;
-      border-left: 1px solid var(--highlight); }
+      border: none; }
     .desktop-toc-wrapper .desktop-toc details,
     .desktop-toc-wrapper .desktop-toc details[open] {
       border-radius: 0;
@@ -1984,7 +2015,7 @@ img.page {
       justify-content: space-between; }
       .desktop-toc-wrapper .desktop-toc details summary .title {
         font-weight: 700;
-        color: var(--gray-heavy);
+        color: var(--highlight);
         filter: none; }
         .desktop-toc-wrapper .desktop-toc details summary .title:hover {
           text-decoration: none;
@@ -3181,6 +3212,12 @@ ol.timeline .event {
 .fi-min-gina.fis {
   background-image: url(../svg/logos/gina.svg); }
 
+.fi-min-CL.fis {
+  background-image: url(../svg/logos/commonwealth-lines.svg); }
+
+.fi-min-atlantis.fis {
+  background-image: url(../svg/logos/atlantis-shipping.svg); }
+
 .fi-min-oil.fis {
   background-image: url(../svg/logos/commonwealth-oil.svg); }
 
@@ -3202,8 +3239,8 @@ ol.timeline .event {
 .fi-min-cac.fis {
   background-image: url(../svg/logos/cac.svg); }
 
-.fi-min-atlantis.fis {
-  background-image: url(../svg/logos/atlantis.svg); }
+.fi-min-atlantis-commodities.fis {
+  background-image: url(../svg/logos/atlantis-commodities.svg); }
 
 .fi-min-rail.fis {
   background-image: url(../svg/logos/rail.svg); }

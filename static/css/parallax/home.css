@@ -83,6 +83,7 @@ See: https://css-tricks.com/aspect-ratio-boxes/
 body {
   background-color: rgba(178, 192, 111, 1);
   color: rgba(98, 136, 43, 1);
+  background-image: none;
 }
 
 /* Default styles for H1 */

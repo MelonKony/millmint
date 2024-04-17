@@ -25,7 +25,7 @@
 			@include px-2;
 			@include py-0;
 			width: 100%;
-			border-left: 1px solid var(--highlight);
+			border: none;
 		}
 
 		details,
@@ -45,7 +45,7 @@
 
 			.title {
 				@include font-bold;
-				@include secondary-color;
+				@include highlight;
 				filter: none;
 
 				&:hover {

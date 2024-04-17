@@ -5,10 +5,7 @@ icon: 🗺️
 color: blue
 
 type: blank
-
-comments: false
-
-draft: false
+menus: main
 
 toc: true
 

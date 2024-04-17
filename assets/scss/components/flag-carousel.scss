@@ -1,0 +1,39 @@
+// Animation
+@keyframes scroll {
+	0% { transform: translateX(0); }
+	100% { transform: translateX(calc(-55px * 17.45))}
+}
+
+
+// Styling
+.slider {
+	margin-top: 1rem;
+	overflow: hidden;
+	white-space: nowrap;
+	position: relative;
+
+	&::after {
+		right: 0;
+		top: 0;
+		transform: rotateZ(180deg);
+	}
+
+	&::before {
+		left: 0;
+		top: 0;
+	}
+
+	img {
+		margin: 0 5px;
+		@include radius-base;
+		@include padding-0;
+		width: 50px;
+		display: inherit;
+	}
+
+	.slide-track {
+		display: inline-block;
+		animation: scroll 15s linear infinite;
+		width: calc(55px * 17.45);
+	}
+}

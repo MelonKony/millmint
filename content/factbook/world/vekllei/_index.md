@@ -11,6 +11,8 @@ toc: true
 aliases:
 - /vekllei/
 ---
+ {{<flag-carousel>}}
+
 {{<infobox/country
    Name="Vekllei Commonwealth"
    Type="Vekllei"

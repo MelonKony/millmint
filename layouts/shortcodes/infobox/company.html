@@ -83,6 +83,13 @@
 	</tr>
 	{{ end }}
 
+	{{ if eq (.Get "Bureau") "Oceans" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Bureau</th>
+	<td><a style="color: var(--color-commons)" href="/bureau-of-oceans/"><span class="fi fi-min-commons fis"></span> Bureau of Oceans</a></td>
+	</tr>
+	{{ end }}
+
 	{{ if eq (.Get "Bureau") "PublicWorks" }}
 	<tr>
 	<td style="font-weight: 500; width: 50%;">Bureau</th>
@@ -124,6 +131,13 @@
 	<tr>
 	<td style="font-weight: 500; width: 50%;">Headquarters</th>
 	<td><a style="color: rgb(60, 106, 217)" href="/caimanas/"><span class="fi fi-caimanas"></span></span> Caimanas</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Headquarters") "Cama" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Headquarters</th>
+	<td><a style="color: rgb 2, 123, 93)" href="/cama/"><span class="fi fi-gd"></span> Cama</a></td>
 	</tr>
 	{{ end }}
 

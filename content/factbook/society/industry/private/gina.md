@@ -23,6 +23,7 @@ aliases:
 	  Headquarters="Oslola"
 	  Founded="1899"
 	  Employees="2,410"
+	  Traded="GNA"
 	  Revenue="1.6 billion"
 	  Incorporation="ScL"
   >}}

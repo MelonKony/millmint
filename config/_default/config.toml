@@ -16,6 +16,7 @@ tag = "tags"
 series = "series"
 sitetag = "sitetag"
 characters ="characters"
+sectionPagesMenu = 'main'
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]

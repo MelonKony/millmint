@@ -32,7 +32,7 @@ The origin of Cama is volcanic, and the interior of its main island is mountaino
 
 By Vekllei standards, life on Cama remains remarkably agrarian and agricultural products make up much of its economy. The municipalisation of the republic in the postwar period has seen many of its plantations converted into co-operative farms, which grow a variety of citrus fruits and tropical plants including nutmeg, of which Cama contributes about 40% of the world's total supply. The transition from subsistence farming to the [commons](/social-economy/) has reduced the overall participation of labour in agriculture, which now is mostly undertaken to maintain a claim on land. Most other products are 'municipal goods,' comprising staple crops and some light industry. Manufacturing, found mostly in the capital, is dominated by brewing, cigarette manufacturing and textiles.
 
-The island of Cama is home to the Vekllei National Medical University, the most prestigious medical institution in Vekllei. Its students make up about an eighth of the republic's total population. Cama and its minor inhabited islands of Carriacou and Petite Martinique are linked by hydrofoil. The capital has a tram network, and narrow-gauge rail circumnavigates its coastline. The only civilian airport is located southwest of the capital.
+The island of Cama is home to the Vekllei National Medical University, the most prestigious medical institution in Vekllei. Its students make up about an eighth of the republic's total population. Cama and its minor inhabited islands of Carriacou and Petite Martinique are linked by hydrofoil. The capital has a tram network, and narrow-gauge rail circumnavigates its coastline. The only civilian airport is located southwest of the capital. Cama is also the headquarters of {{<link/atlantis>}}, the primary shipping [bureau corporation](/bureaus/) of the country, which also operates a port in Assumpción.
 
 {{< details title="Major Industries" open=false >}}
 * **Agriculture**
@@ -57,6 +57,7 @@ The island of Cama is home to the Vekllei National Medical University, the most 
 {{</details>}}
 
 {{< details title="Major Corporations" open=false >}}
+* {{<link/atlantis>}}
 * Caribbea Cooperative Breweries
 * Cama Nutmeg (bureau)
 * The Virgin Chocolate Company

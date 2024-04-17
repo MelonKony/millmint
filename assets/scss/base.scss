@@ -8,6 +8,8 @@ html {
 
 body {
   background-color: var(--hint-bg, var(--gray-light));
+  background-image: radial-gradient(var(--highlight) 0.5px, var(--hint-bg, var(--gray-light)) 0.5px);
+  background-size: 10px 10px;
 }
 
 main {
@@ -282,8 +284,8 @@ table.mc-table {
   @include my-6;
   table-layout: auto;
   border-collapse: collapse;
-  display: block;
   overflow-x: auto;
+  width: 100%;
 
   td, th {
     @include px-3;
