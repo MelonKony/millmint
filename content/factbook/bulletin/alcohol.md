@@ -24,9 +24,9 @@ Part of the *[bulletin](/bulletin/)* series of articles
 * As such, Vekllei is an interesting case study in how the country attempts to encourage social behaviours more broadly.
 {{</note>}}
 
-{{<link/vekllei>}} people, like many others around the world, like to drink. As a feature of their society and its [social economy](/social-economy/), alcohol is free and available. They drink often and socially, and is an important lubricant of conversation and merryment around the country.
+{{<link/vekllei>}} people, like many others around the world, like to drink. As a feature of their society and its [social economy](/social-economy/), alcohol is free and available. They drink often and socially, and wine, beer and spirits are an important lubricant of conversation and merryment around the country.
 
-Like any product of pleasure, however, unrestricted availability poses a severe problem for their society. The dangers are straightforward -- alcohol encourages all kinds of antisocial behaviours, and risks developing into chronic addiction that can ruin lives and destroy families. In this context, the tension between Vekllei's *laissez-faire* society and the common good are most pronounced, precisely because alcohol wears down the social norms that facilitate their close-knit and codependent way of life.
+Like any product of pleasure, however, unrestricted availability poses a grave danger to the health of their society. The dangers are straightforward -- alcohol encourages all kinds of antisocial behaviours, and risks developing into chronic addiction that can ruin lives and destroy families. In this context, the tension between Vekllei's *laissez-faire* society and the common good are most pronounced, precisely because alcohol wears down the social norms that facilitate their close-knit and codependent way of life.
 
 The solution they practice is twofold:
 
