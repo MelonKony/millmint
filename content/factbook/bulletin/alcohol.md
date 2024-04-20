@@ -48,7 +48,7 @@ Perhaps more important, and often overlooked, is the way Vekllei uses policy ind
 
 With guidance from government and industry, Vekllei society has attempted to minimise the harmful effects of binge drinking by, essentially, spreading out alcohol consumption throughout the day. Workplaces often serve aperitifs in the afternoon, and some wine with dinner is expected. Vekllei cuisine also pairs liqueurs with meals -- it is not inappropriate or unusual to have enjoy alcohol in professional lunches, so long as you do not become drunk. People are expected to self-regulate, and those who don't (or cannot) run into trouble quickly.
 
-Consuming smaller amounts more commonly has been shown, in most cases, to provide better outcomes for both health and behaviour. Introducing this practice to teenagers through school has also helped reduce the rates of early binge drinking in the country.
+Consuming smaller amounts more commonly has been shown, in most cases, to provide better outcomes for both health and behaviour. Introducing moderation to teenagers through school has also helped reduce the rates of early binge drinking in the country.
 
 This is not to suggest that these two methods have resolved antisocial drinking or prevented alcoholism -- this is not the case. Vekllei is a large and diverse country, and though its quality of life has improved dramatically, the control of access to alcohol is not perfect, nor would perfect control totally prevent the disease of alcoholism. Vekllei ranks 13th for alcohol consumption per capita, and tens of thousands of Vekllei people die a year drinking it. They are a country that likes to drink, and they have poorer health for it.
 
