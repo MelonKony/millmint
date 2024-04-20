@@ -18,7 +18,7 @@ Part of the *[bulletin](/bulletin/)* series of articles
 {{<note>}}
 **Summary**
 
-* Alcohol is an important social drink for most Vekllei people, and like other products in the commons is widely available at no cost.
+* Vekllei people like alcohol, and in their society it is widely available at no cost.
 * These facts set the country up for catastrophe: alcohol abuse is a social disease that destroys lives and deeply impacts communities.
 * Consequently, its consumption as enabled by the system must also be curbed by the system.
 * This is helped by considered policy, but Vekllei governance targets another aspect of control: culture.
