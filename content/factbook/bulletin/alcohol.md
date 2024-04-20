@@ -46,7 +46,7 @@ While drinking at home is common and perfectly legal, offences committed in the 
 
 Perhaps more important, and often overlooked, is the way Vekllei uses policy indirectly to influence drinking culture. These approaches are often unassuming, and lie outside the legal system. Despite its firm hand on the supply of alcohol, for example, Vekllei has no minimum drinking age at home.[^minimum] In fact, from fourteen years old, students may choose to have a small cup of red wine with their school meals.
 
-Vekllei society, with guidance from government and industry, has attempted to minimise the harmful effects of binge drinking by, essentially, spreading alcohol consumption out throughout the day. Workplaces serve aperitifs in the afternoon, and a few drinks with dinner is common. Vekllei cuisine pairs alcohol with meals -- it is not inappropriate or unusual to have paired liqueurs in professional lunches, or entertaining clients.
+With guidance from government and industry, Vekllei society has attempted to minimise the harmful effects of binge drinking by, essentially, spreading out alcohol consumption throughout the day. Workplaces often serve aperitifs in the afternoon, and some wine with dinner is expected. Vekllei cuisine also pairs liqueurs with meals -- it is not inappropriate or unusual to have enjoy alcohol in professional lunches, so long as you do not become drunk. People are expected to self-regulate, and those who don't (or cannot) run into trouble quickly.
 
 Consuming smaller amounts more commonly has been shown, in most cases, to provide better outcomes for both health and behaviour. Introducing this practice to teenagers through school has also helped reduce the rates of early binge drinking in the country.
 
