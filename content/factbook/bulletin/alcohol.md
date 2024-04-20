@@ -44,7 +44,7 @@ While drinking at home is common and perfectly legal, offences committed in the 
 
 ## Control through culture
 
-Perhaps more important, and often overlooked, is the way Vekllei uses policy indirectly to influence drinking culture. These approaches are often unassuming, and lie outside the legal system. Despite its firm hand on the supply of alcohol, for example, Vekllei has no minimum drinking age at home. In fact, from fourteen years old, students may choose to have a small cup of red wine with their school meals.
+Perhaps more important, and often overlooked, is the way Vekllei uses policy indirectly to influence drinking culture. These approaches are often unassuming, and lie outside the legal system. Despite its firm hand on the supply of alcohol, for example, Vekllei has no minimum drinking age at home.[^minimum] In fact, from fourteen years old, students may choose to have a small cup of red wine with their school meals.
 
 Vekllei society, with guidance from government and industry, has attempted to minimise the harmful effects of binge drinking by, essentially, spreading alcohol consumption out throughout the day. Workplaces serve aperitifs in the afternoon, and a few drinks with dinner is common. Vekllei cuisine pairs alcohol with meals -- it is not inappropriate or unusual to have paired liqueurs in professional lunches, or entertaining clients.
 
@@ -56,3 +56,4 @@ What it does suggest, however, is the overall outline of Vekllei's approach to f
 
 [^service]: Community service in Vekllei is more or less equivalent to community service overseas. It is a light punishment, usually applied to misdemeanours and minor offences, that requires certain hours of work to alleviate the (usually antisocial) offence. The type of work required is scaled to the seriousness of the offence.
 [^establishments]: In Vekllei, these are usually cafes, pubs, restaurants and bars, in that order of availability. Noncompliance with alcohol laws are a fast way to having your business shut down.
+[^minimum]: Although Vekllei has no minimum drinking age, no licensed establishments will serve people under 16 (and usually 18) years of age. In practice, most municipalities are self-regulating, and have their own laws around alcohol consumption. There are also laws against the provision of alcohol by adults to people underage.
