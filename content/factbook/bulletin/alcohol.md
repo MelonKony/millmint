@@ -32,7 +32,7 @@ The solution they practice is twofold:
 
 ## Control through policy
 
-Vekllei has controls on both the supply and consumption of alcohol. Public drunkenness, as well as adjacent antisocial behaviours, are a crime with straightforward legal repercussions. Onetime drunkenness in the street might result in a few hours of contributory service.[^service] Antisocial offences motivated by alcohol consumption carry weightier punishments. Repeat offending easily results in direct state intervention, and may manifest as time in rehabilitation centres or even mental asylums.
+Vekllei has controls on both the supply and consumption of alcohol. Public drunkenness, as well as adjacent antisocial behaviours, are a crime with straightforward legal repercussions. Onetime drunkenness in the street might result in a few hours of community service.[^service] Antisocial offences motivated by alcohol consumption carry weightier punishments. Repeat offending easily results in direct state intervention, and may manifest as time in rehabilitation centres or even compulsory clinics.
 
 Vekllei also has strict laws on the service of alcohol. It has to be provided by licensed establishments.[^establishments] These laws also dictate responsible provision of alcohol. It is illegal to:
 
@@ -54,5 +54,5 @@ This is not to suggest that these two methods have resolved antisocial drinking 
 
 What it does suggest, however, is the overall outline of Vekllei's approach to fostering a strong civic culture in their social economy. The whole system is predicated on it, because happy communities foster their own productivity and improvement. Their dual approach -- reinforcement of good (or at least preferable) habits through culture and restriction of bad ones through law -- is typical of the country's approach to social disease.
 
-[^service]: Contributory service is the Vekllei equivalent of community service overseas. It is a light punishment, usually applied to misdemeanours and minor offences, that requires certain hours of work to alleviate the (usually antisocial) offence. The type of work required is scaled to the seriousness of the offence.
+[^service]: Community service in Vekllei is more or less equivalent to community service overseas. It is a light punishment, usually applied to misdemeanours and minor offences, that requires certain hours of work to alleviate the (usually antisocial) offence. The type of work required is scaled to the seriousness of the offence.
 [^establishments]: In Vekllei, these are usually cafes, pubs, restaurants and bars, in that order of availability. Noncompliance with alcohol laws are a fast way to having your business shut down.
