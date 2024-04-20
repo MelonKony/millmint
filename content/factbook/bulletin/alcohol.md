@@ -40,7 +40,7 @@ Vekllei also has strict laws on the service of alcohol. It has to be provided by
 * Serve alcohol to drunk people
 * Allow people who are violent, quarrelsome, disorderly or behaving indecently on licensed premises
 
-Only drinks with low alcohol content and wine are typically available at home. Everything else must be drunk at licensed premises, and consequently are subject to these laws to curb their drinking.
+While drinking at home is common and perfectly legal, offences committed in the home under the influence of alcohol aggravate legal sentencing dramatically. There is, in general, very little tolerance for antisocial behaviour under the influence of alcohol.
 
 ## Control through culture
 
