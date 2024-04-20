@@ -98,13 +98,11 @@
 	}
 
 	ul {
-		font-weight: bold;
 		margin-top: 0;
 		font-size: 0.875rem;
 
 		ul {
 			line-height: 1;
-			font-weight: normal;
 			margin-left: 0.5rem;
 			margin-right: 0;
 		}
@@ -132,11 +130,11 @@
 	}
 }
 
+// Change from desktop to mobile TOC
+
 .mobile.toc {
 	display: none;
 }
-
-// Change from desktop to mobile TOC
 
 @media (max-width: 1599px) {
 	.desktop-toc-wrapper {
@@ -155,9 +153,17 @@
 
 	.mobile.toc {
 		display: block;
+		background-color: transparent;
+		border: var(--highlight) 1px dotted;
 
-		ul {
-			@include margin-0;
+		summary {
+			@include font-normal;
+			@include highlight;
+		}
+
+		summary::-webkit-details-marker {
+			float: right;
+			margin-top: .45rem;
 		}
 	}
 }

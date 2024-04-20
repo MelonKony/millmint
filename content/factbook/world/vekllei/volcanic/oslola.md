@@ -9,8 +9,8 @@ rgb: 88, 90, 190
 aliases:
 - /oslola/
 ---
-{{<note>}}
-߷ Oslola is part of the {{<link/volcanic>}}
+{{<note series>}}
+ Oslola is part of the {{<link/volcanic>}}
 {{</note>}}
 
 {{<infobox/country

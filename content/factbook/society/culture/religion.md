@@ -20,12 +20,12 @@ description: Upen is an indigenous religion of Vekllei, a utopia created by Hoba
 
 
 ---
-{{<note>}}
-߷ This article is about [Vekllei](/vekllei)
+{{<note series>}}
+ This article is about [Vekllei](/vekllei)
 {{</note>}}
 
-{{<note>}}
-߷ This article is undergoing changes and should not be considered canon.
+{{<note series>}}
+ This article is undergoing changes and should not be considered canon.
 {{</note>}}
 
 ## Overview

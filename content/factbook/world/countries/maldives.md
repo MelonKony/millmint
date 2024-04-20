@@ -12,8 +12,8 @@ toc: true
 aliases:
 - /maldives/
 ---
-{{<note>}}
-߷ Part of the *[world](/world/)* series of articles
+{{<note series>}}
+ Part of the *[world](/world/)* series of articles
 {{</note>}}
 
 The **<span class="fi fi-mv"></span> Republic of the Maldives** is a country in the north Indian Ocean, south of the Indian subcontinent. It is a scattered island chain consisting of clusters of small islands and atolls extending nearly 800km from north to south.

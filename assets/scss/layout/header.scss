@@ -156,6 +156,7 @@ header.info {
 
 	.logo {
 		@include margin-0;
+		@include radius-base;
 		grid-area: logo;
 		display: grid;
 		width: 100%;

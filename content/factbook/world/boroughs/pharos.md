@@ -23,8 +23,8 @@ description: The borough of Pharos is an administrative region of Vekllei, a uto
 
 ## Overview
 
-{{<note>}}
-߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
+{{<note series>}}
+ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
 {{</note>}}
 
 **The borough of Pharos** is an administrative region in the south-west of Vekllei, located in the Capital Region on the Coast of the Americas, north of [Mumen](/factbook/landscape/boroughs/mumen/) and west of [Lola](/factbook/landscape/boroughs/lola/). It is best known for its [World Jetport](#vekllei-world-jetport), which supports much of its aerospace industry. Despite its international reputation as the masthead of Vekllei aerospace, Pharos is a deeply cultural borough with a rich history, and is home to residents with descendants from all over the world.

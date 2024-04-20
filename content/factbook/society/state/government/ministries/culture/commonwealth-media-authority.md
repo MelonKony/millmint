@@ -8,6 +8,6 @@ color: culture
 aliases:
 - /commonwealth-media-authority/
 ---
-{{<note>}}
-߷ The Media Authority is part of the {{<link/ministry-of-culture>}}
+{{<note series>}}
+ The Media Authority is part of the {{<link/ministry-of-culture>}}
 {{</note>}}

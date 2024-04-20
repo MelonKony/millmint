@@ -27,8 +27,8 @@ description: The borough of Miyatvousi is an administrative region of Vekllei, a
 
 ## Overview
 
-{{<note>}}
-߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
+{{<note series>}}
+ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
 {{</note>}}
 
 **The borough of Miyatvousi** is an administrative region in northern Vekllei, located in the Lava Region north of Groisniyah and southwest of [Lita](/factbook/landscape/boroughs/lita/). Its area is highly volcanic and is home to several natural features, including the Gismavik Dome and the Miyatsimi Geyser Fields. The area outside of the city of Miyatvousi is sparsely populated and mostly claimed by flower-tundras and Crown Land.

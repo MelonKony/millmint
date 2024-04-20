@@ -10,8 +10,8 @@ aliases:
 ---
 {{<threat-level>}}
 
-{{<note>}}
-߷ Noshem is part of the {{<link/parliament-of-security>}}
+{{<note series>}}
+ Noshem is part of the {{<link/parliament-of-security>}}
 {{</note>}}
 
 The <span class="fi fi-min-noshem fis"></span> **Commonwealth Intelligence Service** (*National Intelligence*, or *Noshem*) is the secret service of {{<link/vekllei>}} and the Commonwealth’s primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It is organised into 40 semiautonomous outlines, which each may operate several offices. Noshem's sophisticated intelligence network and broad mandate contribute to its legendary reputation abroad, and conspiracies of its presence in almost every country.

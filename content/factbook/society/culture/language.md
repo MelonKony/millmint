@@ -22,8 +22,8 @@ description: The language of Vekllei, a utopia created by Hobart Phillips.
 
  
 ---
-{{<note>}}
-߷ This article is about [**Vekllei**](/factbook/vekllei)
+{{<note series>}}
+ This article is about [**Vekllei**](/factbook/vekllei)
 {{</note>}}
 
 {{<note panel >}}

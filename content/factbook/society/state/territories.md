@@ -14,8 +14,8 @@ aliases:
 
 
 ---
-{{<note>}}
-߷ Part of the *[state](/state/)* series of articles
+{{<note series>}}
+ Part of the *[state](/state/)* series of articles
 {{</note>}}
 
 Territories, dependencies and autonomous regions are administrative areas of the Commonwealth that are not considered [Constituent](/constituents/) members. This is usually because they lack a large permanent population able to form its own [Assembly](/assembly/), or otherwise form part of a special administrative territory that has been federalised.

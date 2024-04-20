@@ -12,8 +12,8 @@ toc: true
 aliases:
 - /india/
 ---
-{{<note>}}
-߷ Part of the *[world](/world/)* series of articles
+{{<note series>}}
+ Part of the *[world](/world/)* series of articles
 {{</note>}}
 
 The **Republic of India** is a country in South East Asia.

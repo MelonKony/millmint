@@ -16,8 +16,8 @@ aliases:
 - /housing/
 - /property/
 ---
-{{<note>}}
-߷ Part of the *[state](/state/)* series of articles
+{{<note series>}}
+ Part of the *[state](/state/)* series of articles
 {{</note>}}
 
 **Property** in {{<link/vekllei>}} is not just a legal right but a foundation of their society. They have a completely new mode of living, without direct precedence or comparison, and the entitlement of ordinary people to land is a basic feature of their vision of a more productive and equitable society.

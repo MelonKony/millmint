@@ -11,8 +11,8 @@ draft: true
 aliases:
 - /mira/
 ---
-{{<note>}}
-߷ Part of the *[territories](/territories/)* series of articles
+{{<note series>}}
+ Part of the *[territories](/territories/)* series of articles
 {{</note>}}
 
 ## Overview

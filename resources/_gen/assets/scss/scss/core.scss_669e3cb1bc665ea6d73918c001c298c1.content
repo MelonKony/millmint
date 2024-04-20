@@ -663,9 +663,6 @@ input {
   color: #1d1d1f;
   border: none; }
 
-mark {
-  background-color: var(--color-background-mark); }
-
 video {
   border-radius: .25rem;
   width: 100%; }
@@ -700,6 +697,10 @@ hr {
 ::placeholder {
   font-size: 14px;
   color: var(--highlight); }
+
+mark {
+  background-color: var(--highlight-background);
+  font-weight: 500; }
 
 details {
   margin-top: .5rem;

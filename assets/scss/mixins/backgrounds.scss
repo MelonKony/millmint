@@ -1,0 +1,20 @@
+/* dots */
+@mixin background-dots {
+	background-color: var(--hint-bg, var(--gray-light));
+	  background-image: radial-gradient(var(--highlight) 0.5px, var(--hint-bg, var(--gray-light)) 0.5px);
+	  background-size: 10px 10px;
+}
+
+/* diagonal */
+@mixin background-diagonal {
+	background-size: 10px 10px;
+	background-image: repeating-linear-gradient(135deg, var(--highlight-background) 0, var(--highlight-background) 1px, var(--body-background) 0, var(--body-background) 50%);
+}
+
+/* graph */
+@mixin background-graph {
+	background-color: var(--body-background);
+	background-image:  linear-gradient(var(--highlight-background) 2px, transparent 2px), linear-gradient(90deg, var(--highlight-background) 2px, transparent 2px), linear-gradient(var(--highlight-background) 1px, transparent 1px), linear-gradient(90deg, var(--highlight-background) 1px, transparent 1px);
+	background-size: 50px 50px, 50px 50px, 10px 10px, 10px 10px;
+	background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
+}

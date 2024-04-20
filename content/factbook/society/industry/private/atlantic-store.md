@@ -11,8 +11,8 @@ draft: false
 aliases:
 - /atlantic-store/
 ---
-{{<note>}}
-߷ Part of the *[industry](/industry/)* series of articles
+{{<note series>}}
+ Part of the *[industry](/industry/)* series of articles
 {{</note>}}
 
 {{<note link>}}

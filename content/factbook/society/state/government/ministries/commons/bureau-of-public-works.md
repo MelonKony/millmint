@@ -10,8 +10,8 @@ aliases:
 - /bureau-of-society/
 - /bureau-of-public-works/
 ---
-{{<note>}}
-߷ This bureau is part of the {{<link/ministry-of-the-commons>}}
+{{<note series>}}
+ This bureau is part of the {{<link/ministry-of-the-commons>}}
 {{</note>}}
 
 The <span class="fi fi-min-commons fis"></span> **Bureau of Public Works** is the general-purpose planning and construction outfit in {{<link/vekllei>}}. It has a broad mandate over construction, improvement and renewal projects in Vekllei at federal, regional and local levels, and works closely with governments to accomplish construction goals.

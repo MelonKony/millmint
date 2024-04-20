@@ -8,6 +8,6 @@ color: culture
 aliases:
 - /national-library/
 ---
-{{<note>}}
-߷ The National Library is part of the {{<link/ministry-of-culture>}}
+{{<note series>}}
+ The National Library is part of the {{<link/ministry-of-culture>}}
 {{</note>}}

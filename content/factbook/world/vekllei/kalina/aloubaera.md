@@ -9,8 +9,8 @@ rgb: 46, 114, 225
 aliases:
 - /aloubaera/
 ---
-{{<note>}}
-߷ Aloubaera is part of {{<link/kalina>}}
+{{<note series>}}
+ Aloubaera is part of {{<link/kalina>}}
 {{</note>}}
 
 {{<infobox/country

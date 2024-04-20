@@ -11,8 +11,8 @@ draft: false
 aliases:
 - /falklands/
 ---
-{{<note>}}
-߷ The Falklands are part of {{<link/antarctica>}}
+{{<note series>}}
+ The Falklands are part of {{<link/antarctica>}}
 {{</note>}}
 
 {{<infobox/country

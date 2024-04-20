@@ -10,8 +10,8 @@ autonumbering: false
 aliases:
 - /bureau-of-public-education/
 ---
-{{<note>}}
-߷ This bureau is part of the {{<link/parliament-of-education>}}
+{{<note series>}}
+ This bureau is part of the {{<link/parliament-of-education>}}
 {{</note>}}
 
 The <span class="fi fi-min-education fis"></span> **Bureau of Public Education** oversees all compulsory education across the Commonwealth, including both government and vocational schools.

@@ -12,6 +12,6 @@ draft: true
 aliases:
 - /nfs/
 ---
-{{<note>}}
-߷ This article is about [Vekllei](/intro/#what-is-vekllei) computing, but most of these technologies are available world-over
+{{<note series>}}
+ This article is about [Vekllei](/intro/#what-is-vekllei) computing, but most of these technologies are available world-over
 {{</note>}}

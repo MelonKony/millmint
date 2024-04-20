@@ -8,6 +8,6 @@ color: culture
 aliases:
 - /bureau-of-press-and-news-media/
 ---
-{{<note>}}
-߷ This bureau is part of the {{<link/ministry-of-culture>}}
+{{<note series>}}
+ This bureau is part of the {{<link/ministry-of-culture>}}
 {{</note>}}

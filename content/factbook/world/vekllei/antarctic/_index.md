@@ -10,8 +10,8 @@ type: blank
 aliases:
 - /antarctic/
 ---
-{{<note>}}
-߷ Commonwealth Antarctica is a [constituent](/constituents/) of {{<link/vekllei>}}
+{{<note series>}}
+ Commonwealth Antarctica is a [constituent](/constituents/) of {{<link/vekllei>}}
 {{</note>}}
 
 {{<infobox/country

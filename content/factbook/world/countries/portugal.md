@@ -12,8 +12,8 @@ toc: true
 aliases:
 - /portugal/
 ---
-{{<note>}}
-߷ Part of the *[world](/world/)* series of articles
+{{<note series>}}
+ Part of the *[world](/world/)* series of articles
 {{</note>}}
 
 The **Second Portuguese Republic** (commonly *Portugal*) was a Portuguese state that existed between 1926 and 2014. It succeeded the democratic First Republic and Portuguese Empire, and was ruled by the *Estado Novo* regime.

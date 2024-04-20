@@ -8,6 +8,6 @@ color: culture
 aliases:
 - /national-institute-of-history/
 ---
-{{<note>}}
-߷ This National Institute is part of the {{<link/ministry-of-culture>}}
+{{<note series>}}
+ This National Institute is part of the {{<link/ministry-of-culture>}}
 {{</note>}}

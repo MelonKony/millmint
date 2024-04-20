@@ -9,8 +9,8 @@ rgb: 57, 122, 205
 aliases:
 - /rum/
 ---
-{{<note>}}
-߷ Rum is part of the Lucayan Commonwealth
+{{<note series>}}
+ Rum is part of the Lucayan Commonwealth
 {{</note>}}
 
 {{<infobox/country

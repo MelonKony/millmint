@@ -8,6 +8,6 @@ color: industry
 aliases:
 - /ministry-of-industry/
 ---
-{{<note>}}
-߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
+{{<note series>}}
+ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
 {{</note>}}

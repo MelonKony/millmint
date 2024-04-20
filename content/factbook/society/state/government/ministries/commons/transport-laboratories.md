@@ -9,6 +9,6 @@ logocredit: Stefan Kanchev, 1967, for the Nauka i Iskustvo Publishing Company.
 aliases:
 - /commonwealth-transport-laboratories/
 ---
-{{<note>}}
-߷ This laboratory is part of the {{<link/ministry-of-the-commons>}}
+{{<note series>}}
+ This laboratory is part of the {{<link/ministry-of-the-commons>}}
 {{</note>}}

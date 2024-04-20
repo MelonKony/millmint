@@ -12,8 +12,8 @@ toc: true
 aliases:
 - /oceans-community/
 ---
-{{<note>}}
-߷ Part of the *[state](/state/)* series of articles
+{{<note series>}}
+ Part of the *[state](/state/)* series of articles
 {{</note>}}
 
 The **Community of Oceans** (CO, or OCEANS) is an international and regional organisation dedicated to the advancement of island and oceangoing communities worldwide. It was founded by the {{<link/vekllei>}} and is headquartered in {{<link/oslola>}}. It has observer status in the United Nations General Assembly and maintains offices throughout the Atlantic, Caribbean and Pacific regions.

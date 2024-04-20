@@ -9,8 +9,8 @@ autonumbering: false
 aliases:
 - /commsec/
 ---
-{{<note>}}
-߷ Commsec is part of the {{<link/ministry-of-commerce>}}
+{{<note series>}}
+ Commsec is part of the {{<link/ministry-of-commerce>}}
 {{</note>}}
 
 {{<note link>}}

@@ -9,8 +9,8 @@ rgb: 241, 112, 30
 aliases:
 - /virgin/
 ---
-{{<note>}}
-߷ Virgin is part of {{<link/kalina>}}
+{{<note series>}}
+ Virgin is part of {{<link/kalina>}}
 {{</note>}}
 
 {{<infobox/country

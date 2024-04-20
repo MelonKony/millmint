@@ -9,8 +9,8 @@ rgb: 215, 18, 45
 aliases:
 - /kairi/
 ---
-{{<note>}}
-߷ Kairi is part of {{<link/vekllei>}} Kalina
+{{<note series>}}
+ Kairi is part of {{<link/vekllei>}} Kalina
 {{</note>}}
 
 {{<infobox/country

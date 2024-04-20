@@ -14,8 +14,8 @@ aliases:
 description: Polises are a type of city-state in Vekllei, a fictional Atlantic country.
 
 ---
-{{<note>}}
-߷ Part of the *[state](/state/)* series of articles
+{{<note series>}}
+ Part of the *[state](/state/)* series of articles
 {{</note>}}
 
 As a federal commonwealth, Vekllei has different kinds of police for different kinds of laws.

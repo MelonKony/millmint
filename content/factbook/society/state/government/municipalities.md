@@ -25,8 +25,8 @@ aliases:
 
 
 ---
-{{<note>}}
-߷ Part of the *[state](/state/)* series of articles
+{{<note series>}}
+ Part of the *[state](/state/)* series of articles
 {{</note>}}
 
 {{<note link>}}

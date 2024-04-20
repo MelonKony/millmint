@@ -12,8 +12,8 @@ toc: true
 aliases:
 - /denmark/
 ---
-{{<note>}}
-߷ Part of the *[world](/world/)* series of articles
+{{<note series>}}
+ Part of the *[world](/world/)* series of articles
 {{</note>}}
 
 The **<span class="fi fi-dk"></span> Kingdom of Denmark** is a country in Western Europe, consisting of the Jutland peninsula extending north of central West Germany and an archipelago of over 400 islands west of it. The majority of its land and people are in Jutland, though its capital, Copenhagen, is located on the westward island of Zealand.

@@ -8,8 +8,8 @@ color: millmint
 aliases:
 - /civil-servants/
 ---
-{{<note>}}
-߷ Part of the *[state](/state/)* series of articles
+{{<note series>}}
+ Part of the *[state](/state/)* series of articles
 {{</note>}}
 
 Vekllei has a large [government](/government/) that is responsible for broad aspects of life and living in {{<link/vekllei>}}. Members of government that are elected are known as *public servants*. Members of government administration, ministries, bureaus and departments that are employed are known as *civil servants*.

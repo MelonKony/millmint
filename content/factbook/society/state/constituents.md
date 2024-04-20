@@ -8,8 +8,8 @@ color: pink
 aliases:
 - /constituents/
 ---
-{{<note>}}
-߷ Part of the *[state](/state/)* series of articles
+{{<note series>}}
+ Part of the *[state](/state/)* series of articles
 {{</note>}}
 
 A **constituent** (also *constituent commonwealth*) is a type regional government in {{<link/vekllei>}} that exercises control over multiple [republics](/republics/). It is an intermediate administrative body with special privileges and responsibilities.

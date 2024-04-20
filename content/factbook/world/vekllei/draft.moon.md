@@ -16,8 +16,8 @@ description: The Vekllei Lunar Territories are an administrative region of the C
 
 
 ---
-{{<note>}}
-߷ This article is about a [**dependent territory**](/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/factbook/vekllei)
+{{<note series>}}
+ This article is about a [**dependent territory**](/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/factbook/vekllei)
 {{</note>}}
 
 ## Overview

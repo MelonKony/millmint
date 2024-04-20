@@ -25,8 +25,8 @@ aliases:
 
 
 ---
-{{<note>}}
-߷ Part of the *[state](/state/)* series of articles
+{{<note series>}}
+ Part of the *[state](/state/)* series of articles
 {{</note>}}
 
 **Consosva** (a portmanteau of *consivismiosn sovis*, lit. "*contributory service*") refers to a collection of laws that require adult citizens in Vekllei to be employed. The legal obligation is fairly straightforward and is easily avoided, and in practice acts as a form of moral pressure from the state.

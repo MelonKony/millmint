@@ -8,6 +8,6 @@ color: culture
 aliases:
 - /commonwealth-olympic-committee/
 ---
-{{<note>}}
-߷ The Olympic Committee is part of the {{<link/ministry-of-culture>}}
+{{<note series>}}
+ The Olympic Committee is part of the {{<link/ministry-of-culture>}}
 {{</note>}}

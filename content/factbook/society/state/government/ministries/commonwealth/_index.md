@@ -8,8 +8,8 @@ logo: /svg/crests/ministry-of-the-commonwealth.svg
 aliases:
 - /ministry-of-the-commonwealth/
 ---
-{{<note>}}
-߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
+{{<note series>}}
+ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
 {{</note>}}
 
 The <span class="fi fi-min-commonwealth fis"></span> **Ministry of the Commonwealth** administers devolved [ministerial](/ministries/) organisations that require planning and expertise coordinated at a national level. It primarily establishes standards for industry and commerce and maintains federal organisations that, for one reason or another, are not subordinated to commonwealth [parliaments](/parliaments/). In this sense, the ministry provides national stewardship to otherwise devolved and decentralised ministerial organisations and commissions. Responsibilities include:

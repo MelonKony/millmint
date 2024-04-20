@@ -19,8 +19,8 @@ comments: false
 aliases:
 - /gr/
 ---
-{{<note>}}
-߷ This article is about [**Vekllei**](/factbook/vekllei) [industry](/industry/)
+{{<note series>}}
+ This article is about [**Vekllei**](/factbook/vekllei) [industry](/industry/)
 {{</note>}}
 
 {{<note panel >}}

@@ -8,8 +8,8 @@ rgb: 247, 93, 54
 aliases:
 - /commonwealth-central-archives/
 ---
-{{<note>}}
-߷ The Archives are part of the {{<link/ministry-of-culture>}}
+{{<note series>}}
+ The Archives are part of the {{<link/ministry-of-culture>}}
 {{</note>}}
 
 The Commonwealth Central Archives (also just *Archives*) is a corporation of the {{<link/ministry-of-culture>}} and is the central documents store, management and database organisation of {{<link/vekllei>}}.

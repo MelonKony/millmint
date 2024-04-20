@@ -27,8 +27,8 @@ description: The railways of Vekllei, a utopia created by Hobart Phillips.
 ---
 
 ## Overview
-{{<note>}}
-߷ This article is about [**Vekllei**](/factbook/vekllei) society
+{{<note series>}}
+ This article is about [**Vekllei**](/factbook/vekllei) society
 {{</note>}}
 
 

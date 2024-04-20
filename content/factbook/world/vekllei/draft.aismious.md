@@ -13,8 +13,8 @@ description: The Commonwealth of Aismious is an administrative region of the Com
 
 
 ---
-{{<note>}}
-߷ This article is about an [**independent territory**](/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/factbook/vekllei)
+{{<note series>}}
+ This article is about an [**independent territory**](/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/factbook/vekllei)
 {{</note>}}
 
 ## Overview

@@ -12,8 +12,8 @@ toc: true
 aliases:
 - /latin-africa/
 ---
-{{<note>}}
-߷ Part of the *[world](/world/)* series of articles
+{{<note series>}}
+ Part of the *[world](/world/)* series of articles
 {{</note>}}
 
 The **<span class="fi fi-laur"></span> Latin Africa United Republics** (also *Latin Africa*) is a federal country located on the west coast of Africa, astride the Equator in its south and stretching up into central Africa. It consists of most of the former French colonies north of the former Belgian Congo (now Zaire), and comprises 28 states representing different cultural and language groups.

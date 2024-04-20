@@ -13,8 +13,8 @@ toc: true
 aliases:
 - /century-society/
 ---
-{{<note>}}
-߷ Part of the *[law](/law/)* series of articles
+{{<note series>}}
+ Part of the *[law](/law/)* series of articles
 {{</note>}}
 
 The "Century Society" Laws were a collection of laws designed to foster educated immigration in postwar {{<link/vekllei>}}. In total, they promised citizenship to any person with a tertiary qualification fleeing a persecuting regime, or citizenship to any person with valuable expertise to contribute[^skills] towards the country. Provided the immigrant could "build their own home,"[^home] they would be incentivised with permanent citizenship for their immediate family and opportunities to participate in the postwar government.

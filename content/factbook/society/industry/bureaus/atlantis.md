@@ -10,8 +10,8 @@ logocredit:  Sandy Holman & Tom Lewis, 1979, for Ocean Gardening Products.
 aliases:
 - /atlantis/
 ---
-{{<note>}}
-߷ Part of the *[industry](/industry/)* series of articles
+{{<note series>}}
+ Part of the *[industry](/industry/)* series of articles
 {{</note>}}
 
 {{<infobox/company

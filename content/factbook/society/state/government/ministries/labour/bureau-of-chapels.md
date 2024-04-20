@@ -9,6 +9,6 @@ color: labour
 aliases:
 - /bureau-of-chapels/
 ---
-{{<note>}}
-߷ This bureau is part of the {{<link/ministry-of-labour>}}
+{{<note series>}}
+ This bureau is part of the {{<link/ministry-of-labour>}}
 {{</note>}}

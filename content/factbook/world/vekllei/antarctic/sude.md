@@ -11,8 +11,8 @@ draft: false
 aliases:
 - /sude/
 ---
-{{<note>}}
-߷ Sude is part of {{<link/antarctica>}}
+{{<note series>}}
+ Sude is part of {{<link/antarctica>}}
 {{</note>}}
 
 {{<infobox/country

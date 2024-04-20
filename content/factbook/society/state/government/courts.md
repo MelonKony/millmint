@@ -22,8 +22,8 @@ toc: true
 
 
 ---
-{{<note>}}
-߷ This article is about an office of the Vekllei Crown
+{{<note series>}}
+ This article is about an office of the Vekllei Crown
 {{</note>}}
 
 {{<section>}}

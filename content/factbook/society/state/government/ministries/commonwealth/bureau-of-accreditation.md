@@ -8,8 +8,8 @@ logo: /svg/crests/ministry-of-the-commonwealth.svg
 aliases:
 - /bureau-of-accreditation/
 ---
-{{<note>}}
-߷ This bureau is part of the {{<link/ministry-of-the-commonwealth>}}
+{{<note series>}}
+ This bureau is part of the {{<link/ministry-of-the-commonwealth>}}
 {{</note>}}
 
 The *Accreditation Directorate* (also *Qualifications Vekllei* or VAD) is a transnational auditor of industrial, commercial and academic qualifications in Vekllei. VAD also develops technical and procedural standards for its responsible commercial and industrial partners. VAD also interfaces directly with international standards organisations on behalf of its subordinate auditors.

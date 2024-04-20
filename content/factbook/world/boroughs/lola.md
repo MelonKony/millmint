@@ -24,8 +24,8 @@ description: The borough of Lola is an administrative region of Vekllei, a utopi
 
 ## Overview
 
-{{<note>}}
-߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
+{{<note series>}}
+ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
 {{</note>}}
 
 **The borough of Lola** is an administrative region in southwest Vekllei, located in the Capital Region on the ancient city of Reykyavic, south of Sojiya and east of Lava. It includes several of Vekllei's oldest inhabited urban neighbourhoods, including Reykjavic, Hosfyourd and Seispri. Characterised by historical architecture and a dense low-rise cityscape, Lola is among Vekllei's most well-known boroughs and makes up part of Vekllei's "original city" boundary along its southwest coast. The neighbourhood of Seispri in Lola is the home of [Tzipora](/factbook/characters/#tzipora).

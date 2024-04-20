@@ -13,8 +13,8 @@ toc: true
 aliases:
 - /health/
 ---
-{{<note>}}
-߷ Part of the *[state](/state/)* series of articles
+{{<note series>}}
+ Part of the *[state](/state/)* series of articles
 {{</note>}}
 
 ## Overview

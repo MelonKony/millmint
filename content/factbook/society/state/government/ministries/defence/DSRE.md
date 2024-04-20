@@ -10,8 +10,8 @@ logocredit: W.M. Landwehr & Don Davis, 1971, for the Quincy Annual Art Show
 aliases:
 - /DSRE/
 ---
-{{<note>}}
-߷ DSRE is part of the {{<link/ministry-of-defence>}} and {{<link/SIRO>}}
+{{<note series>}}
+ DSRE is part of the {{<link/ministry-of-defence>}} and {{<link/SIRO>}}
 {{</note>}}
 
 The <span class="fi fi-min-dsre fis"></span> **Commonwealth Defence Science Research Establishment** (DSRE) is a research organisation of the {{<link/ministry-of-defence>}}. It is a part of {{<link/SIRO>}} and is the primary government military research organisation in {{<link/vekllei>}}. It is also the largest constituent research establishment of {{<link/SIRO>}}, and has nearly 25,000 employees across many offices, research complexes, and secure facilities.

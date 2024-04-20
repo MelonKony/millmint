@@ -19,8 +19,8 @@ comments: false
 aliases:
 - /rail/
 ---
-{{<note>}}
-߷ This article is about [**Vekllei**](/factbook/vekllei) society
+{{<note series>}}
+ This article is about [**Vekllei**](/factbook/vekllei) society
 {{</note>}}
 
 {{<note panel >}}

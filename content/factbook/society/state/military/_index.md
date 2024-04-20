@@ -10,8 +10,8 @@ autonumbering: false
 aliases:
 - /military/
 ---
-{{<note>}}
-߷ Part of the *[state](/state/)* series of articles
+{{<note series>}}
+ Part of the *[state](/state/)* series of articles
 {{</note>}}
 
 The armed forces of {{<link/vekllei>}} are part of the {{<link/ministry-of-defence>}}, and consist of the combined armed capability of the country, as well as services for public emergencies, law enforcement and civil defence.

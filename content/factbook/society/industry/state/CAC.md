@@ -10,8 +10,8 @@ logocredit: Ikko Tanaka, 1988, for the Asahi Kaiyo company.
 aliases:
 - /CAC/
 ---
-{{<note>}}
-߷ Part of the *[industry](/industry/)* series of articles
+{{<note series>}}
+ Part of the *[industry](/industry/)* series of articles
 {{</note>}}
 
 {{<infobox/company

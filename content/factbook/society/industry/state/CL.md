@@ -10,8 +10,8 @@ logocredit:  Al Navarre & Terry Lesniewicz, 1978, for Solar Trucking Incorporate
 aliases:
 - /commonwealth-lines/
 ---
-{{<note>}}
-߷ Part of the *[industry](/industry/)* series of articles
+{{<note series>}}
+ Part of the *[industry](/industry/)* series of articles
 {{</note>}}
 
 {{<infobox/company

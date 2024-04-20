@@ -22,8 +22,8 @@ toc: true
 
 
 ---
-{{<note>}}
-߷ This article is about a privilege of the Vekllei Sovereign
+{{<note series>}}
+ This article is about a privilege of the Vekllei Sovereign
 {{</note>}}
 
 {{<section>}}

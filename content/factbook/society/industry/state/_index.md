@@ -9,8 +9,8 @@ image:
 aliases:
 - /state-industry/
 ---
-{{<note>}}
-߷ This article is about [Vekllei](/intro/#what-is-vekllei)
+{{<note series>}}
+ This article is about [Vekllei](/intro/#what-is-vekllei)
 {{</note>}}
 
 {{<note panel >}}

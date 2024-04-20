@@ -1,4 +1,3 @@
 <blockquote class="note {{ .Get 0 }}">
-  <div class="icon">{{ partial "icon.html" (.Get 0 | default "triangle-exclamation") }}</div>
-  <div class="text">{{ .Inner | markdownify }}</div>
+  <span class="text">{{ .Inner | markdownify }}</span>
 </blockquote>

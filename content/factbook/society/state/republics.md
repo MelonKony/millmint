@@ -15,8 +15,8 @@ aliases:
 description: Polises are a type of city-state in Vekllei, a fictional Atlantic country.
 
 ---
-{{<note>}}
-߷ Part of the *[state](/state/)* series of articles
+{{<note series>}}
+ Part of the *[state](/state/)* series of articles
 {{</note>}}
 
 A **Republic** (Vekllei: *Polis*) is type of city-state that make up the country of {{<link/vekllei>}}. They consist of island city-states known as *Polisa* which together form a [constituent commonwealth](/constituents/). There are 66 republics in Vekllei that together form 8 commonwealths and the country of Vekllei.

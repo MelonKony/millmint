@@ -10,8 +10,8 @@ logocredit: W.M. Landwehr & Don Davis, 1971, for the Quincy Annual Art Show
 aliases:
 - /LSRE/
 ---
-{{<note>}}
-߷ LSRE is part of the {{<link/ministry-of-landscape>}} and {{<link/SIRO>}}
+{{<note series>}}
+ LSRE is part of the {{<link/ministry-of-landscape>}} and {{<link/SIRO>}}
 {{</note>}}
 
 The <span class="fi fi-min-lsre fis"></span> **Commonwealth Land Science Research Establishment** (LSRE) is a research organisation of the {{<link/ministry-of-landscape>}}. It is primarily tasked with research of environmental and agricultural science. It is a part of {{<link/SIRO>}}, and is the second-largest constituent research establishment in {{<link/vekllei>}} after the {{<link/DSRE>}}, employing 15,000 people.

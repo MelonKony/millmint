@@ -17,8 +17,8 @@ toc: true
 aliases:
 - /universal-cotton/
 ---
-{{<note>}}
-߷ Part of the *[industry](/industry/)* series of articles
+{{<note series>}}
+ Part of the *[industry](/industry/)* series of articles
 {{</note>}}
 
 **Universal Cotton** S.c.L. is a [bureau](/bureaus/) based in the Vekllei Islands. It is the largest clothing manufacturer in the Commonwealth, specialising in shirts, trousers, skirts, dresses, and underwear. It supplies most department stores in the Vekllei Islands as part of the *Commons Comfort Scheme* of the Vekllei government, and has a significant presence throughout the Commonwealth.

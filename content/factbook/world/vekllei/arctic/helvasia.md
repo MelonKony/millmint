@@ -9,8 +9,8 @@ rgb: 219, 2, 3
 aliases:
 - /helvasia/
 ---
-{{<note>}}
-߷ Helvasia is part of the {{<link/arctic>}}
+{{<note series>}}
+ Helvasia is part of the {{<link/arctic>}}
 {{</note>}}
 
 {{<infobox/country

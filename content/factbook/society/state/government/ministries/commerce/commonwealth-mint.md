@@ -8,8 +8,8 @@ logo: /svg/crests/ministry-of-commerce.svg
 aliases:
 - /mint/
 ---
-{{<note>}}
-߷ The Mint is part of the {{<link/ministry-of-commerce>}}
+{{<note series>}}
+ The Mint is part of the {{<link/ministry-of-commerce>}}
 {{</note>}}
 
 {{<note link>}}

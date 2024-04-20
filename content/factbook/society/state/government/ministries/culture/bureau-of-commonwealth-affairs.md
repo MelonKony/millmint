@@ -10,8 +10,8 @@ autonumbering: false
 aliases:
 - /bureau-of-commonwealth-affairs/
 ---
-{{<note>}}
-߷ This bureau is part of the {{<link/ministry-of-culture>}}
+{{<note series>}}
+ This bureau is part of the {{<link/ministry-of-culture>}}
 {{</note>}}
 
 The Commonwealth Affairs Office is a body of the {{<link/ministry-of-culture>}} responsible for the documentation of the general disposition, welfare, culture and demography of the people in {{<link/vekllei>}}. This includes political attitudes towards the Commonwealth itself, as well as how decisions made by other Secretariats impact public opinion. It is also the body-advocate of the public of member states who are unable to appeal to their local government directly.

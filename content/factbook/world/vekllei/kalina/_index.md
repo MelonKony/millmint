@@ -11,8 +11,8 @@ type: blank
 aliases:
 - /kalina/
 ---
-{{<note>}}
-߷ Commonwealth Kalina is a [constituent](/constituents/) of {{<link/vekllei>}}
+{{<note series>}}
+ Commonwealth Kalina is a [constituent](/constituents/) of {{<link/vekllei>}}
 {{</note>}}
 
 {{<infobox/country

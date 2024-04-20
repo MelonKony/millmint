@@ -12,8 +12,8 @@ aliases:
 
 
 ---
-{{<note>}}
-߷ Part of the *[culture](/culture/)* series of articles
+{{<note series>}}
+ Part of the *[culture](/culture/)* series of articles
 {{</note>}}
 
 {{<note panel>}}

@@ -25,8 +25,8 @@ aliases:
 
 
 ---
-{{<note>}}
-߷ Part of the *[culture](/culture/)* series of articles
+{{<note series>}}
+ Part of the *[culture](/culture/)* series of articles
 {{</note>}}
 
 **Sagas** are a kind of historic prose narrative that recorded the oral history of early Oslola. They are distinguished by their use of [Topyas](/factbook/society/culture/language/#history/), a predecessor to modern [Topet](/factbook/society/culture/language/#topet/). They are recognised for their realism and poetry, and provide a valuable historical record of the 1st Commonwealth and practices of Old Upen.

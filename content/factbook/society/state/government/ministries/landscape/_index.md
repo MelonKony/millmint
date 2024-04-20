@@ -8,6 +8,6 @@ logo: /svg/crests/ministry-of-landscape.svg
 aliases:
 - /ministry-of-landscape/
 ---
-{{<note>}}
-߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
+{{<note series>}}
+ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
 {{</note>}}

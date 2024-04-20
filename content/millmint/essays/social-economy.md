@@ -101,7 +101,7 @@ Consider how a lifetime without money affects expectations. There is no money-va
 
 From the perspective of a waged society, removing the wage collapses most reasons for working -- but Vekllei does not use money and consequently it is not even considered. This also means it cannot be incentivised in the same way, since basic standards of living are assured and laborious jobs are unattractive. The result is a system in which laborious, boring and tedious labour is basically nonexistent, and therefore cannot replicate the advantages of consumer societies -- a world without factory labour, maids, and textile workers.[^labour] In this society, work becomes an occupation, in the same sense as hobbies and social activities, and satisfies the basic need for "something to do."
 
-**As such, it would be misleading to characterise Vekllei people as "working for free."** They are *not* working for free, they work for a myriad of social and material rewards, and are often incentivised by their own stake in a business or project. This means jobs in Vekllei are characterised by certain features:
+<mark>As such, it would be misleading to characterise Vekllei people as "working for free."</mark> They are *not* working for free, they work for a myriad of social and material rewards, and are often incentivised by their own stake in a business or project. This means jobs in Vekllei are characterised by certain features:
 
 {{<note panel>}}
 **Employment Characteristics of Vekllei**
@@ -172,7 +172,7 @@ Vekllei homes are good, the climate is pleasant, their cities are beautiful, and
 
 Millions of Oslolans and others fled abroad after the Atomic War, and there is a large Vekllei disapora overseas. Since the end of British Occupation, however, Vekllei has received millions of immigrants, and the population has doubled since independence. Many of these migrants were motivated by ideological or material reasons, and many have a vested political interest in advancing their new home.
 
-Vekllei after all is not just a state determined by culture and geography; it is in fact a *sui generis* union of communities, without precedent or comparison. This is politically exciting to many disaffected peoples worldwide in an age of decline and, assisted by generous [century society laws](/century-society/), has inspired many to relocate there in the past 50 years.
+Vekllei after all is not just a state determined by culture and geography; <mark>it is in fact a *sui generis* union of communities, without precedent or comparison.</mark> This is politically exciting to many disaffected peoples worldwide in an age of decline and, assisted by generous [century society laws](/century-society/), has inspired many to relocate there in the past 50 years.
 
 ## Closing Summary
 
@@ -180,7 +180,7 @@ This project is a work in progress, and so advancements are being made all the t
 
 On the other hand, it is also important not to use these cultural contexts as a crutch, and to insist that some unique altruism or generosity powers their society; it doesn't. Worldbuilding projects are geeky and sometimes fantastical, but you can take those things seriously to demonstrate or advocate for deeper truths.
 
-Advocating for moneylessness in Vekllei does not mean I think moneylessness is feasible in the real world. Simultaneously, thinking it is unfeasible in our own world doesn't mean I don't think it's realistic in Vekllei's context, or that I think of Vekllei as a fantasy society with no real insights. It is fictitious, yes, but it also advocates for real things, and while their society wholesale doesn't apply to the real world, it does speak to real truths.
+<mark>Advocating for moneylessness in Vekllei does not mean I think moneylessness is feasible in the real world. Simultaneously, thinking it is unfeasible in our own world doesn't mean I don't think it's realistic in Vekllei's context, or that I think of Vekllei as a fantasy society with no real insights.</mark> It is fictitious, yes, but it also advocates for real things, and while their society wholesale doesn't apply to the real world, it does speak to real truths.
 
 We might not be on the cusp of a moneyless society, but Vekllei also depicts a society in which commodification of life and leisure is nonexistent, and assured standards of living allow parts of society to prosper and contribute to the advancement of their world. They are not saturated with consumerism, and are not fanatically technocratic or historicist. They are proud, multicultural, and good-natured.
 

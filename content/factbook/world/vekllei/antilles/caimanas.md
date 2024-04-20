@@ -11,8 +11,8 @@ draft: false
 aliases:
 - /caimanas/
 ---
-{{<note>}}
-߷ Part of the *[territories](/territories/)* series of articles
+{{<note series>}}
+ Part of the *[territories](/territories/)* series of articles
 {{</note>}}
 
 The **Republic of Caimanas** is a constituent country of {{<link/vekllei>}} consisting of three island city-states in the West Caribbean.

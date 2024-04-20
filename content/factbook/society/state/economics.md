@@ -12,8 +12,8 @@ type: blank
 aliases:
 - /economics/
 ---
-{{<note>}}
-߷ This article is about {{<link/vekllei>}}
+{{<note series>}}
+ This article is about {{<link/vekllei>}}
 {{</note>}}
 
 READ MORE NEW KEYNESIAN GEORGIST ETC

@@ -26,8 +26,8 @@ aliases:
 
 ---
 
-{{<note>}}
-߷ This article is about [Vekllei](/vekllei/) society.
+{{<note series>}}
+ This article is about [Vekllei](/vekllei/) society.
 {{</note>}}
 
 ## Overview

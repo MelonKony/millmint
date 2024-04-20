@@ -11,8 +11,8 @@ aliases:
 - /volcanic/
 - /volcanic-commonwealth/
 ---
-{{<note>}}
-߷ The Volcanic Commonwealth is a [constituent](/constituents/) of {{<link/vekllei>}}
+{{<note series>}}
+ The Volcanic Commonwealth is a [constituent](/constituents/) of {{<link/vekllei>}}
 {{</note>}}
 
 The Volcanic Commonwealth (*Vekllei Volcanic*) is an island Commonwealth in northern {{<link/vekllei>}}, comprising the island of {{<link/oslola>}}, its largest and most populous [republic](/republics/), as well as the republics of [Demon](/demon/) and Aismious.

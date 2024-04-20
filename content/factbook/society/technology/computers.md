@@ -11,8 +11,8 @@ type: blank
 aliases:
 - /computers/
 ---
-{{<note>}}
-߷ This article is about [Vekllei](/intro/#what-is-vekllei) computing, but most of these technologies are available world-over
+{{<note series>}}
+ This article is about computing in {{<link/vekllei>}}, but most of these technologies are available world-over
 {{</note>}}
 
 {{<note panel >}}

@@ -9,8 +9,8 @@ rgb: 6, 136, 72
 aliases:
 - /allia/
 ---
-{{<note>}}
-߷ Allia is part of {{<link/kalina>}}
+{{<note series>}}
+ Allia is part of {{<link/kalina>}}
 {{</note>}}
 
 {{<infobox/country

@@ -16,8 +16,8 @@ description: The Commonwealth of Demon is an administrative region of the Common
 
 
 ---
-{{<note>}}
-߷ This article is about an [**independent territory**](/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/factbook/vekllei)
+{{<note series>}}
+ This article is about an [**independent territory**](/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/factbook/vekllei)
 {{</note>}}
 
 ## Overview

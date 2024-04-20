@@ -11,8 +11,8 @@ logocredit: Shekhar Kamat, 1971, for the State Bank of India.
 aliases:
 - /commonwealth-bank/
 ---
-{{<note>}}
-߷ Part of the *[industry](/industry/)* series of articles
+{{<note series>}}
+ Part of the *[industry](/industry/)* series of articles
 {{</note>}}
 
 {{<infobox/company

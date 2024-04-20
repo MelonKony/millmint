@@ -12,24 +12,8 @@ article blockquote {
 	@include highlight-border;
 	font-style: normal;
 
-	.icon {
-		display: block;
-		text-align: center;
-		display: table-cell;
-		vertical-align: middle;
-		height: auto;
-		width: auto;
-
-		svg {
-			@include px-3;
-			@include text-base;
-			height: 1em;
-			vertical-align: middle;
-		}
-	}
-
 	.text {
-		vertical-align: middle;
+		display: inline-block;
 	}
 }
 
@@ -38,6 +22,30 @@ article blockquote {
 
 	h1, h2, h3, h4, h5, h6 {
 		@include margin-0;
+	}
+}
+
+.note.summary {
+	@include background-graph;
+}
+
+.note.series {
+	@include background-diagonal;
+	display: grid;
+	grid-template-columns: 1.5rem 1fr;
+  	grid-template-rows: 1fr;
+  	gap: 0px 0px;
+  	grid-template-areas:
+		"icon text";
+	&::before {
+		color: var(--highlight);
+		font-size: 18px;
+		content: '߷';
+		align-self: center;
+		grid-area: icon;
+	}
+	.text {
+		grid-area: text;
 	}
 }
 

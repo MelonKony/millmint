@@ -8,6 +8,6 @@ color: labour
 aliases:
 - /ministry-of-labour/
 ---
-{{<note>}}
-߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
+{{<note series>}}
+ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
 {{</note>}}

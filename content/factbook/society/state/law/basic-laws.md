@@ -13,8 +13,8 @@ toc: true
 aliases:
 - /basic-laws/
 ---
-{{<note>}}
-߷ Part of the *[law](/law/)* series of articles
+{{<note series>}}
+ Part of the *[law](/law/)* series of articles
 {{</note>}}
 
 The Basic Laws of the {{<link/vekllei>}} are a quasi-constitutional laws that inform in detail aspects of Vekllei government and state not provided in the [Constitution](/constitution/). They are superior to other types of legislation in the country, and can only be overturned by a supermajority vote in the Senate, a majority referendum of the Commonwealth and approval of the {{<link/cabinet>}}.

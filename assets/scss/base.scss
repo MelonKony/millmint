@@ -7,9 +7,7 @@ html {
 }
 
 body {
-  background-color: var(--hint-bg, var(--gray-light));
-  background-image: radial-gradient(var(--highlight) 0.5px, var(--hint-bg, var(--gray-light)) 0.5px);
-  background-size: 10px 10px;
+  @include background-dots;
 }
 
 main {
@@ -70,10 +68,6 @@ input {
   border: none;
 }
 
-mark {
-  background-color: var(--color-background-mark);
-}
-
 video {
   @include radius-base;
   width: 100%;
@@ -112,6 +106,11 @@ hr {
 ::placeholder {
   font-size: 14px;
   @include highlight;
+}
+
+mark {
+  @include highlight-background;
+  @include font-medium;
 }
 
 details {

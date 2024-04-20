@@ -24,8 +24,8 @@ description: The borough of Voya Voya is an administrative region of Vekllei, a 
 
 ## Overview
 
-{{<note>}}
-߷ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
+{{<note series>}}
+ This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
 {{</note>}}
 
 **The borough of Voya Voya** is an administrative region in southwest Vekllei, located in the Capital Region north of Coyenstisn and east of Lo. It covers the entire area of Voya Voya, a city of some 450,000 people in the capital's extended metro area renowned for its parkland and green spaces. Voya Voya makes up part of the capital's satellite belt of boroughs, characterised by green space and mixed-use residential planning. Voya Voya is often referred to as the capital's "garden borough" for its density and quality of parkland and forest reserves.

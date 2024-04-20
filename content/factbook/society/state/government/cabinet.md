@@ -12,8 +12,8 @@ aliases:
 
 
 ---
-{{<note>}}
-߷ Part of the *[government](/government/)* series of articles
+{{<note series>}}
+ Part of the *[government](/government/)* series of articles
 {{</note>}}
 
 **The Commonwealth Cabinet** is a petty executive of {{<link/vekllei>}}, and exists to advise the {{<link/directory>}} with opinion and technical expertise.

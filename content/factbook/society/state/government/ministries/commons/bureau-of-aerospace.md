@@ -9,8 +9,8 @@ autonumbering: false
 aliases:
 - /bureau-of-aerospace/
 ---
-{{<note>}}
-߷ This bureau is part of the {{<link/ministry-of-the-commons>}}
+{{<note series>}}
+ This bureau is part of the {{<link/ministry-of-the-commons>}}
 {{</note>}}
 
 The <span class="fi fi-min-commons fis"></span> **Bureau of Aerospace** is a bureau of the {{<link/ministry-of-the-commons>}} responsible for policy, administration and operation of aerospace transport in {{<link/vekllei>}}. It incorporates almost all functions necessary for the provision of air transport in a country, including the operation of airports and airstrips, training and employment of air traffic controllers, and provision of emergency search and rescue services, including runway tenders.

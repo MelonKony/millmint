@@ -11,8 +11,8 @@ aliases:
 
 
 ---
-{{<note>}}
-߷ Part of the *[Military](/military/)* series of articles
+{{<note series>}}
+ Part of the *[Military](/military/)* series of articles
 {{</note>}}
 
 ## Overview

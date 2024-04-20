@@ -11,8 +11,8 @@ draft: false
 aliases:
 - /helena/
 ---
-{{<note>}}
-߷ Helena is part of {{<link/antarctica>}}
+{{<note series>}}
+ Helena is part of {{<link/antarctica>}}
 {{</note>}}
 
 {{<infobox/country

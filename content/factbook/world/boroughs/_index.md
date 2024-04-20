@@ -27,8 +27,8 @@ comments: false
 
 ---
 
-{{<note>}}
-߷ This page lists completed articles on [**Vekllei's**](/factbook/vekllei) [**boroughs**](/vekllei/#administrative-divisions)
+{{<note series>}}
+ This page lists completed articles on [**Vekllei's**](/factbook/vekllei) [**boroughs**](/vekllei/#administrative-divisions)
 {{</note>}}
 
 {{<note>}}

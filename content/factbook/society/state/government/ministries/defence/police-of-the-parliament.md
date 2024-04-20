@@ -9,8 +9,8 @@ autonumbering: false
 aliases:
 - /police-of-the-parliament/
 ---
-{{<note>}}
-߷ The Police of the Parliament are part of the {{<link/ministry-of-defence>}}
+{{<note series>}}
+ The Police of the Parliament are part of the {{<link/ministry-of-defence>}}
 {{</note>}}
 
 {{<note link>}}

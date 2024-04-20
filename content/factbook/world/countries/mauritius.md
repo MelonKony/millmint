@@ -12,8 +12,8 @@ toc: true
 aliases:
 - /mauritius/
 ---
-{{<note>}}
-߷ Part of the *[world](/world/)* series of articles
+{{<note series>}}
+ Part of the *[world](/world/)* series of articles
 {{</note>}}
 
 The **<span class="fi fi-mu"></span> Republic of Mauritius** is a country in the south Indian Ocean, west of Madagascar. It consists of scattered volcanic islands fringed by coral reefs, which are rich with arable soil used mostly to grow sugar cane, its largest export. Mauritius's capital, Port Louis, is modern and well connected by good roads and its busy port.

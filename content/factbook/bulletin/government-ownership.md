@@ -16,8 +16,8 @@ categories:
 aliases:
 - /bulletin/government-ownership
 ---
-{{<note>}}
-߷ Part of the *[bulletin](/bulletin/)* series of articles
+{{<note series>}}
+ Part of the *[bulletin](/bulletin/)* series of articles
 {{</note>}}
 
 {{<note panel>}}

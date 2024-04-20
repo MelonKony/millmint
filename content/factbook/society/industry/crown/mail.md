@@ -23,8 +23,8 @@ description: The Royal Mail of Vekllei is the national postal organisation of Ve
 
 
 ---
-{{<note>}}
-߷ This article is about [**Vekllei**](/factbook/vekllei) society
+{{<note series>}}
+ This article is about [**Vekllei**](/factbook/vekllei) society
 {{</note>}}
 
 {{<note panel >}}

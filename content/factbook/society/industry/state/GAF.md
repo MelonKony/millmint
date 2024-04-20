@@ -9,8 +9,8 @@ logocredit: Crawford Dunn, 1964, for Woodward Cape & Associates.
 aliases:
 - /GAF/
 ---
-{{<note>}}
-߷ Part of the *[industry](/industry/)* series of articles
+{{<note series>}}
+ Part of the *[industry](/industry/)* series of articles
 {{</note>}}
 
 {{<infobox/company

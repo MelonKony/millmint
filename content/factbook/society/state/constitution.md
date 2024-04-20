@@ -25,8 +25,8 @@ description: The constitution of Vekllei is the founding text of the 4th Commonw
   }
 </style>
 
-{{<note>}}
-߷ This article is **incomplete**. Be mindful that its content may change.
+{{<note series>}}
+ This article is **incomplete**. Be mindful that its content may change.
 {{</note>}}
 
 {{<note panel>}}

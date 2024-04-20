@@ -5,6 +5,7 @@
 @import 'mixins/margin';
 @import 'mixins/padding';
 @import 'mixins/items';
+@import 'mixins/backgrounds';
 
 @import 'colors';
 @import 'vars';
@@ -24,7 +25,7 @@
 @import 'components/autonumbering';
 @import 'components/flag-carousel';
 @import 'components/fonts';
-@import 'components/hint';
+@import 'components/note';
 @import 'components/images';
 @import 'components/meta';
 @import 'components/toc';

@@ -8,8 +8,8 @@ logo: /svg/crests/ministry-of-foreign-affairs.svg
 aliases:
 - /bureau-of-international-missions/
 ---
-{{<note>}}
-߷ This bureau is part of the {{<link/ministry-of-foreign-affairs>}}
+{{<note series>}}
+ This bureau is part of the {{<link/ministry-of-foreign-affairs>}}
 {{</note>}}
 
 The *Bureau of International Missions* is the formal foreign policymaking apparatus of the Ministry of Foreign Affairs.

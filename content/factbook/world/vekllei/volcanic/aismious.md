@@ -9,8 +9,8 @@ rgb: 67, 101, 187
 aliases:
 - /aismious/
 ---
-{{<note>}}
-߷ Aismious is part of the {{<link/volcanic>}}
+{{<note series>}}
+ Aismious is part of the {{<link/volcanic>}}
 {{</note>}}
 
 {{<infobox/country

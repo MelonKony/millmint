@@ -9,8 +9,8 @@ rgb: 48, 106, 175
 aliases:
 - /ascension/
 ---
-{{<note>}}
-߷ Ascension is part of {{<link/antarctica>}}
+{{<note series>}}
+ Ascension is part of {{<link/antarctica>}}
 {{</note>}}
 
 {{<infobox/country

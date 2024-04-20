@@ -9,8 +9,8 @@ rgb: 2, 123, 93
 aliases:
 - /cama/
 ---
-{{<note>}}
-߷ Cama is part of {{<link/kalina>}}
+{{<note series>}}
+ Cama is part of {{<link/kalina>}}
 {{</note>}}
 
 {{<infobox/country

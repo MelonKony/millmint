@@ -8,8 +8,8 @@ color: community
 aliases:
 - /labsec/
 ---
-{{<note>}}
-߷ This *[parliament](/parliaments/)* is part of {{<link/vekllei>}}.
+{{<note series>}}
+ This *[parliament](/parliaments/)* is part of {{<link/vekllei>}}.
 {{</note>}}
 
 ## Overview

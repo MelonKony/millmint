@@ -9,6 +9,6 @@ logocredit: Stefan Kanchev, 1965, for the Balkan Film Festival.
 aliases:
 - /commonwealth-transport-commission/
 ---
-{{<note>}}
-߷ This commission is part of the {{<link/ministry-of-the-commons>}}
+{{<note series>}}
+ This commission is part of the {{<link/ministry-of-the-commons>}}
 {{</note>}}

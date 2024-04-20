@@ -8,6 +8,6 @@ color: industry
 aliases:
 - /bureau-of-production-surveillance/
 ---
-{{<note>}}
-߷ This bureau is part of the {{<link/ministry-of-industry>}}
+{{<note series>}}
+ This bureau is part of the {{<link/ministry-of-industry>}}
 {{</note>}}

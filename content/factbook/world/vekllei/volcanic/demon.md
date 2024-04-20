@@ -11,8 +11,8 @@ draft: false
 aliases:
 - /demon/
 ---
-{{<note>}}
-߷ Demon is part of the {{<link/volcanic>}}
+{{<note series>}}
+ Demon is part of the {{<link/volcanic>}}
 {{</note>}}
 
 {{<infobox/country

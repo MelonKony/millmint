@@ -9,8 +9,8 @@ image: https://images.millmint.net/fullres/united-grocers.jpg
 aliases:
 - /united-grocers/
 ---
-{{<note>}}
-߷ Part of the *[industry](/industry/)* series of articles
+{{<note series>}}
+ Part of the *[industry](/industry/)* series of articles
 {{</note>}}
 
 {{<infobox/company

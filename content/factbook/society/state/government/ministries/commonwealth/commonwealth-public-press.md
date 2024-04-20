@@ -8,8 +8,8 @@ logo: /svg/crests/ministry-of-the-commonwealth.svg
 aliases:
 - /commonwealth-public-press/
 ---
-{{<note>}}
-߷ The Public Press is part of the {{<link/ministry-of-the-commonwealth>}}
+{{<note series>}}
+ The Public Press is part of the {{<link/ministry-of-the-commonwealth>}}
 {{</note>}}
 
 {{<note panel>}}

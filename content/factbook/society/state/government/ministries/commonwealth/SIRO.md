@@ -10,8 +10,8 @@ logocredit: W.M. Landwehr & Don Davis, 1971, for the Quincy Annual Art Show
 aliases:
 - /SIRO/
 ---
-{{<note>}}
-߷ SIRO is part of the {{<link/ministry-of-the-commonwealth>}}
+{{<note series>}}
+ SIRO is part of the {{<link/ministry-of-the-commonwealth>}}
 {{</note>}}
 
 The <span class="fi fi-min-commonwealth fis"></span> **Commonwealth Science and Industrial Research Organisations Council** (CSIROC, commonly *SIROs* or *SIRO*) is the executive council of the autonomous government research organisations in {{<link/vekllei>}}. With its members combined, the council represents the oldest and largest research organisation in the country. SIRO is part of the {{<link/ministry-of-the-commonwealth>}}, but its constituent research establishments are administered and funded by their relevant [ministries](/ministries/) and [parliaments](/parliaments/).

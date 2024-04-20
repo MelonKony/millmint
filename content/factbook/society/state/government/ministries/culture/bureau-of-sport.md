@@ -8,6 +8,6 @@ color: culture
 aliases:
 - /bureau-of-sport/
 ---
-{{<note>}}
-߷ This bureau is part of the {{<link/ministry-of-culture>}}
+{{<note series>}}
+ This bureau is part of the {{<link/ministry-of-culture>}}
 {{</note>}}

@@ -8,8 +8,8 @@ logo: /svg/crests/ministry-of-defence.svg
 aliases:
 - /police-of-the-public/
 ---
-{{<note>}}
-߷ The Police of the Public are part of the {{<link/ministry-of-defence>}}
+{{<note series>}}
+ The Police of the Public are part of the {{<link/ministry-of-defence>}}
 {{</note>}}
 
 {{<note link>}}

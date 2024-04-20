@@ -12,8 +12,8 @@ toc: true
 aliases:
 - /haiti/
 ---
-{{<note>}}
-߷ Part of the *[world](/world/)* series of articles
+{{<note series>}}
+ Part of the *[world](/world/)* series of articles
 {{</note>}}
 
 The **<span class="fi fi-ht"></span> Black Republic of Haiti** is a country in the Caribbean, occupying the eastern third of the island of Hispaniola. It was founded by black slaves who rebelled and won freedom from France in 1804, and most of its population today is descended from those rebels. Since independence, Haiti has been beset by political and economic problems and natural disasters that have severely impeded its development.

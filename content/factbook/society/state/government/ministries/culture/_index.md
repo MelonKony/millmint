@@ -8,8 +8,8 @@ color: culture
 aliases:
 - /ministry-of-culture/
 ---
-{{<note>}}
-߷ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
+{{<note series>}}
+ This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
 {{</note>}}
 
 The <span class="fi fi-min-culture fis"></span> **Ministry of Culture** (COSMOPOS) maintains museums and monuments, protects and promotes its creative industries and arts, and broadly facilitates cultural values and festivals in {{<link/vekllei>}}.

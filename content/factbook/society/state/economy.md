@@ -10,8 +10,8 @@ draft: true
 aliases:
 - /economy/
 ---
-{{<note>}}
-߷ Part of the *[state](/state/)* series of articles
+{{<note series>}}
+ Part of the *[state](/state/)* series of articles
 {{</note>}}
 
 {{<link/vekllei>}} has a social, mixed market economy characterised by [high productivity](/bulletin/productivity/), low corruption, and dirigisme. Even compared to larger economies the Vekllei market is highly complex, because it incorporates different and sometimes opposed economic mechanisms simultaneously for different purposes.

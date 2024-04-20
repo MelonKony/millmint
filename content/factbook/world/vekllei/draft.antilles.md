@@ -15,8 +15,8 @@ description: The Commonwealth of Kalina is an administrative region of the Commo
 
 ---
 
-{{<note>}}
-߷ This article is about an [**overseas member**](/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/factbook/vekllei)
+{{<note series>}}
+ This article is about an [**overseas member**](/vekllei/#administrative-divisions) of the [**Commonwealth of Vekllei**](/factbook/vekllei)
 {{</note>}}
 
 ## 1. Overview

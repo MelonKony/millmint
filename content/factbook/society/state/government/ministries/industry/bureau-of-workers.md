@@ -8,8 +8,8 @@ color: industry
 aliases:
 - /bureau-of-workers/
 ---
-{{<note>}}
-߷ This bureau is part of the {{<link/ministry-of-industry>}}
+{{<note series>}}
+ This bureau is part of the {{<link/ministry-of-industry>}}
 {{</note>}}
 
 ## Workplace Safety Commission

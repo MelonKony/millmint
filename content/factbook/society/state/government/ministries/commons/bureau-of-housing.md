@@ -9,8 +9,8 @@ autonumbering: false
 aliases:
 - /bureau-of-housing/
 ---
-{{<note>}}
-߷ This bureau is part of the {{<link/ministry-of-the-commons>}}
+{{<note series>}}
+ This bureau is part of the {{<link/ministry-of-the-commons>}}
 {{</note>}}
 
 The <span class="fi fi-min-commons fis"></span> **Bureau of Housing** plans, constructs and improves municipalised and public housing in {{<link/vekllei>}}. [Housing in Vekllei](/housing/) is negotiated, purchased and leased at a municipal level, and so most new homes are designed and constructed by the civil service through architects and construction agents. The Bureau of Housing coordinates this process at different levels, and also receives maintenance requests and complaints as a regulatory body.

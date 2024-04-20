@@ -11,8 +11,8 @@ draft: true
 aliases:
 - /summers/
 ---
-{{<note>}}
-߷ Part of the *[territories](/territories/)* series of articles
+{{<note series>}}
+ Part of the *[territories](/territories/)* series of articles
 {{</note>}}
 
 {{<infobox/country

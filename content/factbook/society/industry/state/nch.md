@@ -14,8 +14,8 @@ aliases:
 - /ach/
 - /nch/
 ---
-{{<note>}}
-߷ Part of the *[industry](/industry/)* series of articles
+{{<note series>}}
+ Part of the *[industry](/industry/)* series of articles
 {{</note>}}
 
 {{<note>}}
