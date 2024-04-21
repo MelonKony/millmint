@@ -19,7 +19,7 @@ Part of the *[bulletin](/bulletin/)* series of articles
 **Summary**
 
 * In most economies, high rates of investment into production factors (infrastructure, talent, research & development) produce high-value products that are able to provide returns.
-* In Vekllei, however, expensive automatic machines (like robotics and schematic factories) are most often used to produce goods with little margin of trivial money-value.
+* In Vekllei, however, expensive automatic machines (like robotics and schematic factories) are most often used to produce goods with little margin or trivial money-value.
 * This represents an inversion of the economic logic of investment, revenues, and profit.
 * The result, however, is that by subsidising the lives of their workforce at great deficit, Vekllei saves much more in its moneyless system by diminishing the greatest expense of most business -- labour, and expertise.
 * This is how, despite running huge deficits of production, Vekllei remains economically competitive, and has [extremely high economic productivity](/bulletin/productivity/).
