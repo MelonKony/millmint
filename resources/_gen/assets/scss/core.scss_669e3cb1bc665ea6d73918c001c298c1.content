@@ -662,9 +662,8 @@ sub, sup {
   padding: 1px 4px; }
 
 input {
-  background-color: var(--color-background);
-  color: #1d1d1f;
-  border: none; }
+  color: var(--font-color);
+  background-color: var(--body-background); }
 
 video {
   border-radius: .25rem;
@@ -713,19 +712,12 @@ details {
   border: 1px solid var(--highlight);
   padding: 0.5rem 1rem 0.5rem 1rem;
   outline: none; }
-  details summary {
-    font-size: 1rem;
-    /* 16px */
-    line-height: 1.5rem;
-    /* 24px */
-    font-weight: 700; }
-    details summary a {
-      color: var(--font-color); }
+  details::marker, details ::-webkit-details-marker {
+    float: right;
+    margin-top: .45rem; }
   details div {
     padding-left: 1.5rem;
     padding-right: 1.5rem; }
-  details .markdown-inner h1, details .markdown-inner h2, details .markdown-inner h3, details .markdown-inner h4, details .markdown-inner h5, details .markdown-inner h6 {
-    margin-top: 2rem !important; }
 
 .collapsible-menu-wrapper details {
   background-color: transparent; }
@@ -1707,7 +1699,7 @@ article[autonumbering] .collapsible-menu li a:before {
     transform: translateX(calc(-55px * 17.45)); } }
 
 .slider {
-  margin-top: 1rem;
+  background-color: var(--highlight-background);
   overflow: hidden;
   white-space: nowrap;
   position: relative; }
@@ -1725,6 +1717,7 @@ article[autonumbering] .collapsible-menu li a:before {
     width: 50px;
     display: inherit; }
   .slider .slide-track {
+    margin-top: .5rem;
     display: inline-block;
     animation: scroll 15s linear infinite;
     width: calc(55px * 17.45); }
@@ -2070,12 +2063,12 @@ img.page {
       margin-left: 0.5rem;
       margin-right: 0; }
     #TableOfContents ul li {
-      margin: 0 !important; }
+      margin: 0; }
       #TableOfContents ul li a {
         box-sizing: border-box;
         display: block;
         width: 100%;
-        padding: 0.2rem 0.5rem; }
+        padding: 0.25rem 0.5rem; }
         #TableOfContents ul li a:hover {
           color: var(--color-gray);
           filter: none;
@@ -2091,8 +2084,7 @@ img.page {
     right: -70px; } }
 
 @media (max-width: 1199px) {
-  .desktop-toc-wrapper {
-    display: none; }
+  .desktop.toc,
   #toc-button {
     display: none; }
   .mobile.toc {
@@ -2101,10 +2093,7 @@ img.page {
     border: var(--highlight) 1px dotted; }
     .mobile.toc summary {
       font-weight: 400;
-      color: var(--highlight); }
-    .mobile.toc summary::-webkit-details-marker {
-      float: right;
-      margin-top: .45rem; } }
+      color: var(--highlight); } }
 
 .dfn {
   font-style: inherit;

@@ -82,7 +82,8 @@ These are complete artworks showcasing a scene or place. They're detailed, paint
 5. Once finished, I'll forward a watermarked image as a preview. If you're satisfied, you'll receive your artwork and a **MillMint Gift Basket™** upon payment of the outstanding sum.
 {{</section>}}
 
-{{< details title="Your MillMint Gift Basket™" open=true >}}
+<details open>
+  <summary>Your MillMint Gift Basket™</summary>
 
 - High-resolution, uncompressed image
 - Compressed, shareable image
@@ -90,9 +91,10 @@ These are complete artworks showcasing a scene or place. They're detailed, paint
 - Digital Postcard
 - Receipt
 - Coupon for 10% off next order
-{{</details>}}
+</details>
 
-{{< details title="Terms & Conditions" open=false >}}
+<details>
+<summary>Terms & Conditions</summary>
 {{<note>}}
 Commissioned work is subject to the <span class="smallicon">📄</span> [MillMint Limited Commercial License](/license/)
 {{</note>}}
@@ -110,7 +112,7 @@ Commissioned work is subject to the <span class="smallicon">📄</span> [MillMin
 **3. Refunds**
 - Partial refunds are available after the deposit has been placed. The refund total will be adjusted based on progress completed.
 - In the event I am unable to complete your commission, your deposit will be refunded in full.
-{{</details>}}
+</details>
 
 {{<note>}}
 I can be contacted via [email](mailto:studio@millmint.net), [Twitter](https://x.com/vekllei), or Discord (@millmint).

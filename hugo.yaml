@@ -1,0 +1,181 @@
+baseURL: https://millmint.net
+languageCode: en
+title: MillMint
+enableEmoji: true
+enableGitInfo:  true
+enableRobotsTXT: true
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+  sitetag: sitetag
+  characters: characters
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+
+params:
+  navbarTitle: MillMint
+  footer: Copyright © 2017-2024 MillMint
+  author: Hobart Phillips
+  Description: The home of Vekllei. Retro worldbuilding, with good intentions.
+
+  enable_zooming_js: true
+  enable_toc: true
+  enable_site_search: true
+  enable_math: false
+
+  enable_open_graph: true
+  enable_twitter_cards: true
+
+  enable_collapsible_toc: false
+  enable_collapsible_changelogs: true
+
+  list_layout:
+    enable_group_by_year: true
+    enable_show_date: true
+    enable_pagination: false
+
+# site menu
+menus:
+  navbar:
+  - name:  Intro
+    pageRef: /intro/
+    pre: 📔
+    weight: 1
+
+  - name:  Factbook
+    pre: 📓
+    pageRef: /factbook/
+    identifier: factbook
+    weight: 2
+
+  - name:  Map
+    pre: 🗺️
+    pageRef: /factbook/map/
+    parent: factbook
+    weight: 1
+
+  - name:  Vekllei
+    pre: 🌹
+    pageRef: /vekllei/
+    parent: factbook
+    weight: 2
+
+  - name:  Bulletin
+    pre: 🧾
+    pageRef: /factbook/bulletin/
+    parent: factbook
+    weight: 3
+
+  - name:  Characters
+    pre: 🎎
+    pageRef: /factbook/characters/
+    parent: factbook
+    weight: 4
+
+  - name:  World
+    pre: 🌐
+    parent: factbook
+    pageRef: /factbook/world
+    identifier: world
+    weight: 5
+  - name:  Countries
+    pre: 🌎
+    pageRef: /factbook/world/countries
+    parent: world
+    weight: 1
+
+  - name:  Society
+    pre: 🏛
+    parent: factbook
+    pageRef: /factbook/society/
+    identifier: society
+    weight: 6
+  - name:  State
+    pre: 🌸
+    pageRef: /factbook/society/state/
+    parent: society
+    weight: 1
+  - name:  Industry
+    pre: ⚙️
+    pageRef: /factbook/society/industry/
+    parent: society
+    weight: 2
+  - name:  Technology
+    pre: 🧪
+    pageRef: /factbook/society/technology
+    parent: society
+    weight: 3
+
+  - name:  Timeline
+    pre: ⏳
+    parent: factbook
+    pageRef: /factbook/timeline
+    weight: 6
+
+  - name:  MillMint
+    pre: 📕
+    pageRef: /millmint/
+    identifier: millmint
+    weight: 3
+
+  - name:  About
+    pre: 🌐
+    pageRef: /millmint/about
+    parent: millmint
+    weight: 1
+
+  - name:  Dolls
+    pre: 🧍‍♀️
+    pageRef: /millmint/dolls/
+    parent: millmint
+    weight: 2
+
+  - name:  Commissions
+    pre: ✏️
+    pageRef: /millmint/commissions
+    parent: millmint
+    weight: 3
+
+  - name:  Essays
+    pre: 📄
+    pageRef: /millmint/essays
+    identifier: essays
+    parent: millmint
+    weight: 4
+  - name:  A Social Economy
+    pre: 💸
+    pageRef: /millmint/essays/social-economy
+    parent: essays
+    weight: 1
+  - name:  A Universal Nostalgia
+    pre: 🫧
+    pageRef: /millmint/essays/ghibli
+    parent: essays
+    weight: 2
+  - name:  Utopie Concrete
+    pre: ☕️
+    pageRef: /millmint/essays/utopie
+    parent: essays
+    weight: 3
+  - name:  Not Long in Hong Kong
+    pre: ☂️
+    pageRef: /millmint/essays/hongkong
+    parent: essays
+    weight: 4
+  - name:  The West Coast
+    pre: 🏔️
+    pageRef: /millmint/essays/west
+    parent: essays
+    weight: 5
+
+  - name:  Stories
+    pre: 📗
+    pageRef: /stories/
+    weight: 4

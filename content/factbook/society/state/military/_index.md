@@ -41,7 +41,9 @@ The Marine Services consist of the armed forces most commonly associated with se
 
 The **Maritime Service** (the **Navy** or *Navy of the Public*) is the traditional naval warfare component of the Vekllei military and consists of its surface ships and submarines. It comprises three fleets and an auxiliary service, that functions similarly to a republican or federal militia.
 
-{{< details title="Maritime Service Fleet" open=false >}}
+<details>
+<summary>Maritime Service Fleet</summary>
+
 ##### Commonwealth Fleet
 
 The Commonwealth Fleet (*Sovereign/Central Fleet*) of the Vekllei Maritime Service is the largest naval formation in Vekllei and is tasked with defence of the country's central corridor, a triangular area with points in {{<link/oslola>}}, Verde and {{<link/summers>}}
@@ -149,7 +151,7 @@ The Home Fleet (also *Auxiliary Fleet*) of the Commonwealth Maritime Service is 
   * Midget Submarine
   * Submarine Aircraft Carrier
 
-{{</details>}}
+</note>
 {{</note>}}
 
 {{<note panel>}}
@@ -159,7 +161,9 @@ The **Littoral Service** (the *Coast Guard* or *Navy of the Parliament*) is the 
 
 The Littoral Service has 12 commands across the Atlantic, Arctic, Antarctic and Caribbean Oceans, including the entirety of the Vekllei exclusive economic zone and territorial waters.
 
-{{< details title="Littoral Service Equipment" open=false >}}
+<details>
+<summary>Littoral Service Equipment</summary>
+
 ##### Customs Cutters
 * 6 Frigate Customs Cutters
 * 20 Medium Customs Cutters
@@ -185,15 +189,17 @@ The Littoral Service has 12 commands across the Atlantic, Arctic, Antarctic and 
 
 ##### Survey & Auxiliary Ships
 * 2 Hydrographic Survey Ships
-{{</details>}}
+</details>
 {{</note>}}
 
 {{<note panel>}}
 #### Coastal Artillery
 
-{{< details title="Littoral Service Equipment" open=false >}}
+<details>
+<summary>Littoral Service Equipment</summary>
+
 ##### Coastal Artillery
-{{</details>}}
+</details>
 {{</note>}}
 
 {{<note panel>}}
@@ -214,7 +220,9 @@ Vekllei has a rapid air-mobile posture across its armed forces, which is facilit
 
 There are three commands in the Air Service, which in the secular Vekllei tradition have specific and exclusive functions. The Air Combat Command comprises all primary offensive squadrons including fighters, helicopters and scouts. The Air Auxiliary Command comprises miscellaneous aviation including search and rescue, training and replenishment. The Air Transport Command provides transport for both logistics and combat organisations.
 
-{{<details "Air Combat Command">}}
+<details>
+  <summary>Air Combat Command</summary>
+
 The *Air Combat Command* (ACC) provides aircraft and crew for combat air services, including both land and seaborne aviation. The vast majority of these are variants of the [No. 8 Casemate](/stories/casemate) fighter jet.
 
 * **No. 1 Aerocombat Wing**
@@ -245,9 +253,11 @@ The *Air Combat Command* (ACC) provides aircraft and crew for combat air service
   <br>
   The No. 9 MHW comprises the bulk of maritime rotary-wing and helijet aircraft, and are located across fleets and naval bases as required. Aeromarine squadrons may be subdivided into Aeromarine sections depending on the needs of the [Maritime Service](#maritime-service).
   * No. 38-41 Marine Squadrons
-{{</details>}}
+</details>
 
-{{<details "Air Auxiliary Command">}}
+<details>
+<summary>Air Auxiliary Command</summary>
+
 The *Air Auxiliary Command* (AAC) includes aircraft types not directly associated with other command roles, and encompasses different kinds of aircraft in a support (auxiliary) role.
 
 * **No. 1 Aeroxiliary Wing**
@@ -264,9 +274,11 @@ The *Air Auxiliary Command* (AAC) includes aircraft types not directly associate
   * No. 1-2 Air Training Squadrons
 * **No. 4 Air Replenishment Wing**
   * No. 1-2 Air Replenishment Squadrons
-{{</details>}}
+</details>
 
-{{<details "Air Transport Command">}}
+<details>
+  <summary>Air Transport Command</summary>
+
 The *Air Transport Command* (ATC) supports other services, particularly the Territorial Service, and provides air mobility to Rifles regiments as part of its flexible and rapid-manoeuvre doctrine. When mounted in helicopters and helijets, Rifles regiments are known as Aerorifles, and combine with the crew and equipment of an Aerorifles squadron to form a complete air-mobile platoon.
 
 * **No. 1 Aerotransport Wing**
@@ -283,13 +295,16 @@ The *Air Transport Command* (ATC) supports other services, particularly the Terr
   * No. 9-12 Aerorifles Squadrons
 * **No. 4 Aerorifles Wing**
   * No. 13-16 Aerorifles Squadrons
-{{</details>}}
+
+</details>
 
 ##### Equipment
 
 Vekllei aircraft are primarily designed and manufactured domestically, and use mostly nuclear propulsion. Efforts to streamline and simplify inventory in recent years have reduced the overall types of aircraft in service.
 
-{{< details title="Air Service Aircraft" open=false >}}
+<details>
+  <summary>Air Service Aircraft</summary>
+
 ##### Combat Aircraft
 * 210 No. 8 Casemate Atomic Fighters
 * 33 No. 7 Demon Atomic Fighters
@@ -326,7 +341,8 @@ Vekllei aircraft are primarily designed and manufactured domestically, and use m
 * 20 Primary Trainer Aircraft
 * 40
 * 15 Training Helicopters
-{{</details>}}
+
+</details>
 {{</note>}}
 
 {{<note panel>}}
@@ -334,16 +350,20 @@ Vekllei aircraft are primarily designed and manufactured domestically, and use m
 
 The Air Artillery Service provides air defence in {{<link/vekllei>}}. It operates a variety of emplacements and point defences as part of Vekllei concentric air defence doctrine, but its primary force consists of mobile anti-air and flak systems.
 
-{{<details "Air Artillery Command Structure">}}
+<details>
+  <summary>Air Artillery Command Structure</summary>
+
 The *Air Artillery Command* (ATC) consists of
 
 * **No. 1-6 Air Artillery Regiments**
   <br>
   The No. 1 Air Artillery Regiment
-{{</details>}}
 
+</details>
 
-{{< details title="Air Artillery Service Equipment" open=false >}}
+<details>
+  <summary>Air Artillery Service Equipment</summary>
+
 ##### Missile Systems
 * 25 Truck
 * 25 Truck
@@ -355,13 +375,15 @@ The *Air Artillery Command* (ATC) consists of
 * 120 guns
 * 1000 missiles
 * 1500 missiles
-{{</details>}}
+</details>
 {{</note>}}
 
 {{<note panel>}}
 #### Radar Service
 
-{{< details title="Radar Service Equipment" open=false >}}
+<details>
+<summary>Radar Service Equipment</summary>
+
 ##### Radar Systems
 * 5 Aerostat Radar Surveillance Balloons
 * 40 Portable Search Target Acquisition Radar
@@ -372,7 +394,7 @@ The *Air Artillery Command* (ATC) consists of
 
 ##### Radar Jamming Aircraft
 * 8 Radar Jamming Aircraft
-{{</details>}}
+</details>
 {{</note>}}
 
 {{<note panel>}}
@@ -388,7 +410,9 @@ The Vekllei **Territorial Service** is the closest analogue to a conventional ar
 
 At full strength in its current organisation it has
 
-{{<details "Commonwealth Rifles">}}
+<details>
+  <summary>Commonwealth Rifles</summary>
+
 Rifles regiments consist of 1,000 men, and can be assembled into larger divisional units. Regiment numbers are administrative only and so can change, and regiments are identified with inherited names with honours instead. Rifles are mechanised with armoured cars.
 
 Policy is to have a standing army 50,000 strong, but the 26th-50th Rifles regiments are activated as they are combat-ready, and so the 50th and 49th are often deactivated between training.
@@ -407,9 +431,10 @@ Policy is to have a standing army 50,000 strong, but the 26th-50th Rifles regime
   <br>
   The Armoured Rifles are mechanised with infantry fighting vehicles and tracked APCs and function as shock infantry.
   * 51st-52nd Armoured Rifles Regiments
-{{</details>}}
+</details>
 
-{{<details "Commonwealth Guards">}}
+<details>
+  <summary>Commonwealth Guards</summary>
 
 The Commonwealth Guard is the national militia and primary reserve force of the Territorial Services. It is federalised by default, and contributes its servicemen for the Rifles and other territorial regiments. As such, all Territorial servicemen are part of a Commonwealth Guards regiment, but in regular service are assigned to active units in other services. Only reservists, trainees and officers remained attached to the Guard while it is federalised.
 
@@ -419,14 +444,18 @@ The Commonwealth Guard is the national militia and primary reserve force of the 
   * Civil Affairs Regiments
   * Military Police Regiments
   * Military Intelligence Regiments
-{{</details>}}
+</details>
 
-{{<details "Strategic Security Service">}}
+<details>
+  <summary>Strategic Security Service</summary>
+
 ##### Armoured Regiments
 
-{{</details>}}
+</details>
 
-{{< details title="Territorial Service Equipment" open=false >}}
+<details>
+<summary>Territorial Service Equipment</summary>
+
 ##### Main Battle Tanks
 * 310 No. 4 Sekhmet MBT
 * 21 No. 3 Ordoria MBT
@@ -466,25 +495,29 @@ The Commonwealth Guard is the national militia and primary reserve force of the 
 * 12 Mine Detection Vehicles
 * 20 Bulldozers
 * 8 Backhoe Loaders
-{{</details>}}
+</details>
 {{</note>}}
 
 {{<note panel>}}
 #### Field Artillery Service
 
-{{<details "Field Artillery Service Structure">}}
+<details>
+  <summary>Field Artillery Service Structure</summary>
+
 ##### Field Artillery
   * 1st-5th Cannons Regiments
-{{</details>}}
+</details>
 
-{{< details title="Artillery Service Equipment" open=false >}}
+<details>
+  <summary>Artillery Service Equipment</summary>
+
 ##### Artillery
 * 52 Rocket Artillery
 * 105 Self-Propelled Artillery
 * 120 155mm Towed Howitzer
 * 80 105mm Towed Howitzer
 * 75 Ceremonial Gun-Howitzer
-{{</details>}}
+</details>
 {{</note>}}
 
 {{<note panel>}}
@@ -494,7 +527,9 @@ The Commonwealth Guard is the national militia and primary reserve force of the 
 {{<note panel>}}
 #### Commando Service
 
-{{<details "Expeditionary Service Structure">}}
+<details>
+  <summary>Expeditionary Service Structure</summary>
+
 * **Commando Regiments**
   * 1st-5th Commandos Regiments
   * 6th-7th Airborne Commandos Regiments
@@ -516,7 +551,7 @@ The Commonwealth Guard is the national militia and primary reserve force of the 
 * **Special Forces**
   * Psychological Warfare Regiments
   * Space Operations Regiments
-{{</details>}}
+</details>
 {{</note>}}
 
 {{<note panel>}}
@@ -528,11 +563,13 @@ The Patrol Service is a border guard.
 {{<note panel>}}
 #### Signals Service
 
-{{< details title="Signals Service Equipment" open=false >}}
+<details>
+<summary>Signals Service Equipment</summary>
+
 * 4 Signals Interceptor Aircraft
 * 2 Intelligence & Control Aircraft
 * 6 Early Warning Aircraft
-{{</details>}}
+</details>
 {{</note>}}
 
 {{<note panel>}}

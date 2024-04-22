@@ -108,13 +108,13 @@
 		}
 
 		li {
-			margin: 0 !important;
+			margin: 0;
 
 			a {
 				box-sizing: border-box;
 				display: block;
 				width: 100%;
-				padding: 0.2rem 0.5rem;
+				padding: 0.25rem 0.5rem;
 
 				&:hover {
 					color: var(--color-gray);
@@ -143,14 +143,14 @@
 }
 
 @media (max-width: 1199px) {
-	.desktop-toc-wrapper {
-		display: none;
-	}
 
+	// Hide desktop TOC
+	.desktop.toc,
 	#toc-button {
 		display: none;
 	}
 
+	// Show mobile TOC
 	.mobile.toc {
 		display: block;
 		background-color: transparent;
@@ -159,11 +159,6 @@
 		summary {
 			@include font-normal;
 			@include highlight;
-		}
-
-		summary::-webkit-details-marker {
-			float: right;
-			margin-top: .45rem;
 		}
 	}
 }

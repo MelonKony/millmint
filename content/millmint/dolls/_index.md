@@ -6,10 +6,6 @@ icon: 🧍‍♀️
 emoji: P
 color: indigo
 
-tags:
-  - dolls
-categories:
-  - tools
 type: blank
 ---
 

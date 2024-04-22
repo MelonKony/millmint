@@ -34,9 +34,11 @@ While San Salvador has a minor airport and a single tramline circumnavigating it
 
 The island of Conception is an uninhabited preservation, and is home to a unique species of Boa. It has a research station from the {{<link/LSRE>}} there. The navy also maintains a naval station, primarily used for monitoring and navigation, on the north point of San Salvador.
 
-{{< details title="Points of Interest" open=false >}}
+<details open>
+  <summary>Points of Interest</summary>
+
 * Salvador Research Centre, Commonwealth University of the West Indies
 * Salvador Naval Station
 * Conception Island Research Station, {{<link/LSRE>}}
-{{</details>}}
+</details>
 

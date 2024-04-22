@@ -5,7 +5,7 @@ icon: 📖
 emoji: q
 color: red
 
-tags: 
+tags:
   - culture
 categories:
   - society
@@ -20,7 +20,7 @@ aliases:
 
 description: The language of Vekllei, a utopia created by Hobart Phillips.
 
- 
+
 ---
 {{<note series>}}
  This article is about [**Vekllei**](/factbook/vekllei)
@@ -34,14 +34,16 @@ description: The language of Vekllei, a utopia created by Hobart Phillips.
 
 **Vekllei language**, abbreviated to just **Vekllei**, has six core sublanguages that are used commonly today. Although they often intersect, these different systems of communication are distinct languages in their own right, used for different purposes in different arenas of communication.
 
-{{< details title="Systems of Vekllei Language" open=true >}}
+<details open>
+<summary>Systems of Vekllei Language</summary>
+
 1. **Spoken Vekllei**, which is everyday spoken language. It draws from two glossaries with different meanings and feelings, called *Oa* and *Loh*.
 2. **Topet**, which are logographic characters (occasionally characterised as hieroglyphs). Like other pictographic languages, *Topet* characters can be broken down into repeating components, called *Topotte*.
 3. **Rapotenne**, is the traditional logographic language of names. It is much older than Topet, and has more in common with spiritual runes than modern logography.
 4. **Potenne**, lit. “*Hand-Talk*”, is a sign language that incorporates gestures and signing to add meaning to emotion to spoken language, and occasionally in place of it.
 5. **Upotenne**, lit. “*Spirit-Hand-Talk*”, as the recreation of runes in human form, used limitedly in spiritual ritual.
 6. **Vekllei Semaphore** is the codification of colour and shape. Traditionally limited to colour, shape and pattern are now also included in *Vekllei Semaphore*, in which full sentences can be formed.
-{{< /details >}}
+</details>
 
 ### Introduction
 
@@ -96,7 +98,9 @@ Spoken Vekllei is phonologically homogenous, and has little variation in accent 
 
 Pure vowels in Vekllei are characterised by their lax, non-rhotic sound, and their uses vary across cultivated and common Vekllei dialects.
 
-{{< details title="Pure Vowels" open=true >}}
+<details open>
+<summary>Pure Vowels</summary>
+
 |               | Front |      |                | Central |      | Back  |      |
 |---------------|-------|------|----------------|---------|------|-------|------|
 |               | Short | Long | Long (round) | Short   | Long | Short | Long |
@@ -105,13 +109,15 @@ Pure vowels in Vekllei are characterised by their lax, non-rhotic sound, and the
 | **Mid**       | e     | eː   |                | ə       | ɜː   | ɔ     | oː   |
 | **Open-Mid**  |       |      | œ              |         |      |       |      |
 | **Open**      | æ     | (æː) |                | ɐ       | ɐː   |       |      |
-{{< /details >}}
+</details>
 
 #### Diphthongs
 
 From foundational monophthongs, gliding or diphthong vowels are often determined by glossary. *Oa* typically favours modernised post-*Quutetast* glides for its so-called *Ocean Vowels*, which are generally long and unrounded. *Loh* words are typically older and depicted pictographically, and are pronounced as *Floral Vowels*. The tables below list their pronunciation.
 
-{{< details title="Diphthongs" open=true >}}
+<details open>
+<summary>Diphthongs</summary>
+
 ##### Ocean Vowels
 |               |     Vowel          |
 |---------------|--------------------|
@@ -136,20 +142,22 @@ From foundational monophthongs, gliding or diphthong vowels are often determined
 | **/œ/**   | /jœ/        | /ɥœ/        | /wœ/        |
 | **/u/**   | /ju/        |             |             |
 | **/y/**   | /jy/        |             |             |
-{{< /details >}}
+</details>
 
 #### Consonants
 
 In Vekllei, consonants are arranged in five places of primary articulation.
 
-{{< details title="Consonants" open=true >}}
+<details open>
+<summary>Consonants</summary>
+
 |                     | Labial | Alveolar          | Palatal          | Velar  | Uvular |
 |---------------------|--------|-------------------|------------------|--------|--------|
 | Voiceless stop      | p /p/  | t /t/             |                  | k /k/  | q /q/  |
 | Voiceless fricative |        | s /s/ł /ɬ/(h /h/) |                  |        |        |
 | Voiced              | v /v/  | l /l/             | j /j/(j, r̂  /ɟ/) | g /ɡ/  | r /ʁ/  |
 | Nasal               | m /m/  | n /n/             |                  | ng /ŋ/ |        |
-{{< /details >}}
+</details>
 
 ## Topet
 

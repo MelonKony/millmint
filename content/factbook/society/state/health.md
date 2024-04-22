@@ -77,7 +77,9 @@ Public healthcare is integrated into Vekllei's cascading federal system. Nationa
 The foundation of Vekllei public health, however, lies in the municipalities. General Practitioners (GPs) and Family Doctors are the main primary care providers in the country, and are employed by [municipal](/polis/) health councils.
 
 
-{{< details title="Role of Government" open=false >}}
+<details open>
+  <summary>Role of Government</summary>
+
 * Commonwealth Health Secretariat
 	* Commonwealth Office of Public Health
 	* Commonwealth Disease Control Authority
@@ -98,5 +100,4 @@ The foundation of Vekllei public health, however, lies in the municipalities. Ge
 	* Health Promotion Board
 	* Hospital Administration
 * Vekllei Municipal Health
-	*
-{{</details>}}
+</details>

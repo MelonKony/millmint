@@ -35,17 +35,20 @@ Vekllei is often regarded a nation by will, rather than of culture or geography.
 
 -- Retelling of Algic legends, Verse 40, *Saga of Origins*
 
-{{< details title="What is Vekllei?" open=false >}}
+<details>
+  <summary>What is Vekllei?</summary>
 Vekllei is a country that consists of many island republics in the Atlantic. The largest of these is called the {{<link/oslola>}}, which is its most populous island. Vekllei is the setting of this fiction, and is the home of most of its characters.
-{{</details>}}
+</details>
 
-{{< details title="Where is Vekllei?" open=false >}}
+<details>
+<summary>Where is Vekllei?</summary>
 Most of Vekllei's islands are found in the North Atlantic and Caribbean seas. Its northernmost territory is {{<link/helvasia>}} (Svalbard) and its southernmost territories are on the Antarctic continent. It also has a claim on the moon.
-{{</details>}}
+</details>
 
-{{< details title="When was Vekllei founded?" open=false >}}
+<details>
+<summary>When was Vekllei founded?</summary>
 The Commonwealth of Oceans (Vekllei) was founded in 2017 after independence in 2015, and is the 4th in a succession of historic Commonwealths based in the Kalan and Oslolan Islands. The first, known as the Nord Commonwealth, was the world's first parliament and among the first democracies in the world.
-{{</details>}}
+</details>
 
 ## History
 
@@ -104,7 +107,9 @@ Although regionally and culturally diverse, Commonwealth government is centralis
 * {{<link/volcanic>}}
 {{</note>}}
 
-{{< details title="List of Vekllei Republics" open=true >}}
+<details open>
+<summary>List of Vekllei Republics</summary>
+
 * **Federal Territories**
   * Meteor Federal Territory
   * Vekllei Antarctic Territories
@@ -194,7 +199,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * {{<link/aismious>}} (*Faroe*)
   * {{<link/demon>}} (*Jan Mayen*)
   * {{<link/oslola>}} (*Iceland*)
-{{</details>}}
+</details>
 
 ![Map of Vekllei territories across the Atlantic](/svg/maps/territory.svg "Map of Vekllei, including its Commonwealths, Federal Departments and Territories.")
 

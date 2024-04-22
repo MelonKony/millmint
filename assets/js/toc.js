@@ -8,7 +8,7 @@ function updateActiveToc() {
 	// Get all titles with their offset, then remove ones that are too far down
 	const visibleTitles = titles.map(titleEl => {
 		return {
-			el: titleEl, 
+			el: titleEl,
 			top: titleEl.getBoundingClientRect().top
 		}
 	}).filter(t => t.top < minDistanceFromTop).map(t => t.el)
@@ -18,10 +18,10 @@ function updateActiveToc() {
 	document.querySelectorAll('.toc-active').forEach(a => a.classList.remove('toc-active'))
 
 	// Add active class to anchor
-	let anchors = document.querySelectorAll(`#TableOfContents a[href="#${currentTitle?.id}"]`)
-	
+	let anchors = document.querySelectorAll(`#TOC a[href="#${currentTitle?.id}"]`)
+
 	if(anchors.length === 0) {
-		anchors = document.querySelectorAll('.toc-title')	
+		anchors = document.querySelectorAll('.toc-title')
 	}
 
 	for(const a of anchors) {

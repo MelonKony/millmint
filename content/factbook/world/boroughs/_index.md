@@ -9,7 +9,7 @@ sitetag: Introduction
 color: green
 pagecode: 230BGH
 
-draft: true
+draft: false
 
 tags:
   - borough
@@ -42,7 +42,6 @@ Over the next year I'll be completing this list of Oslola's 100 boroughs, and li
 
 An Oslolan [borough](/vekllei/#administrative-divisions) is an unusual administrative designation, portioned originally by a set of vague criteria that includes size, history, its unique geography, culture, and its spiritual value. Population was evidently not a concern, and boroughs have great disparity in human settlement. Each borough takes the name of its largest city. You can see a partial list of them, arranged by region and alphabetically, below.
 
-{{< details title="Afouismeh Region" open=true >}}
 - <span class="navicon">❄️</span>Adouisneh
 - <a href="/bakur/"><span class="navicon">⚓️</span>Bakur</a>
 - <span class="navicon">🏰</span>Basa
@@ -56,9 +55,7 @@ An Oslolan [borough](/vekllei/#administrative-divisions) is an unusual administr
 - <span class="navicon">🚵‍♀️</span>Stiyora
 - <span class="navicon">🚣‍♀️</span>Studi
 - <span class="navicon">🛷</span>Tanger
-{{</ details >}}
 
-{{< details title="Capital Region" open=true >}}
 - <span class="navicon">🪴</span>Apava
 - <span class="navicon">🪺</span>Bouisgeh
 - <span class="navicon">🏭</span>Callaisn
@@ -80,9 +77,7 @@ An Oslolan [borough](/vekllei/#administrative-divisions) is an unusual administr
 - <span class="navicon">🌋</span>Thanveler
 - <span class="navicon">🌸</span>Vekllei
 - <a href="/voya-voya/"><span class="navicon">💧</span>Voya Voya</a>
-{{</ details >}}
 
-{{< details title="Ro Region" open=true >}}
 - <span class="navicon">🪨</span>Aisyo
 - <span class="navicon">🧮</span>Akureyri
 - <span class="navicon">🐋</span>Alou
@@ -114,9 +109,7 @@ An Oslolan [borough](/vekllei/#administrative-divisions) is an unusual administr
 - <span class="navicon">🌉</span>Tohs
 - <span class="navicon">📦</span>Tosyojiya
 - <span class="navicon">🎐</span>Zome
-{{</ details >}}
 
-{{< details title="Lava Region" open=true >}}
 - <span class="navicon">🌋</span>Askayaisn
 - <span class="navicon">🧊</span>Hoaedesnen
 - <a href="/krafla/"><span class="navicon">🗼</span>Krafla</a>
@@ -127,9 +120,7 @@ An Oslolan [borough](/vekllei/#administrative-divisions) is an unusual administr
 - <span class="navicon">🌳</span>Tiyousn
 - <a href="/troll/"><span class="navicon">🐉</span>Troll</a>
 - <a href="/yana/"><span class="navicon">⛵️</span>Yana</a>
-{{</ details >}}
 
-{{< details title="Lumiousniya Region" open=true >}}
 - <span class="navicon">🧵</span>Ada
 - <span class="navicon">🦋</span>Arisdeh
 - <span class="navicon">🕯️</span>Copette
@@ -143,9 +134,7 @@ An Oslolan [borough](/vekllei/#administrative-divisions) is an unusual administr
 - <span class="navicon">🏎</span>Ouinda
 - <span class="navicon">📞</span>Stochi
 - <span class="navicon">🥖</span>Totoyan
-{{</ details >}}
 
-{{< details title="Vika Region" open=true >}}
 - <span class="navicon">☕️</span>Abosneh
 - <span class="navicon">🛢</span>Desnisiyousmah
 - <span class="navicon">🍍</span>Fyell
@@ -158,4 +147,3 @@ An Oslolan [borough](/vekllei/#administrative-divisions) is an unusual administr
 - <span class="navicon">🛎</span>Seisyo
 - <span class="navicon">🎥</span>Spesniousia
 - <span class="navicon">🗻</span>Vik
-{{</ details >}}

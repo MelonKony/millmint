@@ -104,7 +104,8 @@ Vekllei National Rail is an organ of the Transport Requisite of the Vekllei Gove
 
 Vekllei National Rail is administered through three State Requisites: the Vekllei National Rail itself including all regular operations and rail service, the National Rail Insurance Scheme which finances construction through Government White Bonds, and the Rail Safety Commission.
 
-{{< details title="Organisation Chart of VNR" open=true >}}
+<details open>
+<summary>Organisational Chart of VNR</summary>
 
 {{<note>}}
 Responsible to the [Railways Bureau](/factbook/society/state/government/interior/transport/#national-railways-bureau) of the [Ministry of Transport](/factbook/society/state/government/interior/transport)
@@ -152,7 +153,7 @@ Responsible to the [Railways Bureau](/factbook/society/state/government/interior
   * Platform Investigation Office
   * Carriage Investigation Office
   * Incident Investigation Office
-{{< /details >}}
+</details>
 
 ## Service
 

@@ -25,7 +25,9 @@ A **Republic** (Vekllei: *Polis*) is type of city-state that make up the country
 
 There are a few criteria separating Polisa from regular city councils. They are generally self-sufficient, and include surrounding areas capable of agriculture and industry. They also retain their own lower courts, and have a strengthened local government consisting of a popular assembly (the Municipal Assembly) and Ecclesia -- special-purpose councils of important civic citizens and industrial representatives.
 
-{{< details title="List of Vekllei Republics" open=true >}}
+<details open>
+<summary>List of Vekllei Republics</summary>
+
 * **Federal Territories**
 	* Meteor Federal Territory
 	* Vekllei Antarctic Territories
@@ -115,4 +117,4 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* {{<link/aismious>}} (*Faroe*)
 	* {{<link/demon>}} (*Jan Mayen*)
 	* {{<link/oslola>}} (*Iceland*)
-{{</details>}}
+</details>

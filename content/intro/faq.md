@@ -40,12 +40,14 @@ That's the gist of it. {{<link/vekllei>}} is a fictional country that demonstrat
 
 This website is a comprehensive archive and open notebook for the stories of Vekllei and its people.
 
-{{< details title="Studio MillMint" open=true >}}
+<details open>
+  <summary>Studio MillMint</summary>
+
 * [**millmint.net**](/)
   * [**/factbook/**](/factbook/) is an online wiki of Vekllei its people
   * [**/millmint/**](/millmint/) is for everything outside of it
   * [**/stories/**](/posts/) is for illustrated snapshots of life in Vekllei
-{{</ details >}}
+</details>
 
 ## What is Vekllei?
 
@@ -91,7 +93,9 @@ In addition:
 {{</note>}}
 
 ## F.A.Q.
-{{< details title="Frequently Asked Questions" open=true >}}
+<details open>
+  <summary>Frequently Asked Questions</summary>
+
 #### Who are you?
 
 [A Tasmanian illustrator.](/about/)
@@ -137,7 +141,7 @@ Zelda is another name for [Tzipora](/factbook/characters/). She has two names sp
 [Join the Discord](https://discord.gg/dCE6vSU).
 
 Be "petticoat".
-{{</ details >}}
+</details>
 
 ## Futher Reading
 

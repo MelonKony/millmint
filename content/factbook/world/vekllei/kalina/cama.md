@@ -34,7 +34,8 @@ By Vekllei standards, life on Cama remains remarkably agrarian and agricultural 
 
 The island of Cama is home to the Vekllei National Medical University, the most prestigious medical institution in Vekllei. Its students make up about an eighth of the republic's total population. Cama and its minor inhabited islands of Carriacou and Petite Martinique are linked by hydrofoil. The capital has a tram network, and narrow-gauge rail circumnavigates its coastline. The only civilian airport is located southwest of the capital. Cama is also the headquarters of {{<link/atlantis>}}, the primary shipping [bureau corporation](/bureaus/) of the country, which also operates a port in Assumpción.
 
-{{< details title="Major Industries" open=false >}}
+<details open>
+  <summary>Major Industries</summary>
 * **Agriculture**
 	* Cocoa
 	* Nutmeg
@@ -54,9 +55,10 @@ The island of Cama is home to the Vekllei National Medical University, the most 
 	* Canning
 	* Soapmaking
 	* Cigarette & Cigar Manufacturing
-{{</details>}}
+</details>
 
-{{< details title="Major Corporations" open=false >}}
+<details open>
+  <summary>Major Corporations</summary>
 * {{<link/atlantis>}}
 * Caribbea Cooperative Breweries
 * Cama Nutmeg (bureau)
@@ -66,5 +68,5 @@ The island of Cama is home to the Vekllei National Medical University, the most 
 * Marine Cama
 * Federal Textiles
 * Island Foods Cannery
-{{</details>}}
+</details>
 

@@ -124,7 +124,9 @@ Vekllei primary education consists of 7 years, starting with [Prep](#preparatory
 
 The final year of school in Vekllei usually includes a class trip overseas, traditionally to Europe or Asia, to celebrate graduation.
 
-{{<details title="Vekllei Compulsory Schooling" open=true >}}
+<details open>
+  <summary>Vekllei Compulsory Schooling</summary>
+
 * Preschool
   * Nursery School
   * Garden School
@@ -132,7 +134,7 @@ The final year of school in Vekllei usually includes a class trip overseas, trad
 * Primary School (Years 1-6)
 * Secondary School (Years 7-10)
 * College (Years 11-12)
-{{</details>}}
+</details>
 
 ### Tertiary Education
 
@@ -152,7 +154,9 @@ Vekllei International University offers
 
 The Commonwealth Curriculum is the common programme of study in all Commonwealth schools, and determines standards of study across all education institutions.
 
-{{<details title="Commonwealth International Curriculum" open=true >}}
+<details open>
+  <summary>Commonwealth International Curriculum</summary>
+
 * Arts
 * Vekllei Languages
 * Foreign Languages
@@ -164,7 +168,7 @@ The Commonwealth Curriculum is the common programme of study in all Commonwealth
 * Mathematics
 * Material Sciences and Electronics
 * Work Studies
-{{</details>}}
+</details>
 
 ## Uniform
 

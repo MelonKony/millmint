@@ -55,7 +55,8 @@ There are three broad categories of state asset in Vekllei, arranged at their le
 
 ### Crown Companies
 
-{{< details title="Crown Companies in Vekllei" open=true >}}
+<details open>
+<summary>Crown Companies in Vekllei</summary>
 
 * Royal Mail of Vekllei
   * World Post
@@ -64,11 +65,12 @@ There are three broad categories of state asset in Vekllei, arranged at their le
 * Army Construction House
 * Vekllei National University
 
-{{< /details >}}
+</details>
 
 ### State Companies
 
-{{< details title="State Companies in Vekllei" open=true >}}
+<details open>
+<summary>State Companies in Vekllei</summary>
 
 * [Vekllei National Rail](/factbook/society/industry/rail/)
 * [Commonwealth Airways](/air/)
@@ -85,12 +87,12 @@ There are three broad categories of state asset in Vekllei, arranged at their le
   * [Future Fission](/factbook/landscape/boroughs/pharos/#future-fission-sqm)
 * International Rocketry
 * Vekllei Tobacco
-
-{{< /details >}}
+</details>
 
 ### Municipal Companies
 
-{{< details title="Municipal Companies in Vekllei" open=true >}}
+<details open>
+<summary>Municipal Companies in Vekllei</summary>
 
 * Common Battery
 * Vekllei Auto
@@ -101,8 +103,7 @@ There are three broad categories of state asset in Vekllei, arranged at their le
 * [Vekllei Aerospatiale](/factbook/landscape/boroughs/pharos/#vekllei-aerospatiale-sa)
 * [Fiara Heavy Machines](/factbook/landscape/boroughs/lola/#fiara-heavy-machines-sqm)
 * [Vekllei International Casino](/factbook/landscape/boroughs/mirah/)
-
-{{< /details >}}
+</details>
 
 [^1]: The Vekllei phrase for a collection of private or state industrial firms organised into a council, with industrial policy and standards formed via company ballots.
 [^2]: Municipal companies may also include large private co-operatives that engage with the municipal government, rather than strictly state-owned assets.

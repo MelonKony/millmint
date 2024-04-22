@@ -75,7 +75,9 @@ The Mail is organised horizontally as an independent branch of the Royal Vekllei
 
 The Mail has two offices of administration: the General Office and the Office of the Postmistress, which are responsible for daily operations and interdepartmental administration respectively. The following table outlines the Mail's structure.
 
-{{< details title="The Royal Mail of Vekllei" open=true >}}
+<details open>
+<summary>Royal Mail of Vekllei</summary>
+
 * **General Office**
   * **Postal Service Bureau**
     * Royal Mail Press
@@ -103,7 +105,7 @@ The Mail has two offices of administration: the General Office and the Office of
 * **Office of the Postmistress**
   * **Postal Commission**
   * **Mail Democracy Office**
-  {{< /details >}}
+</details>
 
 ## Services
 
@@ -186,7 +188,9 @@ The Mail retains a large and diverse fleet of vehicles in regular operations, wh
 
  The following table lists company vehicles relevant to regular postal service.
 
-{{< details title="The Royal Mail Fleet" open=true >}}
+<details open>
+ <summary>The Royal Mail Fleet</summary>
+
 * **Postal Service Bureau**
   * 8,000 delivery automen
   * 5,200 motorcycles *(mostly Local Electric Model 15 & Phantoms)*
@@ -210,7 +214,7 @@ The Mail retains a large and diverse fleet of vehicles in regular operations, wh
       * 2 mail trucks
 * **Office of the Postmistress**
   * 1 executive mail train *(Series 4000 EMU)*
-  {{< /details >}}
+</details>
 
 [^1]: *A.r.* is a shortening of *state requisite* (A.r., or requoisesiasn amourisocietie)
 

@@ -35,8 +35,9 @@ The Commonwealth Army refers to its infantry regiments, equivalent roughly to ov
 {{</note>}}
 
 35,000 + 10,000 (45,000 total)
+<details>
+<summary>Commownealth Legion</summary>
 
-{{<details "Commonwealth Legion">}}
 * **Commando Regiments**
   * 1st-5th Commandos Regiments
   * 6th-7th Airborne Commandos Regiments
@@ -58,23 +59,29 @@ The Commonwealth Army refers to its infantry regiments, equivalent roughly to ov
 * **Special Forces**
   * Psychological Warfare Regiments
   * Space Operations Regiments
-{{</details>}}
 
-{{<details "Foreign Legion">}}
+</details>
+
+<details>
+<summary>Foreign Legion</summary>
+
 * 1st-4th Foreign Rifles Regiments
 * 5th-6th Foreign Armour Regiments
 * 7th-8th Foreign Engineer Regiments
-{{</details>}}
+
+</details>
 
 ### Territorial Corps
 
-{{<details "Commonwealth Territorial Army">}}
+<details>
+  <summary>Commonwealth Territorial Army</summary>
+
 * **Rifle Regiments**
   * 1st-25th Rifles Regiments
   * 26th-50th Rifles Regiments
   * 26-28th Armoured Rifles Regiments
 * **Armoured Regiments**
-  * 
+  *
 * **Artillery Regiments**
   * Cannons Regiments
   * Air Artillery Regiments
@@ -85,14 +92,18 @@ The Commonwealth Army refers to its infantry regiments, equivalent roughly to ov
 * **Special Regiments**
   * Chemical Regiments
   * Nuclear Regiments
-{{</details>}}
 
-{{<details "Commonwealth Reserve Army">}}
-{{</details>}}
+</details>
+
+<details>
+  <summary>Commonwealth Reserve Army</summary>
+</details>
 
 ### Materiel Corps
 
-{{<details "Commonwealth Materiel Corps">}}
+<details>
+  <summary>Commonwealth Materiel Corps</summary>
+
 * **1st Division**
   * Ordnance Regiments
   * Transportation Regiments
@@ -100,33 +111,40 @@ The Commonwealth Army refers to its infantry regiments, equivalent roughly to ov
   * Logistics Regiments
   * Medical Regiments
   * Chaplain Regiments
-{{</details>}}
 
-{{<details "Commonwealth Reserve Army">}}
-{{</details>}}
+</details>
 
 ### Civic Corps
 
-{{<details "1st Division">}}
+<details>
+  <summary>1st Division</summary>
+
 * **Cadet Regiments**
   * 1st Cadet Regiment
 * **Scouting Regiments**
   * 1st-6th Scouting Regiments
-{{</details>}}
+
+</details>
 
 ### Scouts Corps
 
-{{<details "1st Division">}}
+<details>
+  <summary>1st Division</summary>
+
 * **Cadet Regiments**
   * 1st Cadet Regiment
 * **Scouting Regiments**
   * 1st-6th Scouting Regiments
-{{</details>}}
 
-{{<details "2nd Division">}}
+</details>
+
+<details>
+  <summary>2nd Division</summary>
+
 * **Cadet Regiments**
   * 2nd Cadet Regiment
 * **Scouting Regiments**
   * 7th-12th Scouting Regiments
-{{</details>}}
+
+</details>
 

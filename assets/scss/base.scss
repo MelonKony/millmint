@@ -33,7 +33,7 @@ main {
 }
 
 figure {
-  margin: 0;
+  @include margin-0;
 
   figcaption {
     @include text-xs;
@@ -63,9 +63,8 @@ sub, sup {
 }
 
 input {
-  background-color: var(--color-background);
-  color: $font-color;
-  border: none;
+  @include font-color;
+  @include body-background-color;
 }
 
 video {
@@ -121,22 +120,13 @@ details {
   padding: 0.5rem 1rem 0.5rem 1rem;
   outline: none;
 
-  summary {
-    @include text-base;
-    @include font-bold;
-
-    a {
-      @include font-color;
-    }
+  &::marker, ::-webkit-details-marker {
+    float: right;
+    margin-top: .45rem;
   }
 
   div {
     @include px-6;
-  }
-  .markdown-inner {
-    h1, h2, h3, h4, h5, h6 {
-      margin-top:2rem!important;
-    }
   }
 }
 
