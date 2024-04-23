@@ -3275,6 +3275,9 @@ ol.timeline .event {
 .fi-min-gina.fis {
   background-image: url(../svg/logos/gina.svg); }
 
+.fi-min-general-reactor.fis {
+  background-image: url(../svg/logos/general-reactor.svg); }
+
 .fi-min-CL.fis {
   background-image: url(../svg/logos/commonwealth-lines.svg); }
 

@@ -151,7 +151,7 @@ VNA is headquartered in the [Pharos](#pharos) municipality, adjacent to its main
 
 ### Future Fission S.q.M.
 
-Future Fission S.q.M. is a subsidiary of General Reactor S.A. specialising in the research and production of airborne fission reactors. It is best known for contributing to sunburst-style reactor types used in civilian and military jets, as well as materials research for lightweight fission reactors.
+Future Fission S.q.M. is a subsidiary of {{<link/general-reactor>}} specialising in the research and production of airborne fission reactors. It is best known for contributing to sunburst-style reactor types used in civilian and military jets, as well as materials research for lightweight fission reactors.
 
 ### Pharos Railway Company Museum
 

@@ -313,14 +313,15 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 				<b>Founding of the 4th Commonwealth</b><br>
 				UK withdraws from Vekllei<br>
 				Government is reesetablished<br>
-				Angua, Antam, Barbuda, Liamuiga, Martin, Montesur and Oualie are federated into the Antilles Commonwealth
+				Angua, Antam, Barbuda, Liamuiga, Martin, Montesur and Oualie are federated into the Antilles Commonwealth<br>
+				{{<link/general-reactor>}} is founded in Vekllei
 			</span>
 		</li>
 		<li>
 			<b>2018</b>
 			<span class="event">
 				Vekllei Royal Airways becomes Crown Overseas Airways<br>
-				Commonwealth Airways is founded<br>
+				{{<link/air>}} is founded<br>
 				Fission energy is legalised for restricted commercial use in the U.S.<br>
 				Vekllei postwar economic boom begins
 			</span>
@@ -328,7 +329,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>2020</b>
 			<span class="event">
-				Aismious Islands are returned to the Commonwealth<br>
+				{{<link/aismious>}} accede to the Commonwealth<br>
 				Farmer’s Syndicate is founded<br>
 				The International Federation of Journalists moves HQ to Vekllei
 			</span>
@@ -362,8 +363,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 			<b>2027</b>
 			<span class="event">
 				Baron Azela is born<br>
-				The Soviet lunar colony is unofficially abandoned<br>
-				General Reactor is founded in Vekllei
+				The Soviet lunar colony is unofficially abandoned
 			</span>
 		</li>
 		<li>

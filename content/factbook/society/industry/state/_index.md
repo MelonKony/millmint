@@ -83,7 +83,7 @@ There are three broad categories of state asset in Vekllei, arranged at their le
 * Vekllei National Machines
   * Civic Systems
   * Voscom
-* [General Reactor](/gr/)
+* {{<link/general-reactor>}}
   * [Future Fission](/factbook/landscape/boroughs/pharos/#future-fission-sqm)
 * International Rocketry
 * Vekllei Tobacco

@@ -25,7 +25,7 @@ reddit: https://www.reddit.com/r/vekllei/comments/ns9ltc/air_atomic/
 
 The Ramoin-Dupont Aircraft Company, with help from the research subsidiary of the absurdly-named “{{<link/gaf>}},” spent about two decades trying to get a reactor to fly. It was easy enough to build a plane around a fission reactor — the problem was keeping the pilot alive. Ramoin-Dupont figured out that, for every megawatt of power, you required about 8 tonnes of rubber and lead shielding — an intolerable figure for a fighter or light aircraft of any kind.
 
-This changed with a breakthrough at General Reactor in Montre, which had been experimenting with sunburst-style heat exchangers but couldn’t find a way to apply the technology. In air-cooled reactor setups, already established in primitive nuclear aircraft, this reactor design could significantly reduce operating temperatures and the burden of shielding with a chromium-cadmium alloy.
+This changed with a breakthrough at {{<link/general-reactor>}} in Montre, which had been experimenting with sunburst-style heat exchangers but couldn’t find a way to apply the technology. In air-cooled reactor setups, already established in primitive nuclear aircraft, this reactor design could significantly reduce operating temperatures and the burden of shielding with a chromium-cadmium alloy.
 
 The eventual widespread refinement and adoption of these innovations changed the role of the fighter, and the satellite appearance of theatres in air warfare. The days of the air-refuelling boom or drop-tank were gone — a nuclear bomber was now able to fly continuously around the world for up to thirty years.
 
