@@ -15,7 +15,7 @@ keywords:
 rgb: 203, 2, 0
 
 url: /stories/petrol-bike/
-image: /images/fullres/gina.jpg
+image: /images/fullres/GINA.jpg
 ---
 {{<note caption>}}
 Not many Vekllei people own cars, but they love their petrol-bikes.

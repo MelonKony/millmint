@@ -33,12 +33,3 @@ article[autonumbering] h5:before {
 	counter-increment: h5;
 	content: counter(h2) "." counter(h3) "." counter(h4) "." counter(h5) ". ";
 }
-
-article[autonumbering] .collapsible-menu ul {
-	counter-reset: item;
-}
-
-article[autonumbering] .collapsible-menu li a:before {
-	content: counters(item, ".") ". ";
-	counter-increment: item;
-}
