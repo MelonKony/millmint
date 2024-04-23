@@ -93,15 +93,6 @@ hr {
   display: none;
 }
 
-.collapsible-menu-wrapper details {
-  padding: 0 .25rem;
-}
-
-.collapsible-menu-wrapper details summary::-webkit-details-marker {
-  float: right;
-  margin-top: 8px;
-}
-
 ::placeholder {
   font-size: 14px;
   @include highlight;
@@ -128,10 +119,6 @@ details {
   div {
     @include px-6;
   }
-}
-
-.collapsible-menu-wrapper details {
-  background-color: transparent;
 }
 
 #navbar a {

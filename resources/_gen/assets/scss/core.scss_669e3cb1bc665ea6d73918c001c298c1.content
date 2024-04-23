@@ -687,13 +687,6 @@ hr {
 .hidden {
   display: none; }
 
-.collapsible-menu-wrapper details {
-  padding: 0 .25rem; }
-
-.collapsible-menu-wrapper details summary::-webkit-details-marker {
-  float: right;
-  margin-top: 8px; }
-
 ::placeholder {
   font-size: 14px;
   color: var(--highlight); }
@@ -716,9 +709,6 @@ details {
   details div {
     padding-left: 1.5rem;
     padding-right: 1.5rem; }
-
-.collapsible-menu-wrapper details {
-  background-color: transparent; }
 
 #navbar a {
   color: var(--highlight); }
