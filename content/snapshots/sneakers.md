@@ -99,7 +99,7 @@ Beadie laughed. 'She tells you?'
 
 ---
 
-The 'lawns' was what they called the grassy embankment out back of Beadie's apartment block. It sloped gently towards a freshwater creek that widened downstream into St John's River, which flowed past the University of Cama and out to sea. It's shame it didn't flow the other way, thought Beadie, because it would be nice to float home after class in the cool water.
+The 'lawns' was what they called the grassy embankment out back of Beadie's apartment block. It sloped gently towards a freshwater creek that widened downstream into St John's River, which flowed past the University of Cama and out to sea. It's a shame it didn't flow the other way, thought Beadie, because it would be nice to float home after class in the cool water.
 
 By late afternoon the mountains around The Valley had cast a cool shade across the lawns, and it was a good place to sit and work. Her desk wasn't big enough; she was a messy worker. There was space to spread out on the lawns, and around her she had textbooks and papers and rulers. Anvi had gone to the coffee shop for ice coffee. Beadie smiled when she saw her return.
 
