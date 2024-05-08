@@ -33,7 +33,7 @@ The big guy with the girl in his lap spoke up. 'Trixie and me're going.'
 
 'George isn't Indian. He's Bangladeshi and you ought to know the difference,' the Big Guy said.
 
-'It's all the same shit!' Avia said and slapped her legs, then withdrew her feet from Beadie's seat. 'I'm sick of it, I swear to *god* I'm going to move to Oslola and marry a big, blonde viking.'
+'It's all the same shit!' Anvi said and slapped her legs, then withdrew her feet from Beadie's seat. 'I'm sick of it, I swear to *god* I'm going to move to Oslola and marry a big, blonde viking.'
 
 Beadie smirked but she didn't feel like hearing this again. She looked out of the window and watched the rooftops fly past. The bright streets of Cama were mostly light stone cut up by canals, but periodically great big seagrape trees flashed past and cast a green shadow inside the carriage. Their leaves whipped the open windows as they passed and Beadie pulled her arm inside. A moment later the train slowed and turned, and she could see the locomotive ahead of them.
 
