@@ -342,7 +342,7 @@ Everyone has the right to have any dispute that can be resolved by the applicati
     2. Except as provided in subsection (30.1) or in any other provision of the Constitution, no law may limit any universal civil right.
 
 31. **States of emergency**
-    1. A Commonwealth of emergency may be declared only in terms of an Act of Commonwealth Federal Parliament, and only when ­
+    1. A state of emergency may be declared only in terms of an Act of Commonwealth Federal Parliament, and only when ­
 
         1. the life of the nation is threatened by war, invasion, general insurrection, disorder, natural disaster or other public emergency; or
         2. the principles of this document are at grave risk; and
@@ -351,15 +351,15 @@ Everyone has the right to have any dispute that can be resolved by the applicati
     2. A declaration of a state of emergency, and any legislation enacted or other action taken in consequence of that declaration, may be effective only ­
 
         1. prospectively; and
-        2. for no more than 21 days from the date of the declaration, unless the National Assembly resolves to extend the declaration. The Assembly may extend a declaration of a Commonwealth of emergency for no more than three months at a time. The first extension must be adopted with a supporting vote of a majority of the members of the Assembly. Any subsequent extensions must be adopted with a supporting vote of at least two thirds of the members of the Assembly.
+        2. for no more than 21 days from the date of the declaration, unless the National Assembly resolves to extend the declaration. The Assembly may extend a declaration of a state of emergency for no more than three months at a time. The first extension must be adopted with a supporting vote of a majority of the members of the Assembly. Any subsequent extensions must be adopted with a supporting vote of at least two thirds of the members of the Assembly.
 
     3. Any competent court may decide on the validity of ­
 
-        1. a declaration of a Commonwealth of emergency;
-        2. any extension of a declaration of a Commonwealth of emergency; or
-        3. any legislation enacted, or other action taken, in consequence of a declaration of a Commonwealth of emergency.
+        1. a declaration of a state of emergency;
+        2. any extension of a declaration of a state of emergency; or
+        3. any legislation enacted, or other action taken, in consequence of a declaration of a state of emergency.
 
-    4. Any legislation enacted in consequence of a declaration of a Commonwealth of emergency may derogate from universal civil rights only to the extent that ­
+    4. Any legislation enacted in consequence of a declaration of a state of emergency may derogate from universal civil rights only to the extent that ­
 
         1. the derogation is strictly required by the emergency; and
 
