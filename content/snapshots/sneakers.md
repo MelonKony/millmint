@@ -137,7 +137,7 @@ All the students were dressed basically the same. The student uniform for univer
 
 The basic components were all the same; white shirt and socks, navy trousers and skirts, leather shoes or sneakers. And in Cama, it was almost always sneakers. Beadie could remember asking about it shortly after she'd met Anvi. She had said something like, 'I like your shoes,' and Anvi had looked down.
 
-'There's just Dunlops, you should go get some,' she'd said, raising her foot. 'We can match.'
+'They're just Dunlops, you should go get some,' she'd said, raising her foot. 'We can match.'
 
 'Dunlops? You mean the tyre company? The British tyre company?'
 
