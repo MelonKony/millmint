@@ -280,6 +280,7 @@ details {
  * Add the correct display in all browsers.
  */
 summary {
+  font-weight: 500;
   display: list-item; }
 
 /* Misc
