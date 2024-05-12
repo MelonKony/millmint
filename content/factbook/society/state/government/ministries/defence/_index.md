@@ -12,7 +12,7 @@ aliases:
  This *[ministry](/ministries/)* is part of {{<link/vekllei>}}
 {{</note>}}
 
-The <span class="fi fi-min-defence fis"></span> **Ministry of Defence** is responsible for the {{<link/military>}} of {{<link/vekllei>}}, as well as its civil defence organisations that include both its police services and emergency response capabilities. In this sense, the Ministry of Defence exercises both a military and civilian role, and its devolved nature under Commonwealth federalism means it has a broad mandate between [republics](/republics/).
+The <span class="fi fi-min-defence fis"></span> **Ministry of Defence** is responsible for the {{<link/armed-forces>}} of {{<link/vekllei>}}, as well as its civil defence organisations that include both its police services and emergency response capabilities. In this sense, the Ministry of Defence exercises both a military and civilian role, and its devolved nature under Commonwealth federalism means it has a broad mandate between [republics](/republics/).
 
 The ministry in peacetime does not exercise command authority of its constituent organisations directly, as the military and civil defence forces are autonomous organisations. Common responsibilities of the ministry include:
 

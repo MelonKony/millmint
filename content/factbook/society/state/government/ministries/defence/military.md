@@ -9,6 +9,9 @@ autonumbering: false
 
 aliases:
 - /military/
+- /armed-forces/
+- /army/
+- /navy/
 ---
 {{<note series>}}
  Part of the *[state](/state/)* series of articles

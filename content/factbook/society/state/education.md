@@ -3,7 +3,7 @@ title: Education
 fulltitle: Education in Vekllei
 icon: 📚
 emoji: p
-color: purple
+color: millmint
 image:
 
 tags:
@@ -54,51 +54,59 @@ The distinguishing characteristics of the Atlantic Model are:
 * Mixed-age classrooms, mostly comprising an age difference of three years
 * Emphasis of cleanliness, ordered spaces and natural light
 * Democratic or student-led topics and activities
+* Emphasis of personal responsibility, improvement, and discipline
 * Free time for work and play
-* An emphasis on clubs, hobbies and extracurricular activities
+* Emphasis on clubs, hobbies and extracurricular activities
 * Shared burdens like cleaning and cooking
 * Short classroom periods broken up by changes in location and subject
 * Tracked subject streams
 * Activities to improve school spirit and civic identity
-* Emphasis of personal responsibility, improvement, and discipline
 * Emphasis of self-care, growth, emotional control and appearance
 {{</note>}}
 
 
 
-## Structure
+## Organisation
 
 {{<note>}}
 ✿ Download <span class="smallicon">📄</span> [Document No. 7.pdf](/files/documents/7.pdf)
 {{</note>}}
 
-### Administration and Funding
+![Image of Tzipora and Moise](https://images.millmint.net/fullres/sami.jpg "The student uniform is heavily accessorised, and varies in detail to accomodate the culture of republics | *[Sami](/stories/sami/)*")
 
-All forms of education in Vekllei are free, including for international students at a tertiary level. The system is funded by the [Commonwealth Education Secretariat (SOLCOM)](/solcom/), which also administers the school curriculum and some schools directly.
+Education in Vekllei has no fees, by nature of the *commons*, including at the secondary and tertiary level. It is funded and equipped by the {{<link/parliament-of-education>}}, which also establishes and supports the national curriculum.
 
-### Schools
+There are many different types of school in Vekllei, but all are government-funded and adhere to the compulsory curriculum outlined by the Education Secretary. The national education uniform is compulsory for all students at both public and independent schools, and is voluntary at universities.
 
-There are several different types of school in Vekllei, but all are government-funded and adhere to the compulsory curriculum outlined by the Education Secretary. The [Vekllei Education Uniform](#uniform) is compulsory for all students, including at independent schools.
+<details>
+<summary>State Schools</summary>
 
-#### State Schools
+State schools (also *central* or *district schools*) are administered and funded directly by a [constituent republic](/republics/) through the {{<link/parliament-of-education>}}, and are common in cities and some high-density city-states. They are traditionally larger and better equipped, and usually provide for both primary and secondary schooling. In certain republics, state schools are also district colleges, meaning they serve students from [Prep](#preparatory-school) to Year 12 or 13.
+</details>
 
-State schools (also Central Schools) are administered and funded directly by the Education Secretariat, and are common in cities and in Commonwealth member-states. They are traditionally larger and better equipped, and usually provide for both primary and secondary schooling. Some state schools are also district colleges, meaning they serve students from [Prep](#preparatory-school) to Year 12 or 13.
+<details>
+<summary>Community Schools</summary>
 
-#### Community Schools
+Community schools (also *local schools*) are usually administered by a [municipality](/municipalities/), and are usually smaller than state schools. Although some community schools may combine primary and secondary schooling, most serve only primary education. Community schools may also refer to village schools, or community-run schools in the localist Vekllei tradition.
+</details>
 
-Community schools are usually administered by a borough or [municipality](/municipalities/), and are usually smaller than state schools. Although some community schools may combine primary and secondary schooling (called district schools), most serve only primary education. Community schools may also refer to village schools, or community-run schools in the local Vekllei tradition.
+<details>
+<summary>Studio & Technical Schools</summary>
 
-#### Studio & Technical Schools
+Studio and technical schools typically refer to secondary schools that specialise in arts or vocational curriculums, as a means to fast-track gifted learning. These schools may offer boarding, as only a few studio and technical schools exist across the Commonwealth and smaller republics may send their students overseas to study there.
+</details>
 
-Studio and technical schools typically refer to secondary schools that specialise in arts or vocational curriculums, as a means to fast-track gifted learning. These schools may offer boarding, as only a few studio and technical schools exist across the Commonwealth and smaller member-states may send their students overseas to study there.
-
-#### Faith Schools
+<details>
+<summary>Faith Schools</summary>
 
 Faith schools in Vekllei are affiliated with an approved religious organisation. The curriculum of faith schools have a religious character, usually Jewish or Roman Catholic. Faith schools are still required to adhere to the [Commonwealth curriculum](#curriculum) as a minimum education standard. Faith Schools are also an exception to the universal coeducational system of the Commonwealth, since two schools in Oslola and one in the Kalina Isles are single-sex boarding schools.
+</details>
 
-#### Boarding Schools
+<details>
+<summary>Boarding Schools</summary>
 
 Vekllei offers a handful of boarding schools, which are usually specialised institutions that may operate as orphanages or for international students. Some Vekllei boarding schools include aspects of democratic education.
+</details>
 
 ## Education
 
@@ -106,11 +114,11 @@ Vekllei offers a handful of boarding schools, which are usually specialised inst
 ✿ Read more: {{<link/parliament-of-education>}}
 {{</note>}}
 
-Vekllei people are enrolled in 9 years of compulsory education, provided by the {{<link/parliament-of-education>}}. In addition, 3 years of pre-school and 3 years of senior secondary schooling are offered but not compulsory. All schools in Vekllei are funded by the state, which include community schools, state schools, studio schools, technical schools, faith schools and state boarding schools.
+Vekllei people are enrolled in 9 years of compulsory education. In addition, 3 years of pre-school and 3 years of senior secondary schooling are available but not compulsory.
 
-Compared to modern schooling overseas, Vekllei education places significant value on well-roundedness and practicable household and technical skills. Subject-based streams for specialised learning are common, but the basic compulsory Vekllei curriculum emphasises non-academic subjects and structures pre-tertiary subjects as electives.
+Compared to schooling overseas, Vekllei education places significant value on well-roundedness and practicable household and technical skills, as well as social behaviour. Subject-based streams for specialised learning are common, but the basic compulsory Vekllei curriculum emphasises non-academic subjects and structures pre-tertiary subjects as electives. Reinforcement and learning are lead by positive rather than negative means.
 
-![Image of Tzipora standing in front of school building](/images/mist.jpg "Misty morning in front of the [Moshel St School](/moshel/) | *[Heavy Mist](/stories/mist/)*")
+![Image of Tzipora and Moise](https://images.millmint.net/fullres/prairie.jpg "Misty morning in front of the [Moshel St School](/moshel/) | *[A Social Economy](/stories/a-social-economy/)*")
 
 Vekllei has a strong tradition of school clubs and social organisations, and these are considered essential aspects of Vekllei education. Clubs and associations are usually organised by student leadership, and offer opportunities in industry and tertiary study.
 
@@ -144,18 +152,12 @@ Universities in Vekllei offer places to students who have completed their Educat
 
 In order to study abroad, Vekllei students must be sponsored by a foreigner, receive a partial scholarship from an overseas university, or receive funding from their tertiary place of study. About one in four Vekllei students study overseas for some period of time.
 
-#### University
-
-Vekllei International University offers
-
-#### Vocational Schools
-
 ## Curriculum
 
-The Commonwealth Curriculum is the common programme of study in all Commonwealth schools, and determines standards of study across all education institutions.
+The national curriculum is the common programme of study in all Commonwealth schools, and determines standards of study across all education institutions.
 
 <details open>
-  <summary>Commonwealth International Curriculum</summary>
+  <summary>Atlantic Curriculum</summary>
 
 * Arts
 * Vekllei Languages
@@ -178,20 +180,17 @@ The Commonwealth Curriculum is the common programme of study in all Commonwealth
 
 ![Illustration of different ways of wearing the same school uniform](/images/generation.jpg "Examples of Vekllei school uniform and its functional diversity | [*A New Generation*](/stories/new-generation/)")
 
-All schools in Vekllei share the Education Uniform, made compulsory by the [Education Secretariat](/solsec/). The Vekllei uniform is simple and purchased independently, usually from department stores. The only badged items are the tie and jewellery/pins. It is worn across all ages of schooling, including tertiary education and university, and by some teachers as well.
+All schools in Vekllei share a common student uniform, which can also be worn by teachers and at university. The basic components are universal, but makes no requirements about hair, piercings or makeup. In addition, the basic uniform is often heavily accessorised with cultural elements approved by the school. These include elements like hats, belts, overskirt pleats, clothing items and armbands, but these are added to the existing uniform and do not typically modify the base components.
+
+![Illustration Caribbean youths wearing school uniform](/images/kalinauniform.jpg "Examples of Caribbean Commonwealth school uniform featuring local dress. | [*Caribbean Uniforms*](/stories/caribbean-uniform/)")
+
+The basic uniform is simple and purchased independently, usually from department stores. The only badged items are the tie and jewellery/pins. It is worn across all ages of schooling, including tertiary education and university, and by some teachers as well.
 
 |        | Boys                                                                                                                                                                                                  | Girls                                                                                                                                                                                                                   |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Top    | <ul> <li>White collared shirt, tucked shirttails</li> <li>Black school tie</li> <li>Navy cape or mackintosh raincoat</li> <li>Navy jumper or sweater</li> <li>Navy blazer or sports jacket</li> </ul> | <ul> <li>White blouse, tucked shirttails</li> <li>Black or red school tie or floral piece</li> <li>Navy cape, pettycape or mackintosh raincoat</li> <li>Navy jumper or sweater</li> <li>Navy pinafore or gymslip</li> </ul> |
-| Bottom | <ul> <li>Navy trousers or shorts</li> <li>Dark or brown belt</li> </ul>                                                                                                                                   | <ul> <li>Navy skirt or trousers</li> <li>White traditional trousers</li> <li>Dark or brown belt</li> </ul>                                                                                                                  |
-| Shoes  | <ul> <li>Dark or brown leather shoes</li> <li>Dark socks</li> </ul>                                                                                                                                       | <ul> <li>Dark or brown leather shoes</li> <li>white socks</li> </ul>                                                                                                                                                        |                                                                                                    |
+| Bottom | <ul> <li>Navy trousers or shorts</li> <li>Dark or brown belt</li> </ul>                                                                                                                                   | <ul> <li>Navy skirt, shorts or trousers</li> <li>Dark or brown belt</li> </ul>                                                                                                                  |
+| Shoes  | <ul> <li>Dark or brown leather shoes</li> <li>White sneakers or tennis shoes</li> <li>Dark socks</li> </ul>                                                                                                                                       | <ul> <li>Dark or brown leather shoes</li> <li>White sneakers or tennis shoes</li><li>white socks</li> </ul>                                                                                                                                                        |                                                                                                    |
 
-The colours of uniforms may vary in constituent member-states of the Commonwealth -- for example, the Kalina Isles use dark green in place of navy. Nonetheless, the Education Uniform standards are set at the Commonwealth level and are generally adopted in whole.
-
-![Illustration Caribbean youths wearing school uniform](/images/kalinauniform.jpg "Examples of Caribbean Commonwealth school uniform featuring local dress. | [*Caribbean Uniforms*](/stories/caribbean-uniform/)")
-
-
-Although the items are not issued by individual schools, they are provided by the [ACC](/factbook/society/state/government/commonwealth/education/#all-commonwealth-school-directorate) on request and as such constitute a uniform rather than a dress code. The uniform system was designed in 2015 by French migrant Charles-Édouard Laurent to be accessible and comfortable, and so that individual items could continue to be worn after schooling concluded. It is iconic overseas and well-regarded by most Vekllei students.
-
-Many schools make use of felt armbands to distinguish students or to signal membership in clubs or student councils. These are traditionally red, but may also be green or blue depending on their use.
+The uniform system was created in 2015 by French migrant Charles-Édouard Laurent to be accessible and comfortable, and so that individual items could continue to be worn after schooling concluded. It is iconic overseas and well-regarded by most Vekllei students.
 
