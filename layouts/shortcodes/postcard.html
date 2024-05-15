@@ -1,0 +1,24 @@
+<div class="postcard-layout">
+  <ul class="postcard-grid">
+    {{ range .Site.RegularPages.ByDate.Reverse | first 1 }}
+    <li class="card" href="{{ .RelPermalink }}">
+      <a href="{{ .RelPermalink }}">
+        <div class="postcard-meta">
+          <div class="title">
+            {{- .Title -}}
+            {{ if .Params.rgb }}
+            <div data-card-color="{{ .Params.rgb }}"></div>
+            {{ end }}
+          </div>
+          <div class="date">
+            {{- .PublishDate.Format "2006/01/02" -}}
+          </div>
+        </div>
+        <div class="postcard-image">
+          {{ partial "components/image.html" . }}
+        </div>
+      </a>
+    </li>
+    {{end}}
+  </ul>
+</div>

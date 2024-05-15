@@ -7,6 +7,7 @@ tags:
     - post
     - 2020
     - pachinki
+characters:
     - tzipora
 categories:
     - story
@@ -19,7 +20,6 @@ url: /stories/christmas-story/
 aliases:
 - /posts/2020-12-26-deadplanes/
 
-    - pachinki
 image: https://images.millmint.net/deadplanes.jpg
 reddit: https://www.reddit.com/r/vekllei/comments/kkmgdm/a_tzipora_christmas_story/
 ---

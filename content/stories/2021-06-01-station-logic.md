@@ -6,6 +6,7 @@ date: 2021-06-01
 tags:
 - post
 - 2021
+characters:
 - tzafi
 - aleph
 categories:

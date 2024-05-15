@@ -8,6 +8,7 @@ rgb: 237, 165, 155
 tags:
 - 2022
 - post
+characters:
 - tzipora
 categories:
 - story

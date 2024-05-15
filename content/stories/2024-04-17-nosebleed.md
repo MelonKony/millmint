@@ -6,6 +6,8 @@ date: 2024-04-17
 
 tags:
 - 2024
+
+characters:
 - tzipora
 - cobian
 categories:

@@ -6,6 +6,8 @@ date: 2024-04-11
 
 tags:
 - 2024
+
+characters:
 - tzipora
 categories:
 - sketch

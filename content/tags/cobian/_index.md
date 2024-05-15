@@ -1,4 +1,0 @@
----
-title: Cobian
-color: yellow
----

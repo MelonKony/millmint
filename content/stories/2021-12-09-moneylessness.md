@@ -7,7 +7,7 @@ fulltitle: On Moneylessness
 date: 2021-12-09
 tags:
 - 2021
-- post
+characters:
 - tzipora
 - cobian
 categories:

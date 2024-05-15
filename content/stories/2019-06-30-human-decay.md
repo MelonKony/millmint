@@ -6,6 +6,7 @@ date: 2019-06-30
 tags:
     - sketch
     - 2019
+characters:
     - tzipora
 categories:
     - story

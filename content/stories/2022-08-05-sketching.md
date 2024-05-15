@@ -7,6 +7,7 @@ date: 2022-08-05
 tags: 
 - 2022
 - post
+characters:
 - tzipora
 categories:
 - story

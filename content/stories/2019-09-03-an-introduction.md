@@ -6,6 +6,7 @@ date: 2019-09-03
 tags:
     - guide
     - 2019
+characters:
     - tzipora
     - ayn
 categories:
@@ -14,7 +15,7 @@ categories:
 keywords:
     - guide
     - 2019
-    
+
 url: /stories/an-introduction/
 aliases:
 - /posts/2019-09-03-an-introduction/

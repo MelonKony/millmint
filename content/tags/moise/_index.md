@@ -1,4 +1,0 @@
----
-title: Moise
-color: yellow
----

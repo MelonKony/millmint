@@ -6,6 +6,8 @@ date: 2017-07-01
 tags:
     - post
     - 2017
+
+characters:
     - tzipora
 categories:
     - story
@@ -13,7 +15,7 @@ categories:
 keywords:
     - post
     - 2017
-    
+
 url: /stories/youth/
 aliases:
 - /stories/1/

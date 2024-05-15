@@ -1,3 +1,5 @@
+<!-- Website Nav -->
+
 <nav>
     {{- $currentPage := . -}}
     {{- $currentUrl := .RelPermalink -}}
@@ -21,7 +23,7 @@
                        <div class="menu-link"><span class="navicon">{{ .Pre }}</span><span class="name">{{- .Name -}}</span></div>
                     {{ end }}
                     <ul class="menu-dropdown">
-                        {{- partial "navbar/nav-desktop.html" . -}}
+                        {{- partial "nav/navbar/nav-desktop.html" . -}}
                     </ul>
                 </li>
             {{- else -}}

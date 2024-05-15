@@ -6,6 +6,7 @@ date: 2021-08-21
 tags:
 - post
 - 2021
+characters:
 - tzipora
 - tzipora
 - cobian

@@ -1,4 +1,0 @@
----
-title: Tags
-color: yellow
----

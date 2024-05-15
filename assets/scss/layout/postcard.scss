@@ -1,42 +1,71 @@
 .postcard-layout {
-  a {
-    color: var(--color-text);
+  @include my-2;
+
+  .postcard-grid {
+    @include padding-0;
+    @include my-6;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 10px;
+    grid-auto-flow: row;
+    list-style: none;
+    padding: 0;
   }
 
-  .postcard-item {
-    padding: 1rem;
-    background-color: var(--color-background-card);
-    margin: 2rem 0;
+  .card {
+    @include radius-base;
+    max-width: 260px;
+    justify-self: center;
+    align-self: center;
+    list-style: none;
+    border: 4px solid var(--gray-med);
+    width: 100%;
     box-sizing: border-box;
-    background: $gray-100;
-    padding: 0;
-    border-radius: 5px;
-    transition: ease 0.25s;
+    background: var(--gray-light);
+    transition: ease 0.15s;
     position: relative;
-    border: 6px solid $gray-100;
+
+    a {
+      text-decoration: none;
+    }
+
+    .title {
+      @include px-1;
+      @include text-lg;
+      font-weight: 500;
+    }
+
+    .postcard-image {
+      @include radius-base;
+      border-top-left-radius: 0;
+      border-top-right-radius: 0;
+      overflow: hidden;
+
+      img {
+        @include my-0;
+        height: 360px !important;
+        object-fit: cover !important;
+        transform: scale(1.1);
+      }
+    }
 
     &:hover {
-      box-shadow: 0 0 5px rgba(33, 33, 33, .2);
-      transform: translate(0, -5px);
+      box-shadow: 0px 5px 10px 2.5px var(--highlight-background);
+      transform: translateY(-0.5rem);
     }
+  }
 
-    .postcard-title {
-      @include text-xl;
-      @include font-bold;
-    }
-  
-    .postcard-summary {
-      @include text-xs;
-      color: var(--color-text-secondary);
-      overflow: hidden;
-      white-space: nowrap;
-      text-overflow: ellipsis;
-      margin: .5rem 0;
-    }
+  .postcard-meta {
+    @include padding-2;
+    @include radius-base;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    overflow: hidden;
 
-    .postcard-metadata {
-      @include text-xs;
-      color: var(--color-text-secondary);
+    .date {
+      @include text-sm;
+      padding: 0px 10px 5px 5px;
+      margin-top: -5px;
     }
   }
 }

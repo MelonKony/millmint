@@ -1,6 +1,7 @@
 <header class="info">
   <h1 class="title">{{ .Params.fulltitle }}</h1>
   <div class="date" style="margin-right: .25rem;">{{if .Params.PublishDate}}{{- .PublishDate.Format "Monday, Jan 2, 2006" -}}{{ end }}</div>
+  {{ if default true .Params.meta }}
   <div class="meta">
     <span class="icon" style="line-height: 1.2;">{{ .Params.icon }}</span>
     <div class="headcrumbs">
@@ -16,45 +17,46 @@
 
   {{ if .Params.emoji }}<div class="emoji" id="whirlybat">{{ .Params.emoji }}</div>{{ end }}
   {{ if .Params.logo }}<img class="logo" alt="article logo" src="{{ .Params.logo }}"></img>{{ end }}
+  {{end}}
 
     <!-- Character page tags in footer -->
-    {{ if in .Params.tags "tzipora" | or (in .Params.tags "cobian")  | or (in .Params.tags "baron")  | or (in .Params.tags "ayn")  | or (in .Params.tags "moise")  | or (in .Params.tags "coretti")  | or (in .Params.tags "zhi") }}
+    {{ if in .Params.characters "tzipora" | or (in .Params.characters "cobian")  | or (in .Params.characters "baron")  | or (in .Params.characters "ayn")  | or (in .Params.characters "moise")  | or (in .Params.characters "coretti")  | or (in .Params.characters "zhi") }}
 
     <div class="characters">
-      {{ if in .Params.tags "tzipora" }}
-      <a href="/tags/tzipora">
+      {{ if in .Params.characters "tzipora" }}
+      <a href="/characters/tzipora">
         <img class="portrait" src="/images/mastheads/characters/portraits/tzipora.png">
       </a>
       {{ end }}
 
-      {{ if in .Params.tags "cobian" }}
-        <a href="/tags/cobian">
+      {{ if in .Params.characters "cobian" }}
+        <a href="/characters/cobian">
           <img class="portrait" src="/images/mastheads/characters/portraits/cobian.png">
         </a>
       {{ end }}
 
-      {{ if in .Params.tags "baron" }}
-        <a href="/tags/baron">
+      {{ if in .Params.characters "baron" }}
+        <a href="/characters/baron">
           <img class="portrait" src="/images/mastheads/characters/portraits/baron.png">
         </a>
       {{ end }}
-      {{ if in .Params.tags "ayn" }}
-        <a href="/tags/ayn">
+      {{ if in .Params.characters "ayn" }}
+        <a href="/characters/ayn">
           <img class="portrait" src="/images/mastheads/characters/portraits/ayn.png">
         </a>
       {{ end }}
-      {{ if in .Params.tags "moise" }}
-        <a href="/tags/moise">
+      {{ if in .Params.characters "moise" }}
+        <a href="/characters/moise">
           <img class="portrait" src="/images/mastheads/characters/portraits/moise.png">
         </a>
       {{ end }}
-      {{ if in .Params.tags "coretti" }}
-        <a href="/tags/coretti">
+      {{ if in .Params.characters "coretti" }}
+        <a href="/characters/coretti">
           <img class="portrait" src="/images/mastheads/characters/portraits/coretti.png">
         </a>
       {{ end }}
-      {{ if in .Params.tags "zhi" }}
-        <a href="/tags/zhi">
+      {{ if in .Params.characters "zhi" }}
+        <a href="/characters/zhi">
           <img class="portrait" src="/images/mastheads/characters/portraits/zhi.png">
         </a>
       {{ end }}

@@ -6,6 +6,7 @@ date: 2019-09-19
 tags:
     - post
     - 2019
+characters:
     - tzipora
 categories:
     - story

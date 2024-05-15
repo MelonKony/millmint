@@ -1,0 +1,56 @@
+html.snapshot {
+	#notice {
+		margin: 1rem;
+	}
+
+	body {
+		background-image: none;
+	}
+
+	article {
+		font-family: 'New York';
+		color: var(--darker-text);
+	}
+
+	main {
+		background-color: transparent;
+	}
+
+	header.info {
+		.title {
+			color: var(--darker-text);
+			font-size: 50pt;
+			font-weight: 900;
+		}
+
+		.meta {
+			display: none;
+		}
+	}
+
+	section.page {
+		margin-top: 2rem;
+		margin-bottom: 3rem;
+	}
+
+	.note.subtitle {
+		background-color: transparent;
+	}
+
+	.dropcap {
+		float: left;
+		font-weight: 900;
+		font-size: 75px;
+		line-height: 60px;
+		padding-top: 12px;
+		padding-right: 16px;
+		padding-left: 3px;
+	}
+
+	h1 {
+		margin-top: 4rem;
+		margin-bottom: 2rem;
+		font-size: 25pt;
+		font-weight: 900;
+	}
+}

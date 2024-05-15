@@ -7,6 +7,7 @@ tags:
     - post
     - update
     - 2020
+characters:
     - tzipora
 categories:
     - story
@@ -15,7 +16,7 @@ keywords:
     - post
     - update
     - 2020
-    
+
 url: /stories/postcards/
 aliases:
 - /posts/2020-05-13-tzipostcards/

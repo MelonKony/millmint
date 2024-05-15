@@ -6,7 +6,7 @@ rgb: 184, 159, 30
 date: 2021-09-27
 tags:
 - 2021
-- post
+characters:
 - tzipora
 categories:
 - story

@@ -6,6 +6,7 @@ date: 2024-01-23
 
 tags:
 - 2024
+characters:
 - laura
 categories:
 - story

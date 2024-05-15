@@ -30,17 +30,17 @@ description: Studio MillMint is a Hobart-based illustration studio specialising 
 
 Vekllei has existed in some form since I was a kid, but I started working on it properly in 2017.
 
-You can follow my progress on this project on [Twitter](https://twitter.com/MelonKony), or join [my subreddit](https://www.reddit.com/r/vekllei).
+You can follow my progress on this project on [Twitter](https://twitter.com/MelonKony), or join [my Discord](https://discord.gg/dCE6vSU).
 
 You can **write to me** at <span class="smallicon">📧</span> hobart@millmint.net.
 
-Visited: 🇦🇺🇯🇵🇿🇦🇭🇰🇮🇸🇨🇦🇲🇪🇷🇺🇫🇮🇸🇪🇮🇹🇫🇷🇩🇪🇬🇧🇭🇷🇹🇭🇺🇸🇸🇬🇲🇨🇬🇷
+Visited: 🇦🇺🇯🇵🇿🇦🇭🇰🇮🇸🇨🇦🇲🇪🇷🇺🇫🇮🇸🇪🇮🇹🇫🇷🇩🇪🇬🇧🇭🇷🇹🇭🇺🇸🇸🇬🇲🇾🇲🇨🇬🇷
 
 {{<note>}}
 Sincere thanks to [Jip](https://jipfr.nl) and Ben R. R. for their contributions to this site. They volunteered their time again and again to help create new features that make Vekllei easier and more fun to read. Thank you!
 {{</note>}}
 
-## News
+<!--## News
 
 <small>Last updated: 08 Jul 2023</small>
 

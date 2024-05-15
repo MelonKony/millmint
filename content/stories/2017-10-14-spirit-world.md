@@ -6,6 +6,7 @@ date: 2017-10-14
 tags:
     - post
     - 2017
+characters:
     - tzipora
 categories:
     - story

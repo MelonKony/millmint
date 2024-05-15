@@ -6,6 +6,7 @@ date: 2020-08-09
 tags:
     - post
     - 2020
+characters:
     - tzipora
 categories:
     - story

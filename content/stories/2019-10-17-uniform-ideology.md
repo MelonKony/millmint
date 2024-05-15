@@ -6,6 +6,7 @@ date: 2019-10-17
 tags:
     - post
     - 2019
+characters:
     - tzipora
     - cobian
 categories:

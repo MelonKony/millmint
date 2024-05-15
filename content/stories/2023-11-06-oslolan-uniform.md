@@ -6,6 +6,7 @@ date: 2023-11-06
 
 tags:
 - 2023
+characters:
 - tzipora
 categories:
 - story

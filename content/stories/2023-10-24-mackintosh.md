@@ -6,6 +6,7 @@ date: 2023-10-24
 
 tags:
 - 2023
+characters:
 - tzipora
 - moise
 categories:

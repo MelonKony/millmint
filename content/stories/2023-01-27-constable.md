@@ -4,9 +4,10 @@ fulltitle: Constable Zelda
 
 date: 2023-01-27
 
-tags: 
+tags:
 - 2023
 - sketch
+characters:
 - tzipora
 categories:
 - sketch

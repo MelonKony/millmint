@@ -6,6 +6,8 @@ date: 2024-01-21
 
 tags:
 - 2024
+
+characters:
 - tzipora
 categories:
 - story

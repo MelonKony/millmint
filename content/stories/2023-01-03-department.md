@@ -7,6 +7,7 @@ date: 2023-01-03
 tags:
 - 2023
 - post
+characters:
 - tzipora
 - cobian
 categories:

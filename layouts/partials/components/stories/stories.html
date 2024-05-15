@@ -1,0 +1,28 @@
+{{ $ctx := .ctx }}
+{{ $pages := .pages }}
+
+<div class="postcard-layout">
+  <ul class="postcard-grid">
+    {{ range ($ctx.Paginator).Pages }}
+    <li class="card" href="{{ .RelPermalink }}">
+      <a href="{{ .RelPermalink }}">
+        <div class="postcard-meta">
+          <div class="title">
+            {{- .Title -}}
+            {{ if .Params.rgb }}
+            <div data-card-color="{{ .Params.rgb }}"></div>
+            {{ end }}
+          </div>
+          <div class="date">
+            {{- .PublishDate.Format "2006/01/02" -}}
+          </div>
+        </div>
+        <div class="postcard-image">
+          {{ partial "components/image.html" . }}
+        </div>
+      </a>
+    </li>
+    {{end}}
+  </ul>
+  {{ partial "pagination.html" $ctx }}
+</div>

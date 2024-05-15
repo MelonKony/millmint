@@ -7,6 +7,7 @@ tags:
     - post
     - guide
     - 2019
+characters:
     - tzipora
 categories:
     - story
@@ -15,7 +16,7 @@ keywords:
     - post
     - guide
     - 2019
-    
+
 url: /stories/meet-tzipora/
 aliases:
 - /posts/2019-05-27-character/

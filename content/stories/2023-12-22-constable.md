@@ -6,6 +6,7 @@ date: 2023-12-22
 
 tags:
 - 2023
+characters:
 - tzipora
 - merce
 categories:

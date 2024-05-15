@@ -7,7 +7,7 @@ rgb: 79, 121, 78
 date: 2021-11-20
 tags:
 - 2021
-- post
+characters:
 - tzipora
 - zhi
 categories:

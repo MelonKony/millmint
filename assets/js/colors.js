@@ -87,8 +87,8 @@ if (localStorage.theme === 'light' || (!('theme' in localStorage) && window.matc
   });
 
   function updatePostGrid() {
-    if (document.querySelector(".post-grid")) {
-      document.querySelectorAll("ul.post-grid > li").forEach((card) => {
+    if (document.querySelector(".postcard-grid")) {
+      document.querySelectorAll("ul.postcard-grid > li").forEach((card) => {
         const img = card.querySelector("img");
 
         function setCardBackground(rgb) {
@@ -101,19 +101,21 @@ if (localStorage.theme === 'light' || (!('theme' in localStorage) && window.matc
           card.setAttribute("style", styles);
 
           // Set individual elements
-          card.querySelectorAll(".text-xs").forEach((el) => {
-            el.style.color = `rgba(${rgb
-              .map((v) => Math.max(v, 0))
-              .join(", ")}, 1)`;
-          });
-
+          // title
           card
-            .querySelectorAll(".card-title")
+            .querySelectorAll(".title")
             .forEach((title) => {
               title.setAttribute(
                 "style",
                 `color: rgb(${rgb.join(", ")}) !important;`
               );
+            });
+
+            // date
+            card.querySelectorAll(".date").forEach((el) => {
+              el.style.color = `rgba(${rgb
+                .map((v) => Math.max(v, 0))
+                .join(", ")}, 1)`;
             });
 
           card.classList.add("has-color");

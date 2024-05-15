@@ -1,0 +1,136 @@
+<style>
+.trips ul,
+.trips li {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  line-height: 1.25;
+}
+
+.trips details[open] {
+  background: var(--mg);
+}
+
+.trips summary {
+  display: grid;
+  margin: 0;
+  grid-gap: 1rem;
+  grid-template-columns: auto 15rem max-content;
+  align-items: center;
+}
+
+.trips summary::marker, /* Latest Chrome, Edge, Firefox */
+.trips summary::-webkit-details-marker /* Safari */ {
+  display: none;
+}
+
+.trips details[open] summary,
+.trips li:not(:last-of-type),
+.trips li:last-of-type .legs li {
+  border-bottom: var(--border) solid var(--fg);
+}
+
+.trips li:hover {
+  background-color: var(--mg);
+}
+
+.trips summary > * {
+  display: block;
+  margin: var(--hms) 0;
+}
+
+.trips summary > *:first-child {
+  font-weight: 600;
+}
+
+.trips li:last-of-type .legs li {
+border-bottom: var(--border) solid var(--fg);
+}
+
+.legs li {
+  font-size: var(--f5);
+  padding: var(--hms) 0;
+}
+
+@media screen and (max-width: 44rem) {
+  .trips summary {
+    display: flow-root;
+  }
+}
+</style>
+
+{{ $logs := partial "fns/group-date-year" .Site.Data.trips.trips }}
+{{ range $logs.years }}
+  <section class='trips'>
+    {{ $year := . }}
+    {{ $entries := index $logs.map $year }}
+
+    <h3 class='tbh' id='{{ $year }}'>{{ $year }} <small class='lg'>({{ len $entries }} entries)</small></h3>
+
+    <ul>
+    {{ with $entries }}
+      {{ range $entry := . }}
+        <li>
+          <details>
+            <summary>
+              <span>{{ .name }}</span>
+              <span>{{ .place }}</span>
+              <span>
+                <time class='tab lg small'>{{ dateFormat "2006-01-02" .start }}</time>
+                <small class='lg'>→</small>
+                <time class='tab lg small'>{{ dateFormat "2006-01-02" .date }}</time>
+              </span>
+            </summary>
+
+            {{ with $entry.itinerary }}
+              <ul class='legs'>
+                {{ range . }}
+                  <li>{{ template "leg" . }}</li>
+                {{ end }}
+              </ul>
+            {{ end }}
+          </details>
+        </li>
+      {{ end }}
+    {{ end }}
+    </ul>
+  </section>
+{{ end }}
+
+<script>
+const details = document.querySelectorAll('.trips details')
+
+details.forEach(target => {
+  target.addEventListener('toggle', closeAll)
+})
+
+function closeAll (e) {
+  if (e.target.open) {
+    details.forEach(detail => {
+      if (detail != e.target && detail.open) detail.open=false
+    })
+  }
+}
+</script>
+
+{{ define "leg" }}
+  {{ template "transit-type" .type }}
+  <time class='tab lg'>{{ dateFormat "2006-01-02 15:04" .departure }}</time>
+  {{ .origin.name }}
+  →
+  <time class='tab lg'>{{ dateFormat "15:04" .arrival }}</time>
+  {{ .destination.name }}
+  {{ if eq .type "air" -}}
+    <span class='lg'>({{ .operator }} {{.number}})</span>
+  {{- end }}
+{{ end }}
+
+{{ define "transit-type" }}
+  {{- if eq . "train" }}🚆
+  {{ else if eq . "bus" }}🚍
+  {{ else if eq . "air" }}✈️
+  {{ else if eq . "boat" }}🛳
+  {{ else if eq . "car" }}🚙
+  {{ else }}🚀
+  {{ end -}}
+{{ end }}

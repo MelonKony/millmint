@@ -6,6 +6,7 @@ date: 2024-01-19
 
 tags:
 - 2024
+characters:
 - astrid
 - laura
 categories:

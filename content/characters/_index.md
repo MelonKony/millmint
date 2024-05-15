@@ -1,4 +1,4 @@
 ---
-title: Ayn
+title: Characters
 color: yellow
 ---

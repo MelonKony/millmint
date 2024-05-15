@@ -12,12 +12,11 @@ aliases:
 - /characters/
 ---
 
-
 {{< tabs "characters" >}}
 {{< tab "Tzipora" >}}
 <img alt="picture of Tzipora" style="background-color: transparent;" src="/images/mastheads/characters/tzipora.png">
 
-<a href="/tags/tzipora/"><button>See all stories featuring Tzipora</button></a>
+<a href="/characters/tzipora/"><button>See all stories featuring Tzipora</button></a>
 
 **Tzipora** *lo Ula de Helette* **Azela**, often called **Zelda** by her friends, is the main character of this project. She was born in 2047 in Colombia, but lives in {{<link/vekllei>}} with Baron.
 
@@ -52,7 +51,7 @@ Tzipora may be intense and inward-facing, but she can also be disarmingly charmi
 {{< tab "Cobian" >}}
 <img alt="picture of Cobian" style="background-color: transparent;" src="/images/mastheads/characters/cobian.png">
 
-<a href="/tags/cobian/"><button>See all stories featuring Cobian</button></a>
+<a href="/characters/cobian/"><button>See all stories featuring Cobian</button></a>
 
 **Cobian** *lo Ro de Viviya* de **Queismesnah** is Tzipora's longtime friend and occasional girlfriend. Stern in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood.
 
@@ -87,9 +86,9 @@ Zelda has a stabilising effect on Cobian, rounding out some of her conservative 
 {{< tab "Baron" >}}
 <img alt="picture of Baron" style="background-color: transparent;" src="/images/mastheads/characters/baron.png">
 
-<a href="/tags/baron/"><button>See all stories featuring Baron</button></a>
+<a href="/characters/baron/"><button>See all stories featuring Baron</button></a>
 
-**Baron** *lo Ula de Tiria* **Azela** is Tzipora's guardian in on way or another. Whether he's a surrogate father, adoptive parent, mentor or friend, his title is unclear but their relationship is fairly straightforward. Tzipora lives with him in Seispri and his relationship with her is both paternal and respectful as an equal.
+**Baron** *lo Ula de Tiria* **Spector** is Tzipora's guardian in on way or another. Whether he's a surrogate father, adoptive parent, mentor or friend, his title is unclear but their relationship is fairly straightforward. Tzipora lives with him in Seispri and his relationship with her is both paternal and respectful as an equal.
 
 Baron has spent most of his life abroad in some capacity in service of his government, and has few personal connections in {{<link/vekllei>}}. He is a distant and serious person, but also mild and unopinionated. He is good at what he does.
 
@@ -120,7 +119,7 @@ He has a warm, platonic relationship with Ayn, who completes their household. Th
 {{< tab "Ayn" >}}
 <img alt="picture of Ayn" style="background-color: transparent;" src="/images/mastheads/characters/ayn.png">
 
-<a href="/tags/ayn/"><button>See all stories featuring Ayn</button></a>
+<a href="/characters/ayn/"><button>See all stories featuring Ayn</button></a>
 
 **Ayn Lai-Lebedev** is a longtime associate of Baron and a maternal figure to Tzipora. She commands an affectionate and stable presence, intelligent and emotionally secure in her work and home life.
 
@@ -153,7 +152,7 @@ Ayn, Baron and Tzipora all have a sense of grief in their lives, and none of the
 {{< tab "Moise" >}}
 <img alt="picture of Moise" style="background-color: transparent;" src="/images/mastheads/characters/moise.png">
 
-<a href="/tags/moise/"><button>See all stories featuring Moise</button></a>
+<a href="/characters/moise/"><button>See all stories featuring Moise</button></a>
 
 **Moise Hasapis** is Tzipora's neighbour and one of her closest friends. Like Tzipora, he was born overseas and has only started schooling in Vekllei in late childhood.
 
@@ -184,7 +183,7 @@ He dislikes his parents and is protective over his younger sister, Penelope. He 
 {{< tab "Coretti" >}}
 <img alt="picture of Coretti" style="background-color: transparent;" src="/images/mastheads/characters/coretti.png">
 
-<a href="/tags/coretti/"><button>See all stories featuring Coretti</button></a>
+<a href="/characters/coretti/"><button>See all stories featuring Coretti</button></a>
 
 **Coretti Gloria Adoula** is Moise's girlfriend. Born in the Congo, she lived in the Soviet Union before moving to {{<link/vekllei>}} at 6 years old. She has a knack for languages and speaks Oslolan fluently.
 
@@ -217,7 +216,7 @@ Despite her apparent differences in temperament with her boyfriend Moise, Corett
 {{< tab "Lin Zhi" >}}
 <img alt="picture of Lin Zhi" style="background-color: transparent;" src="/images/mastheads/characters/zhi.png">
 
-<a href="/tags/zhi/"><button>See all stories featuring Lin Zhi</button></a>
+<a href="/characters/zhi/"><button>See all stories featuring Lin Zhi</button></a>
 
 **Lin Zhi**, who prefers being addressed by her full name, is Tzipora's friend and occasional accomplice. She is surly, independent and uninterested in the opinions of others. She meets Tzipora at [Moshel St School](/moshel/).
 
@@ -247,6 +246,10 @@ She is sensitive to being made fun of, and considers many of her problems making
 {{</note>}}
 {{< /tab >}}
 {{< /tabs >}}
+
+<br>
+{{< terms-cloud terms="characters" >}}
+<br>
 
 <style>
 a.article-button {

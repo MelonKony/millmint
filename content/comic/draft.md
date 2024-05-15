@@ -4,6 +4,8 @@ fulltitle: 2021 Draft — Gang of One
 icon: 🎐
 emoji: a
 
+draft: true
+
 tag: COMIC
 sitetag: Story
 color: blue
