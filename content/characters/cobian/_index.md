@@ -7,7 +7,7 @@ meta: false
 autonumbering: false
 type: blank
 ---
-<a href="/characters/">
+<a href="/factbook/characters/">
 	<img class="portrait" src="/images/mastheads/characters/portraits/cobian.png">
   </a>
 <h1>Coretti Queismesnah</h1>

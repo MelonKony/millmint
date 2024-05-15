@@ -7,7 +7,7 @@ meta: false
 autonumbering: false
 type: blank
 ---
-<a href="/characters/">
+<a href="/factbook/characters/">
 	<img class="portrait" src="/images/mastheads/characters/portraits/zhi.png">
   </a>
 <h1>Lin Zhi</h1>

@@ -7,7 +7,7 @@ meta: false
 autonumbering: false
 type: blank
 ---
-<a href="/characters/">
+<a href="/factbook/characters/">
 	<img class="portrait" src="/images/mastheads/characters/portraits/baron.png">
   </a>
 <h1>Baron Spector</h1>
