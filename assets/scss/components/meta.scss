@@ -5,7 +5,6 @@ img.page {
   @include mx-auto;
   @include padding-2;
   @include highlight-background;
-  @include highlight-border;
   box-sizing: border-box;
 }
 

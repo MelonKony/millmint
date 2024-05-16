@@ -3,9 +3,10 @@
 {{ $cs := resources.Get "js/colors.js" }}
 {{ $fd := resources.Get "js/fade.js" }}
 {{ $fn := resources.Get "js/footnotes.js" }}
+{{ $lz := resources.Get "js/lazysizes.js" }}
 {{ $tc := resources.Get "js/toc.js" }}
 {{ $tt := resources.Get "js/dictionary.js" }}
-{{ $js := slice $jq $dk $cs $fd $fn $tc $tt | resources.Concat "js/millmint.js"  }}
+{{ $js := slice $jq $dk $cs $fd $fn $lz $tc $tt | resources.Concat "js/millmint.js"  }}
 
 {{ if .Site.IsServer }}
     <script defer src="{{ $js.RelPermalink }}"></script>

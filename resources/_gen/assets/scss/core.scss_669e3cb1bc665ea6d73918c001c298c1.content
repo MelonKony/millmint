@@ -1021,7 +1021,7 @@ article {
     padding: 0; }
   .postcard-layout .card {
     border-radius: .25rem;
-    max-width: 260px;
+    max-width: 300px;
     justify-self: center;
     align-self: center;
     list-style: none;
@@ -1834,7 +1834,7 @@ article blockquote {
   border-radius: .25rem;
   background-color: var(--highlight-background);
   color: var(--highlight);
-  border-top: 0px;
+  border: none;
   margin: -2rem 0 0.5rem 0;
   text-align: center;
   letter-spacing: -.01em;
@@ -1933,7 +1933,6 @@ img.page {
   margin-right: auto;
   padding: .5rem;
   background-color: var(--highlight-background);
-  border: 1px solid var(--highlight);
   box-sizing: border-box; }
 
 /*.article-tag {

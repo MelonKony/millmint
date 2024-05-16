@@ -1,0 +1,12 @@
+{{ if (and
+		(fileExists (print "/assets" .Destination))
+		(not (eq .Destination ""))) }}
+
+  {{ $image := resources.Get (printf "%s" .Destination) }}
+
+  <div class="rcf-svg">
+	{{ $image.Content | safeHTML }}
+  </div>
+  {{ else }}
+  <!-- ... -->
+{{ end }}

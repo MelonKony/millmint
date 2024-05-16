@@ -1,3 +1,9 @@
-{{ with .Params.image }}
-  <img class="page" alt="feature image" src={{ . | relURL }} />
+{{ with resources.Get .Params.image }}
+  {{ with .Resize "1500x q90 jpg" }}
+    <img srcset="
+    {{ (.Resize "320x").RelPermalink }} 320w,
+    {{ (.Resize "600x").RelPermalink }} 600w,
+    {{ (.Resize "1200x").RelPermalink }} 2x"
+    class="page" src="{{ .RelPermalink }}" alt="">
+  {{ end }}
 {{ end }}
