@@ -2,8 +2,8 @@
   <a href="{{ .Params.Image | absURL }}" target="_blank" rel="noopener noreferrer">
     {{ with resources.Get .Params.image }}
     <img srcset="
-    {{ (.Resize "1000x q90").RelPermalink }} 500w,
-    {{ (.Resize "1500x q90").RelPermalink }} 1000w" class="page" src="{{ .RelPermalink }}" alt="">
+    {{ (.Resize "1000x q90 webp").RelPermalink }} 500w,
+    {{ (.Resize "1500x q90 webp").RelPermalink }} 1000w" class="page" src="{{ .RelPermalink }}" alt="">
     {{ end }}
   </a>
 </figure>
