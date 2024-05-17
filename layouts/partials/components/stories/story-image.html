@@ -1,6 +1,6 @@
 <figure>
 	{{ with resources.Get .Params.image }}
-	{{ with .Resize "500x q75 webp" }}
+	{{ with .Resize "680x q90 webp" }}
 	<img class="page" src="{{ .RelPermalink }}" alt="">
 	{{ end }}
 	{{ end }}
