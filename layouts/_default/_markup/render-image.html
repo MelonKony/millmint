@@ -22,7 +22,7 @@
       <!-- ADD IMAGES TO SRC-SET -->
 
       {{ if ge $image.Width "1500" }}
-      {{ $resized := $image.Resize "1500 q90 jpg" }}
+      {{ $resized := $image.Resize "1500x q90 jpg" }}
       {{ $src_set = (print $src_set $resized.RelPermalink " 3x, ") }}
       {{ end }}
 
