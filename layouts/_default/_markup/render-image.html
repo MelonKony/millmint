@@ -32,9 +32,7 @@
 
       <img class="rcf-image lazyload show-if-js"
         {{ printf "data-srcset=%q" $src_set | safeHTMLAttr }}
-        data-src="{{ $image.RelPermalink }}"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"
+        src="{{ $image.RelPermalink }}"
         {{- if .Text -}} alt="{{ .Text }}" {{ end }}
         {{- if .Title -}} title="{{ .Title }}" {{ end }}
         loading="lazy"
@@ -44,6 +42,7 @@
 
   </a>
 
+{{ $caption := .Title }}
   <!-- Caption the image if a title or alt text is given -->
-    <figcaption>{{ .Title | markdownify }}</figcaption>
+   {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
 </figure>

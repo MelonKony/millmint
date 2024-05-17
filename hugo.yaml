@@ -1,6 +1,4 @@
 baseURL: https://millmint.net
-relativeURLs: true
-uglyURLs: true
 languageCode: en
 contentDir: 'site'
 title: MillMint

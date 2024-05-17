@@ -1,8 +1,6 @@
 {{- define "content" -}}
 
 <div class="postcard-layout">
-	{{ partial "components/articles/article-header" . }}
-	{{- partial "content" . }}
 	{{ with .Paginator.Pages.ByPublishDate.Reverse }}
   <ul class="postcard-grid">
 	{{ range . }}
@@ -32,3 +30,4 @@
 {{ template "_internal/pagination.html" . }}
 
 {{- end -}}
+
