@@ -1052,7 +1052,7 @@ article {
     border: 4px solid var(--gray-med);
     width: 100%;
     box-sizing: border-box;
-    background: var(--gray-light);
+    background: var(--gray-med);
     transition: ease 0.15s;
     position: relative;
     z-index: 2; }
@@ -1060,19 +1060,22 @@ article {
       margin: 0; }
     .postcard-layout .card a {
       text-decoration: none; }
-    .postcard-layout .card .title {
-      padding-left: .25rem;
-      padding-right: .25rem;
-      font-size: 1.125rem;
-      /* 18px */
-      line-height: 1.75rem;
-      /* 28px */
-      font-weight: 500; }
+    .postcard-layout .card .postcard-meta {
+      background: var(--gray-light); }
+      .postcard-layout .card .postcard-meta .title {
+        padding-left: .25rem;
+        padding-right: .25rem;
+        font-size: 1.125rem;
+        /* 18px */
+        line-height: 1.75rem;
+        /* 28px */
+        font-weight: 500; }
     .postcard-layout .card .postcard-image {
       border-radius: .25rem;
       border-top-left-radius: 0;
       border-top-right-radius: 0;
       overflow: hidden;
+      background: black;
       z-index: 1; }
       .postcard-layout .card .postcard-image img {
         margin-top: 0;

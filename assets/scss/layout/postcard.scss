@@ -21,7 +21,7 @@
     border: 4px solid var(--gray-med);
     width: 100%;
     box-sizing: border-box;
-    background: var(--gray-light);
+    background: var(--gray-med);
     transition: ease 0.15s;
     position: relative;
     z-index: 2;
@@ -34,10 +34,14 @@
       text-decoration: none;
     }
 
-    .title {
-      @include px-1;
-      @include text-lg;
-      font-weight: 500;
+    .postcard-meta {
+      background: var(--gray-light);
+
+      .title {
+        @include px-1;
+        @include text-lg;
+        font-weight: 500;
+      }
     }
 
     .postcard-image {
@@ -45,6 +49,7 @@
       border-top-left-radius: 0;
       border-top-right-radius: 0;
       overflow: hidden;
+      background: black;
       z-index: 1;
 
       img {
