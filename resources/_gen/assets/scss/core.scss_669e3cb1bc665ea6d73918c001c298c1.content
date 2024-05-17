@@ -410,14 +410,29 @@ html[data-theme="dark"] {
   --color-navbar-item-active: #f0f0f6;
   --color-navbar-item-in-section: #dddddd; }
 
-h1 a.anchor, h2 a.anchor, h3 a.anchor, h4 a.anchor, h5 a.anchor, h6 a.anchor {
+h1 a.anchor,
+h2 a.anchor,
+h3 a.anchor,
+h4 a.anchor,
+h5 a.anchor,
+h6 a.anchor {
   color: var(--highlight);
   opacity: 0;
   font-weight: normal; }
-  h1 a.anchor:hover, h2 a.anchor:hover, h3 a.anchor:hover, h4 a.anchor:hover, h5 a.anchor:hover, h6 a.anchor:hover {
+  h1 a.anchor:hover,
+  h2 a.anchor:hover,
+  h3 a.anchor:hover,
+  h4 a.anchor:hover,
+  h5 a.anchor:hover,
+  h6 a.anchor:hover {
     opacity: initial;
     text-decoration: none; }
-  h1 a.anchor:focus, h2 a.anchor:focus, h3 a.anchor:focus, h4 a.anchor:focus, h5 a.anchor:focus, h6 a.anchor:focus {
+  h1 a.anchor:focus,
+  h2 a.anchor:focus,
+  h3 a.anchor:focus,
+  h4 a.anchor:focus,
+  h5 a.anchor:focus,
+  h6 a.anchor:focus {
     opacity: initial; }
 
 .page a {
@@ -436,7 +451,12 @@ h1 a.anchor, h2 a.anchor, h3 a.anchor, h4 a.anchor, h5 a.anchor, h6 a.anchor {
   overflow: hidden;
   display: flex;
   flex-wrap: wrap; }
-  .tabs h1, .tabs h2, .tabs h3, .tabs h4, .tabs h5, .tabs h6 {
+  .tabs h1,
+  .tabs h2,
+  .tabs h3,
+  .tabs h4,
+  .tabs h5,
+  .tabs h6 {
     margin-top: .5rem; }
   .tabs label {
     padding: .5rem;
@@ -524,7 +544,7 @@ span.tag {
   /* 20px */
   font-weight: 700;
   border-radius: .25rem;
-  line-height: 0.8rem !important;
+  line-height: .8rem !important;
   padding: 0.1rem 0.25rem;
   list-style: none;
   width: fit-content;
@@ -597,6 +617,10 @@ span.tag {
   margin-top: 2rem;
   margin-bottom: 2rem;
   font-style: italic; }
+
+.no-link {
+  pointer-events: none;
+  cursor: default; }
 
 html {
   color: var(--font-color);
@@ -1021,7 +1045,7 @@ article {
     padding: 0; }
   .postcard-layout .card {
     border-radius: .25rem;
-    max-width: 300px;
+    max-width: 260px;
     justify-self: center;
     align-self: center;
     list-style: none;
@@ -1030,7 +1054,10 @@ article {
     box-sizing: border-box;
     background: var(--gray-light);
     transition: ease 0.15s;
-    position: relative; }
+    position: relative;
+    z-index: 2; }
+    .postcard-layout .card figure {
+      margin: 0; }
     .postcard-layout .card a {
       text-decoration: none; }
     .postcard-layout .card .title {
@@ -1045,7 +1072,8 @@ article {
       border-radius: .25rem;
       border-top-left-radius: 0;
       border-top-right-radius: 0;
-      overflow: hidden; }
+      overflow: hidden;
+      z-index: 1; }
       .postcard-layout .card .postcard-image img {
         margin-top: 0;
         margin-bottom: 0;

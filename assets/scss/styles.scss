@@ -2,7 +2,12 @@
 // TODO: clean
 
 // heading anchors
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
 	a.anchor {
 		@include highlight;
 		opacity: 0;
@@ -42,7 +47,12 @@ h1, h2, h3, h4, h5, h6 {
 	display: flex;
 	flex-wrap: wrap;
 
-	h1, h2, h3, h4, h5, h6 {
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
 		margin-top: .5rem;
 	}
 
@@ -130,6 +140,7 @@ button.navbutton {
 	&:hover {
 		color: inherit;
 	}
+
 	.navicon {
 		margin: 0;
 	}
@@ -146,6 +157,7 @@ button.bulletbutton {
 	width: fit-content;
 	background-color: var(--gray-light);
 	border: hidden;
+
 	&:hover {
 		filter: brightness(100%);
 		text-decoration: underline;
@@ -156,16 +168,18 @@ span.tag {
 	@include text-sm;
 	@include font-bold;
 	@include radius-base;
-	line-height: .8rem!important;
+	line-height: .8rem !important;
 	padding: 0.1rem 0.25rem;
 	list-style: none;
 	width: fit-content;
 	background-color: var(--color-gray);
 	color: var(--body-background);
 	border: hidden;
+
 	.gray {
 		background-color: var(--gray-med);
 	}
+
 	.price {
 		margin-top: 0;
 		margin-left: 6px;
@@ -187,7 +201,7 @@ span.tag {
 	transform: translateX(-85%);
 
 	p {
-	  margin: 0;
+		margin: 0;
 	}
 }
 
@@ -197,9 +211,9 @@ span.tag {
 }
 
 @media (max-width: 1599px) {
-  .sidenote {
-	max-width: 200px !important;
-  }
+	.sidenote {
+		max-width: 200px !important;
+	}
 }
 
 // icons
@@ -207,6 +221,7 @@ span.tag {
 	@include emoji;
 	@include font-normal;
 }
+
 .smallicon {
 	@include emoji;
 	@include font-normal;
@@ -243,4 +258,9 @@ span.tag {
 	@include text-3xl;
 	@include my-8;
 	font-style: italic;
+}
+
+.no-link {
+	pointer-events: none;
+	cursor: default;
 }

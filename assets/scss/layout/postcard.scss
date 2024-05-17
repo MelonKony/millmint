@@ -14,7 +14,7 @@
 
   .card {
     @include radius-base;
-    max-width: 300px;
+    max-width: 260px;
     justify-self: center;
     align-self: center;
     list-style: none;
@@ -24,6 +24,11 @@
     background: var(--gray-light);
     transition: ease 0.15s;
     position: relative;
+    z-index: 2;
+
+    figure {
+      @include margin-0;
+    }
 
     a {
       text-decoration: none;
@@ -40,6 +45,7 @@
       border-top-left-radius: 0;
       border-top-right-radius: 0;
       overflow: hidden;
+      z-index: 1;
 
       img {
         @include my-0;
