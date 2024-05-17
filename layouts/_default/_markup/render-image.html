@@ -14,18 +14,33 @@
         "Text" $text
       )}}
 
-        <!-- Otherwise, pass to an image rendering partial -->
-        {{- if (strings.HasSuffix $image_ext "svg") -}}
-            {{ partial "compressed-svg.html" $context}}
+      {{ if (and (fileExists (print "/assets" .Destination)) (not (eq .Destination ""))) }}
+      {{ $image := resources.Get .Destination }}
+      {{ $fallback := $image }}
+      {{ $src_set := "" }}
 
-        {{- else if (strings.HasSuffix $image_ext "gif") -}}
-            {{ partial "compressed-gif.html" $context}}
+      <!-- ADD IMAGES TO SRC-SET -->
 
-        {{- else -}}
-            <!-- Renderer for all other static image types -->
-            {{ partial "compressed-image.html" $context}}
+      {{ if ge $image.Width "1500" }}
+      {{ $resized := $image.Resize "1500 q90 jpg" }}
+      {{ $src_set = (print $src_set $resized.RelPermalink " 3x, ") }}
+      {{ end }}
 
-    {{- end -}}
+      {{ $resized := $image.Resize "680x q90 jpg" }}
+      {{ $src_set = (print $src_set $resized.RelPermalink " 1x") }}
+      {{ $fallback = $resized }}
+
+      <img class="rcf-image lazyload show-if-js"
+        {{ printf "data-srcset=%q" $src_set | safeHTMLAttr }}
+        data-src="{{ $image.RelPermalink }}"
+        src="data:image/jpeg;base64}"
+        data-sizes="auto"
+        {{- if .Text -}} alt="{{ .Text }}" {{ end }}
+        {{- if .Title -}} title="{{ .Title }}" {{ end }}
+        loading="lazy"
+      />
+
+      {{ end }}
 
   </a>
 

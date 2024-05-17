@@ -12,11 +12,6 @@
 
   <!-- ADD IMAGES TO SRC-SET -->
 
-  {{ if ge $image.Width "2720" }}
-	{{ $resized := $image.Resize "2070x q90 jpg" }}
-	{{ $src_set = (print $src_set $resized.RelPermalink " 4x, ") }}
-  {{ end }}
-
   {{ if ge $image.Width "2040" }}
 	{{ $resized := $image.Resize "2040x q90 jpg" }}
 	{{ $src_set = (print $src_set $resized.RelPermalink " 3x, ") }}
@@ -26,17 +21,6 @@
 	{{ $resized := $image.Resize "1360x q90 jpg" }}
 	{{ $src_set = (print $src_set $resized.RelPermalink " 2x, ") }}
   {{ end }}
-
-  {{ if ge $image.Width "1020" }}
-	{{ $resized := $image.Resize "1020x q90 jpg" }}
-	{{ $src_set = (print $src_set $resized.RelPermalink " 1.5x, ") }}
-  {{ end }}
-
-  {{ if ge $image.Width "850" }}
-	{{ $resized := $image.Resize "850x q90 jpg" }}
-	{{ $src_set = (print $src_set $resized.RelPermalink " 1.25x, ") }}
-  {{ end }}
-
 
   {{ $resized := $image.Resize "680x q90 jpg" }}
   {{ $src_set = (print $src_set $resized.RelPermalink " 1x") }}
