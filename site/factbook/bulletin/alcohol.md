@@ -21,7 +21,7 @@ Part of the *[bulletin](/bulletin/)* series of articles
 * Vekllei people like alcohol, and in their society it is widely available at no cost.
 * These facts set the country up for catastrophe: alcohol abuse is a social disease that destroys lives and deeply impacts communities.
 * Consequently, its consumption as enabled by the system must also be curbed by the system. This is helped by considered policy, but the Vekllei government targets another aspect of control: culture.
-* As such, Vekllei is an interesting case study in how the country attempts to encourage social behaviours more broadly.
+* As such, alcohol is an interesting case study in how the country attempts to encourage social behaviours more broadly.
 {{</note>}}
 
 {{<link/vekllei>}} people, like many others around the world, like to drink. As a feature of their society and its [social economy](/social-economy/), alcohol is free and available. They drink often and socially, and wine, beer and spirits are an important lubricant of conversation and merryment around the country.

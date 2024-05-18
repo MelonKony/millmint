@@ -21,6 +21,7 @@ toc: true
 
 aliases:
 - /corsosva/
+- /compulsory-service/
 
 
 
