@@ -11,7 +11,7 @@ tags:
 categories:
   - society
 
-draft: true
+draft: false
 
 type: blank
 

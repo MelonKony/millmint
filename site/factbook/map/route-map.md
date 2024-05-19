@@ -1,10 +1,10 @@
 ---
-title: Map
-fulltitle: Map
+title: Route Map
+fulltitle: Route Map
 icon: 🗺️
 color: blue
 
-map: /svg/maps/world.png
+map: /svg/maps/route-map.png
 
 type: blank
 menus: main
@@ -15,6 +15,6 @@ type: map
 layout: map
 
 aliases:
-- /map/
+- /route-map/
 ---
 

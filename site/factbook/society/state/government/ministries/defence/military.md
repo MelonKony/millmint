@@ -132,6 +132,7 @@ The Home Fleet (also *Auxiliary Fleet*) of the Commonwealth Maritime Service is 
 
 <details>
 <summary>Missile Fleet</summary>
+
 * 2 Arsenal Ships
 * 6 Ballistic Missile Submarines
 </details>
@@ -179,7 +180,7 @@ The Coastal Artillery Service provides coastal fortification and defence for Vek
 </details>
 
 
-### <span class="navicon">✈️</span> Aeronautical & Space Services
+### <span class="navicon">✈️</span> Aeronautical & Astronautical Services
 
 The Aeronautical & Space Services include the air supremacy, interception and defence elements, as well as services to supply and equip them. They also consist of the missile and air detection elements of the armed forces.
 
@@ -227,6 +228,10 @@ The *Air Combat Command* (ACC) provides aircraft and crew for combat air service
   <br>
   The No. 9 MHW comprises the bulk of maritime rotary-wing and helijet aircraft, and are located across fleets and naval bases as required. Aeromarine squadrons may be subdivided into Aeromarine sections depending on the needs of the [Maritime Service](#maritime-service).
   * No. 38-41 Marine Squadrons
+* **No. 10 Bombing Wing**
+  <br>
+  The No. 10 Bombing Wing comprises the strategic bombing aircraft in Vekllei.
+  * No. 42-45 Bombing Squadrons
 </details>
 
 <details>
@@ -282,6 +287,10 @@ Vekllei aircraft are primarily designed and manufactured domestically, and use m
 * 210 No. 8 Casemate Atomic Fighters
 * 33 No. 7 Demon Atomic Fighters
 
+**Bombers**
+* 22 Strategic Bombers
+* 16 Medium Bombers
+
 **Maritime and Patrol Aircraft**
 * 16 Long Range Search & Rescue Turboprop Aircraft
 * 4 Search & Rescue Flying Boats
@@ -336,11 +345,11 @@ The *Air Artillery Command* (ATC) consists of
   <summary>Air Artillery Service Equipment</summary>
 
 **Missile Systems**
-* 25 Truck
+* 25 No. 8 Javelin (Truck)
 * 25 Truck
 * 15 Trailer
 * 1200 missile platform
-* 12 Tracker Carriers
+* 12 Tracked Carriers
 
 **Man-Portable & AA Guns**
 * 120 guns
@@ -371,6 +380,21 @@ The *Air Artillery Command* (ATC) consists of
 <details>
 <summary>Missiles Service</summary>
 
+The **Missiles Service** is the tactical and strategic missile defence organisation of the military. They operate mostly from ground sites across the country, located mostly on isolated islands or in the Arctic. They also operate some rail-mounted launch systems that are stationed deep inside tunnels.
+
+<details>
+<summary>Missiles Service Equipment</summary>
+
+**Ballistic Missiles**
+* Estimated 16 No. 3 ICBMs
+* Estimated 40 No. 6 IRBMs
+* Estimated 26 No. 6 SRBMs
+* Estimated 100 No. 2 SLAM Cruise Missiles
+
+**Trucks & Cars**
+* 80 Multi-Purpose Utility Vehicle
+* 12 Military Truck
+</details>
 </details>
 
 ### <span class="navicon">🗡️</span> Land and Army Services
@@ -380,78 +404,95 @@ The *Air Artillery Command* (ATC) consists of
 
 The Vekllei **Territorial Service** is the closest component to a conventional army in the Vekllei armed forces, and comprises the majority of its professional fighting force. All Rifles regiments are trained as marine infantry, and Vekllei does not maintain dedicated marine regiments. All Territorial regiments are a part of the [Commonwealth Guard](#commonwealth-guard) and are federalised the same way, but are distinguished by their professional service and expeditionary posture.
 
-At full strength in its current organisation it has
+In Vekllei, military units are roughly organised as 'regiments' of 1,000 men and 'sections' of 100.
 
 **Organisation**
+
+Vekllei has a professional combat army of around 45,000 soldiers, 6,000 of which are commandos that suit its expeditionary and interventionist strategic posture.
+
+Including the Guards and Popular Guards, which serve roles as reservists and partisan militias respectively, that number exceeds a million during wartime.
+
 <details>
   <summary>Commonwealth Rifles</summary>
 
-Rifles regiments consist of 1,000 men, and can be assembled into larger divisional units. Regiment numbers are administrative only and so can change, and regiments are identified with inherited names with honours instead. Rifles are mechanised with armoured cars.
+Rifles regiments consist of 1,000 men, and can be assembled into larger divisional units. Regiment numbers are administrative only and so can change, and regiments are identified with inherited names with honours instead. All Rifles servicemen are also part of a Guards regiment as per the Vekllei federal militia system. Rifles are mechanised with armoured cars.
 
-Policy is to have a standing army 50,000 strong, but the 26th-50th Rifles regiments are activated as they are combat-ready, and so the 50th and 49th are often deactivated between training.
+Policy is to have a standing army 35,000 strong, but Rifles regiments are activated as they are combat-ready, and so the 19th and 20th are often deactivated between training.
 
 * **Rifles Regiments**
   * 1st-20th Rifles Regiments
 * **Aerorifles Regiments**
   * 21st-24th Aerorifles Regiments
+* **Marine Rifles Regiments**
   * 25th-32nd Marine Rifles Regiments
-* **Rifles Regiments**
-  * 33rd-48th Rifles Regiments
 * **Special Warfare Regiments**
-  * 49th Chemical Regiment
-  * 50th Nuclear Regiment
+  * 33rd Chemical Regiment
+  * 34th Nuclear Regiment
 * **Armoured Rifles Regiments**
   <br>
-  The Armoured Rifles are mechanised with infantry fighting vehicles and tracked APCs and function as shock infantry.
-  * 51st-52nd Armoured Rifles Regiments
-</details>
-
-<details>
-  <summary>Commonwealth Guards</summary>
-
-The Commonwealth Guard is the national militia and primary reserve force of the Territorial Services. It is federalised by default, and contributes its servicemen for the Rifles and other territorial regiments. As such, all Territorial servicemen are part of a Commonwealth Guards regiment, but in regular service are assigned to active units in other services. Only reservists, trainees and officers remained attached to the Guard while it is federalised.
-
-###### 1st-6th Regiments
-
-* **Democracy & Civic Regiments**
-  * Civil Affairs Regiments
-  * Military Police Regiments
-  * Military Intelligence Regiments
+  The Armoured Rifles are mechanised with infantry fighting vehicles and function as shock infantry.
+  * 35th-36th Armoured Rifles Regiments
 </details>
 
 <details>
   <summary>Commonwealth Commandos</summary>
 
-* **Commando Regiments**
-  * 1st-5th Commandos Regiments
-  * 6th-7th Airborne Commandos Regiments
-  * 8th-9th Marine Commandos Regiments
-  * 10th Special Activities Regiment
-* **Regional Special Forces Regiments**
-  * 11th Arctic Regiment
-  * 12th North Atlantic Regiment
-  * 13th Africa Regiment
-  * 14-16th Equatorial Regiments
-  * 17th Antarctic Regiment
-  * 18th Lunar Regiment
-* **Guards**
-  * 19th-22nd Commmonwealth Guards Regiments
-* **Armoured Regiments**
-  * 23rd-25th Armoured Regiments
-* **Artillery**
-  * 25th-32nd Cannons Regiments
-* **Special Forces**
-  * Psychological Warfare Regiments
-  * Space Operations Regiments
+ Commandos in Vekllei are highly trained, professional soldiers with an expeditionary character. While often trained for remote and tactical combat, they are also commonly used to lead interarmes services that include regular rifle infantry.
+
+  The 1st-3rd commandos include regional special forces sections for polar, equatorial and lunar warfare. The 6th specialises in unconventional and psychological warfare.
+
+* **Commandos Regiments**
+  * 1st-3rd Commandos Regiments
+  * 4th Airborne Commandos Regiment
+  * 5th Marine Commandos Regiment
+  * 6th Special Activities Regiment
 </details>
 
 <details>
-  <summary>Strategic Security Service</summary>
+  <summary>Commonwealth Javelins</summary>
+
+  Javelin regiments are the Vekllei name for armoured units, and represent the bulk main battle tank force. They are designed to operate with rifles regiments in interarmes formations.
+
+**Javelin Regiments**
+* 1st-2nd Javelin Regiments
+* 3rd Javelin Scouts Regiment
 
 </details>
 
 <details>
-<summary>Patrol Service</summary>
+  <summary>Commonwealth Guards</summary>
+
+The Commonwealth Guard is the federal militia and primary reserve force of the Territorial Services. It is federalised by default, and contributes its servicemen for the Rifles and other territorial regiments. As such, all Territorial servicemen are part of a Commonwealth Guards regiment, but in regular service are assigned to active units in other services. Only reservists, trainees and officers remained attached to the Guard while it is federalised.
+
+Guards units are numbered in context to their home [republic](/republics/), i.e. {{<link/oslola>}} has Guards regiments numbering 1st-12th.
+</details>
+
+<details>
+  <summary>Commonwealth Popular Guards</summary>
+
+The Popular Guards are the volunteer militia groups found across the country. They reflect the Vekllei concept of the citizen-soldier, and are distinct from regular guards/reservists by their level of training and organisation. They are strictly volunteer, and are raised and organised by gendarmes of the {{<link/parliament-police>}}. They number perhaps a million if mobilised totally, and would function as a saboteur and partisan force in the event of war.
+</details>
+
+<details>
+  <summary>Commonwealth Security Service</summary>
+
+The Commonwealth Security Service is the military police of the territorial service, and primarily provides base security, military intelligence and policing for enlisted servicemen.
+
+**Security Service Regiments**
+* 1st-4th Security Regiments
+* 5th-6th Strategic Security Regiments
+* 7th Security Intelligence Regiment
+</details>
+
+<details>
+<summary>Commonwealth Patrol Service</summary>
+
+The Patrol Service is the armed border guard of Vekllei. While all Vekllei borders are found at sea and involve the Littoral Service, the Patrol Service provides onshore security and policing.
+
+Although the service is organised into regiments, their formations are better reflected by their regional sections.
+
+**Patrol Service Regiments**
+* 1st-8th Patrol Regiments
 </details>
 
 **Equipment**
@@ -478,7 +519,7 @@ The Commonwealth Guard is the national militia and primary reserve force of the 
 * 24 Mechanised Landing Craft
 
 ##### Trucks & Cars
-* 2,500 Multi-Purpose Utility Vehicle
+* 3,600 Multi-Purpose Utility Vehicle
 * 3,560 Military Truck
 * 30 High-Mobility Transporters
 

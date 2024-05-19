@@ -3,6 +3,7 @@ title: Commonwealth Airways
 fulltitle: Commonwealth Airways
 icon: ✈️
 logo: /svg/logos/air.svg
+image: /svg/maps/route-map.png
 rgb: 245, 60, 89
 
 draft: false
@@ -12,6 +13,10 @@ aliases:
 ---
 {{<note series>}}
  Part of the *[industry](/industry/)* series of articles
+{{</note>}}
+
+{{<note series>}}
+ See the [Commonwealth Airways Route Map](/route-map/)
 {{</note>}}
 
 {{<infobox/company

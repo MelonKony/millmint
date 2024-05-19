@@ -12,7 +12,7 @@
       {{- partial "nav/nav.html" . -}}
     </div>
 
-      <img id="image" src="/svg/maps/world.png" data-high-res-src="/svg/maps/world.png" />
+      <img id="image" src="{{ .Params.map }}" data-high-res-src="{{ .Params.map }}" />
   </main>
 
   {{- partial "resources/js.html" . -}}
