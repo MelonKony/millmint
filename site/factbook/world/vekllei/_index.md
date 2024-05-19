@@ -37,7 +37,7 @@ Vekllei is often regarded a nation by will, rather than of culture or geography.
 
 <details>
   <summary>What is Vekllei?</summary>
-Vekllei is a country that consists of many island republics in the Atlantic. The largest of these is called the {{<link/oslola>}}, which is its most populous island. Vekllei is the setting of this fiction, and is the home of most of its characters.
+Vekllei is a country that consists of many island republics in the Atlantic. The largest of these is called {{<link/oslola>}}, which is its most populous island. Vekllei is the setting of this fiction, and is the home of most of its characters.
 </details>
 
 <details>
