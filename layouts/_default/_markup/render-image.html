@@ -19,6 +19,14 @@
       {{ $fallback := $image }}
       {{ $src_set := "" }}
 
+      {{- if (strings.HasSuffix $image_ext "svg") -}}
+              {{ partial "compressed-svg.html" $context}}
+
+          {{- else if (strings.HasSuffix $image_ext "gif") -}}
+              {{ partial "compressed-gif.html" $context}}
+
+          {{- else -}}
+
       <!-- ADD IMAGES TO SRC-SET -->
 
       {{ if ge $image.Width "1500" }}
@@ -39,6 +47,7 @@
       />
 
       {{ end }}
+      {{- end -}}
 
   </a>
 
