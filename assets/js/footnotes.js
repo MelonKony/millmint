@@ -10,7 +10,7 @@ const insertAfter = (target, sib) => {
 };
 
 const insideOut = (el) => {
-    var p = el.parentNode, 
+    var p = el.parentNode,
         x = el.innerHTML,
         c = document.createElement('div');  // a tmp container
     insertAfter(p, c);
