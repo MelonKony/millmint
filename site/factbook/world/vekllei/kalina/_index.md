@@ -30,8 +30,8 @@ Commonwealth Kalina (*Vekllei Kalina*) is a [constituent commonwealth](/constitu
 {{<note panel>}}
 **Republics of Commonwealth Kalina**
 
-   * {{<link/allia>}}
-* Aloi Republic
+* {{<link/allia>}}
+* {{<link/aloi>}}
 * {{<link/aloubaera>}}
 * Anguis Republic
 * Antam Republic

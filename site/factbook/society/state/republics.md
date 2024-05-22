@@ -61,7 +61,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* Porto Santo Republic (*Porto Santo*)
 	* Terceira Republic (*Terceira Island*)
 	* Velas Republic (*Sao Jorge Island*)
-	* Verde Republic (*Sao Miguel Island*)
+	* {{<link/verde>}} (*Sao Miguel Island*)
 
 * **Lucayan Commonwealth**
 	* Caicos Republic (*Turks & Caicos*)
@@ -81,7 +81,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 
 * **{{<link/kalina>}}**
 	* {{<link/allia>}} (*Montserrat*)
-	* Aloi Republic (*St Eustatius*)
+	* {{<link/aloi>}} (*St Eustatius*)
 	* {{<link/aloubaera>}} (*Tobago*)
 	* Anguis Republic (*Anguilla*)
 	* Antam Republic (*Antigua*)

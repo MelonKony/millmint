@@ -59,7 +59,7 @@ menus:
 
   - name:  Map
     pre: 🗺️
-    pageRef: /map/
+    pageRef: /maps/
     parent: factbook
     weight: 1
 
