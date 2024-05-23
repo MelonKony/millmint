@@ -874,8 +874,8 @@ table.infobox {
   /* 14px */
   line-height: 1.25rem;
   /* 20px */
-  margin-top: .5rem;
-  margin-bottom: .5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   border: 1px solid var(--highlight); }
   table.infobox th {
     font-weight: 700;

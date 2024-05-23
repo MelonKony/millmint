@@ -278,7 +278,7 @@ table.mc-table {
 
 table.infobox {
   @include text-sm;
-  @include my-2;
+  @include my-4;
   border: 1px solid var(--highlight);
   //border-collapse: collapse;
 

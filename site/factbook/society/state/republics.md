@@ -83,7 +83,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* {{<link/allia>}} (*Montserrat*)
 	* {{<link/aloi>}} (*St Eustatius*)
 	* {{<link/aloubaera>}} (*Tobago*)
-	* Anguis Republic (*Anguilla*)
+	* {{<link/anguilla>}} (*Anguilla*)
 	* Antam Republic (*Antigua*)
 	* Barbados Republic (*Barbados*)
 	* Barbuda Republic (*Barbuda*)

@@ -165,7 +165,7 @@ Although regionally and culturally diverse, Commonwealth government is centralis
   * {{<link/allia>}} (*Montserrat*)
   * {{<link/aloi>}} (*St Eustatius*)
   * {{<link/aloubaera>}} (*Tobago*)
-  * Anguis Republic (*Anguilla*)
+  * {{<link/anguilla>}} (*Anguilla*)
   * Antam Republic (*Antigua*)
   * Barbados Republic (*Barbados*)
   * Barbuda Republic (*Barbuda*)
