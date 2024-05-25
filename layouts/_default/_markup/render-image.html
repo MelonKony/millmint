@@ -20,10 +20,22 @@
       {{ $src_set := "" }}
 
       {{- if (strings.HasSuffix $image_ext "svg") -}}
-              {{ partial "compressed-svg.html" $context}}
+             <img
+               class="rcf-image external-image unoptimized"
+               src="{{ .Destination | safeURL }}"
+               {{- if .Text -}} alt="{{ .Text }}" {{ end }}
+               {{- if .Title -}} title="{{ .Title }}" {{ end }}
+               loading="lazy"
+             />
 
           {{- else if (strings.HasSuffix $image_ext "gif") -}}
-              {{ partial "compressed-gif.html" $context}}
+              <img
+                 class="rcf-image external-image unoptimized"
+                 src="{{ .Destination | safeURL }}"
+                 {{- if .Text -}} alt="{{ .Text }}" {{ end }}
+                 {{- if .Title -}} title="{{ .Title }}" {{ end }}
+                 loading="lazy"
+               />
 
           {{- else -}}
 

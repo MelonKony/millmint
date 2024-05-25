@@ -1,8 +1,8 @@
 ---
 title: Matching Sneakers
 fulltitle: Matching Sneakers
-type: snapshot
-layout: snapshot
+type: writing
+layout: writing
 
 rgb: 91, 157, 199
 

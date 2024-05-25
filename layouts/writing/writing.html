@@ -1,5 +1,7 @@
+{{- partial "params.html" . -}}
+
 <!DOCTYPE html>
-<html lang='{{ .Site.LanguageCode }}' class="snapshot">
+<html lang='{{ .Site.LanguageCode }}' class="writing">
 {{- partial "head.html" . -}}
 
 <body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
@@ -20,6 +22,6 @@
 
 <style>
   html {
-    @include snapshot
+    @include writing
   }
 </style>}

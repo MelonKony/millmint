@@ -61,6 +61,20 @@
 	</tr>
 	{{ end }}
 
+	{{ if (.Get "Anthem") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Anthem</th>
+		<td>{{.Get "Anthem"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Government") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Government</th>
+		<td>{{.Get "Government"}}</td>
+	</tr>
+	{{ end }}
+
 	{{ if (.Get "Capital") }}
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Capital</th>
@@ -75,17 +89,24 @@
 	</tr>
 	{{ end }}
 
-	{{ if (.Get "Languages") }}
-	<tr>
-		<td style="font-weight: 500; width: 50%;">Languages</th>
-		<td>{{.Get "Languages"}}</td>
-	</tr>
-	{{ end }}
-
 	{{ if (.Get "Area") }}
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Area</th>
 		<td>{{.Get "Area"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "NationalLanguage") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">National Language</th>
+		<td>{{.Get "NationalLanguage"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Languages") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Languages</th>
+		<td>{{.Get "Languages"}}</td>
 	</tr>
 	{{ end }}
 

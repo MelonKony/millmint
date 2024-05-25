@@ -57,7 +57,7 @@ menus:
     identifier: factbook
     weight: 2
 
-  - name:  Map
+  - name:  Maps
     pre: 🗺️
     pageRef: /maps/
     parent: factbook
@@ -77,7 +77,7 @@ menus:
 
   - name:  Characters
     pre: 🎎
-    pageRef: /factbook/characters/
+    pageRef: /characters/
     parent: factbook
     weight: 4
 

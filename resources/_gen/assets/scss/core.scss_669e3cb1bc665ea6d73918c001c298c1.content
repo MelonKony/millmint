@@ -5060,35 +5060,35 @@ ol.timeline .event {
 .fi-xk.fis {
   background-image: url(../svg/flags/1x1/xk.svg); }
 
-html.snapshot #notice {
+html.writing #notice {
   margin: 1rem; }
 
-html.snapshot body {
+html.writing body {
   background-image: none; }
 
-html.snapshot article {
+html.writing article {
   font-family: 'New York';
   color: var(--darker-text); }
 
-html.snapshot main {
+html.writing main {
   background-color: transparent; }
 
-html.snapshot header.info .title {
+html.writing header.info .title {
   color: var(--darker-text);
   font-size: 50pt;
   font-weight: 900; }
 
-html.snapshot header.info .meta {
+html.writing header.info .meta {
   display: none; }
 
-html.snapshot section.page {
+html.writing section.page {
   margin-top: 2rem;
   margin-bottom: 3rem; }
 
-html.snapshot .note.subtitle {
+html.writing .note.subtitle {
   background-color: transparent; }
 
-html.snapshot .dropcap {
+html.writing .dropcap {
   float: left;
   font-weight: 900;
   font-size: 75px;
@@ -5097,7 +5097,7 @@ html.snapshot .dropcap {
   padding-right: 16px;
   padding-left: 3px; }
 
-html.snapshot h1 {
+html.writing h1 {
   margin-top: 4rem;
   margin-bottom: 2rem;
   font-size: 25pt;

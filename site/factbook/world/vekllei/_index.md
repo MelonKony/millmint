@@ -18,8 +18,11 @@ aliases:
    Type="Vekllei"
    Flag="/svg/flags/commonwealth.svg"
    SmallFlag="/svg/flags/4x3/com.svg"
+   Anthem="Advance, Vekllei"
+   Government="Federal parliamentary directoral commonwealth"
    Population="24,371,300"
    Capital="Comet"
+   NationalLanguage="English"
    Area="2,386,688 km2"
  >}}
 

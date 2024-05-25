@@ -3,7 +3,7 @@
     {{ partial "toc.html" . }}
     {{ partial "components/series.html" . }}
 
-<article {{ if $enable_line_no }}class="autonumber" {{ end }}{{- if .Param "autonumbering" | default true }} autonumbering {{- end }}>
+<article {{- if .Param "autonumbering" | default true }} autonumbering {{- end }}>
     {{- partial "components/articles/article-params.html" . -}}
     {{- partial "components/stories/story-params.html" . -}}
     {{ $content := .Content | replaceRE "<table>" "<table class=\"mc-table\">" }}
