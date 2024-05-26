@@ -46,9 +46,8 @@ nav.story {
 }
 
 .credit {
+	@include my-4;
 	@include text-xs;
-	line-height: 2rem;
-	margin: 0;
 	text-align: left;
 	vertical-align: middle;
 	color: var(--color-text-footer);

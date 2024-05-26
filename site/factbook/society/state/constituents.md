@@ -32,6 +32,21 @@ Constituent commonwealths have their own suite of [ministries](/ministries/) and
 The Commonwealth devolves certain aspects of public policy to Constituents. In practice, many devolved matters practice parity with Commonwealth [ministries](/ministries/) and [councils](/councils/), and so are functionally identical to Commonwealth central policy.
 
 {{<note panel>}}
+**Constituent Ministries of a Commonwealth**
+* {{<link/ministry-of-commerce>}}
+* {{<link/ministry-of-culture>}}
+* {{<link/ministry-of-defence>}}
+* {{<link/ministry-of-foreign-affairs>}}
+* {{<link/ministry-of-industry>}}
+* {{<link/ministry-of-labour>}}
+* {{<link/ministry-of-landscape>}}
+* {{<link/ministry-of-light-and-water>}}
+* {{<link/ministry-of-the-commons>}}
+* {{<link/ministry-of-the-commonwealth>}}
+{{</note>}}
+
+
+{{<note panel>}}
 **Devolved Matters**
 * Agriculture and resource development
 * Culture

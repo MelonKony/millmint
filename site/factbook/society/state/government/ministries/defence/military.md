@@ -228,7 +228,7 @@ The *Air Combat Command* (ACC) provides aircraft and crew for combat air service
   <br>
   The No. 9 MHW comprises the bulk of maritime rotary-wing and helijet aircraft, and are located across fleets and naval bases as required. Aeromarine squadrons may be subdivided into Aeromarine sections depending on the needs of the [Maritime Service](#maritime-service).
   * No. 38-41 Marine Squadrons
-* **No. 10 Bombing Wing**
+* **No. 10 Aerordnance Wing**
   <br>
   The No. 10 Bombing Wing comprises the strategic bombing aircraft in Vekllei.
   * No. 42-45 Bombing Squadrons
@@ -479,7 +479,9 @@ The Popular Guards are the volunteer militia groups found across the country. Th
 The Commonwealth Security Service is the military police of the territorial service, and primarily provides base security, military intelligence and policing for enlisted servicemen.
 
 **Security Service Regiments**
-* 1st-4th Security Regiments
+* 1st Parliamentary Security Regiment
+* 2nd Industrial Security Regiment, {{<link/ministry-of-light-and-water>}}
+* 3rd-4th Security Regiments
 * 5th-6th Strategic Security Regiments
 * 7th Security Intelligence Regiment
 </details>

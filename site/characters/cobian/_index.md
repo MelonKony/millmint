@@ -10,7 +10,7 @@ type: blank
 <a href="/characters/">
 	<img class="portrait" src="/images/mastheads/characters/portraits/cobian.png">
   </a>
-<h1>Coretti Queismesnah</h1>
+<h1>Cobian Queismesnah</h1>
 
 **Cobian** *lo Ro de Viviya* de **Queismesnah** is [Tzipora](/characters/tzipora)'s longtime friend and occasional girlfriend. Stern in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood.
 

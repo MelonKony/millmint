@@ -30,7 +30,7 @@ const colors = {
   industry: [37, 89, 167],
   labour: [161, 43, 46],
   landscape: [19, 172, 67],
-  lightandwater: [86, 163, 187],
+  lightandwater: [39, 149, 204],
 
   education: [59, 111, 185],
   security: [240, 86, 75],

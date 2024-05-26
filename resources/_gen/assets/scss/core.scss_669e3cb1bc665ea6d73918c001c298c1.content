@@ -1142,12 +1142,12 @@ nav.story {
   color: var(--color-text-footer); }
 
 .credit {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   font-size: 0.75rem;
   /* 12px */
   line-height: 1rem;
   /* 16px */
-  line-height: 2rem;
-  margin: 0;
   text-align: left;
   vertical-align: middle;
   color: var(--color-text-footer); }
@@ -5166,7 +5166,7 @@ html.writing h1 {
     width: 16px;
     height: 16px;
     border: 1px solid transparent;
-    border-top-color: var(--font-color);
+    border-top-color: var(--highlight);
     border-radius: 50%;
     animation: spin 1s ease infinite; }
 
