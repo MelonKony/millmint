@@ -9,7 +9,7 @@ categories:
 - bulletin
 
 aliases:
-- /bulletin/manners
+- /bulletin/courtesy
 ---
 {{<note series>}}
 Part of the *[bulletin](/bulletin/)* series of articles

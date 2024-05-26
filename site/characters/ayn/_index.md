@@ -7,7 +7,7 @@ meta: false
 autonumbering: false
 type: blank
 ---
-<a href="/factbook/characters/">
+<a href="/characters/">
 	<img class="portrait" src="/images/mastheads/characters/portraits/ayn.png">
   </a>
 <h1>Ayn Lai-Lebedev</h1>

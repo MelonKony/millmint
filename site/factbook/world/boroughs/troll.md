@@ -5,7 +5,7 @@ icon: 🐉
 emoji: g
 color: green
 
-tags: 
+tags:
   - borough
 categories:
   - commonwealth
@@ -46,7 +46,7 @@ Per the legends of the sagas, the borough of Troll was the site of a troll city,
 
 > Of course I've met a troll. It was one of the nicest creatures I've ever met.
 
--- [Tzipora Desmoisnes](/factbook/characters/#tzipora-zelda-desmoisnes)
+-- [Tzipora Desmoisnes](/characters/tzipora)
 
 Although Troll has a signicant cultural history within Vekllei, it is a relatively recent borough. The town of Troll received a trading license in 1823, which is considered its founding as a borough. Little is recorded about its settlement prior to its incorporation, but it is known that nomadic Algic Vekllei had remained in the area for hundreds, if not thousands of years prior.
 

@@ -6,7 +6,7 @@ icon: 🪷
 emoji: g
 color: green
 
-tags: 
+tags:
   - borough
 categories:
   - commonwealth
@@ -19,7 +19,7 @@ aliases:
 
 description: The borough of Lola is an administrative region of Vekllei, a utopian country created by Hobart Phillips.
 
- 
+
 ---
 
 ## Overview
@@ -28,7 +28,7 @@ description: The borough of Lola is an administrative region of Vekllei, a utopi
  This article is about a [**borough**](/factbook/landscape/boroughs) of [**Vekllei**](/vekllei/)
 {{</note>}}
 
-**The borough of Lola** is an administrative region in southwest Vekllei, located in the Capital Region on the ancient city of Reykyavic, south of Sojiya and east of Lava. It includes several of Vekllei's oldest inhabited urban neighbourhoods, including Reykjavic, Hosfyourd and Seispri. Characterised by historical architecture and a dense low-rise cityscape, Lola is among Vekllei's most well-known boroughs and makes up part of Vekllei's "original city" boundary along its southwest coast. The neighbourhood of Seispri in Lola is the home of [Tzipora](/factbook/characters/#tzipora).
+**The borough of Lola** is an administrative region in southwest Vekllei, located in the Capital Region on the ancient city of Reykyavic, south of Sojiya and east of Lava. It includes several of Vekllei's oldest inhabited urban neighbourhoods, including Reykjavic, Hosfyourd and Seispri. Characterised by historical architecture and a dense low-rise cityscape, Lola is among Vekllei's most well-known boroughs and makes up part of Vekllei's "original city" boundary along its southwest coast. The neighbourhood of Seispri in Lola is the home of [Tzipora](/characters/tzipora).
 
 >*Tzipora’s brief phase as a self-described Bolshevik began during recess on the roof of the Lola 6th School’s science block*
 
@@ -78,7 +78,7 @@ The climate is coastal and temperate, seeing mean temperatures of 20C in summer 
 
 ### Seispri
 
-The municipality of Seispri is [Tzipora's](/factbook/characters/) home. Historically industrial, today it is primarily settled by Southern and Eastern European migrants who arrived in the early 2020s. It is relatively material-poor and working-class, and is still marked by war ruins. It is known for its canvas industry.
+The municipality of Seispri is [Tzipora's](/characters/) home. Historically industrial, today it is primarily settled by Southern and Eastern European migrants who arrived in the early 2020s. It is relatively material-poor and working-class, and is still marked by war ruins. It is known for its canvas industry.
 
 ### Esja Mountains
 

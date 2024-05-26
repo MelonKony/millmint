@@ -119,7 +119,7 @@ The Mail has two offices of administration: the General Office and the Office of
 
 **Universal service is**, by the glossary of the Mail, truly universal. As mandated by Vekllei law, the Mail provides delivery for all postage material anywhere in the world, or indeed, beyond it. It maintains 6,424 post offices across Vekllei, including its antarctic and peripheral possessions. The Mail's first Lunar Post Office opened in 2059. In addition to its domestic monopoly, the Mail contributes nearly VK❦2.6 trillion each year towards the Vekllei Government Securities Bureau (the country's sovereign wealth fund) through its international postage and courier services abroad, under the name World Post.
 
-![Picture of Tziopra with her stamp collection](/images/images/stamps.jpg "[Tzipora](/factbook/characters/#tzipora-zelda-desmoisnes) arranges some of her favourite Vekllei stamps | *[Philately Foolery](/posts/2021-02-16-stamps/)*")
+![Picture of Tziopra with her stamp collection](/images/images/stamps.jpg "[Tzipora](/characters/tzipora) arranges some of her favourite Vekllei stamps | *[Philately Foolery](/posts/2021-02-16-stamps/)*")
 
 Since the Mail's Office of Telecommunications is also responsible for all telephones, telegrams and videophones in the country, the Mail's status as a lynchpin of communication is absolute, and heavily protected by the postwar Vekllei constitution.
 

@@ -5,7 +5,7 @@ icon: 🌿
 emoji: g
 color: green
 
-tags: 
+tags:
   - borough
 categories:
   - commonwealth
@@ -41,7 +41,7 @@ description: The borough of Santes is an administrative region of Vekllei, a uto
 
 > Do you know what happens when God meets a spirit? Do you have any idea? It is a place of blessings. It's huge! We *have* to find this shrine.
 
--- [Tzipora Desmoisnes](/factbook/characters/#tzipora-zelda-desmoisnes), convinced of hidden shrines in Santes
+-- [Tzipora Desmoisnes](/characters/tzipora), convinced of hidden shrines in Santes
 
 Vekllei's northern coast was settled predominantly by Scandinavian settlers, who were displaced from Vekllei's south in the centuries prior to the 15th Century. For this reason, the cultural and religious segregation of the north coasts produced unusual settlements unique from both southern Vekllei culture and Scandinavia. Settlements in present-day Santes and Moma were heavily christianised, but upon Upen's reformation by King Desimou IV these populations were forcefully integrated into Vekllei's feudal hierarchy and were ethnically displaced by Algic Vekllei.
 

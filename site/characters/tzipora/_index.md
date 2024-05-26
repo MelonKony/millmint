@@ -7,7 +7,7 @@ meta: false
 autonumbering: false
 type: blank
 ---
-<a href="/factbook/characters/">
+<a href="/characters/">
 	<img class="portrait" src="/images/mastheads/characters/portraits/tzipora.png">
   </a>
 <h1>Tzipora Azela</h1>

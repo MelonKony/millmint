@@ -134,7 +134,7 @@ Vekllei is a female country. Womanhood is decommodified. It's maternal, social a
 
 #### Who is Zelda?
 
-Zelda is another name for [Tzipora](/factbook/characters/). She has two names specifically to confuse you.
+Zelda is another name for [Tzipora](/characters/). She has two names specifically to confuse you.
 
 [Join the Patreon](https://www.patreon.com/vekllei).
 
