@@ -1052,6 +1052,8 @@ header.info {
     display: grid;
     grid-area: headcrumbs;
     align-content: end; }
+    header.info .headcrumbs .hidden {
+      display: none; }
     header.info .headcrumbs li {
       margin: 0;
       padding: 0;

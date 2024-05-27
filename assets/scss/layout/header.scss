@@ -216,6 +216,10 @@ header.info {
 		grid-area: headcrumbs;
 		align-content: end;
 
+		.hidden {
+			display: none;
+		}
+
 		li {
 			@include margin-0;
 			@include padding-0;
