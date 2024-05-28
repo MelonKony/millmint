@@ -115,7 +115,7 @@ Anvi stopped mid-sit, her mouth open. 'Bea-trice? Are you kidding?'
 
 'No.'
 
-'I thought your name was Bee-dy, like a buzzing bee. I thought there might have been a story about it.'
+'I thought your name was Bee-dy, like beady little eyes or something. I thought there might have been a story about it.'
 
 'What's the story behind yours?'
 
@@ -165,7 +165,7 @@ Anvi didn't open her eyes. 'It's okay,' she said. 'do you know how many socials 
 
 'He's not here, he's in Oslola,' she waved her hand, 'and he'll wait for me, anyway. As long as I want.'
 
-<!-- # 2. Atlantis
+# 2. Atlantis
 
 <span class="dropcap">A</span> few days later, Beadie was in the dark entry of her tenement. She was amused by the universal sound of a day's end. Housekeys dropped on the squat cellarette she used as a console; her bag and strap falling to the floor; the scuffling of trying to remove your shoes without reaching down. It was dark and the air was heavy and warm, but opening the house-panel and sweeping her hand down across the switches brought the lights and air conditioning on.
 
@@ -189,5 +189,21 @@ Telesford was a much older, sloe-eyed white man with a long face and long body. 
 
 'You don't mind company, do you Mr Telesford?'
 
-'You already sat down.'-->
+'You already sat down.'
+
+'Someone told me you were mentoring social science on occasion and I wanted to ask about it.'
+
+He dropped his spoon in the bowl. 'Who told you that? And furthermore, I don't know you.'
+
+'I'm Beadie, you do know me.'
+
+'What good is a name? And I don't have any qualifications in social science, so I don't know what you'd expect me to do for you. Or what you'd expect you could do for me, a second-year foreigner fresh off the boat on a lineage scholarship.'
+
+'All I'm doing is asking about it. If you're so useless I'll leave you to your chicken and misery.'
+
+'Once upon a time, foreigners in this country had to have something to offer. You had to have a degree, a skill. Now, they'll let anyone come along so long as they've got some kind of lineage. It's blood and soil.'
+
+'Blood and soil you reckon? OK, Rob Telesford, I'll see you around.'
+
+
 
