@@ -1,1 +1,1 @@
-<a style="color: rgb(67, 101, 187)" href="/aismious/"><span class="fi fi-fo"></span> Aismious</a>
+{{ with site.GetPage "aismious" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

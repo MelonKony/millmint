@@ -6,6 +6,8 @@ color: defence
 logo: /svg/crests/parliament-police.svg
 autonumbering: false
 
+fi: fi fi-min-defence fis
+
 aliases:
 - /police-of-the-parliament/
 ---

@@ -1,1 +1,3 @@
-<a style="color: rgb(6, 136, 72)" href="/allia/"><span class="fi fi-ms"></span> Allia</a>
+{{ with site.GetPage "allia" }}
+<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+{{ end }}

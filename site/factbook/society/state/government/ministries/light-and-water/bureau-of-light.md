@@ -4,7 +4,8 @@ fulltitle: Bureau of Light
 icon: 🏛️
 color: lightandwater
 logo: /svg/crests/ministry-of-light-and-water.svg
-autonumbering: false
+
+fi: fi fi-min-light-and-water fis
 
 aliases:
 - /bureau-of-light/

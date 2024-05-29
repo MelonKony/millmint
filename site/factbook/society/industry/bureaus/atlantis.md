@@ -7,6 +7,8 @@ rgb: 60, 120, 200
 
 logocredit:  Sandy Holman & Tom Lewis, 1979, for Ocean Gardening Products.
 
+fi: fi fi-min-atlantis fis
+
 aliases:
 - /atlantis/
 ---

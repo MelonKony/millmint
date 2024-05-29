@@ -6,7 +6,7 @@ logocredit: John David Lloyd & Lloyd Northover, 1996, for British Nuclear Fuels.
 logo: /svg/logos/general-reactor.svg
 rgb: 53, 156, 103
 
-draft: false
+fi: fi fi-min-general-reactor fis
 
 aliases:
 - /general-reactor/

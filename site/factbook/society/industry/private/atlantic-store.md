@@ -6,7 +6,7 @@ logo: /svg/logos/atlantic-store.svg
 rgb: 217, 26, 70
 logocredit: Shigeo Ikkatsuoka & Takami Ikeda, 1984, for the Meitetsu retail company.
 
-draft: false
+fi: fi fi-min-atlantic-store fis
 
 aliases:
 - /atlantic-store/

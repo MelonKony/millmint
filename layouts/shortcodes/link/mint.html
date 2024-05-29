@@ -1,1 +1,1 @@
-<a style="color: var(--color-commerce)" href="/mint/"><span class="fi fi-min-commerce fis"></span> Mint</a>
+{{ with site.GetPage "mint" }}<a class="slink"  style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

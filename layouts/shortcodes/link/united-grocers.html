@@ -1,1 +1,1 @@
-<a style="color: rgb(98, 186, 85)" href="/united-grocers/"><span class="fi fi-min-united-grocers fis"></span> United Grocers</a>
+{{ with site.GetPage "united-grocers" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

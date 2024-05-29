@@ -3,7 +3,9 @@ title: Commonwealth Central Archives
 fulltitle: Commonwealth Central Archives
 icon: 🏢
 logo: /svg/logos/central-archives.svg
+
 rgb: 247, 93, 54
+fi: fi fi-min-archives fis
 
 aliases:
 - /commonwealth-central-archives/

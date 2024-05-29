@@ -1,1 +1,1 @@
-<a style="color: var(--color-commonwealth)" href="/ministry-of-the-commonwealth/"><span class="fi fi-min-commonwealth fis"></span> Ministry of the Commonwealth</a>
+{{ with site.GetPage "commonwealth" }}<a class="slink"  style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

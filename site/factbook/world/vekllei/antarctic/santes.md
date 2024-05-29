@@ -6,7 +6,7 @@ logo: /svg/flags/4x3/santes.svg
 
 rgb: 211, 45, 71
 
-draft: false
+fi: fi fi-santes
 
 aliases:
 - /santes/

@@ -5,7 +5,7 @@ icon: 🏛️
 logo: /svg/logos/commonwealth-labs.svg
 rgb: 0, 155, 113
 
-autonumbering: false
+fi: fi fi-min-commonwealth-labs fis
 
 aliases:
 - /commonwealth-laboratories/

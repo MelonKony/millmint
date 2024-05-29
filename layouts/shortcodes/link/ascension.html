@@ -1,1 +1,1 @@
-<a style="color: rgb(48, 106, 175)" href="/ascension/"><span class="fi fi-ac"></span> Ascension</a>
+{{ with site.GetPage "ascension" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

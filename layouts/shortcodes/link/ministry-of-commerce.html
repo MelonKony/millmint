@@ -1,1 +1,1 @@
-<a style="color: var(--color-commerce)" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a>
+{{ with site.GetPage "commerce" }}<a class="slink"  style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

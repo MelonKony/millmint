@@ -6,8 +6,7 @@ logo: /svg/flags/4x3/mv.svg
 
 rgb: 210, 15, 52
 
-draft: false
-toc: true
+fi: fi fi-mv
 
 aliases:
 - /maldives/

@@ -1,1 +1,1 @@
-<a style="color: rgb(200, 16, 47)" href="/denmark/"><span class="fi fi-dk"></span></span> Denmark</a>
+{{ with site.GetPage "denmark" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

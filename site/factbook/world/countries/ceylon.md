@@ -6,6 +6,8 @@ logo: /svg/flags/4x3/lk.svg
 
 rgb: 255, 92, 0
 
+fi: fi fi-lk
+
 draft: false
 toc: true
 

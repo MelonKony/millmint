@@ -7,6 +7,8 @@ logo: /svg/logos/NSRE.svg
 
 logocredit: W.M. Landwehr & Don Davis, 1971, for the Quincy Annual Art Show
 
+fi: fi fi-min-nsre fis
+
 aliases:
 - /NSRE/
 ---

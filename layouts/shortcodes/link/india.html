@@ -1,1 +1,1 @@
-<a style="color: rgb(255, 153, 51)" href="/india/"><span class="fi fi-in"></span> India</a>
+{{ with site.GetPage "india" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

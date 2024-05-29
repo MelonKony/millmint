@@ -1,1 +1,1 @@
-<a style="color: var(--color-millmint)" href="/government/"><span class="fi fi-min-vekllei fis"></span> Government</a>
+{{ with site.GetPage "government" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

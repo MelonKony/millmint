@@ -5,6 +5,8 @@ icon: 🏠
 rgb: 239, 91, 26
 logo: /svg/logos/housing-commission.svg
 
+fi: fi fi-min-commons fis
+
 aliases:
 - /commonwealth-housing-commission/
 ---

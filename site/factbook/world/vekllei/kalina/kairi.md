@@ -6,6 +6,8 @@ logo: /svg/flags/4x3/kairi.svg
 
 rgb: 215, 18, 45
 
+fi: fi fi-kairi
+
 aliases:
 - /kairi/
 ---

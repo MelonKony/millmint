@@ -1,1 +1,1 @@
-<a style="color: rgb(239, 91, 26)" href="/commonwealth-housing-commission/"><span class="fi fi-min-housing-commission fis"></span> Commonwealth Housing Commission</a>
+{{ with site.GetPage "housing-commission" }}<a class="slink" style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

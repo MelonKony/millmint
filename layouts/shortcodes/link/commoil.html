@@ -1,1 +1,1 @@
-<a style="color: rgb(219, 37, 21)" href="/oil/"><span class="fi fi-min-oil fis"></span> CommOil</a>
+{{ with site.GetPage "oil" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

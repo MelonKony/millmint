@@ -233,6 +233,11 @@ span.tag {
 	@include font-normal;
 }
 
+.slink {
+	@include radius-base;
+	padding: 2.5px;
+}
+
 .bamum {
 	font-family: 'Bamum';
 	@include highlight;

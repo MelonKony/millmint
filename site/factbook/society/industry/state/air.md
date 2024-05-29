@@ -8,6 +8,8 @@ rgb: 245, 60, 89
 
 draft: false
 
+fi: fi fi-min-air fis
+
 aliases:
 - /air/
 ---

@@ -1,1 +1,1 @@
-<a style="color: var(--color-commonwealth)" href="/bureau-of-policy-research/"><span class="fi fi-min-commonwealth fis"></span> Bureau of Policy Research</a>
+{{ with site.GetPage "bureau-of-policy-research" }}<a class="slink" style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

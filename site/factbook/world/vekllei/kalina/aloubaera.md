@@ -6,6 +6,8 @@ logo: /svg/flags/4x3/aloubaera.svg
 
 rgb: 46, 114, 225
 
+fi: fi fi-aloubaera
+
 aliases:
 - /aloubaera/
 ---

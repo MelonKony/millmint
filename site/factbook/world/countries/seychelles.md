@@ -6,8 +6,7 @@ logo: /svg/flags/4x3/sc.svg
 
 rgb: 2, 123, 57
 
-draft: false
-toc: true
+fi: fi fi-sc
 
 aliases:
 - /seychelles/

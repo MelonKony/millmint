@@ -6,7 +6,7 @@ logo: /svg/logos/starlines.svg
 rgb: 44, 81, 177
 logocredit: Unimark International, 1970s, for the Nelson retail company.
 
-draft: false
+fi: fi fi-min-starlines fis
 
 aliases:
 - /starlines/

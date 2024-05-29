@@ -1,1 +1,1 @@
-<a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>
+{{ with site.GetPage "commons" }}<a class="slink"  style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

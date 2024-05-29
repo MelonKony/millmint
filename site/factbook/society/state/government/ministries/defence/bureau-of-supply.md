@@ -5,6 +5,8 @@ icon: 🏛️
 color: defence
 logo: /svg/crests/ministry-of-defence.svg
 
+fi: fi fi-min-defence fis
+
 aliases:
 - /bureau-of-supply/
 ---

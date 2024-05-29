@@ -1,1 +1,1 @@
-<a style="color: rgb(241, 112, 30)" href="/virgin/"><span class="fi fi-vg"></span> Virgin</a>
+{{ with site.GetPage "virgin" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

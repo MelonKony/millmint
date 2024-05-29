@@ -6,6 +6,8 @@ logo: /svg/flags/4x3/rum.svg
 
 rgb: 57, 122, 205
 
+fi: fi fi-rum
+
 aliases:
 - /rum/
 ---

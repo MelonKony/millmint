@@ -1,1 +1,1 @@
-<a style="color: var(--color-culture)" href="/colsec/"><span class="fi fi-min-civic fis"></span> Parliament of Civics</a>
+{{ with site.GetPage "civic" }}<a class="slink"  style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

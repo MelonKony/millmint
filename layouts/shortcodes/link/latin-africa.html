@@ -1,1 +1,1 @@
-<a style="color: rgb(40, 151, 40)" href="/latin-africa/"><span class="fi fi-laur"></span> Latin Africa</a>
+{{ with site.GetPage "latin-africa" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

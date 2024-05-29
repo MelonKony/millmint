@@ -5,7 +5,7 @@ icon: 🏛️
 logo: /svg/crests/parliament/education.svg
 color: education
 
-autonumbering: false
+fi: fi fi-min-education fis
 
 aliases:
 - /bureau-of-public-education/

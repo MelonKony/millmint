@@ -1,1 +1,1 @@
-<a style="color: rgb(238, 183, 14)" href="/mauritius/"><span class="fi fi-mu"></span> Mauritius</a>
+{{ with site.GetPage "mauritius" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

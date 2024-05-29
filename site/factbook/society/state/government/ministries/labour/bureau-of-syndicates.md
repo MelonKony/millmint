@@ -6,6 +6,8 @@ rgb: 155, 67, 199
 logo: /svg/crests/ministry-of-labour.svg
 color: labour
 
+fi: fi fi-min-labour fis
+
 aliases:
 - /bureau-of-syndicates/
 ---

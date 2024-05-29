@@ -6,6 +6,8 @@ logo: /svg/logos/GAF.svg
 rgb: 247, 85, 85
 logocredit: Crawford Dunn, 1964, for Woodward Cape & Associates.
 
+fi: fi fi-min-gaf fis
+
 aliases:
 - /GAF/
 ---

@@ -1,1 +1,1 @@
-<a style="color: var(--color-labour)" href="/ministry-of-labour/"><span class="fi fi-min-labour fis"></span> Ministry of Labour</a>
+{{ with site.GetPage "labour" }}<a class="slink"  style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

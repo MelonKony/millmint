@@ -1,1 +1,1 @@
-<a style="color: var(--color-community)" href="/labsec/"><span class="fi fi-min-community fis"></span> Parliament of Community</a>
+{{ with site.GetPage "community" }}<a class="slink"  style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

@@ -6,6 +6,8 @@ color: commonwealth
 logo: /svg/crests/ministry-of-the-commonwealth.svg
 autonumbering: false
 
+fi: fi fi-min-commonwealth fis
+
 aliases:
 - /bureau-of-policy-research/
 ---

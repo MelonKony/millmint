@@ -6,7 +6,7 @@ logo: /svg/logos/cateral.svg
 rgb: 237, 1, 0
 logocredit: Yūsaku Kamekura, 1984, for Nippon Telegraph & Telephone Corporation.
 
-draft: false
+fi: fi fi-min-cateral fis
 
 aliases:
 - /cateral/

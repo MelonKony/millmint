@@ -1,1 +1,1 @@
-<a style="color: rgb(219, 2, 3)" href="/helvasia/"><span class="fi fi-sj"></span> Helvasia</a>
+{{ with site.GetPage "helvasia" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

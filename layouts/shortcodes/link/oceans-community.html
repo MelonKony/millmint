@@ -1,1 +1,1 @@
-<a style="color: rgb(52, 95, 223)" href="/oceans-community/"><span class="fi fi-oceans"></span> Community of Oceans</a>
+{{ with site.GetPage "ocean-community" }}<a class="slink"  style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

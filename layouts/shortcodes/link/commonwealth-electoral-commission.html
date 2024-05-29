@@ -1,1 +1,1 @@
-<a style="color: var(--color-commonwealth)" href="/commonwealth-electoral-commission/"><span class="fi fi-min-commonwealth fis"></span> Commonwealth Electoral Commission</a>
+{{ with site.GetPage "commonwealth-electoral-commission" }}<a class="slink" style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

@@ -1,1 +1,1 @@
-<a style="color: rgb(32, 97, 241)" href="/ratings/"><span class="fi fi-min-ratings fis"></span> Commonwealth Ratings Corporation</a>
+{{ with site.GetPage "ratings" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

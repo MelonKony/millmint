@@ -1,1 +1,1 @@
-<a style="color: var(--color-commons)" href="/bureau-of-oceans/"><span class="fi fi-min-commons fis"></span> Bureau of Oceans</a>
+{{ with site.GetPage "bureau-of-oceans" }}<a class="slink" style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

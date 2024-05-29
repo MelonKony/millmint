@@ -1,1 +1,1 @@
-<a style="color: rgb(2, 115, 216)" href="/health/"><span class="fi fi-min-healthcare fis"></span> Healthcare</a>
+{{ with site.GetPage "healthcare" }}<a class="slink" style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

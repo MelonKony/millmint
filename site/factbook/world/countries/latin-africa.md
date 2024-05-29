@@ -6,8 +6,7 @@ logo: /svg/flags/4x3/laur.svg
 
 rgb: 40, 151, 40
 
-draft: false
-toc: true
+fi: fi fi-laur
 
 aliases:
 - /latin-africa/

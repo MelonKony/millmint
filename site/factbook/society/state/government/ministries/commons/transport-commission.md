@@ -6,6 +6,8 @@ color: vnr
 logo: /svg/logos/transport-commission.svg
 logocredit: Stefan Kanchev, 1965, for the Balkan Film Festival.
 
+fi: fi fi-min-commons fis
+
 aliases:
 - /commonwealth-transport-commission/
 ---

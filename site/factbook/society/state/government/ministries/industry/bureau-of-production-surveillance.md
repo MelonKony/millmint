@@ -5,6 +5,8 @@ icon: 🏛️
 logo: /svg/crests/ministry-of-industry.svg
 color: industry
 
+fi: fi fi-min-industry fis
+
 aliases:
 - /bureau-of-production-surveillance/
 ---

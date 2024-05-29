@@ -6,6 +6,8 @@ logo: /svg/flags/4x3/oslola.svg
 
 rgb: 88, 90, 190
 
+fi: fi fi-oslola
+
 aliases:
 - /oslola/
 ---

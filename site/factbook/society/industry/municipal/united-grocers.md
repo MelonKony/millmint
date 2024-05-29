@@ -6,6 +6,8 @@ logo: /svg/logos/united-grocers.svg
 rgb: 98, 186, 85
 image: /images/fullres/united-grocers.jpg
 
+fi: fi fi-min-united-grocers fis
+
 aliases:
 - /united-grocers/
 ---

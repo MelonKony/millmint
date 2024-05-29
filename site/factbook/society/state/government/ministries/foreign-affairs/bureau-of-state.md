@@ -5,6 +5,8 @@ icon: 🏛️
 color: foreignaffairs
 logo: /svg/crests/ministry-of-foreign-affairs.svg
 
+fi: fi fi-min-foreign-affairs fis
+
 aliases:
 - /bureau-of-state/
 ---

@@ -7,6 +7,7 @@
 /* diagonal */
 /* graph */
 :root {
+  --background: 0.1;
   --gray-light: #f0f0f6;
   --gray-200: #e5e5e5;
   --body-background: #ffffff;
@@ -30,6 +31,7 @@
   --color-yellow: #ea9365;
   --color-millmint: #de1857;
   --color-vekllei: #3649bb;
+  --color-vekllei-bg: rgba(54, 73, 187, 0.1);
   --color-commerce: #e4a00e;
   --color-commons: #f3852b;
   --color-commonwealth: #e5388f;
@@ -273,6 +275,10 @@ span.tag {
   font-family: "Emoji" !important;
   color: var(--highlight);
   font-weight: 400; }
+
+.slink {
+  border-radius: .25rem;
+  padding: 2.5px; }
 
 .bamum {
   font-family: 'Bamum';

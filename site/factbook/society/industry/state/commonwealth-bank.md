@@ -7,6 +7,7 @@ rgb: 240, 93, 136
 autonumbering: false
 logocredit: Shekhar Kamat, 1971, for the State Bank of India.
 
+fi: fi fi-min-combank fis
 
 aliases:
 - /commonwealth-bank/

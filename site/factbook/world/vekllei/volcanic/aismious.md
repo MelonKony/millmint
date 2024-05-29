@@ -6,6 +6,8 @@ logo: /svg/flags/4x3/fo.svg
 
 rgb: 67, 101, 187
 
+fi: fi fi-fo
+
 aliases:
 - /aismious/
 ---

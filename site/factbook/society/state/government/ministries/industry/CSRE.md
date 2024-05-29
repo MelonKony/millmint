@@ -5,6 +5,8 @@ icon: 🔬
 color: industry
 logo: /svg/logos/CSRE.svg
 
+fi: fi fi-min-csre fis
+
 logocredit: W.M. Landwehr & Don Davis, 1971, for the Quincy Annual Art Show
 
 aliases:

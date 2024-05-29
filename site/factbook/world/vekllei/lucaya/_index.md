@@ -5,6 +5,8 @@ icon: 🌹
 logo: /svg/flags/4x3/com.svg
 color: pink
 
+fi: fi fi-lucaya
+
 aliases:
 - /lucayan/
 - /bahamas/

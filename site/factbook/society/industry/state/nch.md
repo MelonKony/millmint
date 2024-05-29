@@ -8,7 +8,7 @@ logocredit: Sotir Sotirov, 1971, for the Stara Planina company.
 
 image: /images/fullres/nch.jpg
 
-draft: false
+fi: fi fi-min-nch fis
 
 aliases:
 - /ach/

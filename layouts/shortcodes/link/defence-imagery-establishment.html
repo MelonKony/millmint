@@ -1,1 +1,1 @@
-<a style="color: var(--color-defence)" href="/defence-imagery-establishment/"><span class="fi fi-min-defence fis"></span> Defence Imagery Establishment</a>
+{{ with site.GetPage "DIE" }}<a class="slink" style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

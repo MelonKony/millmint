@@ -1,1 +1,1 @@
-<a style="color: var(--color-defence)" href="/police-of-the-parliament/"><span class="fi fi-min-parliament-police fis"></span> Police of the Parliament</a>
+{{ with site.GetPage "police-of-the-parliament" }}<a class="slink"  style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

@@ -1,1 +1,1 @@
-<a style="color: rgb(53, 156, 103)" href="/general-reactor/"><span class="fi fi-min-general-reactor fis"></span> General Reactor</a>
+{{ with site.GetPage "general-reactor" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

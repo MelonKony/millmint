@@ -6,6 +6,8 @@ logo: /svg/flags/4x3/ac.svg
 
 rgb: 48, 106, 175
 
+fi: fi fi-ac
+
 aliases:
 - /ascension/
 ---

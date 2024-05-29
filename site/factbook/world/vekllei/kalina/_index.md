@@ -5,7 +5,8 @@ icon: 🌹
 logo: /svg/flags/4x3/kalina.svg
 color: blue
 
-draft: false
+fi: fi fi-kalina
+
 type: blank
 
 aliases:

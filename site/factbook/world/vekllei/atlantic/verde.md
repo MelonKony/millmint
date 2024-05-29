@@ -6,6 +6,8 @@ logo: /svg/flags/4x3/verde.svg
 
 rgb: 33, 131, 67
 
+fi: fi fi-verde
+
 aliases:
 - /verde/
 ---

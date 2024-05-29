@@ -1,1 +1,1 @@
-<a style="color: var(--color-commerce)" href="/bureau-of-securities/"><span class="fi fi-min-commerce fis"></span> Bureau of Securities</a>
+{{ with site.GetPage "bureau-of-securities" }}<a class="slink" style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

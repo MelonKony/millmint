@@ -7,6 +7,8 @@ color: education
 
 logocredit: František Boban, 1974, for Ustav Aplikovanej Kybernetiky.
 
+fi: fi fi-min-education fis
+
 aliases:
 - /solsec/
 ---

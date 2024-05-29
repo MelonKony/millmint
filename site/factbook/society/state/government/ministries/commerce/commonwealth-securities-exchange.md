@@ -1,10 +1,12 @@
 ---
-title: Securities Exchange
+title: Commonwealth Securities Exchange
 fulltitle: Commonwealth Securities Exchange
 icon: 💰
 rgb: 2, 121, 190
 logo: /svg/logos/commsec.svg
 autonumbering: false
+
+fi: fi fi-min-commsec fis
 
 aliases:
 - /commsec/

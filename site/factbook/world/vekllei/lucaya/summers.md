@@ -8,6 +8,8 @@ rgb: 69, 81, 202
 
 draft: true
 
+fi: fi fi-summers
+
 aliases:
 - /summers/
 ---

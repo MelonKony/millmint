@@ -4,7 +4,10 @@ fulltitle: Ministry of Light & Water
 icon: ⚡️
 color: lightandwater
 logo: /svg/crests/ministry-of-light-and-water.svg
+
 logocredit: Noriko Yamazaki, Nihonreai Shop & Hajime Sakakura, 1987, for Takatsu Barber and Beauty College.
+
+fi: fi fi-min-light-and-water fis
 
 aliases:
 - /ministry-of-light-and-water/

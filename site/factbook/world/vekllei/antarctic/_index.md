@@ -5,6 +5,8 @@ icon: 🌹
 logo: /svg/flags/4x3/antarctic.svg
 color: blue
 
+fi: fi fi-antarctic
+
 type: blank
 
 aliases:

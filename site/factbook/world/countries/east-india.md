@@ -6,8 +6,7 @@ logo: /svg/flags/4x3/ei.svg
 
 rgb: 233, 128, 5
 
-draft: false
-toc: true
+fi: fi fi-ei
 
 aliases:
 - /east-india/

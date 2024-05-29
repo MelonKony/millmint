@@ -1,1 +1,1 @@
-<a style="color: var(--color-education)" href="/solsec/"><span class="fi fi-min-education fis"></span> Parliament of Education</a>
+{{ with site.GetPage "/factbook/society/state/government/parliaments/education/" }}<a class="slink"  style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

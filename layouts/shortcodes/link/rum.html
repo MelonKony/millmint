@@ -1,1 +1,1 @@
-<a style="color: rgb(57, 122, 205)" href="/rum/"><span class="fi fi-rum"></span> Rum</a>
+{{ with site.GetPage "rum" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

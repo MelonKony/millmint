@@ -6,8 +6,7 @@ logo: /svg/flags/4x3/dk.svg
 
 rgb: 200, 16, 47
 
-draft: false
-toc: true
+fi: fi fi-dk
 
 aliases:
 - /denmark/

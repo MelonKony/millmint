@@ -6,6 +6,8 @@ logo: /svg/flags/4x3/ms.svg
 
 rgb: 6, 136, 72
 
+fi: fi fi-ms
+
 aliases:
 - /allia/
 ---

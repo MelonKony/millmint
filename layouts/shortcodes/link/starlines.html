@@ -1,1 +1,1 @@
-<a style="color: rgb(44, 81, 177)" href="/starlines/"><span class="fi fi-min-starlines fis"></span> Commonwealth Starlines</a>
+{{ with site.GetPage "starlines" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

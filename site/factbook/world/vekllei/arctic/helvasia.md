@@ -6,6 +6,8 @@ logo: /svg/flags/4x3/sj.svg
 
 rgb: 219, 2, 3
 
+fi: fi fi-sj
+
 aliases:
 - /helvasia/
 ---

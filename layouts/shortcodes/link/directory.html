@@ -1,1 +1,1 @@
-<a style="color: var(--color-millmint)" href="/directory/"><span class="fi fi-min-vekllei fis"></span> Directory</a>
+{{ with site.GetPage "directory" }}<a class="slink" style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

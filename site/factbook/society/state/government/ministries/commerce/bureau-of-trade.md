@@ -6,6 +6,8 @@ color: commerce
 logo: /svg/crests/ministry-of-commerce.svg
 autonumbering: false
 
+fi: fi fi-min-commerce fis
+
 aliases:
 - /bureau-of-trade/
 ---

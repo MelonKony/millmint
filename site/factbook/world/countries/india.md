@@ -6,8 +6,7 @@ logo: /svg/flags/4x3/in.svg
 
 rgb: 255, 153, 51
 
-draft: false
-toc: true
+fi: fi fi-in
 
 aliases:
 - /india/

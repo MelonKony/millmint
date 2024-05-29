@@ -7,6 +7,8 @@ rgb: 219, 37, 21
 
 logocredit:  Milton Glaser & Alberto Alessi, 1988, for the Alessi company.
 
+fi: fi fi-min-oil fis
+
 aliases:
 - /oil/
 

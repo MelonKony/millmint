@@ -6,8 +6,7 @@ logo: /svg/flags/4x3/un.svg
 
 rgb: 76, 146, 219
 
-draft: false
-toc: true
+fi: fi fi-un
 
 aliases:
 - /un/

@@ -6,6 +6,8 @@ logo: /svg/flags/4x3/aloi.svg
 
 rgb: 48, 99, 172
 
+fi: fi fi-aloi
+
 aliases:
 - /aloi/
 ---

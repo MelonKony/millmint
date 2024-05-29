@@ -5,6 +5,8 @@ icon: 🏛️
 color: lightandwater
 logo: /svg/crests/ministry-of-light-and-water.svg
 
+fi: fi fi-min-light-and-water fis
+
 aliases:
 - /bureau-of-water/
 ---

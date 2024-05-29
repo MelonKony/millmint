@@ -1,1 +1,1 @@
-<a style="color: rgb(224, 40, 35)" href="/national-machines/"><span class="fi fi-min-national-machines fis"></span> National Machines</a>
+{{ with site.GetPage "national-machines" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

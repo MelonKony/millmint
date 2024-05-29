@@ -1,1 +1,1 @@
-<a style="color: var(--color-lightandwater)" href="/ministry-of-light-and-water/"><span class="fi fi-min-light-and-water fis"></span> Ministry of Light & Water</a>
+{{ with site.GetPage "light-and-water" }}<a class="slink"  style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

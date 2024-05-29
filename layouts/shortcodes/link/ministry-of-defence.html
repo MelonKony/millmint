@@ -1,1 +1,1 @@
-<a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a>
+{{ with site.GetPage "defence" }}<a class="slink"  style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

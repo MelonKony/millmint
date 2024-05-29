@@ -1,1 +1,1 @@
-<a style="color: var(--color-blue)" href="/arctic/"><span class="fi fi-arctic"></span> Commonwealth Arctic</a>
+{{ with site.GetPage "arctic" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

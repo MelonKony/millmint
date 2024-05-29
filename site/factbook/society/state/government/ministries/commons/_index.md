@@ -5,6 +5,8 @@ icon: 🏡
 color: commons
 logo: /svg/crests/ministry-of-the-commons.svg
 
+fi: fi fi-min-commons fis
+
 aliases:
 - /ministry-of-the-commons/
 ---

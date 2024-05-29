@@ -5,7 +5,7 @@ icon: 📈
 logo: /svg/logos/ratings.svg
 rgb: 32, 97, 241
 
-draft: false
+fi: fi fi-min-ratings fis
 
 aliases:
 - /ratings/

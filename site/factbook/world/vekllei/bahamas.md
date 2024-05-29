@@ -8,6 +8,8 @@ rgb: 223, 39, 72
 
 draft: true
 
+fi: fi fi-pt
+
 aliases:
 - /bahamas/
 ---

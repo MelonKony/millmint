@@ -6,6 +6,8 @@ logo: /svg/flags/4x3/fk.svg
 
 rgb: 60, 122, 184
 
+fi: fi fi-fk
+
 draft: false
 
 aliases:

@@ -1,1 +1,1 @@
-<a style="color: var(--color-security)" href="/opsec/"><span class="fi fi-min-security fis"></span> Parliament of Security</a>
+{{ with site.GetPage "security" }}<a class="slink"  style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

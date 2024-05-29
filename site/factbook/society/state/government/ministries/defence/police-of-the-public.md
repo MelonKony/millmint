@@ -5,6 +5,8 @@ icon: ⚖️
 color: defence
 logo: /svg/crests/parliament-police.svg
 
+fi: fi fi-min-defence fis
+
 aliases:
 - /police-of-the-public/
 ---

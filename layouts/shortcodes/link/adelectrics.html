@@ -1,1 +1,1 @@
-<a style="color: rgb(182, 34, 71)" href="/adelectrics/"><span class="fi fi-min-adelectrics fis"></span> Adelectrics</a>
+{{ with site.GetPage "adelectrics" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

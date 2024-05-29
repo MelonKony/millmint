@@ -1,1 +1,1 @@
-<a style="color: var(--color-health)" href="/helsec/"><span class="fi fi-min-health fis"></span> Parliament of Health</a>
+{{ with site.GetPage "health" }}<a class="slink"  style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

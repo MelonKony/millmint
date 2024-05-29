@@ -5,6 +5,8 @@ icon: ⛏️
 logo: /svg/crests/ministry-of-labour.svg
 color: labour
 
+fi: fi fi-min-labour fis
+
 aliases:
 - /ministry-of-labour/
 ---

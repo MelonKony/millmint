@@ -1,1 +1,1 @@
-<a style="color: rgb(48, 99, 172)" href="/aloi/"><span class="fi fi-aloi"></span> Aloi</a>
+{{ with site.GetPage "aloi" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

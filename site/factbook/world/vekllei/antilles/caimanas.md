@@ -6,7 +6,7 @@ logo: /svg/flags/caimanas.svg
 
 rgb: 60, 106, 217
 
-draft: false
+fi: fi fi-caimanas
 
 aliases:
 - /caimanas/

@@ -1,0 +1,6 @@
+{{ if .Params.rgb }}
+style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);border-bottom: 1px solid rgb({{ .Params.rgb }});"
+{{ end }}
+{{ if .Params.color }}
+style= "color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);"
+{{ end }}

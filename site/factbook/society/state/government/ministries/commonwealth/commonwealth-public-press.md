@@ -5,6 +5,8 @@ icon: 📖
 color: commonwealth
 logo: /svg/crests/ministry-of-the-commonwealth.svg
 
+fi: fi fi-min-commonwealth fis
+
 aliases:
 - /commonwealth-public-press/
 ---

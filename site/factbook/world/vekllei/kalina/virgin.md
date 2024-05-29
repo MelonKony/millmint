@@ -6,6 +6,8 @@ logo: /svg/flags/4x3/vg.svg
 
 rgb: 241, 112, 30
 
+fi: fi fi-vg
+
 aliases:
 - /virgin/
 ---

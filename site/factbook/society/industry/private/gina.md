@@ -6,7 +6,7 @@ logo: /svg/logos/gina.svg
 rgb: 203, 2, 0
 logocredit: Raymond Loewy & C.E.I., 1964, for Ets Elco.
 
-draft: false
+fi: fi fi-min-gina fis
 
 aliases:
 - /gina/

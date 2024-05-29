@@ -5,7 +5,7 @@ icon: 🏛️
 logo: /svg/crests/ministry-of-culture.svg
 color: culture
 
-autonumbering: false
+fi: fi fi-min-culture fis
 
 aliases:
 - /bureau-of-commonwealth-affairs/

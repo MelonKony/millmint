@@ -5,7 +5,7 @@ icon: 🤖
 logo: /svg/logos/national-machines.svg
 rgb: 224, 40, 35
 
-draft: false
+fi: fi fi-min-national-machines fis
 
 aliases:
 - /national-machines/

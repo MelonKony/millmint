@@ -6,8 +6,7 @@ logo: /svg/flags/4x3/mu.svg
 
 rgb: 238, 183, 14
 
-draft: false
-toc: true
+fi: fi fi-mu
 
 aliases:
 - /mauritius/

@@ -6,7 +6,7 @@ logo: /svg/flags/4x3/sh.svg
 
 rgb: 24, 117, 71
 
-draft: false
+fi: fi fi-sh
 
 aliases:
 - /helena/

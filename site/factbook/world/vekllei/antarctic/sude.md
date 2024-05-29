@@ -6,7 +6,7 @@ logo: /svg/flags/4x3/gs.svg
 
 rgb: 60, 122, 184
 
-draft: false
+fi: fi fi-gs
 
 aliases:
 - /sude/

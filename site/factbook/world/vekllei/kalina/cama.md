@@ -6,6 +6,8 @@ logo: /svg/flags/4x3/gd.svg
 
 rgb: 2, 123, 93
 
+fi: fi fi-gd
+
 aliases:
 - /cama/
 ---

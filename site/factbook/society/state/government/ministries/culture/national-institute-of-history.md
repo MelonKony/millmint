@@ -5,6 +5,8 @@ icon: 🏢
 logo: /svg/crests/ministry-of-culture.svg
 color: culture
 
+fi: fi fi-min-culture fis
+
 aliases:
 - /national-institute-of-history/
 ---

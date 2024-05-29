@@ -6,6 +6,8 @@ logo: /svg/flags/4x3/ai.svg
 
 rgb: 249, 150, 50
 
+fi: fi fi-ai
+
 aliases:
 - /anguilla/
 ---

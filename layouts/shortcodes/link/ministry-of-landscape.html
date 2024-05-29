@@ -1,1 +1,1 @@
-<a style="color: var(--color-landscape)" href="/ministry-of-landscape/"><span class="fi fi-min-landscape fis"></span> Ministry of Landscape</a>
+{{ with site.GetPage "landscape" }}<a class="slink"  style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

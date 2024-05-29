@@ -4,6 +4,7 @@ fulltitle: Commonwealth Arctic
 icon: 🌹
 logo: /svg/flags/4x3/arctic.svg
 color: blue
+fi: fi fi-arctic
 
 type: blank
 

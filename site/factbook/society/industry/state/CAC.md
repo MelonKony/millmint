@@ -5,6 +5,8 @@ icon: ✈️
 logo: /svg/logos/cac.svg
 rgb: 49, 80, 250
 
+fi: fi fi-min-cac fis
+
 logocredit: Ikko Tanaka, 1988, for the Asahi Kaiyo company.
 
 aliases:

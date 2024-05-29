@@ -5,6 +5,8 @@ icon: 🔬
 color: defence
 logo: /svg/logos/DSRE.svg
 
+fi: fi fi-min-dsre fis
+
 logocredit: W.M. Landwehr & Don Davis, 1971, for the Quincy Annual Art Show
 
 aliases:

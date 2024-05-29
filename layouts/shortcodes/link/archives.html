@@ -1,1 +1,1 @@
-<a style="color: rgb(247, 93, 54)" href="/commonwealth-central-archives/"><span class="fi fi-min-archives fis"></span> Commonwealth Central Archives</a>
+{{ with site.GetPage "commonwealth-central-archives" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

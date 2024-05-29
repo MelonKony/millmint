@@ -1,1 +1,3 @@
-<a style="color: var(--color-landscape)" href="/LSRE/"><span class="fi fi-min-lsre fis"></span> LSRE</a>
+{{ with site.GetPage "/factbook/society/state/government/ministries/landscape/lsre/" }}<a class="slink" style="color: var(--color-{{ .Params.color }});
+background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);
+" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

@@ -6,8 +6,7 @@ logo: /svg/flags/4x3/pt.svg
 
 rgb: 0, 102, 1
 
-draft: false
-toc: true
+fi: fi fi-pt
 
 aliases:
 - /portugal/

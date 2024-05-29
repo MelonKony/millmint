@@ -12,9 +12,7 @@ categories:
 
 image: /images/orange.jpg
 
-type: blank
-comments: false
-
+fi: fi fi-min-rail fis
 
 aliases:
 - /rail/

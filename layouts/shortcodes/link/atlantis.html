@@ -1,1 +1,1 @@
-<a style="color: rgb(60, 120, 200)" href="/atlantis/"><span class="fi fi-min-atlantis fis"></span> Atlantis</a>
+{{ with site.GetPage "atlantis" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

@@ -7,6 +7,8 @@ rgb: 232, 163, 12
 
 logocredit:  Al Navarre & Terry Lesniewicz, 1978, for Solar Trucking Incorporated.
 
+fi: fi fi-min-CL fis
+
 aliases:
 - /commonwealth-lines/
 ---

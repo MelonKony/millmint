@@ -1,1 +1,1 @@
-<a style="color: var(--color-commonwealth)" href="/bureau-of-commonwealth-corporations/"><span class="fi fi-min-commonwealth fis"></span> Bureau of Commonwealth Corporations</a>
+{{ with site.GetPage "bureau-of-commonwealth-corporations" }}<a class="slink" style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

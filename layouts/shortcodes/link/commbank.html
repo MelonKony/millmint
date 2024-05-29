@@ -1,1 +1,1 @@
-<a style="color: rgb(240, 93, 136)" href="/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a>
+{{ with site.GetPage "commonwealth-bank" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

@@ -4,6 +4,7 @@ fulltitle: Commonwealth of Vekllei
 icon: 🌹
 logo: /svg/flags/4x3/com.svg
 color: vekllei
+fi: fi fi-com
 
 type: blank
 toc: true

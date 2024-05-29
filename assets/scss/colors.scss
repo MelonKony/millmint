@@ -54,6 +54,7 @@ $yellow: rgb(234, 147, 101);
 
 $millmint: rgb(222, 24, 87);
 $vekllei: rgb(54, 73, 187);
+$vekllei-bg: rgba(54, 73, 187, 0.1);
 
 $commerce: rgb(228, 160, 14);
 $commons: rgb(243, 133, 43);
@@ -74,6 +75,7 @@ $democracy: rgb(206, 80, 159);
 $health: rgb(246, 81, 113);
 
 :root {
+  --background: 0.1;
   --gray-light: #{$gray-100};
   --gray-200: #{$gray-200};
   --body-background: #{$background};
@@ -100,6 +102,7 @@ $health: rgb(246, 81, 113);
 
   --color-millmint: #{$millmint};
   --color-vekllei: #{$vekllei};
+  --color-vekllei-bg: #{$vekllei-bg};
 
   --color-commerce: #{$commerce};
   --color-commons: #{$commons};

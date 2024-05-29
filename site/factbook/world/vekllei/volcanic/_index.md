@@ -7,6 +7,8 @@ color: blue
 
 type: blank
 
+fi: fi fi-volcanic
+
 aliases:
 - /volcanic/
 - /volcanic-commonwealth/

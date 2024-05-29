@@ -5,6 +5,8 @@ icon: 💵
 color: commerce
 logo: /svg/crests/ministry-of-commerce.svg
 
+fi: fi fi-min-commerce fis
+
 aliases:
 - /ministry-of-commerce/
 ---

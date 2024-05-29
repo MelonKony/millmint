@@ -1,1 +1,1 @@
-<a style="color: var(--color-blue)" href="/antarctic/"><span class="fi fi-antarctic"></span> Commonwealth Antarctica</a>
+{{ with site.GetPage "antarctic" }}<a class="slink" style="color: rgb({{ .Params.rgb }}); background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

@@ -6,7 +6,7 @@ logo: /svg/flags/4x3/demon.svg
 
 rgb: 229, 156, 54
 
-draft: false
+fi: fi fi-demon
 
 aliases:
 - /demon/

@@ -1,1 +1,1 @@
-<a style="color: var(--color-defence)" href="/armed-forces/"><span class="fi fi-min-defence fis"></span> Armed Forces</a>
+{{ with site.GetPage "military" }}<a class="slink" style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}
