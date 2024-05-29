@@ -165,7 +165,7 @@ Anvi didn't open her eyes. 'It's okay,' she said. 'do you know how many socials 
 
 'He's not here, he's in Oslola,' she waved her hand, 'and he'll wait for me, anyway. As long as I want.'
 
-# 2. Atlantis
+<!--# 2. Atlantis
 
 <span class="dropcap">A</span> few days later, Beadie was in the dark entry of her tenement. She was amused by the universal sound of a day's end. Housekeys dropped on the squat cellarette she used as a console; her bag and strap falling to the floor; the scuffling of trying to remove your shoes without reaching down. It was dark and the air was heavy and warm, but opening the house-panel and sweeping her hand down across the switches brought the lights and air conditioning on.
 
@@ -203,7 +203,7 @@ He dropped his spoon in the bowl. 'Who told you that? And furthermore, I don't k
 
 'Once upon a time, foreigners in this country had to have something to offer. You had to have a degree, a skill. Now, they'll let anyone come along so long as they've got some kind of lineage. It's blood and soil.'
 
-'Blood and soil you reckon? OK, Rob Telesford, I'll see you around.'
+'Blood and soil you reckon? OK, Rob Telesford, I'll see you around.'-->
 
 
 
