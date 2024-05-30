@@ -5,6 +5,8 @@ icon: 🏛️
 logo: /svg/crests/vekllei.svg
 color: millmint
 
+fi: fi fi-min-vekllei fis
+
 aliases:
 - /directory/
 ---

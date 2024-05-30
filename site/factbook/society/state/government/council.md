@@ -6,11 +6,10 @@ logo: /svg/crests/council.svg
 color: millmint
 image:
 
+fi: fi fi-min-council fis
+
 aliases:
 - /council/
-
-
-
 ---
 {{<note series>}}
  Part of the *[government](/government/)* series of articles

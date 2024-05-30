@@ -6,11 +6,10 @@ logo: /svg/crests/vekllei.svg
 color: millmint
 image:
 
+fi: fi fi-min-vekllei fis
+
 aliases:
 - /cabinet/
-
-
-
 ---
 {{<note series>}}
  Part of the *[government](/government/)* series of articles
