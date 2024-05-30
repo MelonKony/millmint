@@ -5,7 +5,7 @@ icon: 🏺
 logo: /svg/crests/vekllei-purple.svg
 color: purple
 
-fi: fi fi-min-vekllei fis
+fi: fi fi-min-vekllei-purple fis
 
 aliases:
 - /senate/
