@@ -2,9 +2,10 @@
 title: Transport Commission
 fulltitle: Commonwealth Transport Commission
 icon: 🛤️
-color: vnr
 logo: /svg/logos/transport-commission.svg
 logocredit: Stefan Kanchev, 1965, for the Balkan Film Festival.
+
+rgb: 255, 86, 79
 
 fi: fi fi-min-transport-commission fis
 

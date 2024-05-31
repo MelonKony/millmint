@@ -7,6 +7,8 @@ image:
 
 rgb: 45, 122, 235
 
+fi: fi fi-min-healthcare fis
+
 draft: false
 toc: true
 

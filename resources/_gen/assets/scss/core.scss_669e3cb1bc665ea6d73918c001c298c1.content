@@ -31,7 +31,6 @@
   --color-yellow: #ea9365;
   --color-millmint: #de1857;
   --color-vekllei: #3649bb;
-  --color-vekllei-bg: rgba(54, 73, 187, 0.1);
   --color-commerce: #e4a00e;
   --color-commons: #f3852b;
   --color-commonwealth: #e5388f;

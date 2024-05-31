@@ -3,14 +3,9 @@ title: Rail
 fulltitle: Vekllei National Rail
 icon: 🚇
 logo: /svg/logos/rail.svg
-color: vnr
-
-tags:
-  - industry
-categories:
-  - society
-
 image: /images/orange.jpg
+
+rgb: 255, 86, 79
 
 fi: fi fi-min-rail fis
 
