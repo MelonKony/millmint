@@ -1131,11 +1131,9 @@ nav {
         nav .navbar .navbar-item > a.menu-link .navicon, nav .navbar .navbar-item > a.menu-link .name {
           color: var(--gray-heavy); }
       nav .navbar .navbar-item:hover {
-        background-color: var(--highlight-background);
         border-bottom-color: var(--highlight); }
     nav .navbar .navbar-item.insection,
     nav .navbar .navbar-item.active {
-      background: var(--highlight-background);
       border-bottom-color: var(--highlight); }
 
 .navicon {

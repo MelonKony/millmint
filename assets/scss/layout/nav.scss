@@ -74,14 +74,12 @@ nav {
       }
 
       &:hover {
-        background-color: var(--highlight-background);
         border-bottom-color: var(--highlight);
       }
     }
 
     .navbar-item.insection,
     .navbar-item.active {
-      background: var(--highlight-background);
       border-bottom-color: var(--highlight);
     }
   }
