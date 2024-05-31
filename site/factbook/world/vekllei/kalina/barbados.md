@@ -28,7 +28,7 @@ aliases:
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 
-The <span class="fi fi-bb"></span> **Barbados Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} in the Kalina archipelago, east of Youloumain and northeast of the {{<link/aloubaera>}}. Although it is grouped with the rest of {{<link/kalina>}}, it is technically an Atlantic rather than Caribbean island, and is relatively flat for an island of its size in the area. It is roughly triangular and densely populated, and clustered mostly around the capital of Indian Bridge on the southwest coast.
+The <span class="fi fi-bb"></span> **Barbados Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} in the Kalina archipelago, east of Youloumain and northeast of the {{<link/aloubaera>}}. Although it is grouped with the rest of {{<link/kalina>}}, it is technically an Atlantic rather than Caribbean island, and is relatively flat for an island of its size. It is roughly triangular and densely populated, with most of its residents clustered around the capital of Indian Bridge on the southwest coast.
 
 Uninhabited upon European discovery, Barbados has a long history as a gateway to the Lesser Antilles and South America. The island was settled by the British in the 17th Century and was reincorporated as part of the British Atlantic Territories in 1836. It gained independence along with the rest of the Territories a century later. Like the rest of {{<link/kalina>}}, the culture and demography of Barbados was heavily influenced by slavery during the colonial period, and the majority of Barbadians are descended from Africans.
 
