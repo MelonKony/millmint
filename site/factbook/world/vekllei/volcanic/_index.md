@@ -1,5 +1,5 @@
 ---
-title: Volcanic Commonwealth
+title: Volcanic
 fulltitle: Volcanic Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/volcanic.svg

@@ -26,6 +26,9 @@ nav {
 
     li {
       @include my-0;
+      border-top-left-radius: .25rem;
+      border-top-right-radius: .25rem;
+      padding: 2.5px;
       list-style: none;
     }
 
@@ -57,7 +60,7 @@ nav {
     .navbar-item {
       @include text-sm;
       display: block;
-      margin: 0 0.5rem 0 0;
+      margin: 0 0.25rem 0 0;
       padding-bottom: 0.1rem;
       border-bottom: 2px solid transparent;
       white-space: nowrap;
@@ -71,12 +74,14 @@ nav {
       }
 
       &:hover {
+        background-color: var(--highlight-background);
         border-bottom-color: var(--highlight);
       }
     }
 
     .navbar-item.insection,
     .navbar-item.active {
+      background: var(--highlight-background);
       border-bottom-color: var(--highlight);
     }
   }

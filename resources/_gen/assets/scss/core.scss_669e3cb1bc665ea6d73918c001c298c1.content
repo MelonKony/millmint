@@ -1099,6 +1099,9 @@ nav {
     nav .navbar li {
       margin-top: 0;
       margin-bottom: 0;
+      border-top-left-radius: .25rem;
+      border-top-right-radius: .25rem;
+      padding: 2.5px;
       list-style: none; }
     nav .navbar .menu-dropdown li .left a {
       color: var(--gray-heavy); }
@@ -1118,7 +1121,7 @@ nav {
       line-height: 1.25rem;
       /* 20px */
       display: block;
-      margin: 0 0.5rem 0 0;
+      margin: 0 0.25rem 0 0;
       padding-bottom: 0.1rem;
       border-bottom: 2px solid transparent;
       white-space: nowrap; }
@@ -1128,9 +1131,11 @@ nav {
         nav .navbar .navbar-item > a.menu-link .navicon, nav .navbar .navbar-item > a.menu-link .name {
           color: var(--gray-heavy); }
       nav .navbar .navbar-item:hover {
+        background-color: var(--highlight-background);
         border-bottom-color: var(--highlight); }
     nav .navbar .navbar-item.insection,
     nav .navbar .navbar-item.active {
+      background: var(--highlight-background);
       border-bottom-color: var(--highlight); }
 
 .navicon {
