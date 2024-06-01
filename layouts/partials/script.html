@@ -8,7 +8,7 @@
 {{ $tt := resources.Get "js/dictionary.js" }}
 {{ $js := slice $jq $dk $cs $fd $fn $lz $tc $tt | resources.Concat "js/millmint.js"  }}
 
-{{ if .Site.IsServer }}
+{{ if hugo.IsServer }}
     <script defer src="{{ $js.RelPermalink }}"></script>
 {{ else }}
     {{ $js = $js | minify | fingerprint }}

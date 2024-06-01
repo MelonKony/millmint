@@ -16,7 +16,7 @@ aliases:
 {{</note>}}
 
 {{<infobox/country
-	 Name="Anguilla Republic"
+	 Name="Barbados Republic"
 	 Type="Republic"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/barbados.svg"
