@@ -5,6 +5,8 @@ icon: 🏹
 color: security
 logo: /svg/logos/noshem.svg
 
+fi: fi fi-min-noshem fis
+
 aliases:
 - /noshem/
 ---
