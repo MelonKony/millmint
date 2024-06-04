@@ -5,6 +5,8 @@ icon: ⚕️
 logo: /svg/crests/parliament/health.svg
 color: health
 
+fi: fi fi-min-health fis
+
 aliases:
 - /helsec/
 ---

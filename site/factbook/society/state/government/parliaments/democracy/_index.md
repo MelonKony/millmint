@@ -5,6 +5,8 @@ icon: 🗳️
 logo: /svg/crests/parliament/democracy.svg
 color: democracy
 
+fi: fi fi-min-democracy fis
+
 aliases:
 - /demsec/
 ---

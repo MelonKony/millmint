@@ -5,6 +5,8 @@ icon: ⛓️
 logo: /svg/crests/parliament/community.svg
 color: community
 
+fi: fi fi-min-community fis
+
 aliases:
 - /labsec/
 ---

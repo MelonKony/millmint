@@ -5,6 +5,8 @@ icon: ⚡️
 logo: /svg/crests/parliament/security.svg
 color: security
 
+fi: fi fi-min-security fis
+
 aliases:
 - /opsec/
 ---

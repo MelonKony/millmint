@@ -5,6 +5,8 @@ icon: 🏵
 logo: /svg/crests/parliament/civic.svg
 color: culture
 
+fi: fi fi-min-civic fis
+
 aliases:
 - /colsec/
 ---
