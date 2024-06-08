@@ -25,6 +25,8 @@ The <span class="fi fi-min-vekllei fis"></span> **Commonwealth Government** is t
   * Constituent [ministries](/ministries/)
 {{</note>}}
 
+![Diagram of Vekllei government structure](/svg/diagrams/government.png "Diagram of Vekllei government administration and its structure")
+
 {{<note panel>}}
 **Commonwealth Parliaments**
 * {{<link/parliament-of-community>}}
