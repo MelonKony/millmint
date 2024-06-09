@@ -26,8 +26,6 @@ nav {
 
     li {
       @include my-0;
-      border-top-left-radius: .25rem;
-      border-top-right-radius: .25rem;
       padding: 2.5px;
       list-style: none;
     }

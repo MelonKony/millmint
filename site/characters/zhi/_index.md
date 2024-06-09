@@ -7,6 +7,7 @@ meta: false
 autonumbering: false
 type: blank
 ---
+<br>
 <a href="/characters/">
 	<img class="portrait" src="/images/mastheads/characters/portraits/zhi.png">
   </a>
