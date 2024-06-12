@@ -1,4 +1,4 @@
-baseURL: https://millmint.net
+baseURL: /
 languageCode: en
 contentDir: 'site'
 title: MillMint
