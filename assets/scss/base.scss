@@ -153,24 +153,18 @@ a {
 }
 
 button {
-  background: none;
-  display: inline-block;
-  color: var(--color-gray);
-  padding: 5px 0px;
-  width: 100%;
-  line-height: 1rem;
+  @include radius-base;
+  @include font-medium;
+  @include text-base;
+  @include highlight;
+  @include padding-1;
+  @include highlight-border;
   cursor: pointer;
-  font-size: 14px;
-  text-decoration: none;
-  text-align: center;
-  position: relative;
-  box-sizing: border-box;
-  font-weight: 600;
-  border: 0px solid var(--color-gray);
-  border-radius: .25rem;
+  background: transparent;
 
   &:hover {
-    filter: brightness(65%);
+    @include highlight-background;
+    box-shadow: var(--highlight) solid 2px inset;
   }
 }
 
@@ -192,7 +186,7 @@ h6 {
 }
 
 h1 {
-  @include text-3xl;
+  font-size: 2rem;
 }
 
 h2 {

@@ -1,3 +1,4 @@
+  {{ if default true .Params.info }}
 <header class="info">
   <h1 class="title">{{ .Params.fulltitle }}</h1>
   <div class="date" style="margin-right: .25rem;">
@@ -16,6 +17,7 @@
     <div class="article-category">MillMint</div>
     <!--<div class="article-category">{{ .Lastmod.Format "02.01.2006" }}</div>-->
   </div>
+  {{ end }}
 
   {{ if .Params.emoji }}
   <div class="emoji" id="whirlybat">{{ .Params.emoji }}</div>

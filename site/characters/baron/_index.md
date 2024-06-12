@@ -4,14 +4,10 @@ color: yellow
 
 toc: false
 meta: false
+info: false
 autonumbering: false
 type: blank
 ---
-<a href="/characters/">
-	<img class="portrait" src="/images/mastheads/characters/portraits/baron.png">
-  </a>
-<h1>Baron Spector</h1>
-
 **Baron** *lo Ula de Tiria* **Spector** is [Tzipora](/characters/tzipora)'s guardian in on way or another. Whether he's a surrogate father, adoptive parent, mentor or friend, his title is unclear but their relationship is fairly straightforward. Tzipora lives with him in Seispri and his relationship with her is both paternal and respectful as an equal.
 
 Baron has spent most of his life abroad in some capacity in service of his government, and has few personal connections in {{<link/vekllei>}}. He is a distant and serious person, but also mild and unopinionated. He is good at what he does.
@@ -42,16 +38,3 @@ Tzipora's eccentricity cuts through a lot of this sober attitude, and it's obvio
 
 He has a warm, platonic relationship with [Ayn](/characters/ayn), who completes their household. They have a long history together at different distances, but are important parts of each others lives now.
 </details>
-
-<style>
-h1 {
-	text-align: center;
-	font-size: 35pt;
-	margin-bottom: 2rem;
-}
-img {
-	margin-top: -4rem;
-	background: transparent;
-	height: 80px;
-}
-</style>

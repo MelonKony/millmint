@@ -4,14 +4,10 @@ color: yellow
 
 toc: false
 meta: false
+info: false
 autonumbering: false
 type: blank
 ---
-<a href="/characters/">
-	<img class="portrait" src="/images/mastheads/characters/portraits/moise.png">
-  </a>
-<h1>Moise Hasapis</h1>
-
 **Moise Hasapis** is [Tzipora](/characters/tzipora)'s neighbour and one of her closest friends. Like Tzipora, he was born overseas and has only started schooling in Vekllei in late childhood.
 
 Imposing in both attitude and posture, Moise is feared and respected among his peers, an unfortunate social situation that enables his renowned temper. An agitator and occasional victim of his strength, Moise is tempered by Tzipora's inwardness and [Coretti](/characters/coretti)'s good-naturedness. He lives with his sister and father in Seispri, and has no relationship with his mother, who remains in Greece.
@@ -40,16 +36,3 @@ Moise is hot-headed and sensitive, traits that leave him feeling cornered by the
 
 He dislikes his parents and is protective over his younger sister, Penelope. He has some interest in making films, since he is not particularly academic and doesn't want to leave his sister for the army. He is uncomfortable with sharing his emotions, which upsets his girlfriend Coretti. Tzipora's social intimacy with him is largely due to their similar shyness of emotion and stubborn independence, which counterintuitively binds them closely.
 </details>
-
-<style>
-h1 {
-	text-align: center;
-	font-size: 35pt;
-	margin-bottom: 2rem;
-}
-img {
-	margin-top: -4rem;
-	background: transparent;
-    height: 80px;
-}
-</style>

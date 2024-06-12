@@ -4,14 +4,10 @@ color: yellow
 
 toc: false
 meta: false
+info: false
 autonumbering: false
 type: blank
 ---
-<a href="/characters/">
-	<img class="portrait" src="/images/mastheads/characters/portraits/coretti.png">
-  </a>
-<h1>Coretti Adoula</h1>
-
 **Coretti Gloria Adoula** is Moise's girlfriend. Born in the Congo, she lived in the Soviet Union before moving to {{<link/vekllei>}} at 6 years old. She has a knack for languages and speaks Oslolan fluently.
 
 She is sensitive and diplomatic, and is well-liked for her sense of justice and impartiality. Her relationship with [Moise](/characters/moise) brings her into [Tzipora](/characters/tzipora)'s circle, and her unprejudiced curiosity and social grace are traits her peers admire. She has a friendly, if unusual bond with Tzipora.
@@ -42,16 +38,3 @@ Her goodness does not preclude her from her own interests -- she adores music an
 
 Despite her apparent differences in temperament with her boyfriend Moise, Coretti spends more time around vibrant hotheads than she does placid appeasers. Perhaps this is a behavioural legacy of growing up in a large, loud family. Maybe she is just attracted to big personalities. Either way, they appreciate her for it -- her voice of reason brings them all closer together.
 </details>
-
-<style>
-h1 {
-	text-align: center;
-	font-size: 35pt;
-	margin-bottom: 2rem;
-}
-img {
-	margin-top: -4rem;
-	background: transparent;
-	height: 80px;
-}
-</style>

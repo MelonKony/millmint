@@ -4,14 +4,10 @@ color: yellow
 
 toc: false
 meta: false
+info: false
 autonumbering: false
 type: blank
 ---
-<a href="/characters/">
-	<img class="portrait" src="/images/mastheads/characters/portraits/tzipora.png">
-  </a>
-<h1>Tzipora Azela</h1>
-
 **Tzipora** *lo Ula de Helette* **Azela**, often called **Zelda** by her friends, is the main character of this project. She was born in 2047 in Colombia, but lives in {{<link/vekllei>}} with [Baron](/characters/baron/).
 
 Though born to Vekllei parents, she was raised overseas in Colombia and was later educated in the United States. Since her arrival in Vekllei, she has returned to school and has formed sincere and close friendships, stabilising the more neurotic and anxious parts of her personality.
@@ -44,16 +40,3 @@ She is a Catholic, but has a confrontational relationship with God and only atte
 
 Tzipora may be intense and inward-facing, but she can also be disarmingly charming and self-deprecating. She has a good sense of humour. There are not many people that can so easily reconcile the contradictions between the peculiar and the healthy, the eccentric and the friendly, and the violent and the domestic. That’s part of her character — an essence of being that radiates decency, good taste and a respect for the spirit of all things.
 </details>
-
-<style>
-h1 {
-	text-align: center;
-	font-size: 35pt;
-	margin-bottom: 2rem;
-}
-img {
-	margin-top: -4rem;
-  background: transparent;
-  height: 80px;
-}
-</style>

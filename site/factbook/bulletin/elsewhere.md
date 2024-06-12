@@ -34,7 +34,7 @@ While there are a few key factors that have resulted in Vekllei being the only e
 
 Nonetheless, there are good answers for why Vekllei remains unique among economic systems:
 
-{{<note>}}
+{{<note gray>}}
 1. There is little evidence that the *commons* would work at scale. Despite its geographic size, Vekllei has only 24 million people. It has major urban centres in Oslola and some islands in the Kalina island chain, and those cities have been dramatically adapted to suit their system. There is no reason to assume that what works on their islands might also work in a much larger, more populous, continental country.
 2. They have a very federal society with a strong, civic culture developed in a unique set of circumstances. These are not things you can simply develop in a five-year plan, or attempt to forge through control of media. Their social behaviours are also their economic ones, and so are much more vulnerable to changes in public sentiment or attitude.
 3. Vekllei is politically independent. Despite some similarities, Vekllei does not in rhetoric or appearance resemble a communist or anarchist society. There is no mention of Marx, class, or proletariat, and the foundations of Vekllei political economics were influenced by feminist anarchists, Georgists, libertarians and nationalists. Although the country does not resemble any single ideology, these left-of-field influences isolate (and insulate) it from straightforward characterisation in the cold war binary, and by extension has much less academic interest overseas.

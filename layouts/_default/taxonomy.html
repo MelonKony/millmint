@@ -1,6 +1,21 @@
-{{- define "content" -}}
+{{- partial "params.html" . -}}
 
-{{ if .Content }}
-	{{- partial "content.html" . -}}
-{{ end }}
-{{- end -}}
+<!DOCTYPE html>
+<html lang='{{ .Site.LanguageCode }}'>
+{{- partial "head.html" . -}}
+
+<body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
+  <main>
+	{{- partial "header.html" . -}}
+	{{- partial "nav/nav.html" . -}}
+	<article class="content" style="margin-top: 0;">
+	  <section class="page">
+		{{- partial "content" . }}
+	  </section>
+	</article>
+	{{- partial "footer.html" . -}}
+  </main>
+  {{- partial "resources/js.html" . -}}
+  {{- partial "script.html" . -}}
+</body>
+</html>

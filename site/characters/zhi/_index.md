@@ -4,15 +4,10 @@ color: yellow
 
 toc: false
 meta: false
+info: false
 autonumbering: false
 type: blank
 ---
-<br>
-<a href="/characters/">
-	<img class="portrait" src="/images/mastheads/characters/portraits/zhi.png">
-  </a>
-<h1>Lin Zhi</h1>
-
 **Lin Zhi**, who prefers being addressed by her full name, is [Tzipora](/characters/tzipora/)'s friend and occasional accomplice. She is surly, independent and uninterested in the opinions of others. She meets Tzipora at [Moshel St School](/moshel/).
 
 Like Tzipora, Zhi is a recent immigrant and despises her parents for uprooting her life to live in {{<link/vekllei>}}, from which she has retreated into traditionally Chinese cultural dress and signals. Tzipora is fascinated by her. Cobian and Coretti fear her.
@@ -43,16 +38,3 @@ Tzipora first bonds with her over their social isolation as recent immigrants. L
 
 She is sensitive to being made fun of, and considers many of her problems making friends to be racial in nature. Despite these emotional burdens, or perhaps because of them, Zhi is deeply loyal to her allies as long as they respect her social boundaries. Zhi is never the engine of conversation -- but she misses her friends when they're not there.
 </details>
-
-<style>
-h1 {
-	text-align: center;
-	font-size: 35pt;
-	margin-bottom: 2rem;
-}
-img {
-	margin-top: -4rem;
-  background: transparent;
-  height: 80px;
-}
-</style>

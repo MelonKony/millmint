@@ -1,5 +1,5 @@
 // millmint.net colors
-// TODO: clean
+// TODO: update gray colour, seperate from highlight
 
 $gray-0: #fff;
 $gray-50: #f7f7f7;
@@ -76,6 +76,7 @@ $health: rgb(246, 81, 113);
 :root {
   --background: 0.1;
   --gray-light: #{$gray-100};
+  --gray-100: #{$gray-100};
   --gray-200: #{$gray-200};
   --body-background: #{$background};
 

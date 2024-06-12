@@ -4,6 +4,7 @@ fulltitle: Characters
 icon: 🎎
 emoji: ¥
 color: yellow
+meta: false
 
 autonumbering: false
 type: blank

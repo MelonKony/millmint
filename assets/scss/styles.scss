@@ -136,9 +136,13 @@ button.navbutton {
 	cursor: pointer;
 	outline: inherit;
 	font-size: 18px;
+	background: none;
+	border: none;
 
 	&:hover {
 		color: inherit;
+		background: none;
+		border: none;
 	}
 
 	.navicon {

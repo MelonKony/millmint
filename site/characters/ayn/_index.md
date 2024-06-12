@@ -4,14 +4,10 @@ color: yellow
 
 toc: false
 meta: false
+info: false
 autonumbering: false
 type: blank
 ---
-<a href="/characters/">
-	<img class="portrait" src="/images/mastheads/characters/portraits/ayn.png">
-  </a>
-<h1>Ayn Lai-Lebedev</h1>
-
 **Ayn Lai-Lebedev** is a longtime associate of [Baron](/characters/baron) and a maternal figure to [Tzipora](/characters/tzipora). She commands an affectionate and stable presence, intelligent and emotionally secure in her work and home life.
 
 She was once engaged to Baron's friend and comrade George Angelopoulos, who perished in the {{<link/haiti>}} Intervention. She has remained unmarried and lives a social, if solitary life with a circle of close friends. Upon Tzipora's arrival in {{<link/vekllei>}}, she reconnects with Baron.
@@ -40,16 +36,3 @@ Ayn is well put together. Independent, secure, intelligent and a respected sourc
 
 Ayn, Baron and Tzipora all have a sense of grief in their lives, and none of them have much family of their own. It is perhaps this aspect that makes their bonds as strong as they are, navigating social and platonic bonds rather than ones of blood or romance. Ayn is well-read and an adept conversationalist, and shares with Tzipora long conversations about news and politics. She also has a penchant for interesting earrings and Bossanova music.
 </details>
-
-<style>
-h1 {
-	text-align: center;
-	font-size: 35pt;
-	margin-bottom: 2rem;
-}
-img {
-	margin-top: -4rem;
-	background: transparent;
-	height: 80px;
-}
-</style>

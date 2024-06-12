@@ -4,14 +4,10 @@ color: yellow
 
 toc: false
 meta: false
+info: false
 autonumbering: false
 type: blank
 ---
-<a href="/characters/">
-	<img class="portrait" src="/images/mastheads/characters/portraits/cobian.png">
-  </a>
-<h1>Cobian Queismesnah</h1>
-
 **Cobian** *lo Ro de Viviya* de **Queismesnah** is [Tzipora](/characters/tzipora)'s longtime friend and occasional girlfriend. Stern in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood.
 
 She has a close but tempestuous relationship with Tzipora, and a tepid connection with Tzipora's broader friend group. She is polite in the middle-class sense of the word; formal among strangers, gossipy among friends.
@@ -44,16 +40,3 @@ On the other hand, Cobian is also deeply empathetic and finds interest in new th
 
 Zelda has a stabilising effect on Cobian, rounding out some of her conservative instincts through Zelda's androgynous habits and far-fetched fascinations. But Zelda's big personality does not include much talking or grace, and in these deficiencies Cobian's social talent shines. Together they make a great pair, their neighbouring personalities aiding their best selves.
 </details>
-
-<style>
-h1 {
-	text-align: center;
-	font-size: 35pt;
-	margin-bottom: 2rem;
-}
-img {
-	margin-top: -4rem;
-	background: transparent;
-	height: 80px;
-}
-</style>

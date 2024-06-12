@@ -9,6 +9,7 @@
 :root {
   --background: 0.1;
   --gray-light: #f0f0f6;
+  --gray-100: #f0f0f6;
   --gray-200: #e5e5e5;
   --body-background: #ffffff;
   --font-color: #1d1d1f;
@@ -194,9 +195,13 @@ button.navbutton {
   padding: .5rem;
   cursor: pointer;
   outline: inherit;
-  font-size: 18px; }
+  font-size: 18px;
+  background: none;
+  border: none; }
   button.navbutton:hover {
-    color: inherit; }
+    color: inherit;
+    background: none;
+    border: none; }
   button.navbutton .navicon {
     margin: 0; }
 
@@ -448,23 +453,20 @@ a {
     color: var(--darker-text, var(--color-gray)); }
 
 button {
-  background: none;
-  display: inline-block;
-  color: var(--color-gray);
-  padding: 5px 0px;
-  width: 100%;
-  line-height: 1rem;
+  border-radius: .25rem;
+  font-weight: 500;
+  font-size: 1rem;
+  /* 16px */
+  line-height: 1.5rem;
+  /* 24px */
+  color: var(--highlight);
+  padding: .25rem;
+  border: 1px solid var(--highlight);
   cursor: pointer;
-  font-size: 14px;
-  text-decoration: none;
-  text-align: center;
-  position: relative;
-  box-sizing: border-box;
-  font-weight: 600;
-  border: 0px solid var(--color-gray);
-  border-radius: .25rem; }
+  background: transparent; }
   button:hover {
-    filter: brightness(65%); }
+    background-color: var(--highlight-background);
+    box-shadow: var(--highlight) solid 2px inset; }
 
 ::selection {
   background: var(--color-gray);
@@ -482,10 +484,7 @@ h6 {
   margin-bottom: 1rem; }
 
 h1 {
-  font-size: 1.5rem;
-  /* 24px */
-  line-height: 2rem;
-  /* 32px */ }
+  font-size: 2rem; }
 
 h2 {
   font-size: 1.375rem;
@@ -1567,6 +1566,10 @@ article blockquote {
   font-style: italic;
   font-size: 24px;
   line-height: 1.6;
+  border: none; }
+
+.note.gray {
+  background-color: var(--gray-100);
   border: none; }
 
 img {
