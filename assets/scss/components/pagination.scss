@@ -2,11 +2,17 @@
 
 .pagination {
   padding: 0;
+  width: 100%;
   margin: 0;
   list-style: none;
   text-align: center;
 
+  ul {
+    width: 100%;
+  }
+
   li {
+    @include text-lg;
     display: inline;
     margin: 0 .25rem;
 

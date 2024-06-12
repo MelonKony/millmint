@@ -49,7 +49,7 @@ By extension, any moneyless economy would be doomed to fail immediately on these
 
 This is where Vekllei distinguishes itself from employment overseas. Their required work is minimised by society at great expense, and the kinds of jobs people do are different to the kinds of jobs overseas. Their roles are both more important and less demanding, and employment has a huge social dynamic. Their jobs are important social indicators, and there's a lot of diversity in the Vekllei market. Ambitious people have paths to power, but many people find work in their community.
 
-{{<note panel>}}
+{{<note>}}
 **Example**
 
 A good analogy for the broad Vekllei attitude towards work might be schooling. School can be boring, tedious or painful, but it can also be rewarding, engaging and social. We don't get paid to go to school, because we have different motivations in attending.
@@ -67,7 +67,7 @@ Life is not that different, but it is improved in ordinary and meaningful ways. 
 
 If you assume "quality of life" refers to the material wealth of individual people, then Vekllei people are quite poor. But the absence of things is not simply a net negative; it can actually contribute positive aspects to people's lives:
 
-{{<note panel>}}
+{{<note>}}
 **Example**
 
 Very few Vekllei people have televisions, which are common in wealthy countries in this world. But in the place of the convenience of a television are social ways of consuming news and entertainment, through cinemas, radio and newspapers. Maybe the cliché of a generation raised by television has some truth to it.
@@ -89,7 +89,7 @@ Because they have to, but also because there is only so much else to do.
 
 Doing nothing feels great at first, but people are built for activity and if we don't fill our time, most of us get bored quickly. Vekllei people don't desire work, but lives feel empty without it. Keep in mind, of course, that work applies to all kinds of occupations, and not just the drudgery of waged labour.
 
-{{<note panel>}}
+{{<note>}}
 **Example**
 
 The lives of Vekllei people are not so different from other wealthy countries. They spend their childhoods in school figuring out what they're going to do with their lives.

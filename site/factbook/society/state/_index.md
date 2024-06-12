@@ -9,8 +9,8 @@ list: true
 aliases:
 - /state/
 ---
-{{<note>}}
-✿ Main article: *[The Government of Vekllei](/factbook/society/state/government/)*
+{{<note series>}}
+Read more: *[Commonwealth Government](/government/)*
 {{</note>}}
 
 {{<note panel>}}

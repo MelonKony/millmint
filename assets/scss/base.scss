@@ -155,7 +155,7 @@ a {
 button {
   @include radius-base;
   @include font-medium;
-  @include text-base;
+  @include text-sm;
   @include highlight;
   @include padding-1;
   @include highlight-border;
@@ -163,8 +163,14 @@ button {
   background: transparent;
 
   &:hover {
-    @include highlight-background;
+    @include font-color;
+    border: 1px solid var(--font-color);
     box-shadow: var(--highlight) solid 2px inset;
+  }
+
+  .centre {
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 

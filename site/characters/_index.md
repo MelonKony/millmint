@@ -5,6 +5,7 @@ icon: 🎎
 emoji: ¥
 color: yellow
 meta: false
+info: false
 
 autonumbering: false
 type: blank
@@ -17,7 +18,7 @@ aliases:
 {{< tab "Tzipora" >}}
 <img alt="picture of Tzipora" style="background-color: transparent;" src="/images/mastheads/characters/tzipora.png">
 
-<a href="/characters/tzipora/"><button>See all stories featuring Tzipora</button></a>
+<a href="/characters/tzipora/"><button class="centre">See all stories featuring Tzipora</button></a>
 
 **Tzipora** *lo Ula de Helette* **Azela**, often called **Zelda** by her friends, is the main character of this project. She was born in 2047 in Colombia, but lives in {{<link/vekllei>}} with Baron.
 

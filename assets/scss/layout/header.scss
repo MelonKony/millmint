@@ -188,7 +188,7 @@ header.info {
 	.meta {
 		display: grid;
 		grid-area: meta;
-		grid-template-columns: repeat(auto-fit, minmax(10px, max-content));
+		grid-template-columns: min-content auto;
 		grid-auto-flow: column;
 		grid-auto-rows: minmax(min-content, max-content);
 		grid-template-areas:

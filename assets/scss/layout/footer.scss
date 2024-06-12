@@ -61,6 +61,39 @@ nav.story {
 	color: var(--color-text-footer);
 }
 
+// MillMint breadcrumbs
+
+.breadcrumbs {
+  @include font-bold;
+  @include my-4;
+  @include radius-base;
+  background-color: var(--gray-100);
+  padding: 0.25rem 1rem 0.25rem 0.75rem;
+  box-sizing: border-box;
+
+  li {
+	@include text-sm;
+	@include font-medium;
+	@include font-color;
+	display: inline;
+	margin: 0.5rem 0 auto 0;
+	letter-spacing: -0.025em;
+	&+:before {
+	  padding: 8px;
+	  content: "›";
+	}
+  }
+
+  a {
+	@include font-color;
+	border-bottom: 1px solid transparent;
+	&:hover {
+	  border-bottom-color: var(--font-color);
+	  text-decoration: none;
+	}
+  }
+}
+
 // MillMint "Pill"
 
 .pill {

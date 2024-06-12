@@ -6,10 +6,10 @@ article blockquote {
 .note {
 	@include text-base;
 	@include my-2;
-	@include padding-2;
+	@include padding-4;
 	@include radius-base;
-	@include highlight-background;
-	@include highlight-border;
+	background: var(--gray-100);
+	border: none;
 	font-style: normal;
 
 	.text {
@@ -18,6 +18,8 @@ article blockquote {
 }
 
 .note.panel {
+	@include highlight-background;
+	@include highlight-border;
 	@include padding-4;
 
 	h1, h2, h3, h4, h5, h6 {
@@ -30,7 +32,10 @@ article blockquote {
 }
 
 .note.series {
+	@include highlight-border;
+	@include highlight-background;
 	@include background-diagonal;
+	@include padding-2;
 	display: grid;
 	grid-template-columns: 1.5rem 1fr;
   	grid-template-rows: 1fr;
@@ -50,6 +55,7 @@ article blockquote {
 }
 
 .note.link, .note.link {
+	@include highlight-border;
 	background: none;
 
 	h1, h2, h3, h4, h5, h6 {

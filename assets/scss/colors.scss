@@ -150,6 +150,7 @@ html[data-theme="light"] {
 
 html[data-theme="dark"] {
   --font-color: #{$gray-light};
+  --gray-100: #{$gray-light-dark};
   --highlight: #{$gray-heavy};
   --highlight-background: #{$gray-heavy-dark};
 
