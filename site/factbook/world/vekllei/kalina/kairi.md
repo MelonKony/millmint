@@ -1,5 +1,5 @@
 ---
-title: Kairi Republic
+title: Kairi
 fulltitle: Kairi Republic
 icon: 🌲
 logo: /svg/flags/4x3/kairi.svg

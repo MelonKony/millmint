@@ -4,7 +4,9 @@ fulltitle: Commonwealth Government
 icon: 🌸
 color: millmint
 list: true
+
 logo: /svg/crests/vekllei.svg
+fi: fi fi-min-vekllei fis
 
 type: blank
 

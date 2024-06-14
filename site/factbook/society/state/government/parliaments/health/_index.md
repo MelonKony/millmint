@@ -14,13 +14,13 @@ aliases:
  This *[parliament](/parliaments/)* is part of {{<link/vekllei>}}.
 {{</note>}}
 
-{{<boxtag>}}HELSEC{{</boxtag>}}
+<!--{{<boxtag>}}HELSEC{{</boxtag>}}-->
 
-{{<note>}}
-❀ Read more: <span class="smallicon">⚕️</span> *[Healthcare in Vekllei](/health/)*
+{{<note advice>}}
+Read more: {{<link/healthcare>}}
 {{</note>}}
 
-The Commonwealth Health Parliament is a secretariat of the Vekllei Commonwealth Government. It is lead by a First Secretary, who reports directly to the {{<link/cabinet>}}. In general, the Health Parliament legislates, finances and administers healthcare in Vekllei, particularly its comprehensive and universal public healthcare scheme.
+The Commonwealth Health Parliament is a [superior ministry](/parliaments/) of the {{<link/vekllei>}} {{<link/government>}}. It is lead by a First Secretary, who reports directly to the {{<link/cabinet>}}. In general, the Health Parliament legislates, finances and administers healthcare in Vekllei, particularly its comprehensive and universal public healthcare scheme.
 
 The system is highly centralised, with rigid care and administrative standards that are applied across all levels of public health. Innovations in healthcare, including an electronic nationwide patient database, help efficiency and ease the burden of care on ward staff. Vekllei public health is recognised as a quality and equitable system, with good outcomes for patients in its care. Its accessibility and universality of care contribute greatly to standards of health and quality of life in Commonwealth society.
 

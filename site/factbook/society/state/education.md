@@ -52,8 +52,8 @@ The distinguishing characteristics of the Atlantic Model are:
 
 ## Organisation
 
-{{<note>}}
-✿ Download <span class="smallicon">📄</span> [Document No. 7.pdf](/files/documents/7.pdf)
+{{<note advice>}}
+Download: <span class="smallicon">📄</span> [Document No. 7.pdf](/files/documents/7.pdf)
 {{</note>}}
 
 ![Image of Tzipora and Moise](/images/fullres/sami.jpg "The student uniform is heavily accessorised, and varies in detail to accomodate the culture of republics | *[Sami](/stories/sami/)*")
@@ -94,8 +94,8 @@ Vekllei offers a handful of boarding schools, which are usually specialised inst
 
 ## Education
 
-{{<note link>}}
-✿ Read more: {{<link/parliament-of-education>}}
+{{<note advice>}}
+Read more: {{<link/parliament-of-education>}}
 {{</note>}}
 
 Vekllei people are enrolled in 9 years of compulsory education. In addition, 3 years of pre-school and 3 years of senior secondary schooling are available but not compulsory.
@@ -158,8 +158,8 @@ The national curriculum is the common programme of study in all Commonwealth sch
 
 ## Uniform
 
-{{<note link>}}
-✿ Read more: *[Uniforms in Vekllei](/stories/uniforms/)*
+{{<note advice>}}
+Read more: *[Uniforms in Vekllei](/stories/uniforms/)*
 {{</note>}}
 
 ![Illustration of different ways of wearing the same school uniform](/images/generation.jpg "Examples of Vekllei school uniform and its functional diversity | [*A New Generation*](/stories/new-generation/)")

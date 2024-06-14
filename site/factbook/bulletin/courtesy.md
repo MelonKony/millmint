@@ -15,7 +15,7 @@ aliases:
 Part of the *[bulletin](/bulletin/)* series of articles
 {{</note>}}
 
-{{<note>}}
+{{<note panel>}}
 **Summary**
 
 * Some assume that an anarchist society operating within a [social economy](/social-economy/) would radically change social norms of hierarchy, language and relations.

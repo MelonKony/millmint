@@ -1,5 +1,5 @@
   ---
-title: Armed Forces of Vekllei
+title: Armed Forces
 fulltitle: Armed Forces of Vekllei
 icon: ⚔️
 color: defence

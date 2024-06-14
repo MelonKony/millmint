@@ -5,8 +5,6 @@ icon: 🌸
 logo: /svg/crests/vekllei.svg
 color: millmint
 
-type: blank
-
 aliases:
   - /parliaments/
 ---

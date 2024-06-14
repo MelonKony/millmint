@@ -15,7 +15,7 @@ aliases:
 Part of the *[bulletin](/bulletin/)* series of articles
 {{</note>}}
 
-{{<note>}}
+{{<note panel>}}
 **Summary**
 
 * Vekllei people like alcohol, and in their society it is widely available at no cost.

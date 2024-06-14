@@ -41,11 +41,6 @@
 
       <!-- ADD IMAGES TO SRC-SET -->
 
-      {{ if ge $image.Width "1500" }}
-      {{ $resized := $image.Resize "1500x q90 webp" }}
-      {{ $src_set = (print $src_set $resized.RelPermalink " 3x, ") }}
-      {{ end }}
-
       {{ $resized := $image.Resize "680x q90 webp" }}
       {{ $src_set = (print $src_set $resized.RelPermalink " 1x") }}
       {{ $fallback = $resized }}

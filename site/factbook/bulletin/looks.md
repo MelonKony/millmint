@@ -37,8 +37,8 @@ Of course, Oslola has undergone a series of catastrophic crises, and has changed
 
 Appended is a summarised table demonstrating the diversity across the Commonwealth, and their nominated ancestries of origin. A deeper breakdown can be found on the [demographics](/demographics/) article.
 
-{{<note>}}
-❀ Read more: <span class="smallicon">👨‍👩‍👧‍👦</span> *[Demographics of Vekllei](/demographics/)*
+{{<note advice>}}
+Read more: <span class="smallicon">👨‍👩‍👧‍👦</span> *[Demographics of Vekllei](/demographics/)*
 {{</note>}}
 
 {{<note panel>}}

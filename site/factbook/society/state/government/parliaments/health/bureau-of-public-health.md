@@ -14,12 +14,79 @@ aliases:
  This bureau is part of the {{<link/parliament-of-health>}}
 {{</note>}}
 
-The <span class="fi fi-min-health fis"></span> **Bureau of Public Health** is the administrative centre of public health in Vekllei, and coordinates policy between federal, national and municipal healthcare.
+The <span class="fi fi-min-health fis"></span> **Bureau of Public Health** administers the delivery of healthcare in {{<link/vekllei>}}. In some places, it provides healthcare services directly through hospitals. In others, it facilitates the operation of local healthcare districts by a [municipality](/municipalities/).
 
-## Health Accounting Office
+The bureau is vertically integrated, and administers all healthcare support services including ambulances, general practitioners, pharmacies, home care and logistics staff. In most cases, these are operated locally by a municipal healthcare district administered directly by the bureau.
 
-The Health Accounting Office (HAO) is the nationwide auditor of health service accounts. It uses costing exercises, modern commercial accounting and medicines industry liaisons to track waste and inefficiencies in the Vekllei health system. It is a statutory body that reports to the [National Health Council](#national-health-council), and contributes research and reports towards the costs of the health system.
+{{<note panel>}}
+## Executive Council
 
-## Health Finance Board
+* **Director**, {{<link/bureau-of-public-health>}}
+    * Secretary for Public Health
+        * Chief Medical Scientist
+        * Surgeon General
+        * Officer for Legal Services
+    * Secretary for Municipal Care
+    * Secretary for Primary Care
+        * Officer for Universal Care
+    * Secretary for Immunisation
+    * Secretary for Chronic Illness
+* **Director**, {{<link/bureau-of-health-services>}}
+* **Deputy Director**, {{<link/MSRE>}}
+* **Deputy Minister**, {{<link/parliament-of-health>}}
+* **Parliamentary Representative**, {{<link/parliament-of-health>}}
+{{</note>}}
 
-The Health Finance Board is a research office that calculates cost estimates for the operation of the public health system, as well as proposed expansions and initiatives. It supplies the HAO with budget estimates and reports detailing the.
+{{<note panel>}}
+## Departments
+* **General Headquarters**
+    * Office of the Director
+    * Office of the Chief Medical Scientist
+    * Office of the Surgeon General
+    * Office of Parliamentary Services
+    * Office of Legal Services
+    * Office of Communications
+    * Office of Culture & Personnel
+    * Office of Labour & Recruitment
+* **Department of Municipal Care**
+    * Office of Network Strategy
+    * Office of Emergency Response
+    * Office of Patient Engagement
+    * North Commonwealth Health Administration
+    * South Commonwealth Health Administration
+    * East Commonwealth Health Administration
+    * West Commonwealth Health Administration
+* **Department of Primary Care**
+    * Office of Hospitals & Clinics
+    * Office of Primary Care Services
+    * Office of Primary Care Infrastructure
+    * Office of Primary Care Analysis & Renewal
+    * Office of Universal Care
+    * Office of Urgent Care Clinics
+* **Department of Population Health**
+    * Office of the Health Democracy Commission Liaison
+    * Office of Health Equity
+* **Department of Chronic Illness**
+    * Office of Cancer Screening
+    * Office of Newborn Screening
+    * Office of Palliative Care
+    * Office of Hearing Services
+    * Office of Disability Services
+* **Department of Immunisation**
+    * Office of Immunisation Supply
+    * Office of Immunisation Access & Compliance
+    * Office of Immunisation Analysis & Renewal
+* **Department of Psychological Services**
+    * Office of Children & Vulnerable Populations
+    * Office of Psychiatry & Therapeutical Services
+    * Office of Suicide Prevention
+    * National Trauma Health Centre
+
+{{</note>}}
+
+{{<note panel>}}
+## Boards & Commissions
+
+* **National Genomics Laboratories**: Specialist hospital for gene research and treatment.
+* **National Regional Health Commission**: Independent commission auditing the quality and accessibility of regional healthcare.
+{{</note>}}

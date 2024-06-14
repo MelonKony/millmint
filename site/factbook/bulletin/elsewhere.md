@@ -15,7 +15,7 @@ aliases:
 Part of the *[bulletin](/bulletin/)* series of articles
 {{</note>}}
 
-{{<note>}}
+{{<note panel>}}
 **Summary**
 
 * The [commons](/social-economy/) is a pretty remarkable thing. It has improved life satisfaction, productivity, and quality of life for people in Vekllei.

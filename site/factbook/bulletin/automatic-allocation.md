@@ -15,7 +15,7 @@ aliases:
 Part of the *[bulletin](/bulletin/)* series of articles
 {{</note>}}
 
-{{<note>}}
+{{<note panel>}}
 **Summary**
 
 * In most economies, high rates of investment into production factors (infrastructure, talent, research & development) produce high-value products that are able to provide returns.

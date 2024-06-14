@@ -54,6 +54,29 @@ article blockquote {
 	}
 }
 
+.note.advice {
+	@include highlight-border;
+	@include highlight-background;
+	@include highlight;
+	@include padding-2;
+	background: transparent;
+	display: grid;
+	grid-template-columns: 1.5rem 1fr;
+	  grid-template-rows: 1fr;
+	  gap: 0px 0px;
+	  grid-template-areas:
+		"icon text";
+	&::before {
+		font-size: 18px;
+		content: '❀';
+		align-self: center;
+		grid-area: icon;
+	}
+	.text {
+		grid-area: text;
+	}
+}
+
 .note.link, .note.link {
 	@include highlight-border;
 	background: none;

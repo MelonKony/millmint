@@ -83,7 +83,7 @@ html[data-theme="dark"] {
   --color-text-secondary: #8b8b8b;
   --color-text-footer: #a3a3a3;
   --color-border: #737373;
-  --body-background: #171717;
+  --body-background: #0f0f12;
   --color-background-overlay: #404040;
   --color-background-inline-code: #525252;
   --color-background-card: #404040;
@@ -706,10 +706,6 @@ article {
     margin-top: 1rem;
     margin-bottom: 1rem;
     text-align: center; }
-    @media screen and (min-width: 45rem) {
-      article figure {
-        margin-left: -1.25rem;
-        margin-right: -1.25rem; } }
   article img {
     margin-left: auto;
     margin-right: auto;
@@ -1541,6 +1537,25 @@ article blockquote {
     align-self: center;
     grid-area: icon; }
   .note.series .text {
+    grid-area: text; }
+
+.note.advice {
+  border: 1px solid var(--highlight);
+  background-color: var(--highlight-background);
+  color: var(--highlight);
+  padding: .5rem;
+  background: transparent;
+  display: grid;
+  grid-template-columns: 1.5rem 1fr;
+  grid-template-rows: 1fr;
+  gap: 0px 0px;
+  grid-template-areas: "icon text"; }
+  .note.advice::before {
+    font-size: 18px;
+    content: '❀';
+    align-self: center;
+    grid-area: icon; }
+  .note.advice .text {
     grid-area: text; }
 
 .note.link, .note.link {

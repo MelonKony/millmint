@@ -30,6 +30,7 @@ The bureau also owns the {{<link/nch>}} (NCH), the largest construction firm in 
 		* Officer for Automatic Construction
 * **Assistant Minister**, {{<link/ministry-of-the-commons>}}
 * **Assistant Director**, {{<link/bureau-of-housing>}}
+* **Secretary for Infrastructure**, {{<link/bureau-of-health-services>}}
 * **Officer for Government Expenditure**, {{<link/treasury>}}
 * **Vice Chairman**, {{<link/housing-commission>}}
 * **Chairman**, Vekllei Board of Architects

@@ -29,8 +29,8 @@ The current system has good outcomes, and its public services are widely availab
 
 ## Services
 
-{{<note>}}
-❀ Read more: *[Health Vekllei](/stories/health/)*
+{{<note advice>}}
+Read more: *[Health Vekllei](/stories/health/)*
 {{</note>}}
 
 There are 540 hospitals in Vekllei with a total of 80,000 beds.
@@ -68,8 +68,8 @@ Healthcare delivery costs are often opaque in Vekllei's integrated health system
 
 ## Role of Government
 
-{{<note>}}
-✿ Main article: <span class="smallicon">⚕️</span> *[Commownealth Health Council](/helsec/)*
+{{<note advice>}}
+Main article: {{<link/parliament-of-health>}}
 {{</note>}}
 
 Public healthcare is integrated into Vekllei's cascading federal system. National Health Authorities (NHAs) are tasked with local policy and the delivery of most care, including health promotion programmes and the administration of hospitals. The federal Health Secretariat designs commonwealth policy, and conducts most health planning and research. The federal health authorities also purchase foreign imports necessary for domestic healthcare, including the Community Pharmacy Agreements (CPA) which negotiate foreign medicine prices.
