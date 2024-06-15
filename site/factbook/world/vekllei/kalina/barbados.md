@@ -21,6 +21,7 @@ aliases:
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/barbados.svg"
 	 SmallFlag="/svg/flags/4x3/bb.svg"
+	 Locator="/svg/maps/locator/bb.png"
 	 Population="1,420,421"
 	 Capital="Indian Bridge"
 	 Languages="English, Bajan Creole"

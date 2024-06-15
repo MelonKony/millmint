@@ -21,6 +21,7 @@ aliases:
 	 Commonwealth="Volcanic"
 	 Flag="/svg/flags/oslola.svg"
 	 SmallFlag="/svg/flags/4x3/oslola.svg"
+	 Locator="/svg/maps/locator/oslola.png"
 	 Capital="Oslola"
 	 Population="8,131,426"
 	 Languages="Oslolan Algic, English, Oslolan Islandi"

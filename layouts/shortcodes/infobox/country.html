@@ -37,6 +37,16 @@
 	</tr>
 	{{ end }}
 
+	{{ if (.Get "Locator") }}
+	<a src="{{.Get "Locator"}}">
+	<tr>
+		<td colspan="2">
+			<img src="{{.Get "Locator"}}">
+		</td>
+	</tr>
+	</a>
+	{{ end }}
+
 	{{ if eq (.Get "Commonwealth") "Antarctica" }}
 	<tr>
 		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of <a style="color: var(--color-blue)" href="/antarctic/"><span class="fi fi-antarctic"></span> Commonwealth Antarctica</a></td>

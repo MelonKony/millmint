@@ -21,6 +21,7 @@ aliases:
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/cama.svg"
 	 SmallFlag="/svg/flags/4x3/gd.svg"
+	 Locator="/svg/maps/locator/gr.png"
 	 Population="454,820"
 	 Capital="Assumpción"
 	 Languages="English, Cama Creole, French"

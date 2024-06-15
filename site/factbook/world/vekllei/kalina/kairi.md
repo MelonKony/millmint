@@ -21,6 +21,7 @@ aliases:
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/kairi.svg"
 	 SmallFlag="/svg/flags/4x3/kairi.svg"
+	 Locator="/svg/maps/locator/kairi.png"
 	 Population="2,480,384"
 	 Capital="Conquerabia"
 	 Languages="English, Creole, Hindustani, Spanish"

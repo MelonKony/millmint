@@ -21,6 +21,7 @@ aliases:
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/virgin.svg"
 	 SmallFlag="/svg/flags/4x3/vg.svg"
+	 Locator="/svg/maps/locator/vg.png"
 	 Population="182,295"
 	 Capital="Roadie (administrative)"
 	 Languages="English, French, Spanish"
