@@ -4,6 +4,7 @@ fulltitle: Ministry of Labour
 icon: ⛏️
 logo: /svg/crests/ministry-of-labour.svg
 color: labour
+series: ministry
 
 fi: fi fi-min-labour fis
 

@@ -1,7 +1,6 @@
 {{ $enable_line_no := (.Scratch.Get "params").syntax_highlight.prism.enable_line_no | default true }}
 {{ partial "components/articles/article-header" . }}
 {{ partial "toc.html" . }}
-{{ partial "components/series.html" . }}
 
 <article {{- if .Param "autonumbering" | default true }} autonumbering {{- end }}>
     {{- partial "components/articles/article-params.html" . -}}

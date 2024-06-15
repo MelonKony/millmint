@@ -1,22 +1,16 @@
-{{ if .Params.series }}
-<details style="margin-left:0px" class="series" {{ if .Params.seriesOpened | default (.Site.Params.article.seriesOpened | default false) }} open {{ end }}>
-	<summary
-		class="series-summary">
-		<span class="navicon">🔖</span>{{ index .Params.series 0 }}
-	</summary>
-	{{ range $post := sort (index .Site.Taxonomies.series (index .Params.series 0 | urlize)) "Params.series_order" }}
-	{{ if eq $post.Permalink $.Page.Permalink }}
-	<div>
-		Part {{ $post.Params.series_order }}: This Article
-	</div>
-	{{ else }}
-	<div>
-		<a href="{{$post.Permalink}}">
-			Part {{ $post.Params.series_order }}: {{ $post.Params.title}}
-		</a>
-	</div>
-	{{end}}
-	{{end}}
+{{ if in .Params.series "republic" }}
+<a href="/republics/">Constituent Republic</a>
+{{ end }}
+{{ if in .Params.series "commonwealth" }}
+<a href="/constituents/">Constituent Commonwealth</a>
+{{ end }}
+{{ if in .Params.series "vekllei" }}
+<a href="/intro/">Union of Atlantic Communities</a>
+{{ end }}
 
-</details>
-{{end}}
+{{ if in .Params.series "ministry" }}
+<a href="/ministries/">Commonwealth Ministry</a>
+{{ end }}
+{{ if in .Params.series "bureau" }}
+<a href="/government-bureaus/">Government Bureau</a>
+{{ end }}

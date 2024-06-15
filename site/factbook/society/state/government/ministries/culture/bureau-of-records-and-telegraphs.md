@@ -4,6 +4,7 @@ fulltitle: Bureau of Records & Telegraphs
 icon: 🏛️
 logo: /svg/crests/ministry-of-culture.svg
 color: culture
+series: bureau
 
 fi: fi fi-min-culture fis
 

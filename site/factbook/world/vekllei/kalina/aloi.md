@@ -3,6 +3,7 @@ title: Aloi Republic
 fulltitle: Aloi Republic
 icon: 🐠
 logo: /svg/flags/4x3/aloi.svg
+series: republic
 
 rgb: 48, 99, 172
 

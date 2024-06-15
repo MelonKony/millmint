@@ -3,6 +3,7 @@ title: Barbados Republic
 fulltitle: Barbados Republic
 icon: 🔱
 logo: /svg/flags/4x3/bb.svg
+series: republic
 
 rgb: 255, 37, 37
 

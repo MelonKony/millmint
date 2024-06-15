@@ -3,6 +3,7 @@ title: Aismious
 fulltitle: Aismious
 icon: 🐏
 logo: /svg/flags/4x3/fo.svg
+series: republic
 
 rgb: 67, 101, 187
 

@@ -4,6 +4,7 @@ fulltitle: Bureau of Oceans
 icon: 🏛️
 color: commons
 logo: /svg/crests/ministry-of-the-commons.svg
+series: bureau
 
 fi: fi fi-min-commons fis
 

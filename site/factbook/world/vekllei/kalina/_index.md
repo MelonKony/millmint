@@ -4,6 +4,7 @@ fulltitle: Commonwealth Kalina
 icon: 🌹
 logo: /svg/flags/4x3/kalina.svg
 color: blue
+series: commonwealth
 
 fi: fi fi-kalina
 

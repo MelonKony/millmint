@@ -3,6 +3,7 @@ title: Oslola
 fulltitle: Oslola
 icon: 🌋
 logo: /svg/flags/4x3/oslola.svg
+series: republic
 
 rgb: 88, 90, 190
 

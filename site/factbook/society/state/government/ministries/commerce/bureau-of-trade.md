@@ -5,6 +5,7 @@ icon: 🏛️
 color: commerce
 logo: /svg/crests/ministry-of-commerce.svg
 autonumbering: false
+series: bureau
 
 fi: fi fi-min-commerce fis
 

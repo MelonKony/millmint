@@ -4,6 +4,7 @@ fulltitle: Bureau of Commonwealth Corporations
 icon: 🏛️
 color: commonwealth
 logo: /svg/crests/ministry-of-the-commonwealth.svg
+series: bureau
 
 fi: fi fi-min-commonwealth fis
 

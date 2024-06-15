@@ -1705,12 +1705,12 @@ img.page {
   /* 14px */
   line-height: 1.25rem;
   /* 20px */
-  font-weight: 600;
   color: var(--gray-heavy);
+  font-style: italic;
   grid-area: category;
   text-transform: capitalize; }
   .article-category a {
-    color: #1d1d1f; }
+    color: var(--gray-heavy); }
 
 .tag {
   padding: 0;

@@ -4,6 +4,7 @@ fulltitle: Ministry of Defence
 icon: ⚔️
 color: defence
 logo: /svg/crests/ministry-of-defence.svg
+series: ministry
 
 fi: fi fi-min-defence fis
 

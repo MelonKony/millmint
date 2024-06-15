@@ -4,6 +4,7 @@ fulltitle: Ministry of Landscape
 icon: 🌋
 color: landscape
 logo: /svg/crests/ministry-of-landscape.svg
+series: ministry
 
 fi: fi fi-min-landscape fis
 

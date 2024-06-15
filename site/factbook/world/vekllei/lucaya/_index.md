@@ -4,6 +4,7 @@ fulltitle: Commonwealth of Lucaya
 icon: 🌹
 logo: /svg/flags/4x3/com.svg
 color: pink
+series: commonwealth
 
 fi: fi fi-lucaya
 

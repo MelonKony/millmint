@@ -4,6 +4,7 @@ fulltitle: Ministry of Industry
 icon: ⚙️
 logo: /svg/crests/ministry-of-industry.svg
 color: industry
+series: ministry
 
 fi: fi fi-min-industry fis
 

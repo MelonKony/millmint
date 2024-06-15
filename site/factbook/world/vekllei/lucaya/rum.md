@@ -3,6 +3,7 @@ title: Rum Republic
 fulltitle: Rum Republic
 icon: 🍹
 logo: /svg/flags/4x3/rum.svg
+series: republic
 
 rgb: 57, 122, 205
 

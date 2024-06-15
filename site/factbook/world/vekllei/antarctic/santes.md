@@ -3,6 +3,7 @@ title: Santes Republic
 fulltitle: Santes Republic
 icon: 🦞
 logo: /svg/flags/4x3/santes.svg
+series: republic
 
 rgb: 211, 45, 71
 

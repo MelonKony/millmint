@@ -3,6 +3,7 @@ title: Sude Republic
 fulltitle: Sude Republic
 icon: 🎣
 logo: /svg/flags/4x3/gs.svg
+series: republic
 
 rgb: 60, 122, 184
 

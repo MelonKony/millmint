@@ -3,6 +3,7 @@ title: Bahamas
 fulltitle: Bahamas
 icon: 🌴
 logo: /svg/bahamas.svg
+series: republic
 
 rgb: 223, 39, 72
 

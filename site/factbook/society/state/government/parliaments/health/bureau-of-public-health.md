@@ -3,6 +3,7 @@ title: Bureau of Public Health
 fulltitle: Bureau of Public Health
 icon: 🏛️
 color: health
+series: bureau
 
 logo: /svg/crests/parliament/health.svg
 fi: fi fi-min-health fis

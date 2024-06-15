@@ -4,6 +4,7 @@ fulltitle: Bureau of War
 icon: 🏛️
 color: defence
 logo: /svg/crests/ministry-of-defence.svg
+series: bureau
 
 fi: fi fi-min-defence fis
 

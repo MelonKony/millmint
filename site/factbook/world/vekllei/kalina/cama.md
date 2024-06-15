@@ -3,6 +3,7 @@ title: Cama Republic
 fulltitle: Cama Republic
 icon: 🌶️
 logo: /svg/flags/4x3/gd.svg
+series: republic
 
 rgb: 2, 123, 93
 

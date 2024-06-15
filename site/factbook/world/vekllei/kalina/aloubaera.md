@@ -3,6 +3,7 @@ title: Aloubaera Republic
 fulltitle: Aloubaera Republic
 icon: 🌲
 logo: /svg/flags/4x3/aloubaera.svg
+series: republic
 
 rgb: 46, 114, 225
 

@@ -3,6 +3,7 @@ title: Anguilla Republic
 fulltitle: Anguilla Republic
 icon: 🐬
 logo: /svg/flags/4x3/ai.svg
+series: republic
 
 rgb: 249, 150, 50
 
@@ -21,6 +22,7 @@ aliases:
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/anguilla.svg"
 	 SmallFlag="/svg/flags/4x3/ai.svg"
+	 Locator="/svg/maps/locator/ai.png"
 	 Population="35,722"
 	 Capital="The Valley"
 	 Languages="English, Arawak Creole"

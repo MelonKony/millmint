@@ -3,6 +3,7 @@ title: Allia Republic
 fulltitle: Allia Republic
 icon: ☘️
 logo: /svg/flags/4x3/ms.svg
+series: republic
 
 rgb: 6, 136, 72
 

@@ -3,6 +3,7 @@ title: Caimanas
 fulltitle: Caimanas
 icon: 🌴
 logo: /svg/flags/caimanas.svg
+series: republic
 
 rgb: 60, 106, 217
 

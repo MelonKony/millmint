@@ -4,6 +4,7 @@ fulltitle: Ministry of Culture
 icon: 🎨
 logo: /svg/crests/ministry-of-culture.svg
 color: culture
+series: ministry
 
 fi: fi fi-min-culture fis
 

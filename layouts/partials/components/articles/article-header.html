@@ -14,8 +14,11 @@
       {{ partial "components/headcrumbs.html" . }}
       {{ end }}
     </div>
-    <div class="article-category">MillMint</div>
-    <!--<div class="article-category">{{ .Lastmod.Format "02.01.2006" }}</div>-->
+    {{ if .Params.series }}
+    <div class="article-category">{{ partial "components/series.html" . }}</div>
+    {{ else }}
+    <div class="article-category">{{ .Params.series | default "MillMint"}}</div>
+    {{ end }}
   </div>
   {{ end }}
 

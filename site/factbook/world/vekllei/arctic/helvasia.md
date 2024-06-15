@@ -3,6 +3,7 @@ title: Helvasia Republic
 fulltitle: Helvasia Republic
 icon: 🐻‍❄️
 logo: /svg/flags/4x3/sj.svg
+series: republic
 
 rgb: 219, 2, 3
 

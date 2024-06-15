@@ -4,6 +4,7 @@ fulltitle: Volcanic Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/volcanic.svg
 color: blue
+series: commonwealth
 
 type: blank
 

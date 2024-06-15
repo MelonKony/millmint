@@ -5,6 +5,7 @@ icon: 💰
 rgb: 2, 121, 190
 logo: /svg/logos/commsec.svg
 autonumbering: false
+series: bureau
 
 fi: fi fi-min-commsec fis
 

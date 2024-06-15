@@ -3,6 +3,7 @@ title: Verde Republic
 fulltitle: Verde Republic
 icon: 🦅
 logo: /svg/flags/4x3/verde.svg
+series: republic
 
 rgb: 33, 131, 67
 

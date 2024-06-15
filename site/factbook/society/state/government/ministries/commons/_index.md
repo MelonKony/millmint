@@ -4,6 +4,7 @@ fulltitle: Ministry of the Commons
 icon: 🏡
 color: commons
 logo: /svg/crests/ministry-of-the-commons.svg
+series: ministry
 
 fi: fi fi-min-commons fis
 

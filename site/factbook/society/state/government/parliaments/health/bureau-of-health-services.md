@@ -3,6 +3,7 @@ title: Bureau of Health Services
 fulltitle: Bureau of Health Services
 icon: 🏛️
 color: health
+series: bureau
 
 logo: /svg/crests/parliament/health.svg
 fi: fi fi-min-health fis

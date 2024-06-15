@@ -21,13 +21,13 @@ img.page {
 
 .article-category {
   @include text-sm;
-  @include font-semibold;
   color: var(--gray-heavy);
+  font-style: italic;
   grid-area: category;
   text-transform: capitalize;
 
   a {
-    color: $font-color;
+    color: var(--gray-heavy);
   }
 }
 

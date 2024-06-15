@@ -4,6 +4,7 @@ fulltitle: Bureau of Meteorology
 icon: 🏛️
 color: landscape
 logo: /svg/crests/ministry-of-landscape.svg
+series: bureau
 
 fi: fi fi-min-landscape fis
 

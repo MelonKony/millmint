@@ -4,6 +4,7 @@ fulltitle: Bureau of Hydrocarbons
 icon: 🏛️
 logo: /svg/crests/ministry-of-industry.svg
 color: industry
+series: bureaus
 
 fi: fi fi-min-industry fis
 

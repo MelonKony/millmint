@@ -4,6 +4,7 @@ fulltitle: Bureau of Water
 icon: 🏛️
 color: lightandwater
 logo: /svg/crests/ministry-of-light-and-water.svg
+series: bureau
 
 fi: fi fi-min-light-and-water fis
 

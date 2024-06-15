@@ -4,6 +4,7 @@ fulltitle: Ministry of the Commonwealth
 icon: 🌐
 color: commonwealth
 logo: /svg/crests/ministry-of-the-commonwealth.svg
+series: ministry
 
 fi: fi fi-min-commonwealth fis
 

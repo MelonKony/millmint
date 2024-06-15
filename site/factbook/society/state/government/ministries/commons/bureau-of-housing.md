@@ -5,6 +5,7 @@ icon: 🏛️
 color: commons
 logo: /svg/crests/ministry-of-the-commons.svg
 autonumbering: false
+series: bureau
 
 fi: fi fi-min-commons fis
 

@@ -4,6 +4,7 @@ fulltitle: Bureau of Public Education
 icon: 🏛️
 logo: /svg/crests/parliament/education.svg
 color: education
+series: bureau
 
 fi: fi fi-min-education fis
 

@@ -4,6 +4,7 @@ fulltitle: Bureau of Production Surveillance
 icon: 🏛️
 logo: /svg/crests/ministry-of-industry.svg
 color: industry
+series: bureau
 
 fi: fi fi-min-industry fis
 

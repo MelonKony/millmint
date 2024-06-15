@@ -4,6 +4,7 @@ fulltitle: Ministry of Foreign Affairs
 icon: 🌍
 color: foreignaffairs
 logo: /svg/crests/ministry-of-foreign-affairs.svg
+series: ministry
 
 fi: fi fi-min-foreign-affairs fis
 

@@ -3,6 +3,7 @@ title: Virgin Republic
 fulltitle: Virgin Republic
 icon: 🛢️
 logo: /svg/flags/4x3/vg.svg
+series: republic
 
 rgb: 241, 112, 30
 

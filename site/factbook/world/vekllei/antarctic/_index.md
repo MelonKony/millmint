@@ -4,6 +4,7 @@ fulltitle: Commonwealth Antarctica
 icon: 🌹
 logo: /svg/flags/4x3/antarctic.svg
 color: blue
+series: commonwealth
 
 fi: fi fi-antarctic
 

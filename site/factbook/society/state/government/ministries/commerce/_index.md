@@ -4,6 +4,7 @@ fulltitle: Ministry of Commerce
 icon: 💵
 color: commerce
 logo: /svg/crests/ministry-of-commerce.svg
+series: ministry
 
 fi: fi fi-min-commerce fis
 
