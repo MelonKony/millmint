@@ -24,7 +24,7 @@ aliases:
 
 Though born to Vekllei parents, she was raised overseas in Colombia and was later educated in the United States. Since her arrival in Vekllei, she has returned to school and has formed sincere and close friendships, stabilising the more neurotic and anxious parts of her personality.
 
-{{<note>}}
+{{<note panel>}}
 * **<span class="navicon">💬</span> Name**: Tzipora "Zelda" Azela
 * **<span class="navicon">💼</span> Occupation**: Student
 * **<span class="navicon">🏠</span> Residence**: Seispri, Borough of Lola, {{<link/oslola>}}, {{<link/vekllei>}}
@@ -59,7 +59,7 @@ Tzipora may be intense and inward-facing, but she can also be disarmingly charmi
 
 She has a close but tempestuous relationship with Tzipora, and a tepid connection with Tzipora's broader friend group. She is polite in the middle-class sense of the word; formal among strangers, gossipy among friends.
 
-{{<note>}}
+{{<note panel>}}
 * **<span class="navicon">💬</span> Name**: Cobian Queismesnah
 * **<span class="navicon">💼</span> Occupation**: Student
 * **<span class="navicon">🏠</span> Residence**: Alveg, Borough of Lola, {{<link/oslola>}}, {{<link/vekllei>}}
@@ -94,7 +94,7 @@ Zelda has a stabilising effect on Cobian, rounding out some of her conservative 
 
 Baron has spent most of his life abroad in some capacity in service of his government, and has few personal connections in {{<link/vekllei>}}. He is a distant and serious person, but also mild and unopinionated. He is good at what he does.
 
-{{<note>}}
+{{<note panel>}}
 * **<span class="navicon">💬</span> Name**: Baron Azela
 * **<span class="navicon">💼</span> Occupation**: Director of Operations, Section 12, Home Office at National Intelligence
 * **<span class="navicon">🏠</span> Residence**: Seispri, Borough of Lola, {{<link/oslola>}}, {{<link/vekllei>}}
@@ -127,7 +127,7 @@ He has a warm, platonic relationship with Ayn, who completes their household. Th
 
 She was once engaged to Baron's friend and comrade George Angelopoulos, who perished in the {{<link/haiti>}} Intervention. She has remained unmarried and lives a social, if solitary life with a circle of close friends. Upon Tzipora's arrival in {{<link/vekllei>}}, she reconnects with Baron.
 
-{{<note>}}
+{{<note panel>}}
 * **<span class="navicon">💬</span> Name**: Ayn Lai-Lebedev
 * **<span class="navicon">💼</span> Occupation**: Strategic Analysis Officer, Section 8, Home Office at National Intelligence
 * **<span class="navicon">🏠</span> Residence**: Nike, Borough of the Great Coast, {{<link/oslola>}}, {{<link/vekllei>}}
@@ -160,7 +160,7 @@ Ayn, Baron and Tzipora all have a sense of grief in their lives, and none of the
 
 Imposing in both attitude and posture, Moise is feared and respected among his peers, an unfortunate social situation that enables his renowned temper. An agitator and occasional victim of his strength, Moise is tempered by Tzipora's inwardness and Coretti's good-naturedness. He lives with his sister and father in Seispri, and has no relationship with his mother, who remains in Greece.
 
-{{<note>}}
+{{<note panel>}}
 * **<span class="navicon">💬</span> Name**: Moise Hasapis
 * **<span class="navicon">💼</span> Occupation**: Student
 * **<span class="navicon">🏠</span> Residence**: Seispri, Borough of Lola, {{<link/oslola>}}, {{<link/vekllei>}}
@@ -191,7 +191,7 @@ He dislikes his parents and is protective over his younger sister, Penelope. He 
 
 She is sensitive and diplomatic, and is well-liked for her sense of justice and impartiality. Her relationship with Moise brings her into Tzipora's circle, and her unprejudiced curiosity and social grace are traits her peers admire. She has a friendly, if unusual bond with Tzipora.
 
-{{<note>}}
+{{<note panel>}}
 * **<span class="navicon">💬</span> Name**: Coretti Gloria Adoula
 * **<span class="navicon">💼</span> Occupation**: Student
 * **<span class="navicon">🏠</span> Residence**: Camro, Borough of Lola, {{<link/oslola>}}, {{<link/vekllei>}}
@@ -224,7 +224,7 @@ Despite her apparent differences in temperament with her boyfriend Moise, Corett
 
 Like Tzipora, Zhi is a recent immigrant and despises her parents for uprooting her life to live in {{<link/vekllei>}}, from which she has retreated into traditionally Chinese cultural dress and signals. Tzipora is fascinated by her. Cobian and Coretti fear her.
 
-{{<note>}}
+{{<note panel>}}
 * **<span class="navicon">💬</span> Name**: Lin Zhi
 * **<span class="navicon">💼</span> Occupation**: Student
 * **<span class="navicon">🏠</span> Residence**: Cossack, Borough of the Great Coast, {{<link/oslola>}}, {{<link/vekllei>}}
