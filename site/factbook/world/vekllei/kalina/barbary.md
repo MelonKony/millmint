@@ -2,7 +2,7 @@
 title: Barbary
 fulltitle: Barbary Republic
 icon: 🪸
-logo: /svg/flags/4x3/Barbary.svg
+logo: /svg/flags/4x3/barbary.svg
 series: republic
 
 rgb: 110, 110, 110
