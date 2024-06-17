@@ -1,5 +1,5 @@
 ---
-title: Summers Republic
+title: Summers
 fulltitle: Summers Republic
 icon: 🦀
 logo: /svg/flags/summers.svg

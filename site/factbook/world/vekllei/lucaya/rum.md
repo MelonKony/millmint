@@ -1,5 +1,5 @@
 ---
-title: Rum Republic
+title: Rum
 fulltitle: Rum Republic
 icon: 🍹
 logo: /svg/flags/4x3/rum.svg

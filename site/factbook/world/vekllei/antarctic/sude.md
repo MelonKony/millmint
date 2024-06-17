@@ -1,5 +1,5 @@
 ---
-title: Sude Republic
+title: Sude
 fulltitle: Sude Republic
 icon: 🎣
 logo: /svg/flags/4x3/gs.svg

@@ -1,5 +1,5 @@
 ---
-title: Barbados Republic
+title: Barbados
 fulltitle: Barbados Republic
 icon: 🔱
 logo: /svg/flags/4x3/bb.svg

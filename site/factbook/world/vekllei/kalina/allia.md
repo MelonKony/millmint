@@ -1,5 +1,5 @@
 ---
-title: Allia Republic
+title: Allia
 fulltitle: Allia Republic
 icon: ☘️
 logo: /svg/flags/4x3/ms.svg
@@ -29,7 +29,7 @@ aliases:
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 
-The <span class="fi fi-ms"></span> **Allia Republic** is a [constituent republic](/republics/) in the Caribbean Sea, and part of the Lesser Antilles island chain that make up the Kalina Commonwealth, which is part of {{<link/vekllei>}}. Its closest neighbour, Antam, is just under 50km to its northeast.
+The <span class="fi fi-ms"></span> **Allia Republic** is a [constituent republic](/republics/) in the Caribbean Sea, and part of the Lesser Antilles island chain that make up the Kalina Commonwealth, which is part of {{<link/vekllei>}}. Its closest neighbour, {{<link/antigua>}}, is just under 50km to its northeast.
 
 Often called the "Emerald Isle" of the Caribbean, Allia's history and culture is heavily influenced by British settlement of indebted and enslaved Irish and African peoples, whose descendants make up almost all of the 16,000 people who live there today. Like all Vekllei [republics](/republics/), the language of government and business is English, but Alliot households speak Irish primarily and many speak Allia Creole, a combination of Irish and indigenous Kalinago languages influenced by neighbouring islands. As such, Allia has the largest population of Irish speakers outside of Ireland. They are mostly Roman Catholic.
 

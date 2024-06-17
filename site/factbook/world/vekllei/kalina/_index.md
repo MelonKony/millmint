@@ -36,9 +36,9 @@ Commonwealth Kalina (*Vekllei Kalina*) is a [constituent commonwealth](/constitu
 * {{<link/aloi>}}
 * {{<link/aloubaera>}}
 * {{<link/anguilla>}}
-* Antam Republic
+* {{<link/antigua>}}
 * {{<link/barbados>}}
-* Barbuda Republic
+* {{<link/barbary>}}
 * {{<link/cama>}}
 * Karu Republic
 * Kabuli Republic

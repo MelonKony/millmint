@@ -1,5 +1,5 @@
 ---
-title: Cama Republic
+title: Cama
 fulltitle: Cama Republic
 icon: 🌶️
 logo: /svg/flags/4x3/gd.svg

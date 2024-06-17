@@ -1,5 +1,5 @@
 ---
-title: Santes Republic
+title: Santes
 fulltitle: Santes Republic
 icon: 🦞
 logo: /svg/flags/4x3/santes.svg

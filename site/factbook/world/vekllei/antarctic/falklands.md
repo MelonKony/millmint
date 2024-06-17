@@ -1,5 +1,5 @@
 ---
-title: Falklands Republic
+title: Falklands
 fulltitle: Falklands Republic
 icon: 🦀
 logo: /svg/flags/4x3/fk.svg

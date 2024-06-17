@@ -35,7 +35,7 @@ The decolonisation of the British Empire occurred around ten years prior to the 
 
 Vekllei regained independence in 2017, along with its expensive (and economically dependent) self-governing territories in Kala and Demon. These were followed by the {{<link/aismious>}} islands in 2020. By the time of independence, most of the British Caribbean had decolonised, including former Vekllei colonial possessions in the West Antilles liberated by the British after the war.
 
-Following the establishment of the 4th Commonwealth in 2017, the new republics of Angua, Antam, Barbuda, Liamuiga, Martin, Montesur and Oualie were federated into the Antilles Commonwealth. Composed of former Vekllei and British colonial possessions, the Antilles Commonwealth joined the 4th Commonwealth as an associate state in 2019 and received full membership in 2021.
+Following the establishment of the 4th Commonwealth in 2017, the new republics of Angua, {{<link/antigua>}}, Barbuda, Liamuiga, Martin, Montesur and Oualie were federated into the Antilles Commonwealth. Composed of former Vekllei and British colonial possessions, the Antilles Commonwealth joined the 4th Commonwealth as an associate state in 2019 and received full membership in 2021.
 
 The UK further reduced its military and naval presence in the Atlantic in the 2020s. With the exception of the Falklands, most remaining small and uninhabited islands in British possession were purchased by Vekllei with funds from the US aid package in 2021, including the South Georgia and Sandwich Islands, St Helena, Ascension, and Tristan de Cunha. These were leased under a military agreement with the UK government, and British forces remained on the South Georgia and Sandwich Islands until 2046.
 

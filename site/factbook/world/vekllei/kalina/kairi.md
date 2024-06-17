@@ -38,7 +38,7 @@ Kairi is the industrial heart of the Kalina island group and has substantial oil
 
 The capital of Conquerabia is home to {{<link/commoil>}} and the Cherry Automobile Plant, which manufactures consumer and commercial vehicles. {{<link/cateral>}}, the largest firearms manufacturer in Vekllei, is also headquartered there. The islands are well-serviced by a dense network of small trains and trams typical of the Vekllei Caribbean.
 
-Thanks to its relative wealth, development and ready accession with Commonwealth government, Kairi has long been an example republic of Vekllei governance and planning in the Caribbean. It is host to several international schools and missions, and contributes substantially to the overall prosperity of the Vekllei Caribbean. Kairi is the site of the original and main campus of the Commonwealth University of the West Indies, which ranks highly among national tertiary schools. It is also the administrative capital of the Kalina Commonwealth state.
+Thanks to its relative wealth, development and ready accession with Commonwealth government, Kairi has long been an example republic of Vekllei governance and planning in the Caribbean. It is host to several international schools and missions, and contributes substantially to the overall prosperity of the Vekllei Caribbean. Kairi is the site of the southern campus of the Commonwealth University of the West Indies, which ranks highly among national tertiary schools. It is also the administrative capital of the Kalina Commonwealth state.
 
 
 

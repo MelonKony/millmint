@@ -1,5 +1,5 @@
 ---
-title: Helvasia Republic
+title: Helvasia
 fulltitle: Helvasia Republic
 icon: 🐻‍❄️
 logo: /svg/flags/4x3/sj.svg

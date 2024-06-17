@@ -1,5 +1,5 @@
 ---
-title: Anguilla Republic
+title: Anguilla
 fulltitle: Anguilla Republic
 icon: 🐬
 logo: /svg/flags/4x3/ai.svg

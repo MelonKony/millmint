@@ -1,5 +1,5 @@
 ---
-title: Demon Republic
+title: Demon
 fulltitle: Republic of Demon
 icon: ⛪️
 logo: /svg/flags/4x3/demon.svg

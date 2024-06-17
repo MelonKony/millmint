@@ -1,5 +1,5 @@
 ---
-title: Verde Republic
+title: Verde
 fulltitle: Verde Republic
 icon: 🦅
 logo: /svg/flags/4x3/verde.svg

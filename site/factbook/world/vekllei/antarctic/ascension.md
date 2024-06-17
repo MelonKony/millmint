@@ -1,5 +1,5 @@
 ---
-title: Ascension Republic
+title: Ascension
 fulltitle: Ascension Republic
 icon: 🐢
 logo: /svg/flags/4x3/ac.svg

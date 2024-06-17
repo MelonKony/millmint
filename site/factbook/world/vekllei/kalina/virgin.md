@@ -1,5 +1,5 @@
 ---
-title: Virgin Republic
+title: Virgin
 fulltitle: Virgin Republic
 icon: 🛢️
 logo: /svg/flags/4x3/vg.svg

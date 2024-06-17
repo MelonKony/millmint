@@ -1,5 +1,5 @@
 ---
-title: Aloi Republic
+title: Aloi
 fulltitle: Aloi Republic
 icon: 🐠
 logo: /svg/flags/4x3/aloi.svg

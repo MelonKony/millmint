@@ -2884,6 +2884,18 @@ ol.timeline .event {
 .fi-aloi.fis {
   background-image: url(../svg/flags/1x1/aloi.svg); }
 
+.fi-antigua {
+  background-image: url(../svg/flags/4x3/antigua.svg); }
+
+.fi-antigua.fis {
+  background-image: url(../svg/flags/1x1/antigua.svg); }
+
+.fi-barbary {
+  background-image: url(../svg/flags/4x3/barbary.svg); }
+
+.fi-barbary.fis {
+  background-image: url(../svg/flags/1x1/barbary.svg); }
+
 .fi-bahamas {
   background-image: url(../svg/flags/4x3/bahamas.svg); }
 

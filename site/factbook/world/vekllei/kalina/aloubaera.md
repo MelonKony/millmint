@@ -1,5 +1,5 @@
 ---
-title: Aloubaera Republic
+title: Aloubaera
 fulltitle: Aloubaera Republic
 icon: 🌲
 logo: /svg/flags/4x3/aloubaera.svg

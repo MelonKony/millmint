@@ -313,7 +313,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 				<b>Founding of the 4th Commonwealth</b><br>
 				UK withdraws from Vekllei<br>
 				Government is reesetablished<br>
-				Angua, Antam, Barbuda, Liamuiga, Martin, Montesur and Oualie are federated into the Antilles Commonwealth<br>
+				Angua, {{<link/antigua>}}, Barbuda, Liamuiga, Martin, Montesur and Oualie are federated into the Antilles Commonwealth<br>
 				{{<link/general-reactor>}} is founded in Vekllei
 			</span>
 		</li>

@@ -1,5 +1,5 @@
 ---
-title: Helena Republic
+title: Helena
 fulltitle: Helena Republic
 icon: 🐦‍⬛
 logo: /svg/flags/4x3/sh.svg
