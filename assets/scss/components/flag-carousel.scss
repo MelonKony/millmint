@@ -2,7 +2,7 @@
 @keyframes scroll {
 	0% { transform: translateX(0); }
 	// Make this value match Value 2
-	100% { transform: translateX(calc(-55px * 19.76))}
+	100% { transform: translateX(calc(-55px * 25.55))}
 }
 
 
@@ -37,6 +37,6 @@
 		display: inline-block;
 		animation: scroll 15s linear infinite;
 		// Value 2
-		width: calc(55px * 19.75);
+		width: calc(55px * 25.55);
 	}
 }

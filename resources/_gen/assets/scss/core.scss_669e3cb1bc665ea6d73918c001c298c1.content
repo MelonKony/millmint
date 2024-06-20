@@ -1429,7 +1429,7 @@ article[autonumbering] h5:before {
   0% {
     transform: translateX(0); }
   100% {
-    transform: translateX(calc(-55px * 19.76)); } }
+    transform: translateX(calc(-55px * 25.55)); } }
 
 .slider {
   background-color: var(--highlight-background);
@@ -1453,7 +1453,7 @@ article[autonumbering] h5:before {
     margin-top: .5rem;
     display: inline-block;
     animation: scroll 15s linear infinite;
-    width: calc(55px * 19.75); }
+    width: calc(55px * 25.55); }
 
 @font-face {
   font-family: "Whirlybats";
@@ -2877,6 +2877,12 @@ ol.timeline .event {
 
 .fi-verde.fis {
   background-image: url(../svg/flags/1x1/verde.svg); }
+
+.fi-habacoa {
+  background-image: url(../svg/flags/4x3/habacoa.svg); }
+
+.fi-habacoa.fis {
+  background-image: url(../svg/flags/1x1/habacoa.svg); }
 
 .fi-aloi {
   background-image: url(../svg/flags/4x3/aloi.svg); }

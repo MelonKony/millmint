@@ -69,7 +69,7 @@ There are a few criteria separating Polisa from regular city councils. They are 
 	* Curateo Republic (*Great Exuma*)
 	* Grand Bahama Republic (*Grand Bahama*)
 	* Guanima Republic (*Cat Island*)
-	* Habacoa Republic (*Andros Islands*)
+	* {{<link/habacoa>}} (*Andros Islands*)
 	* Inagua Republic (*Great Inagua*)
 	* Lucayoneque Republic (*Abaco Islands*)
 	* Mayaguana Republic (*Mayaguana*)

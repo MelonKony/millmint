@@ -10,7 +10,7 @@ rgb: 110, 110, 110
 fi: fi fi-barbary
 
 aliases:
-- /Barbary/
+- /barbary/
 ---
 {{<note series>}}
  Barbados is part of {{<link/kalina>}}

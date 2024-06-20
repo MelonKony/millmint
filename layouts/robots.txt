@@ -1,7 +1,6 @@
 User-agent: *
 Disallow: /tags/
 Disallow: /categories/
-Disallow: /characters/
 
 Sitemap: https://www.millmint.net/sitemap.xml
 
