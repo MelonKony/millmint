@@ -5,6 +5,7 @@ icon: 🌐
 
 rgb: 200, 110, 189
 
+series: bulletin
 categories:
 - bulletin
 

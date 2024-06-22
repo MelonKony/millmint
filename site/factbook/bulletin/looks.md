@@ -7,9 +7,7 @@ image:
 
 rgb: 57, 136, 170
 
-draft: false
-toc: false
-
+series: bulletin
 categories:
 - bulletin
 

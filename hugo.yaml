@@ -60,14 +60,80 @@ menus:
   - name:  Maps
     pre: 🗺️
     pageRef: /maps/
+    identifier: maps
     parent: factbook
     weight: 1
+  - name:  World Map
+    pre: 🌍
+    pageRef: /factbook/maps/world/
+    parent: maps
+  - name:  Air Route Map
+    pre: ✈️
+    pageRef: /route-map/
+    parent: maps
 
   - name:  Vekllei
     pre: 🌹
     pageRef: /vekllei/
     parent: factbook
+    identifier: vekllei
     weight: 2
+  - name:  Ascension Republic
+    pre: 🐢
+    pageRef: /ascension/
+    parent: vekllei
+  - name:  Falklands Republic
+    pre: 🦀
+    pageRef: /falklands/
+    parent: vekllei
+  - name:  Helena Republic
+    pre: 🐦‍⬛
+    pageRef: /helena/
+    parent: vekllei
+  - name:  Santes Republic
+    pre: 🦞
+    pageRef: /santes/
+    parent: vekllei
+  - name:  Sude Republic
+    pre: 🎣
+    pageRef: /sude/
+    parent: vekllei
+  - name:  Helvasia Republic
+    pre: 🐻‍❄️
+    pageRef: /helvasia/
+    parent: vekllei
+  - name:  Verde Republic
+    pre: 🦅
+    pageRef: /verde/
+    parent: vekllei
+  - name:  Habacoa Republic
+    pre: 🪸
+    pageRef: /helvasia/
+    parent: vekllei
+  - name:  Rum Republic
+    pre: 🍹
+    pageRef: /rum/
+    parent: vekllei
+  - name:  Summers Republic
+    pre: 🦀
+    pageRef: /summers/
+    parent: vekllei
+  - name:  Allia Republic
+    pre: ☘️
+    pageRef: /allia/
+    parent: vekllei
+  - name:  Aloi Republic
+    pre: 🐠
+    pageRef: /aloi/
+    parent: vekllei
+  - name:  Aloubaera Republic
+    pre: 🌲
+    pageRef: /aloubaera/
+    parent: vekllei
+  - name:  Anguilla Republic
+    pre: 🐬
+    pageRef: /anguilla/
+    parent: vekllei
 
   - name:  Bulletin
     pre: 🧾
@@ -81,24 +147,12 @@ menus:
     parent: factbook
     weight: 4
 
-  - name:  World
-    pre: 🌐
-    parent: factbook
-    pageRef: /factbook/world
-    identifier: world
-    weight: 5
-  - name:  Countries
-    pre: 🌎
-    pageRef: /factbook/world/countries
-    parent: world
-    weight: 1
-
   - name:  Society
     pre: 🏛
     parent: factbook
     pageRef: /factbook/society/
     identifier: society
-    weight: 6
+    weight: 5
   - name:  State
     pre: 🌸
     pageRef: /factbook/society/state/

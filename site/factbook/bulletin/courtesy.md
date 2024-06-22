@@ -5,6 +5,7 @@ icon: 🗣️
 
 rgb: 187, 81, 227
 
+series: bulletin
 categories:
 - bulletin
 

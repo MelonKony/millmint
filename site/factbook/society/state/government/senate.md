@@ -1,5 +1,5 @@
 ---
-title: Commonwealth Senate
+title: Senate
 fulltitle: Commonwealth Senate
 icon: 🏺
 logo: /svg/crests/vekllei-purple.svg

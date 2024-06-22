@@ -10,6 +10,7 @@ rgb: 200, 89, 169
 draft: true
 toc: false
 
+series: bulletin
 categories:
 - bulletin
 

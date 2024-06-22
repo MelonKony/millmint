@@ -7,9 +7,7 @@ image:
 
 color: foreignaffairs
 
-draft: false
-toc: false
-
+series: bulletin
 categories:
 - bulletin
 

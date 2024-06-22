@@ -387,10 +387,9 @@ footer {
   margin: 1rem 0 0 0; }
 
 hr {
-  color: var(--highlight);
   margin-top: 2rem;
   margin-bottom: 2rem;
-  border: 1px solid var(--gray-light); }
+  border: 1px solid var(--gray-med); }
 
 .page {
   margin-top: 1rem;
@@ -1122,8 +1121,11 @@ nav {
     flex: 1;
     list-style: none;
     background-color: transparent; }
-    nav .navbar a:hover {
-      text-decoration-line: none; }
+    nav .navbar a {
+      color: var(--gray-heavy); }
+      nav .navbar a:hover {
+        text-decoration-line: none;
+        color: var(--highlight); }
     nav .navbar li {
       margin-top: 0;
       margin-bottom: 0;
@@ -1139,7 +1141,7 @@ nav {
       padding: .5rem 0 .5rem 0; }
     nav .navbar .navbar-dropdown > ul.menu-dropdown {
       left: 0;
-      top: 1.5rem;
+      top: 1.65rem;
       width: inherit; }
     nav .navbar .navbar-item {
       font-size: 0.875rem;
@@ -3008,13 +3010,13 @@ ol.timeline .event {
   background-image: url(../svg/logos/vekllei.svg); }
 
 .fi-min-vekllei.fis {
-  background-image: url(../svg/crests/vekllei.svg); }
+  background-image: url(../svg/crests/crownless/vekllei.svg); }
 
 .fi-min-council.fis {
-  background-image: url(../svg/crests/council.svg); }
+  background-image: url(../svg/crests/crownless/council.svg); }
 
 .fi-min-vekllei-purple.fis {
-  background-image: url(../svg/crests/vekllei-purple.svg); }
+  background-image: url(../svg/crests/crownless/vekllei-purple.svg); }
 
 .fi-min-military.fis {
   background-image: url(../svg/crests/military.svg); }
@@ -4961,7 +4963,6 @@ html.writing h1 {
   text-decoration: underline; }
 
 .search ul li {
-  font-size: 16px;
   line-height: 1.4rem;
   padding: 0.25rem 1rem 0.25rem 1rem; }
 

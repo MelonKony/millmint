@@ -5,9 +5,7 @@ icon: 🚢
 
 rgb: 88, 155, 204
 
-draft: false
-toc: false
-
+series: bulletin
 categories:
 - bulletin
 

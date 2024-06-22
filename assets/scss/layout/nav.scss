@@ -19,8 +19,10 @@ nav {
     background-color: transparent;
 
     a {
+      @include secondary-color;
       &:hover {
         text-decoration-line: none;
+        @include highlight;
       }
     }
 
@@ -50,7 +52,7 @@ nav {
 
       >ul.menu-dropdown {
         left: 0;
-        top: 1.5rem;
+        top: 1.65rem;
         width: inherit;
       }
     }

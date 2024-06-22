@@ -77,9 +77,8 @@ footer {
 }
 
 hr {
-  @include highlight;
   @include my-8;
-  border: 1px solid var(--gray-light);
+  border: 1px solid var(--gray-med);
 }
 
 .page {

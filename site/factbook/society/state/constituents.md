@@ -1,6 +1,6 @@
 ---
 title: Constituents
-fulltitle: Constituents Commonwealths of Vekllei
+fulltitle: Constituents Commonwealths
 icon: 💮
 emoji: ←
 color: pink

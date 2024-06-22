@@ -5,6 +5,7 @@ icon: 🍷
 
 rgb: 222, 24, 87
 
+series: bulletin
 categories:
 - bulletin
 
