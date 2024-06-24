@@ -24,9 +24,9 @@ aliases:
 	 SmallFlag="/svg/flags/4x3/oslola.svg"
 	 Locator="/svg/maps/locator/oslola.png"
 	 Capital="Oslola"
-	 Population="8,131,426"
+	 Population="8,331,426"
 	 Languages="Oslolan Algic, English, Oslolan Islandi"
-	 Area="103,125 km2"
+	 Area="103,125 km²"
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 

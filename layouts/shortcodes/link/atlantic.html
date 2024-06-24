@@ -1,0 +1,1 @@
+{{ with site.GetPage "atlantic" }}<a class="slink"  style="color: var(--color-{{ .Params.color }}); background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent);" href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>{{ end }}

@@ -19,7 +19,7 @@ Constituent commonwealths have their own suite of [ministries](/ministries/) and
 {{<note panel>}}
 **Constituent Commonwealths of Vekllei**
 
-* {{<link/antarctica>}}
+* {{<link/antarctic>}}
 * Commonwealth Antilles
 * {{<link/arctic>}}
 * Commonwealth Atlantic

@@ -51,7 +51,7 @@ The **Maritime Service** (the **Navy** or *Navy of the Public*) is the tradition
 <details>
 <summary>Commonwealth Fleet</summary>
 
-The Commonwealth Fleet (*Sovereign/Federal Fleet*) of the Vekllei Maritime Service is the largest naval formation in Vekllei and is tasked with defence of the country's central corridor, a triangular area with points in {{<link/oslola>}}, {{<link/verde>}} and {{<link/summers>}}
+The Commonwealth Fleet (*Sovereign/Federal Fleet*) of the Vekllei Maritime Service is the largest naval formation in Vekllei and is tasked with defence of the country's central corridor, a triangular area with points in {{<link/oslola>}}, {{<link/costa-verde>}} and {{<link/summers>}}
 
 * 5 Aircraft Carriers
 	* 1 Supercarrier (flagship *CV Vekllei*)

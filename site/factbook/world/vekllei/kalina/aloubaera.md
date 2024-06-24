@@ -25,7 +25,7 @@ aliases:
 	 Population="72,045"
 	 Capital="Scarborough"
 	 Languages="English, Creole, Spanish"
-	 Area="300 km2"
+	 Area="300 km²"
 	 Accession="1930, as part of the Alford Agreement"
  >}}
 

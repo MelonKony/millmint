@@ -26,7 +26,7 @@ aliases:
 	 Population="454,820"
 	 Capital="Assumpción"
 	 Languages="English, Cama Creole, French"
-	 Area="348.5 km2"
+	 Area="348.5 km²"
 	 Accession="1930, as part of the Alford Agreement"
  >}}
 

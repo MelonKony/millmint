@@ -25,7 +25,7 @@ aliases:
 	 Population="16,302"
 	 Capital="Athlone"
 	 Languages="Irish, Allia Creole, English"
-	 Area="102 km2"
+	 Area="102 km²"
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 

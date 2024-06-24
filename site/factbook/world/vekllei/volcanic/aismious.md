@@ -25,7 +25,7 @@ aliases:
 	 Capital="Thor's Harbour"
 	 Population="64,337"
 	 Languages="Aismious, English"
-	 Area="1,393 km2"
+	 Area="1,393 km²"
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 

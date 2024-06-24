@@ -25,7 +25,7 @@ aliases:
    Population="24,371,300"
    Capital="Comet"
    NationalLanguage="English"
-   Area="2,386,688 km2"
+   Area="2,386,688 km²"
  >}}
 
 <span class="fi fi-com"></span> **Vekllei** is best conceptualised as a union of islands across the Atlantic Ocean. It is a commonwealth,[^commonwealth] the fourth in a series, and consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of {{<link/oslola>}}, of 8 million. Together, they amount to a single superstate that spans the entirety of the Atlantic as a great power.
@@ -103,7 +103,7 @@ Main article: *[Vekllei World Map](/map/)*
 <summary>List of Vekllei Commonwealths</summary>
 **Constituent Commonwealths of Vekllei**
 
-* {{<link/antarctica>}}
+* {{<link/antarctic>}}
 * Commonwealth Antilles
 * {{<link/arctic>}}
 * Commonwealth Atlantic
@@ -122,7 +122,7 @@ Main article: *[Vekllei World Map](/map/)*
   * Vekllei Lunar Territories
   * Vekllei Mars Community
 
-* **{{<link/antarctica>}}**
+* **{{<link/antarctic>}}**
   * {{<link/ascension>}} (*Ascension*)
   * {{<link/falklands>}} (*Falklands*)
   * {{<link/helena>}} (*Saint Helena*)
@@ -149,7 +149,7 @@ Main article: *[Vekllei World Map](/map/)*
   * Porto Santo Republic (*Porto Santo*)
   * Terceira Republic (*Terceira Island*)
   * Velas Republic (*Sao Jorge Island*)
-  * {{<link/verde>}} (*Sao Miguel Island*)
+  * {{<link/costa-verde>}} (*Sao Miguel Island*)
 
 * **Lucayan Commonwealth**
   * Caicos Republic (*Turks & Caicos*)

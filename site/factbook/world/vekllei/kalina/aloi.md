@@ -25,7 +25,7 @@ aliases:
 	 Population="12,404"
 	 Capital="Concordia"
 	 Languages="English, Arawak Creole"
-	 Area="154 km2"
+	 Area="154 km²"
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 

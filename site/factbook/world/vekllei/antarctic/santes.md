@@ -13,23 +13,23 @@ aliases:
 - /santes/
 ---
 {{<note series>}}
- Helena is part of {{<link/antarctica>}}
+ Helena is part of {{<link/antarctic>}}
 {{</note>}}
 
 {{<infobox/country
 	 Name="Santes Republic"
 	 Type="Republic"
-	 Commonwealth="Antarctica"
+	 Commonwealth="Antarctic"
 	 Flag="/svg/flags/santes.svg"
 	 SmallFlag="/svg/flags/4x3/santes.svg"
-	 Population="1,802"
+	 Population="2,802"
 	 Capital="Glass Town"
 	 Languages="English"
-	 Area="207 km2"
+	 Area="207 km²"
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 
-The <span class="fi fi-santes"></span> **Santes Republic** is a [constituent republic](/republics/) in the Atlantic Ocean, and part of {{<link/antarctica>}}. Its closest neighbour is {{<link/helena>}}, which lies over 2,000km north of the territory. As such, Santes is considered the most remote inhabited archipelago in the world.
+The <span class="fi fi-santes"></span> **Santes Republic** is a [constituent republic](/republics/) in the Atlantic Ocean, and part of {{<link/antarctic>}}. Its closest neighbour is {{<link/helena>}}, which lies over 2,000km north of the territory. As such, Santes is considered the most remote inhabited archipelago in the world.
 
 The republic comprises six small islands, of which five are closely grouped together. Gough island, a UNESCO world heritage site, lies 320km southeastwards of the main island group and is home only to seabirds and a small Vekllei Weather Service station. The main and only permanently-inhabited island of Santes is roughly circular in shape and rises dramatically from the sea in a volcanic cone.
 

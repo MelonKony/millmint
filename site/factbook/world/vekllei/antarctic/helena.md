@@ -13,19 +13,19 @@ aliases:
 - /helena/
 ---
 {{<note series>}}
- Helena is part of {{<link/antarctica>}}
+ Helena is part of {{<link/antarctic>}}
 {{</note>}}
 
 {{<infobox/country
 	 Name="Helena Republic"
 	 Type="Republic"
-	 Commonwealth="Antarctica"
+	 Commonwealth="Antarctic"
 	 Flag="/svg/flags/helena.svg"
 	 SmallFlag="/svg/flags/4x3/sh.svg"
-	 Population="19,844"
+	 Population="29,844"
 	 Capital="Plover"
 	 Languages="English"
-	 Area="121.8 km2"
+	 Area="121.8 km²"
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 

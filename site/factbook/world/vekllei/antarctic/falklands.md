@@ -15,19 +15,19 @@ aliases:
 - /falklands/
 ---
 {{<note series>}}
- The Falklands are part of {{<link/antarctica>}}
+ The Falklands are part of {{<link/antarctic>}}
 {{</note>}}
 
 {{<infobox/country
 	 Name="Falklands Republic"
 	 Type="Republic"
-	 Commonwealth="Antarctica"
+	 Commonwealth="Antarctic"
 	 Flag="/svg/flags/falklands.svg"
 	 SmallFlag="/svg/flags/4x3/fk.svg"
-	 Population="8,682"
+	 Population="48,682"
 	 Capital="Stanley"
 	 Languages="English"
-	 Area="12,173 km2"
+	 Area="12,173 km²"
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 

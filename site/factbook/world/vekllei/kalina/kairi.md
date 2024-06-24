@@ -26,7 +26,7 @@ aliases:
 	 Population="2,480,384"
 	 Capital="Conquerabia"
 	 Languages="English, Creole, Hindustani, Spanish"
-	 Area="4831 km2"
+	 Area="4831 km²"
 	 Accession="1930, as part of the Alford Agreement"
  >}}
 

@@ -26,7 +26,7 @@ aliases:
 	 Population="1,420,421"
 	 Capital="Indian Bridge"
 	 Languages="English, Bajan Creole"
-	 Area="439 km2"
+	 Area="439 km²"
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 

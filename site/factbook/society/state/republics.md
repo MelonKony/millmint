@@ -34,7 +34,7 @@ There are a few criteria separating republics from regular local government. The
 	* Vekllei Lunar Territories
 	* Vekllei Mars Community
 
-* **{{<link/antarctica>}}**
+* **{{<link/antarctic>}}**
 	* {{<link/ascension>}} (*Ascension*)
 	* {{<link/falklands>}} (*Falklands*)
 	* {{<link/helena>}} (*Saint Helena*)
@@ -61,7 +61,7 @@ There are a few criteria separating republics from regular local government. The
 	* Porto Santo Republic (*Porto Santo*)
 	* Terceira Republic (*Terceira Island*)
 	* Velas Republic (*Sao Jorge Island*)
-	* {{<link/verde>}} (*Sao Miguel Island*)
+	* {{<link/costa-verde>}} (*Sao Miguel Island*)
 
 * **Lucayan Commonwealth**
 	* Caicos Republic (*Turks & Caicos*)
@@ -73,7 +73,7 @@ There are a few criteria separating republics from regular local government. The
 	* Inagua Republic (*Great Inagua*)
 	* Lucayoneque Republic (*Abaco Islands*)
 	* Mayaguana Republic (*Mayaguana*)
-	* Nema Republic (*New Providence*)
+	* Providence Republic (*New Providence*)
 	* {{<link/rum>}} (*San Salvador & Rum Cay*)
 	* {{<link/summers>}} (*Bermuda*)
 	* Yabaque Republic (*Acklins*)
@@ -106,6 +106,7 @@ There are a few criteria separating republics from regular local government. The
 	* Brava Republic (*Brava*)
 	* Covoada Republic (*Sao Nicolau*)
 	* Fogo Republic (*Fogo*)
+	* Java Republic (*Sao Tome*)
 	* Maio Republic (*Maio*)
 	* Moroços Republic (*Santo Antao*)
 	* Praia Republic (*Santiago*)

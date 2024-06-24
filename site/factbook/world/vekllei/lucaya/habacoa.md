@@ -13,7 +13,7 @@ aliases:
 - /habacoa/
 ---
 {{<note series>}}
- Habacoa is part of the Lucayan Commonwealth.
+ Habacoa is part of the {{<link/lucaya>}}
 {{</note>}}
 
 {{<infobox/country
@@ -26,7 +26,7 @@ aliases:
 	 Population="204,038"
 	 Capital="Kipri"
 	 Languages="English, Lucayan Creole"
-	 Area="5,957 km2"
+	 Area="5,957 km²"
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 

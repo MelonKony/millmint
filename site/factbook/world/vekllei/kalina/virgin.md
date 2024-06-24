@@ -23,10 +23,10 @@ aliases:
 	 Flag="/svg/flags/virgin.svg"
 	 SmallFlag="/svg/flags/4x3/vg.svg"
 	 Locator="/svg/maps/locator/vg.png"
-	 Population="182,295"
+	 Population="282,295"
 	 Capital="Roadie (administrative)"
 	 Languages="English, French, Spanish"
-	 Area="472.75 km2"
+	 Area="472.75 km²"
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 

@@ -9,6 +9,8 @@ rgb: 60, 106, 217
 
 fi: fi fi-caimanas
 
+draft: true
+
 aliases:
 - /caimanas/
 ---

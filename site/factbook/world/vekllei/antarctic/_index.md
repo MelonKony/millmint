@@ -1,9 +1,9 @@
 ---
-title: Antarctic
-fulltitle: Commonwealth Antarctica
+title: Antarctic Commonwealth
+fulltitle: Antarctic Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/antarctic.svg
-color: blue
+color: vekllei
 series: commonwealth
 
 fi: fi fi-antarctic
@@ -22,9 +22,9 @@ aliases:
    Type="Commonwealth"
    Flag="/svg/flags/antarctic.svg"
    SmallFlag="/svg/flags/4x3/antarctic.svg"
-   Population="47,982"
+   Population="118,982"
    Capital="Helena"
-   Area="16,493 km2"
+   Area="16,493 km²"
  >}}
 
 <span class="fi fi-antarctic"></span> Commonwealth Antarctica (*Vekllei Antarctica*) is a [constituent commonwealth](/constituents/) of {{<link/vekllei>}}, comprising largely isolated and scattered island [republics](/republics/) in the south Atlantic and Antarctic oceans. It is the least-populated and least-developed of the regional commonwealths, and its republics are dependent on small trades, fishing, and Vekllei Commonwealth institutions like the military and civil service.

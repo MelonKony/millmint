@@ -14,11 +14,11 @@
 
 /// Verde Flag
 
-.fi-verde {
-  background-image: url(../svg/flags/4x3/verde.svg);
+.fi-costa-verde {
+  background-image: url(../svg/flags/4x3/costa-verde.svg);
 }
-.fi-verde.fis {
-  background-image: url(../svg/flags/1x1/verde.svg);
+.fi-costa-verde.fis {
+  background-image: url(../svg/flags/1x1/costa-verde.svg);
 }
 
 /// Habacoa Flag
@@ -173,13 +173,49 @@
   background-image: url(../svg/flags/1x1/aloubaera.svg);
 }
 
-/// Aloubaera Flag
+/// Kalina Flag
 
 .fi-kalina {
   background-image: url(../svg/flags/4x3/kalina.svg);
 }
 .fi-kalina.fis {
   background-image: url(../svg/flags/1x1/kalina.svg);
+}
+
+/// Atlantic Flag
+
+.fi-atlantic {
+  background-image: url(../svg/flags/4x3/atlantic.svg);
+}
+.fi-atlantic.fis {
+  background-image: url(../svg/flags/1x1/atlantic.svg);
+}
+
+/// Antilles Flag
+
+.fi-antilles {
+  background-image: url(../svg/flags/4x3/antilles.svg);
+}
+.fi-antilles.fis {
+  background-image: url(../svg/flags/1x1/antilles.svg);
+}
+
+/// Lucayan Flag
+
+.fi-lucaya {
+  background-image: url(../svg/flags/4x3/lucaya.svg);
+}
+.fi-lucaya.fis {
+  background-image: url(../svg/flags/1x1/lucaya.svg);
+}
+
+/// Verde Commonwealth Flag
+
+.fi-verde {
+  background-image: url(../svg/flags/4x3/verde.svg);
+}
+.fi-verde.fis {
+  background-image: url(../svg/flags/1x1/verde.svg);
 }
 
 // Custom World Flags

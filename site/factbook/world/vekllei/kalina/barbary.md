@@ -26,7 +26,7 @@ aliases:
 	 Population="58,629"
 	 Capital="Freetown"
 	 Languages="English, Barbary Creole"
-	 Area="160.56 km2"
+	 Area="160.56 km²"
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 

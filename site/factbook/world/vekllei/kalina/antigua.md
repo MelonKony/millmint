@@ -26,7 +26,7 @@ aliases:
 	 Population="327,800"
 	 Capital="Caribbea"
 	 Languages="English, Arawak Creole"
-	 Area="281 km2"
+	 Area="281 km²"
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 

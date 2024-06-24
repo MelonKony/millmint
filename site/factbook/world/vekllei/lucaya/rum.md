@@ -13,7 +13,7 @@ aliases:
 - /rum/
 ---
 {{<note series>}}
- Rum is part of the Lucayan Commonwealth
+ Rum is part of the {{<link/lucaya>}}
 {{</note>}}
 
 {{<infobox/country
@@ -25,7 +25,7 @@ aliases:
 	 Population="4,910"
 	 Capital="Conception"
 	 Languages="English, Lucayan"
-	 Area="241 km2"
+	 Area="241 km²"
 	 Accession="1930, as part of the Alford Agreement"
  >}}
 

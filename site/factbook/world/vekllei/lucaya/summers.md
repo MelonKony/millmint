@@ -15,7 +15,7 @@ aliases:
 - /summers/
 ---
 {{<note series>}}
- Part of the *[territories](/territories/)* series of articles
+ Summers is part of the {{<link/lucaya>}}
 {{</note>}}
 
 {{<infobox/country
@@ -26,7 +26,7 @@ aliases:
 	 Population="13,947"
 	 Capital="Aran"
 	 Languages="English"
-	 Area="53.2 km2"
+	 Area="53.2 km²"
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 

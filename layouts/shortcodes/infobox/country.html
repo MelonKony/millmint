@@ -47,21 +47,45 @@
 	</a>
 	{{ end }}
 
-	{{ if eq (.Get "Commonwealth") "Antarctica" }}
+	{{ if eq (.Get "Commonwealth") "Antarctic" }}
 	<tr>
-		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of <a style="color: var(--color-blue)" href="/antarctic/"><span class="fi fi-antarctic"></span> Commonwealth Antarctica</a></td>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/antarctic/"><span class="fi fi-antarctic"></span> Antarctic Commonwealth</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Commonwealth") "Antilles" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/antilles/"><span class="fi fi-antilles"></span> Antilles Commonwealth</a></td>
 	</tr>
 	{{ end }}
 
 	{{ if eq (.Get "Commonwealth") "Arctic" }}
 	<tr>
-		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/arctic/"><span class="fi fi-arctic"></span> Commonwealth Arctic</a></td>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/arctic/"><span class="fi fi-arctic"></span> Arctic Commonwealth</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Commonwealth") "Atlantic" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/arctic/"><span class="fi fi-atlantic"></span> Atlantic Commonwealth</a></td>
 	</tr>
 	{{ end }}
 
 	{{ if eq (.Get "Commonwealth") "Kalina" }}
 	<tr>
-		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of <a style="color: var(--color-blue)" href="/kalina/"><span class="fi fi-kalina"></span> Commonwealth Kalina</a></td>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/kalina/"><span class="fi fi-kalina"></span> Kalina Commonwealth</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Commonwealth") "Lucaya" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/lucaya/"><span class="fi fi-lucaya"></span> Lucayan Commonwealth</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Commonwealth") "Verde" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/verde/"><span class="fi fi-lucaya"></span> Verde Commonwealth</a></td>
 	</tr>
 	{{ end }}
 

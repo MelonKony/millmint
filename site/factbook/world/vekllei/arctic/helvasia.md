@@ -22,14 +22,14 @@ aliases:
 	 Commonwealth="Arctic"
 	 Flag="/svg/flags/helvasia.svg"
 	 SmallFlag="/svg/flags/4x3/sj.svg"
-	 Population="7,400"
+	 Population="32,400"
 	 Capital="Romsa"
 	 Languages="Northern Sami, English, Norwegian"
-	 Area="62,045 km2"
+	 Area="62,045 km²"
 	 Accession="2026, as part of the Arctic Agreement"
  >}}
 
-The <span class="fi fi-sj"></span> **Helvasia Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} in the Atlantic Ocean north of the Arctic Circle, nearly 1000km north of Norway. It comprises an archipelago of nine main islands, the largest of which is nearly 40,000 km2 and is home to most of the republic's small population. It is the northernmost Vekllei republic, and holds several records for its latitude, including its capital of Romsa as the northernmost permanent settlement in the world.
+The <span class="fi fi-sj"></span> **Helvasia Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} in the Atlantic Ocean north of the Arctic Circle, nearly 1000km north of Norway. It comprises an archipelago of nine main islands, the largest of which is nearly 40,000 km² and is home to most of the republic's small population. It is the northernmost Vekllei republic, and holds several records for its latitude, including its capital of Romsa as the northernmost permanent settlement in the world.
 
 According to [sagas](/sagas/) in {{<link/oslola>}}, Helvasia was discovered by Scandinavians in the 12th Century, who observed tribespeople living there -- most likely arctic Sami. After the island was rediscovered by Europeans in the 17th Century, whaling stations were established on Bear Island in its south. After quarrels over whaling rights resulted in conflict between Dutch and English settlers, the UK effectively exercised control over Svalbard thereafter, though a small Russian settlement on the main island remained uncontested throughout the 18th Century. In 1836, the archipelago was absorbed into the British Atlantic Territories and later acceded to {{<link/vekllei>}} after the Atomic War.
 

@@ -2874,11 +2874,11 @@ ol.timeline .event {
 .fi-com.fis {
   background-image: url(../svg/flags/1x1/com.svg); }
 
-.fi-verde {
-  background-image: url(../svg/flags/4x3/verde.svg); }
+.fi-costa-verde {
+  background-image: url(../svg/flags/4x3/costa-verde.svg); }
 
-.fi-verde.fis {
-  background-image: url(../svg/flags/1x1/verde.svg); }
+.fi-costa-verde.fis {
+  background-image: url(../svg/flags/1x1/costa-verde.svg); }
 
 .fi-habacoa {
   background-image: url(../svg/flags/4x3/habacoa.svg); }
@@ -2987,6 +2987,30 @@ ol.timeline .event {
 
 .fi-kalina.fis {
   background-image: url(../svg/flags/1x1/kalina.svg); }
+
+.fi-atlantic {
+  background-image: url(../svg/flags/4x3/atlantic.svg); }
+
+.fi-atlantic.fis {
+  background-image: url(../svg/flags/1x1/atlantic.svg); }
+
+.fi-antilles {
+  background-image: url(../svg/flags/4x3/antilles.svg); }
+
+.fi-antilles.fis {
+  background-image: url(../svg/flags/1x1/antilles.svg); }
+
+.fi-lucaya {
+  background-image: url(../svg/flags/4x3/lucaya.svg); }
+
+.fi-lucaya.fis {
+  background-image: url(../svg/flags/1x1/lucaya.svg); }
+
+.fi-verde {
+  background-image: url(../svg/flags/4x3/verde.svg); }
+
+.fi-verde.fis {
+  background-image: url(../svg/flags/1x1/verde.svg); }
 
 .fi-ei {
   background-image: url(../svg/flags/4x3/ei.svg); }

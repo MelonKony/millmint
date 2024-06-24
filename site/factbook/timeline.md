@@ -138,7 +138,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>1455</b>
 			<span class="event">
-			{{<link/verde>}} is discovered and settled by {{<link/portugal>}}
+			{{<link/costa-verde>}} is discovered and settled by {{<link/portugal>}}
 			</span>
 		</li>
 		<li>
@@ -314,7 +314,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 			<b>1963</b>
 			<span class="event">
 				{{<link/oslola>}} becomes independent of the British Crown, replacing the monarch with the Atlantic Council<br>
-				{{<link/verde>}} along with the rest of the Azores votes to secede from Portugal after the recession worsens
+				{{<link/costa-verde>}} along with the rest of the Azores votes to secede from Portugal after the recession worsens
 			</span>
 		</li>
 		<li>
@@ -334,7 +334,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>1976</b>
 			<span class="event">
-				{{<link/verde>}} accedes to the Atlantic Federation
+				{{<link/costa-verde>}} accedes to the Atlantic Federation
 			</span>
 		</li>
 		<li>

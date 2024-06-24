@@ -78,61 +78,37 @@ menus:
     parent: factbook
     identifier: vekllei
     weight: 2
-  - name:  Ascension Republic
-    pre: 🐢
-    pageRef: /ascension/
+  - name:  Antarctic Commonwealth
+    pre: 🐋
+    pageRef: /antarctic/
     parent: vekllei
-  - name:  Falklands Republic
-    pre: 🦀
-    pageRef: /falklands/
+  - name:  Antilles Commonwealth
+    pre: 🌴
+    pageRef: /antilles/
     parent: vekllei
-  - name:  Helena Republic
-    pre: 🐦‍⬛
-    pageRef: /helena/
+  - name:  Arctic Commonwealth
+    pre: ❄️
+    pageRef: /arctic/
     parent: vekllei
-  - name:  Santes Republic
-    pre: 🦞
-    pageRef: /santes/
+  - name:  Atlantic Commonwealth
+    pre: 🚢
+    pageRef: /atlantic/
     parent: vekllei
-  - name:  Sude Republic
-    pre: 🎣
-    pageRef: /sude/
+  - name:  Kalina Commonwealth
+    pre: 🥥
+    pageRef: /kalina/
     parent: vekllei
-  - name:  Helvasia Republic
-    pre: 🐻‍❄️
-    pageRef: /helvasia/
+  - name:  Lucayan Commonwealth
+    pre: 🐠
+    pageRef: /lucaya/
     parent: vekllei
-  - name:  Verde Republic
-    pre: 🦅
+  - name:  Verde Commonwealth
+    pre: ⛰️
     pageRef: /verde/
     parent: vekllei
-  - name:  Habacoa Republic
-    pre: 🪸
-    pageRef: /helvasia/
-    parent: vekllei
-  - name:  Rum Republic
-    pre: 🍹
-    pageRef: /rum/
-    parent: vekllei
-  - name:  Summers Republic
-    pre: 🦀
-    pageRef: /summers/
-    parent: vekllei
-  - name:  Allia Republic
-    pre: ☘️
-    pageRef: /allia/
-    parent: vekllei
-  - name:  Aloi Republic
-    pre: 🐠
-    pageRef: /aloi/
-    parent: vekllei
-  - name:  Aloubaera Republic
-    pre: 🌲
-    pageRef: /aloubaera/
-    parent: vekllei
-  - name:  Anguilla Republic
-    pre: 🐬
-    pageRef: /anguilla/
+  - name:  Volcanic Commonwealth
+    pre: 🌋
+    pageRef: /volcanic/
     parent: vekllei
 
   - name:  Bulletin

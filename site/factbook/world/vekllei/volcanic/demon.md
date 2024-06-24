@@ -24,7 +24,7 @@ aliases:
 	 Population="13,947"
 	 Capital="Aran"
 	 Languages="English, Latin, Irish"
-	 Area="377 km2"
+	 Area="377 km²"
 	 Accession="1840, gifted to the British Atlantic Territories"
  >}}
 

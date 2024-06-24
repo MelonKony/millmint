@@ -1,6 +1,6 @@
 ---
-title: Arctic
-fulltitle: Commonwealth Arctic
+title: Arctic Commonwealth
+fulltitle: Arctic Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/arctic.svg
 color: blue
@@ -13,20 +13,20 @@ aliases:
 - /arctic/
 ---
 {{<note series>}}
- Commonwealth Antarctica is a [constituent](/constituents/) of {{<link/vekllei>}}
+ The Arctic Commonwealth is a [constituent](/constituents/) of {{<link/vekllei>}}
 {{</note>}}
 
 {{<infobox/country
-   Name="Commonwealth Arctic"
+   Name="Arctic Commonwealth"
    Type="Commonwealth"
    Flag="/svg/flags/arctic.svg"
    SmallFlag="/svg/flags/4x3/arctic.svg"
-   Population="489,848"
+   Population="514,848"
    Capital="Canec"
-   Area="2,228,131 km2"
+   Area="2,228,131 km²"
  >}}
 
-The <span class="fi fi-arctic"></span> Commonwealth Arctic (*Vekllei Arctic*) is a [constituent commonwealth](/constituents/) of {{<link/vekllei>}}, comprising Kala and {{<link/helvasia>}}, the two [republics](/republics/) that lie in within the Arctic Circle. It is the largest Commonwealth by land area, but very little of it is habitable and the majority of the population live in a handful of major cities.
+The <span class="fi fi-arctic"></span> **Arctic Commonwealth** (*Vekllei Arctic*) is a [constituent commonwealth](/constituents/) of {{<link/vekllei>}}, comprising Kala and {{<link/helvasia>}}, the two [republics](/republics/) that lie in within the Arctic Circle. It is the largest Commonwealth by land area, but very little of it is habitable and the majority of the population live in a handful of major cities.
 
 The Commonwealth has a strong cultural association with indigenous Algic and Sami peoples, who make up the majority of the population in Kala and Helvasia respectively. In addition, many Oslolans, Scandinavians, and some equatorial and Antarctic Vekllei populations reside there.
 

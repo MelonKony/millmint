@@ -26,7 +26,7 @@ aliases:
 	 Population="35,722"
 	 Capital="The Valley"
 	 Languages="English, Arawak Creole"
-	 Area="91 km2"
+	 Area="91 km²"
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 

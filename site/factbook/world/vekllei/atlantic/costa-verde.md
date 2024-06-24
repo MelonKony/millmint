@@ -1,35 +1,35 @@
 ---
-title: Verde
-fulltitle: Verde Republic
+title: Costa Verde
+fulltitle: Costa Verde Republic
 icon: 🦅
-logo: /svg/flags/4x3/verde.svg
+logo: /svg/flags/4x3/costa-verde.svg
 series: republic
 
 rgb: 33, 131, 67
 
-fi: fi fi-verde
+fi: fi fi-costa-verde
 
 aliases:
-- /verde/
+- /costa-verde/
 ---
 {{<note series>}}
- Verde is part of the Atlantic Commonwealth
+ Costa Verde is part of the Atlantic Commonwealth
 {{</note>}}
 
 {{<infobox/country
 	 Name="Verde Republic"
 	 Type="Republic"
 	 Commonwealth="Atlantic"
-	 Flag="/svg/flags/verde.svg"
-	 SmallFlag="/svg/flags/4x3/verde.svg"
+	 Flag="/svg/flags/costa-verde.svg"
+	 SmallFlag="/svg/flags/4x3/costa-verde.svg"
 	 Population="246,820"
 	 Capital="Green Cape"
 	 Languages="English, Portuguese, Sinhala"
-	 Area="744.55 km2"
+	 Area="744.55 km²"
 	 Accession="1976, as part of the Azores Delegation"
  >}}
 
-The <span class="fi fi-verde"></span> **Verde Republic** (also the *Green Island*) is a [constituent republic](/republics/) of {{<link/vekllei>}} and part of the Atlantic Commonwealth. It is the largest and most populous island of the Azores archipelago, and seats the executive of the regional commonwealth. It is a narrow, verdant island of volcanic origin.
+The <span class="fi fi-costa-verde"></span> **Costa Verde Republic** (also *Verde*) is a [constituent republic](/republics/) of {{<link/vekllei>}} and part of the Atlantic Commonwealth. It is the largest and most populous island of the Azores archipelago, and seats the executive of the regional commonwealth. It is a narrow, verdant island of volcanic origin.
 
 Verde was originally colonised by the Portuguese, who discovered the island in the 15th Century and established a small fishing colony thereafter. Throughout its history, Verde has been vulnerable to earthquakes and tidal waves, and the capital of Green Cape has been rebuilt several times. In the 19th Century, Verde rose to prominence as citrus traders, selling mostly to Southern Europe and the British Empire. Verde, along with the rest of the Azores, voted to secede from Portugal in the 1960s and after its interim government collapsed joined the Atlantic Federation in 1976. It inherited membership in {{<link/vekllei>}} in 2015.
 
