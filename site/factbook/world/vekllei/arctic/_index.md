@@ -3,7 +3,7 @@ title: Arctic Commonwealth
 fulltitle: Arctic Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/arctic.svg
-color: blue
+color: vekllei
 fi: fi fi-arctic
 series: commonwealth
 

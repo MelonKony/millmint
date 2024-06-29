@@ -1,9 +1,9 @@
 ---
-title: Atlantic
+title: Atlantic Commonwealth
 fulltitle: Atlantic Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/atlantic.svg
-color: blue
+color: vekllei
 fi: fi fi-atlantic
 series: commonwealth
 

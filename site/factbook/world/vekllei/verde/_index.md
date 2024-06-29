@@ -3,7 +3,7 @@ title: Verde Commonwealth
 fulltitle: Verde Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/verde.svg
-color: blue
+color: vekllei
 series: commonwealth
 
 type: blank

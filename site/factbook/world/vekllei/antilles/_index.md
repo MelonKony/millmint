@@ -3,7 +3,7 @@ title: Antilles Commonwealth
 fulltitle: Antilles Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/antilles.svg
-color: blue
+color: vekllei
 series: commonwealth
 
 fi: fi fi-antilles

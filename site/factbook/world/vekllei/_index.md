@@ -113,7 +113,7 @@ Main article: *[Vekllei World Map](/map/)*
 * {{<link/volcanic>}}
 </details>
 
-<details closed>
+<details>
 <summary>List of Vekllei Republics</summary>
 
 * **Federal Territories**
@@ -129,17 +129,17 @@ Main article: *[Vekllei World Map](/map/)*
   * {{<link/santes>}} (*Tristan da Cunha*)
   * {{<link/sude>}} (*South Georgia & South Sandwich Islands*)
 
-* **Antilles Commonwealth**
+* **{{<link/antilles>}}**
   * Aruba Republic (*Aruba*)
   * Bonaire Republic (*Bonaire*)
   * Caimanas Republic (*Caimanas*)
   * Curaçao Republic (*Curacao*)
 
-* **Arctic Commonwealth**
+* **{{<link/arctic>}}**
   * {{<link/helvasia>}} (*Svalbard*)
   * Kala Republic (*Greenland*)
 
-* **Atlantic Commonwealth**
+* **{{<link/atlantic>}}**
   * Fayal Republic (*Faial Island*)
   * Flores Republic (*Flores Island*)
   * Graciosa Republic (*Graciosa Island*)
@@ -151,17 +151,17 @@ Main article: *[Vekllei World Map](/map/)*
   * Velas Republic (*Sao Jorge Island*)
   * {{<link/costa-verde>}} (*Sao Miguel Island*)
 
-* **Lucayan Commonwealth**
+* **{{<link/lucaya>}}**
   * Caicos Republic (*Turks & Caicos*)
   * Cigateo Republic (*Eleuthera*)
   * Curateo Republic (*Great Exuma*)
   * Grand Bahama Republic (*Grand Bahama*)
   * Guanima Republic (*Cat Island*)
-  * Habacoa Republic (*Andros Islands*)
+  * {{<link/habacoa>}} (*Andros Islands*)
   * Inagua Republic (*Great Inagua*)
   * Lucayoneque Republic (*Abaco Islands*)
   * Mayaguana Republic (*Mayaguana*)
-  * Nema Republic (*New Providence*)
+  * Providence Republic (*New Providence*)
   * {{<link/rum>}} (*San Salvador & Rum Cay*)
   * {{<link/summers>}} (*Bermuda*)
   * Yabaque Republic (*Acklins*)
@@ -189,11 +189,12 @@ Main article: *[Vekllei World Map](/map/)*
   * {{<link/virgin>}} (*British/Spanish/U.S. Virgin Islands*)
   * Youloumain Republic (*Saint Vincent & The Grenadines*)
 
-* **Verde Commonwealth**
+* **{{<link/verde>}}**
   * Boa Vista Republic (*Boa Vista*)
   * Brava Republic (*Brava*)
   * Covoada Republic (*Sao Nicolau*)
   * Fogo Republic (*Fogo*)
+  * {{<link/java>}} (*Sao Tome*)
   * Maio Republic (*Maio*)
   * Moroços Republic (*Santo Antao*)
   * Praia Republic (*Santiago*)
@@ -201,7 +202,7 @@ Main article: *[Vekllei World Map](/map/)*
   * Sal Republic (*Sal*)
   * Viana Republic (*Sao Vicente*)
 
-* **Volcanic Commonwealth**
+* **{{<link/volcanic>}}**
   * {{<link/aismious>}} (*Faroe*)
   * {{<link/demon>}} (*Jan Mayen*)
   * {{<link/oslola>}} (*Iceland*)

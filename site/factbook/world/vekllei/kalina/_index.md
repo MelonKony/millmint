@@ -1,9 +1,9 @@
 ---
-title: Kalina
-fulltitle: Commonwealth Kalina
+title: Kalina Commonwealth
+fulltitle: Kalina Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/kalina.svg
-color: blue
+color: vekllei
 series: commonwealth
 
 fi: fi fi-kalina
