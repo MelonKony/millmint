@@ -13,7 +13,7 @@ aliases:
 - /java/
 ---
 {{<note series>}}
- Habacoa is part of the {{<link/verde>}}
+Java is part of the {{<link/verde>}}
 {{</note>}}
 
 {{<infobox/country
