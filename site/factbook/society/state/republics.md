@@ -106,7 +106,7 @@ There are a few criteria separating republics from regular local government. The
 	* Brava Republic (*Brava*)
 	* Covoada Republic (*Sao Nicolau*)
 	* Fogo Republic (*Fogo*)
-	* Java Republic (*Sao Tome*)
+	* {{<link/java>}} (*Sao Tome*)
 	* Maio Republic (*Maio*)
 	* Moroços Republic (*Santo Antao*)
 	* Praia Republic (*Santiago*)
