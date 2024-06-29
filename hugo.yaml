@@ -57,27 +57,12 @@ menus:
     identifier: factbook
     weight: 2
 
-  - name:  Maps
-    pre: 🗺️
-    pageRef: /maps/
-    identifier: maps
-    parent: factbook
-    weight: 1
-  - name:  World Map
-    pre: 🌍
-    pageRef: /factbook/maps/world/
-    parent: maps
-  - name:  Air Route Map
-    pre: ✈️
-    pageRef: /route-map/
-    parent: maps
-
   - name:  Vekllei
     pre: 🌹
     pageRef: /vekllei/
     parent: factbook
     identifier: vekllei
-    weight: 2
+    weight: 1
   - name:  Antarctic Commonwealth
     pre: 🐋
     pageRef: /antarctic/
@@ -110,6 +95,21 @@ menus:
     pre: 🌋
     pageRef: /volcanic/
     parent: vekllei
+
+  - name:  Maps
+    pre: 🗺️
+    pageRef: /maps/
+    identifier: maps
+    parent: factbook
+    weight: 2
+  - name:  World Map
+    pre: 🌍
+    pageRef: /factbook/maps/world/
+    parent: maps
+  - name:  Air Route Map
+    pre: ✈️
+    pageRef: /route-map/
+    parent: maps
 
   - name:  Bulletin
     pre: 🧾
