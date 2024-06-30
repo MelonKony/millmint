@@ -21,10 +21,10 @@ aliases:
 {{<note panel>}}
 **Summary**
 
-* Large parts of the Vekllei economy are ostensibly owned by the Vekllei {{<link/government>}}.
-* Even though these companies are [government-owned](/state-industry/), they usually operate independently and some are profitable through foreign trade.
-* While private companies in the domestic market can only effectively go "bankrupt" through prolonged labour shortages, government companies with [accounted revenue](/bulletin/accounted-revenue/) can and do go bankrupt.
-* The question then is how the Vekllei state handles bankruptcy of government-owned and major industrial firms, and to what it extent it allows ailing businesses to run at a loss.
+* Vekllei's large and intricate civil service looks like a bureaucratic nightmare, but this appearance is misleading.
+* The foundation of {{<link/vekllei>}} public administration is the *office*, a small and agile team of professionals.
+* In contrast to the consensus-lead and democratic political sphere, Vekllei's civil service is lead by experts with broad authority within their teams.
+* This understanding better reflects government as constellations of autonomous offices, which contributes to their effectiveness in public service.
 {{</note>}}
 
 It is easy to look at the dirigiste and intricate organisational diagrams of {{<link/vekllei>}} [government](/government/) and [industry](/industry/) and make assumptions about the bureaucratic nightmare it should be. Its neat and endless subdepartments fit that template well, right down to the names of ministerial departments: bureaus. But the truth is substantially more complicated, and Vekllei has a cultural and political priority towards efficient systems and outcomes.
