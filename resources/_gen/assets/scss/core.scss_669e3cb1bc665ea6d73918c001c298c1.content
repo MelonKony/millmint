@@ -73,10 +73,10 @@ html[data-theme="light"] {
 
 html[data-theme="dark"] {
   --font-color: #f0f0f6;
-  --gray-100: #262629;
+  --gray-100: #1b1b20;
   --highlight: #5f5f69;
   --highlight-background: #d7d7dd;
-  --gray-light: #262629;
+  --gray-light: #1b1b20;
   --gray-med:#302f2f;
   --gray-heavy: #d7d7dd;
   --color-blue: rgb(32, 79, 120);
