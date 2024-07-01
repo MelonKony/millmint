@@ -29,6 +29,8 @@ aliases:
 
 It is easy to look at the dirigiste and intricate organisational diagrams of {{<link/vekllei>}} [government](/government/) and [industry](/industry/) and make assumptions about the bureaucratic nightmare it should be. Its neat and endless subdepartments fit that template well, right down to the names of ministerial departments: bureaus. But the truth is substantially more complicated, and Vekllei has a cultural and political priority towards efficient systems and outcomes.
 
+![example diagram of vekllei government complexity](/svg/diagrams/government.png "Diagrams of Vekllei government often look like examples of a rigid and complex bureaucracy.")
+
 Rather than mountains of verbose, duplicate paperwork, Vekllei administration is characterised by social relations in the fashion of its broader economy. In fact, very few people in Vekllei write reports or policy at all -- the vast majority are working with notes, blackboards, drawings and tables in their individual fashion, which are then consolidated into concise factsheets with the distilled, relevant information assembled at the end of a project.
 
 Vekllei's obsessive and neat public administrative hierarchy is not a symptom of bloat, but of an interest in organising the independent character of its public offices. The nesting doll of departments does not indicate a rigid web of oversight but of a standardised rendering of their diverse and sometimes chaotic specialist organisations. In this sense, their public service is better understood as a template of hundreds of specialist teams than as a hierarchical pyramid of silos.
