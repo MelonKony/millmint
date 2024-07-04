@@ -5,6 +5,7 @@ icon: ✈️
 logo: /svg/logos/air.svg
 image: /svg/maps/route-map.png
 rgb: 245, 60, 89
+series: goc
 
 draft: false
 

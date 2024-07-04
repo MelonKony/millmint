@@ -5,6 +5,7 @@ icon: ✈️
 logo: /svg/logos/GAF.svg
 rgb: 247, 85, 85
 logocredit: Crawford Dunn, 1964, for Woodward Cape & Associates.
+series: goc
 
 fi: fi fi-min-gaf fis
 

@@ -4,6 +4,7 @@ fulltitle: Vekllei National Rail
 icon: 🚇
 logo: /svg/logos/rail.svg
 image: /images/orange.jpg
+series: goc
 
 rgb: 255, 86, 79
 

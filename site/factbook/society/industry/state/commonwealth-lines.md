@@ -4,6 +4,7 @@ fulltitle: Commonwealth Lines
 icon: ⛴️
 logo: /svg/logos/commonwealth-lines.svg
 rgb: 232, 163, 12
+series: goc
 
 logocredit:  Al Navarre & Terry Lesniewicz, 1978, for Solar Trucking Incorporated.
 

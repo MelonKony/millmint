@@ -3,8 +3,10 @@ title: Atlantic
 fulltitle: Atlantic Department Company
 icon: 👔
 logo: /svg/logos/atlantic-store.svg
-rgb: 217, 26, 70
-logocredit: Shigeo Ikkatsuoka & Takami Ikeda, 1984, for the Meitetsu retail company.
+rgb: 248, 69, 97
+logocredit: Katsuhiko Kazutadamoto, 1973, for Ilsanneen Garden Company.
+
+
 
 fi: fi fi-min-atlantic-store fis
 
@@ -15,8 +17,8 @@ aliases:
  Part of the *[industry](/industry/)* series of articles
 {{</note>}}
 
-{{<note link>}}
-✿ Read more: *[Department Commerce](/stories/department/)*
+{{<note advice>}}
+Read more: *[Department Commerce](/stories/department/)*
 {{</note>}}
 
  {{<infobox/company

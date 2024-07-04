@@ -3105,6 +3105,12 @@ ol.timeline .event {
 .fi-min-combank.fis {
   background-image: url(../svg/logos/commonwealth-bank.svg); }
 
+.fi-min-post.fis {
+  background-image: url(../svg/logos/post.svg); }
+
+.fi-min-cosma.fis {
+  background-image: url(../svg/logos/cosma.svg); }
+
 .fi-min-commsec.fis {
   background-image: url(../svg/logos/commsec.svg); }
 

@@ -5,6 +5,7 @@ icon: 🚧
 logo: /svg/logos/nch.svg
 rgb: 232, 13, 64
 logocredit: Sotir Sotirov, 1971, for the Stara Planina company.
+series: goc
 
 image: /images/fullres/nch.jpg
 

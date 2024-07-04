@@ -130,6 +130,12 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 			</span>
 		</li>
 		<li>
+			<b>1422</b>
+			<span class="event">
+				The Royal Mail Service, predecessor to the {{<link/post>}}, is founded in Oslola.
+			</span>
+		</li>
+		<li>
 			<b>1440</b>
 			<span class="event">
 				Kala enters a union with the 3rd Commonwealth

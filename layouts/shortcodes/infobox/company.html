@@ -53,6 +53,13 @@
 	</tr>
 	{{ end }}
 
+	{{ if eq (.Get "Ministry") "Culture" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Parent</th>
+	<td><a style="color: var(--color-culture)" href="/ministry-of-culture/"><span class="fi fi-min-culture fis"></span> Ministry of Culture</a></td>
+	</tr>
+	{{ end }}
+
 	{{ if eq (.Get "Ministry") "Commerce" }}
 	<tr>
 	<td style="font-weight: 500; width: 50%;">Parent</th>
@@ -87,6 +94,13 @@
 	<tr>
 	<td style="font-weight: 500; width: 50%;">Bureau</th>
 	<td><a style="color: var(--color-commons)" href="/bureau-of-oceans/"><span class="fi fi-min-commons fis"></span> Bureau of Oceans</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Bureau") "Post" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Bureau</th>
+	<td><a style="color: var(--color-culture)" href="/bureau-of-post-and-telecommunications/"><span class="fi fi-min-culture fis"></span> Bureau of Post & Telecommunications</a></td>
 	</tr>
 	{{ end }}
 
@@ -145,6 +159,13 @@
 	<tr>
 	<td style="font-weight: 500; width: 50%;">Headquarters</th>
 	<td><a style="color: rgb(215, 18, 45)" href="/kairi/"><span class="fi fi-kairi"></span> Kairi</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Headquarters") "Summers" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Headquarters</th>
+	<td><a style="color: rgb(69, 81, 202)" href="/summers/"><span class="fi fi-summers"></span> Summers</a></td>
 	</tr>
 	{{ end }}
 

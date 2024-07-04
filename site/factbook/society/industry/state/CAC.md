@@ -4,6 +4,7 @@ fulltitle: Commonwealth Aircraft
 icon: ✈️
 logo: /svg/logos/cac.svg
 rgb: 49, 80, 250
+series: goc
 
 fi: fi fi-min-cac fis
 

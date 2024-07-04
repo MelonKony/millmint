@@ -4,6 +4,7 @@ fulltitle: Commonwealth Ratings Corporation
 icon: 📈
 logo: /svg/logos/ratings.svg
 rgb: 32, 97, 241
+series: goc
 
 fi: fi fi-min-ratings fis
 
