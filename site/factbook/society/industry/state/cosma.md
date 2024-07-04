@@ -11,10 +11,7 @@ logocredit: Fritz Gottschalk & Michael Friedland, 1976, for the Spence Bay Inuit
 fi: fi fi-min-cosma fis
 
 aliases:
-- /oil/
-
-description: The railways of Vekllei, a utopia created by Hobart Phillips.
-
+- /cosma/
 ---
 {{<note series>}}
  Part of the *[industry](/industry/)* series of articles
