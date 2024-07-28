@@ -2,6 +2,22 @@
   font-family: 'Emoji'!important;
 }
 
+@mixin whirlybats {
+    align-content: center;
+    font-family: 'Whirlybats';
+    font-weight: normal;
+    font-style: normal;
+    font-feature-settings: 'liga';
+    white-space: nowrap;
+    word-wrap: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+}
+
 /* text colors */
 @mixin font-color {
   color: var(--font-color);

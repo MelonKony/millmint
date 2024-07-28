@@ -8,7 +8,7 @@ color: community
 fi: fi fi-min-community fis
 
 aliases:
-- /labsec/
+- /community/
 ---
 {{<note series>}}
  This *[parliament](/parliaments/)* is part of {{<link/vekllei>}}.

@@ -8,7 +8,7 @@ color: culture
 fi: fi fi-min-civic fis
 
 aliases:
-- /colsec/
+- /civic/
 ---
 {{<note series>}}
  This *[parliament](/parliaments/)* is part of {{<link/vekllei>}}.

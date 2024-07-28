@@ -2,6 +2,8 @@
 title: Lin Zhi
 color: yellow
 
+fi: fi fi-zhi fis
+
 toc: false
 meta: false
 info: false

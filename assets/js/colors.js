@@ -22,7 +22,7 @@ const colors = {
   gr: [31, 205, 88],
 
   commerce: [228, 160, 14],
-  commons: [243, 133, 43],
+  commons: [255, 86, 79],
   commonwealth: [229, 56, 143],
   culture: [128, 191, 34],
   defence: [237, 34, 13],

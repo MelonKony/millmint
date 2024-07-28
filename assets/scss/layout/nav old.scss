@@ -1,0 +1,272 @@
+// millmint.net navbar
+// TODO: clean
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+
+  @media screen and (max-width: $md_min_width) {
+    @include my-0;
+  }
+
+  .navbar {
+    @include margin-0;
+    @include padding-0;
+    display: flex;
+    align-items: center;
+    flex: 1;
+    list-style: none;
+    background-color: transparent;
+
+    a {
+      @include secondary-color;
+      &:hover {
+        text-decoration-line: none;
+        @include highlight;
+      }
+    }
+
+    li {
+      @include my-0;
+      padding: 2.5px;
+      list-style: none;
+    }
+
+    .menu-dropdown li {
+      .left a {
+        @include secondary-color;
+      }
+
+      &:hover {
+        @include nav-highlight-background;
+        box-shadow: inset 0 0 0 4px var(--body-background);
+      }
+    }
+
+    .navbar-dropdown {
+
+      li {
+        @include body-background-color;
+        padding: .5rem 0 .5rem 0;
+      }
+
+      >ul.menu-dropdown {
+        left: 0;
+        top: 1.65rem;
+        width: inherit;
+      }
+    }
+
+    .navbar-item {
+      @include text-sm;
+      display: block;
+      margin: 0 0.25rem 0 0;
+      padding-bottom: 0.1rem;
+      border-bottom: 2px solid transparent;
+      white-space: nowrap;
+
+      >a.menu-link {
+        @include padding-0;
+        @include font-medium;
+        .navicon, .name {
+          @include secondary-color;
+        }
+      }
+
+      &:hover {
+        border-bottom-color: var(--highlight);
+      }
+    }
+
+    .navbar-item.insection,
+    .navbar-item.active {
+      border-bottom-color: var(--highlight);
+    }
+  }
+}
+
+.navicon {
+  @include emoji;
+  @include font-normal;
+  @include radius-none;
+  @include padding-0;
+  margin-right: 4px;
+}
+
+.left {
+  margin-left: auto;
+  justify-content: start;
+}
+
+.right {
+  margin-right: auto;
+  justify-content: end;
+
+  .navicon {
+    @include radius-none;
+    height: .9rem;
+    width: .9rem;
+    margin: 0;
+    filter: none;
+  }
+}
+
+// hide social icons on mobile
+
+@media only screen and (max-width: 555px) {
+  .right {
+    display: none!important;
+  }
+}
+
+.menu {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.pure-menu-fixed {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 3;
+}
+
+.navbar,
+.navbar-item {
+  position: relative;
+}
+
+/* HORIZONTAL MENU */
+
+.pure-menu-horizontal {
+  width: 100%;
+  white-space: nowrap;
+
+  .pure-menu-list {
+    display: inline-block;
+  }
+
+  .menu-item,
+  .pure-menu-heading,
+  .pure-menu-separator {
+    display: inline-block;
+    vertical-align: middle;
+  }
+}
+
+/* Initial menus should be inline-block so that they are horizontal */
+
+/* Submenus should still be display: block; */
+
+.menu-item .menu-item {
+  display: block;
+}
+
+.menu-dropdown {
+  @include drop-shadow;
+  display: none;
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: 0;
+  padding: 0;
+  z-index: 3;
+}
+
+.submenu .menu-dropdown {
+  left: 100%;
+  top: auto;
+  margin-top: -1.8rem;
+  width: inherit;
+}
+
+.allow-hover:hover>.menu-dropdown,
+.menu-active>.menu-dropdown {
+  display: block;
+  position: absolute;
+}
+
+/* Vertical Menus - show the dropdown arrow */
+
+.submenu>.menu-link:after {
+  padding-left: 0.35rem;
+  font-family: sans-serif;
+  font-weight: bold;
+  align-content: right;
+  content: "▸";
+}
+
+/* Horizontal Menus - show the dropdown arrow */
+
+.navbar .navbar-dropdown>.menu-link:after {
+  font-family: sans-serif;
+  padding-left: 0.35rem;
+  font-weight: bold;
+  content: "▾";
+}
+
+/* scrollable menus */
+
+.pure-menu-scrollable {
+  overflow-y: scroll;
+  overflow-x: hidden;
+
+  .pure-menu-list {
+    display: block;
+  }
+}
+
+.pure-menu-horizontal.pure-menu-scrollable {
+  .pure-menu-list {
+    display: inline-block;
+  }
+
+  white-space: nowrap;
+  overflow-y: hidden;
+  overflow-x: auto;
+
+  /* a little extra padding for this style to allow for scrollbars */
+  padding: .5em 0;
+}
+
+/* misc default styling */
+
+.pure-menu-separator {
+  background-color: #ccc;
+  height: 1px;
+  margin: .3em 0;
+}
+
+/* Need to reset the separator since submenu is vertical */
+
+.pure-menu-heading {
+  text-transform: uppercase;
+  color: var(--color-text);
+}
+
+.menu-link {
+  @include text-sm;
+  padding: .5rem;
+}
+
+/* floating nav */
+
+.floating-nav {
+  position: absolute;
+  box-shadow: 0 0 0 15px var(--body-background);
+  background: var(--body-background);
+  border-radius: .075rem;
+  margin-top: 2.5rem;
+  box-sizing: border-box;
+  width: calc(100% - 3rem);
+  /* Full width minus 2 times 1.5rem padding */
+  z-index: 1;
+  left: 50%;
+  /* Center the element horizontally */
+  transform: translateX(-50%);
+  /* Adjust for half of the element's width */
+
+  @media only screen and (max-width: 500px) {
+    margin-top: 24px;
+  }
+}

@@ -2,6 +2,8 @@
 title: Cobian
 color: yellow
 
+fi: fi fi-cobian fis
+
 toc: false
 meta: false
 info: false

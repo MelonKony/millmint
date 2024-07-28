@@ -28,7 +28,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 {{</note>}}
 
 <div style="background-color: var(--gray-light); border-radius: 5px;">
-<img alt="smallimg" style="background-color: var(--gray-light); border-radius: 5px;" src="/images/images/mastheads/tzizuku.png">
+<img alt="smallimg" style="background-color: var(--gray-light); border-radius: 5px;" src="/images/mastheads/tzizuku.png">
 </div>
 
 ## Abstract

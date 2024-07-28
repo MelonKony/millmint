@@ -8,7 +8,7 @@ color: health
 fi: fi fi-min-health fis
 
 aliases:
-- /helsec/
+- /health/
 ---
 {{<note series>}}
  This *[parliament](/parliaments/)* is part of {{<link/vekllei>}}.

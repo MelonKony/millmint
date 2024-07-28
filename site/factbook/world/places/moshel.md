@@ -1,24 +1,16 @@
 ---
 title: Moshel School
-
 fulltitle: Moshel Street School
 icon: 📖
 emoji: t
 color: green
 
-tags:
-  - borough
-categories:
-  - commonwealth
-
-image:
-
+image: /images/fullres/school-map.jpg
 
 aliases:
 - /moshel/
 
 description: The Moshel St School is Tzipora's secondary school in Vekllei.
-
 ---
 {{<note series>}}
  This article is about a [**location**](/factbook/landscape/places) in [**Vekllei**](/vekllei/)

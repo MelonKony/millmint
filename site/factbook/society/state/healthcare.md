@@ -13,7 +13,7 @@ draft: false
 toc: true
 
 aliases:
-- /health/
+- /healthcare/
 ---
 {{<note series>}}
  Part of the *[state](/state/)* series of articles

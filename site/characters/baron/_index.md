@@ -2,6 +2,8 @@
 title: Baron
 color: yellow
 
+fi: fi fi-baron fis
+
 toc: false
 meta: false
 info: false

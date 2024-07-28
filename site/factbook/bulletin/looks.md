@@ -12,7 +12,7 @@ categories:
 - bulletin
 
 aliases:
-- /bulletin/standardisation
+- /bulletin/looks/
 ---
 {{<note series>}}
  Part of the *[bulletin](/bulletin/)* series of articles

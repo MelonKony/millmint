@@ -1,6 +1,6 @@
 ---
 title: Rail
-fulltitle: Vekllei National Rail
+fulltitle: Commonwealth National Rail
 icon: 🚇
 logo: /svg/logos/rail.svg
 image: /images/orange.jpg
@@ -22,12 +22,12 @@ aliases:
 {{</note>}}
 
 {{<infobox/company
-   Name="Vekllei National Rail"
+   Name="Commonwealth National Rail"
    Logo="/svg/logos/rail.svg"
    Type="State"
    Ministry="Commons"
    Bureau="Rail"
-   Industry="Rail Transport"
+   Industry="Rail transport"
    Headquarters="Oslola"
    Founded="1855, as the Pharos Rail Company"
    Employees="65,240"
@@ -38,7 +38,7 @@ aliases:
 
 **Vekllei National Rail (VNR)** is a catch-all term for bureau-backed, state-owned rail operators of Vekllei. In casual use, it refers to the Vekllei National Railway A.r.R. and its sister companies, like Vekllei Metro, which are structured within the service-oriented Railways Bureau. More precisely, Vekllei National Rail encompasses several different bureaus that operate, design, maintain and communicate rail service in the country, which itself is further included under the Transport Requisite of the Vekllei Government.
 
-Like most critical organisations of Vekllei, the structure and directorship of Vekllei National Rail is complex, but can be simplified by understanding that all rail transport in the country is ultimately the responsibility of an organisation called Vekllei National Rail, and it is towards this organ that this article is addressed. Today, the National Rail operates nearly 20,000km of track, indicating the density of the rail service it provides, and services nearly 20 million people each day through its network. It is administered and operated by the [<span class="fi fi-min-commons fis"></span> Bureau of Rail](/bureau-of-rail/).
+Like most critical organisations of Vekllei, the structure and directorship of Vekllei National Rail is complex, but can be simplified by understanding that all rail transport in the country is ultimately the responsibility of an organisation called Vekllei National Rail, and it is towards this organ that this article is addressed. Today, the National Rail operates nearly 20,000km of track, indicating the density of the rail service it provides, and services nearly 20 million people each day through its network. It is administered and operated by the {{<link/bureau-of-rail>}}.
 
 
 ### Introduction
@@ -55,7 +55,7 @@ Unusually, Vekllei National Rail is legally absolved of all non-rail transport, 
 
 ### History
 
-Although Vekllei has used wagonways since the 18th Century and developed horse-drawn railways for industrial transport in its ports, the first passenger rail line in Vekllei was founded in 1855 by the [Pharos Rail Company](/factbook/landscape/boroughs/pharos/#pharos-railway-company-museum).
+Although Vekllei has used wagonways since the 18th Century and developed horse-drawn railways for industrial transport in its ports, the first passenger rail line in Vekllei was founded in 1855 by the Pharos Rail Company.
 
 The history of rail in Vekllei can be summarised in three key eras of development.
 

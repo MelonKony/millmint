@@ -1,5 +1,5 @@
 // millmint.net navbar
-// TODO: clean
+// Made by Hobart
 
 nav {
   display: flex;
@@ -12,16 +12,214 @@ nav {
   .navbar {
     @include margin-0;
     @include padding-0;
+    position: relative;
     display: flex;
     align-items: center;
     flex: 1;
     list-style: none;
     background-color: transparent;
 
+    .navlink {
+      @include text-sm;
+      @include font-medium;
+      @include radius-base;
+      line-height: 1.25rem;
+      display: block;
+      padding: .25rem .5rem .25rem .25rem;
+      padding-bottom: .1rem;
+      border-bottom: 4px solid transparent;
+      position: static;
+      white-space: nowrap;
+
+      &:hover {
+        @include highlight-background;
+
+        a {
+          @include highlight;
+        }
+      }
+    }
+
+    .dropdown {
+      @include drop-shadow;
+      @include body-background-color;
+      @include radius-base;
+      margin-top: .25rem;
+      max-width: 45rem;
+      width: 100%;
+      box-sizing: content-box;
+      display: none;
+      position: absolute;
+      white-space: normal;
+      min-height: fit-content;
+      left: 0;
+      z-index: 10;
+    }
+
+    .navlink:hover .dropdown {
+      display: block;
+    }
+
+    .bento {
+      @include padding-2;
+      display: flex;
+      align-content: stretch;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      flex-grow: 4;
+
+      button {
+        @include font-color;
+        line-height: 1.6rem;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+
+      a {
+        white-space: nowrap;
+        @include px-1;
+        @include py-2;
+      }
+
+      .whirlybats {
+        @include whirlybats;
+        font-size: 20px;
+        width: 10px;
+      }
+
+      .box {
+        @include padding-1;
+        align-content: stretch;
+        min-width: min-content;
+
+        .boxtitle {
+          @include font-color;
+          font-size: 16px;
+        }
+
+        button {
+          border: none;
+        }
+
+        .tray {
+          @include padding-2;
+          @include my-2;
+          @include radius-base;
+          justify-content: space-between;
+          align-content: stretch;
+
+          a {
+            @include font-color;
+            @include font-normal;
+            @include px-1;
+            @include py-2;
+          }
+
+          .boxtitle {
+            padding-top: 0;
+            padding-bottom: .5rem;
+            line-height: 2rem;
+            font-size: 16px;
+            @include font-medium;
+          }
+        }
+      }
+
+      .box[full] {
+        width: 100%;
+      }
+
+      .box[half] {
+        @media only screen and (min-width: 600px) {
+          width: 48%;
+        }
+      }
+
+      .box[two-thirds] {
+        @media only screen and (min-width: 600px) {
+          width: 66%;
+        }
+      }
+
+      .box[one-third] {
+        @media only screen and (min-width: 600px) {
+          width: 30%;
+        }
+      }
+
+      .box {
+        @media only screen and (max-width: 600px) {
+          width: 100%;
+        }
+      }
+
+      .tray {
+        &[vekllei] {
+          background-color: rgba(54, 73, 187, 0.1);
+        }
+
+        &[yellow] {
+          background-color: rgba(234, 147, 101, 0.1);
+        }
+
+        &[purple] {
+          background-color: rgba(155, 67, 199, 0.1)
+        }
+
+        &[brown] {
+          background-color: rgba(162, 132, 94, 0.1)
+        }
+
+        &[blue] {
+          background-color: rgba(28, 123, 205, 0.1)
+        }
+
+        &[green] {
+          background-color: rgba(92, 185, 85, 0.1);
+        }
+
+        &[millmint] {
+          background-color: rgba(225, 28, 110, 0.1)
+        }
+      }
+
+      .boxtitle {
+        &[vekllei] {
+          color: var(--color-vekllei);
+        }
+
+        &[yellow] {
+          color: var(--color-yellow);
+        }
+
+        &[purple] {
+          color: var(--color-purple);
+        }
+
+        &[brown] {
+          color: var(--color-brown);
+        }
+
+        &[blue] {
+          color: var(--color-blue);
+        }
+
+        &[green] {
+          color: var(--color-green);
+        }
+
+        &[millmint] {
+          color: var(--color-millmint);
+        }
+      }
+    }
+
     a {
       @include secondary-color;
+
       &:hover {
-        text-decoration-line: none;
         @include highlight;
       }
     }
@@ -31,57 +229,6 @@ nav {
       padding: 2.5px;
       list-style: none;
     }
-
-    .menu-dropdown li {
-      .left a {
-        @include secondary-color;
-      }
-
-      &:hover {
-        @include nav-highlight-background;
-        box-shadow: inset 0 0 0 4px var(--body-background);
-      }
-    }
-
-    .navbar-dropdown {
-
-      li {
-        @include body-background-color;
-        padding: .5rem 0 .5rem 0;
-      }
-
-      >ul.menu-dropdown {
-        left: 0;
-        top: 1.65rem;
-        width: inherit;
-      }
-    }
-
-    .navbar-item {
-      @include text-sm;
-      display: block;
-      margin: 0 0.25rem 0 0;
-      padding-bottom: 0.1rem;
-      border-bottom: 2px solid transparent;
-      white-space: nowrap;
-
-      >a.menu-link {
-        @include padding-0;
-        @include font-medium;
-        .navicon, .name {
-          @include secondary-color;
-        }
-      }
-
-      &:hover {
-        border-bottom-color: var(--highlight);
-      }
-    }
-
-    .navbar-item.insection,
-    .navbar-item.active {
-      border-bottom-color: var(--highlight);
-    }
   }
 }
 
@@ -90,7 +237,12 @@ nav {
   @include font-normal;
   @include radius-none;
   @include padding-0;
-  margin-right: 4px;
+}
+
+.navtitle {
+  @include text-lg;
+  @include radius-base;
+  @include highlight;
 }
 
 .left {
@@ -115,138 +267,8 @@ nav {
 
 @media only screen and (max-width: 555px) {
   .right {
-    display: none!important;
+    display: none !important;
   }
-}
-
-.menu {
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-.pure-menu-fixed {
-  position: fixed;
-  left: 0;
-  top: 0;
-  z-index: 3;
-}
-
-.navbar,
-.navbar-item {
-  position: relative;
-}
-
-/* HORIZONTAL MENU */
-
-.pure-menu-horizontal {
-  width: 100%;
-  white-space: nowrap;
-
-  .pure-menu-list {
-    display: inline-block;
-  }
-
-  .menu-item,
-  .pure-menu-heading,
-  .pure-menu-separator {
-    display: inline-block;
-    vertical-align: middle;
-  }
-}
-
-/* Initial menus should be inline-block so that they are horizontal */
-
-/* Submenus should still be display: block; */
-
-.menu-item .menu-item {
-  display: block;
-}
-
-.menu-dropdown {
-  @include drop-shadow;
-  display: none;
-  position: absolute;
-  left: 0;
-  top: 0;
-  margin: 0;
-  padding: 0;
-  z-index: 3;
-}
-
-.submenu .menu-dropdown {
-  left: 100%;
-  top: auto;
-  margin-top: -1.8rem;
-  width: inherit;
-}
-
-.allow-hover:hover>.menu-dropdown,
-.menu-active>.menu-dropdown {
-  display: block;
-  position: absolute;
-}
-
-/* Vertical Menus - show the dropdown arrow */
-
-.submenu>.menu-link:after {
-  padding-left: 0.35rem;
-  font-family: sans-serif;
-  font-weight: bold;
-  align-content: right;
-  content: "▸";
-}
-
-/* Horizontal Menus - show the dropdown arrow */
-
-.navbar .navbar-dropdown>.menu-link:after {
-  font-family: sans-serif;
-  padding-left: 0.35rem;
-  font-weight: bold;
-  content: "▾";
-}
-
-/* scrollable menus */
-
-.pure-menu-scrollable {
-  overflow-y: scroll;
-  overflow-x: hidden;
-
-  .pure-menu-list {
-    display: block;
-  }
-}
-
-.pure-menu-horizontal.pure-menu-scrollable {
-  .pure-menu-list {
-    display: inline-block;
-  }
-
-  white-space: nowrap;
-  overflow-y: hidden;
-  overflow-x: auto;
-
-  /* a little extra padding for this style to allow for scrollbars */
-  padding: .5em 0;
-}
-
-/* misc default styling */
-
-.pure-menu-separator {
-  background-color: #ccc;
-  height: 1px;
-  margin: .3em 0;
-}
-
-/* Need to reset the separator since submenu is vertical */
-
-.pure-menu-heading {
-  text-transform: uppercase;
-  color: var(--color-text);
-}
-
-.menu-link {
-  @include text-sm;
-  padding: .5rem;
 }
 
 /* floating nav */
@@ -258,7 +280,7 @@ nav {
   border-radius: .075rem;
   margin-top: 2.5rem;
   box-sizing: border-box;
-  width: calc(100% - 3rem);
+  width: calc(100% - 3.5rem);
   /* Full width minus 2 times 1.5rem padding */
   z-index: 1;
   left: 50%;
@@ -268,5 +290,65 @@ nav {
 
   @media only screen and (max-width: 500px) {
     margin-top: 24px;
+  }
+}
+
+.showcase {
+  @include padding-0;
+  display: none;
+  flex: 1;
+
+  .navcard {
+    @include mx-1;
+    @include radius-base;
+    height: auto;
+    overflow: hidden;
+    display: flex;
+    flex: 1;
+    justify-self: center;
+    align-self: center;
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 2;
+    transition: ease 0.15s;
+
+    a {
+      padding: 0 !important;
+    }
+
+    &:hover {
+      @include drop-shadow;
+      transform: translateY(-0.25rem);
+    }
+
+    .name {
+      position: absolute;
+    }
+
+    figure {
+      margin: 0;
+    }
+
+    img {
+      @include margin-0;
+      @include padding-0;
+      display: block;
+      box-sizing: border-box;
+      transform: scale(1.1);
+      height: 150px;
+      object-fit: cover;
+    }
+  }
+}
+
+.showcase[five] {
+  @media only screen and (min-width: 600px) {
+    display: flex;
+  }
+}
+
+.showcase[three] {
+  @media only screen and (max-width: 600px) {
+    display: flex;
   }
 }

@@ -2,6 +2,8 @@
 title: Tzipora
 color: yellow
 
+fi: fi fi-tzipora fis
+
 toc: false
 meta: false
 info: false

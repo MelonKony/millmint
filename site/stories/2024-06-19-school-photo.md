@@ -9,7 +9,7 @@ tags:
 characters:
 - tzipora
 categories:
-- sketch
+- story
 keywords:
 - 2024
 

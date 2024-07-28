@@ -2,6 +2,8 @@
 title: Moise
 color: yellow
 
+fi: fi fi-moise fis
+
 toc: false
 meta: false
 info: false

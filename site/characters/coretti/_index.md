@@ -2,6 +2,8 @@
 title: Coretti
 color: yellow
 
+fi: fi fi-coretti fis
+
 toc: false
 meta: false
 info: false

@@ -8,7 +8,7 @@ color: security
 fi: fi fi-min-security fis
 
 aliases:
-- /opsec/
+- /security/
 ---
 {{<note series>}}
  This *[parliament](/parliaments/)* is part of {{<link/vekllei>}}.

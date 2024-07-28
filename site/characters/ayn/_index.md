@@ -2,6 +2,8 @@
 title: Ayn
 color: yellow
 
+fi: fi fi-ayn fis
+
 toc: false
 meta: false
 info: false

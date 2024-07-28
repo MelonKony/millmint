@@ -8,7 +8,7 @@ color: democracy
 fi: fi fi-min-democracy fis
 
 aliases:
-- /demsec/
+- /democracy/
 ---
 {{<note series>}}
  This *[parliament](/parliaments/)* is part of {{<link/vekllei>}}.

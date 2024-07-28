@@ -1,0 +1,123 @@
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
+	<tr>
+		<th colspan="2"><span class="fi" style="background-image: url({{.Get "SmallFlag"}});"></span> {{.Get "Name"}}</th>
+	</tr>
+
+	{{ if eq (.Get "Service") "Air" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a style="color: var(--color-vekllei)" href="/air-service/"><span class="fi fi-defence"></span> Air Service</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Roundel") }}
+	<tr>
+		<td colspan="2">
+			<img src="{{.Get "Roundel"}}">
+		</td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Commonwealth") "Antarctic" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/antarctic/"><span class="fi fi-antarctic"></span> Antarctic Commonwealth</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Commonwealth") "Antilles" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/antilles/"><span class="fi fi-antilles"></span> Antilles Commonwealth</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Commonwealth") "Arctic" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/arctic/"><span class="fi fi-arctic"></span> Arctic Commonwealth</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Commonwealth") "Atlantic" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/arctic/"><span class="fi fi-atlantic"></span> Atlantic Commonwealth</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Commonwealth") "Kalina" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/kalina/"><span class="fi fi-kalina"></span> Kalina Commonwealth</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Commonwealth") "Lucaya" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/lucaya/"><span class="fi fi-lucaya"></span> Lucayan Commonwealth</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Commonwealth") "Verde" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/verde/"><span class="fi fi-lucaya"></span> Verde Commonwealth</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Commonwealth") "Volcanic" }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/volcanic/"><span class="fi fi-volcanic"></span> Volcanic Commonwealth</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Anthem") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Anthem</th>
+		<td>{{.Get "Anthem"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Government") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Government</th>
+		<td>{{.Get "Government"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Capital") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Capital</th>
+		<td>{{.Get "Capital"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Population") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Population</th>
+		<td>{{.Get "Population"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Area") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Area</th>
+		<td>{{.Get "Area"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "NationalLanguage") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">National Language</th>
+		<td>{{.Get "NationalLanguage"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Languages") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Languages</th>
+		<td>{{.Get "Languages"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Accession") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Vekllei Accession</th>
+		<td>{{.Get "Accession"}}</td>
+	</tr>
+	{{ end }}
+</table>
