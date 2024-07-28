@@ -1,7 +1,7 @@
 /* dots */
 @mixin background-dots {
 	background-color: var(--hint-bg, var(--gray-light));
-	  background-image: radial-gradient(var(--highlight) 0.5px, var(--hint-bg, var(--gray-light)) 0.5px);
+	  background-image: radial-gradient(var(--color-dots) 0.5px, var(--hint-bg, var(--gray-light)) 0.5px);
 	  background-size: 10px 10px;
 }
 

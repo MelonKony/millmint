@@ -133,6 +133,8 @@ html[data-theme="light"] {
 
   --color-blue: #{$blue};
 
+  --color-dots: #{$gray-heavy};
+
   --color-text: #{$font-color};
   --color-text-secondary: #{$gray-500};
   --color-text-footer: #{$gray-500};
@@ -159,6 +161,8 @@ html[data-theme="dark"] {
   --gray-heavy: #{$gray-heavy-dark};
 
   --color-blue: rgb(32, 79, 120);
+
+  --color-dots: #{$font-color};
 
   --color-text-secondary: #{$gray-450};
   --color-text-footer: #{$gray-400};

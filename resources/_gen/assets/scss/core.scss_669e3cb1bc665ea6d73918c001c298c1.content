@@ -57,6 +57,7 @@ html[data-theme="light"] {
   --gray-med: #e5e5e5;
   --gray-heavy: #5f5f69;
   --color-blue: #1c7bcd;
+  --color-dots: #5f5f69;
   --color-text: #1d1d1f;
   --color-text-secondary: #737373;
   --color-text-footer: #737373;
@@ -80,6 +81,7 @@ html[data-theme="dark"] {
   --gray-med:#302f2f;
   --gray-heavy: #d7d7dd;
   --color-blue: rgb(32, 79, 120);
+  --color-dots: #1d1d1f;
   --color-text-secondary: #8b8b8b;
   --color-text-footer: #a3a3a3;
   --color-border: #737373;
@@ -322,7 +324,7 @@ html {
 
 body {
   background-color: var(--hint-bg, var(--gray-light));
-  background-image: radial-gradient(var(--highlight) 0.5px, var(--hint-bg, var(--gray-light)) 0.5px);
+  background-image: radial-gradient(var(--color-dots) 0.5px, var(--hint-bg, var(--gray-light)) 0.5px);
   background-size: 10px 10px; }
 
 main {
