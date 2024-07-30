@@ -16,8 +16,8 @@ aliases:
  Commsec is part of the {{<link/ministry-of-commerce>}}
 {{</note>}}
 
-{{<note link>}}
-✿ Read more: *[Finance in Vekllei](/finance/)*
+{{<note advice>}}
+Read more: *[Finance in Vekllei](/finance/)*
 {{</note>}}
 
 The <span class="fi fi-min-commsec fis"></span> **Commonwealth Securities Exchange** (Commsec, or CSX) is a [government corporation](/state-industry/) that operates the national securities and commodities market in {{<link/vekllei>}}. It is supervised by the {{<link/bureau-of-securities>}}. The corporation is itself listed on the CSX.
