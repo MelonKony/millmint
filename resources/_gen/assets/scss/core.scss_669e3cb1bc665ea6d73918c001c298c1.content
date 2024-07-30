@@ -1146,6 +1146,7 @@ nav {
       box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
       background-color: var(--body-background);
       border-radius: .25rem;
+      border: 1px solid var(--highlight);
       margin-top: .25rem;
       max-width: 45rem;
       width: 100%;

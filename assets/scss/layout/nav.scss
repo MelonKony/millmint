@@ -44,6 +44,7 @@ nav {
       @include drop-shadow;
       @include body-background-color;
       @include radius-base;
+      @include highlight-border;
       margin-top: .25rem;
       max-width: 45rem;
       width: 100%;
