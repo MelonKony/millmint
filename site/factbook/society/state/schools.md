@@ -2,7 +2,7 @@
 title: Education in Vekllei
 fulltitle: Education in Vekllei
 icon: 📚
-logo: /svg/logos/education.svg
+logo: /svg/logos/schools.svg
 
 logocredit: Burton Kramer, 1981, for the Oak Sales Corporation.
 series: factsheet
