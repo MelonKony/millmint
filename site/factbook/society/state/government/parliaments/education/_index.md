@@ -10,66 +10,31 @@ logocredit: František Boban, 1974, for Ustav Aplikovanej Kybernetiky.
 fi: fi fi-min-education fis
 
 aliases:
-- /edu/
+- /education-parliament/
 ---
 {{<note series>}}
  This *[parliament](/parliaments/)* is part of {{<link/vekllei>}}.
 {{</note>}}
-
-## Overview
-{{<boxtag teal>}}CHICOM{{</boxtag>}}
-
-The *Commonwealth Education Secretariat* (SOLSEC) is the commonwealth body responsible for all education across the Commonwealth, including compulsory primary, vocational and tertiary schooling. Alongside the [COSMOCOM Accreditation Directorate](/factbook/society/government/#accreditation-directorate), CHICOM certifies teachers and the Commonwealth curriculum, and publishes textbooks and learning materials via the Children's and Tertiary Press.
-
-The stated mission of CHICOM is the democratisation and celebration of knowledge and the development of technical skills.
-
-CHICOM also oversees Vekllei's four learned societies, called academies, which offer immortal membership to remarkable contributors to learning in Vekllei. The Academies of the Commonwealth are funded by a bureau tithe, mandated but otherwise seperate from Commonwealth government apparatuses.
-
-{{<note panel>}}
-### Vekllei National Laboratories
-
-*Vekllei National Laboratories* (also *National Labs*) is the administrator of the National Laboratory Complex in Amenmer, Coyenstisn, and the National Laboratory System across Commonwealth-level universities and academies in Vekllei.
+{{<note advice>}}
+Read more: {{<link/schools>}}
 {{</note>}}
 
-{{<note panel>}}
-### Academy of Natural Sciences
+The Commonwealth Education Parliament is a [superior ministry](/parliaments/) of the {{<link/vekllei>}} {{<link/government>}}. It is led by the State Secretary of Education, who reports to the {{<link/cabinet>}}. It administers, regulates and maintains public education in Vekllei, and is responsible for all compulsory and most tertiary education throughout the country.
 
-The *Crown Academy of Natural Sciences* is the sovereign (commonwealth-level) academy of natural sciences in the Commonwealth. It functions primarily as a research institute of distinguished academicians and scientific body that advises policy. Headquartered in the Home Islands, it has hundreds of branch institutes across the Commonwealth and in Rome, London and Beijing. These branches are organised along 7 academic divisions, each subdivided into hundreds of individual departments. It is the oldest of the academies, founded by the Crown Sovereign in 1527.
+Education in Vekllei is centralised in policy and local in delivery. The country maintains a national curriculum established by the {{<link/cqc>}}, which also conducts examinations. Regular operation of schools and policymaking is provided by the {{<link/bureau-of-public-education>}}, which oversees the 120 school districts across Vekllei. There are nearly 4.1 million students across Vekllei enrolled in compulsory schooling, and a further 2.3 million enrolled in tertiary schools.
 
-* **School of Chemistry**: Studies of atomic and molecular matter and chemical processes.
-* **School of Medicine**: Studies of anatomy, physiology and healthcare.
-* **School of Mathematics and Physics**: Studies of the constituents of the universe, natural forces, and mathematics.
-* **School of Technology and Materials**: Studies of matter, its properties, machines and technologies.
-* **School of Astronomy**: Studies of celestial phenomena.
-* **School of Geography**: Studies of geography, geology and oceanography.
-* **School of Biology**: Studies of living organisms.
+Broadly, the responsibilities of the Education Parliament include:
+
+{{<note>}}
+* Advancement of education throughout the country.
+* Operation, funding and supply of government schools, libraries and universities.
+* Establishment of quality standards, a national curriculum and education policy.
+* Improvement of accessibility and equity in public education.
+* Promotion of
 {{</note>}}
 
-{{<note panel>}}
-### Academy of Engineering Sciences
+The Parliament of Health is led by the State Secretary of Education, who is a member of the {{<link/cabinet>}}. It is represented in the {{<link/council>}} by the First Secretary of Education.
 
-The *Crown Academy of Engineering Sciences* is the sovereign (commonwealth-level) academy of engineering in the Commonwealth. Its membership of nearly 1,000 academicians are considered to have made invaluable contributions to engineering sciences, and hold lifelong tenure at the academy. It includes six schools, which conduct research and consultancy with the Commonwealth and Interior Administrations.
+{{<link/schools>}} is a national priority, and has been since independence. It is generally regarded as well-equipped, equitable and world-class. Innovations inside and outside the classroom have led a quiet revolution in the style and outcomes of their learning, and equip Vekllei people to meet the needs of their high-skill society. It is publicly valued and culturally cherished, and is among the foremost achievements of the 4th Commonwealth.
 
-* **School of Mechanical and Vehicle Engineering**: Studies of atomic and molecular matter and chemical processes.
-* **School of Electrical Engineering**: Studies of anatomy, physiology and healthcare.
-* **School of Chemical Engineering**: Studies of the constituents of the universe, natural forces, and mathematics.
-* **School of Civil Engineering**: Studies of matter, its properties, machines and technologies.
-* **School of Agricultural Engineering**: Studies of celestial phenomena.
-{{</note>}}
-
-{{<note panel>}}
-### Academy of Philosophy
-
-* **School of Philosophy**
-* **School Sociology**
-* **School of Theology**
-
-{{</note>}}
-
-{{<note panel>}}
-### Academy of Political Sciences
-
-* **School of Law**
-* **School of Political Economics**
-* **School of History and Geography**
-{{</note>}}
+Because of its transformative systems of learning and reliable public investment, Vekllei schools have a high and unique reputation around the world -- praised not for their test scores, but for the quality, competence and wellbeing of the graduates it produces.

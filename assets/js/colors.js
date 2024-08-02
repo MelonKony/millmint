@@ -32,7 +32,7 @@ const colors = {
   landscape: [19, 172, 67],
   lightandwater: [39, 149, 204],
 
-  education: [59, 111, 185],
+  education: [50, 134, 219],
   security: [240, 86, 75],
   community: [255, 162, 84],
   culture: [59, 186, 94],

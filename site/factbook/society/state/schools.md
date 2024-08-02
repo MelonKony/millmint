@@ -1,12 +1,15 @@
 ---
-title: Education
+title: Education in Vekllei
 fulltitle: Education in Vekllei
 icon: 📚
-emoji: p
-color: millmint
-image:
+logo: /svg/logos/education.svg
 
-type: blank
+logocredit: Burton Kramer, 1981, for the Oak Sales Corporation.
+series: factsheet
+
+rgb: 147, 71, 208
+
+fi: fi fi-min-schools fis
 
 aliases:
 - /education/
@@ -30,9 +33,11 @@ Government education in Vekllei is unusually diverse, and comprises basically al
 
 ## Atlantic Model of Education
 
-The *Atlantic Model* is the colloquial name for the Vekllei public education system. It is a hybridised model incorporating different influences, including progressive and Montessori methods. The Atlantic Model places greater emphasis on personal responsibility, constructivist learning and hobbyism. A distinguishing characteristic is its emphasis on synchronous authority, which protects certain student rights but retains the premise of the teacher as a classroom authority.
+The *Atlantic Model* is the colloquial name for the Vekllei public education system. It is a hybridised model incorporating different influences, including Ferrer and Montessori methods. The Atlantic Model places greater emphasis on personal responsibility, constructivist learning and hobbyism. A distinguishing characteristic is its emphasis on synchronous authority, which protects certain student rights but retains the premise of the teacher as a classroom authority.
 
-Although this system incorporates progressive and alternative education methods, its structure deviates from trends common in those movements. Vekllei schools have traditional classrooms, a common [student uniform](#uniform), and address teachers by their surname.
+Vekllei schools, including universities, employ competency-based grading. This system uses scaffolded tasks to demonstrate competence in a subject, and students are often provided more than one chance to demonstrate their ability. This system has found general success across Vekllei, and it has raised academic standards and the quality of student participation. It has also reduced anxieties about examination and testing in the classroom, and contributes significantly to the wellbeing of Vekllei students. This system does not always accredit easily with systems outside of Vekllei, which can affect post-graduate opportunities.
+
+Although the Atlantic Model incorporates progressive and alternative education methods, its structure deviates from trends common in those movements. Vekllei schools have traditional classrooms, a common [student uniform](#uniform), and address teachers by their surname.
 
 The distinguishing characteristics of the Atlantic Model are:
 
@@ -42,6 +47,8 @@ The distinguishing characteristics of the Atlantic Model are:
 * Democratic or student-led topics and activities
 * Emphasis of personal responsibility, improvement, and discipline
 * Free time for work and play
+* Physical, experiential and practical learning
+* Competency-based rather than graded assessment
 * Emphasis on clubs, hobbies and extracurricular activities
 * Shared burdens like cleaning and cooking
 * Short classroom periods broken up by changes in location and subject
@@ -58,7 +65,7 @@ Download: <span class="smallicon">📄</span> [Document No. 7.pdf](/files/docume
 
 ![Image of Tzipora and Moise](/images/fullres/sami.jpg "The student uniform is heavily accessorised, and varies in detail to accomodate the culture of republics | *[Sami](/stories/sami/)*")
 
-Education in Vekllei has no fees, by nature of the *commons*, including at the secondary and tertiary level. It is funded and equipped by the {{<link/parliament-of-education>}}, which also establishes and supports the national curriculum.
+Education in Vekllei has no fees, by nature of the *commons*, including at the secondary and tertiary level. It is funded and equipped by the {{<link/bureau-of-public-education>}}. The {{<link/cqc>}} establishes and supports the national curriculum.
 
 There are many different types of school in Vekllei, but all are government-funded and adhere to the compulsory curriculum outlined by the Education Secretary. The national education uniform is compulsory for all students at both public and independent schools, and is voluntary at universities.
 
@@ -162,7 +169,7 @@ The national curriculum is the common programme of study in all Commonwealth sch
 Read more: *[Uniforms in Vekllei](/stories/uniforms/)*
 {{</note>}}
 
-![Illustration of different ways of wearing the same school uniform](/images/generation.jpg "Examples of Vekllei school uniform and its functional diversity | [*A New Generation*](/stories/new-generation/)")
+![Illustration of different ways of wearing the same school uniform](/images/fullres/requests.jpg "Examples of Vekllei school uniform and its functional diversity | [*A New Generation*](/stories/new-generation/)")
 
 All schools in Vekllei share a common student uniform, which can also be worn by teachers and at university. The basic components are universal, but makes no requirements about hair, piercings or makeup. In addition, the basic uniform is often heavily accessorised with cultural elements approved by the school. These include elements like hats, belts, overskirt pleats, clothing items and armbands, but these are added to the existing uniform and do not typically modify the base components.
 
