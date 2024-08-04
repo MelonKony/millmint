@@ -145,6 +145,10 @@ In order to study abroad, Vekllei students must be sponsored by a foreigner, rec
 
 ## Curriculum
 
+{{<note advice>}}
+Read more: {{<link/cqc>}}
+{{</note>}}
+
 The national curriculum is the common programme of study in all Commonwealth schools, and determines standards of study across all education institutions.
 
 <details open>
