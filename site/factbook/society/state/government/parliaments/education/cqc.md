@@ -23,10 +23,10 @@ The CQC is politically independent of the {{<link/parliament-of-education>}} and
 **Commonwealth National Curriculum**
 
 * **Arts**
-    * Painting & Illustration
-    * Sculpture
+    * Painting, Illustration & Sculpture
     * Theatre & Performance
     * Music & Music Theory
+    * Literature & Culture
 * **Vekllei Languages**
     * Local Language Fluency
     * English Language Fluency
@@ -36,6 +36,7 @@ The CQC is politically independent of the {{<link/parliament-of-education>}} and
     * Sports & Sports Sciences
     * Health Sciences & Sexual Education
     * Biological Sciences
+    * Psychology & Wellbeing
 * **Civic Sciences and Stewardship**
     * Democratic & Federal Sciences
     * Civics & Vekllei History
