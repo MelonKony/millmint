@@ -33,7 +33,7 @@ The CQC is politically independent of the {{<link/parliament-of-education>}} and
     * English Language Fluency
 * **Foreign Languages**
     * Spanish, Portuguese, French, Serbo-Croatian, Italian, Russian, Japanese, Thai
-* **Health and Physical Education**
+* **Domestic, Health and Physical Education**
     * Sports & Sports Sciences
     * Health Sciences & Sexual Education
     * Biological Sciences
