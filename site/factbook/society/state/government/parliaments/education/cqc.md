@@ -25,6 +25,7 @@ The CQC is politically independent of the {{<link/parliament-of-education>}} and
 * **Arts**
     * Painting, Illustration & Sculpture
     * Theatre & Performance
+    * Film-making & Photography
     * Music & Music Theory
     * Literature & Culture
 * **Vekllei Languages**
@@ -37,6 +38,7 @@ The CQC is politically independent of the {{<link/parliament-of-education>}} and
     * Health Sciences & Sexual Education
     * Biological Sciences
     * Psychology & Wellbeing
+    * Domestic Sciences
 * **Civic Sciences and Stewardship**
     * Democratic & Federal Sciences
     * Civics & Vekllei History
