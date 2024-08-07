@@ -39,9 +39,11 @@ The CQC is politically independent of the {{<link/parliament-of-education>}} and
     * Biological Sciences
     * Psychology & Wellbeing
     * Domestic Sciences
-* **Civic Sciences and Stewardship**
+* **Civic Sciences, Philosophy and Stewardship**
     * Democratic & Federal Sciences
     * Civics & Vekllei History
+    * Studies of Religion
+    * Philosophy & Epistemology
     * Community & Localism
 * **Economics and Business**
     * Finance & Markets
@@ -54,7 +56,7 @@ The CQC is politically independent of the {{<link/parliament-of-education>}} and
 * **Political Sciences and History**
     * Government & Leadership
     * Sociology & Society
-    * Political Systems & Ideology
+    * Political Systems
 * **Mathematics**
     * Everyday Mathematics
     * Specialised Mathematics & Physics
