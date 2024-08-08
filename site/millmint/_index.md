@@ -4,7 +4,6 @@ fulltitle: MillMint
 icon: 📕
 emoji: ʠ
 color: blue
-list: true
 meta: false
 
 menus: main
@@ -16,7 +15,13 @@ aliases:
 
 toc: false
 ---
+<style>
+  header.info {
+    height: 2.5rem;
+  }
+</style>
+
 {{<note>}}
-<span class="navicon">📕</span> **MillMint** is the place for everything going on at Studio MillMint and the {{<link/vekllei>}}world-building project. It also includes essays written by author Hobart Phillips relevant to the project, particularly on [functional moneylessness](/news/essays/moneylessness/) and [*utopie concrète*](/news/essays/utopie/).
+<span class="navicon">📕</span> **MillMint** is the place for everything going on at Studio MillMint. You can read [essays](/essays/), learn more about [commissions](/commissions/), or [create your own Vekllei character](/millmint/dolls/).
 {{</note>}}
 {{< nav/millmint >}}

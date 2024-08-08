@@ -22,7 +22,8 @@ nav {
     .navlink {
       @include text-sm;
       @include font-medium;
-      @include radius-base;
+      border-top-left-radius: .25rem;
+      border-top-right-radius: .25rem;
       margin-right: .25rem;
       line-height: 1.25rem;
       display: block;
@@ -344,8 +345,8 @@ nav {
 
 .active {
   @include highlight-background;
-  @include highlight-border;
   color: var(--highlight);
+  box-shadow: inset 0px -502px 0px -500px var(--highlight);
 }
 
 .showcase[five] {

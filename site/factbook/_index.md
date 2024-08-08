@@ -14,8 +14,14 @@ meta: false
 
 toc: false
 ---
+<style>
+	header.info {
+		height: 2.5rem;
+	}
+</style>
+
 {{<note >}}
-<span class="navicon">📓</span> **Factbook** is the encyclopaedia of {{<link/vekllei>}}, and the features of its society.
+<span class="navicon">📓</span> **Factbook** is the encyclopaedia of {{<link/vekllei>}} and its society. You can learn more about the country, see the [world map](/map) or visit the [timeline](/timeline/).
 {{</note>}}
 
 {{< nav/factbook >}}

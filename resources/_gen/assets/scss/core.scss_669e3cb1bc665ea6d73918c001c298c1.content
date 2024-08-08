@@ -1131,7 +1131,8 @@ nav {
       line-height: 1.25rem;
       /* 20px */
       font-weight: 500;
-      border-radius: .25rem;
+      border-top-left-radius: .25rem;
+      border-top-right-radius: .25rem;
       margin-right: .25rem;
       line-height: 1.25rem;
       display: block;
@@ -1363,8 +1364,8 @@ nav {
 
 .active {
   background-color: var(--highlight-background);
-  border: 1px solid var(--highlight);
-  color: var(--highlight); }
+  color: var(--highlight);
+  box-shadow: inset 0px -502px 0px -500px var(--highlight); }
 
 @media only screen and (min-width: 600px) {
   .showcase[five] {
