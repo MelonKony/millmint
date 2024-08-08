@@ -1,67 +1,11 @@
 // millmint.net navbar
 // Made by Hobart
 
-nav {
-  display: flex;
-  flex-wrap: wrap;
-
-  @media screen and (max-width: $md_min_width) {
-    @include my-0;
-  }
-
-  .navbar {
-    @include margin-0;
-    @include padding-0;
-    position: relative;
-    display: flex;
-    align-items: center;
-    flex: 1;
-    list-style: none;
-    background-color: transparent;
-
-    .navlink {
-      @include text-sm;
-      @include font-medium;
-      @include radius-base;
-      margin-right: .25rem;
-      line-height: 1.25rem;
-      display: block;
-      padding: .25rem .5rem .25rem .25rem;
-      position: static;
-      white-space: nowrap;
-
-      &:hover {
-        @include highlight-background;
-
-        a {
-          @include highlight;
-        }
-      }
-    }
-
-    .dropdown {
-      @include drop-shadow;
-      @include body-background-color;
-      @include radius-base;
-      @include highlight-border;
-      margin-top: .25rem;
-      max-width: 45rem;
-      width: 100%;
-      box-sizing: content-box;
-      display: none;
-      position: absolute;
-      white-space: normal;
-      min-height: fit-content;
-      left: 0;
-      z-index: 10;
-    }
-
-    .navlink:hover .dropdown {
-      display: block;
-    }
-
     .bento {
-      @include padding-2;
+      @include text-sm;
+      @include my-4;
+      @include radius-base;
+      line-height: 1.25rem;
       display: flex;
       align-content: stretch;
       justify-content: space-between;
@@ -107,6 +51,7 @@ nav {
           @include padding-2;
           @include my-2;
           @include radius-base;
+          list-style-type: none;
           justify-content: space-between;
           align-content: stretch;
 
@@ -221,76 +166,20 @@ nav {
 
       &:hover {
         @include highlight;
-        text-decoration: none;
       }
     }
 
     li {
-      @include my-0;
+      margin: 0!important;
       padding: 2.5px;
-      list-style: none;
+      list-style-type: none;
     }
-  }
-}
-
-.navicon {
-  @include emoji;
-  @include font-normal;
-  @include radius-none;
-  @include padding-0;
-}
-
-.navtitle {
-  @include text-lg;
-  @include radius-base;
-  @include highlight;
-}
-
-.left {
-  margin-left: auto;
-  justify-content: start;
-}
-
-.right {
-  margin-right: auto;
-  justify-content: end;
-
-  .navicon {
-    @include radius-none;
-    height: .9rem;
-    width: .9rem;
-    margin: 0;
-    filter: none;
-  }
-}
 
 // hide social icons on mobile
 
 @media only screen and (max-width: 555px) {
   .right {
     display: none !important;
-  }
-}
-
-/* floating nav */
-
-.floating-nav {
-  position: absolute;
-  box-shadow: 0 0 0 15px var(--body-background);
-  background: var(--body-background);
-  border-radius: .075rem;
-  margin-top: 2.5rem;
-  box-sizing: border-box;
-  width: calc(100% - 3.8rem);
-  /* Full width minus 2 times 1.5rem padding */
-  z-index: 1;
-  left: 50%;
-  /* Center the element horizontally */
-  transform: translateX(-50%);
-  /* Adjust for half of the element's width */
-
-  @media only screen and (max-width: 500px) {
-    margin-top: 24px;
   }
 }
 
@@ -340,12 +229,6 @@ nav {
       object-fit: cover;
     }
   }
-}
-
-.active {
-  @include highlight-background;
-  @include highlight-border;
-  color: var(--highlight);
 }
 
 .showcase[five] {

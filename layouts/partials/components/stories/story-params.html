@@ -1,7 +1,7 @@
 <!-- original reddit "archive" link -->
 {{ if in .Params.categories "archive" }}
-  <blockquote class="note" style="background-color: var(--gray-light);">
-    <span class="smallicon" style="font-size: 14px;">⚠️</span> This article is <a href="/categories/archive/">archived</a>, and <b>should be considered non-canon</b>.
+  <blockquote class="note series">
+    This article is archived, and is no longer part of Vekllei canon.
   </blockquote>
 {{ end }}
 
@@ -26,6 +26,15 @@
     }
     .pill {
       display: none;
+    }
+    main {
+      background: transparent;
+    }
+    body {
+      background-image: none;
+    }
+    .breadcrumbs {
+      background-color: var(--highlight-background);
     }
   </style>
 {{ end }}
@@ -60,6 +69,15 @@
     }
     .pill {
       display: none;
+    }
+    main {
+      background: transparent;
+    }
+    body {
+      background-image: none;
+    }
+    .breadcrumbs {
+      background-color: var(--highlight-background);
     }
   </style>
   {{ end }}
@@ -98,6 +116,15 @@
     }
     img.page {
       display: none;
+    }
+    main {
+      background: transparent;
+    }
+    body {
+      background-image: none;
+    }
+    .breadcrumbs {
+      background-color: var(--highlight-background);
     }
   </style>
 {{ end }}

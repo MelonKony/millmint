@@ -5,7 +5,6 @@ icon: 🗺️
 color: blue
 
 type: blank
-menus: main
 
 toc: true
 

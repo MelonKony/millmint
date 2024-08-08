@@ -2,15 +2,20 @@
 title: Factbook
 fulltitle: Factbook
 icon: 📓
-emoji: Π
+emoji: q
 color: millmint
 list: true
 
-comments: false
+menus: main
+weight: 2
+
 noindex: true
+meta: false
 
 toc: false
 ---
-{{<note panel >}}
-[**/factbook/**](/factbook/) is the encyclopaedia of [Vekllei](/factbook/vekllei), its Commonwealth, and the features of its society. It also includes articles on the [characters](/characters/) I draw regularly.
+{{<note >}}
+<span class="navicon">📓</span> **Factbook** is the encyclopaedia of {{<link/vekllei>}}, and the features of its society.
 {{</note>}}
+
+{{< nav/factbook >}}

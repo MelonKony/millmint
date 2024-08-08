@@ -1,8 +1,11 @@
 ---
-title: Intro – What is Vekllei?
+title: Intro
 fulltitle: Welcome to MillMint
 icon: 📔
 emoji: ΄
+
+menus: main
+weight: 1
 
 layout: intro
 type: intro

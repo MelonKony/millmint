@@ -1,11 +1,32 @@
-{{ define "content" }}
+{{- partial "params.html" . -}}
 
-{{ if and .Content (eq .Paginator.PageNumber 1) }}
-    <div class="content">
-        {{- partial "content.html" . -}}
-    </div>
-{{ end }}
+<!DOCTYPE html>
+<html lang='{{ .Site.LanguageCode }}' class="writing">
+{{- partial "head.html" . -}}
 
-{{ partial "components/postcard.html" (dict "pages" .RegularPages "ctx" .) }}
+<body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
+  <main>
+    {{- partial "header.html" . -}}
+    {{- partial "nav/nav.html" . -}}
+    {{ if and .Content (eq .Paginator.PageNumber 1) }}
+    <article class="content" style="margin-top: 0;">
+      <section class="page">
+        {{- partial "content" . }}
+      </section>
+    </article>
+    {{ end }}
 
-{{ end }}
+    {{ partial "components/postcard.html" (dict "pages" .RegularPages "ctx" .) }}
+
+    {{- partial "footer.html" . -}}
+  </main>
+  {{- partial "resources/js.html" . -}}
+  {{- partial "script.html" . -}}
+</body>
+</html>
+
+<style>
+    .breadcrumbs {
+      background-color: var(--highlight-background);
+    }
+</style>

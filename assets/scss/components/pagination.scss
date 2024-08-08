@@ -7,6 +7,11 @@
   list-style: none;
   text-align: center;
 
+  .active {
+    border: none;
+    @include highlight-background;
+  }
+
   ul {
     width: 100%;
   }
@@ -18,7 +23,7 @@
 
     .active a {
       @include font-semibold;
-      @include font-color;
+      @include highlight;
     }
 
     &:not(.disabled) a:hover {
