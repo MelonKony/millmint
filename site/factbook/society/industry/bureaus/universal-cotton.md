@@ -5,8 +5,9 @@ icon: 🧵
 emoji: ɋ
 color: purple
 image:
+  series: ib
 
-draft: false
+draft: true
 
 type: blank
 

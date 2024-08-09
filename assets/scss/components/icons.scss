@@ -45,6 +45,15 @@
   background-image: url(../svg/flags/1x1/costa-verde.svg);
 }
 
+/// Kala Flag
+
+.fi-kala {
+  background-image: url(../svg/flags/4x3/kala.svg);
+}
+.fi-kala.fis {
+  background-image: url(../svg/flags/1x1/kala.svg);
+}
+
 /// Habacoa Flag
 
 .fi-habacoa {
@@ -390,6 +399,9 @@
 }
 .fi-min-atlantis.fis {
   background-image: url(../svg/logos/atlantis-shipping.svg);
+}
+.fi-min-gemstone.fis {
+  background-image: url(../svg/logos/gem.svg);
 }
 .fi-min-oil.fis {
   background-image: url(../svg/logos/commonwealth-oil.svg);

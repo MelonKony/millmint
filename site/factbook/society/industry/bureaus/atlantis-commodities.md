@@ -4,6 +4,7 @@ fulltitle: Atlantis Commodities International
 icon: ⛴️
 logo: /svg/logos/atlantis.svg
 rgb: 39, 94, 119
+series: ib
 
 draft: true
 

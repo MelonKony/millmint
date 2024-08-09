@@ -148,6 +148,13 @@
 	</tr>
 	{{ end }}
 
+	{{ if eq (.Get "Headquarters") "Kala" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Headquarters</th>
+	<td><a style="color: rgb(39, 126, 72)" href="/kala/"><span class="fi fi-kala"></span></span> Kala</a></td>
+	</tr>
+	{{ end }}
+
 	{{ if eq (.Get "Headquarters") "Cama" }}
 	<tr>
 	<td style="font-weight: 500; width: 50%;">Headquarters</th>

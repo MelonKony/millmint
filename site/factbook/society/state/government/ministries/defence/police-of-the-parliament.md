@@ -21,7 +21,7 @@ Read more: *[The Police of the Parliament](/stories/police/)*
 
 The *Police of the Parliament* (also National Police, or VENOPOR) are the national and paramilitary police of Vekllei, responsible for internal security, riot control, counter-terrorism, disaster response, law enforcement and maritime rights protection. The VENOPOR is made up of a variety of organisations dedicated to specialised and tactical forms of policing unavailable to the [Police of the Public](#police-of-the-public). As a paramilitary force, the VENOPOR are also trained to support the [Crown Armed Forces](/factbook/society/state/palace/military/) in wartime, and coordinate broad mobilisation in the event of a defensive war.
 
-VENOPOR jurisdiction is organised within the individual theatre commands of the Crown Armed Forces. Kala, the Antilles and the Vekllei and Kalina Islands maintain their own VENOPOR police forces, and other Commonwealth members and territories are dependent on Vekllei Islands policing.
+VENOPOR jurisdiction is organised within the individual theatre commands of the Crown Armed Forces. {{<link/kala>}}, the Antilles and the Vekllei and Kalina Islands maintain their own VENOPOR police forces, and other Commonwealth members and territories are dependent on Vekllei Islands policing.
 
 {{<note panel>}}
 ### Sections

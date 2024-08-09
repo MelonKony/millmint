@@ -4,6 +4,7 @@ fulltitle: Atlantis
 icon: ⚓️
 logo: /svg/logos/atlantis-shipping.svg
 rgb: 60, 120, 200
+series: ib
 
 logocredit:  Sandy Holman & Tom Lewis, 1979, for Ocean Gardening Products.
 

@@ -26,7 +26,7 @@ The Vekllei *Magma-Electric Commission* (colloquially *The Magma* or MEC) overse
 {{<note panel>}}
 #### Hydro-Electric Commission
 
-The Vekllei *Hydro-Electric Commission* (colloquially *The Hydro*, not to be confused with the [*Hydroburo*](#vekllei-water-commission)) oversees hydro-electric electricity generation in Vekllei, particularly in the glacial regions of the Vekllei Islands and Kala. Dramatic mountain terrain in the interior of the Vekllei Islands proved suitable candidates for hydro-electric dams, which were mostly constructed in the pre-war and immediate post-war era. Vekllei's oldest dam in [Ou](/factbook/landscape/boroughs/ou/) has been operating continuously for 156 years.
+The Vekllei *Hydro-Electric Commission* (colloquially *The Hydro*, not to be confused with the [*Hydroburo*](#vekllei-water-commission)) oversees hydro-electric electricity generation in Vekllei, particularly in the glacial regions of the Vekllei Islands and {{<link/kala>}}. Dramatic mountain terrain in the interior of the Vekllei Islands proved suitable candidates for hydro-electric dams, which were mostly constructed in the pre-war and immediate post-war era. Vekllei's oldest dam in [Ou](/factbook/landscape/boroughs/ou/) has been operating continuously for 156 years.
 {{</note>}}
 
 {{<note panel>}}

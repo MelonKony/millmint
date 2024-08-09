@@ -69,7 +69,7 @@ Many Commonwealth republics have been inhabited for thousands of years, and have
 
 The Commonwealth of Oceans has precedence in the Oslolan Commonwealths that existed sporadically between 700 AD and 1600 AD. For this reason, the Vekllei Commonwealth is sometimes referred to as the "4th Commonwealth," a phrase that draws a direct connection between Vekllei and the Oslolan Commonwealths.[^4th]
 
-Common history of the republics begins in 1710 AD, when Oslola and Kala capitulated to the Kingdom of Great Britain and became subjects the British Empire. In 1836, the British colonies in the Atlantic were reincorporated as the British Atlantic Territories. This colony was granted autonomy in 1838 and achieved dominion status in 1926, and lay the groundwork for Oslolan independence in 1935.
+Common history of the republics begins in 1710 AD, when {{<link/oslola>}} and {{<link/kala>}} capitulated to the Kingdom of Great Britain and became subjects the British Empire. In 1836, the British colonies in the Atlantic were reincorporated as the British Atlantic Territories. This colony was granted autonomy in 1838 and achieved dominion status in 1926, and lay the groundwork for Oslolan independence in 1935.
 
 After the Second World War, the Oslolan Republic struggled through a series of crises that culminated in the fall of government and the establishment of the Atlantic Council in 1963, which severed ties with the UK. Rising territorial ambitions and erratic council rule saw relations strained and culminated in the Oslolan Civil War in 1992 and the exchange of nuclear weapons with the UK in 1995.
 

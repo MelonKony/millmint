@@ -163,7 +163,7 @@ Rail transport contributes tremendously to the national culture and common affec
 
 ### National Rail
 
-National rail access is generally provided directly by Vekllei National Railway A.r.R. through a branch office dependent on the location. The Home Islands are served by VNR Atlantic, whereas Kala is served by VNR Overseas. The Home Islands house thousands of rural villages outside of urban metropolitan service, and Vekllei's dependence on rail transportatiion demands their inclusion in the VNR network. As such, almost every village in Vekllei has a rail line or interurban tramway, and villages as small as 20 persons see daily service to the capital.
+National rail access is generally provided directly by Vekllei National Railway A.r.R. through a branch office dependent on the location. The Home Islands are served by VNR Atlantic, whereas {{<link/kala>}} is served by VNR Overseas. The Home Islands house thousands of rural villages outside of urban metropolitan service, and Vekllei's dependence on rail transportatiion demands their inclusion in the VNR network. As such, almost every village in Vekllei has a rail line or interurban tramway, and villages as small as 20 persons see daily service to the capital.
 
 ### Metropolitan Service & Subways
 

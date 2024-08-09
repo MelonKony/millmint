@@ -138,7 +138,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>1440</b>
 			<span class="event">
-				Kala enters a union with the 3rd Commonwealth
+				{{<link/kala>}} enters a union with the 3rd Commonwealth
 			</span>
 		</li>
 		<li>

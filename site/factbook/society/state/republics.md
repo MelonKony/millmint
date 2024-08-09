@@ -49,7 +49,7 @@ There are a few criteria separating republics from regular local government. The
 
 * **{{<link/arctic>}}**
 	* {{<link/helvasia>}} (*Svalbard*)
-	* Kala Republic (*Greenland*)
+	* {{<link/kala>}} (*Greenland*)
 
 * **{{<link/atlantic>}}**
 	* Fayal Republic (*Faial Island*)
