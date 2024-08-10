@@ -53,15 +53,6 @@
     event.preventDefault();
   }
 
-  /**
-   * @param {String} character
-   * @returns {Boolean}
-   */
-  function isHotkey(character) {
-    const dataHotkeys = input.getAttribute('data-hotkeys') || '';
-    return dataHotkeys.indexOf(character) >= 0;
-  }
-
   function init() {
     input.removeEventListener('focus', init); // init once
     input.required = true;

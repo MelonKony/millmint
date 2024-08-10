@@ -7,7 +7,7 @@
 <body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
   <main>
     {{- partial "header.html" . -}}
-    {{- partial "nav/nav.html" . -}}
+    {{- partial "nav.html" . -}}
     {{ if and .Content (eq .Paginator.PageNumber 1) }}
     <article class="content" style="margin-top: 0;">
       <section class="page">
