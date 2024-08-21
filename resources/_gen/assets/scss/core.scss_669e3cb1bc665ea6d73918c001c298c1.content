@@ -1489,10 +1489,8 @@ nav {
   .bento .boxtitle[millmint] {
     color: var(--color-millmint); }
 
-a {
-  color: var(--gray-heavy); }
-  a:hover {
-    color: var(--highlight); }
+a:hover {
+  color: var(--highlight); }
 
 li {
   margin: 0 !important;

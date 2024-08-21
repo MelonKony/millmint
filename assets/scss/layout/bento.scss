@@ -162,8 +162,6 @@
     }
 
     a {
-      @include secondary-color;
-
       &:hover {
         @include highlight;
       }
