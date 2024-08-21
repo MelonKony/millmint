@@ -11,7 +11,7 @@ logocredit: Felix Beltran, 1973, for Decoración del INIT
 fi: fi fi-min-gemstone fis
 
 aliases:
-- /atlantis/
+- /common-gemstone/
 ---
 {{<note series>}}
  Part of the *[industry](/industry/)* series of articles
