@@ -49,7 +49,7 @@ The size, speed and accessibility of data storage in Vekllei means that more dat
 ### Ternary Logic Systems
 
 {{<note advice>}}
-Main article: *[Common Assembly Language](/assembly/)*
+Main article: *[Common Assembly Language](/common-assembly-language/)*
 {{</note>}}
 
 Rather than binary logic, in which a state is interpreted as either true or false by a processor,  Vekllei computers use ternary logic. There are three digits that can represent a state, which are called a trit: as such, there are three trits in Vekllei.

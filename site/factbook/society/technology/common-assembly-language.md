@@ -10,7 +10,7 @@ type: blank
 draft: false
 
 aliases:
-- /assembly/
+- /common-assembly-language/
 ---
 **Common Assembly Language** (commonly *Assembly* or *COMAS*) is the common low-level programming language of [computers](/computers/) in {{<link/vekllei>}} and around the world. It was established by Bell Electric in 1977 and was developed from prior experimentation with machine code translation as early as the 1940s. It translates low-level instructions addressed to the processor of an optical-electric computer into an alphabet mnemonic system more easily understood by humans.
 
