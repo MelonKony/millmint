@@ -22,7 +22,7 @@ This is done with a laser beam fired by a device called a **light gun**. It prod
 * **A signal beam**, which is pointed at an object and shines at its surface. This light scatters around and carries information about the object, like its shape, texture and details. This laser shines between the object and the photocrystal recording medium.
 * **A reference beam**, which is pointed at the photocrystal. This is a clean, unaltered signal.
 
-When the two beams meet at a superposition, they interfere with each other, which is called an **interference pattern**. This pattern is a complex map of the image (or data) including its shape, texture and details. The pattern encodes the amplitude (brightness) and phase (wave shape) information of the object. This works like a pen and ink, with the *reference beam* providing a steady flow of unaltered ink and the *signal beam* shaping it.
+When the two beams meet at a superposition, they interfere with each other, creating what is called an **interference pattern**. This pattern is a complex map of the image (or data) including its shape, texture and details. The pattern encodes the amplitude (brightness) and phase (wave shape) information of the object into the crystal. This works like a pen and ink, with the *reference beam* providing a steady flow of unaltered ink and the *signal beam* shaping it.
 
 **Light interference** occurs where the waves of both beams meet, creating bright spots. **Dark interference** occurs where the waves are misaligned, where the peaks of one amplitude meet the troughs of another, creating dark spots. These light and dark spots are known as **constructive** and **destructive** interference patterns respectively. These light and dark spots affect the photocrystal, and form a pattern that can be read back to reconstruct the data.
 
@@ -41,7 +41,7 @@ To retrieve the information, the *reference beam* is pointed at the crystal at t
 
 ## Design
 
-Vekllei commercial photovolumes are typically the size of a chocolate bar. They can interface with optical computers and are plugged in via a photovolume port, which contains the photodetector required to parse the wave data from a photocrystal.
+Vekllei commercial photovolumes are typically the size of a paperback novel. They can interface with optical computers and are plugged in via a photovolume port, which contains the photodetector required to parse the wave data from a photocrystal.
 
 Inside a photovolume there is a **head assembly** consisting of a laser, beam splitters and mirror arrays to deflect the beams. There are also electrical components required to interface with a computer.
 
