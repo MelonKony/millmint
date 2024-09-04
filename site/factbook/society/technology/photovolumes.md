@@ -9,9 +9,9 @@ image:
 aliases:
 - /photovolumes/
 ---
-Computer data in {{<link/vekllei>}} is stored in photorefractive crystals known as *photovolumes*. They are written to (data recorded) and read from (data retrieved) by lasers, which convert the information into electrical signals for use in a computer.
+Computer data in {{<link/vekllei>}} is stored in crystals known as *photovolumes*. Lasers record and retrieve data from these crystals, which convert the information into electrical signals for use in a computer.
 
-Photovolumes are remarkable devices comprising many complex components. Since Vekllei computers do not use bitmapped screens, all graphics and images accessed electronically are effectively stored in miniature as holograms inscribed in crystals, called *photocrystals*. In addition to images, regular [ternary](/factbook/society/technology/computers/#ternary-logic-systems/) data can be written and read in parallel, and together form the basic memory components of a Vekllei [computer](/computers/).
+Photovolumes are remarkable devices comprising many complex components. Since Vekllei computers do not use bitmapped screens, all graphics and images accessed electronically are effectively stored in miniature as holograms in the structure of the crystals, which are called *photocrystals*. In addition to images, regular [ternary](/factbook/society/technology/computers/#ternary-logic-systems/) data can be written and read in parallel, and together form the basic memory components of a Vekllei [computer](/computers/).
 
 ## Operation
 
