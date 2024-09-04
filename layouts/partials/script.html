@@ -4,9 +4,10 @@
 {{ $fd := resources.Get "js/fade.js" }}
 {{ $fn := resources.Get "js/footnotes.js" }}
 {{ $lz := resources.Get "js/lazysizes.js" }}
+{{ $mm := resources.Get "js/minimap.js" }}
 {{ $tc := resources.Get "js/toc.js" }}
 {{ $tt := resources.Get "js/dictionary.js" }}
-{{ $js := slice $jq $dk $cs $fd $fn $lz $tc $tt | resources.Concat "js/millmint.js"  }}
+{{ $js := slice $jq $dk $cs $fd $fn $lz $mm $tc $tt | resources.Concat "js/millmint.js"  }}
 
 {{ if hugo.IsServer }}
     <script defer src="{{ $js.RelPermalink }}"></script>

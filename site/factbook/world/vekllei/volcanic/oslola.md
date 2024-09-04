@@ -23,7 +23,7 @@ aliases:
 	 Flag="/svg/flags/oslola.svg"
 	 SmallFlag="/svg/flags/4x3/oslola.svg"
 	 Locator="/svg/maps/locator/oslola.png"
-	 Capital="Oslola"
+	 Capital="Astrolola"
 	 Population="8,331,426"
 	 Languages="Oslolan Algic, English, Oslolan Islandi"
 	 Area="103,125 km²"

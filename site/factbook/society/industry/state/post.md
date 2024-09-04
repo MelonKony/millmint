@@ -1,5 +1,5 @@
 ---
-title: Post
+title: Commonwealth Post
 fulltitle: Commonwealth Post
 icon: 📯
 logo: /svg/logos/post.svg

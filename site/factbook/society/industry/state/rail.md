@@ -1,5 +1,5 @@
 ---
-title: Rail
+title: CommRail
 fulltitle: Commonwealth National Rail
 icon: 🚇
 logo: /svg/logos/rail.svg
@@ -14,7 +14,7 @@ aliases:
 - /rail/
 ---
 {{<note series>}}
- This article is about [**Vekllei**](/factbook/vekllei) society
+ Part of the *[industry](/industry/)* series of articles
 {{</note>}}
 
 {{<note panel >}}
@@ -36,7 +36,9 @@ aliases:
 
 ## Overview
 
-**Vekllei National Rail (VNR)** is a catch-all term for bureau-backed, state-owned rail operators of Vekllei. In casual use, it refers to the Vekllei National Railway A.r.R. and its sister companies, like Vekllei Metro, which are structured within the service-oriented Railways Bureau. More precisely, Vekllei National Rail encompasses several different bureaus that operate, design, maintain and communicate rail service in the country, which itself is further included under the Transport Requisite of the Vekllei Government.
+<span class="fi fi-min-rail fis"></span> **Commonwealth National Rail** (CNR, or *CommRail*) is a catch-all trademark for national rail operators in {{<link/vekllei>}}. It commonly refers the hundreds of municipal transport companies operating under CommRail administration, which together make up a public monopoly on rail transport in the country.
+
+Vekllei National Railway A.r.R. and its sister companies, like Vekllei Metro, are structured within the service-oriented Railways Bureau. More precisely, Vekllei National Rail encompasses several different bureaus that operate, design, maintain and communicate rail service in the country, which itself is further included under the Transport Requisite of the Vekllei Government.
 
 Like most critical organisations of Vekllei, the structure and directorship of Vekllei National Rail is complex, but can be simplified by understanding that all rail transport in the country is ultimately the responsibility of an organisation called Vekllei National Rail, and it is towards this organ that this article is addressed. Today, the National Rail operates nearly 20,000km of track, indicating the density of the rail service it provides, and services nearly 20 million people each day through its network. It is administered and operated by the {{<link/bureau-of-rail>}}.
 
@@ -101,7 +103,7 @@ Vekllei National Rail is administered through three State Requisites: the Veklle
 <details open>
 <summary>Organisational Chart of VNR</summary>
 
-{{<note>}}
+{{<note panel>}}
 Responsible to the [Railways Bureau](/factbook/society/state/government/interior/transport/#national-railways-bureau) of the [Ministry of Transport](/factbook/society/state/government/interior/transport)
 {{</note>}}
 * **Vekllei National Rail**

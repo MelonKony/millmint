@@ -29,12 +29,16 @@ Vekllei has several computer manufacturers, including Votraitey Electrics and {{
 
 There are two types of commercial computing in use in Vekllei.
 
-- **Photo-Electric Computers** (PEC), which are electric machines that are capable of parallel arithmetic and logical operations.
+- **Photo-Electric Computers** (PEC), which are electric machines that are capable of [ternary](#ternary-logic-systems) parallel arithmetic and logical operations.
 - **Fabricated Live Robotics**, which combine computers with synthetic biological components to unlock adaptive and sensory functions.
 
 Computing in Vekllei happens at a civic or industrial scale, and rarely interacts with individuals for personal purposes. Most ordinary Vekllei people interact with computers through work or in schools and libraries, where they serve data-lookup and communication purposes. Civilian life in Vekllei is decidedly analogue.
 
 ### Photo-Electric Computing
+
+{{<note advice>}}
+Read more: [*Photovolumes*](/photovolumes/)
+{{</note>}}
 
 All programmable Vekllei computers use photo-electric circuits[^2] instead of electric transistors and semiconductors. In a Vekllei photo-electric computer, micro-lasers are produced by a wafer made up of mirrors and a cavity to perform digital computations. In place of silicon transistors are photonic crystals called *Syncretic Crystal Mechanisms*, which reflect light at different wavelengths and form an optical integrated circuit. Devices called spatial light modulators[^3] moderate the intensity and phase of these light beams, which are stored as holograms within a crystal as a form of digital memory. These holographic crystals, called *Photovolumes*, are able to be written and read in parallel, allowing instant access to records in a networked computer system. Most computers contain a protected archive system that duplicates and write-protects data.
 
@@ -42,10 +46,33 @@ Because photo-electric computers require large processing elements to facilitate
 
 The size, speed and accessibility of data storage in Vekllei means that more data than ever is recorded and preserved, making Vekllei one of the most recorded societies in history. As the site of the Atlantic Telephone and Data Exchange, Vekllei also handles tremendous amounts of trans-Atlantic data regeneration and processing.
 
+### Ternary Logic Systems
+
+{{<note advice>}}
+Main article: *[Common Assembly Language](/assembly/)*
+{{</note>}}
+
+Rather than binary logic, in which a state is interpreted as either true or false by a processor,  Vekllei computers use ternary logic. There are three digits that can represent a state, which are called a trit: as such, there are three trits in Vekllei.
+
+* `+`: positive, otherwise represented as `+1`
+* `o`: zero, otherwise represented as `0`
+* `-`: negative, otherwise represented as `-1`
+
+Since Vekllei uses optical computers, its systems are naturally able to interpret three different states. In low-level programming, trits are assigned alphabetic mnemonics for basic functions. Some of these include:
+
+```
+ADD → +++
+SUB → ---
+MOV → +--
+JMP → +0+
+```
+
+Optical ternary computers allow simplified and parallel computing, and makes certain arithmetic operations more efficient (especially those involving negative numbers).
+
 ### Fabricated Live Robotics
 
-{{<note link>}}
-✿ Read more: *[Robots in Vekllei](/posts/2021-01-11-automen/)*
+{{<note advice>}}
+Read more: *[Robots in Vekllei](/posts/2021-01-11-automen/)*
 {{</note>}}
 
 Although processing is usually offloaded to more powerful master computers, Vekllei makes extensive use of organic robotics to automate processes and functions where adaptivity to sensory input is required. These robots, called *automasiosn* or 'automen,' combine fabricated organic brains with photo-electric circuits to create a programmable, adaptive robot.
