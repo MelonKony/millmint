@@ -7,7 +7,7 @@
 
 <body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
   <main>
-    <div class="map-nav">
+    <div class="floating-nav">
       {{- partial "header.html" . -}}
       {{- partial "nav.html" . -}}
     </div>
@@ -30,6 +30,7 @@
 <style>
   body {
     background-color: rgb(226 243 253);
+    margin: 0;
   }
 
   main {
@@ -94,11 +95,8 @@
     z-index: 1;
   }
 
-  .map-nav {
-    margin-top: 1rem;
-    outline: 15px solid var(--body-background);
-    background: var(--body-background);
-    border-radius: .25rem;
+  .floating-nav {
+    margin-top: 0;
   }
 
   #notice {

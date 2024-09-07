@@ -3291,6 +3291,12 @@ ol.timeline .event {
 .fi-ei.fis {
   background-image: url(../svg/flags/1x1/ei.svg); }
 
+.fi-balkan {
+  background-image: url(../svg/flags/4x3/balkan.svg); }
+
+.fi-balkan.fis {
+  background-image: url(../svg/flags/1x1/balkan.svg); }
+
 .fi-laur {
   background-image: url(../svg/flags/4x3/laur.svg); }
 

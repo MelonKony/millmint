@@ -19,4 +19,4 @@ The **<span class="fi fi-dk"></span> Kingdom of Denmark** is a country in Wester
 
 Despite its small population and size, Denmark has contributed extensively to European and world history, and through its extensive network of trade, has contributed to world culture as well. The historic Kingdom of Denmark has included territories that are now part of {{<link/vekllei>}}, including the {{<link/aismious>}} (Faroese) islands and parts of western {{<link/oslola>}}.
 
-Denmark is an advanced country with a high standard of living and a robust welfare state. Its economy is dominanted by small service and manufacturing businesses, and government revenues are sourced primarily from taxes.
+Denmark is an advanced country with a high standard of living and a robust welfare state. Its economy is dominated by small service and manufacturing businesses, and government revenues are sourced primarily from taxes.

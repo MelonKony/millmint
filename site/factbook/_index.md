@@ -26,4 +26,6 @@ toc: false
 
 {{< flag-carousel >}}
 
+{{< nav/intro >}}
+
 {{< nav/factbook >}}
