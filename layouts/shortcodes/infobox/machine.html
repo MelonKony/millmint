@@ -1,0 +1,104 @@
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
+	<tr>
+		<th style="background-color: var(--highlight-background)" colspan="2">{{.Get "Name"}}</th>
+	</tr>
+
+
+	{{ if (.Get "Class") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Class</th>
+		<td>{{.Get "Class"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Type") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Type</th>
+		<td>{{.Get "Type"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Built") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Built</th>
+		<td>{{.Get "Built"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "HomeStation") "Verde" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Home Station</th>
+	<td><a style="color: var(--color-marine)" href="/ns-verde/"><span class="fi fi-min-marine fis"></span> N.S. Verde <span class="fi fi-costa-verde"></a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "HomeStation") "Java" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Home Station</th>
+	<td><a style="color: var(--color-marine)" href="/ns-java/"><span class="fi fi-min-marine fis"></span> N.S. Java <span class="fi fi-java"></a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "HomeStation") "Kairi" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Home Station</th>
+	<td><a style="color: var(--color-marine)" href="/ns-java/"><span class="fi fi-min-marine fis"></span> N.S. Kairi <span class="fi fi-kairi"></span></a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "HomeStation") "Morocos" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Home Station</th>
+	<td><a style="color: var(--color-marine)" href="/ns-morocos/"><span class="fi fi-min-marine fis"></span> N.S. Morocos <span class="fi fi-morocos"></a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "HomeStation") "Mira" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Home Station</th>
+	<td><a style="color: var(--color-marine)" href="/ns-mira/"><span class="fi fi-min-marine fis"></span> N.S. Mira <span class="fi fi-mira"></a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "HomeStation") "Oslola" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Home Station</th>
+	<td><a style="color: var(--color-marine)" href="/ns-oslola/"><span class="fi fi-min-marine fis"></span> N.S. Oslola <span class="fi fi-oslola"></a></td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Crew") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Crew</th>
+		<td>{{.Get "Crew"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Displacement") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Displacement</th>
+		<td>{{.Get "Displacement"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Length") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Length</th>
+		<td>{{.Get "Length"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Speed") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Speed</th>
+		<td>{{.Get "Speed"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "InService") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">No. in service</th>
+		<td>{{.Get "InService"}}</td>
+	</tr>
+	{{ end }}
+</table>

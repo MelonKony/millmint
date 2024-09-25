@@ -23,4 +23,4 @@ The Commonwealth Vessel (Nuclear) *Commonwealth*.
 
 Missiles fly farther, but they're limited and expensive. Jets strike more accurately, but they're easy to lose.
 
-The *Federal*-class battleship is the only such example in {{<link/vekllei>}}'s navy and is the flagship of its fleet. It provides naval guns where they're needed, commissioned to assist in amphibious landings and shore operations.
+The [*Federal*](/federal-class/)-class battleship is the only such example in the {{<link/marine>}} and is the flagship of its fleet. It provides naval guns where they're needed, commissioned to assist in amphibious landings and shore operations.

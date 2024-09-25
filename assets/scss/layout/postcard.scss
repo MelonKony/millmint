@@ -1,5 +1,6 @@
 .postcard-layout {
   @include my-2;
+  @include padding-0;
 
   .postcard-grid {
     @include padding-0;

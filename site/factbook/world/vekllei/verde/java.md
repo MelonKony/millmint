@@ -47,7 +47,7 @@ Javans are mostly African or mixed-race, and are typically Roman Catholics. Many
 
 * **Obo National Park**: Large national park within Java's interior, most famous for the bizarre needlelike volcanic formation known as Great Dog.
 * **National Equatorial Monument**: Monument and public park marking the site of the equator.
-* **East Vekllei Naval Station**: Major navy dock and shipyard.
+* **{{<link/ns-java>}}**: Major navy dock and shipyard.
 * **Java Colonial Museum**: Intimate and comprehensive museum of Java's colonial history under Portuguese rule.
 * **Government Coffee Plantation**: An historic coffee plantation dating back centuries, now under new management.
 </details>

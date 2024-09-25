@@ -47,7 +47,10 @@
   --color-community: #ffa254;
   --color-civic: #3bba5e;
   --color-democracy: #ce509f;
-  --color-health: #f65171; }
+  --color-health: #f65171;
+  --color-marine: #003cd2;
+  --color-land: #b02c00;
+  --color-aero: #c91616; }
 
 html[data-theme="light"] {
   --font-color: #1d1d1f;
@@ -337,16 +340,7 @@ main {
   background-color: var(--body-background);
   box-sizing: content-box;
   max-width: 45rem; }
-  @media only screen and (max-width: 500px) {
-    main {
-      margin-top: 0;
-      margin-bottom: 0; } }
-  main > * {
-    padding-left: 1rem;
-    padding-right: 1rem; }
-    @media only screen and (max-width: 500px) {
-      main > * {
-        padding: 0; } }
+
 figure {
   margin: 0; }
   figure figcaption {
@@ -516,20 +510,34 @@ h6 {
   filter: brightness(50%);
   backdrop-filter: brightness(50%); }
 
-@media screen and (min-width: 35rem) {
+@media screen and (min-width: 0rem) {
   main {
-    width: 90%; }
+    width: 90%;
+    margin-top: 0;
+    margin-bottom: 0; }
+    main > * {
+      padding-left: 1rem;
+      padding-right: 1rem; }
     main .infobox {
-      width: 50%;
+      width: 100%;
       margin-left: 2rem; } }
 
-@media screen and (min-width: 45rem) {
+@media screen and (min-width: 500px) {
+  body {
+    margin: 0; }
+    body main {
+      width: 85%;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 1rem;
+      margin-bottom: 1rem; }
+      body main .infobox {
+        width: 50%;
+        margin-left: 2rem; } }
+
+@media screen and (min-width: 50rem) {
   main {
     width: 70%; } }
-
-@media screen and (min-width: 75rem) {
-  main {
-    width: 45%; } }
 
 @media screen and (min-width: 100rem) {
   main {
@@ -537,9 +545,12 @@ h6 {
 
 @media screen and (min-width: 35%) {
   main {
+    margin-top: 0;
+    margin-bottom: 0;
     width: 35%; }
-    main table {
-      width: 100%; }
+    main .infobox {
+      width: 100%;
+      color: red; }
   .portrait {
     display: none !important; } }
 
@@ -718,7 +729,8 @@ article {
 
 .postcard-layout {
   margin-top: .5rem;
-  margin-bottom: .5rem; }
+  margin-bottom: .5rem;
+  padding: 0; }
   .postcard-layout .postcard-grid {
     padding: 0;
     margin-top: 1.5rem;
@@ -1041,6 +1053,7 @@ header.info {
     width: 100%;
     height: 100%;
     max-width: 100px;
+    max-height: 6rem;
     justify-items: end;
     align-content: center; }
   header.info .characters img {
@@ -1093,8 +1106,7 @@ header.info {
       margin: 0;
       padding: 0;
       display: inline;
-      list-style: none;
-      white-space: nowrap; }
+      list-style: none; }
       header.info .headcrumbs li + :after {
         color: var(--highlight);
         padding: 0 .25rem 0 .15rem;
@@ -1112,7 +1124,7 @@ header.info {
 nav {
   display: flex;
   flex-wrap: wrap; }
-  @media screen and (max-width: 45rem) {
+  @media screen and (max-width: 500px) {
     nav {
       margin-top: 0;
       margin-bottom: 0; } }
@@ -1574,7 +1586,7 @@ li {
   transition: transform 0.2s;
   overflow-y: auto;
   width: 60%; }
-  @media screen and (min-width: 35rem) {
+  @media screen and (min-width: 0rem) {
     #sidebar {
       width: 40%; } }
   #sidebar ul {
@@ -3141,6 +3153,12 @@ ol.timeline .event {
 .fi-costa-verde.fis {
   background-image: url(../svg/flags/1x1/costa-verde.svg); }
 
+.fi-hetland {
+  background-image: url(../svg/flags/4x3/hetland.svg); }
+
+.fi-hetland.fis {
+  background-image: url(../svg/flags/1x1/hetland.svg); }
+
 .fi-kala {
   background-image: url(../svg/flags/4x3/kala.svg); }
 
@@ -3323,6 +3341,15 @@ ol.timeline .event {
 
 .fi-min-military.fis {
   background-image: url(../svg/crests/military.svg); }
+
+.fi-min-marine.fis {
+  background-image: url(../svg/crests/crownless/marine.svg); }
+
+.fi-min-land.fis {
+  background-image: url(../svg/crests/crownless/territorial.svg); }
+
+.fi-min-aero.fis {
+  background-image: url(../svg/crests/crownless/aero.svg); }
 
 .fi-min-parliament-police.fis {
   background-image: url(../svg/crests/parliament-police.svg); }

@@ -45,6 +45,15 @@
   background-image: url(../svg/flags/1x1/costa-verde.svg);
 }
 
+/// Hetland Flag
+
+.fi-hetland {
+  background-image: url(../svg/flags/4x3/hetland.svg);
+}
+.fi-hetland.fis {
+  background-image: url(../svg/flags/1x1/hetland.svg);
+}
+
 /// Kala Flag
 
 .fi-kala {
@@ -310,6 +319,15 @@
 }
 .fi-min-military.fis {
   background-image: url(../svg/crests/military.svg);
+}
+.fi-min-marine.fis {
+ background-image: url(../svg/crests/crownless/marine.svg);
+}
+.fi-min-land.fis {
+ background-image: url(../svg/crests/crownless/territorial.svg);
+}
+.fi-min-aero.fis {
+ background-image: url(../svg/crests/crownless/aero.svg);
 }
 .fi-min-parliament-police.fis {
   background-image: url(../svg/crests/parliament-police.svg);

@@ -45,7 +45,7 @@ Fast hydrofoils leave Caribbea's port daily, collecting students from neighbouri
 
 * **Commonwealth National University of the West Indies**: Historic and thriving main campus of Kalina's oldest university, second only to Vekllei National University in its size.
 * **Universal Cotton Plant of the West Indies**: Large textiles manufacturer that produces much of Vekllei's clothing output in the Kalina region.
-* **Naval Station Antigua**: Large naval service base and dockyard, and home of the Kalina Auxiliary Fleet.
+* **{{<link/ns-antigua>}}**: Large naval service base and dockyard, and home of the Kalina Auxiliary Fleet.
 * **Commonwealth Industrial Caribbean Bank**: Modernist bank headquarters that regularly hosts visitors from the US and Central America.
 * **Antigua Recreational Grounds**: Large cricket stadium and host of the North Kalina Regional Cup.
 * **Dickenson Bay**: Beautiful white beach with old-fashioned promenade and arcade.

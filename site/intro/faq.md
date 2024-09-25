@@ -2,7 +2,7 @@
 title: FAQ
 fulltitle: Frequently Asked Questions
 icon: 🎙
-emoji: L
+emoji: u
 color: pink
 
 tags:
@@ -10,13 +10,11 @@ tags:
 categories:
   - intro
 
-image: /images/drawing.jpg
+image: /images/fullres/railfan.jpg
+autonumbering: false
 
 aliases:
   - /faq/
-
-weight: 1
-autonumbering: false
 ---
 
 ## This is the Epoch of Rest
@@ -51,8 +49,8 @@ This website is a comprehensive archive and open notebook for the stories of Vek
 
 ## What is Vekllei?
 
-{{<note millmint >}}
-✿ Main article: {{<link/vekllei>}}
+{{<note advice>}}
+Main article: {{<link/vekllei>}}
 {{</note>}}
 
 > No differently will the world one day appear, almost unchanged, in its constant feast-day light, when it stands no longer under the law of labour, and when for homecomers duty has the lightness of holiday play.

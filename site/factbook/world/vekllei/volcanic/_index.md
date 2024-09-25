@@ -37,5 +37,6 @@ All republics of the Commonwealth receive midnight sun during portions of the ye
 
 * {{<link/aismious>}}
 * {{<link/demon>}}
+* {{<link/hetland>}}
 * {{<link/oslola>}}
 {{</note>}}

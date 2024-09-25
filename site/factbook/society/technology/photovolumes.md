@@ -4,7 +4,7 @@ fulltitle: Photovolumes
 icon: 💾
 emoji: O
 color: purple
-image:
+image: /images/fullres/photovolume.jpg
 
 aliases:
 - /photovolumes/

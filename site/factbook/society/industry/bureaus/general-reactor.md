@@ -31,7 +31,7 @@ aliases:
 
 <span class="fi fi-min-general-reactor fis"></span> **General Reactor** S.p.A. (GR or the Green Shop) is a bureau corporation that operates the majority of fission and fusion power generation in {{<link/vekllei>}}. It comprises mostly municipal plant corporations and specialised nuclear corporations for fuels and uranium enrichment.
 
-General Reactor is also a major manufacturer of atomic engines through its constituent corporations, and contributes substantial research and development towards Vekllei atomic projects. It has close connections with the {{<link/NSRE>}}, and its Chief Scientist sits on the establishment's board. It contributed to the development of sunburst reactors used in light aircraft, as well as the Vekllei [spaceplane](/stories/lightbulb/) programme.
+General Reactor is also a major manufacturer of atomic engines through its constituent corporations, and contributes substantial research and development towards Vekllei atomic projects. It has close connections with the {{<link/NSRE>}}, and its Chief Scientist sits on the establishment's board. It contributed to the development of sunburst reactors used in light aircraft, as well as the Vekllei [spaceplane](/stories/lightbulb/) programme. The bureau also developed and manufactures the [*Vampire*](/NMPR/) marine propulsion system.
 
 The company operates major fusion plants in {{<link/oslola>}} where it is headquartered, as well as {{<link/kairi>}}. It operates dozens more fission plants across Vekllei, as well as the infrastructure to support them.
 

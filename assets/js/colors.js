@@ -38,6 +38,10 @@ const colors = {
   culture: [59, 186, 94],
   democracy: [206, 80, 159],
   health: [246, 81, 113],
+
+  marine: [0, 60, 210],
+  land: [176, 44, 0],
+  aero: [201, 22, 22],
 }
 
 function colorsMain() {

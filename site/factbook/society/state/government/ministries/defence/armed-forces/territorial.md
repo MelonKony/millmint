@@ -1,16 +1,16 @@
   ---
-title: Armed Forces
-fulltitle: Armed Forces of Vekllei
+title: Territorial Services
+fulltitle: Territorial Services
 icon: ⚔️
-color: defence
-logo: /svg/crests/ministry-of-defence.svg
+color: land
+logo: /svg/crests/territorial.svg
 
-fi: fi fi-min-defence fis
+fi: fi fi-min-land fis
 
 autonumbering: false
 
 aliases:
-- /armed-forces/
+- /land/
 ---
 {{<note series>}}
  Part of the *[state](/state/)* series of articles
@@ -48,24 +48,25 @@ The **Maritime Service** (the **Navy** or *Navy of the Public*) is the tradition
 <details>
 <summary>Commonwealth Fleet</summary>
 
-The Commonwealth Fleet (*Sovereign/Federal Fleet*) of the Vekllei Maritime Service is the largest naval formation in Vekllei and is tasked with defence of the country's central corridor, a triangular area with points in {{<link/oslola>}}, {{<link/costa-verde>}} and {{<link/summers>}}
+The Commonwealth Fleet (*Sovereign/Federal Fleet*) of the Vekllei Maritime Service is the largest naval formation in Vekllei and is tasked with defence of the country's central corridor, a triangular area with points in {{<link/oslola>}}, {{<link/costa-verde>}} and {{<link/summers>}}. It is
 
 * 5 Aircraft Carriers
-	* 1 Supercarrier (flagship *CV Vekllei*)
-	* 2 Fleet Carriers
+	* 1 Supercarrier (flagship *CVN Veletia*)
+	* 2 Fleet Carriers ([*Volcanic*](/volcanic-class/)-class)
 	* 2 Helicopter Carriers
+* 1 Battleship (*Federal*-class *CVN Commonwealth*)
 * 3 Battlecruisers
 * 12 Cruisers
 	* 2 Scout Cruisers
 	* 2 Torpedo Cruisers
-	* 6 Missile Cruisers
-	* 2 Aircraft Cruisers
+	* 6 Missile Cruisers ([*Nike*](/nike-class/)-class)
+	* 2 Aircraft Cruisers ([*Prosperity*](/prosperity-class/)-class)
 * 28 Destroyers
-	* 6 Minelayers/Minesweepers
-	* 20 Fleet Air Escort Destroyers
-    * 2 Submarine Chaser Destroyers
+	* 6 Minelayers/Minesweepers ([*Hera*](/hera-class/)-class)
+	* 20 Fleet Air Escort Destroyers ([*Baker*](/baker-class/) and [*Swordfish*](/swordfish-class/)-classes)
+    * 2 Submarine Chaser Destroyers ([*Palm*](/palm-class/)-class)
 * 32 Corvettes
-* 8 Attack Submarines
+* 8 Attack Submarines ([*Capricorn*](/capricorn-class/)-class)
 </details>
 
 <details>
@@ -104,9 +105,9 @@ The Home Fleet (also *Auxiliary Fleet*) of the Commonwealth Maritime Service is 
 * 1 Battlecruiser
 * 6 Cruisers
 	* 4 Nuclear Icebreaker Cruisers
-	* 2 Aircraft Cruisers
-* 12 Destroyers
-	* 8 Fleet Air Escort Destroyers
+	* 2 Aircraft Cruisers ([*Prosperity*](/prosperity-class/)-class)
+* 8 Destroyers
+	* 4 Fleet Air Escort Destroyers ([*Baker*](/baker-class/)-class)
 	* 3 Missile Destroyers
 	* 1 Arsenal Destroyer
 * 2 Patrol Boats
@@ -118,22 +119,22 @@ The Home Fleet (also *Auxiliary Fleet*) of the Commonwealth Maritime Service is 
 
 * 1 Fleet Carrier
 * 1 Battlecruiser
-* 6 Cruisers
-	* 4 Nuclear Icebreaker Cruisers
-	* 2 Aircraft Cruisers
+* 4 Cruisers
+	* 2 Nuclear Icebreaker Cruisers
+	* 2 Aircraft Cruisers ([*Prosperity*](/prosperity-class/)-class)
 * 12 Destroyers
-	* 8 Fleet Air Escort Destroyers
-	* 3 Missile Destroyers
-	* 1 Arsenal Destroyer
+	* 8 Fleet Air Escort Destroyers ([*Baker*](/baker-class/) and [*Swordfish*](/swordfish-class/)-classes)
+	* 2 Missile Destroyers
+	* 2 Arsenal Destroyer
 * 2 Patrol Boats
-* 3 Attack Submarines
+* 2 Attack Submarines
 </details>
 
 <details>
 <summary>Missile Fleet</summary>
 
 * 2 Arsenal Ships
-* 6 Ballistic Missile Submarines
+* 6 Ballistic Missile Submarines ([*Mantle*](/mantle-class/)-class)
 </details>
 </details>
 
@@ -164,7 +165,7 @@ The Littoral Service has 12 commands across the Atlantic, Arctic, Antarctic and 
 * 10 Harbour Tugboats
 
 **Icebreakers**
-* 4 Heavy Icebreakers
+* 4 Heavy Icebreakers ({{<link/sude>}} {{<link/oslola>}} {{<link/helvasia>}} {{<link/falklands>}})
 * 1 Ice-strengthened Oiler
 
 **Survey & Auxiliary Ships**
@@ -459,9 +460,9 @@ Policy is to have a standing army 35,000 strong, but Rifles regiments are activa
 </details>
 
 <details>
-  <summary>Commonwealth Guards</summary>
+  <summary>Commonwealth Federal Components</summary>
 
-The Commonwealth Guard is the federal militia and primary reserve force of the Territorial Services. It is federalised by default, and contributes its servicemen for the Rifles and other territorial regiments. As such, all Territorial servicemen are part of a Commonwealth Guards regiment, but in regular service are assigned to active units in other services. Only reservists, trainees and officers remained attached to the Guard while it is federalised.
+Commonwealth components are the federal militia and primary reserve force of the Territorial Services. It is federalised by default, and contributes its servicemen for the Rifles and other territorial regiments. As such, all Territorial servicemen are part of a Commonwealth Guards regiment, but in regular service are assigned to active units in other services. Only reservists, trainees and officers remained attached to the Guard while it is federalised.
 
 Guards units are numbered in context to their home [republic](/republics/), i.e. {{<link/oslola>}} has Guards regiments numbering 1st-12th.
 </details>

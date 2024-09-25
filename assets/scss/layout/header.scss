@@ -162,6 +162,7 @@ header.info {
 		width: 100%;
 		height: 100%;
 		max-width: 100px;
+		max-height: 6rem;
 		justify-items: end;
 		align-content: center;
 	}
@@ -225,7 +226,6 @@ header.info {
 			@include padding-0;
 			display: inline;
 			list-style: none;
-			white-space: nowrap;
 
 			&+:after {
 				@include highlight;
