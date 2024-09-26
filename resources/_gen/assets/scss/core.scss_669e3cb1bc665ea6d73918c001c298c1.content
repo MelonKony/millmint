@@ -511,16 +511,17 @@ h6 {
   backdrop-filter: brightness(50%); }
 
 @media screen and (min-width: 0rem) {
-  main {
-    width: 90%;
-    margin-top: 0;
-    margin-bottom: 0; }
-    main > * {
-      padding-left: 1rem;
-      padding-right: 1rem; }
-    main .infobox {
-      width: 100%;
-      margin-left: 2rem; } }
+  body {
+    margin: 0; }
+    body main {
+      margin-top: 0;
+      margin-bottom: 0; }
+      body main > * {
+        padding-left: 1rem;
+        padding-right: 1rem; }
+      body main .infobox {
+        width: 100%;
+        margin-left: 2rem; } }
 
 @media screen and (min-width: 500px) {
   body {

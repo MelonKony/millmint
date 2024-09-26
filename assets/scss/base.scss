@@ -202,15 +202,19 @@ h6 {
 }
 
 @media screen and (min-width: $sm_min_width) {
-  main {
-    width: $sm_main_width;
-    @include my-0;
-    >* {
-      @include px-4;
-    }
-    .infobox {
-      width: 100%;
-      margin-left: 2rem;
+  body {
+    @include margin-0;
+    main {
+      @include my-0;
+
+      >* {
+        @include px-4;
+      }
+
+      .infobox {
+        width: 100%;
+        margin-left: 2rem;
+      }
     }
   }
 }
