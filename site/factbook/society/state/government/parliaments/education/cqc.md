@@ -17,7 +17,7 @@ aliases:
 
 <span class="fi fi-min-cqc fis"></span> **Commonwealth Curriculum & Qualifications Council** (CQC, colloquially *Quick*) develops and regulates the {{<link/vekllei>}} national curriculum and the Standard Exam. The organisation is headquartered in {{<link/antigua>}} but has offices in most Education Regions.
 
-The CQC is politically independent of the {{<link/parliament-of-education>}} and {{<link/government>}}, and draws on the expertise of Vekllei educators through the National Education Forum to develop the national curriculum. It is updated each year, and Commonwealth schools are free to interpret its outlines independently as long as the requirements of each unit are met.
+The CQC is politically independent of the {{<link/parliament-of-education>}} and {{<link/government>}}, and draws on the expertise of Vekllei educators through the {{<link/nef>}} to develop the national curriculum. It is updated each year, and Commonwealth schools are free to interpret its outlines independently as long as the requirements of each unit are met.
 
 {{<note>}}
 **Commonwealth National Curriculum**

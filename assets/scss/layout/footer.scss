@@ -100,6 +100,7 @@ nav.story {
 	@include px-1;
 	@include text-sm;
 	@include highlight;
+	@include radius-medium;
 	margin-left: auto;
 	margin-right: 0;
 	line-height: 1rem;
@@ -112,28 +113,33 @@ nav.story {
 	grid-template-areas:
 		"pill-category pill-icon pill-title";
 	border: var(--color-gray) solid 1px;
-	border-radius: 5px;
 
 	.pill-icon {
 		@include emoji;
+		width: 20px;
 		display: grid;
 		grid-area: pill-icon;
 		font-size: 17px;
 		line-height: 0;
 		align-content: center;
+		background-size: 3px 3px;
+		background-image: repeating-linear-gradient(135deg, var(--highlight) 0, var(--highlight) 1px, var(--main-background) 0, var(--main-background) 50%);
 	}
 
 	.pill-title {
 		@include font-bold;
+		@include px-2;
 		display: grid;
 		grid-area: pill-title;
 		text-transform: uppercase;
 	}
 
 	.pill-category {
+		@include px-2;
 		display: grid;
 		grid-area: pill-category;
 		text-transform: capitalize;
+		align-items: center;
 	}
 }
 

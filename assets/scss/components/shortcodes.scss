@@ -15,6 +15,7 @@ ol.timeline {
 
 	li {
 		@include text-sm;
+		@include py-1;
 		margin-bottom: 1.5rem;
 		list-style-type: disc;
 		position: relative;

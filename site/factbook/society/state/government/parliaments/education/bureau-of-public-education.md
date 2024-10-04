@@ -138,7 +138,7 @@ Commonwealth federal academies are research universities comprising dozens of fa
 ## Affiliated Universities
 
 * **United Nations University**: UN research university and think tank.
-* **New York University**: US-based university with campuses in Summers and {{<link/oslola>}}.
+* **New York University**: US-based university with campuses in {{<link/summers>}} and {{<link/oslola>}}.
 {{</note>}}
 
 {{<note panel>}}

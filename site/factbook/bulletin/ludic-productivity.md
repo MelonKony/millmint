@@ -96,7 +96,7 @@ Although ludic productivity is less coerced by material interests, it would be m
  1. Work is energy spent on getting things done
  2. Work is the play-fantasy of going into a workplace and performing roles (ludic productivity)
 
- As a consequence, these begrudging social obligations demonstrate that the physical obligation of work is gone (except for that distant legal obligation). The fact that Vekllei people continue to go into the workplace for no pay and under no threat indicates that work as we think of it does not exist at all.
+ As a consequence, these begrudging social obligations demonstrate that the physical obligation of work is gone (except, notably, for that distant legal obligation). The fact that Vekllei people continue to go into the workplace for no pay and under no threat indicates that work as we think of it does not exist at all.
 
  The distinction is important, because the physical and blunt mechanics of industrial relationships, previously insulated behind the social rituals of work, are now absent. The physical coercion (the need to earn and eat) is gone, except in that distant legal obligation -- a thorny but important caveat.
 

@@ -10,7 +10,7 @@ rgb: 249, 150, 51
 fi: fi fi-hetland
 
 aliases:
-- /aismious/
+- /hetland/
 ---
 {{<note series>}}
  Hetland is part of the {{<link/volcanic>}}

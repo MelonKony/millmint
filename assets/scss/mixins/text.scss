@@ -18,12 +18,19 @@
     width: 100%;
 }
 
+@mixin body-line-height {
+  line-height: 1.5;
+}
+@mixin tall-line-height {
+  line-height: 1.67;
+}
+
 /* text colors */
 @mixin font-color {
   color: var(--font-color);
 }
 @mixin body-background-color {
-    background-color: var(--body-background);
+    background-color: var(--main-background);
 }
 /* for use with hint-bg */
 @mixin secondary-color {

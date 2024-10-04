@@ -399,7 +399,7 @@ The **Missiles Service** is the tactical and strategic missile defence organisat
 
 ### <span class="fi fi-min-land fis"></span> Land and Army Services
 
-The {{<link/territorial>}}
+The {{<link/territorial>}} serve roles traditionally served by army and artillery components.
 
 <details>
 <summary>Territorial Service</summary>

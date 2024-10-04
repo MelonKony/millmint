@@ -32,7 +32,6 @@ article blockquote {
 }
 
 .note.series {
-	@include highlight-border;
 	@include highlight-background;
 	@include background-diagonal;
 	@include padding-2;

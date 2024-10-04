@@ -30,7 +30,7 @@ Broadly, the responsibilities of the Education Parliament include:
 * Operation, funding and supply of government schools, libraries and universities.
 * Establishment of quality standards, a national curriculum and education policy.
 * Improvement of accessibility and equity in public education.
-* Promotion of
+* Promotion of learning and upskilling to adults.
 {{</note>}}
 
 The Parliament of Health is led by the State Secretary of Education, who is a member of the {{<link/cabinet>}}. It is represented in the {{<link/council>}} by the First Secretary of Education.

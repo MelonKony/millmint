@@ -88,7 +88,7 @@ h6 {
 .fullscreen-tabs {
 	@include padding-0;
 	@include radius-base;
-	background-color: var(--body-background);
+	background-color: var(--main-background);
 	line-height: 1.5;
 	letter-spacing: -.01em;
 	overflow: hidden;
@@ -132,7 +132,7 @@ h6 {
 
 button.navbutton {
 	height: 100%;
-	padding: .5rem;
+	padding: .75rem;
 	cursor: pointer;
 	outline: inherit;
 	font-size: 18px;
@@ -143,10 +143,6 @@ button.navbutton {
 		color: inherit;
 		background: none;
 		border: none;
-	}
-
-	.navicon {
-		margin: 0;
 	}
 }
 
@@ -177,7 +173,7 @@ span.tag {
 	list-style: none;
 	width: fit-content;
 	background-color: var(--color-gray);
-	color: var(--body-background);
+	color: var(--main-background);
 	border: hidden;
 
 	.gray {

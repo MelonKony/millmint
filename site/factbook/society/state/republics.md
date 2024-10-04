@@ -117,5 +117,6 @@ There are a few criteria separating republics from regular local government. The
 * **{{<link/volcanic>}}**
 	* {{<link/aismious>}} (*Faroe*)
 	* {{<link/demon>}} (*Jan Mayen*)
+	* {{<link/hetland>}} (*Shetland*)
 	* {{<link/oslola>}} (*Iceland*)
 </details>

@@ -30,7 +30,7 @@ $gray-med-dark: #302f2f;
 $gray-heavy-dark: #d7d7dd;;
 
 $background: #ffffff;
-$dark-background: #0f0f12;
+$dark-background: #1a1b28;
 
 $font-color: #1d1d1f;
 $font-color-dark: #e7e7f1;
@@ -82,7 +82,7 @@ $aero: rgb(201, 22, 22);
   --gray-light: #{$gray-100};
   --gray-100: #{$gray-100};
   --gray-200: #{$gray-200};
-  --body-background: #{$background};
+  --main-background: #{$background};
 
   --font-color: #{$font-color};
   --highlight: #{$gray-heavy};
@@ -147,7 +147,7 @@ html[data-theme="light"] {
   --color-text-secondary: #{$gray-500};
   --color-text-footer: #{$gray-500};
   --color-border: #{$gray-300};
-  --body-background: #{$background};
+  --main-background: #{$background};
   --color-background-overlay: #{$gray-150};
   --color-background-inline-code: #{$gray-100};
   --color-background-card: #{$gray-0};
@@ -175,7 +175,7 @@ html[data-theme="dark"] {
   --color-text-secondary: #{$gray-450};
   --color-text-footer: #{$gray-400};
   --color-border: #{$gray-500};
-  --body-background: #{$dark-background};
+  --main-background: #{$dark-background};
   --color-background-overlay: #{$gray-700};
   --color-background-inline-code: #{$gray-600};
   --color-background-card: #{$gray-700};

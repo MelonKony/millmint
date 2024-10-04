@@ -179,7 +179,7 @@ function setColors(rgb, doBackground = true, el = document.body) {
 
   if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
       // Define all dark colors
-      const bodyBg = `rgba(${rgb.map((v) => Math.max(v - 300, 0)).join(", ")}, 1)`;
+      const bodyBg = `rgba(18, 18, 25, 1)`;
       const darkerText = rgba(161, 161, 166, 1);
       const titleText = rgba(...rgb, 0.25, 'black');
       const bg = rgba(14, 14, 14, 1);
@@ -190,7 +190,7 @@ function setColors(rgb, doBackground = true, el = document.body) {
       const darkerColor = `rgba(${rgb.map((v) => Math.max(v - 100, 0)).join(", ")}, 1)`;
 
       const classes = [`--title-text: ${titleText}`, `--highlight: ${highlight}`, `--highlight-background: ${highlightBackground}`, `--darker-text: ${darkerText}`, `a: ${colorGray}`, `--color-gray: ${colorGray}`, `--color-text: ${colorGray}`, `--hint-bg: ${bodyBg}`, `--bg-alt: ${bg}`]
-      if(doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-light: ${gray100}`, `--color-placeholder: var(--color-gray)`/*, `--body-background: ${bodyBg}`*/);
+      if(doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-light: ${gray100}`, `--color-placeholder: var(--color-gray)`/*, `--main-background: ${bodyBg}`*/);
 
       // Inject dark colors into DOM
       el.setAttribute(
@@ -210,7 +210,7 @@ function setColors(rgb, doBackground = true, el = document.body) {
       const darkerColor = `rgba(${rgb.map((v) => Math.max(v - 100, 0)).join(", ")}, 1)`;
 
       const classes = [`--title-text: ${titleText}`, `--highlight: ${highlight}`, `--highlight-background: ${highlightBackground}`, `--darker-text: ${darkerText}`, `a: ${colorGray}`, `--color-gray: ${colorGray}`, `--color-text: ${colorGray}`, `--hint-bg: ${bodyBg}`, `--bg-alt: ${bg}`]
-      if(doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-light: ${gray100}`, `--color-placeholder: var(--color-gray)`/*, `--body-background: ${bodyBg}`*/);
+      if(doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-light: ${gray100}`, `--color-placeholder: var(--color-gray)`/*, `--main-background: ${bodyBg}`*/);
       classes.push(doBackground ? `--logo-color: var(--color-gray)` : `--logo-color: ${darkerColor}`)
 
       // Inject colors into DOM

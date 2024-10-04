@@ -23,7 +23,7 @@ header {
 		@include text-2xl;
 		@include font-bold;
 		@include radius-medium;
-		color: var(--body-background);
+		color: var(--main-background);
 		vertical-align: middle;
 		padding: 2px 6px 2px 6px;
 		background-color: var(--color-gray);
@@ -89,11 +89,11 @@ body>canvas:not(#HeaderCanvas) {
 
 /* fix menu dropdown bg colour */
 body header #navbar .navbar-dropdown li {
-	background-color: var(--body-background);
+	background-color: var(--main-background);
 }
 
 body header #navbar .navbar-dropdown li:hover {
-	background-color: var(--body-background);
+	background-color: var(--main-background);
 	filter: brightness(98%);
 }
 
