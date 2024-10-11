@@ -19,6 +19,7 @@
 {{ $pages = .Pages.GroupByPublishDate "2006" }}
 {{- end -}}
 
+<br>
 <details open>
   <summary><span class="navicon details-title">{{ if .Params.icon }}{{ .Params.icon }}{{ end }}</span><a href="{{ .RelPermalink }}">{{ if .Params.fulltitle }}{{ .Params.fulltitle }}{{ end }}</a></summary>
   {{ if .Params.list }}

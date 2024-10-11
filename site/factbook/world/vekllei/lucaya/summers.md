@@ -48,8 +48,8 @@ Summers is one of the few Vekllei republics in which automobiles are banned by l
 - **Gibbs Hill Lighthouse**: An iconic 19th-century lighthouse offering panoramic views of the island.
 - **The Summers Botanical Gardens**: Located in Paget Parish, these gardens feature 36 acres of flowers, trees, and shrubs, including a palm garden and a sensory garden.
 - **New York University, Summers**: US-based university campus that serves American and Vekllei students on exchange.
-- **Naval Station Somers**: A historic site housing museums, shops, and restaurants, with attractions like the National Museum of Bermuda and the Dolphin Quest.
-- **L.S. Avia International Airport**: The island's primary airport, connecting Bermuda to major cities like New York, London, and Toronto.
+- **Naval Station Somers**: A historic site housing museums, shops, and restaurants, with attractions like the National Museum of Summers and the Dolphin Quest.
+- **Somers International Airport**: The island's primary airport, connecting Summers to major cities like New York, London, and Toronto.
 - **Air Station Somers**: Military air station attached to the international airport.
 - **Hamilton Harbour**: A key port in Summers, supporting commercial shipping, private yachts, and ferry services.
 - **Public Ferry System**: An essential transport service that connects Hamilton with other key locations like Dockyard and St. George’s.

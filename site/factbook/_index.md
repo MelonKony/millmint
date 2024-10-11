@@ -4,7 +4,7 @@ fulltitle: Factbook
 icon: 📓
 emoji: q
 color: millmint
-list: true
+type: blank
 
 menus: main
 weight: 2

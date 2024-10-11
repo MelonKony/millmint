@@ -19,15 +19,16 @@ aliases:
 
 The <span class="fi fi-min-light-and-water fis"></span> **Ministry of Light & Water** is responsible for water and electricity supply in {{<link/vekllei>}}. While the ministry primarily directs production and facilitates research, it also controls the vast majority of energy and water production in Vekllei through its statutory corporations.
 
-Increasingly, ministry investment has indicated an interest in energy and water conservation, especially since the majority of Vekllei islands have limited water sources and desalination remains expensive. Common responsibilities of the ministry include:
+Although electricity now flows freely and abundantly in an age of commercial fusion power plants, many of Vekllei's [constituent republics](/republics/) have little to no fresh water reserves and rely heavily on water conservation, recycling and desalination to supplement their water supply. Common responsibilities of the ministry include:
 
-{{<note panel>}}
-* Maintenance and operation of utilities that provide Vekllei people with electricity and water.
-* Facilitation of water and energy grid independence.
-* Production and conservation of energy and water.
-* Investment and research into emerging physical sciences.
-* Advising energy and water policy to [republican](/republics/) and [commonwealth](/constituents/) parliaments.
-* Nuclear energy security.
+{{<note>}}
+* Maintenance and operation of utilities that provide Vekllei people with electricity and water
+* Facilitation of water and energy grid independence and security
+* Production, promotion and conservation of energy and water
+* Investment and research into emerging physical sciences
+* Advising energy and water policy to [republican](/republics/) and [commonwealth](/constituents/) parliaments
+* Investment and development of new electric and water sources
+* Nuclear energy research and security
 {{</note>}}
 
 The Ministry of Light & Water is the third-largest ministry by persons employed, and its subordinate bureaux and corporations are responsible for a number of iconic pieces of Vekllei infrastructure, including the [Expo '74 Experimental Reactor](/posts/2019-09-15-reactor/) and the [Ou Hydroburo Complex](/posts/2020-04-21-hydro/). It is lead by the State Secretary of Light & Water, who is a member of the {{<link/cabinet>}}. It is represented in the {{<link/council>}} by the First Minister of Light & Water.

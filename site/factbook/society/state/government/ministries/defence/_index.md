@@ -19,7 +19,7 @@ The <span class="fi fi-min-defence fis"></span> **Ministry of Defence** is respo
 
 The ministry in peacetime does not exercise command authority of its constituent organisations directly, as the military and civil defence forces are autonomous organisations. Common responsibilities of the ministry include:
 
-{{<note panel>}}
+{{<note>}}
 * Development of defence policy and planning.
 * Recruitment of citizens and foreigners into the armed forces.
 * Equipment procurement and administration.
@@ -27,6 +27,6 @@ The ministry in peacetime does not exercise command authority of its constituent
 * Policing and security of Vekllei republics, territorial waters and exclusive economic zones.
 {{</note>}}
 
-The Ministry of Defence is led by the State Secretary of Defence, who is a member of the {{<link/cabinet>}}. It is represented in the {{<link/council>}} by the Minister of Defence.
+The Ministry of Defence is led by the State Secretary of Defence, who is a member of the {{<link/cabinet>}}. It is represented in the {{<link/council>}} by the First Minister of Defence.
 
 Aspects of Vekllei's police and military are devolved, and the ministry has a key role in coordinating them centrally and establishing standards of service.

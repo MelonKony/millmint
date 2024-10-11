@@ -4,6 +4,7 @@ fulltitle: Antigua Republic
 icon: 🌸
 logo: /svg/flags/4x3/antigua.svg
 series: republic
+image: /images/fullres/antigua.jpg
 
 rgb: 133, 122, 187
 
