@@ -4,11 +4,7 @@ color: yellow
 
 fi: fi fi-tzipora fis
 
-toc: false
 meta: false
-info: false
-autonumbering: false
-type: blank
 ---
 **Tzipora** *lo Ula de Helette* **Azela**, often called **Zelda** by her friends, is the main character of this project. She was born in 2047 in Colombia, but lives in {{<link/vekllei>}} with [Baron](/characters/baron/).
 

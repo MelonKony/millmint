@@ -1,0 +1,114 @@
+// millmint.net navbar
+// Made by Hobart
+
+
+  .factbook-title {
+    @include highlight;
+    @include my-2;
+    @include font-bold;
+    margin: auto;
+    align-content: center;
+    font-size: 35pt;
+    line-height: 1;
+  }
+
+  .factbook-image {
+    width: 80%;
+    background: transparent;
+  }
+
+  .factbook ul {
+    @include my-0;
+  }
+
+  .factbook-bulletin-list {
+    column-count: 2;
+    @media only screen and (max-width: 500px) {
+      column-count: 1;
+    }
+  }
+
+  .factbook-intro {
+    @include padding-5;
+    @include background-diagonal;
+    text-align: center;
+  }
+
+  .factbook #HeaderCanvas {
+    @include radius-base;
+    height: 60vh!important;
+  }
+
+  .factbook-icon {
+  }
+
+.section {
+  background: transparent;
+  border: none;
+  summary {
+    @include radius-base;
+    @include highlight;
+    padding-left: 0;
+    background-size: 5px 5px;
+    background-image: repeating-linear-gradient(135deg, var(--highlight-background) 0, var(--highlight) 1px, var(--main-background) 0, var(--main-background) 50%);
+    vertical-align: middle;
+  h3 {
+    @include margin-0;
+    padding-right: .5rem;
+    background-color: var(--main-background);
+    width: fit-content;
+  }
+}
+}
+
+.factbook-text {
+  @include text-sm;
+  @include highlight;
+}
+
+.list {
+  @include text-sm;
+  @include my-4;
+  @include radius-base;
+  @include padding-0;
+  line-height: 1.25rem;
+  display: flex;
+  align-content: stretch;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-grow: 4;
+
+  a {
+    margin: .1rem;
+    line-height: 2;
+  }
+
+  .list-item {
+    @include my-2;
+    @include padding-0;
+  }
+
+  .list-item[one-third] {
+    a {
+      @include font-medium;
+      line-height: 1;
+    }
+    @media only screen and (min-width: 600px) {
+      float: left;
+      width: 35%;
+      &[millmint] {
+        color: var(--color-millmint);
+      }
+  }
+  @media only screen and (max-width: 600px) {
+    width: 100%;
+    @include my-4;
+  }
+}
+  .list-item[two-thirds] {
+    @media only screen and (min-width: 600px) {
+      float: right;
+      width: 60%;
+  }
+}
+}

@@ -6,9 +6,8 @@ fi: fi fi-cobian fis
 
 toc: false
 meta: false
-info: false
 autonumbering: false
-type: blank
+
 ---
 **Cobian** *lo Ro de Viviya* de **Queismesnah** is [Tzipora](/characters/tzipora)'s longtime friend and occasional girlfriend. Stern in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood.
 

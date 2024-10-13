@@ -6,9 +6,8 @@ fi: fi fi-ayn fis
 
 toc: false
 meta: false
-info: false
 autonumbering: false
-type: blank
+
 ---
 **Ayn Lai-Lebedev** is a longtime associate of [Baron](/characters/baron) and a maternal figure to [Tzipora](/characters/tzipora). She commands an affectionate and stable presence, intelligent and emotionally secure in her work and home life.
 

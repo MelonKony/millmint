@@ -2,17 +2,21 @@
 title: Characters
 fulltitle: Characters
 icon: 🎎
-emoji: ¥
+emoji: O
 color: yellow
 meta: false
-info: false
 
 autonumbering: false
-type: blank
+
 
 aliases:
 - /characters/
 ---
+<style>
+  header.info {
+  height: 2.5rem;
+  }
+</style>
 
 {{< tabs "characters" >}}
 {{< tab "Tzipora" >}}

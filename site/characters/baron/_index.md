@@ -6,9 +6,8 @@ fi: fi fi-baron fis
 
 toc: false
 meta: false
-info: false
 autonumbering: false
-type: blank
+
 ---
 **Baron** *lo Ula de Tiria* **Spector** is [Tzipora](/characters/tzipora)'s guardian in on way or another. Whether he's a surrogate father, adoptive parent, mentor or friend, his title is unclear but their relationship is fairly straightforward. Tzipora lives with him in Seispri and his relationship with her is both paternal and respectful as an equal.
 

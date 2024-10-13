@@ -7,23 +7,25 @@
   list-style: none;
   text-align: center;
 
-  .active {
-    border: none;
-    @include highlight-background;
-  }
-
   ul {
     width: 100%;
   }
 
   li {
+    @include px-2;
+    @include highlight-background;
+    @include radius-base;
     @include text-lg;
     display: inline;
     margin: 0 .25rem;
 
-    .active a {
+    .active {
+      border: none;
+      background: var(--highlight);
+      a {
       @include font-semibold;
-      @include highlight;
+      color: var(--main-background);
+    }
     }
 
     &:not(.disabled) a:hover {
@@ -33,11 +35,6 @@
         color: inherit;
       }
     }
-  }
-
-  a,
-  span {
-    @include secondary-color;
   }
 
   .disabled {

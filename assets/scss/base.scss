@@ -98,14 +98,28 @@ details {
   padding: 0.5rem 1rem 0.5rem 1rem;
   outline: none;
 
-  &::marker, ::-webkit-details-marker {
-    float: right;
-    margin-top: .45rem;
-  }
-
   div {
     @include px-6;
   }
+}
+
+details>summary {
+  @include px-2;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+summary::-webkit-details-marker {
+  display: none
+}
+
+summary::after {
+  content: ' ►';
+  float: right;
+}
+details[open] summary:after {
+  content: " ▼";
 }
 
 #navbar a {

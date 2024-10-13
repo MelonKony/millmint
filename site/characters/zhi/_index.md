@@ -6,9 +6,8 @@ fi: fi fi-zhi fis
 
 toc: false
 meta: false
-info: false
 autonumbering: false
-type: blank
+
 ---
 **Lin Zhi**, who prefers being addressed by her full name, is [Tzipora](/characters/tzipora/)'s friend and occasional accomplice. She is surly, independent and uninterested in the opinions of others. She meets Tzipora at [Moshel St School](/moshel/).
 

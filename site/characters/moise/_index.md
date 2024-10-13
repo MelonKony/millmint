@@ -6,9 +6,8 @@ fi: fi fi-moise fis
 
 toc: false
 meta: false
-info: false
 autonumbering: false
-type: blank
+
 ---
 **Moise Hasapis** is [Tzipora](/characters/tzipora)'s neighbour and one of her closest friends. Like Tzipora, he was born overseas and has only started schooling in Vekllei in late childhood.
 

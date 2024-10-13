@@ -1,9 +1,10 @@
 ---
-title: Community of Oceans
+title: COMOC
 fulltitle: Community of Oceans
 icon: 🏵️
-logo: /svg/co.svg
-image:
+logo: /svg/flags/4x3/comoc.svg
+
+fi: fi fi-comoc
 
 rgb: 52, 95, 223
 

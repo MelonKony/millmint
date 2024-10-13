@@ -6,6 +6,8 @@ emoji: ʠ
 color: blue
 meta: false
 
+type: blank
+
 menus: main
 weight: 3
 
@@ -21,7 +23,12 @@ toc: false
   }
 </style>
 
-{{<note>}}
-<span class="navicon">📕</span> **MillMint** is the place for everything going on at Studio MillMint. You can read [essays](/essays/), learn more about [commissions](/commissions/), or [create your own Vekllei character](/millmint/dolls/).
-{{</note>}}
+<div class="factbook-intro">
+ <img class="factbook-image" src="/images/mastheads/studiomillmint.png">
+
+  <div class="factbook-intro factbook-text">
+    <b>MillMint</b> is the place for everything going on at Studio MillMint. You can read essays, learn more about commissions, or create your own Vekllei character.
+  </div>
+</div>
+
 {{< nav/millmint >}}

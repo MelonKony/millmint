@@ -6,9 +6,8 @@ fi: fi fi-coretti fis
 
 toc: false
 meta: false
-info: false
 autonumbering: false
-type: blank
+
 ---
 **Coretti Gloria Adoula** is Moise's girlfriend. Born in the Congo, she lived in the Soviet Union before moving to {{<link/vekllei>}} at 6 years old. She has a knack for languages and speaks Oslolan fluently.
 

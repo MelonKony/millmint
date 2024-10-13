@@ -187,7 +187,6 @@
   flex: 1;
 
   .navcard {
-    @include mx-1;
     @include radius-base;
     height: auto;
     overflow: hidden;
@@ -206,11 +205,7 @@
 
     &:hover {
       @include drop-shadow;
-      transform: translateY(-0.25rem);
-    }
-
-    .name {
-      position: absolute;
+      transform: translateY(-0.1rem);
     }
 
     figure {
@@ -219,10 +214,10 @@
 
     img {
       @include margin-0;
-      @include padding-0;
       display: block;
-      box-sizing: border-box;
-      transform: scale(1.1);
+      object-fit: cover;
+      border: 2px solid var(--highlight);
+      transform: scale(1);
       height: 150px;
       object-fit: cover;
     }

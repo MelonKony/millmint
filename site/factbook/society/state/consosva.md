@@ -4,26 +4,10 @@ fulltitle: Contributory Service in Vekllei
 icon: ⏳
 emoji: ←
 color: pink
-image:
-
-tags:
-  - state
-categories:
-  - society
-
-draft: false
-
-type: blank
-
-comments: false
-
-toc: true
+series: state
 
 aliases:
 - /consosva/
-
-
-
 ---
 {{<note series>}}
  Part of the *[state](/state/)* series of articles

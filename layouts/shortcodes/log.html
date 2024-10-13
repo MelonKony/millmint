@@ -1,0 +1,14 @@
+<!-- list of site updates -->
+
+<div class="log">
+	{{ $byLastMod :=  .Site.RegularPages.ByLastmod  }}
+
+	{{ range (.Site.RegularPages.ByLastmod).Reverse }}
+	  <li>
+		<p class="" style="margin:0 0;">
+		   <a href="{{ .RelPermalink }}">
+			  <span class="icon" style="line-height: 1.2;">{{ .Params.icon }}</span> {{ .Title  }}</a> <span class="smalldate">{{ .Lastmod | time.Format ":date_medium" }}</span>
+		</p>
+	  </li>
+	{{ end }}
+</div>

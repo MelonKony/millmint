@@ -1,10 +1,9 @@
 ---
 title: Stories
+fulltitle: Stories
 description: Stories of life and living in the country of Vekllei.
 emoji: ɋ
 icon: 📗
-type: stories
-layout: stories
 color: yellow
 meta: false
 
@@ -14,4 +13,8 @@ weight: 4
 aliases:
 - /posts/
 ---
-
+<style>
+  header.info {
+	height: 2.5rem;
+  }
+</style>

@@ -1,386 +1,588 @@
-<div class="bento">
-	<div class="box" two-thirds>
-		<a class="boxtitle" href="/vekllei/" vekllei>
-			<span class="fi fi-com"></span>
-			<span class="name" vekllei>Vekllei</span></a><a href="/factbook/"><span> — Featured Articles</span></a>
-		<div class="tray" vekllei>
-			<div>
-				<a href="/state/">
-					<span class="navicon">🌸</span>
-					<span class="name">State:</span>
+<div class="factbook">
+
+<div class="factbook-intro">
+	{{- partial "parallax/hills.html" . -}}
+
+	<div class="factbook-intro factbook-text" style="background: transparent;">
+		<b>Welcome.</b> May this document serve a useful purpose to you, as you learn more about this remarkable country. Use it as a reference for when you need it.
+	</div>
+</div>
+
+	<div class="bento">
+		<div class="box" one-third>
+			<a class="boxtitle" href="/millmint/" vekllei>
+				<span class="navicon">📓</span>
+				<span class="name">To start</span>
+			</a>
+			<div class="tray" vekllei>
+				<a href="/vekllei/">
+					<span class="fi fi-com"></span>
+					<span class="name"> Vekllei</span>
 				</a>
-				<a href="/education/"><i>
-						<span class="name">Education in Vekllei</span>
-					</i></a>
 			</div>
-			<div>
-				<a href="/culture/">
-					<span class="navicon">🏵️</span>
-					<span class="name">Culture:</span>
+			<div class="tray" blue>
+				<a href="/maps/world/">
+					<span class="navicon">🌎</span>
+					<span class="name">World Map</span>
 				</a>
-				<a href="/veletia/"><i>
-						<span class="name">Veletia</span>
-					</i></a>
 			</div>
-			<div>
-				<a href="/technology/">
-					<span class="navicon">🧪</span>
-					<span class="name">Technology:</span>
+			<div class="tray" brown>
+				<a href="/timeline/">
+					<span class="navicon">⏳</span>
+					<span class="name">Timeline</span>
 				</a>
-				<a href="/computers/"><i>
-						<span class="name">Computers in Vekllei</span>
-					</i></a>
 			</div>
-			<a  href="/factbook/"><button>
-				Read more...
-			</button></a>
+		</div>
+
+		<div class="box" two-thirds>
+			<a class="boxtitle" href="/log/" millmint>
+				<span class="navicon">📋</span>
+				<span class="name">Recent Updates</span>
+			</a>
+			<div class="tray" millmint>
+					<ul>
+						{{ range (.Site.RegularPages.ByLastmod | last 3).Reverse }}
+					  <li>
+						  <a href="{{ .RelPermalink }}">
+						   <span class="icon" style="line-height: 1.2;">{{ .Params.icon }}</span> {{ .Title  }}</a>
+					  </li>
+					{{ end }}
+					</ul>
+				<a  href="/log/"><button>
+					Read more...
+				</button></a>
+			</div>
 		</div>
 	</div>
 
-	<div class="box" one-third>
-		<a class="boxtitle" href="/maps/" blue>
-			<span class="navicon">🗺️</span>
-			<span class="name">Maps</span>
-		</a>
-		<div class="tray" blue>
-			<a href="/maps/world/">
-				<span class="navicon">🌎</span>
-				<span class="name">World Map</span>
+	<div class="bento">
+		<div class="box" full>
+			<a class="boxtitle" href="/stories/" yellow>
+				<span class="navicon">📖</span>
+				<span class="name">Recent Stories</span>
 			</a>
-			<a href="/maps/route-map/">
-				<span class="navicon">✈️</span>
-				<span class="name">Route Map</span>
-			</a>
+			<div class="tray" yellow>
+				<a href="/characters/tzipora/">
+					<span class="fi fi-tzipora fis"></span>
+					<span class="name">Tzipora</span>
+				</a>
+				<a href="/characters/cobian/">
+					<span class="fi fi-cobian fis"></span>
+					<span class="name">Cobian</span>
+				</a>
+				<a href="/characters/baron/">
+					<span class="fi fi-baron fis"></span>
+					<span class="name">Baron</span>
+				</a>
+				<a href="/characters/ayn/">
+					<span class="fi fi-ayn fis"></span>
+					<span class="name">Ayn</span>
+				</a>
+				<a href="/characters/moise/">
+					<span class="fi fi-moise fis"></span>
+					<span class="name">Moise</span>
+				</a>
+				<a href="/characters/coretti/">
+					<span class="fi fi-coretti fis"></span>
+					<span class="name">Coretti</span>
+				</a>
+				<a href="/characters/zhi/">
+					<span class="fi fi-zhi fis"></span>
+					<span class="name">Zhi</span>
+				</a>
+				<a href="/characters/">
+					<span class="name" style="color: var(--color-yellow);">More Characters →</span>
+				</a>
+			</div>
 		</div>
-		<div class="tray" brown>
-			<a href="/timeline/">
-				<span class="navicon">⏳</span>
-				<span class="name">Timeline</span>
-			</a>
-		</div>
-	</div>
 
 	<div class="box" full>
-		<a class="boxtitle" href="/republics/" green>
-			<span class="navicon">💮</span>
-			<span class="name">Vekllei Republics</span>
-		</a>
-		<div class="tray" green>
-			<a href="/aismious/">
-				<span class="fi fi-fo"></span>
-				<span class="name">Aismious</span>
-			</a>
-			<a href="/allia/">
-				<span class="fi fi-ms"></span>
-				<span class="name">Allia</span>
-			</a>
-			<a href="/aloi/">
-				<span class="fi fi-aloi"></span>
-				<span class="name">Aloi</span>
-			</a>
-			<a href="/aloubaera/">
-				<span class="fi fi-aloubaera"></span>
-				<span class="name">Aloubaera</span>
-			</a>
-			<a href="/anguilla/">
-				<span class="fi fi-ai"></span>
-				<span class="name">Anguilla</span>
-			</a>
-			<a href="/antigua/">
-				<span class="fi fi-antigua"></span>
-				<span class="name">Antigua</span>
-			</a>
-			<a href="/ascension/">
-				<span class="fi fi-ac"></span>
-				<span class="name">Ascension</span>
-			</a>
-			<a href="/barbados/">
-				<span class="fi fi-bb"></span>
-				<span class="name">Barbados</span>
-			</a>
-			<a href="/barbary/">
-				<span class="fi fi-barbary"></span>
-				<span class="name">Barbary</span>
-			</a>
-			<a href="/cama/">
-				<span class="fi fi-gd"></span>
-				<span class="name">Cama</span>
-			</a>
-			<a href="/costa-verde/">
-				<span class="fi fi-costa-verde"></span>
-				<span class="name">Costa Verde</span>
-			</a>
-			<a href="/demon/">
-				<span class="fi fi-demon"></span>
-				<span class="name">Demon</span>
-			</a>
-			<a href="/falklands/">
-				<span class="fi fi-fk"></span>
-				<span class="name">Falklands</span>
-			</a>
-			<a href="/habacoa/">
-				<span class="fi fi-habacoa"></span>
-				<span class="name">Habacoa</span>
-			</a>
-			<a href="/helena/">
-				<span class="fi fi-sh"></span>
-				<span class="name">Helena</span>
-			</a>
-			<a href="/helvasia/">
-				<span class="fi fi-sj"></span>
-				<span class="name">Helvasia</span>
-			</a>
-			<a href="/hetland/">
-				<span class="fi fi-hetland"></span>
-				<span class="name">Hetland</span>
-			</a>
-			<a href="/java/">
-				<span class="fi fi-java"></span>
-				<span class="name">Java</span>
-			</a>
-			<a href="/kairi/">
-				<span class="fi fi-kairi"></span>
-				<span class="name">Kairi</span>
-			</a>
-			<a href="/kala/">
-				<span class="fi fi-kala"></span>
-				<span class="name">Kala</span>
-			</a>
-			<a href="/oslola/">
-				<span class="fi fi-oslola"></span>
-				<span class="name">Oslola</span>
-			</a>
-			<a href="/rum/">
-				<span class="fi fi-rum"></span>
-				<span class="name">Rum</span>
-			</a>
-			<a href="/santes/">
-				<span class="fi fi-santes"></span>
-				<span class="name">Santes</span>
-			</a>
-			<a href="/sude/">
-				<span class="fi fi-gs"></span>
-				<span class="name">Sude</span>
-			</a>
-			<a href="/virgin/">
-				<span class="fi fi-vg"></span>
-				<span class="name">Virgin</span>
-			</a>
+		<div class="showcase" five>
+			{{ range ( where .Site.RegularPages "Type" "stories" | first 5 ) }}
+			<div class="navcard">
+				<a href="{{ .RelPermalink }}">
+					<figure>
+						{{ with resources.Get .Params.image }}
+						{{ with .Resize "680x q90 webp" }}
+						<img class="page" src="{{ .RelPermalink }}" alt="">
+						{{ end }}
+						{{ end }}
+					</figure>
+				</a>
+			</div>
+			{{end}}
+		</div>
+
+		<div class="showcase" three>
+			{{ range ( where .Site.RegularPages "Type" "stories" | first 3 ) }}
+			<div class="navcard">
+				<a href="{{ .RelPermalink }}">
+					<!--<div class="name">
+				{{- .Title -}}
+				</div>-->
+					<figure>
+						{{ with resources.Get .Params.image }}
+						{{ with .Resize "680x q90 webp" }}
+						<img class="page" src="{{ .RelPermalink }}" alt="">
+						{{ end }}
+						{{ end }}
+					</figure>
+				</a>
+			</div>
+			{{end}}
+		</div>
+	</div>
+	</div>
+
+
+	<details class="section" open="true">
+		<summary><h3>Bulletins</h3></summary>
+
+	<p class="factbook-text">
+		Bulletins are short articles on Vekllei society. They answer some frequently asked questions, and touch on aspects of life that might not conform to a regular wiki article.
+	</p>
+
+	<div class="list">
+	<div class="factbook-bulletin-list">
+		<ul>
+		{{ range (site.GetPage "factbook/bulletin").Pages }}
+		<li><a class="slink" {{ if .Params.color }} style="
+		 color: var(--color-{{ .Params.color }});
+		 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+		 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a></li>
+		{{ end }}
+		</ul>
+	</div>
+	</div>
+	</details>
+
+	<details class="section" open="true">
+	<summary><h3>Territories & Constituents</h3></summary>
+
+	<p class="factbook-text">
+		Vekllei spans pole to pole as a union of island communities. It is a unique federal country, with no direct precedent or comparison. It is made up of constituent republics organised into regional commonwealths.
+	</p>
+
+	<div class="list">
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-vekllei);" href="/antarctic/"><span class="fi fi-antarctic factbook-icon"></span> Antarctic Republics</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/world/vekllei/antarctic").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-vekllei);" href="/antilles/"><span class="fi fi-antilles factbook-icon"></span> Antilles Republics</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/world/vekllei/antilles").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-vekllei);" href="/arctic/"><span class="fi fi-arctic factbook-icon"></span> Arctic Republics</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/world/vekllei/arctic").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-vekllei);" href="/atlantic/"><span class="fi fi-atlantic factbook-icon"></span> Atlantic Republics</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/world/vekllei/atlantic").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-vekllei);" href="/kalina/"><span class="fi fi-kalina factbook-icon"></span> Kalina Republics</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/world/vekllei/kalina").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-vekllei);" href="/lucaya/"><span class="fi fi-lucaya factbook-icon"></span> Lucayan Republics</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/world/vekllei/lucaya").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-vekllei);" href="/verde/"><span class="fi fi-verde factbook-icon"></span> Verde Republics</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/world/vekllei/verde").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-vekllei);" href="/volcanic/"><span class="fi fi-volcanic factbook-icon"></span> Volcanic Republics</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/world/vekllei/volcanic").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+				 color: var(--color-{{ .Params.color }});
+				 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+				 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+	</div>
+	</details>
+
+	<details class="section" open="true">
+	<summary><h3>Society</h3></summary>
+
+	<p class="factbook-text">
+		Vekllei society is democratic, prosperous and diverse. It also has many unusual features that arise from its unique geography and political systems.
+	</p>
+
+	<div class="list">
+		<div class="list-item" one-third millmint>
+			<a href="/state/">State</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
 		</div>
 	</div>
 
-	<div class="box" half>
-		<a class="boxtitle" href="/constituents/" vekllei>
-			<span class="navicon">🏴</span>
-			<span class="name">Commonwealths</span>
-		</a>
-		<div class="tray" vekllei>
-			<a href="/antarctic/">
-				<span class="fi fi-antarctic"></span>
-				<span class="name">Antarctic</span>
-			</a>
-			<a href="/antilles/">
-				<span class="fi fi-antilles"></span>
-				<span class="name">Antilles</span>
-			</a>
-			<a href="/arctic/">
-				<span class="fi fi-arctic"></span>
-				<span class="name">Arctic</span>
-			</a>
-			<a href="/atlantic/">
-				<span class="fi fi-atlantic"></span>
-				<span class="name">Atlantic</span>
-			</a>
-			<a href="/kalina/">
-				<span class="fi fi-kalina"></span>
-				<span class="name">Kalina</span>
-			</a>
-			<a href="/lucaya/">
-				<span class="fi fi-lucaya"></span>
-				<span class="name">Lucaya</span>
-			</a>
-			<a href="/verde/">
-				<span class="fi fi-verde"></span>
-				<span class="name">Verde</span>
-			</a>
-			<a href="/volcanic/">
-				<span class="fi fi-volcanic"></span>
-				<span class="name">Volcanic</span>
-			</a>
+	<div class="list">
+		<div class="list-item" one-third millmint>
+			<a href="/law">Law</a>
 		</div>
-
-		<a class="boxtitle" href="/government/" millmint>
-			<span class="navicon">🌸</span>
-			<span class="name">Vekllei Government</span>
-		</a>
-		<div class="tray" millmint>
-			<a href="/parliaments/ " class="boxtitle">Commonwealth Parliaments</a>
-			<a href="/community/">
-				<span class="fi fi-min-community fis"></span>
-				<span class="name">Community</span>
-			</a>
-			<a href="/civic/">
-				<span class="fi fi-min-civic fis"></span>
-				<span class="name">Civic</span>
-			</a>
-			<a href="/democracy/">
-				<span class="fi fi-min-democracy fis"></span>
-				<span class="name">Democracy</span>
-			</a>
-			<a href="/health/">
-				<span class="fi fi-min-health fis"></span>
-				<span class="name">Health</span>
-			</a>
-			<a href="/education-parliament/">
-				<span class="fi fi-min-education fis"></span>
-				<span class="name">Education</span>
-			</a>
-			<a href="/security/">
-				<span class="fi fi-min-security fis"></span>
-				<span class="name">Security</span>
-			</a>
-		</div>
-		<div class="tray" millmint>
-			<a href="/ministries/" class="boxtitle">Devolved Ministries</a>
-			<a href="/ministry-of-commerce/">
-				<span class="fi fi-min-commerce fis"></span>
-				<span class="name">Commerce</span>
-			</a>
-			<a href="/ministry-of-culture/">
-				<span class="fi fi-min-culture fis"></span>
-				<span class="name">Culture</span>
-			</a>
-			<a href="/ministry-of-defence/">
-				<span class="fi fi-min-defence fis"></span>
-				<span class="name">Defence</span>
-			</a>
-			<a href="/ministry-of-foreign-affairs/">
-				<span class="fi fi-min-foreign-affairs fis"></span>
-				<span class="name">Foreign Affairs</span>
-			</a>
-			<a href="/ministry-of-industry/">
-				<span class="fi fi-min-industry fis"></span>
-				<span class="name">Industry</span>
-			</a>
-			<a href="/ministry-of-labour/">
-				<span class="fi fi-min-labour fis"></span>
-				<span class="name">Labour</span>
-			</a>
-			<a href="/ministry-of-landscape/">
-				<span class="fi fi-min-landscape fis"></span>
-				<span class="name">Landscape</span>
-			</a>
-			<a href="/ministry-of-light-and-water/">
-				<span class="fi fi-min-light-and-water fis"></span>
-				<span class="name">Light & Water</span>
-			</a>
-			<a href="/ministry-of-the-commons/">
-				<span class="fi fi-min-commons fis"></span>
-				<span class="name">Commons</span>
-			</a>
-			<a href="/ministry-of-the-commonwealth/">
-				<span class="fi fi-min-commonwealth fis"></span>
-				<span class="name">Commonwealth</span>
-			</a>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/law").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
 		</div>
 	</div>
+	</details>
 
-	<div class="box" half>
-		<a class="boxtitle" href="/industry/" purple>
-			<span class="navicon">⚙️</span>
-			<span class="name">Vekllei Industry</span>
-		</a>
-		<div class="tray" purple>
-			<a href="/private-industry/ " class="boxtitle">Private Industry</a>
-			<a href="/adelectrics/">
-				<span class="fi fi-min-adelectrics fis"></span>
-				<span class="name">Adelectrics</span>
-			</a>
-			<a href="/atlantic-store/">
-				<span class="fi fi-min-atlantic-store fis"></span>
-				<span class="name">Atlantic</span>
-			</a>
-			<a href="/cateral/">
-				<span class="fi fi-min-cateral fis"></span>
-				<span class="name">Cateral</span>
-			</a>
-			<a href="/gina/">
-				<span class="fi fi-min-gina fis"></span>
-				<span class="name">Gina</span>
-			</a>
+	<details class="section" open="true">
+	<summary><h3>Government</h3></summary>
+
+	<p class="factbook-text">
+		Vekllei government plays an important role in the lives of Vekllei people. It is both powerful and decentralised, and its network of parliaments, ministries and bureaux contribute substantially to the standard of living in the country.
+	</p>
+
+	<div class="list">
+		<div class="list-item" one-third millmint>
+			<a href="/government/">Structure of Government</a>
 		</div>
-		<div class="tray" purple>
-			<div><a href="/municipal-industry/ " class="boxtitle">Municipal Industry</a></div>
-			<a href="/united-grocers/">
-				<span class="fi fi-min-united-grocers fis"></span>
-				<span class="name">United Grocers</span>
-			</a>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/government").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
 		</div>
-		<div class="tray" purple>
-			<div><a href="/state-industry/ " class="boxtitle">State Industry</a></div>
-			<a href="/cac/">
-				<span class="fi fi-min-cac fis"></span>
-				<span class="name">CommAircraft</span>
-			</a>
-			<a href="/air/">
-				<span class="fi fi-min-air fis"></span>
-				<span class="name">CommAirways</span>
-			</a>
-			<a href="/commonwealth-bank/">
-				<span class="fi fi-min-combank fis"></span>
-				<span class="name">CommBank</span>
-			</a>
-			<a href="/commonwealth-lines/">
-				<span class="fi fi-min-CL fis"></span>
-				<span class="name">CommLines</span>
-			</a>
-			<a href="/oil/">
-				<span class="fi fi-min-oil fis"></span>
-				<span class="name">CommOil</span>
-			</a>
-			<a href="/starlines/">
-				<span class="fi fi-min-starlines fis"></span>
-				<span class="name">CommStarlines</span>
-			</a>
-			<a href="/cosma/">
-				<span class="fi fi-min-cosma fis"></span>
-				<span class="name">Cosma</span>
-			</a>
-			<a href="/gaf/">
-				<span class="fi fi-min-gaf fis"></span>
-				<span class="name">GAF</span>
-			</a>
-			<a href="/nch/">
-				<span class="fi fi-min-nch fis"></span>
-				<span class="name">NCH</span>
-			</a>
-			<a href="/post/">
-				<span class="fi fi-min-post fis"></span>
-				<span class="name">CommPost</span>
-			</a>
-			<a href="/rail/">
-				<span class="fi fi-min-rail fis"></span>
-				<span class="name">CommRail</span>
-			</a>
-			<a href="/ratings/">
-				<span class="fi fi-min-ratings fis"></span>
-				<span class="name">CRC</span>
-			</a>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-commerce);" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis factbook-icon"></span> Ministry of Commerce</a>
 		</div>
-		<div class="tray" purple>
-			<div><a href="/bureaus/ " class="boxtitle">Bureau Industry</a></div>
-			<a href="/atlantis/">
-				<span class="fi fi-min-atlantis fis"></span>
-				<span class="name">Atlantis Company</span>
-			</a>
-			<a href="/general-reactor/">
-				<span class="fi fi-min-general-reactor fis"></span>
-				<span class="name">General Reactor</span>
-			</a>
-			<a href="/national-machines/">
-				<span class="fi fi-min-national-machines fis"></span>
-				<span class="name">National Machines</span>
-			</a>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/government/ministries/commerce").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-commons);" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis factbook-icon"></span> Ministry of the Commons</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/government/ministries/commons").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-commonwealth);" href="/ministry-of-the-commonwealth/"><span class="fi fi-min-commonwealth fis factbook-icon"></span> Ministry of the Commonwealth</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/government/ministries/commonwealth").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-culture);" href="/ministry-of-culture/"><span class="fi fi-min-culture fis factbook-icon"></span> Ministry of Culture</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/government/ministries/culture").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-defence);" href="/ministry-of-defence/"><span class="fi fi-min-defence fis factbook-icon"></span> Ministry of Defence</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/government/ministries/defence").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-foreignaffairs);" href="/ministry-of-foreign-affairs/"><span class="fi fi-min-foreign-affairs fis factbook-icon"></span> Ministry of Foreign Affairs</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/government/ministries/foreign-affairs").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-industry);" href="/ministry-of-industry/"><span class="fi fi-min-industry fis factbook-icon"></span> Ministry of Industry</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/government/ministries/industry").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-labour);" href="/ministry-of-labour/"><span class="fi fi-min-labour fis factbook-icon"></span> Ministry of Labour</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/government/ministries/labour").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-landscape);" href="/ministry-of-landscape/"><span class="fi fi-min-landscape fis factbook-icon"></span> Ministry of Landscape</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/government/ministries/landscape").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-lightandwater);" href="/ministry-of-light-and-water/"><span class="fi fi-min-light-and-water fis factbook-icon"></span> Ministry of Light &amp; Water</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/government/ministries/light-and-water").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-civic);" href="/civic/"><span class="fi fi-min-civic fis factbook-icon"></span> Parliament of State</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/government/parliaments/civic").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-community);" href="/community/"><span class="fi fi-min-community fis factbook-icon"></span> Parliament of Community</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/government/parliaments/community").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-democracy);" href="/democracy/"><span class="fi fi-min-democracy fis factbook-icon"></span> Parliament of Democracy</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/government/parliaments/democracy").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-education);" href="/education-parliament/"><span class="fi fi-min-education fis factbook-icon"></span> Parliament of Education</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/government/parliaments/education").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-health);" href="/health/"><span class="fi fi-min-health fis factbook-icon"></span> Parliament of Health</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/government/parliaments/health").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-security);" href="/security/"><span class="fi fi-min-security fis factbook-icon"></span> Parliament of Security</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/state/government/parliaments/security").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+	</div>
+	</details>
+
+	<details class="section" open="true">
+	<summary><h3>Industry & Technology</h3></summary>
+
+	<p class="factbook-text">
+		Vekllei is an industrious, advanced country that produces much of what they need.
+	</p>
+
+	<div class="list">
+
+		<div class="list-item" one-third millmint>
+			<a href="/bureaus/">Bureaus</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/industry/bureaus").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a href="/municipal-industry/">Municipal Industry</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/industry/municipal").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a href="/private-industry/">Private Industry</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/industry/private").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a href="/state-industry/">State Industry</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/industry/state").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a href="/technology/">Technology</a>
+		</div>
+		<div class="list-item" two-thirds>
+			{{ range (site.GetPage "factbook/society/technology").Pages }}
+			<a class="slink" {{ if .Params.color }} style="
+			 color: var(--color-{{ .Params.color }});
+			 background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+			 background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a>
+			{{ end }}
 		</div>
 	</div>
+	</details>
+
+
 </div>

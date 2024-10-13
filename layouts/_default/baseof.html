@@ -1,8 +1,11 @@
-{{- partial "params.html" . -}}
-
 <!DOCTYPE html>
 <html lang='{{ .Site.LanguageCode }}'>
-{{- partial "head.html" . -}}
+
+<head>
+    {{- partial "params.html" . -}}
+    {{- partial "head.html" . -}}
+    {{- partial "script.html" . -}}
+</head>
 
 <body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
     <main>
@@ -14,9 +17,7 @@
             </section>
             {{- partial "footer.html" . -}}
         </article>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
     </main>
-    {{- partial "script.html" . -}}
 </body>
 
 </html>

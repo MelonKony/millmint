@@ -1,13 +1,14 @@
 {{- partial "params.html" . -}}
 
 <!DOCTYPE html>
-<html lang='{{ .Site.LanguageCode }}' class="writing">
+<html lang='{{ .Site.LanguageCode }}'>
 {{- partial "head.html" . -}}
 
 <body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
   <main>
     {{- partial "header.html" . -}}
     {{- partial "nav.html" . -}}
+
     {{ if and .Content (eq .Paginator.PageNumber 1) }}
     <article class="content" style="margin-top: 0;">
       <section class="page">
@@ -24,9 +25,3 @@
   {{- partial "script.html" . -}}
 </body>
 </html>
-
-<style>
-    .breadcrumbs {
-      background-color: var(--highlight-background);
-    }
-</style>

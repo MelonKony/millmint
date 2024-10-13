@@ -4,8 +4,6 @@ fulltitle: Maps
 icon: 🗺️
 color: blue
 
-type: blank
-
 toc: true
 
 aliases:
