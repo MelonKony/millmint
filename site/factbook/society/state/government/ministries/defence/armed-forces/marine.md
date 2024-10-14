@@ -244,7 +244,7 @@ Most of the naval policing in the {{<link/kalina>}} is expended in anti-piracy, 
 
 <details>
 <summary>Littoral Command Antilles</summary>
-Regional Littoral Service command based at the capital port in the Caimanas. The local harbours in the ABC islands also have a handful of small vessels, mostly employed in border policing and anti-narcotics operations.
+Regional Littoral Service command based at the capital port in the {{<link/caimanas>}}. The local harbours in the ABC islands also have a handful of small vessels, mostly employed in border policing and anti-narcotics operations.
 
 **Customs Cutters**
 * 3 Fast Response Customs Hydrofoils

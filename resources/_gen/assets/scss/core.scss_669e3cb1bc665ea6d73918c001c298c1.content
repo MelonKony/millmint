@@ -1383,42 +1383,6 @@ nav {
     .floating-nav {
       margin-top: 24px;
       padding: 0; } }
-.showcase {
-  padding: 0;
-  display: none;
-  flex: 1; }
-  .showcase .navcard {
-    margin-left: 0.25rem;
-    margin-right: 0.25rem;
-    border-radius: .25rem;
-    height: auto;
-    overflow: hidden;
-    display: flex;
-    flex: 1;
-    justify-self: center;
-    align-self: center;
-    width: 100%;
-    box-sizing: border-box;
-    z-index: 2;
-    transition: ease 0.15s; }
-    .showcase .navcard a {
-      padding: 0 !important; }
-    .showcase .navcard:hover {
-      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
-      transform: translateY(-0.25rem); }
-    .showcase .navcard .name {
-      position: absolute; }
-    .showcase .navcard figure {
-      margin: 0; }
-    .showcase .navcard img {
-      margin: 0;
-      padding: 0;
-      display: block;
-      box-sizing: border-box;
-      transform: scale(1.1);
-      height: 150px;
-      object-fit: cover; }
-
 .active {
   background-color: var(--highlight-background);
   color: var(--highlight);
@@ -1563,6 +1527,8 @@ li {
   display: none;
   flex: 1; }
   .showcase .navcard {
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
     border-radius: .25rem;
     height: auto;
     overflow: hidden;
@@ -1570,7 +1536,6 @@ li {
     flex: 1;
     justify-self: center;
     align-self: center;
-    width: 100%;
     box-sizing: border-box;
     z-index: 2;
     transition: ease 0.15s; }
@@ -1583,11 +1548,12 @@ li {
       margin: 0; }
     .showcase .navcard img {
       margin: 0;
+      padding: 0;
+      box-sizing: border-box;
       display: block;
       object-fit: cover;
-      border: 2px solid var(--highlight);
+      border: 1px solid var(--highlight);
       transform: scale(1);
-      height: 150px;
       object-fit: cover; }
 
 @media only screen and (min-width: 600px) {

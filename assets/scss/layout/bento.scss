@@ -187,6 +187,7 @@
   flex: 1;
 
   .navcard {
+    @include mx-1;
     @include radius-base;
     height: auto;
     overflow: hidden;
@@ -194,7 +195,6 @@
     flex: 1;
     justify-self: center;
     align-self: center;
-    width: 100%;
     box-sizing: border-box;
     z-index: 2;
     transition: ease 0.15s;
@@ -214,11 +214,12 @@
 
     img {
       @include margin-0;
+      @include padding-0;
+      box-sizing: border-box;
       display: block;
       object-fit: cover;
-      border: 2px solid var(--highlight);
+      border: 1px solid var(--highlight);
       transform: scale(1);
-      height: 150px;
       object-fit: cover;
     }
   }

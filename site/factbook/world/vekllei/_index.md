@@ -132,7 +132,7 @@ Main article: *[Vekllei World Map](/map/)*
 * **{{<link/antilles>}}**
   * Aruba Republic (*Aruba*)
   * Bonaire Republic (*Bonaire*)
-  * Caimanas Republic (*Caimanas*)
+  * {{<link/caimanas>}} (*Caimanas*)
   * Curaçao Republic (*Curacao*)
 
 * **{{<link/arctic>}}**

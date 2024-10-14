@@ -27,7 +27,7 @@ aliases:
    Area="1,171 km²"
  >}}
 
-The <span class="fi fi-antilles"></span> **Antilles Commonwealth** (*Vekllei Antilles*) is a [constituent commonwealth](/constituents/) of {{<link/vekllei>}}, comprising its islands in the Leeward Antilles. These include the "ABC islands" off the west coast of Venezuela, and the Caimanas in the West Caribbean Sea. All of them are densely-populated and highly industrialised, which facilitates their tradition as trading ports. Unlike other parts of the Vekllei Antilles, the ABC islands have a dry climate and xeric landscape, giving them their characteristic desert appearance. The Caimanas, some ways to their north, are tropical coral islands.
+The <span class="fi fi-antilles"></span> **Antilles Commonwealth** (*Vekllei Antilles*) is a [constituent commonwealth](/constituents/) of {{<link/vekllei>}}, comprising its islands in the Leeward Antilles. These include the "ABC islands" off the west coast of Venezuela, and the {{<link/caimanas>}} in the West Caribbean Sea. All of them are densely-populated and highly industrialised, which facilitates their tradition as trading ports. Unlike other parts of the Vekllei Antilles, the ABC islands have a dry climate and xeric landscape, giving them their characteristic desert appearance. The Caimanas, some ways to their north, are tropical coral islands.
 
 The Caimanas are a regional banking capital of Vekllei, and conduct strong trade with North and Central America.
 

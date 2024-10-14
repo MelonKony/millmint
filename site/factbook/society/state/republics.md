@@ -44,7 +44,7 @@ There are a few criteria separating republics from regular local government. The
 * **{{<link/antilles>}}**
 	* Aruba Republic (*Aruba*)
 	* Bonaire Republic (*Bonaire*)
-	* Caimanas Republic (*Caimanas*)
+	* {{<link/caimanas>}} (*Caimanas*)
 	* Curaçao Republic (*Curacao*)
 
 * **{{<link/arctic>}}**

@@ -303,54 +303,6 @@ nav {
   }
 }
 
-.showcase {
-  @include padding-0;
-  display: none;
-  flex: 1;
-
-  .navcard {
-    @include mx-1;
-    @include radius-base;
-    height: auto;
-    overflow: hidden;
-    display: flex;
-    flex: 1;
-    justify-self: center;
-    align-self: center;
-    width: 100%;
-    box-sizing: border-box;
-    z-index: 2;
-    transition: ease 0.15s;
-
-    a {
-      padding: 0 !important;
-    }
-
-    &:hover {
-      @include drop-shadow;
-      transform: translateY(-0.25rem);
-    }
-
-    .name {
-      position: absolute;
-    }
-
-    figure {
-      margin: 0;
-    }
-
-    img {
-      @include margin-0;
-      @include padding-0;
-      display: block;
-      box-sizing: border-box;
-      transform: scale(1.1);
-      height: 150px;
-      object-fit: cover;
-    }
-  }
-}
-
 .active {
   @include highlight-background;
   color: var(--highlight);
