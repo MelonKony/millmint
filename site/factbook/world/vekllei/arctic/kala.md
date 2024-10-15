@@ -17,7 +17,7 @@ aliases:
 {{</note>}}
 
 {{<infobox/country
-	 Name="Barbary Republic"
+	 Name="Kala Republic"
 	 Type="Republic"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/kala.svg"
