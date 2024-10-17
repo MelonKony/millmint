@@ -38,7 +38,7 @@ The majority of the Commonwealth's republics are clustered in the Azores archipe
 * Flores Republic
 * Graciosa Republic
 * Maria Republic
-* Mira Republic
+* {{<link/mira>}}
 * Pico Republic
 * Porto Santo Republic
 * Terceira Republic

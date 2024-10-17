@@ -1,6 +1,6 @@
 ---
-title: Bureau of Nature
-fulltitle: Bureau of Nature
+title: Bureau of Oceans
+fulltitle: Bureau of Oceans
 icon: 🏛️
 color: commons
 logo: /svg/crests/ministry-of-the-commons.svg
@@ -9,7 +9,7 @@ series: bureau
 fi: fi fi-min-commons fis
 
 aliases:
-- /bureau-of-nature/
+- /bureau-of-oceans/
 ---
 {{<note series>}}
  This bureau is part of the {{<link/ministry-of-the-commons>}}
