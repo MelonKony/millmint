@@ -22,7 +22,7 @@ aliases:
    Type="Commonwealth"
    Flag="/svg/flags/atlantic.svg"
    SmallFlag="/svg/flags/4x3/atlantic.svg"
-   Population="1,168,038"
+   Population="3,901,885"
    Capital=""
    Area="3,088 km²"
  >}}

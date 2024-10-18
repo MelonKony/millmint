@@ -22,10 +22,10 @@ aliases:
    SmallFlag="/svg/flags/4x3/com.svg"
    Anthem="Advance, Vekllei"
    Government="Federal parliamentary directoral commonwealth"
-   Population="24,371,300"
+   Population="26,774,629"
    Capital="Comet"
    NationalLanguage="English"
-   Area="2,386,688 km²"
+   Area="2,393,359 km²"
  >}}
 
 <span class="fi fi-com"></span> **Vekllei** is best conceptualised as a union of islands across the Atlantic Ocean. It is a commonwealth,[^commonwealth] the fourth in a series, and consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of {{<link/oslola>}}, of 8 million. Together, they amount to a single superstate that spans the entirety of the Atlantic as a great power.
