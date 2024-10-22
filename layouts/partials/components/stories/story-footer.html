@@ -6,22 +6,3 @@
     <video src="{{ .Params.video }}" controls>
   </details>
 {{ end }}
-
-<nav class="story">
-  <div class="next-post leftlink">
-    {{ if .NextInSection }}
-      <a class="link-reverse" href="{{ .NextInSection.Permalink }}">← {{ .NextInSection.Title | truncate 50 "..." }}</a>
-    {{ end }}
-  </div>
-  <div>
-    <!-- inPRNT shop link -->
-    {{ if .Params.print }}
-      <button href="{{ .Params.print }}"><span class="smallicon" style="font-size: 14px;">🛒</span> Print Shop</button>
-    {{ end }}
-  </div>
-  <div class="next-post rightlink">
-    {{ if .PrevInSection }}
-      <a class="link-reverse" href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title | truncate 50 "..."}} →</a>
-    {{ end }}
-  </div>
-</nav>

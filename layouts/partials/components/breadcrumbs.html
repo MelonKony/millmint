@@ -1,14 +1,10 @@
-<ul  class="breadcrumbs">
-    {{ template "breadcrumbs" (dict "p1" . "p2" .) }}
-</ul>
-{{ define "breadcrumbs" }}
-{{ if .p1.Parent }}
-{{ template "breadcrumbs" (dict "p1" .p1.Parent "p2" .p2 )  }}
-{{ else if not .p1.IsHome }}
-{{ template "breadcrumbs" (dict "p1" .p1.Site.Home "p2" .p2 )  }}
-{{ end }}
-<li
-{{ if eq .p1 .p2 }} {{ end }}>
-    <a href="{{ .p1.Permalink }}">{{ .p1.Title }}</a>
-</li>
-{{ end }}
+<nav aria-label="breadcrumbs" class="breadcrumbs">
+    {{ range .Ancestors.Reverse }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      </li>
+    {{ end }}
+    <li>
+      <a aria-current="page" class="active" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    </li>
+</nav>

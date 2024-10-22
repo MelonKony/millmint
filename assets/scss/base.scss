@@ -220,6 +220,7 @@ h6 {
     @include margin-0;
     main {
       @include my-0;
+      @include px-2;
 
       >* {
         @include px-4;
@@ -240,6 +241,7 @@ h6 {
     width: $md_main_width;
     @include mx-auto;
     @include my-4;
+    @include px-6;
     .infobox {
       width: 50%;
       margin-left: 2rem;

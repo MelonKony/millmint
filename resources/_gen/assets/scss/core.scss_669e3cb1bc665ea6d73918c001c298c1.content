@@ -530,7 +530,9 @@ h6 {
     margin: 0; }
     body main {
       margin-top: 0;
-      margin-bottom: 0; }
+      margin-bottom: 0;
+      padding-left: .5rem;
+      padding-right: .5rem; }
       body main > * {
         padding-left: 1rem;
         padding-right: 1rem; }
@@ -546,7 +548,9 @@ h6 {
       margin-left: auto;
       margin-right: auto;
       margin-top: 1rem;
-      margin-bottom: 1rem; }
+      margin-bottom: 1rem;
+      padding-left: 1.5rem;
+      padding-right: 1.5rem; }
       body main .infobox {
         width: 50%;
         margin-left: 2rem; } }
@@ -910,13 +914,15 @@ nav.story {
     color: var(--font-color);
     display: inline;
     margin: 0.5rem 0 auto 0;
+    word-wrap: break-word;
     letter-spacing: -0.025em; }
     .breadcrumbs li + :before {
       padding: 8px;
       content: "›"; }
   .breadcrumbs a {
     color: var(--font-color);
-    border-bottom: 1px solid transparent; }
+    border-bottom: 1px solid transparent;
+    word-wrap: break-word; }
     .breadcrumbs a:hover {
       border-bottom-color: var(--font-color);
       text-decoration: none; }
@@ -1525,18 +1531,14 @@ li {
 .showcase {
   padding: 0;
   display: none;
-  flex: 1; }
+  justify-content: space-around; }
   .showcase .navcard {
     margin-left: 0.25rem;
     margin-right: 0.25rem;
     border-radius: .25rem;
     height: auto;
     overflow: hidden;
-    display: flex;
-    flex: 1;
-    justify-self: center;
-    align-self: center;
-    box-sizing: border-box;
+    justify-content: space-around;
     z-index: 2;
     transition: ease 0.15s; }
     .showcase .navcard a {
@@ -1549,6 +1551,8 @@ li {
     .showcase .navcard img {
       margin: 0;
       padding: 0;
+      height: 150px;
+      width: 100px;
       box-sizing: border-box;
       display: block;
       object-fit: cover;

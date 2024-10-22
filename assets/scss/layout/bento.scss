@@ -184,18 +184,14 @@
 .showcase {
   @include padding-0;
   display: none;
-  flex: 1;
+ justify-content: space-around;
 
   .navcard {
     @include mx-1;
     @include radius-base;
     height: auto;
     overflow: hidden;
-    display: flex;
-    flex: 1;
-    justify-self: center;
-    align-self: center;
-    box-sizing: border-box;
+    justify-content: space-around;
     z-index: 2;
     transition: ease 0.15s;
 
@@ -215,6 +211,8 @@
     img {
       @include margin-0;
       @include padding-0;
+      height: 150px;
+      width: 100px;
       box-sizing: border-box;
       display: block;
       object-fit: cover;

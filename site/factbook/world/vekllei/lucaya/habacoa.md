@@ -17,7 +17,7 @@ aliases:
 {{</note>}}
 
 {{<infobox/country
-	 Name="Habacia Republic"
+	 Name="Habacoa Republic"
 	 Type="Republic"
 	 Commonwealth="Lucaya"
 	 Flag="/svg/flags/habacoa.svg"
