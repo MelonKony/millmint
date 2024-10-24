@@ -35,6 +35,7 @@ Life in the Verde Commonwealth is mostly municipal, characterised by communal la
 {{<note panel>}}
 **Republics of the Verde Commonwealth**
 
+* {{<link/annobon>}}
 * Boa Vista Republic
 * Brava Republic
 * Covoada Republic

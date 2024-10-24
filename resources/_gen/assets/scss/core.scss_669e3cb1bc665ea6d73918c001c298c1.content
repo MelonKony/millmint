@@ -3287,8 +3287,14 @@ ol.timeline .event {
 .fi-java {
   background-image: url(../svg/flags/4x3/java.svg); }
 
-.fi-habacoa.fis {
+.fi-java.fis {
   background-image: url(../svg/flags/1x1/java.svg); }
+
+.fi-annobon {
+  background-image: url(../svg/flags/4x3/annobon.svg); }
+
+.fi-annobon.fis {
+  background-image: url(../svg/flags/1x1/annobon.svg); }
 
 .fi-aloi {
   background-image: url(../svg/flags/4x3/aloi.svg); }

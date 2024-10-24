@@ -172,7 +172,7 @@ Regional Littoral Service command based at {{<link/ns-java>}}.
 
 **Customs Cutters**
 * 1 Medium Customs Cutter
-* 2 Fast Response Customs Hydrofoils
+* 2 Fast Response Customs Hydrofoils ({{<link/java>}}, {{<link/annobon>}})
 * 2 Coastal Patrol Vessels
 
 **Utility Vessels**
