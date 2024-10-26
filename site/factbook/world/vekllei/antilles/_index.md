@@ -34,9 +34,9 @@ The Caimanas are a regional banking capital of Vekllei, and conduct strong trade
 {{<note panel>}}
 **Republics of Antilles Commonwealth**
 
-* Aruba Republic
+* {{<link/aruba>}}
 * Bonaire Republic
-* Caimanas Republic
+* {{<link/caimanas>}}
 * Curaçao Republic
 
 {{</note>}}

@@ -41,6 +41,23 @@ Caimanas is the westernmost Vekllei republic, and in many ways carries on the cu
 
 The capital of Tortuga is home to most of the republic's population, and resembles many other Vekllei Caribbean cities. It is low-rise and lush with gardens and parks. All three islands have tram service, and Grand Caimana has a railway running from its east to west ends. Little Caimana is home to the archipelago's international airport, as well as Air Station Caimana, which is a major military installation. All islands are linked by hydrofoil ferries.
 
+
+{{<note table>}}
+**Public Holidays**:
+
+* New Year's Day **1 Jan**
+* Ash Wednesday
+* Good Friday
+* Easter Monday
+* Commonwealth Day **1 May**
+* Constitution Day **1st Mon in
+Jul**
+* Republic Day **15 Dec**
+* Christmas Day **25 Dec**
+* Boxing Day  **26 Dec**
+
+{{</note>}}
+
 <details open>
 <summary>Points of Interest</summary>
 

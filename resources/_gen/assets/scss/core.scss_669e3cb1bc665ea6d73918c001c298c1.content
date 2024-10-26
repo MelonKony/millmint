@@ -1865,16 +1865,41 @@ article blockquote {
   background: var(--gray-100);
   border: none;
   font-style: normal; }
-  .note .text {
-    display: inline-block; }
 
 .note.panel {
   background-color: var(--highlight-background);
   border: 1px solid var(--highlight);
   padding: 1rem; }
-  .note.panel h1, .note.panel h2, .note.panel h3, .note.panel h4, .note.panel h5, .note.panel h6 {
+  .note.panel h1,
+  .note.panel h2,
+  .note.panel h3,
+  .note.panel h4,
+  .note.panel h5,
+  .note.panel h6 {
     margin: 0; }
 
+.note.table {
+  background: transparent; }
+  .note.table ul {
+    font-size: 0.875rem;
+    /* 14px */
+    line-height: 1.25rem;
+    /* 20px */
+    padding: 0;
+    column-count: 2; }
+    .note.table ul li {
+      list-style-type: none; }
+      .note.table ul li strong {
+        float: right;
+        background: var(--highlight);
+        color: var(--main-background);
+        font-weight: 500;
+        border-radius: .25rem;
+        padding-left: .25rem;
+        padding-right: .25rem; }
+  @media only screen and (max-width: 500px) {
+    .note.table {
+      column-count: 1; } }
 .note.summary {
   background-color: var(--main-background);
   background-image: linear-gradient(var(--highlight-background) 2px, transparent 2px), linear-gradient(90deg, var(--highlight-background) 2px, transparent 2px), linear-gradient(var(--highlight-background) 1px, transparent 1px), linear-gradient(90deg, var(--highlight-background) 1px, transparent 1px);
@@ -1919,10 +1944,22 @@ article blockquote {
   .note.advice .text {
     grid-area: text; }
 
-.note.link, .note.link {
+.note.link,
+.note.link {
   border: 1px solid var(--highlight);
   background: none; }
-  .note.link h1, .note.link h2, .note.link h3, .note.link h4, .note.link h5, .note.link h6, .note.link h1, .note.link h2, .note.link h3, .note.link h4, .note.link h5, .note.link h6 {
+  .note.link h1,
+  .note.link h2,
+  .note.link h3,
+  .note.link h4,
+  .note.link h5,
+  .note.link h6,
+  .note.link h1,
+  .note.link h2,
+  .note.link h3,
+  .note.link h4,
+  .note.link h5,
+  .note.link h6 {
     margin: 0; }
 
 .note.header {
@@ -2586,9 +2623,6 @@ img.page {
   color: white;
   background-color: red;
   border: 2px solid black; }
-
-.text {
-  display: inline-block; }
 
 .circle {
   width: 15px;
@@ -3331,6 +3365,12 @@ ol.timeline .event {
 
 .fi-caimanas.fis {
   background-image: url(../svg/flags/1x1/caimanas.svg); }
+
+.fi-aruba {
+  background-image: url(../svg/flags/4x3/aruba.svg); }
+
+.fi-aruba.fis {
+  background-image: url(../svg/flags/1x1/aruba.svg); }
 
 .fi-oslola {
   background-image: url(../svg/flags/4x3/oslola.svg); }
