@@ -37,7 +37,7 @@ background: transparent;
 		li {
 			list-style-type: none;
 			strong {
-				float: right;
+				text-align: right;
 				background: var(--highlight);
 				color: var(--main-background);
 				@include font-medium;

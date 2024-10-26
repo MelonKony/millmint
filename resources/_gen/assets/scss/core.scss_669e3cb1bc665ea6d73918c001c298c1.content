@@ -1890,7 +1890,7 @@ article blockquote {
     .note.table ul li {
       list-style-type: none; }
       .note.table ul li strong {
-        float: right;
+        text-align: right;
         background: var(--highlight);
         color: var(--main-background);
         font-weight: 500;
