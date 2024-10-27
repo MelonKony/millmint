@@ -1,5 +1,5 @@
 ---
-title: Antilles Commonwealth
+title: Antilles
 fulltitle: Antilles Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/antilles.svg
@@ -35,8 +35,8 @@ The Caimanas are a regional banking capital of Vekllei, and conduct strong trade
 **Republics of Antilles Commonwealth**
 
 * {{<link/aruba>}}
-* Bonaire Republic
+* {{<link/bonaire>}}
 * {{<link/caimanas>}}
-* Curaçao Republic
+* {{<link/curacao>}}
 
 {{</note>}}

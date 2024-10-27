@@ -31,7 +31,7 @@ aliases:
      Accession="2022, as part of the Curacao Treaty"
  >}}
 
-The <span class="fi fi-aruba"></span> **Republic of Aruba** is a [constituent republic](/republics/) in the western Caribbean Sea north of Venezuela, and part of the country of {{<link/vekllei>}}. It is a city-state about 80km northwest of Curacao, and is exceptionally sunny and dry. Trade winds blow throughout the year, even through hot summers.
+The <span class="fi fi-aruba"></span> **Republic of Aruba** is a [constituent republic](/republics/) in the western Caribbean Sea north of Venezuela, and part of the country of {{<link/vekllei>}}. It is a city-state about 80km northwest of {{<link/curacao>}}, and is exceptionally sunny and dry. Trade winds blow throughout the year, even through hot summers.
 
 Aruba forms part of the "ABC Islands," originally part of the Holland Caribbean. Together with {{<link/caimanas>}}, they form the Leeward Antilles of Vekllei. The life-style there is relaxed, and a fusion of Latin American, Creole and Low Country. The landscape is unusually dry for the Caribbean, and its cacti and dry xeric hills frame the bright and pretty towns of Aruba well. Its capital, Playa, is famous for its brightly painted buildings that line trim canals. Aruba is a cosmopolitan republic, and many people from all over Vekllei and the world have been drawn there by its history and liqueurs, for which it is famous.
 

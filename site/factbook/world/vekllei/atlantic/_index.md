@@ -1,5 +1,5 @@
 ---
-title: Atlantic Commonwealth
+title: Atlantic
 fulltitle: Atlantic Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/atlantic.svg

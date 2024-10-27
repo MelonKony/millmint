@@ -1,5 +1,5 @@
 ---
-title: Kalina Commonwealth
+title: Kalina
 fulltitle: Kalina Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/kalina.svg

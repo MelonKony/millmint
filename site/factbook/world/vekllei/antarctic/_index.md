@@ -1,5 +1,5 @@
 ---
-title: Antarctic Commonwealth
+title: Antarctic
 fulltitle: Antarctic Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/antarctic.svg

@@ -247,14 +247,14 @@ Most of the naval policing in the {{<link/kalina>}} is expended in anti-piracy, 
 Regional Littoral Service command based at the capital port in the {{<link/caimanas>}}. The local harbours in the ABC islands also have a handful of small vessels, mostly employed in border policing and anti-narcotics operations.
 
 **Customs Cutters**
-* 3 Fast Response Customs Hydrofoils
-* 1 Coastal Patrol Vessel
-* 4 Hovercraft Cutters
+* 3 Fast Response Customs Hydrofoils {{<link/aruba>}} {{<link/caimanas>}}
+* 1 Coastal Patrol Vessel {{<link/caimanas>}}
+* 4 Hovercraft Cutters {{<link/aruba>}} {{<link/bonaire>}} {{<link/curacao>}}
 
 **Utility Vessels**
-* 1 Coastal Buoy Tender
-* 1 River Tender
-* 1 Harbour Tugboat
+* 1 Coastal Buoy Tender {{<link/aruba>}}
+* 1 River Tender {{<link/aruba>}}
+* 1 Harbour Tugboat {{<link/curacao>}}
 
 </details>
 

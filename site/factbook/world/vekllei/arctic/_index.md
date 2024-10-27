@@ -1,5 +1,5 @@
 ---
-title: Arctic Commonwealth
+title: Arctic
 fulltitle: Arctic Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/arctic.svg

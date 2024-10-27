@@ -1,7 +1,7 @@
 ---
 title: Caimanas
 fulltitle: Caimanas
-icon: 🌴
+icon: 📖
 logo: /svg/flags/caimanas.svg
 series: republic
 
