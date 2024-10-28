@@ -31,8 +31,9 @@ There are a few criteria separating republics from regular local government. The
 * **Federal Territories**
 	* Meteor Federal Territory
 	* Vekllei Antarctic Territories
-	* Vekllei Lunar Territories
-	* Vekllei Mars Community
+	* Vekllei Lunar Community
+	* Vekllei Mars Territories
+	* International Free Arctic Territories (partial)
 
 * **{{<link/antarctic>}}**
 	* {{<link/ascension>}} (*Ascension*)
@@ -42,26 +43,33 @@ There are a few criteria separating republics from regular local government. The
 	* {{<link/sude>}} (*South Georgia & South Sandwich Islands*)
 
 * **{{<link/antilles>}}**
-	* Aruba Republic (*Aruba*)
-	* Bonaire Republic (*Bonaire*)
+	* {{<link/aruba>}} (*Aruba*)
+	* {{<link/bonaire>}} (*Bonaire*)
 	* {{<link/caimanas>}} (*Caimanas*)
-	* Curaçao Republic (*Curacao*)
+	* {{<link/curacao>}} (*Curacao*)
 
 * **{{<link/arctic>}}**
 	* {{<link/helvasia>}} (*Svalbard*)
 	* {{<link/kala>}} (*Greenland*)
 
 * **{{<link/atlantic>}}**
-	* Fayal Republic (*Faial Island*)
-	* Flores Republic (*Flores Island*)
-	* Graciosa Republic (*Graciosa Island*)
-	* Maria Republic (*Santa Maria Island*)
-	* Mira Republic (*Madeira*)
-	* Pico Republic (*Pico Island*)
-	* Porto Santo Republic (*Porto Santo*)
-	* Terceira Republic (*Terceira Island*)
-	* Velas Republic (*Sao Jorge Island*)
+	* Berbera (*La Gomera*)
+	* Canary (*Gran Canaria Island*)
 	* {{<link/costa-verde>}} (*Sao Miguel Island*)
+	* Fayal (*Faial Island*)
+	* Flores (*Flores Island*)
+	* Graciosa (*Graciosa Island*)
+	* La Palma (*La Palma Island*)
+	* Lanzarote (*Lanzarote Island*)
+	* Maria (*Santa Maria Island*)
+	* Meridia (*El Hierro Island*)
+	* {{<link/mira>}} (*Madeira*)
+	* Pico (*Pico Island*)
+	* Porto Santo (*Porto Santo*)
+	* Tenerife (*Tenerife Island*)
+	* Terceira (*Terceira Island*)
+	* Velas (*Sao Jorge Island*)
+	* Ventura (*Fuerteventura Island*)
 
 * **{{<link/lucaya>}}**
 	* Caicos Republic (*Turks & Caicos*)
@@ -88,7 +96,7 @@ There are a few criteria separating republics from regular local government. The
 	* {{<link/barbados>}} (*Barbados*)
 	* {{<link/barbary>}} (*Barbuda*)
 	* {{<link/cama>}} (*Grenada*)
-	* Karu Republic (*Guadeloupe*)
+	* {{<link/karu>}} (*Guadeloupe*)
 	* Kabuli Republic (*Dominica*)
 	* {{<link/kairi>}} (*Trinidad*)
 	* Liamuiga Republic (*St Kitts*)

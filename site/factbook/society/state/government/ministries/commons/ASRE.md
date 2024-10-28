@@ -73,6 +73,7 @@ In addition to aeronautics and space research, the ASRE operates a number of ext
     * Division of Propulsion & Aerodynamics
     * Division of Materials
     * Division of Physics
+    * National Gravity Research Establishment, {{<link/karu>}}
     * Life Support Laboratories, {{<link/virgin>}}
 {{</note>}}
 
