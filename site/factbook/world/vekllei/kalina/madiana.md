@@ -30,7 +30,7 @@ aliases:
 	 Accession="1930, as part of the Alford Agreement"
  >}}
 
-The <span class="fi fi-madiana"></span> **Madiana Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} in the Caribbean. The name *Madiana* comes from the Taino word for "Island of Flowers," an appropriate name considering its natural beauty. It extraordinarily diverse for an island of its size, measuring about 80km long. Large mountains dominate the northern half of the island, the tallest of which is an active volcano called Mount Palee.
+The <span class="fi fi-madiana"></span> **Madiana Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} in the Caribbean. The name *Madiana* comes from the Taino word for "Island of Flowers," an appropriate name considering its natural beauty. The republic is extraordinarily diverse for an island of its size, measuring about 80km long. Large mountains dominate the northern half of the island, the tallest of which is an active volcano called Mount Palee.
 
 Madianans are a proud people, and represent a strong fusion of French and Creole cultures. The women have become consorts to kings, emperors and shahs; and its historic capital of Sainte Pierre was once the most cultured settlements in all the West Indies before its destruction. The republic's dramatic history, fine cuisine and love of music have made Madiana one of the most exotic and desirable communities in Vekllei -- although fully accessible only to those willing to learn a little French.
 
