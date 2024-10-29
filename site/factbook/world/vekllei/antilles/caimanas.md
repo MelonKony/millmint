@@ -24,6 +24,7 @@ aliases:
      Commonwealth="Antilles"
      Flag="/svg/flags/caimanas.svg"
      SmallFlag="/svg/flags/4x3/caimanas.svg"
+     Locator="/svg/maps/locator/caimanas.svg"
      Population="412,830"
      Capital="Tortuga"
      Languages="English, Caimanas English"

@@ -205,6 +205,20 @@ span.tag {
 	}
 }
 
+.locator-map {
+	@include radius-base;
+	@include highlight-background;
+	img {
+		background: transparent;
+	}
+}
+
+html[data-theme="dark"] {
+	& .locator-map img {
+		filter: hue-rotate(200deg) invert(95%) saturate(60%) sepia(0%) brightness(100%);
+	}
+}
+
 .sidenote-hover {
 	border-color: var(--color-gray);
 	color: var(--color-gray);

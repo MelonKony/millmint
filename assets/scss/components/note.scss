@@ -34,10 +34,15 @@ background: transparent;
 		@include text-sm;
 		@include padding-0;
 		column-count: 2;
+
+		@media only screen and (max-width: 500px) {
+			column-count: 1;
+		}
+
 		li {
 			list-style-type: none;
 			strong {
-				text-align: right;
+				float: right;
 				background: var(--highlight);
 				color: var(--main-background);
 				@include font-medium;
@@ -45,10 +50,6 @@ background: transparent;
 				@include px-1;
 			}
 		}
-	}
-
-	@media only screen and (max-width: 500px) {
-		column-count: 1;
 	}
 }
 .note.summary {

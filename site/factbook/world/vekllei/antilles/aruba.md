@@ -24,6 +24,7 @@ aliases:
      Commonwealth="Antilles"
      Flag="/svg/flags/aruba.svg"
      SmallFlag="/svg/flags/4x3/aruba.svg"
+     Locator="/svg/maps/locator/abc.svg"
      Population="380,444"
      Capital="Playa"
      Languages="English, Papiamento, Spanish"
@@ -49,7 +50,9 @@ Locals get around the island via the Aruba Tramway, a series of tram lines famou
 * New Year's Day **1 Jan**
 * Good Friday **30 Apr**
 * Commonwealth Day **1 May**
-* Ascension Day, Whit Monday, Assumption Day **15 Aug**
+* Ascension Day
+* Whit Monday
+* Assumption Day **15 Aug**
 * All Saints Day **1 Nov**
 * Republic Day **15 Dec**
 * Christmas Day **25 Dec**

@@ -22,6 +22,7 @@ aliases:
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/karu.svg"
 	 SmallFlag="/svg/flags/4x3/karu.svg"
+	 Locator="/svg/maps/locator/karu.svg"
 	 Population="2,246,392"
 	 Capital="Pitera"
 	 Languages="English, French, Antillean Creole"

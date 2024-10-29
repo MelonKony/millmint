@@ -24,6 +24,7 @@ aliases:
      Commonwealth="Antilles"
      Flag="/svg/flags/bonaire.svg"
      SmallFlag="/svg/flags/4x3/bonaire.svg"
+     Locator="/svg/maps/locator/abc.svg"
      Population="40,493"
      Capital="Coral"
      Languages="English, Papiamento, Spanish"
@@ -49,7 +50,9 @@ A railway runs from the town of Rincon to the capital of Coral, and then south t
 * New Year's Day **1 Jan**
 * Good Friday **30 Apr**
 * Commonwealth Day **1 May**
-* Ascension Day, Whit Monday, Assumption Day **15 Aug**
+* Ascension Day
+* Whit Monday
+* Assumption Day **15 Aug**
 * Republic Day **6 Sep**
 * All Saints Day **1 Nov**
 * Christmas Day **25 Dec**

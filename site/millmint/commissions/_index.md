@@ -48,13 +48,15 @@ You know what I draw -- it's probably how you found me. It should be no surprise
 These are artworks that are good for developing an idea. They're rough around the edges, usually uncoloured, and full of energy. Prices vary on their scope and colour.
 ![img](/images/fullres/fish.jpg)
 ![img](/images/fullres/elraltzia.jpg)
-![img](/images/sketches/short.jpg)
+![img](/images/fullres/cold-fish.jpg)
 {{</tab>}}
 {{<tab "Designs">}}
 ### Characters & Design: <span class="tag price" style="float: right;">$75-$200</span> <span class="tag" style="float: right; opacity: 60%;">2-5 days</span>
 These are finished artworks that realise your people, machines and objects. They're great for showing off a character, helping you design a vehicle or visualise a machine. Prices vary on the complexity of depicted items and artwork detail.
 
 ![img](/images/fullres/fox.jpg)
+![img](/images/fullres/fort.jpg)
+![img](/images/fullres/school-map.jpg)
 ![img](/images/rifles.jpg)
 ![img](/images/kalinauniform.jpg)
 ![img](/images/statejet.jpg)
@@ -64,6 +66,8 @@ These are finished artworks that realise your people, machines and objects. They
 These are complete artworks showcasing a scene or place. They're detailed, painterly, and finished to a high standard. Prices vary depending on the detail of the scene and the number and complexity of its elements.
 
 ![img](/images/lightbulb.jpg)
+![img](/images/fullres/antigua.jpg)
+![img](/images/fullres/coastguard.jpg)
 ![img](/images/lola.jpg)
 ![img](/images/tannin.jpg)
 ![img](/images/ruins.jpg)
