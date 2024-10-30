@@ -3328,6 +3328,12 @@ ol.timeline .event {
 .fi-habacoa.fis {
   background-image: url(../svg/flags/1x1/habacoa.svg); }
 
+.fi-cavoada {
+  background-image: url(../svg/flags/4x3/cavoada.svg); }
+
+.fi-cavoada.fis {
+  background-image: url(../svg/flags/1x1/cavoada.svg); }
+
 .fi-java {
   background-image: url(../svg/flags/4x3/java.svg); }
 
