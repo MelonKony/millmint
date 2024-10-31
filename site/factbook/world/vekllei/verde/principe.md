@@ -67,7 +67,7 @@ Maritime and tropical, complicated by a range of microclimates amidst its formid
 <details open>
 <summary>Points of Interest</summary>
 
-- **Obo Natural Park**: A protected rainforest area with diverse wildlife, endemic bird species, and some advanced hiking trails through lush tropical landscapes.
+- **Obo Natural Park**: Protected rainforest area with diverse wildlife, endemic bird species, and some advanced hiking trails through lush tropical landscapes.
 - **Banana Beach**: A pristine beach with golden sands and clear blue waters, popular for swimming, snorkelling, and relaxing by the coast.
 - **Portinho**: The republic's capital and one of the smallest cities in the world, featuring colonial architecture, new federal tropical architecture, and a peaceful atmosphere.
 - **Pico Papagaio**: A prominent volcanic peak with hiking trails that lead through dense forest.
