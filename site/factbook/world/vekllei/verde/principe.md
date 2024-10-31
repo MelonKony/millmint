@@ -1,7 +1,7 @@
 ---
 title: Principe
 fulltitle: Principe Republic
-icon: 🥥
+icon: 🌾
 logo: /svg/flags/4x3/principe.svg
 series: republic
 
@@ -13,7 +13,7 @@ aliases:
 - /principe/
 ---
 {{<note series>}}
-Principe is part of the {{<link/verde>}}
+Principe is part of {{<link/verde>}}
 {{</note>}}
 
 {{<infobox/country
