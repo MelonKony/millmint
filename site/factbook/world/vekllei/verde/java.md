@@ -22,7 +22,7 @@ Java is part of the {{<link/verde>}}
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/java.svg"
 	 SmallFlag="/svg/flags/4x3/java.svg"
-	 Locator="/svg/maps/locator/java.png"
+	 Locator="/svg/maps/locator/guinea.svg"
 	 Population="514,720"
 	 Capital="Java"
 	 Languages="English, Forro, Angolar, Principence"
@@ -36,11 +36,11 @@ Java is roughly oval in shape and its interior is dominated by tall volcanic mou
 
 The island was the site of the Portuguese colonial sugar economy in the 15th Century, which exploited enslaved African labour from Central Africa. The decline of this industry was supplemented by the expansion of the Portuguese slave trade. The rise of cacao production in the 19th Century coincided with the abolishment of slavery in Portugal, but it resulted in little practical improvement in the working conditions in the plantation system, which was dominated by indentured labour. The island was infamous for the brutality of its foreign and absentee plantation owners, and conditions only worsened upon Portugal's entry into the Second World War. After the war, the islands were ceded to the {{<link/uk>}}, and working conditions saw some improvement.
 
-Today, Java has had perhaps the most dramatic transformation in the postwar period. Although financial aid was common during the Atlantic Commonwealth period, the federal Vekllei system has invested heavily in infrastructure and education. The island is currently undergoing the process of federalisation, and has yet to transfer to the moneyless system of the rest of the country. Major land reform, and a sweeping urban renewal project managed by the {{<link/bureau-of-public-works>}} hopes to see Java reach near-parity with the {{<link/verde>}} by 2070.
+Today, Java has had perhaps the most dramatic transformation in the postwar period. Although financial aid was common during the Atlantic Commonwealth period, the federal Vekllei system has invested heavily in infrastructure and education. The island is currently undergoing the process of federalisation, and has yet to transfer to the moneyless system of the rest of the country. Major land reform, and a sweeping urban renewal project managed by the {{<link/bureau-of-public-works>}} hopes to see Java reach near-parity with {{<link/verde>}} by 2070.
 
 Javan culture has deep roots in the lusophone African continent, and those bonds persist today. Although English is taught as a working language in schools, the majority language is Forro, a kind of Portuguese creole shared with other East Verde islands. The majority live in the capital, also called Java, where the cacao industry makes up the majority of exports. Under federalisation, the labour-intensive cacao plantation system is declining and being replaced by undersea hydrocarbons and utilities targeting the Central and West African markets.
 
-Javans are mostly African or mixed-race, and are typically Roman Catholics. Many others come from the western islands of the {{<link/verde>}}. Soccer is unquestionably the national sport, and there are dozens of teams within Java. Passenger rail service has just started operation between the capital and the town of Ordella.
+Javans are mostly African or mixed-race, and are typically Roman Catholics. Many others come from the western islands of {{<link/verde>}}. Soccer is unquestionably the national sport, and there are dozens of teams within Java. Passenger rail service has just started operation between the capital and the town of Ordella.
 
 <details open>
 <summary>Points of Interest</summary>

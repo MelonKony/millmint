@@ -3346,6 +3346,12 @@ ol.timeline .event {
 .fi-annobon.fis {
   background-image: url(../svg/flags/1x1/annobon.svg); }
 
+.fi-principe {
+  background-image: url(../svg/flags/4x3/principe.svg); }
+
+.fi-principe.fis {
+  background-image: url(../svg/flags/1x1/principe.svg); }
+
 .fi-aloi {
   background-image: url(../svg/flags/4x3/aloi.svg); }
 

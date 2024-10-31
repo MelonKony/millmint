@@ -22,6 +22,7 @@ Annobon is part of the {{<link/verde>}}
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/annobon.svg"
 	 SmallFlag="/svg/flags/4x3/annobon.svg"
+	 Locator="/svg/maps/locator/guinea.svg"
 	 Population="8,302"
 	 Capital="Crescent Point"
 	 Languages="English, Annobonese Creole, Principence"
