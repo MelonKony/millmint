@@ -41,7 +41,7 @@ If nothing else, {{<link/vekllei>}} is a nation of infrastructure. The quality a
 7. Public ownership of public needs.
 {{</note>}}
 
-In the decades since independence, many of these principles have been refined to mean specific things. "Open air and clean water" has come to mean flowing water, drinking fountains, sunlight and greenery. The abstract values of Atlantic Municipalism have now generally refer to tangible things, and in this sense so too have Vekllei cities developed common appearances. In the mid-21st Century, it is now possible to distinguish Vekllei cities by their design and architecture -- a relatively uncommon feat in today's internationalist world.
+In the decades since independence, many of these principles have been refined to mean specific things. "Open air and clean water" has come to mean flowing water, drinking fountains, sunlight and greenery. The abstract values of Atlantic Municipalism now generally refer to tangible things, and in this sense so too have Vekllei cities developed common appearances. In the mid-21st Century, it is now possible to distinguish Vekllei cities by their design and architecture -- a relatively uncommon feat in today's internationalist world.
 
 Almost as striking as the qualities of a Vekllei city, however, is just how quickly they grow and develop. The computerisation of construction, from design to assembly, has removed most physical labour from many types of construction, and so homes [now go up in days instead of months](/stories/construction/). Municipalities have broad authority to develop public spaces, and are supported by quality resources like the {{<link/bureau-of-housing>}} and its professional civic architects, or the {{<link/nch>}}.
 
