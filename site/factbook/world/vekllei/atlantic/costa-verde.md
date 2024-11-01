@@ -22,6 +22,7 @@ aliases:
 	 Commonwealth="Atlantic"
 	 Flag="/svg/flags/costa-verde.svg"
 	 SmallFlag="/svg/flags/4x3/costa-verde.svg"
+	 Locator="/svg/maps/locator/azores.svg"
 	 Population="246,820"
 	 Capital="Green Cape"
 	 Languages="English, Portuguese, Sinhala"
