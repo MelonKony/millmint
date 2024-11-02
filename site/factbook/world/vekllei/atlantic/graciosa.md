@@ -13,7 +13,7 @@ aliases:
 - /graciosa/
 ---
 {{<note series>}}
-Principe is part of {{<link/verde>}}
+Graciosa is part of {{<link/verde>}}
 {{</note>}}
 
 {{<infobox/country
