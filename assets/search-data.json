@@ -15,6 +15,10 @@
     {{- if $rgb -}}
     "rgb": {{ $rgb | jsonify }},
     {{- end -}}
+    {{- $image := $page.Params.image -}}
+    {{- if $image -}}
+    "image": {{ $image | jsonify }},
+    {{- end -}}
     {{- $color := $page.Params.color -}}
     {{- if $color -}}
     "color": {{ $color | jsonify }},

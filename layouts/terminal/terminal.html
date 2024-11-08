@@ -1,0 +1,125 @@
+
+{{- partial "params.html" . -}}
+
+<!DOCTYPE html>
+<html lang='{{ .Site.LanguageCode }}'>
+{{- partial "head.html" . -}}
+
+<script src="https://cdn.jsdelivr.net/npm/jquery"></script>
+<script src="/js/terminal.min.js"></script>
+<script src="https://unpkg.com/jquery.terminal/js/autocomplete_menu.js"></script>
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/jquery.terminal/2.42.0/css/jquery.terminal.min.css" rel="stylesheet" />
+
+<body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
+  <main>
+	{{- partial "header.html" . -}}
+	{{- partial "nav.html" . -}}
+	<article class="content" style="margin-top: 0;">
+	  <section class="page">
+		  <div id="terminal" class="terminal">
+			<script>
+				jQuery(document).ready(function($) {
+					let searchData = [];
+					let searchResults = [];
+					const greeting = 'COMMONWEALTH BULLETIN SYSTEM v.201.2\n====================================';
+
+					{{ $searchDataFile := printf "%s.search-data.json" .Language.Lang }}
+					{{ $searchData := resources.Get "search-data.json" | resources.ExecuteAsTemplate $searchDataFile . | resources.Minify | resources.Fingerprint }}
+
+					$.getJSON('{{ $searchData.RelPermalink }}', function(data) {
+						searchData = data;
+					});
+
+					$('#terminal').terminal(function(command) {
+						const [cmd, ...args] = command.split(' ');
+						const keywords = args.map(word => word.toLowerCase());
+
+						if (cmd === 'dir' && keywords.length > 0) {
+							// Perform search for articles matching keywords
+							searchResults = searchData.filter(item =>
+								keywords.every(keyword => item.title.toLowerCase().includes(keyword))
+							);
+
+							if (searchResults.length > 0) {
+								this.echo("Found " + searchResults.length + " results. Select by entering a number:");
+								searchResults.forEach((item, index) => {
+									this.echo(`[${index + 1}.] ${item.title}`);
+									this.echo(`Section: ${item.section}`);
+									this.echo(" ");
+								});
+							} else {
+								this.echo(`No articles found for "${args.join(' ')}"]`);
+							}
+						} else if (!isNaN(cmd) && Number(cmd) > 0 && Number(cmd) <= searchResults.length) {
+							// Show full details for the selected article
+							const lookup = searchResults[Number(cmd) - 1];
+							this.echo("=========================================");
+							this.echo(`Title:\n${lookup.title}`);
+							this.echo("=========================================");
+							this.echo(`<img src="${lookup.image}" class="fadein"/>`, { raw: true });
+							this.echo(`Section:\n${lookup.section}`);
+
+							const plainContent = lookup.content
+							this.echo(`\n${plainContent}`);
+
+							if (lookup.date) this.echo(`[[b;#f3a133;]Date Added:]\n${lookup.date}`);
+							this.echo("=========================================");
+						} else {
+							// Handle unknown or invalid commands
+							this.echo(`[[b;#f3a133;]Unknown command or invalid selection: ${command}]`);
+						}
+					}, {
+						greetings: greeting,
+						prompt: "::",
+					});
+				});
+			</script>
+
+
+		</div>
+	  </section>
+	</article>
+  </main>
+  {{- partial "resources/js.html" . -}}
+  {{- partial "script.html" . -}}
+</body>
+</html>
+
+<style>
+	/* General Terminal Styles */
+#terminal {
+		width: 100%;
+		background-color: #323242;  /* Terminal background color */
+		color: #f3a133;  /* Text color for terminal content */
+		border: 1px solid #f3a133;
+		font-family: monospace;
+		height: 500px;
+		font-size: 14px;
+		padding: 10px;
+		white-space: pre-wrap;
+		box-sizing: border-box;
+		border-radius: 5px;
+		overflow-y: auto;  /* Enable vertical scrolling when content exceeds the height */
+		overflow-x: hidden;  /* Prevent horizontal scrolling */
+	}
+
+	.terminal-wrapper {
+		--color: #f3a133!important;
+		--background: var(--base-background);
+	}
+
+	:root {
+		--main-background: #323242!important;
+		--color-gray: #f3a133!important;
+	}
+
+	body {
+		background-color: var(--main-background)!important;
+		background-image: none!important;
+	}
+
+	nav .navbar a {
+		color: #d7d7dd;
+	}
+</style>

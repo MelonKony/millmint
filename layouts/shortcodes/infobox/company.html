@@ -204,6 +204,13 @@
 	</tr>
 	{{ end }}
 
+	{{ if eq (.Get "Headquarters") "karu" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Headquarters</th>
+	<td><a style="color: rgb(218, 19, 52)" href="/karu/"><span class="fi fi-karu"></span> Karu</a></td>
+	</tr>
+	{{ end }}
+
 	{{ if (.Get "Founded") }}
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Founded</th>

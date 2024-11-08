@@ -3316,6 +3316,12 @@ ol.timeline .event {
 .fi-graciosa.fis {
   background-image: url(../svg/flags/1x1/graciosa.svg); }
 
+.fi-velas {
+  background-image: url(../svg/flags/4x3/velas.svg); }
+
+.fi-velas.fis {
+  background-image: url(../svg/flags/1x1/velas.svg); }
+
 .fi-hetland {
   background-image: url(../svg/flags/4x3/hetland.svg); }
 
@@ -3684,6 +3690,9 @@ ol.timeline .event {
 
 .fi-min-united-grocers.fis {
   background-image: url(../svg/logos/united-grocers.svg); }
+
+.fi-min-avro.fis {
+  background-image: url(../svg/logos/avro.svg); }
 
 .fi-min-transport-labs.fis {
   background-image: url(../svg/logos/transport-labs.svg); }

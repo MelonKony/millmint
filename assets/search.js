@@ -12,7 +12,7 @@
     doc: {
       id: 'id',
       field: ['title', 'content', 'logo'],
-      store: ['title', 'href', 'section','content', 'logo', 'rgb', 'color']
+      store: ['title', 'href', 'section','content', 'logo', 'rgb', 'color', 'image']
     }
   });
 
