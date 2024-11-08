@@ -45,43 +45,49 @@ const colors = {
 }
 
 function colorsMain() {
-  if(document.querySelector('[data-color]')) {
-    // Page color override — no background!!!!
-    const color = document
-      .querySelector("[data-color]")
-      .getAttribute("data-color");
+    // Store the current image and its colors for reuse
+    window._currentColorSource = window._currentColorSource || {};
 
-    const rgbArray = colors[color]
+    if(document.querySelector('[data-color]')) {
+        const color = document.querySelector("[data-color]").getAttribute("data-color");
+        const rgbArray = colors[color];
+        if(!rgbArray) console.log('Color not supported');
+        window._currentColorSource.rgb = rgbArray;
+        setColors(rgbArray, false);
+    } else if (document.querySelector("[data-page-color]")) {
+        const rgbArray = document
+            .querySelector("[data-page-color]")
+            .getAttribute("data-page-color")
+            .split(",")
+            .map((v) => Number(v));
+        window._currentColorSource.rgb = rgbArray;
+        setColors(rgbArray);
+    } else if (
+        location.href.includes("/stories/") &&
+        !document.querySelector(".list-item")
+    ) {
+        const img = document.querySelector(".page img");
+        window._currentColorSource.img = img;
 
-    if(!rgbArray) console.log('Color not supported')
-
-    setColors(rgbArray, false);
-  } else if (document.querySelector("[data-page-color]")) {
-    // Page color override
-    const rgbArray = document
-      .querySelector("[data-page-color]")
-      .getAttribute("data-page-color")
-      .split(",")
-      .map((v) => Number(v));
-    setColors(rgbArray);
-  } else if (
-    location.href.includes("/stories/") &&
-    !document.querySelector(".list-item")
-  ) {
-    // Get story's color from image
-    const img = document.querySelector(".page img");
-
-    // Make sure image is finished loading
-    if (img.complete) {
-      getColors(img);
-    } else {
-      img.addEventListener("load", () => {
-        getColors(img);
-      });
+        if (img.complete) {
+            getColors(img);
+        } else {
+            img.addEventListener("load", () => {
+                getColors(img);
+            });
+        }
+    } else if (window._currentColorSource.rgb) {
+        // Reuse existing colors if available
+        setColors(window._currentColorSource.rgb);
     }
-  }
 }
-colorsMain()
+
+// Add system theme change listener to reapply colors
+window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+    if (localStorage.theme === 'auto') {
+        colorsMain(); // Reapply colors with current source
+    }
+});
 
 console.log(localStorage.theme)
 
@@ -149,13 +155,19 @@ if (localStorage.theme === 'light' || (!('theme' in localStorage) && window.matc
 
 async function getColors(img, retryCount = 0, callback = setColors) {
   try {
-    img.crossOrigin = 'anonymous'
+    img.crossOrigin = 'anonymous';
     const vibrant = new Vibrant(img, 11);
     const swatches = vibrant.swatches();
 
     const key = "Vibrant";
-    if (callback) callback(swatches[key].rgb);
-    return swatches[key].rgb;
+    if (!swatches[key]) {
+      console.error("No Vibrant color found");
+      return;
+    }
+    const rgb = swatches[key].rgb;
+
+    if (callback) callback(rgb);
+    return rgb;
   } catch (e) {
     console.log(retryCount, img, e);
     if (retryCount <= 3) {
@@ -165,7 +177,13 @@ async function getColors(img, retryCount = 0, callback = setColors) {
   }
 }
 
+
 function setColors(rgb, doBackground = true, el = document.body) {
+  if (!rgb || rgb.length !== 3) {
+    console.error("Invalid RGB value:");
+    return;
+  }
+
   // Set theme-color
   document
     .querySelectorAll(`[name="theme-color"]`)
@@ -175,49 +193,67 @@ function setColors(rgb, doBackground = true, el = document.body) {
   meta.setAttribute("content", rgba(...rgb, 0.4));
   document.head.appendChild(meta);
 
-  console.log(localStorage.theme)
+  // Check if we should use dark mode - either explicit dark theme or auto with system dark preference
+  const shouldUseDarkMode =
+    localStorage.theme === "dark" ||
+    (localStorage.theme === "auto" && window.matchMedia("(prefers-color-scheme: dark)").matches) ||
+    (!("theme" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches);
 
-  if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-      // Define all dark colors
-      const bodyBg = `rgba(18, 18, 25, 1)`;
-      const darkerText = rgba(161, 161, 166, 1);
-      const titleText = rgba(...rgb, 0.25, 'black');
-      const bg = rgba(14, 14, 14, 1);
-      const gray100 = `rgba(${rgb.join(", ")}, 0.1)`;
-      const highlight = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
-      const highlightBackground = `rgba(${rgb.join(", ")}, 0.1)`;
-      const colorGray = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
-      const darkerColor = `rgba(${rgb.map((v) => Math.max(v - 100, 0)).join(", ")}, 1)`;
+  if (shouldUseDarkMode) {
+    // Define all dark colors
+    const bodyBg = `rgba(18, 18, 25, 1)`;
+    const darkerText = rgba(161, 161, 166, 1);
+    const titleText = rgba(...rgb, 0.25, "black");
+    const bg = rgba(14, 14, 14, 1);
+    const gray100 = `rgba(${rgb.join(", ")}, 0.1)`;
+    const highlight = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
+    const highlightBackground = `rgba(${rgb.join(", ")}, 0.1)`;
+    const colorGray = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
+    const darkerColor = `rgba(${rgb.map((v) => Math.max(v - 100, 0)).join(", ")}, 1)`;
 
-      const classes = [`--title-text: ${titleText}`, `--highlight: ${highlight}`, `--highlight-background: ${highlightBackground}`, `--darker-text: ${darkerText}`, `a: ${colorGray}`, `--color-gray: ${colorGray}`, `--color-text: ${colorGray}`, `--hint-bg: ${bodyBg}`, `--bg-alt: ${bg}`]
-      if(doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-light: ${gray100}`, `--color-placeholder: var(--color-gray)`/*, `--main-background: ${bodyBg}`*/);
+    const classes = [
+      `--title-text: ${titleText}`,
+      `--highlight: ${highlight}`,
+      `--highlight-background: ${highlightBackground}`,
+      `--darker-text: ${darkerText}`,
+      `a: ${colorGray}`,
+      `--color-gray: ${colorGray}`,
+      `--color-text: ${colorGray}`,
+      `--body-background: ${bodyBg}`,
+      `--bg-alt: ${bg}`,
+    ];
+    if (doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-light: ${gray100}`, `--color-placeholder: var(--color-gray)`);
 
-      // Inject dark colors into DOM
-      el.setAttribute(
-        "style",
-        classes.join(';')
-      );
+    // Inject dark colors into DOM
+    el.setAttribute("style", classes.join(";"));
   } else {
-      // Define all colors
-      const bodyBg = rgba(...rgb, 0.1);
-      const darkerText = rgba(...rgb, 0.35, 'black');
-      const titleText = rgba(...rgb, 0.25, 'black');
-      const bg = `rgba(${rgb.join(", ")}, 0.1)`;
-      const gray100 = `rgba(${rgb.join(", ")}, 0.1)`;
-      const highlight = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
-      const highlightBackground = `rgba(${rgb.join(", ")}, 0.1)`;
-      const colorGray = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
-      const darkerColor = `rgba(${rgb.map((v) => Math.max(v - 100, 0)).join(", ")}, 1)`;
+    // Define all colors for light mode
+    const bodyBg = rgba(...rgb, 0.1);
+    const darkerText = rgba(...rgb, 0.35, "black");
+    const titleText = rgba(...rgb, 0.25, "black");
+    const bg = `rgba(${rgb.join(", ")}, 0.1)`;
+    const gray100 = `rgba(${rgb.join(", ")}, 0.1)`;
+    const highlight = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
+    const highlightBackground = `rgba(${rgb.join(", ")}, 0.1)`;
+    const colorGray = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
+    const darkerColor = `rgba(${rgb.map((v) => Math.max(v - 100, 0)).join(", ")}, 1)`;
 
-      const classes = [`--title-text: ${titleText}`, `--highlight: ${highlight}`, `--highlight-background: ${highlightBackground}`, `--darker-text: ${darkerText}`, `a: ${colorGray}`, `--color-gray: ${colorGray}`, `--color-text: ${colorGray}`, `--hint-bg: ${bodyBg}`, `--bg-alt: ${bg}`]
-      if(doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-light: ${gray100}`, `--color-placeholder: var(--color-gray)`/*, `--main-background: ${bodyBg}`*/);
-      classes.push(doBackground ? `--logo-color: var(--color-gray)` : `--logo-color: ${darkerColor}`)
+    const classes = [
+      `--title-text: ${titleText}`,
+      `--highlight: ${highlight}`,
+      `--highlight-background: ${highlightBackground}`,
+      `--darker-text: ${darkerText}`,
+      `a: ${colorGray}`,
+      `--color-gray: ${colorGray}`,
+      `--color-text: ${colorGray}`,
+      `--body-background: ${bodyBg}`,
+      `--bg-alt: ${bg}`,
+    ];
+    if (doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-light: ${gray100}`, `--color-placeholder: var(--color-gray)`);
+    classes.push(doBackground ? `--logo-color: var(--color-gray)` : `--logo-color: ${darkerColor}`);
 
-      // Inject colors into DOM
-      el.setAttribute(
-        "style",
-        classes.join(';')
-      );
+    // Inject colors into DOM
+    el.setAttribute("style", classes.join(";"));
   }
 }
 

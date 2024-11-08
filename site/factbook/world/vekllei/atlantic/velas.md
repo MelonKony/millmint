@@ -13,7 +13,7 @@ aliases:
 - /velas/
 ---
 {{<note series>}}
-Velas is part of {{<link/verde>}}
+Velas is part of the {{<link/atlantic>}}
 {{</note>}}
 
 {{<infobox/country

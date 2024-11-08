@@ -13,7 +13,7 @@ aliases:
 - /graciosa/
 ---
 {{<note series>}}
-Graciosa is part of {{<link/verde>}}
+Graciosa is part of the {{<link/atlantic>}}
 {{</note>}}
 
 {{<infobox/country

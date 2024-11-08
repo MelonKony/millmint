@@ -56,6 +56,7 @@ html[data-theme="light"] {
   --font-color: #1d1d1f;
   --highlight: #5f5f69;
   --highlight-background: #f0f0f6;
+  --body-background: #f0f0f6;
   --gray-light: #f0f0f6;
   --gray-med: #e5e5e5;
   --gray-heavy: #5f5f69;
@@ -81,6 +82,7 @@ html[data-theme="dark"] {
   --gray-100: #232333;
   --highlight: #5f5f69;
   --highlight-background: #d7d7dd;
+  --body-background: #232333;
   --gray-light: #232333;
   --gray-med:#302f2f;
   --gray-heavy: #d7d7dd;
@@ -335,8 +337,8 @@ html {
   line-height: 1.5; }
 
 body {
-  background-color: var(--hint-bg, var(--gray-light));
-  background-image: radial-gradient(var(--color-dots) 0.5px, var(--hint-bg, var(--gray-light)) 0.5px);
+  background-color: var(--body-background);
+  background-image: radial-gradient(var(--color-dots) 0.5px, var(--body-background, var(--gray-light)) 0.5px);
   background-size: 10px 10px; }
 
 main {
@@ -1347,7 +1349,7 @@ nav {
       padding: 2.5px;
       list-style: none; }
 
-.navicon {
+.navicon, #theme-icon {
   font-family: "Emoji" !important;
   font-weight: 400;
   border-radius: 0;

@@ -13,7 +13,7 @@ aliases:
 - /costa-verde/
 ---
 {{<note series>}}
- Costa Verde is part of the Atlantic Commonwealth
+ Costa Verde is part of the {{<link/atlantic>}}
 {{</note>}}
 
 {{<infobox/country

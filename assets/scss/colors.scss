@@ -137,6 +137,7 @@ html[data-theme="light"] {
   --font-color: #{$font-color};
   --highlight: #{$gray-heavy};
   --highlight-background: #{$gray-light};
+  --body-background: #{$gray-light};
 
   --gray-light: #{$gray-light};
   --gray-med: #{$gray-med};
@@ -168,6 +169,7 @@ html[data-theme="dark"] {
   --gray-100: #{$gray-light-dark};
   --highlight: #{$gray-heavy};
   --highlight-background: #{$gray-heavy-dark};
+  --body-background: #{$gray-light-dark};
 
   --gray-light: #{$gray-light-dark};
   --gray-med:#{$gray-med-dark};

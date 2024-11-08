@@ -6,6 +6,7 @@ emoji: ←
 color: red
 image:
 
+draft: true
 type: blank
 
 comments: false

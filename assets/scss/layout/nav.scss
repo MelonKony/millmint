@@ -241,7 +241,7 @@ nav {
   }
 }
 
-.navicon {
+.navicon, #theme-icon {
   @include emoji;
   @include font-normal;
   @include radius-none;

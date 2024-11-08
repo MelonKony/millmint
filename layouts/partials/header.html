@@ -1,10 +1,7 @@
-<!-- Website Header -->
-
 <header>
     <div class="brand">
         <a class="name" href="{{ .Site.Home.RelPermalink }}">
-            {{- with (.Scratch.Get "params").navbar_title }} {{- . | safeHTML -}}
-            {{- end -}}
+            {{- with (.Scratch.Get "params").navbar_title }}{{ . | safeHTML }}{{- end -}}
         </a>
         <a class="emoji" id="whirlybat" href="{{ .Site.Home.RelPermalink }}">-millmint</a>
     </div>
@@ -15,10 +12,10 @@
     </button>
     {{ end }}
 
-    <button id="theme-button" class="navbutton">
-        <span id="dark_mode_btn" class="navicon hidden button">🌒</span>
-        <span id="light_mode_btn" class="navicon hidden button">☀️</span>
-    </button>
+       <!-- Theme Toggle Button -->
+       <button id="theme-toggle" class="navbutton">
+           <span id="theme-icon">🌗</span>
+       </button>
 
     {{ if (.Scratch.Get "params").enable_site_search }}
     {{ partial "search" . }}
