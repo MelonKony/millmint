@@ -1,5 +1,5 @@
 ---
-title: Lucayan
+title: Lucaya
 fulltitle: Lucayan Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/lucaya.svg

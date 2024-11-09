@@ -3342,6 +3342,12 @@ ol.timeline .event {
 .fi-habacoa.fis {
   background-image: url(../svg/flags/1x1/habacoa.svg); }
 
+.fi-curateo {
+  background-image: url(../svg/flags/4x3/curateo.svg); }
+
+.fi-curateo.fis {
+  background-image: url(../svg/flags/1x1/curateo.svg); }
+
 .fi-cavoada {
   background-image: url(../svg/flags/4x3/cavoada.svg); }
 

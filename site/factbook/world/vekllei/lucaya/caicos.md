@@ -13,7 +13,7 @@ aliases:
 - /caicos/
 ---
 {{<note series>}}
- Rum is part of the {{<link/lucaya>}}
+ Caicos is part of {{<link/lucaya>}}
 {{</note>}}
 
 {{<infobox/country
@@ -22,6 +22,7 @@ aliases:
 	 Commonwealth="Lucaya"
 	 Flag="/svg/flags/caicos.svg"
 	 SmallFlag="/svg/flags/4x3/caicos.svg"
+	 Locator="/svg/maps/locator/lucaya.svg"
 	 Population="280,448"
 	 Capital="Grand Turk"
 	 Languages="English, Arawakan, Lucayan"

@@ -22,6 +22,7 @@ aliases:
 	 Commonwealth="Lucaya"
 	 Flag="/svg/flags/rum.svg"
 	 SmallFlag="/svg/flags/4x3/rum.svg"
+	 Locator="/svg/maps/locator/lucaya.svg"
 	 Population="4,910"
 	 Capital="Conception"
 	 Languages="English, Lucayan"

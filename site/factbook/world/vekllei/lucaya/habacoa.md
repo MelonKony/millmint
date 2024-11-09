@@ -22,7 +22,7 @@ aliases:
 	 Commonwealth="Lucaya"
 	 Flag="/svg/flags/habacoa.svg"
 	 SmallFlag="/svg/flags/4x3/habacoa.svg"
-	 Locator="/svg/maps/locator/habacoa.png"
+	 Locator="/svg/maps/locator/lucaya.svg"
 	 Population="204,038"
 	 Capital="Kipri"
 	 Languages="English, Lucayan Creole"
