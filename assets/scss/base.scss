@@ -46,7 +46,7 @@ sub, sup {
   @include text-sm;
   @include radius-base;
   top: -0.5em;
-  background-color: var(--hint-bg);
+  background-color: var(--body-background);
   padding: 1px 4px;
 }
 
@@ -92,6 +92,7 @@ mark {
 
 details {
   @include my-2;
+  @include text-sm;
   @include radius-base;
   @include highlight-background;
   @include highlight-border;

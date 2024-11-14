@@ -1,5 +1,5 @@
 ---
-title: Education in Vekllei
+title: Education
 fulltitle: Education in Vekllei
 icon: 📚
 logo: /svg/logos/schools.svg

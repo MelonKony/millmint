@@ -1,5 +1,5 @@
 ---
-title: Healthcare in Vekllei
+title: Healthcare
 fulltitle: Healthcare in Vekllei
 icon: ⚕️
 logo: /svg/logos/health-vekllei.svg

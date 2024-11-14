@@ -25,7 +25,7 @@ Cavoada is part of {{<link/verde>}}
 	 Locator="/svg/maps/locator/verde.svg"
 	 Population="25,424"
 	 Capital="Tarrafal"
-	 Languages="English, Forro, Angolar, Principence"
+	 Languages="English, Verde Creole, Portuguese"
 	 Area="343 km²"
 	 Accession="1945, as part of the British Atlantic Territories"
  >}}

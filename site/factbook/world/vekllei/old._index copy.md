@@ -7,6 +7,7 @@ color: vekllei
 series: vekllei
 fi: fi fi-com
 
+draft: true
 toc: true
 
 aliases:
@@ -27,11 +28,11 @@ aliases:
    Area="2,393,359 km²"
  >}}
 
-<span class="fi fi-com"></span> **Vekllei** is best conceptualised as a union of islands across the Atlantic Ocean. It is a commonwealth,[^commonwealth] the fourth in a series, and consists of many island republics that are connected by politics and prosperity, not geography or race. It is a new kind of country, without direct precedence or comparison, and spans the Atlantic and Caribbean oceans in their entirety.
+<span class="fi fi-com"></span> **Vekllei** is best conceptualised as a union of islands across the Atlantic Ocean. It is a commonwealth,[^commonwealth] the fourth in a series, and consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of {{<link/oslola>}}, of 8 million. Together, they amount to a single superstate that spans the entirety of the Atlantic as a great power.
 
-The Commonwealth which unites them is both deeply federal and highly standardised, and built on common systems of governance and economic management. The sovereign basis of the country is the [republic](/republics/), or island city-state, which are organised into regional [constituent commonwealths](/constituents/). These republics, numbering 78 in total, cede aspects of governance like {{<link/healthcare>}}, {{<link/schools>}} and the {{<link/armed-forces>}} to the federal Commonwealth.
+The Commonwealth which unites them is highly centralised and built on common systems of governance and economic management. Member [republics](/republics/), organised in [constituent commonwealths](/constituents/) cede aspects of governance like security, health and education to the federal Commonwealth. The country is colloquially known as *Vekllei*, an Algic [corcidi](/corcidi/) word meaning *people of the sea and stars*.[^name] It is also known as the *Commonwealth of Oceans*.
 
-The capital of Vekllei is [Comet](/comet/), located west of the Azores Commonwealth in the Meteor Islands. It was designed and built for that purpose.
+The capital of Vekllei is [Comet](/comet/), located west of the Azores Commonwealth in the Meteor Islands.
 
 Vekllei is often regarded a nation by will, rather than of culture or geography. It consists of distant autonomous republics with many cultures and languages, and it has attracted millions of immigrants since independence looking to participate in building the unique aspects of its governance and society.
 
@@ -54,15 +55,9 @@ Most of Vekllei's islands are found in the North Atlantic and Caribbean seas. It
 The Commonwealth of Oceans (Vekllei) was founded in 2017 after independence in 2015, and is the 4th in a succession of historic Commonwealths based in the Kalan and Oslolan Islands. The first, known as the Nord Commonwealth, was the world's first parliament and among the first democracies in the world.
 </details>
 
-## Name
-
-The country is known by different names. On this website, it is called {{<link/vekllei>}}, which is an Algic [corcidi](/corcidi/) word meaning *people of the sea and stars*.[^name] Within the country, 'Vekllei' usually refers to the federal government.
-
-The formal title of the country is the *Commonwealth of Oceans*, but is rarely used. It is more commonly known as the *Atlantic Commonwealth* or *[Veletian](/veletia/) Commonwealth*. In most cases, including internationally, the country is simply called the 'Commonwealth.' Most people identify themselves by their native [republic](/republics/), but together people may call themselves 'Vekllei' as plural, or 'Veletian.'
-
 ## History
 
-{{<note>}}
+{{<note panel>}}
 The diversity of the Commonwealth is reflected in its history. Vekllei as we know it today may have roots in in the Oslola-Kalan Union and Kalina nationalism, but its story begins in 1995, during the First Atomic War and British occupation of its former colonial territories for 20 years. That occupation, and the complete restructuring of Atlantic society beneath it, lay the foundations for a new and pluralistic union of republics called Vekllei.
 {{</note>}}
 
@@ -70,33 +65,33 @@ The diversity of the Commonwealth is reflected in its history. Vekllei as we kno
 Read more: <span class="smallicon">⏳</span> *[Timeline](/timeline/)*
 {{</note>}}
 
-Many Commonwealth republics have been inhabited for thousands of years, and have cultures and traditions that encompass many unique languages and faiths. There is a strong collision of old and new everywhere in the country. On many islands, ancient bloodlines and traditions have been displaced by colonial enterprise or postwar migration.
+Many Commonwealth republics have been inhabited for thousands of years, and have strong cultures and traditions that encompass many unique languages and faiths. The Kalina Isles and {{<link/oslola>}} have archaeological evidence indicating settlement since at least 3000BC, and much of Oslolan and Kalan history has been recorded through poetry and [Sagas](/sagas/).
 
-In many ways, the story of Vekllei is a story of slavery and subjugation. All of its republics were once European colonies, and most were transformed by chattel slavery. In many republics, indigenous populations were enslaved or murdered. Such is the basic tension in the heart of the country -- a direct successor to cultures with thousands of years of history, but profoundly influenced by colonial enterprise and the modern world.
+The Commonwealth of Oceans has precedence in the Oslolan Commonwealths that existed sporadically between 700 AD and 1600 AD. For this reason, the Vekllei Commonwealth is sometimes referred to as the "4th Commonwealth," a phrase that draws a direct connection between Vekllei and the Oslolan Commonwealths.[^4th]
 
-The federal system of the country has precedence in the Oslolan Commonwealths that existed sporadically between 700 AD and 1600 AD. For this reason, Vekllei is sometimes referred to as the "4th Commonwealth," a phrase that draws a direct connection between Vekllei and the Oslolan Commonwealths.[^4th]
-
-The Oslolan North Sea Empire forms an important part of the country's hsitory, as its historic centre of population and industry. Many early Atlantic federalists were Oslolan, and in many ways the genesis of the federal republic originates there. To this day, {{<link/oslola>}} remains the most developed Vekllei republic, and dwarfs the others in size and industry. Federal principles have decentralised much of Vekllei administration, but most of its industry remains in {{<link/oslola>}} and {{<link/kairi>}}.
-
-Common history of Vekllei as a state begins in 1710 AD, when the North Sea Empire comprising {{<link/oslola>}} and {{<link/kala>}} capitulated to the Kingdom of Great Britain and became subjects the British Empire. In 1836, the British colonies in the Atlantic were reincorporated as the British Atlantic Territories. This colony was granted autonomy in 1838 and achieved dominion status in 1926, and lay the groundwork for Oslolan independence in 1935.
+Common history of the republics begins in 1710 AD, when {{<link/oslola>}} and {{<link/kala>}} capitulated to the Kingdom of Great Britain and became subjects the British Empire. In 1836, the British colonies in the Atlantic were reincorporated as the British Atlantic Territories. This colony was granted autonomy in 1838 and achieved dominion status in 1926, and lay the groundwork for Oslolan independence in 1935.
 
 After the Second World War, the Oslolan Republic struggled through a series of crises that culminated in the fall of government and the establishment of the Atlantic Council in 1963, which severed ties with the UK. Rising territorial ambitions and erratic council rule saw relations strained and culminated in the Oslolan Civil War in 1992 and the exchange of nuclear weapons with the UK in 1995.
 
-Oslolan territories, including {{<link/kala>}}, {{<link/demon>}} and {{<link/helvasia>}} were occupied between 1995 and 2017. Independence was granted in 2015, in which occupied territories ceded local rule to a union called the Atlantic Commonwealth. This Commonwealth is the foundation of modern Vekllei.
+Oslolan territories, including Kala and Demon, were occupied between 1995 and 2017. Independence was granted in 2015, in which occupied territories ceded local rule to a union called the Vekllei Commonwealth. This Commonwealth is the foundation of modern Vekllei.
 
-The accession of other republics occurred between 2020 and 2040, and continues to this day in a process known as [federalisation](/federalisation/). Rather than individual islands, these accessions involved sovereign island-groups like the West Indies Federation, the Azores and Cabo Verde which were then decentralised by the Commonwealth. There are 78 constituent republics in Vekllei today.
+Other member-states,[^member-states] including Kalina and former Atlantic Portuguese territories, joined beteen 2020 and 2040.
 
 ## State
 
-{{<note>}}
+{{<note panel>}}
 Vekllei contains a lot of ideas colliding with each other, which break into fragments and fuse to create new elements. This is a result of its similarly chaotic history, uniting a patchwork of republics that have been subjugated by other powers over time. These elements have evolved to become a new kind of nation-state, unique in the world and history.
 {{</note>}}
 
-The Commonwealth is a union of Atlantic and Caribbean islands which, freed from colonial rule, have established a federal system to share common burdens and improve the lives of their oceangoing peoples. It is a constitutional, federal country comprising 78 republics which share political features established by the [Council of Roses](/rose-council/). These principles are enshrined in their [Civil Rights](/rights/).
+The Commonwealth is foremostly a union of Atlantic and Caribbean islands which, freed from colonial rule, have established a federal system to share common burdens and improve the lives of their oceangoing peoples.
 
-Vekllei has a unique kind of federalism, with republics and territories orbiting central Commonwealth control at different distances. A common means of petitioning membership, or "acceding" to the Commonwealth is via its international organisation called {{<link/oceans-community>}}.
+Vekllei is a constitutional, federated country including [eight individual commonwealths](/constituents/) which share political features established by the [Council of Roses](/rose-council/).
 
-Although a country of unparalleled geographic and cultural diversity, Vekllei administration is [strongly standardised](/bulletin/standardisation/) and the state functions as a single, contiguous country. Its constituent republics have large degrees of autonomy, but are unilaterally governed by the federal government as an intact state.
+It has a unique kind of federalism, with republics and territories orbiting central Commonwealth control at different distances. A common means of petitioning membership, or "acceding" to the Commonwealth is via its international organisation called the {{<link/oceans-community>}}.
+
+Although regionally and culturally diverse, Commonwealth government is centralised and the state functions as a single country. These republics have large degrees of autonomy, but are unilaterally governed by the central Commonwealth government as an intact state.
+
+"Vekllei" is the phrase for the culture and ideology of the Commonwealth state, and is used interchangeably to refer to the country.
 
 ### Territories
 
@@ -104,15 +99,28 @@ Although a country of unparalleled geographic and cultural diversity, Vekllei ad
 Main article: *[Vekllei World Map](/map/)*
 {{</note>}}
 
+<details closed>
+<summary>List of Vekllei Commonwealths</summary>
+**Constituent Commonwealths of Vekllei**
+
+* {{<link/antarctic>}}
+* Commonwealth Antilles
+* {{<link/arctic>}}
+* Commonwealth Atlantic
+* {{<link/kalina>}}
+* Commonwealth Lucaya
+* Commonwealth Verde
+* {{<link/volcanic>}}
+</details>
+
 <details>
 <summary>List of Vekllei Republics</summary>
 
 * **Federal Territories**
   * Meteor Federal Territory
   * Vekllei Antarctic Territories
-  * Vekllei Lunar Community
-  * Vekllei Mars Territories
-  * International Free Arctic Territories (partial)
+  * Vekllei Lunar Territories
+  * Vekllei Mars Community
 
 * **{{<link/antarctic>}}**
   * {{<link/ascension>}} (*Ascension*)
@@ -122,38 +130,31 @@ Main article: *[Vekllei World Map](/map/)*
   * {{<link/sude>}} (*South Georgia & South Sandwich Islands*)
 
 * **{{<link/antilles>}}**
-  * {{<link/aruba>}} (*Aruba*)
-  * {{<link/bonaire>}} (*Bonaire*)
+  * Aruba Republic (*Aruba*)
+  * Bonaire Republic (*Bonaire*)
   * {{<link/caimanas>}} (*Caimanas*)
-  * {{<link/curacao>}} (*Curacao*)
+  * Curaçao Republic (*Curacao*)
 
 * **{{<link/arctic>}}**
   * {{<link/helvasia>}} (*Svalbard*)
-  * {{<link/kala>}} (*Greenland*)
+  * Kala Republic (*Greenland*)
 
 * **{{<link/atlantic>}}**
-  * Berbera (*La Gomera*)
-  * Canary (*Gran Canaria Island*)
+  * Fayal Republic (*Faial Island*)
+  * Flores Republic (*Flores Island*)
+  * Graciosa Republic (*Graciosa Island*)
+  * Maria Republic (*Santa Maria Island*)
+  * Mira Republic (*Madeira*)
+  * Pico Republic (*Pico Island*)
+  * Porto Santo Republic (*Porto Santo*)
+  * Terceira Republic (*Terceira Island*)
+  * Velas Republic (*Sao Jorge Island*)
   * {{<link/costa-verde>}} (*Sao Miguel Island*)
-  * Fayal (*Faial Island*)
-  * Flores (*Flores Island*)
-  * {{<link/graciosa>}} (*Graciosa Island*)
-  * La Palma (*La Palma Island*)
-  * Lanzarote (*Lanzarote Island*)
-  * Maria (*Santa Maria Island*)
-  * Meridia (*El Hierro Island*)
-  * {{<link/mira>}} (*Madeira*)
-  * Pico (*Pico Island*)
-  * Porto Santo (*Porto Santo*)
-  * Tenerife (*Tenerife Island*)
-  * Terceira (*Terceira Island*)
-  * {{<link/velas>}} (*Sao Jorge Island*)
-  * Ventura (*Fuerteventura Island*)
 
 * **{{<link/lucaya>}}**
-  * {{<link/caicos>}} (*Turks & Caicos*)
+  * Caicos Republic (*Turks & Caicos*)
   * Cigateo Republic (*Eleuthera*)
-  * {{<link/curateo>}} (*Great Exuma*)
+  * Curateo Republic (*Great Exuma*)
   * Grand Bahama Republic (*Grand Bahama*)
   * Guanima Republic (*Cat Island*)
   * {{<link/habacoa>}} (*Andros Islands*)
@@ -175,12 +176,12 @@ Main article: *[Vekllei World Map](/map/)*
   * {{<link/barbados>}} (*Barbados*)
   * {{<link/barbary>}} (*Barbuda*)
   * {{<link/cama>}} (*Grenada*)
-  * {{<link/karu>}} (*Guadeloupe*)
+  * Karu Republic (*Guadeloupe*)
   * Kabuli Republic (*Dominica*)
   * {{<link/kairi>}} (*Trinidad*)
   * Liamuiga Republic (*St Kitts*)
   * Lucia Republic (*Saint Lucia*)
-  * {{<link/madiana>}} (*Martinique*)
+  * Madiana Republic (*Martinique*)
   * Oualie Republic (*Navis*)
   * Ouanalao Republic (*Saint Barthelemy*)
   * Saba Republic (*Saba*)
@@ -189,35 +190,32 @@ Main article: *[Vekllei World Map](/map/)*
   * Youloumain Republic (*Saint Vincent & The Grenadines*)
 
 * **{{<link/verde>}}**
-  * {{<link/annobon>}} (*Annobon*)
   * Boa Vista Republic (*Boa Vista*)
-  * {{<link/brava>}} (*Brava*)
-  * {{<link/cavoada>}} (*Sao Nicolau*)
+  * Brava Republic (*Brava*)
+  * Covoada Republic (*Sao Nicolau*)
   * Fogo Republic (*Fogo*)
   * {{<link/java>}} (*Sao Tome*)
   * Maio Republic (*Maio*)
   * Moroços Republic (*Santo Antao*)
   * Praia Republic (*Santiago*)
-  * {{<link/principe>}} (*Sao Tome & Principe*)
+  * Principe Republic (*Sao Tome & Principe*)
   * Sal Republic (*Sal*)
   * Viana Republic (*Sao Vicente*)
 
 * **{{<link/volcanic>}}**
   * {{<link/aismious>}} (*Faroe*)
   * {{<link/demon>}} (*Jan Mayen*)
-  * {{<link/hetland>}} (*Shetland*)
   * {{<link/oslola>}} (*Iceland*)
 </details>
 
-The Commonwealth is a country of unequaled geographic and natural diversity. It spans the entirety of the Atlantic as well as the Caribbean Sea, and comprises the majority of islands within both. Its frontiers resemble the extremes of a compass -- {{<link/helvasia>}} in the north, {{<link/sude>}} in the south, {{<link/principe>}} in the east and {{<link/caimanas>}} in the west. Between them lie thousands of Vekllei islands and reefs and two oceans. The exclusive economic zones of its islands are many times greater than the landmass of the islands themselves, and protect a wealth of resources and fish stocks.
+![Map of Vekllei territories across the Atlantic](/svg/maps/territory.png "Map of Vekllei, including its Commonwealths, Federal Departments and Territories.")
 
-There are 78 Vekllei republics, which comprise the 78 main inhabited islands in the country. There are thousands of other islands, islets and rocks that make up its territory. Vekllei also maintains claims on both poles, and maintains lunar and martian settlements.
-
-In total, its islands amount to a demonstration of earth's biodiversity. Xeric plains, arctic deserts, flower-tundras, dense jungles, temperate rainforests, pastoral hills and coral sandbanks can all be found there. Spanning pole to pole, this country experiences the extremes of polar midnight sun and humid, equatorial storms at the same time. Among them are the world's largest islands and among its smallest, ranging from the republic of {{<link/kala>}} of over 830,000 square miles to Saba of just 5. Many other possessions amount to little more than surfaced sea mounts, reefs and rocks.
-
-Across its archipelagoes are a broad sample of people from every corner of the world -- Europeans, Africans, indigenous Inuits, Caribbean Indians, Persians, South-East Asians, Mediterraneans and Mongols all make their homes in Vekllei. A half-century of immigration has ensured that every language on earth is represented. The living effect is unique -- a social internationalism wrought from all kinds of people in all kinds of environments.
+The Commonwealth spans the length and width of the Atlantic and Caribbean oceans. Its northernmost island in the Commonwealth is {{<link/helvasia>}} (*Svalbard*) in the Arctic Ocean, and its southernmost island is Southern Thule, in the {{<link/sude>}} island chain (*South Sandwich*). The Commonwealth also has Antarctic and Lunar territories. They are united by a strong central government, and administered in a cascading federal system.
 
 These islands are diverse in both size and geography, and range from barren subarctic rocks to flourishing Caribbean archipelagoes.
+
+![Map of the Vekllei Antilles](/svg/maps/caribbean.svg "Map of the Vekllei Antilles, consisting of the Kalina and Antilles Commonwealths and their constituent republics.")
+
 
 A major motivator of membership in the Commonwealth is its trade influence and wealth, since [constituents](/constituents/) and [territories](/territories/) are entitled to the same standards of living as its major industrial territories. The most recent member is Cabo Verde, acceding in 2038 after two decades of membership in the [<span class="fi fi-oceans"></span> Council of Oceans](/oceans-council/).
 
@@ -230,6 +228,8 @@ Main article: {{<link/government>}}
 {{</note>}}
 
 The Vekllei government plays an active role in the lives of ordinary people. Each commonwealth republic is represented by two people[^ministers] of equal standing called Prime Ministers. These ministers represent the bicameral parliaments and assembled cabinets of their homes,[^sorda] and participate equally in a council of leaders called the {{<link/directory>}}.
+
+![Diagram of Vekllei federal structure](/svg/diagrams/federalism.png "Diagram of the Vekllei government and the federal system.")
 
 There are different levels of elected government in Vekllei.
 

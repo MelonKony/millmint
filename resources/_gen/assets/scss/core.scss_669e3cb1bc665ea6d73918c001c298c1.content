@@ -379,7 +379,7 @@ sub, sup {
   /* 20px */
   border-radius: .25rem;
   top: -0.5em;
-  background-color: var(--hint-bg);
+  background-color: var(--body-background);
   padding: 1px 4px; }
 
 input {
@@ -420,6 +420,10 @@ mark {
 details {
   margin-top: .5rem;
   margin-bottom: .5rem;
+  font-size: 0.875rem;
+  /* 14px */
+  line-height: 1.25rem;
+  /* 20px */
   border-radius: .25rem;
   background-color: var(--highlight-background);
   border: 1px solid var(--highlight);
@@ -3353,6 +3357,12 @@ ol.timeline .event {
 
 .fi-cavoada.fis {
   background-image: url(../svg/flags/1x1/cavoada.svg); }
+
+.fi-brava {
+  background-image: url(../svg/flags/4x3/brava.svg); }
+
+.fi-brava.fis {
+  background-image: url(../svg/flags/1x1/brava.svg); }
 
 .fi-java {
   background-image: url(../svg/flags/4x3/java.svg); }
