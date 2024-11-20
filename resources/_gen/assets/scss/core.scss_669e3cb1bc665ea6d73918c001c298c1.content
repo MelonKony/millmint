@@ -1008,7 +1008,6 @@ article img {
 .loading-spinner {
   display: none;
   margin: 2rem auto;
-  margin-inline-start: calc(100% - 24px);
   width: 40px;
   height: 40px;
   border: 2px solid transparent;
