@@ -238,9 +238,9 @@
   @include text-sm;
   @include py-2;
   @include px-4;
-    border: 1px solid #ddd; /* Light border */
+    border: 1px solid transparent; /* Light border */
+    background-color: var(--gray-light);
     border-radius: 5px; /* Rounded corners */
-    background-color: transparent;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
@@ -249,6 +249,7 @@
 .pagination-button:hover {
    @include highlight-background;
    @include highlight-border;
+   text-decoration: none;
 }
 
 .pagination-ellipsis {

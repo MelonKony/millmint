@@ -987,18 +987,19 @@ article img {
   padding-bottom: .5rem;
   padding-left: 1rem;
   padding-right: 1rem;
-  border: 1px solid #ddd;
+  border: 1px solid transparent;
   /* Light border */
+  background-color: var(--gray-light);
   border-radius: 5px;
   /* Rounded corners */
-  background-color: transparent;
   cursor: pointer;
   transition: background-color 0.3s ease; }
 
 .pagination-button.active,
 .pagination-button:hover {
   background-color: var(--highlight-background);
-  border: 1px solid var(--highlight); }
+  border: 1px solid var(--highlight);
+  text-decoration: none; }
 
 .pagination-ellipsis {
   padding-top: .25rem;
