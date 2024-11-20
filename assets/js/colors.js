@@ -111,23 +111,6 @@ if (localStorage.theme === 'light' || (!('theme' in localStorage) && window.matc
           card.setAttribute("style", styles);
 
           // Set individual elements
-          // title
-          card
-            .querySelectorAll(".title")
-            .forEach((title) => {
-              title.setAttribute(
-                "style",
-                `color: rgb(${rgb.join(", ")}) !important;`
-              );
-            });
-
-            // date
-            card.querySelectorAll(".date").forEach((el) => {
-              el.style.color = `rgba(${rgb
-                .map((v) => Math.max(v, 0))
-                .join(", ")}, 1)`;
-            });
-
           card.classList.add("has-color");
         }
 

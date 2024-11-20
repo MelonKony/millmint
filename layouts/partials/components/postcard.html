@@ -1,28 +1,89 @@
-{{ $ctx := .ctx }}
-{{ $pages := .pages }}
+{{/* layouts/partials/components/postcard.html */}}
+{{ $paginator := .paginator }}
 
 <div class="postcard-layout">
-  <ul class="postcard-grid">
-    {{ range ($ctx.Paginator).Pages }}
-    <li class="card" href="{{ .RelPermalink }}">
-      <a href="{{ .RelPermalink }}">
-        <div class="postcard-meta">
-          <div class="title">
-            {{- .Title -}}
-            {{ if .Params.rgb }}
-            <div data-card-color="{{ .Params.rgb }}"></div>
+    <div class="controls-row note">
+
+     <div class="checkbox-wrapper">
+         <input class="inp-cbx toggle-slider" id="view-toggle" type="checkbox"/>
+         <label class="cbx" for="view-toggle">
+             <span>
+                 <svg width="12px" height="10px">
+                     <use xlink:href="#check"></use>
+                 </svg>
+             </span>
+             <span id="toggle-label">Show Pagination</span>
+         </label>
+         <svg class="inline-svg">
+             <symbol id="check" viewbox="0 0 12 10">
+                 <polyline points="1.5 6 4.5 9 10.5 1"></polyline>
+             </symbol>
+         </svg>
+     </div>
+    </div>
+
+    <ul class="postcard-grid" id="illustration-grid">
+        {{ range $paginator.Pages }}
+            <li class="card"
+                style="background-color: rgb({{ .Params.rgb }})"
+                data-tags="{{ with .Params.tags }}{{ delimit . "," }}{{ end }}"
+                data-characters="{{ with .Params.characters }}{{ delimit . "," }}{{ end }}"
+                data-categories="{{ with .Params.categories }}{{ delimit . "," }}{{ end }}">
+                <a href="{{ .RelPermalink }}">
+                    <div class="postcard-meta">
+                        <h2 class="title" style="{{ if .Params.rgb }}color: #ececf4!important;{{ end }}">{{ partial "title" . }}</h2>
+                        <div class="date" style="{{ if .Params.rgb }}color: #ececf4!important;{{ end }}">{{ .Date.Format "Jan 2, 2006" }}</div>
+                    </div>
+                    <figure class="postcard-image">
+                          {{ with resources.Get .Params.image }}
+                          {{ with .Resize "680x q90 webp" }}
+                          <img class="page" src="{{ .RelPermalink }}" alt="{{ partial "title" $ }}" loading="lazy">
+                          {{ end }}
+                          {{ end }}
+                    </figure>
+                </a>
+            </li>
+        {{ end }}
+    </ul>
+
+    <div id="pagination" class="pagination" style="display: none;">
+        {{ if $paginator }}
+            {{ $currentPage := $paginator.PageNumber }}
+            {{ $totalPages := $paginator.TotalPages }}
+
+            {{ if gt $currentPage 1 }}
+                <a href="{{ $paginator.First.URL }}" class="pagination-button">««</a>
+                <a href="{{ $paginator.Prev.URL }}" class="pagination-button">«</a>
             {{ end }}
-          </div>
-          <div class="date">
-            {{- .PublishDate.Format "2 Jan 2006" -}}
-          </div>
-        </div>
-        <div class="postcard-image no-link">
-          {{ partial "components/stories/story-image.html" . }}
-        </div>
-      </a>
-    </li>
-    {{end}}
-  </ul>
-  {{ partial "pagination.html" $ctx }}
+
+            {{ range $paginator.Pagers }}
+                {{ if or
+                    (le .PageNumber 2)
+                    (ge .PageNumber (sub $totalPages 1))
+                    (and
+                        (ge .PageNumber (sub $currentPage 2))
+                        (le .PageNumber (add $currentPage 2))
+                    )
+                }}
+                    <a href="{{ .URL }}" class="pagination-button {{ if eq .PageNumber $currentPage }}active{{ end }}">
+                        {{ .PageNumber }}
+                    </a>
+                {{ else if or
+                    (eq .PageNumber 3)
+                    (eq .PageNumber (sub $totalPages 2))
+                }}
+                    <span class="pagination-ellipsis">...</span>
+                {{ end }}
+            {{ end }}
+
+            {{ if lt $currentPage $totalPages }}
+                <a href="{{ $paginator.Next.URL }}" class="pagination-button">»</a>
+                <a href="{{ $paginator.Last.URL }}" class="pagination-button">»»</a>
+            {{ end }}
+        {{ end }}
+    </div>
+
+    <div id="loading-spinner" class="loading-spinner"></div>
 </div>
+
+<script src="/js/stories.js"></script>

@@ -9,6 +9,12 @@ nav {
     @include my-0;
   }
 
+  .active {
+    @include highlight-background;
+    color: var(--highlight);
+    box-shadow: inset 0px -502px 0px -500px var(--highlight);
+  }
+
   .navbar {
     @include margin-0;
     @include padding-0;
@@ -301,12 +307,6 @@ nav {
     margin-top: 24px;
     padding: 0;
   }
-}
-
-.active {
-  @include highlight-background;
-  color: var(--highlight);
-  box-shadow: inset 0px -502px 0px -500px var(--highlight);
 }
 
 .showcase[five] {

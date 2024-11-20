@@ -6,7 +6,7 @@
     @include padding-0;
     @include my-6;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 10px;
     grid-auto-flow: row;
     list-style: none;
@@ -15,14 +15,13 @@
 
   .card {
     @include radius-base;
-    max-width: 260px;
     justify-self: center;
     align-self: center;
     list-style: none;
     border: 2px solid var(--gray-med);
     width: 100%;
     box-sizing: border-box;
-    background: var(--gray-med);
+    background: var(--gray-light);
     transition: ease 0.15s;
     position: relative;
     z-index: 2;
@@ -36,11 +35,13 @@
     }
 
     .postcard-meta {
-      background: var(--gray-light);
-
       .title {
         @include px-1;
+        @include my-0;
         @include text-lg;
+        @include font-semibold;
+        @include font-color;
+        line-height: 1.2;
         font-weight: 500;
       }
     }
@@ -57,7 +58,10 @@
         @include my-0;
         height: 360px !important;
         object-fit: cover !important;
+        object-position: top!important;
         transform: scale(1.1);
+        width: 100%;
+        height: auto;
       }
     }
 
@@ -77,8 +81,193 @@
 
     .date {
       @include text-sm;
+      color: var(--gray-heavy);
       padding: 0px 10px 5px 5px;
-      margin-top: -5px;
     }
   }
+}
+
+.controls-row.note {
+  @include highlight-background;
+  @include py-2;
+  display: flex;
+  align-items: center;
+}
+
+// Checkbox
+
+ .checkbox-wrapper * {
+   box-sizing: border-box;
+   margin: 0;
+   display: flex;
+   align-items: center; // Aligns the label and checkbox vertically
+   justify-content: center; // Centres horizontally if needed
+   gap: 0.5rem; // Adds space between the checkbox and label (optional)
+ }
+
+ .checkbox-wrapper .cbx {
+   -webkit-user-select: none;
+   user-select: none;
+   cursor: pointer;
+   padding: 6px 8px;
+   border-radius: 6px;
+   overflow: hidden;
+   transition: all 0.2s ease;
+   display: inline-block;
+ }
+
+ .checkbox-wrapper .cbx:not(:last-child) {
+   margin-right: 6px;
+   width: max-content;
+   display: flex;
+ }
+
+ .checkbox-wrapper .cbx:hover {
+   @include highlight-background;
+ }
+
+ .checkbox-wrapper .cbx span {
+   float: left;
+   vertical-align: middle;
+   transform: translate3d(0, 0, 0);
+ }
+
+ .checkbox-wrapper .cbx span:first-child {
+   position: relative;
+   width: 18px;
+   height: 18px;
+   border-radius: 4px;
+   transform: scale(1);
+   border: 1px solid var(--color-text-secondary);
+   transition: all 0.2s ease;
+   box-shadow: 0 1px 1px var(--highlight-background);
+ }
+
+ .checkbox-wrapper .cbx span:first-child svg {
+   position: absolute;
+   top: 3px;
+   left: 2px;
+   fill: none;
+   stroke: #fff;
+   stroke-width: 2;
+   stroke-linecap: round;
+   stroke-linejoin: round;
+   stroke-dasharray: 16px;
+   stroke-dashoffset: 16px;
+   transition: all 0.3s ease;
+   transition-delay: 0.1s;
+   transform: translate3d(0, 0, 0);
+ }
+
+ .checkbox-wrapper .cbx span:last-child {
+   padding-left: 8px;
+   line-height: 18px;
+ }
+
+ .checkbox-wrapper .cbx:hover span:first-child {
+   border-color: var(--highlight);
+ }
+
+ .checkbox-wrapper .inp-cbx {
+   position: absolute;
+   visibility: hidden;
+ }
+
+ .checkbox-wrapper .inp-cbx:checked+.cbx span:first-child {
+   background: var(--highlight);
+   border-color: var(--highlight);
+   animation: wave 0.4s ease;
+ }
+
+ .checkbox-wrapper .inp-cbx:checked+.cbx span:first-child svg {
+   stroke-dashoffset: 0;
+ }
+
+ .checkbox-wrapper .inline-svg {
+   position: absolute;
+   width: 0;
+   height: 0;
+   pointer-events: none;
+   user-select: none;
+ }
+
+ @media screen and (max-width: 640px) {
+   .checkbox-wrapper .cbx {
+     width: 100%;
+     display: inline-block;
+   }
+ }
+
+ @-moz-keyframes wave {
+   50% {
+     transform: scale(0.9);
+   }
+ }
+
+ @-webkit-keyframes wave {
+   50% {
+     transform: scale(0.9);
+   }
+ }
+
+ @-o-keyframes wave {
+   50% {
+     transform: scale(0.9);
+   }
+ }
+
+ @keyframes wave {
+   50% {
+     transform: scale(0.9);
+   }
+ }
+
+/* Pagination */
+.pagination {
+    display: flex;
+    justify-content: center;
+    gap: 5px; /* Space between pagination buttons */
+    max-width: 100%; /* Ensure it doesn't exceed the main content width */
+    margin: 20px auto; /* Center pagination */
+    flex-wrap: wrap;
+    padding: 5px; /* Add some padding for compactness */
+    box-sizing: border-box;
+}
+
+.pagination-button {
+  @include text-sm;
+  @include py-2;
+  @include px-4;
+    border: 1px solid #ddd; /* Light border */
+    border-radius: 5px; /* Rounded corners */
+    background-color: transparent;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.pagination-button.active,
+.pagination-button:hover {
+   @include highlight-background;
+   @include highlight-border;
+}
+
+.pagination-ellipsis {
+  @include py-1;
+}
+
+/* Loading indicator */
+.loading-spinner {
+  display: none;
+  width: 40px;
+  height: 40px;
+  margin: 2rem auto;
+  border: 4px solid #f3f3f3;
+  border-top: 4px solid var(--highlight);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
 }
