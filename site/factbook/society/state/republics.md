@@ -104,7 +104,7 @@ There are a few criteria separating republics from regular local government. The
 	* {{<link/madiana>}} (*Martinique*)
 	* Oualie Republic (*Navis*)
 	* Ouanalao Republic (*Saint Barthelemy*)
-	* Saba Republic (*Saba*)
+	* {{<link/saba>}} (*Saba*)
 	* Soualiga Republic (*Saint Martin/Sint Maartin*)
 	* {{<link/virgin>}} (*British/Spanish/U.S. Virgin Islands*)
 	* Youloumain Republic (*Saint Vincent & The Grenadines*)

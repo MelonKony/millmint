@@ -13,7 +13,7 @@ aliases:
 - /karu/
 ---
 {{<note series>}}
- Kairi is part of {{<link/vekllei>}} Kalina
+ Karu is part of {{<link/vekllei>}} Kalina
 {{</note>}}
 
 {{<infobox/country

@@ -50,7 +50,7 @@ Kalina's climate is tropical and warm, moderated by the sea. Most of its islands
 * Madiana Republic
 * Oualie Republic
 * Ouanalao Republic
-* Saba Republic
+* {{<link/saba>}}
 * Soualiga Republic
 * {{<link/virgin>}}
 * Youloumain Republic

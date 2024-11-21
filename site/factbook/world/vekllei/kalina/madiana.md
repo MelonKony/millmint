@@ -13,7 +13,7 @@ aliases:
 - /madiana/
 ---
 {{<note series>}}
- Kairi is part of {{<link/vekllei>}} Kalina
+ Madiana is part of {{<link/vekllei>}} Kalina
 {{</note>}}
 
 {{<infobox/country

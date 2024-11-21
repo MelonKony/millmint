@@ -183,7 +183,7 @@ Main article: *[Vekllei World Map](/map/)*
   * {{<link/madiana>}} (*Martinique*)
   * Oualie Republic (*Navis*)
   * Ouanalao Republic (*Saint Barthelemy*)
-  * Saba Republic (*Saba*)
+  * {{<link/saba>}} (*Saba*)
   * Soualiga Republic (*Saint Martin/Sint Maartin*)
   * {{<link/virgin>}} (*British/Spanish/U.S. Virgin Islands*)
   * Youloumain Republic (*Saint Vincent & The Grenadines*)
@@ -213,7 +213,7 @@ The Commonwealth is a country of unequaled geographic and natural diversity. It 
 
 There are 78 Vekllei republics, which comprise the 78 main inhabited islands in the country. There are thousands of other islands, islets and rocks that make up its territory. Vekllei also maintains claims on both poles, and maintains lunar and martian settlements.
 
-In total, its islands amount to a demonstration of earth's biodiversity. Xeric plains, arctic deserts, flower-tundras, dense jungles, temperate rainforests, pastoral hills and coral sandbanks can all be found there. Spanning pole to pole, this country experiences the extremes of polar midnight sun and humid, equatorial storms at the same time. Among them are the world's largest islands and among its smallest, ranging from the republic of {{<link/kala>}} of over 830,000 square miles to Saba of just 5. Many other possessions amount to little more than surfaced sea mounts, reefs and rocks.
+In total, its islands amount to a demonstration of earth's biodiversity. Xeric plains, arctic deserts, flower-tundras, dense jungles, temperate rainforests, pastoral hills and coral sandbanks can all be found there. Spanning pole to pole, this country experiences the extremes of polar midnight sun and humid, equatorial storms at the same time. Among them are the world's largest islands and among its smallest, ranging from the republic of {{<link/kala>}} of over 830,000 square miles to {{<link/saba>}} of just 5. Many other possessions amount to little more than surfaced sea mounts, reefs and rocks.
 
 Across its archipelagoes are a broad sample of people from every corner of the world -- Europeans, Africans, indigenous Inuits, Caribbean Indians, Persians, South-East Asians, Mediterraneans and Mongols all make their homes in Vekllei. A half-century of immigration has ensured that every language on earth is represented. The living effect is unique -- a social internationalism wrought from all kinds of people in all kinds of environments.
 
