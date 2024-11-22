@@ -17,7 +17,7 @@ aliases:
 72 hours in {{<link/oslola>}}, a short story about three days in the industrious and historic heart of Vekllei.
 {{</note>}}
 
-<span class="dropcap">T</span>his summer, I was routed from London to Idlewild via Pharos in Oslola, Vekllei. This was a rare opportunity, and one I have been hoping to cover for *Metropolitan* some time. It was only through my commission in this magazine that this adventure was possible. You see, a BOAC ticket from London to Idlewild costs a man about £525, or about a sixth of his average annual salary. Tickets with Commonwealth Overseas Airways, the state monopolist of international Vekllei travel, start at nearly ten times as much.
+<span class="dropcap">T</span>his summer, I was routed from London to Idlewild via Pharos in Oslola, Vekllei. This was a rare opportunity, and one I have been hoping to cover for *Metropolitan* some time. It was only through my commission in this magazine that this adventure was possible. You see, a BOAC ticket from London to Idlewild costs about £525, or about a sixth of a British average salary. Tickets with Commonwealth Overseas Airways, the state monopolist of international Vekllei travel, start at nearly ten times as much.
 
 Right away, we can see the uniqueness of this holiday. This kind of pricing does not make any sense. Among Vekllei's islands are some of the most sought-after beaches in the Caribbean, and within its borders are all kinds of untouched wilderness and desirable climates, all situated between the wealthiest and most vacation-minded continents. With some considered pricing, it could be an essential destination for holidaymakers, but that is not the case presently. Such was the excitement my trip provoked.
 

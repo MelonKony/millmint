@@ -96,6 +96,7 @@ There are a few criteria separating republics from regular local government. The
 	* {{<link/barbados>}} (*Barbados*)
 	* {{<link/barbary>}} (*Barbuda*)
 	* {{<link/cama>}} (*Grenada*)
+	* {{<link/grenadines>}} (*Grenadines*)
 	* {{<link/karu>}} (*Guadeloupe*)
 	* Kabuli Republic (*Dominica*)
 	* {{<link/kairi>}} (*Trinidad*)

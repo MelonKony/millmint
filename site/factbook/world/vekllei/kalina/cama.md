@@ -23,10 +23,10 @@ aliases:
 	 Flag="/svg/flags/cama.svg"
 	 SmallFlag="/svg/flags/4x3/gd.svg"
 	 Locator="/svg/maps/locator/gr.png"
-	 Population="454,820"
+	 Population="434,820"
 	 Capital="Assumpción"
 	 Languages="English, Cama Creole, French"
-	 Area="348.5 km²"
+	 Area="310.8 km²"
 	 Accession="1930, as part of the Alford Agreement"
  >}}
 
