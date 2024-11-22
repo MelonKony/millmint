@@ -1,7 +1,7 @@
 ---
 title: Grenadines
 fulltitle: Grenadines Republic
-icon: 🍃
+icon: 🏝️
 logo: /svg/flags/4x3/grenadines.svg
 series: republic
 
