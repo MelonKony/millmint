@@ -11,21 +11,20 @@
   {{ if .Params.list }}
   {{ $child_pages := union .Sections .RegularPages }}
   <ul>
-    {{ range $child_pages.ByTitle }}
-    <li>
-      <span class="navicon">{{ if .Params.icon }}{{ .Params.icon }}{{ end }}</span>
-      <a href="{{ .RelPermalink }}">{{ if .Params.fulltitle }}{{ .Params.fulltitle }}{{ end }}</a>
-      {{ partial "components/recursive-list.html" . }}
-    </li>
+   {{ range $child_pages.ByTitle }}
+    <li><a class="slink" {{ if .Params.color }} style="
+     color: var(--color-{{ .Params.color }});
+     background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+     background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a></li>
     {{ end }}
   </ul>
   {{ else }}
   <ul>
     {{ range .RegularPages }}
-    <li>
-      <span class="navicon">{{ if .Params.icon }}{{ .Params.icon }}{{ end }}</span>
-      <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-    </li>
+    <li><a class="slink" {{ if .Params.color }} style="
+     color: var(--color-{{ .Params.color }});
+     background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+     background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a></li>
     {{ end }}
   </ul>
   {{ end }}
