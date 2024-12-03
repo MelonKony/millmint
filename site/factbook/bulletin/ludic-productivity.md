@@ -22,7 +22,7 @@ aliases:
 {{<note panel>}}
 **Summary**
 
-* The Vekllei economy does not use money in everyday life, but this is not the only unusual thing about it.
+* The {{<link/vekllei>}} economy does not use money in everyday life, but this is not the only unusual thing about it.
 * Vekllei people engage with work and employment primarily as a kind of *play* -- a self-justifying social activity done to narrativise actions or amuse themselves.
 * This 'playful work,' also called a *ludic economy*, has fundamental differences from work environments overseas.
 * Understanding its specifics helps illustrate the motivations and characteristics of the Vekllei worker, and why their society continues to function in a social economy.
