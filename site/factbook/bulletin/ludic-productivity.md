@@ -22,10 +22,10 @@ aliases:
 {{<note panel>}}
 **Summary**
 
-* Large parts of the Vekllei economy are ostensibly owned by the Vekllei {{<link/government>}}.
-* Even though these companies are [government-owned](/state-industry/), they usually operate independently and some are profitable through foreign trade.
-* While private companies in the domestic market can only effectively go "bankrupt" through prolonged labour shortages, government companies with [accounted revenue](/bulletin/accounted-revenue/) can and do go bankrupt.
-* The question then is how the Vekllei state handles bankruptcy of government-owned and major industrial firms, and to what it extent it allows ailing businesses to run at a loss.
+* The Vekllei economy does not use money in everyday life, but this is not the only unusual thing about it.
+* Vekllei people engage with work and employment primarily as a kind of *play* -- a self-justifying social activity done to narrativise actions or amuse themselves.
+* This 'playful work,' also called a *ludic economy*, has fundamental differences from work environments overseas.
+* Understanding its specifics helps illustrate the motivations and characteristics of the Vekllei worker, and why their society continues to function in a social economy.
 {{</note>}}
 
 Work in {{<link/vekllei>}} -- in fact, most factors of life in Vekllei -- is characterised by *play*. Play is a distinguishing characteristic of social creatures and it is all around us, even if we might not recognise it as such. It is not idealism or altruism; it is intuitive to all of us, and like other basic social motivations does not need to be taught or conceptualised. We play for entertainment, gratification and fun. Vekllei people work for entertainment, gratification and fun.
