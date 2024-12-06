@@ -32,6 +32,8 @@ In addition to aeronautics and space research, the ASRE operates a number of ext
         * Officer for the Lunar International Settlement
     * Director for Advanced Research & Technology
     * Chief Scientist of the Defence Aerospace Laboratories, {{<link/DSRE>}}
+* **Secretary for Space Settlements**, {{<link/bureau-of-space>}}
+* **Officer for Sciences**, {{<link/bureau-of-space>}}
 * **Director**, {{<link/SIRO>}}
 * **Chairman**, Commonwealth Space Federation
 * **Chairman**, Commonwealth Space Council

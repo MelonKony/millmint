@@ -57,5 +57,9 @@ Although formal celestial and space diplomacy is conducted through the {{<link/m
 {{<note panel>}}
 ## Boards & Commissions
 
-* **National Automobile Club of Vekllei (NACV)**: Independent motor enthusiast and automobile club.
+* **Lunar Municipal Council**: Local government of the Vekllei Lunar Settlement.
+* **Venus Public Council**: Administrative board for Station Venus.
+* **Mars Public Council**: Administrative board for Station Mars.
+* **Vekllei Celestial Development Corporation**: Planning and design firm specialising in off-world construction.
+* **Commonwealth Lunar Trade Board**: Trade promotion board for off-world corporations and investment.
 {{</note>}}
