@@ -30,6 +30,7 @@ The bureau has a large stake in the development and manufacture of Vekllei aircr
 		* Officer for Inspection
 	* Secretary for Flight Security & Materials
 	* Secretary for Airspace
+* **Secretary for Transport & Supply**, {{<link/bureau-of-space>}}
 * **Deputy Minister**, {{<link/ministry-of-the-commons>}}
 * **Executive**, Commonwealth Air Traffic Services
 * **Executive**, {{<link/air>}}

@@ -35,6 +35,28 @@ About a third of the population live in the capital and largest city, Thor's Har
 
 The economy remains dependent on cod fishing and raising livestock, though undersea oil drilling has recently begun and attracted investment in the capital. The islanders have a strong tradition of oral storytelling and history, which have carried stories for over a thousand years. Islanders speak Aismious, a language similar to Scandi-Oslolan with Celtic elements.
 
-The islands are serviced by hydrofoils and an water airport in the capital, as well as trams between the larger settlements.
+The islands are serviced by hydrofoils and an water airport in the capital, as well as trams between the larger settlements. The headquarters of the {{<link/transport-laboratories>}} are located there.
+
+{{<note table>}}
+**Climate**
+
+Cool and windy, approaching tundra at elevation. Temperatures are moderated by the Atlantic, and rarely drop below freezing, even in winter.
+{{</note>}}
+
+{{<note table>}}
+**Public Holidays**:
+
+* New Year's Day **1 Jan**
+* Good Friday
+* Easter Monday
+* Whit Monday
+* Republic Day **25 Apr**
+* Commonwealth Day **1 May**
+* St Olav's Eve **28 Jul**
+* St Olav's Day **29 Jul**
+* Christmas Day **25 Dec**
+* 2nd Day of Christmas **26 Dec**
+* New Year's Eve **31 Dec**
+{{</note>}}
 
 

@@ -28,7 +28,7 @@ aliases:
 * Understanding its specifics helps illustrate the motivations and characteristics of the Vekllei worker, and why their society continues to function in a social economy.
 {{</note>}}
 
-Work in {{<link/vekllei>}} -- in fact, most factors of life in Vekllei -- is characterised by *play*. Play is a distinguishing characteristic of social creatures and it is all around us, even if we might not recognise it as such. It is not idealism or altruism; it is intuitive to all of us, and like other basic social motivations does not need to be taught or conceptualised. We play for entertainment, gratification and fun. Vekllei people work for entertainment, gratification and fun.
+Work in {{<link/vekllei>}} -- in fact, most factors of life in Vekllei -- is characterised by *play*. Play is a distinguishing characteristic of social creatures and it is all around us, even if we might not recognise it as such. It is not idealism or altruism; it is intuitive to every person, and like other basic social motivations does not need to be taught or conceptualised. We play for entertainment, gratification and fun. Vekllei people work for entertainment, gratification and fun.
 
 Yet bricks are still moved; the rubbish is collected; teachers show up in classrooms and clerks are at their desks. They produce forms of value for their country; physical labour, services, and yes, money-value. In this article we'll look at ludic productivity in Vekllei, its features, and how it informs the character of Vekllei society.
 
@@ -45,7 +45,7 @@ In Vekllei, they [do not use money in everyday life](/social-economy/). This soc
 
 Play arises naturally in Vekllei because the mechanisms of its social economy limit the kind of industrialisation that strips culture of playfulness. For example, films made in Vekllei are almost all low-budget, small-scale affairs. It is a scene dominated by amateurs with a camera, who have to work strenuously to meet the production values of even small-time Hollywood features.
 
-Vekllei filmmakers cannot pay actors or rent sets, because they have no money. In any ambition, no matter how amateur, they leverage social relationships and hard work to achieve what they want. Because of these circumstances they sometimes have to put more effort in than foreigners to achieve their goals -- and demonstrate that play can be hard work.
+Vekllei filmmakers cannot pay actors or rent sets, because they have no money. In any ambition, no matter how amateur, they leverage social relationships and hard work to achieve what they want. Because of these circumstances they sometimes have to put more effort in than foreigners to achieve their goals -- and in doing so demonstrate that play can be hard work.
 {{</note>}}
 
 Vekllei people sometimes lament their provincial, aspirational culture, derisively calling it pretentious ('arthouse') or backwards ('shoddy'). They have a lot in common with Americans in their good-natured optimism. But these economic limitations also prevent the industrialisation of cinema, and so in place of industry is the spontaneity and self-asserting nature of play. It is a good example of how economic structure can impart cultural traits, and vice-versa. It is not just that their culture encourages play; play is in fact an response to their economic reality.

@@ -3515,6 +3515,12 @@ ol.timeline .event {
 .fi-habacoa.fis {
   background-image: url(../svg/flags/1x1/habacoa.svg); }
 
+.fi-bahama {
+  background-image: url(../svg/flags/4x3/bahama.svg); }
+
+.fi-bahama.fis {
+  background-image: url(../svg/flags/1x1/bahama.svg); }
+
 .fi-curateo {
   background-image: url(../svg/flags/4x3/curateo.svg); }
 
