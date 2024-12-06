@@ -1,0 +1,26 @@
+---
+title: Fire Truck
+fulltitle: Fire Truck
+
+date: 2024-11-30
+
+tags:
+- 2024
+characters:
+categories:
+- sketch
+keywords:
+- 2024
+
+rgb: 233, 77, 81
+
+url: /stories/firetruck/
+image: /images/fullres/firetruck.jpg
+---
+{{<note caption>}}
+They're preparing for volcanic eruptions and nuclear war, so even urban ladder trucks are designed for dirt roads.
+{{</note>}}
+
+{{<link/civil-defence>}} has to prepare for almost every natural disaster imaginable, from hurricanes to polar storms. The unparalleled geographic diversity of the Atlantic country necessitates this kind of centralised and effective emergency system.
+
+The patterns on the truck are local cultural patterns of the island of {{<link/madiana>}}, in the Lesser Antilles. It's a constituent republic of the Commonwealth, and you can see its flag at the rear of the truck. They use patterns like this a lot as a cultural shorthand; a sort of language in itself.
