@@ -72,10 +72,10 @@ There are a few criteria separating republics from regular local government. The
 	* Ventura (*Fuerteventura Island*)
 
 * **{{<link/lucaya>}}**
+	* {{<link/bahama>}} (*Grand Bahama*)
 	* {{<link/caicos>}} (*Turks & Caicos*)
 	* Cigateo Republic (*Eleuthera*)
 	* {{<link/curateo>}} (*Great Exuma*)
-	* Grand Bahama Republic (*Grand Bahama*)
 	* Guanima Republic (*Cat Island*)
 	* {{<link/habacoa>}} (*Andros Islands*)
 	* Inagua Republic (*Great Inagua*)
@@ -122,7 +122,7 @@ There are a few criteria separating republics from regular local government. The
 	* Praia Republic (*Santiago*)
 	* {{<link/principe>}} (*Sao Tome & Principe*)
 	* Sal Republic (*Sal*)
-	* Viana Republic (*Sao Vicente*)
+	* {{<link/viana>}} (*Sao Vicente*)
 
 * **{{<link/volcanic>}}**
 	* {{<link/aismious>}} (*Faroe*)

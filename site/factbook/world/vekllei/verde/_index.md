@@ -37,14 +37,14 @@ Life in the Verde Commonwealth is mostly municipal, characterised by communal la
 
 * {{<link/annobon>}}
 * Boa Vista Republic
-* Brava Republic
-* Covoada Republic
+* {{<link/brava>}}
+* {{<link/cavoada>}}
 * Fogo Republic
 * {{<link/java>}}
 * Maio Republic
 * Moroços Republic
 * Praia Republic
-* Principe Republic
+* {{<link/principe>}}
 * Sal Republic
 * Viana Republic
 {{</note>}}
