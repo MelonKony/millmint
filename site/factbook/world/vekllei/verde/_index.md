@@ -45,6 +45,6 @@ Life in the Verde Commonwealth is mostly municipal, characterised by communal la
 * Moroços Republic
 * Praia Republic
 * {{<link/principe>}}
-* Sal Republic
-* Viana Republic
+* {{<link/sal>}}
+* {{<link/viana>}}
 {{</note>}}

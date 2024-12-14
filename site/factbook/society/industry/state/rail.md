@@ -1,6 +1,6 @@
 ---
 title: CommRail
-fulltitle: Commonwealth National Rail
+fulltitle: Commonwealth Rail
 icon: 🚇
 logo: /svg/logos/rail.svg
 image: /images/orange.jpg
@@ -17,12 +17,8 @@ aliases:
  Part of the *[industry](/industry/)* series of articles
 {{</note>}}
 
-{{<note panel >}}
-**This article** discusses one of the most important and visible organisations in everyday Vekllei life: Vekllei National Rail. Vekllei is criss-crossed by hundreds of different rail lines of various gauges, grades, and purposes. In fact, it runs many lines at a total loss, often under capacity. To understand these inefficiencies is to understand why the National Rail exists, and to some extent, how Vekllei's state assets and powerful bureaus shape life in the country today.
-{{</note>}}
-
 {{<infobox/company
-   Name="Commonwealth National Rail"
+   Name="Commonwealth Rail"
    Logo="/svg/logos/rail.svg"
    Type="State"
    Ministry="Commons"
@@ -36,11 +32,17 @@ aliases:
 
 ## Overview
 
-<span class="fi fi-min-rail fis"></span> **Commonwealth National Rail** (CNR, or *CommRail*) is a catch-all trademark for national rail operators in {{<link/vekllei>}}. It commonly refers the hundreds of municipal transport companies operating under CommRail administration, which together make up a public monopoly on rail transport in the country.
+<span class="fi fi-min-rail fis"></span> **Commonwealth Rail** (trading as *CommRail* or CNR) is the national rail transport operator in {{<link/vekllei>}}. It is a complex organisation federalised across dozens of municipal operators under common administration and branding, and accounts for almost all rail transport in the country.
 
-Vekllei National Railway A.r.R. and its sister companies, like Vekllei Metro, are structured within the service-oriented Railways Bureau. More precisely, Vekllei National Rail encompasses several different bureaus that operate, design, maintain and communicate rail service in the country, which itself is further included under the Transport Requisite of the Vekllei Government.
+CommRail is unlike basically any other transport company in the world because of a unique confluence of factors. For CommRail, these include its service ubiquity, corporate complexity and network diversity in its operations and systems.
 
-Like most critical organisations of Vekllei, the structure and directorship of Vekllei National Rail is complex, but can be simplified by understanding that all rail transport in the country is ultimately the responsibility of an organisation called Vekllei National Rail, and it is towards this organ that this article is addressed. Today, the National Rail operates nearly 20,000km of track, indicating the density of the rail service it provides, and services nearly 20 million people each day through its network. It is administered and operated by the {{<link/bureau-of-rail>}}.
+1. **Service ubiquity**: For many Vekllei people, CommRail transport is the primary way by which they get about. They generally do not drive and rely heavily on public service to commute and travel. Because of this, CommRail service networks are much denser than those overseas.
+2. **Corporate complexity**: At a national level, CommRail functions much like other state-owned corporations. However, much like the Commonwealth {{<link/government>}}, CommRail is a federal organisation that comprises constituent municipal corporations that better meet local needs.
+3. **Network diversity**: Vekllei is among the most geographically diverse countries in the world and comprises 78 different republics. CommRail has a network presence across all of them, which range from cable railways on tropical islands to trams in the polar regions.
+
+It is difficult to understate the scope of the CommRail network. Visitors can look to its cultural relevance in commonwealth society, and how important its services are to their lives. There are nearly 5,000 electric multiple units in {{<link/oslola>}} alone. Nearly every type of rail transport is represented, and in significant quantity. The diversity of the CommRail fleet is also unparalleled, and includes revenue service of both steam locomotives and high-speed maglevs each day. But each of these only gestures towards its overall outline; the real importance of CommRail as an organisation is as a pillar of society; a provider of an essential trait of commonwealth society. Vekllei is not just a place with a lot of trains, but in fact a railgoing nation. Their assumptions and beliefs about democracy, accessibility, connectivity and a national civic identity all fold back into CommRail in one way or another.
+
+The headquarters of CommRail are located in Pharos, {{<link/oslola>}}, the site of the country's first railway. The administration of the company far exceeds its headquarters, however, and there is a corporate presence on nearly every Vekllei [republic](/republics/). About 20 million people each day pass through its network in one place or another. The company is administered and operated by the {{<link/bureau-of-rail>}}.
 
 
 ### Introduction

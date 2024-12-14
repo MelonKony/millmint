@@ -121,7 +121,7 @@ There are a few criteria separating republics from regular local government. The
 	* Moroços Republic (*Santo Antao*)
 	* Praia Republic (*Santiago*)
 	* {{<link/principe>}} (*Sao Tome & Principe*)
-	* Sal Republic (*Sal*)
+	* {{<link/sal>}} (*Sal*)
 	* {{<link/viana>}} (*Sao Vicente*)
 
 * **{{<link/volcanic>}}**

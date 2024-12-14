@@ -145,6 +145,7 @@ Commonwealth federal academies are research universities comprising dozens of fa
 ## Constituent Universities
 
 * **International United University**: Autonomous international and federal university featuring colleges from 70 countries, with its main campus in {{<link/oslola>}}.
+* **[National Levantine Theological University](/nltu/)**: Prestigious, multi-faith theological research university specialising in early Abrahamic faiths, located in {{<link/sal>}}.
 * **Commonwealth University**: Largest and oldest university in Vekllei, dating back to the 13th Century.
 * **Commonwealth University of the West Indies**: Oldest Caribbean university headquartered in {{<link/antigua>}}.
 * **Darwin College**: New university of the {{<link/verde>}}, with its main campus in {{<link/java>}}.

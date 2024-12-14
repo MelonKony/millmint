@@ -3539,6 +3539,12 @@ ol.timeline .event {
 .fi-viana.fis {
   background-image: url(../svg/flags/1x1/viana.svg); }
 
+.fi-sal {
+  background-image: url(../svg/flags/4x3/sal.svg); }
+
+.fi-sal.fis {
+  background-image: url(../svg/flags/1x1/sal.svg); }
+
 .fi-brava {
   background-image: url(../svg/flags/4x3/brava.svg); }
 

@@ -6,12 +6,14 @@ icon: 🚀
 emoji:
 color: green
 
+image: /images/fullres/astroport.jpg
+
 aliases:
 - /astroport/
 - /cosmodrome/
 ---
 {{<note series>}}
- This article is about a place in {{<link/vekllei>}}
+ This article is about a [place](/places/) in {{<link/vekllei>}}
 {{</note>}}
 
 The Vekllei World Astroport is the largest spaceport of {{<link/vekllei>}} and the primary link to the Vekllei Lunar Territories. It is a combined civilian, military and research spaceport located on {{<link/ascension>}} that launches around eight flights a day to the moon via [SSTOs](/stories/lightbulb/).
