@@ -33,7 +33,9 @@ The school is famous for its tranquil grounds and peaceful quality, despite the 
 * Samaritan School
 
 * Zaydist School
+* Twelver School
 * Ismaili School
+* Druze School
 * Sunni School
 * Sufist School
 * Dawoodi Bohra School
