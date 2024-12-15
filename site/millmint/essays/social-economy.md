@@ -19,7 +19,7 @@ This project is grounded in the real world, and so it attempts to answer real-wo
 {{<note panel>}}
 **Key Facts**
 
-* I am aware of how outrageous the premise of a moneyless society is -- taking it seriously and engaging with it is the joy of working on this project.
+* You don't have to tell me moneylessness is a crazy idea -- I'm well aware. Taking it seriously and engaging it head-on is the joy of working on this project.
 * Vekllei people are not more altruistic, selfless or generous than your average person, but they do have strong social bonds and codependent communities compared to most urban societies.
 * They live lives that are materially poorer but socially richer, and have access to quality essential goods like housing, food, education and clothing.
 * Their society has social illnesses like any other, and its economy is imperfect and has gaps. This austerity is a characteristic of their lives and a concession of the *commons* system.
@@ -33,31 +33,31 @@ This project is grounded in the real world, and so it attempts to answer real-wo
 
 If you put aside your hesitations about the "moneyless" aspect of Vekllei and actually think how you spend your time, you might realise we already do a lot of work for no money at all.
 
-* For the things we own and the places we live, functioning adults spend a lot of time maintaining their things and cleaning.
+* We aren't paid for personal maintenance -- cooking and cleaning and repairing.
+* We aren't paid doing favours for friends and family, or donating blood or volunteering with the fire brigade.
+* We aren't paid for self-improvement, for study, or for exercise.
 
-* For the relationships we have, we might do favours for friends or even volunteer our time or blood for the health of our communities.
+All these things are work, but they're not what we typically call "work." The reasons we do these things anyway are self-evident; they don't need to be justified by money or a wage. We do these things for entertainment, gratification, self-improvement or because it needs to be done. Vekllei people work for entertainment, gratification, self-improvement or because it needs to be done.
 
-* For things we do to improve ourselves, some of us pay to study or exercise, which we understand benefit us in meaningful ways.
+Obviously, this does not mean most people are going to go out and wait tables, manage an office or work construction for free. You don't need to be told why because, chances are, you have a job and you know what it's like. Some lucky people love what they do, but most others just need the money. Everything else is just ancillary.
 
-Obviously, this does *not* mean most people are going to go out and wait tables, manage team projects or work construction for free. Employment can suck for reasons we're all aware of -- bosses, coworkers, boring, tedious and hard work, commutes, and feelings of interchangeability and worthlessness. Most have things they'd rather do -- sleep in, relax, socialise, travel or play video games.
-
-By extension, any moneyless economy would be doomed to fail immediately on these grounds. But this also assumes that,
+Naturally -- clever as you are about human nature -- you'll recognise that a moneyless economy would be doomed to fail on these grounds. Absenteeism would be immediate and absolute; nothing would get done; society would collapse. But this only assumes that
 
 1. work is the same
-2. it occupies the same role in people's lives
-3. people in Vekllei think of work in this sense
+2. people treat work the same
+3. people in Vekllei think of work as we do
 
-This is where Vekllei distinguishes itself from employment overseas. Their required work is minimised by society at great expense, and the kinds of jobs people do are different to the kinds of jobs overseas. Their roles are both more important and less demanding, and employment has a huge social dynamic. Their jobs are important social indicators, and there's a lot of diversity in the Vekllei market. Ambitious people have paths to power, but many people find work in their community.
+It is true that Vekllei and its world is a little more advanced than our own, and this is a natural conceit of the setting. But these advances alone would not invite a social economy as depicted on this site. What is just important is a change in psychology; a restructuring of work to ease its burden and maximise its benefits. Their jobs are more important and less demanding. The social aspect of employment is amplified or diminished as preferred. And above all, they are social indicators for a proud culture. It is something to do.
 
 {{<note>}}
 **Example**
 
-A good analogy for the broad Vekllei attitude towards work might be schooling. School can be boring, tedious or painful, but it can also be rewarding, engaging and social. We don't get paid to go to school, because we have different motivations in attending.
+While education can be boring, tedious or stressful, it can also be rewarding, engaging and social. We don't get paid to go to school, because we have different motivations in attending.
 
-In many places, school is compulsory, but it is also a recognised social good, and benefits us. While work in Vekllei is different in many aspects, their attitude towards it is often similar -- rather than a net negative that demands a wage, work is often a means to further different ambitions or even just occupy time with friends.
+The general attitude towards going to work in Vekllei might be ours going to school. The alarm goes off -- sometimes two or three times -- but education is ultimately worth it. Rather than a net negative that demands a wage, work in Vekllei is often a means to further different ambitions or even just occupy time with friends.
 {{</note>}}
 
-The premise is that Vekllei is a place in which work is motivated by social rather than material factors. Taking that axiom as true for a minute, we can explore methods in which it might work.
+The premise is that Vekllei is a place in which work is motivated by social rather than material factors. Taking that axiom as true for a minute, we can explore ways in which it might work.
 
 ### What does a social economy look like?
 
