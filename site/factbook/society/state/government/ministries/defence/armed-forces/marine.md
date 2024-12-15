@@ -172,8 +172,8 @@ Regional Littoral Service command based at {{<link/ns-java>}}.
 
 **Customs Cutters**
 * 1 Medium Customs Cutter
-* 2 Fast Response Customs Hydrofoils ({{<link/java>}}, {{<link/annobon>}})
-* 2 Coastal Patrol Vessels
+* 2 [*Municipal*](/municipal-class/)-class Fast Response Hydrofoils {{<link/java>}} {{<link/annobon>}}
+* 2 [*Wake*](/wake-class/)-class Patrol Motor Launches {{<link/annobon>}} {{<link/principe>}}
 
 **Utility Vessels**
 
@@ -205,8 +205,8 @@ It is headquartered at {{<link/ns-falklands>}} with an auxiliary naval station a
 **Customs Cutters**
 * 1 Frigate Customs Cutter
 * 4 Medium Customs Cutters
-* 4 Fast Response Customs Hydrofoils
-* 1 Coastal Patrol Vessel
+* 4 [*Municipal*](/municipal-class/)-class Fast Response Hydrofoils {{<link/falklands>}} {{<link/sude>}} {{<link/santes>}} {{<link/helena>}}
+* 1 [*Wake*](/wake-class/)-class Patrol Motor Launch {{<link/sude>}}
 
 **Utility Vessels**
 * 1 Harbour Tugboat
@@ -228,9 +228,9 @@ Most of the naval policing in the {{<link/kalina>}} is expended in anti-piracy, 
 * 1 Frigate Customs Cutter
 * 2 Medium Customs Cutters
 * 1 Search and Rescue Vessel
-* 4 Fast Response Customs Hydrofoils
+* 4 [*Municipal*](/municipal-class/)-class Fast Response Hydrofoils {{<link/kairi>}} {{<link/barbados>}} {{<link/virgin>}} {{<link/aloi>}}
 * 1 Air Cutter
-* 2 Coastal Patrol Vessels
+* 2 [*Wake*](/wake-class/)-class Patrol Motor Launches {{<link/grenadines>}} {{<link/anguilla>}}
 * 1 Search and Rescue Vessels
 * 3 Hovercraft Cutters
 
@@ -247,8 +247,8 @@ Most of the naval policing in the {{<link/kalina>}} is expended in anti-piracy, 
 Regional Littoral Service command based at the capital port in the {{<link/caimanas>}}. The local harbours in the ABC islands also have a handful of small vessels, mostly employed in border policing and anti-narcotics operations.
 
 **Customs Cutters**
-* 3 Fast Response Customs Hydrofoils {{<link/aruba>}} {{<link/caimanas>}}
-* 1 Coastal Patrol Vessel {{<link/caimanas>}}
+* 3 [*Municipal*](/municipal-class/)-class Fast Response Hydrofoils {{<link/aruba>}} {{<link/caimanas>}}
+* 1 [*Wake*](/wake-class/)-class Patrol Motor Launch {{<link/caimanas>}}
 * 4 Hovercraft Cutters {{<link/aruba>}} {{<link/bonaire>}} {{<link/curacao>}}
 
 **Utility Vessels**
@@ -264,8 +264,9 @@ Regional Littoral Service command based at Nema. The primary concern of the comm
 
 **Customs Cutters**
 * 1 Medium Customs Cutter
-* 3 Fast Response Customs Hydrofoils
+* 3 [*Municipal*](/municipal-class/)-class Fast Response Hydrofoils {{<link/bahama>}} {{<link/habacoa>}} {{<link/caicos>}}
 * 1 Fast Patrol Boats
+* 3 [*Wake*](/wake-class/)-class Patrol Motor Launches {{<link/bahama>}} {{<link/curateo>}} {{<link/caicos>}}
 * 6 Hovercraft Cutters
 
 **Utility Vessels**
@@ -279,7 +280,7 @@ Regional Littoral Service command based at {{<link/summers>}}.
 
 **Customs Cutters**
 * 1 Medium Customs Cutter
-* 2 Fast Response Customs Hydrofoils
+* 2 [*Municipal*](/municipal-class/)-class Fast Response Hydrofoils {{<link/summers>}}
 * 1 Search and Rescue Vessel
 * 1 Fast Patrol Boat
 
@@ -298,9 +299,9 @@ Its headquarters are in {{<link/ns-oslola>}}. Its primary concerns are illegal f
 **Customs Cutters**
 * 2 Frigate Customs Cutters
 * 6 Medium Customs Cutters
-* 2 Fast Response Customs Hydrofoils
+* 2 [*Municipal*](/municipal-class/)-class Fast Response Hydrofoils {{<link/oslola>}} {{<link/aismious>}}
 * 1 Air Cutter
-* 4 Coastal Patrol Vessels
+* 1 [*Wake*](/wake-class/)-class Patrol Motor Launch {{<link/hetland>}}
 * 2 Search and Rescue Vessels
 * 1 Fast Patrol Boat
 * 1 Hovercraft Cutters
@@ -322,7 +323,7 @@ Regional Littoral Service command based at {{<link/kala>}}.
 
 **Customs Cutters**
 * 1 Medium Customs Cutter
-* 2 Coastal Patrol Vessels
+* 2 [*Wake*](/wake-class/)-class Patrol Motor Launches {{<link/kala>}}
 * 1 Search and Rescue Vessel
 * 2 Fast Patrol Boats
 
@@ -340,7 +341,7 @@ Regional Littoral Service command based at {{<link/helvasia>}}. Helvasia has ong
 
 **Customs Cutters**
 * 1 Medium Customs Cutter
-* 1 Coastal Patrol Vessel
+* 1 [*Wake*](/wake-class/)-class Patrol Motor Launch {{<link/helvasia>}}
 * 1 Search and Rescue Vessel
 * 1 Hovercraft Cutter
 
