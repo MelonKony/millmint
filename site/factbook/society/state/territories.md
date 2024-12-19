@@ -20,7 +20,7 @@ aliases:
 
 Territories, dependencies and autonomous regions are administrative areas of the Commonwealth that are not considered [Constituent](/constituents/) members. This is usually because they lack a large permanent population able to form its own [Assembly](/assembly/), or otherwise form part of a special administrative territory that has been federalised.
 
-As non-constituents, they are unable to form Sords and have permanent observer status in the {{<link/council>}}. These territories include:
+As non-constituents, they are unable to form Sords and have permanent observer status in the [[council|Commonwealth Council]]. These territories include:
 
 **Vekllei Federal Territories**
 

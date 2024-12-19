@@ -8,5 +8,5 @@ autonumbering: false
 
 ---
 {{<note gray>}}
-Astrid Beaufoy works for the {{<link/bureau-of-housing>}} with [Laura](/characters/laura). She loves her job.
+Astrid Beaufoy works for the [[Bureau of Housing]] with [Laura](/characters/laura). She loves her job.
 {{</note>}}

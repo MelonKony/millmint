@@ -13,14 +13,14 @@ aliases:
 {{</note>}}
 
 {{<note panel>}}
-The Commonwealth *parliaments* are a superior kind of [ministry](/ministries/) in {{<link/vekllei>}}. They form universal policy and legislation in key federal Commonwealth concerns, and are not duplicated across subnational governments as regular ministries are. Instead, parliaments are the direct hand of the Commonwealth in ordinary life.
+The Commonwealth *parliaments* are a superior kind of [ministry](/ministries/) in [[Vekllei]]. They form universal policy and legislation in key federal Commonwealth concerns, and are not duplicated across subnational governments as regular ministries are. Instead, parliaments are the direct hand of the Commonwealth in ordinary life.
 {{</note>}}
 
 {{<note panel>}}
-* {{<link/parliament-of-community>}}
-* {{<link/parliament-of-civics>}}
-* {{<link/parliament-of-democracy>}}
-* {{<link/parliament-of-health>}}
-* {{<link/parliament-of-education>}}
-* {{<link/parliament-of-security>}}
+* [[Community Parliament]]
+* [[Civic Parliament]]
+* [[Democracy Parliament]]
+* [[Health Parliament]]
+* [[Education Parliament]]
+* [[Security Parliament]]
 {{</note>}}

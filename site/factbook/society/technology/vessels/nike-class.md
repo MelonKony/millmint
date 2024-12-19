@@ -24,7 +24,7 @@ aliases:
 	InService="6"
 >}}
 
-The **Nike-class Missile Cruiser** is a class of cruiser of the {{<link/marine>}} of {{<link/vekllei>}}. It was designed as a strategic offensive fleet component with multi-role capabilities, primarily focusing on fleet air defence and limited anti-submarine warfare. They were commissioned and constructed at Oslola Naval Docks beginning in 2025, and offer a robust platform for command and control operations across Vekllei's far-flung Atlantic territories. The home station of the class is {{<link/ns-verde>}}.
+The **Nike-class Missile Cruiser** is a class of cruiser of the [[marine|Marine Services]] of [[Vekllei]]. It was designed as a strategic offensive fleet component with multi-role capabilities, primarily focusing on fleet air defence and limited anti-submarine warfare. They were commissioned and constructed at Oslola Naval Docks beginning in 2025, and offer a robust platform for command and control operations across Vekllei's far-flung Atlantic territories. The home station of the class is [[ns-verde|Naval Station Verde]].
 
 Powered by a nuclear steam propulsion system, the *Nike*-class can sustain prolonged deployments with minimal logistical support, though they almost always serve as a fleet component. Its maximum speed of 30 knots allows for rapid repositioning in response to emerging threats. The ship's displacement of 9,500 tons provides ample space for advanced weaponry and onboard facilities, and houses around 250 crew.
 

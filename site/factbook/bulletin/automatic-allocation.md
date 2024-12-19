@@ -26,7 +26,7 @@ Part of the *[bulletin](/bulletin/)* series of articles
 * This is how, despite running huge deficits of production, Vekllei remains economically competitive, and has [extremely high economic productivity](/bulletin/productivity/).
 {{</note>}}
 
-{{<link/vekllei>}} is known for its robotics and automatic systems, often controlled by computers. This is not because those things are unique to Vekllei -- they are widely available overseas, and robots were invented in East Germany -- but because they are so visible. Because of the value and fragility of robots, they are usually sequestered in sterile environments where they make economic sense. Robots are a tool of high-end manufacturing: fabricating cars, computers and medicines.
+[[Vekllei]] is known for its robotics and automatic systems, often controlled by computers. This is not because those things are unique to Vekllei -- they are widely available overseas, and robots were invented in East Germany -- but because they are so visible. Because of the value and fragility of robots, they are usually sequestered in sterile environments where they make economic sense. Robots are a tool of high-end manufacturing: fabricating cars, computers and medicines.
 
 This logic is intuitive to anyone. They are expensive, and on an industrial scale, require massive investment upfront. The price of labour in many contexts is much cheaper, and so the market naturally orders itself -- high-end manufacturing uses robots to replace high-skill and error-prone labour, and low-end manufacturing (textiles, agriculture, construction) is performed by people.
 

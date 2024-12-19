@@ -28,7 +28,7 @@ video:
 Astrid (left) likes her job. Laura (right) is only here because she dropped out of chemistry at Montre University.
 {{</note>}}
 
-Astrid and Laura are junior inspectors for the {{<link/bureau-of-housing>}}, which fields concerns from homeowners in municipalised homes.
+Astrid and Laura are junior inspectors for the [[Bureau of Housing]], which fields concerns from homeowners in municipalised homes.
 
 In Vekllei, land "owns itself" as a seperate entity, and state and private ownership are a contract with that land. As such, land ownership is an overlapping claim by these three agents.
 

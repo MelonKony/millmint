@@ -18,7 +18,7 @@ Imposing in both attitude and posture, Moise is feared and respected among his p
 
 * **<span class="navicon">💬</span> Name**: Moise Hasapis
 * **<span class="navicon">💼</span> Occupation**: Student
-* **<span class="navicon">🏠</span> Residence**: Seispri, Borough of Lola, {{<link/oslola>}}, {{<link/vekllei>}}
+* **<span class="navicon">🏠</span> Residence**: Seispri, Borough of Lola, [[Oslola]], [[Vekllei]]
 * **<span class="navicon">🔄</span> Age**: 16
 </details>
 

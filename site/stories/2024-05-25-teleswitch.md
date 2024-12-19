@@ -20,7 +20,7 @@ url: /stories/teleswitch/
 image: /images/fullres/teleswitch.jpg
 ---
 {{<note caption>}}
-[Astrid](/characters/astrid) and [Laura](/characters/laura/) (pictured) are coworkers at the {{<link/bureau-of-housing>}}.
+[Astrid](/characters/astrid) and [Laura](/characters/laura/) (pictured) are coworkers at the [[Bureau of Housing]].
 {{</note>}}
 
 A teleswitch is a portable switchboard, and lets you know when it's time to find a phone booth or videophone to take a call.

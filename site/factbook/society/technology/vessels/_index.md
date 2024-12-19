@@ -10,5 +10,5 @@ aliases:
 - /vessels/
 ---
 {{<note series>}}
-Read more: {{<link/marine>}}
+Read more: [[marine|Marine Services]]
 {{</note>}}

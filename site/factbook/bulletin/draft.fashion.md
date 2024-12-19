@@ -24,7 +24,7 @@ aliases:
 {{<note panel>}}
 **Summary**
 
-* {{<link/vekllei>}} is a diverse country, and has no single fashion or sense of style.
+* [[Vekllei]] is a diverse country, and has no single fashion or sense of style.
 * Nonetheless it is recognisable not for any single element but its broader democratic culture and motifs.
 * Vekllei fashion, like much of its culture, is complex and contradictory. It is modest, transgressive, progressive, conservative but ultimately often returns to a set of identifiably Vekllei cultural signals.
 {{</note>}}

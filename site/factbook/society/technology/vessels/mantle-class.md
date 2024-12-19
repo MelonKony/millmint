@@ -26,7 +26,7 @@ aliases:
 	InService="6"
 >}}
 
-The **Mantle-class Ballistic Missile Submarine** is a class of submarine of the Maritime Service of the {{<link/marine>}} of {{<link/vekllei>}}. The class was designed to serve as a strategic deterrent, capable of launching nuclear-armed ballistic missiles from underwater and ensuring Vekllei's second-strike capability. With a submerged displacement of 18,000 tons and a length of 170 meters, the Mantle-class is the largest Vekllei submarine and is a cornerstone of its nuclear deterrent. Its home station is {{<link/ns-oslola>}}.
+The **Mantle-class Ballistic Missile Submarine** is a class of submarine of the Maritime Service of the [[marine|Marine Services]] of [[Vekllei]]. The class was designed to serve as a strategic deterrent, capable of launching nuclear-armed ballistic missiles from underwater and ensuring Vekllei's second-strike capability. With a submerged displacement of 18,000 tons and a length of 170 meters, the Mantle-class is the largest Vekllei submarine and is a cornerstone of its nuclear deterrent. Its home station is [[ns-oslola|Naval Station Oslola]].
 
 Powered by the same [*NMPR*](/nmpr/) hydromagnetic propulsion system as the smaller [*Capricorn*](/capricorn-class/)-class attack submarine, the *Mantle*-class can operate at submerged speeds of up to 30 knots. Its reactor allows it to remain submerged for extended periods, offering considerable operational flexibility and stealth in global patrol areas. A crew of 140 operates the submarine, including specialists in missile systems, nuclear operations, and submarine warfare.
 

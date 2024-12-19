@@ -13,7 +13,7 @@ aliases:
 - /madiana/
 ---
 {{<note series>}}
- Madiana is part of {{<link/vekllei>}} Kalina
+ Madiana is part of [[Vekllei]] Kalina
 {{</note>}}
 
 {{<infobox/country
@@ -30,7 +30,7 @@ aliases:
 	 Accession="1930, as part of the Alford Agreement"
  >}}
 
-The <span class="fi fi-madiana"></span> **Madiana Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} in the Caribbean. The name *Madiana* comes from the Taino word for "Island of Flowers," an appropriate name considering its natural beauty. The republic is extraordinarily diverse for an island of its size, measuring about 80km long. Large mountains dominate the northern half of the island, the tallest of which is an active volcano called Mount Palee.
+The <span class="fi fi-madiana"></span> **Madiana Republic** is a [constituent republic](/republics/) of [[Vekllei]] in the Caribbean. The name *Madiana* comes from the Taino word for "Island of Flowers," an appropriate name considering its natural beauty. The republic is extraordinarily diverse for an island of its size, measuring about 80km long. Large mountains dominate the northern half of the island, the tallest of which is an active volcano called Mount Palee.
 
 Madianans are a proud people, and represent a strong fusion of French and Creole cultures. The women have become consorts to kings, emperors and shahs; and its historic capital of Sainte Pierre was once the most cultured settlements in all the West Indies before its destruction. The republic's dramatic history, fine cuisine and love of music have made Madiana one of the most exotic and desirable communities in Vekllei -- although fully accessible only to those willing to learn a little French.
 
@@ -41,7 +41,7 @@ Most people today live in Fort Royal, a neat and pretty city centred around the 
 Madianans are good-natured and vibrant people, and celebrate any occasion with music and feasts. The republic is famous for its cuisine, fusing the cult of *haute cuisine* with Caribbean flavour, washed down with French wine and champagne or local rum. They love to dance the *béguine*, *merengue* or *mazurka*. They are also a deeply religious people, comprising mostly Roman Catholics, and host tremendous public celebrations throughout Mardi Gras, culminating in the burning of images of deities on the fourth day. In November, All Saints Day is celebrated by lighting candles on every grave on the island. They enjoy a variety of music, including the *béguine*, the *mazurka* and, on Ash
 Wednesday, the frenzy of the *diablesses*.
 
-Most Madianans are mixed-race (Creole), though there are European French, Indian and Chinese communities there too. Fort Royal is a busy city, and has good schools and hospitals. There is a {{<link/commoil>}} refinery in the capital, but the republic is most famous for its processed food. Although local agriculture is limited to municipal goods, many foods are shipped to Madiana for packaging and processing in its large automatic canning and refining facilities. Major exports include feed for livestock, fruit and vegetable tins, premade meals and soups and sugar and salt refining. The Energy Chemistry Division of the {{<link/LSRE>}} is headquartered there.
+Most Madianans are mixed-race (Creole), though there are European French, Indian and Chinese communities there too. Fort Royal is a busy city, and has good schools and hospitals. There is a [[oil|Commonwealth Oil]] refinery in the capital, but the republic is most famous for its processed food. Although local agriculture is limited to municipal goods, many foods are shipped to Madiana for packaging and processing in its large automatic canning and refining facilities. Major exports include feed for livestock, fruit and vegetable tins, premade meals and soups and sugar and salt refining. The Energy Chemistry Division of the [[LSRE]] is headquartered there.
 
 The island has good transport connections. There is a tourist steam train that travels daily to the ruins of Sainte Pierre, as well as modern electric railways that follow the southern coast to the capital. Most large towns have their own tram network, and ferries connect the republic to its neighbours. There is also an airport outside of Fort Royal, which includes search-and-rescue facilities for the Littoral Service.
 
@@ -78,7 +78,7 @@ Warm the year round. Rainy season from July to November. The capital is rather h
 - **Jardin de Balata**: A lush botanical garden featuring tropical plants, flowers, and treetop walkways with views of the surrounding rainforest.
 - **Anse d'Arlet**: A charming village known for its picturesque beach, vibrant coral reefs, and a waterfront church.
 - **Port of Fort Royal**: A major commercial and passenger port supporting cargo, ferry, and passenger ship traffic throughout the Caribbean.
-- **Chemical Energy Research Laboratories**: Fuel research laboratory operated by the {{<link/LSRE>}} in Fort Royal.
+- **Chemical Energy Research Laboratories**: Fuel research laboratory operated by the [[LSRE]] in Fort Royal.
 </details>
 
 

@@ -22,12 +22,12 @@ aliases:
 **Summary**
 
 * Vekllei's large and intricate civil service looks like a bureaucratic nightmare, but this appearance is misleading.
-* The foundation of {{<link/vekllei>}} public administration is the *office*, a small and agile team of professionals.
+* The foundation of [[Vekllei]] public administration is the *office*, a small and agile team of professionals.
 * In contrast to the consensus-lead and democratic political sphere, Vekllei's civil service is lead by experts with broad authority within their teams.
 * This understanding better reflects government as constellations of autonomous offices, which contributes to their effectiveness in public service.
 {{</note>}}
 
-It is easy to look at the dirigiste and intricate organisational diagrams of {{<link/vekllei>}} [government](/government/) and [industry](/industry/) and make assumptions about the bureaucratic nightmare it should be. Its neat and endless subdepartments fit that template well, right down to the names of ministerial departments: bureaus. But the truth is substantially more complicated, and Vekllei has a cultural and political priority towards efficient systems and outcomes.
+It is easy to look at the dirigiste and intricate organisational diagrams of [[Vekllei]] [government](/government/) and [industry](/industry/) and make assumptions about the bureaucratic nightmare it should be. Its neat and endless subdepartments fit that template well, right down to the names of ministerial departments: bureaus. But the truth is substantially more complicated, and Vekllei has a cultural and political priority towards efficient systems and outcomes.
 
 ![example diagram of vekllei government complexity](/svg/diagrams/government.png "Diagrams of Vekllei government often look like examples of a rigid and complex bureaucracy.")
 
@@ -46,7 +46,7 @@ As an example, the Office of Migrant Housing[^omh] comprises 15 people at the fe
 {{<note>}}
 **Example**
 
-The Office of Migrant Housing was concerned about an influx of new citizens in {{<link/java>}} moving en masse to other parts of the {{<link/verde>}} once the republic was fully federalised. This was a complicated project involving writing a policy factsheet for the regional Bureau of Housing and making arrangements for the construction of new residences as part of an existing renewal project.
+The Office of Migrant Housing was concerned about an influx of new citizens in [[Java]] moving en masse to other parts of the [[verde|Commonwealth Verde]] once the republic was fully federalised. This was a complicated project involving writing a policy factsheet for the regional Bureau of Housing and making arrangements for the construction of new residences as part of an existing renewal project.
 
 The project, including the necessary factsheets, planning, research and support was completed within six weeks, two weeks ahead of schedule. This case study demonstrates many aspects of a successful Vekllei office:
 
@@ -73,7 +73,7 @@ In Vekllei, almost all organisations are administered as autonomous divisions of
 
 This independence does not work perfectly or suit all kinds of work, and leans heavily on the office head as a competent director. There are many cases where a bad leader can sink a staff, and social relationships have social consequences. Nonetheless, these autonomous units of expertise within their central structure are unique in 21st-century public administration, and gives their public service an agile, innovative and occasionally chaotic character.
 
-[^omh]: The Office of Migrant Housing is part of the *Department of Community*, which is part of the {{<link/bureau-of-housing>}} of the {{<link/ministry-of-the-commons>}}. While this hierarchy is sequential, it does not indicate bureaucracy -- these different levels operate almost entirely independent of each other.
+[^omh]: The Office of Migrant Housing is part of the *Department of Community*, which is part of the [[Bureau of Housing]] of the [[Ministry of the Commons]]. While this hierarchy is sequential, it does not indicate bureaucracy -- these different levels operate almost entirely independent of each other.
 
 [^efficiency]: This interest in efficiency and independence is not the same thing as strict careerism or a workaholic culture, and their offices are informal and easygoing, so long as the work gets done at some point. Vekllei business is conducted as a social affair, punctuated by tea breaks and working lunches.
 

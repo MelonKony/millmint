@@ -30,15 +30,15 @@ aliases:
 	  Incorporation="SpA"
   >}}
 
-The <span class="fi fi-min-atlantis fis"></span> **Atlantis Company** S.p.A. is a bureau corporation in {{<link/vekllei>}} comprising most maritime logistics and shipping business in the country. Its member corporations, including state-owned {{<link/commonwealth-lines>}}, represent nearly monopoly power over the Vekllei shipping industry.
+The <span class="fi fi-min-atlantis fis"></span> **Atlantis Company** S.p.A. is a bureau corporation in [[Vekllei]] comprising most maritime logistics and shipping business in the country. Its member corporations, including state-owned [[Commonwealth Lines]], represent nearly monopoly power over the Vekllei shipping industry.
 
-Headquarted at the deepwater port in {{<link/cama>}}, Atlantis is heavily decentralised across Vekllei, and its fleet ranges from wooden trawlers to suezmax container flagships. Unlike other bureaus, constituent corporate branding usually takes precedence over the bureau, and the individual company flag flies above the Atlantis flag.
+Headquarted at the deepwater port in [[Cama]], Atlantis is heavily decentralised across Vekllei, and its fleet ranges from wooden trawlers to suezmax container flagships. Unlike other bureaus, constituent corporate branding usually takes precedence over the bureau, and the individual company flag flies above the Atlantis flag.
 
-Atlantis is listed on the {{<link/commsec>}} as NMC, and is ranked 7th on the [CRC/CSX 50](/ratings/).
+Atlantis is listed on the [[commonwealth-securities-exchange|Commsec]] as NMC, and is ranked 7th on the [CRC/CSX 50](/ratings/).
 
 {{<note panel>}}
 **Constituent Corporations of Atlantis S.p.A.**
-* {{<link/commonwealth-lines>}}
+* [[Commonwealth Lines]]
 * Kairi Marine
 * Atlantic International Shipping Company
 * Roma

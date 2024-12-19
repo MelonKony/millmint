@@ -25,7 +25,7 @@ video:
 The Astroport is a monument of Vekllei municipalist design.
 {{</note>}}
 
-Sketch of the [Vekllei World Astroport](/astroport/), the 3rd largest spaceport in the world located in {{<link/ascension>}} in the South Atlantic.
+Sketch of the [Vekllei World Astroport](/astroport/), the 3rd largest spaceport in the world located in [[Ascension]] in the South Atlantic.
 
 It is home to most of the national spacecraft fleet and offers commercial service to the moon twice a day.
 

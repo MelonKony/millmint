@@ -29,7 +29,7 @@ aliases:
 * Federalism in public expenditure in Vekllei follows similar patterns of autonomy as the rest of its system
 {{</note>}}
 
-The system of {{<link/government>}} in {{<link/vekllei>}} can be difficult to understand because it is very large, very complicated and without immediate comparison or precedent.
+The system of [[Government]] in [[Vekllei]] can be difficult to understand because it is very large, very complicated and without immediate comparison or precedent.
 
 Vekllei is a federal country, but the precise nature of its federalism is obscured by overlapping *de jure* and *de facto* sovereignty. The state has four basic levels of sovereign administration:
 

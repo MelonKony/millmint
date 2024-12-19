@@ -13,7 +13,7 @@ aliases:
 - /saba/
 ---
 {{<note series>}}
- Saba is part of {{<link/vekllei>}} Kalina
+ Saba is part of [[Vekllei]] Kalina
 {{</note>}}
 
 {{<infobox/country
@@ -30,11 +30,11 @@ aliases:
 	 Accession="2022, as part of the Curacao Treaty"
  >}}
 
-The <span class="fi fi-saba"></span> **Saba Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} in the Caribbean. The island forms the peak of a tall, undersea volcano, and is the smallest Vekllei republic by area at just 13 square kilometres. It is a few miles southeast of Soualiga, and has strong economic and cultural ties to its neighbour.
+The <span class="fi fi-saba"></span> **Saba Republic** is a [constituent republic](/republics/) of [[Vekllei]] in the Caribbean. The island forms the peak of a tall, undersea volcano, and is the smallest Vekllei republic by area at just 13 square kilometres. It is a few miles southeast of Soualiga, and has strong economic and cultural ties to its neighbour.
 
 All visitors to Saba are impressed by its dramatic shape, which rises conspicuously out of the sea. Mount Scenery, the extinct volcano which makes up its landmass, is fringed by steep sea cliffs. You can find the people of Saba in the crater of the volcano, living in the settlements that have sprung up there. They are both reached by winding, perilous roads or cable railway.
 
-The island was once home to the Ciboney, a kind of Taino people, but had been displaced by Arawaks by the 9th Century. Whatever became of them, the island was uninhabited by the time of European settlement in the 17th Century. Dutch families were sent from nearby {{<link/aloi>}} to settle the island shortly after, but were evicted by pirates serving the governor of Jamaica. In the centuries thereafter, the island produced a lot of sugar, indigo and rum in plantations mostly worked by slaves imported from Africa. It was also a haven for smugglers and pirates, since its steep cliffs and proximity to other {{<link/kalina>}} islands made it difficult to police. Over the years, many people have made Saba their home, including Irish exiled by King Charles I for instigating a rebellion over land in Ireland.
+The island was once home to the Ciboney, a kind of Taino people, but had been displaced by Arawaks by the 9th Century. Whatever became of them, the island was uninhabited by the time of European settlement in the 17th Century. Dutch families were sent from nearby [[Aloi]] to settle the island shortly after, but were evicted by pirates serving the governor of Jamaica. In the centuries thereafter, the island produced a lot of sugar, indigo and rum in plantations mostly worked by slaves imported from Africa. It was also a haven for smugglers and pirates, since its steep cliffs and proximity to other [[kalina|Commonwealth Kalina]] islands made it difficult to police. Over the years, many people have made Saba their home, including Irish exiled by King Charles I for instigating a rebellion over land in Ireland.
 
 The two towns of Saba, known as Windwardside and The Bottom, are where most people live. These are strikingly pretty towns in the white-walled Dutch Caribbean style, terraced up and down the hills of the island. The economy has very little export activity, and comprises some domestic goods and municipal gardening. Most famous are a local rum known as Saba Spice and a kind of lace, known as "Spanish work" (despite being drawn thread work). Both of these goods are generally made by townswomen, and a small amount are exported. They raise a lot of lamb and grow a lot of potatoes, which inform local cuisine.
 

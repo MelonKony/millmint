@@ -24,7 +24,7 @@ aliases:
 	InService="2"
 >}}
 
-The **Hera-class minelayer/minesweeper** is a class of anti-submarine patrol ship of the {{<link/marine>}} of {{<link/vekllei>}}. The class is a compact and highly manoeuvrable vessel designed for anti-submarine warfare (ASW) operations in both coastal and open waters. With a displacement of 1,500 tons and a length of 80 meters, it is smaller than traditional destroyers and designed specifically for detecting and engaging submarines.
+The **Hera-class minelayer/minesweeper** is a class of anti-submarine patrol ship of the [[marine|Marine Services]] of [[Vekllei]]. The class is a compact and highly manoeuvrable vessel designed for anti-submarine warfare (ASW) operations in both coastal and open waters. With a displacement of 1,500 tons and a length of 80 meters, it is smaller than traditional destroyers and designed specifically for detecting and engaging submarines.
 
 Powered by the small variant of the [*NMPR*](/nmpr/) marine nuclear propulsion system, the Palm-class can reach speeds of up to 35 knots, allowing it to move quickly in response to submarine threats. Its crew of 85 operates the various ASW systems onboard, which are the primary focus of the class’s design.
 

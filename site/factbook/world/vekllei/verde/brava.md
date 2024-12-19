@@ -15,7 +15,7 @@ aliases:
 - /brava/
 ---
 {{<note series>}}
-Brava is part of {{<link/verde>}}
+Brava is part of [[verde|Commonwealth Verde]]
 {{</note>}}
 
 {{<infobox/country
@@ -32,7 +32,7 @@ Brava is part of {{<link/verde>}}
 	 Accession="1945, as part of the British Atlantic Territories"
  >}}
 
-The <span class="fi fi-brava"></span> **Brava Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} in the Atlantic, found at the southern tip of the inward crescent of the Cabo Verde archipelago. It is the smallest island of the archipelago, and is much greener than its neighbours. It measures about 10km across, and its silhouette is dominated by Monte Fontainhas, which slopes down to a coastline largely fringed by cliffs.
+The <span class="fi fi-brava"></span> **Brava Republic** is a [constituent republic](/republics/) of [[Vekllei]] in the Atlantic, found at the southern tip of the inward crescent of the Cabo Verde archipelago. It is the smallest island of the archipelago, and is much greener than its neighbours. It measures about 10km across, and its silhouette is dominated by Monte Fontainhas, which slopes down to a coastline largely fringed by cliffs.
 
 Only about 15,000 people live there, and most of them live in the capital of Nova Sintra. The town was originally settled on the coast, but was forced inland by regular pirate raids that devastated early life there. Many Bravans are descended from neighbouring Fogo, and fled after much of the island was overcome by lava floes in the late 17th Century. In the 18th Century, the island mostly exported textile dyes, and also served as an important port for whaling operations around the Azores and Canary island groups.
 

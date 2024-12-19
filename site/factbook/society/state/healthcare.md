@@ -21,7 +21,7 @@ aliases:
 
 ## Overview
 
-As elsewhere in {{<link/vekllei>}}, healthcare is centralised in planning and standards and decentralised in delivery. Each [republic](/constituents/) has a National Health Service which governs regional policy.
+As elsewhere in [[Vekllei]], healthcare is centralised in planning and standards and decentralised in delivery. Each [republic](/constituents/) has a National Health Service which governs regional policy.
 
 Almost all healthcare available in Vekllei comes through public financing and providers. There are two private hospitals in the country which provide specialised care to foreigners.
 
@@ -69,7 +69,7 @@ Healthcare delivery costs are often opaque in Vekllei's integrated health system
 ## Role of Government
 
 {{<note advice>}}
-Main article: {{<link/parliament-of-health>}}
+Main article: [[Health Parliament]]
 {{</note>}}
 
 Public healthcare is integrated into Vekllei's cascading federal system. National Health Authorities (NHAs) are tasked with local policy and the delivery of most care, including health promotion programmes and the administration of hospitals. The federal Health Secretariat designs commonwealth policy, and conducts most health planning and research. The federal health authorities also purchase foreign imports necessary for domestic healthcare, including the Community Pharmacy Agreements (CPA) which negotiate foreign medicine prices.

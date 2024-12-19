@@ -13,7 +13,7 @@ aliases:
 - /grenadines/
 ---
 {{<note series>}}
- Grenadines is part of {{<link/vekllei>}}
+ Grenadines is part of [[Vekllei]]
 {{</note>}}
 
 {{<infobox/country
@@ -30,7 +30,7 @@ aliases:
 	 Accession="1930, as part of the Alford Agreement"
  >}}
 
-The <span class="fi fi-grenadines"></span> **Grenadines Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} in the Caribbean. It is an archipelago of small islands scattered across a bank stretching between Yolouca in the north to {{<link/cama>}} in the south. It comprises some 600 islands and islets, most of which are uninhabited. Their low economic value to the British, who exerted control over them in the 18th Century, has left them surprisingly remote considering their adjacency to major Vekllei republics.
+The <span class="fi fi-grenadines"></span> **Grenadines Republic** is a [constituent republic](/republics/) of [[Vekllei]] in the Caribbean. It is an archipelago of small islands scattered across a bank stretching between Yolouca in the north to [[Cama]] in the south. It comprises some 600 islands and islets, most of which are uninhabited. Their low economic value to the British, who exerted control over them in the 18th Century, has left them surprisingly remote considering their adjacency to major Vekllei republics.
 
 Just as pirates and smugglers once found a haven in the hundreds of islands in the Grenadines, today the republic remains a destination for ambitious homesteaders, fisherman and transient sailors. The restructuring of property law under Commonwealth [federalisation](/federalisation/) has made the precise ownership of many of the islands more obscure, and so many of them thrive as minor communal agricultural settlements or even private islands. There is a real sense there that, with hard work, you can establish a paradise for yourself there.
 

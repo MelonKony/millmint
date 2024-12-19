@@ -13,7 +13,7 @@ aliases:
 - /aismious/
 ---
 {{<note series>}}
- Aismious is part of the {{<link/volcanic>}}
+ Aismious is part of the [[volcanic|Commonwealth Volcanic]]
 {{</note>}}
 
 {{<infobox/country
@@ -29,13 +29,13 @@ aliases:
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 
-The <span class="fi fi-fo"></span> **Aismious Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} in the North Atlantic Ocean. It comprises a group of 17 inhabited islands between {{<link/oslola>}} and {{<link/hetland>}}, as well as numerous islets and reefs. The people there are mostly of Celtic-Scandinavian stock descended from Irish settlers and Norsemen. The republic is known for its conspicuous and perpendicular cliffs and flat summits, and its gothic medieval cathedral in the village of Magnus.
+The <span class="fi fi-fo"></span> **Aismious Republic** is a [constituent republic](/republics/) of [[Vekllei]] in the North Atlantic Ocean. It comprises a group of 17 inhabited islands between [[Oslola]] and [[Hetland]], as well as numerous islets and reefs. The people there are mostly of Celtic-Scandinavian stock descended from Irish settlers and Norsemen. The republic is known for its conspicuous and perpendicular cliffs and flat summits, and its gothic medieval cathedral in the village of Magnus.
 
-About a third of the population live in the capital and largest city, Thor's Harbour. The remainder live in small communities scattered across the islands, which are characterised by fjords, river valleys and dramatic volcanic terrain. The climate is mild, though rain and fog is common. Treeless, mossy and without indigenous land mammals or reptiles, the Aismious Islands have a stark, volcanic appearance similar to {{<link/oslola>}}.
+About a third of the population live in the capital and largest city, Thor's Harbour. The remainder live in small communities scattered across the islands, which are characterised by fjords, river valleys and dramatic volcanic terrain. The climate is mild, though rain and fog is common. Treeless, mossy and without indigenous land mammals or reptiles, the Aismious Islands have a stark, volcanic appearance similar to [[Oslola]].
 
 The economy remains dependent on cod fishing and raising livestock, though undersea oil drilling has recently begun and attracted investment in the capital. The islanders have a strong tradition of oral storytelling and history, which have carried stories for over a thousand years. Islanders speak Aismious, a language similar to Scandi-Oslolan with Celtic elements.
 
-The islands are serviced by hydrofoils and an water airport in the capital, as well as trams between the larger settlements. The headquarters of the {{<link/transport-laboratories>}} are located there.
+The islands are serviced by hydrofoils and an water airport in the capital, as well as trams between the larger settlements. The headquarters of the [[Transport Laboratories]] are located there.
 
 {{<note table>}}
 **Climate**

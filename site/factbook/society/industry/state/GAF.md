@@ -31,6 +31,6 @@ aliases:
 	 Incorporation="ScL"
  >}}
 
-<span class="fi fi-min-gaf fis"></span>  **Government Aircraft Factories** (known as *GA*, *Government Aircraft* or *The Factory*) is an aircraft manufacturer owned by the government of {{<link/vekllei>}}. It comprises the majority of aircraft research, development, testing and manufacturing in the country, and dominates civilian aerospace construction in Vekllei. It is also the oldest and most prestigious of the postwar aircraft development firms. It is a devolved corporation with plants and offices around Vekllei. It is independent from {{<link/cac>}} and has a general focus on civilian aerospace, and the two companies have a historic rivalry.
+<span class="fi fi-min-gaf fis"></span>  **Government Aircraft Factories** (known as *GA*, *Government Aircraft* or *The Factory*) is an aircraft manufacturer owned by the government of [[Vekllei]]. It comprises the majority of aircraft research, development, testing and manufacturing in the country, and dominates civilian aerospace construction in Vekllei. It is also the oldest and most prestigious of the postwar aircraft development firms. It is a devolved corporation with plants and offices around Vekllei. It is independent from [[cac|Commonwealth Aircraft Corporation]] and has a general focus on civilian aerospace, and the two companies have a historic rivalry.
 
-It trades on the {{<link/commsec>}} as GAF, and is the fourth largest aircraft manufacturer in the world by market cap.
+It trades on the [[commonwealth-securities-exchange|Commsec]] as GAF, and is the fourth largest aircraft manufacturer in the world by market cap.

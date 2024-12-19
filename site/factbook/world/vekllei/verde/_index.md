@@ -15,7 +15,7 @@ aliases:
 - /verde-commonwealth/
 ---
 {{<note series>}}
- The Volcanic Commonwealth is a [constituent](/constituents/) of {{<link/vekllei>}}
+ The Volcanic Commonwealth is a [constituent](/constituents/) of [[Vekllei]]
 {{</note>}}
 
 {{<infobox/country
@@ -28,23 +28,23 @@ aliases:
    Area="5,005 km²"
  >}}
 
-The <span class="fi fi-verde"></span> **Verde Commonwealth** (*Vekllei Verde*) is a [constituent commonwealth](/constituents/) of {{<link/vekllei>}}, comprising the Cabo Verde archipelago and the islands of Principe and Java, located off the west coast of Africa. The Cabo Verde island group has a desert climate, while the others are maritime and tropical. All are volcanic or igneous, and share striking terrain that gives each republic a unique character.
+The <span class="fi fi-verde"></span> **Verde Commonwealth** (*Vekllei Verde*) is a [constituent commonwealth](/constituents/) of [[Vekllei]], comprising the Cabo Verde archipelago and the islands of Principe and Java, located off the west coast of Africa. The Cabo Verde island group has a desert climate, while the others are maritime and tropical. All are volcanic or igneous, and share striking terrain that gives each republic a unique character.
 
 Life in the Verde Commonwealth is mostly municipal, characterised by communal landownership and smallholding agriculture. The most populous republics are more diverse, and host substantial regional industries including port facilities, commodities refining and manufacturing.
 
 {{<note panel>}}
 **Republics of the Verde Commonwealth**
 
-* {{<link/annobon>}}
+* [[Annobon]]
 * Boa Vista Republic
-* {{<link/brava>}}
-* {{<link/cavoada>}}
+* [[Brava]]
+* [[Cavoada]]
 * Fogo Republic
-* {{<link/java>}}
+* [[Java]]
 * Maio Republic
 * Moroços Republic
 * Praia Republic
-* {{<link/principe>}}
-* {{<link/sal>}}
-* {{<link/viana>}}
+* [[Principe]]
+* [[Sal]]
+* [[Viana]]
 {{</note>}}

@@ -21,6 +21,6 @@ image: /images/fullres/firetruck.jpg
 They're preparing for volcanic eruptions and nuclear war, so even urban ladder trucks are designed for dirt roads.
 {{</note>}}
 
-{{<link/civil-defence>}} has to prepare for almost every natural disaster imaginable, from hurricanes to polar storms. The unparalleled geographic diversity of the Atlantic country necessitates this kind of centralised and effective emergency system.
+[[Civil Defence]] has to prepare for almost every natural disaster imaginable, from hurricanes to polar storms. The unparalleled geographic diversity of the Atlantic country necessitates this kind of centralised and effective emergency system.
 
-The patterns on the truck are local cultural patterns of the island of {{<link/madiana>}}, in the Lesser Antilles. It's a constituent republic of the Commonwealth, and you can see its flag at the rear of the truck. They use patterns like this a lot as a cultural shorthand; a sort of language in itself.
+The patterns on the truck are local cultural patterns of the island of [[Madiana]], in the Lesser Antilles. It's a constituent republic of the Commonwealth, and you can see its flag at the rear of the truck. They use patterns like this a lot as a cultural shorthand; a sort of language in itself.

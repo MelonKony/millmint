@@ -30,6 +30,6 @@ aliases:
 	  Incorporation="ScL"
   >}}
 
-<span class="fi fi-min-starlines fis"></span>  **Commonwealth Starlines** (trading as *Starlines* or *CSA*) is the interstellar flag carrier of {{<link/vekllei>}} and a subsidiary of {{<link/air>}}. It provides civil space transport for tourists and industry, primarily to the Vekllei Lunar Territories. It maintains a fleet of six spaceplanes, known as *starliners*, that provide regular commercial service to the moon.
+<span class="fi fi-min-starlines fis"></span>  **Commonwealth Starlines** (trading as *Starlines* or *CSA*) is the interstellar flag carrier of [[Vekllei]] and a subsidiary of [[air|Commonwealth Airways]]. It provides civil space transport for tourists and industry, primarily to the Vekllei Lunar Territories. It maintains a fleet of six spaceplanes, known as *starliners*, that provide regular commercial service to the moon.
 
-CSA's home base is at the [Vekllei World Astroport](/cosmodrome/) in {{<link/ascension>}}. It is among the largest commercial space transport companies in the world, and the only one to provide subsidised commercial service.
+CSA's home base is at the [Vekllei World Astroport](/cosmodrome/) in [[Ascension]]. It is among the largest commercial space transport companies in the world, and the only one to provide subsidised commercial service.

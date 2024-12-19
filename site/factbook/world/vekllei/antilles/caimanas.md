@@ -15,7 +15,7 @@ aliases:
 - /caimanas/
 ---
 {{<note series>}}
- Summers is part of the {{<link/lucaya>}}
+ Summers is part of the [[lucaya|Commonwealth Lucaya]]
 {{</note>}}
 
 {{<infobox/country
@@ -32,11 +32,11 @@ aliases:
      Accession="1836, as part of the British Atlantic Territories"
  >}}
 
-The <span class="fi fi-caimanas"></span> **Republic of Caimanas** is a [constituent republic](/republics/) in the western Caribbean Sea, and part of the country of {{<link/vekllei>}}. It is a city-state archipelago of 3 main islands, of which Grand Caimana is the most developed. The archipelago lies 500km northwest of Jamaica, and south of Cuba.
+The <span class="fi fi-caimanas"></span> **Republic of Caimanas** is a [constituent republic](/republics/) in the western Caribbean Sea, and part of the country of [[Vekllei]]. It is a city-state archipelago of 3 main islands, of which Grand Caimana is the most developed. The archipelago lies 500km northwest of Jamaica, and south of Cuba.
 
-The islands were originally settled by pirates and shipwrecked sailors in the 17th Century, who found no indigenous population living there. The {{<link/uk>}} acquired the islands as part of the 1670 Treaty of Madrid, but were unable to exercise settlement until the 1730s. As was the case across most British Caribbean territories, slaves were brought to the Caimanas over the following two centuries until the abolition of the practice in 1833. The islands were briefly part of the Colony of Jamaica until the Jamaican Revolution in 1886, after which they became part of the British Atlantic Territories and eventually Vekllei.
+The islands were originally settled by pirates and shipwrecked sailors in the 17th Century, who found no indigenous population living there. The [[UK]] acquired the islands as part of the 1670 Treaty of Madrid, but were unable to exercise settlement until the 1730s. As was the case across most British Caribbean territories, slaves were brought to the Caimanas over the following two centuries until the abolition of the practice in 1833. The islands were briefly part of the Colony of Jamaica until the Jamaican Revolution in 1886, after which they became part of the British Atlantic Territories and eventually Vekllei.
 
-The islands have few natural resources and have to import much of their goods and construction material. Food is also imported, but programmes undertaken by the {{<link/bureau-of-agriculture>}} have supplemented imports through the development of large community gardens and light farms. Today, the local economy is dominated by professional services including education, training, the civil service and finance. The national {{<link/ratings>}} is headquartered there, as are a large number of other financial institutions in Vekllei. The island also sees some domestic tourism from other Vekllei republics, who come to see its dive sites and coral reefs.
+The islands have few natural resources and have to import much of their goods and construction material. Food is also imported, but programmes undertaken by the [[Bureau of Agriculture]] have supplemented imports through the development of large community gardens and light farms. Today, the local economy is dominated by professional services including education, training, the civil service and finance. The national [[ratings|Ratings Corporation]] is headquartered there, as are a large number of other financial institutions in Vekllei. The island also sees some domestic tourism from other Vekllei republics, who come to see its dive sites and coral reefs.
 
 Caimanas is the westernmost Vekllei republic, and in many ways carries on the culture of opportunism and independence that characterised its early years. It has a distinct local culture and lingua franca, called *Caimana English* influenced by West African and Guinea Coast languages. Locals go in for Anglo-Carib and Afro-Carib fare like cassava, jerk seasoning and meat pies. They consume a lot of seafood, mostly grouper and snapper.
 

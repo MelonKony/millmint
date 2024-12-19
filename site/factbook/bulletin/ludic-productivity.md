@@ -22,13 +22,13 @@ aliases:
 {{<note panel>}}
 **Summary**
 
-* The {{<link/vekllei>}} economy does not use money in everyday life, but this is not the only unusual thing about it.
+* The [[Vekllei]] economy does not use money in everyday life, but this is not the only unusual thing about it.
 * Vekllei people engage with work and employment primarily as a kind of *play* -- a self-justifying social activity done to narrativise actions or amuse themselves.
 * This 'playful work,' also called a *ludic economy*, has fundamental differences from work environments overseas.
 * Understanding its specifics helps illustrate the motivations and characteristics of the Vekllei worker, and why their society continues to function in a social economy.
 {{</note>}}
 
-Work in {{<link/vekllei>}} -- in fact, most factors of life in Vekllei -- is characterised by *play*. Play is a distinguishing characteristic of social creatures and it is all around us, even if we might not recognise it as such. It is not idealism or altruism; it is intuitive to every person, and like other basic social motivations does not need to be taught or conceptualised. We play for entertainment, gratification and fun. Vekllei people work for entertainment, gratification and fun.
+Work in [[Vekllei]] -- in fact, most factors of life in Vekllei -- is characterised by *play*. Play is a distinguishing characteristic of social creatures and it is all around us, even if we might not recognise it as such. It is not idealism or altruism; it is intuitive to every person, and like other basic social motivations does not need to be taught or conceptualised. We play for entertainment, gratification and fun. Vekllei people work for entertainment, gratification and fun.
 
 Yet bricks are still moved; the rubbish is collected; teachers show up in classrooms and clerks are at their desks. They produce forms of value for their country; physical labour, services, and yes, money-value. In this article we'll look at ludic productivity in Vekllei, its features, and how it informs the character of Vekllei society.
 
@@ -141,7 +141,7 @@ It seems that moneyless economics are functionally dependent on types of play. T
 
 Each of these things contribute to the nature of play as an economic form, but also reflect it as the outcome of independent, happy and dignified people. Rather than distracting from productivity, they contribute to it as the natural instinct of educated, satisfied people with not much else to do. Not all people are equally good and not all are equally productive, but so what?
 
-The real evidence is in their ways of living and the new society that facilitates it. Almost all the machines they use are designed by them, as are their cities, as are their clothes. They are produced mostly by robots, sometimes here, sometimes overseas. And on the days they aren't designing cars or cutting fabric, they can become a footballer, filmmaker or soldier for a day.
+The real evidence is in their ways of living and the new society that facilitates it. Almost all the machines they use are designed by them, as are their cities, as are their clothes. They are produced mostly by robots, sometimes here, sometimes overseas. And when they aren't designing cars or cutting fabric, they can become a footballer, filmmaker or soldier for a day.
 
 [^huizinga]: See also *Homo Ludens: A Study of the Play-Element in Culture*, 1938. This work is influential on Vekllei and is a useful reference for this article.
 [^automatic]: Vekllei industry is mostly automatic. This does not mean entirely without human workers, but typically people serve administrative and technical roles rather than assembly or maintenance work in industrial contexts.

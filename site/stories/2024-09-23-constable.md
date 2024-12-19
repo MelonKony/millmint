@@ -22,6 +22,6 @@ image: /images/fullres/police-constable.jpg
 Police constable ready to go.
 {{</note>}}
 
-Most types of police in {{<link/vekllei>}} carry swords (in the fashion of a blunt sabre like the one above) though you can choose to take an extendable baton or more commonly both.
+Most types of police in [[Vekllei]] carry swords (in the fashion of a blunt sabre like the one above) though you can choose to take an extendable baton or more commonly both.
 
 The sabres have a powerful intimidation effect that a taser or baton doesn’t, which can be very useful.

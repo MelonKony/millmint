@@ -13,7 +13,7 @@ aliases:
 - /sal/
 ---
 {{<note series>}}
-{{<link/sal>}} is part of {{<link/verde>}} in {{<link/vekllei>}}
+[[Sal]] is part of [[verde|Commonwealth Verde]] in [[Vekllei]]
 {{</note>}}
 
 {{<infobox/country
@@ -30,9 +30,9 @@ aliases:
 	 Accession="1945, as part of the British Atlantic Territories"
  >}}
 
-The <span class="fi fi-sal"></span> **Sal Republic** (literally "Salt") is a [constituent republic](/republics/) of {{<link/vekllei>}} in the Atlantic, and is the northeasternmost island of the Barlavento archipelago. It comprises a main island shaped roughly like a fish and a tiny, uninhabited islet of its west coast. The republic is particularly flat and dry, and much of its surface is made of red, sandy dirt exposed to trade winds. It is fringed by pretty beaches of white sand, and receives an extraordinary amount of sun per year.
+The <span class="fi fi-sal"></span> **Sal Republic** (literally "Salt") is a [constituent republic](/republics/) of [[Vekllei]] in the Atlantic, and is the northeasternmost island of the Barlavento archipelago. It comprises a main island shaped roughly like a fish and a tiny, uninhabited islet of its west coast. The republic is particularly flat and dry, and much of its surface is made of red, sandy dirt exposed to trade winds. It is fringed by pretty beaches of white sand, and receives an extraordinary amount of sun per year.
 
-The island was sparsely populated throughout much of the early colonial period, but drew permanent settlement after the establishment of a salt works near the modern settlement of Pedra Lume. This spurred a "salt rush" that saw the island's population grow rapidly. Other major settlements, including the capital of Santa Maria, are the legacy of the salt industry, which is mostly clustered around shallow, extinct volcanic craters. Although the industry saw significant decline during the 20th Century as major export markets were closed off by foreign protectionism, most of the major factories survive under municipal management in {{<link/vekllei>}}, and the republic is the largest domestic exporter of salt in the country.
+The island was sparsely populated throughout much of the early colonial period, but drew permanent settlement after the establishment of a salt works near the modern settlement of Pedra Lume. This spurred a "salt rush" that saw the island's population grow rapidly. Other major settlements, including the capital of Santa Maria, are the legacy of the salt industry, which is mostly clustered around shallow, extinct volcanic craters. Although the industry saw significant decline during the 20th Century as major export markets were closed off by foreign protectionism, most of the major factories survive under municipal management in [[Vekllei]], and the republic is the largest domestic exporter of salt in the country.
 
 The history of the republic contributes to its unique appearance today. Its major towns, including the capital, are quite pretty Portuguese colonial settlements improved by irrigation of street trees and municipal agriculture in the federal period. Outside of these dense communities is a wide, flat expanse of land without any major features except for salt ponds, their factories, and aerial tramways that criss-cross the island with buckets full of salt. Outside of the cities and their gardens, the republic is mostly treeless and barren.
 

@@ -13,7 +13,7 @@ aliases:
 - /barbary/
 ---
 {{<note series>}}
- Barbados is part of {{<link/kalina>}}
+ Barbados is part of [[kalina|Commonwealth Kalina]]
 {{</note>}}
 
 {{<infobox/country
@@ -30,11 +30,11 @@ aliases:
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 
-The <span class="fi fi-barbary"></span> **Barbary Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} on the northeast periphery of the Kalina archipelago, north of {{<link/antigua>}}. It is a flat, wooded coral island without a source of fresh water. Its capital and only settlement, Freetown, lies on the edge of Barbary Lagoon in the northwest.
+The <span class="fi fi-barbary"></span> **Barbary Republic** is a [constituent republic](/republics/) of [[Vekllei]] on the northeast periphery of the Kalina archipelago, north of [[Antigua]]. It is a flat, wooded coral island without a source of fresh water. Its capital and only settlement, Freetown, lies on the edge of Barbary Lagoon in the northwest.
 
 Originally inhabited by Arawaks, Barbary was known during the colonial period as Codrington's Island, named for the absentee family that operated it as a slave estate between the 17th and 19th centuries. It was never part of the sugar plantation system, and was struck by two major slave rebellions prior to the outlawing of slavery in the British Empire in 1834. After incorporation into the British Atlantic Territories, Codrington's formerly enslaved residents had autonomy from the dominion and established common farms and fishing grounds. Land during this period was held communally, a practice that continues in the present day. Most residents are black, descended from enslaved people, but there are growing populations of Verde whites and Chinese.
 
-Barbary has a small, close-knit community that works mostly in local agriculture and municipal goods. The civil service makes up most of its formal revenues, which operates a single hospital and a few schools. Most locals go to {{<link/antigua>}} for university. An airstrip in the south offers transport to larger airports as well as a base for recreational flying. Barbary has only has a single commuter rail service -- a tram from Freetown to Coco Point -- and bicycles and mopeds are typically used to get around. The interior of the island is well-wooded, and fringed by accessible beaches of high quality.
+Barbary has a small, close-knit community that works mostly in local agriculture and municipal goods. The civil service makes up most of its formal revenues, which operates a single hospital and a few schools. Most locals go to [[Antigua]] for university. An airstrip in the south offers transport to larger airports as well as a base for recreational flying. Barbary has only has a single commuter rail service -- a tram from Freetown to Coco Point -- and bicycles and mopeds are typically used to get around. The interior of the island is well-wooded, and fringed by accessible beaches of high quality.
 
 <details open>
 <summary>Points of Interest</summary>

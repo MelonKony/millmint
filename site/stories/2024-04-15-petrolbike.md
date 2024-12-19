@@ -23,4 +23,4 @@ image: /images/fullres/GINA.jpg
 Not many Vekllei people own cars, but they love their petrol-bikes.
 {{</note>}}
 
-{{<link/gina>}} is the most popular petrol-bike manufacturer in {{<link/vekllei>}}. The family that still owns Gina are actually legendary bike racers themselves, and sponsor racing events. Vekllei people use bicycles for work and recreation, but aside from athletes there isn't really a "bike culture" like we have in our own world.
+[[Gina]] is the most popular petrol-bike manufacturer in [[Vekllei]]. The family that still owns Gina are actually legendary bike racers themselves, and sponsor racing events. Vekllei people use bicycles for work and recreation, but aside from athletes there isn't really a "bike culture" like we have in our own world.

@@ -25,7 +25,7 @@ video:
 They wear the same Vekllei uniform with a few regional variations.
 {{</note>}}
 
-The {{<link/falklands>}} are part of {{<link/vekllei>}}, which is a confederation of constituent city-states in the Atlantic.
+The [[Falklands]] are part of [[Vekllei]], which is a confederation of constituent city-states in the Atlantic.
 
 Many islands of Vekllei are former subjects of the British Atlantic Territories, a former dominion of the British Empire.
 

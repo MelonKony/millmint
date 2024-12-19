@@ -11,14 +11,14 @@ autonumbering: false
 ---
 **Lin Zhi**, who prefers being addressed by her full name, is [Tzipora](/characters/tzipora/)'s friend and occasional accomplice. She is surly, independent and uninterested in the opinions of others. She meets Tzipora at [Moshel St School](/moshel/).
 
-Like Tzipora, Zhi is a recent immigrant and despises her parents for uprooting her life to live in {{<link/vekllei>}}, from which she has retreated into traditionally Chinese cultural dress and signals. Tzipora is fascinated by her. Cobian and Coretti fear her.
+Like Tzipora, Zhi is a recent immigrant and despises her parents for uprooting her life to live in [[Vekllei]], from which she has retreated into traditionally Chinese cultural dress and signals. Tzipora is fascinated by her. Cobian and Coretti fear her.
 
 <details>
 <summary>Factsheet</summary>
 
 * **<span class="navicon">💬</span> Name**: Lin Zhi
 * **<span class="navicon">💼</span> Occupation**: Student
-* **<span class="navicon">🏠</span> Residence**: Cossack, Borough of the Great Coast, {{<link/oslola>}}, {{<link/vekllei>}}
+* **<span class="navicon">🏠</span> Residence**: Cossack, Borough of the Great Coast, [[Oslola]], [[Vekllei]]
 * **<span class="navicon">🔄</span> Age**: 17
 </details>
 

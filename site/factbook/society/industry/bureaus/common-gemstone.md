@@ -30,7 +30,7 @@ aliases:
 	  Incorporation="SpA"
   >}}
 
-<span class="fi fi-min-gemstone fis"></span> **Common Gemstone** S.p.A. is a [bureau corporation](/bureaus/) in {{<link/vekllei>}} that manufacturers precious metals and some jewellery. Gemstones have broad industrial and commercial uses in Vekllei, and are exclusively synthesised to meet that demand. The company manufactures diamonds, sapphire, rubies, garnets and quartz for industrial and commercial applications, and an array of precious and semiprecious stones for commercial use and jewellery.
+<span class="fi fi-min-gemstone fis"></span> **Common Gemstone** S.p.A. is a [bureau corporation](/bureaus/) in [[Vekllei]] that manufacturers precious metals and some jewellery. Gemstones have broad industrial and commercial uses in Vekllei, and are exclusively synthesised to meet that demand. The company manufactures diamonds, sapphire, rubies, garnets and quartz for industrial and commercial applications, and an array of precious and semiprecious stones for commercial use and jewellery.
 
 Common Gemstone uses modern methods for gemstone synthesis, including liquid metal immersion and flux processes for different types of gemstones. Surplus product is exported overseas in batches, which often impacts on the tightly controlled gemstone market. The company has been litigated by gemstone cartels like De Beers after flooding the international market with unregistered and synthetic diamonds.
 

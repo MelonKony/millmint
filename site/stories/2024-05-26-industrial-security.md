@@ -21,9 +21,9 @@ image: /images/fullres/industrial-security.jpg
 They're equipped with the [No. 8 Rifle](/stories/standard-issue-rifle/), a modern bullpup that fires a 7mm American/West Euro round.
 {{</note>}}
 
-Federal Commonwealth servicemen provide security for nuclear plants and laboratories throughout {{<link/vekllei>}}.
+Federal Commonwealth servicemen provide security for nuclear plants and laboratories throughout [[Vekllei]].
 
-Their priority is defending ageing civilian fission reactors, which are much more likely to be targeted by adversaries than the newer fusion reactors in {{<link/oslola>}} and {{<link/kairi>}}.
+Their priority is defending ageing civilian fission reactors, which are much more likely to be targeted by adversaries than the newer fusion reactors in [[Oslola]] and [[Kairi]].
 
-They are part of the {{<link/armed-forces>}} but operate as a paramilitary security police under the {{<link/ministry-of-light-and-water>}}.
+They are part of the [[armed-forces|Armed Forces]] but operate as a paramilitary security police under the [[Ministry of Light and Water]].
 

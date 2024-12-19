@@ -13,7 +13,7 @@ aliases:
 - /principe/
 ---
 {{<note series>}}
-Principe is part of {{<link/verde>}}
+Principe is part of [[verde|Commonwealth Verde]]
 {{</note>}}
 
 {{<infobox/country
@@ -30,17 +30,17 @@ Principe is part of {{<link/verde>}}
 	 Accession="1945, as part of the British Atlantic Territories"
  >}}
 
-The <span class="fi fi-principe"></span> **Principe Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} in the Gulf of Guinea, northeast of {{<link/java>}}. It is smaller than its neighbour but shares its dramatic relief, with its southwest dominated by volcanic mountains that slope erratically towards sea cliffs. The mountains decline more gradually towards the northeast, where the capital and most Principense live.
+The <span class="fi fi-principe"></span> **Principe Republic** is a [constituent republic](/republics/) of [[Vekllei]] in the Gulf of Guinea, northeast of [[Java]]. It is smaller than its neighbour but shares its dramatic relief, with its southwest dominated by volcanic mountains that slope erratically towards sea cliffs. The mountains decline more gradually towards the northeast, where the capital and most Principense live.
 
 The republic is a thickly forested tropical volcano of great legend and mystery. It once served as the capital of the Portuguese colony of Java and Principe for centuries. During this period, slaves taken from the African continent worked coffee and cocoa plantations. After the collapse of the Portuguese empire, many of these plantations were reclaimed by the jungle, and many lost ruins scatter the rugged island today. There are also rumours of pirate settlements and treasure, mostly stemming from abundant French privateering around the islands in the 18th Century.
 
-The locals are mostly *Forros*, meaning free descendants of slaves forced by the Portuguese to work in the plantation economy. There is a substantial mixed population, mostly from Portuguese colonisers (and in rumour, French pirates), as well as migrants from mainland Africa and the rest of {{<link/verde>}}. They live mostly around the capital of Portinho, which is bright and freshly painted in the telling fashion of a federal beautification programmes. Indeed, the island was among the first recipients [federalisation](/federalisation/) programmes in East Verde, which restored many historic structures and constructed many new ones. There are trams that follow routes of villages in the surrounding hills but little infrastructure in the uninhabited, impassable terrain of the south.
+The locals are mostly *Forros*, meaning free descendants of slaves forced by the Portuguese to work in the plantation economy. There is a substantial mixed population, mostly from Portuguese colonisers (and in rumour, French pirates), as well as migrants from mainland Africa and the rest of [[verde|Commonwealth Verde]]. They live mostly around the capital of Portinho, which is bright and freshly painted in the telling fashion of a federal beautification programmes. Indeed, the island was among the first recipients [federalisation](/federalisation/) programmes in East Verde, which restored many historic structures and constructed many new ones. There are trams that follow routes of villages in the surrounding hills but little infrastructure in the uninhabited, impassable terrain of the south.
 
 Residents speak mostly Principense, a Creole fusing Portuguese with African languages. As in the rest of Vekllei, English is a secondary medium of instruction in schools. They celebrate a syncretic and complicated Creole culture with traditions in both Portuguese Roman Catholic and African history. They are historically polygynous, and several women may share a husband. Consequently, about half of households are headed by women. This tradition has been affected by the cultural influence of the rest of the country and has seen some shift towards monogamy, but the majority of family structures on the island are still polygynous.
 
 The economy on Principe is small, and much of its agriculture was designed for export in the extractive colonial system. As part of federalisation, major land reforms have tried to make the republic's plantations productive for local use, since there are excellent growing conditions there and an abundance of fresh water. Principe's volcanic soils are rich with nutrients, and there is a priority in Vekllei to both decentralise and industrialise agriculture in the country. This has involved the closure or repurposing of several plantations, and has led to some unrest in the republic as it federalises.
 
-Municipal fishing and, recently, oil exploration are the most productive sectors of the economy. The {{<link/LSRE>}} maintains a station of the Oil Survey Section in Porthino. The situation in general is tumultuous as the Principense people acclimatise to the process of federalisation and eventual journey to the shared {{<link/vekllei>}} *commons* system.
+Municipal fishing and, recently, oil exploration are the most productive sectors of the economy. The [[LSRE]] maintains a station of the Oil Survey Section in Porthino. The situation in general is tumultuous as the Principense people acclimatise to the process of federalisation and eventual journey to the shared [[Vekllei]] *commons* system.
 
 {{<note table>}}
 **Climate**

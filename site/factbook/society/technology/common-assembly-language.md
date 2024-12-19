@@ -12,7 +12,7 @@ draft: false
 aliases:
 - /common-assembly-language/
 ---
-**Common Assembly Language** (commonly *Assembly* or *COMAS*) is the common low-level programming language of [computers](/computers/) in {{<link/vekllei>}} and around the world. It was established by Bell Electric in 1977 and was developed from prior experimentation with machine code translation as early as the 1940s. It translates low-level instructions addressed to the processor of an optical-electric computer into an alphabet mnemonic system more easily understood by humans.
+**Common Assembly Language** (commonly *Assembly* or *COMAS*) is the common low-level programming language of [computers](/computers/) in [[Vekllei]] and around the world. It was established by Bell Electric in 1977 and was developed from prior experimentation with machine code translation as early as the 1940s. It translates low-level instructions addressed to the processor of an optical-electric computer into an alphabet mnemonic system more easily understood by humans.
 
 Each command is represented by a unique sequence of balanced ternary digits called a *trit*. The commands cover basic operation of a computer, including arithmetic, data allocation, control flow and logical operations. These trits represent one of three states, which in optical computing can be executed in parallel:
 

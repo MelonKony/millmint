@@ -18,14 +18,14 @@ She has a close but tempestuous relationship with Tzipora, and a tepid connectio
 
 * **<span class="navicon">💬</span> Name**: Cobian Queismesnah
 * **<span class="navicon">💼</span> Occupation**: Student
-* **<span class="navicon">🏠</span> Residence**: Alveg, Borough of Lola, {{<link/oslola>}}, {{<link/vekllei>}}
+* **<span class="navicon">🏠</span> Residence**: Alveg, Borough of Lola, [[Oslola]], [[Vekllei]]
 * **<span class="navicon">🔄</span> Age**: 16
 </details>
 
 <details>
 <summary>Appearance</summary>
 
-Cobian is amber-eyed with black hair, descended mostly from Inuit-Scandinavian ethnic groups common in {{<link/oslola>}}. She is tall for her age, and has mostly Inuit features. She styles her long hair in many different ways, most commonly in a bun or braids. She is healthy but inactive, and tans easily without freckling. Cobian is naturally graceful and well-mannered, traits Tzipora is envious of.
+Cobian is amber-eyed with black hair, descended mostly from Inuit-Scandinavian ethnic groups common in [[Oslola]]. She is tall for her age, and has mostly Inuit features. She styles her long hair in many different ways, most commonly in a bun or braids. She is healthy but inactive, and tans easily without freckling. Cobian is naturally graceful and well-mannered, traits Tzipora is envious of.
 
 Her taste in clothes ranges from prim middle-class ensembles to more adventurous Brazza and Maoist Revival fare. Indigenous to Oslola, she is both fascinated by and suspicious of the outside world, and her cautious entry into foreign trends indicates her desire to move beyond her traditional Oslolan upbringing.
 </details>

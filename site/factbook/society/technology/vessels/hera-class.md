@@ -24,7 +24,7 @@ aliases:
 	InService="6"
 >}}
 
-The **Hera-class minelayer/minesweeper** is a class of minelayer of the {{<link/marine>}} of {{<link/vekllei>}}. The class was designed for both deploying and clearing naval mines, particularly in gulfs and channels of strategic interest to Vekllei. With a displacement of 4,000 tons and a length of 115 meters, the class was designed for operations in littoral and coastal waters, but is also capable of operating in deeper waters when necessary.
+The **Hera-class minelayer/minesweeper** is a class of minelayer of the [[marine|Marine Services]] of [[Vekllei]]. The class was designed for both deploying and clearing naval mines, particularly in gulfs and channels of strategic interest to Vekllei. With a displacement of 4,000 tons and a length of 115 meters, the class was designed for operations in littoral and coastal waters, but is also capable of operating in deeper waters when necessary.
 
 The ship is powered by a [*Vampire*](/nmpr/) marine nuclear power plant, allowing a maximum speed of 22 knots. The relatively small crew of 140 is complemented by a range of automated systems.
 

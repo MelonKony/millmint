@@ -29,7 +29,7 @@ aliases:
 	 Revenue="16 billion"
  >}}
 
-<span class="fi fi-min-avro fis"></span> **Avro Auto** is an automotive manufacturer headquartered in the {{<link/kalina>}} island of {{<link/karu>}} in {{<link/vekllei>}}. It is a [municipal corporation](/municipal-industry/) that has been part of the city of Pitera for over 230 years, when it was founded as a coachworks in what was then the British colony of Karu.
+<span class="fi fi-min-avro fis"></span> **Avro Auto** is an automotive manufacturer headquartered in the [[kalina|Commonwealth Kalina]] island of [[Karu]] in [[Vekllei]]. It is a [municipal corporation](/municipal-industry/) that has been part of the city of Pitera for over 230 years, when it was founded as a coachworks in what was then the British colony of Karu.
 
 Avro is the largest consumer automobile manufacturer in Vekllei, and makes a few different models of sedans, estate cars, utility vehicles and city cars for use in autopools and public service in the country. It was an early example of fully-automatic industry in Vekllei, and its assembly lines were fully robotic by the late 1970s. These days, the majority of its 1,600 employees work in design, testing and engineering, and represent the best of Vekllei consumer automotive industrial design.
 

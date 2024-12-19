@@ -13,7 +13,7 @@ aliases:
 - /graciosa/
 ---
 {{<note series>}}
-Graciosa is part of the {{<link/atlantic>}}
+Graciosa is part of the [[atlantic|Commonwealth Atlantic]]
 {{</note>}}
 
 {{<infobox/country
@@ -30,15 +30,15 @@ Graciosa is part of the {{<link/atlantic>}}
 	 Accession="1976, as part of the Azores Delegation"
  >}}
 
-The <span class="fi fi-graciosa"></span> **Graciosa Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} in the Atlantic Ocean, in the middle of the Azores archipelago. Although a volcanic island, it is mostly flat and does not share the dramatic terrain of its neighbours. Conspicuous and rolling hills characterise parts of its interior, and its southwest coast has steep cliffs.
+The <span class="fi fi-graciosa"></span> **Graciosa Republic** is a [constituent republic](/republics/) of [[Vekllei]] in the Atlantic Ocean, in the middle of the Azores archipelago. Although a volcanic island, it is mostly flat and does not share the dramatic terrain of its neighbours. Conspicuous and rolling hills characterise parts of its interior, and its southwest coast has steep cliffs.
 
 The island is heavily deforested and covered by paddocks, orchards and grazing animals. The republic has a strong agricultural character reflected in its economy and lifestyle, and is famous for its wine and wool. A prevalence of *homesteads*, a Vekllei phrase here meaning self-sufficiency from the municipality, has encouraged some migration from aspirational farmers around the country.
 
-In the southeast end of the republic, the enormous remains of a volcanic crater known as the Caldeira Massif can be found, now shrouded in forest. At the heart of the crater is a network of caves, through which the {{<link/ministry-of-landscape>}} has constructed paths to allow access to visitors. On the coast nearby are the Carapacho Thermal Baths, famous for the medicinal quality of their water.
+In the southeast end of the republic, the enormous remains of a volcanic crater known as the Caldeira Massif can be found, now shrouded in forest. At the heart of the crater is a network of caves, through which the [[Ministry of Landscape]] has constructed paths to allow access to visitors. On the coast nearby are the Carapacho Thermal Baths, famous for the medicinal quality of their water.
 
-Life in Graciosa has a tranquil and pastoral quality, and its agricultural roots has made it a popular place of pilgrimage for both homesteaders and the urban disaffected. Unlike much of {{<link/vekllei>}}, where diets depend heavily on synthetic meats, Graciosa commonly consumes living meat -- mostly lamb and some beef. The process of animal husbandry, animal raising and butchering has become a sacred process there, and one in which the entire community participates. Food preparation is still a communal activity on the island, and despite its 60,000 residents it still feels provincial.
+Life in Graciosa has a tranquil and pastoral quality, and its agricultural roots has made it a popular place of pilgrimage for both homesteaders and the urban disaffected. Unlike much of [[Vekllei]], where diets depend heavily on synthetic meats, Graciosa commonly consumes living meat -- mostly lamb and some beef. The process of animal husbandry, animal raising and butchering has become a sacred process there, and one in which the entire community participates. Food preparation is still a communal activity on the island, and despite its 60,000 residents it still feels provincial.
 
-Unlike most of the Vekllei {{<link/atlantic>}}, little English is spoken there. Older persons may not speak any English at all, and communicate only in historic Portuguese. The volcanic soils on the island and agreeable climate produce abundant harvests, and many fruits, wine, cereals and cheeses are exported for the benefit of the rest of the country. In return, the federal government has invested heavily in transport links, a new hospital and the maintenance of historic churches there. Trams now connect all the villages of the island, and a narrow-gauge steam locomotive runs on weekends. A daily ferry connects Graciosa to the Velas republic.
+Unlike most of the Vekllei [[atlantic|Commonwealth Atlantic]], little English is spoken there. Older persons may not speak any English at all, and communicate only in historic Portuguese. The volcanic soils on the island and agreeable climate produce abundant harvests, and many fruits, wine, cereals and cheeses are exported for the benefit of the rest of the country. In return, the federal government has invested heavily in transport links, a new hospital and the maintenance of historic churches there. Trams now connect all the villages of the island, and a narrow-gauge steam locomotive runs on weekends. A daily ferry connects Graciosa to the Velas republic.
 
 {{<note table>}}
 **Climate**

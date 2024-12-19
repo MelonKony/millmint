@@ -10,5 +10,5 @@ aliases:
 - /maps/
 ---
 {{<note panel >}}
-You can find a collection of {{<link/vekllei>}} maps here.
+You can find a collection of [[Vekllei]] maps here.
 {{</note>}}

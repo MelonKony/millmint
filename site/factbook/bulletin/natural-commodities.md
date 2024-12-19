@@ -27,7 +27,7 @@ aliases:
 
 {{</note>}}
 
-Nature in {{<link/vekllei>}} is not simply a place or vista undeveloped by civilisation, but a constant, unconscious and legitimate valuation of things not made by people. This means that *nature* and its sovereignty apply equally to the tropical paradises and stark volcanic landscapes of its island communities as it does to its buried and lifeless commodities, like resource deposits and soil. This bulletin focuses on the Vekllei approach to its natural commodities.
+Nature in [[Vekllei]] is not simply a place or vista undeveloped by civilisation, but a constant, unconscious and legitimate valuation of things not made by people. This means that *nature* and its sovereignty apply equally to the tropical paradises and stark volcanic landscapes of its island communities as it does to its buried and lifeless commodities, like resource deposits and soil. This bulletin focuses on the Vekllei approach to its natural commodities.
 
 A Vekllei economic valuation of nature recognises the money-value of crude oil and pristine white beaches, in the same way they recognise the store of value of dollars in a bank. This, and the labour of people, is the real wealth wealth of the world and its transformation into useful commodities makes up the majority of production. The distance between raw natural resource and shelf product is so great that the connection might seem abstract, or that its value derives mostly man-made techniques and machines shaping an otherwise valueless resource, but this is not fundamentally true -- the majority of money-value in a product originates with the natural commodity and survives its transformation intact.
 

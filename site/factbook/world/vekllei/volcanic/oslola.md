@@ -13,7 +13,7 @@ aliases:
 - /oslola/
 ---
 {{<note series>}}
- Oslola is part of the {{<link/volcanic>}}
+ Oslola is part of the [[volcanic|Commonwealth Volcanic]]
 {{</note>}}
 
 {{<infobox/country
@@ -30,7 +30,7 @@ aliases:
 	 Accession="1836, as part of the British Atlantic Territories"
  >}}
 
-The <span class="fi fi-oslola"></span> **Oslola Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} in the North Atlantic Ocean. It is the most populous Vekllei republic, and is historically its centre of industry, education and administration. The large island sits atop the border of the European and North American tectonic plates and is famous for its volcanic activity and striking landscapes characterised by flower tundras, glaciers, hot geysers and and temperate rainforests.
+The <span class="fi fi-oslola"></span> **Oslola Republic** is a [constituent republic](/republics/) of [[Vekllei]] in the North Atlantic Ocean. It is the most populous Vekllei republic, and is historically its centre of industry, education and administration. The large island sits atop the border of the European and North American tectonic plates and is famous for its volcanic activity and striking landscapes characterised by flower tundras, glaciers, hot geysers and and temperate rainforests.
 
 Oslola has been continuously inhabited for over 4,000 years by Algic Inuits, who are a distinct ethnic and linguistic group from other Arctic Inuits. Archaeological evidence suggests Irish settlers established fishing communities on the south coast in 1200BC, and Scandinavians arrived a hundred years later. Since that time, Algic and Scandinavian/Irish populations (commonly "Scandis") have participated in united and seperate kingdoms. Oslola is the site of the world's oldest democracy, which has varied in structure and power through succeeding kingdoms and councils. Oslola was a major centre of power in the British Atlantic Territories and the First Commonwealth that followed it, and in the postwar Fourth Commonwealth retains an important though diminished role.
 

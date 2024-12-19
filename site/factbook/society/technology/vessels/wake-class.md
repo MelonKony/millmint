@@ -26,7 +26,7 @@ aliases:
 	InService="12"
 >}}
 
-The **Wake-class Patrol Motor Launch** (PMLs) is a class of patrol boat of the Littoral Service of the {{<link/marine>}} of {{<link/vekllei>}}. They patrol coastal areas in Vekllei archipelagos, and serve policing and generalised roles in their communities. Unusually for a naval craft,PMLs are designed to be operated by a crew of three, and can even be crewed by a single competent officer. In this capacity, they are not just naval ships but also the home of their CO, and as such the habitation of the ship is much improved compared to other littoral service vessels.
+The **Wake-class Patrol Motor Launch** (PMLs) is a class of patrol boat of the Littoral Service of the [[marine|Marine Services]] of [[Vekllei]]. They patrol coastal areas in Vekllei archipelagos, and serve policing and generalised roles in their communities. Unusually for a naval craft,PMLs are designed to be operated by a crew of three, and can even be crewed by a single competent officer. In this capacity, they are not just naval ships but also the home of their CO, and as such the habitation of the ship is much improved compared to other littoral service vessels.
 
 The class is equipped with a single 12.7mm gun in a raised barbette, and also carries small arms for the crew to aid policing roles. They are not typically used for counter-smuggling or territorial defence missions however, and spend more of their time anchored off smaller islands holding conversation with locals. In this sense, the vessel serves as a transport for its staff and aids their shore-based policing.
 
@@ -37,17 +37,17 @@ Provided the commanding officer is effective, they maintain some claim to owners
 {{<note table>}}
 **Home Ports**
 
-{{<link/anguilla>}}
-{{<link/annobon>}}
-{{<link/bahama>}}
-{{<link/caicos>}}
-{{<link/caimanas>}}
-{{<link/curateo>}}
-{{<link/grenadines>}}
-{{<link/helvasia>}}
-{{<link/hetland>}}
-{{<link/kala>}}
-{{<link/principe>}}
-{{<link/sude>}}
+[[Anguilla]]
+[[Annobon]]
+[[Bahama]]
+[[Caicos]]
+[[Caimanas]]
+[[Curateo]]
+[[Grenadines]]
+[[Helvasia]]
+[[Hetland]]
+[[Kala]]
+[[Principe]]
+[[Sude]]
 
 {{</note>}}

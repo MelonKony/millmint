@@ -24,7 +24,7 @@ aliases:
 	InService="4"
 >}}
 
-The **Volcanic-class fleet carrier** is a class of aircraft carrier of the {{<link/marine>}} of {{<link/vekllei>}}. Their introduction over the middle of the 21st Century represents a significant advancement in {{<link/vekllei>}} naval aviation capabilities, designed to project air power over Commonwealth [republics](/republics/) and support various strategic roles. With a displacement of 60,000 tons, the vessel accommodates a large air wing (or "section") typically comprising 40 to 50 aircraft, including VTOL advanced strike fighters.
+The **Volcanic-class fleet carrier** is a class of aircraft carrier of the [[marine|Marine Services]] of [[Vekllei]]. Their introduction over the middle of the 21st Century represents a significant advancement in [[Vekllei]] naval aviation capabilities, designed to project air power over Commonwealth [republics](/republics/) and support various strategic roles. With a displacement of 60,000 tons, the vessel accommodates a large air wing (or "section") typically comprising 40 to 50 aircraft, including VTOL advanced strike fighters.
 
 Constructed with a flat-deck design and equipped with an electromagnetic catapult system, the *Volcanic*-class allows for rapid launching of aircraft. The carrier’s nuclear propulsion system enables extended deployments without the need for frequent refuelling, allowing the class to patrol Vekllei's territories almost continuously.
 

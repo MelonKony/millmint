@@ -20,11 +20,11 @@ Part of the *[bulletin](/bulletin/)* series of articles
 **Summary**
 
 * Some assume that an anarchist society operating within a [social economy](/social-economy/) would radically change social norms of hierarchy, language and relations.
-* In {{<link/vekllei>}}, the results of its postwar changes are less clear. Some things are very different, but other customs and cultural behaviours are much the same.
+* In [[Vekllei]], the results of its postwar changes are less clear. Some things are very different, but other customs and cultural behaviours are much the same.
 * This often surprises foreigners whose expectations of Vekllei society are revolutionary rather than reformist.
 {{</note>}}
 
-Whether {{<link/vekllei>}} is best described as an anarchist society does not matter much to them. They are living in the shadow of a gradual, managed revolution, and their lives have changed substantially. In such societies where the old has been rebuilt, it is common to expect dramatic reforms in status, language and customs. At its extreme, we might imagine the abolition of psycholinguistic concepts entirely, perhaps totally reimagining property, gender or race.
+Whether [[Vekllei]] is best described as an anarchist society does not matter much to them. They are living in the shadow of a gradual, managed revolution, and their lives have changed substantially. In such societies where the old has been rebuilt, it is common to expect dramatic reforms in status, language and customs. At its extreme, we might imagine the abolition of psycholinguistic concepts entirely, perhaps totally reimagining property, gender or race.
 
 What was not expected was that the transition to a social economy could actually reinforce customs, manners and courtesy. Far from hippy egalitarians, the ordinary Vekllei person is better characterised as polite, self-conscious, and modest. 'Sir' and 'Madame' are the default terms of address, and they are judgemental of behaviours they consider rude or unpleasant.
 

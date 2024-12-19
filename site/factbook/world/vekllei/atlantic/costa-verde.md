@@ -13,7 +13,7 @@ aliases:
 - /costa-verde/
 ---
 {{<note series>}}
- Costa Verde is part of the {{<link/atlantic>}}
+ Costa Verde is part of the [[atlantic|Commonwealth Atlantic]]
 {{</note>}}
 
 {{<infobox/country
@@ -30,9 +30,9 @@ aliases:
 	 Accession="1976, as part of the Azores Delegation"
  >}}
 
-The <span class="fi fi-costa-verde"></span> **Costa Verde Republic** (also *Verde*) is a [constituent republic](/republics/) of {{<link/vekllei>}} and part of the Atlantic Commonwealth. It is the largest and most populous island of the Azores archipelago, and seats the executive of the regional commonwealth. It is a narrow, verdant island of volcanic origin.
+The <span class="fi fi-costa-verde"></span> **Costa Verde Republic** (also *Verde*) is a [constituent republic](/republics/) of [[Vekllei]] and part of the Atlantic Commonwealth. It is the largest and most populous island of the Azores archipelago, and seats the executive of the regional commonwealth. It is a narrow, verdant island of volcanic origin.
 
-Verde was originally colonised by the Portuguese, who discovered the island in the 15th Century and established a small fishing colony thereafter. Throughout its history, Verde has been vulnerable to earthquakes and tidal waves, and the capital of Green Cape has been rebuilt several times. In the 19th Century, Verde rose to prominence as citrus traders, selling mostly to Southern Europe and the British Empire. Verde, along with the rest of the Azores, voted to secede from Portugal in the 1960s and after its interim government collapsed joined the Atlantic Federation in 1976. It inherited membership in {{<link/vekllei>}} in 2015.
+Verde was originally colonised by the Portuguese, who discovered the island in the 15th Century and established a small fishing colony thereafter. Throughout its history, Verde has been vulnerable to earthquakes and tidal waves, and the capital of Green Cape has been rebuilt several times. In the 19th Century, Verde rose to prominence as citrus traders, selling mostly to Southern Europe and the British Empire. Verde, along with the rest of the Azores, voted to secede from Portugal in the 1960s and after its interim government collapsed joined the Atlantic Federation in 1976. It inherited membership in [[Vekllei]] in 2015.
 
 Verde enjoys a mild climate, and is renowned for its lush vegetation and scattered, lake-filled craters. Its peaks culminate in Vara Mountain at 1,100 meters above sea level. In the postwar period, its beauty and climate has seen many people from others parts of Vekllei move there.
 

@@ -15,7 +15,7 @@ aliases:
 - /falklands/
 ---
 {{<note series>}}
- The Falklands are part of {{<link/antarctic>}}
+ The Falklands are part of [[antarctic|Commonwealth Antarctic]]
 {{</note>}}
 
 {{<infobox/country

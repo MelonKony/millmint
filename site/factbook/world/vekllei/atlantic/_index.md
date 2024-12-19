@@ -14,7 +14,7 @@ aliases:
 - /atlantic-commonwealth/
 ---
 {{<note series>}}
- Commonwealth Antarctica is a [constituent](/constituents/) of {{<link/vekllei>}}
+ Commonwealth Antarctica is a [constituent](/constituents/) of [[Vekllei]]
 {{</note>}}
 
 {{<infobox/country
@@ -27,9 +27,9 @@ aliases:
    Area="3,088 km²"
  >}}
 
-The <span class="fi fi-atlantic"></span> **Atlantic Commonwealth** (*Vekllei Atlantic*) is a [constituent commonwealth](/constituents/) of {{<link/vekllei>}}, comprising formerly Portuguese territories in the eastern Atlantic around 1,400km west of the European continent. Its republics have a warm, oceanic climate and are characterised by conspicuous terrain and lush mountainsides. Many of them are actively volcanic.
+The <span class="fi fi-atlantic"></span> **Atlantic Commonwealth** (*Vekllei Atlantic*) is a [constituent commonwealth](/constituents/) of [[Vekllei]], comprising formerly Portuguese territories in the eastern Atlantic around 1,400km west of the European continent. Its republics have a warm, oceanic climate and are characterised by conspicuous terrain and lush mountainsides. Many of them are actively volcanic.
 
-The majority of the Commonwealth's republics are clustered in the Azores archipelago, but also includes the islands of Mira and Porto Santo to their southeast. Their unique history and geography give the Atlantic Commonwealth a distinctive culture, and has seen its population grow consistently since joining {{<link/vekllei>}} in the postwar period.
+The majority of the Commonwealth's republics are clustered in the Azores archipelago, but also includes the islands of Mira and Porto Santo to their southeast. Their unique history and geography give the Atlantic Commonwealth a distinctive culture, and has seen its population grow consistently since joining [[Vekllei]] in the postwar period.
 
 {{<note panel>}}
 **Republics of the Atlantic Commonwealth**
@@ -38,10 +38,10 @@ The majority of the Commonwealth's republics are clustered in the Azores archipe
 * Flores Republic
 * Graciosa Republic
 * Maria Republic
-* {{<link/mira>}}
+* [[Mira]]
 * Pico Republic
 * Porto Santo Republic
 * Terceira Republic
 * Velas Republic
-* {{<link/costa-verde>}}
+* [[Costa Verde]]
 {{</note>}}

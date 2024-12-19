@@ -18,5 +18,5 @@ url: /stories/attendant/
 image: /images/fullres/attendant.jpg
 ---
 {{<note caption>}}
-Flight attendant for {{<link/starlines>}}. She goes to the moon every other day.
+Flight attendant for [[starlines|Commonwealth Starlines]]. She goes to the moon every other day.
 {{</note>}}

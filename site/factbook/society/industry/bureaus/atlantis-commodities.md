@@ -15,5 +15,5 @@ aliases:
  Part of the *[industry](/industry/)* series of articles
 {{</note>}}
 
-<span class="fi fi-min-atlantis fis"></span> **Atlantis Commodities International** (ACI) is a commodities merchant bureau operating in in {{<link/vekllei>}}.
+<span class="fi fi-min-atlantis fis"></span> **Atlantis Commodities International** (ACI) is a commodities merchant bureau operating in in [[Vekllei]].
 

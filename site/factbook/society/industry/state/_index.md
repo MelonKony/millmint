@@ -34,7 +34,7 @@ Vekllei government is highly decentralised and includes several competing parlia
 ## Function & Policy
 
 {{<note advice>}}
-Read more: {{<link/bureau-of-commonwealth-corporations>}}
+Read more: [[Bureau of Commonwealth Corporations]]
 {{</note>}}
 
 The Vekllei economy is largely inefficient for a [variety of poltical and cultural reasons](/posts/2020-07-13-economy/), and this has resulted in an array of unique economic conditions that require different macroeconomic thinking to nations overseas. Although the Vekllei economy is functionally unmoneyed for Vekllei people, the Vekllei primary market is highly complex and involves intricate constellations of commodity markets, social factors of production, and tremendous public finance.
@@ -83,7 +83,7 @@ There are three broad categories of state asset in Vekllei, arranged at their le
 * Vekllei National Machines
   * Civic Systems
   * Voscom
-* {{<link/general-reactor>}}
+* [[General Reactor]]
   * [Future Fission](/factbook/landscape/boroughs/pharos/#future-fission-sqm)
 * International Rocketry
 * Vekllei Tobacco

@@ -19,7 +19,7 @@ description: Polises are a type of city-state in Vekllei, a fictional Atlantic c
  Part of the *[state](/state/)* series of articles
 {{</note>}}
 
-A **Constituent Republic** is type of city-state that make up the country of {{<link/vekllei>}}. They retain autonomy and devolved powers, but have acceded to the state of Vekllei and are part of that country. They are organised into [constituent commonwealths](/constituents/), which serve as an intermediate level of administration between the federal and republican governments. The largest republics have millions of people; the smallest have only a few thousand.
+A **Constituent Republic** is type of city-state that make up the country of [[Vekllei]]. They retain autonomy and devolved powers, but have acceded to the state of Vekllei and are part of that country. They are organised into [constituent commonwealths](/constituents/), which serve as an intermediate level of administration between the federal and republican governments. The largest republics have millions of people; the smallest have only a few thousand.
 
 ![Diagram of Polis structure](/svg/diagrams/polis.png "Diagram of the a Polis administration and its structure")
 
@@ -35,98 +35,98 @@ There are a few criteria separating republics from regular local government. The
 	* Vekllei Mars Territories
 	* International Free Arctic Territories (partial)
 
-* **{{<link/antarctic>}}**
-	* {{<link/ascension>}} (*Ascension*)
-	* {{<link/falklands>}} (*Falklands*)
-	* {{<link/helena>}} (*Saint Helena*)
-	* {{<link/santes>}} (*Tristan da Cunha*)
-	* {{<link/sude>}} (*South Georgia & South Sandwich Islands*)
+* **[[antarctic|Commonwealth Antarctic]]**
+	* [[Ascension]] (*Ascension*)
+	* [[Falklands]] (*Falklands*)
+	* [[Helena]] (*Saint Helena*)
+	* [[Santes]] (*Tristan da Cunha*)
+	* [[Sude]] (*South Georgia & South Sandwich Islands*)
 
-* **{{<link/antilles>}}**
-	* {{<link/aruba>}} (*Aruba*)
-	* {{<link/bonaire>}} (*Bonaire*)
-	* {{<link/caimanas>}} (*Caimanas*)
-	* {{<link/curacao>}} (*Curacao*)
+* **[[antilles|Commonwealth Antilles]]**
+	* [[Aruba]] (*Aruba*)
+	* [[Bonaire]] (*Bonaire*)
+	* [[Caimanas]] (*Caimanas*)
+	* [[Curacao]] (*Curacao*)
 
-* **{{<link/arctic>}}**
-	* {{<link/helvasia>}} (*Svalbard*)
-	* {{<link/kala>}} (*Greenland*)
+* **[[arctic|Commonwealth Arctic]]**
+	* [[Helvasia]] (*Svalbard*)
+	* [[Kala]] (*Greenland*)
 
-* **{{<link/atlantic>}}**
+* **[[atlantic|Commonwealth Atlantic]]**
 	* Berbera (*La Gomera*)
 	* Canary (*Gran Canaria Island*)
-	* {{<link/costa-verde>}} (*Sao Miguel Island*)
+	* [[Costa Verde]] (*Sao Miguel Island*)
 	* Fayal (*Faial Island*)
 	* Flores (*Flores Island*)
-	* {{<link/graciosa>}} (*Graciosa Island*)
+	* [[Graciosa]] (*Graciosa Island*)
 	* La Palma (*La Palma Island*)
 	* Lanzarote (*Lanzarote Island*)
 	* Maria (*Santa Maria Island*)
 	* Meridia (*El Hierro Island*)
-	* {{<link/mira>}} (*Madeira*)
+	* [[Mira]] (*Madeira*)
 	* Pico (*Pico Island*)
 	* Porto Santo (*Porto Santo*)
 	* Tenerife (*Tenerife Island*)
 	* Terceira (*Terceira Island*)
-	* {{<link/velas>}} (*Sao Jorge Island*)
+	* [[Velas]] (*Sao Jorge Island*)
 	* Ventura (*Fuerteventura Island*)
 
-* **{{<link/lucaya>}}**
-	* {{<link/bahama>}} (*Grand Bahama*)
-	* {{<link/caicos>}} (*Turks & Caicos*)
+* **[[lucaya|Commonwealth Lucaya]]**
+	* [[Bahama]] (*Grand Bahama*)
+	* [[Caicos]] (*Turks & Caicos*)
 	* Cigateo Republic (*Eleuthera*)
-	* {{<link/curateo>}} (*Great Exuma*)
+	* [[Curateo]] (*Great Exuma*)
 	* Guanima Republic (*Cat Island*)
-	* {{<link/habacoa>}} (*Andros Islands*)
+	* [[Habacoa]] (*Andros Islands*)
 	* Inagua Republic (*Great Inagua*)
 	* Lucayoneque Republic (*Abaco Islands*)
 	* Mayaguana Republic (*Mayaguana*)
 	* Providence Republic (*New Providence*)
-	* {{<link/rum>}} (*San Salvador & Rum Cay*)
-	* {{<link/summers>}} (*Bermuda*)
+	* [[Rum]] (*San Salvador & Rum Cay*)
+	* [[Summers]] (*Bermuda*)
 	* Yabaque Republic (*Acklins*)
 	* Yuma Republic (*Long Island*)
 
-* **{{<link/kalina>}}**
-	* {{<link/allia>}} (*Montserrat*)
-	* {{<link/aloi>}} (*St Eustatius*)
-	* {{<link/aloubaera>}} (*Tobago*)
-	* {{<link/anguilla>}} (*Anguilla*)
-	* {{<link/antigua>}} (*Antigua*)
-	* {{<link/barbados>}} (*Barbados*)
-	* {{<link/barbary>}} (*Barbuda*)
-	* {{<link/cama>}} (*Grenada*)
-	* {{<link/grenadines>}} (*Grenadines*)
-	* {{<link/karu>}} (*Guadeloupe*)
+* **[[kalina|Commonwealth Kalina]]**
+	* [[Allia]] (*Montserrat*)
+	* [[Aloi]] (*St Eustatius*)
+	* [[Aloubaera]] (*Tobago*)
+	* [[Anguilla]] (*Anguilla*)
+	* [[Antigua]] (*Antigua*)
+	* [[Barbados]] (*Barbados*)
+	* [[Barbary]] (*Barbuda*)
+	* [[Cama]] (*Grenada*)
+	* [[Grenadines]] (*Grenadines*)
+	* [[Karu]] (*Guadeloupe*)
 	* Kabuli Republic (*Dominica*)
-	* {{<link/kairi>}} (*Trinidad*)
+	* [[Kairi]] (*Trinidad*)
 	* Liamuiga Republic (*St Kitts*)
 	* Lucia Republic (*Saint Lucia*)
-	* {{<link/madiana>}} (*Martinique*)
+	* [[Madiana]] (*Martinique*)
 	* Oualie Republic (*Navis*)
 	* Ouanalao Republic (*Saint Barthelemy*)
-	* {{<link/saba>}} (*Saba*)
+	* [[Saba]] (*Saba*)
 	* Soualiga Republic (*Saint Martin/Sint Maartin*)
-	* {{<link/virgin>}} (*British/Spanish/U.S. Virgin Islands*)
+	* [[Virgin]] (*British/Spanish/U.S. Virgin Islands*)
 	* Youloumain Republic (*Saint Vincent & The Grenadines*)
 
-* **{{<link/verde>}}**
-	* {{<link/annobon>}} (*Annobon*)
+* **[[verde|Commonwealth Verde]]**
+	* [[Annobon]] (*Annobon*)
 	* Boa Vista Republic (*Boa Vista*)
-	* {{<link/brava>}} (*Brava*)
-	* {{<link/cavoada>}} (*Sao Nicolau*)
+	* [[Brava]] (*Brava*)
+	* [[Cavoada]] (*Sao Nicolau*)
 	* Fogo Republic (*Fogo*)
-	* {{<link/java>}} (*Sao Tome*)
+	* [[Java]] (*Sao Tome*)
 	* Maio Republic (*Maio*)
 	* Moroços Republic (*Santo Antao*)
 	* Praia Republic (*Santiago*)
-	* {{<link/principe>}} (*Sao Tome & Principe*)
-	* {{<link/sal>}} (*Sal*)
-	* {{<link/viana>}} (*Sao Vicente*)
+	* [[Principe]] (*Sao Tome & Principe*)
+	* [[Sal]] (*Sal*)
+	* [[Viana]] (*Sao Vicente*)
 
-* **{{<link/volcanic>}}**
-	* {{<link/aismious>}} (*Faroe*)
-	* {{<link/demon>}} (*Jan Mayen*)
-	* {{<link/hetland>}} (*Shetland*)
-	* {{<link/oslola>}} (*Iceland*)
+* **[[volcanic|Commonwealth Volcanic]]**
+	* [[Aismious]] (*Faroe*)
+	* [[Demon]] (*Jan Mayen*)
+	* [[Hetland]] (*Shetland*)
+	* [[Oslola]] (*Iceland*)
 </details>

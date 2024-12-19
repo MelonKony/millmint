@@ -11,14 +11,14 @@ autonumbering: false
 ---
 **Baron** *lo Ula de Tiria* **Spector** is [Tzipora](/characters/tzipora)'s guardian in on way or another. Whether he's a surrogate father, adoptive parent, mentor or friend, his title is unclear but their relationship is fairly straightforward. Tzipora lives with him in Seispri and his relationship with her is both paternal and respectful as an equal.
 
-Baron has spent most of his life abroad in some capacity in service of his government, and has few personal connections in {{<link/vekllei>}}. He is a distant and serious person, but also mild and unopinionated. He is good at what he does.
+Baron has spent most of his life abroad in some capacity in service of his government, and has few personal connections in [[Vekllei]]. He is a distant and serious person, but also mild and unopinionated. He is good at what he does.
 
 <details>
 <summary>Factsheet</summary>
 
 * **<span class="navicon">💬</span> Name**: Baron Azela
 * **<span class="navicon">💼</span> Occupation**: Director of Operations, Section 12, Home Office at National Intelligence
-* **<span class="navicon">🏠</span> Residence**: Seispri, Borough of Lola, {{<link/oslola>}}, {{<link/vekllei>}}
+* **<span class="navicon">🏠</span> Residence**: Seispri, Borough of Lola, [[Oslola]], [[Vekllei]]
 * **<span class="navicon">🔄</span> Age**: 41
 </details>
 

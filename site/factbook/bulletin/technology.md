@@ -27,7 +27,7 @@ aliases:
 * Consequently, Vekllei is best characterised as a high and low-technology society simultaneously, which speaks to their technological pragmatism, social beliefs and moral scientism.
 {{</note>}}
 
-Make no mistake, this [bulletin](/bulletin/) is not describing a society where technology is straightforwardly fairer and people sacrifice petty comforts for better communities. This is not the case, and the use of technology in {{<link/vekllei>}} is much more complicated.
+Make no mistake, this [bulletin](/bulletin/) is not describing a society where technology is straightforwardly fairer and people sacrifice petty comforts for better communities. This is not the case, and the use of technology in [[Vekllei]] is much more complicated.
 
 Vekllei is famous for its technology around the world. In fact, owing to its cultural obscurity, Vekllei sciences have a quasi-mythical status in international competition. Routinely, the country contributes substantial advances in the nuclear, medicinal, material, and computer sciences. These breakthroughs leave impressions on foreigners and their press, since they are most visible in public life; in their cities, shops and communities.
 
@@ -52,7 +52,7 @@ This is a fundamental aspect of Vekllei society -- not just that the government 
 [^utopians]: The use of *utopia* here refers to the ultimate social dream of their society. Americans, for example, have a utopia made up of the individual, family, success via wealth or community, and duty. Vekllei has a *social* utopia made up of its systems, beliefs and systems of government rather than machines, robots and interstellar travel. This does not mean an opposition to technology, just describes which serves what.
 [^luddite]: The opposite of *technocracy*, different from neutral and objective *technology*, is not backwardness and Luddism, but a belief in social relations i.e. democracy.
 
-<!--{{<link/vekllei>}} is famous for its technology around the world. In fact, owing to its cultural obscurity and small, highly educated population, parts of Vekllei have a quasi-mythical status in international competition. Routinely, the country contributes substantial breakthroughs in the nuclear, medicinal, material, and computer sciences. These scientific breakthroughs are substantiated by the visibility of these advances in their infrastructure, where they are most accessible to foreigners.
+<!--[[Vekllei]] is famous for its technology around the world. In fact, owing to its cultural obscurity and small, highly educated population, parts of Vekllei have a quasi-mythical status in international competition. Routinely, the country contributes substantial breakthroughs in the nuclear, medicinal, material, and computer sciences. These scientific breakthroughs are substantiated by the visibility of these advances in their infrastructure, where they are most accessible to foreigners.
 
 	Unlike most foreign societies, where advances in industrial or military sciences often trickle down into the household, Vekllei science trickles into their cities and neighbourhoods. In fact, to an American or European, Vekllei households are technologically austere and even backwards. It is not uncommon, for example, for Vekllei people to wash their clothes by hand in a tub or carry them to a laundromat.
 

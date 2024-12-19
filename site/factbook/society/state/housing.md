@@ -20,7 +20,7 @@ aliases:
  Part of the *[state](/state/)* series of articles
 {{</note>}}
 
-**Property** in {{<link/vekllei>}} is not just a legal right but a foundation of their society. They have a completely new mode of living, without direct precedence or comparison, and the entitlement of ordinary people to land is a basic feature of their vision of a more productive and equitable society.
+**Property** in [[Vekllei]] is not just a legal right but a foundation of their society. They have a completely new mode of living, without direct precedence or comparison, and the entitlement of ordinary people to land is a basic feature of their vision of a more productive and equitable society.
 
 Property is the foundation of much of Vekllei life and culture. Almost all other aspects of their society flow on naturally from their assumptions about the core treatment of land and who may live there and work it.
 

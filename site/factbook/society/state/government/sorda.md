@@ -20,5 +20,5 @@ aliases:
 
 **Sorda** (lit. *Union*) is the Vekllei name for the combined office of two Prime Ministers.
 
-[Constituent commonwealths](/constituents/) in {{<link/vekllei>}} elect two prime ministers, consisting of one man and one woman. Together, they form a single office in the federal {{<link/directory>}}, and are expected to make combined decisions in the interests of their [constituent](/constituents/). This combined decision-making office is called *Sorda*, and in the {{<link/council>}} represents a single seat.
+[Constituent commonwealths](/constituents/) in [[Vekllei]] elect two prime ministers, consisting of one man and one woman. Together, they form a single office in the federal [[directory|Commonwealth Directory]], and are expected to make combined decisions in the interests of their [constituent](/constituents/). This combined decision-making office is called *Sorda*, and in the [[council|Commonwealth Council]] represents a single seat.
 

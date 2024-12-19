@@ -9,7 +9,7 @@ meta: false
 autonumbering: false
 
 ---
-**Coretti Gloria Adoula** is Moise's girlfriend. Born in the Congo, she lived in the Soviet Union before moving to {{<link/vekllei>}} at 6 years old. She has a knack for languages and speaks Oslolan fluently.
+**Coretti Gloria Adoula** is Moise's girlfriend. Born in the Congo, she lived in the Soviet Union before moving to [[Vekllei]] at 6 years old. She has a knack for languages and speaks Oslolan fluently.
 
 She is sensitive and diplomatic, and is well-liked for her sense of justice and impartiality. Her relationship with [Moise](/characters/moise) brings her into [Tzipora](/characters/tzipora)'s circle, and her unprejudiced curiosity and social grace are traits her peers admire. She has a friendly, if unusual bond with Tzipora.
 
@@ -18,7 +18,7 @@ She is sensitive and diplomatic, and is well-liked for her sense of justice and 
 
 * **<span class="navicon">💬</span> Name**: Coretti Gloria Adoula
 * **<span class="navicon">💼</span> Occupation**: Student
-* **<span class="navicon">🏠</span> Residence**: Camro, Borough of Lola, {{<link/oslola>}}, {{<link/vekllei>}}
+* **<span class="navicon">🏠</span> Residence**: Camro, Borough of Lola, [[Oslola]], [[Vekllei]]
 * **<span class="navicon">🔄</span> Age**: 17
 </details>
 

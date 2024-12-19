@@ -15,7 +15,7 @@ aliases:
 - /mira/
 ---
 {{<note series>}}
-Mira is part of the {{<link/atlantic>}}
+Mira is part of the [[atlantic|Commonwealth Atlantic]]
 {{</note>}}
 
 {{<infobox/country
@@ -31,11 +31,11 @@ Mira is part of the {{<link/atlantic>}}
 	 Accession="1976, as part of the Azores Delegation"
  >}}
 
-The <span class="fi fi-mira"></span> **Mira Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} and in the eastern Atlantic Ocean. It is part of a small island group comprising the neighbouring Porto Santo republic and the Desert and Savage Islands. Mira is the largest of them, and forms the basis of its industry and culture.
+The <span class="fi fi-mira"></span> **Mira Republic** is a [constituent republic](/republics/) of [[Vekllei]] and in the eastern Atlantic Ocean. It is part of a small island group comprising the neighbouring Porto Santo republic and the Desert and Savage Islands. Mira is the largest of them, and forms the basis of its industry and culture.
 
 Originally a Portuguese colony, Mira and Porto Santo were uninhabited when discovered and settled in the 15th Century. The islands initially served an important role as a safe harbour in the Age of Discovery, but diminished in importance after the annexation of the Azores and Canary Islands in the late 15th Century. Agriculture has long since dominated the economy, comprising farms of European fruits and vegetables as well as cash crops like sugarcane, and tropical fruit. Sugar processing and fishing supplement the economy, and continue to thrive there today.
 
-In federalisation, island of Mira underwent large political transformations that rapidly developed its civic and economic infrastructure to prepare it as an administrative centre of the {{<link/atlantic>}}. It plays an important strategic role in the region, and hosts {{<link/ns-mira>}}.
+In federalisation, island of Mira underwent large political transformations that rapidly developed its civic and economic infrastructure to prepare it as an administrative centre of the [[atlantic|Commonwealth Atlantic]]. It plays an important strategic role in the region, and hosts [[ns-mira|Naval Station Mira]].
 
 The island of Mira is in fact the peak of a massive underwater volcano, and its physical relief is dramatic. Its climate is affected greatly by its terrain, but is generally warmed year-round by the Atlantic and Canarian ocean currents. Snow often falls across its mountaintops, which peak at over 1,800 meters. Because of these mountains, Mira receives much more rain than neighbouring Porto Santo.
 
@@ -51,7 +51,7 @@ The island has robust infrastructure to facilitate travel. It has a major intern
 - **Cabo Girão**: One of the highest sea cliffs in the world, offering breathtaking views and a glass skywalk for daring visitors.
 - **São Vicente Caves**: A series of volcanic caves that offer guided tours showcasing the geological history of the island.
 - **Atlantic International Airport**: The main airport in Mira, providing connections to Vekllei and other international destinations.
-- **{{<link/ns-mira>}}**: Major naval station servicing air escort destroyers for the {{<link/marine>}}.
+- **[[ns-mira|Naval Station Mira]]**: Major naval station servicing air escort destroyers for the [[marine|Marine Services]].
 - **Port of Fennel**: A key maritime hub supporting passenger ships, cargo traffic, and ferry services to nearby islands.
 - **Mira Nuclear Power Plant**: The main provider of electricity on the island, employing the latest No. 4 Commercial Fusion Reactor.
 - **Public Transport System**: Trains, trams and cable cars connecting major towns and tourist attractions, facilitating easy movement around the island.

@@ -24,7 +24,7 @@ aliases:
 	InService="15"
 >}}
 
-The **Baker-class air escort destroyer** is a class of aerial warfare destroyer of the {{<link/marine>}} of {{<link/vekllei>}}. They were constructed at {{<link/ns-mira>}} in the late 2020s and throughout the 2030s to improve the air defence of Vekllei fleets. They serve with the Commonwealth, Arctic and Antarctic fleets to provide air defence and escort capabilities for naval task groups. With a displacement of 8,500 tons and a length of 160 meters, the ship is equipped to operate independently in contested maritime environments. Its production has been succeeded by the [*Swordfish*](/swordfish-class/) class.
+The **Baker-class air escort destroyer** is a class of aerial warfare destroyer of the [[marine|Marine Services]] of [[Vekllei]]. They were constructed at [[ns-mira|Naval Station Mira]] in the late 2020s and throughout the 2030s to improve the air defence of Vekllei fleets. They serve with the Commonwealth, Arctic and Antarctic fleets to provide air defence and escort capabilities for naval task groups. With a displacement of 8,500 tons and a length of 160 meters, the ship is equipped to operate independently in contested maritime environments. Its production has been succeeded by the [*Swordfish*](/swordfish-class/) class.
 
 Propelled by a [*Vampire*](/nmpr/) marine nuclear power plant, the Baker-class can maintain a speed of 35 knots, making it among the fastest large Vekllei warships. The crew complement of 320 personnel includes a mix of officers and enlisted sailors trained in various combat and support roles. The class is also equipped with a hanger capable of stowing two naval aviation helijets for anti-submarine and surface combat roles.
 

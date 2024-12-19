@@ -21,6 +21,6 @@ image: /images/fullres/caribpolice.jpg
 Policewoman found a better hat.
 {{</note>}}
 
-They actually do have proper sunhats, she just forgot hers. Her badge indicates she's from the {{<link/grenadines>}}, which is a constituent republic of {{<link/vekllei>}}.
+They actually do have proper sunhats, she just forgot hers. Her badge indicates she's from the [[Grenadines]], which is a constituent republic of [[Vekllei]].
 
 There are over 600 islands and islets there, most uninhabited. The police get around on little boats.

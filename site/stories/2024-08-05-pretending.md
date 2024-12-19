@@ -22,4 +22,4 @@ image: /images/fullres/attention.jpg
 She's pretending to listen to you so she can get back to reading.
 {{</note>}}
 
-{{<link/tzipora>}}'s mother was Gitana, so she's trying to learn more about Spain. She's looking forward to finding out how the civil war ends.
+[[Tzipora]]'s mother was Gitana, so she's trying to learn more about Spain. She's looking forward to finding out how the civil war ends.

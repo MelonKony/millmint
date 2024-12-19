@@ -27,7 +27,7 @@ aliases:
 * Thanks to advances in automatic construction and political interest in rapid development, the cityscapes of Vekllei change frequently and rapidly.
 {{</note>}}
 
-If nothing else, {{<link/vekllei>}} is a nation of infrastructure. The quality and abundance of its infrastructure characterises all Vekllei islands, second perhaps only to their natural beauty and striking volcanic mounts. As is the case of all Vekllei theories of living, the principles that influence its cities are standardised and attempt to be employed equally across the country. Together, they are known as *Atlantic Municipalism* -- the values of the Vekllei city.
+If nothing else, [[Vekllei]] is a nation of infrastructure. The quality and abundance of its infrastructure characterises all Vekllei islands, second perhaps only to their natural beauty and striking volcanic mounts. As is the case of all Vekllei theories of living, the principles that influence its cities are standardised and attempt to be employed equally across the country. Together, they are known as *Atlantic Municipalism* -- the values of the Vekllei city.
 
 {{<note>}}
 **Principles of Atlantic Municipalism**
@@ -43,9 +43,9 @@ If nothing else, {{<link/vekllei>}} is a nation of infrastructure. The quality a
 
 In the decades since independence, many of these principles have been refined to mean specific things. "Open air and clean water" has come to mean flowing water, drinking fountains, sunlight and greenery. The abstract values of Atlantic Municipalism now generally refer to tangible things, and in this sense so too have Vekllei cities developed common appearances. In the mid-21st Century, it is now possible to distinguish Vekllei cities by their design and architecture -- a relatively uncommon feat in today's internationalist world.
 
-Almost as striking as the qualities of a Vekllei city, however, is just how quickly they grow and develop. The computerisation of construction, from design to assembly, has removed most physical labour from many types of construction, and so homes [now go up in days instead of months](/stories/construction/). Municipalities have broad authority to develop public spaces, and are supported by quality resources like the {{<link/bureau-of-housing>}} and its professional civic architects, or the {{<link/nch>}}.
+Almost as striking as the qualities of a Vekllei city, however, is just how quickly they grow and develop. The computerisation of construction, from design to assembly, has removed most physical labour from many types of construction, and so homes [now go up in days instead of months](/stories/construction/). Municipalities have broad authority to develop public spaces, and are supported by quality resources like the [[Bureau of Housing]] and its professional civic architects, or the [[nch|National Construction House]].
 
-In the span of a week, Vekllei roads can be pedestrianised and lined with leafy eucalypts -- they will have new gutters and street furniture, and may even have tracks for trams and freightcars. Large municipal projects, usually directed by the local {{<link/bureau-of-public-works>}}, require more planning but move just as quickly. The base unit of municipal planning in Vekllei is the fortnight:
+In the span of a week, Vekllei roads can be pedestrianised and lined with leafy eucalypts -- they will have new gutters and street furniture, and may even have tracks for trams and freightcars. Large municipal projects, usually directed by the local [[Bureau of Public Works]], require more planning but move just as quickly. The base unit of municipal planning in Vekllei is the fortnight:
 
 1. Once interest in a project has been raised, initial drawings are developed along with computer diagrams (which may take some months)
 2. Two weeks for planning and approval

@@ -13,12 +13,12 @@ aliases:
 - /economics/
 ---
 {{<note series>}}
- This article is about {{<link/vekllei>}}
+ This article is about [[Vekllei]]
 {{</note>}}
 
 READ MORE NEW KEYNESIAN GEORGIST ETC
 
-The {{<link/vekllei>}} economy is the only economy of its size to employ effective moneylessness.[^moneylessness] This idea seems to break basic the premise of markets and economic theory, but this is not really true. Beneath opaque language, a complex federal system, complex social economics and a multilayered financial system, Vekllei economic principles are identifiable, traceable and sober. In its sum, Vekllei represents a reformed rather than revolutionary market.
+The [[Vekllei]] economy is the only economy of its size to employ effective moneylessness.[^moneylessness] This idea seems to break basic the premise of markets and economic theory, but this is not really true. Beneath opaque language, a complex federal system, complex social economics and a multilayered financial system, Vekllei economic principles are identifiable, traceable and sober. In its sum, Vekllei represents a reformed rather than revolutionary market.
 
 ## Summary
 

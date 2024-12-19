@@ -33,11 +33,11 @@ aliases:
    Incorporation="ScL"
  >}}
 
-The <span class="fi fi-min-post fis"></span>  **Commonwealth Postal Service** (commonly known as *Commonwealth Post* or *the Post*) is the national postal carrier of {{<link/vekllei>}}. It handles almost all postage in the country, and delivers nearly 50 million pieces of mail daily. The Post is one of the oldest institutions of its kind in Vekllei, and its history can be traced to the founding of the Royal Mail Corporation in 1422 in {{<link/oslola>}}, when it served as a courier system between the Oslolan Kingdom and its largely mercenary military force. In 1742, it was formalised as a modern postal system available to the civilian public, and was reformed in the postwar period to provide a variety of services available to all Commonwealth residents.
+The <span class="fi fi-min-post fis"></span>  **Commonwealth Postal Service** (commonly known as *Commonwealth Post* or *the Post*) is the national postal carrier of [[Vekllei]]. It handles almost all postage in the country, and delivers nearly 50 million pieces of mail daily. The Post is one of the oldest institutions of its kind in Vekllei, and its history can be traced to the founding of the Royal Mail Corporation in 1422 in [[Oslola]], when it served as a courier system between the Oslolan Kingdom and its largely mercenary military force. In 1742, it was formalised as a modern postal system available to the civilian public, and was reformed in the postwar period to provide a variety of services available to all Commonwealth residents.
 
-Next to {{<link/air>}}, the Post is perhaps Vekllei's most visible organisation overseas. For many foreigners, Commonwealth Post cargo aircraft may be the closest they ever come to seeing the obscure Atlantic country for themselves. For Vekllei residents, the historic organisation is a living relic of the country's diverse and ancient history, and its evolution as a company reflects Vekllei's own development under the historic kingdoms, colonial occupation, and federal independence.
+Next to [[air|Commonwealth Airways]], the Post is perhaps Vekllei's most visible organisation overseas. For many foreigners, Commonwealth Post cargo aircraft may be the closest they ever come to seeing the obscure Atlantic country for themselves. For Vekllei residents, the historic organisation is a living relic of the country's diverse and ancient history, and its evolution as a company reflects Vekllei's own development under the historic kingdoms, colonial occupation, and federal independence.
 
-Today, the Post is headquartered in {{<link/oslola>}} across a dozen or so city blocks dedicated to administration, manufacturing, vehicle storage and Vekllei's General Post Office. There are over 6,400 post offices across Vekllei today, connecting all 68 of its far-flung [republics](/republics/). Oslola is also home to the {{<link/un>}} Universal Postal Union, the body responsible for coordinating international postage.
+Today, the Post is headquartered in [[Oslola]] across a dozen or so city blocks dedicated to administration, manufacturing, vehicle storage and Vekllei's General Post Office. There are over 6,400 post offices across Vekllei today, connecting all 68 of its far-flung [republics](/republics/). Oslola is also home to the [[UN]] Universal Postal Union, the body responsible for coordinating international postage.
 
 ## History
 
@@ -45,11 +45,11 @@ Today, the Post is headquartered in {{<link/oslola>}} across a dozen or so city 
 Read more: *[The Men and Women of the Royal Mail in Vekllei](/posts/2021-02-01-mail/)*
 {{</note>}}
 
-Although most Vekllei republics have had independent or foreign postal services throughout their histories, the Post as a continuous institution was founded in 1422 by the Desimou VII, King of {{<link/oslola>}}, in the late Period of Rest. During this time, the lords of Oslola had established significant mercantile holdings across the North Atlantic, and had developed reliable systems of trade throughout Ireland and {{<link/denmark>}}. The Royal Mail of Oslola was first established as a royal communications organ that sought to ensure stability of Desimou rule across its North Atlantic Empire. In this period, the Mail consisted of a handful of messengers attached to the feudal military apparatus of the Vekllei monarchy.
+Although most Vekllei republics have had independent or foreign postal services throughout their histories, the Post as a continuous institution was founded in 1422 by the Desimou VII, King of [[Oslola]], in the late Period of Rest. During this time, the lords of Oslola had established significant mercantile holdings across the North Atlantic, and had developed reliable systems of trade throughout Ireland and [[Denmark]]. The Royal Mail of Oslola was first established as a royal communications organ that sought to ensure stability of Desimou rule across its North Atlantic Empire. In this period, the Mail consisted of a handful of messengers attached to the feudal military apparatus of the Vekllei monarchy.
 
 ![Picture of mail seaplane](/images/fairie.jpg "An MS Model 54-2 *Fairie*, used to deliver mail to Vekllei's islands and islets | *[The Fairie](/posts/2021-02-03-fairie/)*")
 
-The Royal Mail would not come to resemble a conventional civilian postal service until 1652, when the Kingdom expanded postal contracts to the privy councils of the {{<link/aismious>}} and {{<link/kala>}} territories. It was not until nearly a century later, in 1742, that company services were opened to all land-owning Oslolans, and the Mail came to resemble its contemporary mandate. During Oslola's colonisation as part of the British Atlantic Territories, it operated as the Royal Mail Service, a name it retained in independence.
+The Royal Mail would not come to resemble a conventional civilian postal service until 1652, when the Kingdom expanded postal contracts to the privy councils of the [[Aismious]] and [[Kala]] territories. It was not until nearly a century later, in 1742, that company services were opened to all land-owning Oslolans, and the Mail came to resemble its contemporary mandate. During Oslola's colonisation as part of the British Atlantic Territories, it operated as the Royal Mail Service, a name it retained in independence.
 
 The Commonwealth Postal Service was established in 2015, at the founding of the 2nd Vekllei Federal Republic and 4th Commonwealth. It consolidated existing mail services across the republics, and replaced British services that operated during occupation. In 2017, the first year of independence, Mi Miou was elected as the world's first female Postmistress General. The postwar period of the Post has been marked by a rapid expansion of services in Vekllei and abroad. World Post, the international for-profit arm of the Post, was established in 2034.
 
@@ -59,7 +59,7 @@ The Commonwealth Postal Service was established in 2015, at the founding of the 
 Read more: *[The Postmistress of Vekllei](/posts/2021-02-02-postmistress/)*
 {{</note>}}
 
-Commonwealth Post is a constituent corporation of the {{<link/bureau-of-post>}}, which is part of the federal {{<link/ministry-of-culture>}}. As is typical of state monopolies in Vekllei, the Post is vertically integrated, and the majority of its contract work is consolidated directly into its organisation.
+Commonwealth Post is a constituent corporation of the [[Bureau of Post and Telecommunications]], which is part of the federal [[Ministry of Culture]]. As is typical of state monopolies in Vekllei, the Post is vertically integrated, and the majority of its contract work is consolidated directly into its organisation.
 
 The Post has two offices of administration: the General Office and the Office of the Postmistress, which are responsible for daily operations and interdepartmental administration respectively.
 
@@ -130,11 +130,11 @@ Commonwealth Post is best known overseas as the **World Post**, which offers ser
 
 ### Finance
 
-Postal banking is accessible via the {{<link/commbank>}} through the Post's Financial Services Office. These serve an important role in financial management for immigrant populations, facilitating money transfers and overseas accounting.
+Postal banking is accessible via the [[Commonwealth Bank]] through the Post's Financial Services Office. These serve an important role in financial management for immigrant populations, facilitating money transfers and overseas accounting.
 
 ### Telecommunications
 
-{{<link/cosma>}} is Vekllei's largest telecommunications company, and has deep ties to Commonwealth Post. It was founded as part of the Royal Mail in the 20th Century, but was spun off as an independent company upon the Post's reincorporation in 2015. They retain close corporate ties, and joint services like phone franking and dial-a-letter have demonstrated the value of close cooperation between the Vekllei postal and telecommunications industries.
+[[Cosma]] is Vekllei's largest telecommunications company, and has deep ties to Commonwealth Post. It was founded as part of the Royal Mail in the 20th Century, but was spun off as an independent company upon the Post's reincorporation in 2015. They retain close corporate ties, and joint services like phone franking and dial-a-letter have demonstrated the value of close cooperation between the Vekllei postal and telecommunications industries.
 
 ## Operations
 

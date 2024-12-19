@@ -6,7 +6,7 @@ fi: fi fi-tzipora fis
 
 meta: false
 ---
-**Tzipora** *lo Ula de Helette* **Azela**, often called **Zelda** by her friends, is the main character of this project. She was born in 2047 in Colombia, but lives in {{<link/vekllei>}} with [Baron](/characters/baron/).
+**Tzipora** *lo Ula de Helette* **Azela**, often called **Zelda** by her friends, is the main character of this project. She was born in 2047 in Colombia, but lives in [[Vekllei]] with [Baron](/characters/baron/).
 
 Though born to Vekllei parents, she was raised overseas in Colombia and was later educated in the United States. Since her arrival in Vekllei, she has returned to school and has formed sincere and close friendships, stabilising the more neurotic and anxious parts of her personality.
 
@@ -15,7 +15,7 @@ Though born to Vekllei parents, she was raised overseas in Colombia and was late
 
 * **<span class="navicon">💬</span> Name**: Tzipora "Zelda" Azela
 * **<span class="navicon">💼</span> Occupation**: Student
-* **<span class="navicon">🏠</span> Residence**: Seispri, Borough of Lola, {{<link/oslola>}}, {{<link/vekllei>}}
+* **<span class="navicon">🏠</span> Residence**: Seispri, Borough of Lola, [[Oslola]], [[Vekllei]]
 * **<span class="navicon">🔄</span> Age**: 16
 </details>
 

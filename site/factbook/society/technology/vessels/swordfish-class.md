@@ -24,7 +24,7 @@ aliases:
 	InService="17"
 >}}
 
-The **Swordfish-class air escort destroyer** is a class of aerial warfare destroyer of the {{<link/marine>}} of {{<link/vekllei>}}. The Swordfish-class is a successor of the [*Baker*](/baker-class/)-class, incorporating updated technologies and design improvements. The class maintains its focus on air defence, providing escort for fleet carriers and other Vekllei naval formations. It is slightly larger than the *Baker* class, with a displacement of 9,000 tons and a length of 165 meters. Its home station is {{<link/ns-mira>}}.
+The **Swordfish-class air escort destroyer** is a class of aerial warfare destroyer of the [[marine|Marine Services]] of [[Vekllei]]. The Swordfish-class is a successor of the [*Baker*](/baker-class/)-class, incorporating updated technologies and design improvements. The class maintains its focus on air defence, providing escort for fleet carriers and other Vekllei naval formations. It is slightly larger than the *Baker* class, with a displacement of 9,000 tons and a length of 165 meters. Its home station is [[ns-mira|Naval Station Mira]].
 
 The destroyer is powered by the same [*Vampire*](/nmpr/) marine nuclear power plant as its predecessor, but improvements to its hydrodynamics allows slightly faster sustained speeds of up to 33 knots. The crew size is slightly reduced to 310, due to increased automation in various ship systems.
 

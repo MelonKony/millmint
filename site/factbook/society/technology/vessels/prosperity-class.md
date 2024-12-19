@@ -24,7 +24,7 @@ aliases:
 	InService="6"
 >}}
 
-The **Prosperity-class Aircraft Cruiser** is a class of cruiser of the {{<link/marine>}} of {{<link/vekllei>}}. It is a hybrid warship that combines the fire-support and missile defence role of a traditional cruiser with the ability to carry a small complement of VTOL aircraft. Designed primarily for independent operations or as part of smaller task forces, the class is capable of supporting limited air operations while also providing surface warfare capabilities. Its home station is {{<link/ns-java>}} in {{<link/java>}}.
+The **Prosperity-class Aircraft Cruiser** is a class of cruiser of the [[marine|Marine Services]] of [[Vekllei]]. It is a hybrid warship that combines the fire-support and missile defence role of a traditional cruiser with the ability to carry a small complement of VTOL aircraft. Designed primarily for independent operations or as part of smaller task forces, the class is capable of supporting limited air operations while also providing surface warfare capabilities. Its home station is [[ns-java|Naval Station Java]] in [[Java]].
 
 Displacing 30,000 tons and measuring 240 meters in length, the Prosperity-class is powered by the [*Vampire*](/nmpr/) marine nuclear power plant, allowing it to operate at a sustained speed of 27 knots. The vessel carries a typical air wing of 12 to 16 aircraft, including VTOL multirole fighters and anti-submarine helijets. These aircraft are launched from a large flat deck at the aft of the ship, enabling up to 4 aircraft on deck at a time.
 

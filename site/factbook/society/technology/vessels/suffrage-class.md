@@ -24,7 +24,7 @@ aliases:
 	InService="32"
 >}}
 
-The **Suffrage-class corvette** is a class of corvette of the {{<link/marine>}} of {{<link/vekllei>}}. The Suffrage-class is a smaller, versatile surface combatant designed for patrol, escort, and coastal defence roles. With a displacement of 2,500 tons and a length of 100 meters, the class is large for a corvette, and has an operational capability closer to a frigate than a coastal patrol vessel.
+The **Suffrage-class corvette** is a class of corvette of the [[marine|Marine Services]] of [[Vekllei]]. The Suffrage-class is a smaller, versatile surface combatant designed for patrol, escort, and coastal defence roles. With a displacement of 2,500 tons and a length of 100 meters, the class is large for a corvette, and has an operational capability closer to a frigate than a coastal patrol vessel.
 
 Powered by the [*Vampire*](/nmpr/) marine nuclear power plant, the corvette can reach speeds of up to 35 knots, making it fast and agile for its size. Its relatively small crew of 120 operates the ship’s various systems, including weapons, sensors, and communications equipment, and retains a suite of automatic targeting and detection systems to reduce crew workload.
 

@@ -22,6 +22,6 @@ image: /images/fullres/pademelon.jpg
 She found a pademelon.
 {{</note>}}
 
-Pademelons were introduced to {{<link/oslola>}} by mistake, when they escaped from a friendship delegation in the 1950s.
+Pademelons were introduced to [[Oslola]] by mistake, when they escaped from a friendship delegation in the 1950s.
 
 A century on, they thrive in Oslola's cool, temperate rainforests, meaning that the island is the only place outside of Tasmania you can see these wallabies in the wild.

@@ -21,7 +21,7 @@ Part of the *[bulletin](/bulletin/)* series of articles
 {{<note panel>}}
 **Summary**
 
-* Indicated by its actions and diplomacy, the {{<link/vekllei>}} state does not recognise Westphalian principles of inviolable sovereignty.
+* Indicated by its actions and diplomacy, the [[Vekllei]] state does not recognise Westphalian principles of inviolable sovereignty.
 * In regular diplomacy, this disbelief has little effect, and Vekllei has functional diplomatic relations with most countries in the world.
 * In cases of law however, Vekllei has among the most assertive examples of concepts of universal jurisdiction in the world.
 * As a consequence, Vekllei is a case study in concepts of universal jurisdiction and extraterritorial prosecution.

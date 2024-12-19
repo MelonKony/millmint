@@ -24,7 +24,7 @@ aliases:
 	InService="13"
 >}}
 
-The **Capricorn-class Attack Submarine** is a class of submarine of the {{<link/marine>}} of {{<link/vekllei>}}. The class is a nuclear-powered vessel designed for a variety of underwater combat missions, including anti-ship, anti-submarine, and reconnaissance roles. With a submerged displacement of 7,500 tons and a length of 95 meters, the submarine is a key asset in Vekllei naval formations, capable of operating independently for extended periods without surfacing.
+The **Capricorn-class Attack Submarine** is a class of submarine of the [[marine|Marine Services]] of [[Vekllei]]. The class is a nuclear-powered vessel designed for a variety of underwater combat missions, including anti-ship, anti-submarine, and reconnaissance roles. With a submerged displacement of 7,500 tons and a length of 95 meters, the submarine is a key asset in Vekllei naval formations, capable of operating independently for extended periods without surfacing.
 
 Powered by a variant of the [*NMPR*](/nmpr/) marine nuclear propulsion system, the Capricorn-class can achieve submerged speeds of up to 35 knots with its magnetohydrodynamic (MHD) jets. Its quiet propulsion system is designed for stealth, allowing it to remain undetected while conducting patrols or approaching enemy fleets. The submarine has a typical crew of 100, including officers and specialists trained for long-duration underwater missions.
 

@@ -26,4 +26,4 @@ Yes, this is the 21st Century.
 
 The scarf around Tzipora's neck is a "gi," a ceremonial pleat. It is usually worn draped over a skirt, as seen in many of my other pictures. It has magic runes stitched in it for luck, prosperity, whatever
 
-People from {{<link/oslola>}} love swords, and having your photo taken with one isn't unusual. Other [republics](/republics/) are not so obsessed.
+People from [[Oslola]] love swords, and having your photo taken with one isn't unusual. Other [republics](/republics/) are not so obsessed.

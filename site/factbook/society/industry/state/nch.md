@@ -36,6 +36,6 @@ aliases:
 	 Incorporation="ScL"
  >}}
 
-<span class="fi fi-min-nch fis"></span>  **National Construction House** (*NCH*) is the largest construction outfit in {{<link/vekllei>}} and among the largest construction companies in the world. Despite its status as a [government-owned corporation](/state-industry/), it is heavily directed by government policy and functions closer to a department of the {{<link/bureau-of-public-works>}}. This privileged status also benefits the NCH in several ways, including access to conscript labour from [corsosva](/corsosva/) and access to government-supplied equipment and robotics that automate most residential construction.
+<span class="fi fi-min-nch fis"></span>  **National Construction House** (*NCH*) is the largest construction outfit in [[Vekllei]] and among the largest construction companies in the world. Despite its status as a [government-owned corporation](/state-industry/), it is heavily directed by government policy and functions closer to a department of the [[Bureau of Public Works]]. This privileged status also benefits the NCH in several ways, including access to conscript labour from [corsosva](/corsosva/) and access to government-supplied equipment and robotics that automate most residential construction.
 
 As a policy-directed company, the National Construction House builds the vast majority of homes in Vekllei, and is closely associated with almost all construction in the country.

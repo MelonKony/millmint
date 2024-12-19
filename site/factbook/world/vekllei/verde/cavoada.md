@@ -13,7 +13,7 @@ aliases:
 - /cavoada/
 ---
 {{<note series>}}
-Cavoada is part of {{<link/verde>}}
+Cavoada is part of [[verde|Commonwealth Verde]]
 {{</note>}}
 
 {{<infobox/country
@@ -30,7 +30,7 @@ Cavoada is part of {{<link/verde>}}
 	 Accession="1945, as part of the British Atlantic Territories"
  >}}
 
-The <span class="fi fi-cavoada"></span> **Cavoada Republic** is a [constituent republic](/republics/) of {{<link/vekllei>}} in the Atlantic, off the coast of the African Sahara. It is part of the {{<link/verde>}} island group and Commonwealth, situated between the republics of Viana and Sal. It is a striking island of complex, moonlike terrain and conspicuous relief, dominated by the peak of Monte Gordo from which you can see the entire archipelago on a clear day.
+The <span class="fi fi-cavoada"></span> **Cavoada Republic** is a [constituent republic](/republics/) of [[Vekllei]] in the Atlantic, off the coast of the African Sahara. It is part of the [[verde|Commonwealth Verde]] island group and Commonwealth, situated between the republics of Viana and Sal. It is a striking island of complex, moonlike terrain and conspicuous relief, dominated by the peak of Monte Gordo from which you can see the entire archipelago on a clear day.
 
 The island is long and thin, and shaped like a fishhook. Like much of the archipelago, it is dry and temperate, with low coastal land lying barren and treeless. As the terrain climbs into dramatic hills and ranges, shrubs and trees appear. The tops and slopes of mountains are quite lush and spectacularly pretty. The republic is famous for its narrow valleys that snake through the interior of the island.
 

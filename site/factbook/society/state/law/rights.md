@@ -22,7 +22,7 @@ The Universal Civil Rights of the New Atlantic, commonly the *Universal Rights* 
 
 1. **Universal Civil Rights**
 
-    1. The Universal Civil Rights of the New Atlantic guarantees fundamental rights to the individual person in {{<link/vekllei>}}. It supports constitutional values of democracy, equality and freedom.
+    1. The Universal Civil Rights of the New Atlantic guarantees fundamental rights to the individual person in [[Vekllei]]. It supports constitutional values of democracy, equality and freedom.
 
     2. The Vekllei Commonwealth (the Commonwealth) must maintain, defend, promote and fulfil these rights.
 
@@ -92,7 +92,7 @@ No one may be subjected to slavery, servitude or forced labour.
 
     1. Everyone has the right to freedom of conscience, religion, thought, belief and opinion.
 
-    2. Religious observances may be conducted in Commonwealth institutions where they follow rules established by the {{<link/ministry-of-culture>}}, are conducted on an equitable basis and their attendance is free and voluntary.
+    2. Religious observances may be conducted in Commonwealth institutions where they follow rules established by the [[Ministry of Culture]], are conducted on an equitable basis and their attendance is free and voluntary.
 
     3. This section does not prevent legislation recognising ­
 
@@ -129,7 +129,7 @@ Everyone has the right to freedom of association.
         1. to participate in political organisations, and
         2. to campaign for a political belief or cause.
 
-    2. Every citizen has the right to free, fair and regular elections for any legislative body established by the Constitution or organised by the {{<link/commonwealth-electoral-commission>}}.
+    2. Every citizen has the right to free, fair and regular elections for any legislative body established by the Constitution or organised by the [[Commonwealth Electoral Commission]].
 
     3. Every adult citizen has the right ­
 
@@ -247,7 +247,7 @@ Everyone has the right ­
 
         1. do not discriminate on the basis of race;
         2. are registered with the Commonwealth;
-        3. adhere to the National Curriculum as determined by the {{<link/parliament-of-education>}}; and
+        3. adhere to the National Curriculum as determined by the [[Education Parliament]]; and
         4. maintain standards that are not inferior to standards at comparable public educational institutions.
 
 26. **Rights of children**

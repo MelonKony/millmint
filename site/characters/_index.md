@@ -24,14 +24,14 @@ aliases:
 
 <a href="/characters/tzipora/"><button class="centre">See all stories featuring Tzipora</button></a>
 
-**Tzipora** *lo Ula de Helette* **Azela**, often called **Zelda** by her friends, is the main character of this project. She was born in 2047 in Colombia, but lives in {{<link/vekllei>}} with Baron.
+**Tzipora** *lo Ula de Helette* **Azela**, often called **Zelda** by her friends, is the main character of this project. She was born in 2047 in Colombia, but lives in [[Vekllei]] with Baron.
 
 Though born to Vekllei parents, she was raised overseas in Colombia and was later educated in the United States. Since her arrival in Vekllei, she has returned to school and has formed sincere and close friendships, stabilising the more neurotic and anxious parts of her personality.
 
 {{<note panel>}}
 * **<span class="navicon">💬</span> Name**: Tzipora "Zelda" Azela
 * **<span class="navicon">💼</span> Occupation**: Student
-* **<span class="navicon">🏠</span> Residence**: Seispri, Borough of Lola, {{<link/oslola>}}, {{<link/vekllei>}}
+* **<span class="navicon">🏠</span> Residence**: Seispri, Borough of Lola, [[Oslola]], [[Vekllei]]
 * **<span class="navicon">🔄</span> Age**: 16
 {{</note>}}
 
@@ -66,14 +66,14 @@ She has a close but tempestuous relationship with Tzipora, and a tepid connectio
 {{<note panel>}}
 * **<span class="navicon">💬</span> Name**: Cobian Queismesnah
 * **<span class="navicon">💼</span> Occupation**: Student
-* **<span class="navicon">🏠</span> Residence**: Alveg, Borough of Lola, {{<link/oslola>}}, {{<link/vekllei>}}
+* **<span class="navicon">🏠</span> Residence**: Alveg, Borough of Lola, [[Oslola]], [[Vekllei]]
 * **<span class="navicon">🔄</span> Age**: 16
 {{</note>}}
 
 {{<note panel>}}
 ##### Appearance
 
-Cobian is amber-eyed with black hair, descended mostly from Inuit-Scandinavian ethnic groups common in {{<link/oslola>}}. She is tall for her age, and has mostly Inuit features. She styles her long hair in many different ways, most commonly in a bun or braids. She is healthy but inactive, and tans easily without freckling. Cobian is naturally graceful and well-mannered, traits Tzipora is envious of.
+Cobian is amber-eyed with black hair, descended mostly from Inuit-Scandinavian ethnic groups common in [[Oslola]]. She is tall for her age, and has mostly Inuit features. She styles her long hair in many different ways, most commonly in a bun or braids. She is healthy but inactive, and tans easily without freckling. Cobian is naturally graceful and well-mannered, traits Tzipora is envious of.
 
 Her taste in clothes ranges from prim middle-class ensembles to more adventurous Brazza and Maoist Revival fare. Indigenous to Oslola, she is both fascinated by and suspicious of the outside world, and her cautious entry into foreign trends indicates her desire to move beyond her traditional Oslolan upbringing.
 
@@ -96,12 +96,12 @@ Zelda has a stabilising effect on Cobian, rounding out some of her conservative 
 
 **Baron** *lo Ula de Tiria* **Spector** is Tzipora's guardian in on way or another. Whether he's a surrogate father, adoptive parent, mentor or friend, his title is unclear but their relationship is fairly straightforward. Tzipora lives with him in Seispri and his relationship with her is both paternal and respectful as an equal.
 
-Baron has spent most of his life abroad in some capacity in service of his government, and has few personal connections in {{<link/vekllei>}}. He is a distant and serious person, but also mild and unopinionated. He is good at what he does.
+Baron has spent most of his life abroad in some capacity in service of his government, and has few personal connections in [[Vekllei]]. He is a distant and serious person, but also mild and unopinionated. He is good at what he does.
 
 {{<note panel>}}
 * **<span class="navicon">💬</span> Name**: Baron Azela
 * **<span class="navicon">💼</span> Occupation**: Director of Operations, Section 12, Home Office at National Intelligence
-* **<span class="navicon">🏠</span> Residence**: Seispri, Borough of Lola, {{<link/oslola>}}, {{<link/vekllei>}}
+* **<span class="navicon">🏠</span> Residence**: Seispri, Borough of Lola, [[Oslola]], [[Vekllei]]
 * **<span class="navicon">🔄</span> Age**: 41
 {{</note>}}
 
@@ -129,12 +129,12 @@ He has a warm, platonic relationship with Ayn, who completes their household. Th
 
 **Ayn Lai-Lebedev** is a longtime associate of Baron and a maternal figure to Tzipora. She commands an affectionate and stable presence, intelligent and emotionally secure in her work and home life.
 
-She was once engaged to Baron's friend and comrade George Angelopoulos, who perished in the {{<link/haiti>}} Intervention. She has remained unmarried and lives a social, if solitary life with a circle of close friends. Upon Tzipora's arrival in {{<link/vekllei>}}, she reconnects with Baron.
+She was once engaged to Baron's friend and comrade George Angelopoulos, who perished in the [[Haiti]] Intervention. She has remained unmarried and lives a social, if solitary life with a circle of close friends. Upon Tzipora's arrival in [[Vekllei]], she reconnects with Baron.
 
 {{<note panel>}}
 * **<span class="navicon">💬</span> Name**: Ayn Lai-Lebedev
 * **<span class="navicon">💼</span> Occupation**: Strategic Analysis Officer, Section 8, Home Office at National Intelligence
-* **<span class="navicon">🏠</span> Residence**: Nike, Borough of the Great Coast, {{<link/oslola>}}, {{<link/vekllei>}}
+* **<span class="navicon">🏠</span> Residence**: Nike, Borough of the Great Coast, [[Oslola]], [[Vekllei]]
 * **<span class="navicon">🔄</span> Age**: 41
 {{</note>}}
 
@@ -167,7 +167,7 @@ Imposing in both attitude and posture, Moise is feared and respected among his p
 {{<note panel>}}
 * **<span class="navicon">💬</span> Name**: Moise Hasapis
 * **<span class="navicon">💼</span> Occupation**: Student
-* **<span class="navicon">🏠</span> Residence**: Seispri, Borough of Lola, {{<link/oslola>}}, {{<link/vekllei>}}
+* **<span class="navicon">🏠</span> Residence**: Seispri, Borough of Lola, [[Oslola]], [[Vekllei]]
 * **<span class="navicon">🔄</span> Age**: 16
 {{</note>}}
 
@@ -191,14 +191,14 @@ He dislikes his parents and is protective over his younger sister, Penelope. He 
 
 <a href="/characters/coretti/"><button>See all stories featuring Coretti</button></a>
 
-**Coretti Gloria Adoula** is Moise's girlfriend. Born in the Congo, she lived in the Soviet Union before moving to {{<link/vekllei>}} at 6 years old. She has a knack for languages and speaks Oslolan fluently.
+**Coretti Gloria Adoula** is Moise's girlfriend. Born in the Congo, she lived in the Soviet Union before moving to [[Vekllei]] at 6 years old. She has a knack for languages and speaks Oslolan fluently.
 
 She is sensitive and diplomatic, and is well-liked for her sense of justice and impartiality. Her relationship with Moise brings her into Tzipora's circle, and her unprejudiced curiosity and social grace are traits her peers admire. She has a friendly, if unusual bond with Tzipora.
 
 {{<note panel>}}
 * **<span class="navicon">💬</span> Name**: Coretti Gloria Adoula
 * **<span class="navicon">💼</span> Occupation**: Student
-* **<span class="navicon">🏠</span> Residence**: Camro, Borough of Lola, {{<link/oslola>}}, {{<link/vekllei>}}
+* **<span class="navicon">🏠</span> Residence**: Camro, Borough of Lola, [[Oslola]], [[Vekllei]]
 * **<span class="navicon">🔄</span> Age**: 17
 {{</note>}}
 
@@ -226,12 +226,12 @@ Despite her apparent differences in temperament with her boyfriend Moise, Corett
 
 **Lin Zhi**, who prefers being addressed by her full name, is Tzipora's friend and occasional accomplice. She is surly, independent and uninterested in the opinions of others. She meets Tzipora at [Moshel St School](/moshel/).
 
-Like Tzipora, Zhi is a recent immigrant and despises her parents for uprooting her life to live in {{<link/vekllei>}}, from which she has retreated into traditionally Chinese cultural dress and signals. Tzipora is fascinated by her. Cobian and Coretti fear her.
+Like Tzipora, Zhi is a recent immigrant and despises her parents for uprooting her life to live in [[Vekllei]], from which she has retreated into traditionally Chinese cultural dress and signals. Tzipora is fascinated by her. Cobian and Coretti fear her.
 
 {{<note panel>}}
 * **<span class="navicon">💬</span> Name**: Lin Zhi
 * **<span class="navicon">💼</span> Occupation**: Student
-* **<span class="navicon">🏠</span> Residence**: Cossack, Borough of the Great Coast, {{<link/oslola>}}, {{<link/vekllei>}}
+* **<span class="navicon">🏠</span> Residence**: Cossack, Borough of the Great Coast, [[Oslola]], [[Vekllei]]
 * **<span class="navicon">🔄</span> Age**: 17
 {{</note>}}
 

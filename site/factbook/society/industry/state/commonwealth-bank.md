@@ -32,7 +32,7 @@ aliases:
 	 Incorporation="ScL"
  >}}
 
-The <span class="fi fi-min-combank fis"></span> **Commonwealth Bank** (also *Bank of Vekllei*) is the central bank and currency store of {{<link/vekllei>}}. It is operated by the {{<link/ministry-of-commerce>}} and maintains branches in all Vekllei republics and in many countries around the world. It is not autonomous and is beholden to the policy decisions of Ministry of Commerce and, in certain cases, the republic and commonwealth parliaments. Its sworn purpose, as instructed by the Floral Constitution, is to advocate for encourage growth and benefit Vekllei people.
+The <span class="fi fi-min-combank fis"></span> **Commonwealth Bank** (also *Bank of Vekllei*) is the central bank and currency store of [[Vekllei]]. It is operated by the [[Ministry of Commerce]] and maintains branches in all Vekllei republics and in many countries around the world. It is not autonomous and is beholden to the policy decisions of Ministry of Commerce and, in certain cases, the republic and commonwealth parliaments. Its sworn purpose, as instructed by the Floral Constitution, is to advocate for encourage growth and benefit Vekllei people.
 
 The Commonwealth Bank was founded 1642 as the Royal Bank in [Lola](/lola/), and is the fifth oldest bank in the world.
 

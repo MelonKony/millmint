@@ -26,13 +26,13 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>6000BC</b>
 			<span class="event">
-				<b>Earliest evidence of human settlement in {{<link/oslola>}}</b>
+				<b>Earliest evidence of human settlement in [[Oslola]]</b>
 			</span>
 		</li>
 		<li>
 			<b>1230BC</b>
 			<span class="event">
-				Irish settlers establish fishing communities on south coast of {{<link/oslola>}}
+				Irish settlers establish fishing communities on south coast of [[Oslola]]
 			</span>
 		</li>
 		<li>
@@ -89,8 +89,8 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>1100</b>
 			<span class="event">
-			{{<link/helvasia>}} is discovered by Scandinavians, who observe Arctic Sami living there<br>
-			{{<link/anguilla>}} and {{<link/antigua>}} are settled by Arawaks
+			[[Helvasia]] is discovered by Scandinavians, who observe Arctic Sami living there<br>
+			[[Anguilla]] and [[Antigua]] are settled by Arawaks
 			</span>
 		</li>
 		<li>
@@ -99,8 +99,8 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 				<b>Founding of the 2nd Commonwealth</b><br>
 				Aismo Desimou becomes king<br>
 				Capital moved to Altanehs<br>
-				Arawaks are displaced by Caribs in {{<link/antigua>}}<br>
-				Irish settlers establish Aran on {{<link/demon>}}
+				Arawaks are displaced by Caribs in [[Antigua]]<br>
+				Irish settlers establish Aran on [[Demon]]
 			</span>
 		</li>
 		<li>
@@ -132,75 +132,75 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>1422</b>
 			<span class="event">
-				The Royal Mail Service, predecessor to the {{<link/post>}}, is founded in Oslola.
+				The Royal Mail Service, predecessor to the [[post|Commonwealth Post]], is founded in Oslola.
 			</span>
 		</li>
 		<li>
 			<b>1440</b>
 			<span class="event">
-				{{<link/kala>}} enters a union with the 3rd Commonwealth
+				[[Kala]] enters a union with the 3rd Commonwealth
 			</span>
 		</li>
 		<li>
 			<b>1455</b>
 			<span class="event">
-			{{<link/costa-verde>}} is discovered and settled by {{<link/portugal>}}
+			[[Costa Verde]] is discovered and settled by [[Portugal]]
 			</span>
 		</li>
 		<li>
 			<b>1492</b>
 			<span class="event">
-			{{<link/antigua>}} is discovered by Europeans
+			[[Antigua]] is discovered by Europeans
 			</span>
 		</li>
 		<li>
 			<b>1600</b>
 			<span class="event">
 				<b>Beginning of Vekllei Late Period</b><br>
-				{{<link/oslola>}} loses the Six Years War to the British Empire and is capitulated as a colony of the British Empire.
+				[[Oslola]] loses the Six Years War to the British Empire and is capitulated as a colony of the British Empire.
 			</span>
 		</li>
 		<li>
 			<b>1642</b>
 			<span class="event">
-				{{<link/commbank>}} is founded in {{<link/oslola>}} as the Royal Bank
+				[[Commonwealth Bank]] is founded in [[Oslola]] as the Royal Bank
 			</span>
 		</li>
 		<li>
 			<b>1643</b>
 			<span class="event">
-			{{<link/helvasia>}} is rediscovered by Europeans and subsequently settled by whalers.
+			[[Helvasia]] is rediscovered by Europeans and subsequently settled by whalers.
 			</span>
 		</li>
 		<li>
 			<b>1689</b>
 			<span class="event">
-			{{<link/allia>}} and {{<link/aloi>}} are settled by the {{<link/uk>}}
+			[[Allia]] and [[Aloi]] are settled by the [[UK]]
 			</span>
 		</li>
 		<li>
 			<b>1692</b>
 			<span class="event">
-			{{<link/barbary>}} is founded as a slave estate known as Codrington's Island
+			[[Barbary]] is founded as a slave estate known as Codrington's Island
 			</span>
 		</li>
 		<li>
 			<b>1695</b>
 			<span class="event">
-			{{<link/antigua>}} and {{<link/barbados>}} are settled by the {{<link/uk>}}<br>
-			Combermere School opens in {{<link/barbados>}}
+			[[Antigua]] and [[Barbados]] are settled by the [[UK]]<br>
+			Combermere School opens in [[Barbados]]
 			</span>
 		</li>
 		<li>
 			<b>1815</b>
 			<span class="event">
-				{{<link/ascension>}} is settled by the {{<link/uk>}}
+				[[Ascension]] is settled by the [[UK]]
 			</span>
 		</li>
 		<li>
 			<b>1830</b>
 			<span class="event">
-				{{<link/atlantic-store>}} is founded in the {{<link/oslola>}}
+				[[atlantic-store|Atlantic]] is founded in the [[Oslola]]
 			</span>
 		</li>
 		<li>
@@ -218,7 +218,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>1841</b>
 			<span class="event">
-			The Ginnery is founded in {{<link/barbary>}}
+			The Ginnery is founded in [[Barbary]]
 			</span>
 		</li>
 		<li>
@@ -231,7 +231,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>1849</b>
 			<span class="event">
-				Royal University of the West Indies is founded in {{<link/antigua>}}
+				Royal University of the West Indies is founded in [[Antigua]]
 			</span>
 		</li>
 		<li>
@@ -243,7 +243,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>1899</b>
 			<span class="event">
-				{{<link/gina>}} is founded in {{<link/oslola>}}
+				[[Gina]] is founded in [[Oslola]]
 			</span>
 		</li>
 		<li>
@@ -255,13 +255,13 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>1902</b>
 			<span class="event">
-				{{<link/cateral>}} is founded in {{<link/kairi>}} as Cateral Artillery Co.
+				[[Cateral]] is founded in [[Kairi]] as Cateral Artillery Co.
 			</span>
 		</li>
 		<li>
 			<b>1908</b>
 			<span class="event">
-				The future capital of Godthul is founded as a whaling station by Norway in {{<link/sude>}}
+				The future capital of Godthul is founded as a whaling station by Norway in [[Sude]]
 			</span>
 		</li>
 		<li>
@@ -281,7 +281,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 			<b>1935</b>
 			<span class="event">
 				<b>Beginning of the Late Commonwealth</b><br>
-				The Atlantic Independence Movement culminates in {{<link/oslola>}} achieving independence from the UK, retaining Edward VII as the head of state.
+				The Atlantic Independence Movement culminates in [[Oslola]] achieving independence from the UK, retaining Edward VII as the head of state.
 			</span>
 		</li>
 		<li>
@@ -319,8 +319,8 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>1963</b>
 			<span class="event">
-				{{<link/oslola>}} becomes independent of the British Crown, replacing the monarch with the Atlantic Council<br>
-				{{<link/costa-verde>}} along with the rest of the Azores votes to secede from Portugal after the recession worsens
+				[[Oslola]] becomes independent of the British Crown, replacing the monarch with the Atlantic Council<br>
+				[[Costa Verde]] along with the rest of the Azores votes to secede from Portugal after the recession worsens
 			</span>
 		</li>
 		<li>
@@ -334,13 +334,13 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 			<b>1968</b>
 			<span class="event">
 				<b>Founding of the First Commonwealth of Oceans</b><br>
-				The {{<link/uk>}} grants independence to the British Atlantic Territories, which chooses to remain a single country after a referendum. The new country is known as the Atlantic Federation
+				The [[UK]] grants independence to the British Atlantic Territories, which chooses to remain a single country after a referendum. The new country is known as the Atlantic Federation
 			</span>
 		</li>
 		<li>
 			<b>1976</b>
 			<span class="event">
-				{{<link/costa-verde>}} accedes to the Atlantic Federation
+				[[Costa Verde]] accedes to the Atlantic Federation
 			</span>
 		</li>
 		<li>
@@ -415,7 +415,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 			<b>2015</b>
 			<span class="event"><b>Beginning of Vekllei Floral Period</b><br>
 				Founding of the <a href="/interim/">Interim Government</a><br>
-				{{<link/gaf>}} is founded in {{<link/oslola>}}
+				[[gaf|Government Aircraft Factories]] is founded in [[Oslola]]
 			</span>
 		</li>
 		<li>
@@ -424,24 +424,24 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 				<b>Founding of the 4th Commonwealth</b><br>
 				UK withdraws from Vekllei<br>
 				Government is reesetablished<br>
-				Angua, {{<link/antigua>}}, {{<link/barbary>}}, Liamuiga, Martin, Montesur and Oualie are federated into the Antilles Commonwealth<br>
-				{{<link/general-reactor>}} is founded in Vekllei<br>
-				{{<link/commoil>}} is founded in {{<link/kairi>}}
+				Angua, [[Antigua]], [[Barbary]], Liamuiga, Martin, Montesur and Oualie are federated into the Antilles Commonwealth<br>
+				[[General Reactor]] is founded in Vekllei<br>
+				[[oil|Commonwealth Oil]] is founded in [[Kairi]]
 			</span>
 		</li>
 		<li>
 			<b>2018</b>
 			<span class="event">
-				{{<link/air>}} is founded<br>
+				[[air|Commonwealth Airways]] is founded<br>
 				Fission energy is legalised for restricted commercial use in the U.S.<br>
-				{{<link/vekllei>}} postwar economic boom begins<br>
-				{{<link/united-grocers>}} is founded in {{<link/virgin>}}
+				[[Vekllei]] postwar economic boom begins<br>
+				[[United Grocers]] is founded in [[Virgin]]
 			</span>
 		</li>
 		<li>
 			<b>2020</b>
 			<span class="event">
-				{{<link/aismious>}} accede to the Commonwealth<br>
+				[[Aismious]] accede to the Commonwealth<br>
 				Farmer’s Syndicate is founded<br>
 				The International Federation of Journalists moves HQ to Vekllei
 			</span>
@@ -475,15 +475,15 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 			<b>2025</b>
 			<span class="event">
 				Gregori Hordiyenko, the first Gregori baby, is born<br>
-				{{<link/atlantis>}} is founded in {{<link/cama>}}<br>
-				{{<link/cac>}} is founded in {{<link/oslola>}}<br>
-				{{<link/commonwealth-lines>}} is founded in {{<link/oslola>}}
+				[[Atlantis]] is founded in [[Cama]]<br>
+				[[cac|Commonwealth Aircraft Corporation]] is founded in [[Oslola]]<br>
+				[[Commonwealth Lines]] is founded in [[Oslola]]
 			</span>
 		</li>
 		<li>
 			<b>2026</b>
 			<span class="event">
-			{{<link/national-machines>}} is founded in {{<link/vekllei>}}
+			[[National Machines]] is founded in [[Vekllei]]
 			</span>
 		</li>
 		<li>
@@ -503,7 +503,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>2030</b>
 			<span class="event">
-				Vekllei's second fusion power plant goes online in {{<link/kairi>}}
+				Vekllei's second fusion power plant goes online in [[Kairi]]
 			</span>
 		</li>
 		<li>
@@ -522,7 +522,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>2035</b>
 			<span class="event">
-				{{<link/nch>}} is founded in {{<link/oslola>}}
+				[[nch|National Construction House]] is founded in [[Oslola]]
 			</span>
 		</li>
 		<li>
@@ -541,7 +541,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 			<b>2044</b>
 			<span class="event">
 				Baron enlists in general infantry, dropping out of school<br>
-				{{<link/adelectrics>}} is founded in {{<link/santes>}}
+				[[Adelectrics]] is founded in [[Santes]]
 			</span>
 		</li>
 		<li>
@@ -556,7 +556,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 			<b>2046</b>
 			<span class="event">
 				Decolonisation of the U.K. possessions is complete<br>
-				National Robotics Plant is opened by {{<link/national-machines>}} in {{<link/barbados>}}
+				National Robotics Plant is opened by [[National Machines]] in [[Barbados]]
 			</span>
 		</li>
 		<li>
@@ -574,13 +574,13 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 				U.S. announces cuts to space programme<br>
 				France establishes lunar colony in West Equator<br>
 				Cobian is born in Little Vekllei<br>
-				{{<link/starlines>}} is founded as a subsidiary of {{<link/air>}} in {{<link/ascension>}}
+				[[starlines|Commonwealth Starlines]] is founded as a subsidiary of [[air|Commonwealth Airways]] in [[Ascension]]
 			</span>
 		</li>
 		<li>
 			<b>2049</b>
 			<span class="event">
-				Ayn and Baron meet during their {{<link/noshem>}} cadetship
+				Ayn and Baron meet during their [[Noshem]] cadetship
 			</span>
 		</li>
 		<li>
@@ -599,7 +599,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>2053</b>
 			<span class="event">
-				Baron is assigned to Bolivia as an {{<link/noshem>}} Section Chief
+				Baron is assigned to Bolivia as an [[Noshem]] Section Chief
 			</span>
 		</li>
 		<li>
@@ -659,7 +659,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 			<b>2063</b>
 			<span class="event">
 				Operation <i>Sea of Reeds</i> occurs<br>
-				<b>Tzipora arrives in {{<link/vekllei>}}</b>
+				<b>Tzipora arrives in [[Vekllei]]</b>
 			</span>
 		</li>
 		<!--<li>

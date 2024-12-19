@@ -19,7 +19,7 @@ aliases:
 {{<note panel>}}
 **Summary**
 
-* Despite functional [moneylessness](/social-economy/) for most people, the {{<link/vekllei>}} economy is very large and trades with other countries.
+* Despite functional [moneylessness](/social-economy/) for most people, the [[Vekllei]] economy is very large and trades with other countries.
 * In this aspect, the Vekllei economy is easily evaluated and compared to moneyed markets overseas, and against which Vekllei ranks highly in economic productivity.
 * This seems to run contrary to popular intuition, in which Vekllei's social, participatory labour should not outcompete powerful industrial American and European markets that have much higher GDPs.
 * Nonetheless, because of a variety of unique factors in the Vekllei market, productivity metrics remain among the highest in the world outside of the oil-rich and resource-extraction economies.
@@ -33,7 +33,7 @@ This bulletin highlights the *advantages* of the Vekllei system, i.e. its best-c
 
 Productivity is an equation that measures the ratio between input cost and output value of a product, which can be used to indicate efficiency, growth and competitiveness. In most countries, this is measured by the hours of labour required to produce it, since labour hours are both expensive and easy to track.
 
-In the {{<link/vekllei>}} system, however, labour-value measurement of productivity is incomplete. While labour is inversely much more valuable in a moneyless economy for its voluntary, participatory nature, labour-hours do not reflect a material expense (and therefore input ratio) in the Vekllei economy.
+In the [[Vekllei]] system, however, labour-value measurement of productivity is incomplete. While labour is inversely much more valuable in a moneyless economy for its voluntary, participatory nature, labour-hours do not reflect a material expense (and therefore input ratio) in the Vekllei economy.
 
 The reason for this is straightforward -- Vekllei in its domestic market does not use money, and therefore employees are not paid and do not impose a salary burden on a company. Their remuneration is more complicated and harder to quantify materially, and includes public-provided goods and services (education, housing, food) and social relationships and gifts.[^remuneration]
 

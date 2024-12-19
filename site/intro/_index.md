@@ -22,7 +22,7 @@ description: What is Vekllei? Vekllei is a creative worldbuilding project that e
 
 This website is dedicated to a fictional country. It takes place in our world, but in a different time shaped by different events. It depicts an extended Cold War in which all the nightmares and dreams of the 20th Century are ongoing.
 
-Central to this history are a union of islands spanning the length of the Atlantic, which are called {{<link/vekllei>}}. In 1995, nuclear war killed half a million people there. This story is set fifty years later, in the society that has emerged from that war, and explores new ways of living in the 21st Century.
+Central to this history are a union of islands spanning the length of the Atlantic, which are called [[Vekllei]]. In 1995, nuclear war killed half a million people there. This story is set fifty years later, in the society that has emerged from that war, and explores new ways of living in the 21st Century.
 
 On this website, I write about and illustrate what this society might look like. I depict who lives there, the cities and landscapes that surround them, and how they navigate an age in which utopia and catastrophe seem closer than ever before.
 

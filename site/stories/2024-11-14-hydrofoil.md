@@ -18,5 +18,5 @@ url: /stories/hydrofoil/
 image: /images/fullres/hydrofoil.jpg
 ---
 {{<note caption>}}
-*Municipal-class* Littoral Customs Hydrofoil in service with the {{<link/marine>}}.
+*Municipal-class* Littoral Customs Hydrofoil in service with the [[marine|Marine Services]].
 {{</note>}}

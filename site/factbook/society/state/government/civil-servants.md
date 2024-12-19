@@ -12,14 +12,14 @@ aliases:
  Part of the *[state](/state/)* series of articles
 {{</note>}}
 
-Vekllei has a large [government](/government/) that is responsible for broad aspects of life and living in {{<link/vekllei>}}. Members of government that are elected are known as *public servants*. Members of government administration, ministries, bureaus and departments that are employed are known as *civil servants*.
+Vekllei has a large [government](/government/) that is responsible for broad aspects of life and living in [[Vekllei]]. Members of government that are elected are known as *public servants*. Members of government administration, ministries, bureaus and departments that are employed are known as *civil servants*.
 
 {{<note>}}
 **Titles of Civil Servant Managers in Vekllei**
 
 **1. Minister**
 
-A minister leaders a [ministry](/ministries/) and reports to a public servant. While it is often a political position, ministers are appointed by the {{<link/cabinet>}} or {{<link/directory>}}, and are not elected. They employ a large staff that coordinate with subordinate bureaux and commissions.
+A minister leaders a [ministry](/ministries/) and reports to a public servant. While it is often a political position, ministers are appointed by the [[Cabinet]] or [[directory|Commonwealth Directory]], and are not elected. They employ a large staff that coordinate with subordinate bureaux and commissions.
 
 **2. Director**
 
