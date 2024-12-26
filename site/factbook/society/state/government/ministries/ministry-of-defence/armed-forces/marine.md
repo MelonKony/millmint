@@ -30,7 +30,7 @@ The marine services are supported by a number of naval stations which provide fa
 * [[ns-falklands|Naval Station Falklands]], [[Falklands]]
 * [[ns-java|Naval Station Java]], [[Java]]
 * [[ns-kairi|Naval Station Kairi]], [[Kairi]]
-* [[ns-mira|Naval Station Mira]], Mira
+* [[ns-mira|Naval Station Mira]], [[Mira]]
 * [[ns-morocos|Naval Station Morocos]], Morocos
 * [[ns-oslola|Naval Station Oslola]], [[Oslola]]
 * [[ns-santes|Naval Station Santes]], [[Santes]]

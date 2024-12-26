@@ -1,0 +1,8 @@
+<!-- layouts/shortcodes/question.html -->
+{{ if (not ($.Page.Scratch.Get "qa-styles")) }}
+{{ $.Page.Scratch.Set "qa-styles" true }}
+{{ end }}
+<div class="question">
+	<h2 id="{{ .Get "id" }}">{{ .Get "title" }}</h2>
+	{{ .Inner | markdownify }}
+</div>

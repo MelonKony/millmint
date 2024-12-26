@@ -1,0 +1,50 @@
+// assets/scss/qa.scss
+
+// Variables
+$question-color: #e3f2fd;
+$answer-color: #f5f5f5;
+$bubble-spacing: 1rem;
+$bubble-indent: 20%;
+$border-radius: 1rem;
+
+// Mixins
+@mixin speech-bubble($color, $tail-position) {
+	position: relative;
+	padding: $bubble-spacing 1.5rem;
+	border-radius: $border-radius;
+	font-family: 'New York';
+
+	&:after {
+		content: '';
+		position: absolute;
+		bottom: -0.5rem;
+		#{$tail-position}: 1.5rem;
+		width: $bubble-spacing;
+		height: $bubble-spacing;
+		background: $color;
+		transform: rotate(45deg);
+	}
+}
+
+// Question styles
+.question {
+	@include highlight-background;
+	@include speech-bubble($question-color, left);
+	margin: 2rem $bubble-indent 0.5rem 0;
+
+	h2 {
+		margin: 0;
+	}
+}
+
+// Answer styles
+.answer {
+	@include speech-bubble($answer-color, right);
+	margin: 0.5rem 0 2rem $bubble-indent;
+	background: var(--gray-light);
+
+	h3 {
+		margin-top: 0;
+		margin-bottom: $bubble-spacing;
+	}
+}

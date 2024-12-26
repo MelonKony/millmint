@@ -5646,6 +5646,45 @@ html.writing h1 {
   font-size: 25pt;
   font-weight: 900; }
 
+.question {
+  background-color: var(--highlight-background);
+  position: relative;
+  padding: 1rem 1.5rem;
+  border-radius: 1rem;
+  font-family: 'New York';
+  margin: 2rem 20% 0.5rem 0; }
+  .question:after {
+    content: '';
+    position: absolute;
+    bottom: -0.5rem;
+    left: 1.5rem;
+    width: 1rem;
+    height: 1rem;
+    background: #e3f2fd;
+    transform: rotate(45deg); }
+  .question h2 {
+    margin: 0; }
+
+.answer {
+  position: relative;
+  padding: 1rem 1.5rem;
+  border-radius: 1rem;
+  font-family: 'New York';
+  margin: 0.5rem 0 2rem 20%;
+  background: var(--gray-light); }
+  .answer:after {
+    content: '';
+    position: absolute;
+    bottom: -0.5rem;
+    right: 1.5rem;
+    width: 1rem;
+    height: 1rem;
+    background: #f5f5f5;
+    transform: rotate(45deg); }
+  .answer h3 {
+    margin-top: 0;
+    margin-bottom: 1rem; }
+
 .shop-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));

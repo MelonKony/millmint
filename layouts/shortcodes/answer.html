@@ -1,0 +1,8 @@
+<!-- layouts/shortcodes/answer.html -->
+{{ if (not ($.Page.Scratch.Get "answer-styles")) }}
+{{ $.Page.Scratch.Set "answer-styles" true }}
+{{ end }}
+<div class="answer">
+	<h3>{{ .Get "title" }}</h3>
+	{{ .Inner | markdownify }}
+</div>
