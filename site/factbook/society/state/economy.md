@@ -18,9 +18,15 @@ aliases:
 
 Although [[Vekllei]] has a reputation of inscrutability, this can be misleading. While it does have unique features that prompt novel consideration of the structure and behaviour of its economy, it follows surprisingly orthodox economic logic and conventions, and its markets demonstrate a remarkable appetite for international trade and investment.
 
-Looking at the metrics paint a surprisingly conventional picture that provides some clarity as to the basics of the economy. They have a wealthy, mixed market economy characterised by [[productivity|high productivity]], low corruption, and dirigisme. Since independence in 2017, the country has experienced high economic growth and has diversified considerably. The small and mechanical nature of their entrepôt cities means that their economy is highly advanced compared to the US and Europe, even if they are functionally poorer. They rank very well in major contributors to human development -- housing, education and health -- but lag in other important economic indicators, like consumption and purchasing power.
+Looking at the metrics paint a surprisingly conventional picture that provide some clarity as to the basics of the economy. They have a wealthy, mixed market economy characterised by [[productivity|high productivity]], low corruption, and dirigisme. Since independence in 2017, the country has experienced high economic growth and has diversified considerably. The small and mechanical nature of their entrepôt cities means that their economy is highly advanced compared to the US and Europe, even if they are functionally poorer. They rank very well in major contributors to human development -- housing, education and health -- but lag in other important economic indicators, like consumption and purchasing power.
 
 These outcomes are intuitive to those familiar with the history and geography of the country. Among its 78 constituent islands are among some of the world's great trading ports, and its massive exclusive economic sea zones control rich and exploitable resources. Situated between the US and Europe, as well as the growing factories of South America and Africa, the country facilitates international trade as a friendly and nonpartisan intermediary. Their economic pragmatism is consistent and reliable, and has established Vekllei as the "place countries meet."
+
+## Overview
+
+> Vekllei simply does not have an economy.
+
+-- Bram Van de Beek
 
 ## Structure
 

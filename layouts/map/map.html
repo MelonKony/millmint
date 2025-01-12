@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang='{{ .Site.LanguageCode }}'>
 {{- partial "head.html" . -}}
-<link rel="stylesheet" href="https://unpkg.com/iv-viewer/dist/iv-viewer.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 
 <body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
   <main>
@@ -12,100 +12,88 @@
       {{- partial "nav.html" . -}}
     </div>
 
-      <img id="image" src="{{ .Params.map }}" data-high-res-src="{{ .Params.map }}" />
+    <div id="map"></div> <!-- Fullscreen map -->
   </main>
-
   {{- partial "resources/js.html" . -}}
   {{- partial "script.html" . -}}
 </body>
 
-<!-- scripts -->
-<script src="https://unpkg.com/iv-viewer/dist/iv-viewer.js"></script>
+<!-- Leaflet Scripts -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script type="module">
-  const image = document.querySelector('#image');
-  const viewer = new ImageViewer(image, {maxZoom: 1000, refreshOnResize: false}); // check options section for supported options
+  // Define the correct aspect ratio for the image
+  const imageWidth = 6000; // Replace with your image's actual width in pixels
+  const imageHeight = 3265; // Replace with your image's actual height in pixels
+
+  const mapBounds = [
+    [0, 0], // Bottom-left corner
+    [3265, 6000] // Top-right corner (height, width of the PNG)
+  ];
+
+  const map = L.map('map', {
+    crs: L.CRS.Simple, // Simple coordinate system
+    minZoom: -2,       // Allow zooming out
+    maxZoom: 4,        // Increased zoom level
+    attributionControl: false, // Disable the Leaflet logo
+    zoomControl: false, // Disable default zoom control to reposition
+  });
+
+  // Fit the map to the image bounds
+  map.fitBounds(mapBounds);
+
+  // Add zoom controls at the bottom right
+  L.control.zoom({
+    position: 'bottomright'
+  }).addTo(map);
+
+  // Add the image overlay
+  L.imageOverlay('{{ .Params.map }}', mapBounds).addTo(map);
+
+  // Restrict panning to the image bounds
+  map.setMaxBounds(mapBounds);
+
+  // Fit the map to the image bounds
+  map.fitBounds(mapBounds);
+
+  // Add the image overlay
+  L.imageOverlay('{{ .Params.map }}', mapBounds).addTo(map);
 </script>
 
 <style>
   body {
-    background-color: rgb(226 243 253);
-    margin: 0;
+  margin: 0;
   }
 
   main {
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-
-  .iv-snap-image-wrap {
-    width: 100%;
-  }
-
-  .iv-image-view {
-    background: var(--map-background);
-    padding: .5rem var(--body-background);
-  }
-
-  img.iv-snap-image {
-    margin-top: 0;
-    margin-bottom: 0;
-    visibility: visible !important;
-    width: 100% !important;
-    height: 75px !important;
-  }
-
-  .iv-container {
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    height: 100vh;
-    width: 100vw; /* make it 100% of the viewport width (vw) */
-    margin-left: calc((100% - 100vw) / 2);  /* then remove the gap to the left of the container with this equation */
-  }
-
-  .iv-snap-view {
-      width: 150px;
-      height: 60px;
-      position: absolute;
-      top: 20px;
-      left: 20px;
-      border: none;
-      background: black;
-      z-index: 100;
-      box-sizing: content-box;
-      transition: opacity ease 400ms;
-      opacity: 0!important; /* disables viewer */
-  }
-
-  .iv-zoom-slider {
-      width: 100%;
-      box-sizing: content-box;
-      border: none;
-      background: rgba(0, 0, 0, 0.3);
-      height: 15px;
-      position: absolute;
-      top: 67px;
-      left: 0;
-  }
-
-  main {
-    position: relative;
-    z-index: 1;
-    margin-top: 0!important;
+  margin-top: 0;
+  margin-bottom: 0;
+  position: relative;
+  z-index: 1;
+  margin-top: 0!important;
   }
 
   .floating-nav {
-    margin-top: 0;
+    z-index: 2;
+    margin-top: 1rem;
   }
 
-html[data-theme="dark"] {
-      img {
-         filter: hue-rotate(200deg) invert(95%) saturate(60%) sepia(0%) brightness(100%);
-       }
+  #map {
+    height: 100vh; /* Fullscreen map */
+    width: 100vw;  /* Fullscreen width */
+    top: 0;
+    left: 0;
+    position: absolute;
+    z-index: 1;
+    background: var(--map-background);
+    margin-left: calc((90% - 100vw) / 2);  /* then remove the gap to the left of the container with this equation */
   }
 
+  html[data-theme="dark"] {
+    img {
+     filter: hue-rotate(200deg) invert(95%) saturate(60%) sepia(0%) brightness(100%);
+     }
+  }
 </style>
 
 </html>

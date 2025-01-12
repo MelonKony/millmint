@@ -68,6 +68,7 @@ Sal receives about 350 days of sunshine a year, and is among the sunniest places
 <details open>
 <summary>Points of Interest</summary>
 
+- **[[Oil|Commonwealth Oil Central Control]]**: Realtime monitoring facility for all CommOil sites.
 - **Santa Maria Beach**: A stunning stretch of white sand and turquoise waters, popular among students at the NLTU.
 - **Buracona – Blue Eye**: A natural pool with an underwater cave that creates a mesmerising "blue eye" effect when sunlight hits the water at the right angle.
 - **Pedra Lume Salt Crater Works**: Large, operating salt works inside an extinct volcano, where visitors can float effortlessly in the saline waters.

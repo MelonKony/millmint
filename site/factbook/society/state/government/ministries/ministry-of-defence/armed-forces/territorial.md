@@ -1,4 +1,4 @@
-  ---
+---
 title: Territorial Services
 fulltitle: Territorial Services
 icon: ⚔️
@@ -36,371 +36,7 @@ Vekllei is a seagoing country of island communities, and so the Marine Services 
 In numbered Vekllei services (e.g. Terrestrial & Air Services, etc.), numerical order is preserved and units are not permanently identified by a particular number. Unit numbers are administrative and assist in formation of interarmes services, so units may change numbers regularly. Instead, unit identity and honours are attached to ceremonial and historical names that remain with the unit.
 {{</note>}}
 
-### <span class="navicon">⚓️</span> Marine Services
-
-The Marine Services consist of the armed forces most commonly associated with seaborne warfare and supply, and include equivalents to the Navy and Coast Guard. It is an administrative rather than conceptual distinction, as many other aspects of oceangoing warfare are folded into the air and territorial services, such as naval aviation and marine infantry.
-
-<details>
-<summary>Maritime Service</summary>
-
-The **Maritime Service** (the **Navy** or *Navy of the Public*) is the traditional naval warfare component of the Vekllei military and consists of its surface ships and submarines. It comprises three fleets and an auxiliary service, that functions similarly to a republican or federal militia.
-
-<details>
-<summary>Commonwealth Fleet</summary>
-
-The Commonwealth Fleet (*Sovereign/Federal Fleet*) of the Vekllei Maritime Service is the largest naval formation in Vekllei and is tasked with defence of the country's central corridor, a triangular area with points in [[Oslola]], [[Costa Verde]] and [[Summers]]. It is
-
-* 5 Aircraft Carriers
-	* 1 Supercarrier (flagship *CVN Veletia*)
-	* 2 Fleet Carriers ([*Volcanic*](/volcanic-class/)-class)
-	* 2 Helicopter Carriers
-* 1 Battleship (*Federal*-class *CVN Commonwealth*)
-* 3 Battlecruisers
-* 12 Cruisers
-	* 2 Scout Cruisers
-	* 2 Torpedo Cruisers
-	* 6 Missile Cruisers ([*Nike*](/nike-class/)-class)
-	* 2 Aircraft Cruisers ([*Prosperity*](/prosperity-class/)-class)
-* 28 Destroyers
-	* 6 Minelayers/Minesweepers ([*Hera*](/hera-class/)-class)
-	* 20 Fleet Air Escort Destroyers ([*Baker*](/baker-class/) and [*Swordfish*](/swordfish-class/)-classes)
-    * 2 Submarine Chaser Destroyers ([*Palm*](/palm-class/)-class)
-* 32 Corvettes
-* 8 Attack Submarines ([*Capricorn*](/capricorn-class/)-class)
-</details>
-
-<details>
-<summary>Home Fleet (Auxiliary)</summary>
-
-The Home Fleet (also *Auxiliary Fleet*) of the Commonwealth Maritime Service is an auxiliary fleet stationed across the 70 island city-states that make up the country. Each Vekllei city-state serves as a home port to a particular frigate. While they serve a ceremonial role, they are active warships that perform littoral maritime security duties and can be federalised into other fleets as necessary. The Home Fleet also consists of vessels with a multi-fleet or multipurpose role, and can be reassigned to other fleets as required.
-
-* 82 Frigates
-	* 70 [Aurora-Class Republic Warships](/stories/frigate/)
-	* 5 Air Scout Frigates
-	* 4 Anti-Submarine Warfare Frigates
-	* 3 Guided Missile Frigates
-* 2 Submarine Rescue Ships
-* 4 Assault Ships
-* 28 Landing Craft Vessels
-* 1 Crane Ship
-* 2 Minelayers
-* 6 Minehunters
-* 4 Naval Yachts
-* 3 Amenities Ship
-* 2 Ammunition Ship
-* 2 Floating Dock
-* 1 Troopship (+ 4 Auxiliary)
-* 6 Naval Yachts
-* 4 Accomodation Ships
-* 2 Dispatch Ships
-* 4 Nuclear Replenishment Ships
-* 2 Replenishment Oilers
-* 4 Gunboats
-</details>
-
-<details>
-<summary>Arctic Fleet</summary>
-
-* 1 Fleet Carrier
-* 1 Battlecruiser
-* 6 Cruisers
-	* 4 Nuclear Icebreaker Cruisers
-	* 2 Aircraft Cruisers ([*Prosperity*](/prosperity-class/)-class)
-* 8 Destroyers
-	* 4 Fleet Air Escort Destroyers ([*Baker*](/baker-class/)-class)
-	* 3 Missile Destroyers
-	* 1 Arsenal Destroyer
-* 2 Patrol Boats
-* 3 Attack Submarines
-</details>
-
-<details>
-<summary>Antarctic Fleet</summary>
-
-* 1 Fleet Carrier
-* 1 Battlecruiser
-* 4 Cruisers
-	* 2 Nuclear Icebreaker Cruisers
-	* 2 Aircraft Cruisers ([*Prosperity*](/prosperity-class/)-class)
-* 12 Destroyers
-	* 8 Fleet Air Escort Destroyers ([*Baker*](/baker-class/) and [*Swordfish*](/swordfish-class/)-classes)
-	* 2 Missile Destroyers
-	* 2 Arsenal Destroyer
-* 2 Patrol Boats
-* 2 Attack Submarines
-</details>
-
-<details>
-<summary>Missile Fleet</summary>
-
-* 2 Arsenal Ships
-* 6 Ballistic Missile Submarines ([*Mantle*](/mantle-class/)-class)
-</details>
-</details>
-
-<details>
-<summary>Littoral Service</summary>
-
-The **Littoral Service** (the *Coast Guard* or *Navy of the Parliament*) is the maritime security component of the Vekllei military. It provides customs, policing and search and rescue services for Vekllei's territorial waters and exclusive economic zones, though it frequently patrols international waters in the Atlantic.
-
-The Littoral Service has 12 commands across the Atlantic, Arctic, Antarctic and Caribbean Oceans, including the entirety of the Vekllei exclusive economic zone and territorial waters.
-
-**Customs Cutters**
-* 6 Frigate Customs Cutters
-* 20 Medium Customs Cutters
-* 20 Fast Response Customs Hydrofoils
-* 2 Air Cutters
-* 12 Coastal Patrol Vessels
-* 8 Search and Rescue Vessels
-* 8 Fast Patrol Boats
-* 16 Hovercraft Cutters
-
-**Utility Vessels**
-* 4 Seagoing Buoy Tenders
-* 10 Coastal Buoy Tenders
-* 4 Coastal Construction Tenders
-* 5 River Tenders
-* 1 Large Ocean Tugboat
-* 2 Medium Ocean Tugboats
-* 10 Harbour Tugboats
-
-**Icebreakers**
-* 4 Heavy Icebreakers ([[Sude]] [[Oslola]] [[Helvasia]] [[Falklands]])
-* 1 Ice-strengthened Oiler
-
-**Survey & Auxiliary Ships**
-* 2 Hydrographic Survey Ships
-</details>
-
-<details>
-<summary>Coastal Artillery Service</summary>
-
-The Coastal Artillery Service provides coastal fortification and defence for Vekllei republics, including counter-battery fire, raiding, and ship boarding.
-
-</details>
-
-
-### <span class="navicon">✈️</span> Aeronautical & Astronautical Services
-
-The Aeronautical & Space Services include the air supremacy, interception and defence elements, as well as services to supply and equip them. They also consist of the missile and air detection elements of the armed forces.
-
-<details>
-<summary>Air Service</summary>
-
-The **Air Service** conducts aerial warfare in [[Vekllei]]. It consists of three commands that specialise in different aspects of air support and supremacy. The Air Service is also a major contributor to other services, since marine and territorial doctrines depend heavily on the air service for their combat capability, combat support, transport, logistics and reconnaissance.
-
-Vekllei has a rapid air-mobile posture across its armed forces, which is facilitated by the relative size and availability of its air service. It is also the only service in which women are a majority of participants in combat, since female pilots contribute just over 52% of its servicemen.
-
-**Structure**
-
-There are three commands in the Air Service, which in the secular Vekllei tradition have specific and exclusive functions. The Air Combat Command comprises all primary offensive squadrons including fighters, helicopters and scouts. The Air Auxiliary Command comprises miscellaneous aviation including search and rescue, training and replenishment. The Air Transport Command provides transport for both logistics and combat organisations.
-
-<details>
-<summary>Air Combat Command</summary>
-
-The *Air Combat Command* (ACC) provides aircraft and crew for combat air services, including both land and seaborne aviation. The vast majority of these are variants of the [No. 8 Casemate](/stories/casemate) fighter jet.
-
-* **No. 1 Aerocombat Wing**
-  <br>
-  The No. 1 AC Wing comprises the primary interceptor and air superiority squadrons of the Air Service.
-  * No. 1-8 Fighter Squadrons
-* **No. 2 Aerocombat Wing**
-  * No. 9-16 Fighter Squadrons
-* **No. 3 Aeroweapons Wing**
-  <br>
-  The Aeroweapons Wing consists of the attack helicopter and helijets squadrons of the Air Service, which are organised with Aeroscouts and Aerorifles to produce air-mobile platoons.
-  * No. 17-20 Aeroweapons Squadrons
-* **No. 4 Aeroscouts Wing**
-  <br>
-  The Aeroscouts Wing provides reconnaissance services to the Territorial Service and the interarmes air-mobile platoons.
-  * No. 21-24 Aeroscouts Squadrons
-* **No. 5 Aeromarine Wing** <span class="hollowtag">Commonwealth Fleet</span>
-  <br>
-  The No. 5 Aeromarine Wing provides equipment and crew for the Commonwealth Fleet, and comprises the largest naval aviation force in the Air Service.
-  * No. 25-31 Marine Squadrons
-* **No. 6 Aeromarine Wing** <span class="hollowtag">Commonwealth Fleet</span>
-  * No. 32-33 Marine Squadrons
-* **No. 7 Aeromarine Wing** <span class="hollowtag">Arctic Fleet</span>
-  * No. 34-35 Marine Squadrons
-* **No. 8 Aeromarine Wing**  <span class="hollowtag">Antarctic Fleet</span>
-  * No. 36-37 Marine Squadrons
-* **No. 9 Aeromarine Helicopters Wing**
-  <br>
-  The No. 9 MHW comprises the bulk of maritime rotary-wing and helijet aircraft, and are located across fleets and naval bases as required. Aeromarine squadrons may be subdivided into Aeromarine sections depending on the needs of the [Maritime Service](#maritime-service).
-  * No. 38-41 Marine Squadrons
-* **No. 10 Aerordnance Wing**
-  <br>
-  The No. 10 Bombing Wing comprises the strategic bombing aircraft in Vekllei.
-  * No. 42-45 Bombing Squadrons
-</details>
-
-<details>
-<summary>Air Auxiliary Command</summary>
-
-The *Air Auxiliary Command* (AAC) includes aircraft types not directly associated with other command roles, and encompasses different kinds of aircraft in a support (auxiliary) role.
-
-* **No. 1 Aeroxiliary Wing**
-  <br>
- No. 1 AA Wing provides maritime patrol services to the Air Service as well as the [Maritime](#maritime-service) and [Littoral](#littoral-service) Services. No. 1 Squadron is assigned to the Commonwealth Fleet.
-  * No. 1 Maritime Patrol Squadron <span class="hollowtag">Commonwealth Fleet</span>
-  * No. 2 Search & Rescue Squadron
-  * No. 3 Air Firefighting Squadron
-* **No. 2 Aeroxiliary Wing**
-  * No. 4-6 Maritime Patrol Squadrons
-* **No. 3 Air Training Wing**
-  <br>
-  The Air Training Wing has two squadrons in the Virgin and Oslolan republics, and trains pilots for the Air Service.
-  * No. 1-2 Air Training Squadrons
-* **No. 4 Air Replenishment Wing**
-  * No. 1-2 Air Replenishment Squadrons
-</details>
-
-<details>
-<summary>Air Transport Command</summary>
-
-The *Air Transport Command* (ATC) supports other services, particularly the Territorial Service, and provides air mobility to Rifles regiments as part of its flexible and rapid-manoeuvre doctrine. When mounted in helicopters and helijets, Rifles regiments are known as Aerorifles, and combine with the crew and equipment of an Aerorifles squadron to form a complete air-mobile platoon.
-
-* **No. 1 Aerotransport Wing**
-  <br>
-  The No. 1 Transport Wing services the transport aircraft fleet. No. 1 & 2 Squadrons are land-based and 3 & 4 specialise in maritime transport, and include flying boats.
-  * No. 1 Aerotransport Squadron (Government)
-  * No. 2-3 Aerotransport Squadron (Strategic Airlift)
-  * No. 4 Aerotransport Squadron (Tactical Airlift)
-* **No. 2 Aerorifles Wing**
-  <br>
-  The Aerorifles are the aircraft and crew component of an interarmes air-mobile platoon, and transport individual infantry regiments.
-  * No. 5-8 Aerorifles Squadrons
-* **No. 3 Aerorifles Wing**
-  * No. 9-12 Aerorifles Squadrons
-* **No. 4 Aerorifles Wing**
-  * No. 13-16 Aerorifles Squadrons
-</details>
-
-**Equipment**
-
-Vekllei aircraft are primarily designed and manufactured domestically, and use mostly nuclear propulsion. Efforts to streamline and simplify inventory in recent years have reduced the overall types of aircraft in service.
-
-<details>
-<summary>Air Service Aircraft</summary>
-
-**Combat Aircraft**
-* 210 No. 8 Casemate Atomic Fighters
-* 33 No. 7 Demon Atomic Fighters
-
-**Bombers**
-* 22 Strategic Bombers
-* 16 Medium Bombers
-
-**Maritime and Patrol Aircraft**
-* 16 Long Range Search & Rescue Turboprop Aircraft
-* 4 Search & Rescue Flying Boats
-* 2 Heavy-lift Search & Rescue Aircraft
-* 50 Seagoing Utility Helicopters
-* 4 Ground Effect Combat Aircraft
-
-**Tanker Aircraft**
-* 1 Nuclear Replenishment Aircraft
-* 2 Airborne Fuel Replenishment Aircraft
-
-**Transport Aircraft**
-* 27 Heavy Transport Aircraft
-* 22 Medium Transport Aircraft
-* 18 VIP Transport
-* 24 Strategic Airlifter
-* 12 Tactical Airlifter
-* 4 Ground Effect Heavy Airlifters
-
-**Helicopters**
-* 42 Attack Helicopters
-* 52 Scout Helicopters
-* 40 Heavy-lift/Utility
-* 20 Anti-Submarine Warfare/Search and Rescue
-* 10 Transport/Utility
-* 60 Transport/Utility
-* 50 Medium-lift/Utility
-
-**Trainer Aircraft**
-* 20 Primary Trainer Aircraft
-* 15 Training Helicopters
-</details>
-</details>
-
-<details>
-<summary>Air Artillery Service</summary>
-
-The Air Artillery Service provides air defence in [[Vekllei]]. It operates a variety of emplacements and point defences as part of Vekllei concentric air defence doctrine, but its primary force consists of mobile anti-air and flak systems.
-
-<details>
-  <summary>Air Artillery Command Structure</summary>
-
-The *Air Artillery Command* (ATC) consists of
-
-* **No. 1-6 Air Artillery Regiments**
-  <br>
-  The No. 1 Air Artillery Regiment
-
-</details>
-
-<details>
-  <summary>Air Artillery Service Equipment</summary>
-
-**Missile Systems**
-* 25 No. 8 Javelin (Truck)
-* 25 Truck
-* 15 Trailer
-* 1200 missile platform
-* 12 Tracked Carriers
-
-**Man-Portable & AA Guns**
-* 120 guns
-* 1000 missiles
-* 1500 missiles
-</details>
-</details>
-
-<details>
-<summary>Radar Service</summary>
-
-<details>
-<summary>Radar Service Equipment</summary>
-
-**Radar Systems**
-* 5 Aerostat Radar Surveillance Balloons
-* 40 Portable Search Target Acquisition Radar
-* 12 Ground Active Electronically Scanned Array
-* 4 Medium Array
-* 40 Counter-battery Radar
-* 20 Giraffe Array
-
-**Radar Jamming Aircraft**
-* 8 Radar Jamming Aircraft
-</details>
-</details>
-
-<details>
-<summary>Missiles Service</summary>
-
-The **Missiles Service** is the tactical and strategic missile defence organisation of the military. They operate mostly from ground sites across the country, located mostly on isolated islands or in the Arctic. They also operate some rail-mounted launch systems that are stationed deep inside tunnels.
-
-<details>
-<summary>Missiles Service Equipment</summary>
-
-**Ballistic Missiles**
-* Estimated 16 No. 3 ICBMs
-* Estimated 40 No. 6 IRBMs
-* Estimated 26 No. 6 SRBMs
-* Estimated 100 No. 2 SLAM Cruise Missiles
-
-**Trucks & Cars**
-* 80 Multi-Purpose Utility Vehicle
-* 12 Military Truck
-</details>
-</details>
-
-### <span class="navicon">🗡️</span> Land and Army Services
-
-<details>
-<summary>Territorial Service</summary>
+## <span class="navicon">🗡️</span> Land and Army Services
 
 The Vekllei **Territorial Service** is the closest component to a conventional army in the Vekllei armed forces, and comprises the majority of its professional fighting force. All Rifles regiments are trained as marine infantry, and Vekllei does not maintain dedicated marine regiments. All Territorial regiments are a part of the [Commonwealth Guard](#commonwealth-guard) and are federalised the same way, but are distinguished by their professional service and expeditionary posture.
 
@@ -412,30 +48,133 @@ Vekllei has a professional combat army of around 45,000 soldiers, 6,000 of which
 
 Including the Guards and Popular Guards, which serve roles as reservists and partisan militias respectively, that number exceeds a million during wartime.
 
-<details>
-  <summary>Commonwealth Rifles</summary>
+### Commonwealth Rifles
 
 Rifles regiments consist of 1,000 men, and can be assembled into larger divisional units. Regiment numbers are administrative only and so can change, and regiments are identified with inherited names with honours instead. All Rifles servicemen are also part of a Guards regiment as per the Vekllei federal militia system. Rifles are mechanised with armoured cars.
 
 Policy is to have a standing army 35,000 strong, but Rifles regiments are activated as they are combat-ready, and so the 19th and 20th are often deactivated between training.
 
-* **Rifles Regiments**
-  * 1st-20th Rifles Regiments
-* **Aerorifles Regiments**
-  * 21st-24th Aerorifles Regiments
-* **Marine Rifles Regiments**
+#### Rifles Regiments (36,000)
+
+{{<note>}}
+**Expeditionary Rifles** (2,000)
+
+* 1st Commonwealth Rifles **Fortress Lola** [[Oslola]]
+  * 1st Rifles Battalion **300** **Fortress Lola** [[Oslola]]
+  * 2nd Rifles Battalion **300** **Montre Barracks** [[Oslola]]
+  * 3rd Rifles Battalion **300** **Iron Barracks** [[Kala]]
+* 2nd Parliamentary Rifles **Fortress Meteor** Flores
+  * 4th Rifles Battalion **300** **Fortress Meteor** Flores
+  * 5th Rifles Battalion **300** **Fortress Meteor** Flores
+  * 6th Rifles Battalion **300** **Velas Barracks** [[Velas]]
+{{</note>}}
+
+{{<note>}}
+**Fortressed Rifles** (10,000)
+
+* 3rd Demonic Guards Regiment **Fortress Demon** **1000** [[Demon]]
+  * 7th Rifles Battalion **300** **Air Station Scatsta**[[Hetland]]
+  * 8th Rifles Battalion **300** **Fortress Demon** [[Demon]]
+  * 9th Rifles Battalion **300** **Fortress Demon** [[Demon]]
+* 4th Sunburst Guards Regiment **Fortress Lola** **1000** [[Oslola]]
+  * 10th Rifles Battalion **300** **Air Station Oslola**[[Oslola]]
+  * 11th Rifles Battalion **300** **Fortress Lola** [[Oslola]]
+  * 12th Rifles Battalion **300** **Fortress Lola** [[Oslola]]
+* 5th Desert Guards Regiment **Fortress Praia** **1000** Praia
+  * 13th Rifles Battalion **300** **Fortress Praia** Praia
+  * 14th Rifles Battalion **300** **Air Station Praia** Praia
+  * 15th Rifles Battalion **300** **Fortress Praia** Praia
+* 6th African Guards Regiment **Fortress Annobon** **1000**[[Annobon]]
+  * 16th Rifles Battalion **300** **Fortress Annobon** [[Annobon]]
+  * 17th Rifles Battalion **300** **Naval Station Java** [[Java]]
+  * 18th Rifles Battalion **300** **Fortress Annobon** [[Annobon]]
+* 7th Sentinel Guards Regiment **Fortress Helena** **1000** [[Helena]]
+  * 19th Rifles Battalion **300** **Fortress Helena** [[Helena]]
+  * 20th Rifles Battalion **300** **Air Station Ascension** [[Ascension]]
+  * 21st Rifles Battalion **300** **Naval Station Santes** [[Santes]]
+* 8th Falklander Guards Regiment **Fortress Falklands** **1000** [[Falklands]]
+  * 22nd Rifles Battalion **300** **Fortress Falklands** [[Falklands]]
+  * 23rd Rifles Battalion **300** **Fortress Falklands** [[Falklands]]
+  * 24th Rifles Battalion **300** **Naval Station Sude** [[Sude]]
+* 9th Sugar Guards Regiment **Fortress Kabuli** **1000** Kabuli
+  * 25th Rifles Battalion **300** **Fortress Kabuli** Kabuli
+  * 26th Rifles Battalion **300** **Naval Station Antigua** [[Antigua]]
+  * 27th Rifles Battalion **300** **Air Station Kairi** [[Kairi]]
+* 10th Ready Guards Regiment **Fortress Aruba** **1000** [[Aruba]]
+  * 28th Rifles Battalion **300** **Fortress Aruba** [[Aruba]]
+  * 29th Rifles Battalion **300** **Fortress Aruba** [[Aruba]]
+  * 30th Rifles Battalion **300** **Naval Station Curacao** [[Curacao]]
+* 11th Candle Guards Regiment **Fortress Caicos** **1000** [[Caicos]]
+  * 31st Rifles Battalion **300** **Fortress Caicos** [[Caicos]]
+  * 32nd Rifles Battalion **300** **Naval Station Salvador** [[Rum]]
+  * 33rd Rifles Battalion **300** **Naval Station Summers** [[Summers]]
+* 12th Meteor Guards Regiment  **Fortress Meteor** **1000** Flores
+  * 34th Rifles Battalion **300** **Fortress Meteor** Flores
+  * 35th Rifles Battalion **300** **Fortress Meteor** Flores
+  * 36th Rifles Battalion **300** **Naval Station Mira** [[Mira]]
+{{</note>}}
+
+{{<note>}}
+**Commonwealth Rifles** (8,000)
+
+* 13th Lucayan Rifles **Fortress Caicos** [[Caicos]]
+  * 37th Rifles Battalion **300** **Fortress Caicos** [[Caicos]]
+  * 38th Rifles Battalion **300** **Habacoan Barracks** [[Habacoa]]
+  * 39th Rifles Battalion **300** **Nema Barracks** Nema
+* 14th Verden Rifles **Fortress Praia** Praia
+  * 40th Rifles Battalion **300** **Viana Barracks** [[Viana]]
+  * 41st Rifles Battalion **300** **Fortress Praia** Praia
+  * 42nd Rifles Battalion **300** **Boa Vista Barracks** Boa Vista
+* 15th Volcanic Rifles **Fortress Lola** [[Oslola]]
+  * 43rd Rifles Battalion **300** **Aismious Barracks** [[AIsmious]]
+  * 44th Rifles Battalion **300** **Fortress Praia** Praia
+  * 45th Rifles Battalion **300** **Boa Vista Barracks** Boa Vista
+* 16th Arctic Rifles **Air Station Kala** [[Kala]]
+  * 46th Rifles Battalion **300** **Iron Barracks** Kala
+  * 47th Rifles Battalion **300** **Air Station Kala** Kala
+  * 48th Rifles Battalion **300** **Naval Station Helvasia** [[Helvasia]]
+* 17th Antarctic Rifles **Fortress Falklands** [[Falklands]]
+  * 49th Rifles Battalion **300** **Fortress Falklands** [[Falklands]]
+  * 50th Rifles Battalion **300** **Fortress Falkalnds** [[Falklands]]
+  * 51st Rifles Battalion **300** **Sude Barracks** [[Sude]]
+* 18th Antilles Rifles **Fortress Aruba** [[Aruba]]
+  * 52nd Rifles Battalion **300** **Fortress Aruba** [[Falklands]]
+  * 53rd Rifles Battalion **300** **Caimanas Barrakcs** [[Caimanas]]
+  * 54th Rifles Battalion **300** **Abakoa Barracks** Abakoa
+* 19th Atlantic Rifles **Fortress Meteor** Flores
+  * 55th Rifles Battalion **300** **Costa Verde Barracks** [[Costa Verde]]
+  * 56th Rifles Battalion **300** **Naval Station Mira** [[Mira]]
+  * 57th Rifles Battalion **300** **Canary Barracks** Canary
+* 20th Kalinan Rifles **Fortress Kabuli** Kabuli
+  * 58th Rifles Battalion **300** **Kairi Barracks** [[Kairi]]
+  * 59th Rifles Battalion **300** **Virgin Barracks** [[Virgin]]
+  * 60th Rifles Battalion **300** **Barbados Barracks** [[Barbados]]
+{{</note>}}
+#### Aerorifles Regiments
+
+{{<note>}}
+* 21st-24th Aerorifles Regiments
+{{</note>}}
+
+#### Marine Rifles Regiments
+
+{{<note>}}
   * 25th-32nd Marine Rifles Regiments
-* **Special Warfare Regiments**
-  * 33rd Chemical Regiment
-  * 34th Nuclear Regiment
-* **Armoured Rifles Regiments**
+{{</note>}}
+
+#### Special Warfare Regiments
+
+{{<note>}}
+* Chemical Defence Regiment [[Oslola]]
+* Nuclear Defence Regiment [[Oslola]]
+{{</note>}}
+
+#### Armoured Rifles Regiments
   <br>
   The Armoured Rifles are mechanised with infantry fighting vehicles and function as shock infantry.
-  * 35th-36th Armoured Rifles Regiments
-</details>
+* 35th-36th Armoured Rifles Regiments
 
-<details>
-  <summary>Commonwealth Commandos</summary>
+### Commonwealth Commandos (6,000)
 
  Commandos in Vekllei are highly trained, professional soldiers with an expeditionary character. While often trained for remote and tactical combat, they are also commonly used to lead interarmes services that include regular rifle infantry.
 
@@ -541,7 +280,6 @@ Although the service is organised into regiments, their formations are better re
 * 20 Bulldozers
 * 8 Backhoe Loaders
 </details>
-</details>
 
 <details>
 <summary>Field Artillery Service</summary>
@@ -580,8 +318,12 @@ Although the service is organised into regiments, their formations are better re
 [^navy]: The 'navy' as described here is seperate from the Maritime Service, which comprises the naval fleets of Vekllei. It is a broader termp distinct from the maritime and littoral services.
 
 <style>
-  details div {
-  padding: 0;
+  li strong{
+    background-color: var(--highlight-background);
+    padding: 0.15rem 0.25rem;
+    border-radius: .25rem;
+    color: var(--highlight);
+    font-weight: 500;
   }
   .hollowtag {
     line-height: .8rem!important;
