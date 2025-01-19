@@ -74,6 +74,13 @@
 	</tr>
 	{{ end }}
 
+	{{ if (.Get "Passengers") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Passengers</th>
+		<td>{{.Get "Passengers"}}</td>
+	</tr>
+	{{ end }}
+
 	{{ if (.Get "Displacement") }}
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Displacement</th>
@@ -81,10 +88,24 @@
 	</tr>
 	{{ end }}
 
+	{{ if (.Get "Weight") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Weight</th>
+		<td>{{.Get "Weight"}}</td>
+	</tr>
+	{{ end }}
+
 	{{ if (.Get "Length") }}
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Length</th>
 		<td>{{.Get "Length"}}</td>
+	</tr>
+	{{ end }}
+
+	{{ if (.Get "Wingspan") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Wingspan</th>
+		<td>{{.Get "Wingspan"}}</td>
 	</tr>
 	{{ end }}
 
