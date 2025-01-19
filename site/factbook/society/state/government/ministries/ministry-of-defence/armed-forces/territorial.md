@@ -3,7 +3,7 @@ title: Territorial Services
 fulltitle: Territorial Services
 icon: ⚔️
 color: land
-logo: /svg/crests/territorial.svg
+logo: /svg/logos/territorial.svg
 
 fi: fi fi-min-land fis
 
@@ -59,93 +59,93 @@ Policy is to have a standing army 35,000 strong, but Rifles regiments are activa
 {{<note>}}
 **Expeditionary Rifles** (2,000)
 
-* 1st Commonwealth Rifles **Fortress Lola** [[Oslola]]
-  * 1st Rifles Battalion **300** **Fortress Lola** [[Oslola]]
+* 1st Commonwealth Rifles [[Fortress Lola]] [[Oslola]]
+  * 1st Rifles Battalion **300** [[Fortress Lola]] [[Oslola]]
   * 2nd Rifles Battalion **300** **Montre Barracks** [[Oslola]]
   * 3rd Rifles Battalion **300** **Iron Barracks** [[Kala]]
-* 2nd Parliamentary Rifles **Fortress Meteor** Flores
-  * 4th Rifles Battalion **300** **Fortress Meteor** Flores
-  * 5th Rifles Battalion **300** **Fortress Meteor** Flores
+* 2nd Parliamentary Rifles [[Fortress Meteor]] Flores
+  * 4th Rifles Battalion **300** [[Fortress Meteor]] Flores
+  * 5th Rifles Battalion **300** [[Fortress Meteor]] Flores
   * 6th Rifles Battalion **300** **Velas Barracks** [[Velas]]
 {{</note>}}
 
 {{<note>}}
 **Fortressed Rifles** (10,000)
 
-* 3rd Demonic Guards Regiment **Fortress Demon** **1000** [[Demon]]
+* 3rd Demonic Guards Regiment [[Fortress Demon]] **1000** [[Demon]]
   * 7th Rifles Battalion **300** **Air Station Scatsta**[[Hetland]]
-  * 8th Rifles Battalion **300** **Fortress Demon** [[Demon]]
-  * 9th Rifles Battalion **300** **Fortress Demon** [[Demon]]
-* 4th Sunburst Guards Regiment **Fortress Lola** **1000** [[Oslola]]
+  * 8th Rifles Battalion **300** [[Fortress Demon]] [[Demon]]
+  * 9th Rifles Battalion **300** [[Fortress Demon]] [[Demon]]
+* 4th Sunburst Guards Regiment [[Fortress Lola]] **1000** [[Oslola]]
   * 10th Rifles Battalion **300** **Air Station Oslola**[[Oslola]]
-  * 11th Rifles Battalion **300** **Fortress Lola** [[Oslola]]
-  * 12th Rifles Battalion **300** **Fortress Lola** [[Oslola]]
-* 5th Desert Guards Regiment **Fortress Praia** **1000** Praia
-  * 13th Rifles Battalion **300** **Fortress Praia** Praia
+  * 11th Rifles Battalion **300** [[Fortress Lola]] [[Oslola]]
+  * 12th Rifles Battalion **300** [[Fortress Lola]] [[Oslola]]
+* 5th Desert Guards Regiment [[Fortress Praia]] **1000** Praia
+  * 13th Rifles Battalion **300** [[Fortress Praia]] Praia
   * 14th Rifles Battalion **300** **Air Station Praia** Praia
-  * 15th Rifles Battalion **300** **Fortress Praia** Praia
-* 6th African Guards Regiment **Fortress Annobon** **1000**[[Annobon]]
-  * 16th Rifles Battalion **300** **Fortress Annobon** [[Annobon]]
+  * 15th Rifles Battalion **300** [[Fortress Praia]] Praia
+* 6th African Guards Regiment [[Fortress Annobon]] **1000**[[Annobon]]
+  * 16th Rifles Battalion **300** [[Fortress Annobon]] [[Annobon]]
   * 17th Rifles Battalion **300** **Naval Station Java** [[Java]]
-  * 18th Rifles Battalion **300** **Fortress Annobon** [[Annobon]]
+  * 18th Rifles Battalion **300** [[Fortress Annobon]] [[Annobon]]
 * 7th Sentinel Guards Regiment **Fortress Helena** **1000** [[Helena]]
   * 19th Rifles Battalion **300** **Fortress Helena** [[Helena]]
   * 20th Rifles Battalion **300** **Air Station Ascension** [[Ascension]]
   * 21st Rifles Battalion **300** **Naval Station Santes** [[Santes]]
-* 8th Falklander Guards Regiment **Fortress Falklands** **1000** [[Falklands]]
-  * 22nd Rifles Battalion **300** **Fortress Falklands** [[Falklands]]
-  * 23rd Rifles Battalion **300** **Fortress Falklands** [[Falklands]]
+* 8th Falklander Guards Regiment [[Fortress Falklands]] **1000** [[Falklands]]
+  * 22nd Rifles Battalion **300** [[Fortress Falklands]] [[Falklands]]
+  * 23rd Rifles Battalion **300** [[Fortress Falklands]] [[Falklands]]
   * 24th Rifles Battalion **300** **Naval Station Sude** [[Sude]]
-* 9th Sugar Guards Regiment **Fortress Kabuli** **1000** Kabuli
-  * 25th Rifles Battalion **300** **Fortress Kabuli** Kabuli
+* 9th Sugar Guards Regiment [[Fortress Kabuli]] **1000** Kabuli
+  * 25th Rifles Battalion **300** [[Fortress Kabuli]] Kabuli
   * 26th Rifles Battalion **300** **Naval Station Antigua** [[Antigua]]
   * 27th Rifles Battalion **300** **Air Station Kairi** [[Kairi]]
-* 10th Ready Guards Regiment **Fortress Aruba** **1000** [[Aruba]]
-  * 28th Rifles Battalion **300** **Fortress Aruba** [[Aruba]]
-  * 29th Rifles Battalion **300** **Fortress Aruba** [[Aruba]]
+* 10th Ready Guards Regiment [[Fortress Aruba]] **1000** [[Aruba]]
+  * 28th Rifles Battalion **300** [[Fortress Aruba]] [[Aruba]]
+  * 29th Rifles Battalion **300** [[Fortress Aruba]] [[Aruba]]
   * 30th Rifles Battalion **300** **Naval Station Curacao** [[Curacao]]
-* 11th Candle Guards Regiment **Fortress Caicos** **1000** [[Caicos]]
-  * 31st Rifles Battalion **300** **Fortress Caicos** [[Caicos]]
+* 11th Candle Guards Regiment [[Fortress Orient]] **1000** [[Caicos]]
+  * 31st Rifles Battalion **300** [[Fortress Orient]] [[Caicos]]
   * 32nd Rifles Battalion **300** **Naval Station Salvador** [[Rum]]
   * 33rd Rifles Battalion **300** **Naval Station Summers** [[Summers]]
-* 12th Meteor Guards Regiment  **Fortress Meteor** **1000** Flores
-  * 34th Rifles Battalion **300** **Fortress Meteor** Flores
-  * 35th Rifles Battalion **300** **Fortress Meteor** Flores
+* 12th Meteor Guards Regiment  [[Fortress Meteor]] **1000** Flores
+  * 34th Rifles Battalion **300** [[Fortress Meteor]] Flores
+  * 35th Rifles Battalion **300** [[Fortress Meteor]] Flores
   * 36th Rifles Battalion **300** **Naval Station Mira** [[Mira]]
 {{</note>}}
 
 {{<note>}}
 **Commonwealth Rifles** (8,000)
 
-* 13th Lucayan Rifles **Fortress Caicos** [[Caicos]]
-  * 37th Rifles Battalion **300** **Fortress Caicos** [[Caicos]]
+* 13th Lucayan Rifles [[Fortress Orient]] [[Caicos]]
+  * 37th Rifles Battalion **300** [[Fortress Orient]] [[Caicos]]
   * 38th Rifles Battalion **300** **Habacoan Barracks** [[Habacoa]]
   * 39th Rifles Battalion **300** **Nema Barracks** Nema
-* 14th Verden Rifles **Fortress Praia** Praia
+* 14th Verden Rifles [[Fortress Praia]] Praia
   * 40th Rifles Battalion **300** **Viana Barracks** [[Viana]]
-  * 41st Rifles Battalion **300** **Fortress Praia** Praia
+  * 41st Rifles Battalion **300** [[Fortress Praia]] Praia
   * 42nd Rifles Battalion **300** **Boa Vista Barracks** Boa Vista
-* 15th Volcanic Rifles **Fortress Lola** [[Oslola]]
+* 15th Volcanic Rifles [[Fortress Lola]] [[Oslola]]
   * 43rd Rifles Battalion **300** **Aismious Barracks** [[AIsmious]]
-  * 44th Rifles Battalion **300** **Fortress Praia** Praia
-  * 45th Rifles Battalion **300** **Boa Vista Barracks** Boa Vista
+  * 44th Rifles Battalion **300** **Air Station Scatsta** [[Hetland]]
+  * 45th Rifles Battalion **300** [[Fortress Demon]] [[Demon]]
 * 16th Arctic Rifles **Air Station Kala** [[Kala]]
   * 46th Rifles Battalion **300** **Iron Barracks** Kala
   * 47th Rifles Battalion **300** **Air Station Kala** Kala
   * 48th Rifles Battalion **300** **Naval Station Helvasia** [[Helvasia]]
-* 17th Antarctic Rifles **Fortress Falklands** [[Falklands]]
-  * 49th Rifles Battalion **300** **Fortress Falklands** [[Falklands]]
-  * 50th Rifles Battalion **300** **Fortress Falkalnds** [[Falklands]]
+* 17th Antarctic Rifles [[Fortress Falklands]] [[Falklands]]
+  * 49th Rifles Battalion **300** [[Fortress Falklands]] [[Falklands]]
+  * 50th Rifles Battalion **300** [[Fortress Falklands]] [[Falklands]]
   * 51st Rifles Battalion **300** **Sude Barracks** [[Sude]]
-* 18th Antilles Rifles **Fortress Aruba** [[Aruba]]
-  * 52nd Rifles Battalion **300** **Fortress Aruba** [[Falklands]]
+* 18th Antilles Rifles [[Fortress Aruba]] [[Aruba]]
+  * 52nd Rifles Battalion **300** [[Fortress Aruba]] [[Falklands]]
   * 53rd Rifles Battalion **300** **Caimanas Barrakcs** [[Caimanas]]
   * 54th Rifles Battalion **300** **Abakoa Barracks** Abakoa
-* 19th Atlantic Rifles **Fortress Meteor** Flores
+* 19th Atlantic Rifles [[Fortress Meteor]] Flores
   * 55th Rifles Battalion **300** **Costa Verde Barracks** [[Costa Verde]]
   * 56th Rifles Battalion **300** **Naval Station Mira** [[Mira]]
   * 57th Rifles Battalion **300** **Canary Barracks** Canary
-* 20th Kalinan Rifles **Fortress Kabuli** Kabuli
+* 20th Kalinan Rifles [[Fortress Kabuli]] Kabuli
   * 58th Rifles Battalion **300** **Kairi Barracks** [[Kairi]]
   * 59th Rifles Battalion **300** **Virgin Barracks** [[Virgin]]
   * 60th Rifles Battalion **300** **Barbados Barracks** [[Barbados]]
@@ -323,7 +323,7 @@ Although the service is organised into regiments, their formations are better re
     padding: 0.15rem 0.25rem;
     border-radius: .25rem;
     color: var(--highlight);
-    font-weight: 500;
+    font-weight: 400;
   }
   .hollowtag {
     line-height: .8rem!important;

@@ -45,7 +45,7 @@ Both cities have airports capable of receiving jets, and Provo is connected to i
 <details open>
   <summary>Points of Interest</summary>
 
-* **Fort Orient**: Large service station of the [[territorial|Territorial Services]].
+* **[[Fortress Orient]]**: Large service station of the [[territorial|Territorial Services]].
 * **Caicos University**: Affiliated campus of the Commonwealth University of the West Indies.
 * **Innumerable Beaches, Reefs, Cays**: Caicos is famous for its beaches, clear water, and coral reefs. Few foreign tourists make it there, so visitors can often have a whole beach to themselves.
 * **Arawak Orient Brewery**: Famous brewery known for its cold beers. The factory is open to visitors.

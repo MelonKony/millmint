@@ -26,12 +26,7 @@
   const imageWidth = 6000; // Replace with your image's actual width in pixels
   const imageHeight = 3265; // Replace with your image's actual height in pixels
 
-  const mapBounds = [
-    [0, 0], // Bottom-left corner
-    [3265, 6000] // Top-right corner (height, width of the PNG)
-  ];
-
-  const map = L.map('map', {
+const map = L.map('map', {
     crs: L.CRS.Simple, // Simple coordinate system
     minZoom: -2,       // Allow zooming out
     maxZoom: 4,        // Increased zoom level
@@ -39,8 +34,12 @@
     zoomControl: false, // Disable default zoom control to reposition
   });
 
+  const imageUrl = '/svg/maps/world.png';
+  const imageBounds = [[0, 0], [3265, 6000]];
+  L.imageOverlay(imageUrl, imageBounds).addTo(map);
+
   // Fit the map to the image bounds
-  map.fitBounds(mapBounds);
+  map.fitBounds(imageBounds);
 
   // Add zoom controls at the bottom right
   L.control.zoom({
@@ -48,16 +47,16 @@
   }).addTo(map);
 
   // Add the image overlay
-  L.imageOverlay('{{ .Params.map }}', mapBounds).addTo(map);
+  L.imageOverlay('{{ .Params.map }}', imageBounds).addTo(map);
 
   // Restrict panning to the image bounds
-  map.setMaxBounds(mapBounds);
+  map.setMaxBounds(imageBounds);
 
   // Fit the map to the image bounds
-  map.fitBounds(mapBounds);
+  map.fitBounds(imageBounds);
 
   // Add the image overlay
-  L.imageOverlay('{{ .Params.map }}', mapBounds).addTo(map);
+  L.imageOverlay('{{ .Params.map }}', imageBounds).addTo(map);
 </script>
 
 <style>
