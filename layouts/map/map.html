@@ -26,7 +26,8 @@
   const imageWidth = 6000; // Replace with your image's actual width in pixels
   const imageHeight = 3265; // Replace with your image's actual height in pixels
 
-const map = L.map('map', {
+  // Leaflet map initialization
+  const map = L.map('map', {
     crs: L.CRS.Simple, // Simple coordinate system
     minZoom: -2,       // Allow zooming out
     maxZoom: 4,        // Increased zoom level
@@ -34,8 +35,11 @@ const map = L.map('map', {
     zoomControl: false, // Disable default zoom control to reposition
   });
 
-  const imageUrl = '/svg/maps/world.png';
-  const imageBounds = [[0, 0], [3265, 6000]];
+  // Define the image bounds and URL
+  const imageBounds = [[0, 0], [imageHeight, imageWidth]]; // Using consistent variable names
+  const imageUrl = '/svg/maps/world.png'; // Check server for correct path
+
+  // Add image overlay
   L.imageOverlay(imageUrl, imageBounds).addTo(map);
 
   // Fit the map to the image bounds
@@ -43,20 +47,11 @@ const map = L.map('map', {
 
   // Add zoom controls at the bottom right
   L.control.zoom({
-    position: 'bottomright'
+    position: 'bottomright',
   }).addTo(map);
-
-  // Add the image overlay
-  L.imageOverlay('{{ .Params.map }}', imageBounds).addTo(map);
 
   // Restrict panning to the image bounds
   map.setMaxBounds(imageBounds);
-
-  // Fit the map to the image bounds
-  map.fitBounds(imageBounds);
-
-  // Add the image overlay
-  L.imageOverlay('{{ .Params.map }}', imageBounds).addTo(map);
 </script>
 
 <style>
