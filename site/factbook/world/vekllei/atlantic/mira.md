@@ -20,6 +20,7 @@ Mira is part of the [[atlantic|Commonwealth Atlantic]]
 
 {{<infobox/country
 	 Name="Mira Republic"
+	 RealName="Island of Madeira"
 	 Type="Republic"
 	 Commonwealth="Atlantic"
 	 Flag="/svg/flags/mira.svg"

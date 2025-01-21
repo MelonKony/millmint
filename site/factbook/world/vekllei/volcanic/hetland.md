@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Hetland Republic"
+	 RealName="Archipelago of the Shetland Islands"
 	 Type="Republic"
 	 Commonwealth="Volcanic"
 	 Flag="/svg/flags/hetland.svg"
@@ -48,6 +49,7 @@ Despite their isolation, the Hetlands are well-connected to both [[Aismious]] an
 * **Sullom Voe Oil Refinery**: One of Vekllei’s largest oil refineries, and an important fixture in the Hetland economy.
 * **Lerwick Harbour**: Key for fishing, freight, oil transport, and cruise ship docking.
 * **Scatsta Federal Airport & Air Station**: Important industrial and military airport.
+* **Celtic Works**: Company manufacturing machine tools, compressors and other industrial equipment as part of [[Atlantic Works]].
 * **Hetland Fission Power Plant**: [[General Reactor]] plant on Mainland, one of the handful of remaining fission plants in [[Vekllei]]
 </details>
 

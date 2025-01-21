@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Santes Republic"
+	 RealName="Island of Tristan da Cunha"
 	 Type="Republic"
 	 Commonwealth="Antarctic"
 	 Flag="/svg/flags/santes.svg"

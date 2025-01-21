@@ -18,6 +18,7 @@ Graciosa is part of the [[atlantic|Commonwealth Atlantic]]
 
 {{<infobox/country
 	 Name="Graciosa Republic"
+	 RealName="Island of Graciosa"
 	 Type="Republic"
 	 Commonwealth="Atlantic"
 	 Flag="/svg/flags/graciosa.svg"

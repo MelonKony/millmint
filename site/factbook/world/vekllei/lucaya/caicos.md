@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Caicos Republic"
+	 RealName="Archipelago of the Turks & Caicos Islands"
 	 Type="Republic"
 	 Commonwealth="Lucaya"
 	 Flag="/svg/flags/caicos.svg"
@@ -46,6 +47,7 @@ Both cities have airports capable of receiving jets, and Provo is connected to i
   <summary>Points of Interest</summary>
 
 * **[[Fortress Orient]]**: Large service station of the [[territorial|Territorial Services]].
+* **Jet Works**: Aircraft manufacturer specialising in small and medium-sized specialised jet aircraft as part of [[Atlantic Works]].
 * **Caicos University**: Affiliated campus of the Commonwealth University of the West Indies.
 * **Innumerable Beaches, Reefs, Cays**: Caicos is famous for its beaches, clear water, and coral reefs. Few foreign tourists make it there, so visitors can often have a whole beach to themselves.
 * **Arawak Orient Brewery**: Famous brewery known for its cold beers. The factory is open to visitors.

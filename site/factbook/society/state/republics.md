@@ -43,10 +43,13 @@ There are a few criteria separating republics from regular local government. The
 	* [[Sude]] (*South Georgia & South Sandwich Islands*)
 
 * **[[antilles|Commonwealth Antilles]]**
+	* Abakoa (*San Andres*)
 	* [[Aruba]] (*Aruba*)
 	* [[Bonaire]] (*Bonaire*)
+	* Botuto (*Los Roques Islands*)
 	* [[Caimanas]] (*Caimanas*)
 	* [[Curacao]] (*Curacao*)
+	* Providence (*Providencia*)
 
 * **[[arctic|Commonwealth Arctic]]**
 	* [[Helvasia]] (*Svalbard*)
@@ -75,6 +78,7 @@ There are a few criteria separating republics from regular local government. The
 	* [[Bahama]] (*Grand Bahama*)
 	* [[Caicos]] (*Turks & Caicos*)
 	* Cigateo Republic (*Eleuthera*)
+	* [[Conch]] (*Key West*)
 	* [[Curateo]] (*Great Exuma*)
 	* Guanima Republic (*Cat Island*)
 	* [[Habacoa]] (*Andros Islands*)

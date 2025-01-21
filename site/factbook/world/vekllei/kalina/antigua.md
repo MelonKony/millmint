@@ -19,6 +19,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Antigua Republic"
+	 RealName="Island of Antigua"
 	 Type="Republic"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/antigua.svg"

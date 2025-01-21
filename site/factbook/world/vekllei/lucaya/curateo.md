@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Curateo Republic"
+	 RealName="Archipelago of the Great Exuma Islands"
 	 Type="Republic"
 	 Commonwealth="Lucaya"
 	 Flag="/svg/flags/curateo.svg"

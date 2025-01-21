@@ -18,6 +18,7 @@ Java is part of the [[verde|Commonwealth Verde]]
 
 {{<infobox/country
 	 Name="Java Republic"
+	 RealName="Island of Sao Tome"
 	 Type="Republic"
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/java.svg"
@@ -45,6 +46,7 @@ Javans are mostly African or mixed-race, and are typically Roman Catholics. Many
 <details open>
 <summary>Points of Interest</summary>
 
+* **Java Works**: Large manufacturer specialising in tools, power tools and construction material as part of [[Atlantic Works]].
 * **Obo National Park**: Large national park within Java's interior, most famous for the bizarre needlelike volcanic formation known as Great Dog.
 * **National Equatorial Monument**: Monument and public park marking the site of the equator.
 * **[[ns-java|Naval Station Java]]**: Major navy dock and shipyard.

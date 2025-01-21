@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Aismious Republic"
+	 RealName="Archipelago of the Faroe Islands"
 	 Type="Republic"
 	 Commonwealth="Volcanic"
 	 Flag="/svg/flags/aismious.svg"

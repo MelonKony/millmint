@@ -20,6 +20,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Summers Republic"
+	 RealName="Island of Bermuda"
 	 Type="Republic"
 	 Commonwealth="Lucaya"
 	 Flag="/svg/flags/summers.svg"

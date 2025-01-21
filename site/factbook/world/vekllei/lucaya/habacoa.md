@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Habacoa Republic"
+	 RealName="Archipelago of the Andros & Cay Sal Islands"
 	 Type="Republic"
 	 Commonwealth="Lucaya"
 	 Flag="/svg/flags/habacoa.svg"

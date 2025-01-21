@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Barbados Republic"
+	 RealName="Island of Barbados"
 	 Type="Republic"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/barbados.svg"

@@ -18,6 +18,7 @@ Principe is part of [[verde|Commonwealth Verde]]
 
 {{<infobox/country
 	 Name="Principe Republic"
+	 RealName="Island of Principe"
 	 Type="Republic"
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/principe.svg"

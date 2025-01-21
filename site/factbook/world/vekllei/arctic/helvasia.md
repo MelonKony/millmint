@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Helvasia Republic"
+	 RealName="Island of Svalbard"
 	 Type="Republic"
 	 Commonwealth="Arctic"
 	 Flag="/svg/flags/helvasia.svg"

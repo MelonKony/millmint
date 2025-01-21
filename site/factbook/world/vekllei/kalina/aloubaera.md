@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Aloubaera Republic"
+	 RealName="Island of Tobago"
 	 Type="Republic"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/aloubaera.svg"

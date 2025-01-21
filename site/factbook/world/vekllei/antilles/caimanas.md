@@ -20,6 +20,7 @@ aliases:
 
 {{<infobox/country
      Name="Caimanas Republic"
+     RealName="Archipelago of the Cayman Islands"
      Type="Republic"
      Commonwealth="Antilles"
      Flag="/svg/flags/caimanas.svg"

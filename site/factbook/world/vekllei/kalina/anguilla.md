@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Anguilla Republic"
+	 RealName="Island of Anguilla"
 	 Type="Republic"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/anguilla.svg"

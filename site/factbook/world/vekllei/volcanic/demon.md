@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Demon Republic"
+	 RealName="Island of Jan Mayen"
 	 Type="Republic"
 	 Flag="/svg/flags/demon.svg"
 	 SmallFlag="/svg/flags/4x3/demon.svg"

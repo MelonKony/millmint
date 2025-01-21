@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Virgin Republic"
+	 RealName="Archipelago of the British, Spanish and U.S. Virgin Islands"
 	 Type="Republic"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/virgin.svg"

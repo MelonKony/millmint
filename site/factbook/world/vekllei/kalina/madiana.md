@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Madiana Republic"
+	 RealName="Island of Martinique"
 	 Type="Republic"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/madiana.svg"

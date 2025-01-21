@@ -20,6 +20,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Falklands Republic"
+	 RealName="Archipelago of the Falklands"
 	 Type="Republic"
 	 Commonwealth="Antarctic"
 	 Flag="/svg/flags/falklands.svg"

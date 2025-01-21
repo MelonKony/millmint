@@ -20,6 +20,7 @@ aliases:
 
 {{<infobox/country
      Name="Curacao Republic"
+     RealName="Island of Curacao"
      Type="Republic"
      Commonwealth="Antilles"
      Flag="/svg/flags/curacao.svg"

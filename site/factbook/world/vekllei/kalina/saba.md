@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Saba Republic"
+	 RealName="Island of Saba"
 	 Type="Republic"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/saba.svg"

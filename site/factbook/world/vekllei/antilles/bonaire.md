@@ -20,6 +20,7 @@ aliases:
 
 {{<infobox/country
      Name="Bonaire Republic"
+     RealName="Island of Bonaire"
      Type="Republic"
      Commonwealth="Antilles"
      Flag="/svg/flags/bonaire.svg"

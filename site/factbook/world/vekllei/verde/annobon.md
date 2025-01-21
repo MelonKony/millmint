@@ -18,6 +18,7 @@ Annobon is part of the [[verde|Commonwealth Verde]]
 
 {{<infobox/country
 	 Name="Annobon Republic"
+	 RealName="Island of Annobon"
 	 Type="Republic"
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/annobon.svg"

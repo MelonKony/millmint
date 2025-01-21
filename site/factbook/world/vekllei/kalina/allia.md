@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Allia Republic"
+	 RealName="Island of Montserrat"
 	 Type="Republic"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/allia.svg"

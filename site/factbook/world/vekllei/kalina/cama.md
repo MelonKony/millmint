@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Cama Republic"
+	 RealName="Island of Grenada"
 	 Type="Republic"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/cama.svg"
@@ -40,6 +41,7 @@ The island of Cama is home to the Vekllei National Medical University, the most 
 
 <details open>
   <summary>Major Industries</summary>
+
 * **Agriculture**
 	* Cocoa
 	* Nutmeg
@@ -62,8 +64,10 @@ The island of Cama is home to the Vekllei National Medical University, the most 
 </details>
 
 <details open>
-  <summary>Major Corporations</summary>
+  <summary>Points of Interest</summary>
+
 * [[Atlantis]]
+* **Adriatic Works**: Marine equipment, shipping container and general marine engineering company part of [[Atlantic Works]].
 * Caribbea Cooperative Breweries
 * Cama Nutmeg (bureau)
 * The Virgin Chocolate Company

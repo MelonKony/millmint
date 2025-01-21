@@ -3527,6 +3527,12 @@ ol.timeline .event {
 .fi-curateo.fis {
   background-image: url(../svg/flags/1x1/curateo.svg); }
 
+.fi-conch {
+  background-image: url(../svg/flags/4x3/conch.svg); }
+
+.fi-conch.fis {
+  background-image: url(../svg/flags/1x1/conch.svg); }
+
 .fi-cavoada {
   background-image: url(../svg/flags/4x3/cavoada.svg); }
 

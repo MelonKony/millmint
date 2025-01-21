@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Aloi Republic"
+	 RealName="Island of St Eustatius"
 	 Type="Republic"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/aloi.svg"

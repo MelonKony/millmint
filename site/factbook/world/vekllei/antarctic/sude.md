@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Sude Republic"
+	 RealName="Archipelago of the South Georgia & South Sandwich Islands"
 	 Type="Republic"
 	 Commonwealth="Antarctic"
 	 Flag="/svg/flags/sude.svg"

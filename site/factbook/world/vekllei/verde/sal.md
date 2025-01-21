@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Sal Republic"
+	 RealName="Island of Sal"
 	 Type="Republic"
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/sal.svg"

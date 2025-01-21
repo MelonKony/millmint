@@ -3,6 +3,10 @@
 		<th colspan="2"><span class="fi" style="background-image: url({{.Get "SmallFlag"}});"></span> {{.Get "Name"}}</th>
 	</tr>
 
+	<tr>
+		<td style="text-align: center" colspan="2"><i>{{.Get "RealName"}}</i></td>
+	</tr>
+
 	{{ if eq (.Get "Type") "Republic" }}
 	<tr>
 		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/republics/">Constituent Republic</a> of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>

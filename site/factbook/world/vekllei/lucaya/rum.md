@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Rum Republic"
+	 RealName="Islands of San Salvador & Rum Cay"
 	 Type="Republic"
 	 Commonwealth="Lucaya"
 	 Flag="/svg/flags/rum.svg"

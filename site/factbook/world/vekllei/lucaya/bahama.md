@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Bahama Republic"
+	 RealName="Island of Grand Bahama"
 	 Type="Republic"
 	 Commonwealth="Lucaya"
 	 Flag="/svg/flags/bahama.svg"
@@ -68,6 +69,7 @@ Warm and wet, with a tropical monsoon season. August through October is hurrican
   - **Port Lucaya Marketplace**: A vibrant shopping and dining hub offering local crafts, restaurants, and entertainment near the marina.
   - **Taino Beach**: A popular beach with calm turquoise waters, water sports, and a lively atmosphere for families and tourists.
   - **Bimini Naval Surveillance Station**: [[marine|Marine Services]] surveillance station monitoring shipping and naval traffic throughout Lucaya and the Caribbean.
+  - **Diesel Works**: Engine and pump manufacturer associated with [[Atlantic Works]].
   - **Freeport Container Port**: One of the largest transshipment ports in the Caribbean.
   - **[[oil|Commonwealth Oil]] Free Bunkering Terminal & Refinery**: Important industrial facility for oil storage and refining that exports fuel to many partners overseas.
   - **Fresh Water Lens**: A vital natural aquifer that provides freshwater to the island, supported by modern water treatment facilities.

@@ -20,6 +20,7 @@ aliases:
 
 {{<infobox/country
      Name="Aruba Republic"
+     RealName="Island of Aruba"
      Type="Republic"
      Commonwealth="Antilles"
      Flag="/svg/flags/aruba.svg"

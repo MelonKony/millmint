@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Kala Republic"
+	 RealName="Island of Greenland"
 	 Type="Republic"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/kala.svg"

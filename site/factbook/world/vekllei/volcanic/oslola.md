@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Oslola Republic"
+	 RealName="Island of Iceland"
 	 Type="Republic"
 	 Commonwealth="Volcanic"
 	 Flag="/svg/flags/oslola.svg"
@@ -38,4 +39,9 @@ Oslola has historically been a major entrepôt for trans-Atlantic traffic, and a
 
 Oslola is densely populated, and the metropolitan region in the south-east comprises one continuous city broken up by mountains and crown lands. The main city, also called Oslola, has a varied character of narrow medium-height streets, railways, canals and street vegetation. It is home to many Vekllei institutions, including Vekllei National University, as well as international organisations like the new UN building and the International Federation of Journalists.
 
+<details open>
+<summary>Points of Interest</summary>
+
+* **Rail Works**: Company manufacturing railway vehicles, carriages and commuter rail vehicles as part of [[Atlantic Works]].
+</details>
 

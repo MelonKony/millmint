@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Verde Republic"
+	 RealName="Island of Sao Miguel"
 	 Type="Republic"
 	 Commonwealth="Atlantic"
 	 Flag="/svg/flags/costa-verde.svg"

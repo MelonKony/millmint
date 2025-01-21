@@ -18,6 +18,7 @@ Cavoada is part of [[verde|Commonwealth Verde]]
 
 {{<infobox/country
 	 Name="Cavoada Republic"
+	 RealName="Island of Sao Nicolau"
 	 Type="Republic"
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/cavoada.svg"

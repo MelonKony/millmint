@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Helena Republic"
+	 RealName="Island of Saint Helena"
 	 Type="Republic"
 	 Commonwealth="Antarctic"
 	 Flag="/svg/flags/helena.svg"

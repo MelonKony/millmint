@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Ascension Republic"
+	 RealName="Island of Ascension"
 	 Type="Republic"
 	 Commonwealth="Antarctic"
 	 Flag="/svg/flags/ascension.svg"

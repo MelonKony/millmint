@@ -20,6 +20,7 @@ Brava is part of [[verde|Commonwealth Verde]]
 
 {{<infobox/country
 	 Name="Brava Republic"
+	 RealName="Island of Brava"
 	 Type="Republic"
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/brava.svg"

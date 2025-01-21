@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Grenadines Republic"
+	 RealName="Archipelago of the Grenadines"
 	 Type="Republic"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/grenadines.svg"

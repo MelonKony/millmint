@@ -18,6 +18,7 @@ Velas is part of the [[atlantic|Commonwealth Atlantic]]
 
 {{<infobox/country
 	 Name="Velas Republic"
+	 RealName="Island of Sao Jorge"
 	 Type="Republic"
 	 Commonwealth="Atlantic"
 	 Flag="/svg/flags/velas.svg"

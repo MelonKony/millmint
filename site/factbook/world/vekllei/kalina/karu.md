@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Karu Republic"
+	 RealName="Island of Guadeloupe"
 	 Type="Republic"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/karu.svg"

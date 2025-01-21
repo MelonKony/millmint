@@ -18,6 +18,7 @@ aliases:
 
 {{<infobox/country
 	 Name="Kairi Republic"
+	 RealName="Island of Trinidad"
 	 Type="Republic"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/kairi.svg"

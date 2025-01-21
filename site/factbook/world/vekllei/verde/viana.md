@@ -17,7 +17,8 @@ aliases:
 {{</note>}}
 
 {{<infobox/country
-	 Name="Cavoada Republic"
+	 Name="Viana Republic"
+	 RealName="Island of Sao Vicente"
 	 Type="Republic"
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/viana.svg"
