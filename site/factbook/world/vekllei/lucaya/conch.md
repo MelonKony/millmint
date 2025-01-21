@@ -13,7 +13,7 @@ aliases:
 - /conch/
 ---
 {{<note series>}}
- [[Conch]] is part of [[lucaya|Commonwealth Lucaya]] in [[Vekllei]]
+ [[Conch]] is part of [[lucaya|Commonwealth Lucaya]]
 {{</note>}}
 
 {{<infobox/country
@@ -30,7 +30,7 @@ aliases:
 	 Accession="1948, as part of the West Indies Agreement"
  >}}
 
-The <span class="fi fi-conch"></span> **Conch Republic** (sometimes called *Key West* or *Cayo Hueso*) is a [constituent republic](/republics/) of [[Vekllei]] western periphery of the [[lucaya|Lucayan]] archipelago. It comprises a number of large cays in the southernmost tip of the Florida Keys archipelago, which borders the United States. The republic has in fact the closest neighbouring country of any Vekllei republic, with just a 1.2 kilometre gap between Molasses Cay (Vekllei) and Pigeon Cay (United States/Dallas America). Prior to the American Secession Crisis, the republic had close economic and cultural ties with the US and allowed regular travel between them. Since the crisis and instability in local Floridian government, the border has been closed to tourists and migrants. Its closest neighbour republic is [[Bahama]].
+The <span class="fi fi-conch"></span> **Conch Republic** (sometimes called *Key West* or *Cayo Hueso*) is a [constituent republic](/republics/) of [[Vekllei]]. It comprises a number of large cays in the southernmost tip of the Florida Keys archipelago, which borders the United States. The republic has the closest neighbouring country of any Vekllei republic, with just a 1.2 kilometre gap between Molasses Cay (Vekllei) and Pigeon Cay (United States/Dallas America). Prior to the American Secession Crisis, the republic had close economic and cultural ties with the US and allowed regular travel between them. Since the crisis and instability in local Floridian government, the border has been closed to tourists and migrants. Its closest neighbour republic is [[Bahama]].
 
 The cays that make up the Conch republic have a colourful history and have changed hands several times. The [[UK]] seized the islands in 1763 when it wrested control of Florida from Spain. Because they had a reliable supply of water, the British established a naval station and barracks there. After the conclusion of the American Revolutionary War in 1783, Spain regained control over a number of its former territories but were unable to reclaim the Conch Cays, which had been rapidly fortified by loyalists during the revolution and were seen as necessary to the defence of the Bahamas. The cays were sometimes referred to as the "Gibraltar of the West Indies," despite its proximity to the North American continent. American interest in the cays has been persistent since the purchase of Florida, but they remained British until 1948, when the Cays voted to join the West Indies Federation as a member of the British Atlantic Territories. Upon accession of the Federation to [[Vekllei]], the Conch Republic was established as a member of the [[lucaya|Lucayan Commonwealth]].
 
