@@ -3,7 +3,7 @@ title: National Design Atlas
 fulltitle: National Design Atlas
 icon: 🖼️
 logo: /svg/logos/design-atlas.svg
-color: red
+rgb: 255, 0, 52
 logocredit: Keith Murgatroyd, 1977, for West Midlands Arts
 
 fi: fi fi-min-design-atlas fis
