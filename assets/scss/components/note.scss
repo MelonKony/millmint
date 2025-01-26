@@ -105,6 +105,12 @@ background: transparent;
 	}
 }
 
+.note.outline {
+	@include highlight-border;
+	@include padding-2;
+	background: transparent;
+}
+
 .note.link,
 .note.link {
 	@include highlight-border;

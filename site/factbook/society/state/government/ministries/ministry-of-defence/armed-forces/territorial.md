@@ -3,7 +3,7 @@ title: Territorial Services
 fulltitle: Territorial Services
 icon: ⚔️
 color: land
-logo: /svg/logos/territorial.svg
+logo: /svg/crests/territorial.svg
 
 fi: fi fi-min-land fis
 
@@ -72,43 +72,43 @@ Policy is to have a standing army 35,000 strong, but Rifles regiments are activa
 {{<note>}}
 **Fortressed Rifles** (10,000)
 
-* 3rd Demonic Guards Regiment [[Fortress Demon]] **1000** [[Demon]]
+* 3rd Demonic Guards Regiment **1000** [[Fortress Demon]]  [[Demon]]
   * 7th Rifles Battalion **300** **Air Station Scatsta**[[Hetland]]
   * 8th Rifles Battalion **300** [[Fortress Demon]] [[Demon]]
   * 9th Rifles Battalion **300** [[Fortress Demon]] [[Demon]]
-* 4th Sunburst Guards Regiment [[Fortress Lola]] **1000** [[Oslola]]
+* 4th Sunburst Guards Regiment **1000** [[Fortress Lola]]  [[Oslola]]
   * 10th Rifles Battalion **300** **Air Station Oslola**[[Oslola]]
   * 11th Rifles Battalion **300** [[Fortress Lola]] [[Oslola]]
   * 12th Rifles Battalion **300** [[Fortress Lola]] [[Oslola]]
-* 5th Desert Guards Regiment [[Fortress Praia]] **1000** Praia
+* 5th Desert Guards Regiment **1000** [[Fortress Praia]] Praia
   * 13th Rifles Battalion **300** [[Fortress Praia]] Praia
   * 14th Rifles Battalion **300** **Air Station Praia** Praia
   * 15th Rifles Battalion **300** [[Fortress Praia]] Praia
-* 6th African Guards Regiment [[Fortress Annobon]] **1000**[[Annobon]]
+* 6th African Guards Regiment [[Fortress Annobon]] [[Annobon]]
   * 16th Rifles Battalion **300** [[Fortress Annobon]] [[Annobon]]
   * 17th Rifles Battalion **300** **Naval Station Java** [[Java]]
   * 18th Rifles Battalion **300** [[Fortress Annobon]] [[Annobon]]
-* 7th Sentinel Guards Regiment **Fortress Helena** **1000** [[Helena]]
+* 7th Sentinel Guards Regiment **Fortress Helena**  [[Helena]]
   * 19th Rifles Battalion **300** **Fortress Helena** [[Helena]]
   * 20th Rifles Battalion **300** **Air Station Ascension** [[Ascension]]
   * 21st Rifles Battalion **300** **Naval Station Santes** [[Santes]]
-* 8th Falklander Guards Regiment [[Fortress Falklands]] **1000** [[Falklands]]
+* 8th Falklander Guards Regiment [[Fortress Falklands]]  [[Falklands]]
   * 22nd Rifles Battalion **300** [[Fortress Falklands]] [[Falklands]]
   * 23rd Rifles Battalion **300** [[Fortress Falklands]] [[Falklands]]
   * 24th Rifles Battalion **300** **Naval Station Sude** [[Sude]]
-* 9th Sugar Guards Regiment [[Fortress Kabuli]] **1000** Kabuli
+* 9th Sugar Guards Regiment [[Fortress Kabuli]]  Kabuli
   * 25th Rifles Battalion **300** [[Fortress Kabuli]] Kabuli
   * 26th Rifles Battalion **300** **Naval Station Antigua** [[Antigua]]
   * 27th Rifles Battalion **300** **Air Station Kairi** [[Kairi]]
-* 10th Ready Guards Regiment [[Fortress Aruba]] **1000** [[Aruba]]
+* 10th Ready Guards Regiment [[Fortress Aruba]]  [[Aruba]]
   * 28th Rifles Battalion **300** [[Fortress Aruba]] [[Aruba]]
   * 29th Rifles Battalion **300** [[Fortress Aruba]] [[Aruba]]
   * 30th Rifles Battalion **300** **Naval Station Curacao** [[Curacao]]
-* 11th Candle Guards Regiment [[Fortress Orient]] **1000** [[Caicos]]
+* 11th Candle Guards Regiment [[Fortress Orient]]  [[Caicos]]
   * 31st Rifles Battalion **300** [[Fortress Orient]] [[Caicos]]
-  * 32nd Rifles Battalion **300** **Naval Station Salvador** [[Rum]]
+  * 32nd Rifles Battalion **300** **Conch Barracks** [[Conch]]
   * 33rd Rifles Battalion **300** **Naval Station Summers** [[Summers]]
-* 12th Meteor Guards Regiment  [[Fortress Meteor]] **1000** Flores
+* 12th Meteor Guards Regiment  [[Fortress Meteor]]  Flores
   * 34th Rifles Battalion **300** [[Fortress Meteor]] Flores
   * 35th Rifles Battalion **300** [[Fortress Meteor]] Flores
   * 36th Rifles Battalion **300** **Naval Station Mira** [[Mira]]
@@ -170,9 +170,12 @@ Policy is to have a standing army 35,000 strong, but Rifles regiments are activa
 {{</note>}}
 
 #### Armoured Rifles Regiments
-  <br>
+
+{{<note>}}
   The Armoured Rifles are mechanised with infantry fighting vehicles and function as shock infantry.
+
 * 35th-36th Armoured Rifles Regiments
+{{</note>}}
 
 ### Commonwealth Commandos (6,000)
 
