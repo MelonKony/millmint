@@ -20,25 +20,10 @@ The Commission provides only general direction on art it commissions, but does d
 
 The Commission operates three programmes dedicated to aspects of its mission, through which it employs about 8,000 artists and a number of other people involved in its promotion and instruction. The scale and resourcing of the Commission contributes significantly to Vekllei's total artistic output, and has produced a number of famous artists, photographers and craftsmen.
 
-{{<note panel>}}
-## Executive Council
-
-* **Director**, [[Commonwealth Art Commission]]
-* **Director**, Arts Veletia
-* **Director**, National Gallery
-* **Assistant Secretary**, [[Ministry of Culture]]
-{{</note>}}
-
-{{<note panel>}}
-## Programmes
-* **Commonwealth Arts Secretariat**: General administrative and technical organisation within the Commission.
-    * Office of the First Arts Secretary
-    * Local Coordination Office
-    * International Grants Office
-    * Gallery Office
-    * Public Arts Centre Office
-* **Commonwealth Fine Arts Programme**
-* **Commonwealth Practical Arts Programme**
-* **Commonwealth Arts Education Programme**
-* **Commonwealth Design Atlas Programme**
+{{<note>}}
+**Programmes**
+* Commonwealth Fine Arts Programme
+* Commonwealth Practical Arts Programme
+* Commonwealth Arts Education Programme
+* Commonwealth Design Atlas Programme
 {{</note>}}
