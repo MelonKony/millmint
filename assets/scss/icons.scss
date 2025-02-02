@@ -124,6 +124,15 @@
   background-image: url(../svg/flags/1x1/conch.svg);
 }
 
+/// Abakoa Flag
+
+.fi-abakoa {
+  background-image: url(../svg/flags/4x3/abakoa.svg);
+}
+.fi-abakoa.fis {
+  background-image: url(../svg/flags/1x1/abakoa.svg);
+}
+
 /// Cavoada Flag
 
 .fi-cavoada {
@@ -463,6 +472,11 @@
 }
 .fi-balkan.fis {
   background-image: url(../svg/flags/1x1/balkan.svg);
+}
+
+/// Federal Republic of the Americas (FRA)
+.fi-fra {
+  background-image: url(../svg/flags/4x3/fra.svg);
 }
 
 /// Latin African United Republics

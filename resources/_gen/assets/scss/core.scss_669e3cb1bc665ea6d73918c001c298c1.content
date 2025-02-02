@@ -35,9 +35,9 @@
   --color-commerce: #e4a00e;
   --color-commons: #ff564f;
   --color-commonwealth: #e5388f;
-  --color-culture: #80bf22;
+  --color-culture: #1fa752;
   --color-defence: #ed220d;
-  --color-foreignaffairs: #522f93;
+  --color-foreignaffairs: #6422de;
   --color-industry: #2559a7;
   --color-labour: #a12b2e;
   --color-landscape: #13ac43;
@@ -3538,6 +3538,12 @@ ol.timeline .event {
 .fi-conch.fis {
   background-image: url(../svg/flags/1x1/conch.svg); }
 
+.fi-abakoa {
+  background-image: url(../svg/flags/4x3/abakoa.svg); }
+
+.fi-abakoa.fis {
+  background-image: url(../svg/flags/1x1/abakoa.svg); }
+
 .fi-cavoada {
   background-image: url(../svg/flags/4x3/cavoada.svg); }
 
@@ -3765,6 +3771,9 @@ ol.timeline .event {
 
 .fi-balkan.fis {
   background-image: url(../svg/flags/1x1/balkan.svg); }
+
+.fi-fra {
+  background-image: url(../svg/flags/4x3/fra.svg); }
 
 .fi-laur {
   background-image: url(../svg/flags/4x3/laur.svg); }

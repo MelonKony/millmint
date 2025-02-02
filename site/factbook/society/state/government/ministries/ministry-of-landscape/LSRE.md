@@ -46,17 +46,17 @@ The <span class="fi fi-min-lsre fis"></span> **Commonwealth Land Science Researc
 	* Division of Protein Chemistry
 	* Division of Textile Industry
 * **Department of Ecology**
-	* Antarctic Division
-	* Arctic Division
+	* Antarctic Division [[Falklands]]
+	* Arctic Division [[Kala]]
 	* Division of Entomology
-	* Division of Marine Wildlife
+	* Division of Marine Wildlife [[Abakoa]]
 	* Division of Subarctic & Subantarctic Agronomy
 	* Division of Tropical Agronomy
-	* Division of Wildlife
+	* Division of Wildlife [[Rum]]
 * **Department of Energy & Fuels**
 	* Coal Survey Section
-	* Division of Energy Chemistry, [[Madiana]]
-	* Oil Survey Section
+	* Division of Energy Chemistry [[Madiana]]
+	* Oil Survey Section [[Kairi]] [[Principe]]
 	* Precious Minerals Survey Section
 	* Uranium Survey Section
 * **Department of Geologic Sciences**
@@ -69,8 +69,9 @@ The <span class="fi fi-min-lsre fis"></span> **Commonwealth Land Science Researc
 	* Division of Volcanology
 	* Irrigation Research Laboratories
 * **Department of Oceanographic Sciences**
+	* National Marine Establishment [[Habacoa]]
 	* Division of Aquaculture Industry
-	* Division of Oceanography
+	* Division of Oceanography [[Conch]]
 	* Division of Undersea Physics
 * **Department of Physics**
 	* Division of Applied Physics

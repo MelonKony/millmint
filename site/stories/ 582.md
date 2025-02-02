@@ -1,0 +1,24 @@
+---
+title: Garbage Bag
+fulltitle: Garbage Bag
+
+date: 2024-12-16
+
+tags:
+- 2024
+characters:
+- tzipora
+- cobian
+categories:
+- sketch
+keywords:
+- 2024
+
+rgb: 239, 174, 111
+
+url: /stories/garbage-bag/
+image: /images/fullres/garbage-bag.jpg
+---
+{{<note caption>}}
+tfw [[Tzipora]] wears her garbage bag dress on date night
+{{</note>}}

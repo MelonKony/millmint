@@ -43,7 +43,7 @@ There are a few criteria separating republics from regular local government. The
 	* [[Sude]] (*South Georgia & South Sandwich Islands*)
 
 * **[[antilles|Commonwealth Antilles]]**
-	* Abakoa (*San Andres*)
+	* [[Abakoa]] (*San Andres*)
 	* [[Aruba]] (*Aruba*)
 	* [[Bonaire]] (*Bonaire*)
 	* Botuto (*Los Roques Islands*)

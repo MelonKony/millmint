@@ -15,7 +15,7 @@ aliases:
 - /curacao/
 ---
 {{<note series>}}
- Curacao is part of the [[antilles|Commonwealth Antilles]
+ Curacao is part of the [[antilles|Commonwealth Antilles]]
 {{</note>}}
 
 {{<infobox/country

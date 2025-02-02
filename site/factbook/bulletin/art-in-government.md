@@ -9,6 +9,8 @@ series: bulletin
 categories:
 - bulletin
 
+draft: true
+
 aliases:
 - /bulletin/art-in-government
 ---
