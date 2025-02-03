@@ -190,6 +190,13 @@
 	</tr>
 	{{ end }}
 
+	{{ if eq (.Get "Headquarters") "Velas" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Headquarters</th>
+	<td><a style="color: rgb(0, 135, 81)" href="/velas/"><span class="fi fi-velas"></span> Velas</a></td>
+	</tr>
+	{{ end }}
+
 	{{ if eq (.Get "Headquarters") "Ascension" }}
 	<tr>
 	<td style="font-weight: 500; width: 50%;">Headquarters</th>

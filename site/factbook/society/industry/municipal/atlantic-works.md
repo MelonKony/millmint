@@ -22,7 +22,7 @@ aliases:
 	 Industry="Heavy industry"
 	 Headquarters="Oslola"
 	 Founded="1916"
-	 Employees="3,000"
+	 Employees="14,000"
 	 Traded="AWK"
 	 Revenue="16 billion"
  >}}
