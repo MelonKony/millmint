@@ -3,19 +3,16 @@ title: Annobon
 fulltitle: Annobon Republic
 icon: 🥥
 logo: /svg/flags/4x3/annobon.svg
-series: republic
+series: verde
 
 rgb: 42, 110, 199
+description: Annobon is a constituent republic of Vekllei located in the Gulf of Guinea.
 
 fi: fi fi-annobon
 
 aliases:
 - /annobon/
 ---
-{{<note series>}}
-Annobon is part of the [[verde|Commonwealth Verde]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Annobon Republic"
 	 RealName="Island of Annobon"

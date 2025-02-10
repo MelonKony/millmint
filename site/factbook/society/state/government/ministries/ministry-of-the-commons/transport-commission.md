@@ -4,18 +4,16 @@ fulltitle: Commonwealth Transport Commission
 icon: 🛤️
 logo: /svg/logos/transport-commission.svg
 logocredit: Stefan Kanchev, 1965, for the Balkan Film Festival.
+series: organisation
 
 rgb: 255, 86, 79
 
 fi: fi fi-min-transport-commission fis
+description: The Commonwealth Transport Commission manages public transport for the Ministry of the Commons.
 
 aliases:
 - /commonwealth-transport-commission/
 ---
-{{<note series>}}
- This commission is part of the [[Ministry of the Commons]]
-{{</note>}}
-
 The <span class="fi fi-min-transport-commission fis"></span> **Commonwealth Transport Commission** manages public transport in [[Vekllei]]. While operation is delegated to many federated companies operated by the government and individual licensees, including [[CommRail]], [[air|Commonwealth Airways]] and [[Commonwealth Lines]] the transport commission is responsible for the overall connectivity and usefulness of the network.
 
 Most Vekllei people do not own private automobiles and so cannot be expected to travel via their own means. Instead, transport has to be arranged through useful and well-maintained public services, which the transport commission arranges. It is headquartered in Praya in [[Aruba]].

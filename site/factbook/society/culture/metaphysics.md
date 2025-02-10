@@ -5,20 +5,12 @@ icon: 🪬
 emoji: Q
 color: red
 
-tags: 
-  - culture
-categories:
-  - society
+description: Parts of Vekllei, especially in the ancient cultures of Oslola and Kala, have a fundamental metaphysical assumptions about the world.
 
 image: /images/spiritful.jpg
 
-
 aliases:
 - /metaphysics/
-
-description: Upen is an indigenous religion of Vekllei, a utopia created by Hobart Phillips.
-
- 
 ---
 {{<note series>}}
  This article is about [Vekllei](/factbook/vekllei)
@@ -28,8 +20,8 @@ description: Upen is an indigenous religion of Vekllei, a utopia created by Hoba
 This article draws on many concepts broadly, with meandering interest in the same way you might hold a conversation. The purpose of this article is to introduce an alternate perspective on Vekllei thinking, and provoke the buried understanding that these people understand the world in fundamentally different ways. What is history for you is not history for Vekllei, and what land means to you is not what land means in Vekllei.
 {{</note>}}
 
-{{<note>}}
-<span class="smallicon" style="font-size: 14px;">⚠️</span> This article is evolving, and will be expanded in future.
+{{<note advice>}}
+This article is evolving, and will be expanded in future.
 {{</note>}}
 
 ## Overview
@@ -50,7 +42,7 @@ It is important to clarify then that references to the 'Vekllei person' in this 
 
 -- Kitamura Tokoku,[^1] 1894
 
-Vekllei people do not generally understand the natural world as seperate from themselves. Physical landscape is, intuitively, understood as a reflection of their interior selves, and extends outwardly and limitlessly. Unlike modern assumptions, which consider physical reality to be external and thus able to be depicted objectively and realistically, Vekllei people to not distinguish between external and internal realities, and consequently do not have default conceptualisations of exteriority and interiority. This epistemic feature means that many subsequent concepts do not really exist in Vekllei -- categories of human beings like 'children' and 'young adults,' literature and sickness. 
+Vekllei people do not generally understand the natural world as seperate from themselves. Physical landscape is, intuitively, understood as a reflection of their interior selves, and extends outwardly and limitlessly. Unlike modern assumptions, which consider physical reality to be external and thus able to be depicted objectively and realistically, Vekllei people to not distinguish between external and internal realities, and consequently do not have default conceptualisations of exteriority and interiority. This epistemic feature means that many subsequent concepts do not really exist in Vekllei -- categories of human beings like 'children' and 'young adults,' literature and sickness.
 
 To clarify, it is not that those things do not exist in Vekllei -- this article refers only to the perception of features of life and to what they are assigned. The mythologising of illness; the casting of others as characters; the categorisation of culture into movements and eras; the linearity and historicism of history and progress. It is these things, foundational and apparently timeless in Western imagination, that are absent in Vekllei.
 

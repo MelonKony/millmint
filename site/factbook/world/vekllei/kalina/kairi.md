@@ -3,19 +3,16 @@ title: Kairi
 fulltitle: Kairi Republic
 icon: 🌲
 logo: /svg/flags/4x3/kairi.svg
-series: republic
+series: kalina
 
 rgb: 215, 18, 45
+description: Kairi (<i>Trinidad</i>) is a constituent republic of Vekllei located in the Lesser Antilles of the Caribbean Sea.
 
 fi: fi fi-kairi
 
 aliases:
 - /kairi/
 ---
-{{<note series>}}
- Kairi is part of [[Vekllei]] Kalina
-{{</note>}}
-
 {{<infobox/country
 	 Name="Kairi Republic"
 	 RealName="Island of Trinidad"

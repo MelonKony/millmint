@@ -4,17 +4,17 @@ fulltitle: Government Aircraft Factories
 icon: ✈️
 logo: /svg/logos/GAF.svg
 rgb: 247, 85, 85
-logocredit: Crawford Dunn, 1964, for Woodward Cape & Associates.
 series: goc
+
+logocredit: Crawford Dunn, 1964, for Woodward Cape & Associates.
+description: Government Aircraft Factories is a government-owned corporation that manufacturers a variety aircraft, specialising in passenger and transport planes.
 
 fi: fi fi-min-gaf fis
 
 aliases:
 - /GAF/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 {{<infobox/company
 	 Name="Government Aircraft Factories"

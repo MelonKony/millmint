@@ -2,22 +2,15 @@
 title: Bankruptcy in Vekllei
 fulltitle: Bankruptcy in Vekllei
 icon: 📉
+series: bulletin
 
 rgb: 203, 108, 164
 
-toc: false
-
-series: bulletin
-categories:
-- bulletin
+description: Although Vekllei businesses do not typically use money, they may be allowed to fail in a fashion that resembles bankruptcy.
 
 aliases:
 - /bulletin/bankruptcy
 ---
-{{<note series>}}
- Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

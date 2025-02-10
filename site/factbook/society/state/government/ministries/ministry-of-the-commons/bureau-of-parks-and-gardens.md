@@ -7,14 +7,11 @@ logo: /svg/crests/ministry-of-the-commons.svg
 series: bureau
 
 fi: fi fi-min-commons fis
+description: The Bureau of Housing oversees green spaces and public beauty for the Ministry of the Commons.
 
 aliases:
 - /bureau-of-parks-and-gardens/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of the Commons]]
-{{</note>}}
-
 The <span class="fi fi-min-commons fis"></span> **Bureau of Parks & Gardens** designs and constructs green spaces in [[Vekllei]]. It has a broad role in basically all public landscaping, and its influence extends far beyond urban parks. Through its departments it also facilitates public services like community agriculture, botanical gardens, zoos, parks, landscaping for public buildings like hospitals and schools and street gardens like flower baskets and urban trees.
 
 Vekllei is known for its bright, clean garden cities, and the Bureau of Parks & Gardens has no small hand in this reputation. It has an important role in all public renovation, renewal and construction, and contributes a lot of the natural beauty that is well-regarded in Vekllei communities. Regular Vekllei urban motifs, like running water, moss and rock gardens, indigenous flora and natural murals are mostly inventions of the bureau, which has seen its work replicated internationally. It does not have much to do with conservation or ecological maintenance, which mostly falls to the [[Ministry of Landscape]].

@@ -3,19 +3,16 @@ title: Caicos
 fulltitle: Caicos Republic
 icon: 🐚
 logo: /svg/flags/4x3/caicos.svg
-series: republic
+series: lucaya
 
 rgb: 199, 42, 43
+description: Caicos (<i>Turks & Caicos</i>) is a constituent republic of Vekllei located in the Lucayan Archipelago.
 
 fi: fi fi-caicos
 
 aliases:
 - /caicos/
 ---
-{{<note series>}}
- Caicos is part of [[lucaya|Commonwealth Lucaya]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Caicos Republic"
 	 RealName="Archipelago of the Turks & Caicos Islands"
@@ -31,7 +28,7 @@ aliases:
 	 Accession="1930, as part of the Alford Agreement"
  >}}
 
-The <span class="fi fi-caicos"></span> **Caicos Republic** is a [constituent republic](/republics/) of [[Vekllei]] at the southern end of the Lucayan archipelago. It comprises 8 major cays, and many smaller islets and reefs. All its islands are formed by coral and are low-lying with a tropical savannah climate. It is also the driest [republic](/republic/) in the [[lucaya|Commonwealth Lucaya]]. Together, the Caicos islands form a fringe of reefs and islets on the periphery of the Lucayan archipelago, facing the Atlantic Ocean. Several of the islands are uninhabited, and only two are home to major settlements, including the capital of Grand Turk in the east.
+The <span class="fi fi-caicos"></span> **Caicos Republic** is a [constituent republic](/republics/) of [[Vekllei]] at the southern end of the Lucayan archipelago. It comprises 8 major cays, and many smaller islets and reefs. All its islands are formed by coral and are low-lying with a tropical savannah climate. It is also the driest [republic](/republics/) in the [[lucaya|Commonwealth Lucaya]]. Together, the Caicos islands form a fringe of reefs and islets on the periphery of the Lucayan archipelago, facing the Atlantic Ocean. Several of the islands are uninhabited, and only two are home to major settlements, including the capital of Grand Turk in the east.
 
 Caicos is home to native Caribs known as Oriental Tainos, who occupied the islands periodically prior to European discovery. They form about two-fifths of the population today. The rest of Caicos Islanders are mostly of English and African ancestry, descended from British royalists and their slaves who fled there during the American Revolution. Like much of the [[lucaya|Commonwealth Lucaya]], colonisation of Caicos by Spain and then the [[UK]] involved the enslavement of natives and transported Africans, who in Caicos mostly worked in the salt and cotton industries. Historically there was considerable animosity between whites and blacks on the island, though desegregation and reconciliation programmes have helped mix communities and reduce disparities in health and education.
 

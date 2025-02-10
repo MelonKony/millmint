@@ -3,19 +3,16 @@ title: Barbary
 fulltitle: Barbary Republic
 icon: 🪸
 logo: /svg/flags/4x3/barbary.svg
-series: republic
+series: kalina
 
 rgb: 110, 110, 110
+description: Barbary (<i>Barbuda</i>) is a constituent republic of Vekllei located in the Lesser Antilles of the Caribbean Sea.
 
 fi: fi fi-barbary
 
 aliases:
 - /barbary/
 ---
-{{<note series>}}
- Barbados is part of [[kalina|Commonwealth Kalina]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Barbary Republic"
 	 RealName="Island of Barbuda"

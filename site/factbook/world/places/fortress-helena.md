@@ -4,16 +4,14 @@ fulltitle: Fortress Helena
 icon: ⚔️
 color: land
 logo: /svg/crests/territorial.svg
+series: location
 
 fi: fi fi-min-land fis
+description: Fortress Helena is a fortress of the Vekllei Armed Forces, located in the republic of Helena.
 
 aliases:
 - /fortress-helena /
 ---
-{{<note series>}}
- This article is about a [location](/factbook/landscape/places) in [[Vekllei]]
-{{</note>}}
-
 **Fortress Helena** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Helena]].
 
 {{<note table>}}

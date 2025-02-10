@@ -2,23 +2,18 @@
 title: Ludic Productivity
 fulltitle: Ludic Productivity in Vekllei
 icon: 🛝
+series: bulletin
 
 rgb: 223, 158, 50
 
 toc: false
 draft: false
 
-series: bulletin
-categories:
-- bulletin
+description: Vekllei people engage with work not in an economic but in a social sense. This concept is known as 'ludic productivity,' and resembles a form of play.
 
 aliases:
 - /bulletin/ludic-productivity/
 ---
-{{<note series>}}
- Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

@@ -7,14 +7,11 @@ logo: /svg/crests/ministry-of-landscape.svg
 series: ministry
 
 fi: fi fi-min-landscape fis
+description: The Ministry of Landscape deals with matters related to agriculture, food security, nature, meteorology and the oceans.
 
 aliases:
 - /ministry-of-landscape/
 ---
-{{<note series>}}
- This *[ministry](/ministries/)* is part of [[Vekllei]]
-{{</note>}}
-
 The <span class="fi fi-min-landscape fis"></span> **Ministry of Landscape** is a [devolved ministry](/ministries/) of the [[Government]] of [[Vekllei]]. It serves a broad role in government in matters related to agriculture, food security, natural resources, meteorology, nature and the oceans. In this sense, the ministry is tasked with "landscape" as it is used in Vekllei, with resource exploitation and human settlements assigned to the [[Ministry of Industry]] and the [[Ministry of the Commons]] respectively.
 
 Although the ministry has many environmental and conservationist responsibilities, it is not strictly an environmental ministry. Instead, its portfolio encompasses the physical landscape of Vekllei in a straightforward sense. This includes weather monitoring, food production, pollution control, natural spaces and parks and natural bodies of water. It has a close relationship with the [[LSRE]], the primary natural sciences research organisation in Vekllei. In many ways, the portfolio of research interests of the LSRE is the portfolio of duties of the Ministry of Landscape. Common responsibilities of the ministry include:

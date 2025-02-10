@@ -3,21 +3,16 @@ title: Falklands
 fulltitle: Falklands Republic
 icon: 🦀
 logo: /svg/flags/4x3/fk.svg
-series: republic
+series: antarctic
 
 rgb: 60, 122, 184
+description: Falklands is a constituent republic of Vekllei located in the South Atlantic Ocean.
 
 fi: fi fi-fk
-
-draft: false
 
 aliases:
 - /falklands/
 ---
-{{<note series>}}
- The Falklands are part of [[antarctic|Commonwealth Antarctic]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Falklands Republic"
 	 RealName="Archipelago of the Falklands"

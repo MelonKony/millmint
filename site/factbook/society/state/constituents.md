@@ -5,13 +5,12 @@ icon: 💮
 emoji: ←
 color: pink
 
+description: Constituent commonwealths are constituent political regions that share sovereignty with the federal government of Vekllei.
+
 aliases:
 - /constituents/
+series: state
 ---
-{{<note series>}}
- Part of the *[state](/state/)* series of articles
-{{</note>}}
-
 A **constituent** (also *constituent commonwealth*) is a type regional government in [[Vekllei]] that exercises control over multiple [republics](/republics/). It is an intermediate administrative body with special privileges and responsibilities.
 
 Constituent commonwealths have their own suite of [ministries](/ministries/) and a [[assembly|Assemblies]], and exercise power comparable to a state in other federal countries. In practice, they are represent common regional interests of individual [republics](/republics) in the [Commonwealth government](/government/).

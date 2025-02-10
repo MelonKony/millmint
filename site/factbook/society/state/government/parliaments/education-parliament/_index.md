@@ -4,17 +4,16 @@ fulltitle: Commonwealth Education Parliament
 icon: 🎓
 logo: /svg/crests/parliament/education.svg
 color: education
+series: parliament
 
 logocredit: František Boban, 1974, for Ustav Aplikovanej Kybernetiky.
+description: The Education Parliament is responsible for all schools and universities in Vekllei, and maintains the national curriculum.
 
 fi: fi fi-min-education fis
 
 aliases:
 - /education-parliament/
 ---
-{{<note series>}}
- This *[parliament](/parliaments/)* is part of [[Vekllei]].
-{{</note>}}
 {{<note advice>}}
 Read more: [[Education]]
 {{</note>}}

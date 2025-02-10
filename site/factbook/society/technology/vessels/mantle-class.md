@@ -1,12 +1,12 @@
 ---
-title: Mantle-class Ballistic Missile Submarine
+title: Mantle-class
 fulltitle: Mantle-class Ballistic Missile Submarine
 icon: ⚓️
 color: marine
 logo: /svg/crests/marine.svg
 
 series: vessel
-draft: false
+description: The Mantle-Class is a class of ballistic missile submarine in service with the Vekllei Armed Forces.
 
 image: /images/fullres/submarine.jpg
 

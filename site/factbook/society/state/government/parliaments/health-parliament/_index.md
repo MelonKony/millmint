@@ -4,18 +4,14 @@ fulltitle: Commonwealth Health Parliament
 icon: ⚕️
 logo: /svg/crests/parliament/health.svg
 color: health
+series: parliament
 
 fi: fi fi-min-health fis
+description: The Health Parliament is responsible for healthcare policy and delivery in Vekllei.
 
 aliases:
 - /health/
 ---
-{{<note series>}}
- This *[parliament](/parliaments/)* is part of [[Vekllei]].
-{{</note>}}
-
-<!--{{<boxtag>}}HELSEC{{</boxtag>}}-->
-
 {{<note advice>}}
 Read more: [[Healthcare]]
 {{</note>}}

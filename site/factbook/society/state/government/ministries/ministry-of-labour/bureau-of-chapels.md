@@ -8,10 +8,8 @@ color: labour
 series: bureau
 
 fi: fi fi-min-labour fis
+description: The Bureau of Chapels regulates women's organising and organisations for the Ministry of Labour.
 
 aliases:
 - /bureau-of-chapels/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of Labour]]
-{{</note>}}

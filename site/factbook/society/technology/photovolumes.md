@@ -5,6 +5,9 @@ icon: 💾
 emoji: O
 color: purple
 image: /images/fullres/photovolume.jpg
+series: technology
+
+description: Photovolumes are devices that store computer information in crystals, where it can be retrieved later.
 
 aliases:
 - /photovolumes/

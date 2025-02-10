@@ -4,17 +4,16 @@ fulltitle: Federal Republic of the Americas
 icon: 🌞
 logo: /svg/flags/4x3/fra.svg
 
+description: The Federal Republic of the Americas is a country in central America, comprising a contiguous area between Mexico's southern border and Colombia.
+
 rgb: 78, 144, 212
 
 fi: fi fi-fra
 
 aliases:
 - /fra/
+series: country
 ---
-{{<note series>}}
- Part of the *[world](/world/)* series of articles
-{{</note>}}
-
 {{<infobox/country
      Name="Federal Republic of the Americas"
      Flag="/svg/flags/4x3/fra.svg"

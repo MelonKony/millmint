@@ -4,16 +4,14 @@ fulltitle: Fortress Praia
 icon: ⚔️
 color: land
 logo: /svg/crests/territorial.svg
+series: location
 
 fi: fi fi-min-land fis
+description: Fortress Praia is a fortress of the Vekllei Armed Forces, located in the republic of Praia.
 
 aliases:
 - /fortress-praia /
 ---
-{{<note series>}}
- This article is about a [location](/factbook/landscape/places) in [[Vekllei]]
-{{</note>}}
-
 **Fortress Praia** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of Praia.
 
 {{<note table>}}

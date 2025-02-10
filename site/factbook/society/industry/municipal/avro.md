@@ -7,15 +7,14 @@ rgb: 244, 62, 24
 logocredit: Sergio Privitera, 1979, for A.C.P.I.
 
 image: /images/fullres/housing.jpg
+description: Avro is a automotive manufacturer firm in Vekllei. It is a municipalised cooperative made up of many constituent factories and dealers.
 
 fi: fi fi-min-avro fis
 
 aliases:
 - /avro/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 {{<infobox/company
 	 Name="Avro"

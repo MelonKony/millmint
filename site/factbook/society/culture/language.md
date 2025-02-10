@@ -1,26 +1,16 @@
 ---
-title: Language
-fulltitle: Language in Vekllei
+title: Oslolan Language
+fulltitle: Oslolan Language
 icon: 📖
 emoji: q
 color: red
 
-tags:
-  - culture
-categories:
-  - society
+description: Oslolan language is a fusion of Algic, Celtic and Scandinavian influences formed over thousands of years.
 
 image: /images/drawing.jpg
 
-type: blank
-
-
 aliases:
 - /language/
-
-description: The language of Vekllei, a utopia created by Hobart Phillips.
-
-
 ---
 {{<note series>}}
  This article is about [**Vekllei**](/factbook/vekllei)

@@ -5,13 +5,12 @@ icon: 🏛️
 emoji: ←
 color: millmint
 
+description: A government bureau is a statutory department of a Vekllei Ministry. They are professional, specialised organisations staffed by civil servants.
+
 aliases:
 - /government-bureaus/
+series: government
 ---
-{{<note series>}}
- Part of the *[state](/state/)* series of articles
-{{</note>}}
-
 A bureau is a statutory department of a [ministry](/ministries/) or [ministerial parliament](/parliaments/). They are professional, autonomous organisations run by a Director and staffed by civil servants.
 
 They are typically large organisations with various degrees of devolution, and often control constituent commissions, boards or corporations.

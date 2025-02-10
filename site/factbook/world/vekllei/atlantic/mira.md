@@ -3,9 +3,10 @@ title: Mira
 fulltitle: Mira Republic
 icon: 🌸
 logo: /svg/flags/4x3/mira.svg
-series: republic
+series: atlantic
 
 rgb: 19, 96, 195
+description: Mira (<i>Madeira</i>) is a constituent republic of Vekllei located in the North Atlantic Ocean.
 
 draft: false
 
@@ -14,10 +15,6 @@ fi: fi fi-mira
 aliases:
 - /mira/
 ---
-{{<note series>}}
-Mira is part of the [[atlantic|Commonwealth Atlantic]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Mira Republic"
 	 RealName="Island of Madeira"

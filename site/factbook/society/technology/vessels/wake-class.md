@@ -1,12 +1,12 @@
 ---
-title: Wake-class Patrol Motor Launch
+title: Wake-class
 fulltitle: Wake-class Patrol Motor Launch
 icon: ⚓️
 color: marine
 logo: /svg/crests/marine.svg
 
 series: vessel
-draft: false
+description: The Wake-Class is a class of coastal patrol boat in service with the Vekllei Armed Forces.
 
 image: /images/fullres/patrol-launch.jpg
 

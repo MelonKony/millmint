@@ -1,12 +1,12 @@
 ---
-title: Palm-class Submarine Chaser
+title: Palm-class
 fulltitle: Palm-class Submarine Chaser
 icon: ⚓️
 color: marine
 logo: /svg/crests/marine.svg
 
 series: vessel
-draft: false
+description: The Nike-Class is a class of anti-submarine patrol ship in service with the Vekllei Armed Forces.
 
 aliases:
 - /palm-class/

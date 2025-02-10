@@ -4,16 +4,16 @@ fulltitle: Gina
 icon: 🚲
 logo: /svg/logos/gina.svg
 rgb: 203, 2, 0
+
 logocredit: Raymond Loewy & C.E.I., 1964, for Ets Elco.
+description: Gina is an bicycle and moped manufacturer Vekllei, specialising in petrolbikes. It is most famous for the Gina Motoral moped.
 
 fi: fi fi-min-gina fis
 
 aliases:
 - /gina/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
  {{<infobox/company
 	  Name="Gina"

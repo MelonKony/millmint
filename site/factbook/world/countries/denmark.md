@@ -4,16 +4,16 @@ fulltitle: Kingdom of Denmark
 icon: 🔱
 logo: /svg/flags/4x3/dk.svg
 
+description: Denmark is a country in Western Europe, comprising the Jutland peninsula and an archipelago of over 400 islands.
+
 rgb: 200, 16, 47
 
 fi: fi fi-dk
 
 aliases:
 - /denmark/
+series: country
 ---
-{{<note series>}}
- Part of the *[world](/world/)* series of articles
-{{</note>}}
 
 The **<span class="fi fi-dk"></span> Kingdom of Denmark** is a country in Western Europe, consisting of the Jutland peninsula extending north of central West Germany and an archipelago of over 400 islands west of it. The majority of its land and people are in Jutland, though its capital, Copenhagen, is located on the westward island of Zealand.
 

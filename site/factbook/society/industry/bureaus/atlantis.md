@@ -7,15 +7,14 @@ rgb: 60, 120, 200
 series: ib
 
 logocredit:  Sandy Holman & Tom Lewis, 1979, for Ocean Gardening Products.
+description: Atlantis is the largest shipping and logistics company in Vekllei. It is a bureau corporation made up of many constituent companies.
 
 fi: fi fi-min-atlantis fis
 
 aliases:
 - /atlantis/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 {{<infobox/company
 	  Name="Atlantis"

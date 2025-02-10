@@ -8,14 +8,11 @@ autonumbering: false
 series: bureau
 
 fi: fi fi-min-commerce fis
+description: The Commonwealth Treasury is the national treasury, financial department and monetary authority of the Vekllei government.
 
 aliases:
 - /commonwealth-treasury/
 ---
-{{<note series>}}
- The Treasury is part of the [[Ministry of Commerce]]
-{{</note>}}
-
 The <span class="fi fi-min-commerce fis"></span> **Commonwealth Treasury**, commonly *The Treasury*, is the national treasury, financial department and monetary authority of [[Vekllei]]. The Treasury is ultimately responsible for the Vekllei tax system, government revenue and expenditure, and broad economic planning. The Treasury also maintains the GAIA automatic financial relay computer system, which has been the automatic mechanism for microeconomic policy in Vekllei since 2055.
 
 Departments of the Treasury inform the monetary policy established by the [[Commonwealth Bank]], and advises money supply and rate adjustments.

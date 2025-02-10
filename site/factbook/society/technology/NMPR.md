@@ -4,7 +4,9 @@ fulltitle: Nuclear Marine Propulsion Reactor
 icon: ⚛️
 emoji: a
 color: purple
-image:
+series: technology
+
+description: The Nuclear Marine Propulsion Reactor (or Vampire) is a marine propulsion system used in large oceangoing Vekllei ships.
 
 aliases:
 - /nmpr/

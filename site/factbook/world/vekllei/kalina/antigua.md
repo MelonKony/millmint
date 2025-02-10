@@ -3,20 +3,17 @@ title: Antigua
 fulltitle: Antigua Republic
 icon: 🌸
 logo: /svg/flags/4x3/antigua.svg
-series: republic
+series: kalina
 image: /images/fullres/antigua.jpg
 
 rgb: 133, 122, 187
+description: Antigua is a constituent republic of Vekllei located in the Lesser Antilles of the Caribbean Sea.
 
 fi: fi fi-antigua
 
 aliases:
 - /antigua/
 ---
-{{<note series>}}
- Antigua is part of [[kalina|Commonwealth Kalina]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Antigua Republic"
 	 RealName="Island of Antigua"

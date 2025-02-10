@@ -4,16 +4,14 @@ fulltitle: Fortress Kabuli
 icon: ⚔️
 color: land
 logo: /svg/crests/territorial.svg
+series: location
 
 fi: fi fi-min-land fis
+description: Fortress Kabuli is a fortress of the Vekllei Armed Forces, located in the republic of Kabuli.
 
 aliases:
 - /fortress-demon/
 ---
-{{<note series>}}
- This article is about a [location](/factbook/landscape/places) in [[Vekllei]]
-{{</note>}}
-
 **Fortress Kabuli** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of Kabuli.
 
 {{<note table>}}

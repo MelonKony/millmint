@@ -4,16 +4,16 @@ fulltitle: Federal Timekeeping
 icon: ⏱️
 logo: /svg/logos/timekeeping.svg
 rgb: 255, 151, 0
+
 logocredit:  Yūsaku Kamekura, 1969, for Tokyo Tokei Kenkyujo
+description: Federal Timekeeping is a watchmaker in Vekllei. It is a municipalised cooperative made up of many constituent workshops.
 
 fi: fi fi-min-federal-timekeeping fis
 
 aliases:
 - /federal-timekeeping/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 {{<infobox/company
 	 Name="Federal Timekeeping"

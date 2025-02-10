@@ -2,22 +2,16 @@
 title: Urban Development
 fulltitle: Urban Development in Vekllei
 icon: 🏗️
+series: bulletin
 
 rgb: 162, 110, 227
 
 toc: false
-
-series: bulletin
-categories:
-- bulletin
+description: Urban life in Vekllei develops quickly, aided by regulatory and technical processes that rapidly improves and uplifts their towns and cities.
 
 aliases:
 - /bulletin/urban-development
 ---
-{{<note series>}}
- Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

@@ -4,11 +4,14 @@ fulltitle: Commonwealth Government
 icon: 🌸
 color: millmint
 list: true
+series: government
 
 logo: /svg/crests/vekllei.svg
 fi: fi fi-min-vekllei fis
 
 type: blank
+
+description: Government plays an important role in Vekllei society, and contributes substantially to the lived experience of Vekllei people.
 
 aliases:
   - /government/

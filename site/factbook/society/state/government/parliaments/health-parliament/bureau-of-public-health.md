@@ -7,14 +7,11 @@ series: bureau
 
 logo: /svg/crests/parliament/health.svg
 fi: fi fi-min-health fis
+description: The Bureau of Public Health oversees healthcare delivery in Vekllei for the Parliament of Health.
 
 aliases:
 - /bureau-of-public-health/
 ---
-{{<note series>}}
- This bureau is part of the [[Health Parliament]]
-{{</note>}}
-
 The <span class="fi fi-min-health fis"></span> **Bureau of Public Health** administers the delivery of healthcare in [[Vekllei]]. In some places, it provides healthcare services directly through hospitals. In others, it facilitates the operation of local healthcare districts by a [municipality](/municipalities/).
 
 The bureau is vertically integrated, and administers all healthcare support services including ambulances, general practitioners, pharmacies, home care and logistics staff. In most cases, these are operated locally by a municipal healthcare district administered directly by the bureau.

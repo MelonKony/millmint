@@ -2,24 +2,16 @@
 title: Multiculturalism
 fulltitle: Multiculturalism in Vekllei
 icon: 🗣️
-emoji: L
-
-rgb: 203, 108, 164
-
-draft: false
-toc: false
-
+emoji: ¢
 series: bulletin
-categories:
-- bulletin
+
+rgb: 229, 18, 71
+
+description: Vekllei is a deeply multicultural society, which requires careful attention to prevent damaging its tight-knit and high-trust communities.
 
 aliases:
 - /bulletin/multiculturalism/
 ---
-{{<note series>}}
- Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 
@@ -28,10 +20,10 @@ aliases:
 * Facilitating multicultural cohesion requires careful management, since cultural differences can provoke marginalisation, prejudice and even ghettoisation of communities.
 * These social ills damage trust, opportunity, prosperity and the common sense of identity.
 * Consequently, administrating integration and multiculturalism is a matter of national priority for their government.
-* Their competent and pragmatic approach allows Vekllei to enjoy the strong benefits of a diverse population while improving the social nature of their economy and society.
+* Their competent and pragmatic approach allows Vekllei to enjoy the strong benefits of a diverse population while protecting the trusting nature of their society.
 {{</note>}}
 
-The [[vekllei|Commonwealth]] is a remarkably cohesive nation with a strong civic identity. It is home to about 26 million people, and almost all of those people have come from somewhere. Although the country is home to many indigenous groups,[^indigenous] the vast majority of Vekllei people have roots going back only a few hundred years. Many of them arrived in the colonial period as slaves or settlers, a duality which profoundly impacts modern Vekllei demography. Others arrived ashore in waves of migration -- British and Americans, Irish and Northern Celts, Southern Europeans, Indians, Chinese and most recently Africans.
+The [[vekllei|Commonwealth]] is a remarkably stable nation with a strong civic identity. It is home to about 26 million people, and almost all of those people have ancestors that come from somewhere else. Although the country is home to many indigenous groups,[^indigenous] the vast majority of Vekllei people have roots going back only a few hundred years. Many of them arrived in the colonial period as slaves or settlers, a duality which profoundly impacts modern Vekllei demography. Others arrived ashore in waves of migration -- British and Americans, Irish and Northern Celts, Southern Europeans, Indians, Chinese and most recently Africans.
 
 In this sense, empire and immigration characterise and contribute to Vekllei's founding myth. The imperial precursors of Commonwealth federalism have treated the problems of its many cultures in different ways -- most often by exacerbating them in self-interest or cynical competition. Today things are different, and society has evolved. The dignity of all people has been recognised after 20th-century barbarism outraged the conscience of mankind, and human rights remain a core principle of civilisation. In Vekllei, these ideals have to be translated pragmatically, in the realistic and straightforward fashion of its social projects.
 
@@ -48,11 +40,11 @@ The social management of people, and the benefits and ills of many types of peop
 
 ## The Character of Commonwealth Society
 
-The Commonwealth has among the highest percentage of people born overseas in the world, behind only entrepôts with large guest worker populations. Immigration there resembles a mosaic, with different waves of people arriving at different times. And while the country is made up of many different races and cultures, they share much in common. Immigration to Vekllei was filtered politically under the [century society laws](/century-society), which effectively invited only those talented or wealthy enough to receive a tertiary education.
+The Commonwealth has among the highest percentage of people born overseas in the world, behind only entrepôts with large guest worker populations. Immigration here resembles a mosaic, with different waves of people arriving at different times. And while the country is made up of many races and cultures, they share much in common.
 
-Many Vekllei people have a common history -- about three fourths have ancestors that were subjects (or property) of the British Empire. The remainder are mostly the same but Portuguese, French, or Dutch. The British Empire's triumph over the world, and its extended colonial domination over the Atlantic has left Vekllei with a common language, administrative tradition and some shared industry and culture.
+Many Vekllei people have a common history -- about three fourths have ancestors that were subjects (or property) of the British Empire. The remainder are mostly the same but Portuguese, French, or Dutch. The British Empire's triumph over the world, and its extended colonial domination over the Atlantic has left Vekllei with a common language, administrative tradition and some shared industry and culture. New immigrants were filtered through the [century society laws](/century-society), which effectively invited only those talented or wealthy enough to receive a tertiary education.
 
-The Vekllei population has doubled since the war and the foundation of the modern commonwealth in 2017. Bonds and connections between people have had to be renewed constantly as new people have arrived. This renewal was encouraged by the constant mixing of people in government migrant housing policy and the general deghettoisation of society as the standard of living improved.
+The Vekllei population has doubled since the war and the founding of the modern commonwealth in 2017. Bonds and connections between people have had to be renewed constantly as new people have arrived. This renewal was encouraged by the constant mixing of people in government migrant housing policy and the general deghettoisation of society as the standard of living improved.
 
 This growth has levelled off as the century society laws were repealed and migration controls have been introduced, which has changed the nature of cohesion. Now, a sense of trust and community is derived from connections and interactions that people accumulate with their neighbours over years and decades. [Strong protections for property](/property/) in Vekllei reinforce this sense of community, because home ownership and land stewardship are a feature of their society, and their legal basis encourages people to live in and improve a single home for an extended period of time. A single home -- and a single community -- have downstream effects on an person's participation, neighbourliness and trust.
 

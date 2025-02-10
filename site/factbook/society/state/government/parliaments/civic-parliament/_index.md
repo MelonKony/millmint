@@ -1,19 +1,17 @@
 ---
 title: Civic Parliament
-fulltitle: Commonwealth Civic Parliament
+fulltitle: Commonwealth Parliament of Civic Society
 icon: 🏵
 logo: /svg/crests/parliament/civic.svg
 color: culture
+series: parliament
 
 fi: fi fi-min-civic fis
+description: The Civic Parliament is responsible for the cohesion of civil society, and manages immigration, emigration, and integration.
 
 aliases:
 - /civic/
 ---
-{{<note series>}}
- This *[parliament](/parliaments/)* is part of [[Vekllei]].
-{{</note>}}
-
 ## Overview
 {{<boxtag teal>}}COLSEC{{</boxtag>}}
 

@@ -4,16 +4,16 @@ fulltitle: Adelectrics
 icon: 📻
 logo: /svg/logos/adelectrics.svg
 rgb: 182, 34, 71
+
 logocredit: Maurizio Frizziero & Modulo-Pubblicità, 1974, for Simone Bouchet.
+description: Adelectrics is an electronics design firm in Vekllei, specialising in personal electronics. It is most famous for the Pocketvox pocket radio.
 
 fi: fi fi-min-adelectrics fis
 
 aliases:
 - /adelectrics/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
  {{<infobox/company
 	  Name="Adelectrics"

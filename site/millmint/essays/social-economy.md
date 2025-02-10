@@ -6,6 +6,8 @@ emoji: ō
 color: blue
 image: /images/fullres/prairie.jpg
 
+description: The "commons" is the moneyless economy that people interact with day-to-day in Vekllei. It works in complicated and unconventional ways.
+
 aliases:
 - /social-economy/
 ---

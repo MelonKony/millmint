@@ -1,12 +1,12 @@
 ---
-title: Swordfish-class Air Escort Destroyer
+title: Swordfish-class Air
 fulltitle: Swordfish-class Air Escort Destroyer
 icon: ⚓️
 color: marine
 logo: /svg/crests/marine.svg
 
 series: vessel
-draft: false
+description: The Swordfish-Class is a class of aerial warfare destroyer in service with the Vekllei Armed Forces.
 
 aliases:
 - /swordfish-class/

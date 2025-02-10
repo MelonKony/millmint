@@ -6,16 +6,14 @@ color: marine
 logo: /svg/crests/marine.svg
 
 fi: fi fi-min-marine fis
+description: The Marine Services comprise 3 specialised services in the Vekllei Armed Forces.
 
 autonumbering: false
 
 aliases:
 - /marine/
+series: state
 ---
-{{<note series>}}
- Part of the *[state](/state/)* series of articles
-{{</note>}}
-
 The <span class="fi fi-min-marine fis"></span> **Marine Services** comprise a number of military services that are part of the [[armed-forces|Armed Forces]] of [[Vekllei]]. It is a conceptual distinction, since vital components of naval warfare (including naval aviation and naval infantry) are part of the air and [[territorial|Territorial Services]] respectively. Instead, 'marine services' refer broadly to the military organisations that primarily operate watercraft or coastal artillery, in the fashion of a traditional navy, coast guard or coastal fortification.
 
 These marine services include:

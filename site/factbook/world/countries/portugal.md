@@ -4,16 +4,16 @@ fulltitle: The Second Portuguese Republic
 icon: ⛵️
 logo: /svg/flags/4x3/pt.svg
 
+description: Portugal was a country on the western coast of the Iberia, and existed in an area now occupied by the constituent state of the same name in Iberia.
+
 rgb: 0, 102, 1
 
 fi: fi fi-pt
 
 aliases:
 - /portugal/
+series: country
 ---
-{{<note series>}}
- Part of the *[world](/world/)* series of articles
-{{</note>}}
 
 The **Second Portuguese Republic** (commonly *Portugal*) was a Portuguese state that existed between 1926 and 2014. It succeeded the democratic First Republic and Portuguese Empire, and was ruled by the *Estado Novo* regime.
 

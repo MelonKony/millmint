@@ -3,19 +3,16 @@ title: Madiana
 fulltitle: Madiana Republic
 icon: ☀️
 logo: /svg/flags/4x3/madiana.svg
-series: republic
+series: kalina
 
 rgb: 222, 13, 74
+description: Madiana (<i>Martinique</i>) is a constituent republic of Vekllei located in the Lesser Antilles of the Caribbean Sea.
 
 fi: fi fi-madiana
 
 aliases:
 - /madiana/
 ---
-{{<note series>}}
- Madiana is part of [[Vekllei]] Kalina
-{{</note>}}
-
 {{<infobox/country
 	 Name="Madiana Republic"
 	 RealName="Island of Martinique"

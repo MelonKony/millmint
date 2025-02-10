@@ -1,12 +1,12 @@
 ---
-title: Capricorn-class Attack Submarine
+title: Capricorn-class
 fulltitle: Capricorn-class Attack Submarine
 icon: ⚓️
 color: marine
 logo: /svg/crests/marine.svg
 
 series: vessel
-draft: false
+description: The Capricorn-Class is a class of submarine in service with the Vekllei Armed Forces.
 
 aliases:
 - /capricorn-class/

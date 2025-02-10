@@ -12,12 +12,10 @@ aliases:
 - /republics/
 - /polis/
 
-description: Polises are a type of city-state in Vekllei, a fictional Atlantic country.
-
+description: Constituent republics are the basic sovereign constituent of Vekllei. There are 83 of them that make up the country.
+series: state
 ---
-{{<note series>}}
- Part of the *[state](/state/)* series of articles
-{{</note>}}
+{{<flag-carousel>}}
 
 A **Constituent Republic** is type of city-state that make up the country of [[Vekllei]]. They retain autonomy and devolved powers, but have acceded to the state of Vekllei and are part of that country. They are organised into [constituent commonwealths](/constituents/), which serve as an intermediate level of administration between the federal and republican governments. The largest republics have millions of people; the smallest have only a few thousand.
 

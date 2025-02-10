@@ -8,15 +8,12 @@ autonumbering: false
 series: bureau
 
 fi: fi fi-min-commons fis
+description: The Bureau of Public Works conducts general-purpose planning and construction for the Ministry of the Commons.
 
 aliases:
 - /bureau-of-society/
 - /bureau-of-public-works/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of the Commons]]
-{{</note>}}
-
 The <span class="fi fi-min-commons fis"></span> **Bureau of Public Works** is the general-purpose planning and construction outfit in [[Vekllei]]. It has a broad mandate over construction, improvement and renewal projects in Vekllei at federal, regional and local levels, and works closely with governments to accomplish construction goals.
 
 The bureau also owns the [[nch|National Construction House]] (NCH), the largest construction firm in Vekllei which remains responsible for the vast majority of private and commercial construction in the country.

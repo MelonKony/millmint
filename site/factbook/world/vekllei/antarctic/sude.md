@@ -3,19 +3,16 @@ title: Sude
 fulltitle: Sude Republic
 icon: 🎣
 logo: /svg/flags/4x3/gs.svg
-series: republic
+series: antarctic
 
 rgb: 60, 122, 184
+description: Sude (<i>St Georgia & South Sandwich Islands</i>) is a constituent republic of Vekllei located in the South Atlantic Ocean.
 
 fi: fi fi-gs
 
 aliases:
 - /sude/
 ---
-{{<note series>}}
- Sude is part of [[antarctic|Commonwealth Antarctic]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Sude Republic"
 	 RealName="Archipelago of the South Georgia & South Sandwich Islands"

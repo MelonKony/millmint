@@ -5,6 +5,7 @@ title: MillMint
 enableEmoji: true
 enableGitInfo:  true
 enableRobotsTXT: true
+linkify: false
 publishDir: '../millmint.net'
 
 taxonomies:

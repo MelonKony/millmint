@@ -1,14 +1,14 @@
 ---
 title: Vessels
 fulltitle: Naval Vessels
-icon: 🌸
-logo: /svg/crests/marine.svg
+icon: 🚢
 color: marine
 list: true
+emoji: s
 
 aliases:
 - /vessels/
 ---
-{{<note series>}}
+{{<note advice>}}
 Read more: [[marine|Marine Services]]
 {{</note>}}

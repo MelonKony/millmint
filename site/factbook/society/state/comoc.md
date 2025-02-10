@@ -5,6 +5,7 @@ icon: 🏵️
 logo: /svg/flags/4x3/comoc.svg
 
 fi: fi fi-comoc
+description: The Community of Oceans (COMOC) is an international and regional organisation dedicated to the advancement of island communities worldwide.
 
 rgb: 52, 95, 223
 
@@ -12,10 +13,8 @@ toc: true
 
 aliases:
 - /oceans-community/
+series: state
 ---
-{{<note series>}}
- Part of the *[state](/state/)* series of articles
-{{</note>}}
 
 The **Community of Oceans** (CO, or OCEANS) is an international and regional organisation dedicated to the advancement of island and oceangoing communities worldwide. It was founded by the [[Vekllei]] and is headquartered in [[Oslola]]. It has observer status in the United Nations General Assembly and maintains offices throughout the Atlantic, Caribbean and Pacific regions.
 

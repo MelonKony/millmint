@@ -4,24 +4,11 @@ fulltitle: Industry in Vekllei
 icon: ⚙️
 emoji: ‡
 color: purple
-
 list: true
 
-tags: 
-  - industry
-categories:
-  - society
+description: Vekllei is a highly industrialised country, and has mature industries in most major sectors for domestic consumption and export.
+
 aliases:
   - /industry/
-
-image:
-
-comments: false
-
-
-description: The government of Vekllei, a utopia created by Hobart Phillips.
-
 ---
-{{<note panel>}}
-This article is about businesses and industrial practice in Vekllei.
-{{</note>}}
+Vekllei is a highly industrialised country, and has mature industries in most major sectors for domestic consumption and export. These articles are about businesses and industrial practice in Vekllei.

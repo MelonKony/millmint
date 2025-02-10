@@ -1,31 +1,21 @@
 [
-{{- $pages := where .Site.Pages "Kind" "in" (slice "page" "section") -}}
-{{- $pages = where $pages "Params.searchexclude" "!=" true -}}
-
+{{- $pages := where .Site.Pages "Params.searchexclude" "!=" true -}}
+{{- $pages = where $pages "RelPermalink" "!=" "/" -}}
 {{ range $index, $page := $pages }}
-{{ if gt $index 0}},{{end}} {
+{{ if gt $index 0}},{{end }}{
     "id": {{ $index }},
     "href": "{{ $page.RelPermalink }}",
     "title": {{ (partial "title" $page) | jsonify }},
-    {{- $logo := $page.Params.logo -}}
-    {{- if $logo -}}
-    "logo": {{ $logo | jsonify }},
-    {{- end -}}
-    {{- $rgb := $page.Params.rgb -}}
-    {{- if $rgb -}}
-    "rgb": {{ $rgb | jsonify }},
-    {{- end -}}
-    {{- $image := $page.Params.image -}}
-    {{- if $image -}}
-    "image": {{ $image | jsonify }},
-    {{- end -}}
-    {{- $color := $page.Params.color -}}
-    {{- if $color -}}
-    "color": {{ $color | jsonify }},
-    {{- end -}}
-    "section": {{ (partial "title" $page.Parent) | jsonify }},
-    "content": {{ $page.Plain | jsonify }},
-    "date": {{ $page.Date | jsonify }}
+    {{- with $page.Params.logo }}"logo": {{ . | jsonify }},{{ end }}
+    {{- with $page.Params.icon }}"icon": {{ . | jsonify }},{{ end }}
+    {{- with $page.Params.rgb }}"rgb": {{ . | jsonify }},{{ end }}
+    {{- with $page.Params.image }}"image": {{ . | jsonify }},{{ end }}
+    {{- with $page.Params.color }}"color": {{ . | jsonify }},{{ end }}
+    "section": {{ with $page.Parent }}{{ partial "title" . | jsonify }}{{ else }}""{{ end }},
+    "description": {{ $page.Description | jsonify }},
+    "content": {{ $page.Plain | replaceRE "(?m)^>\\s?.*\\n?" "" | jsonify }},
+    "date": {{ $page.Date | jsonify }},
+    "aliases": {{ $page.Aliases | jsonify }}
 }
 {{- end -}}
 ]

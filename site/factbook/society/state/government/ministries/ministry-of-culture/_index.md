@@ -7,14 +7,11 @@ color: culture
 series: ministry
 
 fi: fi fi-min-culture fis
+description: The Ministry of Culture supports sports, museums and libraries, oversees media and telecommunications and organises festivals and parades.
 
 aliases:
 - /ministry-of-culture/
 ---
-{{<note series>}}
- This *[ministry](/ministries/)* is part of [[Vekllei]]
-{{</note>}}
-
 The <span class="fi fi-min-culture fis"></span> **Ministry of Culture** is a [devolved ministry](/ministries/) of the [[Government]] of [[Vekllei]]. It has a broad mandate that includes cultural preservation and promotion, but also media, telecommunications and sports.
 
 The constituent bureaux and organisations of the ministry serve a variety of roles. Vekllei is a deeply multicultural society and comprises dozens of indigenous and foreign languages and cultures. Its role in this context is twofold; the promotion and preservation of cultural diversity, but also the promotion and preservation of common beliefs, languages and civic principles that unify Vekllei as a country. This includes the promotion of English as a functional language, a decision made for practical rather than historical or cultural purposes. It also serves an important role in integrating migrants through the promotion of community activities and events.

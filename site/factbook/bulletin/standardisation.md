@@ -2,22 +2,15 @@
 title: Standardisation
 fulltitle: A Common Identity
 icon: 🏳️
-logo:
-image:
+series: bulletin
 
 rgb: 236, 92, 27
 
-series: bulletin
-categories:
-- bulletin
+description: Despite Vekllei's extensive federalism and far-flung islands, the imagery, structure and branding of their society is surprisingly consistent.
 
 aliases:
 - /bulletin/standardisation
 ---
-{{<note series>}}
- Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

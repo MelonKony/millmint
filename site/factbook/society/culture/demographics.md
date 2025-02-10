@@ -4,13 +4,11 @@ fulltitle: Demographics of Vekllei
 icon: 👨‍👩‍👧‍👦
 emoji: ←
 color: yellow
-image:
+
+description: Vekllei is a diverse country made up of people from all corners of the world.
 
 aliases:
 - /demographics/
-
-
-
 ---
 {{<note series>}}
  Part of the *[culture](/culture/)* series of articles

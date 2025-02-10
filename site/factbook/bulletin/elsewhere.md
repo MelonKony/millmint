@@ -2,20 +2,15 @@
 title: The Commons Overseas
 fulltitle: Why is the Commons Only Found in Vekllei?
 icon: 🌐
+series: bulletin
 
 rgb: 200, 110, 189
 
-series: bulletin
-categories:
-- bulletin
+description: Despite its certain achievements, the Vekllei economic system known as the 'Commons' remains unique to that country.
 
 aliases:
 - /bulletin/elsewhere
 ---
-{{<note series>}}
-Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

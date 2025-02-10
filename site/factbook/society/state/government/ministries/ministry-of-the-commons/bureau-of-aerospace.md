@@ -8,14 +8,11 @@ autonumbering: false
 series: bureau
 
 fi: fi fi-min-commons fis
+description: The Bureau of Aerospace oversees aerospace transport and facilities for the Ministry of the Commons.
 
 aliases:
 - /bureau-of-aerospace/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of the Commons]]
-{{</note>}}
-
 The <span class="fi fi-min-commons fis"></span> **Bureau of Aerospace** is a bureau of the [[Ministry of the Commons]] responsible for policy, administration and operation of aerospace transport in [[Vekllei]]. It incorporates almost all functions necessary for the provision of air transport in a country, including the operation of airports and airstrips, training and employment of air traffic controllers, and provision of emergency search and rescue services, including runway tenders.
 
 The bureau has a large stake in the development and manufacture of Vekllei aircraft through its constituent corporations and commissions. In addition, the bureau monitors and manages Vekllei airspace as part of the National Airspace System, and licenses civilian and commercial pilots through the Civil Aviation Register.

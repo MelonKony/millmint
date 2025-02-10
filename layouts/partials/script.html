@@ -6,7 +6,8 @@
 {{ $lz := resources.Get "js/lazysizes.js" }}
 {{ $mm := resources.Get "js/minimap.js" }}
 {{ $tc := resources.Get "js/toc.js" }}
-{{ $js := slice $jq $dk $cs $fd $fn $lz $mm $tc | resources.Concat "js/millmint.js"  }}
+{{ $pv := resources.Get "js/preview.js" }}
+{{ $js := slice $jq $dk $cs $fd $fn $lz $mm $tc $pv | resources.Concat "js/millmint.js"  }}
 
 {{ if hugo.IsServer }}
     <script defer src="{{ $js.RelPermalink }}"></script>

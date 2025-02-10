@@ -4,18 +4,15 @@ fulltitle: Work Action Groups
 icon: 🖐️
 emoji: Ξ
 color: purple
+series: society
 
-draft: false
+description: Work Action Groups are a temporary volunteer organisation in Vekllei, raised usually to accomplish a specific task or respond to a crisis.
 
 type: blank
 
 aliases:
 - /wag/
 ---
-{{<note series>}}
- This article is about [Vekllei](/vekllei/) society.
-{{</note>}}
-
 **Work Action Groups** are temporary volunteer organisations formed (or *raised*) for specific objectives. Although they are often raised and equipped by the [[Ministry of Labour]], they are strictly participatory and organised locally.
 
 The groups, known as WAGs, are formed by a general call for volunteers in municipal newspapers and government gazettes. They may also be announced in workplaces and schools, depending on the task. They are an expression of [[Vekllei]] volunteerism and solidarity, and participation can be competitive. Once established, participants are relieved of duties for work, school and compulsory service for up to three months, which may be extended with permission of the labour ministry.

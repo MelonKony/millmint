@@ -2,22 +2,15 @@
 title: One Person, One Factory
 fulltitle: One Person, One Factory
 icon: 🏭
-logo:
-image:
+series: bulletin
 
 rgb: 90, 193, 143
 
-series: bulletin
-categories:
-- bulletin
+description: The computerisation and automation of manufacturing in Vekllei has also decentralised industry, multiplying the productive output of a worker.
 
 aliases:
 - /bulletin/lots
 ---
-{{<note series>}}
- Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

@@ -3,9 +3,10 @@ title: Curacao
 fulltitle: Curacao
 icon: 🍸
 logo: /svg/flags/4x3/curacao.svg
-series: republic
+series: antilles
 
 rgb: 50, 60, 198
+description: Curacao is a constituent republic of Vekllei located in the south Caribbean Sea.
 
 fi: fi fi-curacao
 
@@ -14,10 +15,6 @@ draft: false
 aliases:
 - /curacao/
 ---
-{{<note series>}}
- Curacao is part of the [[antilles|Commonwealth Antilles]]
-{{</note>}}
-
 {{<infobox/country
      Name="Curacao Republic"
      RealName="Island of Curacao"

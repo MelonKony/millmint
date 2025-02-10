@@ -8,14 +8,11 @@ autonumbering: false
 series: bureau
 
 fi: fi fi-min-commons fis
+description: The Bureau of Rail oversees rail transport for the Ministry of the Commons.
 
 aliases:
 - /bureau-of-rail/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of the Commons]]
-{{</note>}}
-
 The <span class="fi fi-min-commons fis"></span> **Bureau of Rail** maintains and regulates the rail industry in Vekllei. Because of the ubiquity and importance of rail across [[Vekllei]] [republics](/republics), it is among the largest of the transport bureaus.
 
 In addition to rail planning, safety and regulation, the bureau also controls [[CommRail]] as an independent commission, for which it fulfils a general executive and advisory role.

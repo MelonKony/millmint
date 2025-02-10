@@ -2,20 +2,15 @@
 title: Automatic Allocation
 fulltitle: Allocation of Automatic Machines in Vekllei
 icon: 💸
+series: bulletin
 
 rgb: 110, 200, 134
 
-series: bulletin
-categories:
-- bulletin
+description: Because of the nature of the Vekllei labour force, there is a basic inversion in the efficient use of expensive automatic machinery.
 
 aliases:
 - /bulletin/automatic-allocation
 ---
-{{<note series>}}
-Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

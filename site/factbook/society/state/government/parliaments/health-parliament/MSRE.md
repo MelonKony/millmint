@@ -8,6 +8,7 @@ logo: /svg/logos/MSRE.svg
 logocredit: W.M. Landwehr & Don Davis, 1971, for the Quincy Annual Art Show
 
 fi: fi fi-min-msre fis
+description: The Medical Science Research Establishment is a constituent research organisation of SIRO dedicated to medical and health research.
 
 aliases:
 - /MSRE/

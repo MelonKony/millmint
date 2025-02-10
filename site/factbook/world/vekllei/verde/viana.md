@@ -3,19 +3,16 @@ title: Viana
 fulltitle: Viana Republic
 icon: 🎣
 logo: /svg/flags/4x3/viana.svg
-series: republic
+series: verde
 
 rgb: 0, 80, 200
+description: Viana (<i>Sao Vicente</i>) is a constituent republic of Vekllei located in the Cabo Verde archipelago off the coast of West Africa.
 
 fi: fi fi-viana
 
 aliases:
 - /viana/
 ---
-{{<note series>}}
-[[Viana]] is part of [[verde|Commonwealth Verde]] in [[Vekllei]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Viana Republic"
 	 RealName="Island of Sao Vicente"

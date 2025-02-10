@@ -7,13 +7,13 @@ color: millmint
 type: blank
 meta: false
 
-
 menus: main
 weight: 2
 
 autonumbering: false
-
 toc: false
+
+description: Factbook is the wiki of Vekllei, and information about its society, culture and way of life.
 ---
 <style>
   header.info {

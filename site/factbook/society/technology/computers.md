@@ -4,9 +4,9 @@ fulltitle: Computing in Vekllei
 icon: 🖥
 emoji: ɋ
 color: purple
-image:
+series: technology
 
-type: blank
+description: Computers in Vekllei are optical machines that can do tremendous amounts of productive work at the speed of light.
 
 aliases:
 - /computers/

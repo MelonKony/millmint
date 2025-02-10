@@ -7,14 +7,11 @@ series: bureau
 
 logo: /svg/crests/parliament/health.svg
 fi: fi fi-min-health fis
+description: The Bureau of Health Services is responsible for healthcare administration and policy for the Parliament of Health.
 
 aliases:
 - /bureau-of-public-health/
 ---
-{{<note series>}}
- This bureau is part of the [[Health Parliament]]
-{{</note>}}
-
 The <span class="fi fi-min-health fis"></span> **Bureau of Health Services** is the administrative centre of public health in [[Vekllei]], and coordinates policy between federal, national and municipal healthcare. In service of these aims it incorporates health accounting, the procurement of pharmaceuticals, tracks health outcomes and patient data and facilitates policy advice from health regulators.
 
 The bureau acts as the central nervous system of the different Vekllei healthcare services, and its role in the [[Health Parliament]] is administrative and political. It advises parliament on the general status of the healthcare system, including its efficiency, opportunities and costs. Using the expertise of other bureaus, it also produces health policy it then presents to the parliament for approval. Officers in the bureau are typically recruited from industry or have a medical background, and the organisation has a reputation for data-driven and pragmatic policymaking.

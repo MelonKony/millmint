@@ -1,15 +1,8 @@
-@import 'mixins/text';
-@import 'mixins/radius';
-@import 'mixins/margin';
-@import 'mixins/padding';
-@import 'mixins/items';
-@import 'mixins/backgrounds';
-
 @import 'colors';
 @import 'vars';
-@import 'styles';
+@import 'mixin';
 
-@import 'base';
+@import 'styles';
 @import 'layout/article';
 @import 'layout/postcard';
 @import 'layout/footer';
@@ -17,24 +10,6 @@
 @import 'layout/nav';
 @import 'layout/bento';
 @import 'layout/factbook';
-
-@import 'components/terms-cloud';
-@import 'components/sidebar';
-@import 'components/pagination';
-@import 'components/autonumbering';
-@import 'components/flag-carousel';
-@import 'components/fonts';
-@import 'components/note';
-@import 'components/images';
-@import 'components/meta';
-@import 'components/minimap';
-@import 'components/toc';
-@import 'components/dictionary';
-@import 'components/dolls';
-@import 'components/footnotes';
-@import 'components/security-threat';
-@import 'components/shortcodes';
-@import 'components/comments';
 
 @import 'icons';
 

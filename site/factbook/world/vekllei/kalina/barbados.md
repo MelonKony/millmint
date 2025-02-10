@@ -3,19 +3,16 @@ title: Barbados
 fulltitle: Barbados Republic
 icon: 🔱
 logo: /svg/flags/4x3/bb.svg
-series: republic
+series: kalina
 
 rgb: 255, 37, 37
+description: Barbados is a constituent republic of Vekllei located in the Lesser Antilles of the Caribbean Sea.
 
 fi: fi fi-bb
 
 aliases:
 - /barbados/
 ---
-{{<note series>}}
- Barbados is part of [[kalina|Commonwealth Kalina]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Barbados Republic"
 	 RealName="Island of Barbados"

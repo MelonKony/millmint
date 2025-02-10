@@ -6,8 +6,9 @@ logo: /svg/flags/4x3/com.svg
 color: vekllei
 series: vekllei
 fi: fi fi-com
+list: true
 
-toc: true
+description: Vekllei is a union of islands spanning most of the Atlantic and Caribbean Sea, and comprises nearly 80 constituent republics.
 
 aliases:
 - /vekllei/
@@ -19,6 +20,7 @@ aliases:
    Type="Vekllei"
    Flag="/svg/flags/commonwealth.svg"
    SmallFlag="/svg/flags/4x3/com.svg"
+   Constituents="83"
    Anthem="Advance, Vekllei"
    Government="Federal parliamentary directoral commonwealth"
    Population="26,774,629"

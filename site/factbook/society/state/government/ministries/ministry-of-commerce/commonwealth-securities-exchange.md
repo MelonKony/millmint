@@ -8,14 +8,11 @@ autonumbering: false
 series: bureau
 
 fi: fi fi-min-commsec fis
+description: The Commonwealth Securities Exchange operates the national securities and commodities markets in Vekllei.
 
 aliases:
 - /commsec/
 ---
-{{<note series>}}
- Commsec is part of the [[Ministry of Commerce]]
-{{</note>}}
-
 {{<note advice>}}
 Read more: *[Finance in Vekllei](/finance/)*
 {{</note>}}

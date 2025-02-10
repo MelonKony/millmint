@@ -3,19 +3,16 @@ title: Cavoada
 fulltitle: Cavoada Republic
 icon: 🍊
 logo: /svg/flags/4x3/cavoada.svg
-series: republic
+series: verde
 
 rgb: 248, 77, 106
+description: Cavoada (<i>Sao Nicolau</i>) is a constituent republic of Vekllei located in the Cabo Verde archipelago off the coast of West Africa.
 
 fi: fi fi-cavoada
 
 aliases:
 - /cavoada/
 ---
-{{<note series>}}
-Cavoada is part of [[verde|Commonwealth Verde]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Cavoada Republic"
 	 RealName="Island of Sao Nicolau"

@@ -1,19 +1,17 @@
 ---
-title: Naval Station Santes
+title: NS Santes
 fulltitle: Naval Station Santes
 icon: ⚓️
 color: marine
 logo: /svg/crests/marine.svg
+series: location
 
 fi: fi fi-min-marine fis
+description: Naval Station Santes is a naval station of the Vekllei Armed Forces, located in the republic of Santes.
 
 aliases:
 - /ns-santes/
 ---
-{{<note series>}}
- This article is about a [location](/factbook/landscape/places) in [[Vekllei]]
-{{</note>}}
-
 **Naval Station Santes**, located on the remote island of [[Santes]] in the South Atlantic, is one of the most isolated naval installations in the world. It is an important maritime facility of the [[Vekllei]] [[marine|Marine Services]].
 
 Established by the [[UK]] in the early 20th century, its original purpose was to serve as a monitoring outpost for maritime activity during World War I. Given Santes's strategic location along key shipping routes between South America and Africa, the station played a quiet but vital role in monitoring naval traffic and submarine movements during both World Wars.

@@ -7,10 +7,8 @@ color: industry
 series: ministry
 
 fi: fi fi-min-industry fis
+description: The Ministry of Industry oversees and regulates production, resource extraction and industrial development.
 
 aliases:
 - /ministry-of-industry/
 ---
-{{<note series>}}
- This *[ministry](/ministries/)* is part of [[Vekllei]]
-{{</note>}}

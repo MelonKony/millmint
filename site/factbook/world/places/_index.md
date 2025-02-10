@@ -8,8 +8,7 @@ color: green
 aliases:
   - /places/
 
-comments: false
-
+description: This is a list of places within Vekllei.
 ---
 {{<note panel>}}
 This page catalogues single articles covering locations relevant to stories in Vekllei.

@@ -4,18 +4,16 @@ fulltitle: SIRO
 icon: 🔬
 rgb: 0, 155, 113
 logo: /svg/logos/SIRO.svg
+series: organisation
 
 fi: fi fi-min-siro fis
+description: The Commonwealth Science and Industrial Research Organisations Council is the executive council of many autonomous government research organisations in Vekllei. It is the oldest and largest research organisation in the country.
 
 logocredit: W.M. Landwehr & Don Davis, 1971, for the Quincy Annual Art Show
 
 aliases:
 - /SIRO/
 ---
-{{<note series>}}
- SIRO is part of the [[Ministry of the Commonwealth]]
-{{</note>}}
-
 The <span class="fi fi-min-siro fis"></span> **Commonwealth Science and Industrial Research Organisations Council** (CSIROC, commonly *SIROs* or *SIRO*) is the executive council of the autonomous government research organisations in [[Vekllei]]. With its members combined, the council represents the oldest and largest research organisation in the country. SIRO is part of the [[Ministry of the Commonwealth]], but its constituent research establishments are administered and funded by their relevant [ministries](/ministries/) and [parliaments](/parliaments/).
 
 SIRO is headquartered in [Comet](/comet/), but through its constituent organisations has a presence in almost every Vekllei [republic](/republics/). The tremendous diversity across Vekllei's island republics provides an ample basis for research, and SIRO is among the leading research outfits in the world. It employs nearly 80,000 people and is credited with a wide variety of innovations and inventions, including the low-field fusion reactor and the Multimatrix computer network system.

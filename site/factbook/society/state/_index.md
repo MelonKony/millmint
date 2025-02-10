@@ -6,6 +6,8 @@ logo: /svg/crests/vekllei.svg
 color: pink
 list: true
 
+description: Vekllei is a sui generis state; not seen before or since. The unique features of this federal country contribute to a new way of living.
+
 aliases:
 - /state/
 ---

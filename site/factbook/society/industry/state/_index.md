@@ -4,15 +4,13 @@ fulltitle: State Industry of Vekllei
 icon: 🏬
 emoji: ¡
 color: purple
-image:
+series: industry
+
+description: Vekllei government has a substantial presence in the Vekllei economy, but generally affords government-owned corporations independence.
 
 aliases:
 - /state-industry/
 ---
-{{<note series>}}
- This article is about [Vekllei](/intro/#what-is-vekllei)
-{{</note>}}
-
 {{<note panel >}}
 **Large segments of the Vekllei economy** are dominated by industries of the state, as both direct ministerial privileges and state-owned enterprises. In total, they form the basis of the basic Vekllei standard of living, holding back catastrophe through reliable overproduction where gaps in the participatory economy might threaten serious shortages.
 {{</note>}}

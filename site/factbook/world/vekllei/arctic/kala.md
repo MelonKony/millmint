@@ -3,19 +3,16 @@ title: Kala
 fulltitle: Kala Republic
 icon: ❄️
 logo: /svg/flags/4x3/kala.svg
-series: republic
+series: north-arctic
 
 rgb: 39, 126, 72
+description: Kala (<i>Greenland</i>) is a constituent republic of Vekllei located in the Arctic Ocean.
 
 fi: fi fi-kala
 
 aliases:
 - /kala/
 ---
-{{<note series>}}
- Kala is part of [[arctic|Commonwealth Arctic]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Kala Republic"
 	 RealName="Island of Greenland"

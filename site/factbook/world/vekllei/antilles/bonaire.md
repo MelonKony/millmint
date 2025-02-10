@@ -3,9 +3,10 @@ title: Bonaire
 fulltitle: Bonaire
 icon: 🦩
 logo: /svg/flags/4x3/bonaire.svg
-series: republic
+series: antilles
 
 rgb: 150, 53, 216
+description: Bonaire is a constituent republic of Vekllei located in the south Caribbean Sea.
 
 fi: fi fi-bonaire
 
@@ -14,10 +15,6 @@ draft: false
 aliases:
 - /bonaire/
 ---
-{{<note series>}}
- Aruba is part of the [[lucaya|Commonwealth Lucaya]]
-{{</note>}}
-
 {{<infobox/country
      Name="Bonaire Republic"
      RealName="Island of Bonaire"

@@ -7,10 +7,8 @@ logo: /svg/crests/ministry-of-landscape.svg
 series: bureau
 
 fi: fi fi-min-landscape fis
+description: The Bureau of Meteorology oversees the national weather services and climate reporting for the Ministry of Landscape.
 
 aliases:
 - /bureau-of-meteorology/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of Landscape]]
-{{</note>}}

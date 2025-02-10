@@ -4,16 +4,16 @@ fulltitle: Atlantic Works
 icon: ⚙️
 logo: /svg/logos/atlantic-works.svg
 rgb: 255, 0, 65
+
 logocredit:  Ken Parkhurst, 1973, for Ogden Development Corporation.
+description: Atlantic Works is a heavy industry firm in Vekllei that makes a variety of machinery and tools. It is a municipalised cooperative made up of many constituent workshops.
 
 fi: fi fi-min-atlantic-works fis
 
 aliases:
 - /atlantic-works/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 {{<infobox/company
 	 Name="Atlantic Works"

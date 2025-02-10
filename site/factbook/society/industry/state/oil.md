@@ -7,18 +7,14 @@ rgb: 219, 37, 21
 series: goc
 
 logocredit:  Milton Glaser & Alberto Alessi, 1988, for the Alessi company.
+description: Commonwealth Oil is the national oil company of Vekllei, and maintains a huge network of fields and processing facilities.
 
 fi: fi fi-min-oil fis
 
 aliases:
 - /oil/
-
-description: The railways of Vekllei, a utopia created by Hobart Phillips.
-
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 {{<note advice>}}
  Read more: *[[Resources|Natural Resources of Vekllei]]*

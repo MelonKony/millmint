@@ -3,19 +3,16 @@ title: Habacoa
 fulltitle: Habacoa Republic
 icon: 🪸
 logo: /svg/flags/4x3/habacoa.svg
-series: republic
+series: lucaya
 
 rgb: 251, 99, 44
+description: Habacoa (<i>Andros & Cay Sal</i>) is a constituent republic of Vekllei located in the Lucayan Archipelago.
 
 fi: fi fi-habacoa
 
 aliases:
 - /habacoa/
 ---
-{{<note series>}}
- Habacoa is part of the [[lucaya|Commonwealth Lucaya]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Habacoa Republic"
 	 RealName="Archipelago of the Andros & Cay Sal Islands"

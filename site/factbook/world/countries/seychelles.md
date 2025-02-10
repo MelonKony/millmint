@@ -4,16 +4,16 @@ fulltitle: Republic of Seychelles
 icon: 🏝️
 logo: /svg/flags/4x3/sc.svg
 
+description: The Seychelles is a country in the west Indian Ocean, east of Madagascar and Kenya.
+
 rgb: 2, 123, 57
 
 fi: fi fi-sc
 
 aliases:
 - /seychelles/
+series: country
 ---
-{{<note series>}}
- Part of the *[world](/world/)* series of articles
-{{</note>}}
 
 The **<span class="fi fi-sc"></span> Republic of Seychelles** is a country in the west Indian Ocean, east of Madagascar and Kenya, comprising about 115 islands. The country consists of two main island groups, characterised by lush tropical vegetation and pristine white beaches. Its people are mostly descendants of French colonists and black slaves, and centuries of intermarriage means most are of mixed descent. There are also significant minority populations of Chinese, Indians and Malays.
 

@@ -7,14 +7,11 @@ logo: /svg/crests/ministry-of-foreign-affairs.svg
 series: bureau
 
 fi: fi fi-min-foreign-affairs fis
+description: The Bureau of International Machines prepares briefings, factsheets and foreign representation for the Ministry of Foreign Affairs.
 
 aliases:
 - /bureau-of-international-missions/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of Foreign Affairs]]
-{{</note>}}
-
 The *Bureau of International Missions* is the formal foreign policymaking apparatus of the Ministry of Foreign Affairs.
 
 * Prepare bulletins from Parliamentary and Secretarial notes on foreign affairs

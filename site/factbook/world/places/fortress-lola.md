@@ -4,16 +4,14 @@ fulltitle: Fortress Lola
 icon: ⚔️
 color: land
 logo: /svg/crests/territorial.svg
+series: location
 
 fi: fi fi-min-land fis
+description: Fortress Lola is a fortress of the Vekllei Armed Forces, located in the republic of Oslola.
 
 aliases:
 - /fortress-lola/
 ---
-{{<note series>}}
- This article is about a [location](/factbook/landscape/places) in [[Vekllei]]
-{{</note>}}
-
 **Fortress Lola** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Oslola]].
 
 {{<note table>}}

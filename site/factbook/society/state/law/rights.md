@@ -4,18 +4,13 @@ fulltitle: Universal Civil Rights of the New Atlantic
 icon: 🌸
 emoji: ·
 color: purple
-image:
+series: law
 
 aliases:
 - /rights/
 
-description: The constitution of Vekllei is the founding text of the 4th Commonwealth, a fictional country in the Vekllei worldbuilding project.
-
+description: The Civil Rights of Vekllei is a document that enshrines the rights of individuals in Vekllei.
 ---
-{{<note series>}}
- Part of the *[law](/law/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 The Universal Civil Rights of the New Atlantic, commonly the *Universal Rights* or *Civil Rights Document* is a document attached to the [Vekllei Constitution](/constitution/). It enshrines the individual rights of all people in Vekllei.
 {{</note>}}

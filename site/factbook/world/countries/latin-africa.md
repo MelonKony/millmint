@@ -4,16 +4,16 @@ fulltitle: Latin African United Republics
 icon: 🐘
 logo: /svg/flags/4x3/laur.svg
 
+description: Latin Africa is a country on the west coast of Africa, stretching north into central Africa.
+
 rgb: 40, 151, 40
 
 fi: fi fi-laur
 
 aliases:
 - /latin-africa/
+series: country
 ---
-{{<note series>}}
- Part of the *[world](/world/)* series of articles
-{{</note>}}
 
 The **<span class="fi fi-laur"></span> Latin Africa United Republics** (also *Latin Africa*) is a federal country located on the west coast of Africa, astride the Equator in its south and stretching up into central Africa. It consists of most of the former French colonies north of the former Belgian Congo (now Zaire), and comprises 28 states representing different cultural and language groups.
 

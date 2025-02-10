@@ -7,14 +7,11 @@ logo: /svg/crests/ministry-of-the-commons.svg
 series: ministry
 
 fi: fi fi-min-commons fis
+description: The Ministry of the Commons is responsible for housing, public spaces, transport and urban development.
 
 aliases:
 - /ministry-of-the-commons/
 ---
-{{<note series>}}
- This *[ministry](/ministries/)* is part of [[Vekllei]]
-{{</note>}}
-
 The Vekllei *Ministry of the Commons* (COSMOTRAN) provides housing and administers state construction activities in [[Vekllei]], and is also responsible for state protection of human nature and Crown Lands. Responsibilities of COSMOTRAN include:
 
 {{<note panel>}}

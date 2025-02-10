@@ -6,16 +6,14 @@ color: land
 logo: /svg/crests/territorial.svg
 
 fi: fi fi-min-land fis
+description: The Territorial Services comprise 3 specialised services in the Vekllei Armed Forces.
 
 autonumbering: false
 
 aliases:
 - /land/
+series: state
 ---
-{{<note series>}}
- Part of the *[state](/state/)* series of articles
-{{</note>}}
-
 ## Overview
 
 The <span class="fi fi-min-defence fis"></span> **Armed Forces of the Commonwealth** are the military of [[Vekllei]], and a constituent armed component of the [[Ministry of Defence]]. They comprise the combined armed services of the country, as well as capabilities for public emergencies, law enforcement and civil defence.

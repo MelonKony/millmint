@@ -4,16 +4,14 @@ fulltitle: Fortress Demon
 icon: ⚔️
 color: land
 logo: /svg/crests/territorial.svg
+series: location
 
 fi: fi fi-min-land fis
+description: Fortress Demon is a fortress of the Vekllei Armed Forces, located in the republic of Demon.
 
 aliases:
 - /fortress-demon/
 ---
-{{<note series>}}
- This article is about a [location](/factbook/landscape/places) in [[Vekllei]]
-{{</note>}}
-
 **Fortress Demon** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Demon]].
 
 {{<note table>}}

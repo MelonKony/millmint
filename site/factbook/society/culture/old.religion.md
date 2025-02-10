@@ -5,22 +5,12 @@ icon: 💀
 emoji: d
 color: red
 
-tags:
-  - culture
-categories:
-  - society
-
 image: /images/death.jpg
 
 draft: true
 
-
 aliases:
 - /religion/
-
-description: Upen is an indigenous religion of Vekllei, a utopia created by Hobart Phillips.
-
-
 ---
 {{<note series>}}
  This article is about [Vekllei](/factbook/vekllei)

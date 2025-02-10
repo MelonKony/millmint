@@ -4,16 +4,16 @@ fulltitle: Black Republic of Haiti
 icon: ⛓️
 logo: /svg/flags/4x3/ht.svg
 
+description: The Black Republic of Haiti is a black liberationist country on the island of Hispaniola in the Caribbean.
+
 rgb: 210, 15, 52
 
 fi: fi fi-ht
 
 aliases:
 - /haiti/
+series: country
 ---
-{{<note series>}}
- Part of the *[world](/world/)* series of articles
-{{</note>}}
 
 The **<span class="fi fi-ht"></span> Black Republic of Haiti** is a country in the Caribbean, occupying the eastern third of the island of Hispaniola. It was founded by black slaves who rebelled and won freedom from France in 1804, and most of its population today is descended from those rebels. Since independence, Haiti has been beset by political and economic problems and natural disasters that have severely impeded its development.
 

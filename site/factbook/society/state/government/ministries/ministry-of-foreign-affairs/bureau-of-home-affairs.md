@@ -7,14 +7,11 @@ logo: /svg/crests/ministry-of-foreign-affairs.svg
 series: bureau
 
 fi: fi fi-min-foreign-affairs fis
+description: The Bureau of Home Affairs liaises between domestic and foreign partners for the Ministry of Foreign Affairs.
 
 aliases:
 - /bureau-of-home-affairs/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of Foreign Affairs]]
-{{</note>}}
-
 ## Department of Consular Affairs
 ## Department of Protocol and Culture
 ## Department of Press and News Media

@@ -4,15 +4,12 @@ fulltitle: Constitution of Vekllei
 icon: 🌸
 emoji: ¤
 color: purple
-image:
+series: law
 
-draft: false
+description: The Constitution of Vekllei is the founding text of country, and came into effect after the end of British occupation in 2017.
 
 aliases:
 - /constitution/
-
-description: The constitution of Vekllei is the founding text of the 4th Commonwealth, a fictional country in the Vekllei worldbuilding project.
-
 ---
 <style>
   h3, h4 {

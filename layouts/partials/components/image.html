@@ -6,4 +6,7 @@
     {{ (.Resize "1500x q90 webp").RelPermalink }} 1000w" class="page" src="{{ .RelPermalink }}" alt="">
     {{ end }}
   </a>
+  {{ with $.Params.caption }}
+    <figcaption>{{ . | markdownify }}</figcaption>
+  {{ end }}
 </figure>

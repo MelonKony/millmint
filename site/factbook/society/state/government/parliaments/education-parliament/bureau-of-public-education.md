@@ -7,14 +7,11 @@ color: education
 series: bureau
 
 fi: fi fi-min-education fis
+description: The Bureau of Public Education oversees schooling and education for the Parliament of Education.
 
 aliases:
 - /bureau-of-public-education/
 ---
-{{<note series>}}
- This bureau is part of the [[Education Parliament]]
-{{</note>}}
-
 The <span class="fi fi-min-education fis"></span> **Bureau of Public Education** is the central administration of the 120 education districts in Vekllei, which operate schools, universities and libraries. In some cases, the bureau may operate institutions directly (as in the case of academies), but more commonly schools are operated by a municipality and the bureau maintains a supporting and directorial role.
 
 In general, the bureau facilitates education delivery and the shape and standardisation of Vekllei classrooms, staff, libraries, institutional policy, and the improvement of education outcomes across the country. In this sense, it is the operating arm of the [[Education Parliament]], and has direct impact on everyday life for students in the country.

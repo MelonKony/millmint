@@ -4,16 +4,16 @@ fulltitle: Cateral
 icon: 💥
 logo: /svg/logos/cateral.svg
 rgb: 237, 1, 0
+
 logocredit: Yūsaku Kamekura, 1984, for Nippon Telegraph & Telephone Corporation.
+description: Cateral is an firearms manufacturer in Vekllei. It is a private cooperative with 17 different workshops and factories.
 
 fi: fi fi-min-cateral fis
 
 aliases:
 - /cateral/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
  {{<infobox/company
 	  Name="Cateral"

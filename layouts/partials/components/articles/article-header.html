@@ -14,11 +14,13 @@
       {{ partial "components/headcrumbs.html" . }}
       {{ end }}
     </div>
+    <div class="article-category">
     {{ if .Params.series }}
-    <div class="article-category">{{ partial "components/series.html" . }}</div>
+      {{ partial "components/series.html" . }}
     {{ else }}
-    <div class="article-category">{{ .Params.series | default "MillMint"}}</div>
+      {{ .Params.series | default "MillMint"}}
     {{ end }}
+    </div>
   </div>
   {{ end }}
 

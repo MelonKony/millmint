@@ -4,37 +4,19 @@ fulltitle: Municipalities in Vekllei
 icon: 🌺
 emoji: Ζ
 color: purple
-image: 
 
-tags: 
-  - state
-categories:
-  - society
-
-draft: false
-
-type: blank
-autonumbering: false
-comments: false
-
-toc: false
+description: Municipalities are the smallest sovereign unit in Vekllei federalism, and are a form of local government in Vekllei.
 
 aliases:
 - /municipalities/
-
-
-
+series: government
 ---
-{{<note series>}}
- Part of the *[state](/state/)* series of articles
-{{</note>}}
-
-{{<note link>}}
-✿ Read more: *[The Good, The Municipal](/stories/municipal/)*
+{{<note advice>}}
+Read more: *[The Good, The Municipal](/stories/municipal/)*
 {{</note>}}
 
 {{<note panel >}}
-**Municipalities** are the bedrock of sundress municipalism, and a physical feature of everyday Vekllei life. A municipality refers to both a local council and its services, including libraries, schools, and policemen. 
+**Municipalities** are the bedrock of sundress municipalism, and a physical feature of everyday Vekllei life. A municipality refers to both a local council and its services, including libraries, schools, and policemen.
 {{</note>}}
 
 Municipalities in Vekllei are the predominant form of local government, and vary dramatically in scale, power and resources. They usually refer to council municipalities, which are bodies of elected industrial and political leaders of a community. This open-ended definition means that municipalities scale in Vekllei from tiny villages to major metropolitan areas.

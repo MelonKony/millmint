@@ -9,15 +9,12 @@ series: commonwealth
 type: blank
 
 fi: fi fi-volcanic
+description: Commonwealth Volcanic is a constituent region of Vekllei, comprising 4 island republics in the northern Atlantic.
 
 aliases:
 - /volcanic/
 - /volcanic-commonwealth/
 ---
-{{<note series>}}
- The Volcanic Commonwealth is a [constituent](/constituents/) of [[Vekllei]]
-{{</note>}}
-
 {{<infobox/country
    Name="Volcanic Commonwealth"
    Type="Commonwealth"
@@ -35,8 +32,9 @@ All republics of the Commonwealth receive midnight sun during portions of the ye
 {{<note panel>}}
 **Republics of the Volcanic Commonwealth**
 
-* [[Aismious]]
-* [[Demon]]
-* [[Hetland]]
-* [[Oslola]]
+* [[Aismious]] (*Faroe*)
+* [[Demon]] (*Jan Mayen*)
+* [[Hetland]] (*Shetland*)
+* [[Oslola]] (*Iceland*)
+
 {{</note>}}

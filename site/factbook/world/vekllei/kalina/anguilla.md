@@ -3,19 +3,16 @@ title: Anguilla
 fulltitle: Anguilla Republic
 icon: 🐬
 logo: /svg/flags/4x3/ai.svg
-series: republic
+series: kalina
 
 rgb: 249, 150, 50
+description: Anguilla is a constituent republic of Vekllei located in the Lesser Antilles of the Caribbean Sea.
 
 fi: fi fi-ai
 
 aliases:
 - /anguilla/
 ---
-{{<note series>}}
- Anguilla is part of [[kalina|Commonwealth Kalina]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Anguilla Republic"
 	 RealName="Island of Anguilla"

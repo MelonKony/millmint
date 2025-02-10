@@ -9,10 +9,6 @@ image:
 draft: true
 type: blank
 
-comments: false
-
-toc: false
-
 aliases:
 - /same-sex-attraction/
 ---

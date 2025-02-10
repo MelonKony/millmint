@@ -5,13 +5,12 @@ icon: 🌸
 emoji: Ζ
 color: purple
 list: true
+series: law
 
 aliases:
 - /law/
 
-description: The laws of Vekllei, a utopia created by Hobart Phillips.
-
-keywords: government, illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint
+description: Vekllei has a large, independent legal system enshrined in the Constitution, Basic Laws and Civil Rights documents.
 ---
 {{<note panel>}}
 **Laws in Vekllei** are set at the Commonwealth, National and Municipal level. The following pages document notable or curious examples of Vekllei law.

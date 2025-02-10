@@ -7,15 +7,14 @@ rgb: 249, 63, 40
 series: goc
 
 logocredit: Fritz Gottschalk & Michael Friedland, 1976, for the Spence Bay Inuit Cooperative.
+description: Cosma is the national telecommunications corporation in Vekllei, and provides a range of communications services.
 
 fi: fi fi-min-cosma fis
 
 aliases:
 - /cosma/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 {{<infobox/company
 	 Name="Cosma"

@@ -8,10 +8,8 @@ color: labour
 series: bureau
 
 fi: fi fi-min-labour fis
+description: The Bureau of Syndicates regulates industrial organising and union activity for the Ministry of Labour.
 
 aliases:
 - /bureau-of-syndicates/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of Labour]]
-{{</note>}}

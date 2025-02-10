@@ -3,19 +3,16 @@ title: Sal
 fulltitle: Sal Republic
 icon: 🧂
 logo: /svg/flags/4x3/sal.svg
-series: republic
+series: verde
 
 rgb: 220, 36, 31
+description: Sal is a constituent republic of Vekllei located in the Cabo Verde archipelago off the coast of West Africa.
 
 fi: fi fi-sal
 
 aliases:
 - /sal/
 ---
-{{<note series>}}
-[[Sal]] is part of [[verde|Commonwealth Verde]] in [[Vekllei]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Sal Republic"
 	 RealName="Island of Sal"

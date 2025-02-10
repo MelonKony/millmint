@@ -4,16 +4,14 @@ fulltitle: Commonwealth Security Parliament
 icon: ⚡️
 logo: /svg/crests/parliament/security.svg
 color: security
+series: parliament
 
 fi: fi fi-min-security fis
+description: The Security Parliament is responsible for military and civilian intelligence, the secret service, espionage and internal and external threats to the country.
 
 aliases:
 - /security/
 ---
-{{<note series>}}
- This *[parliament](/parliaments/)* is part of [[Vekllei]].
-{{</note>}}
-
 ## Overview
 {{<boxtag teal>}}OPSEC{{</boxtag>}}
 

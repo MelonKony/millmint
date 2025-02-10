@@ -4,17 +4,14 @@ fulltitle: Commonwealth Council
 icon: 🏛️
 logo: /svg/crests/council.svg
 color: vekllei
-image:
+series: government
 
 fi: fi fi-min-council fis
+description: The Commonwealth Council is the supreme executive of Vekllei, and consists of leadership from the Directory and Cabinet. It has 16 members.
 
 aliases:
 - /council/
 ---
-{{<note series>}}
- Part of the *[government](/government/)* series of articles
-{{</note>}}
-
 The **Commonwealth Council** is the supreme executive of the Commonwealth, comprising leadership from both the [[directory|Commonwealth Directory]] and [[Cabinet]]. It has 16 members that are elected from the Directory and Cabinet as required. [[Sorda]] are elected every four years, and cabinet members are elected every two years, but cabinet MPs will lose their positions on the council if they lose their seat.
 
 {{<note>}}

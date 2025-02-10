@@ -7,10 +7,8 @@ logo: /svg/crests/ministry-of-landscape.svg
 series: bureau
 
 fi: fi fi-min-landscape fis
+description: The Bureau of Agriculture oversees farming, hydroponics mechanisation and farm animal welfare for the Ministry of Landscape.
 
 aliases:
 - /bureau-of-agriculture/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of Landscape]]
-{{</note>}}

@@ -6,24 +6,12 @@ emoji: ←
 color: red
 image:
 
-tags:
-  - state
-categories:
-  - society
-
-draft: false
+description: Sagas are historic documents that record narratives in northern Vekllei cultures, including Oslola, Kala and Aismious.
 
 type: blank
 
-comments: false
-
-toc: false
-
 aliases:
 - /sagas/
-
-
-
 ---
 {{<note series>}}
  Part of the *[culture](/culture/)* series of articles

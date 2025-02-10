@@ -4,8 +4,10 @@ fulltitle: National Construction House
 icon: 🚧
 logo: /svg/logos/nch.svg
 rgb: 232, 13, 64
-logocredit: Sotir Sotirov, 1971, for the Stara Planina company.
 series: goc
+
+logocredit: Sotir Sotirov, 1971, for the Stara Planina company.
+description: National Construction House is a government-owned construction company in Vekllei. It has pioneered a range of technologies to automate construction.
 
 image: /images/fullres/nch.jpg
 
@@ -14,10 +16,8 @@ fi: fi fi-min-nch fis
 aliases:
 - /ach/
 - /nch/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 {{<note>}}
 ✿ Read more: *[A House for Each Man](/stories/construction/)*

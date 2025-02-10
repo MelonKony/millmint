@@ -4,16 +4,16 @@ fulltitle: Republic of the Maldives
 icon: 🦈
 logo: /svg/flags/4x3/mv.svg
 
+description: The Maldives is a country in the north Indian Ocean, south of the Indian subcontinent.
+
 rgb: 210, 15, 52
 
 fi: fi fi-mv
 
 aliases:
 - /maldives/
+series: country
 ---
-{{<note series>}}
- Part of the *[world](/world/)* series of articles
-{{</note>}}
 
 The **<span class="fi fi-mv"></span> Republic of the Maldives** is a country in the north Indian Ocean, south of the Indian subcontinent. It is a scattered island chain consisting of clusters of small islands and atolls extending nearly 800km from north to south.
 

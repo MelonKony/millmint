@@ -7,21 +7,19 @@ color: vekllei
 series: commonwealth
 
 fi: fi fi-antarctic
+description: Commonwealth Antarctica is a constituent region of Vekllei, comprising 5 republics in the South Atlantic and Antarctic Oceans.
 
 type: blank
 
 aliases:
 - /antarctic/
 ---
-{{<note series>}}
- Commonwealth Antarctica is a [constituent](/constituents/) of [[Vekllei]]
-{{</note>}}
-
 {{<infobox/country
    Name="Commonwealth Antarctica"
    Type="Commonwealth"
    Flag="/svg/flags/antarctic.svg"
    SmallFlag="/svg/flags/4x3/antarctic.svg"
+   Constituents="5"
    Population="118,982"
    Capital="Helena"
    Area="16,493 km²"
@@ -36,9 +34,10 @@ Commonwealth Antarctica occupies a strategic position in the South Atlantic, and
 {{<note panel>}}
 **Republics of the Commonwealth Antarctica**
 
-* [[Ascension]]
-* [[Falklands]]
-* [[Helena]]
-* [[Santes]]
-* [[Sude]]
+* [[Ascension]] (*Ascension*)
+* [[Falklands]] (*Falklands*)
+* [[Helena]] (*Saint Helena*)
+* [[Santes]] (*Tristan da Cunha*)
+* [[Sude]] (*South Georgia & South Sandwich Islands*)
+
 {{</note>}}

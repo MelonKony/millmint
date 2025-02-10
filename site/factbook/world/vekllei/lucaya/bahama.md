@@ -3,19 +3,16 @@ title: Bahama
 fulltitle: Bahama Republic
 icon: 🛢️
 logo: /svg/flags/4x3/bahama.svg
-series: republic
+series: lucaya
 
 rgb: 25, 153, 62
+description: Bahama (<i>Grand Bahama</i>) is a constituent republic of Vekllei located in the Lucayan Archipelago.
 
 fi: fi fi-bahama
 
 aliases:
 - /bahama/
 ---
-{{<note series>}}
- [[Bahama]] is part of [[lucaya|Commonwealth Lucaya]] in [[Vekllei]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Bahama Republic"
 	 RealName="Island of Grand Bahama"

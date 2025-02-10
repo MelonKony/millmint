@@ -7,16 +7,14 @@ image: /svg/maps/route-map.png
 rgb: 245, 60, 89
 series: goc
 
-draft: false
+description: Commonwealth Airways is the national flag carrier airline of Vekllei. It flies to all corners of the world, and also to the moon.
 
 fi: fi fi-min-air fis
 
 aliases:
 - /air/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 {{<note series>}}
  See the [Commonwealth Airways Route Map](/route-map/)

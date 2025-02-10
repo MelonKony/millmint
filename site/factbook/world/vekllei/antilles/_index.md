@@ -7,21 +7,19 @@ color: vekllei
 series: commonwealth
 
 fi: fi fi-antilles
+description: Commonwealth Antilles is a constituent region of Vekllei, comprising 7 republics in the western and southern Caribbean Sea.
 
 type: blank
 
 aliases:
 - /antilles/
 ---
-{{<note series>}}
- The Antilles Commonwealth is a [constituent](/constituents/) of [[Vekllei]]
-{{</note>}}
-
 {{<infobox/country
    Name="Antilles Commonwealth"
    Type="Commonwealth"
    Flag="/svg/flags/antilles.svg"
    SmallFlag="/svg/flags/4x3/antilles.svg"
+   Constituents="7"
    Population="1,196,151"
    Capital=""
    Area="1,171 km²"
@@ -34,9 +32,12 @@ The Caimanas are a regional banking capital of Vekllei, and conduct strong trade
 {{<note panel>}}
 **Republics of Antilles Commonwealth**
 
-* [[Aruba]]
-* [[Bonaire]]
-* [[Caimanas]]
-* [[Curacao]]
+* [[Abakoa]] (*San Andres*)
+* [[Aruba]] (*Aruba*)
+* [[Bonaire]] (*Bonaire*)
+* Botuto (*Los Roques Islands*)
+* [[Caimanas]] (*Caimanas*)
+* [[Curacao]] (*Curacao*)
+* Providence (*Providencia*)
 
 {{</note>}}

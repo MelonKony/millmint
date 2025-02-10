@@ -4,14 +4,14 @@ fulltitle: Commonwealth Military Command
 icon: ⚡️
 color: security
 logo: /svg/crests/parliament/security.svg
+series: organisation
+
+fi: fi fi-min-security fis
+description: The Commonwealth Military Command centralises military and civilian intelligence in Vekllei and coordinates defence actions across the government.
 
 aliases:
 - /commonwealth-military-command/
 ---
-{{<note series>}}
- Noshem is part of the [[Security Parliament]]
-{{</note>}}
-
 The *Commonwealth Military Command* (CMC) is the unifying command organisation for the [[armed-forces|Armed Forces]], responsible ultimately for facilitating Commonwealth control of the armed forces. While [republics](/republics/) retain direct command over the armed forces, defence activities are in practice federalised by default under Commonwealth control, and so the CMC is the primary military command in [[Vekllei]]. In principle, the CMC accommodates open communication between the Armed Forces and the Commonwealth, but more commonly acts as a *de facto* command organisation for broad military arrangements outside of direct military administration like defence policy, strategic planning, military infrastructure and logistics, and communications.
 
 Commonwealth member-states usually maintain their own [defence ministries](/factbook/society/state/government/interior/defence/), and the CMC aims to standardise and consolidate defensive strength across the Commonwealth. It is made up of the following departments.

@@ -4,18 +4,17 @@ fulltitle: Armed Forces of Vekllei
 icon: ⚔️
 color: defence
 logo: /svg/crests/ministry-of-defence.svg
+series: organisation
 
 fi: fi fi-min-defence fis
+description: The Armed Forces of Vekllei comprise 10 services dedicated to specialised roles in defence of the unique territory of the country.
 
 autonumbering: false
 
 aliases:
 - /armed-forces/
+series: state
 ---
-{{<note series>}}
- Part of the *[state](/state/)* series of articles
-{{</note>}}
-
 ## Overview
 
 The <span class="fi fi-min-defence fis"></span> **Armed Forces of the Commonwealth** are the military of [[Vekllei]], and a constituent armed component of the [[Ministry of Defence]]. They comprise the combined armed services of the country, as well as capabilities for public emergencies, law enforcement and civil defence.

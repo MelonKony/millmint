@@ -7,11 +7,9 @@ color: culture
 series: bureau
 
 fi: fi fi-min-culture fis
+description: The Bureau of Records & Telegraphs operates communications infrastructure and maintains government archives for the Ministry of Culture.
 
 aliases:
 - /bureau-of-records-and-telegraphs/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of Culture]]
-{{</note>}}
 

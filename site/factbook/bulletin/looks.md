@@ -1,23 +1,16 @@
 ---
-title: Why do Vekllei People Look Like That?
-fulltitle: Why do Vekllei People Look Like That?
+title: Why do Oslolan People Look Like That?
+fulltitle: Why do Oslolan People Look Like That?
 icon: 🫥
-logo:
-image:
+series: bulletin
 
 rgb: 57, 136, 170
 
-series: bulletin
-categories:
-- bulletin
+description: Oslolans in Vekllei do not look like what we think of as Icelanders. This is because, in many ways, they are not Icelanders.
 
 aliases:
 - /bulletin/looks/
 ---
-{{<note series>}}
- Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

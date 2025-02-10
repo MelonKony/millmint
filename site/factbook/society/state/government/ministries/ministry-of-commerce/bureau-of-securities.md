@@ -8,14 +8,11 @@ autonumbering: false
 series: bureau
 
 fi: fi fi-min-commerce fis
+description: The Bureau of Securities regulates securities and trade practices for the Ministry of Commerce.
 
 aliases:
 - /bureau-of-securities/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of Commerce]]
-{{</note>}}
-
 The <span class="fi fi-min-commerce fis"></span> **Bureau of Securities** (VECSEC) regulates securities in [[Vekllei]], mostly in the [[commonwealth-securities-exchange|Commsec]]. It advises fiscal decision-making to the [[Treasury]] and legislates trade practices in the country, including the issuing and ownership of government bonds and bureau securities. It is part of the [[Ministry of Commerce]].
 
 Since Vekllei citizens do not usually participate in the domestic securities markets, the bureau lacks traditional legal authority over many of the foreign participants in its supervised markets, but does extradite and prosecute financial crime through the EUROVEK and USVEK extradition treaties.

@@ -6,11 +6,10 @@ emoji: ←
 color: red
 image:
 
+description: The Civic Commons are the national principles of coexistence and prosperity promoted by the Commonwealth government.
+
 aliases:
 - /civic-commons/
-
-
-
 ---
 {{<note series>}}
  Part of the *[culture](/culture/)* series of articles

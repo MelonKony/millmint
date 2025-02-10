@@ -1,26 +1,15 @@
 ---
-title: Government Style
+title: The Post-War Consensus
 fulltitle: The Post-War Consensus
 icon: 🏞️
-logo:
-image:
+series: bulletin
 
 rgb: 117, 135, 218
-
-draft: false
-toc: false
-
-series: bulletin
-categories:
-- bulletin
+description: Vekllei government operates in general consensus about the state and challenges of the country, an arrangement that has held for decades.
 
 aliases:
 - /bulletin/consensus
 ---
-{{<note series>}}
- Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

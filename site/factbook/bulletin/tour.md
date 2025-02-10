@@ -2,20 +2,15 @@
 title: National Tour
 fulltitle: The National Tour
 icon: 🚢
+series: bulletin
 
 rgb: 88, 155, 204
 
-series: bulletin
-categories:
-- bulletin
+description: After completing civil or military conscription, Vekllei citizens are entitled to six months off work and a special cruise that visits every constituent republic.
 
 aliases:
 - /bulletin/tour
 ---
-{{<note series>}}
- Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

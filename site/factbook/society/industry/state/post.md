@@ -6,15 +6,15 @@ logo: /svg/logos/post.svg
 rgb: 255, 19, 35
 series: goc
 
+description: Commonwealth Post is the national postal service of Vekllei. It handles nearly 50 million pieces of mail each day.
+
 fi: fi fi-min-post fis
 
 aliases:
 - /post/
 - /mail/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 ## Overview
 

@@ -2,20 +2,15 @@
 title: Alcohol
 fulltitle: Alcohol in Vekllei
 icon: 🍷
+series: bulletin
 
 rgb: 222, 24, 87
 
-series: bulletin
-categories:
-- bulletin
+description: Since alcohol is widely available at no cost in Vekllei, its consumption has to be regulated through both law and culture.
 
 aliases:
 - /bulletin/alcohol
 ---
-{{<note series>}}
-Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

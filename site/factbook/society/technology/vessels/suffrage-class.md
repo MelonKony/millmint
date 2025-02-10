@@ -1,12 +1,12 @@
 ---
-title: Suffrage-class Corvette
+title: Suffrage-class
 fulltitle: Suffrage-class Corvette
 icon: ⚓️
 color: marine
 logo: /svg/crests/marine.svg
 
 series: vessel
-draft: false
+description: The Suffrage-Class is a class of corvette in service with the Vekllei Armed Forces.
 
 aliases:
 - /suffrage-class/

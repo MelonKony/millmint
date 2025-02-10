@@ -7,13 +7,10 @@ color: industry
 series: bureau
 
 fi: fi fi-min-industry fis
+description: The Bureau of Workers regulates workplace organising and work safety for the Ministry of Industry.
 
 aliases:
 - /bureau-of-workers/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of Industry]]
-{{</note>}}
-
 ## Workplace Safety Commission
 ## Workplace Democracy Commission

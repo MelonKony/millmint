@@ -1,6 +1,32 @@
 {{ if in .Params.series "republic" }}
 <a href="/republics/">Constituent Republic</a>
 {{ end }}
+
+{{ if in .Params.series "antarctic" }}
+<a href="/republics/">Constituent Republic</a>
+{{ end }}
+{{ if in .Params.series "antilles" }}
+<a href="/republics/">Constituent Republic</a>
+{{ end }}
+{{ if in .Params.series "north-arctic" }}
+<a href="/republics/">Constituent Republic</a>
+{{ end }}
+{{ if in .Params.series "atlantic" }}
+<a href="/republics/">Constituent Republic</a>
+{{ end }}
+{{ if in .Params.series "kalina" }}
+<a href="/republics/">Constituent Republic</a>
+{{ end }}
+{{ if in .Params.series "lucaya" }}
+<a href="/republics/">Constituent Republic</a>
+{{ end }}
+{{ if in .Params.series "verde" }}
+<a href="/republics/">Constituent Republic</a>
+{{ end }}
+{{ if in .Params.series "volcanic" }}
+<a href="/republics/">Constituent Republic</a>
+{{ end }}
+
 {{ if in .Params.series "commonwealth" }}
 <a href="/constituents/">Constituent Commonwealth</a>
 {{ end }}
@@ -21,14 +47,34 @@
 <a href="/bureaus/">Bureau Corporation</a>
 {{ end }}
 
-{{ if in .Params.series "vessel" }}
-<a href="/marine/">Naval Vessel</a>
+{{ if in .Params.series "technology" }}
+<a href="/technology/">Technology</a>
 {{ end }}
 
+{{ if in .Params.series "vessel" }}
+<a href="/vessels/">Naval Vessel</a>
+{{ end }}
+{{ if in .Params.series "aircraft" }}
+<a href="/aircraft/">Aircraft</a>
+{{ end }}
+
+{{ if in .Params.series "society" }}
+<a href="/society/">Fact Sheet</a>
+{{ end }}
+
+{{ if in .Params.series "industry" }}
+<a href="/industry/">Commonwealth Industry</a>
+{{ end }}
 
 {{ if in .Params.series "ministry" }}
 <a href="/ministries/">Commonwealth Ministry</a>
 {{ end }}
+{{ if in .Params.series "parliament" }}
+<a href="/parliaments/">Commonwealth Parliament</a>
+{{ end }}
 {{ if in .Params.series "bureau" }}
 <a href="/government-bureaus/">Government Bureau</a>
+{{ end }}
+{{ if in .Params.series "organisation" }}
+<a href="/government/">Government Organisation</a>
 {{ end }}

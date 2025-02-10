@@ -3,19 +3,16 @@ title: Graciosa
 fulltitle: Graciosa Republic
 icon: 🐄
 logo: /svg/flags/4x3/graciosa.svg
-series: republic
+series: atlantic
 
 rgb: 227, 24, 24
+description: Graciosa is a constituent republic of Vekllei located in the North Atlantic Ocean.
 
 fi: fi fi-graciosa
 
 aliases:
 - /graciosa/
 ---
-{{<note series>}}
-Graciosa is part of the [[atlantic|Commonwealth Atlantic]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Graciosa Republic"
 	 RealName="Island of Graciosa"

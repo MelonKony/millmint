@@ -4,17 +4,15 @@ fulltitle: Noshem
 icon: 🏹
 color: security
 logo: /svg/logos/noshem.svg
+series: organisation
 
 fi: fi fi-min-noshem fis
+description: Noshem is the covert intelligence agency of Vekllei, and conducts external surveillance and espionage on behalf of the country.
 
 aliases:
 - /noshem/
 ---
 {{<threat-level>}}
-
-{{<note series>}}
- Noshem is part of the [[Security Parliament]]
-{{</note>}}
 
 The <span class="fi fi-min-noshem fis"></span> **Commonwealth Intelligence Service** (*National Intelligence*, or *Noshem*) is the secret service of [[Vekllei]] and the Commonwealth’s primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It is organised into 40 semiautonomous outlines, which each may operate several offices. Noshem's sophisticated intelligence network and broad mandate contribute to its legendary reputation abroad, and conspiracies of its presence in almost every country.
 

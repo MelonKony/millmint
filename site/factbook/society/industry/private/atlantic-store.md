@@ -4,18 +4,16 @@ fulltitle: Atlantic Department Company
 icon: 👔
 logo: /svg/logos/atlantic-store.svg
 rgb: 248, 69, 97
+
 logocredit: Katsuhiko Kazutadamoto, 1973, for Ilsanneen Garden Company.
-
-
+description: Atlantic is the largest department store chain in Vekllei and sells a range of clothing and cosmetics. It is among the largest privately-held companies in the country.
 
 fi: fi fi-min-atlantic-store fis
 
 aliases:
 - /atlantic-store/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 {{<note advice>}}
 Read more: *[Department Commerce](/stories/department/)*

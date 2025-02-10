@@ -9,13 +9,12 @@ logocredit: Shekhar Kamat, 1971, for the State Bank of India.
 series: goc
 
 fi: fi fi-min-combank fis
+description: Commonwealth Bank is the central bank of Vekllei, and serves as its largest commercial bank.
 
 aliases:
 - /commonwealth-bank/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 {{<infobox/company
 	 Name="Commonwealth Bank"

@@ -4,18 +4,16 @@ fulltitle: ASRE
 icon: 🔬
 rgb: 243, 133, 43
 logo: /svg/logos/ASRE.svg
+series: SIRO
 
 logocredit: W.M. Landwehr & Don Davis, 1971, for the Quincy Annual Art Show
 
 fi: fi fi-min-asre fis
+description: The Astro Science Research Establishment is a constituent research organisation of SIRO dedicated to astronomy and space research.
 
 aliases:
 - /ASRE/
 ---
-{{<note series>}}
- The ASRE is a research institute of the [[Ministry of the Commons]] and [[SIRO]]
-{{</note>}}
-
 The <span class="fi fi-min-asre fis"></span> **Commonwealth Astro Science Research Establishment** (ASRE) is a research organisation of the [[Ministry of the Commons]]. It conducts aeronautical and space research in Vekllei on behalf of the ministry and [[SIRO]], and employs about 7,000 people. It conducts mostly scientific research, but its staff do contribute to engineering projects in industry where their expertise is required. Most famously, the ASRE contributed extensively to the Apollo-type thermal reactor, developed in conjunction with [[General Reactor]].
 
 In addition to aeronautics and space research, the ASRE operates a number of extraterrestrial facilities on other planets, including Station Mars and Station Venus. It does not however administrate the Vekllei Station Lunar, though it does operate several research stations and laboratories there.

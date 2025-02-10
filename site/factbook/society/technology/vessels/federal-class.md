@@ -1,5 +1,5 @@
 ---
-title: Federal-class Battleship
+title: Federal-class
 fulltitle: Federal-class Battleship
 icon: ⚓️
 color: marine
@@ -7,7 +7,7 @@ logo: /svg/crests/marine.svg
 image: /images/fullres/battleship.jpg
 
 series: vessel
-draft: false
+description: The Federal-Class is a class of battleship in service with the Vekllei Armed Forces.
 
 aliases:
 - /federal-class/

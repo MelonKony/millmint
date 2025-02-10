@@ -1,12 +1,12 @@
 ---
-title: Hera-class Minelayer
+title: Hera-class
 fulltitle: Hera-class Minelayer
 icon: ⚓️
 color: marine
 logo: /svg/crests/marine.svg
 
 series: vessel
-draft: false
+description: The Hera-Class is a class of minelaying warship in service with the Vekllei Armed Forces.
 
 aliases:
 - /hera-class/

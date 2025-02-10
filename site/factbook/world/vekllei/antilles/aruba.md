@@ -3,9 +3,10 @@ title: Aruba
 fulltitle: Aruba
 icon: 🌴
 logo: /svg/flags/4x3/aruba.svg
-series: republic
+series: antilles
 
 rgb: 255, 178, 7
+description: Aruba is a constituent republic of Vekllei located in the south Caribbean Sea.
 
 fi: fi fi-aruba
 
@@ -14,10 +15,6 @@ draft: false
 aliases:
 - /aruba/
 ---
-{{<note series>}}
- Aruba is part of the [[lucaya|Commonwealth Lucaya]]
-{{</note>}}
-
 {{<infobox/country
      Name="Aruba Republic"
      RealName="Island of Aruba"

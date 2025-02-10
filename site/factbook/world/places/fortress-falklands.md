@@ -4,16 +4,14 @@ fulltitle: Fortress Falklands
 icon: ⚔️
 color: land
 logo: /svg/crests/territorial.svg
+series: location
 
 fi: fi fi-min-land fis
+description: Fortress Falklands is a fortress of the Vekllei Armed Forces, located in the republic of the Falklands.
 
 aliases:
 - /fortress-falklands /
 ---
-{{<note series>}}
- This article is about a [location](/factbook/landscape/places) in [[Vekllei]]
-{{</note>}}
-
 **Fortress Falklands** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Falklands]].
 
 {{<note table>}}

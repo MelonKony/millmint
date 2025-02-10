@@ -7,14 +7,11 @@ color: labour
 series: ministry
 
 fi: fi fi-min-labour fis
+description: The Ministry of Labour manages the Vekllei workforce, workplace safety, the civil service and conscription.
 
 aliases:
 - /ministry-of-labour/
 ---
-{{<note series>}}
- This *[ministry](/ministries/)* is part of [[Vekllei]]
-{{</note>}}
-
 The <span class="fi fi-min-labour fis"></span> **Ministry of Labour** is a [devolved ministry](/ministries/) of the [[Government]] of [[Vekllei]]. It provides a general role in registering and legislating the Vekllei workforce, which serves a unique role in Vekllei's participatory economy.
 
 The ministry serves traditional functions in establishing workplace standards and safety legislation, but also maintains the *[consosva](/consosva/)* and *[corsosva](/corsosva/)* systems, which outline the legal obligations for employment and civic conscription respectively. To this end, the Ministry of Labour is an organiser of essential work in Vekllei, as well as a general administrator of worker protections, industrial relations and migrant integration. Common responsibilities of the ministry include:

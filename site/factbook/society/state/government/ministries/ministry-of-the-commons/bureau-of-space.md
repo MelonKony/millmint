@@ -7,14 +7,11 @@ logo: /svg/crests/ministry-of-the-commons.svg
 series: bureau
 
 fi: fi fi-min-commons fis
+description: The Bureau of Space oversees space settlements, logistics and policy for the Ministry of the Commons.
 
 aliases:
 - /bureau-of-space/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of the Commons]]
-{{</note>}}
-
 The <span class="fi fi-min-commons fis"></span> **Bureau of Space** maintains governance and infrastructure on the [[Vekllei]] moon, other celestial claims and in outer space. It is a unique government organisation with the fascinating role of facilitating civilian life in Vekllei's offworld settlements. On smaller, scientific settlements like Station Mars and Station Venus, the bureau assumes a direct governance role. On older and more established settlements, it retains a functional administrative approach that supports local government. In the Vekllei Lunar Settlement and Space Station Veletia, the bureau conducts maintenance and improvements, and also manages affairs between councils in the settlements.
 
 Although formal celestial and space diplomacy is conducted through the [[Ministry of Foreign Affairs]], the Bureau of Space may conduct regular trade and diplomatic actions on behalf of off-world settlements as a representative of Vekllei citizens in space. The bureau also generally manages or supports any day-to-day affairs of civilian space settlement, including interstellar transport routes and construction material delivery.

@@ -2,22 +2,15 @@
 title: Foreign Policy
 fulltitle: Foreign Policy in Vekllei
 icon: 🌍
-logo:
-image:
+series: bulletin
 
 color: foreignaffairs
 
-series: bulletin
-categories:
-- bulletin
+description: Vekllei foreign policy is characterised by assertive, pragmatic and cooperative engagement with countries in their interest.
 
 aliases:
 - /bulletin/foreign-policy
 ---
-{{<note series>}}
- Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

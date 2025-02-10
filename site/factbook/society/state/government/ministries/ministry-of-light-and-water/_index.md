@@ -9,14 +9,11 @@ series: ministry
 logocredit: Noriko Yamazaki, Nihonreai Shop & Hajime Sakakura, 1987, for Takatsu Barber and Beauty College.
 
 fi: fi fi-min-light-and-water fis
+description: The Ministry of Light & Water is responsible for water, sewerage, waste management and electricity supply in Vekllei.
 
 aliases:
 - /ministry-of-light-and-water/
 ---
-{{<note series>}}
- This *[ministry](/ministries/)* is part of [[Vekllei]]
-{{</note>}}
-
 The <span class="fi fi-min-light-and-water fis"></span> **Ministry of Light & Water** is responsible for water and electricity supply in [[Vekllei]]. While the ministry primarily directs production and facilitates research, it also controls the vast majority of energy and water production in Vekllei through its statutory corporations.
 
 Although electricity now flows freely and abundantly in an age of commercial fusion power plants, many of Vekllei's [constituent republics](/republics/) have little to no fresh water reserves and rely heavily on water conservation, recycling and desalination to supplement their water supply. Common responsibilities of the ministry include:

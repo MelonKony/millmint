@@ -2,25 +2,18 @@
 title: Airline Travel
 fulltitle: Airline Travel in Vekllei
 icon: ✈️
-logo:
-image:
+series: bulletin
 
 rgb: 184, 84, 168
 
 draft: false
 toc: false
 
-series: bulletin
-categories:
-- bulletin
+description: Since Vekllei people do not typically pay money for airline travel, they have an unusual system for booking limited systems like flights.
 
 aliases:
 - /bulletin/airline-travel
 ---
-{{<note series>}}
- Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

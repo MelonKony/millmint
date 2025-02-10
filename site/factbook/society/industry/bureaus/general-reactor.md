@@ -8,13 +8,12 @@ rgb: 53, 156, 103
 series: ib
 
 fi: fi fi-min-general-reactor fis
+description: General Reactor is a nuclear design and engineering company in Vekllei. It is a bureau corporation made up of many constituent companies.
 
 aliases:
 - /general-reactor/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 {{<infobox/company
 	  Name="General Reactor"

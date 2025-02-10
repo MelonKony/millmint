@@ -4,6 +4,8 @@ fulltitle: The Socialist Republic of Ceylon
 icon: 🍵
 logo: /svg/flags/4x3/lk.svg
 
+description: The Republic of Ceylon (also known as Sri Lanka) is an island country in South Asia, off the coast of India.
+
 rgb: 255, 92, 0
 
 fi: fi fi-lk
@@ -13,10 +15,8 @@ toc: true
 
 aliases:
 - /ceylon/
+series: country
 ---
-{{<note series>}}
- Part of the *[world](/world/)* series of articles
-{{</note>}}
 
 The **Socialist Republic of Ceylon** (also *Śrī Laṅkā* in Sinhala and *Ilaṅkai* in Tamil) is an island country in the Indian Ocean, off the coast of India. It is a part of the non-aligned movement and the [[COMOC]].
 

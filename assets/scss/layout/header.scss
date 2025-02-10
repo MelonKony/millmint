@@ -6,7 +6,7 @@ header {
 	grid-template-columns: 1fr fit-content(33%);
 	grid-template-rows: 1fr;
 	grid-template-areas:
-		"brand theme toc search";
+		"brand tooltip theme toc search";
 	margin: 0 0 1rem 0;
 
 	a:hover {
@@ -212,13 +212,16 @@ header.info {
 
 	.headcrumbs {
 		@include text-sm;
-		@include my-0;
 		display: grid;
 		grid-area: headcrumbs;
 		align-content: end;
 
 		.hidden {
 			display: none;
+		}
+
+		nav {
+			@include my-0;
 		}
 
 		li {

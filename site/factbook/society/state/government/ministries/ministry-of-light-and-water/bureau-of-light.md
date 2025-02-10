@@ -7,14 +7,11 @@ logo: /svg/crests/ministry-of-light-and-water.svg
 series: bureau
 
 fi: fi fi-min-light-and-water fis
+description: The Bureau of Light oversees electricity generation and the power grid for the Ministry of Light and Water.
 
 aliases:
 - /bureau-of-light/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of Light and Water]]
-{{</note>}}
-
 The <span class="fi fi-min-light-and-water fis"></span> **Bureau of Light** (Commonwealth Electric Commission, commonly *Thunderburo*) is responsible for the state monopoly on electricity generation in Vekllei. Although the VEC is structured as a bureau company, its subsidiaries are state-owned and consequently operates similarly to other agency-level departments of the [Interior Parliament](/factbook/society/state/government/interior). The VEC consists of multiple subcommissions dedicated to unique types of electricity generation in Vekllei, primarily through hydro-electric, geothermal and nuclear methods.
 
 {{<note panel>}}

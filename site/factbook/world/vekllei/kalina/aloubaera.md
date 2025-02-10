@@ -3,19 +3,16 @@ title: Aloubaera
 fulltitle: Aloubaera Republic
 icon: 🌲
 logo: /svg/flags/4x3/aloubaera.svg
-series: republic
+series: kalina
 
 rgb: 46, 114, 225
+description: Aloubaera (<i>Tobago</i>) is a constituent republic of Vekllei located in the Lesser Antilles of the Caribbean Sea.
 
 fi: fi fi-aloubaera
 
 aliases:
 - /aloubaera/
 ---
-{{<note series>}}
- Aloubaera is part of [[kalina|Commonwealth Kalina]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Aloubaera Republic"
 	 RealName="Island of Tobago"

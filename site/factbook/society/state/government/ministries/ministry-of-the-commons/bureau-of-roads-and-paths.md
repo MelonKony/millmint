@@ -7,14 +7,11 @@ logo: /svg/crests/ministry-of-the-commons.svg
 series: bureau
 
 fi: fi fi-min-commons fis
+description: The Bureau of Roads & Paths oversees roads, motor vehicles and motorways for the Ministry of the Commons.
 
 aliases:
 - /bureau-of-roads-and-paths/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of the Commons]]
-{{</note>}}
-
 The <span class="fi fi-min-commons fis"></span> **Bureau of Roads & Paths** performs road maintenance in [[Vekllei]]. Vekllei cities are dense and few people own cars, so much of the work performed by the bureau deals with pedestrian streets and pathways, rather than traditional roads that meet automotive specification. It nonetheless also performs a traditional in road and motorway construction and maintenance, and generally builds land transport connections not under the purview of the [[Bureau of Rail]].
 
 The bureau is also responsible for the licensing and registration of motor vehicles, as well as public vehicle initiatives like motorpools. It operates crash testing facilities in [[Barbados]].

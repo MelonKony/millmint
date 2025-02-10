@@ -4,10 +4,9 @@ fulltitle: Common Assembly Language
 icon: ⌨️
 emoji: ɋ
 color: purple
-image:
+series: technology
 
-type: blank
-draft: false
+description: Common Assembly Language is the common low-level programming language of computers in Vekllei and around the world.
 
 aliases:
 - /common-assembly-language/

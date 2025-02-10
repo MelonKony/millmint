@@ -4,17 +4,17 @@ fulltitle: Commonwealth Starlines
 icon: 🪐
 logo: /svg/logos/starlines.svg
 rgb: 44, 81, 177
-logocredit: Unimark International, 1970s, for the Nelson retail company.
 series: goc
+
+logocredit: Unimark International, 1970s, for the Nelson retail company.
+description: Commonwealth Starlines is the national space transport company of Vekllei, and a subsidiary of Commonwealth Airways.
 
 fi: fi fi-min-starlines fis
 
 aliases:
 - /starlines/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
  {{<infobox/company
 	  Name="Commonwealth Starlines"

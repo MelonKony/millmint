@@ -9,16 +9,12 @@ rgb: 45, 122, 235
 
 fi: fi fi-min-healthcare fis
 
-draft: false
-toc: true
+description: Healthcare in Vekllei is planned centrally but delivered locally. It provides good outcomes for Vekllei people, and is widely accessible.
 
 aliases:
 - /healthcare/
+series: society
 ---
-{{<note series>}}
- Part of the *[state](/state/)* series of articles
-{{</note>}}
-
 ## Overview
 
 As elsewhere in [[Vekllei]], healthcare is centralised in planning and standards and decentralised in delivery. Each [republic](/constituents/) has a National Health Service which governs regional policy.

@@ -3,19 +3,16 @@ title: Abakoa
 fulltitle: Abakoa
 icon: ❌
 logo: /svg/flags/4x3/abakoa.svg
-series: republic
+series: antilles
 
 rgb: 234, 27, 36
+description: Abakoa (<i>San Andres</i>) is a constituent republic of Vekllei located in the western Caribbean Sea.
 
 fi: fi fi-abakoa
 
 aliases:
 - /abakoa/
 ---
-{{<note series>}}
- Abakoa is part of the [[antilles|Commonwealth Antilles]]
-{{</note>}}
-
 {{<infobox/country
      Name="Abakoa Republic"
      RealName="Island of San Andrés"

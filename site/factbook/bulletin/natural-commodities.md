@@ -2,20 +2,15 @@
 title: Natural Commodities
 fulltitle: Natural Commodities in Vekllei
 icon: 🛢️
+series: bulletin
 
 rgb: 94, 194, 40
 
-series: bulletin
-categories:
-- bulletin
+description: For a variety of economic and cultural reasons, Vekllei limits the exploitation of natural commodities. This includes resources like oil and gas.
 
 aliases:
 - /bulletin/natural-commodities/
 ---
-{{<note series>}}
- Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

@@ -16,4 +16,5 @@
     {{ end }}
 
     {{ $content | safeHTML }} <!-- Use safeHTML directly without RenderString -->
+    {{- partial "components/link-preview.html" . -}}
 </article>

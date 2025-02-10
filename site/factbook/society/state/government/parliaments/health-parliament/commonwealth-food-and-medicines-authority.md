@@ -3,17 +3,15 @@ title: Commonwealth Food & Medicines Authority
 fulltitle: Commonwealth Food & Medicines Authority
 icon: 🏛️
 color: health
+series: organisation
 
 logo: /svg/crests/parliament/health.svg
 fi: fi fi-min-health fis
+description: The Commonwealth Food & Medicines Authority supervises food and medicine safety in Vekllei.
 
 aliases:
 - /bureau-of-public-health/
 ---
-{{<note series>}}
- This bureau is part of the [[Health Parliament]]
-{{</note>}}
-
 The <span class="fi fi-min-health fis"></span> **The Food and Medicines Authority** (FMA) is a statutory agency that controls and supervises food and medicine safety. Most consumable substances are regulated by the FMA, and require approval for import or export in the country. The FMA also investigates toxic food and medicines.
 
 {{<note panel>}}

@@ -3,9 +3,10 @@ title: Summers
 fulltitle: Summers Republic
 icon: 🪝
 logo: /svg/flags/4x3/summers.svg
-series: republic
+series: lucaya
 
 rgb: 28, 101, 198
+description: Summers (<i>Bermuda</i>) is a constituent republic of Vekllei located in the north Atlantic Ocean.
 
 draft: false
 
@@ -14,10 +15,6 @@ fi: fi fi-summers
 aliases:
 - /summers/
 ---
-{{<note series>}}
- Summers is part of the [[lucaya|Commonwealth Lucaya]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Summers Republic"
 	 RealName="Island of Bermuda"

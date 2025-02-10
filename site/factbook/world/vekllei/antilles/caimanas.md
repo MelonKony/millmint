@@ -3,9 +3,10 @@ title: Caimanas
 fulltitle: Caimanas
 icon: 📖
 logo: /svg/flags/caimanas.svg
-series: republic
+series: antilles
 
 rgb: 60, 106, 217
+description: Caimanas (<i>Cayman Islands</i>) is a constituent republic of Vekllei located in the western Caribbean Sea.
 
 fi: fi fi-caimanas
 
@@ -14,10 +15,6 @@ draft: false
 aliases:
 - /caimanas/
 ---
-{{<note series>}}
- Summers is part of the [[lucaya|Commonwealth Lucaya]]
-{{</note>}}
-
 {{<infobox/country
      Name="Caimanas Republic"
      RealName="Archipelago of the Cayman Islands"

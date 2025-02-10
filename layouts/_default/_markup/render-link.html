@@ -1,0 +1,24 @@
+{{/* layouts/_default/_markup/render-link.html */}}
+
+{{- $context := .Page -}}
+{{- $link := .Destination -}}
+{{- $text := .Text | safeHTML -}}
+
+{{- $wikiLinkPattern := `\[\[([^|\]]+)(?:\|([^\]]+))?\]\]` -}}
+
+{{- if findRE $wikiLinkPattern $text -}}
+  {{- $path := replaceRE $wikiLinkPattern "$1" $text | trim -}}
+  {{- $display := replaceRE $wikiLinkPattern "$2" $text | trim -}}
+  {{- if eq $display "" -}}
+	{{- $display = $path -}}
+  {{- end -}}
+
+  {{- with $context.Site.GetPage $path -}}
+	{{- $href := .RelPermalink -}}
+	{{- printf `<a href="%s">%s</a>` $href (default .Title $display) | safeHTML -}}
+  {{- else -}}
+	{{- printf `<a href="#">%s</a>` $display | safeHTML -}}
+  {{- end -}}
+{{- else -}}
+  {{- printf `<a href="%s">%s</a>` $link $text | safeHTML -}}
+{{- end -}}

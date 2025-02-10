@@ -1,61 +1,91 @@
- <div class="slider">
-	<div class="slide-track">
-		<img src="/svg/flags/4x3/ac.svg">
-		<img src="/svg/flags/4x3/fk.svg">
-		<img src="/svg/flags/4x3/sh.svg">
-		<img src="/svg/flags/4x3/java.svg">
-		<img src="/svg/flags/4x3/santes.svg">
-		<img src="/svg/flags/4x3/gs.svg">
-		<img src="/svg/flags/4x3/sj.svg">
-		<img src="/svg/flags/4x3/costa-verde.svg">
-		<img src="/svg/flags/4x3/ms.svg">
-		<img src="/svg/flags/4x3/aloubaera.svg">
-		<img src="/svg/flags/4x3/gd.svg">
-		<img src="/svg/flags/4x3/kairi.svg">
-		<img src="/svg/flags/4x3/kala.svg">
-		<img src="/svg/flags/4x3/aloi.svg">
-		<img src="/svg/flags/4x3/habacoa.svg">
-		<img src="/svg/flags/4x3/bb.svg">
-		<img src="/svg/flags/4x3/ai.svg">
-		<img src="/svg/flags/4x3/antigua.svg">
-		<img src="/svg/flags/4x3/barbary.svg">
-		<img src="/svg/flags/4x3/vg.svg">
-		<img src="/svg/flags/4x3/rum.svg">
-		<img src="/svg/flags/4x3/fo.svg">
-		<img src="/svg/flags/4x3/demon.svg">
-		<img src="/svg/flags/4x3/oslola.svg">
-	</div>
-	<div class="slide-track">
-		<img src="/svg/flags/4x3/ac.svg">
-		<img src="/svg/flags/4x3/fk.svg">
-		<img src="/svg/flags/4x3/sh.svg">
-		<img src="/svg/flags/4x3/java.svg">
-		<img src="/svg/flags/4x3/santes.svg">
-		<img src="/svg/flags/4x3/gs.svg">
-		<img src="/svg/flags/4x3/sj.svg">
-		<img src="/svg/flags/4x3/costa-verde.svg">
-		<img src="/svg/flags/4x3/ms.svg">
-		<img src="/svg/flags/4x3/aloubaera.svg">
-		<img src="/svg/flags/4x3/gd.svg">
-		<img src="/svg/flags/4x3/kairi.svg">
-		<img src="/svg/flags/4x3/kala.svg">
-		<img src="/svg/flags/4x3/aloi.svg">
-		<img src="/svg/flags/4x3/habacoa.svg">
-		<img src="/svg/flags/4x3/bb.svg">
-		<img src="/svg/flags/4x3/ai.svg">
-		<img src="/svg/flags/4x3/antigua.svg">
-		<img src="/svg/flags/4x3/barbary.svg">
-		<img src="/svg/flags/4x3/vg.svg">
-		<img src="/svg/flags/4x3/rum.svg">
-		<img src="/svg/flags/4x3/fo.svg">
-		<img src="/svg/flags/4x3/demon.svg">
-		<img src="/svg/flags/4x3/oslola.svg">
-	</div>
+{{- $flags := readDir "static/svg/flags" -}}
+{{- $flagWidth := 70 -}}
+{{- $gap := 10 -}}
+
+<div class="carousel-container">
+  <div class="carousel" id="flagCarousel">
+	{{- range $flags -}}
+	  {{- if strings.HasSuffix .Name ".svg" -}}
+		<a href="/{{ replace .Name ".svg" "" | urlize }}/" class="flag-link">
+		  <img src="/svg/flags/{{ .Name }}" alt="{{ replace .Name ".svg" "" }}" class="flag-image" loading="lazy">
+		</a>
+	  {{- end -}}
+	{{- end -}}
+  </div>
 </div>
 
-<!-- Javascript duplicator (remove one slide-track)
+<style>
+  .carousel-container {
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+	mask: linear-gradient(90deg,
+	  transparent,
+	  black 5%,
+	  black 95%,
+	  transparent
+	);
+  }
 
-	<script>
-  var copy = document.querySelector(".slide-track").cloneNode(true);
-  document.querySelector(".slider").appendChild(copy);
-</script>-->
+  .carousel {
+	display: flex;
+	gap: {{ $gap }}px;
+  }
+
+  .flag-link {
+	flex: 0 0 {{ $flagWidth }}px;
+	transition: transform 0.3s ease;
+  }
+
+  .flag-image {
+	width: 100%;
+	height: auto;
+	pointer-events: none;
+  }
+
+  .flag-link:hover {
+	transform: translateY(-10px);
+  }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const carousel = document.getElementById('flagCarousel');
+
+  // Clone content to create a seamless loop
+  carousel.innerHTML = carousel.innerHTML + carousel.innerHTML;
+
+  // Manually calculate the total width
+  const flagWidth = 70; // Adjust based on your $flagWidth value
+  const gap = 10; // Adjust based on your $gap value
+  const totalFlags = {{ len $flags }}; // Number of flags in the folder
+  const totalWidth = (flagWidth + gap) * totalFlags;
+
+  console.log(`Total Width: ${totalWidth}`); // Debugging
+
+  let position = 0;
+  const speed = 1;
+  let isHovered = false;
+
+  carousel.addEventListener('mouseenter', () => isHovered = true);
+  carousel.addEventListener('mouseleave', () => isHovered = false);
+
+  function animate() {
+	if (!isHovered) {
+	  position += speed;
+	} else {
+	  position += speed * 0.3;
+	}
+
+	// Reset position after the FIRST copy of the content has completely scrolled out
+	if (position >= totalWidth) {
+	  position = 0;
+	}
+
+	carousel.style.transform = `translateX(${-position}px)`;
+	requestAnimationFrame(animate);
+  }
+
+  animate();
+});
+</script>

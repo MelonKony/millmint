@@ -7,10 +7,8 @@ color: industry
 series: bureau
 
 fi: fi fi-min-industry fis
+description: The Bureau of Hydrocarbons produces analysis and statistics on manufacturing and resource production for the Ministry of Industry.
 
 aliases:
 - /bureau-of-production-surveillance/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of Industry]]
-{{</note>}}

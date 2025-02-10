@@ -2,22 +2,17 @@
 title: Bureaucracy in Vekllei
 fulltitle: Bureaucracy in Vekllei
 icon: 🗄️
+series: bulletin
 
 rgb: 255, 82, 141
 
 toc: false
 
-series: bulletin
-categories:
-- bulletin
+description: Vekllei bureaucracy is better understood not as a traditional hierarchy but as constellations of autonomous offices.
 
 aliases:
 - /bulletin/bureaucracy
 ---
-{{<note series>}}
- Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

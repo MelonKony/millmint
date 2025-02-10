@@ -7,14 +7,11 @@ logo: /svg/crests/ministry-of-the-commonwealth.svg
 series: bureau
 
 fi: fi fi-min-commonwealth fis
+description: The Bureau of Standards establishes industrial, professional and visual standards for the Ministry of the Commonwealth.
 
 aliases:
 - /bureau-of-standards/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of the Commonwealth]]
-{{</note>}}
-
 The *Bureau of Standards* (also *Standards Vekllei*) works to unify management and supervision of state bodies and assets in Vekllei. It also mandates the responsibilities and visual identity of all departments of the Government and boroughs of the Commonwealth, including the appearance and manuals of style of Commonwealth infrastructure and publications. Its work includes both operating procedures and major brand elements like flags and logos, and specific linguistic and typographic features including typefaces, preferred punctuation and symbols. It has considerable authority over other departments, which usually lack autonomy to enforce their own visual identity independently. Most visual work for the Standardisations Directorate is performed by in-house designers and artists.
 
 {{<note panel>}}

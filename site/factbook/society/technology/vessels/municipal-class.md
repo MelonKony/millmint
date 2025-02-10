@@ -1,12 +1,12 @@
 ---
-title: Municipal-class Hydrofoil
+title: Municipal-class
 fulltitle: Municipal-class Hydrofoil
 icon: ⚓️
 color: marine
 logo: /svg/crests/marine.svg
 
 series: vessel
-draft: false
+description: The Municipal-Class is a class of fast-response hydrofoil in service with the Vekllei Armed Forces.
 
 image: /images/fullres/hydrofoil.jpg
 

@@ -4,16 +4,14 @@ fulltitle: Fortress Aruba
 icon: ⚔️
 color: land
 logo: /svg/crests/territorial.svg
+series: location
 
 fi: fi fi-min-land fis
+description: Fortress Aruba is a fortress of the Vekllei Armed Forces, located in the republic of Aruba.
 
 aliases:
 - /fortress-aruba/
 ---
-{{<note series>}}
- This article is about a [location](/factbook/landscape/places) in [[Vekllei]]
-{{</note>}}
-
 **Fortress Aruba** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Aruba]].
 
 {{<note table>}}

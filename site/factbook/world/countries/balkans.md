@@ -4,17 +4,16 @@ fulltitle: Federal Socialist Republic of the Balkans
 icon: ♣️
 logo: /svg/flags/4x3/balkan.svg
 
+description: The Balkan Federation is a market socialist country in southeastern Europe spanning the Adriatic and Black Seas.
+
 rgb: 180, 0, 3
 
 fi: fi fi-balkan
 
 aliases:
 - /balkan/
+series: country
 ---
-{{<note series>}}
- Part of the *[world](/world/)* series of articles
-{{</note>}}
-
 {{<infobox/country
      Name="FSR Balkans"
      Flag="/svg/flags/4x3/balkan.svg"

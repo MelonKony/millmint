@@ -4,13 +4,11 @@ fulltitle: Corcidi Poetry
 icon: ✍
 emoji: ←
 color: red
-image:
+
+description: Corcidi poetry is a traditional form of Algic poetry, mostly practiced in Oslola.
 
 aliases:
 - /corcidi/
-
-
-
 ---
 {{<note series>}}
  Part of the *[culture](/culture/)* series of articles

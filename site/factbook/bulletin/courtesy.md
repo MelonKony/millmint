@@ -2,20 +2,14 @@
 title: Courtesy
 fulltitle: Courtesy in Vekllei
 icon: 🗣️
+series: bulletin
 
 rgb: 187, 81, 227
-
-series: bulletin
-categories:
-- bulletin
+description: Rather than abolishing titles and etiquette, post-scarcity society in Vekllei has intensified them as economic relations become primarily social.
 
 aliases:
 - /bulletin/courtesy
 ---
-{{<note series>}}
-Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

@@ -6,6 +6,8 @@ emoji: ←
 color: red
 image: /images/fullres/chiton.jpg
 
+description: Veletia is a national personification of Vekllei, commonly depicted as woman of different races holding a canopia spear.
+
 aliases:
 - /veletia/
 ---

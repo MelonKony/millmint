@@ -3,19 +3,16 @@ title: Santes
 fulltitle: Santes Republic
 icon: 🦞
 logo: /svg/flags/4x3/santes.svg
-series: republic
+series: antarctic
 
 rgb: 211, 45, 71
+description: Santes (<i>Tristan da Cunha</i>) is a constituent republic of Vekllei located in the southern Atlantic Ocean.
 
 fi: fi fi-santes
 
 aliases:
 - /santes/
 ---
-{{<note series>}}
- Helena is part of [[antarctic|Commonwealth Antarctic]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Santes Republic"
 	 RealName="Island of Tristan da Cunha"

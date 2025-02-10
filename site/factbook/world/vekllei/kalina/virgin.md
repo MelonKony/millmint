@@ -3,19 +3,16 @@ title: Virgin
 fulltitle: Virgin Republic
 icon: 🛢️
 logo: /svg/flags/4x3/vg.svg
-series: republic
+series: kalina
 
 rgb: 241, 112, 30
+description: Virgin (<i>Virgin Islands</i>) is a constituent republic of Vekllei located in the Lesser Antilles of the Caribbean Sea.
 
 fi: fi fi-vg
 
 aliases:
 - /virgin/
 ---
-{{<note series>}}
- Virgin is part of [[kalina|Commonwealth Kalina]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Virgin Republic"
 	 RealName="Archipelago of the British, Spanish and U.S. Virgin Islands"

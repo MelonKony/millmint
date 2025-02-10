@@ -6,21 +6,10 @@ emoji: Φ
 color: pink
 image:
 
-tags:
-  - documents
-categories:
-  - society
-
-draft: false
-
-type: blank
-
-comments: false
+description: The Vekllei Document System is an internal circular provided by the Government of Vekllei to direct policy.
 
 aliases:
 - /documents/
-
-toc: false
 ---
 {{<note>}}
 <span class="smallicon" style="font-size: 14px;">⚠️</span> This list is evolving, and will be expanded in future.

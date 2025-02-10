@@ -6,13 +6,12 @@ rgb: 233, 16, 69
 
 draft: false
 
+description: Vekllei has the largest exclusive economic zone of any country in the world, and across its diverse islands and waters a wealth of natural resources can be found.
+
 aliases:
 - /resources/
+series: state
 ---
-{{<note series>}}
- Part of the *[state](/state/)* series of articles
-{{</note>}}
-
 {{<note>}}
 This article for now is a reference that assists the development of this site. It remains an inventory of resources until further development.
 {{</note>}}

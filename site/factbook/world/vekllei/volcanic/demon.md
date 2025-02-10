@@ -3,19 +3,16 @@ title: Demon
 fulltitle: Republic of Demon
 icon: ⛪️
 logo: /svg/flags/4x3/demon.svg
-series: republic
+series: volcanic
 
 rgb: 229, 156, 54
+description: Demon (<i>Jan Mayen</i>) is a constituent republic of Vekllei located in the North Atlantic Ocean.
 
 fi: fi fi-demon
 
 aliases:
 - /demon/
 ---
-{{<note series>}}
- Demon is part of the [[volcanic|Commonwealth Volcanic]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Demon Republic"
 	 RealName="Island of Jan Mayen"

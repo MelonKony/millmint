@@ -2,23 +2,18 @@
 title: Accounted Revenue
 fulltitle: Calculating Revenue Without Money
 icon: 💸
+series: bulletin
 
 rgb: 170, 143, 31
 
 draft: false
 toc: false
 
-series: bulletin
-categories:
-- bulletin
+description: Vekllei businesses do not use money in their domestic economies, but they still calculate revenues and expenditure. This practice is known as accounted revenue.
 
 aliases:
 - /bulletin/accounted-revenue
 ---
-{{<note series>}}
- Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

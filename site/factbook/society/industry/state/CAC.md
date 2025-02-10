@@ -9,14 +9,12 @@ series: goc
 fi: fi fi-min-cac fis
 
 logocredit: Ikko Tanaka, 1988, for the Asahi Kaiyo company.
+description: Commonwealth Aircraft is a government-owned corporation that manufacturers military aircraft.
 
 aliases:
 - /CAC/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
-
 {{<infobox/company
 	 Name="Commonwealth Aircraft"
 	 Logo="/svg/logos/cac.svg"

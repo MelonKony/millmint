@@ -3,19 +3,16 @@ title: Hetland
 fulltitle: Hetland
 icon: 🛖
 logo: /svg/flags/4x3/hetland.svg
-series: republic
+series: volcanic
 
 rgb: 249, 150, 51
+description: Hetland (<i>Shetland Islands</i>) is a constituent republic of Vekllei located in the North Atlantic Ocean.
 
 fi: fi fi-hetland
 
 aliases:
 - /hetland/
 ---
-{{<note series>}}
- Hetland is part of the [[volcanic|Commonwealth Volcanic]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Hetland Republic"
 	 RealName="Archipelago of the Shetland Islands"

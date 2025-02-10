@@ -7,14 +7,11 @@ logo: /svg/crests/ministry-of-the-commonwealth.svg
 series: bureau
 
 fi: fi fi-min-commonwealth fis
+description: The Bureau of Accreditation oversees qualifications and standards for the Ministry of the Commonwealth.
 
 aliases:
 - /bureau-of-accreditation/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of the Commonwealth]]
-{{</note>}}
-
 The *Accreditation Directorate* (also *Qualifications Vekllei* or VAD) is a transnational auditor of industrial, commercial and academic qualifications in Vekllei. VAD also develops technical and procedural standards for its responsible commercial and industrial partners. VAD also interfaces directly with international standards organisations on behalf of its subordinate auditors.
 
 Standards in education for teachers and staff are generally developed and audited by the [Commonwealth Education Secretariat](/factbook/society/government/#commonwealth-education-secretariat).

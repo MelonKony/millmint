@@ -1,24 +1,16 @@
 ---
-title: Religion
-fulltitle: Religion in Vekllei
+title: Religion in Oslola
+fulltitle: Religion in Oslola
 icon: 💀
 emoji: d
 color: red
 
-tags:
-  - culture
-categories:
-  - society
-
 image: /images/death.jpg
 
+description: The historic religion in Oslola is Upen, an animistic, syncretic and ancient system of belief closely tied to the land.
 
 aliases:
 - /religion/
-
-description: Upen is an indigenous religion of Vekllei, a utopia created by Hobart Phillips.
-
-
 ---
 {{<note series>}}
  This article is about [Vekllei](/vekllei)

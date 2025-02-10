@@ -4,7 +4,9 @@ fulltitle: Apollo-type Nuclear Thermal Rockets
 icon: ⚛️
 emoji: a
 color: purple
-image:
+series: technology
+
+description: The Apollo-type Nuclear Thermal Rocket is a propulsion system developed for use in space transports in Vekllei.
 
 aliases:
 - /apollo-reactor/

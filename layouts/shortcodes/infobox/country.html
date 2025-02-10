@@ -113,6 +113,13 @@
 	</tr>
 	{{ end }}
 
+	{{ if (.Get "Constituents") }}
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Constituent Republics</th>
+		<td>{{.Get "Constituents"}}</td>
+	</tr>
+	{{ end }}
+
 	{{ if (.Get "Capital") }}
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Capital</th>

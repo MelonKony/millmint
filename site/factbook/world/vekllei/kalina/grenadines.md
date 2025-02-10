@@ -3,19 +3,16 @@ title: Grenadines
 fulltitle: Grenadines Republic
 icon: 🏝️
 logo: /svg/flags/4x3/grenadines.svg
-series: republic
+series: kalina
 
 rgb: 0, 152, 96
+description: The Grenadines is a constituent republic of Vekllei located in the Lesser Antilles of the Caribbean Sea.
 
 fi: fi fi-grenadines
 
 aliases:
 - /grenadines/
 ---
-{{<note series>}}
- Grenadines is part of [[Vekllei]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Grenadines Republic"
 	 RealName="Archipelago of the Grenadines"

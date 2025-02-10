@@ -4,16 +4,14 @@ fulltitle: Fortress Orient
 icon: ⚔️
 color: land
 logo: /svg/crests/territorial.svg
+series: location
 
 fi: fi fi-min-land fis
+description: Fortress Orient is a fortress of the Vekllei Armed Forces, located in the republic of Caicos.
 
 aliases:
 - /fortress-orient/
 ---
-{{<note series>}}
- This article is about a [location](/factbook/landscape/places) in [[Vekllei]]
-{{</note>}}
-
 **Fortress Orient** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Caicos]].
 
 {{<note table>}}

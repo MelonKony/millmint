@@ -6,14 +6,14 @@ logo: /svg/logos/ratings.svg
 rgb: 32, 97, 241
 series: goc
 
+description: The Commonwealth Ratings Corporation is a government-owned independent ratings agency in Vekllei.
+
 fi: fi fi-min-ratings fis
 
 aliases:
 - /ratings/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 {{<infobox/company
 	 Name="Commonwealth Ratings Corporation"

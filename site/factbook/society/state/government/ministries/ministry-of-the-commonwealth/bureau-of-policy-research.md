@@ -8,14 +8,12 @@ autonumbering: false
 series: bureau
 
 fi: fi fi-min-commonwealth fis
+description: The Bureau of Policy Research is an independent public policy organisation for the Ministry of the Commonwealth.
+
 
 aliases:
 - /bureau-of-policy-research/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of the Commonwealth]]
-{{</note>}}
-
 The *Bureau of Policy Research* conducts research and prepares policy objectives for use in Commonwealth governance, and determines the curriculum of the [[Civil Service Academy]] and other civil service training organisations.
 
 {{<note panel>}}

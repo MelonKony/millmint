@@ -7,16 +7,13 @@ logo: /svg/crests/ministry-of-commerce.svg
 series: bureau
 
 fi: fi fi-min-commerce fis
+description: The Commonwealth Mint is the sole manufacturer of physical currency in Vekllei, as well as gold bullion and security documents.
 
 aliases:
 - /mint/
 ---
-{{<note series>}}
- The Mint is part of the [[Ministry of Commerce]]
-{{</note>}}
-
-{{<note link>}}
-✿ Read more: *[The Vekllei Crown](/stories/currency/)*
+{{<note advice>}}
+Read more: *[The Vekllei Crown](/stories/currency/)*
 {{</note>}}
 
 The <span class="fi fi-min-commerce fis"></span> **Commonwealth Mint** (also the *Mint*) is the sole manufacturer of physical currency in Vekllei, tasked with minting and melting the Vekllei Crown. It also regulates gold bullion in the country, and produces bullion for use in the International Market. It is headquartered in [[Summers]], in the western North Atlantic. The Mint also produces paper government certificates and security documents.

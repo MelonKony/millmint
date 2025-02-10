@@ -5,7 +5,9 @@ icon: 📚
 logo: /svg/logos/schools.svg
 
 logocredit: Burton Kramer, 1981, for the Oak Sales Corporation.
-series: factsheet
+series: society
+
+description: Education in Vekllei is life-long, diverse, and well-resourced by the government. It is also innovative and unique in its methods.
 
 rgb: 147, 71, 208
 
@@ -14,11 +16,6 @@ fi: fi fi-min-schools fis
 aliases:
 - /education/
 ---
-
-{{<note series>}}
- This article is about [Vekllei](/vekllei/) society.
-{{</note>}}
-
 ## Overview
 
 Education in [[Vekllei]] is life-long, diverse, compulsory in childhood and free. Although there are many types of schooling across the country, compulsory education is characterised by a hybrid system provided in a national curriculum by the [[Education Parliament]].

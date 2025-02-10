@@ -8,14 +8,11 @@ autonumbering: false
 series: bureau
 
 fi: fi fi-min-commerce fis
+description: The Bureau of Trade regulates consumer protections and antitrust law for the Ministry of Commerce, and conducts domestic and international market analysis.
 
 aliases:
 - /bureau-of-trade/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of Commerce]]
-{{</note>}}
-
 The <span class="fi fi-min-commerce fis"></span> **Bureau of Trade** regulates consumer protections and antitrust law in [[Vekllei]], and organises trade information from other ministries and supervisory bureaus into policy recommendations and legislation. The Trade Commission also monitors and reports the health of foreign markets, and conducts research into broader geopolitical financial interests, particularly as they compete with domestic interests. It is part of the [[Ministry of Commerce]], and reports primarily to the [[Treasury]].
 
 {{<note panel>}}

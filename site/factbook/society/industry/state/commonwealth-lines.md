@@ -7,15 +7,14 @@ rgb: 232, 163, 12
 series: goc
 
 logocredit:  Al Navarre & Terry Lesniewicz, 1978, for Solar Trucking Incorporated.
+description: Commonwealth Lines is a government-owned shipping and logistics corporation in Vekllei.
 
 fi: fi fi-min-CL fis
 
 aliases:
 - /commonwealth-lines/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 {{<infobox/company
 	 Name="Commonwealth Lines"

@@ -2,20 +2,15 @@
 title: Technology
 fulltitle: High and Low Technology in Vekllei
 icon: 🧪
+series: bulletin
 
 rgb: 86, 174, 200
 
-series: bulletin
-categories:
-- bulletin
+description: Life in Vekllei depends heavily on technology, but the country is not especially technocratic. This results in odd combinations of high and low technology.
 
 aliases:
 - /bulletin/technology
 ---
-{{<note series>}}
- Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

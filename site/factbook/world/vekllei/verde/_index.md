@@ -9,20 +9,19 @@ series: commonwealth
 type: blank
 
 fi: fi fi-verde
+description: Commonwealth Verde is a constituent region of Vekllei, comprising 11 island republics in the Cabo Verde archipelago and the Gulf of Guinea.
+
 
 aliases:
 - /verde/
 - /verde-commonwealth/
 ---
-{{<note series>}}
- The Volcanic Commonwealth is a [constituent](/constituents/) of [[Vekllei]]
-{{</note>}}
-
 {{<infobox/country
    Name="Verde Commonwealth"
    Type="Commonwealth"
    Flag="/svg/flags/verde.svg"
    SmallFlag="/svg/flags/4x3/verde.svg"
+   Constituents="11"
    Population="1,745,103"
    Capital=""
    Area="5,005 km²"
@@ -35,16 +34,17 @@ Life in the Verde Commonwealth is mostly municipal, characterised by communal la
 {{<note panel>}}
 **Republics of the Verde Commonwealth**
 
-* [[Annobon]]
-* Boa Vista Republic
-* [[Brava]]
-* [[Cavoada]]
-* Fogo Republic
-* [[Java]]
-* Maio Republic
-* Moroços Republic
-* Praia Republic
-* [[Principe]]
-* [[Sal]]
-* [[Viana]]
+* [[Annobon]] (*Annobon*)
+* Boa Vista Republic (*Boa Vista*)
+* [[Brava]] (*Brava*)
+* [[Cavoada]] (*Sao Nicolau*)
+* Fogo Republic (*Fogo*)
+* [[Java]] (*Sao Tome*)
+* Maio Republic (*Maio*)
+* Moroços Republic (*Santo Antao*)
+* Praia Republic (*Santiago*)
+* [[Principe]] (*Sao Tome & Principe*)
+* [[Sal]] (*Sal*)
+* [[Viana]] (*Sao Vicente*)
+
 {{</note>}}

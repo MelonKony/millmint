@@ -8,6 +8,8 @@ logocredit: Keith Murgatroyd, 1977, for West Midlands Arts
 
 fi: fi fi-min-design-atlas fis
 
+description: The National Design Atlas is a compendium of design published annually by the government and distributed to all Vekllei people.
+
 aliases:
 - /design-atlas/
 ---

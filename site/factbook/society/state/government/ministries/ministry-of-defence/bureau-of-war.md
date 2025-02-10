@@ -7,14 +7,11 @@ logo: /svg/crests/ministry-of-defence.svg
 series: bureau
 
 fi: fi fi-min-defence fis
+description: The Bureau of War conducts preparations for conflict and defence planning for the Ministry of Defence.
 
 aliases:
 - /bureau-of-war/
 ---
-{{<note series>}}
- This bureau is part of the [[Ministry of Defence]]
-{{</note>}}
-
 The *Armed Forces of Vekllei*, arranged under the COSMOKOS ministry, are unusual in that they do not have control directly over troops or equipment. The actual armed forces of Vekllei, known as the [Crown Armed Forces](/factbook/society/state/palace/military/), are a sovereign feature of the country and as such are placed under direct supervision of the [Palace of Vekllei](/factbook/society/state/palace/) -- seperate from the Vekllei and Commonwealth governments.
 
 The purpose of the Armed Forces of Vekllei, an agency-level body under control of COSMOKOS, is to integrate the Crown Armed Forces with the interior government, and facilitate the employ of Vekllei people in the Armed Forces.

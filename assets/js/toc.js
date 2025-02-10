@@ -1,51 +1,35 @@
-/* TOC.JS // @author: Jip Frijlink // Table of contents for millmint.net */
-
 function updateActiveToc() {
 	const titles = [...document.querySelectorAll('article h2, article h3')];
-
 	const minDistanceFromTop = 150;
 
-	// Get all titles with their offset, then remove ones that are too far down
-	const visibleTitles = titles.map(titleEl => {
-		return {
-			el: titleEl,
-			top: titleEl.getBoundingClientRect().top
+	// Get all titles with their position relative to the top of the viewport
+	const visibleTitles = titles.filter(titleEl => {
+		const rect = titleEl.getBoundingClientRect();
+		return rect.top >= 0 && rect.top <= window.innerHeight - minDistanceFromTop; // Titles in view
+	});
+
+	const currentTitle = visibleTitles[visibleTitles.length - 1]; // Last visible title
+
+	// Remove all active classes
+	document.querySelectorAll('.toc-active').forEach(a => a.classList.remove('toc-active'));
+
+	// Add active class to corresponding TOC link
+	if (currentTitle) {
+		const anchor = document.querySelector(`#TOC a[href="#${currentTitle.id}"]`);
+		if (anchor) {
+			anchor.classList.add('toc-active');
 		}
-	}).filter(t => t.top < minDistanceFromTop).map(t => t.el)
-	const currentTitle = visibleTitles[visibleTitles.length - 1];
-
-	// Remove all other active classes
-	document.querySelectorAll('.toc-active').forEach(a => a.classList.remove('toc-active'))
-
-	// Add active class to anchor
-	let anchors = document.querySelectorAll(`#TOC a[href="#${currentTitle?.id}"]`)
-
-	if(anchors.length === 0) {
-		anchors = document.querySelectorAll('.toc-title')
-	}
-
-	for(const a of anchors) {
-		a.classList.add('toc-active')
 	}
 }
 
-updateActiveToc()
-window.addEventListener('scroll', updateActiveToc);
-
-/* TOC button */
-
+// Ensure TOC is visible on button click
 var button = document.getElementById('toc-button');
+if (button) {
+	button.onclick = function() {
+		var div = document.getElementById('desktop-toc');
+		div.style.display = (div.style.display === 'none' || div.style.display === '') ? 'block' : 'none';
+	};
+}
 
-$(document).ready(function(){
-	if(document.getElementById('toc-button')){
-		button.onclick = function() {
-			var div = document.getElementById('desktop-toc');
-			if (div.style.display !== 'block') {
-				div.style.display = 'block';
-			}
-			else {
-				div.style.display = 'none';
-			}
-		};
-	}
-});
+updateActiveToc();
+window.addEventListener('scroll', updateActiveToc);

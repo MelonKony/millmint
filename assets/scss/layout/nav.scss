@@ -4,10 +4,7 @@
 nav {
   display: flex;
   flex-wrap: wrap;
-
-  @media screen and (max-width: $md_min_width) {
-    @include my-0;
-  }
+  margin-bottom: 2rem;
 
   .active {
     @include highlight-background;

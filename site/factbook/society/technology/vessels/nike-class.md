@@ -1,12 +1,12 @@
 ---
-title: Nike-class Missile Cruiser
+title: Nike-class
 fulltitle: Nike-class Missile Cruiser
 icon: ⚓️
 color: marine
 logo: /svg/crests/marine.svg
 
 series: vessel
-draft: false
+description: The Nike-Class is a class of cruiser in service with the Vekllei Armed Forces.
 
 aliases:
 - /nike-class/

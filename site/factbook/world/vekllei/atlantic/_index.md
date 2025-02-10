@@ -8,20 +8,18 @@ fi: fi fi-atlantic
 series: commonwealth
 
 type: blank
+description: Commonwealth Atlantic is a constituent region of Vekllei, comprising 16 island republics in the central and eastern Atlantic Ocean.
 
 aliases:
 - /atlantic/
 - /atlantic-commonwealth/
 ---
-{{<note series>}}
- Commonwealth Antarctica is a [constituent](/constituents/) of [[Vekllei]]
-{{</note>}}
-
 {{<infobox/country
    Name="Atlantic Commonwealth"
    Type="Commonwealth"
    Flag="/svg/flags/atlantic.svg"
    SmallFlag="/svg/flags/4x3/atlantic.svg"
+   Constituents="16"
    Population="3,901,885"
    Capital=""
    Area="3,088 km²"
@@ -34,14 +32,22 @@ The majority of the Commonwealth's republics are clustered in the Azores archipe
 {{<note panel>}}
 **Republics of the Atlantic Commonwealth**
 
-* Fayal Republic
-* Flores Republic
-* Graciosa Republic
-* Maria Republic
-* [[Mira]]
-* Pico Republic
-* Porto Santo Republic
-* Terceira Republic
-* Velas Republic
-* [[Costa Verde]]
+* Berbera (*La Gomera*)
+* Canary (*Gran Canaria Island*)
+* [[Costa Verde]] (*Sao Miguel Island*)
+* Fayal (*Faial Island*)
+* Flores (*Flores Island*)
+* [[Graciosa]] (*Graciosa Island*)
+* La Palma (*La Palma Island*)
+* Lanzarote (*Lanzarote Island*)
+* Maria (*Santa Maria Island*)
+* Meridia (*El Hierro Island*)
+* [[Mira]] (*Madeira*)
+* Pico (*Pico Island*)
+* Porto Santo (*Porto Santo*)
+* Tenerife (*Tenerife Island*)
+* Terceira (*Terceira Island*)
+* [[Velas]] (*Sao Jorge Island*)
+* Ventura (*Fuerteventura Island*)
+
 {{</note>}}

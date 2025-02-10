@@ -2,22 +2,15 @@
 title: Government Ownership
 fulltitle: Government Ownership in Vekllei
 icon: 🌺
-logo:
-image:
+series: bulletin
 
 rgb: 238, 72, 155
 
-series: bulletin
-categories:
-- bulletin
+description: In the complex federal system in Vekllei, government-owned corporations have to share ownership among many government bodies.
 
 aliases:
 - /bulletin/government-ownership
 ---
-{{<note series>}}
- Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

@@ -5,16 +5,14 @@ icon: ⚖️
 color: defence
 logo: /svg/crests/parliament-police.svg
 autonumbering: false
+series: organisation
 
 fi: fi fi-min-defence fis
+description: The Police of the Parliament are the federal police service of Vekllei.
 
 aliases:
 - /police-of-the-parliament/
 ---
-{{<note series>}}
- The Police of the Parliament are part of the [[Ministry of Defence]]
-{{</note>}}
-
 {{<note advice>}}
 Read more: *[The Police of the Parliament](/stories/police/)*
 {{</note>}}

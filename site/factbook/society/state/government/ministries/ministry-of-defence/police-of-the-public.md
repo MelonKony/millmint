@@ -4,16 +4,14 @@ fulltitle: Police of the Public
 icon: ⚖️
 color: defence
 logo: /svg/crests/parliament-police.svg
+series: organisation
 
 fi: fi fi-min-defence fis
+description: The Police of the Parliament are the municipal police service of Vekllei.
 
 aliases:
 - /police-of-the-public/
 ---
-{{<note series>}}
- The Police of the Public are part of the [[Ministry of Defence]]
-{{</note>}}
-
 {{<note link>}}
 ✿ Read more: *[The Police of the Public](/stories/police/)*
 {{</note>}}

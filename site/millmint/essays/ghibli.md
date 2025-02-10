@@ -1,25 +1,16 @@
 ---
 title: Ghibli
-
 fulltitle: A Universal Nostalgia
 icon: 🫧
 emoji: V
 color: blue
-
-tags:
-  - essay
-categories:
-  - news
-
 weight: 1
 
 
 aliases:
 - /ghibli/
 
-description: An essay on spatiality in the films of Studio Ghibli by Hobart Phillips, a utopian illustrator and storyteller.
-
-
+description: An essay on spatiality in the films of Studio Ghibli.
 ---
 
 {{<note>}}

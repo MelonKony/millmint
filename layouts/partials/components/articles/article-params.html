@@ -1,5 +1,147 @@
-{{ if .Params.draft }}
-  <blockquote class="note">
-    ✿ This article is a draft.
+{{ if in .Params.series "bulletin" }}
+  <blockquote class="note series">
+    <p>Part of the <i><a href="/bulletin/">bulletin</a></i> series of articles.</p>
   </blockquote>
+{{ end }}
+
+{{ if in .Params.series "commonwealth" }}
+<blockquote class="note series">
+  <p>The <a href="/{{ .Title | urlize }}">{{ .Title }}</a> is a <i><a href="/constituents/">constituent commonwealth</a></i> of <i><a href="/antarctic/">Vekllei</a></i>.</p>
+</blockquote>
+{{ end }}
+
+{{ if in .Params.series "antarctic" }}
+<blockquote class="note series">
+  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is part of the <i><a href="/antarctic/">Commonwealth Antarctic</a></i>.</p>
+</blockquote>
+{{ end }}
+{{ if in .Params.series "antilles" }}
+<blockquote class="note series">
+  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is part of the <i><a href="/antilles/">Commonwealth Antilles</a></i>.</p>
+</blockquote>
+{{ end }}
+{{ if in .Params.series "north-arctic" }}
+<blockquote class="note series">
+  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is part of the <i><a href="/arctic/">Commonwealth Arctic</a></i>.</p>
+</blockquote>
+{{ end }}
+{{ if in .Params.series "atlantic" }}
+<blockquote class="note series">
+  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is part of the <i><a href="/atlantic/">Commonwealth Atlantic</a></i>.</p>
+</blockquote>
+{{ end }}
+{{ if in .Params.series "kalina" }}
+<blockquote class="note series">
+  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is part of the <i><a href="/kalina/">Commonwealth Kalina</a></i>.</p>
+</blockquote>
+{{ end }}
+{{ if in .Params.series "lucaya" }}
+<blockquote class="note series">
+  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is part of the <i><a href="/lucaya/">Commonwealth Lucaya</a></i>.</p>
+</blockquote>
+{{ end }}
+{{ if in .Params.series "verde" }}
+<blockquote class="note series">
+  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is part of the <i><a href="/verde/">Commonwealth Verde</a></i>.</p>
+</blockquote>
+{{ end }}
+{{ if in .Params.series "volcanic" }}
+<blockquote class="note series">
+  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is part of the <i><a href="/volcanic/">Commonwealth Volcanic</a></i>.</p>
+</blockquote>
+{{ end }}
+
+{{ if in .Params.series "location" }}
+<blockquote class="note series">
+  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is <i><a href="/places">location</a></i> in <i><a href="/vekllei/">Vekllei</a></i>.</p>
+</blockquote>
+{{ end }}
+
+{{ if in .Params.series "country" }}
+<blockquote class="note series">
+  <p>Part of the <i><a href="/countries">country</a></i> series of articles.
+</blockquote>
+{{ end }}
+
+{{ if in .Params.series "industry" }}
+<blockquote class="note series">
+  <p>Part of the <i><a href="/industry">industry</a></i> series of articles.
+</blockquote>
+{{ end }}
+
+{{ if in .Params.series "state" }}
+<blockquote class="note series">
+  <p>Part of the <i><a href="/state">state</a></i> series of articles.
+</blockquote>
+{{ end }}
+
+{{ if in .Params.series "vessel" }}
+<blockquote class="note series">
+  <p>The <a href="/{{ .Title | urlize }}">{{ .Title }}</a> is a <i><a href="/vessels">vessel</a></i> in <i><a href="/vekllei">Vekllei</a></i>.</p>
+</blockquote>
+{{ end }}
+{{ if in .Params.series "aircraft" }}
+<blockquote class="note series">
+  <p>The <a href="/{{ .Title | urlize }}">{{ .Title }}</a> is an <i><a href="/aircraft">aircraft</a></i> in <i><a href="/vekllei">Vekllei</a></i>.</p>
+</blockquote>
+{{ end }}
+
+{{ if in .Params.series "technology" }}
+<blockquote class="note series">
+  <p>Part of the <i><a href="/technology">technology</a></i> series of articles.</p>
+</blockquote>
+{{ end }}
+
+{{ if in .Params.series "society" }}
+<blockquote class="note series">
+  <p>Part of the <i><a href="/society">society</a></i> series of articles.
+</blockquote>
+{{ end }}
+
+{{ if in .Params.series "culture" }}
+<blockquote class="note series">
+  <p>Part of the <i><a href="/culture">culture</a></i> series of articles.
+</blockquote>
+{{ end }}
+
+{{ if in .Params.series "law" }}
+<blockquote class="note series">
+  <p>Part of the <i><a href="/law">law</a></i> series of articles.
+</blockquote>
+{{ end }}
+
+{{ if in .Params.series "government" }}
+<blockquote class="note series">
+  <p>Part of the <i><a href="/government">government</a></i> series of articles.
+</blockquote>
+{{ end }}
+
+{{ if in .Params.series "bureau" }}
+<blockquote class="note series">
+  <p>The <a href="/{{ .Title | urlize }}">{{ .Title }}</a> is part of the <i><a href="/{{ .Parent.Title | urlize }}">{{ .Parent.Title }}</a></i>.</p>
+</blockquote>
+{{ end }}
+
+{{ if in .Params.series "organisation" }}
+<blockquote class="note series">
+  <p>The <a href="/{{ .Title | urlize }}">{{ .Title }}</a> is a constituent organisation of the <i><a href="/{{ .Parent.Title | urlize }}">{{ .Parent.Title }}</a></i>.</p>
+</blockquote>
+{{ end }}
+
+{{ if in .Params.series "SIRO" }}
+<blockquote class="note series">
+  <p>The <a href="/{{ .Title | urlize }}">{{ .Title }}</a> is constituent research organisation of the <i><a href="/{{ .Parent.Title | urlize }}"> {{ .Parent.Title }}</a></i> and <i><a href="/SIRO">SIRO</a></i>.</p>
+</blockquote>
+{{ end }}
+
+{{ if in .Params.series "ministry" }}
+<blockquote class="note series">
+  <p>The <a href="/{{ .Title | urlize }}">{{ .Title }}</a> is a <i><a href="/ministries">ministry</a></i> of the <i><a href="/government">Vekllei Government</a></i>.</p>
+</blockquote>
+{{ end }}
+
+{{ if in .Params.series "parliament" }}
+<blockquote class="note series">
+  <p>The <a href="/{{ .Title | urlize }}">{{ .Title }}</a> is a <i><a href="/parliaments">superior ministry</a></i> of the <i><a href="/government">Vekllei Government</a></i>.</p>
+</blockquote>
 {{ end }}

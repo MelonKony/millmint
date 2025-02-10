@@ -7,6 +7,7 @@ logo: /svg/crests/ministry-of-commerce.svg
 series: ministry
 
 fi: fi fi-min-commerce fis
+description: The Ministry of Commerce conducts government spending and facilitates trade in the country.
 
 aliases:
 - /ministry-of-commerce/

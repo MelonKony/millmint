@@ -8,19 +8,17 @@ fi: fi fi-arctic
 series: commonwealth
 
 type: blank
+description: Commonwealth Arctic is a constituent region of Vekllei, comprising 2 republics in the Arctic Ocean.
 
 aliases:
 - /arctic/
 ---
-{{<note series>}}
- The Arctic Commonwealth is a [constituent](/constituents/) of [[Vekllei]]
-{{</note>}}
-
 {{<infobox/country
    Name="Arctic Commonwealth"
    Type="Commonwealth"
    Flag="/svg/flags/arctic.svg"
    SmallFlag="/svg/flags/4x3/arctic.svg"
+   Constituents="2"
    Population="514,848"
    Capital="Canec"
    Area="2,228,131 km²"
@@ -37,6 +35,7 @@ The Commonwealth has economic zones that border Canada, Scandinavia and the Sovi
 {{<note panel>}}
 **Republics of the Commonwealth Antarctica**
 
-* [[Helvasia]]
-* [[Kala]]
+* [[Helvasia]] (*Svalbard*)
+* [[Kala]] (*Greenland*)
+
 {{</note>}}

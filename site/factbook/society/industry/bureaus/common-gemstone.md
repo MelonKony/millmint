@@ -7,15 +7,14 @@ rgb: 243, 3, 89
 series: ib
 
 logocredit: Felix Beltran, 1973, for Decoración del INIT
+description: Common Gemstone is a synthetic precious stones manufacturer in Vekllei. It is a bureau corporation made up of many constituent companies.
 
 fi: fi fi-min-gemstone fis
 
 aliases:
 - /common-gemstone/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 {{<infobox/company
 	  Name="Common Gemstone"

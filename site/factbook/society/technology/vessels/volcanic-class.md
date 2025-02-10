@@ -1,12 +1,12 @@
 ---
-title: Volcanic-class Fleet Carrier
+title: Volcanic-class
 fulltitle: Volcanic-class Fleet Carrier
 icon: ⚓️
 color: marine
 logo: /svg/crests/marine.svg
 
 series: vessel
-draft: false
+description: The Volcanic-Class is a class of aircraft carrier in service with the Vekllei Armed Forces.
 
 aliases:
 - /volcanic-class/

@@ -5,13 +5,12 @@ icon: 🏛️
 emoji: ←
 color: millmint
 
+description: Civil service is a common profession in Vekllei, and their roles and structure are standardised across all levels of government in the country.
+
 aliases:
 - /civil-servants/
+series: government
 ---
-{{<note series>}}
- Part of the *[state](/state/)* series of articles
-{{</note>}}
-
 Vekllei has a large [government](/government/) that is responsible for broad aspects of life and living in [[Vekllei]]. Members of government that are elected are known as *public servants*. Members of government administration, ministries, bureaus and departments that are employed are known as *civil servants*.
 
 {{<note>}}

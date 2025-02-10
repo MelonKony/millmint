@@ -7,15 +7,14 @@ image: /images/orange.jpg
 series: goc
 
 rgb: 255, 86, 79
+description: Commonwealth Rail is a government-owned railway company in Vekllei, and maintains one of the largest and most comprehensive rail networks in the world.
 
 fi: fi fi-min-rail fis
 
 aliases:
 - /rail/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 {{<infobox/company
    Name="Commonwealth Rail"
@@ -204,10 +203,9 @@ Vekllei's stations are well-regarded for the beauty and decoration overseas. As 
 VNR services are mostly unticketed, and as a Vekllei industry, are free to ride.
 
 ### Staff
-![smallimg](/images/images/vnr.jpg)
 
-{{<note link>}}
-✿ Read more: *[The People of Vekllei National Rail](/posts/2021-04-25-rail/)*
+{{<note advice>}}
+Read more: *[The People of Vekllei National Rail](/posts/2021-04-25-rail/)*
 {{</note>}}
 
 VNR employs 65,240 people, which include roles ranging from locomotive engineers and platform staff to editors of rail enthusiast periodicals. It is also one of the largest employers of 12-16 year olds in the country, via its Station Apprentice programme, unique among organisations of its size.

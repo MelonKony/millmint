@@ -7,19 +7,17 @@ color: vekllei
 series: commonwealth
 
 fi: fi fi-lucaya
+description: Commonwealth Lucaya is a constituent region of Vekllei, comprising 14 island republics in the Lesser Antilles on the periphery of the northern Caribbean Sea as part of the Lucayan archipelago.
 
 aliases:
 - /lucaya/
 ---
-{{<note series>}}
- The Bahamas is a [constituent commonwealth](/constituents/) of the [[Vekllei]]
-{{</note>}}
-
 {{<infobox/country
    Name="Lucayan Commonwealth"
    Type="Commonwealth"
    Flag="/svg/flags/lucaya.svg"
    SmallFlag="/svg/flags/4x3/lucaya.svg"
+   Constituents="14"
    Population="1,345,567"
    Capital="Providence"
    Area="14,977 km²"
@@ -32,18 +30,20 @@ aliases:
 {{<note panel>}}
  **Republics of the Lucayan Commonwealth**
 
- * Caicos Republic
- * Cigateo Republic
- * Curateo Republic
- * Grand Bahama Republic
- * Guanima Republic
- * [[Habacoa]]
- * Inagua Republic
- * Lucayoneque Republic
- * Mayaguana Republic
- * Providence Republic
- * [[Rum]]
- * [[Summers]]
- * Yabaque Republic
- * Yuma Republic
+ * [[Bahama]] (*Grand Bahama*)
+ * [[Caicos]] (*Turks & Caicos*)
+ * Cigateo Republic (*Eleuthera*)
+ * [[Conch]] (*Key West*)
+ * [[Curateo]] (*Great Exuma*)
+ * Guanima Republic (*Cat Island*)
+ * [[Habacoa]] (*Andros Islands*)
+ * Inagua Republic (*Great Inagua*)
+ * Lucayoneque Republic (*Abaco Islands*)
+ * Mayaguana Republic (*Mayaguana*)
+ * Providence Republic (*New Providence*)
+ * [[Rum]] (*San Salvador & Rum Cay*)
+ * [[Summers]] (*Bermuda*)
+ * Yabaque Republic (*Acklins*)
+ * Yuma Republic (*Long Island*)
+
  {{</note>}}

@@ -2,20 +2,16 @@
 title: Productivity
 fulltitle: Economic Productivity in Vekllei
 icon: 📊
+series: bulletin
 
 rgb: 184, 105, 17
 
-series: bulletin
-categories:
-- bulletin
+toc: false
+description: Despite a workforce organised along abstract, social lines rather than economic ones, Commonwealth industry maintains high productivity.
 
 aliases:
 - /bulletin/productivity
 ---
-{{<note series>}}
- Part of the *[bulletin](/bulletin/)* series of articles
-{{</note>}}
-
 {{<note panel>}}
 **Summary**
 

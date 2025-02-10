@@ -1,21 +1,19 @@
   ---
-title: Civil Defence
+title: Civil Defence Service
 fulltitle: Civil Defence Service
 icon: ▲
 rgb: 0, 85, 233
 logo: /svg/logos/civil-defence.svg
+series: organisation
 
 fi: fi fi-min-cd fis
+description: The Civil Defence Service is an emergency, disaster prevention and rescue service in Vekllei.
 
 autonumbering: false
 
 aliases:
 - /marine/
 ---
-{{<note series>}}
- Part of the *[state](/state/)* series of articles
-{{</note>}}
-
 The <span class="fi fi-min-cd fis"></span> **Civil Defence Service** (often just *Civil Defence*) is a constituent service of the [[Ministry of Defence]] that provides emergency management, disaster response and civil defence programmes in [[Vekllei]]. It is a heavily decentralised, volunteer organisation in the participatory tradition of its emergency services. Some of its functions, especially in cases of firefighting or disaster response, may have compulsory reservist programmes in some municipalities. In general, some degree of membership is common among Vekllei people who aren't already committed to civic programmes or the military.
 
 The Civil Defence Service is headquartered in [Comet](/comet/), the Vekllei capital, and has three general mandates established by the government:

@@ -6,16 +6,14 @@ color: aero
 logo: /svg/crests/aero.svg
 
 fi: fi fi-min-aero fis
+description: The Aero Services comprise 4 specialised services in the Vekllei Armed Forces.
 
 autonumbering: false
 
 aliases:
 - /aero/
+series: state
 ---
-{{<note series>}}
- Part of the *[state](/state/)* series of articles
-{{</note>}}
-
 The <span class="fi fi-min-aero fis"></span> **Aero Services** comprise a number of military services that are part of the [[armed-forces|Armed Forces]] of [[Vekllei]]. They broadly consist of the aeronautical and astronautical military capabilities of the country, and include air supremacy, interception and defence elements, as well as services to supply and equip them. They also consist of the missile and air detection elements of the armed forces.
 
 ## Air Service

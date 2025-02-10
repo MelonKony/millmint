@@ -6,16 +6,14 @@ logo: /svg/crests/vekllei.svg
 color: millmint
 
 fi: fi fi-min-vekllei fis
+description: Sorda is an indigenous political feature of Vekllei federalism, and describes a combined office of one man and one woman.
 
 aliases:
 - /sorda/
+series: government
 ---
-{{<note series>}}
- Part of the *[state](/state/)* series of articles
-{{</note>}}
-
-{{<note link>}}
-✿ Read more: *[The Prime Minister(s) of Vekllei](/stories/ministers/)*
+{{<note advice>}}
+Read more: *[The Prime Minister(s) of Vekllei](/stories/ministers/)*
 {{</note>}}
 
 **Sorda** (lit. *Union*) is the Vekllei name for the combined office of two Prime Ministers.

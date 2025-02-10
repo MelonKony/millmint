@@ -3,19 +3,16 @@ title: Aismious
 fulltitle: Aismious
 icon: 🐏
 logo: /svg/flags/4x3/fo.svg
-series: republic
+series: volcanic
 
 rgb: 67, 101, 187
+description: Aismious (<i>Faroe Islands</i>) is a constituent republic of Vekllei located in the North Atlantic Ocean.
 
 fi: fi fi-fo
 
 aliases:
 - /aismious/
 ---
-{{<note series>}}
- Aismious is part of the [[volcanic|Commonwealth Volcanic]]
-{{</note>}}
-
 {{<infobox/country
 	 Name="Aismious Republic"
 	 RealName="Archipelago of the Faroe Islands"

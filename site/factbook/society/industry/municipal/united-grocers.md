@@ -6,14 +6,14 @@ logo: /svg/logos/united-grocers.svg
 rgb: 98, 186, 85
 image: /images/fullres/united-grocers.jpg
 
+description: United Grocers is a food and retail chain in Vekllei that mostly sells groceries and homegoods. It is a municipalised cooperative made up of many constituent stores.
+
 fi: fi fi-min-united-grocers fis
 
 aliases:
 - /united-grocers/
+series: industry
 ---
-{{<note series>}}
- Part of the *[industry](/industry/)* series of articles
-{{</note>}}
 
 {{<infobox/company
 	 Name="United Grocers"
