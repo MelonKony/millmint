@@ -5,6 +5,8 @@ icon: 🗣️
 emoji: ¢
 series: bulletin
 
+draft: true
+
 rgb: 229, 18, 71
 
 description: Vekllei is a deeply multicultural society, which requires careful attention to prevent damaging its tight-knit and high-trust communities.
