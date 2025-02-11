@@ -1,11 +1,12 @@
 ---
-title: Swordfish-class Air
+title: Swordfish-class
 fulltitle: Swordfish-class Air Escort Destroyer
 icon: ⚓️
 color: marine
 logo: /svg/crests/marine.svg
 
 series: vessel
+image: /images/fullres/swordfish.jpg
 description: The Swordfish-Class is a class of aerial warfare destroyer in service with the Vekllei Armed Forces.
 
 aliases:
@@ -24,10 +25,10 @@ aliases:
 	InService="17"
 >}}
 
-The **Swordfish-class air escort destroyer** is a class of aerial warfare destroyer of the [[marine|Marine Services]] of [[Vekllei]]. The Swordfish-class is a successor of the [*Baker*](/baker-class/)-class, incorporating updated technologies and design improvements. The class maintains its focus on air defence, providing escort for fleet carriers and other Vekllei naval formations. It is slightly larger than the *Baker* class, with a displacement of 9,000 tons and a length of 165 meters. Its home station is [[ns-mira|Naval Station Mira]].
+The **Swordfish-class air escort destroyer** is a type of air escort destroyer of the [[marine|Marine Services]] of [[Vekllei]]. It is a successor to the [*Baker*](/baker-class/)-class, but is slightly larger to accomodate a larger missile magazine. The class is designed to provide escort for Commonwealth fleets and their carriers, and operates mostly in these formations since they lack substantial anti-ship and anti-submarine defences. While not as armed as Vekllei cruisers or as specialised as submarine hunters, the *Swordfish*-class is second-to-none in terms of naval anti-air armament.
 
-The destroyer is powered by the same [*Vampire*](/nmpr/) marine nuclear power plant as its predecessor, but improvements to its hydrodynamics allows slightly faster sustained speeds of up to 33 knots. The crew size is slightly reduced to 310, due to increased automation in various ship systems.
+Three missile arms on two launchers at the fore and centre decks are capable of firing No. 3 *Rackham* missiles sequentially. This is a common and versatile missile platform in Vekllei, and can carry specialised payloads including nuclear armament. These missiles are about 10 meters tall, and are fed into the launchers via automatic magazines in the armoured hull of the destroyer. They have a reliable air interception range of about 300km. The system is complemented by No. 6 *Shemozzle* anti-ship and anti-submarine missile launchers.
 
-The primary armament includes the same No. 3 *Rackham* air defence system, but larger radar arrays allows for longer-range and more precise targeting of aerial threats. The system is complemented by the No. 6 *Shemozzle* anti-ship missile launchers. A dual-purpose 76 mm gun, improved from earlier designs, and an upgraded CIWS provide point defence.
+There are two 76mm "Vanguard" guns at the bow and aft, and two 40mm point-defence canons on the flanks. The class is powered by the same [*Vampire*](/nmpr/) marine nuclear power plant as its predecessor, but improvements to its hydrodynamics allows slightly faster sustained speeds of up to 33 knots. The crew size is slightly reduced to 310, due to increased automation in various ship systems. In total the ships have a displacement of 9,000 tons and a length of 165 meters, and are home stationed in [[ns-mira|Naval Station Mira]].
 
-The *Swordfish*-class is also equipped with enhanced sensor and electronic warfare systems under two Automatic Asset Command computers, allowing it to detect and track potential threats at greater distances. These updates were made to counter American improvements to chaff detection in their anti-ship missiles. Like the *Baker*-class, the *Swordfish*-class is a core part of Vekllei fleet protection and patrol operations, and serves mostly with the Commonwealth Fleet.
+The *Swordfish*-class is also fitted with improved sensor and electronic warfare systems under a Master and Auxiliary Automatic Asset Command computer. These updates were made to counter American improvements to chaff detection in their anti-ship missiles.
