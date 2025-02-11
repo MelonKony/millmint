@@ -50,9 +50,9 @@
 	  <description>
 	  {{ `<![CDATA[` | safeHTML }}{{ .Summary }}{{ `]]>` | safeHTML }}
 	  </description>
-	 <content:encoded>
-	 	{{ `<![CDATA[` | safeHTML }}<img src="https://millmint.net{{ .Params.image }}"/> {{ .Content | safeHTML }}{{ `]]>` | safeHTML }}
-  	</content:encoded>
+	<content:encoded>
+    	{{ `<![CDATA[` | safeHTML }}<img src="https://millmint.net{{ .Params.image }}"/> {{ partial "wikilinks.html" . | safeHTML }}{{ `]]>` | safeHTML }}
+	</content:encoded>
 	</item>
 	{{ end }}
   </channel>
