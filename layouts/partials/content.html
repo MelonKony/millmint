@@ -6,7 +6,7 @@
     {{- partial "components/articles/article-params.html" . -}}
     {{- partial "components/stories/story-params.html" . -}}
 
-    {{ $content := partial "wikilink.html" . }}
+    {{ $content := partial "wikilinks.html" . }}
 
     {{/* Process tables and syntax highlighting */}}
     {{ $content = $content | replaceRE "<table>" "<table class=\"mc-table\">" }}
