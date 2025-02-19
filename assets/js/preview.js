@@ -90,48 +90,28 @@ document.addEventListener('DOMContentLoaded', function () {
 	  }
 	}
   
-	function adjustColorForBackground(color) {
-		// If it's a CSS variable that's already been computed into rgb format
-		if (color.startsWith('rgb')) {
-		  const rgbValues = color.match(/\d+/g).map(Number);
-		  // Convert to HSL
-		  const r = rgbValues[0] / 255;
-		  const g = rgbValues[1] / 255;
-		  const b = rgbValues[2] / 255;
-	
-		  const max = Math.max(r, g, b);
-		  const min = Math.min(r, g, b);
-		  let h, s, l = (max + min) / 2;
-	
-		  if (max === min) {
-			h = s = 0;
-		  } else {
-			const d = max - min;
-			s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
-			switch (max) {
-			  case r: h = (g - b) / d + (g < b ? 6 : 0); break;
-			  case g: h = (b - r) / d + 2; break;
-			  case b: h = (r - g) / d + 4; break;
-			}
-			h /= 6;
-		  }
-	
-		  // Increase lightness for background (making it lighter)
-		  // Keep hue and saturation the same
-		  return `hsl(${Math.round(h * 360)}, ${Math.round(s * 100)}%, 98%)`;
-		}
-	
-		// For uncomputed CSS variables or any other case, create a temporary element
-		// to get the computed color value
-		const tempElement = document.createElement('div');
-		tempElement.style.color = color;
-		document.body.appendChild(tempElement);
-		const computedColor = window.getComputedStyle(tempElement).color;
-		document.body.removeChild(tempElement);
-	
-		// Recursively call with the computed RGB value
-		return adjustColorForBackground(computedColor);
+	// Create an overlay color element to sample from CSS variables if needed
+	const colorSampleElement = document.createElement('div');
+	colorSampleElement.style.visibility = 'hidden';
+	colorSampleElement.style.position = 'absolute';
+	colorSampleElement.style.pointerEvents = 'none';
+	document.body.appendChild(colorSampleElement);
+  
+	function getComputedColor(colorValue) {
+	  // For direct RGB values
+	  if (typeof colorValue === 'string' && colorValue.startsWith('rgb')) {
+		return colorValue;
 	  }
+	  
+	  // For CSS variables
+	  if (typeof colorValue === 'string' && colorValue.startsWith('var(')) {
+		colorSampleElement.style.color = colorValue;
+		return window.getComputedStyle(colorSampleElement).color;
+	  }
+	  
+	  // Fallback
+	  return colorValue;
+	}
   
 	function showPreview(event) {
 	  if (!tooltipsEnabled || !isTooltipAllowed) return;
@@ -170,7 +150,28 @@ document.addEventListener('DOMContentLoaded', function () {
   
 		previewContainer.innerHTML = previewContent;
 		previewContainer.style.display = "block";
-		previewContainer.style.backgroundColor = adjustColorForBackground(colorStyle);
+		
+		// Get the actual computed color value if it's a CSS variable
+		const computedColor = getComputedColor(colorStyle);
+		
+		// Set a solid background color as the base (site's background color)
+		previewContainer.style.backgroundColor = "var(--main-background)";
+		
+		// For RGB values, add a subtle, uniform tint
+		if (computedColor.startsWith('rgb')) {
+		  const rgbMatch = computedColor.match(/rgb\((\d+),\s*(\d+),\s*(\d+)\)/);
+		  if (rgbMatch) {
+			// Create a very light, uniform tint (5% opacity)
+			const tintColor = `rgba(${rgbMatch[1]}, ${rgbMatch[2]}, ${rgbMatch[3]}, 0.05)`;
+			// Apply a solid, uniform tint over the background
+			previewContainer.style.backgroundImage = `linear-gradient(to right, ${tintColor}, ${tintColor})`;
+		  }
+		} else {
+		  // For CSS variables or other cases where we couldn't compute RGB
+		  // Create a semi-transparent overlay of the theme color
+		  previewContainer.style.backgroundImage = `linear-gradient(to right, rgba(0, 0, 0, 0.02), rgba(0, 0, 0, 0.02))`;
+		}
+  
 		previewContainer.style.border = `1px solid ${colorStyle}`;
 		previewContainer.style.borderLeft = `4px solid ${colorStyle}`;
 		previewContainer.style.borderRadius = "4px";
