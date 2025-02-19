@@ -1,14 +1,16 @@
 ---
-title: Places
-fulltitle: Places in Vekllei
+title: Locations
+fulltitle: Locations in Vekllei
 icon: 🌐
 emoji: g
 color: green
 
 aliases:
   - /places/
+  - /location/
+  - /locations/
 
-description: This is a list of places within Vekllei.
+description: This is a list of locations within Vekllei.
 ---
 {{<note panel>}}
 This page catalogues single articles covering locations relevant to stories in Vekllei.

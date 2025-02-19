@@ -2,6 +2,10 @@
 <a href="/republics/">Constituent Republic</a>
 {{ end }}
 
+{{ if in .Params.series "location" }}
+<a href="/places/">Location</a>
+{{ end }}
+
 {{ if in .Params.series "antarctic" }}
 <a href="/republics/">Constituent Republic</a>
 {{ end }}
