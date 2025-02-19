@@ -5,6 +5,10 @@
 {{ if in .Params.series "location" }}
 <a href="/places/">Location</a>
 {{ end }}
+{{ if in .Params.series "country" }}
+<a href="/countries/">Country</a>
+{{ end }}
+
 
 {{ if in .Params.series "commonwealth" }}
 <a href="/constituents/">Constituent Commonwealth</a>
