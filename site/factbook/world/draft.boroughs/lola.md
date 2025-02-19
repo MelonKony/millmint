@@ -56,7 +56,7 @@ Lola would remain the capital of Vekllei throughout Vekllei's Late Period and in
 
 ### Postwar Development
 
-![smallimg](/images/images/recess.jpg)
+![smallimg](/images/recess.jpg)
 
 The Atomic War saw nuclear strikes in Reykjavic and Geofyourd, destroying both the Junta's Palace of the Commonwealth and most of the Port of Vekllei. The port was reconstructed under British occupation between 2005 and 2013, but the Palace was unsalvagable and to this day remains a preserved ruin.
 
@@ -68,7 +68,7 @@ Lola in the contemporary Floral Period is a borough of hills and narrow, prewar 
 
 ## Geography
 
-![smallimg](/images/images/gardencity.jpg)
+![smallimg](/images/gardencity.jpg)
 
 Lola is coastal and low-lying, and is made up of peninsulas, islands, islets, coves and straights. During the Ice Age, it was covered by a glacier. The borough is threatened by rising seas, volcanic eruptions and earthquakes.
 
@@ -92,7 +92,7 @@ The Lola Geothermal Springs are located in Camro, in eastern Lola. Now part of a
 
 With industry inherited from a thousand years of settlement, Lola remains a major manufacturing base of Vekllei. In the Floral Period it is characterised mostly as a working-class suburb of migrants and manual labourers, a trend that continues today. Much of its heavy engineering is a legacy of the borough's status as a colonial port, and among Lola's oldest companies are shipbuilding firms that have existed for over 600 years.
 
-![smallimg](/images/images/wine.jpg)
+![smallimg](/images/wine.jpg)
 
 Lola is serviced by Vekllei Rail West, a part of [Vekllei National Rail](/factbook/society/industry/rail/). Like most boroughs of the Capital Region, it is heavily serviced by trams.
 

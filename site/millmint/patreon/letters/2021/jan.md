@@ -14,7 +14,7 @@ description: Studio MillMint is a Hobart-based illustration studio specialising 
  
 ---
 
-![smallimg](/images/images/mastheads/letters/3.jpg)
+![smallimg](/images/mastheads/letters/3.jpg)
 
 {{<note>}}
 ✿ This letter was sent out to Patrons in January 2021

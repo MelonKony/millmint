@@ -40,6 +40,15 @@ document.addEventListener('DOMContentLoaded', function () {
 	  return url.endsWith('/') ? url : url + '/';
 	}
   
+	function prefetch(url) {
+	  setTimeout(() => {
+		const link = document.createElement('link');
+		link.rel = 'prefetch';
+		link.href = url;
+		document.head.appendChild(link);
+	  }, 500);
+	}
+  
 	fetch('/en.search-data.json')
 	  .then(response => response.json())
 	  .then(data => { searchData = data; })
@@ -56,9 +65,78 @@ document.addEventListener('DOMContentLoaded', function () {
 	  });
 	}
   
+	function createResponsiveImage(imageData, title) {
+	  if (!imageData) return '';
+	  
+	  // Handle both new and old format
+	  const imageSrc = typeof imageData === 'string' ? imageData : imageData.src;
+	  const webpSrc = typeof imageData === 'string' ? null : imageData.webp;
+	  
+	  if (webpSrc) {
+		return `<img 
+		  src="${webpSrc}"
+		  alt="${title}"
+		  style="max-width: 100%; margin-top: 0.5rem;"
+		  loading="lazy"
+		>`;
+	  } else {
+		// Fallback for old format or when processing failed
+		return `<img 
+		  src="${imageSrc}"
+		  alt="${title}"
+		  style="max-width: 100%; margin-top: 0.5rem;"
+		  loading="lazy"
+		>`;
+	  }
+	}
+  
+	function adjustColorForBackground(color) {
+		// If it's a CSS variable that's already been computed into rgb format
+		if (color.startsWith('rgb')) {
+		  const rgbValues = color.match(/\d+/g).map(Number);
+		  // Convert to HSL
+		  const r = rgbValues[0] / 255;
+		  const g = rgbValues[1] / 255;
+		  const b = rgbValues[2] / 255;
+	
+		  const max = Math.max(r, g, b);
+		  const min = Math.min(r, g, b);
+		  let h, s, l = (max + min) / 2;
+	
+		  if (max === min) {
+			h = s = 0;
+		  } else {
+			const d = max - min;
+			s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
+			switch (max) {
+			  case r: h = (g - b) / d + (g < b ? 6 : 0); break;
+			  case g: h = (b - r) / d + 2; break;
+			  case b: h = (r - g) / d + 4; break;
+			}
+			h /= 6;
+		  }
+	
+		  // Increase lightness for background (making it lighter)
+		  // Keep hue and saturation the same
+		  return `hsl(${Math.round(h * 360)}, ${Math.round(s * 100)}%, 98%)`;
+		}
+	
+		// For uncomputed CSS variables or any other case, create a temporary element
+		// to get the computed color value
+		const tempElement = document.createElement('div');
+		tempElement.style.color = color;
+		document.body.appendChild(tempElement);
+		const computedColor = window.getComputedStyle(tempElement).color;
+		document.body.removeChild(tempElement);
+	
+		// Recursively call with the computed RGB value
+		return adjustColorForBackground(computedColor);
+	  }
+  
 	function showPreview(event) {
 	  if (!tooltipsEnabled || !isTooltipAllowed) return;
 	  const url = this.href;
+	  prefetch(url);
 	  const pageData = findPageData(url);
   
 	  if (pageData) {
@@ -86,13 +164,13 @@ document.addEventListener('DOMContentLoaded', function () {
 			<b style="grid-column: 2;">${pageData.title}</b>
 			${pageData.section ? `<span style="grid-column: 2;"><i>${pageData.section}</i></span>` : ""}
 		  </div>
-		  ${pageData.image ? `<img src="${pageData.image}" alt="${pageData.title}" style="max-width: 100%; margin-top: 0.5rem;">` : ""}
+		  ${createResponsiveImage(pageData.image, pageData.title)}
 		  <p style="padding: 0; margin: 0.5rem;">${truncatedContent}</p>
 		`;
   
 		previewContainer.innerHTML = previewContent;
 		previewContainer.style.display = "block";
-  
+		previewContainer.style.backgroundColor = adjustColorForBackground(colorStyle);
 		previewContainer.style.border = `1px solid ${colorStyle}`;
 		previewContainer.style.borderLeft = `4px solid ${colorStyle}`;
 		previewContainer.style.borderRadius = "4px";

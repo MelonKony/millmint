@@ -21,7 +21,7 @@ aliases:
 	Crew="1,100"
 	Displacement="50,000 tons"
 	Length="260 meters"
-	Speed="26 knots"
+	Speed="35 knots"
 	InService="1"
 >}}
 

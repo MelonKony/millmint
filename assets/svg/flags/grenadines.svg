@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1680 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Group">
+        <rect id="Path" x="72" y="0" width="1608" height="1000.18" style="fill:rgb(249,150,51);"/>
+        <g id="g1">
+            <rect id="path153" x="474" y="0" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path157" x="72" y="0" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path161" x="474" y="333.333" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path165" x="72" y="333.333" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path169" x="273" y="166.667" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path173" x="675" y="166.667" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path177" x="273" y="500" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path181" x="675" y="500" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path201" x="474" y="666.667" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path205" x="72" y="666.667" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path209" x="273" y="833.333" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path213" x="675" y="833.333" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path1" x="1278" y="0" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path2" x="876" y="0" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path3" x="1278" y="333.333" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path4" x="876" y="333.333" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path5" x="1077" y="166.667" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path6" x="1479" y="166.667" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path7" x="1077" y="500" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path8" x="1479" y="500" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path9" x="1278" y="666.667" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path10" x="876" y="666.667" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path11" x="1077" y="833.333" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+            <rect id="path12" x="1479" y="833.333" width="201" height="166.667" style="fill:rgb(0,122,77);fill-rule:nonzero;"/>
+        </g>
+    </g>
+    <rect id="path14" x="-0.342" y="0" width="72.795" height="1000" style="fill:rgb(249,150,51);fill-rule:nonzero;"/>
+</svg>

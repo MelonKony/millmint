@@ -385,6 +385,7 @@
   @include text-sm;
   @include font-medium;
   @include radius-base;
+  @include highlight;
   cursor: pointer;
   background: transparent;
   border: 1px solid var(--highlight);

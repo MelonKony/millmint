@@ -194,7 +194,7 @@ VNR's main freight lines run mostly on a seperate gauge and network, and are com
 
 Nearly 17 million people per day commute via VNR's networks each day, making up a majority of the Vekllei population. In this sense, VNR's quality of operations affects the Vekllei person more than the quality of their government. In addition to commuter service, VNR automatic freight transit systems are the lifeblood of all industry and commerce in the country, and are regulated directly as a state requisite for their critical importance to the functioning of Vekllei society.
 
-![smallimg](/images/images/stationlogic.jpg)
+![smallimg](/images/stationlogic.jpg)
 
 VNR operates 2,114 stations across the Home Islands, which vary from uncovered concrete platforms to tremendous terminus complexes that cover multiple city blocks. The largest station in the country, Vekllei Central, sees over 1 million people per day pass through its gates.
 

@@ -12,7 +12,7 @@ description: Studio MillMint is a Hobart-based illustration studio specialising 
  
 ---
 
-![smallimg](/images/images/sketches/pyjamas.jpg)
+![smallimg](/images/sketches/pyjamas.jpg)
 
 **Tzipora hated sleeping by herself.** It wasn’t just anxiety from America, either — she’d spent half her life in dorms and didn’t much like the silence of a quiet room. When she first moved in with Baron, she would lie in her improvised bed for hours and listen to the ringing in her ears. She was most paranoid, most neurotic alone with her thoughts, with her memory wandering through everything she’d said and done.
 

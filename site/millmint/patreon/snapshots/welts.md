@@ -12,7 +12,7 @@ description: Studio MillMint is a Hobart-based illustration studio specialising 
  
 ---
 
-![smallimg](/images/images/sketches/welts.jpg)
+![smallimg](/images/sketches/welts.jpg)
 
 **The years that were supposed to be Tzipora’s finest were falling apart**. She was fourteen, out of money and out of options. Her tuition laboured on, paid in advance, but there was nothing left over for her. Her mother didn’t send money or letters anymore. So Tzipora lived on the free dinners provided by the Sisters of Charity and gifts from people who pitied her, mostly wealthy migrants associated with the church. Her shoes worn smooth slipped in the school halls, and her shirt collar had yellowed.
 

@@ -8,7 +8,7 @@ color: indigo
 
 type: blank
 ---
-
+<link rel="stylesheet" href="/css/dolls.css">
 <div class="dolls">
 	<div class="canvas-wrapper">
 		<div class="dolls-left-side">

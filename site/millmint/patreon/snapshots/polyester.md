@@ -12,7 +12,7 @@ description: Studio MillMint is a Hobart-based illustration studio specialising 
  
 ---
 
-![smallimg](/images/images/sketches/polyester.jpg)
+![smallimg](/images/sketches/polyester.jpg)
 
 **People across the world are very excited** by the possibilities and emerging styles in new synthetic materials, including polyester, plastic, and new-nylon. In keeping with her meticulous and mildly neurotic character, Tzipora cannot stand synthetic fibres and refuses wear anything that isn't soft, loose-fitting and hand-washable.
 

@@ -41,6 +41,7 @@ A patchwork of farms, mostly privately owned, quilt the wide tracts of arable la
 
 * **Kensington Oval**: Historic stadium with a strong cricket tradition.
 * **Gun Hill Barracks**: Largest territorial service military base in [[kalina|Commonwealth Kalina]] with historic, colonial-era barracks and signal station in use.
+* **National Motor Vehicle Testing Establishment**: Crash testing and vehicle safety establishment operated by the [[Bureau of Roads and Paths]].
 * **Farley Hill Estate & National Park**: Hilltop mansion with lush colonial gardens.
 * **Barbados National Robotics Plant**: Largest robotics manufacturing complex in Vekllei owned by [[National Machines]].
 * **National Machines Laboratories**: [[National Machines]] robotics testing and development firm.

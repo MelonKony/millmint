@@ -49,4 +49,5 @@ The bureau is also responsible for the licensing and registration of motor vehic
 ## Boards & Commissions
 
 * **National Automobile Club of Vekllei (NACV)**: Independent motor enthusiast and automobile club.
+* **National Motor Vehicle Testing Establishment**: Crash testing and vehicle safety establishment located in [[Barbados]].
 {{</note>}}

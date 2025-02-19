@@ -44,7 +44,7 @@ description: Studio MillMint is a Hobart-based illustration studio specialising 
   <a class="item" href="/shop/item/railway-shirt">
     <div class="card">
       <div class="card-img">
-        <img src="/images/images/mastheads/studiomillmint.png">
+        <img src="/images/mastheads/studiomillmint.png">
       </div>
       <h1>Zelda Electric Railway</h1>
       <h2>Tee Shirt</h2>
@@ -55,7 +55,7 @@ description: Studio MillMint is a Hobart-based illustration studio specialising 
   <a class="item" href="/shop/item/railway-shirt">
     <div class="card">
       <div class="card-img">
-        <img src="/images/images/sketches/studiomillmint.png">
+        <img src="/images/sketches/studiomillmint.png">
       </div>
       <h1>Studio MillMint Tote</h1>
       <h2>Tote Bag</h2>

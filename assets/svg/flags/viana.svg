@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1680 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Group">
+        <rect id="Path" x="72" y="0" width="1608" height="1000.18" style="fill:rgb(0,66,165);"/>
+        <rect id="Path-copy" x="72" y="0" width="190" height="1000.18" style="fill:rgb(218,18,52);"/>
+        <rect id="Rectangle-copy-2" x="262" y="0" width="384" height="1000" style="fill:white;"/>
+        <path id="Star-copy" d="M453.5,359L426.384,429.285L358.046,391.999L384.84,462.395L307.256,475.554L375.423,513.122L324.895,570.569L402.539,557.731L402.71,632.587L453.5,575.349L504.29,632.587L504.461,557.731L582.105,570.569L531.577,513.122L599.744,475.554L522.16,462.395L548.954,391.999L480.616,429.285L453.5,359Z" style="fill:rgb(218,18,52);"/>
+    </g>
+    <rect id="path2" x="-0.342" y="0" width="72.795" height="1000" style="fill:rgb(249,150,51);fill-rule:nonzero;"/>
+</svg>
