@@ -2635,6 +2635,12 @@ li {
 .fi-conch.fis {
   background-image: url(../svg/flags/1x1/conch.svg); }
 
+.fi-praia {
+  background-image: url(../svg/flags/4x3/praia.svg); }
+
+.fi-praia.fis {
+  background-image: url(../svg/flags/1x1/praia.svg); }
+
 .fi-abakoa {
   background-image: url(../svg/flags/4x3/abakoa.svg); }
 
