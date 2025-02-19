@@ -3,7 +3,7 @@ title: Conch
 fulltitle: Conch Republic
 icon: 🐚
 logo: /svg/flags/4x3/conch.svg
-series: lucaya
+series: republic
 
 rgb: 38, 49, 219
 description: Conch (<i>Key West</i>) is a constituent republic of Vekllei located in the north Caribbean Sea.

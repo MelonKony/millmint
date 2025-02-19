@@ -3,7 +3,7 @@ title: Demon
 fulltitle: Republic of Demon
 icon: ⛪️
 logo: /svg/flags/4x3/demon.svg
-series: volcanic
+series: republic
 
 rgb: 229, 156, 54
 description: Demon (<i>Jan Mayen</i>) is a constituent republic of Vekllei located in the North Atlantic Ocean.

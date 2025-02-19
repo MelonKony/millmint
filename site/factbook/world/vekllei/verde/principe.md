@@ -3,7 +3,7 @@ title: Principe
 fulltitle: Principe Republic
 icon: 🌾
 logo: /svg/flags/4x3/principe.svg
-series: verde
+series: republic
 
 rgb: 239, 52, 63
 description: Principe is a constituent republic of Vekllei located in the Gulf of Guinea.

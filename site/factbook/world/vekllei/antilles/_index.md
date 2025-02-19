@@ -1,5 +1,5 @@
 ---
-title: Antilles
+title: Antilles Commonwealth
 fulltitle: Antilles Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/antilles.svg
@@ -13,6 +13,7 @@ type: blank
 
 aliases:
 - /antilles/
+- /antilles-commonwealth/
 ---
 {{<infobox/country
    Name="Antilles Commonwealth"

@@ -1,5 +1,5 @@
 ---
-title: Arctic
+title: Arctic Commonwealth
 fulltitle: Arctic Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/arctic.svg
@@ -12,6 +12,7 @@ description: Commonwealth Arctic is a constituent region of Vekllei, comprising 
 
 aliases:
 - /arctic/
+- /arctic-commonwealth/
 ---
 {{<infobox/country
    Name="Arctic Commonwealth"

@@ -3,7 +3,7 @@ title: Caimanas
 fulltitle: Caimanas
 icon: 📖
 logo: /svg/flags/caimanas.svg
-series: antilles
+series: republic
 
 rgb: 60, 106, 217
 description: Caimanas (<i>Cayman Islands</i>) is a constituent republic of Vekllei located in the western Caribbean Sea.

@@ -3,7 +3,7 @@ title: Aloi
 fulltitle: Aloi Republic
 icon: 🐠
 logo: /svg/flags/4x3/aloi.svg
-series: kalina
+series: republic
 
 rgb: 48, 99, 172
 description: Aloi (<i>St Eustatius</i>) is a constituent republic of Vekllei located in the Lesser Antilles of the Caribbean Sea.

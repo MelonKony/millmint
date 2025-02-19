@@ -3,7 +3,7 @@ title: Caicos
 fulltitle: Caicos Republic
 icon: 🐚
 logo: /svg/flags/4x3/caicos.svg
-series: lucaya
+series: republic
 
 rgb: 199, 42, 43
 description: Caicos (<i>Turks & Caicos</i>) is a constituent republic of Vekllei located in the Lucayan Archipelago.

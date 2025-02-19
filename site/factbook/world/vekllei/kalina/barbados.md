@@ -3,7 +3,7 @@ title: Barbados
 fulltitle: Barbados Republic
 icon: 🔱
 logo: /svg/flags/4x3/bb.svg
-series: kalina
+series: republic
 
 rgb: 255, 37, 37
 description: Barbados is a constituent republic of Vekllei located in the Lesser Antilles of the Caribbean Sea.

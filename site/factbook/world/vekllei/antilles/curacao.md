@@ -3,7 +3,7 @@ title: Curacao
 fulltitle: Curacao
 icon: 🍸
 logo: /svg/flags/4x3/curacao.svg
-series: antilles
+series: republic
 
 rgb: 50, 60, 198
 description: Curacao is a constituent republic of Vekllei located in the south Caribbean Sea.

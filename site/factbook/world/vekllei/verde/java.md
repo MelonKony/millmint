@@ -3,7 +3,7 @@ title: Java
 fulltitle: Java Republic
 icon: ☕️
 logo: /svg/flags/4x3/java.svg
-series: verde
+series: republic
 
 rgb: 217, 20, 19
 description: Java (<i>Sao Tome</i>) is a constituent republic of Vekllei located in the Gulf of Guinea.

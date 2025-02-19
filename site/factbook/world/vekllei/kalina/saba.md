@@ -3,7 +3,7 @@ title: Saba
 fulltitle: Saba Republic
 icon: 🍃
 logo: /svg/flags/4x3/saba.svg
-series: kalina
+series: republic
 
 rgb: 12, 104, 244
 description: Saba is a constituent republic of Vekllei located in the Lesser Antilles of the Caribbean Sea.

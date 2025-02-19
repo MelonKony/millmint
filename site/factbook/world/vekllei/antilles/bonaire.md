@@ -3,7 +3,7 @@ title: Bonaire
 fulltitle: Bonaire
 icon: 🦩
 logo: /svg/flags/4x3/bonaire.svg
-series: antilles
+series: republic
 
 rgb: 150, 53, 216
 description: Bonaire is a constituent republic of Vekllei located in the south Caribbean Sea.

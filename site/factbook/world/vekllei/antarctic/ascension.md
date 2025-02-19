@@ -3,7 +3,7 @@ title: Ascension
 fulltitle: Ascension Republic
 icon: 🐢
 logo: /svg/flags/4x3/ac.svg
-series: antarctic
+series: republic
 
 rgb: 48, 106, 175
 description: Ascension is a constituent republic of Vekllei located in the southern Atlantic Ocean.

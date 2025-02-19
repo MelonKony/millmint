@@ -3,7 +3,7 @@ title: Aloubaera
 fulltitle: Aloubaera Republic
 icon: 🌲
 logo: /svg/flags/4x3/aloubaera.svg
-series: kalina
+series: republic
 
 rgb: 46, 114, 225
 description: Aloubaera (<i>Tobago</i>) is a constituent republic of Vekllei located in the Lesser Antilles of the Caribbean Sea.

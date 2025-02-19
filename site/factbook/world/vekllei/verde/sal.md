@@ -3,7 +3,7 @@ title: Sal
 fulltitle: Sal Republic
 icon: 🧂
 logo: /svg/flags/4x3/sal.svg
-series: verde
+series: republic
 
 rgb: 220, 36, 31
 description: Sal is a constituent republic of Vekllei located in the Cabo Verde archipelago off the coast of West Africa.

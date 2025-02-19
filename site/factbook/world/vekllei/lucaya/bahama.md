@@ -3,7 +3,7 @@ title: Bahama
 fulltitle: Bahama Republic
 icon: 🛢️
 logo: /svg/flags/4x3/bahama.svg
-series: lucaya
+series: republic
 
 rgb: 25, 153, 62
 description: Bahama (<i>Grand Bahama</i>) is a constituent republic of Vekllei located in the Lucayan Archipelago.

@@ -3,7 +3,7 @@ title: Helvasia
 fulltitle: Helvasia Republic
 icon: 🐻‍❄️
 logo: /svg/flags/4x3/sj.svg
-series: north-arctic
+series: republic
 
 rgb: 219, 2, 3
 description: Helvasia (<i>Svalbard</i>) is a constituent republic of Vekllei located in the Arctic Ocean.

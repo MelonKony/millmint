@@ -3,7 +3,7 @@ title: Aruba
 fulltitle: Aruba
 icon: 🌴
 logo: /svg/flags/4x3/aruba.svg
-series: antilles
+series: republic
 
 rgb: 255, 178, 7
 description: Aruba is a constituent republic of Vekllei located in the south Caribbean Sea.

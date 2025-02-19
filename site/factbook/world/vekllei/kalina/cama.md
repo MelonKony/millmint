@@ -3,7 +3,7 @@ title: Cama
 fulltitle: Cama Republic
 icon: 🌶️
 logo: /svg/flags/4x3/gd.svg
-series: kalina
+series: republic
 
 rgb: 2, 123, 93
 description: Cama (<i>Grenada</i>) is a constituent republic of Vekllei located in the Lesser Antilles of the Caribbean Sea.

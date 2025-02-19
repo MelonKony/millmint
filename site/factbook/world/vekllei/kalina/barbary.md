@@ -3,7 +3,7 @@ title: Barbary
 fulltitle: Barbary Republic
 icon: 🪸
 logo: /svg/flags/4x3/barbary.svg
-series: kalina
+series: republic
 
 rgb: 110, 110, 110
 description: Barbary (<i>Barbuda</i>) is a constituent republic of Vekllei located in the Lesser Antilles of the Caribbean Sea.

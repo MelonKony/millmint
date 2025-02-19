@@ -3,7 +3,7 @@ title: Curateo
 fulltitle: Curateo Republic
 icon: 🐚
 logo: /svg/flags/4x3/curateo.svg
-series: lucaya
+series: republic
 
 rgb: 255, 167, 29
 description: Curateo (<i>Great Exuma</i>) is a constituent republic of Vekllei located in the Lucayan Archipelago.

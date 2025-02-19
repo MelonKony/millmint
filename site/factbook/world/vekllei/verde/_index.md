@@ -1,5 +1,5 @@
 ---
-title: Verde
+title: Verde Commonwealth
 fulltitle: Verde Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/verde.svg

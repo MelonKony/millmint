@@ -3,7 +3,7 @@ title: Velas
 fulltitle: Velas Republic
 icon: 🍇
 logo: /svg/flags/4x3/velas.svg
-series: atlantic
+series: republic
 
 rgb: 0, 135, 81
 description: Velas (<i>Sao Jorge</i>) is a constituent republic of Vekllei located in the North Atlantic Ocean.

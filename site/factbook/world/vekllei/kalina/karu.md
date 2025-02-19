@@ -3,7 +3,7 @@ title: Karu
 fulltitle: Karu Republic
 icon: 🦋
 logo: /svg/flags/4x3/karu.svg
-series: kalina
+series: republic
 
 rgb: 218, 19, 52
 description: Karu (<i>Guadeloupe</i>) is a constituent republic of Vekllei located in the Lesser Antilles of the Caribbean Sea.

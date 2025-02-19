@@ -3,7 +3,7 @@ title: Allia
 fulltitle: Allia Republic
 icon: ☘️
 logo: /svg/flags/4x3/ms.svg
-series: kalina
+series: republic
 
 rgb: 6, 136, 72
 description: Allia (<i>Montserrat</i>) is a constituent republic of Vekllei located in the Lesser Antilles of the Caribbean Sea.

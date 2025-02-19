@@ -3,7 +3,7 @@ title: Brava
 fulltitle: Brava Republic
 icon: 🌳
 logo: /svg/flags/4x3/brava.svg
-series: verde
+series: republic
 
 rgb: 244, 118, 12
 description: Brava is a constituent republic of Vekllei located in the Cabo Verde archipelago off the coast of West Africa.

@@ -3,7 +3,7 @@ title: Oslola
 fulltitle: Oslola
 icon: 🌋
 logo: /svg/flags/4x3/oslola.svg
-series: volcanic
+series: republic
 
 rgb: 88, 90, 190
 description: Oslola (<i>Iceland</i>) is a constituent republic of Vekllei located in the North Atlantic Ocean.

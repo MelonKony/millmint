@@ -1,5 +1,5 @@
 ---
-title: Lucaya
+title: Lucaya Commonwealth
 fulltitle: Lucayan Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/lucaya.svg
@@ -11,6 +11,7 @@ description: Commonwealth Lucaya is a constituent region of Vekllei, comprising 
 
 aliases:
 - /lucaya/
+- /lucaya-commonwealth/
 ---
 {{<infobox/country
    Name="Lucayan Commonwealth"

@@ -6,48 +6,12 @@
 
 {{ if in .Params.series "commonwealth" }}
 <blockquote class="note series">
-  <p>The <a href="/{{ .Title | urlize }}">{{ .Title }}</a> is a <i><a href="/constituents/">constituent commonwealth</a></i> of <i><a href="/antarctic/">Vekllei</a></i>.</p>
+  <p>The <a href="/{{ .Title | urlize }}">{{ .Title }}</a> is a <i><a href="/constituents/">constituent commonwealth</a></i> of <i><a href="/vekllei/">Vekllei</a></i>.</p>
 </blockquote>
 {{ end }}
-
-{{ if in .Params.series "antarctic" }}
+{{ if in .Params.series "republic" }}
 <blockquote class="note series">
-  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is part of the <i><a href="/antarctic/">Commonwealth Antarctic</a></i>.</p>
-</blockquote>
-{{ end }}
-{{ if in .Params.series "antilles" }}
-<blockquote class="note series">
-  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is part of the <i><a href="/antilles/">Commonwealth Antilles</a></i>.</p>
-</blockquote>
-{{ end }}
-{{ if in .Params.series "north-arctic" }}
-<blockquote class="note series">
-  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is part of the <i><a href="/arctic/">Commonwealth Arctic</a></i>.</p>
-</blockquote>
-{{ end }}
-{{ if in .Params.series "atlantic" }}
-<blockquote class="note series">
-  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is part of the <i><a href="/atlantic/">Commonwealth Atlantic</a></i>.</p>
-</blockquote>
-{{ end }}
-{{ if in .Params.series "kalina" }}
-<blockquote class="note series">
-  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is part of the <i><a href="/kalina/">Commonwealth Kalina</a></i>.</p>
-</blockquote>
-{{ end }}
-{{ if in .Params.series "lucaya" }}
-<blockquote class="note series">
-  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is part of the <i><a href="/lucaya/">Commonwealth Lucaya</a></i>.</p>
-</blockquote>
-{{ end }}
-{{ if in .Params.series "verde" }}
-<blockquote class="note series">
-  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is part of the <i><a href="/verde/">Commonwealth Verde</a></i>.</p>
-</blockquote>
-{{ end }}
-{{ if in .Params.series "volcanic" }}
-<blockquote class="note series">
-  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is part of the <i><a href="/volcanic/">Commonwealth Volcanic</a></i>.</p>
+  <p>The <a href="/{{ .Title | urlize }}">{{ .Title }}</a> is a <i><a href="/republics/">constituent republic</a></i> of <i><a href="/{{ .Parent.Title | urlize }}">{{ .Parent.Title }}</a></i>.</p>
 </blockquote>
 {{ end }}
 

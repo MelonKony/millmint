@@ -1,5 +1,5 @@
 ---
-title: Antarctic
+title: Antarctic Commonwealth
 fulltitle: Antarctic Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/antarctic.svg
@@ -13,6 +13,7 @@ type: blank
 
 aliases:
 - /antarctic/
+- /antarctic-commonwealth/
 ---
 {{<infobox/country
    Name="Commonwealth Antarctica"

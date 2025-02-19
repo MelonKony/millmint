@@ -3,7 +3,7 @@ title: Helena
 fulltitle: Helena Republic
 icon: 🐦‍⬛
 logo: /svg/flags/4x3/sh.svg
-series: antarctic
+series: republic
 
 rgb: 24, 117, 71
 description: Helena (<i>St Helena</i>) is a constituent republic of Vekllei located in the southern Atlantic Ocean.

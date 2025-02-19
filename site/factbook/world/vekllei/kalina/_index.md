@@ -1,5 +1,5 @@
 ---
-title: Kalina
+title: Kalina Commonwealth
 fulltitle: Kalina Commonwealth
 icon: 🌹
 logo: /svg/flags/4x3/kalina.svg
@@ -13,6 +13,7 @@ type: blank
 
 aliases:
 - /kalina/
+- /kalina-commonwealth/
 ---
 {{<infobox/country
    Name="Commonwealth Kalina"

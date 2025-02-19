@@ -3,7 +3,7 @@ title: Costa Verde
 fulltitle: Costa Verde Republic
 icon: 🦅
 logo: /svg/flags/4x3/costa-verde.svg
-series: atlantic
+series: republic
 
 rgb: 33, 131, 67
 description: Costa Verde (<i>Sao Miguel</i>) is a constituent republic of Vekllei located in the North Atlantic Ocean.
