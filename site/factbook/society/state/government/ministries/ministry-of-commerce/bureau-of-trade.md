@@ -13,7 +13,7 @@ description: The Bureau of Trade regulates consumer protections and antitrust la
 aliases:
 - /bureau-of-trade/
 ---
-The <span class="fi fi-min-commerce fis"></span> **Bureau of Trade** regulates consumer protections and antitrust law in [[Vekllei]], and organises trade information from other ministries and supervisory bureaus into policy recommendations and legislation. The Trade Commission also monitors and reports the health of foreign markets, and conducts research into broader geopolitical financial interests, particularly as they compete with domestic interests. It is part of the [[Ministry of Commerce]], and reports primarily to the [[Treasury]].
+The <span class="fi fi-min-commerce fis"></span> **Bureau of Trade** regulates consumer protections and antitrust law in [[Vekllei]], and organises trade information from other ministries and supervisory bureaus into policy recommendations and legislation. The Trade Commission also monitors and reports the health of foreign markets, and conducts research into broader geopolitical financial interests, particularly as they compete with domestic interests. It is part of the [[Ministry of Commerce]], and reports primarily to the [[commonwealth-treasury|Treasury]].
 
 {{<note panel>}}
 #### Executive Council
@@ -25,7 +25,7 @@ The <span class="fi fi-min-commerce fis"></span> **Bureau of Trade** regulates c
 	* Secretary of Market Analysis
 		* Officer for Market Intelligence
 		* Officer for Foreign Affairs
-* **Assistant Secretary**, [[Treasury]]
+* **Assistant Secretary**, [[commonwealth-treasury|Treasury]]
 * **Assistant Secretary**, [[Bureau of Securities]]
 * **Executive**, [[commonwealth-securities-exchange|Commsec]]
 {{</note>}}

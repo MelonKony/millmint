@@ -133,6 +133,15 @@
   background-image: url(../svg/flags/1x1/praia.svg);
 }
 
+/// Praia Flag
+
+.fi-soualiga {
+  background-image: url(../svg/flags/4x3/soualiga.svg);
+}
+.fi-soualiga.fis {
+  background-image: url(../svg/flags/1x1/soualiga.svg);
+}
+
 /// Abakoa Flag
 
 .fi-abakoa {
@@ -657,6 +666,10 @@
 
 .fi-min-federal-timekeeping.fis {
   background-image: url(../svg/logos/timekeeping.svg);
+}
+
+.fi-min-orleans.fis {
+  background-image: url(../svg/logos/orleans.svg);
 }
 
 .fi-min-cateral.fis {

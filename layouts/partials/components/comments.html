@@ -1,0 +1,544 @@
+<h4>Comments:</h4>
+<div id="cusdis_thread" 
+  data-host="https://comments.millmint.net" 
+  data-app-id="11052b90-f5db-493d-aec5-a3dc9f38a544" 
+  data-page-id="{{ .File.UniqueID }}" 
+  data-page-url="{{ .Permalink }}" 
+  data-page-title="{{ .Title }}">
+</div>
+
+<script>
+// custom-cusdis-implementation.js
+document.addEventListener('DOMContentLoaded', function() {
+  const thread = document.getElementById('cusdis_thread');
+  if (!thread) return;
+
+  // Get attributes from the thread element
+  const host = thread.getAttribute('data-host');
+  const appId = thread.getAttribute('data-app-id');
+  const pageId = thread.getAttribute('data-page-id');
+  const pageUrl = thread.getAttribute('data-page-url');
+  const pageTitle = thread.getAttribute('data-page-title');
+  
+  // Create container elements
+  const commentsContainer = document.createElement('div');
+  commentsContainer.className = 'comments-container';
+  
+  const commentsList = document.createElement('div');
+  commentsList.className = 'comments-list';
+  
+  const commentForm = createCommentForm();
+  
+  // Create a refresh button
+  const refreshButton = document.createElement('button');
+  refreshButton.className = 'refresh-comments';
+  refreshButton.textContent = 'Refresh Comments';
+  refreshButton.addEventListener('click', function() {
+    loadComments(host, appId, pageId, commentsList);
+  });
+
+  // Append the form, refresh button, and comments list
+  commentsContainer.appendChild(commentForm);
+  commentsContainer.appendChild(refreshButton);
+  commentsContainer.appendChild(commentsList);
+  thread.appendChild(commentsContainer);
+  
+  // Load comments initially
+  loadComments(host, appId, pageId, commentsList);
+  
+  // Set up form submission
+  setupFormSubmission(commentForm, host, appId, pageId, pageUrl, pageTitle, commentsList);
+  
+  // Auto-refresh timer with longer interval and no visual interruption
+  let lastCommentCount = 0;
+  setInterval(function() {
+    // Use a separate fetch to check comment count without updating UI
+    checkForNewComments(host, appId, pageId, lastCommentCount).then(result => {
+      if (result.hasNewComments) {
+        loadComments(host, appId, pageId, commentsList);
+        lastCommentCount = result.commentCount;
+      }
+    });
+  }, 60000); // Check every minute instead of 10 seconds
+});
+
+async function checkForNewComments(host, appId, pageId, lastCount) {
+  try {
+    const apiUrl = `${host}/api/open/comments?appId=${encodeURIComponent(appId)}&pageId=${encodeURIComponent(pageId)}`;
+    const response = await fetch(apiUrl);
+    const data = await response.json();
+    
+    // Extract comments array based on the nested structure
+    let comments = [];
+    if (data.data && data.data.data && Array.isArray(data.data.data)) {
+      comments = data.data.data;
+    } else if (data.data && Array.isArray(data.data)) {
+      comments = data.data;
+    } else if (data.data && data.data.comments && Array.isArray(data.data.comments)) {
+      comments = data.data.comments;
+    } else if (Array.isArray(data)) {
+      comments = data;
+    }
+    
+    return {
+      hasNewComments: comments.length !== lastCount,
+      commentCount: comments.length
+    };
+  } catch (error) {
+    console.error('Error checking for new comments:', error);
+    return { hasNewComments: false, commentCount: lastCount };
+  }
+}
+
+function createCommentForm() {
+  const form = document.createElement('form');
+  form.className = 'comment-form';
+
+  // Name, email, and website row
+  const formRow = document.createElement('div');
+  formRow.className = 'form-row';
+
+  // Name input
+  const nameContainer = document.createElement('div');
+  nameContainer.className = 'form-group';
+
+  const nameLabel = document.createElement('label');
+  nameLabel.textContent = 'Name:';
+  nameLabel.setAttribute('for', 'comment-name');
+
+  const nameInput = document.createElement('input');
+  nameInput.type = 'text';
+  nameInput.id = 'comment-name';
+  nameInput.required = true;
+
+  nameContainer.appendChild(nameLabel);
+  nameContainer.appendChild(nameInput);
+
+  // Email input (optional)
+  const emailContainer = document.createElement('div');
+  emailContainer.className = 'form-group';
+
+  const emailLabel = document.createElement('label');
+  emailLabel.textContent = 'Email (optional):';
+  emailLabel.setAttribute('for', 'comment-email');
+
+  const emailInput = document.createElement('input');
+  emailInput.type = 'email';
+  emailInput.id = 'comment-email';
+
+  emailContainer.appendChild(emailLabel);
+  emailContainer.appendChild(emailInput);
+
+  // Website input (optional)
+  const websiteContainer = document.createElement('div');
+  websiteContainer.className = 'form-group';
+
+  const websiteLabel = document.createElement('label');
+  websiteLabel.textContent = 'Website (optional):';
+  websiteLabel.setAttribute('for', 'comment-website');
+
+  const websiteInput = document.createElement('input');
+  websiteInput.type = 'url';
+  websiteInput.id = 'comment-website';
+
+  websiteContainer.appendChild(websiteLabel);
+  websiteContainer.appendChild(websiteInput);
+
+  // Add the form group elements to the row
+  formRow.appendChild(nameContainer);
+  formRow.appendChild(emailContainer);
+  formRow.appendChild(websiteContainer);
+
+  // Comment input
+  const commentContainer = document.createElement('div');
+  commentContainer.className = 'form-group';
+
+  const commentLabel = document.createElement('label');
+  commentLabel.textContent = 'Comment:';
+  commentLabel.setAttribute('for', 'comment-content');
+
+  const commentTextarea = document.createElement('textarea');
+  commentTextarea.id = 'comment-content';
+  commentTextarea.rows = 5;
+  commentTextarea.required = true;
+
+  commentContainer.appendChild(commentLabel);
+  commentContainer.appendChild(commentTextarea);
+
+  // Submit button
+  const submitBtn = document.createElement('button');
+  submitBtn.type = 'submit';
+  submitBtn.textContent = 'Submit Comment';
+  submitBtn.className = 'submit-comment';
+
+  // Add all elements to form
+  form.appendChild(formRow);
+  form.appendChild(commentContainer);
+  form.appendChild(submitBtn);
+
+  return form;
+}
+
+async function loadComments(host, appId, pageId, commentsList) {
+  try {
+    // Only show loading on initial load, not during refresh
+    if (commentsList.innerHTML === '') {
+      commentsList.innerHTML = '<p class="loading-comments">Loading comments...</p>';
+    }
+    
+    // Ensure the URL is properly formatted
+    const apiUrl = `${host}/api/open/comments?appId=${encodeURIComponent(appId)}&pageId=${encodeURIComponent(pageId)}`;
+    
+    const response = await fetch(apiUrl);
+    const data = await response.json();
+    
+    // Extract comments based on the nested structure from your API
+    let commentsToRender = [];
+    
+    // Handle the specific structure from your Cusdis instance
+    if (data.data && data.data.data && Array.isArray(data.data.data)) {
+      commentsToRender = data.data.data;
+    } 
+    // Also handle other potential structures as fallbacks
+    else if (data.data && Array.isArray(data.data)) {
+      commentsToRender = data.data;
+    } else if (data.data && data.data.comments && Array.isArray(data.data.comments)) {
+      commentsToRender = data.data.comments;
+    } else if (Array.isArray(data)) {
+      commentsToRender = data;
+    }
+    
+    // Check if we have any comments to show
+    if (commentsToRender && commentsToRender.length > 0) {
+      renderComments(commentsToRender, commentsList);
+    } else {
+      commentsList.innerHTML = '<p class="no-comments">No comments yet. Be the first to comment!</p>';
+    }
+  } catch (error) {
+    console.error('Error loading comments:', error);
+    commentsList.innerHTML = '<p class="error">Failed to load comments. Please try again later.</p>';
+  }
+}
+
+function renderComments(comments, container) {
+  container.innerHTML = '';
+  
+  if (!comments || comments.length === 0) {
+    container.innerHTML = '<p class="no-comments">No comments yet. Be the first to comment!</p>';
+    return;
+  }
+  
+  const commentCount = document.createElement('div');
+  commentCount.className = 'comment-count';
+  commentCount.textContent = `${comments.length} Comment${comments.length > 1 ? 's' : ''}`;
+  container.appendChild(commentCount);
+  
+  comments.forEach(comment => {
+    const commentEl = document.createElement('div');
+    commentEl.className = 'comment';
+    commentEl.dataset.commentId = comment.id;
+    
+    const headerEl = document.createElement('div');
+    headerEl.className = 'comment-header';
+    
+    const authorEl = document.createElement('span');
+    authorEl.className = 'comment-author';
+    authorEl.textContent = comment.by_nickname || 'Anonymous';
+    
+    const dateEl = document.createElement('span');
+    dateEl.className = 'comment-date';
+    const commentDate = new Date(comment.createdAt);
+    dateEl.textContent = isNaN(commentDate) ? 'Recently' : `${commentDate.toLocaleDateString()} ${commentDate.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}`;
+    
+    headerEl.appendChild(authorEl);
+    headerEl.appendChild(dateEl);
+    
+    const contentEl = document.createElement('div');
+    contentEl.className = 'comment-content';
+    contentEl.textContent = comment.content;
+    
+    commentEl.appendChild(headerEl);
+    commentEl.appendChild(contentEl);
+    
+    // Add reply functionality
+    const replyButton = document.createElement('button');
+    replyButton.className = 'reply-button';
+    replyButton.textContent = 'Reply';
+    replyButton.addEventListener('click', function() {
+      // Toggle the reply form
+      let replyForm = commentEl.querySelector('.reply-form-container');
+      
+      if (replyForm) {
+        replyForm.remove();
+      } else {
+        replyForm = createReplyForm(comment.id);
+        commentEl.appendChild(replyForm);
+      }
+    });
+    
+    commentEl.appendChild(replyButton);
+    
+    // Handle replies
+    if (comment.replies && comment.replies.data && Array.isArray(comment.replies.data) && comment.replies.data.length > 0) {
+      const repliesEl = document.createElement('div');
+      repliesEl.className = 'comment-replies';
+      renderReplies(comment.replies.data, repliesEl);
+      commentEl.appendChild(repliesEl);
+    }
+    
+    container.appendChild(commentEl);
+  });
+}
+
+function renderReplies(replies, container) {
+  replies.forEach(reply => {
+    const replyEl = document.createElement('div');
+    replyEl.className = 'comment reply';
+    
+    const headerEl = document.createElement('div');
+    headerEl.className = 'comment-header';
+    
+    const authorEl = document.createElement('span');
+    authorEl.className = 'comment-author';
+    authorEl.textContent = reply.by_nickname || 'Anonymous';
+    
+    const dateEl = document.createElement('span');
+    dateEl.className = 'comment-date';
+    const replyDate = new Date(reply.createdAt);
+    dateEl.textContent = isNaN(replyDate) ? 'Recently' : `${replyDate.toLocaleDateString()} ${replyDate.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}`;
+    
+    headerEl.appendChild(authorEl);
+    headerEl.appendChild(dateEl);
+    
+    const contentEl = document.createElement('div');
+    contentEl.className = 'comment-content';
+    contentEl.textContent = reply.content;
+    
+    replyEl.appendChild(headerEl);
+    replyEl.appendChild(contentEl);
+    
+    container.appendChild(replyEl);
+  });
+}
+
+function createReplyForm(parentId) {
+  const replyFormContainer = document.createElement('div');
+  replyFormContainer.className = 'reply-form-container';
+  
+  const form = document.createElement('form');
+  form.className = 'reply-form';
+  
+  // Name input
+  const nameContainer = document.createElement('div');
+  nameContainer.className = 'form-group';
+  
+  const nameLabel = document.createElement('label');
+  nameLabel.textContent = 'Name:';
+  nameLabel.setAttribute('for', `reply-name-${parentId}`);
+  
+  const nameInput = document.createElement('input');
+  nameInput.type = 'text';
+  nameInput.id = `reply-name-${parentId}`;
+  nameInput.required = true;
+  
+  nameContainer.appendChild(nameLabel);
+  nameContainer.appendChild(nameInput);
+  
+  // Reply content
+  const contentContainer = document.createElement('div');
+  contentContainer.className = 'form-group';
+  
+  const contentLabel = document.createElement('label');
+  contentLabel.textContent = 'Reply:';
+  contentLabel.setAttribute('for', `reply-content-${parentId}`);
+  
+  const contentTextarea = document.createElement('textarea');
+  contentTextarea.id = `reply-content-${parentId}`;
+  contentTextarea.rows = 3;
+  contentTextarea.required = true;
+  
+  contentContainer.appendChild(contentLabel);
+  contentContainer.appendChild(contentTextarea);
+  
+  // Hidden parent ID
+  const parentIdInput = document.createElement('input');
+  parentIdInput.type = 'hidden';
+  parentIdInput.name = 'parent_id';
+  parentIdInput.value = parentId;
+  
+  // Submit button
+  const submitBtn = document.createElement('button');
+  submitBtn.type = 'submit';
+  submitBtn.textContent = 'Submit Reply';
+  submitBtn.className = 'submit-reply';
+  
+  // Cancel button
+  const cancelBtn = document.createElement('button');
+  cancelBtn.type = 'button';
+  cancelBtn.textContent = 'Cancel';
+  cancelBtn.className = 'cancel-reply';
+  cancelBtn.addEventListener('click', function() {
+    replyFormContainer.remove();
+  });
+  
+  const buttonContainer = document.createElement('div');
+  buttonContainer.className = 'reply-buttons';
+  buttonContainer.appendChild(submitBtn);
+  buttonContainer.appendChild(cancelBtn);
+  
+  // Add all elements to form
+  form.appendChild(nameContainer);
+  form.appendChild(contentContainer);
+  form.appendChild(parentIdInput);
+  form.appendChild(buttonContainer);
+  
+  // Set up form submission
+  form.addEventListener('submit', async function(e) {
+    e.preventDefault();
+    
+    const thread = document.getElementById('cusdis_thread');
+    const host = thread.getAttribute('data-host');
+    const appId = thread.getAttribute('data-app-id');
+    const pageId = thread.getAttribute('data-page-id');
+    const pageUrl = thread.getAttribute('data-page-url');
+    const pageTitle = thread.getAttribute('data-page-title');
+    
+    const submitBtn = form.querySelector('button[type="submit"]');
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Submitting...';
+    
+    try {
+      const replyData = {
+        appId,
+        pageId,
+        pageUrl,
+        pageTitle,
+        parentId,
+        nickname: nameInput.value,
+        content: contentTextarea.value
+      };
+      
+      const response = await fetch(`${host}/api/open/comments`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(replyData)
+      });
+      
+      await response.json();
+      
+      // Show success message
+      const successMsg = document.createElement('div');
+      successMsg.className = 'reply-success';
+      successMsg.textContent = 'Reply submitted successfully! It requires approval before appearing.';
+      replyFormContainer.prepend(successMsg);
+      
+      // Clear form
+      nameInput.value = '';
+      contentTextarea.value = '';
+      
+      // Remove success message and form after delay
+      setTimeout(() => {
+        replyFormContainer.remove();
+        
+        // Reload comments to check if any were approved
+        const commentsList = document.querySelector('.comments-list');
+        loadComments(host, appId, pageId, commentsList);
+      }, 3000);
+    } catch (error) {
+      console.error('Error submitting reply:', error);
+      
+      const errorMsg = document.createElement('div');
+      errorMsg.className = 'reply-error';
+      errorMsg.textContent = 'Error occurred during submission. Please try again.';
+      replyFormContainer.prepend(errorMsg);
+      
+      setTimeout(() => {
+        errorMsg.remove();
+      }, 5000);
+    } finally {
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Submit Reply';
+    }
+  });
+  
+  replyFormContainer.appendChild(form);
+  return replyFormContainer;
+}
+
+function setupFormSubmission(form, host, appId, pageId, pageUrl, pageTitle, commentsList) {
+  form.addEventListener('submit', async function(e) {
+    e.preventDefault();
+    
+    const submitBtn = form.querySelector('button[type="submit"]');
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Submitting...';
+    
+    const nameInput = document.getElementById('comment-name');
+    const emailInput = document.getElementById('comment-email');
+    const websiteInput = document.getElementById('comment-website');
+    const contentInput = document.getElementById('comment-content');
+    
+    try {
+      const commentData = {
+        appId,
+        pageId,
+        pageUrl,
+        pageTitle,
+        nickname: nameInput.value,
+        email: emailInput.value || undefined,
+        website: websiteInput.value || undefined,
+        content: contentInput.value
+      };
+      
+      const response = await fetch(`${host}/api/open/comments`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(commentData)
+      });
+      
+      await response.json();
+      
+      // Clear form
+      nameInput.value = '';
+      emailInput.value = '';
+      websiteInput.value = '';
+      contentInput.value = '';
+      
+      // Show success message
+      const successMsg = document.createElement('div');
+      successMsg.className = 'comment-success';
+      successMsg.textContent = 'Comment submitted successfully! It requires approval before appearing.';
+      form.prepend(successMsg);
+      
+      // Remove success message after 5 seconds
+      setTimeout(() => {
+        successMsg.remove();
+      }, 5000);
+      
+      // Reload comments to check if any were approved
+      setTimeout(() => {
+        loadComments(host, appId, pageId, commentsList);
+      }, 1000);
+    } catch (error) {
+      console.error('Error submitting comment:', error);
+      
+      const errorMsg = document.createElement('div');
+      errorMsg.className = 'comment-error';
+      errorMsg.textContent = 'Error occurred during submission. Please try again.';
+      form.prepend(errorMsg);
+      
+      // Remove error message after 5 seconds
+      setTimeout(() => {
+        errorMsg.remove();
+      }, 5000);
+    } finally {
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Submit Comment';
+    }
+  });
+}
+</script>

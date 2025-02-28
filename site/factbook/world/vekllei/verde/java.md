@@ -28,7 +28,7 @@ aliases:
 	 Accession="1945, as part of the British Atlantic Territories"
  >}}
 
-The <span class="fi fi-java"></span> **Javan Republic** is a [constituent republic](/republics/) of [[Vekllei]] off the Atlantic coast of central Africa. Its sister republics, Principe and Bioko, are arranged to its northeast, and its closest continental neighbour is [[Latin Africa]] to its east. The three islands comprise the eastern grouping of the [[verde|Commonwealth Verde]].
+The <span class="fi fi-java"></span> **Javan Republic** is a [constituent republic](/republics/) of [[Vekllei]] off the Atlantic coast of central Africa. Its sister republics, [[Principe]] and [[Annobon]], are arranged to its northeast, and its closest continental neighbour is [[Latin Africa]] to its east. The three islands comprise the eastern grouping of the [[verde|Commonwealth Verde]].
 
 Java is roughly oval in shape and its interior is dominated by tall volcanic mountains. The slopes of these mountains are heavily forested, and form microclimates of considerable biodiversity. The island is bisected by the equator, and is typically tropical and maritime.
 

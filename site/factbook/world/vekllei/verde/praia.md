@@ -9,6 +9,8 @@ draft: true
 rgb: 220, 36, 31
 description: Praia is a constituent republic of Vekllei located in the Cabo Verde archipelago off the coast of West Africa.
 
+draft: true
+
 fi: fi fi-praia
 
 aliases:

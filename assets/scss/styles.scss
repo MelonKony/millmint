@@ -61,6 +61,7 @@ sub, sup {
 // Input and video
 input, video {
   @include radius-base;
+  width: 100%;
 }
 
 // Footer
@@ -217,7 +218,7 @@ h6 {
 @media screen and (min-width: $sm_min_width) {
   body {
     @include margin-0;
-    
+
     main {
       @include my-0;
       @include px-2;

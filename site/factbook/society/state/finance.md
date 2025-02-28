@@ -91,7 +91,7 @@ Unlike in other countries, the socialisation of banking in Vekllei also saw the 
 
 ### Bank of Vekllei
 
-The Bank of Vekllei (also *Labour Bank of Vekllei* and *Old Lady*) is Vekllei's central bank with a constitutionally-granted monopoly on the financial mechanisms of the Commonwealth, with nearly all Commonwealth banking firms subordinated to its organisation. It is responsible directly to the [[Treasury]] and sets the monetary policy of Vekllei. It is primarily a macroeconomic institution that does not deal directly with the primary or secondary markets, but does over institutional banking services and complex financing for some markets in the Commonwealth.
+The Bank of Vekllei (also *Labour Bank of Vekllei* and *Old Lady*) is Vekllei's central bank with a constitutionally-granted monopoly on the financial mechanisms of the Commonwealth, with nearly all Commonwealth banking firms subordinated to its organisation. It is responsible directly to the [[commonwealth-treasury|Treasury]] and sets the monetary policy of Vekllei. It is primarily a macroeconomic institution that does not deal directly with the primary or secondary markets, but does over institutional banking services and complex financing for some markets in the Commonwealth.
 
 #### Personal Banking
 

@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang='{{ .Site.LanguageCode }}'>
 {{- partial "head.html" . -}}
-<link rel="stylesheet" href="https://unpkg.com/iv-viewer/dist/iv-viewer.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
 
 <body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
   <main>
@@ -12,92 +12,179 @@
       {{- partial "nav.html" . -}}
     </div>
 
-      <img id="image" src="{{ .Params.map }}" data-high-res-src="{{ .Params.map }}" />
+    <div id="map-container"></div>
   </main>
   {{- partial "resources/js.html" . -}}
   {{- partial "script.html" . -}}
 </body>
 
-<!-- scripts -->
-<script src="https://unpkg.com/iv-viewer/dist/iv-viewer.js"></script>
+<!-- Leaflet script -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
 <script type="module">
-  const image = document.querySelector('#image');
-  const viewer = new ImageViewer(image, {maxZoom: 1000, refreshOnResize: false}); // check options section for supported options
+  // Preload the map image to ensure it's available before Leaflet initialization
+  const mapSource = "{{ .Params.map }}";
+  const preloadImage = new Image();
+  preloadImage.src = mapSource;
+
+  // Initialize map once the DOM is ready
+  document.addEventListener('DOMContentLoaded', function() {
+    // Ensure image is loaded before initializing the map
+    if (preloadImage.complete) {
+      initializeMap(preloadImage.width, preloadImage.height);
+    } else {
+      preloadImage.onload = function() {
+        initializeMap(preloadImage.width, preloadImage.height);
+      };
+
+      // Add error handling in case the image fails to load
+      preloadImage.onerror = function() {
+        console.error("Error loading map image:", mapSource);
+        const mapContainer = document.getElementById('map-container');
+        mapContainer.innerHTML = '<div class="map-error">Unable to load map image. Please refresh the page or check the image path.</div>';
+      };
+    }
+
+    // Force the image to load by adding it to a hidden div
+    const preloadDiv = document.createElement('div');
+    preloadDiv.style.position = 'absolute';
+    preloadDiv.style.width = '0';
+    preloadDiv.style.height = '0';
+    preloadDiv.style.overflow = 'hidden';
+    preloadDiv.style.visibility = 'hidden';
+    preloadDiv.appendChild(preloadImage);
+    document.body.appendChild(preloadDiv);
+  });
+
+  function initializeMap(imgWidth, imgHeight) {
+    // Initialize the map
+    const map = L.map('map-container', {
+      crs: L.CRS.Simple,
+      minZoom: -3,
+      maxZoom: 4,
+      zoomSnap: 0.75,
+      zoomDelta: 0.75,
+      wheelPxPerZoomLevel: 120,
+      zoomControl: false,  // Disable default zoom control
+      attributionControl: false  // Disable default attribution control
+    });
+
+    // Calculate bounds based on image dimensions
+    const bounds = [[0, 0], [imgHeight, imgWidth]];
+
+    // Create the image overlay with explicit loading priority
+    const imageOverlay = L.imageOverlay(mapSource, bounds, {
+      // Add explicit loading attributes to override any site-wide lazy loading
+      className: 'no-lazy no-lazyload eager-load'
+    }).addTo(map);
+
+    // Ensure the image is loaded by triggering a load event
+    imageOverlay.once('load', function() {
+      console.log("Map image loaded successfully");
+    });
+
+    // Set the initial view to fit the image
+    map.fitBounds(bounds);
+
+    // Add zoom control only to bottom-right
+    L.control.zoom({
+      position: 'bottomright'
+    }).addTo(map);
+
+    // Performance optimization - disable animations on pan/zoom for smoother experience with large images
+    map.options.inertia = false;
+
+    // Adjust for dark mode
+    const observer = new MutationObserver(function(mutations) {
+      mutations.forEach(function(mutation) {
+        if (mutation.attributeName === 'data-theme') {
+          const isDarkMode = document.documentElement.getAttribute('data-theme') === 'dark';
+          const mapContainer = document.getElementById('map-container');
+
+          if (isDarkMode) {
+            mapContainer.classList.add('dark-mode');
+          } else {
+            mapContainer.classList.remove('dark-mode');
+          }
+        }
+      });
+    });
+
+    observer.observe(document.documentElement, { attributes: true });
+  }
 </script>
 
 <style>
   body {
     background-color: rgb(226 243 253);
     margin: 0;
+    overflow: hidden;
   }
 
-  main {
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-  .iv-snap-image-wrap {
-    width: 100%;
-  }
-  .iv-image-view {
-    background: var(--map-background);
-    padding: .5rem var(--body-background);
+  body main {
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+    position: relative;
+    z-index: 1;
+    height: calc(100vh - 24px);
+    padding-bottom: 0;
   }
 
-  img.iv-snap-image {
-    margin-top: 0;
-    margin-bottom: 0;
-    visibility: visible !important;
-    width: 100% !important;
-    height: 75px !important;
-  }
-
-  .iv-container {
+  #map-container {
+    height: 100vh;
+    width: 100vw;
     position: absolute;
     top: 0;
     left: 0;
-    z-index: -1;
-    height: 100vh;
-    width: 100vw; /* make it 100% of the viewport width (vw) */
-    margin-left: calc((100% - 100vw) / 2);  /* then remove the gap to the left of the container with this equation */
-  }
-  .iv-snap-view {
-      width: 150px;
-      height: 60px;
-      position: absolute;
-      top: 20px;
-      left: 20px;
-      border: none;
-      background: black;
-      z-index: 100;
-      box-sizing: content-box;
-      transition: opacity ease 400ms;
-      opacity: 0!important; /* disables viewer */
-  }
-  .iv-zoom-slider {
-      width: 100%;
-      box-sizing: content-box;
-      border: none;
-      background: rgba(0, 0, 0, 0.3);
-      height: 15px;
-      position: absolute;
-      top: 67px;
-      left: 0;
-  }
-  main {
-    position: relative;
-    z-index: 1;
-    margin-top: 0!important;
-  }
-  .floating-nav {
-    margin-top: 0;
+    z-index: 0;
+    margin-left: calc((100% - 100vw) / 2);
   }
 
-html[data-theme="dark"] {
-      img {
-         filter: hue-rotate(200deg) invert(95%) saturate(60%) sepia(0%) brightness(100%);
-       }
+  .leaflet-bottom {
+    bottom: 10px;
+  }
+
+  .leaflet-right {
+    right: 40px;
+  }
+
+  .leaflet-container {
+    background: var(--map-background, rgb(226 243 253));
+  }
+
+  /* Ensure map images ignore lazy loading */
+  .leaflet-container img,
+  .leaflet-image-layer img {
+    loading: eager !important;
+  }
+
+  /* For when the image cannot be loaded */
+  .map-error {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color: #721c24;
+    background-color: #f8d7da;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+  /* Style adjustments for dark mode */
+  #map-container.dark-mode .leaflet-tile,
+  #map-container.dark-mode .leaflet-image-layer {
+    filter: hue-rotate(200deg) invert(95%) saturate(60%) sepia(0%) brightness(100%);
+  }
+
+  /* Make sure controls are still visible in dark mode */
+  #map-container.dark-mode .leaflet-control {
+    background-color: rgba(50, 50, 50, 0.8);
+    color: #fff;
+  }
+
+  /* Override any site-wide lazy loading classes */
+  .no-lazy, .no-lazyload, .eager-load {
+    loading: eager !important;
   }
 </style>
-
-</html>

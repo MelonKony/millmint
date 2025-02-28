@@ -12,6 +12,7 @@ description: The Commonwealth Treasury is the national treasury, financial depar
 
 aliases:
 - /commonwealth-treasury/
+- /treasury/
 ---
 The <span class="fi fi-min-commerce fis"></span> **Commonwealth Treasury**, commonly *The Treasury*, is the national treasury, financial department and monetary authority of [[Vekllei]]. The Treasury is ultimately responsible for the Vekllei tax system, government revenue and expenditure, and broad economic planning. The Treasury also maintains the GAIA automatic financial relay computer system, which has been the automatic mechanism for microeconomic policy in Vekllei since 2055.
 
@@ -22,8 +23,8 @@ The Treasury is lead by the State Secretary for the Treasury, a member of the [c
 {{<note panel>}}
 #### Executive Council
 
-* **State Secretary**, [[Treasury]]
-* **Treasurer**, [[Treasury]]
+* **State Secretary**, [[commonwealth-treasury|Treasury]]
+* **Treasurer**, [[commonwealth-treasury|Treasury]]
 	* Permanent Secretary
 	* Officer for Commonwealth Economics
 	* Officer for Foreign Affairs

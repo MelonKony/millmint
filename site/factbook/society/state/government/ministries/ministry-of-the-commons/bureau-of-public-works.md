@@ -29,7 +29,7 @@ The bureau also owns the [[nch|National Construction House]] (NCH), the largest 
 * **Assistant Minister**, [[Ministry of the Commons]]
 * **Assistant Director**, [[Bureau of Housing]]
 * **Secretary for Infrastructure**, [[Bureau of Health Services]]
-* **Officer for Government Expenditure**, [[Treasury]]
+* **Officer for Government Expenditure**, [[commonwealth-treasury|Treasury]]
 * **Vice Chairman**, [[Housing Commission]]
 * **Chairman**, Vekllei Board of Architects
 {{</note>}}

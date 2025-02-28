@@ -239,7 +239,8 @@ sub, sup {
   padding: 1px 4px; }
 
 input, video {
-  border-radius: 0.25rem; }
+  border-radius: 0.25rem;
+  width: 100%; }
 
 footer {
   margin: 1rem 0 0 0; }
@@ -2272,7 +2273,6 @@ nav {
   box-shadow: 0 0 0 15px var(--main-background);
   background: var(--main-background);
   border-radius: .075rem;
-  margin-top: 2.5rem;
   box-sizing: border-box;
   width: calc(100% - 3.8rem);
   /* Full width minus 2 times 1.5rem padding */
@@ -2285,6 +2285,9 @@ nav {
     .floating-nav {
       margin-top: 24px;
       padding: 0; } }
+  .floating-nav nav {
+    margin-bottom: 0; }
+
 @media only screen and (min-width: 600px) {
   .showcase[five] {
     display: flex; } }
@@ -2640,6 +2643,12 @@ li {
 
 .fi-praia.fis {
   background-image: url(../svg/flags/1x1/praia.svg); }
+
+.fi-soualiga {
+  background-image: url(../svg/flags/4x3/soualiga.svg); }
+
+.fi-soualiga.fis {
+  background-image: url(../svg/flags/1x1/soualiga.svg); }
 
 .fi-abakoa {
   background-image: url(../svg/flags/4x3/abakoa.svg); }
@@ -3018,6 +3027,9 @@ li {
 
 .fi-min-federal-timekeeping.fis {
   background-image: url(../svg/logos/timekeeping.svg); }
+
+.fi-min-orleans.fis {
+  background-image: url(../svg/logos/orleans.svg); }
 
 .fi-min-cateral.fis {
   background-image: url(../svg/logos/cateral.svg); }

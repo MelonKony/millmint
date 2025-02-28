@@ -28,6 +28,6 @@ The <span class="fi fi-min-commerce fis"></span> **Ministry of Commerce** (COSMO
 
 The Ministry of Commerce is led by the State Secretary of Commerce, who is a member of the [[Cabinet]]. It is represented in the [[council|Commonwealth Council]] by the First Minister of Commerce.
 
-Most of the functions of the ministry are conducted by the [[Treasury]], which oversees most economic planning and operates the vast computerised systems that functionally run the Vekllei domestic market.
+Most of the functions of the ministry are conducted by the [[commonwealth-treasury|Treasury]], which oversees most economic planning and operates the vast computerised systems that functionally run the Vekllei domestic market.
 
 Vekllei has a reputation as a financial capital for its political neutrality and location between Europe and the Americas, and is among the largest facilitators of international commerce and exchange in the world.

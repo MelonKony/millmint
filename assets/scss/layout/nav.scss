@@ -290,7 +290,6 @@ nav {
   box-shadow: 0 0 0 15px var(--main-background);
   background: var(--main-background);
   border-radius: .075rem;
-  margin-top: 2.5rem;
   box-sizing: border-box;
   width: calc(100% - 3.8rem);
   /* Full width minus 2 times 1.5rem padding */
@@ -303,6 +302,10 @@ nav {
   @media only screen and (max-width: 500px) {
     margin-top: 24px;
     padding: 0;
+  }
+
+  nav {
+    margin-bottom: 0;
   }
 }
 

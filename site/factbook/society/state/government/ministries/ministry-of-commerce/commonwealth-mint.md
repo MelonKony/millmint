@@ -28,5 +28,5 @@ The Mint is well-regarded internationally for the purity of its metals and intri
 * **Chancellor**, [[Commonwealth Mint]]
 	* Comptroller of the Crown
 * **Exchequer**, [[Commonwealth Bank]]
-* Permanent Secretary, [[Treasury]]
+* Permanent Secretary, [[commonwealth-treasury|Treasury]]
 {{</note>}}

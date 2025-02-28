@@ -28,7 +28,7 @@ aliases:
 	 Accession="2022, as part of the Curacao Treaty"
  >}}
 
-The <span class="fi fi-saba"></span> **Saba Republic** is a [constituent republic](/republics/) of [[Vekllei]] in the Caribbean. The island forms the peak of a tall, undersea volcano, and is the smallest Vekllei republic by area at just 13 square kilometres. It is a few miles southeast of Soualiga, and has strong economic and cultural ties to its neighbour.
+The <span class="fi fi-saba"></span> **Saba Republic** is a [constituent republic](/republics/) of [[Vekllei]] in the Caribbean. The island forms the peak of a tall, undersea volcano, and is the smallest Vekllei republic by area at just 13 square kilometres. It is a few miles southeast of [[Soualiga]], and has strong economic and cultural ties to its neighbour.
 
 All visitors to Saba are impressed by its dramatic shape, which rises conspicuously out of the sea. Mount Scenery, the extinct volcano which makes up its landmass, is fringed by steep sea cliffs. You can find the people of Saba in the crater of the volcano, living in the settlements that have sprung up there. They are both reached by winding, perilous roads or cable railway.
 
