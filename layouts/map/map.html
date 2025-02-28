@@ -12,7 +12,13 @@
       {{- partial "nav.html" . -}}
     </div>
 
-    <div id="map-container"></div>
+    <div id="map-container">
+      <!-- Fallback content that will be replaced by the map if successful -->
+      <div id="map-loading">Loading map...</div>
+    </div>
+
+    <!-- Debug info panel (hidden by default) -->
+    <div id="map-debug" style="position: fixed; bottom: 10px; left: 10px; z-index: 1000; background: rgba(255,255,255,0.8); padding: 10px; border-radius: 5px; max-width: 300px; display: none; font-size: 12px; overflow: auto; max-height: 200px;"></div>
   </main>
   {{- partial "resources/js.html" . -}}
   {{- partial "script.html" . -}}
@@ -21,80 +27,137 @@
 <!-- Leaflet script -->
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
-<script type="module">
-  // Preload the map image to ensure it's available before Leaflet initialization
-  const mapSource = "{{ .Params.map }}";
-  const preloadImage = new Image();
-  preloadImage.src = mapSource;
-
-  // Initialize map once the DOM is ready
-  document.addEventListener('DOMContentLoaded', function() {
-    // Ensure image is loaded before initializing the map
-    if (preloadImage.complete) {
-      initializeMap(preloadImage.width, preloadImage.height);
-    } else {
-      preloadImage.onload = function() {
-        initializeMap(preloadImage.width, preloadImage.height);
-      };
-
-      // Add error handling in case the image fails to load
-      preloadImage.onerror = function() {
-        console.error("Error loading map image:", mapSource);
-        const mapContainer = document.getElementById('map-container');
-        mapContainer.innerHTML = '<div class="map-error">Unable to load map image. Please refresh the page or check the image path.</div>';
-      };
+<script>
+  // Debug helper function
+  function debug(message) {
+    console.log("[Map Debug]", message);
+    const debugEl = document.getElementById('map-debug');
+    if (debugEl) {
+      const timestamp = new Date().toLocaleTimeString();
+      debugEl.innerHTML += `<div><strong>${timestamp}</strong>: ${message}</div>`;
+      debugEl.style.display = 'block';
     }
+  }
 
-    // Force the image to load by adding it to a hidden div
-    const preloadDiv = document.createElement('div');
-    preloadDiv.style.position = 'absolute';
-    preloadDiv.style.width = '0';
-    preloadDiv.style.height = '0';
-    preloadDiv.style.overflow = 'hidden';
-    preloadDiv.style.visibility = 'hidden';
-    preloadDiv.appendChild(preloadImage);
-    document.body.appendChild(preloadDiv);
+  // Show any errors that occur
+  window.addEventListener('error', function(e) {
+    debug(`ERROR: ${e.message} at ${e.filename}:${e.lineno}`);
   });
 
-  function initializeMap(imgWidth, imgHeight) {
-    // Initialize the map
-    const map = L.map('map-container', {
-      crs: L.CRS.Simple,
-      minZoom: -3,
-      maxZoom: 4,
-      zoomSnap: 0.75,
-      zoomDelta: 0.75,
-      wheelPxPerZoomLevel: 120,
-      zoomControl: false,  // Disable default zoom control
-      attributionControl: false  // Disable default attribution control
-    });
+  // Start initializing as soon as possible
+  debug("Starting map initialization");
 
-    // Calculate bounds based on image dimensions
-    const bounds = [[0, 0], [imgHeight, imgWidth]];
+  // Explicitly get the map source from Hugo parameters
+  const mapSource = "{{ .Params.map }}";
+  debug(`Map source: ${mapSource}`);
 
-    // Create the image overlay with explicit loading priority
-    const imageOverlay = L.imageOverlay(mapSource, bounds, {
-      // Add explicit loading attributes to override any site-wide lazy loading
-      className: 'no-lazy no-lazyload eager-load'
-    }).addTo(map);
+  // Function to initialize the map
+  function initializeMap() {
+    try {
+      debug("Initializing map...");
 
-    // Ensure the image is loaded by triggering a load event
-    imageOverlay.once('load', function() {
-      console.log("Map image loaded successfully");
-    });
+      // Verify the container exists
+      const mapContainer = document.getElementById('map-container');
+      if (!mapContainer) {
+        throw new Error("Map container not found");
+      }
+      debug("Map container found");
 
-    // Set the initial view to fit the image
-    map.fitBounds(bounds);
+      // Load test image to verify the image path is correct and accessible
+      const testImg = new Image();
+      testImg.onload = function() {
+        debug(`Test image loaded successfully: ${testImg.width}x${testImg.height}`);
+        createLeafletMap(testImg.width, testImg.height);
+      };
 
-    // Add zoom control only to bottom-right
-    L.control.zoom({
-      position: 'bottomright'
-    }).addTo(map);
+      testImg.onerror = function() {
+        debug(`ERROR: Failed to load image from: ${mapSource}`);
+        mapContainer.innerHTML = `
+          <div style="padding: 20px; background: #f8d7da; color: #721c24; text-align: center;">
+            <h3>Map Image Failed to Load</h3>
+            <p>Could not load image from: ${mapSource}</p>
+            <p>Please check that the image path is correct and the file exists on the server.</p>
+          </div>
+        `;
+      };
 
-    // Performance optimization - disable animations on pan/zoom for smoother experience with large images
-    map.options.inertia = false;
+      debug(`Loading test image from: ${mapSource}`);
+      testImg.src = mapSource;
+    } catch (err) {
+      debug(`Initialization error: ${err.message}`);
+      document.getElementById('map-container').innerHTML = `
+        <div style="padding: 20px; background: #f8d7da; color: #721c24; text-align: center;">
+          <h3>Map Initialization Error</h3>
+          <p>${err.message}</p>
+        </div>
+      `;
+    }
+  }
 
-    // Adjust for dark mode
+  // Function to create the actual Leaflet map
+  function createLeafletMap(imgWidth, imgHeight) {
+    try {
+      debug(`Creating Leaflet map with image dimensions: ${imgWidth}x${imgHeight}`);
+
+      // Initialize with hardcoded fallback dimensions if needed
+      if (!imgWidth || !imgHeight) {
+        debug("WARNING: Using fallback dimensions");
+        imgWidth = imgWidth || 1000;
+        imgHeight = imgHeight || 1000;
+      }
+
+      // Initialize the map with basic options
+      const map = L.map('map-container', {
+        crs: L.CRS.Simple,
+        minZoom: -3,
+        maxZoom: 4,
+        zoomControl: false
+      });
+
+      debug("Map object created");
+
+      // Calculate bounds based on image dimensions
+      const bounds = [[0, 0], [imgHeight, imgWidth]];
+
+      // Create the image overlay
+      const imageOverlay = L.imageOverlay(mapSource, bounds).addTo(map);
+      debug("Image overlay added to map");
+
+      // Add event listener for when the image loads
+      imageOverlay.once('load', function() {
+        debug("Image overlay loaded successfully");
+      });
+
+      // Set the initial view
+      map.fitBounds(bounds);
+      debug("Map view set to fit bounds");
+
+      // Add zoom control
+      L.control.zoom({
+        position: 'bottomright'
+      }).addTo(map);
+      debug("Zoom controls added");
+
+      // Setup dark mode observer
+      setupDarkModeObserver();
+      debug("Map initialization complete");
+
+      // Hide the loading message
+      document.getElementById('map-loading').style.display = 'none';
+    } catch (err) {
+      debug(`Leaflet creation error: ${err.message}`);
+      document.getElementById('map-container').innerHTML = `
+        <div style="padding: 20px; background: #f8d7da; color: #721c24; text-align: center;">
+          <h3>Leaflet Map Creation Error</h3>
+          <p>${err.message}</p>
+        </div>
+      `;
+    }
+  }
+
+  // Setup dark mode observer
+  function setupDarkModeObserver() {
+    debug("Setting up dark mode observer");
     const observer = new MutationObserver(function(mutations) {
       mutations.forEach(function(mutation) {
         if (mutation.attributeName === 'data-theme') {
@@ -106,12 +169,30 @@
           } else {
             mapContainer.classList.remove('dark-mode');
           }
+          debug(`Dark mode ${isDarkMode ? 'enabled' : 'disabled'}`);
         }
       });
     });
 
     observer.observe(document.documentElement, { attributes: true });
   }
+
+  // Make sure DOM is loaded before initialization
+  if (document.readyState === 'loading') {
+    debug("DOM still loading, waiting for DOMContentLoaded");
+    document.addEventListener('DOMContentLoaded', initializeMap);
+  } else {
+    debug("DOM already loaded, initializing immediately");
+    initializeMap();
+  }
+
+  // Add backup initialization in case something goes wrong with the event listeners
+  window.setTimeout(function() {
+    if (document.getElementById('map-loading').style.display !== 'none') {
+      debug("BACKUP: Map not initialized after 3 seconds, trying again");
+      initializeMap();
+    }
+  }, 3000);
 </script>
 
 <style>
@@ -140,6 +221,17 @@
     margin-left: calc((100% - 100vw) / 2);
   }
 
+  #map-loading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(255,255,255,0.8);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+
   .leaflet-bottom {
     bottom: 10px;
   }
@@ -158,19 +250,6 @@
     loading: eager !important;
   }
 
-  /* For when the image cannot be loaded */
-  .map-error {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-    color: #721c24;
-    background-color: #f8d7da;
-    padding: 20px;
-    border-radius: 5px;
-    text-align: center;
-  }
-
   /* Style adjustments for dark mode */
   #map-container.dark-mode .leaflet-tile,
   #map-container.dark-mode .leaflet-image-layer {
@@ -181,10 +260,5 @@
   #map-container.dark-mode .leaflet-control {
     background-color: rgba(50, 50, 50, 0.8);
     color: #fff;
-  }
-
-  /* Override any site-wide lazy loading classes */
-  .no-lazy, .no-lazyload, .eager-load {
-    loading: eager !important;
   }
 </style>
