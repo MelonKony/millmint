@@ -13,12 +13,8 @@
     </div>
 
     <div id="map-container">
-      <!-- Fallback content that will be replaced by the map if successful -->
       <div id="map-loading">Loading map...</div>
     </div>
-
-    <!-- Debug info panel (hidden by default) -->
-    <div id="map-debug" style="position: fixed; bottom: 10px; left: 10px; z-index: 1000; background: rgba(255,255,255,0.8); padding: 10px; border-radius: 5px; max-width: 300px; display: none; font-size: 12px; overflow: auto; max-height: 200px;"></div>
   </main>
   {{- partial "resources/js.html" . -}}
   {{- partial "script.html" . -}}
@@ -28,82 +24,43 @@
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
 <script>
-  // Debug helper function
-  function debug(message) {
-    console.log("[Map Debug]", message);
-    const debugEl = document.getElementById('map-debug');
-    if (debugEl) {
-      const timestamp = new Date().toLocaleTimeString();
-      debugEl.innerHTML += `<div><strong>${timestamp}</strong>: ${message}</div>`;
-      debugEl.style.display = 'block';
-    }
+  // Flag to prevent multiple initializations
+  let mapInitialized = false;
+
+  // Get the map source from Hugo parameters
+  const mapSource = "{{ .Params.map }}";
+
+  // Preload the image immediately
+  const preloadImg = new Image();
+  preloadImg.setAttribute('loading', 'eager');
+  preloadImg.src = mapSource;
+
+  // Force override visibility of map images
+  function forceMapImageVisibility() {
+    // Apply forced visibility to all Leaflet-related images
+    const allImgs = document.querySelectorAll('.leaflet-container img, .leaflet-image-layer img');
+    allImgs.forEach(img => {
+      img.style.visibility = 'visible !important';
+      img.style.display = 'block !important';
+      img.style.opacity = '1 !important';
+    });
   }
 
-  // Show any errors that occur
-  window.addEventListener('error', function(e) {
-    debug(`ERROR: ${e.message} at ${e.filename}:${e.lineno}`);
-  });
-
-  // Start initializing as soon as possible
-  debug("Starting map initialization");
-
-  // Explicitly get the map source from Hugo parameters
-  const mapSource = "{{ .Params.map }}";
-  debug(`Map source: ${mapSource}`);
-
-  // Function to initialize the map
+  // Function to initialize the map once
   function initializeMap() {
+    // Prevent multiple initializations
+    if (mapInitialized) {
+      return;
+    }
+
     try {
-      debug("Initializing map...");
+      // Set initialization flag immediately
+      mapInitialized = true;
 
       // Verify the container exists
       const mapContainer = document.getElementById('map-container');
       if (!mapContainer) {
         throw new Error("Map container not found");
-      }
-      debug("Map container found");
-
-      // Load test image to verify the image path is correct and accessible
-      const testImg = new Image();
-      testImg.onload = function() {
-        debug(`Test image loaded successfully: ${testImg.width}x${testImg.height}`);
-        createLeafletMap(testImg.width, testImg.height);
-      };
-
-      testImg.onerror = function() {
-        debug(`ERROR: Failed to load image from: ${mapSource}`);
-        mapContainer.innerHTML = `
-          <div style="padding: 20px; background: #f8d7da; color: #721c24; text-align: center;">
-            <h3>Map Image Failed to Load</h3>
-            <p>Could not load image from: ${mapSource}</p>
-            <p>Please check that the image path is correct and the file exists on the server.</p>
-          </div>
-        `;
-      };
-
-      debug(`Loading test image from: ${mapSource}`);
-      testImg.src = mapSource;
-    } catch (err) {
-      debug(`Initialization error: ${err.message}`);
-      document.getElementById('map-container').innerHTML = `
-        <div style="padding: 20px; background: #f8d7da; color: #721c24; text-align: center;">
-          <h3>Map Initialization Error</h3>
-          <p>${err.message}</p>
-        </div>
-      `;
-    }
-  }
-
-  // Function to create the actual Leaflet map
-  function createLeafletMap(imgWidth, imgHeight) {
-    try {
-      debug(`Creating Leaflet map with image dimensions: ${imgWidth}x${imgHeight}`);
-
-      // Initialize with hardcoded fallback dimensions if needed
-      if (!imgWidth || !imgHeight) {
-        debug("WARNING: Using fallback dimensions");
-        imgWidth = imgWidth || 1000;
-        imgHeight = imgHeight || 1000;
       }
 
       // Initialize the map with basic options
@@ -111,53 +68,61 @@
         crs: L.CRS.Simple,
         minZoom: -3,
         maxZoom: 4,
-        zoomControl: false
+        zoomControl: false,
+        attributionControl: false  // Explicitly disable attribution control
       });
 
-      debug("Map object created");
-
-      // Calculate bounds based on image dimensions
+      // Calculate bounds - either use the preloaded image dimensions or fallback
+      const imgWidth = preloadImg.width || 1000;
+      const imgHeight = preloadImg.height || 1000;
       const bounds = [[0, 0], [imgHeight, imgWidth]];
 
-      // Create the image overlay
-      const imageOverlay = L.imageOverlay(mapSource, bounds).addTo(map);
-      debug("Image overlay added to map");
-
-      // Add event listener for when the image loads
-      imageOverlay.once('load', function() {
-        debug("Image overlay loaded successfully");
-      });
+      // Create the image overlay with forced eager loading
+      const imageOverlay = L.imageOverlay(mapSource, bounds, {
+        className: 'map-overlay-image'
+      }).addTo(map);
 
       // Set the initial view
       map.fitBounds(bounds);
-      debug("Map view set to fit bounds");
 
       // Add zoom control
       L.control.zoom({
         position: 'bottomright'
       }).addTo(map);
-      debug("Zoom controls added");
 
       // Setup dark mode observer
       setupDarkModeObserver();
-      debug("Map initialization complete");
 
       // Hide the loading message
-      document.getElementById('map-loading').style.display = 'none';
+      const loadingEl = document.getElementById('map-loading');
+      if (loadingEl) {
+        loadingEl.style.display = 'none';
+      }
+
+      // Force image visibility after a short delay
+      setTimeout(forceMapImageVisibility, 100);
+
+      // Also periodically check and force visibility
+      const visibilityInterval = setInterval(forceMapImageVisibility, 1000);
+
+      // Clear interval after 10 seconds
+      setTimeout(() => clearInterval(visibilityInterval), 10000);
     } catch (err) {
-      debug(`Leaflet creation error: ${err.message}`);
+      console.error("Map initialization error:", err);
       document.getElementById('map-container').innerHTML = `
         <div style="padding: 20px; background: #f8d7da; color: #721c24; text-align: center;">
-          <h3>Leaflet Map Creation Error</h3>
+          <h3>Map Initialization Error</h3>
           <p>${err.message}</p>
         </div>
       `;
+
+      // Reset initialization flag if there was an error
+      mapInitialized = false;
     }
   }
 
   // Setup dark mode observer
   function setupDarkModeObserver() {
-    debug("Setting up dark mode observer");
     const observer = new MutationObserver(function(mutations) {
       mutations.forEach(function(mutation) {
         if (mutation.attributeName === 'data-theme') {
@@ -169,7 +134,6 @@
           } else {
             mapContainer.classList.remove('dark-mode');
           }
-          debug(`Dark mode ${isDarkMode ? 'enabled' : 'disabled'}`);
         }
       });
     });
@@ -177,22 +141,11 @@
     observer.observe(document.documentElement, { attributes: true });
   }
 
-  // Make sure DOM is loaded before initialization
-  if (document.readyState === 'loading') {
-    debug("DOM still loading, waiting for DOMContentLoaded");
-    document.addEventListener('DOMContentLoaded', initializeMap);
-  } else {
-    debug("DOM already loaded, initializing immediately");
-    initializeMap();
-  }
-
-  // Add backup initialization in case something goes wrong with the event listeners
-  window.setTimeout(function() {
-    if (document.getElementById('map-loading').style.display !== 'none') {
-      debug("BACKUP: Map not initialized after 3 seconds, trying again");
-      initializeMap();
-    }
-  }, 3000);
+  // Wait for DOM to be fully loaded
+  document.addEventListener('DOMContentLoaded', function() {
+    // Wait a small amount of time to ensure everything is ready
+    setTimeout(initializeMap, 50);
+  });
 </script>
 
 <style>
@@ -244,16 +197,50 @@
     background: var(--map-background, rgb(226 243 253));
   }
 
-  /* Ensure map images ignore lazy loading */
+  /* Explicitly hide leaflet attribution */
+  .leaflet-control-attribution {
+    display: none !important;
+  }
+
+  /* Super aggressive overrides for the site's lazy loading CSS */
   .leaflet-container img,
-  .leaflet-image-layer img {
-    loading: eager !important;
+  .leaflet-image-layer img,
+  img.map-overlay-image,
+  img.leaflet-image-layer,
+  .leaflet-container img.leaflet-image-layer,
+  body .leaflet-container img,
+  #map-container img,
+  .map-overlay-image,
+  #map-container .leaflet-overlay-pane img {
+    visibility: visible !important;
+    display: block !important;
+    opacity: 1 !important;
+    margin: 0 !important;
+    border-radius: 0 !important;
+    max-width: none !important;
+  }
+
+  /* Even more specific selectors */
+  html body .leaflet-container img {
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+
+  /* Override any transition effects */
+  .leaflet-fade-anim .leaflet-tile,
+  .leaflet-fade-anim .leaflet-popup,
+  .leaflet-image-layer {
+    transition: none !important;
+    animation: none !important;
+    opacity: 1 !important;
+    visibility: visible !important;
   }
 
   /* Style adjustments for dark mode */
   #map-container.dark-mode .leaflet-tile,
   #map-container.dark-mode .leaflet-image-layer {
     filter: hue-rotate(200deg) invert(95%) saturate(60%) sepia(0%) brightness(100%);
+    visibility: visible !important;
   }
 
   /* Make sure controls are still visible in dark mode */
