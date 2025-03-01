@@ -1,25 +1,51 @@
 /* COLORS.JS // @author: Jip Frijlink // Script that themes articles with colour */
 
-const colors = {
-  blue: [28, 123, 205],
-  brown: [162, 132, 94],
-  cyan: [50, 173, 230],
-  gray: [95, 95, 105],
-  green: [92, 185, 85],
-  indigo: [88, 86, 214],
-  mint: [0, 199, 190],
-  orange: [237, 122, 69],
-  pink: [225, 28, 110],
-  purple: [155, 67, 199],
-  red: [221, 52, 71],
-  teal: [48, 176, 199],
-  yellow: [234, 147, 101],
+// Add color parser helper
+function parseColor(color) {
+  if (Array.isArray(color)) return color;
+  
+  // Handle hex colors
+  if (color.startsWith('#')) {
+    const hex = color.replace('#', '');
+    const r = parseInt(hex.substring(0, 2), 16);
+    const g = parseInt(hex.substring(2, 4), 16);
+    const b = parseInt(hex.substring(4, 6), 16);
+    return [r, g, b];
+  }
+  
+  // Handle space-separated RGB
+  if (typeof color === 'string' && color.includes(' ')) {
+    return color.split(' ').map(v => parseInt(v));
+  }
+  
+  // Handle comma-separated RGB
+  if (typeof color === 'string' && color.includes(',')) {
+    return color.split(',').map(v => parseInt(v));
+  }
+  
+  return color;
+}
 
-  millmint: [225, 28, 110],
-  vekllei: [238, 119, 66],
-  vnr: [255, 86, 79],
-  mail: [221, 76, 86],
-  gr: [31, 205, 88],
+const colors = {
+  blue: '#1C7BCD',
+  brown: '#A2845E',
+  cyan: '#32ADE6',
+  gray: '#5F5F69',
+  green: '#5CB955',
+  indigo: '#5856D6',
+  mint: '#00C7BE',
+  orange: '#ED7A45',
+  pink: '#E11C6E',
+  purple: '#9B43C7',
+  red: '#DD3447',
+  teal: '#30B0C7',
+  yellow: '#EA9365',
+
+  millmint: '#E11C6E',
+  vekllei: '#EE7742',
+  vnr: '#FF564F',
+  mail: '#DD4C56',
+  gr: '#1FCD58',
 
   commerce: [228, 160, 14],
   commons: [255, 86, 79],
@@ -161,9 +187,11 @@ async function getColors(img, retryCount = 0, callback = setColors) {
 }
 
 
-function setColors(rgb, doBackground = true, el = document.body) {
+function setColors(color, doBackground = true, el = document.body) {
+  const rgb = parseColor(color);
+  
   if (!rgb || rgb.length !== 3) {
-    console.error("Invalid RGB value:");
+    console.error("Invalid color value:", color);
     return;
   }
 

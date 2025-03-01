@@ -3,7 +3,9 @@
 <!DOCTYPE html>
 <html lang='{{ .Site.LanguageCode }}'>
 {{- partial "head.html" . -}}
+<!-- Move Leaflet CSS to head for better loading -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
 <body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
   <main>
@@ -48,28 +50,26 @@
 
   // Function to initialize the map once
   function initializeMap() {
-    // Prevent multiple initializations
-    if (mapInitialized) {
-      return;
-    }
+    if (mapInitialized) return;
 
     try {
-      // Set initialization flag immediately
       mapInitialized = true;
 
-      // Verify the container exists
       const mapContainer = document.getElementById('map-container');
-      if (!mapContainer) {
-        throw new Error("Map container not found");
-      }
+      if (!mapContainer) throw new Error("Map container not found");
 
-      // Initialize the map with basic options
+      // Create map with optimized options
       const map = L.map('map-container', {
         crs: L.CRS.Simple,
         minZoom: -3,
         maxZoom: 4,
         zoomControl: false,
-        attributionControl: false  // Explicitly disable attribution control
+        attributionControl: false,
+        fadeAnimation: false,    // Disable fade animations for better performance
+        zoomAnimation: true,     // Keep zoom animation for better UX
+        markerZoomAnimation: false,
+        transform3DLimit: 2,     // Optimize 3D transforms
+        preferCanvas: true       // Use Canvas renderer for better performance
       });
 
       // Calculate bounds - either use the preloaded image dimensions or fallback
@@ -141,11 +141,12 @@
     observer.observe(document.documentElement, { attributes: true });
   }
 
-  // Wait for DOM to be fully loaded
-  document.addEventListener('DOMContentLoaded', function() {
-    // Wait a small amount of time to ensure everything is ready
+  // Optimize initialization timing
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => setTimeout(initializeMap, 50));
+  } else {
     setTimeout(initializeMap, 50);
-  });
+  }
 </script>
 
 <style>
@@ -247,5 +248,42 @@
   #map-container.dark-mode .leaflet-control {
     background-color: rgba(50, 50, 50, 0.8);
     color: #fff;
+  }
+  /* Improved zoom control positioning and visibility */
+  .leaflet-bottom.leaflet-right {
+    bottom: 40px;
+    right: 80px;  /* Increased from 20px to 80px to move controls more inward */
+  }
+
+  .leaflet-control-zoom {
+    border: 2px solid rgba(0, 0, 0, 0.2) !important;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2) !important;
+  }
+
+  .leaflet-control-zoom a {
+    width: 36px !important;
+    height: 36px !important;
+    line-height: 36px !important;
+    font-size: 18px !important;
+    background-color: white !important;
+  }
+
+  /* Dark mode adjustments for zoom controls */
+  #map-container.dark-mode .leaflet-control-zoom {
+    border-color: rgba(255, 255, 255, 0.3) !important;
+  }
+
+  #map-container.dark-mode .leaflet-control-zoom a {
+    background-color: rgba(50, 50, 50, 0.9) !important;
+    color: white !important;
+  }
+
+  /* Performance optimizations */
+  .leaflet-container {
+    will-change: transform;
+  }
+
+  .leaflet-zoom-anim .leaflet-zoom-animated {
+    will-change: transform;
   }
 </style>

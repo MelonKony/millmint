@@ -18,9 +18,16 @@ document.addEventListener('DOMContentLoaded', function () {
 	});
   
 	const previewContainer = document.getElementById('preview-container');
-	let searchData = [];
-	let isTooltipAllowed = window.innerWidth >= 500;
-	
+  
+  // Add safety check
+  if (!previewContainer) {
+    console.error('Preview container element not found');
+    return;
+  }
+
+  let searchData = [];
+  let isTooltipAllowed = window.innerWidth >= 500;
+  
 	// Track active tooltip state
 	let activeTooltipUrl = null;
 	let isProcessingTooltip = false;
