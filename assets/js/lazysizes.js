@@ -1,4 +1,4 @@
-/** lazysizes.js */
+/** lazysizes.js, used to autosize and lazy load images across millmint.net */
 
 (function(window, factory) {
 	var lazySizes = factory(window, window.document, Date);

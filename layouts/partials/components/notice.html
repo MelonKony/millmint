@@ -9,8 +9,9 @@
 
   #notice {
     margin: .5rem 0 0 0;
-    display: none;
+    display: flex;
     align-items: center;
+    display: none;
   }
 
   .close-btn:hover {
@@ -21,7 +22,6 @@
     margin-right: 5px;
     line-height: .8rem;
   }
-  
   span.nav-tag {
     font-size: 0.6rem;
     margin-left: 5px;
@@ -34,73 +34,61 @@
   }
 </style>
 
+
 <blockquote id="notice" class="note panel" style="padding: .5rem;">
   {{ range ( where .Site.RegularPages "Type" "stories" | first 1 ) }}
-    <span class="tag new-tag">NEW</span> <a
-      style="white-space: nowrap; overflow:hidden;" href="{{ .Permalink }}"><span class="navicon">📗</span>Story: <i>{{ .Title }}</i></a>
-    <span id="close-btn" class="navicon close-btn">❌</span>
-  {{ end }}
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="{{ .Permalink }}"><span class="navicon">📗</span>Story: <i>{{ .Title
+    }}</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
 </blockquote>
+{{end}}
 
 <script>
-  function getStorageItem(key, defaultValue = []) {
-    try {
-      return JSON.parse(localStorage.getItem(key)) || defaultValue;
-    } catch {
-      return defaultValue;
-    }
-  }
-
-  function setStorageItem(key, value) {
-    try {
-      localStorage.setItem(key, JSON.stringify(value));
-    } catch (e) {
-      console.warn('Failed to save to localStorage:', e);
-    }
-  }
+  {{ $searchDataFile := printf "%s.search-data.json" .Language.Lang }}
+  {{ $searchData := resources.Get "search-data.json" | resources.ExecuteAsTemplate $searchDataFile . | resources.Minify | resources.Fingerprint }}
 
   function checkNewStories() {
     const notice = document.querySelector("#notice");
     const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
-    
-    if (!notice || !storiesLink) return;
 
-    const noticesSeen = getStorageItem("noticesSeen");
-    const noticesVisited = getStorageItem("noticesVisited");
-    const noticeLink = notice.querySelector("a");
-    
-    if (!noticeLink) return;
-    
-    const currentNoticeHref = noticeLink.href;
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
 
-    if (location.pathname.startsWith('/stories/')) {
+    if(location.pathname.startsWith('/stories/')) {
+      // When visiting /stories/, add "last story" to localStorage
       noticesVisited.push(currentNoticeHref);
-      setStorageItem("noticesVisited", noticesVisited);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
     }
 
-    if (!noticesVisited.includes(currentNoticeHref)) {
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      // If the user hasn't visited /stories/
       const newTag = document.createElement("span");
       newTag.classList.add("tag", "new-tag", "nav-tag");
       newTag.textContent = "NEW";
-      storiesLink.insertBefore(newTag, storiesLink.children[2]);
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
     }
 
-    if (noticesSeen.includes(currentNoticeHref)) {
+    if(noticesSeen.includes(currentNoticeHref)) {
+      // If the user has dismissed the notice
       notice.style.display = "none";
-      return;
     }
 
-    notice.style.display = "flex";
-
-    const hideNotice = () => {
+    // Add close button functionality
+    notice.querySelector("#close-btn").addEventListener("click", () => {
       noticesSeen.push(currentNoticeHref);
-      setStorageItem("noticesSeen", noticesSeen);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
       notice.style.display = "none";
-    };
-
-    notice.querySelector("#close-btn").addEventListener("click", hideNotice);
-    noticeLink.addEventListener("click", hideNotice);
+    })
+    // Add close on link click functionality
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
   }
 
-  document.addEventListener("DOMContentLoaded", checkNewStories);
+  checkNewStories()
 </script>

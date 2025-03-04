@@ -3,6 +3,7 @@ title: Cobian
 color: yellow
 
 fi: fi fi-cobian fis
+description: Cobian is Tzipora's longtime friend and occasional girlfriend. Stern in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe.
 
 toc: false
 meta: false

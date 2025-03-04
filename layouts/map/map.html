@@ -3,287 +3,122 @@
 <!DOCTYPE html>
 <html lang='{{ .Site.LanguageCode }}'>
 {{- partial "head.html" . -}}
-<!-- Move Leaflet CSS to head for better loading -->
+<!-- Leaflet CSS and JS -->
+<!-- Keep only these in the head section -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<!-- Replace the existing fullscreen CSS/JS links with these -->
+<link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' rel='stylesheet' />
+<script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
 
 <body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
   <main>
-    <div class="floating-nav">
+    <div class="nav">
       {{- partial "header.html" . -}}
       {{- partial "nav.html" . -}}
     </div>
 
     <div id="map-container">
       <div id="map-loading">Loading map...</div>
+      <div id="map" style="width: 100%; height: 75vh;"></div>
     </div>
   </main>
   {{- partial "resources/js.html" . -}}
   {{- partial "script.html" . -}}
-</body>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const mapLoading = document.getElementById('map-loading');
+            
+            // Get the image path from the page parameters or use a default
+            const imagePath = {{ if .Params.map }}{{ printf "%q" .Params.map | safeJS }}{{ else }}"/svg/maps/world.png"{{ end }};
+            
+            // Create map instance with better options
+            const map = L.map('map', {
+                crs: L.CRS.Simple,
+                minZoom: -3,
+                maxZoom: 2,
+                zoomControl: false,  // Disable default zoom controls
+                attributionControl: false
+            });
 
-<!-- Leaflet script -->
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-
-<script>
-  // Flag to prevent multiple initializations
-  let mapInitialized = false;
-
-  // Get the map source from Hugo parameters
-  const mapSource = "{{ .Params.map }}";
-
-  // Preload the image immediately
-  const preloadImg = new Image();
-  preloadImg.setAttribute('loading', 'eager');
-  preloadImg.src = mapSource;
-
-  // Force override visibility of map images
-  function forceMapImageVisibility() {
-    // Apply forced visibility to all Leaflet-related images
-    const allImgs = document.querySelectorAll('.leaflet-container img, .leaflet-image-layer img');
-    allImgs.forEach(img => {
-      img.style.visibility = 'visible !important';
-      img.style.display = 'block !important';
-      img.style.opacity = '1 !important';
-    });
-  }
-
-  // Function to initialize the map once
-  function initializeMap() {
-    if (mapInitialized) return;
-
-    try {
-      mapInitialized = true;
-
-      const mapContainer = document.getElementById('map-container');
-      if (!mapContainer) throw new Error("Map container not found");
-
-      // Create map with optimized options
-      const map = L.map('map-container', {
-        crs: L.CRS.Simple,
-        minZoom: -3,
-        maxZoom: 4,
-        zoomControl: false,
-        attributionControl: false,
-        fadeAnimation: false,    // Disable fade animations for better performance
-        zoomAnimation: true,     // Keep zoom animation for better UX
-        markerZoomAnimation: false,
-        transform3DLimit: 2,     // Optimize 3D transforms
-        preferCanvas: true       // Use Canvas renderer for better performance
-      });
-
-      // Calculate bounds - either use the preloaded image dimensions or fallback
-      const imgWidth = preloadImg.width || 1000;
-      const imgHeight = preloadImg.height || 1000;
-      const bounds = [[0, 0], [imgHeight, imgWidth]];
-
-      // Create the image overlay with forced eager loading
-      const imageOverlay = L.imageOverlay(mapSource, bounds, {
-        className: 'map-overlay-image'
-      }).addTo(map);
-
-      // Set the initial view
-      map.fitBounds(bounds);
-
-      // Add zoom control
-      L.control.zoom({
-        position: 'bottomright'
-      }).addTo(map);
-
-      // Setup dark mode observer
-      setupDarkModeObserver();
-
-      // Hide the loading message
-      const loadingEl = document.getElementById('map-loading');
-      if (loadingEl) {
-        loadingEl.style.display = 'none';
-      }
-
-      // Force image visibility after a short delay
-      setTimeout(forceMapImageVisibility, 100);
-
-      // Also periodically check and force visibility
-      const visibilityInterval = setInterval(forceMapImageVisibility, 1000);
-
-      // Clear interval after 10 seconds
-      setTimeout(() => clearInterval(visibilityInterval), 10000);
-    } catch (err) {
-      console.error("Map initialization error:", err);
-      document.getElementById('map-container').innerHTML = `
-        <div style="padding: 20px; background: #f8d7da; color: #721c24; text-align: center;">
-          <h3>Map Initialization Error</h3>
-          <p>${err.message}</p>
-        </div>
-      `;
-
-      // Reset initialization flag if there was an error
-      mapInitialized = false;
-    }
-  }
-
-  // Setup dark mode observer
-  function setupDarkModeObserver() {
-    const observer = new MutationObserver(function(mutations) {
-      mutations.forEach(function(mutation) {
-        if (mutation.attributeName === 'data-theme') {
-          const isDarkMode = document.documentElement.getAttribute('data-theme') === 'dark';
-          const mapContainer = document.getElementById('map-container');
-
-          if (isDarkMode) {
-            mapContainer.classList.add('dark-mode');
-          } else {
-            mapContainer.classList.remove('dark-mode');
-          }
+            // Load the image
+            const img = new Image();
+            img.onload = function() {
+                const w = this.width;
+                const h = this.height;
+                const bounds = [[0, 0], [h, w]];
+                
+                L.imageOverlay(imagePath, bounds).addTo(map);
+                map.fitBounds(bounds);
+                
+                // Add zoom controls in bottom right
+                L.control.zoom({
+                    position: 'bottomright'
+                }).addTo(map);
+                
+                // Add fullscreen control
+                L.control.fullscreen({
+                    position: 'bottomright',
+                    title: 'Toggle fullscreen',
+                    forceSeparateButton: true
+                }).addTo(map);
+                
+                // Hide loading message
+                mapLoading.style.display = 'none';
+            };
+            
+            img.onerror = function() {
+                mapLoading.textContent = 'Error loading map image. Please check the path.';
+                mapLoading.style.color = 'red';
+            };
+            
+            img.src = imagePath;
+        });
+    </script>
+    
+    <style>
+        #map-container {
+            position: relative;
+            width: 100%;
+            height: 75vh;
+            padding: 0;
         }
-      });
-    });
-
-    observer.observe(document.documentElement, { attributes: true });
-  }
-
-  // Optimize initialization timing
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', () => setTimeout(initializeMap, 50));
-  } else {
-    setTimeout(initializeMap, 50);
-  }
-</script>
-
-<style>
-  body {
-    background-color: rgb(226 243 253);
-    margin: 0;
-    overflow: hidden;
-  }
-
-  body main {
-    margin-top: 0!important;
-    margin-bottom: 0!important;
-    position: relative;
-    z-index: 1;
-    height: calc(100vh - 24px);
-    padding-bottom: 0;
-  }
-
-  #map-container {
-    height: 100vh;
-    width: 100vw;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 0;
-    margin-left: calc((100% - 100vw) / 2);
-  }
-
-  #map-loading {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background: rgba(255,255,255,0.8);
-    padding: 10px 20px;
-    border-radius: 5px;
-    font-weight: bold;
-  }
-
-  .leaflet-bottom {
-    bottom: 10px;
-  }
-
-  .leaflet-right {
-    right: 40px;
-  }
-
-  .leaflet-container {
-    background: var(--map-background, rgb(226 243 253));
-  }
-
-  /* Explicitly hide leaflet attribution */
-  .leaflet-control-attribution {
-    display: none !important;
-  }
-
-  /* Super aggressive overrides for the site's lazy loading CSS */
-  .leaflet-container img,
-  .leaflet-image-layer img,
-  img.map-overlay-image,
-  img.leaflet-image-layer,
-  .leaflet-container img.leaflet-image-layer,
-  body .leaflet-container img,
-  #map-container img,
-  .map-overlay-image,
-  #map-container .leaflet-overlay-pane img {
-    visibility: visible !important;
-    display: block !important;
-    opacity: 1 !important;
-    margin: 0 !important;
-    border-radius: 0 !important;
-    max-width: none !important;
-  }
-
-  /* Even more specific selectors */
-  html body .leaflet-container img {
-    visibility: visible !important;
-    opacity: 1 !important;
-  }
-
-  /* Override any transition effects */
-  .leaflet-fade-anim .leaflet-tile,
-  .leaflet-fade-anim .leaflet-popup,
-  .leaflet-image-layer {
-    transition: none !important;
-    animation: none !important;
-    opacity: 1 !important;
-    visibility: visible !important;
-  }
-
-  /* Style adjustments for dark mode */
-  #map-container.dark-mode .leaflet-tile,
-  #map-container.dark-mode .leaflet-image-layer {
-    filter: hue-rotate(200deg) invert(95%) saturate(60%) sepia(0%) brightness(100%);
-    visibility: visible !important;
-  }
-
-  /* Make sure controls are still visible in dark mode */
-  #map-container.dark-mode .leaflet-control {
-    background-color: rgba(50, 50, 50, 0.8);
-    color: #fff;
-  }
-  /* Improved zoom control positioning and visibility */
-  .leaflet-bottom.leaflet-right {
-    bottom: 40px;
-    right: 80px;  /* Increased from 20px to 80px to move controls more inward */
-  }
-
-  .leaflet-control-zoom {
-    border: 2px solid rgba(0, 0, 0, 0.2) !important;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2) !important;
-  }
-
-  .leaflet-control-zoom a {
-    width: 36px !important;
-    height: 36px !important;
-    line-height: 36px !important;
-    font-size: 18px !important;
-    background-color: white !important;
-  }
-
-  /* Dark mode adjustments for zoom controls */
-  #map-container.dark-mode .leaflet-control-zoom {
-    border-color: rgba(255, 255, 255, 0.3) !important;
-  }
-
-  #map-container.dark-mode .leaflet-control-zoom a {
-    background-color: rgba(50, 50, 50, 0.9) !important;
-    color: white !important;
-  }
-
-  /* Performance optimizations */
-  .leaflet-container {
-    will-change: transform;
-  }
-
-  .leaflet-zoom-anim .leaflet-zoom-animated {
-    will-change: transform;
-  }
-</style>
+        
+        #map {
+            width: 100%;
+            height: 75vh;  /* Match the container height */
+            background: rgb(232, 242, 250);
+            border-radius: 0.25rem;
+        }
+        
+        [data-theme="dark"] #map {
+            background: rgba(18, 18, 25, 1);
+        }
+        
+        [data-theme="dark"] .leaflet-image-layer {
+            filter: invert(1) hue-rotate(180deg);
+        }
+        
+        #map-loading {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 1000;
+            background: rgba(255, 255, 255, 0.8);
+            padding: 10px 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        .floating-nav {
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 1000;
+            background: rgba(255, 255, 255, 0.8);
+            padding: 10px;
+            border-radius: 0 0 5px 0;
+        }
+    </style>
+</body>

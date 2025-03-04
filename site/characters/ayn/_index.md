@@ -3,6 +3,7 @@ title: Ayn
 color: yellow
 
 fi: fi fi-ayn fis
+description: Ayn is a longtime associate of Baron and a maternal figure to Tzipora. She commands an affectionate and stable presence, intelligent and patient in her work and home life.
 
 toc: false
 meta: false

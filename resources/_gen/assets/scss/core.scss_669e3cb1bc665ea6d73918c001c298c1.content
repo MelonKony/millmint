@@ -191,15 +191,27 @@ html[data-theme="dark"] {
   --color-navbar-item-active: #f0f0f6;
   --color-navbar-item-in-section: #dddddd; }
 
+* {
+  box-sizing: border-box;
+  max-width: 100vw; }
+
 html {
   color: var(--font-color);
   overflow-y: scroll;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif, 'Emoji', apple color emoji;
   font-size: 16px;
   line-height: 1.5; }
 
 body {
-  background-color: var(--body-background); }
+  background-color: var(--body-background);
+  position: relative;
+  width: 100%;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0; }
 
 main {
   margin-left: auto;
@@ -209,8 +221,10 @@ main {
   padding: 1.5rem;
   border-radius: 0.25rem;
   background-color: var(--main-background);
-  box-sizing: content-box;
-  max-width: 45rem; }
+  box-sizing: border-box;
+  max-width: 45rem;
+  width: 100%;
+  overflow-x: hidden; }
 
 figure {
   margin: 0; }
@@ -529,7 +543,7 @@ article[autonumbering] h5:before {
 
 .side-right {
   border-radius: 0.25rem;
-  padding: 2rem;
+  padding: 1rem;
   float: right;
   clear: right;
   margin-right: calc(-200px - 7rem);
@@ -1528,11 +1542,17 @@ article img {
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
     gap: 10px;
     grid-auto-flow: row;
     list-style: none;
     padding: 0; }
+    @media (max-width: 1024px) {
+      .postcard-layout .postcard-grid {
+        grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 640px) {
+      .postcard-layout .postcard-grid {
+        grid-template-columns: 1fr; } }
   .postcard-layout .card {
     border-radius: 0.25rem;
     justify-self: center;
@@ -1540,42 +1560,54 @@ article img {
     list-style: none;
     border: 2px solid var(--gray-med);
     width: 100%;
+    height: 400px;
     box-sizing: border-box;
     background: var(--gray-light);
     transition: ease 0.15s;
     position: relative;
-    z-index: 2; }
+    z-index: 2;
+    overflow: hidden; }
     .postcard-layout .card figure {
       margin: 0; }
     .postcard-layout .card a {
-      text-decoration: none; }
-    .postcard-layout .card .postcard-meta .title {
-      padding-left: 0.25rem;
-      padding-right: 0.25rem;
-      margin-top: 0;
-      margin-bottom: 0;
-      font-size: 1.125rem;
-      line-height: 1.75rem;
-      font-weight: 600;
-      color: var(--font-color);
-      line-height: 1.2;
-      font-weight: 500; }
+      text-decoration: none;
+      height: 100%;
+      display: flex;
+      flex-direction: column; }
+    .postcard-layout .card .postcard-meta {
+      position: relative;
+      z-index: 3; }
+      .postcard-layout .card .postcard-meta .title {
+        padding-left: 0.25rem;
+        padding-right: 0.25rem;
+        margin-top: 0;
+        margin-bottom: 0;
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+        font-weight: 600;
+        color: var(--font-color);
+        line-height: 1.2;
+        font-weight: 500; }
     .postcard-layout .card .postcard-image {
+      flex: 1;
+      min-height: 0;
       border-radius: 0.25rem;
       border-top-left-radius: 0;
       border-top-right-radius: 0;
       overflow: hidden;
       background: black;
-      z-index: 1; }
+      z-index: 1;
+      position: relative; }
       .postcard-layout .card .postcard-image img {
         margin-top: 0;
         margin-bottom: 0;
+        position: absolute;
+        top: 0;
         height: 360px !important;
         object-fit: cover !important;
         object-position: top !important;
         transform: scale(1.1);
-        width: 100%;
-        height: auto; }
+        width: 100%; }
     .postcard-layout .card:hover {
       border: 2px solid var(--highlight);
       box-shadow: 0px 5px 10px 2.5px var(--highlight-background);
@@ -1702,19 +1734,14 @@ article img {
   50% {
     transform: scale(0.9); } }
 
-/* Pagination */
 .pagination {
   display: flex;
   justify-content: center;
   gap: 5px;
-  /* Space between pagination buttons */
   max-width: 100%;
-  /* Ensure it doesn't exceed the main content width */
   margin: 20px auto;
-  /* Center pagination */
   flex-wrap: wrap;
   padding: 5px;
-  /* Add some padding for compactness */
   box-sizing: border-box; }
 
 .pagination-button {
@@ -1725,10 +1752,8 @@ article img {
   padding-left: 1rem;
   padding-right: 1rem;
   border: 1px solid transparent;
-  /* Light border */
   background-color: var(--gray-light);
   border-radius: 5px;
-  /* Rounded corners */
   cursor: pointer;
   transition: background-color 0.3s ease; }
 
@@ -1742,7 +1767,6 @@ article img {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem; }
 
-/* Loading indicator */
 .loading-spinner {
   display: none;
   margin: 2rem auto;

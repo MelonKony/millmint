@@ -1,6 +1,7 @@
 ---
 title: Lin Zhi
 color: yellow
+description: Lin Zhi is Tzipora's friend and occasional accomplice. She is surly, independent and uninterested in the opinions of others. She meets Tzipora at Moshel St School.
 
 fi: fi fi-zhi fis
 

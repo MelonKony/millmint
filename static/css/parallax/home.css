@@ -81,8 +81,6 @@ See: https://css-tricks.com/aspect-ratio-boxes/
 /* CUSTOM CSS */
 
 body {
-  background-color: rgba(178, 192, 111, 1);
-  color: rgba(98, 136, 43, 1);
   background-image: none;
 }
 
@@ -91,7 +89,6 @@ h1 {
   font-size: 4.5rem;
   line-height: 4rem;
   word-wrap: break-word;
-  color: rgba(63, 96, 17, 1)
 }
 
 /* Media query for larger screens */
@@ -120,24 +117,6 @@ h2 {
   margin-bottom: 2rem;
 }
 
-::selection {
-	background: color: rgba(98, 136, 43, 1);
-	color: var(--hint-bg);
-	filter: none;
-}
-
-p {
-  color: rgba(63, 96, 17, 1)
-}
-
-article {
-  margin: 0 1rem;
-}
-
-.content a {
-		color: rgba(35, 56, 6, 1);
-}
-
 .breadcrumbs {
   display: none;
 }
@@ -151,7 +130,7 @@ article {
   left: 0;
   padding: 0;
   z-index: -1;
-  height: 100vh;
+  height: 80vh;
   width: 100vw;
   margin-left: calc((100% - 100vw) / 2);
 }
@@ -164,40 +143,4 @@ article {
   padding-bottom: 0;
   box-sizing: inherit;
   position: relative;
-}
-
-.home-main {
-  background: transparent;
-
-  .home-grid {
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(6.25rem, 1fr));
-	gap: 0.5rem;
-  }
-
-  .book {
-	border: 3px solid rgba(98, 136, 43, 1);
-	background: transparent;
-	padding: .5rem;
-	font-weight: 500;
-	text-align: center;
-	border-radius: .25rem;
-	color: rgb(63, 96, 17);
-
-	.navicon {
-	  font-size: 4.5rem;
-	}
-  }
-
-  .book:hover {
-	--tw-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
-	box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
-	transform: translate(0, -2.5px);
-	text-decoration: none;
-  }
-}
-
-header.info,
-footer {
-  display: none;
 }

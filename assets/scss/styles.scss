@@ -4,9 +4,17 @@
 @import 'colors';
 
 // Base styles
+* {
+  box-sizing: border-box;
+  max-width: 100vw;
+}
+
 html {
   @include font-color;
   overflow-y: scroll;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif, 'Emoji', apple color emoji;
   font-size: 16px;
   @include body-line-height;
@@ -14,6 +22,11 @@ html {
 
 body {
   background-color: var(--body-background);
+  position: relative;
+  width: 100%;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
 }
 
 main {
@@ -22,8 +35,10 @@ main {
   @include padding-5;
   @include radius-base;
   @include body-background-color;
-  box-sizing: content-box;
+  box-sizing: border-box;  // Changed from content-box
   max-width: 45rem;
+  width: 100%;  // Add this
+  overflow-x: hidden;  // Add this
 }
 
 // Figures and captions
@@ -417,7 +432,7 @@ article[autonumbering] h5:before {
 
 .side-right {
   @include radius-base;
-  padding: 2rem;
+  padding: 1rem;
   float: right;
   clear: right;
   margin-right: calc(-200px - 7rem);

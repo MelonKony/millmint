@@ -17,7 +17,7 @@
     </article>
     {{ end }}
 
-    {{ $paginator := .Paginate (where .Pages "Type" "section") }}
+    {{ $paginator := .Paginate (where .Pages "Type" "section") 12 }}
     {{ partial "components/postcard.html" (dict "paginator" $paginator "ctx" .) }}
 
     {{- partial "footer.html" . -}}

@@ -1,7 +1,7 @@
 ---
 title: Stories
 fulltitle: Stories
-description: Stories of life and living in the country of Vekllei.
+description: Stories is where you can find all of Hobart's illustrations, and the stories they tell.
 emoji: ɋ
 icon: 📗
 color: yellow

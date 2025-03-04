@@ -2,6 +2,8 @@
 title: Astrid
 color: yellow
 
+description: Astrid Beaufoy is a young woman who works for the Bureau of Housing with Laura. She loves her job.
+
 toc: false
 meta: false
 autonumbering: false

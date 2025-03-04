@@ -6,14 +6,17 @@
 
 <body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
   <main>
-	{{- partial "header.html" . -}}
-	{{- partial "nav.html" . -}}
-	<article class="content" style="margin-top: 0;">
-	  <section class="page">
-		{{- partial "content" . }}
-	  </section>
-	</article>
-	{{- partial "footer.html" . -}}
+    {{- partial "header.html" . -}}
+    {{- partial "nav.html" . -}}
+    <article class="content" style="margin-top: 0;">
+      <section class="page">
+        {{ if .Content }}
+          {{- partial "content.html" . -}}
+        {{ end }}
+        {{ partial "terms-cloud.html" .Data.Terms }}
+      </section>
+    </article>
+    {{- partial "footer.html" . -}}
   </main>
   {{- partial "resources/js.html" . -}}
   {{- partial "script.html" . -}}

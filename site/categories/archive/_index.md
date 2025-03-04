@@ -4,7 +4,7 @@ color: yellow
 
 toc: false
 meta: false
-info: false
+heading: false
 autonumbering: false
 type: blank
 ---

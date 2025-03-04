@@ -21,7 +21,7 @@ aliases:
    Flag="/svg/flags/commonwealth.svg"
    SmallFlag="/svg/flags/4x3/com.svg"
    Constituents="83"
-   Anthem="Advance, Vekllei"
+   Anthem="Advance, Veletia"
    Government="Federal parliamentary directoral commonwealth"
    Population="26,774,629"
    Capital="Comet"

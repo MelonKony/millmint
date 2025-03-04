@@ -1,0 +1,90 @@
+{{/* 
+  document-code.html
+  Generates a document reference code based on file position in directories
+*/}}
+
+{{ if .File }}
+  {{ $code := "" }}
+  {{ $section := .Section }}
+  {{ $sectionPrefix := upper (substr $section 0 1) }}
+  {{ $coloredCode := slice }}
+  {{ $positions := slice }}
+  
+  {{ $dirs := split .File.Dir "/" }}
+  {{ $currentPath := "" }}
+
+  {{ range $index, $element := $dirs }}
+    {{ if ne $element "" }}
+      {{ $currentPath = printf "%s%s/" $currentPath $element }}
+      
+      {{ $siblings := where site.RegularPages "File.Dir" $currentPath }}
+      {{ $sortedSiblings := sort $siblings "File.LogicalName" }}
+      {{ $position := 1 }}
+      
+      {{ range $sortedSiblings }}
+        {{ if eq .File.Dir $currentPath }}
+          {{ $position = add $position 1 }}
+        {{ end }}
+      {{ end }}
+
+      {{ $positions = $positions | append $position }}
+      
+      {{ $color := "" }}
+      {{ range site.Pages }}
+        {{ if and .File (eq .File.Path (printf "%s_index.md" $currentPath)) }}
+          {{ if .Params.color }}
+            {{ $color = .Params.color }}
+          {{ else if .Params.rgb }}
+            {{ $color = .Params.rgb }}
+          {{ end }}
+          {{ break }}
+        {{ end }}
+      {{ end }}
+      
+      {{ if eq $index (sub (len $dirs) 1) }}
+        {{ $coloredCode = $coloredCode | append (dict "pos" $position "color" $color "separator" "/") }}
+      {{ else }}
+        {{ $coloredCode = $coloredCode | append (dict "pos" $position "color" $color "separator" "") }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ $filePosition := 1 }}
+  {{ $siblings := where site.RegularPages "File.Dir" .File.Dir }}
+  {{ $sortedSiblings := sort $siblings "File.LogicalName" }}
+  
+  {{ range $idx, $sibling := $sortedSiblings }}
+    {{ if eq $sibling.File.Path $.File.Path }}
+      {{ $filePosition = add $idx 1 }}
+      {{ break }}
+    {{ end }}
+  {{ end }}
+
+  {{ $fileColor := "" }}
+  {{ if .Params.color }}
+    {{ $fileColor = .Params.color }}
+  {{ else if .Params.rgb }}
+    {{ $fileColor = .Params.rgb }}
+  {{ end }}
+  
+  {{ $coloredCode = $coloredCode | append (dict "pos" $filePosition "color" $fileColor "separator" "") }}
+
+  {{ $finalCode := printf "<span style=\"display: inline-flex;\">%s-" $sectionPrefix }}
+    {{ range $idx, $item := $coloredCode }}
+      {{ if $item.color }}
+        {{ $colorClass := $item.color }}
+        {{ if strings.Contains $colorClass "," }}
+          {{ $finalCode = printf "%s<span style=\"color: rgb(%s)\">%d</span>%s" $finalCode $colorClass $item.pos $item.separator }}
+        {{ else }}
+          {{ $finalCode = printf "%s<span style=\"color: var(--color-%s)\">%d</span>%s" $finalCode $colorClass $item.pos $item.separator }}
+        {{ end }}
+      {{ else }}
+        {{ $finalCode = printf "%s%d%s" $finalCode $item.pos $item.separator }}
+      {{ end }}
+    {{ end }}
+    {{ $finalCode = printf "%s</span>" $finalCode }}
+
+  {{ $finalCode | safeHTML }}
+{{ else }}
+  {{ "N/A" }}
+{{ end }}

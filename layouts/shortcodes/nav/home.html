@@ -1,0 +1,214 @@
+<div class="show-all-images">
+  <div class="home-parallax">
+{{- partial "parallax/home.html" . -}}
+  </div>
+</div>
+
+<br>
+
+  <div class="home-main">
+    <div class="content">
+
+      <h1>Welcome to millmint.net</h1>
+      <h2>Home of [[Vekllei]]</h2>
+
+      <div class="home-grid">
+        <a class="book" href="/intro/">
+          <span class="navicon">📔</span>Intro
+        </a>
+        <a class="book" href="/factbook/">
+          <span class="navicon">📓</span> Factbook
+        </a>
+        <a class="book" href="/millmint/">
+          <span class="navicon">📕</span> MillMint
+        </a>
+        <a class="book" href="/stories/">
+          <span class="navicon">📗</span> Stories
+        </a>
+      </div>
+
+      <br>
+
+      <p>
+        This website is an open notebook for a fictional depiction of Earth in the 21st Century. It includes a a wiki called <a href="/factbook/"><span class="navicon">📓</span>Factbook</a>, hundreds of illustrated <a href="/stories/"><span class="navicon">📗</span>Stories</a>, and a collection of essays, notes and journals under the <a href="/millmint/"><span class="navicon">📓</span>MillMint</a> category. To get started, visit the <a href="/intro/"><span class="navicon">📕</span>Intro</a>, <a href="/faq/">FAQ</a>, or just have a look around.
+      </p>
+      <p>
+        You can find social links, RSS, dark mode and search in the navbar at the top of all pages, as well as a button for a table of contents on pages that have it.
+      </p>
+
+      <br>
+	  </div>
+	  </div>
+
+    <div class="bento">
+      <div class="box" one-third>
+        <a class="boxtitle" href="/intro/" blue>
+          <span class="navicon">📓</span>
+          <span class="name">To start</span>
+        </a>
+        <div class="tray" blue>
+          <a href="/vekllei/">
+            <span class="fi fi-com"></span>
+            <span class="name"> Vekllei</span>
+          </a>
+        </div>
+        <div class="tray" blue>
+          <a href="/maps/world/">
+            <span class="navicon">🌎</span>
+            <span class="name">World Map</span>
+          </a>
+        </div>
+        <div class="tray" blue>
+          <a href="/timeline/">
+            <span class="navicon">⏳</span>
+            <span class="name">Timeline</span>
+          </a>
+        </div>
+      </div>
+  
+      <div class="box" two-thirds>
+        <a class="boxtitle" href="/log/" blue>
+          <span class="navicon">📋</span>
+          <span class="name">Recent Updates</span>
+        </a>
+        <div class="tray" blue>
+            <ul>
+              {{ range (.Site.RegularPages.ByLastmod | last 3).Reverse }}
+              <li>
+                <a href="{{ .RelPermalink }}">
+                 <span class="icon" style="line-height: 1.2;">{{ .Params.icon }}</span> {{ .Title  }}</a>
+              </li>
+            {{ end }}
+            </ul>
+          <a  href="/log/"><button style="color: var(--color-blue);">
+            Read more...
+          </button></a>
+        </div>
+      </div>
+    </div>
+  
+    <div class="bento">
+      <div class="box" full>
+        <a class="boxtitle" href="/stories/" blue>
+          <span class="navicon">📖</span>
+          <span class="name">Recent Stories</span>
+        </a>
+        <div class="tray" blue>
+          <a href="/characters/tzipora/">
+            <span class="fi fi-tzipora fis"></span>
+            <span class="name">Tzipora</span>
+          </a>
+          <a href="/characters/cobian/">
+            <span class="fi fi-cobian fis"></span>
+            <span class="name">Cobian</span>
+          </a>
+          <a href="/characters/baron/">
+            <span class="fi fi-baron fis"></span>
+            <span class="name">Baron</span>
+          </a>
+          <a href="/characters/ayn/">
+            <span class="fi fi-ayn fis"></span>
+            <span class="name">Ayn</span>
+          </a>
+          <a href="/characters/moise/">
+            <span class="fi fi-moise fis"></span>
+            <span class="name">Moise</span>
+          </a>
+          <a href="/characters/coretti/">
+            <span class="fi fi-coretti fis"></span>
+            <span class="name">Coretti</span>
+          </a>
+          <a href="/characters/zhi/">
+            <span class="fi fi-zhi fis"></span>
+            <span class="name">Zhi</span>
+          </a>
+          <a href="/characters/">
+            <span class="name">More Characters →</span>
+          </a>
+        </div>
+      </div>
+  
+    <div class="box" full>
+      <div class="showcase" five>
+        {{ range ( where .Site.RegularPages "Type" "stories" | first 5 ) }}
+        <div class="navcard">
+          <a href="{{ .RelPermalink }}">
+            <figure>
+              {{ with resources.Get .Params.image }}
+              {{ with .Resize "680x q90 webp" }}
+              <img class="page" src="{{ .RelPermalink }}" alt="">
+              {{ end }}
+              {{ end }}
+            </figure>
+          </a>
+        </div>
+        {{end}}
+      </div>
+  
+      <div class="showcase" three>
+        {{ range ( where .Site.RegularPages "Type" "stories" | first 3 ) }}
+        <div class="navcard">
+          <a href="{{ .RelPermalink }}">
+            <!--<div class="name">
+          {{- .Title -}}
+          </div>-->
+            <figure>
+              {{ with resources.Get .Params.image }}
+              {{ with .Resize "680x q90 webp" }}
+              <img class="page" src="{{ .RelPermalink }}" alt="">
+              {{ end }}
+              {{ end }}
+            </figure>
+          </a>
+        </div>
+        {{end}}
+      </div>
+    </div>
+    </div>
+
+    <style>
+      article {
+        color: var(--highlight);
+        .bento .box .tray a {
+          color: var(--highlight);
+        }
+        ul {
+        margin: 0;}
+      }
+
+      .smalldate, .pill {
+      display: none;
+      }
+
+      #preview-container {
+        color: var(--font-color);
+      }
+
+      .home-main {
+        background: transparent;
+      
+        .home-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(6.25rem, 1fr));
+        gap: 0.5rem;
+        padding: 1rem;
+        background: var(--highlight-background);
+        }
+      
+        .book {
+        background: var(--highlight-background);
+        padding: .5rem;
+        font-weight: 500;
+        text-align: center;
+        border-radius: .25rem;
+        color: var(--highlight);
+        }
+      
+        .book:hover {
+        --tw-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+        transform: translate(0, -2.5px);
+        text-decoration: none;
+        }
+      }
+    </style>

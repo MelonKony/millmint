@@ -1,28 +1,36 @@
 {{/* layouts/partials/components/postcard.html */}}
 {{ $paginator := .paginator }}
+{{ $ctx := .ctx }}
+{{ $term := .term }}
+{{ $taxonomy := .taxonomy }}
 
 <div class="postcard-layout">
     <div class="controls-row note">
+        {{ if .taxonomyPlural }}
+        <a href="/{{ .taxonomyPlural }}/" style="margin-right: auto;"><button>← Back to {{ title .taxonomyPlural }}</button></a>
+        {{ end }}
 
-     <div class="checkbox-wrapper">
-         <input class="inp-cbx toggle-slider" id="view-toggle" type="checkbox"/>
-         <label class="cbx" for="view-toggle">
-             <span>
-                 <svg width="12px" height="10px">
-                     <use xlink:href="#check"></use>
-                 </svg>
-             </span>
-             <span id="toggle-label">Show Pagination</span>
-         </label>
-         <svg class="inline-svg">
-             <symbol id="check" viewbox="0 0 12 10">
-                 <polyline points="1.5 6 4.5 9 10.5 1"></polyline>
-             </symbol>
-         </svg>
-     </div>
+        <div class="checkbox-wrapper">
+            <input class="inp-cbx toggle-slider" id="view-toggle" type="checkbox"/>
+            <label class="cbx" for="view-toggle">
+                <span>
+                    <svg width="12px" height="10px">
+                        <use xlink:href="#check"></use>
+                    </svg>
+                </span>
+                <span id="toggle-label">Show Pagination</span>
+            </label>
+            <svg class="inline-svg">
+                <symbol id="check" viewbox="0 0 12 10">
+                    <polyline points="1.5 6 4.5 9 10.5 1"></polyline>
+                </symbol>
+            </svg>
+        </div>
     </div>
 
-    <ul class="postcard-grid" id="illustration-grid">
+    <ul class="postcard-grid" id="illustration-grid"
+        {{- with $term }} data-term="{{ . }}"{{ end }}
+        {{- with $taxonomy }} data-taxonomy="{{ . }}"{{ end }}>
         {{ range $paginator.Pages }}
             <li class="card"
                 style="background-color: rgb({{ .Params.rgb }})"
@@ -32,7 +40,9 @@
                 <a href="{{ .RelPermalink }}">
                     <div class="postcard-meta">
                         <h2 class="title" style="{{ if .Params.rgb }}color: #ececf4!important;{{ end }}">{{ partial "title" . }}</h2>
+                        {{ if not .Date.IsZero }}
                         <div class="date" style="{{ if .Params.rgb }}color: #ececf4!important;{{ end }}">{{ .Date.Format "Jan 2, 2006" }}</div>
+                        {{ end }}
                     </div>
                     <figure class="postcard-image">
                           {{ with resources.Get .Params.image }}
@@ -85,5 +95,3 @@
 
     <div id="loading-spinner" class="loading-spinner"></div>
 </div>
-
-<script src="/js/stories.js"></script>

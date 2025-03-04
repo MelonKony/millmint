@@ -253,10 +253,6 @@ She is sensitive to being made fun of, and considers many of her problems making
 {{< /tab >}}
 {{< /tabs >}}
 
-<br>
-{{< terms-cloud terms="characters" >}}
-<br>
-
 <style>
 a.article-button {
   margin-top: 0;

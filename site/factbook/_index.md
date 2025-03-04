@@ -13,7 +13,7 @@ weight: 2
 autonumbering: false
 toc: false
 
-description: Factbook is the wiki of Vekllei, and information about its society, culture and way of life.
+description: Factbook is the wiki of Vekllei, and contains information about its society, culture and way of life.
 ---
 <style>
   header.info {

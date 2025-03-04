@@ -6,6 +6,8 @@ emoji: ʠ
 color: blue
 meta: false
 
+description: MillMint is the place for everything going on at Studio MillMint. You can read essays, learn more about commissions, or create your own Vekllei character.
+
 type: blank
 
 menus: main

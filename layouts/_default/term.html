@@ -1,40 +1,18 @@
 {{ define "content" }}
 <h1 class="title">{{- .Title -}}</h1>
-<a href="/characters/"><button>← Back to Characters</button></a>
 
 <article class="content" style="margin-top: 0;">
-		{{ if .Content }}
-		{{- partial "content.html" . -}}
-		{{ end }}
+    {{ if .Content }}
+    {{- partial "content.html" . -}}
+    {{ end }}
 
-	<div class="postcard-layout">
-		<ul class="postcard-grid">
-			{{ with .Paginator.Pages.ByPublishDate.Reverse }}
-			{{ range . }}
-			<li class="card" href="{{ .RelPermalink }}">
-				<a href="{{ .RelPermalink }}">
-					<div class="postcard-meta">
-						<div class="title">
-							{{- .Title -}}
-							{{ if .Params.rgb }}
-							<div data-card-color="{{ .Params.rgb }}"></div>
-							{{ end }}
-						</div>
-						<div class="date">
-							{{- .PublishDate.Format "2006/01/02" -}}
-						</div>
-					</div>
-					<div class="postcard-image no-link">
-						{{ partial "components/stories/story-image.html" . }}
-					</div>
-				</a>
-			</li>
-			{{end}}
-		</ul>
-		{{end}}
-	</div>
+    {{ $paginator := .Paginate .Pages.ByPublishDate.Reverse 12 }}
+    {{ partial "components/postcard.html" (dict 
+        "paginator" $paginator 
+        "ctx" .
+        "term" .Title
+        "taxonomy" .Data.Singular
+        "taxonomyPlural" .Data.Plural
+    ) }}
 </article>
-
-{{ template "_internal/pagination.html" . }}
-
 {{ end }}

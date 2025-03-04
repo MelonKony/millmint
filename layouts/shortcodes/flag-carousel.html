@@ -41,6 +41,7 @@
 	width: 100%;
 	height: auto;
 	pointer-events: none;
+	padding: 0.25rem;
   }
 
   .flag-link:hover {
@@ -55,35 +56,33 @@ document.addEventListener('DOMContentLoaded', () => {
   // Clone content to create a seamless loop
   carousel.innerHTML = carousel.innerHTML + carousel.innerHTML;
 
-  // Manually calculate the total width
-  const flagWidth = 70; // Adjust based on your $flagWidth value
-  const gap = 10; // Adjust based on your $gap value
-  const totalFlags = {{ len $flags }}; // Number of flags in the folder
-  const totalWidth = (flagWidth + gap) * totalFlags;
-
-  console.log(`Total Width: ${totalWidth}`); // Debugging
+  const flagWidth = 70;
+  const gap = 10;
+  const padding = 0.25 * 16 * 2;
+  const totalFlags = {{ len $flags }};
+  const totalWidth = (flagWidth + gap + padding) * totalFlags;
 
   let position = 0;
-  const speed = 1;
-  let isHovered = false;
+  const speed = 1; 
 
+  let isHovered = false;
   carousel.addEventListener('mouseenter', () => isHovered = true);
   carousel.addEventListener('mouseleave', () => isHovered = false);
 
   function animate() {
-	if (!isHovered) {
-	  position += speed;
-	} else {
-	  position += speed * 0.3;
-	}
+    if (!isHovered) {
+      position += speed;
+    } else {
+      position += speed * 0.3;
+    }
 
-	// Reset position after the FIRST copy of the content has completely scrolled out
-	if (position >= totalWidth) {
-	  position = 0;
-	}
+    // Reset position when halfway through the clone
+    if (position >= totalWidth) {
+      position = position - totalWidth;
+    }
 
-	carousel.style.transform = `translateX(${-position}px)`;
-	requestAnimationFrame(animate);
+    carousel.style.transform = `translateX(${-position}px)`;
+    requestAnimationFrame(animate);
   }
 
   animate();
