@@ -4955,7 +4955,7 @@ html.writing h1 {
   border-radius: 0.25rem;
   margin-top: 0.25rem;
   position: absolute;
-  z-index: 11;
+  z-index: 1000;
   width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
