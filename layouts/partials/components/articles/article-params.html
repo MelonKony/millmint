@@ -11,7 +11,7 @@
 {{ end }}
 {{ if in .Params.series "republic" }}
 <blockquote class="note series">
-  <p>The <a href="/{{ .Title | urlize }}">{{ .Title }}</a> is a <i><a href="/republics/">constituent republic</a></i> of <i><a href="/{{ .Parent.Title | urlize }}">{{ .Parent.Title }}</a></i>.</p>
+  <p><a href="/{{ .Title | urlize }}">{{ .Title }}</a> is a <i><a href="/republics/">constituent republic</a></i> of <i><a href="/{{ .Parent.Title | urlize }}">{{ .Parent.Title }}</a></i>.</p>
 </blockquote>
 {{ end }}
 
