@@ -32,15 +32,25 @@
             // Get the image path from the page parameters or use a default
             const imagePath = {{ if .Params.map }}{{ printf "%q" .Params.map | safeJS }}{{ else }}"/svg/maps/world.png"{{ end }};
             
+            // Preload the image before initializing the map
+            const preloadImg = new Image();
+            preloadImg.src = imagePath;
+            
             // Create map instance with better options
             const map = L.map('map', {
                 crs: L.CRS.Simple,
                 minZoom: -3,
                 maxZoom: 2,
-                zoomControl: false,  // Disable default zoom controls
+                zoomControl: false,
                 attributionControl: false
             });
-
+    
+            // Force immediate load by triggering scroll event
+            if (typeof lazySizes !== 'undefined') {
+                lazySizes.autoSizer.checkElems();
+                lazySizes.loader.checkElems();
+            }
+    
             // Load the image
             const img = new Image();
             img.onload = function() {
@@ -48,7 +58,9 @@
                 const h = this.height;
                 const bounds = [[0, 0], [h, w]];
                 
-                L.imageOverlay(imagePath, bounds).addTo(map);
+                // Create and add the image overlay immediately
+                const overlay = L.imageOverlay(imagePath, bounds);
+                overlay.addTo(map);
                 map.fitBounds(bounds);
                 
                 // Add zoom controls in bottom right

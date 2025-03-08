@@ -43,7 +43,11 @@ let currentTheme = localStorage.getItem("theme") || "auto";
         colorsMain();
     }
 
+    // Add near the top of the file
     function setScheme(theme) {
+        // Remove ready class during transition
+        document.documentElement.classList.remove('ready');
+        
         if (theme === "auto") {
             localStorage.theme = "auto";
             applySystemTheme();
@@ -54,6 +58,11 @@ let currentTheme = localStorage.getItem("theme") || "auto";
             updateThemeIcon(theme);
         }
         colorsMain();
+        
+        // Add ready class back after a brief delay
+        setTimeout(() => {
+            document.documentElement.classList.add('ready');
+        }, 50);
     }
 
     function updateButtonVisibility(theme) {

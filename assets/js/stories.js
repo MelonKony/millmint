@@ -1,77 +1,87 @@
 document.addEventListener('DOMContentLoaded', function() {
-	let loading = false;
-	const grid = document.getElementById('illustration-grid');
-	const loadingSpinner = document.getElementById('loading-spinner');
-	const pagination = document.getElementById('pagination');
-	const viewToggle = document.getElementById('view-toggle');
-	const toggleLabel = document.getElementById('toggle-label');
+    let loading = false;
+    const grid = document.getElementById('illustration-grid');
+    const loadingSpinner = document.getElementById('loading-spinner');
+    const pagination = document.getElementById('pagination');
+    const viewToggle = document.getElementById('view-toggle');
+    const toggleLabel = document.getElementById('toggle-label');
+    let currentPage = 1;
+    let viewMode;
 
-    // Initialize view mode from localStorage
-    const viewMode = localStorage.getItem('viewMode') || 'infinite';
-    viewToggle.checked = viewMode === 'pagination';
-    pagination.style.display = viewMode === 'pagination' ? 'flex' : 'none';
-    toggleLabel.textContent = 'Pagination';
-
-    // Check if we have enough posts to enable infinite scroll
-    const initialPosts = grid.querySelectorAll('.card');
-    if (initialPosts.length < 12) {
-        // Hide the toggle option if there aren't enough posts
-        viewToggle.parentElement.style.display = 'none';
-        pagination.style.display = 'flex';
-        localStorage.setItem('viewMode', 'pagination');
-    } else if (viewMode === 'infinite') {
-        window.addEventListener('scroll', handleScroll);
+    // Only proceed if we have the required elements for pagination/infinite scroll
+    if (!(grid && loadingSpinner)) {
+        // Basic elements not found, just handle responsive grid
+        handleResponsiveGrid();
+        return;
     }
 
-	// Toggle between infinite scroll and pagination
-	viewToggle.addEventListener('change', function() {
-		const posts = grid.querySelectorAll('.card');
-		const newMode = this.checked ? 'pagination' : 'infinite';
-		
-		// Only allow infinite scroll if we have enough posts
-		if (newMode === 'infinite' && posts.length < 12) {
-            this.checked = true;
-            return;
+    // Initialize view mode from localStorage if we have the toggle elements
+    if (viewToggle && pagination && toggleLabel) {
+        viewMode = localStorage.getItem('viewMode') || 'infinite';
+        viewToggle.checked = viewMode === 'pagination';
+        pagination.style.display = viewMode === 'pagination' ? 'flex' : 'none';
+        toggleLabel.textContent = 'Pagination';
+
+        // Check if we have enough posts to enable infinite scroll
+        const initialPosts = grid.querySelectorAll('.card');
+        const totalPosts = initialPosts.length;
+        
+        if (totalPosts < 12) {
+            viewToggle.parentElement.style.display = 'none';
+            pagination.style.display = 'flex';
+            localStorage.setItem('viewMode', 'pagination');
+        } else if (viewMode === 'infinite') {
+            window.addEventListener('scroll', handleScroll);
         }
 
-		localStorage.setItem('viewMode', newMode);
+        // Toggle between infinite scroll and pagination
+        viewToggle.addEventListener('change', function() {
+            const newMode = this.checked ? 'pagination' : 'infinite';
+            
+            // Use totalPosts instead of current visible posts
+            if (newMode === 'infinite' && totalPosts < 12) {
+                this.checked = true;
+                return;
+            }
 
-		if (newMode === 'pagination') {
-			// Keep the first 10 posts and clear any additional ones
-			const posts = grid.querySelectorAll('.card');
-			const first10Posts = Array.from(posts).slice(0, 10);
-			grid.innerHTML = '';  // Clear all posts
-			first10Posts.forEach(post => grid.appendChild(post));  // Retain the first 10 posts
+            localStorage.setItem('viewMode', newMode);
 
-			pagination.style.display = 'flex';
-			toggleLabel.textContent = 'Pagination';
-			window.removeEventListener('scroll', handleScroll);
-			window.scrollTo(0, 0);  // Scroll back to the top
+            if (newMode === 'pagination') {
+                // Keep the first 10 posts and clear any additional ones
+                const posts = grid.querySelectorAll('.card');
+                const first10Posts = Array.from(posts).slice(0, 10);
+                grid.innerHTML = '';  // Clear all posts
+                first10Posts.forEach(post => grid.appendChild(post));  // Retain the first 10 posts
 
-			// Load the first page of posts (pagination mode)
-			loadPageContent(1);
-		} else {
-			pagination.style.display = 'none';
-			toggleLabel.textContent = 'Pagination';
-			window.addEventListener('scroll', handleScroll);
-			// Use current path instead of hardcoded /stories/
-			window.location.href = window.location.pathname;
-		}
-	});
+                pagination.style.display = 'flex';
+                toggleLabel.textContent = 'Pagination';
+                window.removeEventListener('scroll', handleScroll);
+                window.scrollTo(0, 0);  // Scroll back to the top
 
-	function handleScroll() {
-		if (loading) return;
+                // Load the first page of posts (pagination mode)
+                loadPageContent(1);
+            } else {
+                pagination.style.display = 'none';
+                toggleLabel.textContent = 'Pagination';
+                window.removeEventListener('scroll', handleScroll);
+                window.location.reload();
+            }
+        });
+    }
 
-		const lastCard = grid.lastElementChild;
-		if (!lastCard) return;
+    function handleScroll() {
+        if (loading) return;
 
-		const lastCardOffset = lastCard.offsetTop + lastCard.clientHeight;
-		const pageOffset = window.pageYOffset + window.innerHeight;
+        const lastCard = grid.lastElementChild;
+        if (!lastCard) return;
 
-		if (pageOffset > lastCardOffset - 20) {
-			loadMore();
-		}
-	}
+        const lastCardOffset = lastCard.offsetTop + lastCard.clientHeight;
+        const pageOffset = window.pageYOffset + window.innerHeight;
+
+        if (pageOffset > lastCardOffset - 20) {
+            loadMore();
+        }
+    }
 
     async function loadPageContent(pageNumber) {
         loading = true;
@@ -147,68 +157,72 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-	function updateTaxonomyPills() {
-		const cards = document.querySelectorAll('.card');
+    function updateTaxonomyPills() {
+        const cards = document.querySelectorAll('.card');
 
-		function getUniqueValues(attribute) {
-			const values = new Set();
-			cards.forEach(card => {
-				const data = card.dataset[attribute];
-				if (data) {
-					data.split(',').forEach(value => values.add(value.trim()));
-				}
-			});
-			return Array.from(values).sort();
-		}
+        function getUniqueValues(attribute) {
+            const values = new Set();
+            cards.forEach(card => {
+                const data = card.dataset[attribute];
+                if (data) {
+                    data.split(',').forEach(value => values.add(value.trim()));
+                }
+            });
+            return Array.from(values).sort();
+        }
 
-		function updatePillSection(containerId, values, filterType) {
-			const container = document.getElementById(containerId);
-			if (!container) return;
+        function updatePillSection(containerId, values, filterType) {
+            const container = document.getElementById(containerId);
+            if (!container) return;
 
-			container.innerHTML = values.map(value =>
-				`<button class="taxonomy-pill" data-filter="${filterType}" data-value="${value}">${value}</button>`
-			).join('');
+            container.innerHTML = values.map(value =>
+                `<button class="taxonomy-pill" data-filter="${filterType}" data-value="${value}">${value}</button>`
+            ).join('');
 
-			// Reattach event listeners if needed
-			container.querySelectorAll('.taxonomy-pill').forEach(pill => {
-				pill.addEventListener('click', function() {
-					this.classList.toggle('active');
-					// Add your filtering logic here
-				});
-			});
-		}
+            // Reattach event listeners if needed
+            container.querySelectorAll('.taxonomy-pill').forEach(pill => {
+                pill.addEventListener('click', function() {
+                    this.classList.toggle('active');
+                    // Add your filtering logic here
+                });
+            });
+        }
 
-		updatePillSection('tag-filters', getUniqueValues('tags'), 'tag');
-		updatePillSection('character-filters', getUniqueValues('characters'), 'character');
-		updatePillSection('category-filters', getUniqueValues('categories'), 'category');
-	}
+        updatePillSection('tag-filters', getUniqueValues('tags'), 'tag');
+        updatePillSection('character-filters', getUniqueValues('characters'), 'character');
+        updatePillSection('category-filters', getUniqueValues('categories'), 'category');
+    }
 
-	// Initialize infinite scroll if in infinite mode
-	let currentPage = 1;
-	if (viewMode === 'infinite') {
-		window.addEventListener('scroll', handleScroll);
-	}
+    // Initialize infinite scroll if in infinite mode
+    if (viewMode === 'infinite') {
+        window.addEventListener('scroll', handleScroll);
+    }
 
-	// Handle taxonomy pill clicks
-	document.querySelectorAll('.taxonomy-pill').forEach(pill => {
-		pill.addEventListener('click', function() {
-			this.classList.toggle('active');
-			// Add your filtering logic here
-		});
-	});
+    // Handle taxonomy pill clicks
+    document.querySelectorAll('.taxonomy-pill').forEach(pill => {
+        pill.addEventListener('click', function() {
+            this.classList.toggle('active');
+            // Add your filtering logic here
+        });
+    });
 
-	// Handle responsive grid
-	function updateGridLayout() {
-		const cards = document.querySelectorAll('.card');
-		cards.forEach(card => {
-			const image = card.querySelector('img');
-			if (image) {
-				image.style.height = `${image.offsetWidth}px`;
-			}
-		});
-	}
+    function handleResponsiveGrid() {
+        // Handle responsive grid
+        function updateGridLayout() {
+            const cards = document.querySelectorAll('.card');
+            cards.forEach(card => {
+                const image = card.querySelector('img');
+                if (image) {
+                    image.style.height = `${image.offsetWidth}px`;
+                }
+            });
+        }
 
-	// Update layout on load and resize
-	window.addEventListener('load', updateGridLayout);
-	window.addEventListener('resize', updateGridLayout);
+        // Update layout on load and resize
+        window.addEventListener('load', updateGridLayout);
+        window.addEventListener('resize', updateGridLayout);
+    }
+
+    // Always handle responsive grid
+    handleResponsiveGrid();
 });

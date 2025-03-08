@@ -1,25 +1,37 @@
 <!-- Website Head -->
 
 <head>
-<!-- Hide content initially to prevent FOUC -->
+<!-- Critical CSS for dark mode FOUC prevention -->
 <style>
     html {
         visibility: hidden;
         opacity: 0;
+        transition: opacity 0.1s ease;
+    }
+    
+    /* Prevent white flash in dark mode */
+    html[data-theme="dark"] {
+        background: rgb(18, 18, 25);
+    }
+    
+    /* Ensure content becomes visible smoothly */
+    html.ready {
+        visibility: visible;
+        opacity: 1;
     }
 </style>
 
-<!-- Dark theme: inline in `head` to avoid FOUC -->
 <script>
-    // Apply the theme based on localStorage or user preferences
-    if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-        document.documentElement.setAttribute("data-theme", "dark");
-    } else {
-        document.documentElement.setAttribute("data-theme", "light");
-    }
-    // Reveal content after setting the theme
-    document.documentElement.style.visibility = "visible";
-    document.documentElement.style.opacity = "1";
+    // Apply the theme immediately before any content loads
+    (function() {
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+        // Mark document as ready after theme is set
+        document.documentElement.classList.add('ready');
+    })();
 </script>
 
 <meta charset="utf-8">
