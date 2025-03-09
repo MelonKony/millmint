@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function () {
   
   // Add safety check
   if (!previewContainer) {
-    console.error('Preview container element not found');
+    console.log('Preview container element not found');
     return;
   }
 
@@ -87,36 +87,35 @@ document.addEventListener('DOMContentLoaded', function () {
 	  });
 	}
   
-	function createResponsiveImage(imageData, title) {
-	  if (!imageData) return '';
-	  
-	  // Handle both new and old format
-	  const imageSrc = typeof imageData === 'string' ? imageData : imageData.src;
-	  const webpSrc = typeof imageData === 'string' ? null : imageData.webp;
-	  const displaySrc = webpSrc || imageSrc;
-	  
-	  // Make sure image is preloaded
-	  if (displaySrc) {
-		preloadImage(displaySrc);
-	  }
-	  
-	  if (webpSrc) {
-		return `<img 
-		  src="${webpSrc}"
-		  alt="${title}"
-		  style="max-width: 100%; margin-top: 0.5rem;"
-		  loading="eager"
-		>`;
-	  } else {
-		// Fallback for old format or when processing failed
-		return `<img 
-		  src="${imageSrc}"
-		  alt="${title}"
-		  style="max-width: 100%; margin-top: 0.5rem;"
-		  loading="eager"
-		>`;
-	  }
-	}
+  function createResponsiveImage(imageData, title) {
+    if (!imageData) return '';
+    
+    const imageSrc = typeof imageData === 'string' ? imageData : imageData.src;
+    const webpSrc = typeof imageData === 'string' ? null : imageData.webp;
+    const displaySrc = webpSrc || imageSrc;
+    
+    if (displaySrc) {
+      preloadImage(displaySrc);
+    }
+    
+    if (webpSrc) {
+      return `<img 
+        src="${webpSrc}"
+        alt="${title}"
+        style="max-width: 100%; margin-top: 0.5rem;"
+        loading="eager"
+        class="no-lazyload"
+      >`;
+    } else {
+      return `<img 
+        src="${imageSrc}"
+        alt="${title}"
+        style="max-width: 100%; margin-top: 0.5rem;"
+        loading="eager"
+        class="no-lazyload"
+      >`;
+    }
+  }
   
 	// Create an overlay color element to sample from CSS variables if needed
 	const colorSampleElement = document.createElement('div');
@@ -173,6 +172,15 @@ document.addEventListener('DOMContentLoaded', function () {
 		const prepareData = imageUrl ? preloadImage(imageUrl) : Promise.resolve();
 		
 		prepareData.then(() => {
+		  // Force immediate load by removing any lazy loading classes
+		  if (typeof lazySizes !== 'undefined') {
+			const lazyElements = previewContainer.getElementsByClassName('lazyload');
+			Array.from(lazyElements).forEach(element => {
+			  element.classList.remove('lazyload');
+			  element.classList.add('no-lazyload');
+			});
+		  }
+  
 		  let content = pageData.description || pageData.content || "";
 		  content = content.replace(/(\[\[.*?\]\]|\{\{.*?\}\})/g, "");
 		  const truncatedContent = content.substring(0, 200);
