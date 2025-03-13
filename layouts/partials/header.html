@@ -6,12 +6,6 @@
     <a class="emoji" id="whirlybat" href="{{ .Site.Home.RelPermalink }}">-millmint</a>
   </div>
 
-  {{ if and (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") (.Scratch.Get "params").enable_toc }}
-  <button id="toc-button" class="navbutton">
-    <span class="navicon">📑</span>
-  </button>
-  {{ end }}
-
   <!-- Tooltip Toggle Button -->
 <span class="checkbox-wrapper tooltip">
   <input class="inp-cbx toggle-slider" id="tooltip-toggle" type="checkbox"/>

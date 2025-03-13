@@ -72,8 +72,8 @@ article {
     padding: 1rem;
     overflow: auto;
     border-radius: .5rem;
-    background-color: $gray-850;
-    color: $gray-50;
+    background-color: var(--color-background-code);  // Changed from $gray-850
+    color: var(--color-text-code);  // Changed from $gray-50
 
     code { /* Disable inline code style */
       border-radius: 0;

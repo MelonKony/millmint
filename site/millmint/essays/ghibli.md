@@ -4,7 +4,7 @@ fulltitle: A Universal Nostalgia
 icon: 🫧
 emoji: V
 color: blue
-weight: 1
+toc: true
 
 
 aliases:

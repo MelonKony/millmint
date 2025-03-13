@@ -1,196 +1,90 @@
-// millmint.net colors
-// TODO: update gray colour, seperate from highlight
+// Base color palette
+$gray-scale: (
+  light: #f0f0f6,
+  medium: #737373,
+  dark: #262626
+);
 
-$gray-0: #fff;
-$gray-50: #f7f7f7;
-$gray-100: #f0f0f6;
-$gray-150: #ededed;
-$gray-200: #e5e5e5;
-$gray-250: #dddddd;
-$gray-300: #d4d4d4;
-$gray-350: #bcbcbc;
-$gray-400: #a3a3a3;
-$gray-450: #8b8b8b;
-$gray-500: #737373;
-$gray-550: #636363;
-$gray-600: #525252;
-$gray-650: #494949;
-$gray-700: #404040;
-$gray-750: #333333;
-$gray-800: #262626;
-$gray-850: #1f1f1f;
-$gray-900: #171717;
-$gray-1000: #000;
+// Theme colors
+$theme-colors: (
+  blue: rgb(28, 123, 205),
+  brown: rgb(162, 132, 94),
+  cyan: rgb(50, 173, 230),
+  gray: rgb(95, 95, 105),
+  green: rgb(92, 185, 85),
+  indigo: rgb(88, 86, 214),
+  mint: rgb(0, 199, 190),
+  orange: rgb(237, 122, 69),
+  pink: rgb(225, 28, 110),
+  purple: rgb(155, 67, 199),
+  red: rgb(221, 52, 71),
+  teal: rgb(48, 176, 199),
+  yellow: rgb(234, 147, 101)
+);
 
-$gray-light: #f0f0f6;
-$gray-med: #e5e5e5;
-$gray-heavy: #5f5f69;
-$gray-light-dark: #232333;
-$gray-med-dark: #302f2f;
-$gray-heavy-dark: #d7d7dd;
+// Brand colors
+$brand-colors: (
+  millmint: rgb(222, 24, 87),
+  vekllei: rgb(238, 119, 66)
+);
 
-$background: #ffffff;
-$dark-background: #1a1b28;
+// Ministry colors
+$ministry-colors: (
+  commerce: rgb(228, 160, 14),
+  commons: rgb(255, 86, 79),
+  commonwealth: rgb(229, 56, 143),
+  culture: rgb(31, 167, 82),
+  defence: rgb(237, 34, 13),
+  foreignaffairs: rgb(100, 34, 222),
+  industry: rgb(37, 89, 167),
+  labour: rgb(161, 43, 46),
+  landscape: rgb(19, 172, 67),
+  lightandwater: rgb(86, 163, 187)
+);
 
-$map-background: #e2f3fd;
-$map-background-dark: #1a1b28;
-
-$font-color: #1d1d1f;
-$font-color-dark: #e7e7f1;
-$font-light: #666666;
-$link: #06c;
-$link-visited: #1a0dab;
-
-$blue: rgb(28, 123, 205);
-$brown: rgb(162, 132, 94);
-$cyan: rgb(50, 173, 230);
-$gray: rgb(95, 95, 105);
-$green: rgb(92, 185, 85);
-$indigo: rgb(88, 86, 214);
-$mint: rgb(0, 199, 190);
-$orange: rgb(237, 122, 69);
-$pink: rgb(225, 28, 110);
-$purple: rgb(155, 67, 199);
-$red: rgb(221, 52, 71);
-$teal: rgb(48, 176, 199);
-$yellow: rgb(234, 147, 101);
-
-$millmint: rgb(222, 24, 87);
-$vekllei: rgb(238, 119, 66);
-
-$commerce: rgb(228, 160, 14);
-$commons: rgb(255, 86, 79);
-$commonwealth: rgb(229, 56, 143);
-$culture: rgb(31, 167, 82);
-$defence: rgb(237, 34, 13);
-$foreignaffairs: rgb(100, 34, 222);
-$industry: rgb(37, 89, 167);
-$labour: rgb(161, 43, 46);
-$landscape: rgb(19, 172, 67);
-$lightandwater: rgb(86, 163, 187);
-
-$education: rgb(50, 134, 219);
-$security: rgb(240, 86, 75);
-$community: rgb(255, 162, 84);
-$civic: rgb(59, 186, 94);
-$democracy: rgb(206, 80, 159);
-$health: rgb(246, 81, 113);
-
-$marine: rgb(0, 60, 210);
-$land: rgb(176, 44, 0);
-$aero: rgb(201, 22, 22);
-
+// Theme configuration
 :root {
-  --background: 0.1;
-  --gray-light: #{$gray-100};
-  --gray-100: #{$gray-100};
-  --gray-200: #{$gray-200};
-  --main-background: #{$background};
-
-  --font-color: #{$font-color};
-  --highlight: #{$gray-heavy};
-  --highlight-background: #{$gray-100};
-
-  --color-link: #{$link};
-  --color-visited-link: #{$link-visited};
-  --color-blue: #{$blue};
-  --color-brown: #{$brown};
-  --color-gray: #{$gray};
-  --color-placeholder: #{$gray};
-  --color-green: #{$green};
-  --color-indigo: #{$indigo};
-  --color-mint: #{$mint};
-  --color-orange: #{$orange};
-  --color-pink: #{$pink};
-  --color-purple: #{$purple};
-  --color-red: #{$red};
-  --color-teal: #{$teal};
-  --color-yellow: #{$yellow};
-
-  --color-millmint: #{$millmint};
-  --color-vekllei: #{$vekllei};
-
-  --color-commerce: #{$commerce};
-  --color-commons: #{$commons};
-  --color-commonwealth: #{$commonwealth};
-  --color-culture: #{$culture};
-  --color-defence: #{$defence};
-  --color-foreignaffairs: #{$foreignaffairs};
-  --color-industry: #{$industry};
-  --color-labour: #{$labour};
-  --color-landscape: #{$landscape};
-  --color-lightandwater: #{$lightandwater};
-
-  --color-education: #{$education};
-  --color-security: #{$security};
-  --color-community: #{$community};
-  --color-civic: #{$civic};
-  --color-democracy: #{$democracy};
-  --color-health: #{$health};
-
-  --color-marine: #{$marine};
-  --color-land: #{$land};
-  --color-aero: #{$aero};
+  // Base colors
+  --main-background: #fff;
+  --color-background: #fff;
+  --font-color: rgb(51, 65, 85);
+  
+  // Gray scale
+  @each $key, $value in $gray-scale {
+    --gray-#{$key}: #{$value};
+  }
+  
+  // Theme colors
+  @each $name, $color in $theme-colors {
+    --color-#{$name}: #{$color};
+  }
+  
+  // Brand colors
+  @each $name, $color in $brand-colors {
+    --color-#{$name}: #{$color};
+  }
+  
+  // Ministry colors
+  @each $name, $color in $ministry-colors {
+    --color-#{$name}: #{$color};
+  }
 }
 
-html[data-theme="light"] {
-  --font-color: #{$font-color};
-  --highlight: #{$gray-heavy};
-  --highlight-background: #{$gray-light};
-  --body-background: #{$gray-light};
-
-  --gray-light: #{$gray-light};
-  --gray-med: #{$gray-med};
-  --gray-heavy: #{$gray-heavy};
-
-  --color-blue: #{$blue};
-
-  --map-background: #{$map-background};
-
-  --color-dots: #{$gray-heavy};
-
-  --color-text: #{$font-color};
-  --color-text-secondary: #{$gray-500};
-  --color-text-footer: #{$gray-500};
-  --color-border: #{$gray-300};
-  --main-background: #{$background};
-  --color-background-overlay: #{$gray-150};
-  --color-background-inline-code: #{$gray-100};
-  --color-background-card: #{$gray-0};
-  --color-background-mark: #fff1a7;
-  --color-link: #2563eb;
-  --color-navbar-item-inactive: #{$gray-400};
-  --color-navbar-item-active: #{$gray-600};
-  --color-navbar-item-in-section: #{$gray-600};
-}
-
-html[data-theme="dark"] {
-  --font-color: #{$gray-light};
-  --gray-100: #{$gray-light-dark};
-  --highlight: #{$gray-heavy};
-  --highlight-background: #{$gray-heavy-dark};
-  --body-background: #{$gray-light-dark};
-
-  --gray-light: #{$gray-light-dark};
-  --gray-med:#{$gray-med-dark};
-  --gray-heavy: #{$gray-heavy-dark};
-
-  --color-blue: rgb(32, 79, 120);
-
-  --map-background: #{$map-background-dark};
-
-  --color-dots: #{$font-color};
-
-  --color-text-secondary: #{$gray-450};
-  --color-text-footer: #{$gray-400};
-  --color-border: #{$gray-500};
-  --main-background: #{$dark-background};
-  --color-background-overlay: #{$gray-700};
-  --color-background-inline-code: #{$gray-600};
-  --color-background-card: #{$gray-700};
-  --color-background-mark: #fff1a7;
-  --color-link: #93c5fd;
-  --color-navbar-item-inactive: #{$gray-400};
-  --color-navbar-item-active: #{$gray-100};
-  --color-navbar-item-in-section: #{$gray-250};
+// Dark theme
+[data-theme="dark"] {
+  --color-background: #1a1b28;
+  --main-background: #1a1b28;
+  --color-text: #e7e7f1;
+  --font-color: #e7e7f1;
+  
+  // Dark mode specific gray palette
+  --gray-light: #2a2b38;
+  --gray-medium: #9090a0;
+  --gray-dark: #e7e7f1;
+  
+  --color-text-secondary: var(--gray-medium);
+  --color-border: var(--gray-dark);
+  --darker-text: rgba(161, 161, 166, 1);
+  --highlight: #d7d7dd;
+  --highlight-background: rgba(215, 215, 221, 0.1);
 }

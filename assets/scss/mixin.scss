@@ -20,28 +20,28 @@
 
 // Backgrounds
 @mixin background-dots {
-  background-color: var(--body-background);
-  background-image: radial-gradient(var(--color-dots) 0.5px, var(--body-background, var(--gray-light)) 0.5px);
+  background-color: var(--body-background, var(--gray-light, #f0f0f6));
+  background-image: radial-gradient(var(--color-dots, var(--gray-medium, #737373)) 0.5px, var(--body-background, var(--gray-light, #f0f0f6)) 0.5px);
   background-size: 10px 10px;
 }
 
 @mixin background-diagonal {
   background-size: 5px 5px;
   background-image: repeating-linear-gradient(135deg,
-	var(--highlight-background) 0,
-	var(--highlight-background) 1px,
-	var(--main-background) 0,
-	var(--main-background) 50%
+	var(--highlight-background, var(--gray-light, #f0f0f6)) 0,
+	var(--highlight-background, var(--gray-light, #f0f0f6)) 1px,
+	var(--main-background, #fff) 0,
+	var(--main-background, #fff) 50%
   );
 }
 
 @mixin background-graph {
-  background-color: var(--main-background);
+  background-color: var(--main-background, #fff);
   background-image:
-	linear-gradient(var(--highlight-background) 2px, transparent 2px),
-	linear-gradient(90deg, var(--highlight-background) 2px, transparent 2px),
-	linear-gradient(var(--highlight-background) 1px, transparent 1px),
-	linear-gradient(90deg, var(--highlight-background) 1px, transparent 1px);
+	linear-gradient(var(--highlight-background, var(--gray-light, #f0f0f6)) 2px, transparent 2px),
+	linear-gradient(90deg, var(--highlight-background, var(--gray-light, #f0f0f6)) 2px, transparent 2px),
+	linear-gradient(var(--highlight-background, var(--gray-light, #f0f0f6)) 1px, transparent 1px),
+	linear-gradient(90deg, var(--highlight-background, var(--gray-light, #f0f0f6)) 1px, transparent 1px);
   background-size: 50px 50px, 50px 50px, 10px 10px, 10px 10px;
   background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
 }
@@ -67,11 +67,11 @@
 }
 
 // Colors and Effects
-@mixin highlight { color: var(--highlight); }
-@mixin highlight-background { background-color: var(--highlight-background); }
-@mixin highlight-border { border: 1px solid var(--highlight); }
-@mixin hint-background { background-color: var(--highlight-background); }
-@mixin nav-highlight-background { background: var(--hint-bg, var(--gray-light)); }
+@mixin highlight { color: var(--highlight, var(--gray-medium, #737373)); }
+@mixin highlight-background { background-color: var(--highlight-background, var(--gray-light, #f0f0f6)); }
+@mixin highlight-border { border: 1px solid var(--highlight, var(--gray-medium, #737373)); }
+@mixin hint-background { background-color: var(--highlight-background, var(--gray-light, #f0f0f6)); }
+@mixin nav-highlight-background { background: var(--hint-bg, var(--gray-light, #f0f0f6)); }
 @mixin drop-shadow {
   box-shadow: 0 20px 25px -5px rgba(0, 0, 0, .2),
 			  0 10px 10px -5px rgba(0, 0, 0, .2);
@@ -181,10 +181,10 @@
 @mixin tall-line-height { line-height: 1.67; }
 
 // Colors
-@mixin font-color { color: var(--font-color); }
-@mixin body-background-color { background-color: var(--main-background); }
-@mixin secondary-color { color: var(--gray-heavy); }
-@mixin font-blue { color: var(--color-blue); }
+@mixin font-color { color: var(--font-color, var(--gray-dark, #262626)); }
+@mixin body-background-color { background-color: var(--main-background, #fff); }
+@mixin secondary-color { color: var(--gray-heavy, var(--gray-medium, #737373)); }
+@mixin font-blue { color: var(--color-blue, #1C7BCD); }
 
 // Font Sizes
 @mixin text-size($size, $line-height) {
@@ -272,7 +272,7 @@
   grid-template-areas: "icon text";
 }
 
-@mixin note-style($background: var(--gray-100), $border: none) {
+@mixin note-style($background: var(--gray-light), $border: none) {
   @include text-base;
   @include my-2;
   @include padding-4;
@@ -408,7 +408,7 @@
   td, th {
     @include px-3;
     @include py-2;
-    border: 1px solid var(--color-border);
+    border: 1px solid var(--gray-light);
   }
 }
 
@@ -417,7 +417,7 @@
   @include text-base;
   @include padding-4;
   @include radius-base;
-  background: var(--gray-100);
+  background: var(--gray-light);
   border: none;
   font-style: normal;
 }

@@ -13,61 +13,89 @@ function parseColor(color) {
     return [r, g, b];
   }
   
-  // Handle space-separated RGB
-  if (typeof color === 'string' && color.includes(' ')) {
-    return color.split(' ').map(v => parseInt(v));
-  }
-  
-  // Handle comma-separated RGB
-  if (typeof color === 'string' && color.includes(',')) {
-    return color.split(',').map(v => parseInt(v));
+  // Handle space/comma-separated RGB
+  if (typeof color === 'string') {
+    return color.split(/[\s,]+/).map(v => parseInt(v));
   }
   
   return color;
 }
 
-const colors = {
-  blue: '#1C7BCD',
-  brown: '#A2845E',
-  cyan: '#32ADE6',
-  gray: '#5F5F69',
-  green: '#5CB955',
-  indigo: '#5856D6',
-  mint: '#00C7BE',
-  orange: '#ED7A45',
-  pink: '#E11C6E',
-  purple: '#9B43C7',
-  red: '#DD3447',
-  teal: '#30B0C7',
-  yellow: '#EA9365',
+// Use CSS custom properties for colors
+function getCSSColor(name) {
+  return getComputedStyle(document.documentElement).getPropertyValue(`--color-${name}`);
+}
 
-  millmint: '#E11C6E',
-  vekllei: '#EE7742',
-  vnr: '#FF564F',
-  mail: '#DD4C56',
-  gr: '#1FCD58',
+// Helper function to get CSS color variable and convert to RGB array
+function getCSSColorAsRGB(name) {
+  const color = getComputedStyle(document.documentElement).getPropertyValue(`--color-${name}`).trim();
+  return parseColor(color);
+}
 
-  commerce: [228, 160, 14],
-  commons: [255, 86, 79],
-  commonwealth: [229, 56, 143],
-  culture: [31, 167, 82],
-  defence: [237, 34, 13],
-  foreignaffairs: [100, 34, 222],
-  industry: [37, 89, 167],
-  labour: [161, 43, 46],
-  landscape: [19, 172, 67],
-  lightandwater: [39, 149, 204],
+// Initialize colors object dynamically from CSS variables
+function initializeColors() {
+  const colors = {};
+  
+  // Get all CSS variables that start with --color-
+  const styles = getComputedStyle(document.documentElement);
+  const cssVars = Array.from(styles).filter(prop => prop.startsWith('--color-'));
+  
+  cssVars.forEach(prop => {
+    const name = prop.replace('--color-', '');
+    const value = styles.getPropertyValue(prop).trim();
+    colors[name] = value;
+  });
+  
+  return colors;
+}
 
-  education: [50, 134, 219],
-  security: [240, 86, 75],
-  community: [255, 162, 84],
-  culture: [59, 186, 94],
-  democracy: [206, 80, 159],
-  health: [246, 81, 113],
+const colors = initializeColors();
 
-  marine: [0, 60, 210],
-  land: [176, 44, 0],
-  aero: [201, 22, 22],
+function setColors(color, doBackground = true, el = document.body) {
+  const rgb = parseColor(color);
+  
+  if (!rgb || rgb.length !== 3) {
+    console.error("Invalid color value:", color);
+    return;
+  }
+
+  const isDark = localStorage.theme === "dark" || 
+                (!("theme" in localStorage) && 
+                 window.matchMedia("(prefers-color-scheme: dark)").matches);
+
+  // Set theme-color meta tag
+  const meta = document.createElement("meta");
+  meta.setAttribute("name", "theme-color");
+  meta.setAttribute("content", rgba(...rgb, 0.4));
+  document.querySelector('[name="theme-color"]')?.remove();
+  document.head.appendChild(meta);
+
+  // Calculate colors based on theme
+  const colors = {
+    background: isDark ? 'rgba(18, 18, 25, 1)' : rgba(...rgb, 0.08),
+    text: isDark ? rgba(...rgb, 0.25, "black") : rgba(...rgb, 0.25, "black"),
+    highlight: rgba(...rgb, 1),
+    highlightBg: rgba(...rgb, 0.08),
+    border: rgba(...rgb, isDark ? 0.25 : 0.08)
+  };
+
+  // Apply colors
+  const styles = [
+    `--title-text: ${colors.text}`,
+    `--highlight: ${colors.highlight}`,
+    `--highlight-background: ${colors.highlightBg}`,
+    `--color-border: ${colors.border}`,
+    `--color-text: ${colors.highlight}`
+  ];
+
+  if (doBackground) {
+    styles.push(
+      `--bg: ${colors.background}`,
+      `background-color: ${colors.background}`
+    );
+  }
+
+  el.setAttribute("style", styles.join(";"));
 }
 
 function colorsMain() {
@@ -128,15 +156,11 @@ if (localStorage.theme === 'light' || (!('theme' in localStorage) && window.matc
         const img = card.querySelector("img");
 
         function setCardBackground(rgb) {
-          const bodyBg = rgba(...rgb, 0.1);
+          const bodyBg = rgba(...rgb, 0.08);
           const bodyDarker = rgba(...rgb, 0.2);
 
-          const styles = `${card.getAttribute(
-            "style"
-          )}; --gray-light: ${bodyBg}; --gray-med: ${bodyDarker}`;
+          const styles = `${card.getAttribute("style")}; --card-bg: ${bodyBg}; --card-darker: ${bodyDarker}`;
           card.setAttribute("style", styles);
-
-          // Set individual elements
           card.classList.add("has-color");
         }
 
@@ -216,9 +240,9 @@ function setColors(color, doBackground = true, el = document.body) {
     const darkerText = rgba(161, 161, 166, 1);
     const titleText = rgba(...rgb, 0.25, "black");
     const bg = rgba(14, 14, 14, 1);
-    const gray100 = `rgba(${rgb.join(", ")}, 0.1)`;
+    const gray100 = `rgba(${rgb.join(", ")}, 0.08)`;
     const highlight = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
-    const highlightBackground = `rgba(${rgb.join(", ")}, 0.1)`;
+    const highlightBackground = `rgba(${rgb.join(", ")}, 0.08)`;
     const colorGray = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
     const darkerColor = `rgba(${rgb.map((v) => Math.max(v - 100, 0)).join(", ")}, 1)`;
 
@@ -233,19 +257,26 @@ function setColors(color, doBackground = true, el = document.body) {
       `--body-background: ${bodyBg}`,
       `--bg-alt: ${bg}`,
     ];
-    if (doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-light: ${gray100}`, `--color-placeholder: var(--color-gray)`);
+    if (doBackground) {
+      classes.push(
+        `--bg: ${bg}`,
+        `background-color: ${bg}`,
+        `--color-placeholder: var(--color-gray)`
+      );
+    }
+    classes.push(doBackground ? `--logo-color: var(--color-gray)` : `--logo-color: ${darkerColor}`);
 
-    // Inject dark colors into DOM
+    // Inject colors into DOM
     el.setAttribute("style", classes.join(";"));
   } else {
     // Define all colors for light mode
-    const bodyBg = rgba(...rgb, 0.1);
+    const bodyBg = rgba(...rgb, 0.08);
     const darkerText = rgba(...rgb, 0.35, "black");
     const titleText = rgba(...rgb, 0.25, "black");
-    const bg = `rgba(${rgb.join(", ")}, 0.1)`;
-    const gray100 = `rgba(${rgb.join(", ")}, 0.1)`;
+    const bg = `rgba(${rgb.join(", ")}, 0.08)`;
+    const gray100 = `rgba(${rgb.join(", ")}, 0.08)`;
     const highlight = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
-    const highlightBackground = `rgba(${rgb.join(", ")}, 0.1)`;
+    const highlightBackground = `rgba(${rgb.join(", ")}, 0.08)`;
     const colorGray = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
     const darkerColor = `rgba(${rgb.map((v) => Math.max(v - 100, 0)).join(", ")}, 1)`;
 
@@ -260,7 +291,14 @@ function setColors(color, doBackground = true, el = document.body) {
       `--body-background: ${bodyBg}`,
       `--bg-alt: ${bg}`,
     ];
-    if (doBackground) classes.push(`--bg: ${bg}`, `background-color: ${bg}`, `--gray-light: ${gray100}`, `--color-placeholder: var(--color-gray)`);
+    
+    if (doBackground) {
+      classes.push(
+        `--bg: ${bg}`,
+        `background-color: ${bg}`,
+        `--color-placeholder: var(--color-gray)`
+      );
+    }
     classes.push(doBackground ? `--logo-color: var(--color-gray)` : `--logo-color: ${darkerColor}`);
 
     // Inject colors into DOM

@@ -23,37 +23,71 @@ const insideOut = (el) => {
 };
 
 let renderFootnotes = function () {
+    document.querySelectorAll('.side.side-right').forEach(removeEl);
+    
     const isSmallScreen = window.innerWidth < 1280;
+    const footnotes = document.querySelectorAll('.footnotes > ol > li[id^="fn"], #refs > div[id^="ref-"]');
+    let lastBottom = 0;
+    let lastSidenote = null;
 
-    document.querySelectorAll('.footnotes > ol > li[id^="fn"], #refs > div[id^="ref-"]').forEach(function (fn) {
-        let a = document.querySelectorAll('a[href="#' + fn.id + '"]');
+    footnotes.forEach(function (fn) {
+        let a = document.querySelectorAll('a[data-footnote-id="' + fn.id + '"], a[href="#' + fn.id + '"]');
         if (a.length === 0) return;
 
         if (isSmallScreen) {
-            // On small screens, ensure the href is enabled for scrolling to the footnote
-            a.forEach(function (el) { el.setAttribute('href', '#' + fn.id); });
-            return; // Skip creating sidenotes on small screens
+            a.forEach(function (el) { 
+                el.setAttribute('href', '#' + fn.id);
+                el.setAttribute('data-footnote-id', fn.id);
+            });
+            return;
         }
 
         // On larger screens, create sidenotes
-        a.forEach(function (el) { el.removeAttribute('href'); });
+        a.forEach(function (el) { 
+            el.removeAttribute('href');
+            el.setAttribute('data-footnote-id', fn.id);
+        });
         let newA = a[0];
         let side = document.createElement('div');
         side.className = 'side side-right';
+        
         if (/^fn/.test(fn.id)) {
             side.innerHTML = fn.innerHTML;
-            var number = newA.innerHTML;   // footnote number
+            var number = newA.innerHTML;
             side.firstElementChild.innerHTML = '<span class="bg-number">' + number +
                 '</span> ' + side.firstElementChild.innerHTML;
-            removeEl(side.querySelector('a[href^="#fnref"]'));  // remove backreference
+            removeEl(side.querySelector('a[href^="#fnref"]'));
             let newAParent = newA.parentNode;
             newAParent.tagName === 'SUP' && insideOut(newA);
         } else {
             side.innerHTML = fn.outerHTML;
             newA = newA.parentNode;
         }
+        
         insertAfter(newA, side);
         newA.classList.add('note-ref');
+
+        // New positioning logic
+        if (lastSidenote) {
+            const lastRect = lastSidenote.getBoundingClientRect();
+            const currentRect = side.getBoundingClientRect();
+            
+            if (currentRect.top < lastRect.bottom + 5) {
+                const offset = lastRect.bottom - currentRect.top + 5;
+                side.style.marginTop = `${offset}px`;
+            }
+        }
+        
+        lastSidenote = side;
+        
+        // Add click handler for lingering highlight
+        newA.addEventListener('click', (e) => {
+            e.preventDefault();
+            side.classList.add('highlight-active');
+            setTimeout(() => {
+                side.classList.remove('highlight-active');
+            }, 2000); // Highlight lingers for 2 seconds
+        });
     });
 
     // Ensure the footnotes section at the end of the article is not removed

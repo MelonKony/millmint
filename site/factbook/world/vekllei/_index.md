@@ -7,6 +7,7 @@ color: vekllei
 series: vekllei
 fi: fi fi-com
 list: true
+toc: true
 
 description: Vekllei is a union of islands spanning most of the Atlantic and Caribbean Sea, and comprises nearly 80 constituent republics.
 
