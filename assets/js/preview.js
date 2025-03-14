@@ -8,11 +8,12 @@ document.addEventListener('DOMContentLoaded', function () {
 	}
   
 	const tooltipToggle = document.getElementById('tooltip-toggle');
-	tooltipToggle.checked = tooltipsEnabled;
+	tooltipToggle.setAttribute('aria-pressed', tooltipsEnabled);
 	tooltipToggle.style.opacity = tooltipsEnabled ? '1' : '0.5';
   
 	tooltipToggle.addEventListener('click', function () {
-	  tooltipsEnabled = tooltipToggle.checked;
+	  tooltipsEnabled = !tooltipsEnabled;
+	  tooltipToggle.setAttribute('aria-pressed', tooltipsEnabled);
 	  tooltipToggle.style.opacity = tooltipsEnabled ? '1' : '0.5';
 	  localStorage.setItem('tooltipsEnabled', tooltipsEnabled.toString());
 	});

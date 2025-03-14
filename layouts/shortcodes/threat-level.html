@@ -110,3 +110,94 @@
 var random = Math.floor(Math.random() * $('.level').length);
 $('.level').hide().eq(random).show();
 </script>
+
+<style>
+// Security threat widget
+.level {
+  display: inline-block;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.alert {
+  color: var(--highlight);
+}
+
+.alert, .status, .condition {
+  font-weight: bold;
+  margin-bottom: .5rem;
+}
+
+.condition {
+	font-size: 0.875rem;
+	padding: 0.5rem;
+}
+
+.white {
+  color: black;
+  background-color: white;
+  border: 2px solid black;
+}
+
+.black {
+  color: white;
+  background-color: black;
+  border: 2px solid white;
+}
+
+.black-special {
+  color: pink;
+  background-color: black;
+  border: 2px solid pink;
+}
+
+.amber {
+  color: white;
+  background-color: orangered;
+  border: 2px solid black;
+}
+
+.red {
+  color: white;
+  background-color: red;
+  border: 2px solid black;
+}
+
+.circle {
+  width: 15px;
+  height: 15px;
+  background-color: #62bd19;
+  border-radius: 50%;
+  position: absolute;
+  top: 2.5px;
+  margin-left: 5px;
+}
+
+.ring {
+  border: 3px solid;
+  -webkit-border-radius: 30px;
+  height: 25px;
+  width: 25px;
+  position: absolute;
+  top: -3px;
+  -webkit-animation: pulsate 1s ease-out;
+  -webkit-animation-iteration-count: infinite;
+  opacity: 0.0
+}
+
+@-webkit-keyframes pulsate {
+  0% {
+    -webkit-transform: scale(0.1, 0.1);
+    opacity: 0.0;
+  }
+
+  50% {
+    opacity: 1.0;
+  }
+
+  100% {
+    -webkit-transform: scale(1.2, 1.2);
+    opacity: 0.0;
+  }
+}
+</style>

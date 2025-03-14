@@ -42,6 +42,15 @@ $ministry-colors: (
   lightandwater: rgb(86, 163, 187)
 );
 
+// Parliament colors
+$parliament-colors: (
+  health: rgb(245, 81, 112),
+  education: rgb(50, 134, 220),
+  justice: rgb(255, 162, 86),
+  security: rgb(240, 87, 76),
+  state: rgb(205, 80, 159)
+);
+
 // Theme configuration
 :root {
   // Base colors
@@ -66,6 +75,11 @@ $ministry-colors: (
   
   // Ministry colors
   @each $name, $color in $ministry-colors {
+    --color-#{$name}: #{$color};
+  }
+
+  // Ministry colors
+  @each $name, $color in $parliament-colors {
     --color-#{$name}: #{$color};
   }
 }

@@ -3,7 +3,7 @@ title: State Parliament
 fulltitle: Commonwealth Parliament of State
 icon: 🗳️
 logo: /svg/crests/parliament/democracy.svg
-color: democracy
+color: state
 series: parliament
 
 fi: fi fi-min-democracy fis

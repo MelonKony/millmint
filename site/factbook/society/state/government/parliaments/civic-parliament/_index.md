@@ -7,7 +7,7 @@ color: culture
 series: parliament
 
 fi: fi fi-min-civic fis
-description: The Civic Parliament is responsible for the cohesion of civil society, and manages immigration, emigration, and integration.
+description: The Civic Parliament is responsible for the cohesion of civil society, development of localism, and migration.
 
 aliases:
 - /civic/

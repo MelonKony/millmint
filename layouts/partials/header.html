@@ -7,26 +7,30 @@
   </div>
 
   <!-- Tooltip Toggle Button -->
-<span class="checkbox-wrapper tooltip">
-  <input class="inp-cbx toggle-slider" id="tooltip-toggle" type="checkbox"/>
-  <label class="cbx" for="tooltip-toggle">
-    <span>
-      <svg width="12px" height="10px">
-        <use xlink:href="#check"></use>
-      </svg>
-    </span>
-    <span id="tooltip-toggle-label">Tooltips</span>
-  </label>
-  <svg class="inline-svg">
-    <symbol id="check" viewbox="0 0 12 10">
-      <polyline points="1.5 6 4.5 9 10.5 1"></polyline>
-    </symbol>
-  </svg>
-</span>
+  <button id="tooltip-toggle" class="navbutton">
+    <svg viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
+      <path fill="currentColor" d="
+        M 28.08,47.87
+        C 28.49,47.87 28.77,47.65 29.07,47.24
+        L 33.32,40.78
+        L 42.99,40.78
+        C 47.67,40.78 50.68,37.70 50.68,33.06
+        L 50.68,14.16
+        C 50.68,9.54 47.67,6.47 42.99,6.47
+        L 13.17,6.47
+        C 8.49,6.47 5.48,9.47 5.48,14.16
+        L 5.48,33.06
+        C 5.48,37.77 8.49,40.78 13.17,40.78
+        L 22.84,40.78
+        L 27.09,47.24
+        C 27.39,47.65 27.67,47.87 28.08,47.87
+        Z"/>
+    </svg>
+  </button>
 
   <!-- Theme Toggle Button -->
   <button id="theme-toggle" class="navbutton">
-    <span id="theme-icon">🌗</span>
+    <span id="theme-icon"></span>
   </button>
 
   {{ if (.Scratch.Get "params").enable_site_search }}

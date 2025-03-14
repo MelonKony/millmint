@@ -1,7 +1,14 @@
 document.addEventListener('DOMContentLoaded', function() {
-    let loading = false;
+    // Check if we're on a taxonomy page by looking for taxonomy-specific elements
     const grid = document.getElementById('illustration-grid');
     const loadingSpinner = document.getElementById('loading-spinner');
+    
+    // If these elements don't exist, we're not on a taxonomy page, so exit early
+    if (!grid || !loadingSpinner) {
+        return;
+    }
+
+    let loading = false;
     const pagination = document.getElementById('pagination');
     const viewToggle = document.getElementById('view-toggle');
     const toggleLabel = document.getElementById('toggle-label');

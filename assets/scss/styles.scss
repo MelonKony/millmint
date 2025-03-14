@@ -241,6 +241,10 @@ h6 {
         display: none;
       }
 
+      #tooltip-toggle {
+        display: none;
+      }
+
       .infobox {
         width: 100%;
         margin-left: 2rem;
@@ -259,6 +263,10 @@ h6 {
       @include px-6;
 
       .tooltip {
+        display: block;
+      }
+
+      #tooltip-toggle {
         display: block;
       }
 
@@ -817,95 +825,6 @@ article blockquote {
   }
 }
 
-// Security threat widget
-.level {
-  display: inline-block;
-  position: relative;
-  box-sizing: border-box;
-}
-
-.alert {
-  @include highlight;
-}
-
-.alert, .status, .condition {
-  @include font-bold;
-  margin-bottom: .5rem;
-}
-
-.condition {
-  @include text-xs;
-  @include padding-1;
-}
-
-.white {
-  color: black;
-  background-color: white;
-  border: 2px solid black;
-}
-
-.black {
-  color: white;
-  background-color: black;
-  border: 2px solid white;
-}
-
-.black-special {
-  color: pink;
-  background-color: black;
-  border: 2px solid pink;
-}
-
-.amber {
-  color: white;
-  background-color: orangered;
-  border: 2px solid black;
-}
-
-.red {
-  color: white;
-  background-color: red;
-  border: 2px solid black;
-}
-
-.circle {
-  width: 15px;
-  height: 15px;
-  background-color: #62bd19;
-  border-radius: 50%;
-  position: absolute;
-  top: 5px;
-  margin-left: 8px;
-}
-
-.ring {
-  border: 3px solid;
-  -webkit-border-radius: 30px;
-  height: 25px;
-  width: 25px;
-  position: absolute;
-  top: -3px;
-  -webkit-animation: pulsate 1s ease-out;
-  -webkit-animation-iteration-count: infinite;
-  opacity: 0.0
-}
-
-@-webkit-keyframes pulsate {
-  0% {
-    -webkit-transform: scale(0.1, 0.1);
-    opacity: 0.0;
-  }
-
-  50% {
-    opacity: 1.0;
-  }
-
-  100% {
-    -webkit-transform: scale(1.2, 1.2);
-    opacity: 0.0;
-  }
-}
-
 // Timeline
 ol.timeline {
   section {
@@ -1042,62 +961,17 @@ h6 {
   }
 }
 
-/* fullscreen-tabs */
-.fullscreen-tabs {
-  @include padding-0;
-  @include radius-base;
-  background-color: var(--main-background);
-  line-height: 1.5;
-  letter-spacing: -.01em;
-  overflow: hidden;
-  display: flex;
-  flex-wrap: wrap;
-
-  label {
-    @include padding-2;
-    display: inline-block;
-    border-bottom: 1px transparent;
-    cursor: pointer;
-    box-sizing: border-box;
-    background: var(--gray-light);
-    padding: 0.25rem 1rem 0.25rem 0.75rem;
-    width: 50%;
-    text-align: center;
-  }
-
-  .fullscreen-tabs-content {
-    @include padding-2;
-    order: 999; //Move content blocks to the end
-    display: none;
-    width: 100%;
-  }
-
-  input[type="radio"] {
-    display: none;
-    background: var(--gray-light);
-
-    &:checked+label {
-      border-bottom: 2px solid var(--color-gray);
-
-      &+.fullscreen-tabs-content {
-        display: block;
-      }
-    }
-  }
-}
-
 // buttons
 button.navbutton {
   @include button-style;
-  height: 100%;
-  padding: .75rem;
+  margin-right: 1rem;
+  height: 40px;
+  width: 30px;
   font-size: 18px;
-  background: none;
   border: none;
 
   &:hover {
     color: inherit;
-    background: none;
     border: none;
   }
 }
@@ -1118,6 +992,10 @@ button.bulletbutton {
     filter: brightness(100%);
     text-decoration: underline;
   }
+}
+
+#tooltip-toggle {
+  padding-top: 0.55rem;
 }
 
 span.tag {
