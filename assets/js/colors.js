@@ -39,16 +39,24 @@ function getCSSColorAsRGB(name) {
 function initializeColors() {
   const colors = {};
   
-  // Get all CSS variables that start with --color-
+  // Wait for document to be ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => initializeColors());
+    return {};
+  }
+  
   const styles = getComputedStyle(document.documentElement);
   const cssVars = Array.from(styles).filter(prop => prop.startsWith('--color-'));
   
   cssVars.forEach(prop => {
     const name = prop.replace('--color-', '');
     const value = styles.getPropertyValue(prop).trim();
-    colors[name] = value;
+    if (value) {
+      colors[name] = parseColor(value);
+    }
   });
   
+  console.log('Initialized colors:', colors);
   return colors;
 }
 
