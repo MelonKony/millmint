@@ -26,6 +26,13 @@
   {{- partial "resources/js.html" . -}}
   {{- partial "script.html" . -}}
     <script>
+        // Add this before your map initialization
+        document.addEventListener('DOMContentLoaded', function() {
+            // Prevent lazysizes from handling map images
+            window.lazySizesConfig = window.lazySizesConfig || {};
+            window.lazySizesConfig.ignore = '.no-lazyload';
+        });
+        
         document.addEventListener('DOMContentLoaded', function() {
             const mapLoading = document.getElementById('map-loading');
             const imagePath = {{ if .Params.map }}{{ printf "%q" .Params.map | safeJS }}{{ else }}"/svg/maps/world.png"{{ end }};
@@ -53,6 +60,17 @@
                 });
     
                 overlay.addTo(map);
+    
+                // Immediately handle the map image to prevent lazy loading
+                const mapImage = document.querySelector('.leaflet-image-layer');
+                if (mapImage) {
+                    mapImage.classList.remove('lazyload', 'lazyloading');
+                    mapImage.classList.add('no-lazyload');
+                    mapImage.setAttribute('loading', 'eager');
+                    // Force the image to load immediately
+                    mapImage.style.visibility = 'visible';
+                    mapImage.style.opacity = '1';
+                }
     
                 const observer = new MutationObserver((mutations) => {
                     mutations.forEach((mutation) => {
@@ -129,6 +147,18 @@
             padding: 10px 20px;
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    
+        .leaflet-image-layer.no-lazyload {
+            visibility: visible !important;
+            opacity: 1 !important;
+            transform: none;
+        }
+        
+        /* Prevent lazysizes from interfering with the map image */
+        #map img.leaflet-image-layer {
+            opacity: 1 !important;
+            visibility: visible !important;
         }
     </style>
 </body>
