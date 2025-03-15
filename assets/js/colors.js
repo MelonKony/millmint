@@ -2,6 +2,9 @@
 
 // Add color parser helper
 function parseColor(color) {
+  // Add null check
+  if (!color) return null;
+  
   if (Array.isArray(color)) return color;
   
   // Handle hex colors
