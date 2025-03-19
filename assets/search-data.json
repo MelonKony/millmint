@@ -25,7 +25,7 @@
     {{- with $page.Params.color }}"color": {{ . | jsonify }},{{ end }}
     "section": {{ with $page.Parent }}{{ partial "title" . | jsonify }}{{ else }}""{{ end }},
     "description": {{ $page.Description | jsonify }},
-    "content": {{ $page.Plain | replaceRE "(?m)^>\\s?.*\\n?" "" | jsonify }},
+    "content": {{ partial "wikilinks.html" $page | plainify | replaceRE "(?m)^>\\s?.*\\n?" "" | jsonify }},
     "date": {{ $page.Date | jsonify }},
     "aliases": {{ $page.Aliases | jsonify }}
     }
