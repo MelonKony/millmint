@@ -6,7 +6,8 @@
   --gray-light: #f0f0f6;
   --gray-medium: #737373;
   --gray-dark: #262626;
-  --color-yellow: #ea9365;
+  --color-sunflower: #ea9365;
+  --color-yellow: #EA9365;
   --color-blue: #1c7bcd;
   --color-brown: #a2845e;
   --color-cyan: #32ade6;
@@ -62,7 +63,8 @@
   --gray-light: #f0f0f6;
   --gray-medium: #737373;
   --gray-dark: #262626;
-  --color-yellow: #ea9365;
+  --color-sunflower: #ea9365;
+  --color-yellow: #EA9365;
   --color-blue: #1c7bcd;
   --color-brown: #a2845e;
   --color-cyan: #32ade6;
@@ -1408,7 +1410,7 @@ article img {
         transform: scale(1.1);
         width: 100%; }
     .postcard-layout .card:hover {
-      border: 2px solid var(--highlight, #ea9365);
+      border: 2px solid var(--highlight, #EA9365);
       box-shadow: 0px 5px 10px 2.5px var(--highlight-background, rgba(234, 147, 101, 0.08));
       transform: translateY(-0.5rem); }
   .postcard-layout .postcard-meta {
