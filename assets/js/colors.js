@@ -2,7 +2,6 @@
 
 // Add color parser helper
 function parseColor(color) {
-  // Add null check
   if (!color) return null;
   
   if (Array.isArray(color)) return color;
@@ -16,7 +15,15 @@ function parseColor(color) {
     return [r, g, b];
   }
   
-  // Handle space/comma-separated RGB
+  // Handle rgb() format specifically
+  if (color.startsWith('rgb')) {
+    const matches = color.match(/\d+/g);
+    if (matches && matches.length >= 3) {
+      return matches.slice(0, 3).map(v => parseInt(v));
+    }
+  }
+  
+  // Handle space/comma-separated RGB as fallback
   if (typeof color === 'string') {
     return color.split(/[\s,]+/).map(v => parseInt(v));
   }
