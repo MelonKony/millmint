@@ -1,6 +1,6 @@
 ---
 title: Moise
-color: yellow
+color: sunflower
 description: Moise is Tzipora's neighbour and one of her closest friends. Like Tzipora, he was born overseas and has only started schooling in Vekllei in late childhood.
 
 fi: fi fi-moise fis

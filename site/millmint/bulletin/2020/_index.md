@@ -4,7 +4,7 @@ weight: "2"
 fulltitle: The Atlantic Bulletin Archive
 emoji: f
 icon: 🌼
-color: yellow
+color: sunflower
 
 tags: 
   - bulletin

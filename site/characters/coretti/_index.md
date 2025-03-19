@@ -1,6 +1,6 @@
 ---
 title: Coretti
-color: yellow
+color: sunflower
 
 fi: fi fi-coretti fis
 description: Coretti is Moise's girlfriend. Born in the Congo, she lived in the Soviet Union before moving to Vekllei at 6 years old.

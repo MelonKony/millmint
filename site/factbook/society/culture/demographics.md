@@ -3,7 +3,7 @@ title: Demographics
 fulltitle: Demographics of Vekllei
 icon: 👨‍👩‍👧‍👦
 emoji: ←
-color: yellow
+color: sunflower
 
 description: Vekllei is a diverse country made up of people from all corners of the world.
 

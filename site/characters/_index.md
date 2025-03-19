@@ -3,7 +3,7 @@ title: Characters
 fulltitle: Characters
 icon: 🎎
 emoji: O
-color: yellow
+color: sunflower
 meta: false
 
 autonumbering: false

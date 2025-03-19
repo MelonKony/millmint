@@ -1,6 +1,6 @@
 ---
 title: Tzipora
-color: yellow
+color: sunflower
 
 fi: fi fi-tzipora fis
 description: Tzipora is a teenage girl living in Oslola in the North Atlantic, and is the main character of this project. 

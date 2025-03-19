@@ -1,6 +1,6 @@
 ---
 title: Archived Stories
-color: yellow
+color: sunflower
 
 toc: false
 meta: false
