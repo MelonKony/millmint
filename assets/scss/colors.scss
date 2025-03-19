@@ -7,6 +7,7 @@ $gray-scale: (
 
 // Theme colors
 $theme-colors: (
+  yellow: rgb(234, 147, 101),  // Moved to first position
   blue: rgb(28, 123, 205),
   brown: rgb(162, 132, 94),
   cyan: rgb(50, 173, 230),
@@ -19,7 +20,7 @@ $theme-colors: (
   purple: rgb(155, 67, 199),
   red: rgb(221, 52, 71),
   teal: rgb(48, 176, 199),
-  yellow: rgb(234, 147, 101)
+  test: rgb(0,0,0)
 );
 
 // Brand colors
