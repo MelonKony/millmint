@@ -26,11 +26,13 @@
     justify-self: center;
     align-self: center;
     list-style: none;
-    border: 2px solid var(--gray-medium);
+    // Add fallback for border color
+    border: 2px solid var(--gray-medium, map-get($gray-scale, medium));
     width: 100%;
     height: 400px;
     box-sizing: border-box;
-    background: var(--gray-light);
+    // Add fallback for background
+    background: var(--gray-light, map-get($gray-scale, light));
     transition: ease 0.15s;
     position: relative;
     z-index: 2;
@@ -86,8 +88,8 @@
     }
 
     &:hover {
-      border: 2px solid var(--highlight);
-      box-shadow: 0px 5px 10px 2.5px var(--highlight-background);
+      border: 2px solid var(--highlight, map-get($theme-colors, yellow));
+      box-shadow: 0px 5px 10px 2.5px var(--highlight-background, rgba(map-get($theme-colors, yellow), 0.08));
       transform: translateY(-0.5rem);
     }
   }
@@ -101,14 +103,14 @@
 
     .date {
       @include text-sm;
-      color: var(--gray-heavy);
+      color: var(--gray-heavy, map-get($gray-scale, dark));
       padding: 0px 10px 5px 5px;
     }
   }
 }
 
 .controls-row.note {
-  @include highlight-background;
+  background: var(--highlight-background, var(--gray-light));
   @include py-2;
   display: flex;
   align-items: center;
@@ -256,7 +258,7 @@
   @include py-2;
   @include px-4;
   border: 1px solid transparent;
-  background-color: var(--gray-light);
+  background-color: var(--gray-light, map-get($gray-scale, light));
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s ease;

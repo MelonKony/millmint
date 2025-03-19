@@ -20,8 +20,7 @@
 
 // Backgrounds
 @mixin background-dots {
-  background-color: var(--body-background, var(--gray-light, #f0f0f6));
-  background-image: radial-gradient(var(--color-dots, var(--gray-medium, #737373)) 0.5px, var(--body-background, var(--gray-light, #f0f0f6)) 0.5px);
+  background: var(--body-background, var(--gray-light, #f0f0f6)) radial-gradient(var(--color-dots, var(--gray-medium, #737373)) 0.5px, transparent 0.5px);
   background-size: 10px 10px;
 }
 
@@ -67,10 +66,11 @@
 }
 
 // Colors and Effects
-@mixin highlight { color: var(--highlight, var(--gray-medium, #737373)); }
-@mixin highlight-background { background-color: var(--highlight-background, var(--gray-light, #f0f0f6)); }
-@mixin highlight-border { border: 1px solid var(--highlight, var(--gray-medium, #737373)); }
-@mixin hint-background { background-color: var(--highlight-background, var(--gray-light, #f0f0f6)); }
+@mixin highlight { color: var(--highlight, var(--gray-medium)); }
+@mixin highlight-background { background-color: var(--highlight-background, var(--gray-light)); }
+@mixin highlight-border { border: 1px solid var(--highlight, var(--gray-medium)); }
+@mixin highlight-border-background { border: 1px solid var(--highlight-background, var(--gray-light)); }
+@mixin hint-background { background-color: var(--highlight-background, var(--gray-light)); }
 @mixin nav-highlight-background { background: var(--hint-bg, var(--gray-light, #f0f0f6)); }
 @mixin drop-shadow {
   box-shadow: 0 20px 25px -5px rgba(0, 0, 0, .2),
@@ -356,6 +356,15 @@
   flex-wrap: wrap;
 }
 
+@mixin tag-base {
+  @include text-sm;
+  @include font-bold;
+  @include radius-base;
+  padding: 0.1rem 0.25rem;
+  list-style: none;
+  width: fit-content;
+}
+
 @mixin sidenote-style {
   padding-right: 1rem;
   margin-bottom: 1.5rem;
@@ -398,17 +407,65 @@
 }
 
 // New mixin for table styles
+// New mixin for details table styles
+@mixin details-table-style {
+  @include table-style;
+
+  td, th {
+    @include highlight-border-background;
+  }
+
+  tr:nth-child(even) {
+    @include highlight-background;
+  }
+}
+
+// Keep existing table-style mixin unchanged for regular tables
 @mixin table-style {
   @include my-6;
-  table-layout: auto;
-  border-collapse: collapse;
-  overflow-x: auto;
+  @include radius-base;
   width: 100%;
+  border-spacing: 0;
+  table-layout: auto;  // Add this to allow flexible column widths
+  
+  @media screen and (max-width: 640px) {
+    display: block;
+    overflow-x: auto;
+  }
 
   td, th {
     @include px-3;
     @include py-2;
     border: 1px solid var(--gray-light);
+    border-radius: 0;
+    width: auto;
+    word-wrap: break-word;  // Add this back
+    white-space: normal;    // Allow text wrapping
+    
+    &:first-child {
+      border-left-width: 1px;
+    }
+    &:last-child {
+      border-right-width: 1px;
+    }
+  }
+
+  // Only round the very top corners of the thead
+  thead tr:first-child {
+    th:first-child { border-top-left-radius: 0.25rem; }
+    th:last-child { border-top-right-radius: 0.25rem; }
+  }
+
+  // Only round bottom corners if there's no thead
+  tbody:first-child tr:first-child {
+    td:first-child { border-top-left-radius: 0.25rem; }
+    td:last-child { border-top-right-radius: 0.25rem; }
+  }
+
+  // Bottom corners
+  tbody:last-child tr:last-child {
+    td:first-child { border-bottom-left-radius: 0.25rem; }
+    td:last-child { border-bottom-right-radius: 0.25rem; }
   }
 }
 
@@ -446,4 +503,31 @@
   visibility: hidden;
   max-width: 100%;
   padding: 0;
+}
+
+@mixin header-grid {
+  display: grid;
+  align-items: center;
+  margin: 0 0 1rem 0;
+}
+
+@mixin header-link {
+  &:hover {
+    filter: none;
+  }
+}
+
+@mixin dropdown-button {
+  display: flex;
+  align-items: center;
+  padding: 0;
+
+  &:hover {
+    background-color: unset;
+  }
+
+  &::after {
+    content: "";
+    padding: 0;
+  }
 }

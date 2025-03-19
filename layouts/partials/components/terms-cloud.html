@@ -14,7 +14,7 @@
             {{ $weight := math.Log (div (float .Count) $min) }}
             {{ $fontSize := add $fontSmall (mul (sub $fontBig $fontSmall) $weight) }}
 
-            <a class="tag-item whitespace-nowrap border-b-2 mr-1.5" href="{{ .Page.RelPermalink }}">
+            <a href="{{ .Page.RelPermalink }}">
                 <span style="font-size:{{ $fontSize }}rem">{{- .Page.Title -}}</span>
                 <span style="font-size:{{ sub $fontSmall 0.2 }}rem"> ({{- .Count -}}) </span>
             </a>

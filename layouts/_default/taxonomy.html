@@ -13,7 +13,27 @@
         {{ if .Content }}
           {{- partial "content.html" . -}}
         {{ end }}
-        {{ partial "terms-cloud.html" .Data.Terms }}
+        
+        <div class="series-list">
+          {{- partial "components/link-preview.html" . -}}
+          
+          <br>
+          <details open>
+            <summary><span class="navicon details-title"></span><a href="#">{{ .Title }}</a></summary>
+            <ul>
+              {{ range .Data.Terms.Alphabetical }}
+              <li>
+                <a class="slink" href="{{ .Page.RelPermalink }}">
+                  <span class="navicon"></span> 
+                  {{ .Page.Title }} 
+                  <small>({{ .Count }} {{ if eq .Count 1 }}entry{{ else }}entries{{ end }})</small>
+                </a>
+              </li>
+              {{ end }}
+            </ul>
+          </details>
+        </div>
+        
       </section>
     </article>
     {{- partial "footer.html" . -}}

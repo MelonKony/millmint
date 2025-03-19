@@ -92,11 +92,15 @@
 	margin-top: 0.25rem;
 	position: absolute;
 	z-index: 1000;
-	width: -webkit-max-content;
-	width: -moz-max-content;
-	width: max-content;
+	width: 100%;
 	max-width: 100%;
 	padding-inline-start: 0;
+	display: none;
+	border: 1px solid var(--highlight); // Add highlight-colored border
+
+	&:not(:empty) {
+		display: block;
+	}
 
 	a {
 		white-space: normal;

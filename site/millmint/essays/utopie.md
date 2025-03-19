@@ -54,6 +54,10 @@ To explain further:
 
 ## **UTOPIE CONCRÈTE** ■ with Vekllei Characteristics
 
+{{<note advice>}}
+There is a newer amendment to this section of the essay: [*Women, Vekllei*](/women-vekllei/)
+{{</note>}}
+
 You already have the tools to create your concrete utopia --- you just need to act on it. I have acted, and what has surfaced reveals a great deal about me, how I think and process the world, my anger and prejudices, my hopes and affections, and the pettiest of petty material interests.
 
 Hayao Miyazaki, a great artist I admire deeply, was asked why his films starred heroines. He said:

@@ -121,10 +121,15 @@ details {
   div {
     @include px-6;
   }
+
+  table {
+    @include details-table-style;
+  }
 }
 
 details>summary {
   @include px-2;
+  @include font-bold;
   list-style: none;
   display: flex;
   justify-content: space-between;
@@ -305,7 +310,7 @@ h6 {
 }
 
 // Tables
-table.mc-table {
+table {
   @include table-style;
 
   tr:nth-child(even) {
@@ -317,31 +322,20 @@ table.mc-table {
 table.infobox {
   @include text-sm;
   @include my-4;
+  @include padding-2;
+  float: right;
   border: 1px solid var(--highlight, var(--gray-medium, #737373));
 
-  th {
-    @include font-bold;
-    text-align: center;
-  }
-
-  tr {
+  tr, td, th {
+    background: none;
     border: none;
-  }
-
-  td {
-    text-align: left;
-    vertical-align: top;
-    padding-top: 0.1rem;
-    padding-bottom: 0.1rem;
-  }
-
-  .constituent {
-    @include highlight-background;
+    padding: 0.1rem 0;
   }
 
   img {
-    @include my-0;
+    margin: 0 auto;
   }
+
 }
 
 // Autonumbering
@@ -517,18 +511,6 @@ article[autonumbering] h5:before {
 // Images
 img {
   @include image-style;
-
-  &.portrait {
-    border-radius: 50%;
-    padding: .25rem;
-    background-color: var(--highlight-background);
-    border: 1px solid var(--highlight);
-
-    &:hover {
-      box-shadow: 0 0 5px var(--highlight);
-      text-shadow: 0 0 5px var(--highlight);
-    }
-  }
 
   &.small {
     width: 50%;
@@ -999,38 +981,17 @@ button.bulletbutton {
 }
 
 span.tag {
-  @include text-sm;
-  @include font-bold;
-  @include radius-base;
-  line-height: .8rem !important;
-  padding: 0.1rem 0.25rem;
-  list-style: none;
-  width: fit-content;
-  background-color: var(--color-gray);
-  color: var(--main-background);
-  border: hidden;
-
-  .gray {
-    background-color: var(--gray-medium);
-  }
+  @include tag-base;
 
   .price {
     margin-top: 0;
-    margin-left: 6px;
+    float: right;
   }
 }
 
 /* sidenotes */
 .sidenote {
   @include sidenote-style;
-}
-
-.locator-map {
-  @include radius-base;
-  @include highlight-background;
-  img {
-    background: transparent;
-  }
 }
 
 html[data-theme="dark"] {

@@ -10,6 +10,8 @@
         <a href="/{{ .taxonomyPlural }}/" style="margin-right: auto;"><button>← Back to {{ title .taxonomyPlural }}</button></a>
         {{ end }}
 
+        <!-- Hide the pagination toggle for series taxonomy -->
+        {{ if ne $taxonomy "series" }}
         <div class="checkbox-wrapper">
             <input class="inp-cbx toggle-slider" id="view-toggle" type="checkbox"/>
             <label class="cbx" for="view-toggle">
@@ -26,8 +28,33 @@
                 </symbol>
             </svg>
         </div>
+        {{ end }}
     </div>
 
+    <!-- Check if we're displaying a series taxonomy -->
+    {{ if eq $taxonomy "series" }}
+    <div class="series-list">
+        <!-- Get all pages with this series term directly from the taxonomy -->
+        {{ $allSeriesPages := index $ctx.Site.Taxonomies.series (lower $term) }}
+        
+        <!-- Include link preview partial directly -->
+        {{- partial "components/link-preview.html" $ctx -}}
+        
+        <br>
+        <details open>
+          <summary><span class="navicon details-title"></span><a href="#">{{ $term }}</a></summary>
+          <ul>
+            {{ range $allSeriesPages.Pages }}
+            <li><a class="slink" {{ if .Params.color }} style="
+             color: var(--color-{{ .Params.color }});
+             background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+             background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+        </details>
+    </div>
+    {{ else }}
+    <!-- Regular postcard grid for other taxonomies -->
     <ul class="postcard-grid" id="illustration-grid"
         {{- with $term }} data-term="{{ . }}"{{ end }}
         {{- with $taxonomy }} data-taxonomy="{{ . }}"{{ end }}>
@@ -55,6 +82,7 @@
             </li>
         {{ end }}
     </ul>
+    {{ end }}
 
     <div id="pagination" class="pagination" style="display: none;">
         {{ if $paginator }}

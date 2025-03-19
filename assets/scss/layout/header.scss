@@ -1,255 +1,240 @@
 // Site Header
-
 header {
-	display: grid;
-	align-items: center;
-	grid-template-columns: 1fr fit-content(33%);
-	grid-template-rows: 1fr;
-	grid-template-areas:
-		"brand tooltip theme toc search";
-	margin: 0 0 1rem 0;
+  @include header-grid;
+  grid-template-columns: 1fr fit-content(33%);
+  grid-template-rows: 1fr;
+  grid-template-areas: "brand tooltip theme toc search";
 
-	a:hover {
-		filter: none;
-	}
+  a {
+    @include header-link;
+  }
 }
 
 .brand {
-	align-items: center;
-	min-width: 8rem;
-	grid-area: brand;
+  align-items: center;
+  min-width: 8rem;
+  grid-area: brand;
 
-	.name {
-		@include text-2xl;
-		@include font-bold;
-		@include radius-medium;
-		color: var(--main-background);
-		vertical-align: middle;
-		padding: 2px 6px 2px 6px;
-		background-color: var(--color-gray);
-		&:hover {
-			box-shadow: inset 0 0 0 2px var(--logo-color, var(--color-gray));
-			color: var(--logo-color, var(--color-gray));
-			background-color: transparent;
-			text-decoration: none;
-		}
-	}
+  .name {
+    @include text-2xl;
+    @include font-bold;
+    @include radius-medium;
+    color: var(--main-background);
+    vertical-align: middle;
+    padding: 2px 6px;
+    background-color: var(--color-gray);
 
-	.emoji {
-		// currently unused; use whirlybats CSS to enable
-		display: none;
-	}
+    &:hover {
+      box-shadow: inset 0 0 0 2px var(--logo-color, var(--color-gray));
+      color: var(--logo-color, var(--color-gray));
+      background-color: transparent;
+      text-decoration: none;
+    }
+  }
+
+  .emoji {
+    display: none;
+  }
 }
 
 .toolbox {
-	display: flex;
-	align-items: center;
-	column-gap: 0.5rem;
+  @include flex-center;
+  column-gap: 0.5rem;
 
-	.button {
-		display: flex;
-		cursor: pointer;
+  .button {
+    display: flex;
+    cursor: pointer;
 
-		&:hover {
-			@include highlight;
-		}
-	}
+    &:hover {
+      @include highlight;
+    }
+  }
 
-	.dropdown-wrapper {
-		.dropdown-btn.pure-menu-link {
-			color: unset;
-		}
+  .dropdown-wrapper {
+    .dropdown-btn {
+      @include dropdown-button;
 
-		.dropdown-btn {
-			display: flex;
-			align-items: center;
-			padding: 0;
+      &.pure-menu-link {
+        color: unset;
+      }
 
-			&:hover {
-				background-color: unset;
-			}
-
-			&::after {
-				content: "";
-				padding: 0;
-			}
-
-			.dropdown-desc {
-				@include text-sm;
-				margin-left: 0.35rem;
-			}
-		}
-	}
+      .dropdown-desc {
+        @include text-sm;
+        margin-left: 0.35rem;
+      }
+    }
+  }
 }
 
 body>canvas:not(#HeaderCanvas) {
-	/*Hide annoying Vibrant canvas*/
-	display: none;
+  /*Hide annoying Vibrant canvas*/
+  display: none;
 }
 
 /* fix menu dropdown bg colour */
 body header #navbar .navbar-dropdown li {
-	background-color: var(--main-background);
+  background-color: var(--main-background);
 }
 
 body header #navbar .navbar-dropdown li:hover {
-	background-color: var(--main-background);
-	filter: brightness(98%);
+  background-color: var(--main-background);
+  filter: brightness(98%);
 }
 
 /* hide menu button */
 header .menu-btn {
-	display: none;
+  display: none;
 }
 
 @media (max-width: 600px) {
-	header {
-		margin-top: 0rem;
-	}
+  header {
+    margin-top: 0rem;
+  }
 }
 
 // Article Header
 
 header.info {
-	margin: 0 0 2rem 0;
-	display: grid;
-	grid-auto-columns: minmax(auto, auto);
-	grid-auto-rows: minmax(min-content, max-content);
-	gap: 0 10px;
-	grid-auto-flow: column;
-	grid-template-areas:
-		"title emoji logo"
-		"date emoji logo"
-		"meta emoji logo";
+  margin: 0 0 2rem 0;
+  display: grid;
+  grid-auto-columns: minmax(auto, auto);
+  grid-auto-rows: minmax(min-content, max-content);
+  gap: 0 10px;
+  grid-auto-flow: column;
+  grid-template-areas:
+    "title emoji logo"
+    "date emoji logo"
+    "meta emoji logo";
 
 
-	.title {
-		@include font-bold;
-		@include font-color;
-		grid-area: title;
-		display: grid;
-		font-size: 2rem;
-		align-content: center;
-		line-height: 1.25;
-		margin: 0 0 0.5rem 0;
-	}
+  .title {
+    @include font-bold;
+    @include font-color;
+    grid-area: title;
+    display: grid;
+    font-size: 2rem;
+    align-content: center;
+    line-height: 1.25;
+    margin: 0 0 0.5rem 0;
+  }
 
-	.emoji {
-		grid-area: emoji;
-		display: grid;
-		justify-items: end;
-		align-content: center;
-		font-family: 'Whirlybats';
-		font-weight: normal;
-		font-style: normal;
-		font-feature-settings: 'liga';
-		white-space: nowrap;
-		word-wrap: normal;
-		-webkit-font-smoothing: antialiased;
-		-moz-osx-font-smoothing: grayscale;
-		text-rendering: optimizeLegibility;
-		font-size: 65px;
-		box-sizing: border-box;
-		height: 100%;
-		width: 100%;
-	}
+  .emoji {
+    grid-area: emoji;
+    display: grid;
+    justify-items: end;
+    align-content: center;
+    font-family: 'Whirlybats';
+    font-weight: normal;
+    font-style: normal;
+    font-feature-settings: 'liga';
+    white-space: nowrap;
+    word-wrap: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-size: 65px;
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+  }
 
-	.logo {
-		@include margin-0;
-		@include radius-base;
-		grid-area: logo;
-		display: grid;
-		width: 100%;
-		height: 100%;
-		max-width: 100px;
-		max-height: 6rem;
-		justify-items: end;
-		align-content: center;
-	}
+  .logo {
+    @include margin-0;
+    @include radius-base;
+    grid-area: logo;
+    display: grid;
+    width: 100%;
+    height: 100%;
+    max-width: 100px;
+    max-height: 6rem;
+    justify-items: end;
+    align-content: center;
+  }
 
-	.characters {
-		img {
-			@include margin-0;
-			display: inline;
-			height: 2.5rem;
-			margin-left: .5rem;
-			margin-bottom: .5rem;
-			float: right;
-			}
-	}
+  .characters {
+    img {
+      margin-left: 0.5rem;
+      display: inline;
+      height: 2.5rem;
+      float: right;
+      &:hover {
+        @include highlight-border;
+      }
+    }
+  }
 
-	.date {
-		@include text-sm;
-		@include font-medium;
-		@include highlight;
-		grid-area: date;
-		margin: 0;
-	}
+  .date {
+    @include text-sm;
+    @include font-medium;
+    @include highlight;
+    grid-area: date;
+    margin: 0;
+  }
 
-	.meta {
-		display: grid;
-		grid-area: meta;
-		grid-template-columns: min-content auto;
-		grid-auto-flow: column;
-		grid-auto-rows: minmax(min-content, max-content);
-		grid-template-areas:
-			"icon headcrumbs"
-			"icon category";
-	}
+  .meta {
+    display: grid;
+    grid-area: meta;
+    grid-template-columns: min-content auto;
+    grid-auto-flow: column;
+    grid-auto-rows: minmax(min-content, max-content);
+    grid-template-areas:
+      "icon headcrumbs"
+      "icon category";
+  }
 
-	.icon {
-		@include emoji;
-		@include highlight;
-		@include radius-base;
-		display: grid;
-		grid-area: icon;
-		max-width: min-content;
-		justify-content: start;
-		align-content: center;
-		margin-right: .5rem;
-		font-size: 2rem;
-	}
+  .icon {
+    @include emoji;
+    @include highlight;
+    @include radius-base;
+    display: grid;
+    grid-area: icon;
+    max-width: min-content;
+    justify-content: start;
+    align-content: center;
+    margin-right: .5rem;
+    font-size: 2rem;
+  }
 
-	.headcrumbs {
-		@include text-sm;
-		display: grid;
-		grid-area: headcrumbs;
-		align-content: end;
+  .headcrumbs {
+    @include text-sm;
+    display: grid;
+    grid-area: headcrumbs;
+    align-content: end;
 
-		.hidden {
-			display: none;
-		}
+    .hidden {
+      display: none;
+    }
 
-		nav {
-			@include my-0;
-		}
+    nav {
+      @include my-0;
+    }
 
-		li {
-			@include margin-0;
-			@include padding-0;
-			display: inline;
-			list-style: none;
+    li {
+      @include margin-0;
+      @include padding-0;
+      display: inline;
+      list-style: none;
 
-			&+:after {
-				@include highlight;
-				padding: 0 .25rem 0 .15rem;
-				content: "/";
-			}
-		}
+      &+:after {
+        @include highlight;
+        padding: 0 .25rem 0 .15rem;
+        content: "/";
+      }
+    }
 
-		ul {
-			@include margin-0;
-			@include padding-0;
-		}
+    ul {
+      @include margin-0;
+      @include padding-0;
+    }
 
-		a {
-			color: var(--gray-heavy);
-		}
+    a {
+      color: var(--gray-heavy);
+    }
 
-		.seperator {
-			display: inline;
-			padding-left: .25rem;
-			padding-right: .15rem;
-		}
-	}
+    .seperator {
+      display: inline;
+      padding-left: .25rem;
+      padding-right: .15rem;
+    }
+  }
 }

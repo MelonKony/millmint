@@ -39,12 +39,6 @@ function getCSSColorAsRGB(name) {
 function initializeColors() {
   const colors = {};
   
-  // Wait for document to be ready
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', () => initializeColors());
-    return {};
-  }
-  
   const styles = getComputedStyle(document.documentElement);
   const cssVars = Array.from(styles).filter(prop => prop.startsWith('--color-'));
   
@@ -56,67 +50,34 @@ function initializeColors() {
     }
   });
   
+  window._colors = colors;
   console.log('Initialized colors:', colors);
   return colors;
 }
 
-const colors = initializeColors();
-
-function setColors(color, doBackground = true, el = document.body) {
-  const rgb = parseColor(color);
-  
-  if (!rgb || rgb.length !== 3) {
-    console.error("Invalid color value:", color);
-    return;
+// Add this new function to ensure colors are loaded
+function ensureColorsLoaded() {
+  if (!window._colors) {
+    window._colors = initializeColors();
   }
-
-  const isDark = localStorage.theme === "dark" || 
-                (!("theme" in localStorage) && 
-                 window.matchMedia("(prefers-color-scheme: dark)").matches);
-
-  // Set theme-color meta tag
-  const meta = document.createElement("meta");
-  meta.setAttribute("name", "theme-color");
-  meta.setAttribute("content", rgba(...rgb, 0.4));
-  document.querySelector('[name="theme-color"]')?.remove();
-  document.head.appendChild(meta);
-
-  // Calculate colors based on theme
-  const colors = {
-    background: isDark ? 'rgba(18, 18, 25, 1)' : rgba(...rgb, 0.08),
-    text: isDark ? rgba(...rgb, 0.25, "black") : rgba(...rgb, 0.25, "black"),
-    highlight: rgba(...rgb, 1),
-    highlightBg: rgba(...rgb, 0.08),
-    border: rgba(...rgb, isDark ? 0.25 : 0.08)
-  };
-
-  // Apply colors
-  const styles = [
-    `--title-text: ${colors.text}`,
-    `--highlight: ${colors.highlight}`,
-    `--highlight-background: ${colors.highlightBg}`,
-    `--color-border: ${colors.border}`,
-    `--color-text: ${colors.highlight}`
-  ];
-
-  if (doBackground) {
-    styles.push(
-      `--bg: ${colors.background}`,
-      `background-color: ${colors.background}`
-    );
-  }
-
-  el.setAttribute("style", styles.join(";"));
+  return window._colors;
 }
 
+// Modify colorsMain to use ensureColorsLoaded
 function colorsMain() {
-    // Store the current image and its colors for reuse
+    const currentColors = ensureColorsLoaded();
+    console.log('Available colors:', currentColors); // Debug log
+    
     window._currentColorSource = window._currentColorSource || {};
 
     if(document.querySelector('[data-color]')) {
         const color = document.querySelector("[data-color]").getAttribute("data-color");
-        const rgbArray = colors[color];
-        if(!rgbArray) console.log('Color not supported');
+        const rgbArray = currentColors[color];
+        console.log('Attempting to use color:', color, 'Value:', rgbArray); // Debug log
+        if(!rgbArray) {
+            console.error('Color not found:', color);
+            return;
+        }
         window._currentColorSource.rgb = rgbArray;
         setColors(rgbArray, false);
     } else if (document.querySelector("[data-page-color]")) {
@@ -144,6 +105,21 @@ function colorsMain() {
     } else if (window._currentColorSource.rgb) {
         // Reuse existing colors if available
         setColors(window._currentColorSource.rgb);
+    } else {
+        // Use default "millmint" color when no other color is specified
+        const defaultColor = currentColors["millmint"];
+        if (defaultColor) {
+            console.log('Using default millmint color:', defaultColor);
+            window._currentColorSource.rgb = defaultColor;
+            setColors(defaultColor);
+        } else {
+            // Fallback to a hardcoded millmint color if not found in CSS variables
+            // This is useful for Hugo sites where CSS variables might be processed differently
+            const fallbackMillmint = [0, 123, 255]; // Example blue color - replace with your brand color
+            console.log('Using fallback millmint color:', fallbackMillmint);
+            window._currentColorSource.rgb = fallbackMillmint;
+            setColors(fallbackMillmint);
+        }
     }
 }
 
@@ -247,10 +223,10 @@ function setColors(color, doBackground = true, el = document.body) {
 
   if (shouldUseDarkMode) {
     // Define all dark colors
-    const bodyBg = `rgba(18, 18, 25, 1)`;
+    const bodyBg = rgba(...rgb.map(v => Math.floor(v * 0.07)), 1);
     const darkerText = rgba(161, 161, 166, 1);
     const titleText = rgba(...rgb, 0.25, "black");
-    const bg = rgba(14, 14, 14, 1);
+    const bg = rgba(...rgb.map(v => Math.floor(v * 0.05)), 1);
     const gray100 = `rgba(${rgb.join(", ")}, 0.08)`;
     const highlight = `rgba(${rgb.map((v) => Math.max(v, 0)).join(", ")}, 1)`;
     const highlightBackground = `rgba(${rgb.join(", ")}, 0.08)`;
@@ -336,3 +312,9 @@ function rgba(r, g, b, a, base = "white") {
   );
   return `rgb(${r2}, ${g2}, ${b2})`;
 }
+
+// Add this to ensure colors are initialized when the page loads
+document.addEventListener('DOMContentLoaded', () => {
+    initializeColors();
+    colorsMain();
+});

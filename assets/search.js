@@ -73,10 +73,17 @@
     }
 
     if (!input.value) {
+      results.style.display = 'none'; // Hide when input is empty
       return;
     }
 
-    const searchHits = window.bookSearchIndex.search(input.value, 10)
+    const searchHits = window.bookSearchIndex.search(input.value, 10);
+    if (searchHits.length === 0) {
+      results.style.display = 'none'; // Hide when no results
+      return;
+    }
+
+    results.style.display = 'block'; // Show when we have results
     searchHits.forEach(function (page) {
       const li = element('<li><a href></a><small></small><span class="found"></span></li>');
       const a = li.querySelector('a'), small = li.querySelector('small'), span = li.querySelector('span');

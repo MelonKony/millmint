@@ -37,7 +37,7 @@
 
 <blockquote id="notice" class="note panel" style="padding: .5rem;">
   {{ range ( where .Site.RegularPages "Type" "stories" | first 1 ) }}
-  <span class="tag new-tag">NEW</span> <a
+  <span>NEW</span> <a
     style="white-space: nowrap; overflow:hidden;" href="{{ .Permalink }}"><span class="navicon">📗</span>Story: <i>{{ .Title
     }}</i></a>
   <span id="close-btn" class="navicon close-btn">❌</span>
