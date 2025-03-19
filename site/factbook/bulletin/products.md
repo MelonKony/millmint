@@ -8,7 +8,7 @@ rgb: 253, 117, 42
 
 toc: false
 
-description: Vekllei bureaucracy is better understood not as a traditional hierarchy but as constellations of autonomous offices.
+description: Vekllei is sometimes described as a country without products, but their modestly affluent society is filled with the regular furnishings of modern living.
 
 aliases:
 - /bulletin/products
