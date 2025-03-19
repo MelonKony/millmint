@@ -66,7 +66,13 @@ function ensureColorsLoaded() {
 // Modify colorsMain to use ensureColorsLoaded
 function colorsMain() {
     const currentColors = ensureColorsLoaded();
-    console.log('Available colors:', currentColors); // Debug log
+    
+    // Add specific debug for stories
+    if (window.location.pathname.includes('/stories/')) {
+        console.log('Stories page detected');
+        console.log('Body data-color:', document.body.getAttribute('data-color'));
+        console.log('Available colors:', Object.keys(currentColors));
+    }
     
     window._currentColorSource = window._currentColorSource || {};
 

@@ -4,7 +4,7 @@
 <html lang='{{ .Site.LanguageCode }}'>
 {{- partial "head.html" . -}}
 
-<body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
+<body {{if .Params.color }}data-color="{{ .Params.color }}" {{ end }} class="show-all-images">
   <main>
     {{- partial "header.html" . -}}
     {{- partial "nav.html" . -}}
