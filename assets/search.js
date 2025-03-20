@@ -98,32 +98,47 @@
     input.removeEventListener('focus', init); // init once
     input.required = true;
 
+    // Check if FlexSearch is available
+    if (typeof FlexSearch === 'undefined') {
+      console.error('FlexSearch is not loaded');
+      return;
+    }
+
     fetch(searchDataURL)
       .then(pages => pages.json())
       .then(pages => {
         console.log('Pages loaded:', pages.length);
-        // Update FlexSearch configuration for more flexible matching
-        window.bookSearchIndex = new FlexSearch.Document({
-          document: {
-            id: 'id',
-            index: ['title', 'content', 'logo'],
-            store: ['title', 'href', 'section', 'content', 'logo', 'rgb', 'color', 'image']
-          },
-          tokenize: 'forward', // Enable prefix matching (e.g., "bur" will match "bureau")
-          threshold: 0,        // Lower threshold for more matches
-          resolution: 9,       // Higher resolution for better accuracy
-          depth: 3,            // Increase depth for partial matching
-          preset: 'balance'
-        });
-        
-        // Add each page individually to ensure proper indexing
-        pages.forEach(page => {
-          window.bookSearchIndex.add(page);
-        });
-        console.log('Search index created');
+        try {
+          // Create the search index
+          window.bookSearchIndex = new FlexSearch.Document({
+            document: {
+              id: 'id',
+              index: ['title', 'content', 'logo'],
+              store: ['title', 'href', 'section', 'content', 'logo', 'rgb', 'color', 'image']
+            },
+            tokenize: 'forward',
+            threshold: 0,
+            resolution: 9,
+            depth: 3,
+            preset: 'balance'
+          });
+          
+          // Add each page individually to ensure proper indexing
+          pages.forEach(page => {
+            window.bookSearchIndex.add(page);
+          });
+          console.log('Search index created');
+        } catch (error) {
+          console.error('Error creating search index:', error);
+          throw error;
+        }
       })
       .then(() => input.required = false)
-      .then(search);
+      .then(search)
+      .catch(error => {
+        console.error('Search initialization failed:', error);
+        input.required = false;
+      });
   }
 
   function search() {
