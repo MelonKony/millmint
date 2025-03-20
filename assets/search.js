@@ -98,15 +98,24 @@
     input.removeEventListener('focus', init); // init once
     input.required = true;
 
-    // Check if FlexSearch is available
-    if (typeof FlexSearch === 'undefined') {
-      console.error('FlexSearch is not loaded');
+    // More robust FlexSearch check
+    if (typeof FlexSearch === 'undefined' || !FlexSearch.Document) {
+      console.error('FlexSearch or FlexSearch.Document is not available');
+      setTimeout(init, 100); // Retry after a short delay
       return;
     }
 
     fetch(searchDataURL)
-      .then(pages => pages.json())
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.json();
+      })
       .then(pages => {
+        if (!Array.isArray(pages)) {
+          throw new Error('Search data is not in the expected format');
+        }
         console.log('Pages loaded:', pages.length);
         try {
           // Create the search index
