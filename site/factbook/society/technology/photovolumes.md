@@ -6,6 +6,7 @@ emoji: O
 color: purple
 image: /images/fullres/photovolume.jpg
 series: technology
+toc: true
 
 description: Photovolumes are devices that store computer information in crystals, where it can be retrieved later.
 
