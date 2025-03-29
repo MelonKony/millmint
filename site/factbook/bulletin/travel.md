@@ -6,7 +6,7 @@ series: bulletin
 
 rgb: 88, 155, 204
 
-description: After completing civil or military conscription, Vekllei citizens are entitled to six months off work and a special cruise that visits every constituent republic.
+description: Vekllei people travel enthusiastically and regularly. How they do so without any money is more complicated.
 
 aliases:
 - /bulletin/travel
