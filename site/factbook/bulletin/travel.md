@@ -28,7 +28,7 @@ There are three kinds of travel in Vekllei. Read on to discover how to plan your
 
 ## Domestic Travel
 
-Domestic travel in Vekllei is common and easy. It is the most popular form of tourism in Vekllei. And why shouldn't it? Vekllei is the most diverse country in the world, spanning both poles and the entire width of the Atlantic. Across its [[republics]] you have basically every kind of landscape available to you. Hot deserts, tropical beaches, permafrost, temperate forests, grasslands and the quiet beauty of shrubby tundra. This diversity carries on through every concievable object of desire. Food; drink; culture; architecture; the tastes of men and women. It is no wonder so many choose to travel around the country.
+Domestic travel in Vekllei is common and easy. It is the most popular form of tourism in Vekllei. And why shouldn't it be? Vekllei is the most diverse country in the world, spanning both poles and the entire width of the Atlantic. Across its [[republics]] you have basically every kind of landscape available to you. Hot deserts, tropical beaches, permafrost, temperate forests, grasslands and the quiet beauty of shrubby tundra. This diversity carries on through every concievable object of desire. Food; drink; culture; architecture; the tastes of men and women. It is no wonder so many choose to travel around the country.
 
 Most Vekllei people completing [[compulsory service]] are rewarded with a [[tour|National Tour]], which visits every republic and helps satiate natural curiosity about the makeup of their country. 
 
