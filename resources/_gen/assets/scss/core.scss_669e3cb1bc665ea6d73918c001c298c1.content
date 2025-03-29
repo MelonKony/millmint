@@ -31,7 +31,7 @@
   --color-commonwealth: #e5388f;
   --color-culture: #1fa752;
   --color-defence: #ed220d;
-  --color-foreignaffairs: #6422de;
+  --color-foreignaffairs: #773fde;
   --color-industry: #2559a7;
   --color-labour: #a12b2e;
   --color-landscape: #13ac43;
@@ -88,7 +88,7 @@
   --color-commonwealth: #e5388f;
   --color-culture: #1fa752;
   --color-defence: #ed220d;
-  --color-foreignaffairs: #6422de;
+  --color-foreignaffairs: #773fde;
   --color-industry: #2559a7;
   --color-labour: #a12b2e;
   --color-landscape: #13ac43;
@@ -2820,6 +2820,9 @@ li {
 
 .fi-min-cosma.fis {
   background-image: url(../svg/logos/cosma.svg); }
+
+.fi-min-atlantic-hotel.fis {
+  background-image: url(../svg/logos/atlantic-hotel.svg); }
 
 .fi-min-commsec.fis {
   background-image: url(../svg/logos/commsec.svg); }

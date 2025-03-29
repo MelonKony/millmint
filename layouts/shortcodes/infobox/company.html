@@ -74,6 +74,13 @@
 	</tr>
 	{{ end }}
 
+	{{ if eq (.Get "Ministry") "ForeignAffairs" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Parent</th>
+	<td><a style="color: var(--color-foreignaffairs)" href="/ministry-of-foreign-affairs/"><span class="fi fi-min-foreign-affairs fis"></span> Ministry of Foreign Affairs</a></td>
+	</tr>
+	{{ end }}
+
 	<!-- Bureaus -->
 
 	{{ if eq (.Get "Bureau") "Rail" }}
@@ -132,6 +139,13 @@
 	</tr>
 	{{ end }}
 
+	{{ if eq (.Get "Bureau") "Travel" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Bureau</th>
+	<td><a style="color: var(--color-foreignaffairs)" href="/bureau-of-travel/"><span class="fi fi-min-foreign-affairs fis"></span> Bureau of Travel</a></td>
+	</tr>
+	{{ end }}
+
 	{{ if (.Get "Industry") }}
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Industry</th>
@@ -173,6 +187,13 @@
 	<tr>
 	<td style="font-weight: 500; width: 50%;">Headquarters</th>
 	<td><a style="color: rgb(69, 81, 202)" href="/summers/"><span class="fi fi-summers"></span> Summers</a></td>
+	</tr>
+	{{ end }}
+
+	{{ if eq (.Get "Headquarters") "Karu" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Headquarters</th>
+	<td><a style="color: rgb(218, 19, 52)" href="/karu/"><span class="fi fi-karu"></span> Karu</a></td>
 	</tr>
 	{{ end }}
 
