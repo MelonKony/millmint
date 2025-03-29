@@ -19,7 +19,7 @@ aliases:
 * Overseas travel is more complicated. The average person in Vekllei [does not use money in everyday life](/social-economy), and so cannot finance themselves or be expected to know how cash economies work.
 * To allow it, the government operates a network of hotels and contracts services around the world specifically for Vekllei people.
 * Independent travelers can access a stipend for self-directed travel, but have to coordinate through the local embassy or diplomatic mission to register travel plans.
-* These systems allow Vekllei people to travel like foreigners.
+* These systems allow Vekllei people to travel like -- or even better than -- people overseas.
 {{</note>}}
 
 [[Vekllei]] is a society in the epoch of rest, and their lives of leisure facilitate a strong curiosity about the world and the people in it. They are educated and have a lot of free time, and so the ability to travel becomes a natural interest. Some of them could figure it out with no help at all, working overseas to finance their own travels. But surely all people deserve to travel -- not just the young and the hungry. So the government in Vekllei has organised systems to encourage it.
