@@ -30,13 +30,13 @@ There are three kinds of travel in Vekllei. Read on to discover how to plan your
 
 Domestic travel in Vekllei is common and easy. It is the most popular form of tourism in Vekllei. And why shouldn't it be? Vekllei is the most diverse country in the world, spanning both poles and the entire width of the Atlantic. Across its [[republics]] you have basically every kind of landscape available to you. Hot deserts, tropical beaches, permafrost, temperate forests, grasslands and the quiet beauty of shrubby tundra. This diversity carries on through every concievable object of desire. Food; drink; culture; architecture; the tastes of men and women. It is no wonder so many choose to travel around the country.
 
-Most Vekllei people completing [[compulsory service]] are rewarded with a [[tour|National Tour]], which visits every republic and helps satiate natural curiosity about the makeup of their country. 
+Most Vekllei people completing [[Compulsory Service]] are rewarded with a [[tour|National Tour]], which visits every republic and helps satiate natural curiosity about the makeup of their country. 
 
-Domestic travel in Vekllei does not need permission or coordination. If you can find somewhere to stay you can travel. Even if you can't find somewhere to stay, camping in many public forests is perfectly legal.
+Domestic travel in Vekllei does not need permission or coordination. If you can find somewhere to stay, you can travel. Even if you can't find somewhere to stay, camping in many public forests is perfectly legal.
 
 {{<note>}}
 1. **Sort out your accomodation**
-    * Many Vekllei people are generous and their society is deeply reciprocal. The most common way to see a new area is to stay with a friend or relative, who can show you around. Be prepared to return the favour.
+    * Many Vekllei people are generous and their society is deeply reciprocal. The most common way to see a new area is to stay with a friend or relative who can show you around. Be prepared to return the favour someday.
     * For new lands, "inns" are the most common form of accomodation in Vekllei. These range from shared rooms in cottages in the [[Falklands]] to larger, more sophisticated operations in [[Karu]] or [[Caicos]]. They are generally run by a family or single owner, and you may be asked to help prepare breakfast or dinner in Vekllei communalistic tradition.
     * For business or particular circumstances, you may secure a room at a hotel. These operate like they do overseas, but are typically reserved for work, not leisure.
 2. **Book your transport**
@@ -83,7 +83,7 @@ Independent travelers must register with their local consulate and receive advic
 
 {{<note>}}
 1. **Plan your independent travel**
-    1. You don't need a complete interary, but you should have a destination in mind. This destination will determine appropriate consular support and will affect your stipend.
+    1. You don't need a complete itinerary, but you should have a destination in mind. This destination will determine appropriate consular support and will affect your stipend.
     2. The [[Ministry of Foreign Affairs]] is here to support you. Speak to them or the [[Bureau of Travel]] for advice about your trip that can ensure your comfort and safety overseas.
 2. **Prepare sensibly**
     1. Independent travel can be the adventure of a lifetime, but the rest of the world can be very different to Vekllei. You should take advantage of the time before your trip to prepare your documents, visas and research the lay of the land at your destination.
@@ -92,5 +92,5 @@ Independent travelers must register with their local consulate and receive advic
 3. **Stay in touch**
     1. When travelling independently, you must register your plans with your local consulate so they know you are in the country and for how long you expect to stay. If your length of stay substantially exceeds your indicated duration you may be contacted or declared missing.
     2. If you plan to travel intercontinentally, make sure you coordinate with local consulates when you have the chance. If the country does not have a consulate, speak to an employee of the Vekllei government or an expatriated citizen.
-    3. If you find yourself in trouble, contact your local consulate or a trusted intermediary. The Vekllei government cannot save you from peril you have created, but will do its best to advocate on your behalf where able.
+    3. If you find yourself in trouble, contact your local consulate or a trusted intermediary. The Vekllei government cannot save you from peril you have created, but will do its best to advocate on your behalf.
 {{</note>}}
