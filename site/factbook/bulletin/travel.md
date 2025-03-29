@@ -18,7 +18,7 @@ aliases:
 * Domestic travel is straightforward and does not require coordination or permission.
 * Overseas travel is more complicated. The average person in Vekllei [does not use money in everyday life](/social-economy), and so cannot finance themselves or be expected to know how cash economies work.
 * To allow it, the government operates a network of hotels and contracts services around the world specifically for Vekllei people.
-* Independent travelers can access a stipent for self-directed travel, but have to coordinate through the local embassy or diplomatic mission to register travel plans.
+* Independent travelers can access a stipend for self-directed travel, but have to coordinate through the local embassy or diplomatic mission to register travel plans.
 * These systems allow Vekllei people to travel like foreigners.
 {{</note>}}
 
