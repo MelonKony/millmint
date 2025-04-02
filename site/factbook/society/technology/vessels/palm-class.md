@@ -18,7 +18,7 @@ aliases:
 	Built="2026-36"
 	HomeStation="Java"
 	Crew="85"
-	Displacement="1,500 tons"
+	Displacement="1,500 tonnes"
 	Length="80 meters"
 	Speed="28 knots"
 	InService="2"

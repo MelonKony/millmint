@@ -19,7 +19,7 @@ aliases:
 	Built="2027-37"
 	HomeStation="Oslola"
 	Crew="1,100"
-	Displacement="50,000 tons"
+	Displacement="50,000 tonnes"
 	Length="260 meters"
 	Speed="35 knots"
 	InService="1"

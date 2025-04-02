@@ -18,7 +18,7 @@ aliases:
 	Built="2045-55"
 	HomeStation="Verde"
 	Crew="1,600"
-	Displacement="60,000 tons"
+	Displacement="60,000 tonnes"
 	Length="300 meters"
 	Speed="28 knots"
 	InService="4"

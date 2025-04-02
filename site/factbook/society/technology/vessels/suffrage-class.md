@@ -18,7 +18,7 @@ aliases:
 	Built="2031-41"
 	HomeStation="Kairi"
 	Crew="120"
-	Displacement="2,500 tons"
+	Displacement="2,500 tonnes"
 	Length="100 meters"
 	Speed="30 knots"
 	InService="32"

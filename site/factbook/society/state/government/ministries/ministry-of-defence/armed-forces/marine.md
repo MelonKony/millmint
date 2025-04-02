@@ -145,7 +145,7 @@ Regional Littoral Service command based at [[ns-verde|Naval Station Verde]].
 * 2 Medium Customs Cutters
 * 1 Search and Rescue Vessel
 * 2 Fast Patrol Boats
-* 2 Hovercraft Cutters
+* 2 [*Hound*](/hound-class/)-class Hovercraft Cutters
 
 **Utility Vessels**
 * 1 Seagoing Buoy Tender
@@ -230,7 +230,7 @@ Most of the naval policing in the [[kalina|Commonwealth Kalina]] is expended in 
 * 1 Air Cutter
 * 2 [*Wake*](/wake-class/)-class Patrol Motor Launches [[Grenadines]] [[Anguilla]]
 * 1 Search and Rescue Vessels
-* 3 Hovercraft Cutters
+* 3 [*Hound*](/hound-class/)-class Hovercraft Cutters
 
 **Utility Vessels**
 * 1 Seagoing Buoy Tender
@@ -247,7 +247,7 @@ Regional Littoral Service command based at the capital port in the [[Caimanas]].
 **Customs Cutters**
 * 3 [*Municipal*](/municipal-class/)-class Fast Response Hydrofoils [[Aruba]] [[Caimanas]]
 * 1 [*Wake*](/wake-class/)-class Patrol Motor Launch [[Caimanas]]
-* 4 Hovercraft Cutters [[Aruba]] [[Bonaire]] [[Curacao]]
+* 4 [*Hound*](/hound-class/)-class Hovercraft Cutters [[Aruba]] [[Bonaire]] [[Curacao]]
 
 **Utility Vessels**
 * 1 Coastal Buoy Tender [[Aruba]]
@@ -265,7 +265,7 @@ Regional Littoral Service command based at Nema. The primary concern of the comm
 * 3 [*Municipal*](/municipal-class/)-class Fast Response Hydrofoils [[Bahama]] [[Habacoa]] [[Caicos]]
 * 1 Fast Patrol Boats
 * 3 [*Wake*](/wake-class/)-class Patrol Motor Launches [[Bahama]] [[Curateo]] [[Caicos]]
-* 6 Hovercraft Cutters
+* 6 [*Hound*](/hound-class/)-class Hovercraft Cutters
 
 **Utility Vessels**
 * 1 Coastal Buoy Tender
@@ -302,7 +302,7 @@ Its headquarters are in [[ns-oslola|Naval Station Oslola]]. Its primary concerns
 * 1 [*Wake*](/wake-class/)-class Patrol Motor Launch [[Hetland]]
 * 2 Search and Rescue Vessels
 * 1 Fast Patrol Boat
-* 1 Hovercraft Cutters
+* 1 [*Hound*](/hound-class/)-class Hovercraft Cutters
 
 **Utility Vessels**
 * 1 Seagoing Buoy Tender
@@ -341,7 +341,7 @@ Regional Littoral Service command based at [[Helvasia]]. Helvasia has ongoing re
 * 1 Medium Customs Cutter
 * 1 [*Wake*](/wake-class/)-class Patrol Motor Launch [[Helvasia]]
 * 1 Search and Rescue Vessel
-* 1 Hovercraft Cutter
+* 1 [*Hound*](/hound-class/)-class Hovercraft Cutter
 
 **Utility Vessels**
 * 1 Seagoing Buoy Tender

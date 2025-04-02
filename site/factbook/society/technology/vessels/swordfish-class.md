@@ -19,7 +19,7 @@ aliases:
 	Built="2042-55"
 	HomeStation="Mira"
 	Crew="310"
-	Displacement="9,000 tons"
+	Displacement="9,000 tonnes"
 	Length="165 meters"
 	Speed="33 knots"
 	InService="17"

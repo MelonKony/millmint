@@ -20,7 +20,7 @@ aliases:
 	Built="2041-present"
 	HomeStation="Oslola"
 	Crew="20"
-	Displacement="280 tons"
+	Displacement="280 tonnes"
 	Length="40 meters"
 	Speed="60 knots"
 	InService="20"

@@ -4,12 +4,10 @@ fulltitle: Praia Republic
 icon: 🧂
 logo: /svg/flags/4x3/praia.svg
 series: republic
-draft: true
+draft: false
 
 rgb: 220, 36, 31
 description: Praia is a constituent republic of Vekllei located in the Cabo Verde archipelago off the coast of West Africa.
-
-draft: true
 
 fi: fi fi-praia
 
@@ -17,8 +15,8 @@ aliases:
 - /praia/
 ---
 {{<infobox/country
-	 Name="Sal Republic"
-	 RealName="Island of Sal"
+	 Name="Praia Republic"
+	 RealName="Island of Praia"
 	 Type="Republic"
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/praia.svg"
@@ -31,7 +29,7 @@ aliases:
 	 Accession="1945, as part of the British Atlantic Territories"
  >}}
 
-The <span class="fi fi-sal"></span> **Sal Republic** (literally "Salt") is a [constituent republic](/republics/) of [[Vekllei]] in the Atlantic, and is the northeasternmost island of the Barlavento archipelago. It comprises a main island shaped roughly like a fish and a tiny, uninhabited islet of its west coast. The republic is particularly flat and dry, and much of its surface is made of red, sandy dirt exposed to trade winds. It is fringed by pretty beaches of white sand, and receives an extraordinary amount of sun per year.
+The <span class="fi fi-praia"></span> **Praia Republic** (literally "Salt") is a [constituent republic](/republics/) of [[Vekllei]] in the Atlantic, and is the northeasternmost island of the Barlavento archipelago. It comprises a main island shaped roughly like a fish and a tiny, uninhabited islet of its west coast. The republic is particularly flat and dry, and much of its surface is made of red, sandy dirt exposed to trade winds. It is fringed by pretty beaches of white sand, and receives an extraordinary amount of sun per year.
 
 The island was sparsely populated throughout much of the early colonial period, but drew permanent settlement after the establishment of a salt works near the modern settlement of Pedra Lume. This spurred a "salt rush" that saw the island's population grow rapidly. Other major settlements, including the capital of Santa Maria, are the legacy of the salt industry, which is mostly clustered around shallow, extinct volcanic craters. Although the industry saw significant decline during the 20th Century as major export markets were closed off by foreign protectionism, most of the major factories survive under municipal management in [[Vekllei]], and the republic is the largest domestic exporter of salt in the country.
 
