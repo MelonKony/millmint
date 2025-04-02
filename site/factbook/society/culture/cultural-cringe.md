@@ -1,11 +1,11 @@
 ---
 title: Cultural Cringe
 fulltitle: Cultural Cringe in Vekllei
-icon: ✍
+icon: 📇
 emoji: ←
 color: red
 
-description: Corcidi poetry is a traditional form of Algic poetry, mostly practiced in Oslola.
+description: Cultural cringe is an expression to describe the perceived internalised inferiority of Vekllei people towards their continental neighbours and, more specifically, their former colonial masters.
 
 aliases:
 - /cultural-cringe/
