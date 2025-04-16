@@ -5,13 +5,6 @@ icon: ☕️
 emoji: K
 color: blue
 
-tags:
-  - essay
-categories:
-  - news
-
-
-
 aliases:
 - /utopie/
 

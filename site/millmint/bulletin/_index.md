@@ -5,11 +5,6 @@ icon: 💾
 emoji: O
 color: indigo
 
-tags: 
-  - bulletin
-categories:
-  - news
-
 draft: true
 
 noindex: true

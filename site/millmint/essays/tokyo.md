@@ -6,11 +6,6 @@ icon: 🍜
 emoji: 9
 color: blue
 
-tags: 
-  - essay
-categories:
-  - news
-
 toc: false
 
 aliases:

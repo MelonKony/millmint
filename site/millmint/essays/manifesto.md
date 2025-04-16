@@ -8,11 +8,6 @@ color: blue
 
 draft: true
 
-tags: 
-  - essay
-categories:
-  - news
-
 toc: false
 
 aliases:

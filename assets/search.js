@@ -2,20 +2,18 @@
 
 'use strict';
 
-{{ $searchDataFile := printf "%s.search-data.json" .Language.Lang }}
-{{ $searchData := resources.Get "search-data.json" | resources.ExecuteAsTemplate $searchDataFile . }}
-{{ $searchConfig := i18n "bookSearchConfig" | default "{}" }}
-
 (function () {
-  const searchDataURL = '{{ $searchData.RelPermalink }}';
-  const indexConfig = Object.assign({{ $searchConfig }}, {
-    preset: 'balance',
-    doc: {
-      id: 'id',
-      field: ['title', 'content', 'logo'],
-      store: ['title', 'href', 'section','content', 'logo', 'rgb', 'color', 'image']
-    }
-  });
+    const searchDataURL = '/data.json';
+    let searchIndex = null; // Add a local variable to track initialization
+
+    const indexConfig = {
+        preset: 'balance',
+        doc: {
+            id: 'id',
+            field: ['title', 'content', 'logo'],
+            store: ['title', 'href', 'section','content', 'logo', 'rgb', 'color', 'image']
+        }
+    };
 
   // Define a simplified setColors function for search results
   function setColors(rgb, element) {
@@ -95,173 +93,169 @@
   }
 
   function init() {
-    input.removeEventListener('focus', init); // init once
-    input.required = true;
+      input.removeEventListener('focus', init);
+      input.required = true;
+  
+      if (typeof FlexSearch === 'undefined' || !FlexSearch.Document) {
+          console.error('FlexSearch not available, retrying...');
+          setTimeout(init, 100);
+          return;
+      }
+  
+      fetch(searchDataURL)
+          .then(response => response.json())
+          .then(data => {
+              // Handle both array and object with pages property
+              const pages = Array.isArray(data) ? data : data.pages;
+              
+              if (!pages || !Array.isArray(pages)) {
+                  throw new Error('Invalid search data format');
+              }
 
-    // More robust FlexSearch check
-    if (typeof FlexSearch === 'undefined' || !FlexSearch.Document) {
-      console.error('FlexSearch or FlexSearch.Document is not available');
-      setTimeout(init, 100); // Retry after a short delay
-      return;
-    }
-
-    fetch(searchDataURL)
-      .then(response => {
-        if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
-        }
-        return response.json();
-      })
-      .then(pages => {
-        if (!Array.isArray(pages)) {
-          throw new Error('Search data is not in the expected format');
-        }
-        console.log('Pages loaded:', pages.length);
-        try {
-          // Create the search index
-          window.bookSearchIndex = new FlexSearch.Document({
-            document: {
-              id: 'id',
-              index: ['title', 'content', 'logo'],
-              store: ['title', 'href', 'section', 'content', 'logo', 'rgb', 'color', 'image']
-            },
-            tokenize: 'forward',
-            threshold: 0,
-            resolution: 9,
-            depth: 3,
-            preset: 'balance'
+              // Create the search index
+              searchIndex = new FlexSearch.Document({
+                  document: {
+                      id: 'id',
+                      index: ['title', 'content'],
+                      store: ['title', 'href', 'section', 'content', 'logo', 'rgb', 'color', 'image']
+                  },
+                  tokenize: 'forward',
+                  threshold: 0,
+                  resolution: 9,
+                  depth: 3,
+                  preset: 'balance'
+              });
+              
+              pages.forEach(page => searchIndex.add(page));
+              window.bookSearchIndex = searchIndex;
+          })
+          .then(() => {
+              input.required = false;
+              search();
+          })
+          .catch(error => {
+              console.error('Search initialization failed:', error);
+              input.required = false;
           });
-          
-          // Add each page individually to ensure proper indexing
-          pages.forEach(page => {
-            window.bookSearchIndex.add(page);
-          });
-          console.log('Search index created');
-        } catch (error) {
-          console.error('Error creating search index:', error);
-          throw error;
-        }
-      })
-      .then(() => input.required = false)
-      .then(search)
-      .catch(error => {
-        console.error('Search initialization failed:', error);
-        input.required = false;
-      });
   }
 
   function search() {
-    while (results.firstChild) {
-      results.removeChild(results.firstChild);
-    }
-
-    if (!input.value) {
-      results.style.display = 'none'; // Hide when input is empty
-      return;
-    }
-
-    console.log('Searching for:', input.value);
-    
-    try {
-      // Update search options for more flexible matching
-      const searchResults = window.bookSearchIndex.search(input.value, { 
-        limit: 20,           // Increase limit to show more results
-        enrich: true,
-        suggest: true,       // Enable suggestions for partial matches
-        bool: 'or'           // Use OR logic for more inclusive results
-      });
-      
-      console.log('Search results:', searchResults);
-      
-      // Extract the actual results
-      const searchHits = [];
-      if (searchResults && searchResults.length) {
-        searchResults.forEach(result => {
-          if (result && result.result) {
-            result.result.forEach(item => {
-              if (item && item.doc) {
-                searchHits.push(item.doc); // Extract the document from the result
-              }
-            });
-          }
-        });
+      if (!searchIndex) {
+          console.log('Search index not ready');
+          return;
       }
       
-      console.log('Processed hits:', searchHits);
-      
-      if (searchHits.length === 0) {
-        results.style.display = 'none'; // Hide when no results
+      while (results.firstChild) {
+        results.removeChild(results.firstChild);
+      }
+
+      if (!input.value) {
+        results.style.display = 'none'; // Hide when input is empty
         return;
       }
 
-      results.style.display = 'block'; // Show when we have results
-      searchHits.forEach(function (page) {
-        // Add null checks to prevent errors
-        if (!page || typeof page !== 'object') return;
+      console.log('Searching for:', input.value);
+      
+      try {
+        // Update search options for more flexible matching
+        const searchResults = window.bookSearchIndex.search(input.value, { 
+          limit: 20,           // Increase limit to show more results
+          enrich: true,
+          suggest: true,       // Enable suggestions for partial matches
+          bool: 'or'           // Use OR logic for more inclusive results
+        });
         
-        const li = element('<li><a href></a><small></small><span class="found"></span></li>');
-        const a = li.querySelector('a'), small = li.querySelector('small'), span = li.querySelector('span');
-
-        // Add logo
-        if(page.logo) {
-          const logo = element('<img src="" class="logo visible-img">');
-          logo.src = page.logo;
-          a.appendChild(logo);
+        console.log('Search results:', searchResults);
+        
+        // Extract the actual results
+        const searchHits = [];
+        if (searchResults && searchResults.length) {
+          searchResults.forEach(result => {
+            if (result && result.result) {
+              result.result.forEach(item => {
+                if (item && item.doc) {
+                  searchHits.push(item.doc); // Extract the document from the result
+                }
+              });
+            }
+          });
+        }
+        
+        console.log('Processed hits:', searchHits);
+        
+        if (searchHits.length === 0) {
+          results.style.display = 'none'; // Hide when no results
+          return;
         }
 
-        // Handle RGB values directly from the page data
-        if(page.rgb) {
-          // RGB values are stored as strings like "155, 67, 199"
-          const rgb = page.rgb.split(',').map(num => parseInt(num.trim()));
-          if (rgb.length >= 3) {
-            setColors(`rgb(${rgb[0]}, ${rgb[1]}, ${rgb[2]})`, a);
+        results.style.display = 'block'; // Show when we have results
+        searchHits.forEach(function (page) {
+          // Add null checks to prevent errors
+          if (!page || typeof page !== 'object') return;
+          
+          const li = element('<li><a href></a><small></small><span class="found"></span></li>');
+          const a = li.querySelector('a'), small = li.querySelector('small'), span = li.querySelector('span');
+
+          // Add logo
+          if(page.logo) {
+            const logo = element('<img src="" class="logo visible-img">');
+            logo.src = page.logo;
+            a.appendChild(logo);
           }
-        }
-        // Handle color names by looking up CSS variables
-        else if(page.color) {
-          const colorVar = `var(--color-${page.color})`;
-          setColors(colorVar, a);
-        }
 
-        // Set texts
-        a.href = page.href || '#';
-        a.innerHTML += page.title || '';
-        small.textContent = page.section || '';
+          // Handle RGB values directly from the page data
+          if(page.rgb) {
+            // RGB values are stored as strings like "155, 67, 199"
+            const rgb = page.rgb.split(',').map(num => parseInt(num.trim()));
+            if (rgb.length >= 3) {
+              setColors(`rgb(${rgb[0]}, ${rgb[1]}, ${rgb[2]})`, a);
+            }
+          }
+          // Handle color names by looking up CSS variables
+          else if(page.color) {
+            const colorVar = `var(--color-${page.color})`;
+            setColors(colorVar, a);
+          }
 
-        function clean(str) {
-          return (str || '').toLowerCase();
-        }
+          // Set texts
+          a.href = page.href || '#';
+          a.innerHTML += page.title || '';
+          small.textContent = page.section || '';
 
-        // Try finding the input's value in the content
-        const cleanedContent = clean(page.content || '')
-        const cleanedQuery = clean(input.value)
+          function clean(str) {
+            return (str || '').toLowerCase();
+          }
 
-        if (cleanedContent.includes(cleanedQuery)) {
-          const index = cleanedContent.indexOf(cleanedQuery)
+          // Try finding the input's value in the content
+          const cleanedContent = clean(page.content || '')
+          const cleanedQuery = clean(input.value)
 
-          // Get 20 characters before the word and 30 characters after the word
-          // That way it looks better and provides context. These numbers can be tweaked
-          const startIndex = Math.max(index - 20, 0) // Make sure we don't go before the beginning of the string
-          const endIndex = Math.min(index + input.value.length + 30, cleanedContent.length) // Make sure we don't go past the end of the string
+          if (cleanedContent.includes(cleanedQuery)) {
+            const index = cleanedContent.indexOf(cleanedQuery)
 
-          // Find the relevant text and make it a bit prettier by removing the letters at the start and end
-          const relevantText = page.content
-            .slice(startIndex, endIndex) // Get some text around the search term
-            .split(' ') // Split it into words
-            // Remove "non-words" (words that might just be part of a word, or dots, or whatever)
-            // Also take account of the indices so we don't remove the first or last word if the match starts or ends there
-            .slice(startIndex > 0 ? 1 : 0, endIndex < page.content.length - 30 ? -1 : undefined)
-            .join(' ') // Rejoin the words
+            // Get 20 characters before the word and 30 characters after the word
+            // That way it looks better and provides context. These numbers can be tweaked
+            const startIndex = Math.max(index - 20, 0) // Make sure we don't go before the beginning of the string
+            const endIndex = Math.min(index + input.value.length + 30, cleanedContent.length) // Make sure we don't go past the end of the string
 
-          span.innerHTML = relevantText.replace(new RegExp(cleanedQuery, 'gi'), '<mark>$&</mark>') + '...';
-        }
+            // Find the relevant text and make it a bit prettier by removing the letters at the start and end
+            const relevantText = page.content
+              .slice(startIndex, endIndex) // Get some text around the search term
+              .split(' ') // Split it into words
+              // Remove "non-words" (words that might just be part of a word, or dots, or whatever)
+              // Also take account of the indices so we don't remove the first or last word if the match starts or ends there
+              .slice(startIndex > 0 ? 1 : 0, endIndex < page.content.length - 30 ? -1 : undefined)
+              .join(' ') // Rejoin the words
 
-        results.appendChild(li);
-      });
-    } catch (error) {
-      console.error('Search error:', error);
-      results.style.display = 'none';
-    }
+            span.innerHTML = relevantText.replace(new RegExp(cleanedQuery, 'gi'), '<mark>$&</mark>') + '...';
+          }
+
+          results.appendChild(li);
+        });
+      } catch (error) {
+        console.error('Search error:', error);
+        results.style.display = 'none';
+      }
   }
 
   /**
@@ -282,3 +276,6 @@
       || document.activeElement instanceof HTMLTextAreaElement;
   }
 })();
+
+
+// Remove the duplicate fetchSearchData function at the bottom of the file

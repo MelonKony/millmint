@@ -5,10 +5,6 @@ icon: 🏵️
 emoji: ó
 color: red
 
-tags:
-  - utopia
-categories:
-  - intro
 aliases:
   - /culture/
 

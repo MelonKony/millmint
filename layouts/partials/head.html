@@ -87,11 +87,17 @@
     {{ end }}
 
     {{- if default true .Site.Params.Search -}}
+    {{- /* Process data.small.json as a Hugo asset */ -}}
+    {{- $jsonTemplate := resources.Get "data.small.json" -}}
+    {{- $jsonData := $jsonTemplate | resources.ExecuteAsTemplate "/data.small.json" . -}}
+    {{- $jsonData.Publish -}}
+    <link rel="preload" href="{{ $jsonData.RelPermalink }}" as="fetch" type="application/json">
+    
     {{- $searchJSFile := printf "%s.search.js" .Language.Lang }}
     {{- $searchJS := resources.Get "search.js" | resources.ExecuteAsTemplate $searchJSFile . | resources.Minify | resources.Fingerprint }}
     <script defer src="{{ "flexsearch.min.js" | relURL }}"></script>
     <script defer src="{{ $searchJS.RelPermalink }}" {{ template "integrity" $searchJS }}></script>
-    {{ end -}}
+    {{- end -}}
 
     <!-- SCRIPTS -->
 

@@ -6,11 +6,6 @@ emoji: Ζ
 color: purple
 image: 
 
-tags: 
-  - crown
-categories:
-  - society
-
 draft: true
 
 type: blank

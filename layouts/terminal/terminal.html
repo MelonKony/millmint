@@ -24,10 +24,8 @@
 					let searchResults = [];
 					const greeting = 'COMMONWEALTH BULLETIN SYSTEM v.201.2\n====================================';
 
-					{{ $searchDataFile := printf "%s.search-data.json" .Language.Lang }}
-					{{ $searchData := resources.Get "search-data.json" | resources.ExecuteAsTemplate $searchDataFile . | resources.Minify | resources.Fingerprint }}
-
-					$.getJSON('{{ $searchData.RelPermalink }}', function(data) {
+					// Use the correct data.json path
+					$.getJSON('/data.json', function(data) {
 						searchData = data;
 					});
 

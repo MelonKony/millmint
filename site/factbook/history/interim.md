@@ -6,11 +6,6 @@ emoji: ←
 color: red
 image: 
 
-tags: 
-  - state
-categories:
-  - society
-
 draft: false
 
 type: blank

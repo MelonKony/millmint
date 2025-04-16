@@ -5,11 +5,6 @@ icon: 🎙
 emoji: u
 color: pink
 
-tags:
-  - utopia
-categories:
-  - intro
-
 image: /images/fullres/railfan.jpg
 autonumbering: false
 

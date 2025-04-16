@@ -6,13 +6,6 @@ emoji: f
 icon: 🌼
 color: sunflower
 
-tags: 
-  - bulletin
-categories:
-  - documents
-
-
-
 description: Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction.
 
  

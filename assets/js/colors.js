@@ -194,7 +194,7 @@ async function getColors(img, retryCount = 0, callback = setColors) {
 
     const key = "Vibrant";
     if (!swatches[key]) {
-      console.error("No Vibrant color found");
+      console.warn("No Vibrant color found");
       return;
     }
     const rgb = swatches[key].rgb;

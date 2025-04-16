@@ -8,7 +8,7 @@ color: blue
 draft: false
 
 tags:
-  - comic
+  - comics
 categories:
   - story
 

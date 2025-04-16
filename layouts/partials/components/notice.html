@@ -34,7 +34,6 @@
   }
 </style>
 
-
 <blockquote id="notice" class="note panel" style="padding: .5rem;">
   {{ range ( where .Site.RegularPages "Type" "stories" | first 1 ) }}
   <span>NEW</span> <a
@@ -45,9 +44,6 @@
 {{end}}
 
 <script>
-  {{ $searchDataFile := printf "%s.search-data.json" .Language.Lang }}
-  {{ $searchData := resources.Get "search-data.json" | resources.ExecuteAsTemplate $searchDataFile . | resources.Minify | resources.Fingerprint }}
-
   function checkNewStories() {
     const notice = document.querySelector("#notice");
     const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);

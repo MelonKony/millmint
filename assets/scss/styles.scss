@@ -143,6 +143,7 @@ summary::-webkit-details-marker {
 summary::after {
   content: ' ►';
   float: right;
+  width: 20px;
 }
 
 details[open] summary:after {
@@ -515,6 +516,12 @@ img {
   &.small {
     width: 50%;
   }
+}
+
+.no-fade {
+  opacity: 1 !important;
+  transform: none !important;
+  transition: none !important;
 }
 
 article img[alt~="crest"] {
@@ -1141,4 +1148,109 @@ html[data-theme="dark"] {
 
 .toc a:hover {
     opacity: 1;
+}
+
+// Stories filters
+
+.taxonomy-pill {
+  @include radius-base;
+  @include highlight-border;
+  @include font-normal;
+  text-transform: capitalize;
+  padding: 0.1rem 0.25rem;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  margin: 2px;
+}
+
+.taxonomy-pill:hover {
+  background: var(--highlight-background);
+}
+
+.taxonomy-pill.active {
+  @include highlight-border;
+  background: var(--highlight);
+  color: var(--main-background);
+}
+
+.controls-row {
+  @include padding-1;
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+  
+  .view-toggle-container {
+      width: 100%;
+      display: flex;
+      justify-content: flex-end;
+      
+      .view-toggle-wrapper {
+          display: flex;
+          align-items: center;
+      }
+  }
+}
+
+#taxonomy-filters-container {
+  margin-top: 1rem;
+  @include px-1;
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+  
+  .filter-section {
+      @include text-sm;
+      border: 1px solid var(--text-color);
+      border-radius: 4px;
+      padding: 0.5rem;
+      
+      .filter-title {
+          @include padding-2;
+          @include text-base;
+          @include font-medium;
+      }
+      
+      .taxonomy-pills-container {
+          @include padding-0; 
+          display: flex;
+          flex-wrap: wrap;
+      }
+  }
+}
+
+.controls-details {
+  @include padding-0;
+  @include margin-0;
+  background: transparent;
+  border: none;
+  width: 100%;
+  
+  summary {
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      
+      .view-toggle-container {
+          margin-left: auto;
+      }
+  }
+  
+  .controls-content {
+    @include padding-0;
+      border-top: 1px solid var(--text-color);
+  }
+}
+
+.js-pagination {
+  border: none;
+  .page-number {
+    margin: .25rem;
+    width: 1.75rem;
+  }
+  .active {
+    background: var(--highlight);
+    color: var(--main-background);
+  }
 }

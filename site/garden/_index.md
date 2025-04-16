@@ -2,11 +2,6 @@
 title: Tzipora's Garden
 fulltitle: Tzipora's Garden
 
-tags:
-  - utopia
-categories:
-  - intro
-
 draft: false
 
 type: intro

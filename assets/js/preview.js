@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	  }, 500);
 	}
   
-	fetch('/en.search-data.json')
+	fetch('/data.small.json')  // Update to use the new data.json endpoint
 	  .then(response => response.json())
 	  .then(data => { searchData = data; })
 	  .catch(error => console.error('Error fetching search data:', error));

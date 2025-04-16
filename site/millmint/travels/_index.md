@@ -5,11 +5,6 @@ icon: ✈️
 emoji: P
 color: brown
 
-tags: 
-  - about
-categories:
-  - news
-  
 draft: true
 
 aliases:

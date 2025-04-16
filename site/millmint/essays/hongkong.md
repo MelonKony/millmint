@@ -6,11 +6,6 @@ icon: ☂️
 emoji: «
 color: blue
 
-tags: 
-  - essay
-categories:
-  - news
-
 weight: 2
 
 

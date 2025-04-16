@@ -6,11 +6,6 @@ icon: 💸
 emoji: ō
 color: blue
 
-tags:
-  - essay
-categories:
-  - news
-
 aliases:
 - /moneylessness/
 

@@ -6,11 +6,6 @@ emoji: Ζ
 color: blue
 list: true
 
-tags:
-  - state
-categories:
-  - society
-
 draft: false
 
 image:

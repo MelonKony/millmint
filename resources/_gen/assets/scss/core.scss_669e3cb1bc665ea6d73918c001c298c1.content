@@ -267,7 +267,8 @@ summary::-webkit-details-marker {
 
 summary::after {
   content: ' ►';
-  float: right; }
+  float: right;
+  width: 20px; }
 
 details[open] summary:after {
   content: " ▼"; }
@@ -595,6 +596,11 @@ img {
   padding: 0; }
   img.small {
     width: 50%; }
+
+.no-fade {
+  opacity: 1 !important;
+  transform: none !important;
+  transition: none !important; }
 
 article img[alt~="crest"] {
   margin-bottom: 1rem;
@@ -1186,6 +1192,87 @@ html[data-theme="dark"] .locator-map img {
 
 .toc a:hover {
   opacity: 1; }
+
+.taxonomy-pill {
+  border-radius: 0.25rem;
+  border: 1px solid var(--highlight, var(--gray-medium));
+  font-weight: 400;
+  text-transform: capitalize;
+  padding: 0.1rem 0.25rem;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  margin: 2px; }
+
+.taxonomy-pill:hover {
+  background: var(--highlight-background); }
+
+.taxonomy-pill.active {
+  border: 1px solid var(--highlight, var(--gray-medium));
+  background: var(--highlight);
+  color: var(--main-background); }
+
+.controls-row {
+  padding: 0.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: .5rem; }
+  .controls-row .view-toggle-container {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end; }
+    .controls-row .view-toggle-container .view-toggle-wrapper {
+      display: flex;
+      align-items: center; }
+
+#taxonomy-filters-container {
+  margin-top: 1rem;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: .5rem; }
+  #taxonomy-filters-container .filter-section {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    border: 1px solid var(--text-color);
+    border-radius: 4px;
+    padding: 0.5rem; }
+    #taxonomy-filters-container .filter-section .filter-title {
+      padding: 0.5rem;
+      font-size: 1rem;
+      line-height: 1.5rem;
+      font-weight: 500; }
+    #taxonomy-filters-container .filter-section .taxonomy-pills-container {
+      padding: 0;
+      display: flex;
+      flex-wrap: wrap; }
+
+.controls-details {
+  padding: 0;
+  margin: 0;
+  background: transparent;
+  border: none;
+  width: 100%; }
+  .controls-details summary {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; }
+    .controls-details summary .view-toggle-container {
+      margin-left: auto; }
+  .controls-details .controls-content {
+    padding: 0;
+    border-top: 1px solid var(--text-color); }
+
+.js-pagination {
+  border: none; }
+  .js-pagination .page-number {
+    margin: .25rem;
+    width: 1.75rem; }
+  .js-pagination .active {
+    background: var(--highlight);
+    color: var(--main-background); }
 
 article > *:last-child {
   margin-bottom: 0; }

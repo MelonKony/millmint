@@ -1,0 +1,36 @@
+[
+  {{- $pages := where .Site.Pages "Params.searchexclude" "!=" true -}}
+  {{- $pages = where $pages "RelPermalink" "!=" "/" -}}
+  {{ range $index, $page := $pages }}
+  {{ if gt $index 0}},{{end }}{
+    "id": {{ $index }},
+    "href": "{{ $page.RelPermalink }}",
+    "title": {{ (partial "title" $page) | jsonify }},
+    {{- with $page.Params.logo }}"logo": {{ . | jsonify }},{{ end }}
+    {{- with $page.Params.icon }}"icon": {{ . | jsonify }},{{ end }}
+    {{- with $page.Params.rgb }}"rgb": {{ . | jsonify }},{{ end }}
+    {{- with $page.Params.image }}
+      {{- $original := . }}
+      {{- $image := resources.Get . }}
+      {{- if $image }}
+        {{- $webp := $image.Resize "680x q90 webp" }}
+        "image": {
+          "src": {{ $original | jsonify }},
+          "webp": {{ $webp.RelPermalink | jsonify }}
+        },
+      {{- else }}
+        "image": {{ . | jsonify }},
+      {{- end }}
+    {{- end }}
+    {{- with $page.Params.color }}"color": {{ . | jsonify }},{{ end }}
+    "section": {{ with $page.Parent }}{{ partial "title" . | jsonify }}{{ else }}""{{ end }},
+    "description": {{ $page.Description | jsonify }},
+    "date": {{ $page.Date | jsonify }},
+    "aliases": {{ $page.Aliases | jsonify }},
+    {{- with $page.Params.tags }}"tags": {{ delimit . "," | jsonify }},{{ else }}"tags": "",{{ end }}
+    {{- with $page.Params.categories }}"categories": {{ delimit . "," | jsonify }},{{ else }}"categories": "",{{ end }}
+    {{- with $page.Params.characters }}"characters": {{ delimit . "," | jsonify }},{{ else }}"characters": "",{{ end }}
+    "type": {{ if $page.IsPage }}"story"{{ else }}"section"{{ end }}
+  }
+  {{- end -}}
+]

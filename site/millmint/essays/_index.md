@@ -5,10 +5,6 @@ icon: 📄
 emoji: ¤
 color: blue
 
-tags: 
-  - utopia
-categories:
-  - intro
 aliases:
   - /essays/
 

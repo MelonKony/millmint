@@ -6,11 +6,6 @@ icon: 🍾
 emoji: -pipe
 color: blue
 
-tags: 
-  - essay
-categories:
-  - news
-
 toc: false
 
 aliases:
