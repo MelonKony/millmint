@@ -210,7 +210,6 @@ document.addEventListener('DOMContentLoaded', function () {
         return li;
     }
 
-    // Remove all console.log statements from initializeTaxonomies
     async function initializeTaxonomies() {
         try {
             const response = await fetch('/data.small.json');
@@ -221,7 +220,9 @@ document.addEventListener('DOMContentLoaded', function () {
                     return item.type === 'story' && 
                            item.href && 
                            !item.categories?.includes('millmint') && 
-                           item.date;
+                           item.date &&
+                           // Only include items that have at least one taxonomy
+                           (item.tags || item.characters || item.categories);
                 })
                 .sort((a, b) => new Date(b.date) - new Date(a.date));
             

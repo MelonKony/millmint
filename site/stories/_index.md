@@ -1,17 +1,17 @@
 ---
 title: Stories
 fulltitle: Stories
-description: Stories is where you can find all of Hobart's illustrations, and the stories they tell.
+description: Stories is where you can find all of Hobart's illustrations, and the
+  stories they tell.
 emoji: ɋ
 icon: 📗
 color: sunflower
 meta: false
-
 menus: main
 weight: 4
-
 aliases:
 - /posts/
+categories: []
 ---
 <style>
   header.info {

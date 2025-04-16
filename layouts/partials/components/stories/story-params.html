@@ -1,32 +1,22 @@
 <!-- original reddit "archive" link -->
-{{ if in .Params.categories "archive" }}
+{{ if in .Params.categories "non-canon" }}
   <blockquote class="note series">
-    This article is archived, and is no longer part of Vekllei canon.
+    This article is not part of Vekllei canon. It may be old, obsolete or just a bit of fun.
   </blockquote>
 {{ end }}
 
-<!-- horizon article param-->
-{{ if in .Params.categories "horizon" }}
-  <blockquote class="note" style="background-color: var(--gray-light);">
-    <span class="smallicon" style="font-size: 14px;">🪷</span> This article is part of <i><a href="/stories/horizon/">Stories from the Horizon</a></i>, a journey across Vekllei's <a href="/boroughs/">boroughs</a>.
-  </blockquote>
-{{ end }}
-
-<!-- hides category elements for posts -->
-{{ if in .Params.categories "story" }}
+<!-- Global style modifications for all stories -->
+{{ if eq .Section "stories" }}
   <style>
-    .article-tag {
-      display: none;
-    }
-    .article-category {
+    .article-tag,
+    .article-category,
+    .pill {
       display: none;
     }
     .headcrumbs {
       display: none!important;
     }
-    .pill {
-      display: none;
-    }
+    {{ if and .Params.categories (in (slice "story" "sketch" "comic") (index .Params.categories 0)) }}
     main {
       background: transparent;
     }
@@ -36,95 +26,6 @@
     .breadcrumbs {
       background-color: var(--highlight-background);
     }
-  </style>
-{{ end }}
-
-{{ if in .Params.categories "blog" }}
-  <style>
-    .article-tag {
-      display: none;
-    }
-    .article-category {
-      display: none;
-    }
-    .headcrumbs {
-      display: none!important;
-    }
-    .pill {
-      display: none;
-    }
-  </style>
-{{ end }}
-
-{{ if in .Params.categories "sketch" }}
-  <style>
-    .article-tag {
-      display: none;
-    }
-    .article-category {
-      display: none;
-    }
-    .headcrumbs {
-      display: none!important;
-    }
-    .pill {
-      display: none;
-    }
-    main {
-      background: transparent;
-    }
-    body {
-      background-image: none;
-    }
-    .breadcrumbs {
-      background-color: var(--highlight-background);
-    }
-  </style>
-  {{ end }}
-
-  {{ if in .Params.categories "commission" }}
-  <style>
-    .article-tag {
-      display: none;
-    }
-    .article-category {
-      display: none;
-    }
-    .headcrumbs {
-      display: none!important;
-    }
-    .pill {
-      display: none;
-    }
-  </style>
-{{ end }}
-
-<!-- hides category elements and feature image for comics -->
-{{ if in .Params.categories "comic" }}
-  <style>
-    .article-tag {
-      display: none;
-    }
-    .article-category {
-      display: none;
-    }
-    .headcrumbs {
-      display: none!important;
-    }
-    .pill {
-      display: none;
-    }
-    img.page {
-      display: none;
-    }
-    main {
-      background: transparent;
-    }
-    body {
-      background-image: none;
-    }
-    .breadcrumbs {
-      background-color: var(--highlight-background);
-    }
+    {{ end }}
   </style>
 {{ end }}
