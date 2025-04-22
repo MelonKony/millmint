@@ -57,7 +57,7 @@ Cobian was red in the cheeks, as she got in the cold, made worse by the scrubbin
 
 Cobian noticed her round spectacles were dirty and removed them, diffusing the world into foggy colours and shapes. She fumbled around a bit, pinching and wiping the navy wool of her school cardigan over the lenses before resettling them on her nose. She sighed dramatically. The cool air and Tzipora’s clumsy listening helped a bit.
 
-‘It’s only seven-thirty,’ Tzipora noted. ‘What about cake and coffee? I’m not usually hungry in the mornings, but I’m a bit hungry now.’
+‘It’s only seven-thirty,’ Tzipora noted. ‘What about coffee? I don't usually take it in the mornings, but I could have some now.’
 
 Tzipora passed her leather schoolbag from one hand to the other. The only things she kept in it were a few pens that rattled around and pulp fiction, so it was light enough to fling around carelessly. It was a habit that usually annoyed Cobian, but the transparent attempt to lift her spirits was charming.
 
@@ -125,9 +125,9 @@ Tzipora grinned at her, impressed with herself. She always looked very intensely
 
 ‘Thank you,’ they said as the plates and saucers came down. 
 
-The coffee was prepared in the old-fashioned way; that is to say, the worse way. But it was hot and the tea cake was good. The morning was grey and dulled by cold and the headache of a long arctic winter lingered. The light cast on street from the café was pleasant. It was not the sort of place she’d come by herself; she’d had enough of these old Inuits. Seeing this kind of shop stirred a quiet terror that she’d become them. But Tzipora soothed that feeling -- she was a lifeline she could reach for should the future threaten to swallow her. Like she could jump out of her Algic skin and start dressing as Tzipora does; learn some Spanish and carry on as a Mexican or whatever she was.
+The coffee was prepared in the old-fashioned way; that is to say, the worse way. But it was hot and the tea cake was good. The morning was grey and dulled by cold and the headache of a long arctic winter lingered. The light cast on street from the café was pleasant. It was not the sort of place she’d come by herself; she’d had enough of these old Inuits. Seeing this kind of shop stirred a quiet terror that she’d become them. But Tzipora soothed that feeling -- she was a lifeline she could reach for should the future threaten to swallow her. It was like she could jump out of her Algic skin and start dressing as Tzipora does; learn some Spanish and carry on as a Mexican or whatever she was.
 
-‘Are you a Mexican?’ Cobian asked. The question made Tzipora sip coffee noisily.
+‘Are you a Mexican?’ Cobian asked abruptly. The question made Tzipora sip coffee noisily.
 
 ‘I’m not a Mexican.’ Tzipora said, ‘I’m not even Latin American, even though that’s where I grew up.’
 
