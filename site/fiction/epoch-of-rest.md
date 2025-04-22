@@ -13,7 +13,7 @@ aliases:
 - /snapshots/cherry
 ---
 
-<span class="dropcap">C</span>obian, pronounced Koh-bayan, stood still as her mother licked the end of her thumb and smoothed out the edges of her foundation beneath the severe fringe she kept. Cobian frowned and winced, but her mother did not respond to annoyance and carried on.
+<span class="dropcap">C</span>obian, pronounced Koh-bayan, stood still as her mother licked the end of her thumb and rubbed it behind the severe fringe she kept. Cobian frowned and winced, but her mother did not respond to annoyance and carried on.
 
 'Your makeup is too heavy,' she said. 'Look at you. You won't get away with that at school; your teachers will see it. And they'll call me and embarrass me. Take it off.'
 
