@@ -125,7 +125,7 @@ Tzipora grinned at her, impressed with herself. She always looked very intensely
 
 ‘Thank you,’ they said as the plates and saucers came down. 
 
-The coffee was prepared in the old-fashioned way; that is to say, the worse way. But it was hot and the tea cake was good. The morning was grey and dulled by cold and the headache of a long arctic winter lingered. The light cast on street from the café was pleasant. It was not the sort of place she’d come by herself; she’d had enough of these old Inuits. Seeing this kind of shop stirred a quiet terror that she’d become them. But Tzipora soothed that feeling -- she was a lifeline she could reach for should the future threaten to swallow her. It was like she could jump out of her Algic skin and start dressing as Tzipora does; learn some Spanish and carry on as a Mexican or whatever she was.
+The coffee was prepared in the old-fashioned way; that is to say, the wrong way. But it was hot and the tea cake was good. The morning was grey and dulled by cold and the headache of a long arctic winter lingered. The light cast on street from the café was pleasant. It was not the sort of place she’d come by herself; she’d had enough of these old Inuits. Seeing this kind of shop stirred a quiet terror that she’d become them. But Tzipora soothed that feeling -- she was a lifeline she could reach for should the future threaten to swallow her. It was like she could jump out of her Algic skin and start dressing as Tzipora does; learn some Spanish and carry on as a Mexican or whatever she was.
 
 ‘Are you a Mexican?’ Cobian asked abruptly. The question made Tzipora sip coffee noisily.
 
