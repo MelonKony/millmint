@@ -6,7 +6,7 @@ layout: writing
 
 rgb: 91, 157, 199
 
-draft: false
+draft: true
 autonumbering: false
 
 aliases:
