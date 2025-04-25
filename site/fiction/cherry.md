@@ -67,7 +67,7 @@ The end of the street opened onto a slightly larger road with tram tracks. It wa
 
 Large eucalypts scattered brown and green leaves down the road, their limbs haunting and pale in the dull morning light. As was typical of the early morning, there were no cars out. A clanking of steel freight railcars in a distant siding was the only noise at all.
 
-The warm light of a café window caught Tzipora’s interest, and after assessing the activity inside conspicuously, she opened the door and a bell rang out. The heater was on and they hung their winter capes on the coatrack as Tzipora spoke with the elderly Algic owner, who was at one of the tables with an extinguished cigarette and newspaper.
+The warm light of a café window caught Tzipora’s interest, and after assessing the activity inside conspicuously, she opened the door and a bell rang out. The heater was on and they hung their winter capes on the coat rack as Tzipora spoke with the elderly Algic owner, who was at one of the tables with an extinguished cigarette and newspaper.
 
 ‘Are you open, madame?’
 
@@ -159,9 +159,14 @@ She reached for the cocktail cherry on the cake and clumsily smudged the icing w
 
 ‘Sorry.’
 
-<!--
 
-Tzipora had been here for a while but delighted over everything. Tedious detail never escaped her -- she loitered over patches of moss, water in gutters and above all, silica ponds remarking on their beauty and tranquility.-->
+
+
+
+
+
+
+
 
 
 
