@@ -53,17 +53,17 @@ A few minutes later they met on the station steps beneath yellow lamplight. Tzip
 
 ‘I have a very basic and normal desire for normalcy,’ Cobian said. ‘And you upset it for no good reason.’
 
-‘If I was as normal as you,’ Tzipora said, coyly tilting her head and smiling up at her in the way she did when she was cheeky. ‘You wouldn’t like me as much as you do.’
+‘If I was as normal as you,’ Tzipora said, coyly tilting her head and smiling up at her. ‘You wouldn’t like me as much as you do.’
 
 ‘Don’t count on it.’
 
-They caught a train down the hill from Seispri to the lower parts of Lola, where the lights were brighter and people mingled in the street. Tzipora knew clubs where they played good rumba and they could dance. Most wouldn’t let them drink, but it was a week night and all they sought was some dinner and music. The station opened onto a well-lighted avenue that sat out of character in its quiet, leafy neighbourhood. The buildings had big letter signs on their roofs and advertisements in their windows, mostly written in English but some Oslolan and others languages they couldn’t read. The grey market thrived openly here. The light from the streetlamps was warm but it mingled with other colours too -- red, green, blue -- cast out by the narrow footwells of basement music bars and clubs. It had the appearance of a cabaret district, but it was not especially busy and it had no sinister lust in the periphery; there were no women standing around nor men to police them. It was quiet enough that if they stopped and watched their breath float in the cold, they could hear the distant thump of the Kongo Klub.
+They caught a train down the hill from Seispri to the lower parts of Lola, where the lights were brighter and people mingled in the street. Tzipora knew clubs where they played good rumba and they could dance. Most wouldn’t let them drink, but it was a week night and all they sought was some dinner and music. The station opened onto a well-lighted avenue that sat out of character in its quiet, leafy neighbourhood. The buildings had big letter signs on their roofs and advertisements in their windows, mostly written in English but some Oslolan and others languages they couldn’t read. The grey market thrived openly here. The light from the streetlamps was warm but it mingled with other colours too -- red, green, blue -- cast out by the narrow stairwells of basement music bars and clubs. It had the appearance of a cabaret district, but it was not especially busy and it had no sinister lust in the periphery; there were no women standing around nor men to police them. It was quiet enough that if they stopped and watched their breath float in the cold, they could hear the distant thump of the Kongo Klub.
 
 ‘It’s Wednesday, right? Coretti’s brother, what’s-his-name, he plays with the Brazzaville Rats on Wednesdays and Fridays.’ Tzipora pulled her navy cape tight around her body so that only her face and a sliver of ankle caught the light in the night air.
 
 ‘I prefer salsa,’ Cobian said. ‘Salsa is something respectable for a Wednesday. Rumba is a weekend dance, I can only get it right when I’ve had something to drink.’
 
-‘Andre,’ Tzipora exclaimed and nodded her head. ‘His name is Andre. And if you don’t want rumba, why not just pop into one of the jazz places? Let’s take it easy, I’ve been on my feet all night. And frankly, I’m bored to death of salsa.’
+‘Andre,’ Tzipora said and nodded her head. ‘His name is Andre. And if you don’t want rumba, why not just pop into one of the jazz places? Let’s take it easy, I’ve been on my feet all night. And frankly, I’m bored to death of salsa.’
 
 ‘Fine with me.’
 
@@ -75,7 +75,7 @@ Cobian had danced only at cotillion prior to meeting Tzipora, but she danced wel
 
 All clubs were run by a guy. Some had a girl. Some had a girl and a guy who took turns serving food, which at places like this was made hot and regular. They didn’t have a menu; you had what was on.
 
-‘What I like about Coconut Tree is that it’s unpretentious,’ Tzipora was saying as they left the pavement and descended a couple steps towards a large wooden door, ‘That’s a real issue with these places, especially Carib clubs, no offence to them. Caribs are often insecure about being diaspora -- what do you call it, being diasporic? They see real Africans and go, “oh, well, we’re real Africans too. Let’s play Naija music.” And you know what that does? It makes the food and music worse. I love Caribs; their traditions. They have a rich culture, and I’ll always prefer the real thing.”
+‘What I like about Coconut Tree is that it’s unpretentious,’ Tzipora was saying as they left the pavement and descended a couple steps towards a large wooden door, ‘That’s a real issue with these places, especially Carib clubs, no offence to them. Caribs are often insecure about being diaspora -- what do you call it, being diasporic? They see real Africans and go, “oh, well, we’re real Africans too. Let’s play Naija music.” And you know what that does? It makes the food and music worse. I love Caribs; their traditions. They have a rich culture, they shouldn't be so fashionable.”
 
 There were a lot of Caribs around, even here in the arctic. They had entered the federation decades ago with all the West Indies and most of the minor Caribbean islands. It was a real mix of people from all corners of the world, but almost all had had ancestry as slaves or coolies for the Europeans. This was a new kind of society and their food and culture was very fashionable all around the country. 
 
