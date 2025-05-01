@@ -44,18 +44,26 @@ function getCSSColorAsRGB(name) {
 
 // Initialize colors object dynamically from CSS variables
 function initializeColors() {
-  const colors = {};
-  
-  const styles = getComputedStyle(document.documentElement);
-  const cssVars = Array.from(styles).filter(prop => prop.startsWith('--color-'));
-  
-  cssVars.forEach(prop => {
-    const name = prop.replace('--color-', '');
-    const value = styles.getPropertyValue(prop).trim();
-    if (value) {
-      colors[name] = parseColor(value);
+  let colors = {}
+
+const styles = getComputedStyle(document.documentElement);
+const colorKey = '--color-'
+const sheets = Array.from(document.styleSheets)
+
+for(const stylesheet of sheets) {
+    for(const rule of stylesheet.cssRules) {
+        if(rule.selectorText !== ':root') continue;
+
+        for(const style of rule.style) {
+            if(!style.startsWith(colorKey)) continue;
+
+            const value = styles.getPropertyValue(style).trim();
+            const name = style.slice(colorKey.length)
+
+            if(value) colors[name] = value
+        }
     }
-  });
+}
   
   window._colors = colors;
   console.log('Initialized colors:', colors);
