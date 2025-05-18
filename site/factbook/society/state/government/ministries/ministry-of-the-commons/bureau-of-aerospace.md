@@ -17,7 +17,7 @@ The <span class="fi fi-min-commons fis"></span> **Bureau of Aerospace** is a bur
 
 The bureau has a large stake in the development and manufacture of Vekllei aircraft through its constituent corporations and commissions. In addition, the bureau monitors and manages Vekllei airspace as part of the National Airspace System, and licenses civilian and commercial pilots through the Civil Aviation Register.
 
-{{<note panel>}}
+{{<note>}}
 ## Executive Council
 
 * **Director**, [[Bureau of Aerospace]]
@@ -34,7 +34,7 @@ The bureau has a large stake in the development and manufacture of Vekllei aircr
 * **Director**, Commonwealth Air Safety Authority
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Departments
 * **Department of Flight Safety**
 * **Department of Flight Traffic Control**
@@ -56,7 +56,7 @@ The bureau has a large stake in the development and manufacture of Vekllei aircr
 	* Lunar & Space Office
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Boards & Commissions
 
 * **[[air|Commonwealth Airways]]**: Flag carrier and national airline of [[Vekllei]].

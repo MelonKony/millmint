@@ -16,7 +16,7 @@ aliases:
 ---
 The <span class="fi fi-min-lsre fis"></span> **Commonwealth Land Science Research Establishment** (LSRE) is a research organisation of the [[Ministry of Landscape]]. It is primarily tasked with research of environmental and agricultural science. It is a part of [[SIRO]], and is the second-largest constituent research establishment in [[Vekllei]] after the [[DSRE]], employing 15,000 people.
 
-{{<note panel>}}
+{{<note>}}
 ## Executive Council
 
 * **Director**, [[LSRE]]
@@ -27,7 +27,7 @@ The <span class="fi fi-min-lsre fis"></span> **Commonwealth Land Science Researc
 * **Chairman**, Commonwealth Volcanic Hazards Establishment
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Departments
 * **General Headquarters**
 	* Office of Conservation & Observation
@@ -81,7 +81,7 @@ The <span class="fi fi-min-lsre fis"></span> **Commonwealth Land Science Researc
 	* Division of Metrology
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Boards & Commissions
 * **Vekllei Ecology Board**: Advocate for ecological balance and conservation
 * **Commonwealth Volcanic Hazards Establishment**: Preparation and response for dangerous volcanic activity.

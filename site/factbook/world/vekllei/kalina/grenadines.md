@@ -47,7 +47,7 @@ Sunny and warm, with rainy spells in the summer and fall. Though the dry or show
 {{</note>}}
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Discovery Day **22 Jan**

@@ -622,19 +622,20 @@ article blockquote {
 .note {
   @include note-variant;
 
+  h1, h2, h3, h4, h5, h6 {
+    @include margin-0;
+    @include text-xl;
+  }
+
+  h1:before, h2:before, h3:before, h4:before, h5:before, h6:before {
+      @include highlight;
+      @include padding-1;
+  }
+
   &.panel {
     @include highlight-background;
     @include highlight-border;
     @include padding-4;
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      @include margin-0;
-    }
   }
 
   &.series {
@@ -712,19 +713,9 @@ article blockquote {
   background: transparent;
 }
 
-.note.link,
 .note.link {
   @include highlight-border;
   background: none;
-
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    @include margin-0;
-  }
 }
 
 .note.header {
@@ -1168,7 +1159,7 @@ html[data-theme="dark"] {
   background: var(--highlight-background);
 }
 
-.taxonomy-pill.active {
+.taxonomy-pill.active, active-filter-pill {
   @include highlight-border;
   background: var(--highlight);
   color: var(--main-background);

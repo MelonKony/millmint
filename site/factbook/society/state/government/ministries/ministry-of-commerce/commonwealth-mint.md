@@ -22,7 +22,7 @@ The Mint is the custodian of the Commonwealth Bullion Depository, which holds re
 
 The Mint is well-regarded internationally for the purity of its metals and intricate commemorative coins, leading international numismatics in colour and variety.
 
-{{<note panel>}}
+{{<note>}}
 **Executive Staff**
 
 * **Chancellor**, [[Commonwealth Mint]]

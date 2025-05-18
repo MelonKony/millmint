@@ -16,7 +16,7 @@ The <span class="fi fi-min-foreign-affairs fis"></span> **Bureau of Travel** org
 
 The other role of the Bureau is facilitating international travel to Vekllei, which remains a small but growing market. Since foreign tourists do not use money while in Vekllei, tourism is typically arranged in package tours through the [[Atlantic Hotel]] chain. In this capacity is also serves as a tourism promotion board, and develops interest in travel to Vekllei overseas. 
 
-{{<note panel>}}
+{{<note>}}
 ## Executive Council
 
 * **Director**, [[Bureau of Travel]]
@@ -25,7 +25,7 @@ The other role of the Bureau is facilitating international travel to Vekllei, wh
 * **Director**, Commonwealth Traveller Consulate
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Departments
 * **Department of Overseas Travel**: Supports overseas travel for Vekllei citizens, either independently or through package tours.
     * Office of Travel Planning
@@ -43,7 +43,7 @@ The other role of the Bureau is facilitating international travel to Vekllei, wh
     * Office of the Overseas Information Service
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Boards & Commissions
 
 * [[Atlantic Hotel]]: International hospitality company that serves Vekllei citizens and foreigners.

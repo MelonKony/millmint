@@ -47,7 +47,7 @@ Humid and subtropical, with pleasant temperatures year-round. The mountainous hi
 {{</note>}}
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Carnival

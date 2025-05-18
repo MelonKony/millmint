@@ -16,7 +16,7 @@ The <span class="fi fi-min-commons fis"></span> **Bureau of Space** maintains go
 
 Although formal celestial and space diplomacy is conducted through the [[Ministry of Foreign Affairs]], the Bureau of Space may conduct regular trade and diplomatic actions on behalf of off-world settlements as a representative of Vekllei citizens in space. The bureau also generally manages or supports any day-to-day affairs of civilian space settlement, including interstellar transport routes and construction material delivery.
 
-{{<note panel>}}
+{{<note>}}
 ## Executive Council
 
 * **Director**, [[Bureau of Space]]
@@ -31,7 +31,7 @@ Although formal celestial and space diplomacy is conducted through the [[Ministr
 * **Secretary for National Projects**, [[Bureau of Public Works]]
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Departments
 * **Department of Space Settlements**: Dedicated offices for each major Vekllei off-world settlement.
     * Lunar Commission
@@ -48,10 +48,9 @@ Although formal celestial and space diplomacy is conducted through the [[Ministr
     * Office of Infrastructure & Habitation
     * Office of Transport & Supply
     * Office of Colonial Administration
-
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Boards & Commissions
 
 * **Lunar Municipal Council**: Local government of the Vekllei Lunar Settlement.

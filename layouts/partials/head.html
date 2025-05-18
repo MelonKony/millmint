@@ -91,12 +91,12 @@
     {{- $smallJsonTemplate := resources.Get "data.small.json" -}}
     {{- $smallJsonData := $smallJsonTemplate | resources.ExecuteAsTemplate "/data.small.json" . -}}
     {{- $smallJsonData.Publish -}}
-    <link rel="preload" href="{{ $smallJsonData.RelPermalink }}" as="fetch" type="application/json">
+    <link href="{{ $smallJsonData.RelPermalink }}" as="fetch" type="application/json">
     
     {{- $fullJsonTemplate := resources.Get "data.json" -}}
     {{- $fullJsonData := $fullJsonTemplate | resources.ExecuteAsTemplate "/data.json" . -}}
     {{- $fullJsonData.Publish -}}
-    <link rel="preload" href="{{ $fullJsonData.RelPermalink }}" as="fetch" type="application/json">
+    <link href="{{ $fullJsonData.RelPermalink }}" as="fetch" type="application/json">
     
     {{- $searchJSFile := printf "%s.search.js" .Language.Lang }}
     {{- $searchJS := resources.Get "search.js" | resources.ExecuteAsTemplate $searchJSFile . | resources.Minify | resources.Fingerprint }}

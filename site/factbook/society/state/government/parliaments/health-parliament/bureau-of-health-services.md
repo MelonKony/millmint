@@ -16,7 +16,7 @@ The <span class="fi fi-min-health fis"></span> **Bureau of Health Services** is 
 
 The bureau acts as the central nervous system of the different Vekllei healthcare services, and its role in the [[Health Parliament]] is administrative and political. It advises parliament on the general status of the healthcare system, including its efficiency, opportunities and costs. Using the expertise of other bureaus, it also produces health policy it then presents to the parliament for approval. Officers in the bureau are typically recruited from industry or have a medical background, and the organisation has a reputation for data-driven and pragmatic policymaking.
 
-{{<note panel>}}
+{{<note>}}
 ## Executive Council
 
 * **Director**, [[Bureau of Health Services]]
@@ -34,7 +34,7 @@ The bureau acts as the central nervous system of the different Vekllei healthcar
 * **Parliamentary Representative**, [[Health Parliament]]
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Departments
 * **General Headquarters**
     * Office of the Director
@@ -92,7 +92,7 @@ The bureau acts as the central nervous system of the different Vekllei healthcar
 
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Boards & Commissions
 
 * **Health Accounting Commission**: Auditor of health service accounts that tracks waste and inefficiencies in the health system.

@@ -23,7 +23,7 @@ Municipalities in Vekllei are the predominant form of local government, and vary
 
 Municipalities are the basis of Vekllei localism, a belief in local concern and decentralised decision-making. In general, Vekllei municipalism describes the places where society in abstract meets the individual, and so also has cultural and aesthetic qualities. The sum of a municipality is expressed in the *Atlantic Municipalist* tradition, which consists of the following principles:
 
-{{<note panel>}}
+{{<note>}}
 **Principles of Atlantic Municipalism**
 1. Local employment, or “commutelessness.”
 2. Slumlessness, beautification, and a will to architecture.

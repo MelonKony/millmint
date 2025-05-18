@@ -14,7 +14,7 @@ aliases:
 ---
 The <span class="fi fi-min-health fis"></span> **The Food and Medicines Authority** (FMA) is a statutory agency that controls and supervises food and medicine safety. Most consumable substances are regulated by the FMA, and require approval for import or export in the country. The FMA also investigates toxic food and medicines.
 
-{{<note panel>}}
+{{<note>}}
 ## Executive Council
 
 * **Director**, [[Commonwealth Disease Authority]]
@@ -27,7 +27,7 @@ The <span class="fi fi-min-health fis"></span> **The Food and Medicines Authorit
 * **Parliamentary Representative**, [[Health Parliament]]
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Departments
 * **Department of Radiological Health**
 * **Department of Medicines**
@@ -36,7 +36,7 @@ The <span class="fi fi-min-health fis"></span> **The Food and Medicines Authorit
 * **Department of Narcotics and Prohibited Substances**
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Boards & Commissions
 
 * **Special Commission on Women's Health**:

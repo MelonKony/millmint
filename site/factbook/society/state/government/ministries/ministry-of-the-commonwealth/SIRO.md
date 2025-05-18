@@ -18,7 +18,7 @@ The <span class="fi fi-min-siro fis"></span> **Commonwealth Science and Industri
 
 SIRO is headquartered in [Comet](/comet/), but through its constituent organisations has a presence in almost every Vekllei [republic](/republics/). The tremendous diversity across Vekllei's island republics provides an ample basis for research, and SIRO is among the leading research outfits in the world. It employs nearly 80,000 people and is credited with a wide variety of innovations and inventions, including the low-field fusion reactor and the Multimatrix computer network system.
 
-{{<note panel>}}
+{{<note>}}
 ## Council Organisation
 
 **Executive Council**
@@ -37,7 +37,7 @@ SIRO is headquartered in [Comet](/comet/), but through its constituent organisat
 * [[Transport Laboratories]]
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Executive Council
 
 * **Director**, [[SIRO]]
@@ -55,7 +55,7 @@ SIRO is headquartered in [Comet](/comet/), but through its constituent organisat
 * **Executive**, Government Scientists Group
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Departments
 * **Department of Research**
 	* Office of Science Policy
@@ -81,7 +81,7 @@ SIRO is headquartered in [Comet](/comet/), but through its constituent organisat
 	* Standards Board
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Boards & Commissions
 
 * **Cooperative Research Commission**: Public-private research partnership advocate.

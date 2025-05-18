@@ -16,7 +16,7 @@ The <span class="fi fi-min-commons fis"></span> **Bureau of Roads & Paths** perf
 
 The bureau is also responsible for the licensing and registration of motor vehicles, as well as public vehicle initiatives like motorpools. It operates crash testing facilities in [[Barbados]].
 
-{{<note panel>}}
+{{<note>}}
 ## Executive Council
 
 * **Director**, [[Bureau of Parks and Gardens]]
@@ -27,7 +27,7 @@ The bureau is also responsible for the licensing and registration of motor vehic
 * **Secretary of Municipal Works**, [[Bureau of Public Works]]
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Departments
 * **Department of Urban Roads & Paths**: Construction and maintenance of city roads.
     * Regional District Offices
@@ -45,7 +45,7 @@ The bureau is also responsible for the licensing and registration of motor vehic
     * Investigation Branch
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Boards & Commissions
 
 * **National Automobile Club of Vekllei (NACV)**: Independent motor enthusiast and automobile club.

@@ -32,6 +32,13 @@
 	</tr>
 	{{ end }}
 
+	{{ if eq (.Get "HomeStation") "Summers" }}
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Home Station</th>
+	<td><a style="color: var(--color-marine)" href="/ns-summers/"><span class="fi fi-min-marine fis"></span> N.S. Summers <span class="fi fi-summers"></a></td>
+	</tr>
+	{{ end }}
+
 	{{ if eq (.Get "HomeStation") "Java" }}
 	<tr>
 	<td style="font-weight: 500; width: 50%;">Home Station</th>

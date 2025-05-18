@@ -9,7 +9,6 @@
         {{ if .taxonomyPlural }}
         <a href="/{{ .taxonomyPlural }}/" style="margin-right: auto;"><button>← Back to {{ title .taxonomyPlural }}</button></a>
         {{ end }}
-
         <!-- Hide the pagination toggle for series taxonomy -->
         {{ if ne $taxonomy "series" }}
         <div class="checkbox-wrapper">
@@ -27,6 +26,10 @@
                     <polyline points="1.5 6 4.5 9 10.5 1"></polyline>
                 </symbol>
             </svg>
+            <!-- Add this block for active filters display -->
+            <div id="active-filters-bar" class="active-filters-bar" style="display:none;">
+                <span id="active-filters-list"></span>
+            </div>
         </div>
         {{ end }}
     </div>

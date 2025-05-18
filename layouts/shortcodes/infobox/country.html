@@ -33,14 +33,6 @@
 	</tr>
 	{{ end }}
 
-	{{ if (.Get "Map") }}
-	<tr>
-		<td colspan="2">
-			<img src="{{.Get "Map"}}">
-		</td>
-	</tr>
-	{{ end }}
-
 	{{ if (.Get "Locator") }}
 	<a src="{{.Get "Locator"}}">
 	<tr>
@@ -49,6 +41,14 @@
 		</td>
 	</tr>
 	</a>
+	{{ end }}
+
+	{{ if (.Get "Map") }}
+	<tr>
+		<td colspan="2">
+			<img src="{{.Get "Map"}}">
+		</td>
+	</tr>
 	{{ end }}
 
 	{{ if eq (.Get "Commonwealth") "Antarctic" }}

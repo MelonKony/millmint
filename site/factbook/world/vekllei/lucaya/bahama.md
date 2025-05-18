@@ -45,7 +45,7 @@ Warm and wet, with a tropical monsoon season. August through October is hurrican
 {{</note>}}
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Republic Day **26 Feb**

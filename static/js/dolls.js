@@ -1,907 +1,504 @@
-const palette = [
-	"#ad3647",
-	"#6080cc",
-	"#8C533C",
-	"#D99E52",
-	"#8F9A6B",
-	"#454343",
-	"#272b40",
-];
-const dataUrls = {};
-const imgs = {};
+// Core variables
+const dataUrls = {}, imgs = {}, groupColors = {};
 const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
-let groupColors = {};
-let dollAssets = [];
-let uniqueGroups = [...new Set(dollAssets.map((t) => t.group))];
-let currentGroup;
-let gender = "f";
-let redrawDebounce;
-let colorDebounce;
+let dollAssets = [], uniqueGroups = [], currentGroup, gender = "f";
+let redrawDebounce, colorDebounce, currentColorScheme = {}, currentActiveItem = null;
 
-// Set download label
+// Initialize groupSelections with female defaults
+const groupSelections = {};
+
 if (!isSafari) {
-	document
-		.querySelectorAll(".download-link .text")
-		.forEach((span) => (span.textContent = "Download Image"));
+    document.querySelectorAll(".download-link .text").forEach(span => span.textContent = "Download Image");
 }
 
-// Base doll
-const groupSelections = {
-	skintone: ["1a"],
-	face: ["Zelda"],
-	shoes: ["Sandals"],
-	bottoms: ["Pleated skirt"],
-	jumper: ["Color jumper"],
-	socks: ["Folded socks"],
-	top: ["Pleated shirt"],
-	hair: ["Bluey"],
+// Male doll configuration defaults
+const maleGroupSelections = {
+    figure: ["Olive"],
+    face: ["Leroy"],
+    shoes: ["Default navy oxfords"],
+    bottom: ["Default navy trousers"],
+    outer: ["Default navy jumper"],
+    socks: ["Default navy everyday socks"],
+    top: ["Default white button shirt", "Default white long sleeves", "Default white square collar", "Default navy tie"],
+    hair: ["Default navy curls"],
+    outerwear: ["Default navy blazer"],
 };
 
-// All groups
+// Helper function to get default selections based on gender
+function getDefaultSelections() {
+    // Base doll configuration for female
+    return {
+        figure: ["Olive"],
+        face: ["Tzipora"],
+        shoes: ["Default brown penny loafers"],
+        outfits: ["Default navy gymslip"],
+        outer: ["Default navy short bolero", "Bolero back"],
+        socks: ["Default white folded socks"],
+        top: ["Default white button shirt", "Default white long sleeves", "Default white round collar", "Default navy tab tie"],
+        hair: ["Default navy scruff"],
+        accessories: ["Default blue name card"],
+        outerwear: ["Default navy overcape", "Default navy overcape back"],
+    };
+}
+
+// Add gender toggle UI with icons
+function createGenderToggle() {
+    if (document.querySelector('.gender-toggle')) {
+        updateGenderToggle();
+        return;
+    }
+    
+    const toggleContainer = document.createElement("div");
+    toggleContainer.className = "gender-toggle";
+    Object.assign(toggleContainer.style, {
+        position: "relative",
+        textAlign: "center",
+        marginBottom: "10px",
+        display: "block",
+        width: "100%",
+        height: "auto"
+    });
+    
+    const btnStyles = {
+        padding: "5px 10px",
+        margin: "0 5px",
+        border: "1px solid #ccc",
+        borderRadius: "4px",
+        cursor: "pointer",
+        fontSize: "16px",
+        backgroundColor: "#fff"
+    };
+    
+    const femaleBtn = document.createElement("button");
+    femaleBtn.innerHTML = "♀";
+    femaleBtn.title = "Female";
+    femaleBtn.className = "gender-btn female" + (gender === "f" ? " active" : "");
+    femaleBtn.onclick = () => switchGender("f");
+    
+    const maleBtn = document.createElement("button");
+    maleBtn.innerHTML = "♂";
+    maleBtn.title = "Male";
+    maleBtn.className = "gender-btn male" + (gender === "m" ? " active" : "");
+    maleBtn.onclick = () => switchGender("m");
+    
+    [femaleBtn, maleBtn].forEach(btn => Object.assign(btn.style, btnStyles));
+    
+    toggleContainer.append(femaleBtn, maleBtn);
+    
+    // Insert the toggle at the very top of the dolls-left-side
+    const dollsLeftSide = document.querySelector(".dolls-left-side");
+    if (dollsLeftSide) {
+        dollsLeftSide.insertBefore(toggleContainer, dollsLeftSide.firstChild);
+    }
+    
+    updateGenderToggle();
+}
+
+// Update gender toggle state without recreating it
+function updateGenderToggle() {
+    const femaleBtn = document.querySelector('.gender-btn.female');
+    const maleBtn = document.querySelector('.gender-btn.male');
+    
+    if (!femaleBtn || !maleBtn) return;
+    
+    // Reset styles
+    [femaleBtn, maleBtn].forEach(btn => {
+        btn.style.backgroundColor = "#fff";
+        btn.style.color = "#000";
+        btn.className = btn.className.replace(" active", "");
+    });
+    
+    // Set active style
+    if (gender === "f") {
+        femaleBtn.style.backgroundColor = "#272b40";
+        femaleBtn.style.color = "white";
+        femaleBtn.className += " active";
+    } else {
+        maleBtn.style.backgroundColor = "#272b40";
+        maleBtn.style.color = "white";
+        maleBtn.className += " active";
+    }
+}
+
+// Function to switch gender
+function switchGender(newGender) {
+    if (gender === newGender) return;
+    
+    gender = newGender;
+    
+    // Reset selections when switching gender
+    if (gender === "f") {
+        // Use female defaults
+        Object.keys(groupSelections).forEach(key => {
+            groupSelections[key] = [];
+        });
+        
+        // Apply female defaults
+        Object.entries(getDefaultSelections()).forEach(([key, value]) => {
+            if (Array.isArray(value)) {
+                groupSelections[key] = [...value];
+            }
+        });
+    } else {
+        // Use male defaults
+        Object.keys(groupSelections).forEach(key => {
+            groupSelections[key] = [];
+        });
+        
+        // Apply male defaults
+        Object.entries(maleGroupSelections).forEach(([key, value]) => {
+            if (Array.isArray(value)) {
+                groupSelections[key] = [...value];
+            }
+        });
+    }
+    
+    // Reset colors
+    Object.keys(groupColors).forEach(key => {
+        delete groupColors[key];
+    });
+    
+    // Reset current color scheme
+    currentColorScheme = {};
+    
+    // Reload assets for the new gender
+    dollAssets = [];
+    loadDollAssets();
+    
+    // Update UI
+    renderNav();
+    updateGenderToggle(); // Update toggle instead of recreating
+    dollsMain(true);
+}
+
+// Helper function to get default selections based on gender
+function getDefaultSelections() {
+    // Base doll configuration for female
+    return {
+        figure: ["Olive"],
+        face: ["Tzipora"],
+        shoes: ["Default brown penny loafers"],
+        outfits: ["Default navy gymslip"],
+        outer: ["Default navy short bolero", "Bolero back"],
+        socks: ["Default white folded socks"],
+        top: ["Default white button shirt", "Default white long sleeves", "Default white round collar", "Default navy tab tie"],
+        hair: ["Default navy scruff"],
+        accessories: ["Default navy overcape", "Default navy overcape back"],
+    };
+}
+
+// Group definitions
 const groups = {
-	background: {
-		label: "Background",
-		icon: "🌲",
-		noColor: true,
-	},
-	skintone: {
-		label: "Skin tone",
-		icon: "🎨",
-		forceOne: true,
-		noColor: true,
-	},
-	shirt: {
-		label: "Shirts",
-		icon: "V",
-	},
-	outerwear: {
-		label: "Outerwear",
-		icon: "🧥",
-	},
-	bottoms: {
-		label: "Bottoms",
-		icon: "👖",
-	},
-	top: {
-		label: "Shirts",
-		icon: "👚",
-	},
-	socks: {
-		label: "Socks",
-		icon: "🧦",
-	},
-	shoes: {
-		label: "Shoes",
-		icon: "👞",
-	},
-	hair: {
-		label: "Hair",
-		icon: "✂️",
-	},
-	face: {
-		label: "Face",
-		icon: "☺️",
-		forceOne: true,
-		noColor: true,
-	},
-	accessories: {
-		label: "Accessories",
-		icon: "👒",
-		multiple: true,
-	},
-	jumper: {
-		label: "Jumpers",
-		icon: "🧣",
-	},
-	outfits: {
-		label: "Outfits",
-		icon: "👗",
-	},
+	background: { label: "Background", icon: "🌲", noColor: true },
+	figure: { label: "Figure", icon: "🎨", forceOne: true, noColor: true },
+	hair: { label: "Hair", icon: "✂️" },
+	face: { label: "Face", icon: "☺️", forceOne: true, noColor: true },
+	shirt: { label: "Shirts", icon: "V" },
+	top: { label: "Shirts", icon: "👚" },
+	bottom: { label: "Bottoms", icon: "👖" },
+	outerwear: { label: "Outerwear", icon: "🧥" },
+	socks: { label: "Socks", icon: "🧦" },
+	shoes: { label: "Shoes", icon: "👞" },
+	outfits: { label: "Outfits", icon: "👗" },
+	outer: { label: "Outerwear", icon: "🧣" },
+	accessories: { label: "Accessories", icon: "👒", multiple: true },
 };
 
-function defineAssets() {
-	dollAssets = [
-		{
-			group: "background",
-			name: "Beach",
-			layers: [
-				{
-					layer: 1,
-					img: img("/doll-assets/bg/beach.jpg"),
-				},
-			],
-		},
-		{
-			group: "background",
-			name: "Country",
-			layers: [
-				{
-					layer: 1,
-					img: img("/doll-assets/bg/country.jpg"),
-				},
-			],
-		},
-		{
-			group: "background",
-			name: "City",
-			layers: [
-				{
-					layer: 1,
-					img: img("/doll-assets/bg/city.jpg"),
-				},
-			],
-		},
-		{
-			group: "skintone",
-			name: "1a",
-			layers: [
-				{
-					layer: 10,
-					img: maskImg("/doll-assets/f/1.figure/1a/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "skintone",
-			name: "1b",
-			layers: [
-				{
-					layer: 10,
-					img: maskImg("/doll-assets/f/1.figure/1b/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "skintone",
-			name: "1c",
-			layers: [
-				{
-					layer: 10,
-					img: maskImg("/doll-assets/f/1.figure/1c/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "face",
-			name: "Zelda",
-			layers: [
-				{
-					layer: 11,
-					img: maskImg("/doll-assets/f/2.face/2a/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "face",
-			name: "Cobian",
-			layers: [
-				{
-					layer: 11,
-					img: maskImg("/doll-assets/f/2.face/2b/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "face",
-			name: "Mora",
-			layers: [
-				{
-					layer: 11,
-					img: maskImg("/doll-assets/f/2.face/2c/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "face",
-			name: "Tzafi",
-			layers: [
-				{
-					layer: 11,
-					img: maskImg("/doll-assets/f/2.face/2d/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "face",
-			name: "Gemma",
-			layers: [
-				{
-					layer: 11,
-					img: maskImg("/doll-assets/f/2.face/2e/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "face",
-			name: "Vo",
-			layers: [
-				{
-					layer: 11,
-					img: maskImg("/doll-assets/f/2.face/2f/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "face",
-			name: "Zhi",
-			layers: [
-				{
-					layer: 11,
-					img: maskImg("/doll-assets/f/2.face/2g/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "hair",
-			name: "Bluey",
-			layers: [
-				{
-					layer: 12,
-					img: maskImg("/doll-assets/f/3.hair/3a/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "hair",
-			name: "Prim",
-			layers: [
-				{
-					layer: 12,
-					img: maskImg("/doll-assets/f/3.hair/3b/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "hair",
-			name: "Curly",
-			layers: [
-				{
-					layer: 12,
-					img: maskImg("/doll-assets/f/3.hair/3c/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "hair",
-			name: "Braids",
-			layers: [
-				{
-					layer: 12,
-					img: maskImg("/doll-assets/f/3.hair/3d/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "hair",
-			name: "Clipped",
-			layers: [
-				{
-					layer: 12,
-					img: maskImg("/doll-assets/f/3.hair/3e/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "hair",
-			name: "Alternative",
-			layers: [
-				{
-					layer: 12,
-					img: maskImg("/doll-assets/f/3.hair/3f/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "hair",
-			name: "Locks",
-			layers: [
-				{
-					layer: 12,
-					img: maskImg("/doll-assets/f/3.hair/3g/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "hair",
-			name: "Princeling",
-			layers: [
-				{
-					layer: 12,
-					img: maskImg("/doll-assets/f/3.hair/3h/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "socks",
-			name: "Everyday socks",
-			layers: [
-				{
-					layer: 13,
-					img: maskImg("/doll-assets/f/4.socks/4c/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "socks",
-			name: "Folded socks",
-			layers: [
-				{
-					layer: 13,
-					img: maskImg("/doll-assets/f/4.socks/4a/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "socks",
-			name: "Athletic socks",
-			layers: [
-				{
-					layer: 13,
-					img: maskImg("/doll-assets/f/4.socks/4b/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "socks",
-			name: "Knee Socks",
-			layers: [
-				{
-					layer: 13,
-					img: maskImg("/doll-assets/f/4.socks/4d/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "socks",
-			name: "Nylon Socks",
-			layers: [
-				{
-					layer: 13,
-					img: maskImg("/doll-assets/f/4.socks/4e/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "socks",
-			name: "Nylons",
-			layers: [
-				{
-					layer: 13,
-					img: maskImg("/doll-assets/f/4.socks/4f/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "shoes",
-			name: "Penny loafers",
-			layers: [
-				{
-					layer: 14,
-					img: maskImg("/doll-assets/f/5.shoes/5a/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "shoes",
-			name: "Sandals",
-			layers: [
-				{
-					layer: 14,
-					img: maskImg("/doll-assets/f/5.shoes/5b/"),
-					gender: "f",
-				},
-				{
-					layer: 2,
-					img: img("/doll-assets/f/0.bg/mask.5b.bg.png"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "shoes",
-			name: "Strap shoes",
-			layers: [
-				{
-					layer: 14,
-					img: maskImg("/doll-assets/f/5.shoes/5c/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "shoes",
-			name: "Trainers",
-			layers: [
-				{
-					layer: 14,
-					img: maskImg("/doll-assets/f/5.shoes/5d/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "shoes",
-			name: "School Shoes",
-			layers: [
-				{
-					layer: 14,
-					img: maskImg("/doll-assets/f/5.shoes/5e/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "shoes",
-			name: "Flats",
-			layers: [
-				{
-					layer: 14,
-					img: maskImg("/doll-assets/f/5.shoes/5f/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "bottoms",
-			name: "Pleated skirt",
-			layers: [
-				{
-					layer: 15,
-					img: maskImg("/doll-assets/f/6.bottom/6a/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "bottoms",
-			name: "Trousers",
-			layers: [
-				{
-					layer: 15,
-					img: maskImg("/doll-assets/f/6.bottom/6b/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "bottoms",
-			name: "Pencil skirt",
-			layers: [
-				{
-					layer: 15,
-					img: maskImg("/doll-assets/f/6.bottom/6c/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "bottoms",
-			name: "Shorts",
-			layers: [
-				{
-					layer: 15,
-					img: maskImg("/doll-assets/f/6.bottom/6d/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "bottoms",
-			name: "Short Trousers",
-			layers: [
-				{
-					layer: 15,
-					img: maskImg("/doll-assets/f/6.bottom/6e/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "bottoms",
-			name: "Rouisha Pants",
-			layers: [
-				{
-					layer: 15,
-					img: maskImg("/doll-assets/f/6.bottom/6f/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "top",
-			name: "Pleated shirt",
-			layers: [
-				{
-					layer: 16,
-					img: maskImg("/doll-assets/f/7.top/7a/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "top",
-			name: "Prissy Shirt",
-			layers: [
-				{
-					layer: 16,
-					img: maskImg("/doll-assets/f/7.top/7b/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "top",
-			name: "Tee Shirt",
-			layers: [
-				{
-					layer: 16,
-					img: maskImg("/doll-assets/f/7.top/7c/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "top",
-			name: "Hanfu shirt",
-			layers: [
-				{
-					layer: 16,
-					img: maskImg("/doll-assets/f/7.top/7d/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "top",
-			name: "Turtleneck shirt",
-			layers: [
-				{
-					layer: 16,
-					img: maskImg("/doll-assets/f/7.top/7e/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "outfits",
-			name: "Gymslip",
-			layers: [
-				{
-					layer: 20,
-					img: maskImg("/doll-assets/f/8.outfits/8a/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "outfits",
-			name: "Nurse Uniform",
-			layers: [
-				{
-					layer: 21,
-					img: maskImg("/doll-assets/f/8.outfits/8b/", undefined, "maskb"),
-					gender: "f",
-				},
-				{
-					layer: 20,
-					img: maskImg(
-						"/doll-assets/f/8.outfits/8b/",
-						undefined,
-						"maska",
-						true
-					),
-					gender: "f",
-					noColor: true,
-				},
-			],
-		},
-		{
-			group: "outfits",
-			name: "Platform Attendant",
-			layers: [
-				{
-					layer: 21,
-					img: maskImg("/doll-assets/f/8.outfits/8c/", undefined, "maskb"),
-					gender: "f",
-				},
-				{
-					layer: 20,
-					img: maskImg(
-						"/doll-assets/f/8.outfits/8c/",
-						undefined,
-						"maska",
-						true
-					),
-					gender: "f",
-					noColor: true,
-				},
-			],
-		},
-		{
-			group: "outfits",
-			name: "Pleated Dress",
-			layers: [
-				{
-					layer: 20,
-					img: maskImg("/doll-assets/f/8.outfits/8d/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "jumper",
-			name: "Jumper",
-			layers: [
-				{
-					layer: 19,
-					img: maskImg("/doll-assets/f/9.jumpers/9a/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "jumper",
-			name: "Revolutionary Coat",
-			layers: [
-				{
-					layer: 19,
-					img: maskImg("/doll-assets/f/9.jumpers/9b/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "jumper",
-			name: "Cardigan",
-			layers: [
-				{
-					layer: 19,
-					img: maskImg("/doll-assets/f/9.jumpers/9c/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "accessories",
-			name: "Spectacles",
-			noColor: true,
-			layers: [
-				{
-					layer: 22,
-					img: maskImg("/doll-assets/f/10.accessories/10a/", undefined, null),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "accessories",
-			name: "School Armband",
-			noColor: true,
-			layers: [
-				{
-					layer: 22,
-					img: maskImg("/doll-assets/f/10.accessories/10b/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "accessories",
-			name: "School Beret",
-			layers: [
-				{
-					layer: 22,
-					img: maskImg("/doll-assets/f/10.accessories/10c/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "accessories",
-			name: "School Tie",
-			layers: [
-				{
-					layer: 17,
-					img: maskImg("/doll-assets/f/10.accessories/10d/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "accessories",
-			name: "Red Tie",
-			layers: [
-				{
-					layer: 17,
-					img: maskImg("/doll-assets/f/10.accessories/10e/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "accessories",
-			name: "Girls' Tie",
-			layers: [
-				{
-					layer: 17,
-					img: maskImg("/doll-assets/f/10.accessories/10f/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "accessories",
-			name: "School Badge",
-			layers: [
-				{
-					layer: 17,
-					img: maskImg("/doll-assets/f/10.accessories/10g/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "accessories",
-			name: "Red Guard Hat",
-			layers: [
-				{
-					layer: 17,
-					img: maskImg("/doll-assets/f/10.accessories/10h/"),
-					gender: "f",
-				},
-			],
-		},
-		{
-			group: "accessories",
-			name: "Kitty",
-			noColor: true,
-			layers: [
-				{
-					layer: 22,
-					img: maskImg("/doll-assets/f/10.accessories/10i/"),
-					gender: "f",
-					noColor: true,
-				},
-			],
-		},
-	];
-	uniqueGroups = [...new Set(dollAssets.map((t) => t.group))];
-	if (!currentGroup) currentGroup = uniqueGroups[0];
+// Initialize with defaults on page load
+document.addEventListener('DOMContentLoaded', function() {
+    // Apply female defaults initially
+    Object.entries(getDefaultSelections()).forEach(([key, value]) => {
+        if (Array.isArray(value)) {
+            groupSelections[key] = [...value];
+        }
+    });
+});
+
+function loadDollAssets() {
+    const dataScript = document.getElementById('doll-assets-data');
+    if (!dataScript?.textContent) {
+        console.error('Doll assets data script not found');
+        throw new Error('Doll assets data not found');
+    }
+
+    try {
+        const rawData = dataScript.textContent.trim();
+        let assetData;
+        try {
+            const firstParse = JSON.parse(rawData);
+            assetData = typeof firstParse[0] === 'string' ? JSON.parse(firstParse[0]) : firstParse;
+        } catch (e) {
+            console.error('Failed to parse asset data:', e);
+            throw e;
+        }
+        
+        dollAssets = assetData
+            .filter(asset => {
+                // Filter assets by gender
+                const assetPath = asset.layers && asset.layers[0] && asset.layers[0].img;
+                const isCurrentGender = assetPath && assetPath.includes(`/${gender}/`);
+                
+                const isValid = asset && typeof asset === 'object' && asset.group && asset.name && 
+                               Array.isArray(asset.layers) && isCurrentGender;
+                               
+                if (!isValid && asset && asset.name) console.warn('Invalid or wrong gender asset skipped:', asset.name);
+                return isValid;
+            })
+            .map(asset => {
+                const isComponent = asset.group.includes('/');
+                const [baseGroup, componentType] = isComponent ? asset.group.split('/') : [asset.group, null];
+                
+                if (isComponent) {
+                    const baseItem = dollAssets.find(a => 
+                        a.group === baseGroup && 
+                        a.name === asset.name.replace(` ${componentType}`, '')
+                    );
+                    
+                    if (baseItem) {
+                        baseItem.layers = [...baseItem.layers, ...asset.layers];
+                        return null;
+                    }
+                }
+                
+                return {
+                    ...asset,
+                    isComponent,
+                    baseGroup,
+                    componentType,
+                    layers: asset.layers
+                        .filter(layer => layer?.img)
+                        .map(layer => ({
+                            ...layer,
+                            path: layer.img,
+                            img: createImage(layer.img)
+                        }))
+                };
+            })
+            .filter(asset => asset && asset.layers.length > 0);
+
+        uniqueGroups = [...new Set(dollAssets.map(t => t.baseGroup))];
+        currentGroup = currentGroup || uniqueGroups[0];
+    } catch (error) {
+        console.error('Asset loading failed:', error);
+        throw error;
+    }
 }
 
-function renderNav() {
-	// Populate navigation
-	const nav = document.querySelector(".dolls-nav");
-	nav.querySelector(".nav-inner").innerHTML = "";
+function createImage(src) {
+    if (!src) {
+        console.error('Attempted to load image with undefined path');
+        return null;
+    }
+    
+    // Make sure the path includes the current gender
+    if (!src.includes(`/${gender}/`) && !src.startsWith('/')) {
+        src = `/${gender}/` + src;
+    } else if (src.startsWith('/') && !src.includes(`/${gender}/`)) {
+        // If it starts with / but doesn't have gender, insert gender after first /
+        src = '/' + gender + src;
+    }
+    
+    const img = new Image();
+    img.src = src;
+    return img;
+}
 
-	for (const groupName of uniqueGroups) {
-		// Create new node
-		const el = document
-			.importNode(
-				document.querySelector(".dolls-nav-item-template").content,
-				true
-			)
-			.querySelector("*");
+function render() {
+	const allLayers = getLayers();
+	const wrapper = document.querySelector(".dolls-canvas-inner");
+	wrapper.innerHTML = "";
 
-		// Provide labels
-		const group = groups[groupName];
+	for (const asset of allLayers) {
+		const layer = document.createElement("div");
+		layer.classList.add("layer");
 
-		el.querySelector(".text").textContent = group?.label ?? groupId;
-		if (group?.icon) el.querySelector(".icon").textContent = group.icon;
-
-		// Add event listeners
-		el.addEventListener("click", () => {
-			currentGroup = groupName;
-			dollsMain();
-		});
-
-		// Add active class
-		if (groupName === currentGroup) el.classList.add("active");
-		nav.querySelector(".nav-inner").appendChild(el);
-	}
-
-	// Set tab title
-	document.querySelector(".current-page").innerText =
-		groups[currentGroup]?.label ?? currentGroup;
-
-	// Determine active states for next/previous buttons
-	const currentIndex = uniqueGroups.indexOf(currentGroup);
-	document
-		.querySelector(".nav-nav-button.nav-previous")
-		.classList[currentIndex > 0 ? "remove" : "add"]("disabled");
-	document
-		.querySelector(".nav-nav-button.nav-next")
-		.classList[currentIndex < uniqueGroups.length - 1 ? "remove" : "add"](
-			"disabled"
-		);
-
-	// Draw colors
-	const colorWrapper = document.querySelector(".color-options");
-	colorWrapper.classList.remove("color-hidden");
-	colorWrapper
-		.querySelectorAll(".color-circle[style]")
-		.forEach((el) => el.remove());
-	document.querySelector(".reset-circle").classList.remove("active");
-
-	// Add a circle for each color
-	for (const color of palette) {
-		const circle = document.createElement("div");
-		circle.classList.add("color-circle");
-		circle.setAttribute("style", `--color: ${color}`);
-
-		circle.addEventListener("click", () => {
-			setColor(color);
-		});
-
-		if (groupColors[currentGroup] === color) {
-			circle.classList.add("active");
+		if (asset.mask) {
+			const mask = document.createElement("div");
+			mask.classList.add("mask");
+			mask.style.setProperty("--url", `url(${asset.path})`);
+			mask.style.backgroundColor = asset.color || "black";
+			layer.appendChild(mask);
+		} else {
+			const img = document.createElement("img");
+			img.src = asset.path;
+			layer.appendChild(img);
 		}
 
-		colorWrapper.appendChild(circle);
-	}
-
-	// Add it to the reset button if there isn't an active color
-	if (!colorWrapper.querySelector(".active"))
-		document.querySelector(".reset-circle").classList.add("active");
-
-	// Check if the color editor should be visible
-	if (groups[currentGroup]?.noColor) colorWrapper.classList.add("color-hidden");
-}
-
-function nextNav() {
-	let newIndex = uniqueGroups.indexOf(currentGroup) + 1;
-	if (uniqueGroups[newIndex]) {
-		currentGroup = uniqueGroups[newIndex];
-		dollsMain();
+		wrapper.appendChild(layer);
 	}
 }
 
-function previousNav() {
-	let newIndex = uniqueGroups.indexOf(currentGroup) - 1;
-	if (uniqueGroups[newIndex]) {
-		currentGroup = uniqueGroups[newIndex];
-		dollsMain();
-	}
+function getLayers() {
+    // Create a custom order for specific groups
+    const customOrder = {
+        background: 0,
+        figure: 100,
+        hair: 200,
+        face: 300,
+        top: 400,
+        shirt: 400,
+        outfits: 800,
+        outer: 850,
+        outerwear: 900,
+        bottom: 700,
+        socks: 400,
+        shoes: 600,
+        accessories: 1000
+    };
+    
+    // For any groups not explicitly ordered, use the original dynamic ordering
+    const groupOrder = Object.keys(groups).reduce((acc, group, index) => {
+        if (customOrder[group] !== undefined) {
+            acc[group] = customOrder[group];
+        } else {
+            acc[group] = (index + 10) * 100;
+        }
+        return acc;
+    }, {});
+
+    return Object.entries(groupSelections)
+        .flatMap(([group, itemNames]) => 
+            dollAssets
+                .filter(asset => (asset.group === group || asset.baseGroup === group) && itemNames.includes(asset.name))
+                .flatMap(asset => {
+                    const isBack = asset.name.toLowerCase().includes(' back');
+                    const baseOrder = groupOrder[asset.isComponent ? asset.baseGroup : asset.group] || 0;
+                    const color = groupColors[asset.group] || groupColors[asset.baseGroup];
+                    
+                    // Extract layer number from name if present
+                    const layerMatch = asset.name.match(/\s(\d+)$/);
+                    const explicitLayer = layerMatch ? parseInt(layerMatch[1]) : null;
+                    
+                    return asset.layers.map(layer => ({
+                        layer: explicitLayer !== null ? explicitLayer : (baseOrder + (layer.layer || 0) + (isBack ? -10000 : 0)),
+                        path: layer.path,
+                        mask: !!color,
+                        color
+                    }));
+                })
+        )
+        .filter(Boolean)
+        .sort((a, b) => a.layer - b.layer);
 }
 
-function setColor(color, group = currentGroup) {
-	groupColors[group] = color;
-	if (color === null) delete groupColors[group];
-	renderNav();
+const colorMap = {
+    'red': '#ad3647', 'blue': '#6080cc', 'navy': '#272b40',
+    'brown': '#8C533C', 'black': '#272727', 'green': '#8F9A6B',
+    'yellow': '#D99E52', 'purple': '#8a2be2', 'pink': '#ff69b4',
+    'orange': '#ff8c00', 'grey': '#808080', 'gray': '#808080',
+    'olive': '#808000', 'tan': '#d2b48c', 'beige': '#f5f5dc',
+    'cream': '#fffdd0', 'gold': '#ffd700', 'silver': '#c0c0c0',
+    'white': '#ffffff'
+};
 
-	// Update visible components
-	if (groupSelections[group]) {
-		for (const assetName of groupSelections[group]) {
-			setMaskColor(assetName, color);
-		}
-	}
+const colorRegex = /^(default\s+)?(red|blue|navy|white|brown|black|green|yellow|purple|pink|orange|grey|gray|olive|tan|beige|cream|gold|silver)\s+(.+)$/i;
 
-	updateColors();
+function getAvailableColorsForItem(itemName) {
+    const colors = {};
+    const asset = dollAssets.find(a => a.name === itemName);
+    if (!asset) return colors;
+    
+    const match = itemName.match(colorRegex);
+    if (!match) return colors;
+    
+    const baseName = match[3];
+    dollAssets
+        .filter(variant => {
+            const assetMatch = variant.name.match(colorRegex);
+            return assetMatch && 
+                   assetMatch[3] === baseName && 
+                   (variant.group === currentGroup || variant.baseGroup === currentGroup) &&
+                   !variant.name.toLowerCase().includes(' back') &&
+                   (!asset.isComponent || variant.componentType === asset.componentType);
+        })
+        .forEach(asset => {
+            const assetMatch = asset.name.match(colorRegex);
+            if (assetMatch && colorMap[assetMatch[2].toLowerCase()]) {
+                colors[assetMatch[2].toLowerCase()] = colorMap[assetMatch[2].toLowerCase()];
+            }
+        });
+    
+    return colors;
+}
+
+function getAvailableColorsForCurrentGroup() {
+    const colors = {};
+    dollAssets
+        .filter(asset => 
+            (asset.group === currentGroup || asset.baseGroup === currentGroup) &&
+            !asset.name.toLowerCase().includes(' back') &&
+            !asset.isComponent
+        )
+        .forEach(asset => {
+            const match = asset.name.match(colorRegex);
+            if (match && colorMap[match[2].toLowerCase()]) {
+                colors[match[2].toLowerCase()] = colorMap[match[2].toLowerCase()];
+            }
+        });
+    
+    return colors;
+}
+
+function updateSelectionsByColor(colorName, itemName) {
+    if (!itemName) return;
+    
+    const asset = dollAssets.find(a => a.name === itemName);
+    if (!asset) return;
+    
+    const colorRegex = /^(default\s+)?(red|blue|navy|white|brown|black|green|yellow|purple|pink|orange|grey|gray|olive|tan|beige|cream|gold|silver)\s+(.+)$/i;
+    const match = itemName.match(colorRegex);
+    
+    if (!match) return;
+    
+    const baseName = match[3];
+    
+    const colorVariants = dollAssets.filter(variant => {
+        const assetMatch = variant.name.match(colorRegex);
+        return assetMatch && 
+               assetMatch[3] === baseName && 
+               (variant.group === currentGroup || variant.baseGroup === currentGroup) &&
+               !variant.name.toLowerCase().includes(' back') &&
+               // Match component type if it's a component
+               (!asset.isComponent || variant.componentType === asset.componentType);
+    });
+    
+    const targetVariant = colorVariants.find(asset => {
+        const assetMatch = asset.name.match(colorRegex);
+        return assetMatch && assetMatch[2].toLowerCase() === colorName.toLowerCase();
+    });
+    
+    if (targetVariant) {
+        const currentSelections = [...groupSelections[currentGroup]];
+        const index = currentSelections.indexOf(itemName);
+        
+        if (index !== -1) {
+            currentSelections[index] = targetVariant.name;
+            
+            const oldBackItems = findBackItems({ name: itemName, group: currentGroup });
+            const newBackItems = findBackItems(targetVariant);
+            
+            oldBackItems.forEach(oldBack => {
+                const oldBackIndex = currentSelections.indexOf(oldBack.name);
+                if (oldBackIndex !== -1) {
+                    const newBack = newBackItems.find(newBack => {
+                        return newBack.name.includes(oldBack.name.replace(itemName, ''));
+                    });
+                    
+                    if (newBack) {
+                        currentSelections[oldBackIndex] = newBack.name;
+                    } else {
+                        currentSelections.splice(oldBackIndex, 1);
+                    }
+                }
+            });
+            
+            groupSelections[currentGroup] = currentSelections;
+            
+            if (groups[currentGroup]?.multiple) {
+                currentActiveItem = targetVariant.name;
+            }
+        }
+    }
 }
 
 function updateColors() {
@@ -916,265 +513,466 @@ function updateColors() {
 	}, 100);
 }
 
-function setMaskColor(name = "Color jumper", newColor, layer = 0) {
-	const item = dollAssets.find((a) => a.name === name);
-	if (item) item.layers[layer]?.img?.setColor?.(newColor);
+function renderOptions() {
+    const wrapper = document.querySelector(".doll-options");
+    // Save existing color palettes before clearing
+    const existingPalettes = {};
+    wrapper.querySelectorAll(".component-color-palette").forEach(palette => {
+        const section = palette.closest(".component-section");
+        if (section) {
+            existingPalettes[section.querySelector(".component-title")?.textContent] = palette;
+        }
+    });
+
+    wrapper.innerHTML = "";
+
+    const createOptionElement = (asset, isComponent = false) => {
+        const div = document.createElement("div");
+        div.classList.add("doll-option");
+        if (isComponent) div.classList.add("component-option");
+        
+        // Extract base name for comparison
+        const colorRegex = /^(default\s+)?(red|blue|navy|white|brown|black|green|yellow|purple|pink|orange|grey|gray|olive|tan|beige|cream|gold|silver)\s+(.+)$/i;
+        const assetMatch = asset.name.match(colorRegex);
+        const assetBaseName = assetMatch ? assetMatch[3].toLowerCase() : asset.name.toLowerCase();
+        
+        // Check if any variant of this item is selected
+        const isSelected = groupSelections[asset.baseGroup]?.some(selectedName => {
+            const selectedMatch = selectedName.match(colorRegex);
+            const selectedBaseName = selectedMatch ? selectedMatch[3].toLowerCase() : selectedName.toLowerCase();
+            return selectedBaseName === assetBaseName && !selectedName.toLowerCase().includes(' back');
+        });
+        
+        if (isSelected) {
+            div.classList.add("active");
+        }
+
+        const displayName = formatDisplayName(asset.name);
+        div.innerText = displayName;
+        
+        div.addEventListener("click", () => {
+            const targetGroup = asset.baseGroup || currentGroup;
+            if (!groupSelections[targetGroup]) {
+                groupSelections[targetGroup] = [];
+            }
+            
+            const group = groups[targetGroup];
+            const backItems = findBackItems(asset);
+            
+            currentActiveItem = asset.name;
+            
+            if (group?.forceOne) {
+                groupSelections[targetGroup] = [asset.name, ...backItems.map(b => b.name)];
+                setDefaultColorForItem(asset.name);
+            } else if (group?.multiple) {
+                if (groupSelections[targetGroup].includes(asset.name)) {
+                    groupSelections[targetGroup] = groupSelections[targetGroup]
+                        .filter(a => a !== asset.name && !backItems.some(b => b.name === a));
+                    delete currentColorScheme[asset.name];
+                } else {
+                    groupSelections[targetGroup].push(asset.name);
+                    backItems.forEach(backItem => {
+                        if (!groupSelections[targetGroup].includes(backItem.name)) {
+                            groupSelections[targetGroup].push(backItem.name);
+                        }
+                    });
+                    setDefaultColorForItem(asset.name);
+                }
+            } else {
+                if (asset.isComponent) {
+                    if (groupSelections[targetGroup].includes(asset.name)) {
+                        groupSelections[targetGroup] = groupSelections[targetGroup]
+                            .filter(a => a !== asset.name && !backItems.some(b => b.name === a));
+                    } else {
+                        const hasBaseItem = groupSelections[targetGroup].some(name => {
+                            const item = dollAssets.find(a => a.name === name);
+                            return item && !item.isComponent;
+                        });
+                        
+                        if (hasBaseItem) {
+                            const sameTypeComponents = dollAssets.filter(a => 
+                                a.isComponent && 
+                                a.componentType === asset.componentType &&
+                                a.baseGroup === targetGroup
+                            );
+                            groupSelections[targetGroup] = groupSelections[targetGroup]
+                                .filter(name => !sameTypeComponents.some(c => c.name === name));
+                            
+                            groupSelections[targetGroup].push(asset.name);
+                            backItems.forEach(backItem => {
+                                if (!groupSelections[targetGroup].includes(backItem.name)) {
+                                    groupSelections[targetGroup].push(backItem.name);
+                                }
+                            });
+                        }
+                    }
+                } else {
+                    if (groupSelections[targetGroup].includes(asset.name)) {
+                        groupSelections[targetGroup] = [];
+                    } else {
+                        groupSelections[targetGroup] = [asset.name];
+                        
+                        backItems.forEach(backItem => {
+                            groupSelections[targetGroup].push(backItem.name);
+                        });
+                        
+                        const componentTypes = [...new Set(dollAssets
+                            .filter(a => a.isComponent && a.baseGroup === targetGroup)
+                            .map(a => a.componentType))];
+                            
+                        componentTypes.forEach(type => {
+                            const firstComponent = dollAssets.find(a => 
+                                a.isComponent && 
+                                a.baseGroup === targetGroup && 
+                                a.componentType === type
+                            );
+                            if (firstComponent) {
+                                groupSelections[targetGroup].push(firstComponent.name);
+                                const componentBackItems = findBackItems(firstComponent);
+                                componentBackItems.forEach(backItem => {
+                                    groupSelections[targetGroup].push(backItem.name);
+                                });
+                            }
+                        });
+                        
+                        setDefaultColorForItem(asset.name);
+                    }
+                }
+            }
+            
+            renderNav();
+            dollsMain(true);
+        });
+        
+        return div;
+    };
+
+    // Group assets by their base name (without color prefix)
+    const groupedAssets = groupAssetsByBaseName();
+    
+    // Render base items
+    if (Object.keys(groupedAssets).length) {
+        wrapper.appendChild(Object.assign(document.createElement("div"), {
+            className: "component-title",
+            innerText: ""
+        }));
+        
+        // For each base name, only show one option
+        Object.values(groupedAssets).forEach(assetGroup => {
+            // Find the default asset if available, otherwise use the first one
+            const defaultAsset = assetGroup.find(asset => asset.name.toLowerCase().includes('default')) || assetGroup[0];
+            wrapper.appendChild(createOptionElement(defaultAsset));
+        });
+    }
+
+    // Group components by their base name too
+    const components = dollAssets.filter(asset => 
+        asset.isComponent && 
+        (asset.group === currentGroup || asset.baseGroup === currentGroup) &&
+        !asset.name.toLowerCase().includes(' back')
+    );
+
+    // Group components by type and then by base name
+    const componentTypes = [...new Set(components.map(a => a.componentType))];
+    componentTypes.forEach(type => {
+        if (!type) return;
+        
+        const componentSection = document.createElement("div");
+        componentSection.className = "component-section";
+        
+        // Add title
+        const titleDiv = document.createElement("div");
+        titleDiv.className = "component-title";
+        titleDiv.innerText = type.charAt(0).toUpperCase() + type.slice(1);
+        componentSection.appendChild(titleDiv);
+        
+        // Check if we have a saved palette for this type
+        let colorPaletteDiv = existingPalettes[titleDiv.textContent];
+        if (!colorPaletteDiv) {
+            colorPaletteDiv = document.createElement("div");
+            colorPaletteDiv.className = "component-color-palette";
+        }
+        componentSection.appendChild(colorPaletteDiv);
+
+        // Group components of this type by base name
+        const typeComponents = components.filter(a => a.componentType === type);
+        const groupedComponents = {};
+        
+        typeComponents.forEach(asset => {
+            const colorRegex = /^(default\s+)?(red|blue|navy|white|brown|black|green|yellow|purple|pink|orange|grey|gray|olive|tan|beige|cream|gold|silver)\s+(.+)$/i;
+            const match = asset.name.match(colorRegex);
+            const baseName = match ? match[3].toLowerCase() : asset.name.toLowerCase();
+            
+            if (!groupedComponents[baseName]) groupedComponents[baseName] = [];
+            groupedComponents[baseName].push(asset);
+        });
+        
+        // For each base name, only show one option
+        Object.values(groupedComponents).forEach(assetGroup => {
+            const defaultAsset = assetGroup.find(asset => asset.name.toLowerCase().includes('default')) || assetGroup[0];
+            componentSection.appendChild(createOptionElement(defaultAsset, true));
+            
+            // If this component is selected, update the color palette
+            if (groupSelections[defaultAsset.baseGroup]?.includes(defaultAsset.name)) {
+                const colors = getAvailableColorsForItem(defaultAsset.name);
+                if (Object.keys(colors).length > 0) {
+                    colorPaletteDiv.innerHTML = ''; // Clear existing colors
+                    Object.entries(colors).forEach(([colorName, colorHex]) => {
+                        const circle = document.createElement("div");
+                        circle.classList.add("color-circle");
+                        circle.setAttribute("style", `--color: ${colorHex}`);
+                        circle.setAttribute("data-color-name", colorName);
+                        
+                        if (currentColorScheme[defaultAsset.name] === colorName) {
+                            circle.classList.add("active");
+                        }
+                        
+                        circle.addEventListener("click", (e) => {
+                            e.stopPropagation();
+                            colorPaletteDiv.querySelectorAll(".color-circle").forEach(c => c.classList.remove("active"));
+                            circle.classList.add("active");
+                            updateSelectionsByColor(colorName, defaultAsset.name);
+                            renderNav();
+                            dollsMain(true);
+                        });
+                        
+                        colorPaletteDiv.appendChild(circle);
+                    });
+                }
+            }
+        });
+        
+        // Add the color palette right after the title, before the options
+        componentSection.insertBefore(colorPaletteDiv, titleDiv.nextSibling);
+        wrapper.appendChild(componentSection);
+    });
 }
 
-function renderOptions() {
-	const wrapper = document.querySelector(".doll-options");
-	wrapper.innerHTML = "";
+function renderNav() {
+    const nav = document.querySelector(".dolls-nav");
+    if (!nav) return;
+    
+    const navInner = nav.querySelector(".nav-inner");
+    if (!navInner) return;
+    
+    navInner.innerHTML = "";
 
-	const assetsInGroup = dollAssets.filter(
-		(asset) => asset.group === currentGroup
-	);
-	for (const asset of assetsInGroup) {
-		// TODO: turn this into a nice template :)
-		const div = document.createElement("div");
-		div.classList.add("doll-option");
+    if (!dollAssets || dollAssets.length === 0) {
+        console.error('No doll assets available to render navigation');
+        const errorMsg = document.createElement('div');
+        errorMsg.className = 'error-message';
+        errorMsg.textContent = 'No assets available - please check console for errors';
+        navInner.appendChild(errorMsg);
+        return;
+    }
+    
+	navInner.innerHTML = "";
 
-		// Add active class if appropriate
-		if (groupSelections[asset.group]?.includes?.(asset.name))
-			div.classList.add("active");
+	for (const groupName of uniqueGroups) {
+		const el = document
+			.importNode(
+				document.querySelector(".dolls-nav-item-template").content,
+				true
+			)
+			.querySelector("*");
 
-		// Add content
-		div.innerText = asset.name;
+		const group = groups[groupName];
 
-		// Add click event
-		div.addEventListener("click", () => {
-			// Depending on whether the group allows multiple or not,
-			// add or remove it from the list, or set the list to be the single item
-			const group = groups[asset.group];
-			if (!groupSelections[asset.group]) groupSelections[asset.group] = [];
+		el.querySelector(".text").textContent = group?.label ?? groupName;
+		if (group?.icon) el.querySelector(".icon").textContent = group.icon;
 
-			// TODO: clean this up
-			if (group?.multiple) {
-				if (groupSelections[asset.group].includes(asset.name)) {
-					groupSelections[asset.group] = groupSelections[asset.group].filter(
-						(a) => a !== asset.name
-					);
-				} else {
-					groupSelections[asset.group].push(asset.name);
-				}
-			} else {
-				if (
-					groupSelections[asset.group].length === 1 &&
-					groupSelections[asset.group][0] === asset.name &&
-					!group?.forceOne
-				)
-					groupSelections[asset.group] = [];
-				else groupSelections[asset.group] = [asset.name];
-			}
-
-			dollsMain(true);
+		el.addEventListener("click", () => {
+			currentGroup = groupName;
+			dollsMain();
 		});
 
-		wrapper.appendChild(div);
+		if (groupName === currentGroup) el.classList.add("active");
+		navInner.appendChild(el);
 	}
+
+	document.querySelector(".current-page").innerText =
+		groups[currentGroup]?.label ?? currentGroup;
+
+	const currentIndex = uniqueGroups.indexOf(currentGroup);
+	document
+		.querySelector(".nav-nav-button.nav-previous")
+		.classList[currentIndex > 0 ? "remove" : "add"]("disabled");
+	document
+		.querySelector(".nav-nav-button.nav-next")
+		.classList[currentIndex < uniqueGroups.length - 1 ? "remove" : "add"](
+			"disabled"
+		);
+
+    const colorWrapper = document.querySelector(".color-options");
+    colorWrapper.classList.remove("color-hidden");
+    colorWrapper
+        .querySelectorAll(".color-circle[style]")
+        .forEach((el) => el.remove());
+
+    const activeItem = groups[currentGroup]?.multiple ? currentActiveItem : getSelectedBaseItem();
+    
+    if (activeItem) {
+        const availableColors = getAvailableColorsForItem(activeItem);
+        const colorRegex = /^(default\s+)?(red|blue|navy|white|brown|black|green|yellow|purple|pink|orange|grey|gray|olive|tan|beige|cream|gold|silver)\s+(.+)$/i;
+        const match = activeItem.match(colorRegex);
+        const currentColor = match ? match[2].toLowerCase() : null;
+        
+        for (const [colorName, colorHex] of Object.entries(availableColors)) {
+            const circle = document.createElement("div");
+            circle.classList.add("color-circle");
+            circle.setAttribute("style", `--color: ${colorHex}`);
+            circle.setAttribute("data-color-name", colorName);
+            
+            circle.addEventListener("click", () => {
+                // Remove active class from all circles before setting new one
+                colorWrapper.querySelectorAll(".color-circle").forEach(c => c.classList.remove("active"));
+                circle.classList.add("active");
+                setColorScheme(colorName, activeItem);
+            });
+            
+            // Only set active if this is the current color
+            if (colorName === currentColor) {
+                circle.classList.add("active");
+            }
+            
+            colorWrapper.appendChild(circle);
+        }
+    }
+
+    if (groups[currentGroup]?.noColor) colorWrapper.classList.add("color-hidden");
 }
 
-function drawCharacter() {
-	render();
+function setDefaultColorForItem(itemName) {
+    const colorRegex = /^(default\s+)?(red|blue|navy|white|brown|black|green|yellow|purple|pink|orange|grey|gray|olive|tan|beige|cream|gold|silver)\s+(.+)$/i;
+    const match = itemName.match(colorRegex);
+    
+    if (match) {
+        const isDefault = !!match[1];
+        const colorName = match[2].toLowerCase();
+        const baseName = match[3];
+        
+        currentColorScheme[itemName] = colorName;
+        
+        if (!isDefault) {
+            const variants = dollAssets.filter(asset => {
+                const assetMatch = asset.name.match(colorRegex);
+                return assetMatch && 
+                       assetMatch[3] === baseName && 
+                       (asset.group === currentGroup || asset.baseGroup === currentGroup);
+            });
+            
+            const defaultVariant = variants.find(asset => asset.name.toLowerCase().includes('default'));
+            
+            if (defaultVariant) {
+                const defaultMatch = defaultVariant.name.match(colorRegex);
+                if (defaultMatch) {
+                    const defaultColor = defaultMatch[2].toLowerCase();
+                    currentColorScheme[itemName] = defaultColor;
+                    updateSelectionsByColor(defaultColor, itemName);
+                }
+            }
+        }
+    }
 }
 
-function generateDollImage() {
-	render();
+function findBackItems(asset) {
+    if (!asset) return [];
+    
+    const backItems = dollAssets.filter(a => 
+        a.name.toLowerCase().includes(' back') && 
+        a.name.toLowerCase().includes(asset.name.toLowerCase().replace(' back', '')) &&
+        (a.group === asset.group || a.baseGroup === asset.baseGroup)
+    );
+    
+    return backItems;
+}
 
-	// ! Image generation
-	const allLayers = getLayers();
+function formatDisplayName(name) {
+    // Remove layer numbers from display name
+    name = name.replace(/\s\d+$/, '');
+    
+    const colorRegex = /^(default\s+)?(red|blue|navy|white|brown|black|green|yellow|purple|pink|orange|grey|gray|olive|tan|beige|cream|gold|silver)\s+(.+)$/i;
+    const match = name.match(colorRegex);
+    
+    if (match) {
+        return match[3].charAt(0).toUpperCase() + match[3].slice(1);
+    }
+    
+    return name.charAt(0).toUpperCase() + name.slice(1);
+}
+
+function groupAssetsByBaseName() {
+    const groups = {};
+    const colorRegex = /^(default\s+)?(red|blue|navy|white|brown|black|green|yellow|purple|pink|orange|grey|gray|olive|tan|beige|cream|gold|silver)\s+(.+)$/i;
+    
+    dollAssets
+        .filter(asset => 
+            (asset.group === currentGroup || asset.baseGroup === currentGroup) && 
+            !asset.isComponent &&
+            !asset.name.toLowerCase().includes(' back')
+        )
+        .forEach(asset => {
+            const match = asset.name.match(colorRegex);
+            if (match) {
+                const baseName = match[3].toLowerCase();
+                if (!groups[baseName]) groups[baseName] = [];
+                groups[baseName].push(asset);
+            } else {
+                if (!groups[asset.name.toLowerCase()]) groups[asset.name.toLowerCase()] = [];
+                groups[asset.name.toLowerCase()].push(asset);
+            }
+        });
+    
+    return groups;
+}
+
+function getSelectedBaseItem() {
+    if (!groupSelections[currentGroup]) return null;
+    
+    return groupSelections[currentGroup].find(name => {
+        const asset = dollAssets.find(a => a.name === name && (a.group === currentGroup || a.baseGroup === currentGroup));
+        return asset && !asset.isComponent && !name.toLowerCase().includes(' back');
+    });
+}
+
+function setColorScheme(colorName, itemName) {
+    if (!itemName) return;
+    
+    currentColorScheme[itemName] = colorName;
+    updateSelectionsByColor(colorName, itemName);
+    
+    renderNav();
+    dollsMain(true);
+}
+
+function setMaskColor(name, color) {
+	if (!dataUrls[name]) return;
+	if (!color) return;
 
 	const canvas = document.createElement("canvas");
 	const ctx = canvas.getContext("2d");
-	const [width, height] = window.innerWidth > 800 ? [3000, 4500] : [1500, 2250];
-	canvas.width = width;
-	canvas.height = height;
 
-	for (const asset of allLayers) {
-		const imgs = asset.img.layers ? asset.img.layers : [asset.img];
+	const img = imgs[name];
+	if (!img) return;
 
-		for (const img of imgs) {
-			if (groupColors[asset.group] && !img.noColor) {
-				// Create new canvas to mask over
-				const c2 = document.createElement("canvas");
-				const ctx2 = c2.getContext("2d");
-				c2.width = canvas.width;
-				c2.height = canvas.height;
-
-				ctx2.drawImage(img, 0, 0, canvas.width, canvas.height);
-				ctx2.globalCompositeOperation = "source-in";
-				ctx2.fillStyle = asset.img.mask;
-				ctx2.fillRect(0, 0, canvas.width, canvas.height);
-
-				// Draw to final canvas
-				ctx.drawImage(c2, 0, 0, canvas.width, canvas.height);
-			} else {
-				// Just draw it straight
-				ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
-			}
-		}
-	}
-
-	return canvas;
-}
-
-async function downloadDollImage(writeToClipboard = false) {
-	const copyText = document.querySelectorAll(".copy-link .text");
-	const downloadText = document.querySelectorAll(".download-link .text");
-	if (writeToClipboard) {
-		for (const text of copyText) {
-			text.innerText = "Working...";
-		}
-	} else {
-		for (const text of downloadText) {
-			text.innerText = "Working...";
-		}
-	}
-
-	setTimeout(() => {
-		// Get canvas
-		const canvas = generateDollImage();
-
-		// Download image
-		if (writeToClipboard) {
-			const item = new ClipboardItem({
-				"image/png": new Promise(async (resolve) => {
-					canvas.toBlob((blob) => {
-						resolve(blob, { type: "image/png" });
-					});
-				}),
-			});
-			navigator.clipboard.write([item]);
-		} else {
-			download(canvas);
-		}
-
-		for (const text of downloadText) {
-			text.innerText = "Download Image";
-		}
-		for (const text of copyText) {
-			text.innerText = "Copy Image to Clipboard";
-		}
-	}, 100);
-}
-
-async function downloadDollFace(evt) {
-	console.log(evt);
-	const text = evt.currentTarget.querySelector(".text");
-	text.innerText = "Working...";
-
-	setTimeout(() => {
-		// Generate full image
-		const full = generateDollImage();
-
-		// Generate face-mask
-		const squareSize = full.width / 2.5;
-		const canvas = document.createElement("canvas");
-		const ctx = canvas.getContext("2d");
-		canvas.width = squareSize;
-		canvas.height = squareSize;
-
-		// Draw face img
-		ctx.translate(-full.width / 2, -full.height / 15);
-		ctx.drawImage(full, squareSize / 2, 0);
-
-		// Download image
-		download(canvas, "Profile Picture");
-
-		text.innerText = "Download Profile Picture";
-	}, 100);
-}
-
-function download(canvas, fileName = "Character") {
-	const a = document.createElement("a");
-	a.href = canvas.toDataURL();
-	a.download = `${fileName}.png`;
-	a.click();
-}
-
-function getLayers() {
-	const layers = Object.entries(groupSelections)
-		.flatMap(([group, itemNames]) => {
-			const allItems = dollAssets.filter(
-				(asset) => asset.group === group && itemNames.includes(asset.name)
-			);
-			return allItems.flatMap((t) =>
-				t.layers.map((layer) => {
-					return {
-						...layer,
-						...t,
-						layers: undefined,
-					};
-				})
-			);
-		})
-		.filter(Boolean)
-		.sort((a, b) => a.layer - b.layer);
-
-	return layers;
-}
-
-function render() {
-	// Find all layers for every single selected asset and sort them by their z-index
-	const allLayers = getLayers();
-
-	// Clear "canvas"
-	const wrapper = document.querySelector(".dolls-canvas-inner");
-	wrapper.innerHTML = "";
-
-	// Draw all layers
-	for (const asset of allLayers) {
-		const layer = document.createElement("div");
-		layer.classList.add("layer");
-
-		const layers = asset.img.layers ? asset.img.layers : [asset.img];
-
-		for (const img of layers) {
-			if (groupColors[asset.group] && !img.noColor) {
-				const d = document.createElement("div");
-				d.classList.add("mask");
-
-				// Convert mask image to data url
-				const dataUrl = getDataUrl(img);
-				d.id = img.src;
-
-				// Define the URL and mask in general
-				d.setAttribute(
-					"style",
-					`
-					--url: url('${dataUrl}');
-					background: ${asset.img.mask};
-				`
-				);
-
-				layer.appendChild(d);
-			} else {
-				layer.appendChild(img);
-			}
-		}
-
-		wrapper.appendChild(layer);
-	}
-}
-
-function getDataUrl(img) {
-	if (dataUrls[img.src]) return dataUrls[img.src];
-	// Get data URL from image
-	const canvas = document.createElement("canvas");
 	canvas.width = img.width;
 	canvas.height = img.height;
 
-	const ctx = canvas.getContext("2d");
 	ctx.drawImage(img, 0, 0);
 
-	const dataUrl = canvas.toDataURL();
-	dataUrls[img.src] = dataUrl;
+	ctx.globalCompositeOperation = "source-in";
+	ctx.fillStyle = color;
+	ctx.fillRect(0, 0, canvas.width, canvas.height);
 
-	// Clean up canvas
-	canvas.width = 1;
-	canvas.height = 1;
-	ctx.clearRect(0, 0, 1, 1);
+	dataUrls[name] = canvas.toDataURL();
+}
 
-	return dataUrl;
+function drawCharacter() {
+	if (redrawDebounce) clearTimeout(redrawDebounce);
+
+	redrawDebounce = setTimeout(() => {
+		render();
+	}, 100);
 }
 
 function dollsMain(redraw = true) {
@@ -1184,49 +982,178 @@ function dollsMain(redraw = true) {
 			.forEach((el) => el.classList.remove("hidden"));
 	}
 
+	if (!window._colorSchemesInitialized) {
+		for (const [group, selections] of Object.entries(groupSelections)) {
+			if (selections && selections.length > 0) {
+				const baseItem = selections.find(itemName => {
+					const asset = dollAssets.find(a => a.name === itemName && (a.group === group || a.baseGroup === group));
+					return asset && !asset.isComponent && !itemName.toLowerCase().includes(' back');
+				});
+				
+				if (baseItem) {
+					setDefaultColorForItem(baseItem);
+				}
+			}
+		}
+		window._colorSchemesInitialized = true;
+	}
+
+	// Create gender toggle if it doesn't exist
+	if (!document.querySelector('.gender-toggle')) {
+		createGenderToggle();
+	} else if (redraw) {
+		updateGenderToggle();
+	}
+
 	renderNav();
 	renderOptions();
 	if (redraw) drawCharacter();
 }
 
-function maskImg(path, mask, maskName = "mask", noColor = false) {
-	path = `${path}${path.endsWith("/") ? "" : "/"}`;
-
-	const layers = [];
-	if (maskName) layers.push(img(`${path}${maskName}.png`, noColor));
-	layers.push(img(`${path}outline.png`));
-
-	return {
-		layers,
-		mask,
-		setColor(t) {
-			this.mask = t;
-		},
-	};
-}
-
-function img(src, noColor = true) {
-	if (imgs[src]) return imgs[src];
-	const img = new Image();
-	img.src = src;
-	img.setAttribute("no-color", noColor);
-	img.noColor = noColor;
-
-	imgs[src] = img;
-
-	return imgs[src];
-}
-
-function promiseify(img) {
-	return new Promise((resolve) => {
-		if (img.complete && img.src) resolve(img);
-		img.addEventListener("load", () => {
-			resolve(img);
+// Initialize
+document.addEventListener("DOMContentLoaded", () => {
+	try {
+		loadDollAssets();
+		
+		document.querySelector(".nav-nav-button.nav-previous").addEventListener("click", () => {
+			const currentIndex = uniqueGroups.indexOf(currentGroup);
+			if (currentIndex > 0) {
+				currentGroup = uniqueGroups[currentIndex - 1];
+				dollsMain();
+			}
 		});
-	});
+
+		document.querySelector(".nav-nav-button.nav-next").addEventListener("click", () => {
+			const currentIndex = uniqueGroups.indexOf(currentGroup);
+			if (currentIndex < uniqueGroups.length - 1) {
+				currentGroup = uniqueGroups[currentIndex + 1];
+				dollsMain();
+			}
+		});
+
+		dollsMain();
+	} catch (error) {
+		console.error("Initialization failed:", error);
+		document.querySelector(".dolls-loading").textContent = "Failed to load doll assets. Please check the console for errors.";
+	}
+});
+
+
+function generateDollImage() {
+    const canvas = document.createElement("canvas");
+    const ctx = canvas.getContext("2d");
+    
+    // Set canvas size based on window width
+    const [width, height] = window.innerWidth > 800 ? [3000, 4500] : [1500, 2250];
+    canvas.width = width;
+    canvas.height = height;
+
+    // Draw all layers
+    getLayers()
+        .sort((a, b) => a.layer - b.layer)
+        .forEach(layer => {
+            const img = new Image();
+            img.src = layer.path;
+            
+            if (layer.mask) {
+                // Create color mask
+                const maskCanvas = document.createElement("canvas");
+                const maskCtx = maskCanvas.getContext("2d");
+                maskCanvas.width = width;
+                maskCanvas.height = height;
+                
+                maskCtx.drawImage(img, 0, 0, width, height);
+                maskCtx.globalCompositeOperation = 'source-in';
+                maskCtx.fillStyle = layer.color;
+                maskCtx.fillRect(0, 0, width, height);
+                
+                ctx.drawImage(maskCanvas, 0, 0);
+            } else {
+                ctx.drawImage(img, 0, 0, width, height);
+            }
+        });
+
+    return canvas;
 }
 
-window.addEventListener("load", () => {
-	defineAssets();
-	dollsMain();
-});
+async function downloadDollImage(writeToClipboard = false) {
+    const copyText = document.querySelectorAll(".copy-link .text");
+    const downloadText = document.querySelectorAll(".download-link .text");
+    
+    if (writeToClipboard) {
+        copyText.forEach(text => text.innerText = "Working...");
+    } else {
+        downloadText.forEach(text => text.innerText = "Working...");
+    }
+
+    setTimeout(() => {
+        const canvas = generateDollImage();
+
+        if (writeToClipboard) {
+            const item = new ClipboardItem({
+                "image/png": new Promise(async (resolve) => {
+                    canvas.toBlob((blob) => {
+                        resolve(blob, { type: "image/png" });
+                    });
+                }),
+            });
+            navigator.clipboard.write([item]);
+        } else {
+            download(canvas);
+        }
+
+        downloadText.forEach(text => text.innerText = "Download Image");
+        copyText.forEach(text => text.innerText = "Copy Image to Clipboard");
+    }, 100);
+}
+
+async function downloadDollFace(evt) {
+    const text = evt.currentTarget.querySelector(".text");
+    text.innerText = "Working...";
+
+    setTimeout(() => {
+        const full = generateDollImage();
+        const squareSize = full.width / 2.5;
+        const canvas = document.createElement("canvas");
+        const ctx = canvas.getContext("2d");
+        canvas.width = squareSize;
+        canvas.height = squareSize;
+
+        ctx.translate(-full.width / 2, -full.height / 15);
+        ctx.drawImage(full, squareSize / 2, 0);
+
+        download(canvas, "Profile Picture");
+        text.innerText = "Download Profile Picture";
+    }, 100);
+}
+
+function download(canvas, fileName = "Character") {
+    const a = document.createElement("a");
+    a.href = canvas.toDataURL();
+    a.download = `${fileName}.png`;
+    a.click();
+}
+
+
+function renderColorPalette(container, colors, itemName) {
+    container.innerHTML = '';
+    
+    for (const [colorName, colorHex] of Object.entries(colors)) {
+        const circle = document.createElement("div");
+        circle.classList.add("color-circle");
+        circle.setAttribute("style", `--color: ${colorHex}`);
+        circle.setAttribute("data-color-name", colorName);
+        
+        if (currentColorScheme[itemName] === colorName) {
+            circle.classList.add("active");
+        }
+        
+        circle.addEventListener("click", () => {
+            container.querySelectorAll(".color-circle").forEach(c => c.classList.remove("active"));
+            circle.classList.add("active");
+            setColorScheme(colorName, itemName);
+        });
+        
+        container.appendChild(circle);
+    }
+}

@@ -19,7 +19,7 @@ In addition to rail planning, safety and regulation, the bureau also controls [[
 
 Including VNR, the Bureau of Rail is consequently one of the largest rail transport organisations in the world, rivalling much larger countries with the density and ubiquity of Vekllei track. Almost every Vekllei republic maintains some kind of rail service, ranging from miniature trams and industrial sidings to bullet trains and maglevs.
 
-{{<note panel>}}
+{{<note>}}
 
 ## Executive Council
 
@@ -34,7 +34,7 @@ Including VNR, the Bureau of Rail is consequently one of the largest rail transp
 * **Chief Scientist**, [[Transport Laboratories]]
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Departments
 
 * **General Council**: Advisory board to the [[Ministry of the Commons]].
@@ -48,7 +48,7 @@ Including VNR, the Bureau of Rail is consequently one of the largest rail transp
 	* Office of Rail Heritage
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Boards & Commissions
 
 * **[[CommRail]]**: National rail company and service operator.

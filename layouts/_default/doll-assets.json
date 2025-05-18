@@ -1,0 +1,12 @@
+{{- $path := .File.Dir -}}
+{{- $files := readDir (printf "static/doll-assets/%s" $path) -}}
+{
+  "files": [
+    {{- range $index, $file := $files -}}
+      {{- if and (not $file.IsDir) (or (strings.HasSuffix $file.Name ".png") (strings.HasSuffix $file.Name ".jpg")) -}}
+        {{- if $index }},{{ end -}}
+        "{{ printf "%s%s" $path $file.Name }}"
+      {{- end -}}
+    {{- end -}}
+  ]
+}

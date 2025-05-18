@@ -4,7 +4,6 @@ fulltitle: Bureau of Trade
 icon: 🏛️
 color: commerce
 logo: /svg/crests/ministry-of-commerce.svg
-autonumbering: false
 series: bureau
 
 fi: fi fi-min-commerce fis
@@ -15,8 +14,8 @@ aliases:
 ---
 The <span class="fi fi-min-commerce fis"></span> **Bureau of Trade** regulates consumer protections and antitrust law in [[Vekllei]], and organises trade information from other ministries and supervisory bureaus into policy recommendations and legislation. The Trade Commission also monitors and reports the health of foreign markets, and conducts research into broader geopolitical financial interests, particularly as they compete with domestic interests. It is part of the [[Ministry of Commerce]], and reports primarily to the [[commonwealth-treasury|Treasury]].
 
-{{<note panel>}}
-#### Executive Council
+{{<note>}}
+## Executive Council
 
 * **Director**, [[Bureau of Trade]]
 	* Secretary for Trade
@@ -30,8 +29,8 @@ The <span class="fi fi-min-commerce fis"></span> **Bureau of Trade** regulates c
 * **Executive**, [[commonwealth-securities-exchange|Commsec]]
 {{</note>}}
 
-{{<note panel>}}
-#### Departments
+{{<note>}}
+## Departments
 
 * **Department of Consumer Affairs**: Regulation of the consumer entitlements and protections.
 * **Department of Market Affairs**: Protection of fair markets and regulation of industrial and petty bureau companies, including state monopolies.
@@ -44,8 +43,8 @@ The <span class="fi fi-min-commerce fis"></span> **Bureau of Trade** regulates c
 * **National Tourism Bureau**: Promotion, research, facilitation and branding of domestic and international travel.
 {{</note>}}
 
-{{<note panel>}}
-#### Boards & Commissions
+{{<note>}}
+## Boards & Commissions
 
 * **National Consumer Affairs Commission**: Administration and protection of consumer rights.
 * **National Patent & Trademark Office**: Registration authority for commercial patents and marks.

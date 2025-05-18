@@ -47,7 +47,7 @@ Maritime and tropical, complicated by a range of microclimates amidst its formid
 {{</note>}}
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Martyrs' Day **3 Feb**

@@ -1,0 +1,56 @@
+<script id="doll-assets-data" type="application/json">
+{{- $assets := slice -}}
+{{- range $gender := readDir "static/doll-assets" -}}
+  {{- if and (not (hasPrefix $gender.Name ".")) ($gender.IsDir) (ne $gender.Name "bg") -}}
+    {{- range $group := readDir (printf "static/doll-assets/%s" $gender.Name) -}}
+      {{- if and (not (hasPrefix $group.Name ".")) ($group.IsDir) -}}
+        {{- $groupName := replaceRE "^\\d+\\.?" "" $group.Name -}}
+        {{- /* First check for base items in the group directory */ -}}
+        {{- range $item := readDir (printf "static/doll-assets/%s/%s" $gender.Name $group.Name) -}}
+          {{- if not (hasPrefix $item.Name ".") -}}
+            {{- if $item.IsDir -}}
+              {{- /* Handle components in subdirectories */ -}}
+              {{- $componentType := $item.Name -}}
+              {{- range $componentItem := readDir (printf "static/doll-assets/%s/%s/%s" $gender.Name $group.Name $item.Name) -}}
+                {{- if not (hasPrefix $componentItem.Name ".") -}}
+                  {{- $baseName := replaceRE "\\..*$" "" $componentItem.Name -}}
+                  {{- $cleanName := humanize $baseName -}}
+                  {{- $asset := dict 
+                    "group" (printf "%s/%s" $groupName $componentType)
+                    "name" $cleanName
+                    "gender" $gender.Name
+                    "isComponent" true
+                    "baseGroup" $groupName
+                    "componentType" $componentType
+                    "layers" (slice (dict 
+                      "layer" 20
+                      "img" (printf "/doll-assets/%s/%s/%s/%s" $gender.Name $group.Name $componentType $componentItem.Name)
+                    ))
+                  -}}
+                  {{- $assets = $assets | append $asset -}}
+                {{- end -}}
+              {{- end -}}
+            {{- else -}}
+              {{- /* Handle base items */ -}}
+              {{- $baseName := replaceRE "\\..*$" "" $item.Name -}}
+              {{- $cleanName := humanize $baseName -}}
+              {{- $asset := dict 
+                "group" $groupName
+                "name" $cleanName
+                "gender" $gender.Name
+                "isComponent" false
+                "layers" (slice (dict 
+                  "layer" 10
+                  "img" (printf "/doll-assets/%s/%s/%s" $gender.Name $group.Name $item.Name)
+                ))
+              -}}
+              {{- $assets = $assets | append $asset -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $assets | jsonify | safeJS -}}
+</script>

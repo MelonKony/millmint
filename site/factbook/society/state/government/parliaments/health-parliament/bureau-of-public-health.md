@@ -16,7 +16,7 @@ The <span class="fi fi-min-health fis"></span> **Bureau of Public Health** admin
 
 The bureau is vertically integrated, and administers all healthcare support services including ambulances, general practitioners, pharmacies, home care and logistics staff. In most cases, these are operated locally by a municipal healthcare district administered directly by the bureau.
 
-{{<note panel>}}
+{{<note>}}
 ## Executive Council
 
 * **Director**, [[Bureau of Public Health]]
@@ -35,7 +35,7 @@ The bureau is vertically integrated, and administers all healthcare support serv
 * **Parliamentary Representative**, [[Health Parliament]]
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Departments
 * **General Headquarters**
     * Office of the Director
@@ -82,7 +82,7 @@ The bureau is vertically integrated, and administers all healthcare support serv
 
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Boards & Commissions
 
 * **National Genomics Laboratories**: Specialist hospital for gene research and treatment.

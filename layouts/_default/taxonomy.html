@@ -18,20 +18,28 @@
           {{- partial "components/link-preview.html" . -}}
           
           <br>
-          <details open>
-            <summary><span class="navicon details-title"></span><a href="#">{{ .Title }}</a></summary>
-            <ul>
-              {{ range .Data.Terms.Alphabetical }}
-              <li>
-                <a class="slink" href="{{ .Page.RelPermalink }}">
-                  <span class="navicon"></span> 
-                  {{ .Page.Title }} 
-                  <small>({{ .Count }} {{ if eq .Count 1 }}entry{{ else }}entries{{ end }})</small>
+          <h2>{{ .Title }}</h2>
+          
+          <!-- Display posts for this specific taxonomy term -->
+          <ul class="postcard-grid">
+            {{ range .Pages }}
+              <li class="card">
+                <a href="{{ .Permalink }}">
+                  <div class="postcard-meta">
+                    <h2 class="title">{{ .Title }}</h2>
+                    {{ if .Date }}
+                      <div class="date">{{ .Date.Format "Jan 2, 2006" }}</div>
+                    {{ end }}
+                  </div>
+                  {{ if .Params.image }}
+                  <figure class="postcard-image">
+                    <img class="page" src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+                  </figure>
+                  {{ end }}
                 </a>
               </li>
-              {{ end }}
-            </ul>
-          </details>
+            {{ end }}
+          </ul>
         </div>
         
       </section>

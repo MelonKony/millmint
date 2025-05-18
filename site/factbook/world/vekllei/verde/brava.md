@@ -47,7 +47,7 @@ Moderate and dry, with a cooler mountainous interior.
 {{</note>}}
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Heroes Day **20 Jan**

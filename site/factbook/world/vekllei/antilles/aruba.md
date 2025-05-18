@@ -43,7 +43,7 @@ Aruba is a cultural hub, and is famous for its old-world shows and events. Balle
 Locals get around the island via the Aruba Tramway, a series of tram lines famous for their open-air and double-decker trams. They start in Playa and stretch north and south, connecting the villages of Paradera, San Nicholas and Nord to the capital. There is an international airport just south of the capital. Ferries offer hydrofoil service to the other ABC islands.
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Good Friday **30 Apr**

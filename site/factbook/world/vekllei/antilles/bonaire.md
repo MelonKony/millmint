@@ -43,7 +43,7 @@ Agriculture in Bonaire is limited by its shortage of fresh water, and sustains o
 A railway runs from the town of Rincon to the capital of Coral, and then south towards the salt walks. There is a local tram network and airport in Coral, as well as ferry service to Curacao.
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Good Friday **30 Apr**

@@ -20,7 +20,7 @@ Departments of the Treasury inform the monetary policy established by the [[Comm
 
 The Treasury is lead by the State Secretary for the Treasury, a member of the [cabinet](/cabinet/), but is governed by the Treasurer. Its departments are mostly autonomous, and coordinate through the Department of the Treasury.
 
-{{<note panel>}}
+{{<note>}}
 #### Executive Council
 
 * **State Secretary**, [[commonwealth-treasury|Treasury]]
@@ -38,7 +38,7 @@ The Treasury is lead by the State Secretary for the Treasury, a member of the [c
 * **Director**, [[commonwealth-securities-exchange|Commsec]]
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 #### Departments
 
 * **Department of the Treasury**: General department and office of the Treasurer.
@@ -67,7 +67,7 @@ The Treasury is lead by the State Secretary for the Treasury, a member of the [c
 * **Department of Economic Information**: Compilation of economics data in cooperation with the [[Bureau of Statistics]].
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 #### Boards & Commissions
 
 * **Community Development Board**: Special investment vehicle for underprivileged Commonwealth communities.

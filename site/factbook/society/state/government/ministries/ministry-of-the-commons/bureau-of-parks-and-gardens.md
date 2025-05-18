@@ -18,7 +18,7 @@ Vekllei is known for its bright, clean garden cities, and the Bureau of Parks & 
 
 The bureau works at all scales, from large-scale landscaping projects to flower-arranging and the interior courtyards of municipal buildings. It is a popular alternative for conscripts undergoing [compulsory service](/corsosva/) who wish to exclude themselves from military service.
 
-{{<note panel>}}
+{{<note>}}
 ## Executive Council
 
 * **Director**, [[Bureau of Parks and Gardens]]
@@ -33,7 +33,7 @@ The bureau works at all scales, from large-scale landscaping projects to flower-
 * **Chairman**, Vekllei Parks Commission
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Departments
 * **Department of Gardens & Smallholdings**: Planning of community gardens and spaces for light agriculture and their integration into Vekllei neighbourhoods.
     * Office of the Architect
@@ -52,7 +52,7 @@ The bureau works at all scales, from large-scale landscaping projects to flower-
     * Office of Maintenance
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Boards & Commissions
 
 * **Vekllei Parks Commission**: Operator of Vekllei zoos and gated parks.

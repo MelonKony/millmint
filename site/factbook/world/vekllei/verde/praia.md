@@ -50,7 +50,7 @@ Sal receives about 350 days of sunshine a year, and is among the sunniest places
 {{</note>}}
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Heroes Day **20 Jan**

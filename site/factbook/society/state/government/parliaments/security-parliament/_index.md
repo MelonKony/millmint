@@ -17,7 +17,7 @@ aliases:
 
 The *Commonwealth Security Secretariat* (OPSEC) is the mother organisation of the internal and external security organs of the Commonwealth government. Its mission includes intelligence gathering, espionage, special policing, and state security. It is headed by the Secretary of Security, and reports directly to the [[directory|Commonwealth Directory]].
 
-{{<note panel>}}
+{{<note>}}
 ### Public Security Directorate
 
 The *Public Security Directorate* (Cosevac, or POSEC) is primarily tasked with intelligence related to public security, and is closely linked to the domestic intelligence-gathering activities of [HO/NI](#home-office-honi). POSEC is a directorate that primarily services the interests of the public, which distinguishes it from [National Intelligence](#national-intelligence-directorate) amd [SESEC](#state-security-directorate). To this end, it coordinates closely with the [[Police of the Parliament]] to conduct operations against terrorism, smuggling, organised crime and civil unrest.
@@ -29,7 +29,7 @@ The *Public Security Directorate* (Cosevac, or POSEC) is primarily tasked with i
 
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ### State Security Directorate
 
 The *State Security Directorate* (Vosevisi, or SESEC) is primarily responsible for the security of the state itself, including all Vekllei parliaments, its ministries, secretariats and features, and its civil service and employees. It monitors, investigates and eliminates threats within and without the [Vekllei Government](/factbook/society/state/government/) and [Palace](/factbook/society/state/palace/), and controls privileged information of the Vekllei parliaments.

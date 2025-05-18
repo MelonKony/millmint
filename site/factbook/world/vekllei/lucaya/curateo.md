@@ -45,7 +45,7 @@ Warm and winterless, with tropical humidity moderated by the Atlantic Ocean. Exp
 {{</note>}}
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Good Friday

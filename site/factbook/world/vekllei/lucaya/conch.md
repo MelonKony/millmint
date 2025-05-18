@@ -44,7 +44,7 @@ Hot and wet, alleviated by strong breezes. Tropical storms and cyclones ravage t
 {{</note>}}
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Republic Day **2 Mar**

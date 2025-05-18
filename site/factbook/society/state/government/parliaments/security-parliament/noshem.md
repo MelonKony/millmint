@@ -18,7 +18,7 @@ The <span class="fi fi-min-noshem fis"></span> **Commonwealth Intelligence Servi
 
 Noshem is unique in its broad recruitment of foreigners, many of whom are promised citizenship and residency in Vekllei. Many Noshem outlines recruit locally, and manage foreign assets through Vekllei-born supervisors.
 
-{{<note panel>}}
+{{<note>}}
 ## Executive Council
 
 * **The [[directory|Commonwealth Directory]]**, [[Vekllei]]
@@ -31,7 +31,7 @@ Noshem is unique in its broad recruitment of foreigners, many of whom are promis
 * **Senior Analyst**, [[DIE|Defence Imagery Establishment]]
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## General Headquarters
 * **Department of Analysis**
 	* Office of General Policy
@@ -57,7 +57,7 @@ Noshem is unique in its broad recruitment of foreigners, many of whom are promis
 	* Office of the Security Parliament
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Intelligence Outlines & Sections
 * **Home Office (HO/NI)**: The *Home Office* at *National Intelligence* (HO/NI) is the domestic intelligence organisation of [[Vekllei]], including the Home Islands.
 
@@ -118,7 +118,7 @@ Noshem is unique in its broad recruitment of foreigners, many of whom are promis
 	* **Section 40 *Endoria***: Offices and staff in Vekllei space and lunar territories.
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Boards & Commissions
 
 * **Intelligence Audit Authority**: Secure independent intelligence watchdog with high control access.

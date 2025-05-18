@@ -16,7 +16,7 @@ aliases:
 ---
 The *Bureau of Policy Research* conducts research and prepares policy objectives for use in Commonwealth governance, and determines the curriculum of the [[Civil Service Academy]] and other civil service training organisations.
 
-{{<note panel>}}
+{{<note>}}
 #### Departments
 
 * **Department of General Research**: Flexible, reactive policy and long-term research objectives.

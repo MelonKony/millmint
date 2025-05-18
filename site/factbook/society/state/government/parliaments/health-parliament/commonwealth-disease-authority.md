@@ -16,7 +16,7 @@ The <span class="fi fi-min-health fis"></span> **Commonwealth Disease Authority*
 
 The CDA conducts extensive field work through its Epidemic Intelligence Service and World Health Research Organisation. It also has special powers allowing it to implement short-term quarantines and mobilise the public health system.
 
-{{<note panel>}}
+{{<note>}}
 ## Executive Council
 
 * **Director**, [[Commonwealth Disease Authority]]
@@ -29,7 +29,7 @@ The CDA conducts extensive field work through its Epidemic Intelligence Service 
 * **Deputy Minister**, [[Health Parliament]]
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Departments
 * **General Headquarters**
     * Office of Statistics
@@ -44,7 +44,7 @@ The CDA conducts extensive field work through its Epidemic Intelligence Service 
 * **Department of Transmissible Diseases**
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Boards & Commissions
 
 * **Epidemic Intelligence Service**:

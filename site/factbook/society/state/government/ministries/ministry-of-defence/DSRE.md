@@ -18,7 +18,7 @@ The <span class="fi fi-min-dsre fis"></span> **Commonwealth Defence Science Rese
 
 The DSRE has extensive connections throughout the Commonwealth defence industry, and regularly collaborates with industry here and abroad. It is a major contributor to Vekllei sciences and several DSRE inventions have trickled down to the public, including the permanent pleat and instaskin.
 
-{{<note panel>}}
+{{<note>}}
 ## Executive Council
 
 * **Director**, [[DSRE]]
@@ -31,7 +31,7 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
 * **Director**, [[SIRO]]
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Departments
 * **General Headquarters**
 	* Office of Control Authority
@@ -77,7 +77,7 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
 	* Defence Territorial Laboratories
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Boards & Commissions
 
 * **DSRE Industry Board**: Partner representatives from industry for public-private research.

@@ -22,7 +22,7 @@ The Vekllei Health Network (VHN) is the body that actually supplies and supports
 
 Each constituent and republic has its own Local Health Network, which cascade in a decentralised system to ensure universal coverage. The VHN is divided into six regions at a federal level.
 
-{{<note panel>}}
+{{<note>}}
 **Regions of the Vekllei Health Network**
 
 * North Atlantic Healthcare District
@@ -35,7 +35,7 @@ Each constituent and republic has its own Local Health Network, which cascade in
 
 The VHN also links the public health system with industry boards, councils and accreditors. These councils advise the VHN directly to make process changes, bypassing the bureaucracy of the National Health Council.
 
-{{<note panel>}}
+{{<note>}}
 **Special Councils of the Vekllei Health Network**
 
 * Allied Health Professions Council

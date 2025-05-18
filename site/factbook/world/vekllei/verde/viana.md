@@ -45,7 +45,7 @@ Hot and dry, resembling a desert climate. It is warm year-round and receives lit
 {{</note>}}
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Heroes Day **20 Jan**

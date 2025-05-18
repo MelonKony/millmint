@@ -15,6 +15,25 @@ document.addEventListener('DOMContentLoaded', function () {
     };
     let viewMode = localStorage.getItem('viewMode') || 'infinite';
     
+    // --- Preselect filters based on URL ---
+    (function preselectFiltersFromURL() {
+        const pathParts = window.location.pathname.split('/').filter(Boolean);
+        // Example: /characters/tzipora
+        if (pathParts.length === 2) {
+            const [taxonomy, value] = pathParts;
+            // Map URL taxonomy to filter type
+            const taxonomyMap = {
+                'characters': 'character',
+                'tags': 'tag',
+                'categories': 'category'
+            };
+            const filterType = taxonomyMap[taxonomy];
+            if (filterType && value) {
+                activeFilters[filterType].add(decodeURIComponent(value));
+            }
+        }
+    })();
+
     // DOM elements and initialization - moved to the top
     const grid = document.getElementById('illustration-grid');
     const loadingSpinner = document.getElementById('loading-spinner');
@@ -86,6 +105,33 @@ document.addEventListener('DOMContentLoaded', function () {
         updatePillSection('tag-filters', [], 'tag', 'Tags');
         updatePillSection('character-filters', [], 'character', 'Characters');
         updatePillSection('category-filters', [], 'category', 'Categories');
+        updateActiveFiltersBar();
+    }
+
+    function updateActiveFiltersBar() {
+        const bar = document.getElementById('active-filters-bar');
+        const list = document.getElementById('active-filters-list');
+        list.innerHTML = '';
+        let hasActive = false;
+        for (const [type, set] of Object.entries(activeFilters)) {
+            set.forEach(value => {
+                hasActive = true;
+                const pill = document.createElement('button');
+                pill.className = 'taxonomy-pill active active-filter-pill';
+                pill.textContent = `${value}`;
+                pill.addEventListener('click', function() {
+                    activeFilters[type].delete(value);
+                    updateTaxonomyPills();
+                    applyFilters();
+                });
+                list.appendChild(pill);
+            });
+        }
+        if (hasActive) {
+            bar.style.display = '';
+        } else {
+            bar.style.display = 'none';
+        }
     }
 
     async function loadPageContent(pageNumber) {
@@ -465,6 +511,10 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         await initializeTaxonomies();
+
+        // Always update pills and apply filters after taxonomy initialization
+        updateTaxonomyPills();
+        applyFilters();
         
         if (viewToggle) {
             viewToggle.checked = viewMode === 'pagination';

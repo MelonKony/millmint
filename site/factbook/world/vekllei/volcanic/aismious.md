@@ -42,7 +42,7 @@ Cool and windy, approaching tundra at elevation. Temperatures are moderated by t
 {{</note>}}
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Good Friday

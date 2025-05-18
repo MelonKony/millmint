@@ -220,7 +220,6 @@ details {
     table-layout: auto; }
     @media screen and (max-width: 640px) {
       details table {
-        display: block;
         overflow-x: auto; } }
     details table td, details table th {
       padding-left: 0.75rem;
@@ -411,7 +410,6 @@ table {
   table-layout: auto; }
   @media screen and (max-width: 640px) {
     table {
-      display: block;
       overflow-x: auto; } }
   table td, table th {
     padding-left: 0.75rem;
@@ -684,17 +682,17 @@ article blockquote {
   background: var(--gray-light);
   border: none;
   font-style: normal; }
+  .note h1, .note h2, .note h3, .note h4, .note h5, .note h6 {
+    margin: 0;
+    font-size: 1.25rem;
+    line-height: 1.75rem; }
+  .note h1:before, .note h2:before, .note h3:before, .note h4:before, .note h5:before, .note h6:before {
+    color: var(--highlight, var(--gray-medium));
+    padding: 0.25rem; }
   .note.panel {
     background-color: var(--highlight-background, var(--gray-light));
     border: 1px solid var(--highlight, var(--gray-medium));
     padding: 1rem; }
-    .note.panel h1,
-    .note.panel h2,
-    .note.panel h3,
-    .note.panel h4,
-    .note.panel h5,
-    .note.panel h6 {
-      margin: 0; }
   .note.series {
     background-color: var(--highlight-background, var(--gray-light));
     background-size: 5px 5px;
@@ -763,23 +761,9 @@ article blockquote {
   padding: 0.5rem;
   background: transparent; }
 
-.note.link,
 .note.link {
   border: 1px solid var(--highlight, var(--gray-medium));
   background: none; }
-  .note.link h1,
-  .note.link h2,
-  .note.link h3,
-  .note.link h4,
-  .note.link h5,
-  .note.link h6,
-  .note.link h1,
-  .note.link h2,
-  .note.link h3,
-  .note.link h4,
-  .note.link h5,
-  .note.link h6 {
-    margin: 0; }
 
 .note.header {
   font-weight: 700;
@@ -1207,7 +1191,7 @@ html[data-theme="dark"] .locator-map img {
 .taxonomy-pill:hover {
   background: var(--highlight-background); }
 
-.taxonomy-pill.active {
+.taxonomy-pill.active, active-filter-pill {
   border: 1px solid var(--highlight, var(--gray-medium));
   background: var(--highlight);
   color: var(--main-background); }
@@ -1446,11 +1430,11 @@ article img {
     justify-self: center;
     align-self: center;
     list-style: none;
-    border: 2px solid var(--gray-medium, #737373);
+    border: 2px solid var(--gray-light);
     width: 100%;
     height: 400px;
     box-sizing: border-box;
-    background: var(--gray-light, #f0f0f6);
+    background: var(--gray-light);
     transition: ease 0.15s;
     position: relative;
     z-index: 2;
@@ -1509,7 +1493,7 @@ article img {
     .postcard-layout .postcard-meta .date {
       font-size: 0.875rem;
       line-height: 1.25rem;
-      color: var(--gray-heavy, #262626);
+      color: var(--gray-heavy);
       padding: 0px 10px 5px 5px; }
 
 .controls-row.note {
@@ -1517,7 +1501,8 @@ article img {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   display: flex;
-  align-items: center; }
+  align-items: center;
+  flex-wrap: wrap; }
 
 .checkbox-wrapper * {
   box-sizing: border-box;

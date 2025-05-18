@@ -45,7 +45,7 @@ Warm year-round, with a dry season between January and April and a wet season be
 {{</note>}}
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Spring Carnival

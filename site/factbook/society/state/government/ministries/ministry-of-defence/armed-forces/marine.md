@@ -33,6 +33,7 @@ The marine services are supported by a number of naval stations which provide fa
 * [[ns-oslola|Naval Station Oslola]], [[Oslola]]
 * [[ns-santes|Naval Station Santes]], [[Santes]]
 * [[ns-sude|Naval Station Sude]], [[Sude]]
+* [[ns-summers|Naval Station Summers]], [[Summers]]
 * [[ns-verde|Naval Station Verde]], [[Costa Verde]]
 
 ## Maritime Service

@@ -17,13 +17,13 @@ aliases:
 
 The *Commonwealth Culture Secretariat* (COLSEC) is concerned primarily with 'cultural values and beliefs' of the Commonwealth, their protection, and foreign relations. Its subordinate offices are dedicated to key areas of concern designed to assist its smaller member-states which may lack the political infrastructure to maintain their own offices.
 
-{{<note panel>}}
+{{<note>}}
 ### Commonwealth Central Archives
 
 The COLSEC *Commonwealth Affairs Office* (COLSA) is responsible for the documentation of the general disposition, welfare, culture and demography of the people of the Commonwealth. This includes political attitudes towards the Commonwealth itself, as well as how decisions made by other Secretariats impact public opinion. It is also the body-advocate of the public of member states who are unable to appeal to their local government directly.
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ### Commonwealth Affairs Office
 
 The COLSEC *Commonwealth Affairs Office* (COLSA) is responsible for the documentation of the general disposition, welfare, culture and demography of the people of the Commonwealth. This includes political attitudes towards the Commonwealth itself, as well as how decisions made by other Secretariats impact public opinion. It is also the body-advocate of the public of member states who are unable to appeal to their local government directly.
@@ -49,20 +49,20 @@ The COLSEC Cultural Heritage Affairs Office (COLSEHE)
 The COLSEC Overseas Affairs Office (COLSESEA) coordinates the foreign offices of the Commonwealth, particularly for states that lack their own foreign affairs offices in [Kalina](/factbook/landscape/territories/kalina) and the [West Antilles](/factbook/landscape/territories/west). It also serves as an advisory board for policy and trade with other countries, particularly as they interact with autonomous states.
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ### Commonwealth Records and Telegraph Directorate
 
 #### Commonwealth Press Bureau
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ### Commonwealth Sports Directorate
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ### Commonwealth Telecommunications Directorate
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ### Commonwealth Tourism Directorate
 {{</note>}}

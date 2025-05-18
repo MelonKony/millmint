@@ -50,7 +50,7 @@ Warm the year round. Rainy season from July to November. The capital is rather h
 {{</note>}}
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Mardi Gras **Feb**

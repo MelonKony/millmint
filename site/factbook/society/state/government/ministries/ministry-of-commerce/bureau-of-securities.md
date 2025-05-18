@@ -17,7 +17,7 @@ The <span class="fi fi-min-commerce fis"></span> **Bureau of Securities** (VECSE
 
 Since Vekllei citizens do not usually participate in the domestic securities markets, the bureau lacks traditional legal authority over many of the foreign participants in its supervised markets, but does extradite and prosecute financial crime through the EUROVEK and USVEK extradition treaties.
 
-{{<note panel>}}
+{{<note>}}
 #### Executive Council
 
 * **Director**, [[Bureau of Securities]]
@@ -31,7 +31,7 @@ Since Vekllei citizens do not usually participate in the domestic securities mar
 * **Assistant Secretary**, [[Bureau of Trade]]
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 #### Departments
 
 * **General Council**: Advisory board to the Commonwealth.
@@ -42,7 +42,7 @@ Since Vekllei citizens do not usually participate in the domestic securities mar
 * **Department of Investments and Trusts**: Regulation and monitoring of the investments, securities and financial contracts of Vekllei citizens and companies.
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 #### Boards & Commissions
 
 * **National Patent & Trademark Office**: Registration authority for commercial patents and marks.

@@ -12,7 +12,7 @@ description: The Commonwealth Public Press is an independent publishing house pr
 aliases:
 - /commonwealth-public-press/
 ---
-{{<note panel>}}
+{{<note>}}
 **Standards Press of Vekllei**
 
 The *Standards Press* is a publishing house organised vertically in the [<span class="fi fi-min-commonwealth fis"></span> Bureau of Standards](/bureau-of-standards/) to prepare and publish materials including technical manuals, standard compilation books, and industrial bulletins.

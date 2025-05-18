@@ -17,7 +17,7 @@ The <span class="fi fi-min-commons fis"></span> **Bureau of Housing** plans, con
 
 The Bureau of Housing may represent the public in court proceedings over ownership. It also employs [investigators](/stories/inspectors/) to determine stewardship of land and its current use. The bureau is also partly responsible for integration of migrant communities into Vekllei cities, by mixing cultural groups through programmes designed to incentivise multicultural neighbourhoods.
 
-{{<note panel>}}
+{{<note>}}
 ## Executive Council
 
 * **Director**, [[Bureau of Housing]]
@@ -38,7 +38,7 @@ The Bureau of Housing may represent the public in court proceedings over ownersh
 * **Advocate**, Commonwealth Institute for Municipalism
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Departments
 * **Department of Architecture & Planning**: Planning of neighbourhoods and cities, as well as their design and quality standards.
 	* Office of Architecture & Design
@@ -58,7 +58,7 @@ The Bureau of Housing may represent the public in court proceedings over ownersh
 	* Office of Renewal
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Boards & Commissions
 
 * **[[Housing Commission]]**: Public housing authority.

@@ -28,7 +28,7 @@ The All Ordinaries is rebalanced annually, whereas the CRC/CSX 50 is rebalanced 
 
 The CSX maintains systems to aid foreign investment, and is often characterised as the entry point to the Vekllei industrial economy. Since most Vekllei people are unbanked and do not handle money, the CSX is primarily a mechanism for government, industry, and private foreign investors.
 
-{{<note panel>}}
+{{<note>}}
 #### Executive Council
 
 * **Director**, [[commonwealth-securities-exchange|Commsec]]
@@ -41,7 +41,7 @@ The CSX maintains systems to aid foreign investment, and is often characterised 
 * **Executive**, [[ratings|Ratings Corporation]]
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 #### Constituent Markets
 
 * **CSX Equity Market**: 8th-largest equity market worldwide, with an average of ❦VK 700 billion secondary trading daily. The CSX equity market currently retains a market capitalisation of ❦VK 600 trillion.
@@ -50,7 +50,7 @@ The CSX maintains systems to aid foreign investment, and is often characterised 
 * **CSX Foreign Exchange Market**: 6th-largest currency exchange in the world by global turnover, and the Vekllei Crown (❦VK) and U.S. Dollar are the 5th most traded currency pair.
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 #### Boards & Commissions
 
 * **Commonwealth Sovereign Wealth Corporation**: State investment corporation that acts as a sovereign wealth fund.

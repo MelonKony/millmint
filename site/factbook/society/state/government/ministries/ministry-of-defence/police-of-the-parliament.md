@@ -21,7 +21,7 @@ The *Police of the Parliament* (also National Police, or VENOPOR) are the nation
 
 VENOPOR jurisdiction is organised within the individual theatre commands of the Crown Armed Forces. [[Kala]], the Antilles and the Vekllei and Kalina Islands maintain their own VENOPOR police forces, and other Commonwealth members and territories are dependent on Vekllei Islands policing.
 
-{{<note panel>}}
+{{<note>}}
 ### Sections
 
 *Sections* are units directly responsible to VENOPOR command and are generally deployed in conventional policing duties. They consist of special units for different types of policing within the jurisdiction of VENOPOR.
@@ -47,7 +47,7 @@ The *Rifles Section* is a special weapons unit employing specially-trained offic
 The *Animals Section* employs officers trained in animal-handling and their animal companions, usually dogs and horses. It is the oldest of the National Police sections, as the successor of an animals support unit of the Royal Armed Forces in the 16th Century.
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ### Guards
 
 *Guards* are semiautonomous units that operate independently of VENOPOR situational command. They are not independent policing branches, and are generally supplied and trained within existing VENOPOR systems, but serve distinct and specialised policing functions outside of the conventional policing duties of VENOPOR [sections](#sections).

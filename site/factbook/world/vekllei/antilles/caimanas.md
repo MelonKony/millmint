@@ -42,7 +42,7 @@ The capital of Tortuga is home to most of the republic's population, and resembl
 
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Ash Wednesday

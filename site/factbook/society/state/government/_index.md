@@ -40,7 +40,7 @@ Sectors of public administration, including
 
 ![Diagram of Vekllei government structure](/svg/diagrams/government.png "Diagram of Vekllei government administration and its structure")
 
-{{<note panel>}}
+{{<note>}}
 **Commonwealth Parliaments**
 * [[Community Parliament]]
 * [[Civic Parliament]]
@@ -50,7 +50,7 @@ Sectors of public administration, including
 * [[Security Parliament]]
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 **Devolved Ministries**
 * [[Ministry of Commerce]]
 * [[Ministry of Culture]]

@@ -16,7 +16,7 @@ The *Civil Service Academy* (CSA) is a training school for middle and senior civ
 
 Most Vekllei nationals in Commonwealth offices are also trained at the CSA, which has sister offices in most independent Commonwealth member-states.
 
-{{<note panel>}}
+{{<note>}}
 **Offices of the Civil Service Academy**
 
 * Fennel, Mira (headquarters)

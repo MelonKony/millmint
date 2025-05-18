@@ -3,8 +3,9 @@
 'use strict';
 
 (function () {
-    const searchDataURL = '/data.json';
-    let searchIndex = null; // Add a local variable to track initialization
+    const searchDataURL = '/data.small.json';  // Changed to match preloaded file
+    let searchIndex = null;
+    let cachedData = null;  // Add cache variable
 
     const indexConfig = {
         preset: 'balance',
@@ -14,6 +15,16 @@
             store: ['title', 'href', 'section','content', 'logo', 'rgb', 'color', 'image']
         }
     };
+
+    // Add caching function
+    async function getSearchData() {
+        if (cachedData) {
+            return cachedData;
+        }
+        const response = await fetch(searchDataURL);
+        cachedData = await response.json();
+        return cachedData;
+    }
 
   // Define a simplified setColors function for search results
   function setColors(rgb, element) {
@@ -102,8 +113,7 @@
           return;
       }
   
-      fetch(searchDataURL)
-          .then(response => response.json())
+      getSearchData()
           .then(data => {
               // Handle both array and object with pages property
               const pages = Array.isArray(data) ? data : data.pages;

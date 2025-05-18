@@ -47,7 +47,7 @@ Generally moderate and arid, but volatile when the trade winds meet between seas
 {{</note>}}
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Heroes Day **20 Jan**

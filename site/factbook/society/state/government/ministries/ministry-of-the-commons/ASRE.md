@@ -18,7 +18,7 @@ The <span class="fi fi-min-asre fis"></span> **Commonwealth Astro Science Resear
 
 In addition to aeronautics and space research, the ASRE operates a number of extraterrestrial facilities on other planets, including Station Mars and Station Venus. It does not however administrate the Vekllei Station Lunar, though it does operate several research stations and laboratories there.
 
-{{<note panel>}}
+{{<note>}}
 ## Executive Council
 
 * **Director**, [[ASRE]]
@@ -37,7 +37,7 @@ In addition to aeronautics and space research, the ASRE operates a number of ext
 * **Chairman**, Commonwealth Space Council
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Departments
 * **General Headquarters**
     * Office of Administration
@@ -77,7 +77,7 @@ In addition to aeronautics and space research, the ASRE operates a number of ext
     * Life Support Laboratories, [[Virgin]]
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Boards & Commissions
 * **Commonwealth Space Federation**: Industrial and academic council of partners that include the ASRE, who help develop and manufacture spacecraft.
 * **Commonwealth Space Council**: Government commission into space policy and development.

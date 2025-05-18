@@ -47,7 +47,7 @@ Tropical, with warm temperatures year-round and a distinct wet season from May t
 {{</note>}}
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Good Friday **30 Apr**

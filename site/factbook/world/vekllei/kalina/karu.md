@@ -41,7 +41,7 @@ There is a campus of the Commonwealth Univesity of the West Indies, but more amb
 Trains link the two main islands, and ferry services leave regularly for the peripheral islands and archipelagos. There is an airport outside of the capital, and most large towns are serviced by trams or intercity local railways in the Vekllei fashion. Visitors should start in the capital, where Hotel Meridian has a fine grounds and golf course, before embarking for a series of local inns across the islands in the contemporary tradition.
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Mardi Gras **Feb**

@@ -18,7 +18,7 @@ In general, the bureau facilitates education delivery and the shape and standard
 
 The Commonwealth National Curriculum is set by the [[cqc|Curriculum & Qualifications Council]], but the specifics of its implementation are left to the Education Districts of the Bureau of Public Education.
 
-{{<note panel>}}
+{{<note>}}
 ## Executive Council
 
 * **Director**, [[Bureau of Public Education]]
@@ -34,7 +34,7 @@ The Commonwealth National Curriculum is set by the [[cqc|Curriculum & Qualificat
 * **Parliamentary Representative**, [[Education Parliament]]
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Departments
 * **General Headquarters**
     * Office of the Director
@@ -102,7 +102,7 @@ The Commonwealth National Curriculum is set by the [[cqc|Curriculum & Qualificat
     * Allied Principals Council
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Federal Academies
 
 Commonwealth federal academies are research universities comprising dozens of facilities designed to provide direct government support for Vekllei sciences and research.
@@ -131,14 +131,14 @@ Commonwealth federal academies are research universities comprising dozens of fa
     * School of History & Geography
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Affiliated Universities
 
 * **United Nations University**: UN research university and think tank.
 * **New York University**: US-based university with campuses in [[Summers]] and [[Oslola]].
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Constituent Universities
 
 * **International United University**: Autonomous international and federal university featuring colleges from 70 countries, with its main campus in [[Oslola]].
@@ -152,7 +152,7 @@ Commonwealth federal academies are research universities comprising dozens of fa
 
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 ## Boards & Commissions
 
 * **Common Student's Press**: Publishing house for textbooks and notebooks for students.

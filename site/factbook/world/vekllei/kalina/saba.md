@@ -45,7 +45,7 @@ Pleasant temperatures that very very little. Rainfall scant and mainly in Novemb
 {{</note>}}
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Easter Monday

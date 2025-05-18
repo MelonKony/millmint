@@ -45,7 +45,7 @@ Like the other ABC islands, Curacao buildings are brightly coloured and built in
 A railway runs from north to south, supplemented by trams in the capital and outlying settlements. There is an airport on the northeast side of the island, and regular ferry service to the other ABC islands.
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Good Friday **30 Apr**

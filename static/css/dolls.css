@@ -119,6 +119,9 @@
 .dolls-nav .dolls-nav-item.active .icon {
     filter: brightness(50%);
 }
+.dolls-editor {
+    max-width: 400px;
+}
 .dolls-editor hr {
     border-color: var(--gray-light);
     border-bottom: 0;
@@ -154,17 +157,6 @@
     height: calc(22px + 4px);
     border: 2px solid var(--color, var(--color-gray));
     border-radius: 50%;
-}
-.color-options .color-circle.reset-circle::before {
-    content: "";
-    display: block;
-    width: 100%;
-    height: 3px;
-    background: var(--color-gray);
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%) rotate(-45deg);
 }
 .color-options > * {
     margin: 4px;
@@ -223,4 +215,62 @@
     background: var(--gray-light);
     border-radius: 2.5px;
     margin-bottom: 10px;
+}
+/* Add these styles at the end of the file */
+.component-section {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 15px;
+    background-color: var(--highlight-background);
+    padding: .5rem;
+}
+
+.component-color-palette {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+
+.component-color-palette .color-circle {
+    cursor: pointer;
+    width: 18px;
+    height: 18px;
+    position: relative;
+    background: var(--color, var(--bg-alt));
+    border-radius: 100px;
+}
+
+.component-color-palette .color-circle.active::after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: calc(18px + 4px);
+    height: calc(18px + 4px);
+    border: 2px solid var(--color, var(--color-gray));
+    border-radius: 50%;
+}
+
+.gender-toggle {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    
+    .gender-btn {
+        padding: 0.5rem 1rem;
+        border-radius: 0.25rem;
+        cursor: pointer;
+        background: var(--highlight-background);
+        border: 1px solid var(--highlight);
+        
+        &.active {
+            background: var(--highlight);
+            color: white;
+        }
+    }
 }

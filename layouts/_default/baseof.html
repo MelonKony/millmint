@@ -13,6 +13,7 @@
             {{- partial "header.html" . -}}
             {{- partial "nav.html" . -}}
             <section class="page">
+                {{ partial "doll-assets-data.html" . }}
                 {{- block "content" . }}{{- end }}
             </section>
             {{- partial "footer.html" . -}}

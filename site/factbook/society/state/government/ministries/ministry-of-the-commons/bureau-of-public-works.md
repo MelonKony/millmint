@@ -18,7 +18,7 @@ The <span class="fi fi-min-commons fis"></span> **Bureau of Public Works** is th
 
 The bureau also owns the [[nch|National Construction House]] (NCH), the largest construction firm in Vekllei which remains responsible for the vast majority of private and commercial construction in the country.
 
-{{<note panel>}}
+{{<note>}}
 ## Executive Council
 
 * **Director**, [[Bureau of Public Works]]
@@ -34,7 +34,7 @@ The bureau also owns the [[nch|National Construction House]] (NCH), the largest 
 * **Chairman**, Vekllei Board of Architects
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 #### Departments
 * **Department of National Projects**: Construction of large projects, often involving multiple [republics](/republics/) or stakeholders.
 	* Office of Transnational Planning
@@ -49,7 +49,7 @@ The bureau also owns the [[nch|National Construction House]] (NCH), the largest 
 	* Office of Health & Safety
 {{</note>}}
 
-{{<note panel>}}
+{{<note>}}
 #### Boards & Commissions
 
 * **[[nch|National Construction House]]**: National construction company responsible for most public projects and residential construction.

@@ -45,7 +45,7 @@ Warm year-round, with humid and sub-Mediterranean weather. Because of its flat t
 {{</note>}}
 
 {{<note table>}}
-**Public Holidays**:
+**Public Holidays**
 
 * New Year's Day **1 Jan**
 * Republic Day **15 Feb**
