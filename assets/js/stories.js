@@ -102,15 +102,25 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function updateTaxonomyPills() {
-        updatePillSection('tag-filters', [], 'tag', 'Tags');
-        updatePillSection('character-filters', [], 'character', 'Characters');
-        updatePillSection('category-filters', [], 'category', 'Categories');
+        if (document.getElementById('tag-filters')) {
+            updatePillSection('tag-filters', [], 'tag', 'Tags');
+        }
+        if (document.getElementById('character-filters')) {
+            updatePillSection('character-filters', [], 'character', 'Characters');
+        }
+        if (document.getElementById('category-filters')) {
+            updatePillSection('category-filters', [], 'category', 'Categories');
+        }
         updateActiveFiltersBar();
     }
 
     function updateActiveFiltersBar() {
         const bar = document.getElementById('active-filters-bar');
         const list = document.getElementById('active-filters-list');
+        if (!bar || !list) {
+            // The active filters bar or list is not present in the DOM, so do nothing
+            return;
+        }
         list.innerHTML = '';
         let hasActive = false;
         for (const [type, set] of Object.entries(activeFilters)) {
@@ -396,6 +406,10 @@ document.addEventListener('DOMContentLoaded', function () {
             window.removeEventListener('scroll', handleFilteredScroll);
             window.removeEventListener('scroll', handleScroll);
             window.currentFilteredStories = null;
+            if (!grid) {
+                console.log('Grid element not found');
+                return;
+            }
             grid.innerHTML = '';
             
             if (viewMode === 'pagination') {
@@ -448,6 +462,10 @@ document.addEventListener('DOMContentLoaded', function () {
         console.log(`Found ${matchingStories.length} matching stories in the full dataset`);
         
         // Clear the current grid
+        if (!grid) {
+            console.error('Grid element not found');
+            return;
+        }
         grid.innerHTML = '';
         
         if (matchingStories.length === 0) {
