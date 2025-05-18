@@ -29,12 +29,12 @@ The remaining 30 per cent arises chaotically out of imports (6 per cent), local 
 <details open=true>
 <summary>Overview of Consumer Product Origins</summary>
 
-| Production Origin | Share | Product Categories | Notes |
-|-------------------|-------|-------------------|--------|
-| Bureau Industries | 70% | • Basic Consumer Goods<br>• Industrial Equipment<br>• Medicines<br>• Mass-produced Clothing<br>• Processed Foods | • Limited branding<br>• Standardised quality<br>• Concerned with availability<br>• Centrally planned<br>• Available nationwide<br>• Distributed by stock [[computers]] |
-| Municipal Enterprise | 14% | • Local Services<br>• Public Utilities<br>• Community Goods<br>• Regional Foods | • City/region specific<br>• Locally sourced<br>• Community produced<br>• Direct oversight |
-| Local Production | 10% | • Artisanal Goods<br>• Specialty Foods<br>• Crafts<br>• Small-batch Products | • Personal relationship with vendors<br>• Higher customisation<br>• Small-scale production<br>• Direct producer-consumer relationship |
-| Foreign Imports | 6% | • Luxury Items<br>• Specialty Goods<br>• Foreign Foods<br>• Cultural Products | • Limited availability<br>• Higher prestige<br>• International variety<br>• Supplementary to domestic production |
+| Production Origin | Share | Product Categories | 
+|-------------------|-------|-------------------|
+| Bureau Industries | 70% | • Basic Consumer Goods<br>• Industrial Equipment<br>• Medicines<br>• Mass-produced Clothing<br>• Processed Foods |
+| Municipal Enterprise | 14% | • Local Services<br>• Public Utilities<br>• Community Goods<br>• Regional Foods |
+| Local Production | 10% | • Artisanal Goods<br>• Specialty Foods<br>• Crafts<br>• Small-batch Products |
+| Foreign Imports | 6% | • Luxury Items<br>• Specialty Goods<br>• Foreign Foods<br>• Cultural Products |
 
 </details>
 
