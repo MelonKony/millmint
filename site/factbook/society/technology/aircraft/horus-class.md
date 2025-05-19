@@ -7,7 +7,7 @@ image: /images/fullres/thermal-ship.jpg
 logo: /svg/crests/aero.svg
 series: aircraft
 
-description: The CM-100 Meteor Starliner is a spaceplane in service with Commonwealth Starlines, and operates the route between Ascension and the Moon.
+description: The Horus-class is military airship that provides early warning and surveillance for the aero services.
 
 series: aircraft
 draft: false
