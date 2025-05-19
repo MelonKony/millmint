@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
         category: new Set()
     };
     let viewMode = localStorage.getItem('viewMode') || 'infinite';
-    
+
     // --- Preselect filters based on URL ---
     (function preselectFiltersFromURL() {
         const pathParts = window.location.pathname.split('/').filter(Boolean);
@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const pagination = document.getElementById('pagination');
     const viewToggle = document.getElementById('view-toggle');
     let filtersContainer = document.getElementById('taxonomy-filters-container');
-    
+
     // Function definitions
     // Add event listener for pill clicks
     function updatePillSection(containerId, values, filterType, title) {
@@ -48,23 +48,23 @@ document.addEventListener('DOMContentLoaded', function () {
         const taxonomyValues = Array.from(allTaxonomyData[taxonomyKey] || [])
             .map(value => value.trim())
             .sort();
-        
+
         let section = document.getElementById(`${filterType}-section`);
         if (!section) {
             section = document.createElement('div');
             section.id = `${filterType}-section`;
             section.className = 'filter-section note panel';
-            
+
             const heading = document.createElement('h4');
             heading.textContent = title;
             heading.className = 'filter-title';
             section.appendChild(heading);
-            
+
             const container = document.createElement('div');
             container.id = containerId;
             container.className = 'taxonomy-pills-container';
             section.appendChild(container);
-            
+
             if (filtersContainer) {
                 filtersContainer.appendChild(section);
             }
@@ -76,14 +76,14 @@ document.addEventListener('DOMContentLoaded', function () {
             return;
         }
         container.innerHTML = '';
-        
+
         taxonomyValues.forEach(value => {
             const pill = document.createElement('button');
             pill.className = `taxonomy-pill ${activeFilters[filterType].has(value) ? 'active' : ''}`;
             pill.dataset.filter = filterType;
             pill.dataset.value = value;
             pill.textContent = value.replace(/&amp;/g, '&');
-            
+
             pill.addEventListener('click', function() {
                 const normalizedValue = value.trim();
                 if (activeFilters[filterType].has(normalizedValue)) {
@@ -96,31 +96,31 @@ document.addEventListener('DOMContentLoaded', function () {
                 updateTaxonomyPills();
                 applyFilters();
             });
-            
+
             container.appendChild(pill);
         });
     }
 
     function updateTaxonomyPills() {
-        if (document.getElementById('tag-filters')) {
-            updatePillSection('tag-filters', [], 'tag', 'Tags');
-        }
-        if (document.getElementById('character-filters')) {
-            updatePillSection('character-filters', [], 'character', 'Characters');
-        }
-        if (document.getElementById('category-filters')) {
-            updatePillSection('category-filters', [], 'category', 'Categories');
-        }
+        updatePillSection('tag-filters', [], 'tag', 'Tags');
+        updatePillSection('character-filters', [], 'character', 'Characters');
+        updatePillSection('category-filters', [], 'category', 'Categories');
+
+
+
+
+
+
         updateActiveFiltersBar();
     }
 
     function updateActiveFiltersBar() {
         const bar = document.getElementById('active-filters-bar');
         const list = document.getElementById('active-filters-list');
-        if (!bar || !list) {
-            // The active filters bar or list is not present in the DOM, so do nothing
-            return;
-        }
+
+
+
+
         list.innerHTML = '';
         let hasActive = false;
         for (const [type, set] of Object.entries(activeFilters)) {
@@ -154,14 +154,14 @@ document.addEventListener('DOMContentLoaded', function () {
             const startIndex = (pageNumber - 1) * itemsPerPage;
             const endIndex = startIndex + itemsPerPage;
             const pageStories = storyData.slice(startIndex, endIndex);
-            
+
             grid.innerHTML = '';
-            
+
             for (const story of pageStories) {
                 const card = createStoryCard(story);
                 grid.appendChild(card);
             }
-            
+
             currentPage = pageNumber;
             console.log('Page content updated successfully');
         } catch (err) {
@@ -178,28 +178,28 @@ document.addEventListener('DOMContentLoaded', function () {
         if (loading || window.currentFilteredStories) return; // Don't load if we're in filtered mode
         loading = true;
         loadingSpinner.style.display = 'block';
-    
+
         try {
             const itemsPerPage = 12;
             const pageToLoad = isInitialLoad ? 1 : currentPage + 1;
             const startIndex = (pageToLoad - 1) * itemsPerPage;
             const endIndex = startIndex + itemsPerPage;
             const pageStories = storyData.slice(startIndex, endIndex);
-            
+
             if (pageStories.length === 0) {
                 window.removeEventListener('scroll', handleScroll);
                 return;
             }
-    
+
             if (isInitialLoad) {
                 grid.innerHTML = '';
             }
-            
+
             for (const story of pageStories) {
                 const card = createStoryCard(story);
                 grid.appendChild(card);
             }
-            
+
             currentPage = pageToLoad;
         } catch (err) {
             console.error('Error in loadMore:', err);
@@ -219,13 +219,13 @@ document.addEventListener('DOMContentLoaded', function () {
         li.dataset.tags = story.tags || '';
         li.dataset.characters = story.characters || '';
         li.dataset.categories = story.categories || '';
-        
+
         const link = document.createElement('a');
         link.href = story.href;
-        
+
         const meta = document.createElement('div');
         meta.className = 'postcard-meta';
-        
+
         const title = document.createElement('h2');
         title.className = 'title';
         title.textContent = story.title;
@@ -233,7 +233,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title.style.cssText = 'color: #ececf4!important;';
         }
         meta.appendChild(title);
-        
+
         if (story.date) {
             const date = document.createElement('div');
             date.className = 'date';
@@ -246,12 +246,12 @@ document.addEventListener('DOMContentLoaded', function () {
             }
             meta.appendChild(date);
         }
-        
+
         link.appendChild(meta);
-        
+
         const figure = document.createElement('figure');
         figure.className = 'postcard-image';
-        
+
         if (story.image && story.image.webp) {
             const img = document.createElement('img');
             img.className = 'page';
@@ -260,7 +260,7 @@ document.addEventListener('DOMContentLoaded', function () {
             img.loading = 'lazy';
             figure.appendChild(img);
         }
-        
+
         link.appendChild(figure);
         li.appendChild(link);
         return li;
@@ -270,7 +270,7 @@ document.addEventListener('DOMContentLoaded', function () {
         try {
             const response = await fetch('/data.small.json');
             const rawData = await response.json();
-            
+
             storyData = rawData
                 .filter(item => {
                     return item.type === 'story' && 
@@ -281,11 +281,11 @@ document.addEventListener('DOMContentLoaded', function () {
                            (item.tags || item.characters || item.categories);
                 })
                 .sort((a, b) => new Date(b.date) - new Date(a.date));
-            
+
             ['tags', 'characters', 'categories'].forEach(field => {
                 storyData.forEach(item => {
                     if (!item[field]) return;
-                    
+
                     let values;
                     if (Array.isArray(item[field])) {
                         values = item[field];
@@ -294,14 +294,14 @@ document.addEventListener('DOMContentLoaded', function () {
                     } else {
                         values = [item[field]];
                     }
-                    
+
                     values
                         .map(v => v.trim().replace(/^"|"$/g, ''))
                         .filter(v => v && v !== 'millmint')
                         .forEach(value => allTaxonomyData[field].add(value));
                 });
             });
-            
+
             updateTaxonomyPills();
         } catch (error) {
             console.error('Taxonomy initialization failed:', error);
@@ -312,22 +312,22 @@ document.addEventListener('DOMContentLoaded', function () {
     function handleViewToggle() {
         const newMode = this.checked ? 'pagination' : 'infinite';
         if (newMode === viewMode) return;
-        
+
         console.debug('View toggle:', { 
             newMode, 
             hasFilters: !!window.currentFilteredStories,
             storiesCount: window.currentFilteredStories?.length || storyData.length 
         });
-        
+
         viewMode = newMode;
         localStorage.setItem('viewMode', viewMode);
         currentPage = 1;
-        
+
         window.removeEventListener('scroll', handleScroll);
         window.removeEventListener('scroll', handleFilteredScroll);
-        
+
         const stories = window.currentFilteredStories || storyData;
-        
+
         if (viewMode === 'pagination') {
             const totalPages = Math.ceil(stories.length / 12);
             loadFilteredContent(stories, null, 1);
@@ -355,41 +355,41 @@ document.addEventListener('DOMContentLoaded', function () {
         if (loading || !matchingStories?.length) return;
         // Remove this line that was preventing pagination from working
         // if (viewMode === 'pagination' && page > 1) return;
-        
+
         loading = true;
         loadingSpinner.style.display = 'block';
-        
+
         try {
             const itemsPerPage = 12;
             const startIndex = (page - 1) * itemsPerPage;
             const endIndex = startIndex + itemsPerPage;
             const pageStories = matchingStories.slice(startIndex, endIndex);
             const totalPages = Math.ceil(matchingStories.length / itemsPerPage);
-            
+
             if (pageStories.length === 0 || page > totalPages) {
                 window.removeEventListener('scroll', handleScroll);
                 window.removeEventListener('scroll', handleFilteredScroll);
                 return;
             }
-            
+
             if (viewMode === 'pagination' || page === 1) {
                 grid.innerHTML = '';
             }
-            
+
             for (const story of pageStories) {
                 const card = createStoryCard(story);
                 grid.appendChild(card);
             }
-            
+
             if (viewMode === 'pagination') {
                 pagination.style.display = 'flex';
                 updatePagination(totalPages, page, matchingStories);
                 window.removeEventListener('scroll', handleScroll);
                 window.removeEventListener('scroll', handleFilteredScroll);
             }
-            
+
             currentPage = page;
-            
+
         } finally {
             loading = false;
             loadingSpinner.style.display = 'none';
@@ -398,7 +398,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function applyFilters() {
         const hasActiveFilters = Object.values(activeFilters).some(filterSet => filterSet.size > 0);
-        
+
         if (!hasActiveFilters) {
             console.log('No active filters, resetting to initial state');
             currentPage = 1;
@@ -406,12 +406,12 @@ document.addEventListener('DOMContentLoaded', function () {
             window.removeEventListener('scroll', handleFilteredScroll);
             window.removeEventListener('scroll', handleScroll);
             window.currentFilteredStories = null;
-            if (!grid) {
-                console.log('Grid element not found');
-                return;
-            }
+
+
+
+
             grid.innerHTML = '';
-            
+
             if (viewMode === 'pagination') {
                 console.log('Loading paginated content');
                 pagination.style.display = 'flex';
@@ -425,19 +425,19 @@ document.addEventListener('DOMContentLoaded', function () {
             }
             return;
         }
-        
+
         // Find all matching stories from the full dataset
         let matchingStories = storyData;
-        
+
         if (hasActiveFilters) {
             matchingStories = storyData.filter(story => {
                 return ['tag', 'character', 'category'].every(filterType => {
                     if (activeFilters[filterType].size === 0) return true;
-                    
+
                     // Fix the field mapping to match updatePillSection
                     const field = filterType === 'category' ? 'categories' :
                                 `${filterType}s`;
-                    
+
                     let itemValues = new Set();
                     if (story[field]) {
                         const valueArray = typeof story[field] === 'string' 
@@ -445,7 +445,7 @@ document.addEventListener('DOMContentLoaded', function () {
                             : Array.isArray(story[field]) 
                                 ? story[field] 
                                 : [];
-                        
+
                         valueArray.forEach(v => {
                             if (v) itemValues.add(v);
                         });
@@ -455,19 +455,19 @@ document.addEventListener('DOMContentLoaded', function () {
                 });
             });
         }
-        
+
         // Always ensure stories are sorted by date
         matchingStories = matchingStories.sort((a, b) => new Date(b.date) - new Date(a.date));
-        
+
         console.log(`Found ${matchingStories.length} matching stories in the full dataset`);
-        
+
         // Clear the current grid
-        if (!grid) {
-            console.error('Grid element not found');
-            return;
-        }
+
+
+
+
         grid.innerHTML = '';
-        
+
         if (matchingStories.length === 0) {
             const noResults = document.createElement('div');
             noResults.className = 'no-results';
@@ -475,10 +475,10 @@ document.addEventListener('DOMContentLoaded', function () {
             grid.appendChild(noResults);
             return;
         }
-        
+
         // Store the filtered stories in a global variable
         window.currentFilteredStories = matchingStories;
-        
+
         if (viewMode === 'pagination') {
             loadFilteredContent(matchingStories, null, 1);
         } else {
@@ -501,18 +501,18 @@ document.addEventListener('DOMContentLoaded', function () {
             details.className = 'controls-details';
             const summary = document.createElement('summary');
             summary.textContent = 'Filters';
-            
+
             // Move controls row content into details
             const content = document.createElement('div');
             content.className = 'controls-content';
             while (controlsRow.firstChild) {
                 content.appendChild(controlsRow.firstChild);
             }
-            
+
             details.appendChild(summary);
             details.appendChild(content);
             controlsRow.appendChild(details);
-            
+
             // Create toggle container
             const toggleContainer = document.createElement('div');
             toggleContainer.className = 'view-toggle-container';
@@ -521,7 +521,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 toggleContainer.appendChild(viewToggle.parentElement);
             }
             summary.appendChild(toggleContainer);
-            
+
             // Create filters container
             filtersContainer = document.createElement('div');
             filtersContainer.id = 'taxonomy-filters-container';
@@ -533,12 +533,12 @@ document.addEventListener('DOMContentLoaded', function () {
         // Always update pills and apply filters after taxonomy initialization
         updateTaxonomyPills();
         applyFilters();
-        
+
         if (viewToggle) {
             viewToggle.checked = viewMode === 'pagination';
             pagination.style.display = viewMode === 'pagination' ? 'flex' : 'none';
             viewToggle.addEventListener('change', handleViewToggle);
-            
+
             // Initial load
             if (viewMode === 'pagination') {
                 const totalPages = Math.ceil(storyData.length / 12);
@@ -564,19 +564,19 @@ document.addEventListener('DOMContentLoaded', function () {
 
     const hugoPagination = document.querySelector('.hugo-pagination');
     const jsPagination = document.querySelector('.js-pagination');
-    
+
     // Hide Hugo pagination when JS is enabled
     if (hugoPagination) {
         hugoPagination.style.display = 'none';
     }
-    
+
     function updatePagination(totalPages, currentPage, matchingStories) {
         if (!jsPagination) return;
-        
+
         console.log('Updating pagination:', { totalPages, currentPage, hasMatchingStories: !!matchingStories });
         jsPagination.innerHTML = '';
         pagination.style.display = 'flex';
-        
+
         for (let i = 1; i <= totalPages; i++) {
             const pageButton = document.createElement('button');
             pageButton.className = `page-number ${i === currentPage ? 'active' : ''}`;
@@ -588,7 +588,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     hasMatchingStories: !!matchingStories,
                     viewMode
                 });
-                
+
                 if (matchingStories) {
                     loadFilteredContent(matchingStories, null, i);
                 } else {
@@ -622,12 +622,12 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         await initializeTaxonomies();
-        
+
         if (viewToggle) {
             viewToggle.checked = viewMode === 'pagination';
             pagination.style.display = viewMode === 'pagination' ? 'flex' : 'none';
             viewToggle.addEventListener('change', handleViewToggle);
-            
+
             // Initial load
             if (viewMode === 'pagination') {
                 await loadPageContent(1);
