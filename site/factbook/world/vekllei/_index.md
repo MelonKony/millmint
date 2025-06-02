@@ -200,7 +200,7 @@ Main article: *[Vekllei World Map](/map/)*
   * [[Java]] (*Sao Tome*)
   * Maio Republic (*Maio*)
   * Moroços Republic (*Santo Antao*)
-  * Praia Republic (*Santiago*)
+  * [[Praia]] (*Santiago*)
   * [[Principe]] (*Sao Tome & Principe*)
   * Sal Republic (*Sal*)
   * Viana Republic (*Sao Vicente*)

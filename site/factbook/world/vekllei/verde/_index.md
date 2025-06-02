@@ -42,7 +42,7 @@ Life in the Verde Commonwealth is mostly municipal, characterised by communal la
 * [[Java]] (*Sao Tome*)
 * Maio Republic (*Maio*)
 * Moroços Republic (*Santo Antao*)
-* Praia Republic (*Santiago*)
+* [[Praia]] (*Santiago*)
 * [[Principe]] (*Sao Tome & Principe*)
 * [[Sal]] (*Sal*)
 * [[Viana]] (*Sao Vicente*)

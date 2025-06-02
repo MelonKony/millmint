@@ -78,10 +78,10 @@ Policy is to have a standing army 35,000 strong, but Rifles regiments are activa
   * 10th Rifles Battalion **300** **Air Station Oslola**[[Oslola]]
   * 11th Rifles Battalion **300** [[Fortress Lola]] [[Oslola]]
   * 12th Rifles Battalion **300** [[Fortress Lola]] [[Oslola]]
-* 5th Desert Guards Regiment **1000** [[Fortress Praia]] Praia
-  * 13th Rifles Battalion **300** [[Fortress Praia]] Praia
-  * 14th Rifles Battalion **300** **Air Station Praia** Praia
-  * 15th Rifles Battalion **300** [[Fortress Praia]] Praia
+* 5th Desert Guards Regiment **1000** [[Fortress Praia]] [[Praia]]
+  * 13th Rifles Battalion **300** [[Fortress Praia]] [[Praia]]
+  * 14th Rifles Battalion **300** **Air Station Praia** [[Praia]]
+  * 15th Rifles Battalion **300** [[Fortress Praia]] [[Praia]]
 * 6th African Guards Regiment [[Fortress Annobon]] [[Annobon]]
   * 16th Rifles Battalion **300** [[Fortress Annobon]] [[Annobon]]
   * 17th Rifles Battalion **300** **Naval Station Java** [[Java]]
@@ -119,17 +119,17 @@ Policy is to have a standing army 35,000 strong, but Rifles regiments are activa
   * 37th Rifles Battalion **300** [[Fortress Orient]] [[Caicos]]
   * 38th Rifles Battalion **300** **Habacoan Barracks** [[Habacoa]]
   * 39th Rifles Battalion **300** **Nema Barracks** Nema
-* 14th Verden Rifles [[Fortress Praia]] Praia
+* 14th Verden Rifles [[Fortress Praia]] [[Praia]]
   * 40th Rifles Battalion **300** **Viana Barracks** [[Viana]]
-  * 41st Rifles Battalion **300** [[Fortress Praia]] Praia
+  * 41st Rifles Battalion **300** [[Fortress Praia]] [[Praia]]
   * 42nd Rifles Battalion **300** **Boa Vista Barracks** Boa Vista
 * 15th Volcanic Rifles [[Fortress Lola]] [[Oslola]]
   * 43rd Rifles Battalion **300** **Aismious Barracks** [[AIsmious]]
   * 44th Rifles Battalion **300** **Air Station Scatsta** [[Hetland]]
   * 45th Rifles Battalion **300** [[Fortress Demon]] [[Demon]]
 * 16th Arctic Rifles **Air Station Kala** [[Kala]]
-  * 46th Rifles Battalion **300** **Iron Barracks** Kala
-  * 47th Rifles Battalion **300** **Air Station Kala** Kala
+  * 46th Rifles Battalion **300** **Iron Barracks** [[Kala]]
+  * 47th Rifles Battalion **300** **Air Station Kala** [[Kala]]
   * 48th Rifles Battalion **300** **Naval Station Helvasia** [[Helvasia]]
 * 17th Antarctic Rifles [[Fortress Falklands]] [[Falklands]]
   * 49th Rifles Battalion **300** [[Fortress Falklands]] [[Falklands]]

@@ -51,14 +51,14 @@ Oil is primarily used as a feedstock for industries in Vekllei, and has no mater
 * Vulcan Gas-to-Liquids Plant [[Kairi]]
 * Austor Nord Works [[Oslola]]
 * Commonwealth Hydrogen Works [[Oslola]]
-* Sud Gas Liquefaction Works (Praia)
+* Sud Gas Liquefaction Works [[Praia]]
 * Chrome Refinery Complex (Inagua)
 * Azores Refinery [[Mira]]
 
 **Transport & Distribution**
 * CommOil Superterminal [[Kairi]]
 * National Regasification Station (Canary)
-* Ordinary Subsea Cable Landing Station (Praia)
+* Ordinary Subsea Cable Landing Station [[Praia]]
 * Commonwealth Strategic Oil Reserves [[Habacoa]]
 * Lucaya Pipeline Station [[Habacoa]]
 

@@ -296,6 +296,15 @@
   background-image: url(../svg/flags/1x1/curacao.svg);
 }
 
+/// Paria Flag
+
+.fi-paria {
+  background-image: url(../svg/flags/4x3/paria.svg);
+}
+.fi-paria.fis {
+  background-image: url(../svg/flags/1x1/paria.svg);
+}
+
 /// Oslola Flag
 .fi-oslola {
   background-image: url(../svg/flags/4x3/oslola.svg);
@@ -776,6 +785,9 @@
 }
 .fi-min-noshem.fis {
   background-image: url(../svg/logos/noshem.svg);
+}
+.fi-min-bethlehem.fis {
+  background-image: url(../svg/logos/bethlehem-hospital.svg);
 }
 
 // Flag icons

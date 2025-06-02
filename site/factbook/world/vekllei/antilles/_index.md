@@ -36,7 +36,7 @@ The Caimanas are a regional banking capital of Vekllei, and conduct strong trade
 * [[Abakoa]] (*San Andres*)
 * [[Aruba]] (*Aruba*)
 * [[Bonaire]] (*Bonaire*)
-* Botuto (*Los Roques Islands*)
+* [[Paria]] (*Los Roques Islands*)
 * [[Caimanas]] (*Caimanas*)
 * [[Curacao]] (*Curacao*)
 * Providence (*Providencia*)

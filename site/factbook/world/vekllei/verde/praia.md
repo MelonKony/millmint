@@ -16,37 +16,33 @@ aliases:
 ---
 {{<infobox/country
 	 Name="Praia Republic"
-	 RealName="Island of Praia"
+	 RealName="Island of Santiago"
 	 Type="Republic"
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/praia.svg"
 	 SmallFlag="/svg/flags/4x3/praia.svg"
 	 Locator="/svg/maps/locator/verde.svg"
-	 Population="54,494"
-	 Capital="Santa Maria"
+	 Population="492,199"
+	 Capital="Praia"
 	 Languages="English, Verde Creole, Portuguese"
-	 Area="219.84 km²"
+	 Area="991 km²"
 	 Accession="1945, as part of the British Atlantic Territories"
  >}}
 
-The <span class="fi fi-praia"></span> **Praia Republic** (literally "Salt") is a [constituent republic](/republics/) of [[Vekllei]] in the Atlantic, and is the northeasternmost island of the Barlavento archipelago. It comprises a main island shaped roughly like a fish and a tiny, uninhabited islet of its west coast. The republic is particularly flat and dry, and much of its surface is made of red, sandy dirt exposed to trade winds. It is fringed by pretty beaches of white sand, and receives an extraordinary amount of sun per year.
+The <span class="fi fi-praia"></span> **Praia Republic** (literally "Beach") is a [constituent republic](/republics/) of [[Vekllei]] in the Atlantic, and is located in the southeastern fringe of the Barlavento archipelago. Perhaps a better name might have been 'Plateau,' since its characteristic and most charismatic feature are its raised towns and villages raised on pleateaus surrounded by valleys. It is both an unusual and extraordinarily pretty island reflected well in its distinctive and insular culture.
 
-The island was sparsely populated throughout much of the early colonial period, but drew permanent settlement after the establishment of a salt works near the modern settlement of Pedra Lume. This spurred a "salt rush" that saw the island's population grow rapidly. Other major settlements, including the capital of Santa Maria, are the legacy of the salt industry, which is mostly clustered around shallow, extinct volcanic craters. Although the industry saw significant decline during the 20th Century as major export markets were closed off by foreign protectionism, most of the major factories survive under municipal management in [[Vekllei]], and the republic is the largest domestic exporter of salt in the country.
+For an island of its size, Praia remains surprisingly provincial. Neighbouring republics of the [[Verde|Verde Commonwealth]] have large federal or international institutions -- the [[NTLU]] in [[Sal]], or the International Peace Park on [[Maio]], for example. But despite being the most populous of the Barlavento islands, Praia seems to administrate only itself. This is despite its welcoming culture, developed coastal cities and pleasant climate, and makes it both an oddity and oddly charming in Vekllei's disparate Commonwealth. It is also heavily forested, especially in its valleys and mountains, which is unusual for the region.
 
-The history of the republic contributes to its unique appearance today. Its major towns, including the capital, are quite pretty Portuguese colonial settlements improved by irrigation of street trees and municipal agriculture in the federal period. Outside of these dense communities is a wide, flat expanse of land without any major features except for salt ponds, their factories, and aerial tramways that criss-cross the island with buckets full of salt. Outside of the cities and their gardens, the republic is mostly treeless and barren.
+Praia is the administrative heart of eastern [[Verde]] and the seat of its federal garrison. Unlike [[Cavoada]]'s dramatic mountainous interior or [[Viana]]'s natural harbor, Praia was never destined for greatness by geography alone. Its selection as the Verde capital in 1858 was a case of political pragmatism over natural advantage, chosen precisely because it offended no established interests while offering the practical benefit of defensible highlands overlooking excellent anchorage. The massive Fortaleza do Plateau (now [[Fortress Praia]], built in phases between 1860 and 1895) remains the most imposing structure in the republic and has completely absorbed the islet of Santa Maria it once sat atop in the capital's harbour.
 
-Santa Maria and the historic fishing village of Palmeira are particularly beautiful. The locals are a mix of local Verdeans and Persian migrants, mostly refugees from the first failed Jungle Coup in Iran. Persians are about half the population and practice culturally muslim traditions but are not especially devout. The salt industry is heavily automated, so most Salians work in research or academia.
+The island's Portuguese colonial period left the usual scars of slave entrepôts and salt pans, but Praia's independent character emerged during the great morna renaissance of the 1880s, when Verdean musicians fleeing drought found patronage among the Portuguese colonial bureaucrats and garrison officers who had begun to see their Atlantic posting as something more than exile. "Plateau Sessions" -- informal concerts held in the fortress courtyards during the cooler evening hours -- remain a distinctive tradition to this day, and draw musicians from as far as the Azores who contribute to an evolved "federal morna" style. Today's visitor will still find echoes of the Portuguese colonial period in the cafés surrounding Government House, where retired functionaries with ancestry in three continents argue about federal this-or-that over grogue and pastéis.
 
-There is a very pretty mosque in the capital, but the major attraction of the republic is the [National Levantine Theological University](/nltu/) (NLTU). This is a sprawling complex starting on the hilltop of Monte Curral in the centre of the island, and it cascades down its slopes to cover about forty acres. It is the largest theological institution in the country, with a special focus on ancient Abrahamic religious history (primarily Coptic, Roman Catholic, Syriac and Antioch Christians, Mizrahi Jews, Shia Islam, and Zoroastrianism). The modernist fusion style of its campus is particularly acclaimed, and unlike internationalist styles is heavily ornamented and decorated. It is among the most prestigious institutions of its type in the world, and has about 6,000 domestic and international students in addition to 3,000 permanent staff. Flowing water and canals characterise not just the NLTU but Santa Maria as well, and provide passive cooling.
-
-Salians live in the handful of towns across the island, the largest of which is the capital. A lot of work is related to the NLTU in some way, either as writers, artists, academics or providing services like cooking or board for students. Despite their proximity to the university, they are typically sleepy towns with little nightlife. The salt works are the major export industry on the island, and fishing supplements the local diet. Their religion and customs are divided mostly evenly between the Verdean and Persian communities, which mix freely. Swimming in the salt craters are a popular novelty for resident students.
-
-A train connects Santa Maria to the university, and proceeds onwards to the towns of Palmeira and Pedra Lume. The island is somewhat poorly connected by ferries compared to other Verde islands, lending the republic an insular quality. An airport is located just outside of Santa Maria, which accommodates international connections to the university.
+The republic's unique position as the archipelago's administrative center has preserved Verdean traditions amidst a growing, cosmopolitan population -- a certain measured dignity, an appreciation for bureaucratic elegance, and the peculiar pride that comes from being simultaneously provincial and federally significant. The capital, also called Praia, is well-developed and home to many tall buildings, including the federal fortress and the headquarters of the Commonwealth Maritime Register. They are proud of their underground metro, the only such example in Verde, which feeds into winding and scenic train lines that reach out to the republic's mountain towns and villages. A fast train leaves regularly for Tarrafal, the other city of the republic.
 
 {{<note table>}}
 **Climate**
 
-Sal receives about 350 days of sunshine a year, and is among the sunniest places in Vekllei. The republic is hot and dry, and little rain ever falls.
+Expect heavy rains between August and October, but no precipitation at all the rest of the year. The weather is warm year-round.
 {{</note>}}
 
 {{<note table>}}
@@ -67,14 +63,11 @@ Sal receives about 350 days of sunshine a year, and is among the sunniest places
 <details open>
 <summary>Points of Interest</summary>
 
-- **[[Oil|Commonwealth Oil Central Control]]**: Realtime monitoring facility for all CommOil sites.
-- **Santa Maria Beach**: A stunning stretch of white sand and turquoise waters, popular among students at the NLTU.
-- **Buracona – Blue Eye**: A natural pool with an underwater cave that creates a mesmerising "blue eye" effect when sunlight hits the water at the right angle.
-- **Pedra Lume Salt Crater Works**: Large, operating salt works inside an extinct volcano, where visitors can float effortlessly in the saline waters.
-- **Our Lady Botanical Gardens**: Large botanic gardens located near the capital, designed as an oasis among the sands.
-- **Shark Bay**: Shallow bay where visitors can wade into the water to observe lemon sharks in their natural habitat.
-- **[National Levantine Theological University](/nltu/)**: Prestigious, multi-faith theological research university specialising in early Abrahamic faiths.
-- **Port of Palmeira**: The primary port on Sal, supporting cargo, fishing, and ferry services to other islands.
-
+- **[[Fortress Praia]]**: Imposing and monumental military fortress and barracks in Praia's harbour.
+- **Sud Gas Liquefaction Works**: [[oil|Commonwealth Oil]] gas liquefaction plant in Tarrafal that produces about sixty per cent of Vekllei's liquified natural gas (LNG).
+- **Ordinary Subsea Cable Landing Station**: Oil and has network submarine cable landing point, which then travels onward to central control in [[Sal]].
+- **Government House**: Colonial-period government building, now home to Praia's parliament.
+- **Assomada**: Colourful regional town located on a plateau in central Praia, surrounded by forested valleys.
+- **Verdant Gardens**: Botanic gardens containing specimens of most of Praia's nearly 300 endemic species.
 </details>
 

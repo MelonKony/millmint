@@ -12,7 +12,7 @@ description: Fortress Praia is a fortress of the Vekllei Armed Forces, located i
 aliases:
 - /fortress-praia /
 ---
-**Fortress Praia** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of Praia.
+**Fortress Praia** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Praia]].
 
 {{<note table>}}
 **Resident Regiments & Battalions**:

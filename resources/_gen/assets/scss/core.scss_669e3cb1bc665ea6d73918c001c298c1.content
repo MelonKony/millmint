@@ -741,6 +741,8 @@ article blockquote {
           column-count: 1; } }
       .note.table ul li {
         list-style-type: none; }
+        .note.table ul li em {
+          color: var(--gray-medium); }
         .note.table ul li strong {
           float: right;
           background: var(--highlight, var(--gray-medium, #737373));
@@ -2650,6 +2652,12 @@ li {
 .fi-curacao.fis {
   background-image: url(../svg/flags/1x1/curacao.svg); }
 
+.fi-paria {
+  background-image: url(../svg/flags/4x3/paria.svg); }
+
+.fi-paria.fis {
+  background-image: url(../svg/flags/1x1/paria.svg); }
+
 .fi-oslola {
   background-image: url(../svg/flags/4x3/oslola.svg); }
 
@@ -3027,6 +3035,9 @@ li {
 
 .fi-min-noshem.fis {
   background-image: url(../svg/logos/noshem.svg); }
+
+.fi-min-bethlehem.fis {
+  background-image: url(../svg/logos/bethlehem-hospital.svg); }
 
 .fib {
   background-size: contain;

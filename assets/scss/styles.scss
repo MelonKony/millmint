@@ -690,6 +690,9 @@ article blockquote {
 
       li {
         list-style-type: none;
+        em {
+          color: var(--gray-medium);
+        }
         strong {
           float: right;
           background: var(--highlight, var(--gray-medium, #737373));

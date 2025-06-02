@@ -85,6 +85,7 @@ The bureau is vertically integrated, and administers all healthcare support serv
 {{<note>}}
 ## Boards & Commissions
 
+* **[[Bethlehem Hospital]]**: Mental asylum and sanitorium on Scallop Island in the republic of [[Paria]].
 * **National Genomics Laboratories**: Specialist hospital for gene research and treatment.
 * **National Regional Health Commission**: Independent commission auditing the quality and accessibility of regional healthcare.
 {{</note>}}

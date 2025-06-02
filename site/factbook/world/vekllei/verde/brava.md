@@ -38,7 +38,7 @@ Like many Verdean islands, the sharp volcanic relief of Brava fosters a diverse 
 
 Most Bravans live in Nova Sintra, a pretty and terraced town that grows a lot of coffee and oranges. The only secondary school on the island is located there, as is its only hospital. The main port of the republic is located some ways north in the town of Furna, which is especially pretty. A cable tram line runs from Furna to the capital and onwards towards two distant towns. There are some abandoned settlements in the south and east of the island, mostly comprising former plantations or villages that were depopulated over time. There is a brewery in the capital that produces a unique local beer, infused with orange peel.
 
-Outside of the city centre, most homes on the island are homesteads and practice municipal agriculture. There is a small seafood processing factory in Furna but otherwise no major industry to speak of in the republic outside of municipal goods and the civil service. There are also no airports in the republic, which is scored by vicious winds. Ferries leave from Furna each day for Fogo and Praia.
+Outside of the city centre, most homes on the island are homesteads and practice municipal agriculture. There is a small seafood processing factory in Furna but otherwise no major industry to speak of in the republic outside of municipal goods and the civil service. There are also no airports in the republic, which is scored by vicious winds. Ferries leave from Furna each day for Fogo and [[Praia]].
 
 {{<note table>}}
 **Climate**
