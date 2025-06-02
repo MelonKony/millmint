@@ -2,9 +2,11 @@
 title: National Levantine Theological University
 fulltitle: National Levantine Theological University
 icon: 📖
-emoji: t
-color: green
+rgb: 255, 51, 108
+logo: /svg/logos/nltu.svg
 series: location
+
+fi: fi fi-min-nltu fis
 
 description: The National Levantine Theological University is the largest theological research university in Vekllei, located in the republic of Sal.
 
@@ -19,7 +21,7 @@ The university is extremely prestigious, and is also a unique institution in its
 
 The school is famous for its tranquil grounds and peaceful quality, despite the proximity of so many different religious schools. There is zero tolerance for fighting, and the architecture of the school facilitates the constant flow of water and air throughout. Although much of the Sal republic is characterised by salt works and desert, the NLTU is famous for its lush gardens and modernist desert architecture adorned with mosaics and murals.
 
-{{<note>}}
+{{<note table>}}
 **Schools of the NLTU**
 
 * Coptic School

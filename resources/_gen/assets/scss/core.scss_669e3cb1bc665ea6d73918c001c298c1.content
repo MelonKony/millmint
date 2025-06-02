@@ -3039,6 +3039,9 @@ li {
 .fi-min-bethlehem.fis {
   background-image: url(../svg/logos/bethlehem-hospital.svg); }
 
+.fi-min-nltu.fis {
+  background-image: url(../svg/logos/nltu.svg); }
+
 .fib {
   background-size: contain;
   background-position: 50%;

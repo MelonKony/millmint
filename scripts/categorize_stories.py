@@ -4,6 +4,7 @@ import glob
 from PIL import Image, ImageTk
 import tkinter as tk
 from tkinter import ttk
+from tkinter import colorchooser
 
 CATEGORIES = [
 'animations',
@@ -51,6 +52,10 @@ def save_markdown(file_path, front_matter):
         if len(parts) > 2:
             f.write(parts[2])
 
+CHARACTERS_DIR = '/Users/millmint/Documents/dev/millmint/site/characters/'
+CHARACTER_NAMES = [name for name in os.listdir(CHARACTERS_DIR)
+                   if os.path.isdir(os.path.join(CHARACTERS_DIR, name)) and not name.startswith('_')]
+
 class CategoryTagger:
     def __init__(self):
         self.root = tk.Tk()
@@ -79,11 +84,13 @@ class CategoryTagger:
         right_frame = ttk.Frame(content_frame)
         right_frame.pack(side='right', fill='y', padx=10)
         
-        # Categories frame with scrollbar
-        categories_frame = ttk.LabelFrame(right_frame, text="Categories", padding="5")
-        categories_frame.pack(fill='y', expand=True)
+        # Create a horizontal frame for categories and characters
+        panels_frame = ttk.Frame(right_frame)
+        panels_frame.pack(fill='x', expand=False)
         
-        # Create checkboxes with command binding
+        # Categories frame
+        categories_frame = ttk.LabelFrame(panels_frame, text="Categories", padding="5")
+        categories_frame.pack(side='left', fill='y', expand=True, padx=(0, 10))
         self.category_vars = {}
         for category in CATEGORIES:
             var = tk.BooleanVar()
@@ -91,9 +98,24 @@ class CategoryTagger:
             ttk.Checkbutton(categories_frame, text=category, variable=var, 
                           command=self.on_checkbox_change).pack(anchor='w')
         
+        # Characters frame
+        characters_frame = ttk.LabelFrame(panels_frame, text="Characters", padding="5")
+        characters_frame.pack(side='left', fill='y', expand=True)
+        self.character_vars = {}
+        for character in CHARACTER_NAMES:
+            var = tk.BooleanVar()
+            self.character_vars[character] = var
+            ttk.Checkbutton(characters_frame, text=character, variable=var, 
+                          command=self.on_checkbox_change).pack(anchor='w')
+        
         # Controls at bottom of right frame
         controls_frame = ttk.Frame(right_frame)
         controls_frame.pack(fill='x', pady=10)
+        # Colour picker button
+        ttk.Button(controls_frame, text="Pick Colour", command=self.pick_colour).pack(side='left', padx=5)
+        self.rgb_label = ttk.Label(controls_frame, text="rgb: ")
+        self.rgb_label.pack(side='left', padx=5)
+        self.rgb_value = ''
         
         # Jump to file input
         ttk.Label(controls_frame, text="Jump to #:").pack(side='left')
@@ -165,6 +187,14 @@ class CategoryTagger:
         except ValueError:
             print("Please enter a valid number")
 
+    def pick_colour(self):
+        color = colorchooser.askcolor(title="Choose colour")
+        if color and color[0]:
+            r, g, b = map(int, color[0])
+            self.rgb_value = f"{r}, {g}, {b}"
+            self.rgb_label.config(text=f"rgb: {self.rgb_value}")
+            self.save_current_state()
+
     def load_current_file(self):
         if self.current_index < len(self.files):
             file_path = self.files[self.current_index]
@@ -214,6 +244,21 @@ class CategoryTagger:
                 for category in front_matter['categories']:
                     if category in self.category_vars:
                         self.category_vars[category].set(True)
+            # Reset all character checkboxes
+            for var in self.character_vars.values():
+                var.set(False)
+            # Set character checkboxes based on front matter
+            if front_matter and 'characters' in front_matter:
+                for character in front_matter['characters']:
+                    if character in self.character_vars:
+                        self.character_vars[character].set(True)
+            # Set rgb label from front matter
+            if front_matter and 'rgb' in front_matter:
+                self.rgb_value = front_matter['rgb']
+                self.rgb_label.config(text=f"rgb: {self.rgb_value}")
+            else:
+                self.rgb_value = ''
+                self.rgb_label.config(text="rgb: ")
 
     def save_current_state(self):
         if self.current_index < len(self.files):
@@ -229,6 +274,14 @@ class CategoryTagger:
                 
                 # Replace entire categories list
                 front_matter['categories'] = categories
+                # Get current characters from checkboxes
+                characters = []
+                for character, var in self.character_vars.items():
+                    if var.get():
+                        characters.append(character)
+                front_matter['characters'] = characters
+                # Save current rgb value
+                front_matter['rgb'] = self.rgb_value
                 save_markdown(file_path, front_matter)
 
     def run(self):
