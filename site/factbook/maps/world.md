@@ -1,7 +1,7 @@
 ---
 title: World Map
 fulltitle: World Map
-color: blue
+color: teal
 
 map: /svg/maps/world.png
 

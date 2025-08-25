@@ -7,7 +7,7 @@
   </div>
 
   <!-- Tooltip Toggle Button -->
-  <button id="tooltip-toggle" class="navbutton">
+  <button id="tooltip-toggle" class="navbutton" data-tooltip="Toggle tooltips">
     <svg viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
       <path fill="currentColor" d="
         M 28.08,47.87
@@ -24,16 +24,43 @@
         L 22.84,40.78
         L 27.09,47.24
         C 27.39,47.65 27.67,47.87 28.08,47.87
-        Z"/>
+        Z" />
     </svg>
   </button>
 
   <!-- Theme Toggle Button -->
-  <button id="theme-toggle" class="navbutton">
+  <button id="theme-toggle" class="navbutton" data-tooltip="Toggle theme">
     <span id="theme-icon"></span>
   </button>
 
   {{ if (.Scratch.Get "params").enable_site_search }}
-    {{ partial "search" . }}
+  {{ partial "search" . }}
   {{ end }}
 </header>
+
+<style>
+  .navbutton {
+  position: relative;
+}
+
+.navbutton::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: -2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #333;
+  color: white;
+  font-size: 0.75rem;
+  padding: 4px 8px;
+  border-radius: 4px;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s;
+}
+
+.navbutton:hover::after {
+  opacity: 1;
+}
+</style>

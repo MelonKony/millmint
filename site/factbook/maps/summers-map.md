@@ -1,7 +1,7 @@
 ---
 title: Summers Map
 fulltitle: Summers Map
-color: blue
+color: teal
 
 map: /svg/maps/summers.png
 

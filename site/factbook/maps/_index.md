@@ -1,13 +1,17 @@
 ---
-title: Maps
-fulltitle: Maps
+title: Map
+fulltitle: Map
 icon: 🗺️
-color: blue
+color: teal
+emoji: Φ
 
-toc: true
+map: /svg/maps/world.png
+type: map
+layout: map
 
 aliases:
 - /maps/
+- /map/
 ---
 {{<note panel >}}
 You can find a collection of [[Vekllei]] maps here.

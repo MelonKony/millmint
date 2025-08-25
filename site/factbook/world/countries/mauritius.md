@@ -2,20 +2,20 @@
 title: Mauritius
 fulltitle: Republic of Mauritius
 icon: 🌾
-logo: /svg/flags/4x3/mu.svg
+logo: /svg/flags/4x3/mu-4x3.svg
 
 description: Mauritius is a country in the south Indian Ocean, west of Madagascar.
 
 rgb: 238, 183, 14
 
-fi: fi fi-mu
+fi: fi fi-mu-4x3
 
 aliases:
 - /mauritius/
 series: country
 ---
 
-The **<span class="fi fi-mu"></span> Republic of Mauritius** is a country in the south Indian Ocean, west of Madagascar. It consists of scattered volcanic islands fringed by coral reefs, which are rich with arable soil used mostly to grow sugar cane, its largest export. Mauritius's capital, Port Louis, is modern and well connected by good roads and its busy port.
+The **<span class="fi fi-mu-4x3"></span> Republic of Mauritius** is a country in the south Indian Ocean, west of Madagascar. It consists of scattered volcanic islands fringed by coral reefs, which are rich with arable soil used mostly to grow sugar cane, its largest export. Mauritius's capital, Port Louis, is modern and well connected by good roads and its busy port.
 
 Mauritius has a comfortable subtropical climate, with a cool and a hot season. Its people are mostly descended from indentured labourers from India and Pakistan who were compelled their during French rule. English is the official language, but Creole is most commonly spoken.
 

@@ -1,0 +1,16 @@
+{{ $jq := resources.Get "js/jquery.min.js" }}
+{{ $dk := resources.Get "js/dark.js" }}
+{{ $cs := resources.Get "js/colors.js" }}
+{{ $fd := resources.Get "js/fade.js" }}
+{{ $fn := resources.Get "js/footnotes.js" }}
+{{ $lz := resources.Get "js/lazysizes.js" }}
+{{ $st := resources.Get "js/stories.js" }}
+{{ $pv := resources.Get "js/preview.js" }}
+{{ $js := slice $jq $dk $cs $fd $fn $lz $st $pv | resources.Concat "js/millmint.js"  }}
+
+{{ if hugo.IsServer }}
+    <script defer src="{{ $js.RelPermalink }}"></script>
+{{ else }}
+    {{ $js = $js | minify | fingerprint }}
+    <script defer src="{{ $js.RelPermalink }}"></script>
+{{ end }}

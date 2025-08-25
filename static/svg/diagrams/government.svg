@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 8225 3448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip1">
+            <rect x="893.7" y="378" width="11.6" height="35" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(1,0,0,-1,899.5,420.6)">
+                <path d="M0,8.6L0,33" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-59.9)">
+                <path d="M904.3,448.5L899.5,438.9L894.7,448.5L904.3,448.5Z" style="fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip2">
+            <rect x="893.7" y="528" width="11.6" height="35" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip2)">
+            <g transform="matrix(1,0,0,-1,899.5,570.6)">
+                <path d="M0,8.6L0,33" style="fill:none;fill-rule:nonzero;stroke:rgb(100,196,102);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,240.1)">
+                <path d="M904.3,298.5L899.5,288.9L894.7,298.5L904.3,298.5Z" style="fill:rgb(100,196,102);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip3">
+            <rect x="893.7" y="461" width="11.6" height="27" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip3)">
+            <g transform="matrix(1,0,0,-1,899.5,495.6)">
+                <path d="M0,8.6L0,25" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,106.1)">
+                <path d="M904.3,365.5L899.5,355.9L894.7,365.5L904.3,365.5Z" style="fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip4">
+            <rect x="287" y="427.2" width="26" height="166.3" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip4)">
+            <g>
+                <clipPath id="_clip5">
+                    <rect x="287" y="427.2" width="26" height="107.8" clip-rule="nonzero"/>
+                </clipPath>
+                <g clip-path="url(#_clip5)">
+                    <g>
+                        <clipPath id="_clip6">
+                            <rect x="287" y="427.2" width="26" height="57.8" clip-rule="nonzero"/>
+                        </clipPath>
+                        <g clip-path="url(#_clip6)">
+                            <g transform="matrix(-1,0,0,-1,312,483)">
+                                <path d="M0,0L23,0L23,50L8.6,50" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+                            </g>
+                            <g transform="matrix(1,0,0,1,0,38.5)">
+                                <path d="M302.4,399.3L312,394.5L302.4,389.7L302.4,399.3Z" style="fill-rule:nonzero;"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(-1,0,0,-1,312,533)">
+                        <path d="M0,0L23,0L23,100L8.6,100" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,0,38.5)">
+                        <path d="M302.4,399.3L312,394.5L302.4,389.7L302.4,399.3Z" style="fill-rule:nonzero;"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(-1,0,0,-1,312,591.5)">
+                <path d="M0,0L23,0L23,158.5L8.6,158.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,38.5)">
+                <path d="M302.4,399.3L312,394.5L302.4,389.7L302.4,399.3Z" style="fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,2870.58,987.371)">
+        <g transform="matrix(100,0,0,100,1513.74,383.202)">
+        </g>
+        <text x="906.5px" y="383.202px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:100px;fill:rgb(191,191,191);">L<tspan x="964.431px 1024.16px 1102.29px 1158.32px 1193.96px 1215.52px 1290.05px 1349.78px 1407.71px 1460.04px " y="383.202px 383.202px 383.202px 383.202px 383.202px 383.202px 383.202px 383.202px 383.202px 383.202px ">ower House</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,3708.91,143.612)">
+        <g transform="matrix(75,0,0,75,1611.82,98.9011)">
+        </g>
+        <text x="1171.24px" y="98.901px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:75px;">C<tspan x="1228.44px 1274.54px 1319.29px 1359.84px 1386.52px 1406.22px 1432.89px 1477.64px 1504.32px 1524.02px 1570.12px " y="98.901px 98.901px 98.901px 98.901px 98.901px 98.901px 98.901px 98.901px 98.901px 98.901px 98.901px ">onstitution</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,2461.41,1092.66)">
+        <text x="1002.72px" y="386.701px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;fill:rgb(234,77,61);">C<tspan x="1047.69px 1084.03px 1119.32px 1139.44px 1173.61px 1211.06px 1245.24px 1267.52px 1301.69px 1317.5px 1334.09px 1372.58px 1406.76px 1440.94px 1456.74px 1490.92px 1522.94px 1538.74px " y="386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px ">onfederal Ecclesia</tspan></text>
+        <g transform="matrix(58.3333,0,0,58.3333,1790.96,457.534)">
+        </g>
+        <text x="777.287px" y="457.534px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">8<tspan x="811.027px 844.767px 865.645px 906.91px 939.541px 975.44px 995.121px 1027.75px 1058.23px 1090.86px 1124.6px 1144.28px 1176.91px 1196.59px 1210.85px 1241.32px 1273.95px 1304.43px 1314.31px 1330.73px 1365.52px 1379.77px 1400.5px 1430.98px 1450.66px 1468.76px 1507.86px 1540.5px 1573.13px 1592.81px 1625.44px 1645.12px 1677.75px 1698.49px 1712.74px 1745.37px 1775.85px " y="457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px ">3 Representatives (First Secretaries)</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,1000.67,1330.16)">
+        <text x="316px" y="461.701px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">D<tspan x="360.343px 394.945px 427.388px 464.148px 480.375px 512.818px 547.42px 585.288px 595.032px 649.117px 665.343px 701.053px 717.28px 749.723px 771.375px 794.077px 810.303px 844.905px 877.348px 893.442px 911.827px 947.537px 983.247px " y="461.701px 461.701px 461.701px 461.701px 461.701px 461.701px 461.701px 461.701px 461.701px 461.701px 461.701px 461.701px 461.701px 461.701px 461.701px 461.701px 461.701px 461.701px 461.701px 461.701px 461.701px 461.701px 461.701px ">evolved Ministries (10)</tspan></text>
+        <g transform="matrix(58.3333,0,0,58.3333,982.77,532.534)">
+        </g>
+        <text x="316px" y="532.534px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">P<tspan x="354.547px 373.668px 405.74px 435.653px 467.725px 500.905px 520.027px 537.067px 550.763px 583.943px 600.984px 633.055px 665.127px 697.199px 730.379px 747.419px 788.124px 820.195px 855.534px 888.714px 924.052px 937.749px 951.445px " y="532.534px 532.534px 532.534px 532.534px 532.534px 532.534px 532.534px 532.534px 532.534px 532.534px 532.534px 532.534px 532.534px 532.534px 532.534px 532.534px 532.534px 532.534px 532.534px 532.534px 532.534px 532.534px 532.534px ">resent in each Republic</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,2587.08,1567.66)">
+        <text x="816.971px" y="536.701px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;fill:rgb(234,77,61);">R<tspan x="860.649px 895.694px 934.005px 970.158px 1008.47px 1025.14px 1041.81px 1076.85px 1081.54px 1123.06px 1155.95px 1188.83px 1223.88px 1277.36px 1315.67px 1332.34px 1365.22px 1377.85px 1396.67px 1432.83px 1468.98px " y="536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px ">epublic Assembly (83)</tspan></text>
+        <g transform="matrix(58.3333,0,0,58.3333,1376.41,607.534)">
+        </g>
+        <text x="947.559px" y="607.534px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">1<tspan x="981.001px 1014.44px 1038.14px 1071.58px 1105.03px 1123.96px 1175.78px 1208.11px 1258.88px 1294.48px 1326.81px 1347.24px " y="607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px ">5-25 Members</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,2630.39,1805.16)">
+        <text x="830.65px" y="611.701px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;fill:rgb(100,196,102);">M<tspan x="884.498px 919.972px 955.445px 971.435px 1005.8px 1021.79px 1059.42px 1093.79px 1109.78px 1122.61px 1163.45px 1195.65px 1227.86px 1262.23px 1315.03px 1352.66px 1368.65px " y="611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px ">unicipal Assembly</tspan></text>
+        <g transform="matrix(58.3333,0,0,58.3333,1384.85,682.534)">
+        </g>
+        <text x="856.492px" y="682.534px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">5<tspan x="890.946px 925.401px 959.856px 984.568px 1019.02px 1037.26px 1071.72px 1106.17px 1140.62px 1163.38px 1207.52px 1222.49px 1242.89px 1257.86px 1287.88px 1321.23px 1355.68px " y="682.534px 682.534px 682.534px 682.534px 682.534px 682.534px 682.534px 682.534px 682.534px 682.534px 682.534px 682.534px 682.534px 682.534px 682.534px 682.534px 682.534px ">00-2,000 Citizens</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,2562.57,1331.11)">
+        <text x="809.234px" y="473.901px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:75px;fill:rgb(234,77,61);">C<tspan x="866.146px 911.959px 956.421px 996.684px 1023.07px 1042.48px 1068.87px 1113.33px 1156.37px 1200.83px 1227.22px 1250.83px 1304.97px 1348.01px 1395.25px 1439.71px 1486.95px 1506.36px 1525.77px " y="473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px ">onstituent Republic</tspan></text>
+        <g transform="matrix(75,0,0,75,1411.42,561.401)">
+        </g>
+        <text x="966.861px" y="561.401px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:75px;">8<tspan x="1008.71px 1050.56px 1076.85px 1128.37px 1168.8px 1213.42px 1255.27px 1299.9px 1316.7px 1333.5px 1373.92px " y="561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px ">3 Republics</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,3296.5,1805.16)">
+        <g transform="matrix(58.3333,0,0,58.3333,1431.45,611.701)">
+        </g>
+        <text x="1041px" y="611.701px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">C<tspan x="1085.71px 1101.26px 1133.02px 1148.57px 1182.49px 1197.28px 1235.51px 1269.43px 1303.35px 1318.9px 1352.82px 1384.58px 1400.13px " y="611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px 611.701px ">ivic Ecclesia</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,3296.5,1724.44)">
+        <text x="1041px" y="586.21px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:58.333px;">Heliaea (Local Courts)</text>
+        <text x="1041px" y="796.585px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">I<tspan x="1059.24px 1094.8px 1132.52px 1168.09px 1200.38px 1221.89px 1244.44px 1260.52px 1294.98px 1311.06px 1330.41px 1369.18px 1403.63px 1438.09px 1454.17px 1488.62px 1520.92px 1537px " y="796.585px 796.585px 796.585px 796.585px 796.585px 796.585px 796.585px 796.585px 796.585px 796.585px 796.585px 796.585px 796.585px 796.585px 796.585px 796.585px 796.585px 796.585px ">ndustrial Ecclesia</tspan></text>
+        <g transform="matrix(58.3333,0,0,58.3333,1286.55,900.752)">
+        </g>
+        <text x="1041px" y="900.752px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">C<tspan x="1085.79px 1121.94px 1157.05px 1192.15px 1226.15px 1241.77px 1257.39px " y="900.752px 900.752px 900.752px 900.752px 900.752px 900.752px 900.752px ">ouncils</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,1000.67,1488.49)">
+        <text x="316px" y="511.701px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">F<tspan x="352.393px 386.629px 424.13px 458.365px 480.701px 514.936px 530.796px 545.343px 590.37px 626.764px 679.432px 716.934px 753.327px 788.671px 822.906px 858.249px 879.534px " y="511.701px 511.701px 511.701px 511.701px 511.701px 511.701px 511.701px 511.701px 511.701px 511.701px 511.701px 511.701px 511.701px 511.701px 511.701px 511.701px 511.701px ">ederal Components</tspan></text>
+        <text x="316px" y="582.534px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">U<tspan x="359.071px 392.458px 406.363px 441.908px 475.296px 507.575px 522.395px 556.833px 575.578px 610.016px 642.295px 675.683px 689.587px 719.708px 751.987px 771.316px 785.22px 819.658px 853.045px 883.166px 900.337px 945.508px 959.412px 978.741px 1012.13px 1026.03px 1059.42px 1076.59px 1108.87px 1122.23px 1173.99px 1187.89px 1221.28px 1235.18px 1265.3px 1284.63px 1305.01px " y="582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px 582.534px ">nique organisations within a Ministry</tspan></text>
+        <text x="316px" y="720.034px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">B<tspan x="358.898px 394.272px 415.587px 449.852px 484.117px 519.49px 534.353px 579.41px 615.833px 668.532px 706.063px 742.487px 777.86px 812.125px 847.498px 868.813px " y="720.034px 720.034px 720.034px 720.034px 720.034px 720.034px 720.034px 720.034px 720.034px 720.034px 720.034px 720.034px 720.034px 720.034px 720.034px 720.034px ">ureau Components</tspan></text>
+        <text x="316px" y="790.868px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">L<tspan x="348.982px 383.013px 414.887px 446.76px 460.258px 473.757px 503.472px 535.345px 570.485px 587.559px 601.057px 634.039px 648.972px 680.846px 712.719px 744.592px " y="790.868px 790.868px 790.868px 790.868px 790.868px 790.868px 790.868px 790.868px 790.868px 790.868px 790.868px 790.868px 790.868px 790.868px 790.868px 790.868px ">ocalised in each</tspan></text>
+        <text x="794.648px" y="790.868px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;fill:rgb(234,77,61);">R<tspan x="835.154px 867.028px 902.168px 935.149px 970.289px 983.788px 997.286px " y="790.868px 790.868px 790.868px 790.868px 790.868px 790.868px 790.868px ">epublic</tspan></text>
+        <text x="316px" y="928.368px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">N<tspan x="361.505px 396.217px 417.98px 434.318px 471.189px 507.011px 541.723px 558.061px 569.849px 614.304px 649.017px 686.996px 721.709px 744.522px 766.285px 819.431px 854.144px 889.965px 911.728px " y="928.368px 928.368px 928.368px 928.368px 928.368px 928.368px 928.368px 928.368px 928.368px 928.368px 928.368px 928.368px 928.368px 928.368px 928.368px 928.368px 928.368px 928.368px 928.368px ">ational Departments</tspan></text>
+        <text x="316px" y="999.201px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">U<tspan x="359.081px 392.48px 406.394px 441.951px 475.349px 507.639px 522.395px 557.951px 590.241px 625.798px 658.088px 678.477px 697.817px 748.54px 780.83px 814.228px 833.568px 863.699px 880.881px 926.062px 939.977px 959.317px 992.715px 1006.63px 1040.03px 1057.21px 1098.13px 1131.53px 1150.87px 1183.16px 1215.45px 1248.85px 1278.98px 1292.23px 1311.57px 1344.97px 1377.26px " y="999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px 999.201px ">nique departments within Bureaus that</tspan></text>
+        <g transform="matrix(58.3333,0,0,58.3333,874.829,1070.03)">
+        </g>
+        <text x="316px" y="1070.03px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">d<tspan x="351.594px 365.546px 384.924px 417.251px 449.579px 468.956px 487.021px 520.457px 552.784px 572.162px 586.114px 620.6px 654.036px 686.363px 700.316px 715.35px 750.944px 785.43px 799.382px 813.335px 845.662px " y="1070.03px 1070.03px 1070.03px 1070.03px 1070.03px 1070.03px 1070.03px 1070.03px 1070.03px 1070.03px 1070.03px 1070.03px 1070.03px 1070.03px 1070.03px 1070.03px 1070.03px 1070.03px 1070.03px 1070.03px 1070.03px ">irect national policy</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,3496.82,1331.11)">
+        <text x="1104.26px" y="473.901px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:75px;fill:rgb(41,95,244);">C<tspan x="1161.33px 1207.3px 1251.91px 1292.33px 1318.88px 1338.44px 1364.99px 1409.61px 1452.8px 1497.42px 1523.96px 1544.51px 1601.58px 1647.55px 1714.44px 1781.33px 1827.3px 1871.92px 1931.69px 1974.88px 2018.07px 2037.64px 2064.18px " y="473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px 473.901px ">onstituent Commonwealth</tspan></text>
+        <g transform="matrix(75,0,0,75,2073.23,561.401)">
+        </g>
+        <text x="1140.08px" y="561.401px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:75px;">8<tspan x="1181.37px 1204.51px 1255.46px 1295.32px 1337.96px 1354.19px 1396.82px 1438.11px 1477.97px 1494.2px 1511.44px 1565.18px 1607.81px 1671.37px 1734.93px 1777.56px 1818.85px 1875.28px 1915.14px 1955px 1971.23px 1994.44px 2035.73px " y="561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px 561.401px "> Regional Commonwealths</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,2657.18,2037.28)">
+        <g transform="matrix(75,0,0,75,1341.78,696.901)">
+        </g>
+        <text x="839.11px" y="696.901px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:75px;fill:rgb(100,196,102);">V<tspan x="884.083px 927.632px 969.83px 989.753px 1009.68px 1053.22px 1073.15px 1093.09px 1150.51px 1170.44px 1197.34px 1217.26px 1256.53px 1300.08px " y="696.901px 696.901px 696.901px 696.901px 696.901px 696.901px 696.901px 696.901px 696.901px 696.901px 696.901px 696.901px 696.901px 696.901px ">ekllei Citizen</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,4496.47,696.828)">
+        <text x="1419.94px" y="261.701px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;fill:rgb(41,95,244);">C<tspan x="1465.07px 1501.57px 1554.35px 1607.12px 1643.63px 1679.08px 1726.31px 1760.65px 1795px 1810.97px 1832.36px 1867.81px 1882.43px 1923.25px 1957.59px 1993.05px 2027.39px 2048.78px " y="261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px ">ommonwealth Senate</tspan></text>
+        <g transform="matrix(58.3333,0,0,58.3333,1918.7,332.534)">
+        </g>
+        <text x="1587.49px" y="332.534px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">4<tspan x="1621.39px 1655.29px 1675.1px 1714.37px 1747.16px 1781.06px 1813.85px 1833.69px 1868.64px 1889.53px " y="332.534px 332.534px 332.534px 332.534px 332.534px 332.534px 332.534px 332.534px 332.534px 332.534px ">0 Senators</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,4995.81,935.278)">
+        <g transform="matrix(75,0,0,75,1964.85,348.901)">
+        </g>
+        <text x="1577.62px" y="348.901px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:75px;">L<tspan x="1621.93px 1664.82px 1710.48px 1729.74px 1769.85px 1789.11px 1831.99px 1858.23px 1877.49px 1923.15px " y="348.901px 348.901px 348.901px 348.901px 348.901px 348.901px 348.901px 348.901px 348.901px 348.901px ">egislation</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,3455.78,696.828)">
+        <text x="1091.3px" y="261.701px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;fill:rgb(41,95,244);">R<tspan x="1134.64px 1169.35px 1206.21px 1222.54px 1259.41px 1295.22px 1329.93px 1346.26px 1354px 1399.5px 1436.37px 1489.51px 1542.65px 1579.51px 1615.33px 1662.92px 1697.63px 1732.34px 1748.67px 1770.42px 1806.24px 1816.5px 1857.68px 1890.23px 1922.78px 1957.48px 2010.62px 2048.6px 2064.93px 2097.48px 2112.8px 2131.29px 2167.11px " y="261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px 261.701px ">egional Commonwealth Assembly (8)</tspan></text>
+        <text x="1428.17px" y="332.534px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">2<tspan x="1462.52px 1496.87px 1521.47px 1555.82px 1590.17px 1612.44px 1665.16px 1698.4px 1750.07px 1786.58px 1819.81px 1841.15px " y="332.534px 332.534px 332.534px 332.534px 332.534px 332.534px 332.534px 332.534px 332.534px 332.534px 332.534px 332.534px ">5-50 Members</tspan></text>
+        <g transform="matrix(58.3333,0,0,58.3333,2119.98,403.368)">
+        </g>
+        <text x="1177.54px" y="403.368px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">~<tspan x="1213.66px 1247.22px 1271.04px 1304.59px 1327.66px 1379.59px 1412.04px 1462.92px 1498.64px 1531.09px 1551.63px 1581.92px 1595.34px 1613.73px 1633.23px 1667.84px 1718.72px 1737.66px 1770.11px 1802.56px 1835.01px 1868.56px 1881.99px 1923.07px 1955.52px 1991.24px 2024.79px 2060.51px 2074.58px 2088.65px " y="403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px 403.368px ">3-5 Members from each Republic</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,4901.29,1567.66)">
+        <text x="1547.78px" y="536.701px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;fill:rgb(100,196,102);">Q<tspan x="1595.64px 1631.61px 1666.47px 1689.43px 1711.34px 1746.2px 1769.16px 1785.65px 1818.35px 1835.94px 1879.44px 1914.3px 1935.1px 1969.96px 1991.87px 2026.73px 2062.7px 2100.82px 2136.79px " y="536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px ">uarterly Referendum</tspan></text>
+        <text x="1597.05px" y="607.534px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">E<tspan x="1633.87px 1664.21px 1696.71px 1717.31px 1747.65px 1762.49px 1796.09px 1828.59px 1860.04px 1874.17px 1888.29px 1920.79px " y="607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px ">very Vekllei</tspan></text>
+        <g transform="matrix(58.3333,0,0,58.3333,2137.84,607.534)">
+        </g>
+        <text x="1952.64px" y="607.534px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;fill:rgb(100,196,102);">C<tspan x="1995.93px 2010.06px 2029.61px 2043.73px 2072.91px 2105.41px " y="607.534px 607.534px 607.534px 607.534px 607.534px 607.534px ">itizen</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,3498.19,459.328)">
+        <text x="1306.5px" y="186.701px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">R<tspan x="1349.72px 1384.31px 1421.06px 1437.28px 1474.03px 1509.73px 1544.32px 1560.54px 1569.2px 1614.59px 1651.34px 1687.04px 1719.47px 1735.68px 1751.9px 1768.12px 1802.71px 1812.71px 1831.09px 1866.79px " y="186.701px 186.701px 186.701px 186.701px 186.701px 186.701px 186.701px 186.701px 186.701px 186.701px 186.701px 186.701px 186.701px 186.701px 186.701px 186.701px 186.701px 186.701px 186.701px 186.701px ">egional Consilia (8)</tspan></text>
+        <text x="1380.38px" y="257.534px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">8<tspan x="1414.11px 1434.54px 1485.59px 1518.21px 1551.94px 1569.45px 1581.59px 1615.32px 1635.75px 1681.26px 1716.04px 1767.09px 1799.71px " y="257.534px 257.534px 257.534px 257.534px 257.534px 257.534px 257.534px 257.534px 257.534px 257.534px 257.534px 257.534px 257.534px "> men, 8 women</tspan></text>
+        <g transform="matrix(58.3333,0,0,58.3333,1954.78,328.368)">
+        </g>
+        <g transform="matrix(58.3333,0,0,58.3333,1972.02,328.368)">
+        </g>
+        <g transform="matrix(58.3333,0,0,58.3333,1989.26,328.368)">
+        </g>
+        <g transform="matrix(58.3333,0,0,58.3333,2096.33,328.368)">
+        </g>
+        <text x="1104.69px" y="328.368px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">8<tspan x="1138.17px 1158.54px 1201.7px 1236.23px 1287.03px 1322.66px 1336.65px 1370.13px 1402.5px 1438.13px 1448.39px 1487.23px 1507.7px 1521.69px 1572.49px 1604.86px 1618.86px 1670.71px 1684.7px 1718.18px 1732.17px 1762.38px 1781.8px 1814.16px 1834.63px 1848.62px 1880.99px 1894.98px 1909.41px 1954.78px 2002.43px 2034.8px 2067.17px " y="328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px 328.368px "> Combined Prime Ministerial Oﬃces</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,3599.34,300.995)">
+        <text x="1136.63px" y="136.701px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">C<tspan x="1182.03px 1218.8px 1271.84px 1324.89px 1361.65px 1397.37px 1444.87px 1479.48px 1514.09px 1530.33px 1551.98px 1587.7px 1599.13px 1643.48px 1659.71px 1681.37px 1715.98px 1750.59px 1772.25px 1809.02px 1831.73px " y="136.701px 136.701px 136.701px 136.701px 136.701px 136.701px 136.701px 136.701px 136.701px 136.701px 136.701px 136.701px 136.701px 136.701px 136.701px 136.701px 136.701px 136.701px 136.701px 136.701px 136.701px ">ommonwealth Directory</tspan></text>
+        <g transform="matrix(58.3333,0,0,58.3333,1809.72,207.534)">
+        </g>
+        <text x="1196.83px" y="207.534px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">1<tspan x="1229.79px 1262.75px 1275.53px 1326.87px 1358.72px 1409.01px 1444.13px 1475.98px 1495.93px 1525.63px 1545.58px 1578.54px 1598.66px 1641.3px 1675.31px 1708.27px 1737.97px 1751.44px 1764.92px 1778.4px " y="207.534px 207.534px 207.534px 207.534px 207.534px 207.534px 207.534px 207.534px 207.534px 207.534px 207.534px 207.534px 207.534px 207.534px 207.534px 207.534px 207.534px 207.534px 207.534px 207.534px ">6 Members/8 Consilia</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,3467.54,1567.66)">
+        <text x="1095.01px" y="536.701px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;fill:rgb(41,95,244);">T<tspan x="1125.65px 1160.61px 1183.66px 1206.71px 1223.29px 1245.3px 1282.41px 1305.47px 1322.05px 1357px 1373.58px 1393.43px 1439.17px 1476.29px 1529.68px 1583.06px 1620.18px 1656.24px 1704.09px 1739.04px 1774px 1790.58px 1812.58px 1848.64px 1854.92px 1900.67px 1937.78px 1973.84px 2009.91px 2044.86px 2061.44px 2078.02px 2085.79px 2104.53px 2140.59px " y="536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px 536.701px ">erritorial Commonwealth Council (8)</tspan></text>
+        <g transform="matrix(58.3333,0,0,58.3333,1920.5,607.534)">
+        </g>
+        <text x="1346.25px" y="607.534px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">2<tspan x="1379.65px 1403.31px 1436.71px 1470.1px 1484.5px 1518.95px 1532.87px 1553.26px 1583.39px 1602.73px 1618.13px 1656.9px 1689.19px 1721.48px 1740.82px 1773.11px 1792.45px 1824.74px 1845.13px 1859.04px 1891.33px " y="607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px 607.534px ">-21 First Secretaries</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,1000.67,1092.66)">
+        <text x="316px" y="386.701px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">M<tspan x="370.494px 387.129px 423.247px 439.882px 472.734px 494.795px 529.805px 552.915px 569.55px 604.56px 621.196px 632.027px 673.512px 708.522px 731.632px 748.268px 764.903px 799.913px 853.356px 888.367px 924.485px 946.545px 979.397px 988.653px 1007.45px 1043.57px " y="386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px 386.701px ">inisterial Parliaments (6)</tspan></text>
+        <g transform="matrix(58.3333,0,0,58.3333,1001.6,457.534)">
+        </g>
+        <text x="316px" y="457.534px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">S<tspan x="354.62px 390.033px 422.178px 454.324px 468.094px 500.239px 514.01px 527.458px 561.762px 593.908px 629.32px 661.465px 681.711px 713.856px 727.627px 744.664px 796.293px 810.063px 843.317px 857.087px 887.074px 906.27px 926.515px 940.286px 972.431px " y="457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px 457.534px ">pecial Federal Ministries</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,1020.7,2042.66)">
+        <g transform="matrix(58.3333,0,0,58.3333,1379.58,686.701)">
+        </g>
+        <text x="322.326px" y="686.701px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">P<tspan x="363.202px 384.654px 421.213px 441.556px 475.958px 508.201px 540.444px 556.47px 593.03px 628.539px 662.941px 678.967px 693.641px 738.834px 775.394px 810.903px 846.413px 880.814px 896.841px 912.867px 945.11px 956.911px 996.737px 1014.11px 1054.99px 1087.23px 1119.48px 1156.04px 1190.44px 1206.46px 1240.86px 1262.32px 1278.34px 1314.9px 1350.41px " y="686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px 686.701px ">rofessional Councils &amp; Associations</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,5434,1567.19)">
+        <text x="1716px" y="530.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">F<tspan x="1746.27px 1776.54px 1805.9px 1824.12px 1836.75px 1854.07px 1866.74px 1910.9px 1939.32px 1964.94px 1980.58px 2008.1px 2019.23px 2044.84px 2073.26px 2100.78px 2114.4px 2129.87px 2145.51px 2174.88px 2203.29px 2228.91px 2241.58px 2254.25px 2282.66px " y="530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px ">our times a year, Vekllei</tspan></text>
+        <text x="2310.98px" y="530.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(100,196,102);">C<tspan x="2348.64px 2361.31px 2378.63px 2391.3px 2415.07px 2443.48px 2472.85px " y="530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px ">itizens</tspan></text>
+        <text x="1716px" y="593.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">v<tspan x="1741.65px 1771.95px 1789.31px 1817.76px 1833.85px 1864.15px 1893.56px 1905.18px 1921.59px 1934.29px 1959.94px 1988.39px 2004.49px 2021.84px 2052.14px 2068.23px 2096.68px 2109.39px 2139.69px 2169.09px 2186.44px 2199.93px 2231.19px 2243.89px 2256.59px 2269.29px 2294.95px 2307.32px 2338.57px 2367.97px 2397.37px 2428.62px 2441.33px 2469.78px " y="593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px 593.101px ">ote on five to eight bills bundled</tspan></text>
+        <text x="1716px" y="655.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">t<tspan x="1733.45px 1763.85px 1794.24px 1822.79px 1840.24px 1869.74px 1898.28px 1912.03px 1927.63px 1943.73px 1974.12px 2003.62px 2032.17px 2057.92px 2086.46px 2102.56px 2130.21px 2147.66px 2176.21px 2205.7px 2220.4px 2237.85px 2250.99px 2282.34px 2295.14px 2323.68px 2355.03px 2367.83px 2393.58px 2422.12px 2434.92px 2452.37px 2480.92px " y="655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px 655.601px ">ogether. These aren’t plebiscites</tspan></text>
+        <text x="1716px" y="718.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">a<tspan x="1743.38px 1774.46px 1804.59px 1833.82px 1851px 1864.37px 1894.5px 1924.62px 1950.1px 1978.38px 1997.36px 2026.59px 2070.62px 2098.9px 2128.13px 2145.31px 2159.8px 2190.88px 2221.01px 2252.09px 2281.32px 2293.85px 2321.23px 2339.31px 2351.84px 2369.02px 2394.5px 2411.3px 2442.38px 2471.61px " y="718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px 718.101px ">bout government popularity but</tspan></text>
+        <text x="1716px" y="780.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">d<tspan x="1747.1px 1759.65px 1776.85px 1805.15px 1833.45px 1850.66px 1866.3px 1891.8px 1921.95px 1939.15px 1967.45px 1992.95px 2008.59px 2038.74px 2067.99px 2081.17px 2106.67px 2137.77px 2166.07px 2194.37px 2206.93px 2223.18px 2235.73px 2264.03px 2279.67px 2295.92px 2324.22px 2355.32px 2383.62px 2401.72px 2429.12px 2441.67px 2457.31px 2469.87px 2497.27px 2536.67px " y="780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px 780.601px ">irect votes on specific federal laws</tspan></text>
+        <g transform="matrix(50,0,0,50,2226.84,843.101)">
+        </g>
+        <text x="1716px" y="843.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">p<tspan x="1746.86px 1774.03px 1799.29px 1824.55px 1852.62px 1883.48px 1895.89px 1926.75px 1952.02px 1967.4px 1998.27px 2025.43px 2043.3px 2055.61px 2067.92px 2095.08px 2138.9px 2166.96px 2195.97px 2212.94px " y="843.101px 843.101px 843.101px 843.101px 843.101px 843.101px 843.101px 843.101px 843.101px 843.101px 843.101px 843.101px 843.101px 843.101px 843.101px 843.101px 843.101px 843.101px 843.101px 843.101px ">assed by parliament.</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,4484,427.186)">
+        <text x="1416px" y="170.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">T<tspan x="1446.17px 1475.43px " y="170.601px 170.601px ">he</tspan></text>
+        <text x="1519.88px" y="170.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(41,95,244);">S<tspan x="1553.74px 1582.06px 1611.33px 1638.74px 1655.96px " y="170.601px 170.601px 170.601px 170.601px 170.601px ">enate</tspan></text>
+        <text x="1696.47px" y="170.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">i<tspan x="1709.04px 1734.55px 1747.92px 1777.18px 1805.5px 1831.02px 1843.58px 1856.15px 1884.47px 1897.03px 1912.4px 1937.91px 1954.04px 1970.31px 1998.62px 2029.74px 2058.06px 2076.17px 2103.59px 2116.16px 2129.62px 2158.89px 2190px 2221.12px 2249.44px " y="170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px 170.601px ">s Vekllei&apos;s federal upper</tspan></text>
+        <text x="1416px" y="233.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">h<tspan x="1445.31px 1475.52px 1504.83px 1530.38px 1558.74px 1574.15px 1586.89px 1624.5px 1651.96px 1664.57px 1680.88px 1696.94px 1714.2px 1743.51px " y="233.101px 233.101px 233.101px 233.101px 233.101px 233.101px 233.101px 233.101px 233.101px 233.101px 233.101px 233.101px 233.101px 233.101px ">ouse. Half the</tspan></text>
+        <text x="1787.92px" y="233.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(41,95,244);">S<tspan x="1821.83px 1850.19px 1879.5px 1906.96px 1924.21px " y="233.101px 233.101px 233.101px 233.101px 233.101px ">enate</tspan></text>
+        <text x="1964.23px" y="233.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">f<tspan x="1980.53px 2007.99px 2036.35px 2064.71px 2090.27px 2103.44px 2131.8px 2144.41px 2172.76px 2201.12px 2218.38px 2230.99px 2261.2px " y="233.101px 233.101px 233.101px 233.101px 233.101px 233.101px 233.101px 233.101px 233.101px 233.101px 233.101px 233.101px 233.101px ">aces election</tspan></text>
+        <text x="1416px" y="295.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">e<tspan x="1444.59px 1470.38px 1498.97px 1517.36px 1543.15px 1559.46px 1576.95px 1606.49px 1623.98px 1652.57px 1681.16px 1697.48px 1723.27px 1751.86px 1779.55px 1797.94px 1823.73px 1839.37px 1849.7px 1880.14px 1909.68px 1938.27px 1964.06px 1980.37px 1997.86px 2026.45px 2052.24px 2065.08px 2093.67px 2133.36px 2145.12px 2161.66px 2190.25px 2221.64px 2250.23px 2268.62px 2296.31px " y="295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px 295.601px ">very three years. They review federal</tspan></text>
+        <text x="1416px" y="358.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">l<tspan x="1428.52px 1456.79px 1486.92px 1499.44px 1524.91px 1537.43px 1564.8px 1581.98px 1594.5px 1624.62px 1653.84px 1669.39px 1696.76px 1725.98px 1757.05px 1768.83px 1798.95px 1824.42px 1852.7px 1870.77px 1896.24px 1924.51px 1952.78px 1968.33px 1984.55px 2012.82px 2043.89px 2072.17px 2090.24px 2117.61px 2130.13px 2145.68px 2173.95px 2204.07px 2233.3px 2264.37px 2293.59px 2321.86px 2339.03px " y="358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px 358.101px ">egislation and oversee federal conduct,</tspan></text>
+        <g transform="matrix(50,0,0,50,2286.3,420.601)">
+        </g>
+        <text x="1416px" y="420.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">i<tspan x="1428.57px 1457.83px 1486.14px 1498.71px 1527.98px 1559.09px 1571.65px 1600.92px 1631.09px 1644.62px 1661.84px 1689.26px 1714.77px 1742.18px 1759.4px 1771.97px 1802.13px 1831.39px 1846.76px 1859.03px 1876.24px 1893.45px 1921.77px 1949.18px 1966.4px 1978.97px 2007.28px 2032.8px 2048.76px 2076.18px 2105.45px 2136.56px 2150.22px 2167.44px 2185.55px 2212.97px 2244.09px 2272.4px " y="420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px 420.601px ">ncluding taxation, treaties and trade.</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,4325.67,1488.02)">
+        <text x="1366px" y="505.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(41,95,244);">T<tspan x="1390.69px 1419.09px 1437.28px 1455.47px 1468.11px 1485.41px 1515.65px 1533.84px 1546.49px 1573.98px 1586.62px 1604.8px 1642.44px 1672.68px 1702.02px 1731.37px 1759.76px 1772.4px 1785.05px " y="505.601px 505.601px 505.601px 505.601px 505.601px 505.601px 505.601px 505.601px 505.601px 505.601px 505.601px 505.601px 505.601px 505.601px 505.601px 505.601px 505.601px 505.601px 505.601px ">erritorial Councils</tspan></text>
+        <text x="1820.28px" y="505.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">a<tspan x="1847.77px 1865.06px " y="505.601px 505.601px ">re</tspan></text>
+        <text x="1366px" y="568.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">f<tspan x="1382.14px 1411.29px 1440.43px 1468.63px 1485.73px 1498.17px 1528.21px 1557.36px 1584.65px 1597.1px 1613.01px 1644px 1674.05px 1705.04px 1717.49px 1745.68px 1771.08px 1786.98px 1830.93px 1858.22px 1889.22px 1917.41px 1928.74px 1957.88px 1988.88px 2002.63px 2032.68px " y="568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px 568.101px ">unctional bodies made up of</tspan></text>
+        <text x="1366px" y="630.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">t<tspan x="1383.25px 1412.55px 1440.9px 1457.01px 1487.21px 1499.81px 1517.96px 1543.51px 1560.76px 1573.42px 1607.33px 1635.68px 1664.03px 1681.28px 1709.63px 1726.88px 1754.33px 1772.48px 1785.08px 1813.43px 1838.98px 1852.51px 1882.71px 1899.01px 1915.11px 1943.47px 1970.91px 1999.27px " y="630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px 630.601px ">he First Secretaries of each</tspan></text>
+        <text x="1366px" y="693.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(234,77,61);">r<tspan x="1383.39px 1411.89px 1443.19px 1472.63px 1503.93px 1516.67px 1529.42px " y="693.101px 693.101px 693.101px 693.101px 693.101px 693.101px 693.101px ">epublic</tspan></text>
+        <g transform="matrix(50,0,0,50,1938.89,693.101)">
+        </g>
+        <text x="1570.83px" y="693.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">i<tspan x="1583.58px 1613.02px 1628.59px 1645.98px 1675.43px 1703.92px 1716.67px 1734.96px 1750.53px 1767.92px 1796.42px 1826.76px 1839.51px 1869.85px 1899.3px 1924.99px " y="693.101px 693.101px 693.101px 693.101px 693.101px 693.101px 693.101px 693.101px 693.101px 693.101px 693.101px 693.101px 693.101px 693.101px 693.101px 693.101px ">n their regions.</tspan></text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip7">
+            <rect x="986" y="568.7" width="253" height="82.8" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip7)">
+            <g>
+                <clipPath id="_clip8">
+                    <rect x="986" y="593.7" width="253" height="57.8" clip-rule="nonzero"/>
+                </clipPath>
+                <g clip-path="url(#_clip8)">
+                    <g>
+                        <clipPath id="_clip9">
+                            <rect x="986" y="618.7" width="253" height="32.8" clip-rule="nonzero"/>
+                        </clipPath>
+                        <g clip-path="url(#_clip9)">
+                            <g transform="matrix(1,0,0,-1,987,649.5)">
+                                <path d="M0,0L250,0L250,25L133.6,25" style="fill:none;fill-rule:nonzero;stroke:rgb(100,196,102);stroke-width:2px;"/>
+                            </g>
+                            <g transform="matrix(1,0,0,1,0,421.5)">
+                                <path d="M1121.6,198.2L1112,203L1121.6,207.8L1121.6,198.2Z" style="fill:rgb(100,196,102);fill-rule:nonzero;"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(1,0,0,-1,987,649.5)">
+                        <path d="M0,0L250,0L250,50L208.6,50" style="fill:none;fill-rule:nonzero;stroke:rgb(100,196,102);stroke-width:2px;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,0,371.5)">
+                        <path d="M1196.6,223.2L1187,228L1196.6,232.8L1196.6,223.2Z" style="fill:rgb(100,196,102);fill-rule:nonzero;"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,-1,987,649.5)">
+                <path d="M0,0L250,0L250,75L183.6,75" style="fill:none;fill-rule:nonzero;stroke:rgb(100,196,102);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,321.5)">
+                <path d="M1171.6,248.2L1162,253L1171.6,257.8L1171.6,248.2Z" style="fill:rgb(100,196,102);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip10">
+            <rect x="893.7" y="603" width="11.6" height="33" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip10)">
+            <g transform="matrix(1,0,0,-1,899.5,643.6)">
+                <path d="M0,8.6L0,31" style="fill:none;fill-rule:nonzero;stroke:rgb(100,196,102);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,390.1)">
+                <path d="M904.3,223.5L899.5,213.9L894.7,223.5L904.3,223.5Z" style="fill:rgb(100,196,102);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip11">
+            <rect x="986" y="572.5" width="52" height="16.3" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip11)">
+            <g transform="matrix(-1,0,0,-1,1045.6,583)">
+                <path d="M8.6,8.5L33.6,8.5L33.6,0L50,0" style="fill:none;fill-rule:nonzero;stroke:rgb(100,196,102);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,338.5)">
+                <path d="M996.6,239.7L987,244.5L996.6,249.3L996.6,239.7Z" style="fill:rgb(100,196,102);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip12">
+            <rect x="986" y="577.2" width="52" height="49.3" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip12)">
+            <g>
+                <clipPath id="_clip13">
+                    <rect x="986" y="577.2" width="52" height="24.3" clip-rule="nonzero"/>
+                </clipPath>
+                <g clip-path="url(#_clip13)">
+                    <g transform="matrix(-1,0,0,-1,1045.6,599.5)">
+                        <path d="M8.6,0L33.6,0L33.6,16.5L50,16.5" style="fill:none;fill-rule:nonzero;stroke:rgb(100,196,102);stroke-width:2px;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,0,338.5)">
+                        <path d="M996.6,239.7L987,244.5L996.6,249.3L996.6,239.7Z" style="fill:rgb(100,196,102);fill-rule:nonzero;"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(-1,0,0,-1,1045.6,624.5)">
+                <path d="M8.6,0L33.6,0L33.6,41.5L50,41.5" style="fill:none;fill-rule:nonzero;stroke:rgb(100,196,102);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,338.5)">
+                <path d="M996.6,239.7L987,244.5L996.6,249.3L996.6,239.7Z" style="fill:rgb(100,196,102);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip14">
+            <rect x="1011" y="431.2" width="77" height="11.6" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip14)">
+            <g transform="matrix(1,0,0,-1,1012,437)">
+                <path d="M0,0L66.4,0" style="fill:none;fill-rule:nonzero;stroke:rgb(234,77,61);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,46.5)">
+                <path d="M1077.4,395.3L1087,390.5L1077.4,385.7L1077.4,395.3Z" style="fill:rgb(234,77,61);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip15">
+            <rect x="897.4" y="295.7" width="665.6" height="42.3" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip15)">
+            <g transform="matrix(1,0,0,-1,899.4,337)">
+                <path d="M0,0L0,35.5L654,35.5" style="fill:none;fill-rule:nonzero;stroke:rgb(234,77,61);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-224.5)">
+                <path d="M1552.4,530.8L1562,526L1552.4,521.2L1552.4,530.8Z" style="fill:rgb(234,77,61);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip16">
+            <rect x="986" y="528" width="644.3" height="123.5" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip16)">
+            <g transform="matrix(1,0,0,-1,987,658.1)">
+                <path d="M0,8.6L637.5,8.6L637.5,120.5" style="fill:none;fill-rule:nonzero;stroke:rgb(100,196,102);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,240.1)">
+                <path d="M1629.3,298.5L1624.5,288.9L1619.7,298.5L1629.3,298.5Z" style="fill:rgb(100,196,102);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip17">
+            <rect x="986" y="235.7" width="102" height="274.3" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip17)">
+            <g transform="matrix(1,0,0,-1,987,508)">
+                <path d="M0,0L75,0L75,266.5L91.4,266.5" style="fill:none;fill-rule:nonzero;stroke:rgb(234,77,61);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-344.5)">
+                <path d="M1077.4,590.8L1087,586L1077.4,581.2L1077.4,590.8Z" style="fill:rgb(234,77,61);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip18">
+            <rect x="1618.7" y="315" width="11.6" height="173" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip18)">
+            <g transform="matrix(1,0,0,-1,1624.5,495.6)">
+                <path d="M0,8.6L0,171" style="fill:none;fill-rule:nonzero;stroke:rgb(100,196,102);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-185.9)">
+                <path d="M1629.3,511.5L1624.5,501.9L1619.7,511.5L1629.3,511.5Z" style="fill:rgb(100,196,102);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip19">
+            <rect x="1218.7" y="195" width="11.6" height="18" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip19)">
+            <g transform="matrix(1,0,0,-1,1224.5,220.6)">
+                <path d="M0,8.6L0,16" style="fill:none;fill-rule:nonzero;stroke:rgb(41,95,244);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-425.9)">
+                <path d="M1229.3,631.5L1224.5,621.9L1219.7,631.5L1229.3,631.5Z" style="fill:rgb(41,95,244);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip20">
+            <rect x="1586" y="239.5" width="44.3" height="48.5" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip20)">
+            <g transform="matrix(1,0,0,-1,1587,278.4)">
+                <path d="M0,36.9L37.5,36.9L37.5,0" style="fill:none;fill-rule:nonzero;stroke:rgb(41,95,244);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-263.1)">
+                <path d="M1619.7,540.5L1624.5,550.1L1629.3,540.5L1619.7,540.5Z" style="fill:rgb(41,95,244);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip21">
+            <rect x="1218.7" y="270" width="11.6" height="143" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip21)">
+            <g transform="matrix(1,0,0,-1,1224.5,420.6)">
+                <path d="M0,8.6L0,141" style="fill:none;fill-rule:nonzero;stroke:rgb(41,95,244);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-275.9)">
+                <path d="M1229.3,556.5L1224.5,546.9L1219.7,556.5L1229.3,556.5Z" style="fill:rgb(41,95,244);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip22">
+            <rect x="1361" y="235.7" width="52" height="11.6" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip22)">
+            <g transform="matrix(1,0,0,-1,1362,241.5)">
+                <path d="M0,0L41.4,0" style="fill:none;fill-rule:nonzero;stroke:rgb(41,95,244);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-344.5)">
+                <path d="M1402.4,590.8L1412,586L1402.4,581.2L1402.4,590.8Z" style="fill:rgb(41,95,244);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip23">
+            <rect x="1218.7" y="128" width="11.6" height="11.6" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip23)">
+            <g transform="matrix(1,0,0,-1,1224.5,137.6)">
+                <path d="M0,0.6L0,8.6L0,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-559.9)">
+                <path d="M1229.3,698.5L1224.5,688.9L1219.7,698.5L1229.3,698.5Z" style="fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip24">
+            <rect x="1218.7" y="461" width="11.6" height="27" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip24)">
+            <g transform="matrix(1,0,0,-1,1224.5,495.6)">
+                <path d="M0,8.6L0,25" style="fill:none;fill-rule:nonzero;stroke:rgb(41,95,244);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,106.1)">
+                <path d="M1229.3,365.5L1224.5,355.9L1219.7,365.5L1229.3,365.5Z" style="fill:rgb(41,95,244);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip25">
+            <rect x="986" y="502.2" width="102" height="11.6" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip25)">
+            <g transform="matrix(1,0,0,-1,987,508)">
+                <path d="M0,0L91.4,0" style="fill:none;fill-rule:nonzero;stroke:rgb(234,77,61);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,188.5)">
+                <path d="M1077.4,324.3L1087,319.5L1077.4,314.7L1077.4,324.3Z" style="fill:rgb(234,77,61);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip26">
+            <rect x="986" y="547.2" width="52" height="41.6" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip26)">
+            <g transform="matrix(-1,0,0,-1,1045.6,583)">
+                <path d="M8.6,33.8L33.6,33.8L33.6,0L50,0" style="fill:none;fill-rule:nonzero;stroke:rgb(100,196,102);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,338.5)">
+                <path d="M996.6,239.7L987,244.5L996.6,249.3L996.6,239.7Z" style="fill:rgb(100,196,102);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip27">
+            <rect x="986" y="543.4" width="253" height="108.1" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip27)">
+            <g transform="matrix(1,0,0,-1,987,649.5)">
+                <path d="M0,0L250,0L250,100.3L233.6,100.3" style="fill:none;fill-rule:nonzero;stroke:rgb(100,196,102);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,270.9)">
+                <path d="M1221.6,273.5L1212,278.3L1221.6,283.1L1221.6,273.5Z" style="fill:rgb(100,196,102);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip28">
+            <rect x="511" y="352.2" width="252" height="11.6" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip28)">
+            <g transform="matrix(1,0,0,-1,512,358)">
+                <path d="M250,0L8.6,0" style="fill:none;fill-rule:nonzero;stroke:rgb(234,77,61);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-111.5)">
+                <path d="M521.6,464.7L512,469.5L521.6,474.3L521.6,464.7Z" style="fill:rgb(234,77,61);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip29">
+            <rect x="586" y="643.7" width="227" height="11.6" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip29)">
+            <g transform="matrix(1,0,0,-1,587,649.5)">
+                <path d="M225,0L8.6,0" style="fill:none;fill-rule:nonzero;stroke:rgb(100,196,102);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,471.5)">
+                <path d="M596.6,173.2L587,178L596.6,182.8L596.6,173.2Z" style="fill:rgb(100,196,102);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip30">
+            <rect x="443.7" y="620" width="11.6" height="18" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip30)">
+            <g transform="matrix(1,0,0,-1,449.5,645.6)">
+                <path d="M0,8.6L0,16" style="fill:none;fill-rule:nonzero;stroke:rgb(100,196,102);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,424.1)">
+                <path d="M454.3,206.5L449.5,196.9L444.7,206.5L454.3,206.5Z" style="fill:rgb(100,196,102);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip31">
+            <rect x="261" y="352.2" width="52" height="299.3" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip31)">
+            <g transform="matrix(-1,0,0,-1,312,649.5)">
+                <path d="M0,0L49,0L49,291.5L8.6,291.5" style="fill:none;fill-rule:nonzero;stroke:rgb(100,196,102);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-111.5)">
+                <path d="M302.4,474.3L312,469.5L302.4,464.7L302.4,474.3Z" style="fill:rgb(100,196,102);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip32">
+            <rect x="1218.6" y="65" width="11.6" height="23" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip32)">
+            <g transform="matrix(0,1,-1,0,1230.65,72.15)">
+                <path d="M-6.15,6.15L4.35,6.15L4.35,6.25L6.25,6.25" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-663.1)">
+                <path d="M1219.6,740.5L1224.4,750.1L1229.2,740.5L1219.6,740.5Z" style="fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,4325.67,1678.02)">
+        <text x="1366px" y="565.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">T<tspan x="1396.24px 1425.58px 1453.96px 1479.55px 1495.84px 1539.98px 1567.46px 1596.8px 1624.29px 1654.53px 1682.92px 1694.4px 1725.59px 1753.08px 1778.66px 1799.65px 1816.94px 1847.18px 1868.17px 1899.36px 1926.85px " y="565.601px 565.601px 565.601px 565.601px 565.601px 565.601px 565.601px 565.601px 565.601px 565.601px 565.601px 565.601px 565.601px 565.601px 565.601px 565.601px 565.601px 565.601px 565.601px 565.601px 565.601px ">hey manage day-to-day</tspan></text>
+        <text x="1366px" y="628.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">c<tspan x="1394.37px 1424.59px 1454.82px 1472.09px 1503.26px 1515.88px 1545.2px 1572.67px 1589.94px 1602.57px 1632.79px 1662.11px 1674.51px 1705.68px 1734.05px 1751.33px 1790.8px 1819.17px 1847.54px 1876.86px 1892.46px 1909.73px 1939.05px " y="628.101px 628.101px 628.101px 628.101px 628.101px 628.101px 628.101px 628.101px 628.101px 628.101px 628.101px 628.101px 628.101px 628.101px 628.101px 628.101px 628.101px 628.101px 628.101px 628.101px 628.101px 628.101px 628.101px ">oordination between the</tspan></text>
+        <g transform="matrix(50,0,0,50,1541.3,690.601)">
+        </g>
+        <text x="1366px" y="690.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">i<tspan x="1378.2px 1403.35px 1415.55px 1442.6px 1471.5px 1502.25px 1527.39px " y="690.601px 690.601px 690.601px 690.601px 690.601px 690.601px 690.601px ">slands.</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,3929.83,1013.02)">
+        <text x="1241px" y="355.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">V<tspan x="1270.31px 1298.67px 1324.23px 1336.84px 1349.45px 1377.81px 1390.42px 1405.83px 1431.39px 1445.29px 1462.55px 1490.9px 1522.06px 1551.37px 1582.53px 1595.14px 1607.75px 1636.11px 1661.67px 1674.86px 1702.32px 1719.57px 1747.93px 1764.04px 1794.25px 1811.01px 1841.22px 1868.68px 1897.99px 1910.6px 1936.16px 1964.52px 1995.68px 2008.34px 2020.95px 2050.26px 2067.52px " y="355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px 355.601px ">ekllei&apos;s republics are organised into</tspan></text>
+        <text x="1241px" y="418.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">r<tspan x="1258.11px 1286.33px 1316.39px 1328.85px 1358.91px 1388.07px 1415.39px 1427.85px 1443.11px 1456.37px 1486.43px " y="418.101px 418.101px 418.101px 418.101px 418.101px 418.101px 418.101px 418.101px 418.101px 418.101px 418.101px ">egional, or</tspan></text>
+        <text x="1519.37px" y="418.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(41,95,244);">&quot;<tspan x="1542.04px 1579.5px 1609.56px 1638.72px 1664.13px 1681.25px 1693.71px 1710.82px 1739.98px 1768.2px 1797.36px 1814.47px " y="418.101px 418.101px 418.101px 418.101px 418.101px 418.101px 418.101px 418.101px 418.101px 418.101px 418.101px 418.101px ">Constituent&quot;</tspan></text>
+        <text x="1241px" y="480.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(41,95,244);">C<tspan x="1278.41px 1308.43px 1352.34px 1396.25px 1426.27px 1455.38px 1494.64px 1522.81px 1550.07px 1562.48px 1579.55px 1608.66px " y="480.601px 480.601px 480.601px 480.601px 480.601px 480.601px 480.601px 480.601px 480.601px 480.601px 480.601px 480.601px ">ommonwealths</tspan></text>
+        <text x="1634.02px" y="480.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">,<tspan x="1649.24px 1660.51px 1691.47px 1718.74px 1744.1px 1772.26px 1803.23px 1816.28px 1846.29px 1875.4px 1890.78px 1918.94px 1948.05px 1960.46px 1977.53px 2006.64px 2023.7px " y="480.601px 480.601px 480.601px 480.601px 480.601px 480.601px 480.601px 480.601px 480.601px 480.601px 480.601px 480.601px 480.601px 480.601px 480.601px 480.601px 480.601px "> based on culture</tspan></text>
+        <text x="1241px" y="543.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">a<tspan x="1268.61px 1298.07px 1329.37px 1341.84px 1372.19px 1400.7px 1431.06px 1461.41px 1479.72px 1507.33px 1538.64px 1568.1px 1590.1px 1605.66px 1617.75px 1648.1px 1677.56px 1706.07px 1723.48px 1751.98px 1768.07px 1795.67px 1813.08px 1841.59px 1857.67px 1886.18px 1898.93px 1929.29px 1958.75px 1976.16px 1992.24px 2022.6px " y="543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px 543.101px ">nd geography. There are eight of</tspan></text>
+        <text x="1241px" y="605.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">t<tspan x="1258.28px 1287.61px 1315.99px 1360.12px 1375.55px 1391.83px 1419.31px 1448.64px 1479.82px 1490.81px 1508.08px 1537.41px 1565.79px 1591.37px 1607.66px 1633.24px 1661.61px 1679.79px 1705.37px 1733.75px 1750.04px 1794.16px 1824.39px 1849.97px 1867.25px 1879.88px " y="605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px 605.601px ">hem, and they serve mostly</tspan></text>
+        <g transform="matrix(50,0,0,50,1711.72,668.101)">
+        </g>
+        <text x="1241px" y="668.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">a<tspan x="1268.44px 1299.57px 1343.66px 1356.25px 1385.53px 1398.12px 1423.66px 1440.89px 1459.03px 1486.47px 1503.7px 1516.29px 1541.83px 1570.16px 1583.94px 1601.18px 1631.36px 1643.95px 1672.29px 1697.82px " y="668.101px 668.101px 668.101px 668.101px 668.101px 668.101px 668.101px 668.101px 668.101px 668.101px 668.101px 668.101px 668.101px 668.101px 668.101px 668.101px 668.101px 668.101px 668.101px 668.101px ">dministrative roles.</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,2584,2121.35)">
+        <text x="816px" y="705.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">D<tspan x="852.505px 880.661px 924.566px 954.572px 982.727px 1000.68px 1027.94px 1056.09px 1081.45px 1095.18px 1107.59px 1132.94px 1146.62px 1173.88px 1187.33px 1226.58px 1253.84px 1279.19px 1291.05px 1321.05px 1337.16px 1353.63px 1366.04px 1378.44px 1403.8px 1416.21px 1445.31px 1475.32px 1491.8px 1504.2px " y="705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px 705.601px ">emocracy is a way of living in</tspan></text>
+        <text x="816px" y="768.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">V<tspan x="845.382px 873.815px 899.447px 912.13px 924.812px 953.244px 965.927px 981.409px 997.36px 1026.74px 1057.03px 1074.36px 1087.04px 1116.42px 1146.7px 1162.65px 1175.34px 1200.97px 1216.92px 1245.35px 1275.64px 1319.82px 1351.05px 1380.43px 1393.12px 1418.75px 1449.03px 1467.26px 1489.19px 1504.68px 1514.34px 1541.87px 1571.26px " y="768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px 768.101px ">ekllei. Voting is compulsory, and</tspan></text>
+        <text x="816px" y="830.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">y<tspan x="841.665px 871.98px 901.394px 914.83px 946.095px 958.81px 976.174px 1004.64px 1033.1px 1050.47px 1063.18px 1088.85px 1105.12px 1130.79px 1161.1px 1178.46px 1206.93px 1221.12px 1251.43px 1280.84px 1294.07px 1319.73px 1350.04px 1379.46px " y="830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px 830.601px ">ou directly vote on your</tspan></text>
+        <text x="816px" y="893.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">M<tspan x="860.582px 889.464px 918.346px 930.528px 958.46px 970.642px 1001.37px 1028.41px 1040.59px 1055.65px 1090.09px 1115.22px 1140.35px 1168.28px 1211.96px 1242.7px 1254.88px 1276.31px 1291.29px 1306.36px 1341.69px 1369.62px 1400.36px 1429.24px 1459.97px 1472.15px 1484.34px " y="893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px 893.101px ">unicipal Assembly, Republic</tspan></text>
+        <text x="816px" y="955.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">A<tspan x="850.618px 875.937px 901.255px 929.374px 973.242px 1004.16px 1016.53px 1038.15px 1053.32px 1068.49px 1105.85px 1118.22px 1143.54px 1155.91px 1184.03px 1195.51px 1234.72px 1251.24px 1281.21px 1308.43px 1337.5px 1349.87px 1375.18px 1402.4px 1419.42px 1431.79px 1461.76px 1490.83px " y="955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px 955.601px ">ssembly, Civic Organisations</tspan></text>
+        <g transform="matrix(50,0,0,50,1477.4,1018.1)">
+        </g>
+        <text x="816px" y="1018.1px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">a<tspan x="843.46px 872.77px 903.929px 916.835px 956.295px 985.605px 1013.06px 1031.22px 1048.48px 1076.84px 1095px 1107.61px 1133.17px 1149.64px 1185.4px 1213.76px 1230.07px 1258.43px 1275.69px 1304.05px 1333.36px 1364.52px 1393.83px 1437.94px 1463.5px " y="1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px 1018.1px ">nd Quarterly Referendums.</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,1802.05,1250.52)">
+        <text x="720.46px" y="430.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">T<tspan x="750.551px 779.743px " y="430.601px 430.601px ">he</tspan></text>
+        <text x="824.128px" y="430.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(234,77,61);">C<tspan x="861.619px 891.711px 920.902px 946.344px 963.485px 975.977px 993.118px 1022.31px 1050.55px 1079.74px 1096.88px 1113.03px 1148.67px 1176.91px 1207.95px 1237.14px 1268.19px 1280.68px 1293.17px " y="430.601px 430.601px 430.601px 430.601px 430.601px 430.601px 430.601px 430.601px 430.601px 430.601px 430.601px 430.601px 430.601px 430.601px 430.601px 430.601px 430.601px 430.601px 430.601px ">onstituent Republic</tspan></text>
+        <text x="1330.54px" y="430.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">i<tspan x="1343.04px 1368.48px 1381.99px 1399.13px 1428.32px " y="430.601px 430.601px 430.601px 430.601px 430.601px ">s the</tspan></text>
+        <text x="740.479px" y="493.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">f<tspan x="756.723px 786.866px 816.11px 845.353px 876.446px 903.84px 921.033px 933.577px 963.72px 992.964px 1008.57px 1038.72px 1054.96px 1068.46px 1097.71px 1126px 1151.5px 1164.04px 1176.58px 1204.88px 1217.42px 1232.76px 1258.26px 1273.87px 1304.96px 1335.1px 1347.65px 1360.19px 1377.38px 1389.93px 1418.22px 1445.61px " y="493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px 493.101px ">oundation of Vekllei&apos;s political</tspan></text>
+        <text x="569.068px" y="555.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">s<tspan x="594.373px 619.678px 644.983px 661.988px 690.093px 733.947px 749.102px 762.063px 776.268px 793.273px 807.768px 820.123px 845.428px 859.213px 886.418px 915.473px 929.163px 941.518px 966.823px 979.178px 1006.38px 1035.44px 1066.34px 1079.93px 1108.04px 1137.99px 1181.85px 1225.7px 1254.76px 1283.81px 1296.17px 1313.17px 1338.48px 1355.12px 1394.32px 1406.67px 1423.68px " y="555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px 555.601px ">ystem. It is an island community with</tspan></text>
+        <text x="615.577px" y="618.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">i<tspan x="627.859px 644.792px 670.024px 685.418px 715.3px 754.433px 783.415px 795.442px 826.274px 853.407px 871.239px 883.521px 895.804px 922.936px 966.718px 994.751px 1023.73px 1040.66px 1056.06px 1084.09px 1111.22px 1123.51px 1135.79px 1163.82px 1194.65px 1210.05px " y="618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px ">ts own parliament called a</tspan></text>
+        <text x="1252.57px" y="618.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(234,77,61);">R<tspan x="1288.01px 1316.04px 1346.87px 1375.85px 1406.68px 1418.97px 1431.25px " y="618.101px 618.101px 618.101px 618.101px 618.101px 618.101px 618.101px ">epublic</tspan></text>
+        <text x="632.3px" y="680.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(234,77,61);">A<tspan x="666.85px 692.099px 717.348px 745.397px 789.196px 820.045px 832.344px " y="680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px ">ssembly</tspan></text>
+        <text x="853.893px" y="680.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">.<tspan x="868.992px 882.914px 914.663px 941.812px 969.861px 998.86px 1010.77px 1037.92px 1063.17px 1088.42px 1116.46px 1160.26px 1191.11px 1203.41px 1228.66px 1242.15px 1270.2px 1282.5px 1310.55px 1338.6px 1355.54px 1380.79px 1396.96px 1409.26px 1426.21px " y="680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px 680.601px "> Each assembly elects its</tspan></text>
+        <text x="624.464px" y="743.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">o<tspan x="654.559px 693.904px 723.099px 735.209px 747.704px 775.949px 803.294px 834.339px 862.585px 876.03px 891.325px 906.813px 935.058px 962.403px 974.898px 987.393px 1015.64px 1046.68px 1062.17px 1089.52px 1101.21px 1131.31px 1143.8px 1161.85px 1187.29px 1204.44px 1219.93px 1253.72px 1281.97px 1310.21px 1327.36px 1355.6px 1372.75px 1400.09px 1418.14px 1439.88px " y="743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px 743.101px ">wn leader, called a First Secretary,</tspan></text>
+        <text x="706.226px" y="805.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">w<tspan x="745.752px 775.127px 805.403px 818.381px 835.707px 864.132px 895.358px 912.684px 941.109px 966.735px 995.16px 1024.54px 1041.86px 1067.49px 1083.07px 1100.39px 1129.77px 1158.19px 1173.78px 1186.45px 1212.08px 1224.75px 1252.28px 1281.65px 1312.88px 1324.23px 1336.91px 1366.28px 1381.86px 1399.19px 1428.57px " y="805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px 805.601px ">ho represents the island in the</tspan></text>
+        <text x="980.47px" y="868.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(234,77,61);">C<tspan x="1017.71px 1047.55px 1076.49px 1092.43px 1120.42px 1151.21px 1179.2px 1196.99px 1224.08px 1236.32px 1252.04px 1283.73px 1311.72px 1339.71px 1351.95px 1379.94px 1405.13px 1417.37px " y="868.101px 868.101px 868.101px 868.101px 868.101px 868.101px 868.101px 868.101px 868.101px 868.101px 868.101px 868.101px 868.101px 868.101px 868.101px 868.101px 868.101px 868.101px ">onfederal Ecclesia</tspan></text>
+        <g transform="matrix(50,0,0,50,1458.36,868.101)">
+        </g>
+        <text x="1444.46px" y="868.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">.</text>
+    </g>
+    <g transform="matrix(1,0,0,1,3217.33,2119.77)">
+        <text x="1016px" y="705.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">S<tspan x="1049.62px 1080.49px 1108.56px 1136.63px 1148.95px 1176.12px 1188.44px 1200.09px 1230.01px 1246.48px 1276.4px 1303.57px 1332.59px 1344.91px 1370.18px 1397.35px 1414.32px 1426.64px 1456.56px 1485.58px 1510.85px 1526.68px 1555.7px 1582.87px 1608.14px 1636.21px 1652.04px 1679.21px 1691.39px 1716.67px 1743.84px 1769.11px 1781.81px 1794.13px 1823.15px 1838.98px 1855.95px 1884.97px " y="705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px 705.101px ">pecial organisations have a say in the</tspan></text>
+        <text x="1016px" y="767.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(100,196,102);">M<tspan x="1060.86px 1090.02px 1119.18px 1131.64px 1159.86px 1172.32px 1203.33px 1230.64px 1243.1px 1254.95px 1289.66px 1315.07px 1340.48px 1368.69px 1412.65px 1443.67px 1456.13px " y="767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px ">unicipal Assembly</tspan></text>
+        <text x="1477.84px" y="767.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">.<tspan x="1493.1px 1505.56px 1535.62px 1564.78px 1592.99px 1618.4px 1646.61px 1662.62px 1675.09px 1704.25px 1732.46px 1744.92px 1774.08px 1805.09px 1833.3px 1849.32px 1866.43px 1895.59px 1923.8px 1939.81px 1977.27px 1989.74px 2015.15px 2027.61px " y="767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px 767.601px "> These include the Civic</tspan></text>
+        <text x="1016px" y="830.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">E<tspan x="1047.74px 1075.78px 1103.81px 1116.1px 1144.14px 1169.38px 1181.66px 1208.8px 1223.89px 1235.37px 1279.16px 1306.3px 1337.13px 1365.17px 1381.14px 1410.13px 1440.97px 1453.02px 1482.91px 1498.89px 1514.87px 1543.86px 1573.74px 1590.68px 1617.82px 1648.65px 1660.94px 1688.98px 1704.95px 1717.24px 1747.13px 1775.16px 1802.3px 1814.59px 1839.83px 1852.5px 1864.78px 1893.77px 1909.74px 1939.63px 1969.52px 1999.4px " y="830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px 830.101px ">cclesia, made up of notable locals in good</tspan></text>
+        <text x="1016px" y="892.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">s<tspan x="1041.31px 1058.31px 1085.52px 1114.57px 1145.48px 1157.83px 1186.89px 1216.85px 1232px 1247.92px 1275.12px 1304.18px 1335.09px 1347.46px 1364.47px 1393.53px 1421.63px 1437.55px 1451.75px 1480.81px 1511.71px 1540.77px 1566.08px 1583.08px 1600.99px 1613.34px 1640.55px 1652.9px 1668.82px 1700.63px 1728.73px 1756.84px 1769.19px 1797.3px 1822.61px 1834.96px 1862.17px 1877.32px 1888.11px 1918.07px " y="892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px 892.601px ">tanding, and the Industrial Ecclesia, of</tspan></text>
+        <text x="1016px" y="955.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">b<tspan x="1046.98px 1076.12px 1101.5px 1113.94px 1143.07px 1171.26px 1196.64px 1222.03px 1265.96px 1294.14px 1323.28px 1338.51px 1350.56px 1380.59px 1409.72px 1437.91px 1454.99px 1483.18px 1501.87px 1529.15px 1546.24px 1574.42px 1590.55px 1617.83px 1630.27px 1655.65px 1685.69px 1697.49px 1725.67px 1755.7px 1784.84px 1813.97px 1842.16px 1854.59px 1867.03px 1892.41px 1907.64px 1919.81px 1959.09px 1988.23px 2000.66px 2028.85px " y="955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px 955.101px ">usinessmen. There are also councils, which</tspan></text>
+        <text x="1016px" y="1020.89px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">a<tspan x="1043.18px 1060.16px 1088.25px 1103.63px 1133.56px 1150.05px 1179.98px 1207.16px 1236.19px 1248.52px 1273.81px 1301.89px 1332.77px 1348.16px 1375.34px 1392.32px 1422.25px 1451.29px 1480.32px 1511.2px 1526.59px 1553.77px 1582.8px 1608.08px 1623.47px 1635.8px 1665.73px 1693.81px 1721px 1733.33px 1745.79px 1758.12px 1787.15px 1804.14px 1832.22px 1849.2px 1877.28px 1902.56px " y="1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px 1020.89px ">re organised around any local interest</tspan></text>
+        <text x="1919.55px" y="1020.89px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:54.167px;">—</text>
+        <text x="1975.05px" y="1020.89px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">n<tspan x="2004.08px 2032.16px " y="1020.89px 1020.89px ">ew</tspan></text>
+        <text x="1016px" y="1084.27px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">m<tspan x="1060.03px 1090.16px 1107.34px 1136.57px 1164.85px 1182.92px 1208.4px 1223.73px 1239.35px 1256.52px 1274.6px 1301.98px 1314.51px 1343.74px 1359.35px 1387.63px 1416.86px 1434.04px 1463.27px 1492.5px 1517.98px 1530.51px 1557.88px 1583.36px 1600.54px 1626.02px 1641.35px 1652.42px 1679.8px 1723.83px 1751.21px 1768.39px 1796.67px 1825.9px 1843.98px 1859.59px 1877.67px 1905.05px 1936.13px 1948.66px " y="1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px 1084.27px ">others, train enthusiasts, amateur radio</tspan></text>
+        <g transform="matrix(50,0,0,50,1359.83,1146.77)">
+        </g>
+        <text x="1016px" y="1146.77px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">o<tspan x="1046.11px 1077.17px 1105.43px 1123.49px 1150.85px 1168.01px 1198.12px 1216.17px 1241.63px 1256.94px 1272.25px 1300.51px 1317.67px 1345.93px " y="1146.77px 1146.77px 1146.77px 1146.77px 1146.77px 1146.77px 1146.77px 1146.77px 1146.77px 1146.77px 1146.77px 1146.77px 1146.77px 1146.77px ">perators, etc.</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,146.31,1385.1)">
+        <text x="66.247px" y="473.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">D<tspan x="102.966px 131.335px 156.904px 187.123px 199.742px 225.311px 253.68px 284.849px 297.967px 342.986px 355.605px 384.924px 397.543px 423.112px 440.381px 458.55px 471.169px 499.538px 525.107px 538.237px 552.706px 582.025px 607.594px 636.913px 664.382px 677.001px 689.62px 715.189px 731.655px 744.274px 773.593px 799.162px " y="473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px 473.101px ">evolved Ministries (usually just</tspan></text>
+        <text x="123.742px" y="535.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">&quot;<tspan x="146.606px 191.671px 204.335px 233.699px 246.364px 271.978px 289.292px 307.506px 320.171px 348.585px 374.199px 397.064px 411.578px 427.676px 455.19px 472.505px 500.919px 514.302px 531.616px 560.981px 589.395px 605.493px 618.158px 648.422px 676.836px 704.35px 717.015px 728.172px 756.586px 769.251px 794.865px 807.529px " y="535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px 535.601px ">Ministries&quot;) are the local civil</tspan></text>
+        <text x="82.751px" y="598.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">s<tspan x="108.462px 136.972px 155.283px 180.993px 193.754px 222.264px 250.775px 266.336px 279.631px 309.992px 339.452px 367.963px 393.673px 409.939px 437.549px 454.96px 483.47px 496.871px 527.232px 544.142px 574.503px 602.113px 631.574px 644.334px 670.045px 698.556px 729.866px 742.366px 759.777px 789.237px " y="598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px 598.101px ">ervice. They are organised the</tspan></text>
+        <text x="103.381px" y="660.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">s<tspan x="128.646px 155.811px 199.627px 227.692px 240.981px 280.146px 307.311px 332.577px 344.701px 357.016px 386.031px 402.013px 430.078px 457.243px 485.308px " y="660.601px 660.601px 660.601px 660.601px 660.601px 660.601px 660.601px 660.601px 660.601px 660.601px 660.601px 660.601px 660.601px 660.601px 660.601px ">ame way in each</tspan></text>
+        <text x="527.468px" y="660.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(234,77,61);">r<tspan x="544.433px 572.498px 603.363px 632.378px 663.244px 675.559px 687.874px " y="660.601px 660.601px 660.601px 660.601px 660.601px 660.601px 660.601px ">epublic</tspan></text>
+        <text x="731.921px" y="660.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">a<tspan x="759.086px 788.101px " y="660.601px 660.601px ">nd</tspan></text>
+        <text x="46.203px" y="723.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">i<tspan x="58.684px 102.664px 133.695px 146.176px 174.406px 218.387px 246.618px 275.798px 292.929px 309.567px 338.748px 366.078px 383.209px 395.69px 425.77px 454.951px 482.282px 494.762px 506.618px 537.649px 567.729px 580.21px 592.691px 620.921px 646.352px 660.043px 672.524px 702.604px 730.835px 758.166px 770.646px 783.127px 804.858px " y="723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px 723.101px ">mplement national policy locally.</tspan></text>
+        <text x="148.01px" y="785.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">T<tspan x="178.075px 207.241px 235.456px 260.872px 276.776px 305.941px 333.257px 358.672px 386.888px 402.792px 415.257px 445.323px 473.538px 500.854px 513.319px 524.24px 555.255px 584.421px 601.536px 629.752px 657.067px 686.232px 711.648px 726.913px 742.818px 773.833px 802.998px " y="785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px 785.601px ">hey have local bureaus, but</tspan></text>
+        <text x="53.356px" y="848.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">m<tspan x="97.235px 124.464px 153.543px 178.872px 191.736px 235.615px 247.994px 277.073px 289.452px 314.781px 331.81px 349.739px 362.118px 390.247px 415.576px 431.706px 460.785px 488.014px 513.343px 541.472px 557.602px 582.931px 613.86px 641.989px 670.118px 682.497px 709.726px 722.105px 734.484px 759.812px 787.941px " y="848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px 848.101px ">any ministries have specialised</tspan></text>
+        <g transform="matrix(50,0,0,50,818.652,910.601)">
+        </g>
+        <text x="448.669px" y="910.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">n<tspan x="478.053px 505.587px 522.921px 535.605px 565.889px 595.273px 622.807px 635.491px 647.414px 677.698px 693.182px 709.566px 722.25px 750.684px 779.118px 804.752px " y="910.601px 910.601px 910.601px 910.601px 910.601px 910.601px 910.601px 910.601px 910.601px 910.601px 910.601px 910.601px 910.601px 910.601px 910.601px 910.601px ">ational offices.</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,2585,482.603)">
+        <text x="817.708px" y="188.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">E<tspan x="849.565px 876.821px 904.978px 934.084px 945.563px 973.72px 1003.73px 1032.83px 1058.19px 1075.25px 1087.65px 1104.71px 1133.82px 1161.97px 1191.08px " y="188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px ">ach constituent</tspan></text>
+        <text x="1224.28px" y="188.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(41,95,244);">c<tspan x="1252.43px 1282.44px 1326.35px 1370.25px 1400.26px 1429.37px 1468.62px 1496.78px 1524.04px 1536.44px 1553.5px " y="188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px ">ommonwealth</tspan></text>
+        <text x="1598.75px" y="188.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">h<tspan x="1627.85px 1655.11px 1680.47px 1691.99px 1719.24px 1732.68px 1749.74px 1777.9px 1807.9px 1820.31px 1850.32px 1879.42px 1906.68px " y="188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px 188.101px ">as a regional</tspan></text>
+        <text x="820.101px" y="250.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(41,95,244);">a<tspan x="847.365px 872.73px 898.095px 926.259px 970.174px 1001.14px 1013.55px " y="250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px ">ssembly</tspan></text>
+        <text x="1051.48px" y="250.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">m<tspan x="1095.39px 1122.66px 1153.62px 1181.79px 1197.16px 1226.28px 1257.24px 1269.13px 1299.14px 1315.26px 1330.63px 1343.05px 1360.11px 1385.48px 1400.85px 1444.76px 1472.93px 1516.84px 1547.81px 1575.97px 1593.94px 1619.3px 1634.67px 1673.94px 1702.1px 1714.52px 1744.53px 1773.65px 1790.71px 1818.88px 1849.84px 1865.21px 1896.18px " y="250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px 250.601px ">ade up of its members weighted by</tspan></text>
+        <text x="816.316px" y="313.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">p<tspan x="847.327px 877.389px 908.4px 937.561px 950.022px 977.333px 994.444px 1006.9px 1036.97px 1066.13px 1081.39px 1094.06px 1124.12px 1153.28px 1181.5px 1206.91px 1235.12px 1251.24px 1278.55px 1303.96px 1329.37px 1357.59px 1401.55px 1432.56px 1445.02px 1457.48px 1485.69px 1511.1px 1522.76px 1548.17px 1578.23px 1595.34px 1623.55px 1639.67px 1655.84px 1685.9px 1703.91px 1720.03px 1750.09px 1779.25px 1807.47px 1820.65px 1864.61px 1891.92px " y="313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px 313.101px ">opulation. These assemblies vote for one man</tspan></text>
+        <text x="820.174px" y="375.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">a<tspan x="847.528px 876.732px 907.786px 921.009px 951.113px 980.317px 1008.57px 1024.01px 1063.37px 1093.47px 1137.47px 1164.83px 1194.03px 1204.19px 1221.34px 1251.45px 1266.89px 1279.39px 1307.65px 1335px 1366.05px 1378.7px 1395.86px 1425.06px 1453.32px 1497.32px 1512.76px 1540.12px 1565.57px 1578.26px 1605.62px 1618.96px 1644.42px 1656.92px 1686.13px 1716.23px 1728.73px 1756.99px 1772.43px 1802.53px 1817.84px 1834.04px 1846.55px 1874.8px 1903.05px " y="375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px 375.601px ">nd one woman to lead them as a single office,</tspan></text>
+        <text x="1016.34px" y="438.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">c<tspan x="1044.47px 1071.7px 1084.07px 1096.45px 1124.58px 1155.51px 1170.89px 1198.11px 1210.25px 1247.62px 1277.6px 1306.68px 1332.01px 1344.38px 1356.76px 1369.14px 1396.37px 1411.55px 1422.89px 1450.11px 1479.19px 1510.12px 1525.5px 1553.63px 1566px 1594.13px 1622.26px 1639.29px 1654.67px 1671.69px 1700.77px " y="438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px 438.101px ">alled a Consilia, and elect the</tspan></text>
+        <text x="1744.28px" y="438.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(41,95,244);">S<tspan x="1777.96px 1806.08px 1835.16px 1862.39px 1879.42px " y="438.101px 438.101px 438.101px 438.101px 438.101px ">enate</tspan></text>
+        <g transform="matrix(50,0,0,50,1921.44,438.101)">
+        </g>
+        <text x="1907.55px" y="438.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">.</text>
+    </g>
+    <g transform="matrix(1,0,0,1,739.844,775.519)">
+        <text x="261.32px" y="280.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">V<tspan x="290.51px 318.749px 344.189px 356.679px 369.168px 397.408px 409.898px 427.735px 456.925px 484.264px 509.704px 522.855px 548.295px 579.334px 607.574px 635.814px 648.303px 675.643px 688.133px 700.525px 725.965px 755.154px 786.194px 814.434px 832.473px 844.963px 875.053px 893.092px 908.773px 952.763px 965.253px 994.442px 1006.93px 1032.37px 1049.51px 1067.55px 1080.04px 1108.28px 1133.72px 1149.4px 1174.84px 1204.03px 1234.12px 1273.46px 1302.65px 1313.32px 1340.65px " y="280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px 280.601px ">ekllei has special superior ministries known as</tspan></text>
+        <text x="410.392px" y="343.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">M<tspan x="455.18px 467.567px 496.655px 509.042px 534.38px 551.417px 579.555px 597.492px 609.88px 637.117px 649.505px 665.49px 699.178px 726.415px 744.353px 756.74px 769.128px 796.365px 840.253px 868.39px 897.478px 914.515px 939.853px 955.04px 966.202px 996.19px 1025.28px 1053.41px 1078.75px 1106.89px 1122.88px 1151.96px 1179.2px 1204.54px 1232.67px 1248.66px 1274px 1317.88px 1345.12px 1357.51px " y="343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px 343.101px ">inisterial Parliaments. These have small</tspan></text>
+        <text x="235.759px" y="405.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">a<tspan x="263.085px 288.512px 313.939px 342.166px 386.143px 417.17px 429.647px 442.123px 470.35px 495.777px 506.984px 537.06px 553.237px 568.597px 596.824px 622.251px 653.278px 681.505px 699.532px 716.658px 742.085px 757.445px 785.672px 798.149px 826.376px 854.603px 871.73px 899.956px 930.983px 946.343px 977.37px 1002.8px 1018.16px 1030.63px 1059.81px 1090.84px 1120.01px 1145.44px 1162.57px 1180.6px 1193.07px 1220.4px 1232.88px 1248.15px 1259.71px 1287.94px 1300.42px 1325.84px 1338.32px " y="405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px 405.601px ">ssemblies of experts elected by industrial, civic</tspan></text>
+        <text x="233.635px" y="468.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">a<tspan x="261.003px 290.221px 321.29px 334.47px 365.538px 395.656px 408.175px 420.693px 437.861px 450.38px 478.648px 506.016px 518.534px 531.65px 561.768px 578.436px 608.555px 635.923px 665.141px 677.66px 703.128px 730.496px 747.664px 760.183px 790.301px 819.519px 844.988px 860.556px 877.724px 906.942px 934.31px 951.479px 967.047px 992.515px 1020.78px 1037.95px 1050.91px 1067.13px 1095.4px 1126.47px 1154.74px 1172.81px 1200.17px 1212.69px 1228.26px 1259.33px 1289.45px 1301.97px 1314.48px 1342.75px " y="468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px 468.101px ">nd political organisations that set federal policy</tspan></text>
+        <g transform="matrix(50,0,0,50,1368.14,530.601)">
+        </g>
+        <text x="279.704px" y="530.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">d<tspan x="310.873px 323.492px 340.761px 369.13px 397.499px 414.768px 427.387px 452.956px 469.182px 481.801px 511.12px 527.345px 554.814px 572.083px 600.452px 627.921px 653.491px 665.029px 677.648px 690.267px 715.836px 744.205px 756.444px 785.763px 814.132px 841.601px 854.22px 871.489px 900.808px 929.177px 956.646px 973.915px 1002.28px 1018.51px 1045.98px 1075.3px 1106.47px 1120.12px 1148.49px 1179.66px 1208.98px 1237.35px 1264.81px 1282.08px 1294.7px 1324.92px 1354.24px " y="530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px 530.601px ">irectly in areas like healthcare and education.</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,2834.32,221.353)">
+        <text x="895.047px" y="105.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">T<tspan x="925.322px 954.698px 983.123px 999.31px 1036.09px 1048.76px 1066.09px 1094.51px 1122.94px 1140.26px 1170.54px 1188.76px 1214.39px 1230.58px 1243.25px 1268.88px 1282.02px 1299.34px 1328.72px 1357.14px 1373.33px 1401.76px 1427.38px 1455.81px 1484.23px 1513.61px 1530.93px 1543.61px 1569.23px 1597.66px 1609.02px 1637.45px 1667.72px 1697.1px 1726.47px 1754.9px 1767.57px " y="105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px 105.601px ">he Directory is the executive council</tspan></text>
+        <text x="915.555px" y="168.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">o<tspan x="945.95px 962.445px 979.228px 1008.72px 1037.27px 1063.01px 1075.81px 1088.6px 1117.15px 1129.94px 1145.54px 1158.61px 1173.25px 1190.69px 1204.31px 1232.86px 1263.25px 1307.55px 1338.89px 1357.24px 1370.03px 1395.78px 1424.32px 1450.07px 1459.88px 1489.38px 1506.16px 1536.55px 1552.15px 1568.64px 1581.44px 1609.98px 1638.53px 1664.27px 1681.06px 1720.7px 1750.2px " y="168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px 168.101px ">f Vekllei. It comprises 8 offices who</tspan></text>
+        <g transform="matrix(50,0,0,50,1779.59,230.601)">
+        </g>
+        <text x="947.61px" y="230.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">l<tspan x="960.134px 988.407px 1015.78px 1046.85px 1062.2px 1079.38px 1108.6px 1125.77px 1155.9px 1185.12px 1215.24px 1244.47px 1259.82px 1289.94px 1308.01px 1335.39px 1366.46px 1395.68px 1423.06px 1440.23px 1468.5px 1499.58px 1514.93px 1543.2px 1573.32px 1602.55px 1628.02px 1656.29px 1685.52px 1710.99px 1740.21px 1765.68px " y="230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px 230.601px ">ead through graduated consensus.</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,2054.65,830.936)">
+        <text x="754.012px" y="298.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">T<tspan x="784.098px 813.285px " y="298.101px 298.101px ">he</tspan></text>
+        <text x="857.504px" y="298.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(234,77,61);">C<tspan x="894.99px 925.077px 954.263px 970.45px 998.686px 1029.72px 1057.96px 1076px 1103.33px 1115.82px 1131.8px 1163.74px 1191.97px 1220.21px 1232.7px 1260.93px 1286.37px 1298.86px " y="298.101px 298.101px 298.101px 298.101px 298.101px 298.101px 298.101px 298.101px 298.101px 298.101px 298.101px 298.101px 298.101px 298.101px 298.101px 298.101px 298.101px 298.101px ">onfederal Ecclesia</tspan></text>
+        <text x="1334.54px" y="298.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">s<tspan x="1359.97px 1388.21px 1406.25px 1431.68px 1459.92px 1475.9px 1503.24px 1528.67px 1541.43px 1558.56px 1587.75px " y="298.101px 298.101px 298.101px 298.101px 298.101px 298.101px 298.101px 298.101px 298.101px 298.101px 298.101px ">erve as the</tspan></text>
+        <text x="648.836px" y="360.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">f<tspan x="665.076px 693.366px 724.455px 752.745px 770.835px 798.225px 810.765px 826.437px 838.977px 869.117px 908.507px 936.797px 954.887px 968.126px 997.366px 1027.51px 1056.75px 1082.24px 1110.53px 1126.2px 1156.34px 1172.58px 1185.92px 1215.16px 1243.45px 1268.94px 1281.48px 1294.02px 1322.31px 1334.85px 1350.19px 1375.68px 1391.35px 1422.44px 1434.98px 1463.27px 1490.66px 1534.7px 1562.99px 1581.08px 1608.47px " y="360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px 360.601px ">ederal lower house of Vekllei&apos;s bicameral</tspan></text>
+        <text x="990.023px" y="423.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">s<tspan x="1015.5px 1040.97px 1066.45px 1083.63px 1111.9px 1155.93px 1171.26px 1183.02px 1213.14px 1242.37px 1270.65px 1296.12px 1312.42px 1340.69px 1370.82px 1414.85px 1445.92px 1464px 1476.53px 1502px 1530.28px 1543.1px 1560.28px 1589.51px " y="423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px 423.101px ">ystem. They comprise the</tspan></text>
+        <text x="849.837px" y="485.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">r<tspan x="867.073px 895.408px 926.543px 943.779px 972.114px 997.649px 1025.99px 1055.27px 1072.51px 1099.94px 1117.18px 1129.76px 1155.3px 1183.63px 1209.17px 1225.31px 1255.5px 1271.78px 1287.92px 1316.26px 1343.7px 1372.03px " y="485.601px 485.601px 485.601px 485.601px 485.601px 485.601px 485.601px 485.601px 485.601px 485.601px 485.601px 485.601px 485.601px 485.601px 485.601px 485.601px 485.601px 485.601px 485.601px 485.601px 485.601px 485.601px ">epresentatives of each</tspan></text>
+        <text x="1415.3px" y="485.601px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(234,77,61);">R<tspan x="1451.04px 1479.38px 1510.51px 1539.8px 1570.93px 1583.52px 1596.1px " y="485.601px 485.601px 485.601px 485.601px 485.601px 485.601px 485.601px ">epublic</tspan></text>
+        <text x="711.409px" y="548.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;fill:rgb(234,77,61);">A<tspan x="746.109px 771.509px 796.909px 825.109px 869.059px 900.059px 912.509px " y="548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px ">ssembly</tspan></text>
+        <g transform="matrix(50,0,0,50,1616.16,548.101)">
+        </g>
+        <text x="934.209px" y="548.101px" style="font-family:'HelveticaNeue-Italic', 'Helvetica Neue';font-style:italic;font-size:50px;">,<tspan x="949.459px 962.023px 989.323px 1018.47px 1049.47px 1064.84px 1077.29px 1106.44px 1118.89px 1135.99px 1148.44px 1175.74px 1192.84px 1221.04px 1236.4px 1280.35px 1310.4px 1335.8px 1352.9px 1365.21px 1377.66px 1405.86px 1435.91px 1448.36px 1473.76px 1486.21px 1513.51px 1530.61px 1543.06px 1573.11px 1602.26px " y="548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px 548.101px "> and initiate most legislation.</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,4876.93,2121.83)">
+        <g transform="matrix(58.3333,0,0,58.3333,1880.36,711.701)">
+        </g>
+        <text x="1540.08px" y="711.701px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:58.333px;">m<tspan x="1593.46px 1610.03px 1626.6px 1643.16px 1696.54px 1713.11px 1749.16px 1771.15px 1790.99px 1827.04px 1861.98px " y="711.701px 711.701px 711.701px 711.701px 711.701px 711.701px 711.701px 711.701px 711.701px 711.701px 711.701px ">illmint.net</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,4540.21,829.038)">
+        <g transform="matrix(100,0,0,100,2049.3,333.202)">
+        </g>
+        <text x="1433.75px" y="333.202px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:100px;fill:rgb(191,191,191);">U<tspan x="1508.77px 1570.89px 1633.01px 1689.53px 1725.64px 1749.13px 1824.15px 1884.37px 1942.79px 1995.61px " y="333.202px 333.202px 333.202px 333.202px 333.202px 333.202px 333.202px 333.202px 333.202px 333.202px ">pper House</tspan></text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <clipPath id="_clip33">
+            <rect x="785" y="528" width="120.3" height="123.5" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip33)">
+            <g transform="matrix(1,0,0,-1,787,658.1)">
+                <path d="M25,8.6L0,8.6L0,109.1L112.5,109.1L112.5,120.5" style="fill:none;fill-rule:nonzero;stroke:rgb(100,196,102);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,240.1)">
+                <path d="M904.3,298.5L899.5,288.9L894.7,298.5L904.3,298.5Z" style="fill:rgb(100,196,102);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+</svg>

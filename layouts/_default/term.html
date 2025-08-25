@@ -1,17 +1,17 @@
 {{ define "content" }}
 <article class="content" style="margin-top: 0;">
-    {{ if .Content }}
-    {{- partial "content.html" . -}}
+  <ul>
+    {{ range .Pages.ByPublishDate.Reverse }}
+    <li><a class="slink" {{ if .Params.color }} style="
+     color: var(--color-{{ .Params.color }});
+     background: color-mix(in srgb, var(--color-{{ .Params.color }}) 10%, transparent)" {{ end }} {{ if .Params.rgb }} style="color: rgb({{ .Params.rgb }});
+     background: color-mix(in srgb, rgb({{ .Params.rgb }}) 10%, transparent);" {{ end }} href="{{ .RelPermalink }}"><span class="{{ .Params.fi }}"></span> {{ .Title }}</a></li>
     {{ end }}
-
-    {{ $paginator := .Paginate .Pages.ByPublishDate.Reverse 12 }}
-    {{ partial "components/postcard.html" (dict 
-        "paginator" $paginator 
-        "ctx" .
-        "term" .Title
-        "taxonomy" .Data.Singular
-        "taxonomyPlural" .Data.Plural
-    ) }}
-    {{- partial "components/link-preview.html" . -}}
+  </ul>
 </article>
+{{ end }}
+
+{{/* Optional: override the header partial call in your base template with showMeta=false */}}
+{{ define "page-header" }}
+  {{ partial "article-header.html" (dict "ctx" . "showMeta" false) }}
 {{ end }}

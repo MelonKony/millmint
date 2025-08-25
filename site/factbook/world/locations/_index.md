@@ -4,6 +4,7 @@ fulltitle: Locations in Vekllei
 icon: 🌐
 emoji: g
 color: green
+list: true
 
 aliases:
   - /places/

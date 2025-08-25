@@ -23,7 +23,7 @@
     </div>
   </main>
   {{- partial "resources/js.html" . -}}
-  {{- partial "script.html" . -}}
+  {{ partial "resources/js.html" . }}
     <script>
         // Add this before your map initialization
         document.addEventListener('DOMContentLoaded', function() {
@@ -159,5 +159,10 @@
             opacity: 1 !important;
             visibility: visible !important;
         }
+
+        .leaflet-touch .leaflet-control-layers, .leaflet-touch .leaflet-bar {
+            border: 2px solid var(--highlight);
+            background-clip: padding-box;
+}
     </style>
 </body>

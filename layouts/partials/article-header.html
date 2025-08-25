@@ -1,0 +1,59 @@
+{{ $ctx := .ctx }}
+{{ $showMeta := default true .showMeta }}
+
+{{ if default true $ctx.Params.heading }}
+<header class="info">
+  <h1 class="title">{{ $ctx.Params.fulltitle | default $ctx.Title }}</h1>
+  <div class="date" style="margin-right: .25rem;">
+    {{ if $ctx.PublishDate }}
+      {{ $ctx.PublishDate.Format "Monday, Jan 2, 2006" }}
+    {{ end }}
+  </div>
+
+  {{ if and (default true $ctx.Params.meta) $showMeta }}
+  <div class="meta">
+    <span class="icon" style="line-height: 1.2;">{{ $ctx.Params.icon }}</span>
+    <div class="headcrumbs">
+      {{ if $ctx.Params.showBreadcrumbs | default ($ctx.Site.Params.article.showBreadcrumbs | default true) }}
+        {{ partial "components/headcrumbs.html" $ctx }}
+      {{ end }}
+    </div>
+    <div class="article-category">
+      {{ if $ctx.Params.series }}
+        {{ partial "components/series.html" $ctx }}
+      {{ else }}
+        {{ $ctx.Params.series | default "MillMint" }}
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+  {{ if $ctx.Params.emoji }}
+    <div class="emoji" id="whirlybat">{{ $ctx.Params.emoji }}</div>
+  {{ end }}
+
+  {{ if $ctx.Params.logo }}
+    <img class="logo" alt="article logo" src="{{ $ctx.Params.logo }}">
+  {{ end }}
+
+  {{ if in $ctx.Params.characters "tzipora" | or (in $ctx.Params.characters "cobian") | or (in $ctx.Params.characters "baron") | or (in $ctx.Params.characters "ayn") | or (in $ctx.Params.characters "moise") | or (in $ctx.Params.characters "coretti") | or (in $ctx.Params.characters "zhi") }}
+  <div class="characters">
+    {{ if in $ctx.Params.characters "tzipora" }}<a href="/characters/tzipora"><img src="/images/mastheads/characters/portraits/tzipora.png"></a>{{ end }}
+    {{ if in $ctx.Params.characters "cobian" }}<a href="/characters/cobian"><img src="/images/mastheads/characters/portraits/cobian.png"></a>{{ end }}
+    {{ if in $ctx.Params.characters "baron" }}<a href="/characters/baron"><img src="/images/mastheads/characters/portraits/baron.png"></a>{{ end }}
+    {{ if in $ctx.Params.characters "ayn" }}<a href="/characters/ayn"><img src="/images/mastheads/characters/portraits/ayn.png"></a>{{ end }}
+    {{ if in $ctx.Params.characters "moise" }}<a href="/characters/moise"><img src="/images/mastheads/characters/portraits/moise.png"></a>{{ end }}
+    {{ if in $ctx.Params.characters "coretti" }}<a href="/characters/coretti"><img src="/images/mastheads/characters/portraits/coretti.png"></a>{{ end }}
+    {{ if in $ctx.Params.characters "zhi" }}<a href="/characters/zhi"><img src="/images/mastheads/characters/portraits/zhi.png"></a>{{ end }}
+  </div>
+  {{ end }}
+</header>
+{{ end }}
+
+{{ if $ctx.Params.rgb }}
+  <div data-page-color="{{ $ctx.Params.rgb }}" style="display: none"></div>
+{{ else }}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+{{ end }}
+
+{{ partial "components/image.html" $ctx }}

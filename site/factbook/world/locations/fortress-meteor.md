@@ -3,16 +3,16 @@ title: Fortress Meteor
 fulltitle: Fortress Meteor
 icon: ⚔️
 color: land
-logo: /svg/crests/territorial.svg
+logo: /svg/crests/territorial-service.svg
 series: location
 
-fi: fi fi-min-land fis
+fi: fi fi-territorial-service fis
 description: Fortress Meteor is a fortress of the Vekllei Armed Forces, located in the republic of Meteor.
 
 aliases:
 - /fortress-meteor/
 ---
-**Fortress Meteor** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of Flores.
+**Fortress Meteor** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Flores]].
 
 {{<note table>}}
 **Resident Regiments & Battalions**:
@@ -24,5 +24,12 @@ aliases:
 * *34th Rifles Battalion*
 * *35th Rifles Battalion*
 * 19th Atlantic Rifles
+{{</note>}}
+
+{{<note table>}}
+**Resident [[Air Service]] Squadrons**:
+
+* No. 2 Aerorifles Wing
+* *No. 5 Aerorifles Sqdn.*
 {{</note>}}
 

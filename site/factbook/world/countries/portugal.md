@@ -2,13 +2,13 @@
 title: Portugal
 fulltitle: The Second Portuguese Republic
 icon: ⛵️
-logo: /svg/flags/4x3/pt.svg
+logo: /svg/flags/4x3/pt-4x3.svg
 
 description: Portugal was a country on the western coast of the Iberia, and existed in an area now occupied by the constituent state of the same name in Iberia.
 
 rgb: 0, 102, 1
 
-fi: fi fi-pt
+fi: fi fi-pt-4x3
 
 aliases:
 - /portugal/

@@ -3,10 +3,10 @@ title: NS Antigua
 fulltitle: Naval Station Antigua
 icon: ⚓️
 color: marine
-logo: /svg/crests/marine.svg
+logo: /svg/crests/maritime-service.svg
 series: location
 
-fi: fi fi-min-marine fis
+fi: fi fi-maritime-service fis
 description: Naval Station Antigua is a naval station of the Vekllei Armed Forces, located in the republic of Antigua.
 
 aliases:
@@ -16,3 +16,11 @@ aliases:
 
 Today, Naval Station Antigua is a modern naval base, featuring expanded dry-docks and a radar station. Its unique facilities include a heritage shipyard, which preserves parts of the original 18th-century dockyard, and a civil defence station that specialises in coastal search-and-rescue and disaster response training for the Littoral Service. The facility is also an important base of operations for international anti-drug trafficking operations, and maintains strong ties with neighbouring Caribbean nations. It is the home base of the [[kalina|Commonwealth Kalina]] Auxiliary Fleet.
 
+{{<note table>}}
+**Resident [[Air Service]] Squadrons**:
+
+* No. 9 Aeromarine Helicopters Wing
+* *No. 39 Am. Heli Sqdn.* Cenobite
+* No. 4 Aerorifles Wing
+* *No. 14 Aerorifles Sqdn.*
+{{</note>}}

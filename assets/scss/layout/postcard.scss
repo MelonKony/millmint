@@ -29,7 +29,7 @@
     // Add fallback for border color
     border: 2px solid var(--gray-light);
     width: 100%;
-    height: 400px;
+    height: 360px;
     box-sizing: border-box;
     // Add fallback for background
     background: var(--gray-light);
@@ -67,6 +67,7 @@
     .postcard-image {
       flex: 1;
       min-height: 0;
+      @include padding-0;
       @include radius-base;
       border-top-left-radius: 0;
       border-top-right-radius: 0;
@@ -82,7 +83,7 @@
         height: 360px !important;
         object-fit: cover !important;
         object-position: top !important;
-        transform: scale(1.1);
+        transform: scale(1.1)!important;
         width: 100%;
       }
     }

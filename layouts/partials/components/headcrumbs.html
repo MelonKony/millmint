@@ -1,3 +1,7 @@
+{{/* 
+  headcrumbs.html
+  Adds breadcrumbs to the header
+*/}}
 <nav aria-label="headcrumbs">
     {{ range .Ancestors.Reverse }}
       <li class="headcrumbs {{ if .Page.IsHome }}hidden{{ end }}">

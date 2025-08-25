@@ -50,7 +50,7 @@ During this period, government policy promoted assimilation and integration into
 * Strong government intervention in migrant housing, mixing races and preventing the formation of enclaves;
 * A mandatory requirement to know and speak English, which is the functional language of commerce and business in Vekllei;
 * Universalising government schooling so that the children of migrants would grow up among different cultures;
-* Municipal-level conscription and reservism in organisations like [[Civil Defence]];
+* Municipal-level conscription and reservism in organisations like the [[Civil Defence Service]];
 * Municipal-level cultural holidays and intercultural events to allow different cultures to celebrate their holidays throughout the year.
 
 This heavy-handed approach to migration eased somewhat in later years, but are still practiced in some form today. There are very few ethnic enclaves in Vekllei, and those that exist are often historic and may even date back to the colonial period. 

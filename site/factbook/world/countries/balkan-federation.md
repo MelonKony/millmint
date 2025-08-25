@@ -1,0 +1,29 @@
+---
+title: Balkan Federation
+fulltitle: Federal Socialist Republic of the Balkans
+icon: ♣️
+logo: /svg/flags/4x3/balkan-4x3.svg
+
+description: The Balkan Federation is a market socialist country in southeastern Europe spanning the Adriatic and Black Seas.
+
+rgb: 180, 0, 3
+
+fi: fi fi-balkan-4x3
+
+aliases:
+- /balkan/
+series: country
+---
+{{<infobox/country
+     Name="FSR Balkans"
+     Flag="/svg/flags/4x3/balkan-4x3.svg"
+     SmallFlag="/svg/flags/4x3/balkan-4x3.svg"
+     Population="61,392,400"
+     Capital="Belgrade, SR Serbia"
+     Languages="Serbo-Croatian, Montenegrin, Albanian, Romanian, Bulgarian, Macedonian, many others"
+ >}}
+
+The **<span class="fi fi-balkan-4x3"></span> Federal Socialist Republic of the Balkans** (FSR Balkans, commonly *the Balkans*) is a country in south-east Europe, comprising a large territory south of the alps to the western half of the Bosporous Strait and the city of Constantinople. It is a federal republic made up of historic Yugoslav territories (including Serbia, Croatia, Bosnia, Montenegro, and others) as well as the regions of Albania, Bulgaria and Romania. It has a socialist economy, but is politically independent of the soviet sphere, and is a major supporter of the non-aligned movement alongside [[India]] and [[Vekllei]].
+
+The balkans are an extremely diverse country, and ethnic relations are closely controlled. The government is dispersed, with the executive seated in Belgrade but the legal and judicial capitals in Sofia and Constanta. Balkaners have the freedom to live and work abroad, and the country is open to Western tourists and investment.
+

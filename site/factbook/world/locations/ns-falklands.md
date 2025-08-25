@@ -3,10 +3,10 @@ title: NS Falklands
 fulltitle: Naval Station Falklands
 icon: ⚓️
 color: marine
-logo: /svg/crests/marine.svg
+logo: /svg/crests/maritime-service.svg
 series: location
 
-fi: fi fi-min-marine fis
+fi: fi fi-maritime-service fis
 description: Naval Station Falklands is a naval station of the Vekllei Armed Forces, located in the republic of the Falklands.
 
 aliases:

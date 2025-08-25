@@ -3,10 +3,10 @@ title: Fortress Praia
 fulltitle: Fortress Praia
 icon: ⚔️
 color: land
-logo: /svg/crests/territorial.svg
+logo: /svg/crests/territorial-service.svg
 series: location
 
-fi: fi fi-min-land fis
+fi: fi fi-territorial-service fis
 description: Fortress Praia is a fortress of the Vekllei Armed Forces, located in the republic of Praia.
 
 aliases:
@@ -22,4 +22,11 @@ aliases:
 * *15th Rifles Battalion*
 * 14th Verden Rifles
 * *41st Rifles Battalion*
+{{</note>}}
+
+{{<note table>}}
+**Resident [[Air Service]] Squadrons**:
+
+* No. 2 Aerorifles Wing
+* *No. 8 Aerorifles Sqdn.*
 {{</note>}}

@@ -63,7 +63,7 @@ To travel under this arrangement, Vekllei people must have completed their [[Com
     * Determine a good time to travel. Hotels book out quickly during holiday seasons and may not be able to provide rooms during this time. Your agent will work with you to find a place and time that works best for you.
     * Establish an itinerary. Your agent may suggest an outline popular in the area, depending on whether this is your first time visiting or a return trip. Tickets for major events and shows should be booked in advance.
     * Find a hotel. Almost always, this is a property owned and operated by [[Atlantic Hotel]], which accomodates Vekllei people. Major destinations like London and Paris have several hotels operated by Atlantic -- peripheral destinations, like Kuala Lumpur, often only have one.
-    * Your agent will arrange you flights for you, almost always with [[air|Commonwealth Airways]].
+    * Your agent will arrange you flights for you, almost always with [[Commonwealth Airways]].
 2. **Arrange your passport and, if necessary, your visa**
     * In Vekllei, this can be done at any passport office or remotely via a post office.
 3. **Use local resources**

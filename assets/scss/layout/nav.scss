@@ -244,6 +244,93 @@ nav {
   }
 }
 
+// Sub-navigation styling
+.subnav {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+  margin-top: -1.5rem;
+  padding-bottom: 0.5rem;
+
+  .subnavbar {
+    @include margin-0;
+    @include padding-0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    list-style: none;
+    background-color: transparent;
+    width: 100%;
+    gap: 0.25rem;
+
+    .subnavlink {
+      @include text-xs;
+      @include font-normal;
+      border-radius: .25rem;
+      border-bottom-left-radius: 0;
+      border-bottom-right-radius: 0;
+      line-height: 1.25rem;
+      display: block;
+      white-space: nowrap;
+      opacity: 0.7;
+      transition: all 0.2s ease;
+
+      &:hover {
+        opacity: 1;
+        background-color: var(--highlight-background);
+
+        a {
+          color: var(--highlight);
+        }
+      }
+
+      &.active {
+        background: transparent;
+        color: var(--highlight);
+        opacity: 1;
+
+        a {
+          color: var(--highlight);
+        }
+      }
+
+      a {
+        @include secondary-color;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        gap: 0.25rem;
+
+        .navicon {
+          font-size: 0.75rem;
+        }
+
+        &:hover {
+          text-decoration: none;
+        }
+      }
+    }
+  }
+
+  // Mobile responsiveness for subnav
+  @media only screen and (max-width: 555px) {
+    .subnavbar {
+      overflow-x: auto;
+      scrollbar-width: none; // Firefox
+      -ms-overflow-style: none; // IE/Edge
+
+      &::-webkit-scrollbar {
+        display: none; // Chrome/Safari
+      }
+
+      .subnavlink {
+        flex-shrink: 0;
+      }
+    }
+  }
+}
+
 .navicon, #theme-icon {
   @include emoji;
   @include font-normal;
@@ -306,6 +393,11 @@ nav {
 
   nav {
     margin-bottom: 0;
+  }
+
+  // Adjust subnav spacing in floating nav
+  .subnav {
+    margin-top: -1rem;
   }
 }
 

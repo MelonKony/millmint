@@ -7,7 +7,7 @@ color: pink
 image:
 
 toc: true
-draft: false
+draft: true
 
 aliases:
 - /history/

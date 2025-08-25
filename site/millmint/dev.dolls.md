@@ -5,14 +5,12 @@ description: Stories of life and living in the country of Vekllei.
 icon: 🧍‍♀️
 emoji: P
 color: indigo
-
-type: blank
+type: dolls
 ---
 {{<note advice>}}
 This program is a **development build** and is not ready for release.
 {{</note>}}
 
-<link rel="stylesheet" href="/css/dolls.css">
 <div class="dolls">
     <!-- Gender toggle will be inserted here, before canvas-wrapper -->
     <div class="canvas-wrapper">

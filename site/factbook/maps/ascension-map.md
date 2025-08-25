@@ -1,7 +1,7 @@
 ---
 title: Ascension Map
 fulltitle: Ascension Map
-color: blue
+color: teal
 
 map: /svg/maps/ascension.png
 

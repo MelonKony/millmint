@@ -4,6 +4,8 @@ fulltitle: Coretti Adoula
 color: sunflower
 icon: 🎓
 
+autonumbering: false
+
 fi: fi fi-coretti fis
 description: Coretti is Moise's girlfriend. Born in the Congo, she lived in the Soviet Union before moving to Vekllei at 6 years old.
 emoji: o

@@ -1,0 +1,356 @@
+{{/* Get target page - either from parameter or current page */}}
+{{ $targetPage := .Page }}
+{{ $basePath := "" }}
+
+{{/* Check if a target parameter was provided */}}
+{{ if .Get 0 }}
+  {{ $targetName := .Get 0 }}
+  {{/* Normalize target name for comparison */}}
+  {{ $normalizedTarget := $targetName }}
+  {{ $normalizedTarget = replace $normalizedTarget "&amp;" "&" }}
+  {{ $normalizedTarget = replace $normalizedTarget "%26" "&" }}
+  {{ $normalizedTarget = replace $normalizedTarget "&" "&" }}
+  {{ $normalizedTarget = lower (trim $normalizedTarget " ") }}
+  
+  {{/* Try to find the target page by various methods */}}
+  {{ $foundTarget := false }}
+  
+  {{/* Method 1: Look for exact page name */}}
+  {{ $targetPath := printf "%s.md" $targetName }}
+  {{ if site.GetPage $targetPath }}
+    {{ $targetPage = site.GetPage $targetPath }}
+    {{ $foundTarget = true }}
+  {{ end }}
+  
+  {{/* Method 2: Look in current directory structure */}}
+  {{ if not $foundTarget }}
+    {{ $currentBasePath := "" }}
+    {{ if .Page.File }}
+      {{ $currentBasePath = .Page.File.Dir }}
+    {{ end }}
+    {{ $targetInCurrent := printf "%s%s" $currentBasePath $targetName }}
+    {{ if site.GetPage $targetInCurrent }}
+      {{ $targetPage = site.GetPage $targetInCurrent }}
+      {{ $foundTarget = true }}
+    {{ end }}
+  {{ end }}
+  
+  {{/* Method 3: Search all pages for matching filename with normalization */}}
+  {{ if not $foundTarget }}
+    {{ range site.Pages }}
+      {{ if .File }}
+        {{ $fileName := path.Base .File.LogicalName }}
+        {{ $fileNameNoExt := strings.TrimSuffix $fileName ".md" }}
+        {{/* Normalize filename for comparison */}}
+        {{ $normalizedFileName := $fileNameNoExt }}
+        {{ $normalizedFileName = replace $normalizedFileName "&amp;" "&" }}
+        {{ $normalizedFileName = replace $normalizedFileName "%26" "&" }}
+        {{ $normalizedFileName = replace $normalizedFileName "&" "&" }}
+        {{ $normalizedFileName = lower (trim $normalizedFileName " ") }}
+        
+        {{/* Try multiple comparison methods */}}
+        {{ $matches := false }}
+        
+        {{/* Direct comparison */}}
+        {{ if eq $fileNameNoExt $targetName }}
+          {{ $matches = true }}
+        {{ end }}
+        
+        {{/* Normalized comparison */}}
+        {{ if not $matches }}
+          {{ if eq $normalizedFileName $normalizedTarget }}
+            {{ $matches = true }}
+          {{ end }}
+        {{ end }}
+        
+        {{/* URL-encoded comparison */}}
+        {{ if not $matches }}
+          {{ $urlEncodedTarget := replace $targetName "&" "%26" }}
+          {{ if eq $fileNameNoExt $urlEncodedTarget }}
+            {{ $matches = true }}
+          {{ end }}
+        {{ end }}
+        
+        {{/* HTML-encoded comparison */}}
+        {{ if not $matches }}
+          {{ $htmlEncodedTarget := replace $targetName "&" "&amp;" }}
+          {{ if eq $fileNameNoExt $htmlEncodedTarget }}
+            {{ $matches = true }}
+          {{ end }}
+        {{ end }}
+        
+        {{/* Slug comparison - convert spaces and special chars to hyphens */}}
+        {{ if not $matches }}
+          {{ $targetSlug := $targetName | urlize }}
+          {{ $fileSlug := $fileNameNoExt | urlize }}
+          {{ if eq $fileSlug $targetSlug }}
+            {{ $matches = true }}
+          {{ end }}
+        {{ end }}
+        
+        {{ if $matches }}
+          {{ $targetPage = . }}
+          {{ $foundTarget = true }}
+          {{ break }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  
+  {{/* Method 4: Try common content patterns with encoding variations */}}
+  {{ if not $foundTarget }}
+    {{ $targetVariations := slice 
+      $targetName
+      (replace $targetName "&" "&amp;")
+      (replace $targetName "&" "%26")
+      (urlize $targetName)
+    }}
+    
+    {{ range $targetVariations }}
+      {{ $currentTarget := . }}
+      {{ $commonPaths := slice 
+        (printf "factbook/%s" $currentTarget)
+        (printf "content/%s" $currentTarget)
+        (printf "%s/_index" $currentTarget)
+        (printf "%s/index" $currentTarget)
+        (printf "factbook/%s.md" $currentTarget)
+        (printf "content/%s.md" $currentTarget)
+      }}
+      {{ range $commonPaths }}
+        {{ if site.GetPage . }}
+          {{ $targetPage = site.GetPage . }}
+          {{ $foundTarget = true }}
+          {{ break }}
+        {{ end }}
+      {{ end }}
+      {{ if $foundTarget }}{{ break }}{{ end }}
+    {{ end }}
+  {{ end }}
+  
+  {{ if not $foundTarget }}
+    <!-- Warning: Could not find target page "{{ $targetName }}" (searched for variations including URL/HTML encoded versions) -->
+  {{ end }}
+{{ end }}
+
+{{/* Determine base path from target page */}}
+{{ if $targetPage.File }}
+  {{ $basePath = $targetPage.File.Dir }}
+{{ else }}
+  {{/* Fallback: extract from URL path */}}
+  {{ $pathParts := split (trim $targetPage.RelPermalink "/") "/" }}
+  {{ $basePath = delimit $pathParts "/" }}
+  {{ if $basePath }}{{ $basePath = printf "%s/" $basePath }}{{ end }}
+{{ end }}
+
+{{/* Debug output */}}
+<!-- Target page: {{ $targetPage.RelPermalink }} -->
+<!-- Target title: {{ $targetPage.Title }} -->
+<!-- Base path: {{ $basePath }} -->
+
+{{/* Get all pages for processing */}}
+{{ $allPages := site.Pages }}
+
+{{/* Get all immediate subdirectories */}}
+{{ $subdirs := slice }}
+{{ range $allPages }}
+  {{ if and (.File) (hasPrefix .File.Dir $basePath) }}
+    {{ $relativePath := strings.TrimPrefix $basePath .File.Dir }}
+    {{ $pathParts := split (trim $relativePath "/") "/" }}
+    {{ if and (eq (len $pathParts) 1) (ne (index $pathParts 0) "") }}
+      {{ $subdirName := index $pathParts 0 }}
+      {{ if not (in $subdirs $subdirName) }}
+        {{ $subdirs = $subdirs | append $subdirName }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* Get pages in the target directory (not in subdirectories) */}}
+{{ $currentDirPages := slice }}
+{{ $targetPagePath := "" }}
+{{ if $targetPage.File }}
+  {{ $targetPagePath = $targetPage.File.Path }}
+{{ end }}
+
+{{ range $allPages }}
+  {{ if and (.File) (eq .File.Dir $basePath) (ne .File.Path $targetPagePath) }}
+    {{ $currentDirPages = $currentDirPages | append . }}
+  {{ end }}
+{{ end }}
+
+<style>
+.sublist-container {
+  margin: 1rem 0;
+  font-size: 14px;
+}
+
+.pages-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.page-card {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+  background: var(--gray-ultralight);
+  border: 1px solid var(--gray-light);
+  border-radius: 4px;
+  text-decoration: none;
+  color: inherit;
+  min-height: 2.5rem;
+}
+
+.page-card:hover {
+  border-color: var(--highlight);
+  text-decoration: none;
+}
+
+.icon {
+  font-size: 1rem;
+  margin-right: 0.4rem;
+  flex-shrink: 0;
+}
+
+.page-title {
+  font-weight: 500;
+  font-size: 0.85rem;
+  line-height: 1.3;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.subcategory-row {
+  display: grid;
+  grid-template-columns: minmax(120px, 200px) 1fr;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  align-items: start;
+}
+
+.subcategory-left {
+  padding: 0.5rem 0;
+}
+
+.subcategory-title {
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none;
+  margin: 0;
+  display: block;
+}
+
+.subcategory-right {
+  padding: 0.25rem 0;
+}
+
+.subcategory-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+
+@media (max-width: 768px) {
+  .pages-grid {
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 0.4rem;
+  }
+  
+  .page-card {
+    padding: 0.4rem;
+    min-height: 2.2rem;
+  }
+  
+  .page-icon {
+    font-size: 0.9rem;
+    margin-right: 0.3rem;
+  }
+  
+  .page-title {
+    font-size: 0.8rem;
+  }
+
+  .subcategory-row {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+  
+  .subcategory-left {
+    padding-bottom: 0;
+  }
+}
+</style>
+
+<div class="sublist-container">
+  {{/* First, show standalone pages in current directory as cards */}}
+  {{ if $currentDirPages }}
+    <div class="pages-grid no-preview">
+      {{ range sort $currentDirPages "Title" }}
+        {{ $icon := .Params.icon | default "📄" }}
+        <a href="{{ .RelPermalink }}" class="page-card">
+          <div class="icon">{{ $icon }} </div>
+          <div class="page-title">{{ .Title }}</div>
+        </a>
+      {{ end }}
+    </div>
+  {{ end }}
+
+  {{/* Then show subdirectory categories */}}
+  {{ range sort $subdirs }}
+    {{ $subdirName := . }}
+    {{/* Clean up display name inline */}}
+    {{ $displayName := replaceRE "[-_]" " " $subdirName }}
+    {{ $displayName = title $displayName }}
+    
+    {{/* Try multiple path combinations */}}
+    {{ $sectionPage := false }}
+    {{ $possiblePaths := slice 
+      (printf "%s%s" $basePath $subdirName)
+      (printf "%s%s/" $basePath $subdirName)
+      (printf "%s%s/_index" $basePath $subdirName)
+    }}
+    
+    {{ range $possiblePaths }}
+      {{ if and (not $sectionPage) (site.GetPage .) }}
+        {{ $sectionPage = site.GetPage . }}
+      {{ end }}
+    {{ end }}
+    
+    <div class="subcategory-row">
+      <div class="subcategory-left">
+        <a href="/{{ $subdirName }}/" class="subcategory-title millmint">{{ $displayName }}</a>
+      </div>
+      
+      <div class="subcategory-right">
+        <div class="subcategory-links">
+          {{ if $sectionPage }}
+            {{ range sort $sectionPage.Pages "Title" }}
+              [[{{ .Title }}]]{{ if not (eq . (last 1 ($sectionPage.Pages | first 1000))) }} {{ end }}
+            {{ end }}
+          {{ else }}
+            {{/* Try to find pages by pattern matching */}}
+            {{ $foundPages := slice }}
+            {{ range $allPages }}
+              {{ if and (.File) (strings.Contains .File.Dir $subdirName) (hasPrefix .File.Dir $basePath) }}
+                {{ $foundPages = $foundPages | append . }}
+              {{ end }}
+            {{ end }}
+            
+            {{ if $foundPages }}
+              {{ range sort $foundPages "Title" }}
+                [[{{ .Title }}]]{{ if not (eq . (last 1 ($foundPages | first 1000))) }} {{ end }}
+              {{ end }}
+            {{ else }}
+              <!-- No pages found for: {{ $subdirName }} in {{ $basePath }} -->
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  {{ end }}
+</div>

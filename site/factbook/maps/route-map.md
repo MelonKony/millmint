@@ -1,7 +1,7 @@
 ---
 title: Commonwealth Airlines Route Map
 fulltitle: Commonwealth Airlines Route Map
-color: blue
+color: teal
 
 map: /svg/maps/route-map.png
 

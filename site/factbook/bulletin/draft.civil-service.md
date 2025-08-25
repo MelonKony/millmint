@@ -30,7 +30,7 @@ aliases:
 
 The question of bankruptcy in [[Vekllei]] is hypothetical, since there is no legal mechanism for bankruptcy in court similar to other countries. Despite this, government-owned and public corporations interacting with foreign currencies have overt revenues and losses, and [accounted revenue](/bulletin/accounted-revenue/) is used by the [[Ministry of Commerce]] to rate value and competitiveness.
 
-There are many kinds of businesses, government-owned and otherwise, that are informally allowed to run at a loss and have no expectation of turning a profit. Most of these lie exclusively within the Vekllei domestic market, where revenues and expenses are only theoretical. Others, like [[air|Commonwealth Airways]] are expected to minimise expense but could reliably expect to be subsidised in perpetuity. Most such *de facto* guaranteed corporations occupy monopoly status in their market.
+There are many kinds of businesses, government-owned and otherwise, that are informally allowed to run at a loss and have no expectation of turning a profit. Most of these lie exclusively within the Vekllei domestic market, where revenues and expenses are only theoretical. Others, like [[Commonwealth Airways]] are expected to minimise expense but could reliably expect to be subsidised in perpetuity. Most such *de facto* guaranteed corporations occupy monopoly status in their market.
 
 Others, however, operate competitively and consequently are expected to be able to fail. These include some government corporations, especially those that compete internationally. In this context, these corporations may be allowed to fail, which would look like this:
 

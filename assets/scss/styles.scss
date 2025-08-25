@@ -36,10 +36,10 @@ main {
   @include padding-5;
   @include radius-base;
   @include body-background-color;
-  box-sizing: border-box;  // Changed from content-box
+  box-sizing: border-box;
   max-width: 45rem;
-  width: 100%;  // Add this
-  overflow-x: hidden;  // Add this
+  width: 100%;
+  overflow-x: hidden;
 }
 
 // Figures and captions
@@ -83,6 +83,7 @@ input, video {
 // Footer
 footer {
   margin: 1rem 0 0 0;
+  width: 100%;
 }
 
 // Horizontal rule
@@ -115,7 +116,7 @@ details {
   @include radius-base;
   @include highlight-background;
   @include highlight-border;
-  padding: 0.5rem 1rem 0.5rem 1rem;
+  padding: 0.5rem 1rem;
   outline: none;
 
   div {
@@ -214,9 +215,7 @@ h2 {
   @include text-2xl;
 }
 
-h3,
-h4,
-h5 {
+h3, h4, h5 {
   @include text-xl;
 }
 
@@ -243,11 +242,7 @@ h6 {
         @include px-4;
       }
 
-      .tooltip {
-        display: none;
-      }
-
-      #tooltip-toggle {
+      .tooltip, #tooltip-toggle {
         display: none;
       }
 
@@ -268,11 +263,7 @@ h6 {
       @include my-4;
       @include px-6;
 
-      .tooltip {
-        display: block;
-      }
-
-      #tooltip-toggle {
+      .tooltip, #tooltip-toggle {
         display: block;
       }
 
@@ -313,12 +304,7 @@ h6 {
 // Tables
 table {
   @include table-style;
-
-  tr:nth-child(even) {
-    background: var(--gray-light);
-  }
 }
-
 
 table.infobox {
   @include text-sm;
@@ -336,11 +322,9 @@ table.infobox {
   img {
     margin: 0 auto;
   }
-
 }
 
 // Autonumbering
-
 body {
   counter-reset: h2;
 }
@@ -432,10 +416,10 @@ article[autonumbering] h5:before {
 .side-right {
   @include radius-base;
   @include text-sm;
-  position: absolute;  // Change to fixed positioning
+  position: absolute;
   padding: 1rem;
   width: 15rem;
-  right: calc((100vw - 50rem) / 2 - 220px);  // Position relative to main content
+  right: calc((100vw - 50rem) / 2 - 220px);
   background-color: var(--body-background);
   z-index: 100;
   transition: border 0.3s ease;
@@ -448,16 +432,12 @@ article[autonumbering] h5:before {
 
 // Hover effect when note-ref is hovered
 .note-ref:hover ~ .side-right {
-  -webkit-box-shadow:inset 0px 0px 0px 1px var(--highlight);
-  -moz-box-shadow:inset 0px 0px 0px 1px var(--highlight);
-  box-shadow:inset 0px 0px 0px 1px var(--highlight);
+  box-shadow: inset 0px 0px 0px 1px var(--highlight);
 }
 
 // Lingering highlight after click
 .side-right.highlight-active {
-  -webkit-box-shadow:inset 0px 0px 0px 1px var(--highlight);
-  -moz-box-shadow:inset 0px 0px 0px 1px var(--highlight);
-  box-shadow:inset 0px 0px 0px 1px var(--highlight);
+  box-shadow: inset 0px 0px 0px 1px var(--highlight);
 }
 
 .footnotes {
@@ -542,7 +522,6 @@ article img[alt~="crest"] {
 }
 
 .fadein {
-  -webkit-animation: animat_show 0.8s;
   animation: animat_show 0.8s;
 }
 
@@ -552,7 +531,7 @@ article img[alt~="crest"] {
   visibility: visible !important;
 }
 
-@-webkit-keyframes animat_show {
+@keyframes animat_show {
   0% {
     opacity: 0;
   }
@@ -600,7 +579,6 @@ article img[alt~="crest"] {
   margin-top: -2.8rem;
   margin-bottom: 0;
   margin-left: 1rem;
-  display: inline-block;
   float: right;
   color: var(--highlight);
   border: 1px solid var(--highlight);
@@ -658,11 +636,10 @@ article blockquote {
   }
 
   &.advice {
-    @include highlight-border;
-    @include highlight-background;
-    @include highlight;
     @include padding-2;
-    background: transparent;
+    @include my-0;
+    line-height: 1;
+    background: var(--gray-ultralight);
     @include grid-icon-text;
 
     &::before {
@@ -679,6 +656,8 @@ article blockquote {
 
   &.table {
     background: transparent;
+    counter-reset: item; /* Initialize counter at the table level */
+    
     ul {
       @include text-sm;
       @include padding-0;
@@ -688,8 +667,31 @@ article blockquote {
         column-count: 1;
       }
 
+        ol {
+          list-style-type: none; /* Remove default numbering */
+          padding-left: 0.5rem;
+          
+          li {
+            counter-increment: item; /* Increment the counter for each list item */
+            @include margin-0;
+
+            &:nth-child(odd) {
+              background: transparent;
+            }
+            
+            &:nth-child(even) {
+              background: var(--highlight-background);
+            }
+            
+            &:before {
+              content: "No. " counter(item) ". ";
+            }
+          }
+        }
+
       li {
         list-style-type: none;
+        @include margin-2;
         em {
           color: var(--gray-medium);
         }
@@ -700,6 +702,80 @@ article blockquote {
           @include font-medium;
           @include radius-base;
           @include px-1;
+        }
+        ul {
+          column-count: 1;
+          li {
+            @include margin-0;
+          }
+        }
+      }
+    }
+  }
+  &.matrix {
+  background: transparent;
+
+  ul {
+    @include text-sm;
+    @include padding-0;
+
+    @media only screen and (max-width: 500px) {
+      column-count: 1;
+    }
+
+    li {
+      list-style-type: none;
+
+      em {
+        color: var(--gray-medium);
+      }
+
+      strong {
+        float: right;
+        background: var(--highlight, var(--gray-medium, #737373));
+        color: var(--main-background);
+        @include font-medium;
+        @include radius-base;
+        @include px-1;
+      }
+    }
+  }
+
+    li:nth-of-type(even) {
+      background: var(--gray-light);
+    }
+  }
+  &.column { /* used for government pages*/
+    background: transparent;
+    ul {
+      @include text-sm;
+      @include padding-0;
+      column-count: 2;
+      break-inside: avoid-column;
+
+      ul {
+        columns: 1;
+        font-style: italic;
+        color: var(--gray-medium);
+        li {
+          @include margin-0;
+        }
+      }
+
+      @media only screen and (max-width: 500px) {
+        column-count: 1;
+      }
+
+      li {
+        list-style-type: none;
+        break-inside: avoid-column;
+        page-break-inside: avoid;
+        -webkit-column-break-inside: avoid;
+        ul {
+          margin-left: 1rem;
+        }
+        em {
+          color: var(--gray-medium);
         }
       }
     }
@@ -725,11 +801,11 @@ article blockquote {
   @include font-bold;
   @include px-8;
   @include radius-small;
-  margin: auto -2em auto -2em;
+  margin: auto -2em;
 
   @media (max-width: 750px) {
     @include px-4;
-    margin: auto -1em auto -1em;
+    margin: auto -1em;
   }
 }
 
@@ -874,11 +950,6 @@ ol.timeline {
   line-height: 1.7rem;
 }
 
-// Styles.scss
-
-// millmint.net main styles
-// TODO: clean
-
 // Button labels
 label {
   @include text-sm;
@@ -886,12 +957,7 @@ label {
 }
 
 // heading anchors
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   a.anchor {
     @include heading-anchor;
   }
@@ -899,6 +965,7 @@ h6 {
 
 // page (main text body) styles
 .page {
+  width: 100%;
   a {
     @include highlight;
   }
@@ -908,12 +975,7 @@ h6 {
 .tabs {
   @include tab-style;
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
+  h1, h2, h3, h4, h5, h6 {
     margin-top: .5rem;
   }
 
@@ -926,7 +988,7 @@ h6 {
 
   .tabs-content {
     @include padding-2;
-    order: 999; //Move content blocks to the end
+    order: 999;
     border-top: 1px solid var(--highlight-background);
     display: none;
   }
@@ -1013,11 +1075,7 @@ html[data-theme="dark"] {
 }
 
 // icons
-.icon {
-  @include icon-style;
-}
-
-.smallicon {
+.icon, .smallicon {
   @include icon-style;
 }
 
@@ -1052,7 +1110,7 @@ html[data-theme="dark"] {
 #preview-container img {
   @include padding-0;
   max-width: 100%;
-  max-height: 200px; /* Adjust image size */
+  max-height: 200px;
   height: auto;
   margin-bottom: 10px;
   visibility: visible;
@@ -1145,7 +1203,6 @@ html[data-theme="dark"] {
 }
 
 // Stories filters
-
 .taxonomy-pill {
   @include radius-base;
   @include highlight-border;

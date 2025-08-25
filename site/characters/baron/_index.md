@@ -5,6 +5,8 @@ color: sunflower
 icon: 👔
 emoji: /
 
+autonumbering: false
+
 fi: fi fi-baron fis
 description: Baron is Tzipora's guardian in on way or another. Whether he's a surrogate father, adoptive parent, mentor or friend, his title is unclear but their relationship is close.
 

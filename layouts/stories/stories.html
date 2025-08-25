@@ -1,28 +1,4 @@
-{{- partial "params.html" . -}}
-
-<!DOCTYPE html>
-<html lang='{{ .Site.LanguageCode }}'>
-{{- partial "head.html" . -}}
-
-<body {{if .Params.color }}data-color="{{ .Params.color }}" {{ end }} class="show-all-images">
-  <main>
-    {{- partial "header.html" . -}}
-    {{- partial "nav.html" . -}}
-
-    {{ if and .Content (eq .Paginator.PageNumber 1) }}
-    <article class="content" style="margin-top: 0;">
-      <section class="page">
-        {{- partial "content" . }}
-      </section>
-    </article>
-    {{ end }}
-
-    {{ $paginator := .Paginate (where .Pages "Type" "section") 12 }}
-    {{ partial "components/postcard.html" (dict "paginator" $paginator "ctx" .) }}
-
-    {{- partial "footer.html" . -}}
-  </main>
-  {{- partial "resources/js.html" . -}}
-  {{- partial "script.html" . -}}
-</body>
-</html>
+{{ define "page" }}
+  {{ $paginator := .Paginate (where .Pages "Type" "section") 12 }}
+  {{ partial "components/postcard.html" (dict "paginator" $paginator "ctx" .) }}
+{{ end }}

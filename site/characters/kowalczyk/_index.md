@@ -4,6 +4,8 @@ fulltitle: Simon Kowalczyk
 color: sunflower
 description: Simon Kowalczyk is Tzipora's civics teacher. He gets along with him well. He might have a crush on Ms Nincic.
 
+autonumbering: false
+
 aliases:
 - /kowalczyk/
 ---

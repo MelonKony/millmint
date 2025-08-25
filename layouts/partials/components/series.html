@@ -14,7 +14,7 @@
 <a href="/constituents/">Constituent Commonwealth</a>
 {{ end }}
 {{ if in .Params.series "vekllei" }}
-<a href="/intro/">Union of Atlantic Communities</a>
+<a href="/commonwealth/">Union of Atlantic Communities</a>
 {{ end }}
 {{ if in .Params.series "bulletin" }}
 <a href="/bulletin/">Information Bulletin</a>
@@ -30,8 +30,20 @@
 <a href="/bureaus/">Bureau Corporation</a>
 {{ end }}
 
+{{ if in .Params.series "state" }}
+<a href="/state/">State</a>
+{{ end }}
+{{ if in .Params.series "world" }}
+<a href="/world/">World</a>
+{{ end }}
 {{ if in .Params.series "technology" }}
 <a href="/technology/">Technology</a>
+{{ end }}
+{{ if in .Params.series "industry" }}
+<a href="/industry/">Industry</a>
+{{ end }}
+{{ if in .Params.series "culture" }}
+<a href="/culture/">Culture</a>
 {{ end }}
 
 {{ if in .Params.series "vessel" }}
@@ -45,19 +57,24 @@
 <a href="/society/">Fact Sheet</a>
 {{ end }}
 
-{{ if in .Params.series "industry" }}
-<a href="/industry/">Commonwealth Industry</a>
-{{ end }}
-
 {{ if in .Params.series "ministry" }}
 <a href="/ministries/">Commonwealth Ministry</a>
 {{ end }}
 {{ if in .Params.series "parliament" }}
 <a href="/parliaments/">Commonwealth Parliament</a>
 {{ end }}
+{{ if in .Params.series "law" }}
+<a href="/law/">Commonwealth Law</a>
+{{ end }}
+{{ if in .Params.series "government" }}
+<a href="/state/">Commonwealth Government</a>
+{{ end }}
 {{ if in .Params.series "bureau" }}
 <a href="/government-bureaus/">Government Bureau</a>
 {{ end }}
 {{ if in .Params.series "organisation" }}
 <a href="/government/">Government Organisation</a>
+{{ end }}
+{{ if in .Params.series "SIRO" }}
+<a href="/SIRO/">Constituent Research Organisation</a>
 {{ end }}

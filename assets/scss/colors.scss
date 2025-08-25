@@ -1,5 +1,6 @@
 // Base color palette
 $gray-scale: (
+  ultralight: #f8f9fa,
   light: #f0f0f6,
   medium: #737373,
   dark: #262626
@@ -19,7 +20,7 @@ $theme-colors: (
   orange: rgb(237, 122, 69),
   pink: rgb(225, 28, 110),
   purple: rgb(155, 67, 199),
-  red: rgb(221, 52, 71),
+  red: rgb(255, 66, 69),
   teal: rgb(48, 176, 199),
   test: rgb(0,0,0)
 );
@@ -28,14 +29,14 @@ $theme-colors: (
 $brand-colors: (
   millmint: rgb(222, 24, 87),
   vekllei: rgb(238, 119, 66),
-  marine: rgb(40, 61, 195),
-  land: rgb(160, 72, 41),
-  aero: rgb(214, 43, 49)
+  marine: rgb(29, 123, 205),
+  land: rgb(193, 84, 45),
+  aero: rgb(245, 60, 89)
 );
 
 // Ministry colors
 $ministry-colors: (
-  commerce: rgb(228, 160, 14),
+  commerce: rgb(221, 154, 52),
   commons: rgb(255, 86, 79),
   commonwealth: rgb(229, 56, 143),
   culture: rgb(31, 167, 82),
@@ -97,6 +98,7 @@ $parliament-colors: (
   --font-color: #e7e7f1;
   
   // Dark mode specific gray palette
+  --gray-ultralight: #1e1f2d;
   --gray-light: #2a2b38;
   --gray-medium: #9090a0;
   --gray-dark: #e7e7f1;

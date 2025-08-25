@@ -2,20 +2,20 @@
 title: East India
 fulltitle: East Indian Socialist Republic
 icon: 🌊
-logo: /svg/flags/4x3/ei.svg
+logo: /svg/flags/4x3/ei-4x3.svg
 
 description: East India is an island country in the easternmost edge of the Bay of Bengal. It comprises more than 300 islands, only a few of which are inhabited.
 
 rgb: 233, 128, 5
 
-fi: fi fi-ei
+fi: fi fi-ei-4x3
 
 aliases:
 - /east-india/
 series: country
 ---
 
-The **<span class="fi fi-ei"></span> East Indian Socialist Republic** (also *East India*) is an island country in the easternmost edge of the Bay of Bengal. Comprising more than 300 islands, East India constitutes the boundary between the Bay of Bengal to the west and the Andaman Sea to the East. Port Blair on South Andaman Island is its largest city and capital. Its many tropical islands are home to 540,000 people.
+The **<span class="fi fi-ei-4x3"></span> East Indian Socialist Republic** (also *East India*) is an island country in the easternmost edge of the Bay of Bengal. Comprising more than 300 islands, East India constitutes the boundary between the Bay of Bengal to the west and the Andaman Sea to the East. Port Blair on South Andaman Island is its largest city and capital. Its many tropical islands are home to 540,000 people.
 
 Although East India consists of hundreds islands and islets, only about three dozen have human settlements. The archipelago has a hot, wet tropical climate moderated by sea breezes. The majority of its islands are covered by thick tropical forest, which receive heavy rains in the monsoon season between May and September. The islands are home to a few native mammals, including pigs and deer, but are most known for the dense and largely undocumented indigenous flora. Its seas are plentiful with fish, turtles, sea snakes, and crocodiles.
 

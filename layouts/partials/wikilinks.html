@@ -2,11 +2,11 @@
 {{ $context := . }}
 {{ $content := .Content }}
 {{ $site := .Site }}
-{{ $wikiLinkPattern := `\[\[([^|\]]+)(?:\|([^\]]+))?\]\]` }}
+{{ $wikiLinkPattern := `\[\[([^|\]]*(?:&[^|\]]*)*[^|\]]*)(?:\|([^\]]*(?:&[^\]]*)*[^\]]*))?\]\]` }}
 {{ $final := $content }}
 {{ range $matches := findRE $wikiLinkPattern $content }}
-{{ $path := trim (index (findRE `\[\[([^|\]]+)` $matches) 0) "[[" }}
-{{ $display := index (findRE `\|([^\]]+)` $matches) 0 }}
+{{ $path := trim (index (findRE `\[\[([^|\]]*(?:&[^|\]]*)*[^|\]]*)` $matches) 0) "[[" }}
+{{ $display := index (findRE `\|([^\]]*(?:&[^\]]*)*[^\]]*)` $matches) 0 }}
 {{ $display = trim $display "|" }}
 {{ if not $display }}
 {{ $display = $path }}
@@ -17,7 +17,9 @@
 {{ if $page.Params.rgb }}
 {{ $rgb := $page.Params.rgb }}
 {{ $fi := $page.Params.fi }}
-{{ $replacement := printf `<a class="slink" style="color: rgb(%v); background: color-mix(in srgb, rgb(%v) 10%%, transparent);" href="%s"><span class="%s"></span> %s</a>`
+{{ $republicName := lower (path.Base $page.RelPermalink) }}
+{{ $replacement := printf `<a class="slink" data-republic="%s" style="color: rgb(%v); background: color-mix(in srgb, rgb(%v) 10%%, transparent);" href="%s"><span class="%s"></span> %s</a>`
+$republicName
 $rgb
 $rgb
 $page.RelPermalink
@@ -27,7 +29,9 @@ $fi
 {{ else }}
 {{ $rgb := $page.Params.color }}
 {{ $fi := $page.Params.fi }}
-{{ $replacement := printf `<a class="slink" style="color: var(--color-%v); background: color-mix(in srgb, var(--color-%v) 10%%, transparent);" href="%s"><span class="%s"></span> %s</a>`
+{{ $republicName := lower (path.Base $page.RelPermalink) }}
+{{ $replacement := printf `<a class="slink" data-republic="%s" style="color: var(--color-%v); background: color-mix(in srgb, var(--color-%v) 10%%, transparent);" href="%s"><span class="%s"></span> %s</a>`
+$republicName
 $rgb
 $rgb
 $page.RelPermalink
@@ -36,7 +40,8 @@ $fi
 {{ $final = replace $final $matches $replacement }}
 {{ end }}
 {{ else }}
-{{ $replacement := printf `<a href="%s">%s</a>` $page.RelPermalink (default $page.Title $display) }}
+{{ $republicName := lower (path.Base $page.RelPermalink) }}
+{{ $replacement := printf `<a data-republic="%s" href="%s">%s</a>` $republicName $page.RelPermalink (default $page.Title $display) }}
 {{ $final = replace $final $matches $replacement }}
 {{ end }}
 {{ else }}

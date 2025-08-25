@@ -1,0 +1,82 @@
+<div class="route-map">
+    <ol class="stations">
+        {{ $lines := split .Inner "\n" }}
+        {{ $is_junction_open := false }}
+        {{ range $line := $lines }}
+            {{ $trimmed := trim $line " " }}
+            {{ if eq $trimmed "" }}{{ continue }}{{ end }}
+
+            {{ $is_junction := findRE "^\\s*\\d+\\.\\d+" $trimmed }}
+
+            {{ if not $is_junction }}
+                {{ if $is_junction_open }}</ol></li>{{ $is_junction_open = false }}{{ end }}
+                <li class="main-station">
+                    <span class="dot"></span>
+                    <span class="label">{{ $trimmed | replaceRE "^\\s*\\d+\\.\\s*" "" }}</span>
+                    {{ $is_junction_open = true }}
+                    <ol class="junctions">
+            {{ else }}
+                <li class="junction-station">
+                    <span class="dot"></span>
+                    <span class="label">{{ $trimmed | replaceRE "^\\s*\\d+\\.\\d+\\s*" "" }}</span>
+                </li>
+            {{ end }}
+        {{ end }}
+        {{ if $is_junction_open }}</ol></li>{{ end }}
+    </ol>
+</div>
+
+<style>
+.route-map {
+    font-family: sans-serif;
+}
+
+.stations, .junctions {
+    list-style: none;
+    left: 2rem;
+    padding: 0;
+    position: relative;
+    li {
+        margin: 0;
+    }
+}
+
+.main-station, .junction-station {
+    display: grid;
+    grid-template-columns: 20px auto;
+    align-items: center;
+    position: relative;
+}
+
+.main-station::before,
+.junctions::before {
+    content: '';
+    position: absolute;
+    left: 8px;
+    width: 3px;
+    background: var(--highlight);
+    z-index: 0;
+}
+
+.main-station::before {
+    top: 0;
+    bottom: 0;
+}
+
+.junctions::before {
+    top: 0;
+    bottom: 0;
+}
+
+.dot {
+    width: 14px;
+    height: 14px;
+    background: var(--highlight);
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.label {
+    padding: 4px 0;
+}
+</style>

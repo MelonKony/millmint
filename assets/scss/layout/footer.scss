@@ -76,7 +76,6 @@ nav.story {
 	@include font-medium;
 	@include font-color;
 	display: inline;
-	margin: 0.5rem 0 auto 0;
 	word-wrap: break-word;
 	letter-spacing: -0.025em;
 	&+:before {
@@ -90,7 +89,6 @@ nav.story {
 	border-bottom: 1px solid transparent;
 	word-wrap: break-word;
 	&:hover {
-	  border-bottom-color: var(--font-color);
 	  text-decoration: none;
 	}
   }

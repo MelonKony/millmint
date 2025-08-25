@@ -1,11 +1,20 @@
 <figure>
-  <a href="{{ .Params.Image | absURL }}" target="_blank" rel="noopener noreferrer">
-    {{ with resources.Get .Params.image }}
-    <img srcset="
-    {{ (.Resize "1000x q90 webp").RelPermalink }} 500w,
-    {{ (.Resize "1500x q90 webp").RelPermalink }} 1000w" class="page" src="{{ .RelPermalink }}" alt="">
-    {{ end }}
-  </a>
+   {{ if .Params.image }}
+     {{ $originalImage := resources.Get .Params.image }}
+     {{ if $originalImage }}
+       <a href="{{ $originalImage.RelPermalink | absURL }}" target="_blank" rel="noopener noreferrer">
+         {{ $large := $originalImage.Resize "1500x q90 webp" }}
+         <img
+           src="{{ $large.RelPermalink }}"
+           class="page"
+           alt=""
+         />
+       </a>
+     {{ else }}
+       {{/* Fallback if image resource not found */}}
+       <img src="{{ .Params.image | absURL }}" class="page" alt=""/>
+     {{ end }}
+   {{ end }}
   {{ with $.Params.caption }}
     <figcaption>{{ . | markdownify }}</figcaption>
   {{ end }}

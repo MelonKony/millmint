@@ -1,0 +1,6 @@
+{{- $unused := slice -}}
+{{- range resources.Match "svg/**/*.svg" -}}
+  {{- $out := printf "svg/%s" .Name -}}
+  {{- $res := . | resources.Minify | resources.Copy $out -}}
+  {{- $unused = $unused | append $res -}}
+{{- end -}}

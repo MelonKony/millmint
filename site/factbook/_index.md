@@ -14,6 +14,10 @@ autonumbering: false
 toc: false
 
 description: Factbook is the wiki of Vekllei, and contains information about its society, culture and way of life.
+
+aliases:
+- /society/
+- /factbook/
 ---
 <style>
   header.info {

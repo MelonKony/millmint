@@ -3,10 +3,10 @@ title: Fortress Lola
 fulltitle: Fortress Lola
 icon: ⚔️
 color: land
-logo: /svg/crests/territorial.svg
+logo: /svg/crests/territorial-service.svg
 series: location
 
-fi: fi fi-min-land fis
+fi: fi fi-territorial-service fis
 description: Fortress Lola is a fortress of the Vekllei Armed Forces, located in the republic of Oslola.
 
 aliases:
@@ -23,5 +23,13 @@ aliases:
 * *11th Rifles Battalion*
 * *12th Rifles Battalion*
 * 15th Volcanic Rifles
+{{</note>}}
+
+{{<note table>}}
+**Resident [[Air Service]] Squadrons**:
+
+* No. 2 Aerorifles Wing
+* *No. 6 Aerorifles Sqdn.*
+* *No. 7 Aerorifles Sqdn.*
 {{</note>}}
 

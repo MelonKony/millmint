@@ -23,7 +23,7 @@ aliases:
 * Most flights use a simple 80/20 system, where 80% of seats are available six months out and 20% are allocated based on need.
 {{</note>}}
 
-Almost every [[Vekllei]] person flies, and some fly frequently. The country is simply too big and its islands too disparate to commute by ship regularly. Almost always, they fly with [[air|Commonwealth Airways]], their national airline, which does not charge a fare for the unmoneyed and unbanked Commonwealth population.
+Almost every [[Vekllei]] person flies, and some fly frequently. The country is simply too big and its islands too disparate to commute by ship regularly. Almost always, they fly with [[Commonwealth Airways]], their national airline, which does not charge a fare for the unmoneyed and unbanked Commonwealth population.
 
 The process for booking is this:
 

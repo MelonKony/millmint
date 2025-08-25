@@ -6,6 +6,8 @@ emoji: 7
 color: sunflower
 description: Qi is a character of @crab_rare on Twitter.
 
+autonumbering: false
+
 aliases:
 - /qi/
 ---

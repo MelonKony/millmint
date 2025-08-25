@@ -58,7 +58,7 @@
     </div>
     {{ else }}
     <!-- Regular postcard grid for other taxonomies -->
-    <ul class="postcard-grid" id="illustration-grid"
+    <ul class="postcard-grid no-preview" id="illustration-grid"
         {{- with $term }} data-term="{{ . }}"{{ end }}
         {{- with $taxonomy }} data-taxonomy="{{ . }}"{{ end }}>
         {{ range $paginator.Pages }}

@@ -6,7 +6,7 @@ emoji: Ζ
 color: blue
 list: true
 
-draft: false
+draft: true
 
 image:
 

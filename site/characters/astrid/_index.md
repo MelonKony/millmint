@@ -3,6 +3,8 @@ title: Astrid
 fulltitle: Astrid Beaufoy
 color: sunflower
 
+autonumbering: false
+
 description: Astrid Beaufoy is a young woman who works for the Bureau of Housing with Laura. She loves her job.
 
 aliases:

@@ -2,26 +2,22 @@
   <a href="{{ .Destination | safeURL }}"
      target="_blank"
      rel="noopener noreferrer">
-     <!-- Set up variables to pass to partials -->
      {{ $image_ext := path.Ext .Destination }}
      {{ $text := .Text | plainify }}
-     {{ $title := .Title | plainify}}
+     {{ $title := .Title | plainify }}
      {{ $context := dict
          "context" .
          "Destination" .Destination
          "Title" $title
          "Text" $text
      }}
-     
+
      {{ if (and (fileExists (print "/assets" .Destination)) (not (eq .Destination ""))) }}
          {{ $image := resources.Get .Destination }}
          {{ if not $image }}
              {{ warnf "Image not found in resources: %s" .Destination }}
          {{ else }}
-             {{ $fallback := $image }}
-             {{ $src_set := "" }}
-             
-             {{- if (strings.HasSuffix $image_ext "svg") -}}
+             {{ if (strings.HasSuffix $image_ext "svg") }}
                  {{ $svg := $image | resources.Minify | resources.Fingerprint }}
                  {{ if not $svg }}
                      {{ warnf "Failed to process SVG: %s" .Destination }}
@@ -34,7 +30,7 @@
                          loading="lazy"
                      />
                  {{ end }}
-             {{- else if (strings.HasSuffix $image_ext "gif") -}}
+             {{ else if (strings.HasSuffix $image_ext "gif") }}
                  <img
                      class="rcf-image external-image unoptimized"
                      src="{{ .Destination | safeURL }}"
@@ -42,26 +38,23 @@
                      {{- if .Title -}} title="{{ .Title }}" {{ end }}
                      loading="lazy"
                  />
-             {{- else -}}
-                 <!-- ADD IMAGES TO SRC-SET -->
-                 {{ $resized := $image.Resize "680x q90 webp" }}
-                 {{ $src_set = print $src_set $resized.RelPermalink " 1x" }}
-                 {{ $fallback = $resized }}
+             {{ else }}
+                 {{ $thumb := $image.Resize "680x q90 webp" }}
+                 {{ $large := $image.Resize "1500x q90 webp" }}
+                 {{ $src_set := print $thumb.RelPermalink " 1x, " $large.RelPermalink " 2x" }}
                  <img 
                      class="rcf-image lazyload show-if-js"
                      {{ printf "data-srcset=%q" $src_set | safeHTMLAttr }}
-                     src="{{ $image.RelPermalink }}"
+                     src="{{ $thumb.RelPermalink }}"
                      {{- if .Text -}} alt="{{ .Text }}" {{ end }}
                      {{- if .Title -}} title="{{ .Title }}" {{ end }}
                      loading="lazy"
                  />
              {{ end }}
          {{ end }}
-     {{- else -}}
+     {{ else }}
          {{ warnf "File does not exist: %s" (print "/assets" .Destination) }}
-     {{- end -}}
+     {{ end }}
  </a>
- {{ $caption := .Title }}
- <!-- Caption the image if a title or alt text is given -->
- {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
- </figure>
+ {{ with .Title }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+</figure>

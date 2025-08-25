@@ -4,6 +4,7 @@ fulltitle: Tzipora Azela
 color: sunflower
 icon: 🐚
 
+autonumbering: false
 fi: fi fi-tzipora fis
 description: Tzipora is a student living in Oslola, an ancient land part of the country of Vekllei.
 emoji: c

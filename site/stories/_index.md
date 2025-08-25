@@ -6,12 +6,15 @@ description: Stories is where you can find all of Hobart's illustrations, and th
 emoji: ɋ
 icon: 📗
 color: sunflower
+autonumbering: false
 meta: false
 menus: main
 weight: 4
 aliases:
 - /posts/
 categories: []
+characters: []
+rgb: ''
 ---
 <style>
   header.info {

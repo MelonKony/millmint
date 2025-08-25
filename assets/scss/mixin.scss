@@ -274,7 +274,7 @@
 
 @mixin note-style($background: var(--gray-light), $border: none) {
   @include text-base;
-  @include my-2;
+  @include my-1;
   @include padding-4;
   @include radius-base;
   background: $background;
@@ -346,9 +346,6 @@
 // New mixins for base.scss
 @mixin tab-style {
   @include padding-2;
-  @include radius-base;
-  @include highlight-border;
-  @include highlight-background;
   line-height: 1.5;
   letter-spacing: -.01em;
   overflow: hidden;
@@ -410,13 +407,10 @@
 // New mixin for details table styles
 @mixin details-table-style {
   @include table-style;
+  @include highlight-border-background;
 
   td, th {
     @include highlight-border-background;
-  }
-
-  tr:nth-child(even) {
-    @include highlight-background;
   }
 }
 
@@ -424,6 +418,8 @@
 @mixin table-style {
   @include my-6;
   @include radius-base;
+  @include highlight-border;
+  @include text-sm;
   width: 100%;
   border-spacing: 0;
   table-layout: auto;  // Add this to allow flexible column widths
@@ -432,10 +428,14 @@
     overflow-x: auto;
   }
 
+  tr:nth-child(even) {
+    @include highlight-background;
+  }
+
   td, th {
     @include px-3;
     @include py-2;
-    border: 1px solid var(--gray-light);
+    @include highlight-border-background;
     border-radius: 0;
     width: auto;
     word-wrap: break-word;  // Add this back
@@ -473,7 +473,7 @@
   @include text-base;
   @include padding-4;
   @include radius-base;
-  background: var(--gray-light);
+  background: var(--gray-ultralight);
   border: none;
   font-style: normal;
 }

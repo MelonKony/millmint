@@ -1,4 +1,4 @@
-{{- $flags := readDir "static/svg/flags" -}}
+{{- $flags := readDir "assets/svg/flags" -}}
 {{- $flagWidth := 70 -}}
 {{- $gap := 10 -}}
 
@@ -6,7 +6,7 @@
   <div class="carousel" id="flagCarousel">
 	{{- range $flags -}}
 	  {{- if strings.HasSuffix .Name ".svg" -}}
-		<a href="/{{ replace .Name ".svg" "" | urlize }}/" class="flag-link">
+		<a href="/{{ replace .Name ".svg" "" | urlize }}/" data-republic="{{ replace .Name ".svg" "" }}" class="flag-link">
 		  <img src="/svg/flags/{{ .Name }}" alt="{{ replace .Name ".svg" "" }}" class="flag-image" loading="lazy">
 		</a>
 	  {{- end -}}
@@ -47,33 +47,93 @@
   .flag-link:hover {
 	transform: translateY(-10px);
   }
+
+  .flag-link.carousel-highlighted {
+	transform: translateY(-10px) scale(1.1);
+	z-index: 10;
+  }
 </style>
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
   const carousel = document.getElementById('flagCarousel');
+  if (!carousel) return;
 
   // Clone content to create a seamless loop
   carousel.innerHTML = carousel.innerHTML + carousel.innerHTML;
 
-  const flagWidth = 70;
-  const gap = 10;
+  const flagWidth = {{ $flagWidth }};
+  const gap = {{ $gap }};
   const padding = 0.25 * 16 * 2;
   const totalFlags = {{ len $flags }};
   const totalWidth = (flagWidth + gap + padding) * totalFlags;
 
   let position = 0;
-  const speed = 1; 
+  const speed = 1;
+  let isCarouselHovered = false;
+  let currentlyHighlightedFlag = null;
 
-  let isHovered = false;
-  carousel.addEventListener('mouseenter', () => isHovered = true);
-  carousel.addEventListener('mouseleave', () => isHovered = false);
+  const flagLinks = carousel.querySelectorAll('.flag-link');
+
+  carousel.addEventListener('mouseenter', () => isCarouselHovered = true);
+  carousel.addEventListener('mouseleave', () => {
+    isCarouselHovered = false;
+    // Clear any flag highlighting when leaving carousel area
+    if (currentlyHighlightedFlag && window.commonwealthMap) {
+      window.commonwealthMap.highlightRepublic(currentlyHighlightedFlag, false);
+      window.commonwealthMap.hideTooltip();
+      currentlyHighlightedFlag = null;
+    }
+    // Remove visual highlighting from flags
+    flagLinks.forEach(flag => flag.classList.remove('carousel-highlighted'));
+  });
+
+  // Add hover events to flag links for map integration
+  flagLinks.forEach(flagLink => {
+    const republicName = flagLink.dataset.republic;
+    
+    flagLink.addEventListener('mouseenter', async () => {
+      // Check if commonwealth map is available
+      if (window.commonwealthMap && republicName) {
+        // Clear previous highlighting
+        if (currentlyHighlightedFlag && currentlyHighlightedFlag !== republicName) {
+          await window.commonwealthMap.highlightRepublic(currentlyHighlightedFlag, false);
+          window.commonwealthMap.hideTooltip();
+        }
+        
+        // Highlight new republic on map
+        await window.commonwealthMap.highlightRepublic(republicName, true);
+        window.commonwealthMap.showTooltipOverDot(republicName);
+        currentlyHighlightedFlag = republicName;
+        
+        // Visually highlight the flag (both original and clone)
+        flagLinks.forEach(flag => flag.classList.remove('carousel-highlighted'));
+        flagLinks.forEach(flag => {
+          if (flag.dataset.republic === republicName) {
+            flag.classList.add('carousel-highlighted');
+          }
+        });
+      }
+    });
+    
+    flagLink.addEventListener('mouseleave', async () => {
+      // Only unhighlight if we're not hovering over the carousel area
+      setTimeout(async () => {
+        if (!isCarouselHovered && window.commonwealthMap && republicName === currentlyHighlightedFlag) {
+          await window.commonwealthMap.highlightRepublic(republicName, false);
+          window.commonwealthMap.hideTooltip();
+          currentlyHighlightedFlag = null;
+          flagLinks.forEach(flag => flag.classList.remove('carousel-highlighted'));
+        }
+      }, 50);
+    });
+  });
 
   function animate() {
-    if (!isHovered) {
+    if (!isCarouselHovered) {
       position += speed;
     } else {
-      position += speed * 0.3;
+      position += speed * 0.3; // Slow down when hovered for easier interaction
     }
 
     // Reset position when halfway through the clone

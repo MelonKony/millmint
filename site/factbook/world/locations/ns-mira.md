@@ -3,10 +3,10 @@ title: NS Mira
 fulltitle: Naval Station Mira
 icon: ⚓️
 color: marine
-logo: /svg/crests/marine.svg
+logo: /svg/crests/maritime-service.svg
 series: location
 
-fi: fi fi-min-marine fis
+fi: fi fi-maritime-service fis
 description: Naval Station Mira is a naval station of the Vekllei Armed Forces, located in the republic of Mira.
 
 aliases:

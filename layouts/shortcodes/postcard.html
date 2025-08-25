@@ -1,7 +1,7 @@
 <div class="postcard-layout">
   <ul class="postcard-grid">
     {{ range .Site.RegularPages.ByDate.Reverse | first 1 }}
-    <li class="card" href="{{ .RelPermalink }}">
+    <li class="card no-preview" href="{{ .RelPermalink }}">
       <a href="{{ .RelPermalink }}">
         <div class="postcard-meta">
           <div class="title">

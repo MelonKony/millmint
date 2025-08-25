@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang='{{ .Site.LanguageCode }}'>
-
 <head>
     {{- partial "params.html" . -}}
     {{- partial "head.html" . -}}
-    {{- partial "script.html" . -}}
+    {{- block "head-extra" . }}{{- end }}
 </head>
 
 <body {{if .Params.Color }}data-color="{{ .Params.Color }}" {{ end }} class="show-all-images">
@@ -13,12 +12,39 @@
             {{- partial "header.html" . -}}
             {{- partial "nav.html" . -}}
             <section class="page">
-                {{ partial "doll-assets-data.html" . }}
-                {{- block "content" . }}{{- end }}
+                {{- block "page-header" . }}
+                    {{ partial "article-header.html" (dict "ctx" . "showMeta" true) }}
+                    {{- partial "toc.html" . }}
+                {{- end }}
+                
+                <article {{- if .Param "autonumbering" | default true }} autonumbering {{- end }}>
+                    {{- block "article-params" . }}
+                        {{- partial "components/articles/article-params.html" . -}}
+                        {{- partial "components/stories/story-params.html" . -}}
+                    {{- end }}
+                    
+                    {{- block "content" . }}
+                        {{/* Default content processing with wikilinks */}}
+                        {{ $content := partial "wikilinks.html" . }}
+                        
+                        {{/* Process tables and syntax highlighting */}}
+                        {{ if eq (.Scratch.Get "params").syntax_highlight.lib "prism.js" }}
+                            {{ $content = $content | replaceRE "<pre>" "<pre class=\"language-text\">" }}
+                            {{ $content = $content | replaceRE "<pre([^>]*)class=\"([^>]*)\"([^>]*)>" "<pre$1 class=\"mc-prism hide $2\" $3>" }}
+                        {{ end }}
+                        
+                        {{ $content | safeHTML }}
+
+                        {{- block "page" . }}{{- end }}
+                    {{- end }}
+                    
+                    {{- block "article-footer" . }}
+                        {{- partial "components/link-preview.html" . -}}
+                    {{- end }}
+                </article>
             </section>
             {{- partial "footer.html" . -}}
         </article>
     </main>
 </body>
-
 </html>

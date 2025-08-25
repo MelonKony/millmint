@@ -1,0 +1,78 @@
+{{/* icons.html partial with proper filename extraction */}}
+{{/* Base icon classes */}}
+.fib {
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
+.fi {
+  border-radius: 0.25rem;
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  position: relative;
+  display: inline-block;
+  width: 1.33333333em;
+  line-height: 1em;
+}
+.fi:before {
+  content: "\00a0";
+}
+.fi.fis {
+  width: 1em;
+}
+
+{{/* Generated icon classes */}}
+{{- $files := resources.Match "svg/**/*.svg" -}}
+{{- $processedNames := dict -}}
+{{- $duplicates := slice -}}
+
+{{- range $file := $files -}}
+  {{- $fullPath := $file.Name -}}
+  
+  {{/* Extract filename from path */}}
+  {{- $filename := path.Base $fullPath -}}
+  
+  {{/* Remove .svg extension */}}
+  {{- $className := replace $filename ".svg" "" -}}
+  
+  {{/* Sanitize class name - replace non-alphanumeric with dashes */}}
+  {{- $className = $className | replaceRE "[^a-zA-Z0-9]+" "-" | lower -}}
+  {{- $className = trim $className "-" -}}
+  
+  {{/* Skip if empty */}}
+  {{- if not $className -}}
+    {{- continue -}}
+  {{- end -}}
+  
+  {{/* Check for duplicates */}}
+  {{- if index $processedNames $className -}}
+    {{- $duplicates = $duplicates | append $className -}}
+  {{- else -}}
+    {{- $processedNames = merge $processedNames (dict $className true) -}}
+  {{- end -}}
+  
+  {{/* Generate base class for 4x3 flags */}}
+  {{- if strings.Contains $file.Name "/4x3/" -}}
+.fi-{{ $className }} {
+  background-image: url("{{ $file.RelPermalink }}");
+}
+  {{- end -}}
+  
+  {{/* Generate .fis class for 1x1 flags AND all other SVGs (logos, etc.) */}}
+  {{- if or (strings.Contains $file.Name "/1x1/") (not (strings.Contains $file.Name "/flags/")) -}}
+.fi-{{ $className }}.fis {
+  background-image: url("{{ $file.RelPermalink }}");
+}
+  {{- end -}}
+{{- end -}}
+
+{{/* Add warnings for duplicates */}}
+{{- if $duplicates -}}
+/* WARNING: Duplicate class names detected:
+{{- range $duplicates | uniq -}}
+ * {{ . }}
+{{- end -}}
+ * Please rename files to avoid conflicts.
+ */
+{{- end -}}

@@ -200,7 +200,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>1830</b>
 			<span class="event">
-				[[atlantic-store|Atlantic]] is founded in the [[Oslola]]
+				[[atlantic-department-company|Atlantic]] is founded in the [[Oslola]]
 			</span>
 		</li>
 		<li>
@@ -415,7 +415,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 			<b>2015</b>
 			<span class="event"><b>Beginning of Vekllei Floral Period</b><br>
 				Founding of the <a href="/interim/">Interim Government</a><br>
-				[[gaf|Government Aircraft Factories]] is founded in [[Oslola]]
+				[[Government Aircraft Factories]] is founded in [[Oslola]]
 			</span>
 		</li>
 		<li>
@@ -426,13 +426,13 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 				Government is reesetablished<br>
 				Angua, [[Antigua]], [[Barbary]], Liamuiga, Martin, Montesur and Oualie are federated into the Antilles Commonwealth<br>
 				[[General Reactor]] is founded in Vekllei<br>
-				[[oil|Commonwealth Oil]] is founded in [[Kairi]]
+				[[Commonwealth Oil]] is founded in [[Kairi]]
 			</span>
 		</li>
 		<li>
 			<b>2018</b>
 			<span class="event">
-				[[air|Commonwealth Airways]] is founded<br>
+				[[Commonwealth Airways]] is founded<br>
 				Fission energy is legalised for restricted commercial use in the U.S.<br>
 				[[Vekllei]] postwar economic boom begins<br>
 				[[United Grocers]] is founded in [[Virgin]]
@@ -522,7 +522,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>2035</b>
 			<span class="event">
-				[[nch|National Construction House]] is founded in [[Oslola]]
+				[[National Construction House]] is founded in [[Oslola]]
 			</span>
 		</li>
 		<li>
@@ -574,7 +574,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 				U.S. announces cuts to space programme<br>
 				France establishes lunar colony in West Equator<br>
 				Cobian is born in Little Vekllei<br>
-				[[starlines|Commonwealth Starlines]] is founded as a subsidiary of [[air|Commonwealth Airways]] in [[Ascension]]
+				[[Commonwealth Starlines]] is founded as a subsidiary of [[Commonwealth Airways]] in [[Ascension]]
 			</span>
 		</li>
 		<li>

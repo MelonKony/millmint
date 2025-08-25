@@ -2,13 +2,13 @@
 title: Ceylon
 fulltitle: The Socialist Republic of Ceylon
 icon: 🍵
-logo: /svg/flags/4x3/lk.svg
+logo: /svg/flags/4x3/lk-4x3.svg
 
 description: The Republic of Ceylon (also known as Sri Lanka) is an island country in South Asia, off the coast of India.
 
 rgb: 255, 92, 0
 
-fi: fi fi-lk
+fi: fi fi-lk-4x3
 
 draft: false
 toc: true

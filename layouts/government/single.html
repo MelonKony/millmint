@@ -1,0 +1,50 @@
+{{ define "head-extra" }}
+<style>
+.column {
+  flex: 1;
+  min-width: 0;
+}
+
+.column h2 {
+  margin-top: 0.5rem;
+}
+</style>
+{{ end }}
+
+{{ define "content" }}
+    {{ $rawContent := .RawContent }}
+    
+    <!-- Split content and show everything before first H2 -->
+    {{ $allSections := split $rawContent "## " }}
+    {{ if gt (len $allSections) 1 }}
+    <div class="first-section markdown-content">
+      {{ $firstSection := index $allSections 0 }}
+      {{ $processedFirstSection := $firstSection | markdownify }}
+      
+      {{ $processedFirstSection = partial "wikilinks.html" (dict "Content" $processedFirstSection "Site" .Site "File" .File) }}
+      
+      {{ $processedFirstSection | safeHTML }}
+    </div>
+    {{ end }}
+    
+    <!-- Process H2 sections as columns -->
+    {{ if gt (len $allSections) 1 }}
+    <div class="note column">
+      {{ range $i, $section := (after 1 $allSections) }}
+        {{ $lines := split $section "\n" }}
+        {{ $title := index $lines 0 }}
+        {{ $title = trim $title " " }}
+        
+        <div class="markdown-content">
+          <h2>{{ $title }}</h2>
+          {{ $columnContent := delimit (after 1 $lines) "\n" }}
+          {{ $processedColumnContent := $columnContent | markdownify }}
+          
+          {{ $processedColumnContent = partial "wikilinks.html" (dict "Content" $processedColumnContent "Site" $.Site "File" $.File) }}
+          
+          {{ $processedColumnContent | safeHTML }}
+        </div>
+      {{ end }}
+    </div>
+    {{ end }}
+{{ end }}
