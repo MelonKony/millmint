@@ -7,7 +7,7 @@ logo: /svg/crests/air-service.svg
 series: location
 
 fi: fi fi-air-service fis
-description: Air Station Caimanas is a military air station of the Vekllei Air Service, located in the republic of Caimanas.
+description: Air Station Scatsta is a military air station of the Vekllei Air Service, located in the republic of Hetland.
 
 aliases:
 - /as-scatsta/
