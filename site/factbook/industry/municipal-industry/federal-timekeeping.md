@@ -2,7 +2,7 @@
 title: Federal Timekeeping
 fulltitle: Federal Timekeeping
 icon: ⏱️
-logo: /svg/logos/timekeeping.svg
+logo: /svg/logos/federal-timekeeping.svg
 rgb: 255, 151, 0
 
 image: /images/fullres/wristwatch.jpg
@@ -18,7 +18,7 @@ series: industry
 
 {{<infobox/company
 	 Name="Federal Timekeeping"
-	 Logo="/svg/logos/timekeeping.svg"
+	 Logo="/svg/logos/federal-timekeeping.svg"
 	 Type="Municipal"
 	 Industry="Watchmaking"
 	 Headquarters="Velas"
