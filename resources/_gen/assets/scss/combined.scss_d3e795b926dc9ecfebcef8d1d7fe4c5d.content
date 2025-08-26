@@ -324,6 +324,10 @@
   background-image: url("/svg/flags/4x3/bb-4x3.svg");
 }
 
+.fi-benahoare-4x3 {
+  background-image: url("/svg/flags/4x3/benahoare-4x3.svg");
+}
+
 .fi-bonaire-4x3 {
   background-image: url("/svg/flags/4x3/bonaire-4x3.svg");
 }

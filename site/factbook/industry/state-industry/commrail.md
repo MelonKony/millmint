@@ -171,9 +171,9 @@ The federal structure allows for remarkable operational diversity -- from cable 
   - *Santa Cruz Central Railway*
 - [[Graciosa]]
   - *Dismas Metropolitan Railway*
-- [[La Palma]]
-  - *Palma Railway Company*
-  - *Caldera de Taburiente Express*
+- [[Benahoare]]
+  - *Benahoare Railway Company*
+  - *Caldera Mountain Railway*
 - [[Lanzarote]]
   - *Arrecife Airport Railway*
   - *Timanfaya Volcanic Line*

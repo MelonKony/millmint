@@ -237,7 +237,7 @@ strong[data-region].region-highlighted {
         <li>[[Maria]]</li>
         <li>[[Mira]]</li>
         <li>[[Porto Santo]]</li>
-        <li>[[Palma]]</li>
+        <li>[[Benahoare]]</li>
         <li>[[Meridia]]</li>
         <li>[[Berbara]]</li>
         <li>[[Tenerife]]</li>
