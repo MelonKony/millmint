@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1680 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Group">
+        <rect id="path1" x="-0.342" y="0" width="72.795" height="1000" style="fill:rgb(249,150,51);"/>
+        <g transform="matrix(3.24717e-17,0.378788,-1.608,9.02565e-17,1680,712.121)">
+            <rect x="520" y="0" width="240" height="1000" style="fill:rgb(0,94,73);"/>
+        </g>
+        <g transform="matrix(3.24717e-17,0.378788,-1.608,9.02565e-17,1680,621.212)">
+            <rect x="520" y="0" width="240" height="1000" style="fill:white;"/>
+        </g>
+        <g transform="matrix(3.24717e-17,0.378788,-1.608,9.02565e-17,1680,530.303)">
+            <rect x="520" y="0" width="240" height="1000" style="fill:rgb(0,94,73);"/>
+        </g>
+        <g transform="matrix(3.24717e-17,0.378788,-1.608,9.02565e-17,1680,439.394)">
+            <rect x="520" y="0" width="240" height="1000" style="fill:white;"/>
+        </g>
+        <g transform="matrix(3.24717e-17,0.378788,-1.608,9.02565e-17,1680,348.485)">
+            <rect x="520" y="0" width="240" height="1000" style="fill:rgb(0,94,73);"/>
+        </g>
+        <g transform="matrix(3.24717e-17,0.378788,-1.608,9.02565e-17,1680,257.576)">
+            <rect x="520" y="0" width="240" height="1000" style="fill:white;"/>
+        </g>
+        <g transform="matrix(3.24717e-17,0.378788,-1.608,9.02565e-17,1680,166.667)">
+            <rect x="520" y="0" width="240" height="1000" style="fill:rgb(0,94,73);"/>
+        </g>
+        <g transform="matrix(3.24717e-17,0.378788,-1.608,9.02565e-17,1680,75.7576)">
+            <rect x="520" y="0" width="240" height="1000" style="fill:white;"/>
+        </g>
+        <g transform="matrix(3.24717e-17,0.378788,-1.608,9.02565e-17,1680,-15.1515)">
+            <rect x="520" y="0" width="240" height="1000" style="fill:rgb(0,94,73);"/>
+        </g>
+        <g transform="matrix(3.24717e-17,0.378788,-1.608,9.02565e-17,1680,-196.97)">
+            <rect x="520" y="0" width="240" height="1000" style="fill:rgb(0,94,73);"/>
+        </g>
+        <g transform="matrix(3.24717e-17,0.378788,-1.608,9.02565e-17,1680,-106.061)">
+            <rect x="520" y="0" width="240" height="1000" style="fill:white;"/>
+        </g>
+    </g>
+</svg>

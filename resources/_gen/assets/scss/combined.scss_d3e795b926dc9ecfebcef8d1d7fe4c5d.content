@@ -476,6 +476,10 @@
   background-image: url("/svg/flags/4x3/madiana-4x3.svg");
 }
 
+.fi-meridia-4x3 {
+  background-image: url("/svg/flags/4x3/meridia-4x3.svg");
+}
+
 .fi-mira-4x3 {
   background-image: url("/svg/flags/4x3/mira-4x3.svg");
 }

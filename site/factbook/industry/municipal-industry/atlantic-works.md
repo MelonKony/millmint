@@ -44,4 +44,5 @@ Today, Atlantic Works specialises in industrial, electrical, aerospace and vehic
 * Diesel Works [[Bahama]] (*Diesel and petrol engines, pumps*)
 * Cold Works [[Barbary]] (*Refrigeration equipment, cooling solutions*)
 * Heavy Works [[Kairi]] (*Boilers, combined cycles, turbines, energy production equipment*)
+* Sahara Works [[Meridia]] (*Iron tools, iron equipment*)
 {{</note>}}
