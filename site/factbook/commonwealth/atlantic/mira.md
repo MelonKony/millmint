@@ -49,6 +49,7 @@ The island has robust infrastructure to facilitate travel. It has a major intern
 - **Cabo Girão**: One of the highest sea cliffs in the world, offering breathtaking views and a glass skywalk for daring visitors.
 - **São Vicente Caves**: A series of volcanic caves that offer guided tours showcasing the geological history of the island.
 - **Atlantic International Airport**: The main airport in Mira, providing connections to Vekllei and other international destinations.
+- **Atlantic Sugar Works**: Western super-refinery and fermentation plant operated by [[Caribbea Cane]].  
 - **[[ns-mira|Naval Station Mira]]**: Major naval station servicing air escort destroyers for the [[marine|Marine Services]].
 - **Port of Fennel**: A key maritime hub supporting passenger ships, cargo traffic, and ferry services to nearby islands.
 - **Mira Nuclear Power Plant**: The main provider of electricity on the island, employing the latest No. 4 Commercial Fusion Reactor.

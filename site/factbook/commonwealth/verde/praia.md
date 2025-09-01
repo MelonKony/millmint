@@ -64,6 +64,7 @@ Expect heavy rains between August and October, but no precipitation at all the r
 <summary>Points of Interest</summary>
 
 - **[[Fortress Praia]]**: Imposing and monumental military fortress and barracks in Praia's harbour.
+- **Praia Sugar Works**: Super-mill and integrated fermentation factory operated by [[Caribbea Cane]].  
 - **Archive Afrique**: Regional archive of the [[Commonwealth Central Archives]].
 - **Sud Gas Liquefaction Works**: [[Commonwealth Oil]] gas liquefaction plant in Tarrafal that produces about sixty per cent of Vekllei's liquified natural gas (LNG).
 - **Ordinary Subsea Cable Landing Station**: Oil and has network submarine cable landing point, which then travels onward to central control in [[Sal]].

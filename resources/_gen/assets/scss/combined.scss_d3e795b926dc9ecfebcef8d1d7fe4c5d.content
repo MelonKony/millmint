@@ -684,6 +684,10 @@
   background-image: url("/svg/logos/cac.svg");
 }
 
+.fi-caribbea-cane.fis {
+  background-image: url("/svg/logos/caribbea-cane.svg");
+}
+
 .fi-cateral.fis {
   background-image: url("/svg/logos/cateral.svg");
 }
