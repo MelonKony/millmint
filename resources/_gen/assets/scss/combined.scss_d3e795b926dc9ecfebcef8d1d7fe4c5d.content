@@ -44,10 +44,6 @@
   background-image: url("/svg/crests/crownless/c-commonwealth.svg");
 }
 
-.fi-c-community.fis {
-  background-image: url("/svg/crests/crownless/c-community.svg");
-}
-
 .fi-c-council.fis {
   background-image: url("/svg/crests/crownless/c-council.svg");
 }
@@ -86,6 +82,10 @@
 
 .fi-c-landscape.fis {
   background-image: url("/svg/crests/crownless/c-landscape.svg");
+}
+
+.fi-c-law.fis {
+  background-image: url("/svg/crests/crownless/c-law.svg");
 }
 
 .fi-c-light-and-water.fis {
@@ -132,10 +132,6 @@
   background-image: url("/svg/crests/parliament/civic.svg");
 }
 
-.fi-community.fis {
-  background-image: url("/svg/crests/parliament/community.svg");
-}
-
 .fi-democracy.fis {
   background-image: url("/svg/crests/parliament/democracy.svg");
 }
@@ -146,6 +142,10 @@
 
 .fi-health.fis {
   background-image: url("/svg/crests/parliament/health.svg");
+}
+
+.fi-law.fis {
+  background-image: url("/svg/crests/parliament/law.svg");
 }
 
 .fi-security.fis {
@@ -990,7 +990,7 @@
   --color-lightandwater: #56a3bb;
   --color-health: #f55170;
   --color-education: #3286dc;
-  --color-justice: #ffa256;
+  --color-law: #ffa256;
   --color-security: #f0574c;
   --color-state: #cd509f;
 }
@@ -1051,7 +1051,7 @@
   --color-lightandwater: #56a3bb;
   --color-health: #f55170;
   --color-education: #3286dc;
-  --color-justice: #ffa256;
+  --color-law: #ffa256;
   --color-security: #f0574c;
   --color-state: #cd509f;
 }
