@@ -15,7 +15,7 @@ aliases:
 **Naval Station Helvasia** is a fortress of the [[Vekllei]] [[Maritime Service]], located in the republic of [[Helvasia]].
 
 {{<note table>}}
-**Resident [[Air Service]] Squadrons**:
+**Resident [[Air Service]] Squadrons**
 
 * No. 7 Aeromarine Wing
 * *No. 35 Aeromarine Sqdn.* Icaria

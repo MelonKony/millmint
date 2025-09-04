@@ -73,5 +73,6 @@ Somewhat mediterranean, arid and cloudier than most of the other canaries.
 - **Our Lady of the Snows Observatory**: Among the finest observatories in the world and a key part of the Vekllei space programme.
 - **University of Benahoare**: Regional campus of Commmonwealth University specialising in astronomy.
 - **Benahoare National Park**: Massive forested mountain range with volcanos and trails.
+- **Commonwealth Inspector Training School**: Special [[Police]] training school for detectives and inspectors operated by the [[Commonwealth Police College]].
 </details>
 

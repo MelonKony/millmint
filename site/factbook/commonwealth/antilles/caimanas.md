@@ -65,11 +65,8 @@ Jul**
 - **Caimana Botanic Gardens**: A botanical garden on Grand Caimana, showcasing native flora and the endangered Blue Iguana.
 - **Cayman Turtle Centre**: A conservation and education centre where visitors can learn about sea turtles and other wildlife.
 - **Pedro St. James**: A historic building known as "the birthplace of democracy" in the Caimanas Islands, offering tours and exhibits on the islands’ history.
-- **Mastic Trail**: A nature trail on Grand Caimana that leads through the island's unspoiled interior, offering opportunities for birdwatching and hiking.
 - **Caimana Brac Caves**: Natural limestone caves on Caimana Brac, popular for exploration and offering dramatic views of the landscape.
-- **Air Station Caimana**: The main airport in Grand Caimana, providing international connections to the United States, Canada, and the UK.
+- **[[as caimanas|Air Station Caimanas]]**: The main airport in the republic and major military air station.
 - **Caimana Islands Dockyards**: Major port and drydocks located just outside of Tortuga.
-- **Tortuga Financial District**: The heart of the islands' financial services industry, with numerous banks, investment firms, and law offices.
-- **Caimanas Hospital (Tortuga Hospital)**: The main medical facility in the Caimanas, offering a wide range of healthcare services.
-- **Caimanas Desalination Plant**: Major desalination plant that provides the majority of the fresh water in the archipelago.
+- **Constable Training School**: Special [[Police]] training school for local policing, operated by the [[Commonwealth Police College]].
 </details>

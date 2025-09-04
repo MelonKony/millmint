@@ -15,7 +15,7 @@ aliases:
 **Air Station Scatsta** is a [[armed forces|Navy]] air station of the [[Vekllei]] [[Air Service]], located in the republic of [[Hetland]].
 
 {{<note table>}}
-**Resident Squadrons**:
+**Resident Squadrons**
 
 * No. 1 Aerocombat Wing
 * *No. 5 Fighter Sqdn.* Green
@@ -27,5 +27,11 @@ aliases:
 * *No. 43 Aerordnance Sqdn.* Memphis
 * No. 1 Aeroxiliary Wing
 * *No. 1 Maritime Patrol Sqdn.* Trident
+{{</note>}}
+
+{{<note table>}}
+**National Signals Training School**
+
+The National Signals Training School is a defence intelligence and electronic training facility for the [[armed forces|Navy]]. It also has a detachment from the [[Commonwealth Police College]].
 {{</note>}}
 

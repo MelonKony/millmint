@@ -15,7 +15,7 @@ aliases:
 **Air Station Caimanas** is a [[armed forces|Navy]] air station of the [[Vekllei]] [[Air Service]], located in the republic of [[Caimanas]].
 
 {{<note table>}}
-**Resident Squadrons**:
+**Resident Squadrons**
 
 * No. 2 Aerocombat Wing
 * *No. 15 Fighter Sqdn.* Maria

@@ -15,7 +15,7 @@ aliases:
 **Air Station Oslola** is a [[armed forces|Navy]] air station of the [[Vekllei]] [[Air Service]], located in the republic of [[Oslola]].
 
 {{<note table>}}
-**Resident Squadrons**:
+**Resident Squadrons**
 
 * No. 1 Aerocombat Wing
 * *No. 4 Fighter Sqdn.* Blue
@@ -39,3 +39,8 @@ aliases:
 * *No. 2 Aerotransport Sqdn.* Miracle
 {{</note>}}
 
+{{<note table>}}
+**National Police Aviation School**
+
+The National Police Aviation School is a constituent school of the [[Commonwealth Police College]] that trains [[Police]] pilots and specialised air assault tactics to officers.
+{{</note>}}

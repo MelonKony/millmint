@@ -15,7 +15,7 @@ aliases:
 **Fortress Meteor** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Flores]].
 
 {{<note table>}}
-**Resident Regiments & Battalions**:
+**Resident Regiments & Battalions**
 
 * 2nd Parliamentary Rifles
 * *4th Rifles Battalion*

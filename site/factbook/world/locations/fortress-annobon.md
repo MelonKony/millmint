@@ -16,7 +16,7 @@ aliases:
 **Fortress Annobon** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Annobon]].
 
 {{<note table>}}
-**Resident Regiments & Battalions**:
+**Resident Regiments & Battalions**
 
 * 6th African Guards Regiment
 * *16th Rifles Battalion*

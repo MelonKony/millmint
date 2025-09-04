@@ -15,7 +15,7 @@ aliases:
 **Air Station Kairi** is a [[armed forces|Navy]] air station of the [[Vekllei]] [[Air Service]], located in the republic of [[Kairi]].
 
 {{<note table>}}
-**Resident Squadrons**:
+**Resident Squadrons**
 
 * No. 2 Aerocombat Wing
 * *No. 9 Fighter Sqdn.* Horus

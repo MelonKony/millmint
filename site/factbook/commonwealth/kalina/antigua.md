@@ -51,5 +51,6 @@ Fast hydrofoils leave Caribbea's port daily, collecting students from neighbouri
 * **Nelson's Dockyard**: Historic British naval dockyard open to the public, now part of Naval Station Antigua.
 * **Devil's Bridge**: Eroded limestone arches, rumoured to be the site of mass suicides during the slavery era.
 * **Antigua National Gallery**: Cosmopolitan and modern art, and the stomping ground of emerging student artists.
+* **Commonwealth Forensic Science Laboratory**: State-of-the-art laboratory that conducts research on a wide range of topics, including criminal justice, law, and medicine. It also trains forensic scientists enrolled in the [[Commonwealth Police College]].
 </details>
 

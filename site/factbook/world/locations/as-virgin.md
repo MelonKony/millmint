@@ -15,7 +15,7 @@ aliases:
 **Air Station Virgin** is a [[armed forces|Navy]] air station of the [[Vekllei]] [[Air Service]], located in the republic of [[Virgin]].
 
 {{<note table>}}
-**Resident Squadrons**:
+**Resident Squadrons**
 
 * No. 2 Aerocombat Wing
 * *No. 12 Fighter Sqdn.* Aurora

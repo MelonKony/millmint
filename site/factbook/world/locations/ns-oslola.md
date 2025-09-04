@@ -17,7 +17,7 @@ aliases:
 Although federalisation has decentralised much of Vekllei's naval industry, Naval Station Oslola remains the largest and most important of its naval facilities. It contains the King Dock, the only dry-dock capable of manufacturing and maintaining the *Veletia*-class supercarrier. It also houses the Commonwealth Submersible Plant, a collection of factories building [*Capricorn*](/capricorn-class/) and [*Mantle*](/mantle-class/)-class submarines. It is also the home station for most of the maritime service's oversized oceangoing vessels, including the *Federal*-class battleship and most of its battlecruisers.
 
 {{<note table>}}
-**Resident [[Air Service]] Squadrons**:
+**Resident [[Air Service]] Squadrons**
 
 * No. 6 Aeromarine Wing
 * *No. 33 Aeromarine Sqdn.* Thule

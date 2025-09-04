@@ -44,6 +44,10 @@
   background-image: url("/svg/crests/crownless/c-commonwealth.svg");
 }
 
+.fi-c-community.fis {
+  background-image: url("/svg/crests/crownless/c-community.svg");
+}
+
 .fi-c-council.fis {
   background-image: url("/svg/crests/crownless/c-council.svg");
 }
@@ -130,6 +134,10 @@
 
 .fi-civic.fis {
   background-image: url("/svg/crests/parliament/civic.svg");
+}
+
+.fi-community.fis {
+  background-image: url("/svg/crests/parliament/community.svg");
 }
 
 .fi-democracy.fis {
@@ -258,6 +266,10 @@
 
 .fi-vekllei.fis {
   background-image: url("/svg/crests/vekllei.svg");
+}
+
+.fi-government.fis {
+  background-image: url("/svg/diagrams/government.svg");
 }
 
 .fi-abakoa-4x3 {
@@ -836,6 +848,10 @@
   background-image: url("/svg/logos/orleans.svg");
 }
 
+.fi-police.fis {
+  background-image: url("/svg/logos/police.svg");
+}
+
 .fi-post.fis {
   background-image: url("/svg/logos/post.svg");
 }
@@ -930,6 +946,10 @@
 
 .fi-verde-locator.fis {
   background-image: url("/svg/maps/locator/verde-locator.svg");
+}
+
+.fi-abstract-map.fis {
+  background-image: url("/svg/maps/abstract-map.svg");
 }
 
 .fi-caribbean.fis {

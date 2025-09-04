@@ -15,7 +15,7 @@ aliases:
 **Fortress Aruba** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Aruba]].
 
 {{<note table>}}
-**Resident Regiments & Battalions**:
+**Resident Regiments & Battalions**
 
 * 10th Ready Guards Regiment
 * *28th Rifles Battalion*

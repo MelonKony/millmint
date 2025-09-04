@@ -15,7 +15,7 @@ aliases:
 **Air Station Falklands** is a [[armed forces|Navy]] air station of the [[Vekllei]] [[Air Service]], located in the republic of [[Falklands]].
 
 {{<note table>}}
-**Resident Squadrons**:
+**Resident Squadrons**
 
 * No. 1 Aerocombat Wing
 * *No. 7 Fighter Sqdn.* White

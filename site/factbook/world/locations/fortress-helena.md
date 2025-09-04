@@ -15,7 +15,7 @@ aliases:
 **Fortress Helena** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Helena]].
 
 {{<note table>}}
-**Resident Regiments & Battalions**:
+**Resident Regiments & Battalions**
 
 * 7th Sentinel Guards Regiment
 * *19th Rifles Battalion*

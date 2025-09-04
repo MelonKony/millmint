@@ -15,7 +15,7 @@ aliases:
 **Air Station Ascension** is a [[armed forces|Navy]] air station of the [[Vekllei]] [[Air Service]], located in the republic of [[Ascension]].
 
 {{<note table>}}
-**Resident Squadrons**:
+**Resident Squadrons**
 
 * No. 2 Aerocombat Wing
 * *No. 10 Fighter Sqdn.* Delphi

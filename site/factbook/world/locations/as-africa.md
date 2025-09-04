@@ -15,7 +15,7 @@ aliases:
 **Air Station Africa** is a [[armed forces|Navy]] air station of the [[Vekllei]] [[Air Service]], located in the republic of [[Praia]].
 
 {{<note table>}}
-**Resident Squadrons**:
+**Resident Squadrons**
 
 * No. 1 Aerocombat Wing
 * *No. 3 Fighter Sqdn.* Red

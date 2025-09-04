@@ -15,7 +15,7 @@ aliases:
 **Fortress Orient** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Caicos]].
 
 {{<note table>}}
-**Resident Regiments & Battalions**:
+**Resident Regiments & Battalions**
 
 * 11th Candle Guards Regiment
 * *31st Rifles Battalion*

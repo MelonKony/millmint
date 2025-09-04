@@ -17,7 +17,7 @@ aliases:
 The station has a long history dating back to British fortification of the island in the 18th Century. It served as a naval fortress for the Royal Navy, and has expanded in that role since Commonwealth accession. A naval fort in Great Sound known as Bloody Head has received substantial upgrades in the 2040s, including the installation of long-range anti-ship missiles.
 
 {{<note table>}}
-**Resident [[Air Service]] Squadrons**:
+**Resident [[Air Service]] Squadrons**
 
 * No. 4 Aerorifles Wing
 * *No. 16 Aerorifles Sqdn.*

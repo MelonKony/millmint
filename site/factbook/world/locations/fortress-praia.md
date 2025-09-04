@@ -15,7 +15,7 @@ aliases:
 **Fortress Praia** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Praia]].
 
 {{<note table>}}
-**Resident Regiments & Battalions**:
+**Resident Regiments & Battalions**
 
 * 5th Desert Guards Regiment
 * *13th Rifles Battalion*

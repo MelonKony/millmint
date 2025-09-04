@@ -15,7 +15,7 @@ aliases:
 **Fortress Lola** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Oslola]].
 
 {{<note table>}}
-**Resident Regiments & Battalions**:
+**Resident Regiments & Battalions**
 
 * 1st Commonwealth Rifles
 * *1st Rifles Battalion*
@@ -26,7 +26,13 @@ aliases:
 {{</note>}}
 
 {{<note table>}}
-**Resident [[Air Service]] Squadrons**:
+**National Patrol & Scouting School**
+
+The National Patrol & Scouting School is a specialised training facility of [[Fortress Lola]] specialising in cross-country tracking, fieldcraft and survival skills. It also includes a police detachment operated by the [[Commonwealth Police College]] that trains animal handling and frontier constables.
+{{</note>}}
+
+{{<note table>}}
+**Resident [[Air Service]] Squadrons**
 
 * No. 2 Aerorifles Wing
 * *No. 6 Aerorifles Sqdn.*

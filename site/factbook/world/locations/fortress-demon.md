@@ -15,7 +15,7 @@ aliases:
 **Fortress Demon** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Demon]].
 
 {{<note table>}}
-**Resident Regiments & Battalions**:
+**Resident Regiments & Battalions**
 
 * 3rd Demonic Guards Regiment
 * *8th Rifles Battalion*

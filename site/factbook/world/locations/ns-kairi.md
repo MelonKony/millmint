@@ -17,7 +17,7 @@ aliases:
 Today, Naval Station Kairi is a sprawling facility, home to several advanced shipyards, extensive dry-docks, and a state-of-the-art command centre for overseeing regional security. The station includes a tropical warfare training centre, used by different [[territorial|Territorial Services]] for joint exercises. Its dockyards are the home station of the [*Suffrage*](/suffrage-class/)-class corvettes, many of which were manufactured in the automatic docks at the site.
 
 {{<note table>}}
-**Resident [[Air Service]] Squadrons**:
+**Resident [[Air Service]] Squadrons**
 
 * No. 5 Aeromarine Wing
 * *No. 27 Aeromarine Sqdn.* Caravel

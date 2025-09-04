@@ -15,7 +15,7 @@ aliases:
 **Fortress Kabuli** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of Kabuli.
 
 {{<note table>}}
-**Resident Regiments & Battalions**:
+**Resident Regiments & Battalions**
 
 * 9th Sugar Guards Regiment
 * *25th Rifles Battalion*

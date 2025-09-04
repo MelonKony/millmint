@@ -15,7 +15,7 @@ aliases:
 **Air Station Kala** is a [[armed forces|Navy]] air station of the [[Vekllei]] [[Air Service]], located in the republic of [[Kala]].
 
 {{<note table>}}
-**Resident Squadrons**:
+**Resident Squadrons**
 
 * No. 2 Aerocombat Wing
 * *No. 11 Fighter Sqdn.* Caribbea
