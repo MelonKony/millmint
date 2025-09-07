@@ -12,10 +12,19 @@ description: Naval Station Morocos is a naval station of the Vekllei Armed Force
 aliases:
 - /ns-morocos/
 ---
-**Naval Station Morocos**, located on the Verde island of Morocos, serves as a nuclear refuelling and supply station of the [[Vekllei]] [[marine|Marine Services]] in the [[verde|Commonwealth Verde]].
-Established in 2054, the station was originally built to support the increased fuelling demands of Vekllei nuclear naval vessels in the eastern Atlantic. Its strategic position at the crossroads of Atlantic shipping routes also made it a vital position for monitoring regional trade and bolstering the federalisation of the Verde archipelago.
+<span class="fi fi-maritime-service fis"></span> **Naval Station Morocos**, located on the Verde island of [[Morocos]], serves as a nuclear refuelling and supply station of the [[Vekllei]] [[marine|Marine Services]] in the [[verde|Commonwealth Verde]]. Established in 2054 to support the increased operational tempo of Vekllei nuclear naval vessels in the eastern Atlantic, the station occupies a strategic position at the crossroads of Atlantic shipping routes. The facility played a crucial role in the federalisation process of the Verde archipelago, providing both maritime security and economic integration for the region.
 
-The station is equipped with docking, refuelling, and maintenance facilities. It supports regional naval patrols, anti-smuggling operations, and search-and-rescue missions in the expansive Atlantic waters. The station also serves as a training centre for the Verdean component of the maritime service, primarily for coastal defence and maritime surveillance.
+The station specialises in nuclear vessel support operations, featuring advanced docking, refuelling, and maintenance facilities specifically designed for nuclear-powered warships. Beyond its technical capabilities, the installation serves as a regional training centre for the Verdean component of the maritime service, focusing on coastal defence and maritime surveillance operations. The facility also coordinates regional naval patrols, anti-smuggling operations, and search-and-rescue missions across the expansive eastern Atlantic waters. While [*Palm*](/palm-class/)-class submarine-chasers are designated as the station's home vessels, ongoing renovations to the automatic dry-dock have temporarily relocated their servicing to [[ns-java|Naval Station Java]].
 
-The station serves as the home station of [*Palm*](/palm-class/)-class submarine-chasers, but they have been serviced at [[ns-java|Naval Station Java]] while the renovations of the automatic dry-dock at Morocos are underway.
+{{<note table>}}
+**Resident [[Maritime Service]] Vessels (Home Fleet)**
 
+* [*Palm*](/palm-class/)-class Submarine Chasers *[Currently serviced at NS Java during dry-dock renovation]*
+{{</note>}}
+
+{{<note table>}}
+**Resident [[Littoral Service]] Vessels (Africa Command)**
+
+* 2 Medium Customs Cutters
+* 1 Medium Ocean Tugboat
+{{</note>}}

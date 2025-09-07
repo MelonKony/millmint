@@ -12,9 +12,21 @@ description: Naval Station Mira is a naval station of the Vekllei Armed Forces, 
 aliases:
 - /ns-mira/
 ---
-**Naval Station Mira**, located just outside of Fennel on the island of Mira, is a key [[Vekllei]] naval facility of the [[marine|Marine Services]] in the Atlantic Ocean. Established in the early 20th century by [[Portugal]], then the administrator of the island, the station was initially a strategic outpost for defending Portugal’s colonies and safeguarding maritime routes between Europe, Africa, and South America.
+<span class="fi fi-maritime-service fis"></span> **Naval Station Mira**, located just outside Fennel on the island of [[Mira]], serves as a key [[Vekllei]] naval facility of the [[marine|Marine Services]] in the eastern Atlantic Ocean. Established in the early 20th century by [[Portugal]] as a strategic outpost for defending Portuguese colonies and safeguarding maritime routes between Europe, Africa, and South America, the station has evolved into a comprehensive modern naval base serving advanced destroyer forces.
 
-Today, the station has evolved into a modern naval base, serving the [*Baker*](/baker-class/) and [*Swordfish*](/swordfish-class/)-class of air escort destroyers. It also serves as a staging facility for Vekllei naval operations, including anti-piracy patrols. Its facilities include automatic ship repair docks, nuclear refuelling stations, and advanced communication systems for monitoring Atlantic shipping lanes.
+The facility operates as the primary base for [*Baker*](/baker-class/) and [*Swordfish*](/swordfish-class/)-class air escort destroyers, providing crucial air defence capabilities for Atlantic shipping lanes. Its comprehensive facilities include automatic ship repair docks, nuclear refuelling stations, and advanced communication systems for monitoring eastern Atlantic maritime traffic. The station serves as a cornerstone of Vekllei maritime security operations, frequently coordinating search-and-rescue missions and environmental monitoring throughout the surrounding waters. The facility maintains strong integration with local Fennel community and contributes significantly to the island's naval heritage and economy.
 
-Naval Station Mira is a lynchpin of Vekllei maritime security in the east Atlantic, often hosting search-and-rescue missions and environmental monitoring in the surrounding waters. It also plays a significant role in the local economy, providing jobs and contributing to Fennel’s naval heritage.
+{{<note table>}}
+**Resident [[Maritime Service]] Vessels (Home Fleet)**
 
+* [*Baker*](/baker-class/) and [*Swordfish*](/swordfish-class/)-class Air Escort Destroyers
+* 4 Gunboats
+{{</note>}}
+
+{{<note table>}}
+**Resident [[Littoral Service]] Vessels (Atlantic Command)**
+
+* 1 Search and Rescue Vessel
+* 1 Coastal Buoy Tender
+* 1 Coastal Construction Tender
+{{</note>}}

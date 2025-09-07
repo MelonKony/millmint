@@ -12,9 +12,26 @@ description: Naval Station Summers is a naval station of the Vekllei Armed Force
 aliases:
 - /ns-summers/
 ---
-**Naval Station Summers**, located at Irish Head in [[Summers]], is a major [[marine|Marine Services]] naval station of [[Vekllei]]. It comprises an automatic dockyards and berthing facilities for the largest Vekllei naval ships, including [[Federal-class]] battleships. A number of associated facilities are headquartered there, including the Naval Infantry Training School and the American Radar Array.
+<span class="fi fi-maritime-service fis"></span> **Naval Station Summers**, located at Irish Head in [[Summers]], is a major [[marine|Marine Services]] naval station of [[Vekllei]] and a critical component of western Atlantic maritime defence. The facility traces its origins to British fortification of the island in the 18th century, when it served as a strategic naval fortress for the Royal Navy. The natural harbours and defensive geography have made it an ideal naval base for centuries, with continuous expansion and modernisation reflecting its enduring strategic importance.
 
-The station has a long history dating back to British fortification of the island in the 18th Century. It served as a naval fortress for the Royal Navy, and has expanded in that role since Commonwealth accession. A naval fort in Great Sound known as Bloody Head has received substantial upgrades in the 2040s, including the installation of long-range anti-ship missiles.
+The modern installation comprises comprehensive automatic dockyards and berthing facilities capable of accommodating the largest Vekllei naval vessels, including [[Federal-class]] battleships. Several specialised facilities operate within the complex, including the Naval Infantry Training School and the American Radar Array, which provides crucial surveillance of North American approaches. The historic naval fort at Bloody Head in Great Sound has received substantial upgrades including the installation of long-range anti-ship missile systems, representing a modern evolution of centuries-old coastal defence principles.
+
+{{<note table>}}
+**Resident [[Maritime Service]] Vessels (Home Fleet)**
+
+* 3 Guided Missile Frigates
+{{</note>}}
+
+{{<note table>}}
+**Resident [[Littoral Service]] Vessels (West Atlantic Command)**
+
+* 1 Medium Customs Cutter
+* 2 [*Municipal*](/municipal-class/)-class Fast Response Hydrofoils
+* 1 Search and Rescue Vessel
+* 1 Fast Patrol Boat
+* 1 Medium Ocean Tugboat
+* 1 Hydrographic Survey Ship
+{{</note>}}
 
 {{<note table>}}
 **Resident [[Air Service]] Squadrons**

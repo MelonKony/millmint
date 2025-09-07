@@ -192,6 +192,10 @@
   background-image: url("/svg/crests/council.svg");
 }
 
+.fi-littoral-service.fis {
+  background-image: url("/svg/crests/littoral-service.svg");
+}
+
 .fi-marine.fis {
   background-image: url("/svg/crests/marine.svg");
 }

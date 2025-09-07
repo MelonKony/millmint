@@ -12,11 +12,24 @@ description: Naval Station Java is a naval station of the Vekllei Armed Forces, 
 aliases:
 - /ns-java/
 ---
-**Naval Station Java**, situated on the eastern coast of [[Java]] in the Gulf of Guinea, is a major maritime facility of the [[Vekllei]] [[marine|Marine Services]]. Originally established by Portuguese colonial forces in the early 18th century, the station was strategically located to protect the lucrative cocoa and coffee trade routes, which Java once dominated. Over time, the station expanded its capabilities to serve as a refuelling and resupply point for colonial fleets. After accession to [[Vekllei]], the station fell into the control of its naval service, and the facility was rapidly expanded to support a large naval presence in the Gulf of Guinea.
+<span class="fi fi-maritime-service fis"></span> **Naval Station Java**, situated on the eastern coast of [[Java]] in the Gulf of Guinea, serves as a major maritime facility of the [[Vekllei]] [[marine|Marine Services]] and the primary naval presence in West African waters. Originally established by Portuguese colonial forces in the early 18th century to protect cocoa and coffee trade routes, the station served as a crucial refuelling and resupply point for colonial fleets navigating between Europe and southern Africa. Following Commonwealth accession, the facility underwent rapid expansion to support a substantial naval presence in the strategically vital Gulf of Guinea.
 
-In the modern era, Naval Station Java has become a central hub for the Vekllei navy, providing a headquarters for regional operations off the coast of West and Southern Africa and a major naval dockyard and refuelling station. The station also has large radar arrays capable of detecting surface vessels as small as wooden boats between Java and the African coast.
+The modern installation functions as a comprehensive naval headquarters for regional operations, featuring advanced radar arrays capable of detecting surface vessels across hundreds of miles of ocean between Java and the African mainland. The station plays a central role in anti-piracy operations and strategic security patrols while supporting the construction and maintenance of multiple vessel classes. Naval Station Java houses the third-largest dry-dock facility in Vekllei, capable of accommodating [*Volcanic*](/volcanic-class/)-class aircraft carriers, and serves as home base for the [*Prosperity*](/prosperity-class/)-class aircraft cruisers and [*Hera*](/hera-class/)-class minelayer/minesweepers. The facility also hosts the East Atlantic Naval School, training personnel from across the [[atlantic|Commonwealth Atlantic]] and [[verde|Commonwealth Verde]].
 
-Anti-piracy and strategic security patrols are the basis of operations from the station, and the station also supports the construction, refitting and maintenance of several classes of naval vessels. These include the [*Prosperity*](/prosperity-class/)-class aircraft cruisers, [*Hera*](/hera-class/)-class minelayer/minesweepers, and the [*Palm*](/palm-class/)-class submarine chasers relocated from the closure of the dry-dock in [[ns-morocos|Naval Station Morocos]]. It has the third-largest dry-dock in [[Vekllei]], capable of receiving [*Volcanic*](/volcanic-class/)-class aircraft carriers.
+{{<note table>}}
+**Resident [[Maritime Service]] Vessels (Home Fleet)**
 
-Naval Station Java also plays an important role in historical preservation, housing a museum detailing Java’s colonial maritime history and its evolution into a modern naval power. It is also home to the East Atlantic Naval School, which trains sailors from across the [[atlantic|Commonwealth Atlantic]] and [[verde|Commonwealth Verde]].
+* 2 [*Prosperity*](/prosperity-class/)-class Aircraft Cruisers
+* [*Hera*](/hera-class/)-class Minelayer/Minesweepers
+* [*Palm*](/palm-class/)-class Submarine Chasers *[Currently serviced pending dry-dock renovation]*
+{{</note>}}
 
+{{<note table>}}
+**Resident [[Littoral Service]] Vessels (East Atlantic Command)**
+
+* 1 Medium Customs Cutter
+* 2 [*Municipal*](/municipal-class/)-class Fast Response Hydrofoils
+* 2 [*Wake*](/wake-class/)-class Patrol Motor Launches
+* 1 Coastal Buoy Tender
+* 1 Coastal Construction Tender
+{{</note>}}

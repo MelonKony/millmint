@@ -12,9 +12,35 @@ description: Naval Station Falklands is a naval station of the Vekllei Armed For
 aliases:
 - /ns-falklands/
 ---
-**Naval Station Falklands**, located in Stanley Harbour on East Falkland Island, is a major [[Vekllei]] military facility of the [[marine|Marine Services]] in the South Atlantic. Originally established by the British in the mid-19th century, the station served as a coaling and resupply point for whalers, explorers and naval ships patrolling the distant seas around Cape Horn and the Southern Ocean.
+<span class="fi fi-maritime-service fis"></span> **Naval Station Falklands**, located in Stanley Harbour on East Falkland Island, is a major [[Vekllei]] military facility of the [[marine|Marine Services]] in the South Atlantic. Originally established by the British in the mid-19th century as a coaling station for whalers and naval vessels, the station has evolved into a major component of Vekllei's Antarctic Fleet operations and southern maritime defence doctrine.
 
-In current service, it remains an important military facility for the Vekllei Antarctic and South Atlantic. It also provides a military basis for the continued Vekllei claim over the sovereignty of the Falklands, which remains in dispute with Argentina. Both the maritime and littoral services frequently encounter Argentina naval vessels in the waters around the islands, and in this sense the station represents a military commitment to their independence and sovereignty.
+The station serves as headquarters for the Antarctic Fleet and provides a military foundation for Vekllei's continued sovereignty claim over the Falklands, which remains disputed with Argentina. Regular encounters with Argentine naval vessels underscore the station's strategic importance in maintaining Commonwealth territorial integrity in the South Atlantic. The facility houses several specialised installations including a cold-weather warfare research centre operated by the [[DSRE]] and automatic dry-dock facilities capable of servicing icebreakers and polar patrol vessels.
 
-The station has several unique facilities, including a cold-weather warfare research and training centre (run by the [[DSRE]] and a drydock capable of servicing icebreakers and patrol vessels for Antarctic missions. An extension of the facility hosts the headquarters of the Antarctic Division of the [[LSRE]]. which is focused on marine conservation and environmental monitoring in the surrounding sub-Antarctic waters.
+{{<note table>}}
+**Resident [[Maritime Service]] Vessels (Antarctic Fleet)**
 
+* 1 Fleet Carrier
+* 1 Battlecruiser
+* 8 Fleet Air Escort Destroyers ([*Baker*](/baker-class/) and [*Swordfish*](/swordfish-class/)-classes)
+* 2 Missile Destroyers
+* 2 Patrol Boats
+* 1 Harbour Tugboat
+* 1 Hydrographic Survey Ship
+{{</note>}}
+
+{{<note table>}}
+**Resident [[Littoral Service]] Vessels (Antarctic Command)**
+
+* 1 Frigate Customs Cutter
+* 4 Medium Customs Cutters
+* 4 [*Municipal*](/municipal-class/)-class Fast Response Hydrofoils
+{{</note>}}
+
+{{<note table>}}
+**Resident [[Air Service]] Squadrons**
+
+* No. 8 Aeromarine Wing
+* *No. 38 Aeromarine Sqdn.* Hesperus
+* No. 3 Aerorifles Wing
+* *No. 13 Aerorifles Sqdn.*
+{{</note>}}
