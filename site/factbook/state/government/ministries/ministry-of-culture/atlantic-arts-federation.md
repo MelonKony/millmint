@@ -13,7 +13,7 @@ description: The National Institute of Fine Arts is the national visual arts mus
 aliases:
 - /atlantic-arts-federation/
 ---
-The <span class="fi fi-nas fis"></span> **Atlantic Arts Federation** is a cultural federation and educational institution associated with the [[Ministry of Culture]] responsible for providing tertiary arts education, maintaining performance venues and promoting excellence in the fine arts throughout [[Vekllei]]. The Federation serves as both an educational institution and a cultural centr, and facilitates a variety of programs to benefit the arts. It is partially funded by the Ministry but otherwise autonomous from it, and the Ministry retains no editorial or administrative control.
+The <span class="fi fi-nas fis"></span> **Atlantic Arts Federation** is a cultural federation and educational institution associated with the [[Ministry of Culture]] responsible for providing tertiary arts education, maintaining performance venues and promoting excellence in the fine arts throughout [[Vekllei]]. The Federation serves as both an educational institution and a cultural centre, and facilitates a variety of programs to benefit the arts. It is partially funded by the Ministry but otherwise autonomous from it, and the Ministry retains no editorial or administrative control.
 
 Members of the federation include schools specialising in different artistic disciplines and professional arts and performance organisations. Through its constituents it arranges exchanges, education programmes, performances, exhibitions and festivals.
 
