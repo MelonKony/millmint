@@ -13,7 +13,7 @@ type: blank
 aliases:
 - /sagas/
 ---
-**Sagas** are a kind of historic prose narrative that recorded the oral history of early [[Oslola]]. They are distinguished by their use of [Topyas](/factbook/society/culture/language/#history/), a predecessor to modern [Topet](/factbook/society/culture/language/#topet/). They are recognised for their realism and poetry, and provide a valuable historical record of the 1st Commonwealth and practices of Old Upen.
+**Sagas** are a kind of historic prose narrative that recorded the oral history of early [[Oslola]]. They are distinguished by their use of Topyas, a predecessor to modern Topet[^topet]. They are recognised for their realism and poetry, and provide a valuable historical record of the 1st Commonwealth and practices of Old Upen.
 
 Sagas were consolidated into historical and thematic eras in the 14th Century during the Period of Rest, which is typically how they are arranged today.
 
@@ -27,3 +27,4 @@ Sagas were consolidated into historical and thematic eras in the 14th Century du
 - *Saga of New Earth* c. 1300AD
 {{</note>}}
 
+[^topet]: Topet is the written language of [[Oslola]], [[Kala]], and [[Aismious]], and derives from ancient rune-forms like Topyas that arose thousands of years ago in a fusion of north Inuit (Algic) and Scandinavian-Celtic cultures.

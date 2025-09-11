@@ -23,7 +23,7 @@ It is centralised across several climate-controlled storage facilities, operates
 
 * **Federal Depository**: Largest central archive facility in Vekllei located in [[Oslola]], jointly operated with the [[National Library]].
 * **Archive Indies**: Regional archive located in [[Barbados]].
-* **Archive Africque**: Regional archive located in [[Praia]].
+* **Archive Afrique**: Regional archive located in [[Praia]].
 * **Federal Vault**: Secure knowledge vault in [[Helvasia]] that stores computerised backups of the archives.
 * [[research|Public Research Services]] Reading rooms and research assistance for scholars and public.
 * **Federal Document Laboratory**: Conservation and restoration of damaged or fragile documents located in the Lola borough of [[Oslola]].
