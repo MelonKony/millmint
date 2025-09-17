@@ -1,6 +1,6 @@
 ---
-title: Security Parliament
-fulltitle: Commonwealth Security Parliament
+title: Parliament of Security
+fulltitle: Commonwealth Parliament of Security
 icon: ⚡️
 logo: /svg/crests/parliament/security.svg
 color: security
@@ -10,6 +10,7 @@ fi: fi fi-c-security fis
 description: The Security Parliament is responsible for military and civilian intelligence, the secret service, espionage and internal and external threats to the country.
 
 aliases:
+- /parliament-of-security/
 - /security/
 ---
 ## Overview

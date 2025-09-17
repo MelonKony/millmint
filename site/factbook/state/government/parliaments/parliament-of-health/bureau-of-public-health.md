@@ -4,6 +4,7 @@ fulltitle: Bureau of Public Health
 icon: 🏛️
 color: health
 series: bureau
+type: government
 
 logo: /svg/crests/parliament/health.svg
 fi: fi fi-c-health fis
@@ -31,8 +32,8 @@ The bureau is vertically integrated, and administers all healthcare support serv
     * Secretary for Chronic Illness
 * **Director**, [[Bureau of Health Services]]
 * **Deputy Director**, [[MSRE]]
-* **Deputy Minister**, [[Health Parliament]]
-* **Parliamentary Representative**, [[Health Parliament]]
+* **Deputy Minister**, [[Parliament of Health]]
+* **Parliamentary Representative**, [[Parliament of Health]]
 
 
 
@@ -85,6 +86,6 @@ The bureau is vertically integrated, and administers all healthcare support serv
 
 ## Boards & Commissions
 
-* **[[Bethlehem Hospital]]**: Mental asylum and sanitorium on Scallop Island in the republic of [[Paria]].
+* **[[Bethlehem Psychiatric Hospital]]**: Mental asylum and sanitorium on Scallop Island in the republic of [[Paria]].
 * **National Genomics Laboratories**: Specialist hospital for gene research and treatment.
 * **National Regional Health Commission**: Independent commission auditing the quality and accessibility of regional healthcare.

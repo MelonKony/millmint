@@ -197,8 +197,8 @@ These councils ensure different aspects of community life receive representation
 * [[Community Parliament]]
 * [[Civic Parliament]]
 * [[Democracy Parliament]]
-* [[Health Parliament]]
-* [[Education Parliament]]
+* [[Parliament of Health]]
+* [[Parliament of Education]]
 * [[Security Parliament]]
 {{</note>}}
 

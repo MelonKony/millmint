@@ -15,7 +15,7 @@ aliases:
 ---
 The <span class="fi fi-c-education fis"></span> **Bureau of Public Education** is the central administration of the 120 education districts in Vekllei, which operate schools, universities and libraries. In some cases, the bureau may operate institutions directly (as in the case of academies), but more commonly schools are operated by a municipality and the bureau maintains a supporting and directorial role.
 
-In general, the bureau facilitates education delivery and the shape and standardisation of Vekllei classrooms, staff, libraries, institutional policy, and the improvement of education outcomes across the country. In this sense, it is the operating arm of the [[Education Parliament]], and has direct impact on everyday life for students in the country.
+In general, the bureau facilitates education delivery and the shape and standardisation of Vekllei classrooms, staff, libraries, institutional policy, and the improvement of education outcomes across the country. In this sense, it is the operating arm of the [[Parliament of Education]], and has direct impact on everyday life for students in the country.
 
 The Commonwealth National Curriculum is set by the [[cqc|Curriculum & Qualifications Council]], but the specifics of its implementation are left to the Education Districts of the Bureau of Public Education.
 
@@ -31,8 +31,8 @@ The Commonwealth National Curriculum is set by the [[cqc|Curriculum & Qualificat
     * Officer for Education Delivery
     * Commissioner, Youth Justice Commission
 * **Deputy Director**, [[SIRO]]
-* **Deputy Minister**, [[Education Parliament]]
-* **Parliamentary Representative**, [[Education Parliament]]
+* **Deputy Minister**, [[Parliament of Education]]
+* **Parliamentary Representative**, [[Parliament of Education]]
 
 
 

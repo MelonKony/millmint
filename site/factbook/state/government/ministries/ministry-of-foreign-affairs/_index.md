@@ -5,6 +5,7 @@ icon: 🌍
 color: foreignaffairs
 logo: /svg/crests/ministry-of-foreign-affairs.svg
 series: ministry
+list: true
 
 fi: fi fi-c-foreign-affairs fis
 description: The Ministry of Foreign Affairs manages diplomatic relations with foreign countries.

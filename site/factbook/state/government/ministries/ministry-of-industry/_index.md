@@ -5,6 +5,7 @@ icon: ⚙️
 logo: /svg/crests/ministry-of-industry.svg
 color: industry
 series: ministry
+list: true
 
 fi: fi fi-c-industry fis
 description: The Ministry of Industry oversees and regulates production, resource extraction and industrial development.

@@ -1,5 +1,5 @@
 ---
-title: Law Parliament
+title: Parliament of Law
 fulltitle: Commonwealth Parliament of Law
 icon: ⚖️
 logo: /svg/crests/parliament/law.svg
@@ -10,17 +10,16 @@ list: true
 logocredit: Holmfridur Valdimarsdottir, Argus Advertising, 1974 for the Association of Icelandic Commercial Banks.
 
 fi: fi fi-c-law fis
-description: The Law Parliament is responsible for law enforcement, judicial administration and legal policy in Vekllei.
+description: The Parliament of Law is responsible for law enforcement, judicial administration and legal policy in Vekllei.
 
 aliases:
-- /law/
-- /law-parliament/
+- /parliament-of-law/
 ---
 {{<note advice>}}
-Read more: [[Commonwealth Constabulary]]
+Read more: [[Police]]
 {{</note>}}
 
-The Commonwealth Law Parliament is a [superior ministry](/parliaments/) of the [[Vekllei]] [[Government]]. It is lead by a First Secretary, who reports directly to the [[Cabinet]]. In general, the Law Parliament legislates, finances and administers law enforcement and judicial services in Vekllei, including its unified constabulary system and federal court network.
+The Commonwealth Parliament of Law is a [superior ministry](/parliaments/) of the [[Vekllei]] [[Government]]. It is lead by a First Secretary, who reports directly to the [[Cabinet]]. In general, the Parliament of Law legislates, finances and administers law enforcement and judicial services in Vekllei, including its unified constabulary system and federal court network.
 
 The system operates on the principle of "unified service, local application," with standardised training and procedures applied through flexible deployment across all Commonwealth territories. The fluid constabulary model allows officers to hold multiple specialist endorsements, effectively serving different roles in different contexts. Vekllei's law enforcement is recognised for its community integration, cultural sensitivity and adaptive response capability across diverse island republics.
 

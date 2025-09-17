@@ -23,8 +23,8 @@ The <span class="fi fi-c-health fis"></span> **The Food and Medicines Authority*
 * **Director**, National Disease Registry
 * **Director**, World Health Research Organisation
 * **Deputy Director**, [[MSRE]]
-* **Deputy Minister**, [[Health Parliament]]
-* **Parliamentary Representative**, [[Health Parliament]]
+* **Deputy Minister**, [[Parliament of Health]]
+* **Parliamentary Representative**, [[Parliament of Health]]
 
 
 

@@ -5,6 +5,7 @@ icon: 💵
 color: commerce
 logo: /svg/crests/ministry-of-commerce.svg
 series: ministry
+list: true
 
 fi: fi fi-c-commerce fis
 description: The Ministry of Commerce conducts government spending and facilitates trade in the country.

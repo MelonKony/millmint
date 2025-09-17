@@ -15,7 +15,7 @@ aliases:
 - /police/
 - /constabulary/
 ---
-The <span class="fi fi-police fis"></span> **Commonwealth Police Service** or **Constabulary** is the unified police service of [[Vekllei]], operating under the [[Law Parliament|Parliament of Law]]. Rather than separate departmental forces, the Constabulary is a fluid service system where officers hold multiple specialist endorsements and shift between roles as community needs demand. This allows a parish constable to serve as a marine specialist during fishing season, or a detective to mediate disputes in Vekllei's often-chaotic [[social-economy|*commons*]].
+The <span class="fi fi-police fis"></span> **Commonwealth Police Service** or **Constabulary** is the unified police service of [[Vekllei]], operating under the [[Parliament of Law]]. Rather than separate departmental forces, the Constabulary is a fluid service system where officers hold multiple specialist endorsements and shift between roles as community needs demand. This allows a parish constable to serve as a marine specialist during fishing season, or a detective to mediate disputes in Vekllei's often-chaotic [[social-economy|*commons*]].
 
 All constables are commissioned under Commonwealth authority but serve distinct functions based on their active *endorsements* and deployment requirements. This means policemen[^men] may take on many roles and uniforms as part of their service, and helps reduce jurisdictional overlap between police services. This structure suits the Commonwealth's scattered island geography, and helps retain strong professional standards among their constables.
 

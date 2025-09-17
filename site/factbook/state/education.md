@@ -18,7 +18,7 @@ aliases:
 ---
 ## Overview
 
-Education in [[Vekllei]] is life-long, diverse, compulsory in childhood and free. Although there are many types of schooling across the country, compulsory education is characterised by a hybrid system provided in a national curriculum by the [[Education Parliament]].
+Education in [[Vekllei]] is life-long, diverse, compulsory in childhood and free. Although there are many types of schooling across the country, compulsory education is characterised by a hybrid system provided in a national curriculum by the [[Parliament of Education]].
 
 Education and schooling is an important part of Vekllei society, and its importance is indicated by its dedicated federal [parliament](/parliaments/). It has good outcomes for Vekllei people, and contributes to the country's reputation as among the most literate and learned societies in the world. It has several education institutions of renown, including Vekllei National University and the Commonwealth University of the West Indies. These outcomes have seen the Vekllei model of education replicated overseas, where it is known as the Atlantic Model.
 
@@ -69,7 +69,7 @@ There are many different types of school in Vekllei, but all are government-fund
 <details>
 <summary>State Schools</summary>
 
-State schools (also *central* or *district schools*) are administered and funded directly by a [constituent republic](/republics/) through the [[Education Parliament]], and are common in cities and some high-density city-states. They are traditionally larger and better equipped, and usually provide for both primary and secondary schooling. In certain republics, state schools are also district colleges, meaning they serve students from [Prep](#preparatory-school) to Year 12 or 13.
+State schools (also *central* or *district schools*) are administered and funded directly by a [constituent republic](/republics/) through the [[Parliament of Education]], and are common in cities and some high-density city-states. They are traditionally larger and better equipped, and usually provide for both primary and secondary schooling. In certain republics, state schools are also district colleges, meaning they serve students from [Prep](#preparatory-school) to Year 12 or 13.
 </details>
 
 <details>
@@ -99,7 +99,7 @@ Vekllei offers a handful of boarding schools, which are usually specialised inst
 ## Education
 
 {{<note advice>}}
-Read more: [[Education Parliament]]
+Read more: [[Parliament of Education]]
 {{</note>}}
 
 Vekllei people are enrolled in 9 years of compulsory education. In addition, 3 years of pre-school and 3 years of senior secondary schooling are available but not compulsory.
@@ -143,7 +143,7 @@ In order to study abroad, Vekllei students must be sponsored by a foreigner, rec
 ## Curriculum
 
 {{<note advice>}}
-Read more: [[cqc|Curriculum & Qualifications Council]]
+Read more: [[Curriculum and Qualifications Council]]
 {{</note>}}
 
 The national curriculum is the common programme of study in all Commonwealth schools, and determines standards of study across all education institutions.

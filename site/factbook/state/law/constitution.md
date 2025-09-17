@@ -22,6 +22,23 @@ aliases:
   article[autonumbering] h3::before {
      display: none;
   }
+.page ol, p {
+  counter-reset: item;
+  line-height: 2rem;
+  font-size: 14px;
+}
+  ol li {
+    display: block;
+    position: relative;
+}
+.page li:before {
+    content: counters(item, ".")" ";
+    counter-increment: item;
+    position: absolute;
+    margin-right: 100%;
+    right: 10px; /* space between number and text */
+    font-weight: bold;
+  }
 </style>
 
 {{<note series>}}
@@ -63,7 +80,7 @@ AND IN SERVICE OF THESE AIMS
 1. The principle of government is a federal Directory of elected peers called the [[directory|Commonwealth Directory]], representing the disparate communities that make up the unitary Commonwealth.
     1. The Directory consists of representatives of each Constituent Commonwealth as free republics, and dependent or autonomous territories.
     2. Other territories retain permanent status in the Directory and may table motions with agreement of a Constituent.
-2. The Commonwealth Directory is advised by a Cabinet of peers to provide opinion and expertise, called the Commonwealth Cabinet.
+2. The Commonwealth Directory is advised by a Cabinet of peers to provide opinion and expertise, known as the Commonwealth Cabinet.
 3. The Commonwealth Directory and Cabinet combined form the Commonwealth Council, which is the supreme executive of the Commonwealth.
 4. The Commonwealth is a State under the rule of law, committed to fundamental freedoms and rights.
 
@@ -82,7 +99,8 @@ The separation of the administrative, legislative and judiciary functions is gua
 ### Article 7
 1. The standard of the Commonwealth is the Sovereign Crown.
 2. The Commonwealth Flag consists of an arctic rosette, depicted as 6 petals, printed in gold on a crimson background.
-3. The use of the flag, standard and official symbols of the Commonwealth is governed by the Flag Ordinance dated 4th March 2015.
+3. The official anthem of the Commonwealth is "Advance, Veletia."
+4. The use of the flag, standard and official symbols of the Commonwealth is governed by the Flag Ordinance dated 4th March 2015.
 
 ### Article 8
 1. The Commonwealth has 16 official languages, with protections for their use and preservation.
@@ -96,7 +114,7 @@ The Commonwealth is a secular state and has no state religion. Religion is separ
 ## THE DIRECTORY
 
 ### Article 10
-1. Constituents of the Commonwealth provide two representatives to the Directory as Prime Ministers. The Ministers practice equal power and make decisions as a single office (Sorda).
+1. Constituents of the Commonwealth provide two representatives to the Directory as Prime Ministers. The Ministers exercise co-equal authority and act as a single office (Sorda).
 2. The Sorda are citizens elected by the National Assembly of their constituent republic and consist of one man and one woman.
 3. Should a Constituent be unable to provide both male and female representation, alternative arrangements may be made with Directory approval.
 
@@ -111,7 +129,7 @@ The Seat of Commonwealth Government is Comet, in the Meteor Administrative Regio
 ### Article 13
 1. The Directory exercises collective executive authority over federal matters.
 2. Decisions of the Directory require majority agreement among Sorda.
-3. Persistent dissent from Directory consensus may trigger review by Regional Commonwealth Assemblies.
+3. A decision of the Directory may be subject to review by Regional Commonwealth Assemblies where persistent dissent is formally declared.
 
 ### Article 14
 After consulting the Commonwealth Cabinet, the Directory signs and ratifies treaties and international conventions. The Commonwealth Senate must be acquainted with treaties before ratification.
@@ -219,216 +237,207 @@ Every individual has the right to respect of private and family life, dignity, a
 ## PUBLIC DOMAIN AND FINANCE
 
 ### Article 36
+1. The Commonwealth's economic system is a hybrid moneyless system known as the "commons" for its domestic market.
+2. Money is used in a separate industrial and financial market called the "financialised commons," which subsidises the domestic market.
+3. The Commonwealth government collects taxes on industrial imports and exports.
+
+### Article 37
 1. Public domain is inalienable and imprescriptible.
 2. Public domain property may be disposed of or change purpose only as prescribed by law.
 3. Public domain consistency and regime are determined by law.
 
-### Article 37
+### Article 38
 1. All vacant and ownerless property belongs to the Commonwealth, subject to traditional claims and environmental protection.
 2. In demonstrating claims of ownership, private parties may petition for use rights as prescribed by law.
 
-### Article 38
+### Article 39
 1. The national budget comprises all public revenue and expenditure of the Commonwealth and its Constituents.
 2. The national budget expresses the Commonwealth's economic and financial policy.
 
-### Article 39
+### Article 40
 1. The budget is subject to budget legislation voted and promulgated as law.
 2. Revenue surplus over expenditure is credited to constitutional reserve funds.
 3. Excess expenditure may be covered by withdrawal from reserve funds subject to law.
 
-### Article 40
+### Article 41
 Control of financial management is ensured by independent audit institutions as prescribed by law.
 
 ## THE GOVERNMENT
 
-### Article 41
+### Article 42
 1. Government is exercised by the Commonwealth Directory and Cabinet under constitutional authority.
 2. The Directory oversees executive services and has command of security forces.
 3. The Directory chairs the Cabinet with collective voting.
 
-### Article 42
+### Article 43
 1. Commonwealth ordinances are debated in Cabinet and presented to the Directory with appropriate signatures.
 2. Directory decisions are implemented through ordinances signed by relevant Sorda.
 
-### Article 43
+### Article 44
 1. Ministerial decrees are debated in Cabinet and signed by relevant Ministers.
 2. Unless law provides otherwise, distribution of matters between ordinances and decrees is determined by Directory ordinance.
 
-### Article 44
+### Article 45
 Cabinet proceedings are recorded in minutes signed by present members after voting. Minutes mention each member's vote and are subject to Directory review.
 
-### Article 45
-Ministers are accountable to the Directory and ultimately to the Commonwealth parliament for administration.
-
 ### Article 46
-Civil servants' obligations, rights and fundamental guarantees, as well as civil liability and criminal responsibility, are laid down by law.
+Ministers are accountable to the Directory and the Commonwealth parliament for their administration and conduct of their offices.
+
+### Article 47
+The obligations, rights, and fundamental guarantees of civil servants, as well as their civil liability and criminal responsibility, shall be prescribed by law.
 
 ## THE COMMONWEALTH SENATE
 
-### Article 47
+### Article 48
 1. The Commonwealth Senate comprises 40 members, elected for six years with half renewed every three years.
 2. Senators are elected by Regional Commonwealth Assemblies under conditions prescribed by law.
 3. Commonwealth citizens of either gender, at least twenty-five years old, who have held citizenship for at least five years, are eligible.
 
-### Article 48
+### Article 49
 Courts of justice control the legitimacy of elections under conditions prescribed by law.
 
-### Article 49
+### Article 50
 1. Senate members are not liable for civil or criminal responsibility for opinions or votes expressed during their mandate.
 2. Without Senate authorisation, they may not be prosecuted or arrested during session except in cases of flagrant offence.
 
-### Article 50
+### Article 51
 1. The Senate meets in two annual ordinary sessions.
 2. The first session opens on the first working day of February.
 3. The second session opens on the first working day of August.
 4. Each session may not exceed three months.
 
-### Article 51
+### Article 52
 The Senate meets in extraordinary session when convened by the Directory or at request of at least two-thirds of members.
 
-### Article 52
+### Article 53
 1. The Senate elects its President and Vice-President annually from among its members.
 2. Municipal office is incompatible with Senate presidency or vice-presidency.
 
-### Article 53
+### Article 54
 Senate meetings are public unless the Senate decides by two-thirds majority to sit in private session.
 
-### Article 54
+### Article 55
 The Directory communicates with the Senate through messages delivered by designated Ministers.
 
-### Article 55
+### Article 56
 1. Federal law requires agreement between the Directory and parliament.
 2. The Directory alone may initiate federal legislation.
 3. The Senate deliberates and votes on bills.
 4. Federal laws require approval by constitutional referendum before promulgation.
 
-### Article 56
+### Article 57
 1. The Senate may formulate bill proposals to the Directory.
 2. Within six months, the Directory must notify the Senate of its decision to proceed or discontinue.
 3. If the Directory fails to respond within six months, the proposal automatically becomes a bill.
 
-### Article 57
+### Article 58
 1. The Senate has the right of amendment to bills.
 2. Amendments must have direct connection to bill provisions.
 3. Voting occurs on amended bills unless the Directory withdraws before final vote.
 
-### Article 58
+### Article 59
 The Senate votes on the federal budget. No taxation may be introduced except through law.
 
-### Article 59
+### Article 60
 1. Budget bills are introduced to the Senate before August 31st.
 2. Budget bills are voted during the Senate August session.
 3. Budget is voted chapter by chapter with transfers forbidden unless authorised by law.
 
+### Article 61
+1. Each bill, including constitutional and basic law amendments, shall address a single subject matter.
+2. The President of the Senate, with the assistance of the Constitutional Tribunal, shall determine whether a bill adheres to the single subject matter rule.
+3. Any bill found to contain multiple, unrelated subject matters shall be returned to the Directory for division into separate bills.
+4. The Senate may, with a two-thirds majority vote, override a President's determination of a bundled bill, but such a bill is subject to automatic review by the Supreme Constitutional Court.
+
 ## CONSTITUTIONAL REFERENDUMS
 
-### Article 60
+### Article 62
 1. Federal legislation passed by Senate and Directory must be approved by constitutional referendum.
 2. Referendums occur quarterly, bundling related legislation.
 3. Simple majority approval is required for passage.
 
-### Article 61
+### Article 63
 1. Citizens may petition for referendum on Directory decisions affecting constitutional rights.
 2. Referendum may override Directory decisions with sixty percent approval.
 3. Constitutional amendments require referendum approval regardless of parliamentary action.
 
 ## REPUBLIC ASSEMBLIES
 
-### Article 62
+### Article 64
 1. Each Republic maintains a National Assembly elected by Municipal Assembly delegates.
 2. Republic Assemblies exercise local legislative authority within constitutional limits.
 3. Republic Assemblies participate in federal legislation through confederation voting.
 
-### Article 63
+### Article 65
 1. Republic Assemblies elect First Secretaries who serve as republic heads of government.
 2. Republic Assemblies elect representatives to Regional Commonwealth Assemblies.
 3. Republic sovereignty is protected within constitutional framework.
 
 ## MUNICIPAL ASSEMBLIES
 
-### Article 64
+### Article 66
 1. Municipal Assemblies comprise all citizens within municipal boundaries.
 2. Municipal Assemblies exercise direct democratic authority over local affairs.
 3. Municipal sovereignty in community matters is constitutionally protected.
 
-### Article 65
+### Article 67
 1. Municipal Assemblies elect delegates to Republic National Assemblies.
 2. Municipal Assemblies may petition for constitutional referendum on matters affecting municipal rights.
 
 ## JUSTICE
 
-### Article 66
+### Article 68
 1. Judicial power vests in the Commonwealth, exercised through courts and tribunals.
 2. Courts render justice in the name of the Commonwealth.
 3. Independence of judges is guaranteed.
 4. Court organisation, jurisdiction and operations are laid down by law.
 
-### Article 67
+### Article 69
 1. The Supreme Constitutional Court comprises nine members appointed for nine-year terms.
 2. Three members are appointed by the Directory from judicial nominations.
 3. Three members are elected by the Senate from legal professional nominations.
 4. Three members are selected by Republic Assemblies from citizen nominations.
 
-### Article 68
+### Article 70
 The Supreme Constitutional Court rules on:
 1. Constitutional compliance of laws and government actions
 2. Disputes between governmental levels
 3. Appeals regarding fundamental rights violations
 4. Electoral disputes and constitutional interpretation
 
-### Article 69
+### Article 71
 1. Republic courts exercise jurisdiction over local civil and criminal matters.
 2. Municipal tribunals provide community dispute resolution.
 3. Court hierarchy and appeals procedures are established by law.
 
 ## CONSTITUTIONAL AMENDMENT
 
-### Article 70
+### Article 72
 The Constitution may not be suspended.
 
-### Article 71
+### Article 73
 1. Constitutional revision requires constitutional referendum and Commonwealth Council agreement.
 2. Referendum approval requires sixty percent majority.
 3. No amendment may violate fundamental human rights or democratic principles.
 
-### Article 72
+### Article 74
 1. Amendment initiatives require two-thirds majority of Senate and Directory approval.
 2. Citizens may petition for constitutional amendment through municipal assemblies.
 3. Republic Assemblies may initiate amendments through Regional Commonwealth coordination.
 
 ## FINAL PROVISIONS
 
-### Article 73
+### Article 75
 1. Prior constitutional provisions are repealed.
 2. This Constitution enters into force immediately upon ratification.
 3. Transitional arrangements are established by law.
 
-### Article 74
+### Article 76
 1. Existing laws remain applicable where compatible with this Constitution.
 2. Incompatible laws must be amended within reasonable time to ensure compliance.
 3. Courts may declare laws unconstitutional pending legislative amendment.
 
-### Article 75
+### Article 77
 This Constitution is the supreme law of the Commonwealth. Any law or conduct inconsistent with it is invalid, and the obligations imposed by it must be fulfilled.
 
 [^commonwealthscript]: Veletian, or Commonwealth Script, is a simplified form of Oslolan written language.
-
-<style>
-.page ol, p {
-  counter-reset: item;
-  line-height: 2rem;
-  font-size: 14px;
-}
-  ol li {
-    display: block;
-    position: relative;
-}
-.page li:before {
-    content: counters(item, ".")" ";
-    counter-increment: item;
-    position: absolute;
-    margin-right: 100%;
-    right: 10px; /* space between number and text */
-    font-weight: bold;
-  }
-</style>

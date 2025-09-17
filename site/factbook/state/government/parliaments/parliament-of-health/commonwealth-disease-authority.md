@@ -26,7 +26,7 @@ The CDA conducts extensive field work through its Epidemic Intelligence Service 
 * **Director**, World Health Research Organisation
 * **Defence Viral Laboratories Chief Scientist**, [[DSRE]]
 * **Deputy Director**, [[MSRE]]
-* **Deputy Minister**, [[Health Parliament]]
+* **Deputy Minister**, [[Parliament of Health]]
 
 
 

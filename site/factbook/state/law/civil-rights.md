@@ -242,7 +242,7 @@ Everyone has the right ­
 
         1. do not discriminate on the basis of race;
         2. are registered with the Commonwealth;
-        3. adhere to the National Curriculum as determined by the [[Education Parliament]]; and
+        3. adhere to the National Curriculum as determined by the [[Parliament of Education]]; and
         4. maintain standards that are not inferior to standards at comparable public educational institutions.
 
 26. **Rights of children**

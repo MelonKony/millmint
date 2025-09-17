@@ -1,6 +1,6 @@
 ---
-title: Education Parliament
-fulltitle: Commonwealth Education Parliament
+title: Parliament of Education
+fulltitle: Commonwealth Parliament of Education
 icon: 🎓
 logo: /svg/crests/parliament/education.svg
 color: education
@@ -12,8 +12,8 @@ description: The Education Parliament is responsible for all schools and univers
 
 fi: fi fi-c-education fis
 
-aliases:
-- /education-parliament/
+aliases:    
+- /parliament-of-education/
 ---
 {{<note advice>}}
 Read more: [[Education]]

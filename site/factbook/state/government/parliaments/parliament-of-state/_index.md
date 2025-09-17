@@ -1,5 +1,5 @@
 ---
-title: State Parliament
+title: Parliament of State
 fulltitle: Commonwealth Parliament of State
 icon: 🗳️
 logo: /svg/crests/parliament/democracy.svg
@@ -10,7 +10,7 @@ fi: fi fi-c-democracy fis
 description: The State Parliament is responsible for policy regarding Vekllei federalism, seperatist movements and the rights of constituent republics.
 
 aliases:
-- /democracy/
+- /parliament-of-state/
 - /state-parliament/
 ---
 {{<section>}}

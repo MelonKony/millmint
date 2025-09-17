@@ -50,4 +50,4 @@ Unlike military regiments, which are organised regionally, civil defence regimen
 * Survivor Welfare
 {{</note>}}
 
-Vekllei Firefighting and paramedic services are both provided by the Civil Defence Service. They are structured differently from specialised units and are typically municipalised and operate under different commands. There are over 5,600 fire brigades in the country, staffed mostly by volunteers. Ambulance services are jointly operated with the [[Health Parliament]].
+Vekllei Firefighting and paramedic services are both provided by the Civil Defence Service. They are structured differently from specialised units and are typically municipalised and operate under different commands. There are over 5,600 fire brigades in the country, staffed mostly by volunteers. Ambulance services are jointly operated with the [[Parliament of Health]].

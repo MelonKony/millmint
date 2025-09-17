@@ -5,6 +5,7 @@ icon: 🎨
 logo: /svg/crests/ministry-of-culture.svg
 color: culture
 series: ministry
+list: true
 
 fi: fi fi-c-culture fis
 description: The Ministry of Culture supports sports, museums and libraries, oversees media and telecommunications and organises festivals and parades.

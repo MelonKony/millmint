@@ -5,6 +5,7 @@ icon: 🏡
 color: commons
 logo: /svg/crests/ministry-of-the-commons.svg
 series: ministry
+list: true
 
 fi: fi fi-c-commons fis
 description: The Ministry of the Commons is responsible for housing, public spaces, transport and urban development.

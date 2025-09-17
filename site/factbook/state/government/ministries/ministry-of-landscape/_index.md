@@ -5,6 +5,7 @@ icon: 🌋
 color: landscape
 logo: /svg/crests/ministry-of-landscape.svg
 series: ministry
+list: true
 
 fi: fi fi-c-landscape fis
 description: The Ministry of Landscape deals with matters related to agriculture, food security, nature, meteorology and the oceans.
