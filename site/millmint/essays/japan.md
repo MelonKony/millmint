@@ -5,6 +5,7 @@ description: A collection of thoughts about Japan.
 
 icon: 🎌
 emoji: p
+draft: true
 
 rgb: 130, 120, 36
 
