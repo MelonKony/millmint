@@ -19,7 +19,7 @@ aliases:
 	 Type="Republic"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/virgin.svg"
-	 SmallFlag="/svg/flags/4x3/virgin-4x3.svg"
+	 SmallFlag="/svg/flags/4x3/vg-4x3.svg"
 	 Locator="/svg/maps/locator/vg-locator.png"
 	 Population="282,295"
 	 Capital="Roadie (administrative)"

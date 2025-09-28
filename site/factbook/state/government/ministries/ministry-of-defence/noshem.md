@@ -2,11 +2,11 @@
 title: Noshem
 fulltitle: Noshem
 icon: 🏹
-color: security
 logo: /svg/logos/noshem.svg
 series: organisation
 type: government
 
+rgb: 240, 86, 75
 fi: fi fi-noshem fis
 description: Noshem is the covert intelligence agency of Vekllei, and conducts external surveillance and espionage on behalf of the country.
 

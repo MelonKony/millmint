@@ -2,8 +2,9 @@
 title: Private Industry
 fulltitle: Private Industry of Vekllei
 icon: 🏘️
-color: purple
+color: orange
 series: industry
+list: true
 
 description: Private industry is common and prosperous in Vekllei society, but usually operates on a smaller scale than overseas.
 

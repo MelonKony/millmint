@@ -36,7 +36,7 @@ Although English now accompanies French as the medium of instruction, most Karun
 
 Most Karuns are Creole of white and black ancestry, but there is also a substantial Karun Mestizo population (French-East Asian) along with Europeans and Tamils. The vast majority are Roman Catholics. They have an easygoing culture, and the republic is not particularly industrious for its size. The Karu economy is dominated by municipal goods and smallholdings, light agriculture, and services. The capital of Pitera has a historic public workshop district that allows local artisans to prototype products in the automatic schema format. The islands of Karu produce a great many tropical fruits and drinks, including bananas and cocoa. A lot of local agriculture simply supplements the *commons* economy and represents a local food source.
 
-There is a campus of the Commonwealth Univesity of the West Indies, but more ambitious students often seek to study in [[Antigua]] directly. There are a number of unusual facilities on Basse Terre, including a gravity research complex of the [[ASRE]] and the Karu Research Hospital, specialising in tropical diseases. The capital of Pitera is trim and pretty, and with nearly two million inhabitants, very busy.
+The [[University of Karu]] is a famous and historic collegial university now part of [[CUWI]], but many students seek to study at the main campus of [[CUWI]] in [[Antigua]] nearby. There are a number of unusual facilities on Basse Terre, including a gravity research complex of the [[ASRE]] and the Karu Research Hospital, specialising in tropical diseases. The capital of Pitera is trim and pretty, and with nearly two million inhabitants, very busy.
 
 Trains link the two main islands, and ferry services leave regularly for the peripheral islands and archipelagos. There is an airport outside of the capital, and most large towns are serviced by trams or intercity local railways in the Vekllei fashion. Visitors should start in the capital, where Hotel Meridian has a fine grounds and golf course, before embarking for a series of local inns across the islands in the contemporary tradition.
 
@@ -68,6 +68,8 @@ Trains link the two main islands, and ferry services leave regularly for the per
 - **Liberation Memorial, Karu**: A museum in Pitera dedicated to the history of slavery and the African diaspora in the Caribbean.
 - **National Gravity Research Establishment**: Gravity research facility of the [[ASRE]].
 - **Cape Terre Coastal Railway**: Elevated and winding coastal railway connecting the capital to Grande Terre, with striking views of the mountains and sea.
+- **[[Avro]]**: Major Vekllei automotive manufacturer.
+- **[[University of Karu]]**: Regional collegial university famous for its performing arts programmes.
 </details>
 
 

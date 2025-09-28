@@ -1,6 +1,6 @@
 ---
 title: Parliament of Health
-fulltitle: Commonwealth Parliament of Health
+fulltitle: Parliament of Health
 icon: ⚕️
 logo: /svg/crests/parliament/health.svg
 color: health

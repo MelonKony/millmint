@@ -52,6 +52,7 @@ The <span class="fi fi-lsre fis"></span> **Commonwealth Land Science Research Es
 	* Division of Tropical Agronomy
 	* Division of Wildlife [[Rum]]
 * **Department of Energy & Fuels**
+	* National Resource Laboratory ([[Bureau of Materials and Supply]])
 	* Coal Survey Section
 	* Division of Energy Chemistry [[Madiana]]
 	* Oil Survey Section [[Kairi]] [[Principe]]

@@ -2,8 +2,9 @@
 title: Municipal Industry
 fulltitle: Municipal Industry of Vekllei
 icon: 🏬
-color: purple
+color: orange
 series: industry
+list: true
 
 description: Municipal corporations are businesses owned and managed by municipalities, but may be coordinated at a higher level. The are less centralised than bureaus.
 

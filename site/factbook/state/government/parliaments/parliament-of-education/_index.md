@@ -1,6 +1,6 @@
 ---
 title: Parliament of Education
-fulltitle: Commonwealth Parliament of Education
+fulltitle: Parliament of Education
 icon: 🎓
 logo: /svg/crests/parliament/education.svg
 color: education

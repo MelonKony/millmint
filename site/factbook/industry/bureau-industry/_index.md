@@ -3,8 +3,7 @@ title: Bureaus
 fulltitle: Bureaus in Vekllei
 icon: 🏢
 emoji: ←
-color: purple
-image:
+color: orange
 list: true
 
 description: A bureau is a type of industrial syndicate in Vekllei that represents substantial or monopoly power over an industry. They are usually independent but may comprise government-owned corporations.

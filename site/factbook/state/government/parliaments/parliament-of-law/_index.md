@@ -1,6 +1,6 @@
 ---
 title: Parliament of Law
-fulltitle: Commonwealth Parliament of Law
+fulltitle: Parliament of Law
 icon: ⚖️
 logo: /svg/crests/parliament/law.svg
 color: law

@@ -1,5 +1,5 @@
 ---
-title: Technology
+title: Technocracy
 fulltitle: High and Low Technology in Vekllei
 icon: 🧪
 series: bulletin

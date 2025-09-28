@@ -1,0 +1,201 @@
+{{/*
+Vekllei Flexible Parallax Shortcode - Fixed horizontal movement
+*/}}
+
+{{- $layers := 8 -}}
+{{- $max_transform := 800 -}}
+{{- $height := "80vh" -}}
+{{- $image_path := "/images/mastheads/parallax/home/" -}}
+{{- $horizontal_range := 800 -}}
+{{- $bg_light := "#5AC2E7" -}}
+{{- $bg_dark := "#1a1b28" -}}
+
+{{- if .Get 0 }}{{ $layers = .Get 0 | int }}{{ end -}}
+{{- if .Get 1 }}{{ $max_transform = .Get 1 | int }}{{ end -}}
+{{- if .Get 2 }}{{ $height = .Get 2 }}{{ end -}}
+{{- if .Get 3 }}{{ $image_path = .Get 3 }}{{ end -}}
+{{- if .Get 4 }}{{ $horizontal_range = .Get 4 | int }}{{ end -}}
+{{- if .Get 5 }}{{ $bg_light = .Get 5 }}{{ end -}}
+{{- if .Get 6 }}{{ $bg_dark = .Get 6 }}{{ end -}}
+
+{{- $unique_id := printf "parallax-%d" (now.Unix) -}}
+
+{{/* Calculate transform increment - evenly distribute across layers */}}
+{{- $increment := 0 -}}
+{{- if gt $layers 1 -}}
+    {{- $increment = div $max_transform (sub $layers 1) -}}
+{{- end -}}
+
+<style>
+/* Parallax container */
+.{{ $unique_id }}-container {
+    top: 0;
+    left: 0;
+    position: relative;
+    width: 100vw;
+    height: {{ $height }};
+    overflow: hidden;
+    background: {{ $bg_light }};
+    margin-left: calc((100% - 100vw) / 2);
+}
+
+[data-theme="dark"] .{{ $unique_id }}-container {
+    background: {{ $bg_dark }};
+}
+
+/* Base layer styles */
+.{{ $unique_id }}-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    will-change: transform;
+    backface-visibility: hidden;
+}
+
+/* Horizontal layers need different positioning */
+.{{ $unique_id }}-layer-horizontal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: left center; /* Start from left for horizontal movement */
+    background-size: auto 100%; /* Maintain aspect ratio */
+    will-change: transform;
+    backface-visibility: hidden;
+}
+
+{{/* Generate CSS for each layer */}}
+{{- range $i := seq 1 $layers -}}
+{{- $layer_num := $i -}}
+{{- $z_index := sub (add $layers 1) $i -}}
+{{- $transform_value := 0 -}}
+{{- if gt $i 1 -}}
+    {{- $transform_value = mul $increment (sub $i 1) -}}
+{{- end -}}
+
+/* Layer {{ $layer_num }} - Main */
+.{{ $unique_id }}-layer-{{ $layer_num }} {
+    background-image: url('{{ $image_path }}{{ $layer_num }}.png');
+    z-index: {{ $z_index }};
+    {{- if eq $i 1 }}
+    transform: translateY(0);
+    {{- else }}
+    transform: translateY(calc(var(--scroll-progress, 0) * {{ $transform_value }}px));
+    {{- end }}
+}
+
+/* Layer {{ $layer_num }} - Horizontal variant */
+.{{ $unique_id }}-layer-{{ $layer_num }}-horizontal {
+    background-image: url('{{ $image_path }}{{ $layer_num }}-horizontal.png');
+    z-index: {{ add $z_index 1 }};
+    {{- if eq $i 1 }}
+    transform: translateX(calc((var(--scroll-progress, 0) * 0.5 + 0.5) * {{ $horizontal_range }}px - {{ div $horizontal_range 2 }}px));
+    {{- else }}
+    transform: translateY(calc(var(--scroll-progress, 0) * {{ $transform_value }}px)) translateX(calc((var(--scroll-progress, 0) * 0.5 + 0.5) * {{ $horizontal_range }}px - {{ div $horizontal_range 2 }}px));
+    {{- end }}
+}
+
+{{- end }}
+
+/* Content overlay */
+.{{ $unique_id }}-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: {{ add $layers 1000 }};
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+}
+
+/* Mobile optimizations */
+@media (max-width: 768px) {
+    {{- range $i := seq 2 $layers -}}
+    {{- $layer_num := $i -}}
+    {{- $mobile_transform := div (mul $increment (sub $i 1)) 2 -}}
+    {{- $mobile_horizontal := div $horizontal_range 2 -}}
+    .{{ $unique_id }}-layer-{{ $layer_num }} {
+        transform: translateY(calc(var(--scroll-progress, 0) * {{ $mobile_transform }}px));
+    }
+    .{{ $unique_id }}-layer-{{ $layer_num }}-horizontal {
+        transform: translateY(calc(var(--scroll-progress, 0) * {{ $mobile_transform }}px)) translateX(calc((var(--scroll-progress, 0) * 0.5 + 0.5) * {{ $mobile_horizontal }}px - {{ div $mobile_horizontal 2 }}px));
+    }
+    {{- end }}
+    
+    .{{ $unique_id }}-layer-1-horizontal {
+        transform: translateX(calc((var(--scroll-progress, 0) * 0.5 + 0.5) * {{ div $horizontal_range 2 }}px - {{ div (div $horizontal_range 2) 2 }}px));
+    }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+    .{{ $unique_id }}-layer,
+    .{{ $unique_id }}-layer-horizontal {
+        transform: translateY(0) translateX(0) !important;
+    }
+}
+</style>
+
+<div class="{{ $unique_id }}-container" id="{{ $unique_id }}-container">
+    {{/* Generate layer divs in reverse order for proper stacking */}}
+    {{- range $i := seq $layers 1 -}}
+    <div class="{{ $unique_id }}-layer {{ $unique_id }}-layer-{{ $i }}"></div>
+    <div class="{{ $unique_id }}-layer-horizontal {{ $unique_id }}-layer-{{ $i }}-horizontal"></div>
+    {{- end }}
+
+    {{- if .Inner }}
+    <div class="{{ $unique_id }}-content">
+        {{ .Inner | markdownify }}
+    </div>
+    {{- end }}
+</div>
+
+<script>
+(function() {
+    const container = document.getElementById('{{ $unique_id }}-container');
+    let ticking = false;
+
+    function updateParallax() {
+        const rect = container.getBoundingClientRect();
+        const containerTop = rect.top;
+        const windowHeight = window.innerHeight;
+
+        // Calculate scroll progress from -1 to 1
+        // When container is at bottom of screen: progress = -1
+        // When container is at top of screen: progress = 1
+        const rawProgress = (windowHeight - containerTop) / (windowHeight + rect.height);
+        const progress = Math.max(-1, Math.min(1, (rawProgress - 0.5) * 2));
+
+        // Set CSS custom property
+        document.documentElement.style.setProperty('--scroll-progress', progress);
+        ticking = false;
+    }
+
+    function requestTick() {
+        if (!ticking) {
+            requestAnimationFrame(updateParallax);
+            ticking = true;
+        }
+    }
+
+    // Event listeners
+    window.addEventListener('scroll', requestTick, { passive: true });
+    window.addEventListener('resize', requestTick, { passive: true });
+
+    // Initial call
+    updateParallax();
+})();
+</script>

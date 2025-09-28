@@ -21,3 +21,5 @@ rgb: ''
 	height: 2.5rem;
   }
 </style>
+
+{{< parallax "9" "800" "80vh" "/images/mastheads/parallax/test/" />}}

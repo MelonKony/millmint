@@ -28,6 +28,10 @@
   background-image: url("/svg/crests/crownless/c-aero.svg");
 }
 
+.fi-c-bread-roses.fis {
+  background-image: url("/svg/crests/crownless/c-bread-roses.svg");
+}
+
 .fi-c-civic.fis {
   background-image: url("/svg/crests/crownless/c-civic.svg");
 }
@@ -100,6 +104,10 @@
   background-image: url("/svg/crests/crownless/c-marine.svg");
 }
 
+.fi-c-milk-honey.fis {
+  background-image: url("/svg/crests/crownless/c-milk-honey.svg");
+}
+
 .fi-c-post.fis {
   background-image: url("/svg/crests/crownless/c-post.svg");
 }
@@ -132,6 +140,10 @@
   background-image: url("/svg/crests/crownless/c-vekllei.svg");
 }
 
+.fi-bread-roses.fis {
+  background-image: url("/svg/crests/parliament/bread-roses.svg");
+}
+
 .fi-civic.fis {
   background-image: url("/svg/crests/parliament/civic.svg");
 }
@@ -156,6 +168,10 @@
   background-image: url("/svg/crests/parliament/law.svg");
 }
 
+.fi-milk-honey.fis {
+  background-image: url("/svg/crests/parliament/milk-honey.svg");
+}
+
 .fi-security.fis {
   background-image: url("/svg/crests/parliament/security.svg");
 }
@@ -166,6 +182,38 @@
 
 .fi-air-service.fis {
   background-image: url("/svg/crests/air-service.svg");
+}
+
+.fi-bureau-of-economic-participation.fis {
+  background-image: url("/svg/crests/bureau-of-economic-participation.svg");
+}
+
+.fi-bureau-of-economic-weather.fis {
+  background-image: url("/svg/crests/bureau-of-economic-weather.svg");
+}
+
+.fi-bureau-of-industrial-coordination.fis {
+  background-image: url("/svg/crests/bureau-of-industrial-coordination.svg");
+}
+
+.fi-bureau-of-materials-and-supply.fis {
+  background-image: url("/svg/crests/bureau-of-materials-and-supply.svg");
+}
+
+.fi-bureau-of-residences-and-factories.fis {
+  background-image: url("/svg/crests/bureau-of-residences-and-factories.svg");
+}
+
+.fi-bureau-of-stewardship.fis {
+  background-image: url("/svg/crests/bureau-of-stewardship.svg");
+}
+
+.fi-bureau-of-surplus-and-export.fis {
+  background-image: url("/svg/crests/bureau-of-surplus-and-export.svg");
+}
+
+.fi-bureau-of-the-commons.fis {
+  background-image: url("/svg/crests/bureau-of-the-commons.svg");
 }
 
 .fi-bureau-post.fis {
@@ -704,6 +752,10 @@
   background-image: url("/svg/logos/caribbea-cane.svg");
 }
 
+.fi-castro.fis {
+  background-image: url("/svg/logos/castro.svg");
+}
+
 .fi-cateral.fis {
   background-image: url("/svg/logos/cateral.svg");
 }
@@ -1015,8 +1067,9 @@
   --color-health: #f55170;
   --color-education: #3286dc;
   --color-law: #ffa256;
-  --color-security: #f0574c;
+  --color-bread-roses: #eb2960;
   --color-state: #cd509f;
+  --color-milk-honey: #f04c2b;
 }
 
 [data-theme="dark"] {
@@ -1076,8 +1129,9 @@
   --color-health: #f55170;
   --color-education: #3286dc;
   --color-law: #ffa256;
-  --color-security: #f0574c;
+  --color-bread-roses: #eb2960;
   --color-state: #cd509f;
+  --color-milk-honey: #f04c2b;
 }
 
 [data-theme="dark"] {

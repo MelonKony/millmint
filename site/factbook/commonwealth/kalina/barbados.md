@@ -49,5 +49,6 @@ A patchwork of farms, mostly privately owned, quilt the wide tracts of arable la
 * **Barbados Museum**: Large, multi-interest museum and headquarters of the local historical society.
 * **Combermere School**: Among the oldest schools in the Caribbean, founded in 1695. Still operating as a public secondary school today.
 * **Bloomsbury Botanical Gardens**: Beautiful horticultural gardens maintained by Barbados University.
+* **Colonial Hotel School**: Historic hotel school founded in 1820, still operating as a hospitality training school today.
 </details>
 
