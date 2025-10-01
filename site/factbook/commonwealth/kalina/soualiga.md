@@ -67,7 +67,7 @@ Warm year-round, with a dry season between January and April and a wet season be
 - **Pic Paradis**: The highest point on the island, providing hiking trails and breathtaking views of Saint Martin and beyond.   
 - **Grand Case**: A picturesque village known for its Creole cuisine and fine dining scene.  
 - **French Language Institute**: Primary institute for the French language in Vekllei.
-- **[[orleans|Orleans Steelworks]]**: Major integrated steelworks that produces about 30% of Vekllei's steel.
+- **[[Orleans Steelworks]]**: Major integrated steelworks that produces about 30% of Vekllei's steel.
 - **Port of Orleans**: Major industrial port.  
 </details>
 

@@ -1,7 +1,7 @@
 ---
 title: Technology
 fulltitle: Technology
-icon: 🧪
+icon: 🔬
 emoji: S
 color: purple
 series: technology

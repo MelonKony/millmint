@@ -68,7 +68,7 @@ Warm and dry, with the heat eased by constant trade winds. Rain falls between Se
 <details open>
 <summary>Points of Interest</summary>
 
-- **[[Bethlehem Hospital]]**: Psychiatric hospital established on Scallop Island in 1954 and rebuilt in 2021 by the Commonwealth government. It is the largest hospital of its kind in [[Vekllei]].
+- **[[Bethlehem Psychiatric Hospital]]**: Psychiatric hospital established on Scallop Island in 1954 and rebuilt in 2021 by the Commonwealth government. It is the largest hospital of its kind in [[Vekllei]].
 - **Littoral Air Station Orchilla**: Major Littoral Service air station policing the contentious maritime border between Venezuala and Vekllei.
 - **Bank Cafe**: Fixture of Bethlehem's waterfront, which has served sweet tea and seafood for two centuries by some estimates.
 - **Eden Rock**: Historic landing site in the capital where the republic's Midnight Parliament is held.
