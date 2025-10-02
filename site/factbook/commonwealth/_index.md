@@ -2,7 +2,7 @@
 title: Commonwealth
 fulltitle: Commonwealth
 icon: 🌹
-emoji: ←
+logo: /svg/flags/4x3/com-4x3.svg
 color: green
 series: vekllei
 

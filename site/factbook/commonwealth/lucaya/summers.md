@@ -66,6 +66,7 @@ Mild with lots of sunshine. The warmest months are May to mid-November. Slightly
 - **Summers University**: Tertiary College famous for its beautiful campus spread over a number of islands in Great Sound.
 - **[[Commonwealth Mint]]**: Sole manufacturer of physical currency and site of much of Vekllei's gold reserves.
 - **[[Cosma]]**: The Vekllei national telecommunications providor, which also operates a major telephone and optical exchange in Summers.
+- **[[firewalk|Firewalk Summers]]**: Firewalk Tyres operates a factory outside Hamilton that specialises in aircraft tyres, and is a substantial export.
 - **The Summers Arboretum**: Renowned arboretum that features 90+ acres of flowers, trees, and shrubs, including a palm grove and sensory garden.
 - **New York University, Summers**: US-based university campus that serves American and Vekllei students on exchange.
 - **[[ns-summers|Naval Station Summers]]**: A historic site housing museums, shops, and restaurants, with attractions like the National Museum of Summers and the Dolphin Quest.

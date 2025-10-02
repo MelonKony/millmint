@@ -33,6 +33,6 @@ Avro is the largest consumer automobile manufacturer in Vekllei, and makes a few
 
 Avro cars are well liked because they are generally overbuilt compared to foreign autos. Aggressive standardisation in Avro engines, transmissions and drivetrains give even city cars a light, sporty quality. As a result, they are frequently crashed by unprepared drivers.
 
-Avro only sells spare parts directly; it otherwise sells automobiles directly to autopools and industrial and government customers. Only around 10% of Vekllei people have a drivers license, and so their most common experience riding in an Avro is sitting in the passenger seat.
+Avro only sells spare parts directly; it otherwise sells automobiles directly to autopools and industrial and government customers. Only around 10% of Vekllei people have a drivers license, and so their most common experience riding in an Avro is sitting in the passenger seat. The company maintains plants in [[Karu]], [[Oslola]] and [[Tenerife]].
 
 The most popular Avro model is the GTV, a sports sedan used by government and the police, as well as the Avro 100, a compact 2-door city car found commonly in autopools. Avro also manufactures specialised vehicles including the [[avro-interceptor|Municipal Police Interceptor]], based on the GTV platform, and the [[avro-commando|Commando Police Armoured Car]], a six-wheeled tactical vehicle used by republic [[police]] services.

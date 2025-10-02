@@ -628,6 +628,10 @@
   background-image: url("/svg/flags/4x3/summers-4x3.svg");
 }
 
+.fi-tenerife-4x3 {
+  background-image: url("/svg/flags/4x3/tenerife-4x3.svg");
+}
+
 .fi-un-4x3 {
   background-image: url("/svg/flags/4x3/un-4x3.svg");
 }
@@ -822,6 +826,10 @@
 
 .fi-federal-timekeeping.fis {
   background-image: url("/svg/logos/federal-timekeeping.svg");
+}
+
+.fi-firewalk.fis {
+  background-image: url("/svg/logos/firewalk.svg");
 }
 
 .fi-gaf.fis {
