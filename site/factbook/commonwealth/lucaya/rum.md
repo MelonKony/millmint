@@ -4,6 +4,7 @@ fulltitle: Rum Republic
 icon: 🍹
 logo: /svg/flags/4x3/rum-4x3.svg
 series: republic
+image: /images/fullres/sand-tram.jpg
 
 rgb: 57, 122, 205
 description: Rum (<i>San Salvador & Rum Cay</i>) is a constituent republic of Vekllei located in the Lucayan Archipelago.
