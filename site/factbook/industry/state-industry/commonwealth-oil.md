@@ -46,6 +46,7 @@ Oil is primarily used as a feedstock for industries in Vekllei, and has no mater
 
 **Production & Processing**
 * Hetland National Super-refinery [[Hetland]]
+* Curacao Complex Oil Refinery [[Curacao]]
 * Method Wake Gas Works [[Kairi]]
 * Method Wake Oil Terminal [[Kairi]]
 * Vulcan Gas-to-Liquids Plant [[Kairi]]
