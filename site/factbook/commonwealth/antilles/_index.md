@@ -16,6 +16,7 @@ aliases:
 ---
 {{<infobox/country
    Name="Antilles Commonwealth"
+   ShowLocator="false"
    Type="Commonwealth"
    Flag="/svg/flags/antilles.svg"
    SmallFlag="/svg/flags/4x3/antilles-4x3.svg"

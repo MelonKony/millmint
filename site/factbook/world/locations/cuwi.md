@@ -87,7 +87,7 @@ Although CUWI maintains a number of major constituent general universities, many
 * **Kabuli School of Forestry** ([[Kabuli]]) -- Rainforest ecology, geothermal energy, spice cultivation
 * **Kairi Industrial University** ([[Kairi]]) -- Petrochemical engineering, steel fabrication  
 * **Liamuiga School of Teaching** (Liamuiga) -- Atlantic Model teaching 
-* **Lucia Tropical School** (Lucia) -- Tropical disease research, culinary arts
+* **Lucia Tropical School** ([[Lucia]]) -- Tropical disease research, culinary arts
 * **Madiana Language School** ([[Madiana]]) -- French language, Kalina creoles documentation
 * **Oualie Maritime University** ([[Oualie]]) -- Naval architecture
 * **Virgin University** ([[Virgin]]) -- Political sciences

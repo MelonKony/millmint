@@ -17,6 +17,7 @@ aliases:
 {{<infobox/country
    Name="Commonwealth Kalina"
    Type="Commonwealth"
+   ShowLocator="false"
    Flag="/svg/flags/kalina.svg"
    SmallFlag="/svg/flags/4x3/kalina-4x3.svg"
    Population="9,515,983"

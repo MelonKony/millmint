@@ -18,6 +18,7 @@ aliases:
 {{<infobox/country
    Name="Volcanic Commonwealth"
    Type="Commonwealth"
+   ShowLocator="false"
    Flag="/svg/flags/volcanic.svg"
    SmallFlag="/svg/flags/4x3/volcanic-4x3.svg"
    Population="8,409,710"

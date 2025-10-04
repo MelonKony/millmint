@@ -536,6 +536,10 @@
   background-image: url("/svg/flags/4x3/lucaya-4x3.svg");
 }
 
+.fi-lucia-4x3 {
+  background-image: url("/svg/flags/4x3/lucia-4x3.svg");
+}
+
 .fi-madiana-4x3 {
   background-image: url("/svg/flags/4x3/madiana-4x3.svg");
 }
@@ -3902,13 +3906,14 @@ nav .navbar li {
 
 .subnav .subnavbar {
   margin: 0;
-  padding: 0;
+  border-radius: 0.25rem;
+  padding: 0.25rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
   list-style: none;
-  background-color: transparent;
+  background-color: var(--highlight-background);
   width: 100%;
   gap: 0.25rem;
 }

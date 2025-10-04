@@ -254,13 +254,14 @@ nav {
 
   .subnavbar {
     @include margin-0;
-    @include padding-0;
+    @include radius-base;
+    padding: 0.25rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
     list-style: none;
-    background-color: transparent;
+    background-color: var(--highlight-background);
     width: 100%;
     gap: 0.25rem;
 

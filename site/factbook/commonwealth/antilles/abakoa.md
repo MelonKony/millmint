@@ -19,7 +19,7 @@ aliases:
      Type="Republic"
      Commonwealth="Antilles"
      Flag="/svg/flags/abakoa.svg"
-     SmallFlag="/svg/flags/4x3/abakoa.svg"
+     SmallFlag="/svg/flags/4x3/abakoa-4x3.svg"
      Locator="/svg/maps/locator/abakoa-locator.svg"
      Population="86,410"
      Capital="Sara"

@@ -17,6 +17,7 @@ aliases:
 {{<infobox/country
    Name="Arctic Commonwealth"
    Type="Commonwealth"
+   ShowLocator="false"
    Flag="/svg/flags/arctic.svg"
    SmallFlag="/svg/flags/4x3/arctic-4x3.svg"
    Constituents="2"

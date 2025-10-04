@@ -17,6 +17,7 @@ aliases:
 {{<infobox/country
    Name="Lucayan Commonwealth"
    Type="Commonwealth"
+   ShowLocator="false"
    Flag="/svg/flags/lucaya.svg"
    SmallFlag="/svg/flags/4x3/lucaya-4x3.svg"
    Constituents="14"

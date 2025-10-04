@@ -17,6 +17,7 @@ aliases:
 {{<infobox/country
    Name="Atlantic Commonwealth"
    Type="Commonwealth"
+   ShowLocator="false"
    Flag="/svg/flags/atlantic.svg"
    SmallFlag="/svg/flags/4x3/atlantic-4x3.svg"
    Constituents="16"

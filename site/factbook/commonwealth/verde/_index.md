@@ -18,6 +18,7 @@ aliases:
 {{<infobox/country
    Name="Verde Commonwealth"
    Type="Commonwealth"
+   ShowLocator="false"
    Flag="/svg/flags/verde.svg"
    SmallFlag="/svg/flags/4x3/verde-4x3.svg"
    Constituents="11"
