@@ -3913,7 +3913,7 @@ nav .navbar li {
   justify-content: space-between;
   flex-wrap: wrap;
   list-style: none;
-  background-color: var(--highlight-background);
+  background-color: var(--gray-ultralight);
   width: 100%;
   gap: 0.25rem;
 }
