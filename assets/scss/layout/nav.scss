@@ -275,11 +275,10 @@ nav {
       display: block;
       white-space: nowrap;
       opacity: 0.7;
-      transition: all 0.2s ease;
 
       &:hover {
         opacity: 1;
-        background-color: var(--highlight-background);
+        box-shadow: inset 0px -502px 0px -500px var(--highlight);
 
         a {
           color: var(--highlight);
