@@ -16,9 +16,9 @@ aliases:
 ---
  {{<flag-carousel>}}
 
-{{<infobox/country
+{{<infobox
    Name="Vekllei Commonwealth"
-   Type="Vekllei"
+   Type="Sovereign Commonwealth of [[republics|Atlantic Communities]]"
    Flag="/svg/flags/commonwealth.svg"
    SmallFlag="/svg/flags/4x3/com-4x3.svg"
    Constituents="83"
@@ -26,7 +26,7 @@ aliases:
    Government="Federal parliamentary directoral commonwealth"
    Population="26,774,629"
    Capital="Comet"
-   NationalLanguage="English"
+   Language="English (official), many others"
    Area="2,393,359 km²"
  >}}
 

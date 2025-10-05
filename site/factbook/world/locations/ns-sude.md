@@ -12,6 +12,18 @@ description: Naval Station Sude is a naval station of the Vekllei Armed Forces, 
 aliases:
 - /ns-sude/
 ---
+{{<infobox
+	 Name="Naval Station Sude"
+	 Logo="/svg/crests/maritime-service.svg"
+	 Type="Naval Station of [[Vekllei]]"
+	 Ministry="[[Ministry of Defence]]"
+	 ShowLocator="true"
+	 LocatorId="sude"
+	 Location="[[Sude]]"
+     Operator="[[Armed Forces]]"
+     Residents="[[Maritime Service]] [[Air Service]]"
+ >}}
+
 <span class="fi fi-maritime-service fis"></span> **Naval Station Sude**, located in Godthul in the [[Sude]] Islands, serves as a peripheral [[marine|Marine Services]] naval station of [[Vekllei]] with crucial strategic importance in southern ocean operations. The facility began as a whaling station in the early 20th century, operating as one of the world's largest whaling hubs until commercial whaling declined in the mid-1960s. During World War II, British forces briefly fortified the station to guard against potential Axis activity in the Southern Ocean, establishing the foundation for its later military role.
 
 Formally established as a naval station following the 2015 Antarctic Crisis, the facility plays a significant role in maintaining [[Vekllei]] sovereignty over the South Georgia islands and supporting Antarctic Fleet operations. The station currently houses a small naval garrison alongside specialised vessels including nuclear icebreaker cruisers and arsenal destroyers. The facility serves as a crucial staging base for Antarctic expeditions and supports both military and civilian shipping operations in some of the world's most challenging maritime environments.

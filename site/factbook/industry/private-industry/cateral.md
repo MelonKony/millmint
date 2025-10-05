@@ -15,12 +15,14 @@ aliases:
 series: industry
 ---
 
- {{<infobox/company
+ {{<infobox
 	  Name="Cateral"
 	  Logo="/svg/logos/cateral.svg"
-	  Type="Private"
+	  Type="[[private-industry|Private Corporation]] of [[Vekllei]]"
 	  Industry="Firearms Manufacturing"
-	  Headquarters="Kairi"
+	  ShowLocator="true"
+	  LocatorId="kairi"
+	  Headquarters="[[Kairi]]"
 	  Founded="1902, as Cateral Artillery Co."
 	  Employees="3,404"
 	  Traded="CTL"

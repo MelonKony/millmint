@@ -13,10 +13,10 @@ fi: fi fi-fo-4x3
 aliases:
 - /aismious/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Aismious Republic"
 	 RealName="Archipelago of the Faroe Islands"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Volcanic"
 	 Flag="/svg/flags/aismious.svg"
 	 SmallFlag="/svg/flags/4x3/fo-4x3.svg"

@@ -13,10 +13,10 @@ fi: fi fi-lucia-4x3
 aliases:
 - /lucia/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Lucia Republic"
 	 RealName="Island of Saint Lucia"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/lucia.svg"
 	 LocatorScale="3"

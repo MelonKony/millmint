@@ -14,14 +14,13 @@ fi: fi fi-praia-4x3
 aliases:
 - /praia/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Praia Republic"
 	 RealName="Island of Santiago"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/praia.svg"
 	 SmallFlag="/svg/flags/4x3/praia-4x3.svg"
-	 Locator="/svg/maps/locator/verde-locator.svg"
 	 Population="492,199"
 	 Capital="Praia"
 	 Languages="English, Verde Creole, Portuguese"

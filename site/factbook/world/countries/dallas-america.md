@@ -14,7 +14,7 @@ aliases:
 - /dallas/
 series: country
 ---
-{{<infobox/country
+{{<infobox
      Name="Dallas America"
      Flag="/svg/flags/4x3/dallas-4x3.svg"
      SmallFlag="/svg/flags/4x3/dallas-4x3.svg"

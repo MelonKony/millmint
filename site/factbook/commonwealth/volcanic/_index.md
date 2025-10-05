@@ -15,9 +15,9 @@ aliases:
 - /volcanic/
 - /volcanic-commonwealth/
 ---
-{{<infobox/country
+{{<infobox
    Name="Volcanic Commonwealth"
-   Type="Commonwealth"
+   Type="[[constituents|Constituent Commonwealth]] of [[Vekllei]]"
    ShowLocator="false"
    Flag="/svg/flags/volcanic.svg"
    SmallFlag="/svg/flags/4x3/volcanic-4x3.svg"

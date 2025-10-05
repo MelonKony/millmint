@@ -13,10 +13,10 @@ fi: fi fi-kala-4x3
 aliases:
 - /kala/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Kala Republic"
 	 RealName="Island of Greenland"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/kala.svg"
 	 SmallFlag="/svg/flags/4x3/kala-4x3.svg"

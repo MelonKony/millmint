@@ -13,10 +13,10 @@ fi: fi fi-conch-4x3
 aliases:
 - /conch/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Conch Republic"
 	 RealName="Archipelago of Key West"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Lucaya"
 	 Flag="/svg/flags/conch.svg"
 	 SmallFlag="/svg/flags/4x3/conch.svg"

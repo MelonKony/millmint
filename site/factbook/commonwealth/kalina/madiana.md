@@ -13,14 +13,13 @@ fi: fi fi-madiana-4x3
 aliases:
 - /madiana/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Madiana Republic"
 	 RealName="Island of Martinique"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/madiana.svg"
 	 SmallFlag="/svg/flags/4x3/madiana-4x3.svg"
-	 Locator="/svg/maps/locator/madiana-locator.svg"
 	 Population="921,962"
 	 Capital="Fort Royal"
 	 Languages="English, French, Antillean Creole"

@@ -12,6 +12,19 @@ description: Naval Station Antigua is a naval station of the Vekllei Armed Force
 aliases:
 - /ns-antigua/
 ---
+{{<infobox
+	 Name="Naval Station Antigua"
+	 Logo="/svg/crests/maritime-service.svg"
+	 Type="Naval Station of [[Vekllei]]"
+	 Ministry="[[Ministry of Defence]]"
+	 ShowLocator="true"
+	 LocatorId="antigua"
+	 Location="[[Antigua]]"
+     Operator="[[Armed Forces]]"
+     Residents="[[Maritime Service]] [[Common Navy]] [[Air Service]]"
+ >}}
+
+
 <span class="fi fi-maritime-service fis"></span> **Naval Station Antigua**, situated in the natural harbour of English Harbour on the southern coast of [[Antigua]], is a major maritime facility of the [[marine|Marine Services]] of [[Vekllei]]. The complex has a long maritime history dating back to the 18th century when it served as a Royal Navy base in the Caribbean, protecting naval fleets from hurricanes and serving as a strategic stronghold against piracy and European rivals. Much of the original Georgian naval architecture survives and continues to function within the modern facility.
 
 Today, Naval Station Antigua operates as a comprehensive naval training centre and operational base, featuring expanded dry-docks and advanced radar installations. The facility houses the National Littoral Training School and maintains strong operational ties with neighbouring Caribbean nations, particularly in anti-drug trafficking operations. It serves as the primary base for the [[kalina|Commonwealth Kalina]] Auxiliary Fleet and provides important maritime security for the eastern Caribbean approaches.

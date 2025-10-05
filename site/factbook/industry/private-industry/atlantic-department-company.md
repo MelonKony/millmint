@@ -19,12 +19,14 @@ series: industry
 Read more: *[Department Commerce](/stories/department/)*
 {{</note>}}
 
- {{<infobox/company
+ {{<infobox
 	  Name="Atlantic Department Company"
 	  Logo="/svg/logos/atlantic-store.svg"
-	  Type="Private"
+	  Type="[[private-industry|Private Corporation]] of [[Vekllei]]"
 	  Industry="Retail"
-	  Headquarters="Oslola"
+	  ShowLocator="true"
+	  LocatorId="oslola"
+	  Headquarters="[[Oslola]]"
 	  Founded="1830"
 	  Employees="16,000"
 	  Traded="ATL"

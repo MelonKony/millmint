@@ -14,9 +14,9 @@ aliases:
 - /arctic/
 - /arctic-commonwealth/
 ---
-{{<infobox/country
+{{<infobox
    Name="Arctic Commonwealth"
-   Type="Commonwealth"
+   Type="[[constituents|Constituent Commonwealth]] of [[Vekllei]]"
    ShowLocator="false"
    Flag="/svg/flags/arctic.svg"
    SmallFlag="/svg/flags/4x3/arctic-4x3.svg"

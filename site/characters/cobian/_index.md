@@ -13,7 +13,7 @@ emoji: k
 aliases:
 - /cobian/
 ---
-{{<infobox/character
+{{<infobox
 	Name="Cobian Queismesnah"
     Image="/images/mastheads/characters/portraits/cobian.png"
     Age="16"

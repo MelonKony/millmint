@@ -15,14 +15,13 @@ draft: false
 aliases:
 - /paria/
 ---
-{{<infobox/country
+{{<infobox
      Name="Paria Republic"
      RealName="Los Roques Islands"
-     Type="Republic"
+     Type="[[republics|Constituent Republic]] of [[Vekllei]]"
      Commonwealth="Antilles"
      Flag="/svg/flags/paria.svg"
      SmallFlag="/svg/flags/4x3/paria-4x3.svg"
-     Locator="/svg/maps/locator/paria-locator.svg"
      Population="4,200"
      Capital="Bethlehem"
      Languages="English, Papiamento, Spanish"

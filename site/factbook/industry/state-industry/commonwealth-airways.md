@@ -20,14 +20,16 @@ series: industry
  See the [Commonwealth Airways Route Map](/route-map/)
 {{</note>}}
 
-{{<infobox/company
+{{<infobox
 	 Name="Commonwealth Airways"
 	 Logo="/svg/logos/air.svg"
-	 Type="State"
-	 Ministry="Commons"
-	 Bureau="Aerospace"
+	 Type="[[state-industry|State Corporation]] of [[Vekllei]]"
+	 Ministry="[[Ministry of the Commons]]"
+	 Parent="[[Bureau of Aerospace]]"
 	 Industry="Airline"
-	 Headquarters="Oslola"
+	 ShowLocator="true"
+	 LocatorId="oslola"
+	 Headquarters="[[Oslola]]"
 	 Founded="1923, as Commonwealth Royal Airways"
 	 Employees="23,600"
 	 Traded="CMA"

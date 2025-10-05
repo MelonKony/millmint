@@ -17,14 +17,16 @@ aliases:
 - /rail/
 ---
 
-{{<infobox/company
+{{<infobox
    Name="Commonwealth Rail"
    Logo="/svg/logos/rail.svg"
-   Type="State"
-   Ministry="Commons"
-   Bureau="Rail"
+   Type="[[state-industry|State Corporation]] of [[Vekllei]]"
+   Ministry="[[Ministry of the Commons]]"
+   Parent="[[Bureau of Rail]]"
    Industry="Rail transport"
-   Headquarters="Oslola"
+   ShowLocator="true"
+   LocatorId="oslola"
+   Headquarters="[[Oslola]]"
    Founded="1855, as the Pharos Rail Company"
    Employees="65,240"
    Incorporation="SA"

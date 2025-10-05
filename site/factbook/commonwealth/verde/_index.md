@@ -15,9 +15,9 @@ aliases:
 - /verde/
 - /verde-commonwealth/
 ---
-{{<infobox/country
+{{<infobox
    Name="Verde Commonwealth"
-   Type="Commonwealth"
+   Type="[[constituents|Constituent Commonwealth]] of [[Vekllei]]"
    ShowLocator="false"
    Flag="/svg/flags/verde.svg"
    SmallFlag="/svg/flags/4x3/verde-4x3.svg"

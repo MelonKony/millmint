@@ -12,12 +12,13 @@ description: The Hound-class is a class of surface-effect hovercraft in service 
 aliases:
 - /hound-class/
 ---
-{{<infobox/machine
+{{<infobox
 	Name="Hound-class Surface Effect Hovercraft"
 	Class="No. 1 Hound-class"
 	Type="Surface Effect Hovercraft"
 	Built="2055-present"
-	HomeStation="Antigua"
+	Station="[[NS Antigua]] [[Antigua]]"
+	Service="[[Littoral Service]]"
 	Crew="35"
 	Displacement="860 tonnes"
 	Length="60 meters"

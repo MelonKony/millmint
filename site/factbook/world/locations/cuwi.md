@@ -16,6 +16,15 @@ aliases:
 - /cuwi/
 - /commonwealth-university-of-the-west-indies/
 ---
+{{<infobox
+	 Name="Commonwealth University of the West Indies"
+	 Logo="/svg/logos/cuwi.svg"
+	 Type="Federated Collegial University"
+	 ShowLocator="true"
+	 LocatorId="antigua"
+	 Headquarters="[[Antigua]]"
+     Students="220,000"
+ >}}
 
 The <span class="fi fi-cuwi fis"></span> **Commonwealth University of the West Indies (CUWI)** is the federated higher education system serving [[Vekllei]]'s Caribbean [[republics]]. Modelled after ancient collegiate systems and adapted to the archipelagos of [[Kalina]] and [[Lucaya]], it comprises 32 constituent universities that maintain varying degrees of autonomy. 220,000 students are enrolled in CUWI, which is headquartered in the [[antigua|Antiguan]] capital of Caribbea. It is representative of the "nesting doll" nature of Vekllei higher education, since many of its constituent universities are themselves federated universities of different colleges and schools. As such, it is common to be enrolled as a student of a residential college, constituent university and CUWI simultaneously.
 

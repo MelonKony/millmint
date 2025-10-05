@@ -16,14 +16,16 @@ aliases:
 series: industry
 ---
 
-{{<infobox/company
+{{<infobox
 	 Name="Commonwealth Lines"
 	 Logo="/svg/logos/commonwealth-lines.svg"
-	 Type="State"
-	 Ministry="Commons"
-	 Bureau="Oceans"
+	 Type="[[state-industry|State Corporation]] of [[Vekllei]]"
+	 Ministry="[[Ministry of the Commons]]"
+	 Parent="[[Bureau of Oceans]]"
 	 Industry="Shipping"
-	 Headquarters="Oslola"
+	 ShowLocator="true"
+	 LocatorId="oslola"
+	 Headquarters="[[Oslola]]"
 	 Founded="2025"
 	 Employees="7,500"
 	 Traded="CML"

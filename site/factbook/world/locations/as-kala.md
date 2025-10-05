@@ -12,6 +12,18 @@ description: Air Station Kala is a military air station of the Vekllei Air Servi
 aliases:
 - /as-kala/
 ---
+{{<infobox
+	 Name="AS Kala"
+	 Logo="/svg/crests/air-service.svg"
+	 Type="Naval Air Station of [[Vekllei]]"
+	 Ministry="[[Ministry of Defence]]"
+	 ShowLocator="true"
+	 LocatorId="kala"
+	 Location="[[Kala]]"
+     Operator="[[Armed Forces]]"
+     Residents="[[Air Service]]"
+ >}}
+ 
 **Air Station Kala** is a [[armed forces|Navy]] air station of the [[Vekllei]] [[Air Service]], located in the republic of [[Kala]].
 
 {{<note table>}}

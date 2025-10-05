@@ -15,12 +15,14 @@ aliases:
 series: industry
 ---
 
-{{<infobox/company
+{{<infobox
 	 Name="Atlantic Works"
 	 Logo="/svg/logos/atlantic-works.svg"
-	 Type="Municipal"
+	 Type="[[municipal-industry|Municipal Corporation]] of [[Vekllei]]"
 	 Industry="Heavy industry"
-	 Headquarters="Oslola"
+	 ShowLocator="true"
+	 LocatorId="oslola"
+	 Headquarters="[[Oslola]]"
 	 Founded="1916"
 	 Employees="14,000"
 	 Traded="AWK"

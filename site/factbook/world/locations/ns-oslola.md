@@ -12,6 +12,18 @@ description: Naval Station Oslola is a naval station of the Vekllei Armed Forces
 aliases:
 - /ns-oslola/
 ---
+{{<infobox
+	 Name="Naval Station Oslola"
+	 Logo="/svg/crests/maritime-service.svg"
+	 Type="Naval Station of [[Vekllei]]"
+	 Ministry="[[Ministry of Defence]]"
+	 ShowLocator="true"
+	 LocatorId="oslola"
+	 Location="[[Oslola]]"
+     Operator="[[Armed Forces]]"
+     Residents="[[Maritime Service]] [[Littoral Service]] [[Air Service]]"
+ >}}
+
 <span class="fi fi-maritime-service fis"></span> **Naval Station Oslola**, located on the fortified island of Kolumbo off the southern coast of [[Oslola]], is the largest and most advanced naval facility in [[Vekllei]]. The dockyards date back to the medieval period, with the site serving as a naval fortress since at least the 15th century during the height of the Oslolan North Sea Empire. The modern facility represents centuries of continuous development, featuring densely-packed installations including the Oslola Commonwealth Docks, automated shipyards, the Commonwealth Naval School, and extensive coastal fortifications guarding Oslola's inhabited southwest coast.
 
 Despite Commonwealth federalisation efforts, Naval Station Oslola remains the most significant naval facility in Vekllei's maritime architecture. The complex houses the King Dock, the only dry-dock facility capable of manufacturing and maintaining the *Veletia*-class supercarrier. The Commonwealth Submersible Plant operates a collection of automated factories producing [*Capricorn*](/capricorn-class/) and [*Mantle*](/mantle-class/)-class submarines. As the home station for most of the maritime service's capital ships, including the *Federal*-class battleship and battlecruiser force, the facility represents the industrial and strategic heart of Vekllei naval power.

@@ -15,12 +15,14 @@ aliases:
 - /castro-restaurant/
 series: culture
 ---
- {{<infobox/company
+ {{<infobox
 	  Name="Castro Restaurant"
 	  Logo="/svg/logos/castro.svg"
-	  Type="Private"
+	  Type="[[private-industry|Private Corporation]] of [[Vekllei]]"
 	  Industry="Restaurant"
-	  Headquarters="Oslola"
+	  ShowLocator="true"
+	  LocatorId="oslola"
+	  Location="[[Oslola]]"
 	  Founded="2025"
 	  Employees="45"
 	  Revenue="1.3 million"

@@ -13,14 +13,13 @@ fi: fi fi-barbary-4x3
 aliases:
 - /barbary/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Barbary Republic"
 	 RealName="Island of Barbuda"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/barbary.svg"
 	 SmallFlag="/svg/flags/4x3/barbary-4x3.svg"
-	 Locator="/svg/maps/locator/barbary-locator.png"
 	 Population="58,629"
 	 Capital="Freetown"
 	 Languages="English, Barbary Creole"

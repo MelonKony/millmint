@@ -12,7 +12,19 @@ description: Naval Station Summers is a naval station of the Vekllei Armed Force
 aliases:
 - /ns-summers/
 ---
-<span class="fi fi-maritime-service fis"></span> **Naval Station Summers**, located at Irish Head in [[Summers]], is a major [[marine|Marine Services]] naval station of [[Vekllei]] and a critical component of western Atlantic maritime defence. The facility traces its origins to British fortification of the island in the 18th century, when it served as a strategic naval fortress for the Royal Navy. The natural harbours and defensive geography have made it an ideal naval base for centuries, with continuous expansion and modernisation reflecting its enduring strategic importance.
+{{<infobox
+	 Name="Naval Station Summers"
+	 Logo="/svg/crests/maritime-service.svg"
+	 Type="Naval Station of [[Vekllei]]"
+	 Ministry="[[Ministry of Defence]]"
+	 ShowLocator="true"
+	 LocatorId="summers"
+	 Location="[[Summers]]"
+     Operator="[[Armed Forces]]"
+     Residents="[[Maritime Service]] [[Air Service]]"
+ >}}
+
+<span class="fi fi-maritime-service fis"></span> **Naval Station Summers**, located at Irish Head in [[Summers]], is a major [[marine|Marine Services]] naval station of [[Vekllei]] and a critical component of western Atlantic maritime defence. The facility traces its origins to British fortification of the island in the 18th century, when it served as a strategic naval fortress for the Royal Navy. The natural harbours and defensive geography have made it an ideal naval base for centuries, with continuous expansion and modernisation reflecting its strategic importance.
 
 The modern installation comprises comprehensive automatic dockyards and berthing facilities capable of accommodating the largest Vekllei naval vessels, including [[Federal-class]] battleships. Several specialised facilities operate within the complex, including the Naval Infantry Training School and the American Radar Array, which provides crucial surveillance of North American approaches. The historic naval fort at Bloody Head in Great Sound has received substantial upgrades including the installation of long-range anti-ship missile systems, representing a modern evolution of centuries-old coastal defence principles.
 

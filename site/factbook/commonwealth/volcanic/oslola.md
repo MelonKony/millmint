@@ -13,10 +13,10 @@ fi: fi fi-oslola-4x3
 aliases:
 - /oslola/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Oslola Republic"
 	 RealName="Island of Iceland"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Volcanic"
 	 Flag="/svg/flags/oslola.svg"
 	 SmallFlag="/svg/flags/4x3/oslola-4x3.svg"

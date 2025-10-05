@@ -13,7 +13,7 @@ fi: fi fi-moise fis
 aliases:
 - /moise/
 ---
-{{<infobox/character
+{{<infobox
 	Name="Moise Hasapis"
     Image="/images/mastheads/characters/portraits/moise.png"
     Age="16"

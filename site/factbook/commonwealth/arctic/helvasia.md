@@ -13,10 +13,10 @@ fi: fi fi-sj-4x3
 aliases:
 - /helvasia/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Helvasia Republic"
 	 RealName="Island of Svalbard"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Arctic"
 	 Flag="/svg/flags/helvasia.svg"
 	 SmallFlag="/svg/flags/4x3/sj-4x3.svg"

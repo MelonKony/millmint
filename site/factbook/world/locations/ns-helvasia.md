@@ -12,6 +12,19 @@ description: Naval Station Helvasia is a naval station of the Vekllei Armed Forc
 aliases:
 - /ns-helvasia/
 ---
+{{<infobox
+	 Name="Naval Station Helvasia"
+	 Logo="/svg/crests/maritime-service.svg"
+	 Type="Naval Station of [[Vekllei]]"
+	 Ministry="[[Ministry of Defence]]"
+	 ShowLocator="true"
+	 LocatorId="helvasia"
+	 Location="[[Helvasia]]"
+     Operator="[[Armed Forces]]"
+     Residents="[[Maritime Service]] [[Littoral Service]] [[Air Service]]"
+ >}}
+
+
 <span class="fi fi-maritime-service fis"></span> **Naval Station Helvasia**, located in the remote Arctic archipelago of [[Helvasia]], serves as the northernmost naval installation in [[Vekllei]] and headquarters for Arctic maritime operations. Originally established as a Norwegian coaling station in the early 20th century, the facility was expanded during World War II to serve as a weather monitoring outpost and potential staging base for Arctic convoys. The harsh Arctic environment and strategic location have made it a vital component of Vekllei's northern maritime defence strategy.
 
 The modern facility operates as a fortress of the [[Maritime Service]] and a critical hub for Arctic Fleet operations. The station maintains specialised cold-weather capabilities including ice-strengthened berthing facilities, Arctic survival training centres, and advanced weather monitoring systems. Its position provides crucial oversight of Arctic shipping lanes and serves as a deterrent to Soviet territorial ambitions in the region. The facility also supports scientific expeditions and environmental monitoring in the High Arctic.

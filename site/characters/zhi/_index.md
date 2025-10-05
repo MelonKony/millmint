@@ -13,7 +13,7 @@ emoji: h
 aliases:
 - /zhi/
 ---
-{{<infobox/character
+{{<infobox
 	Name="Lin Zhi"
     Image="/images/mastheads/characters/portraits/zhi.png"
     Age="17"

@@ -14,9 +14,9 @@ aliases:
 - /kalina/
 - /kalina-commonwealth/
 ---
-{{<infobox/country
+{{<infobox
    Name="Commonwealth Kalina"
-   Type="Commonwealth"
+   Type="[[constituents|Constituent Commonwealth]] of [[Vekllei]]"
    ShowLocator="false"
    Flag="/svg/flags/kalina.svg"
    SmallFlag="/svg/flags/4x3/kalina-4x3.svg"

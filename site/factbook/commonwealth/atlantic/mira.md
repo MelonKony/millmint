@@ -15,10 +15,10 @@ fi: fi fi-mira-4x3
 aliases:
 - /mira/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Mira Republic"
 	 RealName="Island of Madeira"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Atlantic"
 	 Flag="/svg/flags/mira.svg"
 	 SmallFlag="/svg/flags/4x3/mira-4x3.svg"

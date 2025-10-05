@@ -16,12 +16,14 @@ aliases:
 series: industry
 ---
 
-{{<infobox/company
+{{<infobox
 	  Name="Atlantis"
 	  Logo="/svg/logos/atlantis-shipping.svg"
-	  Type="Bureau"
+	  Type="[[bureau-industry|Industrial Bureau]] of [[Vekllei]]"
 	  Industry="Shipping & logistics"
-	  Headquarters="Cama"
+	  ShowLocator="true"
+	  LocatorId="cama"
+	  Headquarters="[[Cama]]"
 	  Founded="2025"
 	  Employees="7,470"
 	  Traded="ATS"

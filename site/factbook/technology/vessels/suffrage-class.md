@@ -11,12 +11,13 @@ description: The Suffrage-Class is a class of corvette in service with the Vekll
 aliases:
 - /suffrage-class/
 ---
-{{<infobox/machine
+{{<infobox
 	Name="Suffrage"
 	Class="Suffrage-class"
 	Type="Corvette"
 	Built="2031-41"
-	HomeStation="Kairi"
+	Station="[[NS Kairi]] [[Kairi]]"
+	Service="[[Maritime Service]]"
 	Crew="120"
 	Displacement="2,500 tonnes"
 	Length="100 meters"

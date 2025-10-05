@@ -12,6 +12,18 @@ description: Fortress Lola is a fortress of the Vekllei Armed Forces, located in
 aliases:
 - /fortress-lola/
 ---
+{{<infobox
+	 Name="Fortress Lola"
+	 Logo="/svg/crests/territorial-service.svg"
+	 Type="Territorial Fortress of [[Vekllei]]"
+	 Ministry="[[Ministry of Defence]]"
+	 ShowLocator="true"
+	 LocatorId="oslola"
+	 Location="[[Oslola]]"
+     Operator="[[Armed Forces]]"
+     Residents="[[Territorial Service]] [[Air Service]]"
+ >}}
+
 **Fortress Lola** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Oslola]].
 
 {{<note table>}}

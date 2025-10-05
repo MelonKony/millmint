@@ -14,12 +14,14 @@ aliases:
 series: industry
 ---
 
-{{<infobox/company
+{{<infobox
 	  Name="National Machines"
 	  Logo="/svg/logos/national-machines.svg"
-	  Type="Bureau"
+	  Type="[[bureau-industry|Industrial Bureau]] of [[Vekllei]]"
 	  Industry="Computing & Robotics"
-	  Headquarters="Kala"
+	  ShowLocator="true"
+	  LocatorId="kala"
+	  Headquarters="[[Kala]]"
 	  Founded="2026"
 	  Employees="5,200"
 	  Traded="NMC"

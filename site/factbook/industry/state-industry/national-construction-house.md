@@ -23,14 +23,16 @@ series: industry
 Read more: *[A House for Each Man](/stories/construction/)*
 {{</note>}}
 
-{{<infobox/company
+{{<infobox
 	 Name="National Construction House"
 	 Logo="/svg/logos/nch.svg"
-	 Type="State"
-	 Ministry="Commons"
-	 Bureau="PublicWorks"
+	 Type="[[state-industry|State Corporation]] of [[Vekllei]]"
+	 Ministry="[[Ministry of the Commons]]"
+	 Parent="[[Bureau of Public Works]]"
 	 Industry="Construction"
-	 Headquarters="Oslola"
+	 ShowLocator="true"
+	 LocatorId="oslola"
+	 Headquarters="[[Oslola]]"
 	 Founded="2035"
 	 Employees="40,300 (variable)"
 	 Incorporation="ScL"

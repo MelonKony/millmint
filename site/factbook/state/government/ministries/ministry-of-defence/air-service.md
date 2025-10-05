@@ -164,7 +164,7 @@ The *Air Transport Command* (ATC) supports other services, particularly the Terr
 * No. 4 Aerorifles Wing
   1. Aerorifles Sqdn.<br>[[Fortress Aruba]] [[Aruba]]
   2. Aerorifles Sqdn.<br>[[NS Antigua]] [[Antigua]]
-  3. Aerorifles Sqdn.<br>[[Fortress Orient]] [[Caicos]]
+  3. Aerorifles Sqdn.<br>[[Fortress Occident]] [[Caicos]]
   4. Aerorifles Sqdn.<br>[[NS Summers]] [[Summers]]
 </details>
 {{</note>}}

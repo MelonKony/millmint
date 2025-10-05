@@ -13,14 +13,13 @@ fi: fi fi-viana-4x3
 aliases:
 - /viana/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Viana Republic"
 	 RealName="Island of Sao Vicente"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/viana.svg"
 	 SmallFlag="/svg/flags/4x3/viana-4x3.svg"
-	 Locator="/svg/maps/locator/verde-locator.svg"
 	 Population="360,391"
 	 Capital="Mindelo"
 	 Languages="English, Verde Creole, Portuguese"

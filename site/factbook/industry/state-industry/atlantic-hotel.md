@@ -16,14 +16,17 @@ aliases:
 series: industry
 ---
 
-{{<infobox/company
+{{<infobox
 	 Name="Atlantic Hotel"
 	 Logo="/svg/logos/atlantic-hotel.svg"
-	 Type="State"
-	 Ministry="ForeignAffairs"
+	 Type="[[state-industry|State Corporation]] of [[Vekllei]]"
+	 Ministry="[[Ministry of Foreign Affairs]]"
+	 Parent="[[Bureau of Travel]]"
 	 Bureau="Travel"
 	 Industry="Hotels"
-	 Headquarters="Karu"
+	 ShowLocator="true"
+	 LocatorId="karu"
+	 Headquarters="[[Karu]]"
 	 Founded="2028"
 	 Employees="13,030"
 	 Traded="AHO"

@@ -15,14 +15,16 @@ aliases:
 series: industry
 ---
 
-{{<infobox/company
+{{<infobox
 	 Name="Commonwealth Ratings Corporation"
 	 Logo="/svg/logos/ratings.svg"
-	 Type="State"
-	 Ministry="Commerce"
-	 Bureau="Securities"
+	 Type="[[state-industry|State Corporation]] of [[Vekllei]]"
+	 Ministry="[[Ministry of Commerce]]"
+	 Parent="[[Bureau of Securities]]"
 	 Industry="Financial services"
-	 Headquarters="Caimanas"
+	 ShowLocator="true"
+	 LocatorId="caimanas"
+	 Headquarters="[[Caimanas]]"
 	 Founded="2025"
 	 Employees="8,400"
 	 Traded="CRC"

@@ -13,7 +13,7 @@ description: Baron is Tzipora's guardian in on way or another. Whether he's a su
 aliases:
 - /baron/
 ---
-{{<infobox/character
+{{<infobox
 	Name="Baron Spector"
     Image="/images/mastheads/characters/portraits/baron.png"
     Age="41"

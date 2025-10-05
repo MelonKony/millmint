@@ -13,14 +13,13 @@ fi: fi fi-velas-4x3
 aliases:
 - /velas/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Velas Republic"
 	 RealName="Island of Sao Jorge"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Atlantic"
 	 Flag="/svg/flags/velas.svg"
 	 SmallFlag="/svg/flags/4x3/velas-4x3.svg"
-	 Locator="/svg/maps/locator/azores-locator.svg"
 	 Population="12,662"
 	 Capital="Dismas"
 	 Languages="English, Portuguese"

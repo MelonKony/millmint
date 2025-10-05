@@ -16,12 +16,14 @@ aliases:
 series: industry
 ---
 
-{{<infobox/company
+{{<infobox
 	 Name="Federal Timekeeping"
 	 Logo="/svg/logos/federal-timekeeping.svg"
-	 Type="Municipal"
+	 Type="[[municipal-industry|Municipal Corporation]] of [[Vekllei]]"
 	 Industry="Watchmaking"
-	 Headquarters="Velas"
+	 ShowLocator="true"
+	 LocatorId="velas"
+	 Headquarters="[[Velas]]"
 	 Founded="Various, recently 2020"
 	 Employees="1,200"
 	 Traded="FTK"

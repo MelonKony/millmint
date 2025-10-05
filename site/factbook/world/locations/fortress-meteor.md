@@ -12,6 +12,18 @@ description: Fortress Meteor is a fortress of the Vekllei Armed Forces, located 
 aliases:
 - /fortress-meteor/
 ---
+{{<infobox
+	 Name="Fortress Meteor"
+	 Logo="/svg/crests/territorial-service.svg"
+	 Type="Territorial Fortress of [[Vekllei]]"
+	 Ministry="[[Ministry of Defence]]"
+	 ShowLocator="true"
+	 LocatorId="meteor"
+	 Location="[[Meteor]]"
+     Operator="[[Armed Forces]]"
+     Residents="[[Territorial Service]] [[Air Service]]"
+ >}}
+
 **Fortress Meteor** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Flores]].
 
 {{<note table>}}

@@ -15,11 +15,12 @@ draft: false
 aliases:
 - /cm-100/
 ---
-{{<infobox/machine
+{{<infobox
 	Name="Horus-class Naval Survey Thermal Airship"
 	Class="Horus-class"
 	Type="Naval Survey Thermal Airship"
-	HomeStation="Summers"
+	Station="[[NS Summers]] [[Summers]]"
+	Service="[[Air Service]]"
 	Built="2025-28"
 	Crew="40"
 	Weight="310 tonnes"

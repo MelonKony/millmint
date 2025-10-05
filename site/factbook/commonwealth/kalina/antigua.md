@@ -14,14 +14,13 @@ fi: fi fi-antigua-4x3
 aliases:
 - /antigua/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Antigua Republic"
 	 RealName="Island of Antigua"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/antigua.svg"
 	 SmallFlag="/svg/flags/4x3/antigua-4x3.svg"
-	 Locator="/svg/maps/locator/antigua-locator.png"
 	 Population="327,800"
 	 Capital="Caribbea"
 	 Languages="English, Arawak Creole"

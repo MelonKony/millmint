@@ -11,12 +11,13 @@ description: The Nike-Class is a class of cruiser in service with the Vekllei Ar
 aliases:
 - /nike-class/
 ---
-{{<infobox/machine
+{{<infobox
 	Name="Nike-class Missile Cruiser"
 	Class="Nike-class"
 	Type="Missile cruiser"
 	Built="2045-54"
-	HomeStation="Verde"
+	Station="[[NS Verde]] [[Verde]]"
+	Service="[[Maritime Service]]"
 	Crew="250"
 	Displacement="9,500 tonnes"
 	Length="180 meters"

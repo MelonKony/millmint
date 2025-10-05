@@ -13,10 +13,10 @@ fi: fi fi-hetland-4x3
 aliases:
 - /hetland/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Hetland Republic"
 	 RealName="Archipelago of the Shetland Islands"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Volcanic"
 	 Flag="/svg/flags/hetland.svg"
 	 SmallFlag="/svg/flags/4x3/hetland-4x3.svg"

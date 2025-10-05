@@ -12,6 +12,18 @@ description: Fortress Falklands is a fortress of the Vekllei Armed Forces, locat
 aliases:
 - /fortress-falklands /
 ---
+{{<infobox
+	 Name="Fortress Falklands"
+	 Logo="/svg/crests/territorial-service.svg"
+	 Type="Territorial Fortress of [[Vekllei]]"
+	 Ministry="[[Ministry of Defence]]"
+	 ShowLocator="true"
+	 LocatorId="falklands"
+	 Location="[[Falklands]]"
+     Operator="[[Armed Forces]]"
+     Residents="[[Territorial Service]] [[Air Service]]"
+ >}}
+
 **Fortress Falklands** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Falklands]].
 
 {{<note table>}}

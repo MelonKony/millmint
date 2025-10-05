@@ -13,14 +13,13 @@ fi: fi fi-aloi-4x3
 aliases:
 - /aloi/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Aloi Republic"
 	 RealName="Island of St Eustatius"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/aloi.svg"
 	 SmallFlag="/svg/flags/4x3/aloi-4x3.svg"
-	 Locator="/svg/maps/locator/dutch-kalina-locator.svg"
 	 Population="12,404"
 	 Capital="Concordia"
 	 Languages="English, Arawak Creole"

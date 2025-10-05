@@ -13,14 +13,13 @@ fi: fi fi-curateo-4x3
 aliases:
 - /curateo/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Curateo Republic"
 	 RealName="Archipelago of the Great Exuma Islands"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Lucaya"
 	 Flag="/svg/flags/curateo.svg"
 	 SmallFlag="/svg/flags/4x3/curateo-4x3.svg"
-	 Locator="/svg/maps/locator/lucaya-locator.svg"
 	 Population="14,859"
 	 Capital="George Town"
 	 Languages="English, Lucayan"

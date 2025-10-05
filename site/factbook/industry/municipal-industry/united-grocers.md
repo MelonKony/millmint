@@ -15,12 +15,14 @@ aliases:
 series: industry
 ---
 
-{{<infobox/company
+{{<infobox
 	 Name="United Grocers"
 	 Logo="/svg/logos/united-grocers.svg"
-	 Type="Municipal"
+	 Type="[[municipal-industry|Municipal Corporation]] of [[Vekllei]]"
 	 Industry="Food & Retail"
-	 Headquarters="Virgin"
+	 ShowLocator="true"
+	 LocatorId="virgin"
+	 Headquarters="[[Virgin]]"
 	 Founded="2018"
 	 Employees="82,900"
 	 Traded="UNG"

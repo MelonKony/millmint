@@ -13,14 +13,13 @@ fi: fi fi-vg-4x3
 aliases:
 - /virgin/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Virgin Republic"
 	 RealName="Archipelago of the British, Spanish and U.S. Virgin Islands"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/virgin.svg"
 	 SmallFlag="/svg/flags/4x3/vg-4x3.svg"
-	 Locator="/svg/maps/locator/vg-locator.png"
 	 Population="282,295"
 	 Capital="Roadie (administrative)"
 	 Languages="English, French, Spanish"

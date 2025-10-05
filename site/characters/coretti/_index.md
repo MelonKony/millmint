@@ -13,7 +13,7 @@ emoji: o
 aliases:
 - /coretti/
 ---
-{{<infobox/character
+{{<infobox
 	Name="Coretti Adoula"
     Image="/images/mastheads/characters/portraits/coretti.png"
     Age="17"

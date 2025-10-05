@@ -12,7 +12,7 @@ emoji: c
 aliases:
 - /tzipora/
 ---
-{{<infobox/character
+{{<infobox
 	Name="Tzipora 'Zelda' Azela"
     Image="/images/mastheads/characters/portraits/tzipora.png"
     Age="16"

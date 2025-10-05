@@ -10,8 +10,20 @@ fi: fi fi-territorial-service fis
 description: Fortress Kabuli is a fortress of the Vekllei Armed Forces, located in the republic of Kabuli.
 
 aliases:
-- /fortress-demon/
+- /fortress-kabuli/
 ---
+{{<infobox
+	 Name="Fortress Kabuli"
+	 Logo="/svg/crests/territorial-service.svg"
+	 Type="Territorial Fortress of [[Vekllei]]"
+	 Ministry="[[Ministry of Defence]]"
+	 ShowLocator="true"
+	 LocatorId="kabuli"
+	 Location="[[Kabuli]]"
+     Operator="[[Armed Forces]]"
+     Residents="[[Territorial Service]] [[Air Service]]"
+ >}}
+ 
 **Fortress Kabuli** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of Kabuli.
 
 {{<note table>}}

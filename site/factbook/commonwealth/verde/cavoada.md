@@ -13,14 +13,13 @@ fi: fi fi-cavoada-4x3
 aliases:
 - /cavoada/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Cavoada Republic"
 	 RealName="Island of Sao Nicolau"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/cavoada.svg"
 	 SmallFlag="/svg/flags/4x3/cavoada-4x3.svg"
-	 Locator="/svg/maps/locator/verde-locator.svg"
 	 Population="25,424"
 	 Capital="Tarrafal"
 	 Languages="English, Verde Creole, Portuguese"

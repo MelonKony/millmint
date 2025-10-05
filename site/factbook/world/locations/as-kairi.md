@@ -12,6 +12,18 @@ description: Air Station Kairi is a military air station of the Vekllei Air Serv
 aliases:
 - /as-kairi/
 ---
+{{<infobox
+	 Name="AS Kairi"
+	 Logo="/svg/crests/air-service.svg"
+	 Type="Naval Air Station of [[Vekllei]]"
+	 Ministry="[[Ministry of Defence]]"
+	 ShowLocator="true"
+	 LocatorId="kairi"
+	 Location="[[Kairi]]"
+     Operator="[[Armed Forces]]"
+     Residents="[[Air Service]]"
+ >}}
+
 **Air Station Kairi** is a [[armed forces|Navy]] air station of the [[Vekllei]] [[Air Service]], located in the republic of [[Kairi]].
 
 {{<note table>}}

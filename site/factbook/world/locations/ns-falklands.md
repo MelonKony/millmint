@@ -12,6 +12,17 @@ description: Naval Station Falklands is a naval station of the Vekllei Armed For
 aliases:
 - /ns-falklands/
 ---
+{{<infobox
+	 Name="Naval Station Falklands"
+	 Logo="/svg/crests/maritime-service.svg"
+	 Type="Naval Station of [[Vekllei]]"
+	 Ministry="[[Ministry of Defence]]"
+	 ShowLocator="true"
+	 LocatorId="falklands"
+	 Location="[[Falklands]]"
+     Operator="[[Armed Forces]]"
+     Residents="[[Maritime Service]] [[Littoral Service]] [[Air Service]]"
+ >}}
 <span class="fi fi-maritime-service fis"></span> **Naval Station Falklands**, located in Stanley Harbour on East Falkland Island, is a major [[Vekllei]] military facility of the [[marine|Marine Services]] in the South Atlantic. Originally established by the British in the mid-19th century as a coaling station for whalers and naval vessels, the station has evolved into a major component of Vekllei's Antarctic Fleet operations and southern maritime defence doctrine.
 
 The station serves as headquarters for the Antarctic Fleet and provides a military foundation for Vekllei's continued sovereignty claim over the Falklands, which remains disputed with Argentina. Regular encounters with Argentine naval vessels underscore the station's strategic importance in maintaining Commonwealth territorial integrity in the South Atlantic. The facility houses several specialised installations including a cold-weather warfare research centre operated by the [[DSRE]] and automatic dry-dock facilities capable of servicing icebreakers and polar patrol vessels.

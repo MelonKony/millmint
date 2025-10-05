@@ -13,10 +13,10 @@ fi: fi fi-sh-4x3
 aliases:
 - /helena/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Helena Republic"
 	 RealName="Island of Saint Helena"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Antarctic"
 	 Flag="/svg/flags/helena.svg"
 	 SmallFlag="/svg/flags/4x3/sh-4x3.svg"

@@ -16,14 +16,16 @@ aliases:
 series: industry
 ---
 
-{{<infobox/company
+{{<infobox
 	 Name="Commonwealth Bank"
 	 Logo="/svg/logos/commonwealth-bank.svg"
-	 Type="State"
-	 Ministry="Commerce"
-	 Bureau="Treasury"
+	 Type="[[state-industry|State Corporation]] of [[Vekllei]]"
+	 Ministry="[[Ministry of Commerce]]"
+	 Parent="[[Commonwealth Treasury]]"
 	 Industry="Banking and financial services"
-	 Headquarters="Oslola"
+	 ShowLocator="true"
+	 LocatorId="oslola"
+	 Headquarters="[[Oslola]]"
 	 Founded="1642"
 	 Employees="35,000"
 	 Traded="CBC"

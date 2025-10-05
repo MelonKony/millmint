@@ -13,14 +13,13 @@ fi: fi fi-kairi-4x3
 aliases:
 - /kairi/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Kairi Republic"
 	 RealName="Island of Trinidad"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/kairi.svg"
 	 SmallFlag="/svg/flags/4x3/kairi-4x3.svg"
-	 Locator="/svg/maps/locator/kairi-locator.png"
 	 Population="2,480,384"
 	 Capital="Conquerabia"
 	 Languages="English, Creole, Hindustani, Spanish"

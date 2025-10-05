@@ -13,10 +13,10 @@ fi: fi fi-santes-4x3
 aliases:
 - /santes/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Santes Republic"
 	 RealName="Island of Tristan da Cunha"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Antarctic"
 	 Flag="/svg/flags/santes.svg"
 	 SmallFlag="/svg/flags/4x3/santes-4x3.svg"

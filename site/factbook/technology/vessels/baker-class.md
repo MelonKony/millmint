@@ -11,12 +11,13 @@ description: The Baker-Class is a class of aerial warfare destroyer in service w
 aliases:
 - /baker-class/
 ---
-{{<infobox/machine
+{{<infobox
 	Name="Baker-class Air Escort Destroyer"
 	Class="No. 11 Baker-class"
 	Type="Air escort destroyer"
 	Built="2029-39"
-	HomeStation="Mira"
+	Station="[[NS Mira]] [[Mira]]"
+	Service="[[Maritime Service]]"
 	Crew="320"
 	Displacement="8,500 tonnes"
 	Length="160 meters"

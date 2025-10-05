@@ -14,6 +14,17 @@ description: The University of Karu is a prestigious institution in the Karu Rep
 aliases:  
 - /karu-university/  
 ---  
+{{<infobox
+	 Name="University of Karu"
+	 Logo="/svg/logos/university-of-karu.svg"
+	 Type="Constituent University"
+	 Parent="[[CUWI]]"
+	 ShowLocator="true"
+	 LocatorId="karu"
+	 Location="[[Karu]]"
+     Employees="1,200"
+     Students="12,500"
+ >}}
 
 The <span class="fi fi-university-of-karu fis"></span> **University of Karu** is a public university located in Pitera, the capital of the [[Karu]]. Established in 1948, it is best known for its performing arts programs, particularly in dance and ballet. The university forms part of the [[cuwi|Commonwealth University of the West Indies]] system, though it operates autonomously.  
 

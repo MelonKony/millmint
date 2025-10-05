@@ -12,12 +12,13 @@ description: The Swordfish-Class is a class of aerial warfare destroyer in servi
 aliases:
 - /swordfish-class/
 ---
-{{<infobox/machine
+{{<infobox
 	Name="Swordfish-class Air Escort Destroyer"
 	Class="No. 12 Swordfish-class"
 	Type="Air Escort Destroyer"
 	Built="2042-55"
-	HomeStation="Mira"
+	Station="[[NS Mira]] [[Mira]]"
+	Service="[[Maritime Service]]"
 	Crew="310"
 	Displacement="9,000 tonnes"
 	Length="165 meters"

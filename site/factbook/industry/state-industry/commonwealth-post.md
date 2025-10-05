@@ -18,14 +18,16 @@ series: industry
 
 ## Overview
 
-{{<infobox/company
+{{<infobox
    Name="Commonwealth Post"
    Logo="/svg/logos/post.svg"
-   Type="State"
-   Ministry="Culture"
-   Bureau="Post"
+   Type="[[state-industry|State Corporation]] of [[Vekllei]]"
+   Ministry="[[Ministry of Culture]]"
+   Parent="[[Bureau of Post and Telecommunications]]"
    Industry="Postal service"
-   Headquarters="Oslola"
+   ShowLocator="true"
+   LocatorId="oslola"
+   Headquarters="[[Oslola]]"
    Founded="1422"
    Employees="58,200"
    Traded="GAF"

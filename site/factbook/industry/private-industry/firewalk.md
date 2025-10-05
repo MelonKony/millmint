@@ -15,12 +15,14 @@ aliases:
 series: industry
 ---
 
- {{<infobox/company
+ {{<infobox
 	  Name="Firewalk"
 	  Logo="/svg/logos/firewalk.svg"
-	  Type="Private"
+	  Type="[[private-industry|Private Corporation]] of [[Vekllei]]"
 	  Industry="Tyres & rubber products"
-	  Headquarters="Oslola"
+	  ShowLocator="true"
+	  LocatorId="oslola"
+	  Headquarters="[[Oslola]]"
 	  Founded="2022"
 	  Employees="8,340"
 	  Traded="FWK"

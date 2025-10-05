@@ -12,6 +12,18 @@ description: Fortress Demon is a fortress of the Vekllei Armed Forces, located i
 aliases:
 - /fortress-demon/
 ---
+{{<infobox
+	 Name="Fortress Demon"
+	 Logo="/svg/crests/territorial-service.svg"
+	 Type="Territorial Fortress of [[Vekllei]]"
+	 Ministry="[[Ministry of Defence]]"
+	 ShowLocator="true"
+	 LocatorId="demon"
+	 Location="[[Demon]]"
+     Operator="[[Armed Forces]]"
+     Residents="[[Territorial Service]] [[Air Service]]"
+ >}}
+
 **Fortress Demon** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Demon]].
 
 {{<note table>}}

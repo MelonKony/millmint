@@ -14,6 +14,21 @@ description: The Bethlehem Psychiatric Hospital is a mental asylum and sanitoriu
 aliases:
 - /bethlehem-hospital/
 ---
+{{<infobox
+	 Name="Bethlehem Psychiatric Hospital"
+	 Logo="/svg/logos/bethlehem-hospital.svg"
+	 Type="Psychiatric Hospital"
+	 Ministry="[[Parliament of Health]]"
+	 Parent="[[Bureau of Public Health]]"
+	 Industry="Psychiatric Care"
+	 ShowLocator="true"
+	 LocatorId="paria"
+	 Headquarters="[[Paria]]"
+	 Founded="1904"
+	 Employees="1,300 (variable)"
+     Patients="6,000"
+	 Incorporation="ScL"
+ >}}
 
 <span class="fi fi-bethlehem-hospital fis"></span> **Bethlehem Psychiatric Hospital**, often *Bethlehem Hospital* or just *Bethlehem*, is a medical facility that caters to convalescing patients suffering from psychiatric disorders in [[Vekllei]] as an autonomous corporation of the [[Bureau of Public Health]]. It is located in the republic of [[Paria]] on Scallop Island, which is dedicated solely to the hospital and its extensive grounds. It was first established there in 1904 as a leper hospital, but became a ruin after its closure in 1968. It was renovated and reestablished by the Commonwealth Government in 2021 to serve as a voluntary hospital dedicated to extended recovery. A healthy wood of pines and eucalypts covers most of its interior, and the island is famous for its beaches of white sand. The pleasant grounds and weather are supposed to ease mental anguish and provide a calmer environment for recovery among its patients.
 

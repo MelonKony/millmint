@@ -13,14 +13,13 @@ fi: fi fi-principe-4x3
 aliases:
 - /principe/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Principe Republic"
 	 RealName="Island of Principe"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/principe.svg"
 	 SmallFlag="/svg/flags/4x3/principe-4x3.svg"
-	 Locator="/svg/maps/locator/guinea-locator.svg"
 	 Population="18,953"
 	 Capital="Portinho"
 	 Languages="English, Annobonese Creole, Principence"

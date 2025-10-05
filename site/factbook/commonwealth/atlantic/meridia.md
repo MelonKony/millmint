@@ -13,10 +13,10 @@ fi: fi fi-meridia-4x3
 aliases:
 - /meridia/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Meridia Republic"
 	 RealName="Island of El Hierro"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Atlantic"
 	 Flag="/svg/flags/meridia.svg"
 	 SmallFlag="/svg/flags/4x3/meridia-4x3.svg"

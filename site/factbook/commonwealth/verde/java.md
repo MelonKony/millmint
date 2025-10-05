@@ -13,14 +13,13 @@ fi: fi fi-java-4x3
 aliases:
 - /java/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Java Republic"
 	 RealName="Island of Sao Tome"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/java.svg"
 	 SmallFlag="/svg/flags/4x3/java-4x3.svg"
-	 Locator="/svg/maps/locator/guinea-locator.svg"
 	 Population="514,720"
 	 Capital="Java"
 	 Languages="English, Forro, Angolar, Principence"

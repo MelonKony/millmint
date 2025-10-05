@@ -13,14 +13,13 @@ fi: fi fi-ai-4x3
 aliases:
 - /anguilla/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Anguilla Republic"
 	 RealName="Island of Anguilla"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/anguilla.svg"
 	 SmallFlag="/svg/flags/4x3/ai-4x3.svg"
-	 Locator="/svg/maps/locator/ai-locator.png"
 	 Population="35,722"
 	 Capital="The Valley"
 	 Languages="English, Arawak Creole"

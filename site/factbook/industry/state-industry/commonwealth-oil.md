@@ -20,19 +20,21 @@ series: industry
  Read more: *[[Resources|Natural Resources of Vekllei]]*
 {{</note>}}
 
-{{<infobox/company
+{{<infobox
 	 Name="Commonwealth Oil"
 	 Logo="/svg/logos/commonwealth-oil.svg"
-	 Type="State"
-	 Ministry="Industry"
-	 Bureau="Hydrocarbons"
+	 Type="[[state-industry|State Corporation]] of [[Vekllei]]"
+	 Ministry="[[Ministry of Industry]]"
+	 Parent="[[Bureau of Hydrocarbons]]"
 	 Industry="Oil and gas"
-	 Headquarters="Kairi"
+	 ShowLocator="true"
+	 LocatorId="kairi"
+	 Headquarters="[[Kairi]]"
 	 Founded="2017"
 	 Employees="22,300"
 	 Traded="COC"
 	 Revenue="2 trillion"
-	 Incorporation="ScL"
+	 Incorporation="S.c.L."
  >}}
 
 <span class="fi fi-commonwealth-oil fis"></span>  **Commonwealth Oil** (also known as *CommOil*) is a multinational hydrocarbon energy company owned by the government of [[Vekllei]], with primary business in petroleum exploration, extraction, and refining. It is estimated to be the 40th largest company in the world by revenue, owing to the vast oil and gas fields in Vekllei's exclusive economic sea zones. Although its headquarters were relocated to [[Kairi]] in 2044 to be closer to the West Indies oil fields, the corporation was founded in [[Oslola]] and still occupies its original headquarters there are the base of Arctic oil extraction.

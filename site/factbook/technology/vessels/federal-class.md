@@ -12,12 +12,13 @@ description: The Federal-Class is a class of battleship in service with the Vekl
 aliases:
 - /federal-class/
 ---
-{{<infobox/machine
+{{<infobox
 	Name="Federal-class Battleship"
 	Class="Federal-class"
 	Type="Battleship"
 	Built="2027-37"
-	HomeStation="Oslola"
+	Station="[[NS Oslola]] [[Oslola]]"
+	Service="[[Maritime Service]]"
 	Crew="1,100"
 	Displacement="50,000 tonnes"
 	Length="260 meters"

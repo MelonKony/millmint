@@ -14,6 +14,16 @@ aliases:
 - /police-college/
 - /constable-training/
 ---
+{{<infobox
+	 Name="Commonwealth Police College"
+	 Logo="/svg/logos/police.svg"
+	 Type="Police Training Facility"
+     Parliament="[[Parliament of Law]]"
+	 Operator="[[police|Commonwealth Police]]"
+	 ShowLocator="true"
+	 LocatorId="meteor"
+	 Location="[[Comet]]"
+ >}}
 
 The <span class="fi fi-police fis"></span> **Commonwealth Police College** is the central training institution for all [[Police|Commonwealth Police]] officers, located in Comet, the federal capital of [[Vekllei]]. Established in 2018, it serves as the sole institution responsible for standardised constable training across all [[republics]] of Vekllei. The college ensures that every commissioned constable, regardless of their eventual posting or specialisation, receives the same foundational education in law, civic values and the Commonwealth police procedure.
 

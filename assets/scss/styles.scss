@@ -22,7 +22,7 @@ html {
 }
 
 body {
-  background-color: var(--body-background);
+  background-color: var(--body-background)!important;
   position: relative;
   width: 100%;
   overflow-x: hidden;

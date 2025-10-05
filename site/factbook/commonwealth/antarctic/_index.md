@@ -14,14 +14,15 @@ aliases:
 - /antarctic/
 - /antarctic-commonwealth/
 ---
-{{<infobox/country
+{{<infobox
    Name="Commonwealth Antarctica"
-   Type="Commonwealth"
+   Type="[[constituents|Constituent Commonwealth]] of [[Vekllei]]"
    Flag="/svg/flags/antarctic.svg"
    SmallFlag="/svg/flags/4x3/antarctic-4x3.svg"
+   ShowLocator="false"
    Constituents="5"
    Population="118,982"
-   Capital="Helena"
+   Capital="[[Helena]]"
    Area="16,493 km²"
  >}}
 

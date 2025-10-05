@@ -13,14 +13,13 @@ fi: fi fi-soualiga-4x3
 aliases:
 - /soualiga/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Soualiga Republic"
 	 RealName="Island of Saint Martin/Sint Maarten"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/soualiga.svg"
 	 SmallFlag="/svg/flags/4x3/soualiga-4x3.svg"
-	 Locator="/svg/maps/locator/dutch-kalina-locator.svg"
 	 Population="214,249"
 	 Capital="Marigot"
 	 Languages="English, French, Soua Creole"

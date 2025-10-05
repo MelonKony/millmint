@@ -11,12 +11,13 @@ description: The Volcanic-Class is a class of aircraft carrier in service with t
 aliases:
 - /volcanic-class/
 ---
-{{<infobox/machine
+{{<infobox
 	Name="Volcanic-class Fleet Carrier"
 	Class="Volcanic-class"
 	Type="Aircraft carrier"
 	Built="2045-55"
-	HomeStation="Verde"
+	Station="[[NS Verde]] [[Verde]]"
+	Service="[[Maritime Service]]"
 	Crew="1,600"
 	Displacement="60,000 tonnes"
 	Length="300 meters"

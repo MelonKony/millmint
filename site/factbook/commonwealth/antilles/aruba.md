@@ -15,14 +15,13 @@ draft: false
 aliases:
 - /aruba/
 ---
-{{<infobox/country
+{{<infobox
      Name="Aruba Republic"
      RealName="Island of Aruba"
-     Type="Republic"
+     Type="[[republics|Constituent Republic]] of [[Vekllei]]"
      Commonwealth="Antilles"
      Flag="/svg/flags/aruba.svg"
      SmallFlag="/svg/flags/4x3/aruba-4x3.svg"
-     Locator="/svg/maps/locator/abc-locator.svg"
      Population="380,444"
      Capital="Playa"
      Languages="English, Papiamento, Spanish"

@@ -13,14 +13,13 @@ fi: fi fi-bahama-4x3
 aliases:
 - /bahama/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Bahama Republic"
 	 RealName="Island of Grand Bahama"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Lucaya"
 	 Flag="/svg/flags/bahama.svg"
 	 SmallFlag="/svg/flags/4x3/bahama-4x3.svg"
-	 Locator="/svg/maps/locator/lucaya-locator.svg"
 	 Population="80,346"
 	 Capital="Freeport"
 	 Languages="English, Lucayan"

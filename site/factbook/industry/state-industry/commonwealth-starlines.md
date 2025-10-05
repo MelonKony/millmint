@@ -16,13 +16,16 @@ aliases:
 series: industry
 ---
 
- {{<infobox/company
+ {{<infobox
 	  Name="Commonwealth Starlines"
 	  Logo="/svg/logos/starlines.svg"
-	  Type="State"
-	  Parent="Airways"
+	  Type="[[state-industry|State Corporation]] of [[Vekllei]]"
+	  Ministry="[[Ministry of Transport]]"
+	  Parent="[[Commonwealth Airways]]"
 	  Industry="Space Transport"
-	  Headquarters="Ascension"
+	  ShowLocator="true"
+	  LocatorId="ascension"
+	  Headquarters="[[Ascension]]"
 	  Founded="2048"
 	  Employees="1,200"
 	  Traded="CSA"

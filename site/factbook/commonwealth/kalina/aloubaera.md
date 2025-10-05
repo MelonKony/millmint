@@ -13,10 +13,10 @@ fi: fi fi-aloubaera-4x3
 aliases:
 - /aloubaera/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Aloubaera Republic"
 	 RealName="Island of Tobago"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/aloubaera.svg"
 	 SmallFlag="/svg/flags/4x3/aloubaera-4x3.svg"

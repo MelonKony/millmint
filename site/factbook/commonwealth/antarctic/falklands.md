@@ -13,10 +13,10 @@ fi: fi fi-fk-4x3
 aliases:
 - /falklands/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Falklands Republic"
 	 RealName="Archipelago of the Falklands"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Antarctic"
 	 Flag="/svg/flags/falklands.svg"
 	 SmallFlag="/svg/flags/4x3/fk-4x3.svg"

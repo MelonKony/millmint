@@ -12,6 +12,18 @@ description: Air Station Africa is a military air station of the Vekllei Air Ser
 aliases:
 - /as-africa/
 ---
+{{<infobox
+	 Name="AS Africa"
+	 Logo="/svg/crests/air-service.svg"
+	 Type="Naval Air Station of [[Vekllei]]"
+	 Ministry="[[Ministry of Defence]]"
+	 ShowLocator="true"
+	 LocatorId="praia"
+	 Location="[[Praia]]"
+    Operator="[[Armed Forces]]"
+    Residents="[[Air Service]]"
+ >}}
+
 **Air Station Africa** is a [[armed forces|Navy]] air station of the [[Vekllei]] [[Air Service]], located in the republic of [[Praia]].
 
 {{<note table>}}

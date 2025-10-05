@@ -14,14 +14,13 @@ fi: fi fi-rum-4x3
 aliases:
 - /rum/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Rum Republic"
 	 RealName="Islands of San Salvador & Rum Cay"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Lucaya"
 	 Flag="/svg/flags/rum.svg"
 	 SmallFlag="/svg/flags/4x3/rum-4x3.svg"
-	 Locator="/svg/maps/locator/lucaya-locator.svg"
 	 Population="4,910"
 	 Capital="Conception"
 	 Languages="English, Lucayan"

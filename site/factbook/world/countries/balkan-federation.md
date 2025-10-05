@@ -14,7 +14,7 @@ aliases:
 - /balkan/
 series: country
 ---
-{{<infobox/country
+{{<infobox
      Name="FSR Balkans"
      Flag="/svg/flags/4x3/balkan-4x3.svg"
      SmallFlag="/svg/flags/4x3/balkan-4x3.svg"

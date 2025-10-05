@@ -11,12 +11,13 @@ description: The Capricorn-Class is a class of submarine in service with the Vek
 aliases:
 - /capricorn-class/
 ---
-{{<infobox/machine
+{{<infobox
 	Name="Capricorn-class Attack Submarine"
 	Class="Capricorn-class"
 	Type="Attack submarine"
 	Built="2052-present"
-	HomeStation="Oslola"
+	Station="[[NS Oslola]] [[Oslola]]"
+	Service="[[Maritime Service]]"
 	Crew="100"
 	Displacement="7,500 tons (submerged)"
 	Length="95 meters"

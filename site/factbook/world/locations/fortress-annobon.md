@@ -13,6 +13,18 @@ description: Fortress Annobon is a fortress of the Vekllei Armed Forces, located
 aliases:
 - /fortress-annobon/
 ---
+{{<infobox
+	 Name="Fortress Annobon"
+	 Logo="/svg/crests/territorial-service.svg"
+	 Type="Territorial Fortress of [[Vekllei]]"
+	 Ministry="[[Ministry of Defence]]"
+	 ShowLocator="true"
+	 LocatorId="annobon"
+	 Location="[[Annobon]]"
+     Operator="[[Armed Forces]]"
+     Residents="[[Territorial Service]] [[Air Service]]"
+ >}}
+
 **Fortress Annobon** is a fortress of the [[Vekllei]] [[Armed Forces]], located in the republic of [[Annobon]].
 
 {{<note table>}}

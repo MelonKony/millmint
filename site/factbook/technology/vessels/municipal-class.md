@@ -13,12 +13,13 @@ image: /images/fullres/hydrofoil.jpg
 aliases:
 - /municipal-class/
 ---
-{{<infobox/machine
+{{<infobox
 	Name="Municipal-class Hydrofoil"
 	Class="Municipal-class"
 	Type="Hydrofoil"
 	Built="2041-present"
-	HomeStation="Oslola"
+	Station="[[NS Oslola]] [[Oslola]]"
+	Service="[[Littoral Service]]"
 	Crew="20"
 	Displacement="280 tonnes"
 	Length="40 meters"

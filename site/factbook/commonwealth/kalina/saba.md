@@ -13,14 +13,13 @@ fi: fi fi-saba-4x3
 aliases:
 - /saba/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Saba Republic"
 	 RealName="Island of Saba"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/saba.svg"
 	 SmallFlag="/svg/flags/4x3/saba-4x3.svg"
-	 Locator="/svg/maps/locator/dutch-kalina-locator.svg"
 	 Population="12,531"
 	 Capital="The Bottom"
 	 Languages="English, Dutch, Antillean Creole"

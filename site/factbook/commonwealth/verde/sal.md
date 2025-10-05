@@ -13,14 +13,13 @@ fi: fi fi-sal-4x3
 aliases:
 - /sal/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Sal Republic"
 	 RealName="Island of Sal"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/sal.svg"
 	 SmallFlag="/svg/flags/4x3/sal-4x3.svg"
-	 Locator="/svg/maps/locator/verde-locator.svg"
 	 Population="54,494"
 	 Capital="Santa Maria"
 	 Languages="English, Verde Creole, Portuguese"

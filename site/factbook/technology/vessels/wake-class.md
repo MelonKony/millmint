@@ -13,12 +13,13 @@ image: /images/fullres/patrol-launch.jpg
 aliases:
 - /wake-class/
 ---
-{{<infobox/machine
+{{<infobox
 	Name="Wake-class Patrol Motor Launch"
 	Class="Wake-class"
 	Type="Motor Launch"
 	Built="2032-present"
-	HomeStation="Kairi"
+	Station="[[NS Kairi]] [[Kairi]]"
+	Service="[[Littoral Service]]"
 	Crew="1/3"
 	Displacement="50 tonnes"
 	Length="21 meters"

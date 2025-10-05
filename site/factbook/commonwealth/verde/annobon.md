@@ -13,14 +13,13 @@ fi: fi fi-annobon-4x3
 aliases:
 - /annobon/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Annobon Republic"
 	 RealName="Island of Annobon"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/annobon.svg"
 	 SmallFlag="/svg/flags/4x3/annobon-4x3.svg"
-	 Locator="/svg/maps/locator/guinea-locator.svg"
 	 Population="8,302"
 	 Capital="Crescent Point"
 	 Languages="English, Annobonese Creole, Principence"

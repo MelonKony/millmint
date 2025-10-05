@@ -14,12 +14,14 @@ aliases:
 - /orleans-steelworks/
 series: industry
 ---
- {{<infobox/company
+ {{<infobox
 	  Name="Atlantic Department Company"
 	  Logo="/svg/logos/orleans.svg"
-	  Type="Private"
+	  Type="[[private-industry|Private Corporation]] of [[Vekllei]]"
 	  Industry="Steel"
-	  Headquarters="Soualiga"
+	  ShowLocator="true"
+	  LocatorId="soualiga"
+	  Headquarters="[[Soualiga]]"
 	  Founded="2020"
 	  Employees="600"
 	  Traded="ORL"

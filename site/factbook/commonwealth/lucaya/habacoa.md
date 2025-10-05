@@ -13,14 +13,13 @@ fi: fi fi-habacoa-4x3
 aliases:
 - /habacoa/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Habacoa Republic"
 	 RealName="Archipelago of the Andros & Cay Sal Islands"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Lucaya"
 	 Flag="/svg/flags/habacoa.svg"
 	 SmallFlag="/svg/flags/4x3/habacoa-4x3.svg"
-	 Locator="/svg/maps/locator/lucaya-locator.svg"
 	 Population="204,038"
 	 Capital="Kipri"
 	 Languages="English, Lucayan Creole"

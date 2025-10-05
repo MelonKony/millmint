@@ -13,10 +13,10 @@ fi: fi fi-gs-4x3
 aliases:
 - /sude/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Sude Republic"
 	 RealName="Archipelago of the South Georgia & South Sandwich Islands"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Antarctic"
 	 Flag="/svg/flags/sude.svg"
 	 SmallFlag="/svg/flags/4x3/gs-4x3.svg"

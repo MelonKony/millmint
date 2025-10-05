@@ -13,10 +13,10 @@ fi: fi fi-tenerife-4x3
 aliases:
 - /tenerife/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Tenerife Republic"
 	 RealName="Island of Tenerife"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Atlantic"
 	 Flag="/svg/flags/tenerife.svg"
 	 SmallFlag="/svg/flags/4x3/tenerife-4x3.svg"

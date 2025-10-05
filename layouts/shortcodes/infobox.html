@@ -1,0 +1,176 @@
+<!-- layouts/shortcodes/infobox.html -->
+
+<table class="infobox">
+	<!-- Title with optional flag/logo -->
+	<tr>
+		<th colspan="2">
+			{{ if .Get "Logo" }}
+				<span class="fi" style="background-image: url({{ .Get "Logo" }});"></span>
+			{{ else if .Get "SmallFlag" }}
+				<span class="fi" style="background-image: url({{ .Get "SmallFlag" }});"></span>
+			{{ end }}
+			{{ .Get "Name" }}
+		</th>
+	</tr>
+
+	<!-- Real name / subtitle (for countries) -->
+	{{ if .Get "RealName" }}
+	<tr>
+		<td style="text-align: center" colspan="2"><i>{{ .Get "RealName" }}</i></td>
+	</tr>
+	{{ end }}
+
+	<!-- Type indicators -->
+	{{ with .Get "Type" }}
+	<tr>
+		<td style="color: var(--highlight); background-color: var(--highlight-background); text-align: center" colspan="2">
+			{{ . | markdownify }}
+		</td>
+	</tr>
+	{{ end }}
+
+	<!-- Flag image (for countries) -->
+	{{ if .Get "Flag" }}
+	<tr>
+		<td colspan="2"><img src="{{ .Get "Flag" }}"></td>
+	</tr>
+	{{ end }}
+
+	<!-- Logo image (for companies) -->
+	{{ if and (.Get "Logo") (ne (.Get "Type") "[[republics|Constituent Republic]] of [[Vekllei]]") (ne (.Get "Type") "[[constituents|Constituent Commonwealth]] of [[Vekllei]]") }}
+	<tr>
+		<td colspan="2">
+			<img style="height: 5rem; background: transparent;" src="{{ .Get "Logo" }}">
+		</td>
+	</tr>
+	{{ end }}
+
+	<!-- Character image -->
+	{{ if .Get "Image" }}
+	<tr>
+		<td colspan="2">
+			<img style="height: 10rem; background: transparent;" src="{{ .Get "Image" }}">
+		</td>
+	</tr>
+	{{ end }}
+
+	<!-- Locator map (for countries OR if LocatorId specified) -->
+	{{ if or (eq (.Get "Type") "[[republics|Constituent Republic]] of [[Vekllei]]") (eq (.Get "Type") "[[constituents|Constituent Commonwealth]] of [[Vekllei]]") (eq (.Get "Type") "Vekllei") (.Get "LocatorId") }}
+	<tr>
+		<td colspan="2" class="locator-map-container">
+			{{ partial "locator-map.html" . }}
+		</td>
+	</tr>
+	{{ end }}
+
+	<!-- Map image -->
+	{{ if .Get "Map" }}
+	<tr>
+		<td colspan="2"><img src="{{ .Get "Map" }}"></td>
+	</tr>
+	{{ end }}
+
+	<!-- Commonwealth membership -->
+	{{ $commonwealth := .Get "Commonwealth" }}
+	{{ if $commonwealth }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">
+			Part of the 
+			<a style="color: var(--color-blue)" href="/{{ lower $commonwealth }}/">
+				<span class="fi fi-{{ lower $commonwealth }}-4x3"></span> {{ $commonwealth }} Commonwealth
+			</a>
+		</td>
+	</tr>
+	{{ end }}
+
+	<!-- Define special formatting rules for specific fields -->
+	{{ $specialFields := dict
+		"Traded" (dict "prefix" "<span class='fi fi-commsec fis'></span> " "link" "/commsec/")
+		"Revenue" (dict "prefix" "AK ✾ " "link" "/bulletin/accounted-revenue/")
+		"Age" (dict "icon" "📅")
+		"Birthday" (dict "icon" "🎂")
+		"Occupation" (dict "icon" "💼")
+		"Residence" (dict "icon" "🏠")
+		"Likes" (dict "icon" "❤️")
+		"Dislikes" (dict "icon" "💔")
+		"Associates" (dict "icon" "🤝")
+	}}
+
+	<!-- Reserved field names that shouldn't appear as rows -->
+	{{ $reservedFields := slice "Name" "Logo" "SmallFlag" "Type" "Flag" "Image" "Map" "Commonwealth" "RealName" "Incorporation" "LocatorId" "LocatorScale" "ShowLocator" }}
+
+	<!-- Dynamically render all other parameters -->
+	{{ range $key, $value := .Params }}
+		{{ if and $value (not (in $reservedFields $key)) }}
+			{{ $special := index $specialFields $key }}
+			
+			<!-- Process wikilinks inline -->
+			{{ $processed := $value }}
+			{{ $wikiLinkPattern := `\[\[([^|\]]*(?:&[^|\]]*)*[^|\]]*)(?:\|([^\]]*(?:&[^\]]*)*[^\]]*))?\]\]` }}
+			{{ range $matches := findRE $wikiLinkPattern (string $value) }}
+				{{ $path := trim (index (findRE `\[\[([^|\]]*(?:&[^|\]]*)*[^|\]]*)` $matches) 0) "[[" }}
+				{{ $display := index (findRE `\|([^\]]*(?:&[^\]]*)*[^\]]*)` $matches) 0 }}
+				{{ $display = trim $display "|" }}
+				{{ if not $display }}
+					{{ $display = $path }}
+				{{ end }}
+				
+				{{ $linkedPage := $.Site.GetPage $path }}
+				{{ if $linkedPage }}
+					{{ $republicName := lower (path.Base $linkedPage.RelPermalink) }}
+					{{ if $linkedPage.Params.fi }}
+						{{ if $linkedPage.Params.rgb }}
+							{{ $replacement := printf `<a class="slink" data-republic="%s" style="color: rgb(%v); background: color-mix(in srgb, rgb(%v) 10%%, transparent);" href="%s"><span class="%s"></span> %s</a>`
+								$republicName
+								$linkedPage.Params.rgb
+								$linkedPage.Params.rgb
+								$linkedPage.RelPermalink
+								$linkedPage.Params.fi
+								(default $linkedPage.Title $display) }}
+							{{ $processed = replace $processed $matches $replacement }}
+						{{ else }}
+							{{ $replacement := printf `<a class="slink" data-republic="%s" style="color: var(--color-%v); background: color-mix(in srgb, var(--color-%v) 10%%, transparent);" href="%s"><span class="%s"></span> %s</a>`
+								$republicName
+								$linkedPage.Params.color
+								$linkedPage.Params.color
+								$linkedPage.RelPermalink
+								$linkedPage.Params.fi
+								(default $linkedPage.Title $display) }}
+							{{ $processed = replace $processed $matches $replacement }}
+						{{ end }}
+					{{ else }}
+						{{ $replacement := printf `<a data-republic="%s" href="%s">%s</a>` $republicName $linkedPage.RelPermalink (default $linkedPage.Title $display) }}
+						{{ $processed = replace $processed $matches $replacement }}
+					{{ end }}
+				{{ else }}
+					{{ $processed = replace $processed $matches $display }}
+				{{ end }}
+			{{ end }}
+			
+		<tr>
+			<td style="font-weight: 500; width: 33%;">
+				{{ if $special }}
+					{{ if $special.icon }}<span class="navicon">{{ $special.icon }}</span> {{ end }}
+					{{ if $special.link }}<a href="{{ $special.link }}">{{ $key }}</a>{{ else }}{{ $key }}{{ end }}
+				{{ else }}
+					{{ $key }}
+				{{ end }}
+			</td>
+			<td>
+				{{ if $special }}{{ if $special.prefix }}{{ $special.prefix | safeHTML }}{{ end }}{{ end }}
+				{{ $processed | safeHTML }}
+			</td>
+		</tr>
+		{{ end }}
+	{{ end }}
+
+	<!-- Incorporation type -->
+	{{ $incorporation := .Get "Incorporation" }}
+	{{ if $incorporation }}
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">
+			{{ $incorporation }}
+		</td>
+	</tr>
+	{{ end }}
+</table>

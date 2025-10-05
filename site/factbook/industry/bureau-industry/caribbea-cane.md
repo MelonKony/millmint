@@ -13,12 +13,14 @@ aliases:
 - /caribbea-cane/
 series: industry
 ---
-{{<infobox/company
+{{<infobox
 	Name="Caribbea Cane"
 	Logo="/svg/logos/caribbea-cane.svg"
-	Type="Bureau"
+	Type="[[bureau-industry|Industrial Bureau]] of [[Vekllei]]"
 	Industry="Agriculture & Fermentation"
-	Headquarters="Praia Republic, Verde"
+	ShowLocator="true"
+	LocatorId="praia"
+	Headquarters="[[Praia]]"
 	Founded="2025"
 	Employees="22,000"
 	Traded="CBC"

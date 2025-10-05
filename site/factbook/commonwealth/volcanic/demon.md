@@ -13,10 +13,10 @@ fi: fi fi-demon-4x3
 aliases:
 - /demon/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Demon Republic"
 	 RealName="Island of Jan Mayen"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Flag="/svg/flags/demon.svg"
 	 SmallFlag="/svg/flags/4x3/demon-4x3.svg"
 	 Population="13,947"

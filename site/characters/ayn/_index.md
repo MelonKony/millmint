@@ -13,7 +13,7 @@ description: Ayn is a longtime associate of Baron and a maternal figure to Tzipo
 aliases:
 - /ayn/
 ---
-{{<infobox/character
+{{<infobox
 	Name="Ayn Lai-Lebedev"
     Image="/images/mastheads/characters/portraits/ayn.png"
     Age="41"

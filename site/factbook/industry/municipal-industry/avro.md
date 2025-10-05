@@ -15,12 +15,14 @@ aliases:
 - /avro/
 series: industry
 ---
-{{<infobox/company
+{{<infobox
 	 Name="Avro"
 	 Logo="/svg/logos/avro.svg"
-	 Type="Municipal"
+	 Type="[[municipal-industry|Municipal Corporation]] of [[Vekllei]]"
 	 Industry="Automotive"
-	 Headquarters="karu"
+	 ShowLocator="true"
+	 LocatorId="karu"
+	 Headquarters="[[Karu]]"
 	 Founded="1835"
 	 Employees="1,640"
 	 Traded="AVR"

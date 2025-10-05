@@ -13,14 +13,13 @@ fi: fi fi-grenadines-4x3
 aliases:
 - /grenadines/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Grenadines Republic"
 	 RealName="Archipelago of the Grenadines"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/grenadines.svg"
 	 SmallFlag="/svg/flags/4x3/grenadines.svg"
-	 Locator="/svg/maps/locator/grenadines-locator.svg"
 	 Population="43,760"
 	 Capital="Port Elizabeth"
 	 Languages="English, Vincy Creole"

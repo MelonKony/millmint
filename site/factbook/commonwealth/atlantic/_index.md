@@ -14,9 +14,9 @@ aliases:
 - /atlantic/
 - /atlantic-commonwealth/
 ---
-{{<infobox/country
+{{<infobox
    Name="Atlantic Commonwealth"
-   Type="Commonwealth"
+   Type="[[constituents|Constituent Commonwealth]] of [[Vekllei]]"
    ShowLocator="false"
    Flag="/svg/flags/atlantic.svg"
    SmallFlag="/svg/flags/4x3/atlantic-4x3.svg"

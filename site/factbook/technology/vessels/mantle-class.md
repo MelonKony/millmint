@@ -13,12 +13,13 @@ image: /images/fullres/submarine.jpg
 aliases:
 - /mantle-class/
 ---
-{{<infobox/machine
+{{<infobox
 	Name="Mantle-class Ballistic Missile Submarine"
 	Class="Mantle-class"
 	Type="Ballistic Missile Submarine (SSBN)"
 	Built="2054-present"
-	HomeStation="Oslola"
+	Station="[[NS Oslola]] [[Oslola]]"
+	Service="[[Maritime Service]]"
 	Crew="140"
 	Displacement="18,000 tons (submerged)"
 	Length="170 meters"

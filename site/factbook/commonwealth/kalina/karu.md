@@ -13,14 +13,13 @@ fi: fi fi-karu-4x3
 aliases:
 - /karu/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Karu Republic"
 	 RealName="Island of Guadeloupe"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/karu.svg"
 	 SmallFlag="/svg/flags/4x3/karu-4x3.svg"
-	 Locator="/svg/maps/locator/karu-locator.svg"
 	 Population="2,246,392"
 	 Capital="Pitera"
 	 Languages="English, French, Antillean Creole"

@@ -13,10 +13,10 @@ fi: fi fi-benahoare-4x3
 aliases:
 - /benahoare/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Benahoare Republic"
 	 RealName="Island of La Palma"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Atlantic"
 	 Flag="/svg/flags/benahoare.svg"
 	 SmallFlag="/svg/flags/4x3/benahoare-4x3.svg"

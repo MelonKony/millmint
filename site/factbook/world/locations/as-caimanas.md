@@ -12,6 +12,18 @@ description: Air Station Caimanas is a military air station of the Vekllei Air S
 aliases:
 - /as-caimanas/
 ---
+{{<infobox
+	 Name="AS Caimanas"
+	 Logo="/svg/crests/air-service.svg"
+	 Type="Naval Air Station of [[Vekllei]]"
+	 Ministry="[[Ministry of Defence]]"
+	 ShowLocator="true"
+	 LocatorId="caimanas"
+	 Location="[[Caimanas]]"
+    Operator="[[Armed Forces]]"
+    Residents="[[Air Service]]"
+ >}}
+
 **Air Station Caimanas** is a [[armed forces|Navy]] air station of the [[Vekllei]] [[Air Service]], located in the republic of [[Caimanas]].
 
 {{<note table>}}

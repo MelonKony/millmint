@@ -11,12 +11,13 @@ description: The Hera-Class is a class of minelaying warship in service with the
 aliases:
 - /hera-class/
 ---
-{{<infobox/machine
+{{<infobox
 	Name="Hera-class Minelayer"
 	Class="Hera-class"
 	Type="Minelayer/Minesweeper"
 	Built="2055-present"
-	HomeStation="Java"
+	Station="[[NS Java]] [[Java]]"
+	Service="[[Maritime Service]]"
 	Crew="140"
 	Displacement="4,000 tonnes"
 	Length="115 meters"

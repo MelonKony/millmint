@@ -15,12 +15,14 @@ aliases:
 series: industry
 ---
 
-{{<infobox/company
+{{<infobox
 	  Name="General Reactor"
 	  Logo="/svg/logos/general-reactor.svg"
-	  Type="Bureau"
+	  Type="[[bureau-industry|Industrial Bureau]] of [[Vekllei]]"
 	  Industry="Nuclear"
-	  Headquarters="Oslola"
+	  ShowLocator="true"
+	  LocatorId="oslola"
+	  Headquarters="[[Oslola]]"
 	  Founded="2017"
 	  Employees="4,800"
 	  Traded="GNR"

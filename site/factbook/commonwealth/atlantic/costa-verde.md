@@ -13,14 +13,13 @@ fi: fi fi-costa-verde-4x3
 aliases:
 - /costa-verde/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Verde Republic"
 	 RealName="Island of Sao Miguel"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Atlantic"
 	 Flag="/svg/flags/costa-verde.svg"
 	 SmallFlag="/svg/flags/4x3/costa-verde-4x3.svg"
-	 Locator="/svg/maps/locator/azores-locator.svg"
 	 Population="246,820"
 	 Capital="Green Cape"
 	 Languages="English, Portuguese, Sinhala"

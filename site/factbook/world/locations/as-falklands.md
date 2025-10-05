@@ -12,6 +12,18 @@ description: Air Station Falklands is a military air station of the Vekllei Air 
 aliases:
 - /as-falklands/
 ---
+{{<infobox
+	 Name="AS Falklands"
+	 Logo="/svg/crests/air-service.svg"
+	 Type="Naval Air Station of [[Vekllei]]"
+	 Ministry="[[Ministry of Defence]]"
+	 ShowLocator="true"
+	 LocatorId="falklands"
+	 Location="[[Falklands]]"
+     Operator="[[Armed Forces]]"
+     Residents="[[Air Service]]"
+ >}}
+ 
 **Air Station Falklands** is a [[armed forces|Navy]] air station of the [[Vekllei]] [[Air Service]], located in the republic of [[Falklands]].
 
 {{<note table>}}

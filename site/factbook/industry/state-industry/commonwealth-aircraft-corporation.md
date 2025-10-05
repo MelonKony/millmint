@@ -15,14 +15,16 @@ aliases:
 - /CAC/
 series: industry
 ---
-{{<infobox/company
+{{<infobox
 	 Name="Commonwealth Aircraft"
 	 Logo="/svg/logos/cac.svg"
-	 Type="State"
-	 Ministry="Commons"
-	 Bureau="Aerospace"
+	 Type="[[state-industry|State Corporation]] of [[Vekllei]]"
+	 Ministry="[[Ministry of the Commons]]"
+	 Parent="[[Bureau of Aerospace]]"
 	 Industry="Aerospace Manufacturing"
-	 Headquarters="Oslola"
+	 ShowLocator="true"
+	 LocatorId="oslola"
+	 Headquarters="[[Oslola]]"
 	 Founded="2025"
 	 Employees="7,500"
 	 Traded="CAC"

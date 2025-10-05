@@ -15,7 +15,7 @@ aliases:
 series: vehicles
 ---
 
-{{<infobox/machine
+{{<infobox
 	Name="Municipal Police Interceptor"
 	Class="GTV-P"
 	Type="Police Vehicle"

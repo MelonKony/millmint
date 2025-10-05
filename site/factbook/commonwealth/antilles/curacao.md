@@ -15,14 +15,13 @@ draft: false
 aliases:
 - /curacao/
 ---
-{{<infobox/country
+{{<infobox
      Name="Curacao Republic"
      RealName="Island of Curacao"
-     Type="Republic"
+     Type="[[republics|Constituent Republic]] of [[Vekllei]]"
      Commonwealth="Antilles"
      Flag="/svg/flags/curacao.svg"
      SmallFlag="/svg/flags/4x3/curacao-4x3.svg"
-     Locator="/svg/maps/locator/abc-locator.svg"
      Population="278,384"
      Capital="Korsou"
      Languages="English, Papiamento, Spanish"

@@ -11,12 +11,13 @@ description: The Prosperity-Class is a class of cruiser in service with the Vekl
 aliases:
 - /prosperity-class/
 ---
-{{<infobox/machine
+{{<infobox
 	Name="Prosperity-class Aircraft Cruiser"
 	Class="Prosperity-class"
 	Type="Aircraft Cruiser"
 	Built="2032-42"
-	HomeStation="Java"
+	Station="[[NS Java]] [[Java]]"
+	Service="[[Maritime Service]]"
 	Crew="900"
 	Displacement="30,000 tonnes"
 	Length="240 meters"

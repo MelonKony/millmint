@@ -13,14 +13,13 @@ fi: fi fi-providence-4x3
 aliases:
 - /providence/
 ---
-{{<infobox/country
+{{<infobox
      Name="Providence Republic"
      RealName="Island of Providencia"
-     Type="Republic"
+     Type="[[republics|Constituent Republic]] of [[Vekllei]]"
      Commonwealth="Antilles"
      Flag="/svg/flags/providence.svg"
      SmallFlag="/svg/flags/4x3/providence-4x3.svg"
-     Locator="/svg/maps/locator/abakoa-locator.svg"
      Population="8,812"
      Capital="Freetown"
      Languages="English, Abakoan Creole"

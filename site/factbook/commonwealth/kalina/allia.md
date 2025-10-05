@@ -13,10 +13,10 @@ fi: fi fi-ms-4x3
 aliases:
 - /allia/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Allia Republic"
 	 RealName="Island of Montserrat"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/allia.svg"
 	 SmallFlag="/svg/flags/4x3/ms-4x3.svg"

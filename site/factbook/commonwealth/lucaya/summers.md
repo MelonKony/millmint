@@ -15,16 +15,15 @@ fi: fi fi-summers-4x3
 aliases:
 - /summers/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Summers Republic"
 	 RealName="Island of Bermuda"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Lucaya"
 	 Flag="/svg/flags/summers.svg"
 	 SmallFlag="/svg/flags/4x3/summers-4x3.svg"
 	 Population="112,830"
 	 Capital="Parliament"
-	 Locator="/svg/maps/locator/summers-locator.svg"
 	 Map="/svg/maps/summers.png"
 	 Languages="English"
 	 Area="53.2 km²"

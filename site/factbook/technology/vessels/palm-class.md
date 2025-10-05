@@ -11,12 +11,13 @@ description: The Nike-Class is a class of anti-submarine patrol ship in service 
 aliases:
 - /palm-class/
 ---
-{{<infobox/machine
+{{<infobox
 	Name="Palm"
 	Class="Palm-class"
 	Type="Submarine Chaser"
 	Built="2026-36"
-	HomeStation="Java"
+	Station="[[NS Java]] [[Java]]"
+	Service="[[Maritime Service]]"
 	Crew="85"
 	Displacement="1,500 tonnes"
 	Length="80 meters"

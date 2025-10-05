@@ -16,12 +16,14 @@ aliases:
 series: industry
 ---
 
-{{<infobox/company
+{{<infobox
 	  Name="Common Gemstone"
 	  Logo="/svg/logos/gem.svg"
-	  Type="Bureau"
+	  Type="[[bureau-industry|Industrial Bureau]] of [[Vekllei]]"
 	  Industry="Precious stones"
-	  Headquarters="Kala"
+	  ShowLocator="true"
+	  LocatorId="kala"
+	  Headquarters="[[Kala]]"
 	  Founded="2032"
 	  Employees="3,020"
 	  Traded="GEM"

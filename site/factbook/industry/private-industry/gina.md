@@ -15,12 +15,14 @@ aliases:
 series: industry
 ---
 
- {{<infobox/company
+ {{<infobox
 	  Name="Gina"
 	  Logo="/svg/logos/gina.svg"
-	  Type="Private"
+	  Type="[[private-industry|Private Corporation]] of [[Vekllei]]"
 	  Industry="Bicycles & mopeds"
-	  Headquarters="Oslola"
+	  ShowLocator="true"
+	  LocatorID="oslola"
+	  Headquarters="[[Oslola]]"
 	  Founded="1899"
 	  Employees="2,410"
 	  Traded="GNA"

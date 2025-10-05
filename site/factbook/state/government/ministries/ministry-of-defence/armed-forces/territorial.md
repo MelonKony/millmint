@@ -102,8 +102,8 @@ Policy is to have a standing army 35,000 strong, but Rifles regiments are activa
   * 28th Rifles Battalion **300** [[Fortress Aruba]] [[Aruba]]
   * 29th Rifles Battalion **300** [[Fortress Aruba]] [[Aruba]]
   * 30th Rifles Battalion **300** **Naval Station Curacao** [[Curacao]]
-* 11th Candle Guards Regiment [[Fortress Orient]]  [[Caicos]]
-  * 31st Rifles Battalion **300** [[Fortress Orient]] [[Caicos]]
+* 11th Candle Guards Regiment [[Fortress Occident]]  [[Caicos]]
+  * 31st Rifles Battalion **300** [[Fortress Occident]] [[Caicos]]
   * 32nd Rifles Battalion **300** **Conch Barracks** [[Conch]]
   * 33rd Rifles Battalion **300** **Naval Station Summers** [[Summers]]
 * 12th Meteor Guards Regiment  [[Fortress Meteor]]  Flores
@@ -115,8 +115,8 @@ Policy is to have a standing army 35,000 strong, but Rifles regiments are activa
 {{<note>}}
 **Commonwealth Rifles** (8,000)
 
-* 13th Lucayan Rifles [[Fortress Orient]] [[Caicos]]
-  * 37th Rifles Battalion **300** [[Fortress Orient]] [[Caicos]]
+* 13th Lucayan Rifles [[Fortress Occident]] [[Caicos]]
+  * 37th Rifles Battalion **300** [[Fortress Occident]] [[Caicos]]
   * 38th Rifles Battalion **300** **Habacoan Barracks** [[Habacoa]]
   * 39th Rifles Battalion **300** **Nema Barracks** Nema
 * 14th Verden Rifles [[Fortress Praia]] [[Praia]]

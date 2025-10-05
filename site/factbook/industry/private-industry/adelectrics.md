@@ -15,12 +15,14 @@ aliases:
 series: industry
 ---
 
- {{<infobox/company
+ {{<infobox
 	  Name="Adelectrics"
 	  Logo="/svg/logos/adelectrics.svg"
-	  Type="Private"
+	  Type="[[private-industry|Private Corporation]] of [[Vekllei]]"
 	  Industry="Electronics"
-	  Headquarters="Santes"
+	  ShowLocator="true"
+	  LocatorId="santes"
+	  Headquarters="[[Santes]]"
 	  Founded="2044"
 	  Employees="16"
 	  Revenue="24 million"

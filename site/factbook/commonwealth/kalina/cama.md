@@ -13,14 +13,13 @@ fi: fi fi-cama-4x3
 aliases:
 - /cama/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Cama Republic"
 	 RealName="Island of Grenada"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/cama.svg"
 	 SmallFlag="/svg/flags/4x3/cama-4x3.svg"
-	 Locator="/svg/maps/locator/gr.png"
 	 Population="434,820"
 	 Capital="Assumpción"
 	 Languages="English, Cama Creole, French"

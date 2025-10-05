@@ -14,7 +14,7 @@ aliases:
 - /fra/
 series: country
 ---
-{{<infobox/country
+{{<infobox
      Name="Federal Republic of the Americas"
      Flag="/svg/flags/4x3/fra-4x3.svg"
      SmallFlag="/svg/flags/4x3/fra-4x3.svg"

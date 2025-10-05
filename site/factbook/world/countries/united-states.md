@@ -14,7 +14,7 @@ aliases:
 - /us/
 series: country
 ---
-{{<infobox/country
+{{<infobox
      Name="United States of America"
      Flag="/svg/flags/4x3/us-4x3.svg"
      SmallFlag="/svg/flags/4x3/us-4x3.svg"

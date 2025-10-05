@@ -13,14 +13,13 @@ fi: fi fi-abakoa-4x3
 aliases:
 - /abakoa/
 ---
-{{<infobox/country
+{{<infobox
      Name="Abakoa Republic"
      RealName="Island of San Andrés"
-     Type="Republic"
+     Type="[[republics|Constituent Republic]] of [[Vekllei]]"
      Commonwealth="Antilles"
      Flag="/svg/flags/abakoa.svg"
      SmallFlag="/svg/flags/4x3/abakoa-4x3.svg"
-     Locator="/svg/maps/locator/abakoa-locator.svg"
      Population="86,410"
      Capital="Sara"
      Languages="English, Abakoan Creole"

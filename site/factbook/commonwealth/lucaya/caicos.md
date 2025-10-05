@@ -13,14 +13,13 @@ fi: fi fi-caicos-4x3
 aliases:
 - /caicos/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Caicos Republic"
 	 RealName="Archipelago of the Turks & Caicos Islands"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Lucaya"
 	 Flag="/svg/flags/caicos.svg"
 	 SmallFlag="/svg/flags/4x3/caicos-4x3.svg"
-	 Locator="/svg/maps/locator/lucaya-locator.svg"
 	 Population="280,448"
 	 Capital="Grand Turk"
 	 Languages="English, Arawakan, Lucayan"
@@ -43,7 +42,7 @@ Both cities have airports capable of receiving jets, and Provo is connected to i
 <details open>
   <summary>Points of Interest</summary>
 
-* **[[Fortress Orient]]**: Large service station of the [[territorial|Territorial Services]].
+* **[[Fortress Occident]]**: Large service station of the [[territorial|Territorial Services]].
 * **Jet Works**: Aircraft manufacturer specialising in small and medium-sized specialised jet aircraft as part of [[Atlantic Works]].
 * **Caicos University**: Affiliated campus of the Commonwealth University of the West Indies.
 * **Innumerable Beaches, Reefs, Cays**: Caicos is famous for its beaches, clear water, and coral reefs. Few foreign tourists make it there, so visitors can often have a whole beach to themselves.

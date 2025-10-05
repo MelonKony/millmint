@@ -13,14 +13,13 @@ fi: fi fi-bb-4x3
 aliases:
 - /barbados/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Barbados Republic"
 	 RealName="Island of Barbados"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Kalina"
 	 Flag="/svg/flags/barbados.svg"
 	 SmallFlag="/svg/flags/4x3/bb-4x3.svg"
-	 Locator="/svg/maps/locator/bb-locator.png"
 	 Population="1,420,421"
 	 Capital="Indian Bridge"
 	 Languages="English, Bajan Creole"

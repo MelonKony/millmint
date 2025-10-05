@@ -15,7 +15,7 @@ aliases:
 series: vehicles
 ---
 
-{{<infobox/machine
+{{<infobox
 	Name="Commando Police Armoured Car"
 	Class="CMD-Police"
 	Type="Armoured Police Vehicle"

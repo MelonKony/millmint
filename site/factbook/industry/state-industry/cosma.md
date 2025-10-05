@@ -16,14 +16,16 @@ aliases:
 series: industry
 ---
 
-{{<infobox/company
+{{<infobox
 	 Name="Cosma"
 	 Logo="/svg/logos/cosma.svg"
-	 Type="State"
-	 Ministry="Culture"
-	 Bureau="Post"
+	 Type="[[state-industry|State Corporation]] of [[Vekllei]]"
+	 Ministry="[[Ministry of Culture]]"
+	 Parent="[[Bureau of Post and Telecommunications]]"
 	 Industry="Telecommunications"
-	 Headquarters="Summers"
+	 ShowLocator="true"
+	 LocatorId="summers"
+	 Headquarters="[[Summers]]"
 	 Founded="2020"
 	 Employees="18,605"
 	 Traded="CMA"

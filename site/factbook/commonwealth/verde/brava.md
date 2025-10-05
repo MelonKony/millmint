@@ -15,14 +15,13 @@ draft: false
 aliases:
 - /brava/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Brava Republic"
 	 RealName="Island of Brava"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Verde"
 	 Flag="/svg/flags/brava.svg"
 	 SmallFlag="/svg/flags/4x3/brava-4x3.svg"
-	 Locator="/svg/maps/locator/verde-locator.svg"
 	 Population="15,031"
 	 Capital="Nova Sintra"
 	 Languages="English, Verde Creole, Portuguese"

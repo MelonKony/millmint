@@ -13,6 +13,17 @@ description: The National Levantine Theological University is the largest theolo
 aliases:
 - /nltu/
 ---
+{{<infobox
+	 Name="National Levantine Theological University"
+	 Logo="/svg/logos/nltu.svg"
+	 Type="Independent Collegial University"
+	 ShowLocator="true"
+	 LocatorId="sal"
+	 Location="[[Sal]]"
+     Employees="5,500"
+     Students="6,000"
+ >}}
+
 The **National Levantine Theological University**, called the *NLTU* or *The College of the Mount* is the largest theological research university in [[Vekllei]], located in the republic of [[Sal]]. It is a multi-faith institution specialising in early Abrahamic faiths and levantine theology, and a number of specialist schools.
 
 The campus of the NLTU is located on and around Monte Curral, and at its peak is its central gardens and reading area. The school buildings step down from the peak in a radial fashion, and are generally divided by religion. Although it has a keen theological focus, the NLTU is a secular institution and is administered by a council from all schools.

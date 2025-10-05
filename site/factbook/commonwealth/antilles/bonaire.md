@@ -15,14 +15,13 @@ draft: false
 aliases:
 - /bonaire/
 ---
-{{<infobox/country
+{{<infobox
      Name="Bonaire Republic"
      RealName="Island of Bonaire"
-     Type="Republic"
+     Type="[[republics|Constituent Republic]] of [[Vekllei]]"
      Commonwealth="Antilles"
      Flag="/svg/flags/bonaire.svg"
      SmallFlag="/svg/flags/4x3/bonaire-4x3.svg"
-     Locator="/svg/maps/locator/abc-locator.svg"
      Population="40,493"
      Capital="Coral"
      Languages="English, Papiamento, Spanish"

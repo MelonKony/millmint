@@ -15,14 +15,13 @@ draft: false
 aliases:
 - /caimanas/
 ---
-{{<infobox/country
+{{<infobox
      Name="Caimanas Republic"
      RealName="Archipelago of the Cayman Islands"
-     Type="Republic"
+     Type="[[republics|Constituent Republic]] of [[Vekllei]]"
      Commonwealth="Antilles"
      Flag="/svg/flags/caimanas.svg"
      SmallFlag="/svg/flags/4x3/caimanas-4x3.svg"
-     Locator="/svg/maps/locator/caimanas-locator.svg"
      Population="412,830"
      Capital="Tortuga"
      Languages="English, Caimanas English"

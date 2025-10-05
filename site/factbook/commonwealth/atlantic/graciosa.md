@@ -13,14 +13,13 @@ fi: fi fi-graciosa-4x3
 aliases:
 - /graciosa/
 ---
-{{<infobox/country
+{{<infobox
 	 Name="Graciosa Republic"
 	 RealName="Island of Graciosa"
-	 Type="Republic"
+	 Type="[[republics|Constituent Republic]] of [[Vekllei]]"
 	 Commonwealth="Atlantic"
 	 Flag="/svg/flags/graciosa.svg"
 	 SmallFlag="/svg/flags/4x3/graciosa-4x3.svg"
-	 Locator="/svg/maps/locator/azores-locator.svg"
 	 Population="62,745"
 	 Capital="Dismas"
 	 Languages="English, Portuguese"
