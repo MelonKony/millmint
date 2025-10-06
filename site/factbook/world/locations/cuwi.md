@@ -81,7 +81,7 @@ Although CUWI maintains a number of major constituent general universities, many
 * **Salvador Research Centre** ([[Rum]]) -- Marine science, reef research
 * **Summers University** ([[Summers]]) -- Deep-sea research, Gulf Stream studies  
 * **Acklins Farm School** (Yabaque) -- Urban gardening, hydroponics, remote medicine  
-* **Yuma Arts Academy** (Yuma) -- Creole literature, painting, fine arts
+* **Yuma Arts Academy** ([[Yuma]]) -- Creole literature, painting, fine arts
 
 * **Allia Polytechnic** ([[Allia]]) -- Volcanology
 * **Aloi Technical School** ([[Aloi]]) -- Oil logistics, historic preservation  

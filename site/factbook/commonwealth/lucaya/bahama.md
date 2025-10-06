@@ -35,7 +35,7 @@ Today, Bahama plays an outsized role in Lucayan life. It is highly developed, wi
 
 Bahama is the industrial heart of the Lucayan archipelago, and conducts significant trade with the United States and neighbouring Cuba and Hispaniola. The [[Commonwealth Oil]] Free Bunkering Terminal is the largest in the Western hemisphere and represents a primary mechanism of foreign oil export in Vekllei. The terminal has an oil refinery attached, mostly processing petroleum for specialised uses from other Vekllei refineries. The city of Freeport has a sophisticated port and automatic commercial shipyard, with a drydock that constructs many Commonwealth-built commercial vessels. It is also home to the largest cement plant in western Vekllei.
 
-Bahama is also a gateway to the Vekllei market for Americans due to its history and proximity to the Floridian coast. Many foreign businesses operate in Bahama, mostly staffed by foreign workers. It is second only to Nema in terms of trade with the Americas. There are several managed timber plantations across the main island, which account for ten percent of Commonwealth supply.
+Bahama is also a gateway to the Vekllei market for Americans due to its history and proximity to the Floridian coast. Many foreign businesses operate in Bahama, mostly staffed by foreign workers. It is second only to [[Nassau]] in terms of trade with the Americas. There are several managed timber plantations across the main island, which account for ten percent of Commonwealth supply.
 
 {{<note table>}}
 **Climate**

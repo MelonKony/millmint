@@ -38,3 +38,13 @@ series: industry
 CL is about the 16th largest shipping company in the world, and has a fleet of over 150 cargo ships. Of these, 32 are bulk carriers, 30 are rail RO/RO vessels, 22 are container carriers, 18 are service or special-purpose vessels, and five are barges. Its home port is in Dohyo, [[Oslola]], although the company has a major presence in [[Cama]] at the headquarters of [[Atlantis]] as well.
 
 The line specialises in roll-on, roll-off palletised rail transport that is common in the Vekllei industrial logistics network, particularly across the Vekllei Caribbean. It also traffics substantial raw commodities like oil and bauxite. The oceangoing CL fleet is almost entirely nuclearised, and boasts among the highest average cruising speeds of any transoceanic shipping line.
+
+{{<note table>}}
+**Subsidiaries of Commonwealth Lines**
+
+* Ferry Lucaya
+* Ferry Kalina
+* Veletia Lines
+* Transatlantic Lines
+* Transatlantic Shipping Company
+{{</note>}}

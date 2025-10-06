@@ -67,6 +67,7 @@ Oil is primarily used as a feedstock for industries in Vekllei, and has no mater
 
 **Auxiliary Facilities**
 * Commonwealth Oil Central Control [[Sal]]
+* Commonwealth Oil Free Bunkering Terminal [[Bahama]]
 * Arctic Fleet Base [[Helvasia]]
 * Romsa Gas Research Laboratories [[Helvasia]]
 

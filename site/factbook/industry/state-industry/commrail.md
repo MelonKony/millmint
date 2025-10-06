@@ -222,7 +222,7 @@ The federal structure allows for remarkable operational diversity -- from cable 
   - *Conch Municipal Tramways*
 - [[Curateo]]
   - *Curateo Central Railway*
-- [[Grand Bahama]]
+- [[Bahama]]
   - *Freeport International Railway*
   - *Coastal Railway*
 - [[Guanima]]
@@ -237,9 +237,9 @@ The federal structure allows for remarkable operational diversity -- from cable 
   - *Hope Town Lighthouse Express*
 - [[Mayaguana]]
   - *Abraham's Bay Railway*
-- [[Providence]]
+- [[Nassau]]
   - *Nassau Metropolitan Railway*
-  - *Paradise Island Resort Express*
+  - *Paradise Island Express*
   - *Cable Beach International Line*
   - *Atlantis & Marina Express*
 - [[Rum]]

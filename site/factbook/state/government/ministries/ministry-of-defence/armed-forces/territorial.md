@@ -118,7 +118,7 @@ Policy is to have a standing army 35,000 strong, but Rifles regiments are activa
 * 13th Lucayan Rifles [[Fortress Occident]] [[Caicos]]
   * 37th Rifles Battalion **300** [[Fortress Occident]] [[Caicos]]
   * 38th Rifles Battalion **300** **Habacoan Barracks** [[Habacoa]]
-  * 39th Rifles Battalion **300** **Nema Barracks** Nema
+  * 39th Rifles Battalion **300** **Nassau Barracks** [[Nassau]]
 * 14th Verden Rifles [[Fortress Praia]] [[Praia]]
   * 40th Rifles Battalion **300** **Viana Barracks** [[Viana]]
   * 41st Rifles Battalion **300** [[Fortress Praia]] [[Praia]]

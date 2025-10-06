@@ -564,6 +564,10 @@
   background-image: url("/svg/flags/4x3/mv-4x3.svg");
 }
 
+.fi-nassau-4x3 {
+  background-image: url("/svg/flags/4x3/nassau-4x3.svg");
+}
+
 .fi-oceans-4x3 {
   background-image: url("/svg/flags/4x3/oceans-4x3.svg");
 }
@@ -662,6 +666,10 @@
 
 .fi-volcanic-4x3 {
   background-image: url("/svg/flags/4x3/volcanic-4x3.svg");
+}
+
+.fi-yuma-4x3 {
+  background-image: url("/svg/flags/4x3/yuma-4x3.svg");
 }
 
 .fi-rail-branch.fis {

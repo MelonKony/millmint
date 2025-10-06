@@ -27,7 +27,7 @@ aliases:
 	 Accession="1930, as part of the Alford Agreement"
  >}}
 
-The <span class="fi fi-curateo-4x3"></span> **Curateo Republic** is a [constituent republic](/republics/) of [[Vekllei]] in the middle of the Lucayan archipelago. It comprises 365 cays, islands and islets scattered along a gentle curve adjacent to the Cigateo, Guanima and Yuma republics. These cays and islets become larger as you head south, culminating in large, slender islands known as Little and Great Curateo. These are where most Curateans live.
+The <span class="fi fi-curateo-4x3"></span> **Curateo Republic** is a [constituent republic](/republics/) of [[Vekllei]] in the middle of the Lucayan archipelago. It comprises 365 cays, islands and islets scattered along a gentle curve adjacent to the Cigateo, Guanima and [[Yuma]] republics. These cays and islets become larger as you head south, culminating in large, slender islands known as Little and Great Curateo. These are where most Curateans live.
 
 The vast majority of the republic's cays are uninhabited, and fringed by coral reefs too numerous to count. They are protected by federal legislation, and the local and federal governments retain a variety of facilities across them for various environmental and research purposes. The name '*Curateo*' comes from the native Lucayan word for 'outer land,' since the islands break way from the main Lucayan island chain.
 
@@ -35,7 +35,7 @@ The native Lucayans have lived on the Curateo islands for hundreds of years, but
 
 Most of the islands are small and undeveloped, and their economies are mostly municipal -- meaning smallholdings, minor agriculture, fishing and the civil service. Young or ambitious Curateans typically relocate elsewhere in [[lucaya|Commonwealth Lucaya]] to pursue higher education. In typical Lucayan fashion, life on Curateo is easy and the weather is good, and Cureateans spend most afternoons eating together in communal dinners called *catchups* or playing sport. Cricket is especially popular.
 
-A rail line connects the length of Greater Curateo with Little Curateo, but the rest of its islets are invariably unpaved and undeveloped. Many locals own wooden boats with simple outboard motors they use to get around. Many Curateans work and study in the neighbouring republic of Yuma. Ferries leave from George Town each day for Yuma and Nema.
+A rail line connects the length of Greater Curateo with Little Curateo, but the rest of its islets are invariably unpaved and undeveloped. Many locals own wooden boats with simple outboard motors they use to get around. Many Curateans work and study in the neighbouring republic of [[Yuma]]. Ferries leave from George Town each day for Yuma and [[Nassau]].
 
 {{<note table>}}
 **Climate**

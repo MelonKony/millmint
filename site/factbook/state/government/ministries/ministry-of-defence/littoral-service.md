@@ -142,7 +142,7 @@ Regional Littoral Service command based at the capital port in [[Caimanas]]. The
 {{<note column>}}
 **Littoral Command Lucaya**
 
-Regional Littoral Service command based at Nema in [[Bahama]]. The primary concerns are smuggling, migration and drug running from neighbouring Caribbean islands and Florida.
+Regional Littoral Service command based at [[Nassau]] in [[Bahama]]. The primary concerns are smuggling, migration and drug running from neighbouring Caribbean islands and Florida.
 
 * **Customs Cutters**
   * 1 Medium Customs Cutter<br>[[Bahama]]
