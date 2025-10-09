@@ -36,7 +36,7 @@ All officers hold a **base commission** status as their foundation, which allows
 {{<note>}}
 **Endorsement Categories** include:
 - **Territorial**: Parish, Municipal, Republic, Federal jurisdictions
-- **Functional**: Detective, Marine, Traffic, Tribal, Migrant, Commons Mediation
+- **Functional**: Detective, Marine, Traffic, Tribal, Migrant, [[Commons]] Mediation
 - **Detachments**: Ranger (Polar, Equatorial, Coastal), Frontier Patrol, Port Warden, Urban
 - **Special**: Treasury, Parliamentary, Transport, Company (Rifles, Animal, Riot)
 {{</note>}}

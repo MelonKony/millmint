@@ -14,13 +14,13 @@ aliases:
 {{<note panel>}}
 **Summary**
 
-* The [commons](/social-economy/) is a pretty remarkable thing. It has improved life satisfaction, productivity, and quality of life for people in Vekllei.
+* The [[commons]] is a pretty remarkable thing. It has improved life satisfaction, productivity, and quality of life for people in Vekllei.
 * The obvious question follows -- if the *commons* is so great, why is it only found in Vekllei? If other countries are richer and more powerful, why have they not seized on these new developments?
 * The answer is complicated, and just as the *commons* does not rely on the benevolent altruism of the Vekllei person, its exclusivity does not rely on a superior work ethic intrinsic to them either.
 * Fundamentally, Vekllei's system is just too unusual, too culturally and geographically specific, too risky, and too imperfect to see much interest in adoption overseas.
 {{</note>}}
 
-The obvious question is, if the [[Vekllei]] *commons* is so great, why is it only found in Vekllei? The *commons*, as a reminder, is a moniker for Vekllei's domestic, consumer economy that does not use money in ordinary life. For most Vekllei people, this is the only economy they actually engage with in a domestic context. It is seperate from the industrial economy, through which international trade and most large enterprise is facilitated.
+The obvious question is, if the [[Vekllei]] *[[commons]]* is so great, why is it only found in Vekllei? The *commons*, as a reminder, is a moniker for Vekllei's domestic, consumer economy that does not use money in ordinary life. For most Vekllei people, this is the only economy they actually engage with in a domestic context. It is seperate from the industrial economy, through which international trade and most large enterprise is facilitated.
 
 Since its gradual, staged introduction throughout the 2010s and 2020s, the *commons* has been a radical achievement of postwar Vekllei society. Against all expectations, it has produced good outcomes for Vekllei people and continues to do so. They rank highly in [productivity](/bulletin/productivity/), happiness, education and overall life satisfaction, and it is has dramatically redetermined the function and mechanics of the economy.
 

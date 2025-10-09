@@ -13,7 +13,7 @@ description: The Bureau of the Commons manages logistics, supply chains and good
 aliases:
 - /bureau-of-the-commons/
 ---
-The <span class="fi fi-bureau-of-the-commons fis"></span> **Bureau of the Commons** is a bureau of the [[Parliament of Milk and Honey]] that operates as Vekllei's circulatory system, moving goods between the Commonwealth's 83 republics without the coordinating mechanism of prices. In a moneyless economy spread across thousands of kilometres of ocean, the bureau must track what each community produces, what it needs and how to move resources efficiently between islands that may be separated by vast distances and different time zones.
+The <span class="fi fi-bureau-of-the-commons fis"></span> **Bureau of the Commons** is a bureau of the [[Parliament of Milk and Honey]] that operates as Vekllei's circulatory system, moving goods between the Commonwealth's 83 republics without the coordinating mechanism of prices. In a [[commons|moneyless economy]] spread across thousands of kilometres of ocean, the bureau must track what each community produces, what it needs and how to move resources efficiently between islands that may be separated by vast distances and different time zones.
 
 The scale of this logistical challenge becomes apparent when considering specific flows: fresh fish from [[Summers]]'s fishing fleets must reach [[Oslola]]'s population centres before spoiling, while manufactured electronics from [[Kairi]]'s factories need distribution across dozens of smaller island republics with varying transportation links. The bureau coordinates these movements through sophisticated inventory systems that track production, consumption and transportation capacity across the entire archipelagic nation.
 

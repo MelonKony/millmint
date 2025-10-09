@@ -1,0 +1,23 @@
+<script>
+window.MathJax = {
+  tex:{ inlineMath:[['$','$'],['\\(','\\)']], displayMath:[['$$','$$'],['\\[','\\]']], processEscapes:true },
+  options:{ skipHtmlTags:['script','noscript','style','textarea','pre'], enableMenu:false },
+  chtml:{ displayOverflow:'linebreak' }
+};
+</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
+<style>
+/* Default MathJax sizing */
+mjx-container {
+  font-size: 115% !important; /* default size for all screens */
+  display: inline; /* prevent unnecessary block and scrollbars */
+}
+
+/* Shrink on smaller screens */
+@media (max-width: 500px) {
+  mjx-container {
+    font-size: 85% !important; /* or adjust as needed */
+  }
+}
+</style>

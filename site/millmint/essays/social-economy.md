@@ -11,10 +11,13 @@ description: The "commons" is the moneyless economy that people interact with da
 aliases:
 - /social-economy/
 ---
+{{<note advice>}}
+Read more: [[commons|The Vekllei Commons]]
+{{</note>}}
 
 ## A Social Economy
 
-In Vekllei, the economy most people interact with is called the *commons*. In the *commons*, most people do not use money in everyday life, and they do things for intangible social reasons instead. This is called a *social economy*.
+In Vekllei, the economy most people interact with is called the *[[commons]]*. In the *commons*, most people do not use money in everyday life, and they do things for intangible social reasons instead. This is called a *social economy*.
 
 This project is grounded in the real world, and so it attempts to answer real-world questions without conceding to fantasy or trite concessions.[^dystopia] This is an ongoing process, but this essay is an intro to how and why the Vekllei "moneyless economy" works.
 

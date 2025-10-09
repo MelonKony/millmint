@@ -62,7 +62,7 @@ Download: <span class="smallicon">📄</span> [Document No. 7.pdf](/files/docume
 
 ![Image of Tzipora and Moise](/images/fullres/sami.jpg "The student uniform is heavily accessorised, and varies in detail to accomodate the culture of republics | *[Sami](/stories/sami/)*")
 
-Education in Vekllei has no fees, by nature of the *commons*, including at the secondary and tertiary level. It is funded and equipped by the [[Bureau of Public Education]]. The [[cqc|Curriculum & Qualifications Council]] establishes and supports the national curriculum.
+Education in Vekllei has no fees, by nature of the *[[commons]]*, including at the secondary and tertiary level. It is funded and equipped by the [[Bureau of Public Education]]. The [[cqc|Curriculum & Qualifications Council]] establishes and supports the national curriculum.
 
 There are many different types of school in Vekllei, but all are government-funded and adhere to the compulsory curriculum outlined by the Education Secretary. The national education uniform is compulsory for all students at both public and independent schools, and is voluntary at universities.
 

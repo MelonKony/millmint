@@ -422,11 +422,7 @@
   @include text-sm;
   width: 100%;
   border-spacing: 0;
-  table-layout: auto;  // Add this to allow flexible column widths
-  
-  @media screen and (max-width: 640px) {
-    overflow-x: auto;
-  }
+  table-layout: auto;
 
   tr:nth-child(even) {
     @include highlight-background;
@@ -438,33 +434,26 @@
     @include highlight-border-background;
     border-radius: 0;
     width: auto;
-    word-wrap: break-word;  // Add this back
-    white-space: normal;    // Allow text wrapping
-    
-    &:first-child {
-      border-left-width: 1px;
-    }
-    &:last-child {
-      border-right-width: 1px;
-    }
+    word-wrap: break-word;
+    white-space: normal;
   }
 
-  // Only round the very top corners of the thead
   thead tr:first-child {
     th:first-child { border-top-left-radius: 0.25rem; }
     th:last-child { border-top-right-radius: 0.25rem; }
   }
 
-  // Only round bottom corners if there's no thead
-  tbody:first-child tr:first-child {
-    td:first-child { border-top-left-radius: 0.25rem; }
-    td:last-child { border-top-right-radius: 0.25rem; }
-  }
-
-  // Bottom corners
   tbody:last-child tr:last-child {
     td:first-child { border-bottom-left-radius: 0.25rem; }
     td:last-child { border-bottom-right-radius: 0.25rem; }
+  }
+
+  /* Responsive: make table scrollable on small screens */
+  @media screen and (max-width: 640px) {
+    display: block;          // table becomes a block container
+    overflow-x: auto;        // horizontal scroll
+    -webkit-overflow-scrolling: touch; // smooth scrolling on iOS
+    width: 100%;             // container fills screen
   }
 }
 

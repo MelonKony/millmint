@@ -134,6 +134,10 @@ There are different levels of elected government in Vekllei.
 Vekllei elections do not allow political parties, a system called *nonpartisan democracy*. Commonwealth [ministries](/ministries/) and [council secretariats](/councils/) are lead by professional directors appointed by an internal vote, and final approval resting with the [[directory|Commonwealth Directory]].
 
 ### Economy
+{{<note advice>}}
+Read more: *[[commons|The Vekllei Commons]]*
+{{</note>}}
+
 {{<note panel >}}
 The Vekllei economy exists in two pieces: as a social market, dominated by wandering interest and cooperation, and as a financial market, which subsidises the former. The moneylessness of the social market is the marvel of the Vekllei nation and is deeply revered by citizens and disaffected foreign ideologues alike.
 {{</note>}}
@@ -142,7 +146,7 @@ The Vekllei economy exists in two pieces: as a social market, dominated by wande
 See also: *[A Social Economy](/social-economy/)*
 {{</note>}}
 
-The Commonwealth has a hybrid moneyless system called *commons*, in which money is not used in daily life. In the place of money, the commons system exists as a series of social economies and usufructs. Rather than purchasing products as consumers, staples like food and clothing are subsidised by groups of companies known as [*bureaus*](/bureaus/). Everything else is produced in the colloquial moneyless market, often unreliably.
+The Commonwealth has a hybrid moneyless system called *[[commons]]*, in which money is not used in daily life. In the place of money, the commons system exists as a series of social economies and usufructs. Rather than purchasing products as consumers, staples like food and clothing are subsidised by groups of companies known as [*bureaus*](/bureaus/). Everything else is produced in the colloquial moneyless market, often unreliably.
 
 Money is used in a seperate industrial and financial market called the *financialised commons*. In this market, Vekllei has two currencies known as [*Vekllei*](/factbook/society/state/finance/#vekllei-crown-vk) and [*Government Crowns*](/factbook/society/state/finance/#government-crown-ak), which are used by the government, industry and foreigners to interact with the Vekllei economy and purchase securities and financial instruments. Money is also used as a means of exchange between Commonwealth republics as a privilege of the state.
 

@@ -66,10 +66,10 @@ figure {
 }
 
 // Sub and superscript
-sub, sup {
+sup {
   @include text-sm;
   @include radius-base;
-  top: -0.5em;
+  top: -0.75em;
   background-color: var(--body-background);
   padding: 1px 4px;
 }

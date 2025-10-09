@@ -15,13 +15,9 @@ series: government
 Read more: *[The Good, The Municipal](/stories/municipal/)*
 {{</note>}}
 
-{{<note panel >}}
-**Municipalities** are the bedrock of sundress municipalism, and a physical feature of everyday Vekllei life. A municipality refers to both a local council and its services, including libraries, schools, and policemen.
-{{</note>}}
+Municipalities in Vekllei are the predominant form of local government, and vary dramatically in scale, power and resources. They usually refer to council municipalities, which are bodies of elected industrial and political leaders of a community, but also refer to the self-governing communities of intentional industrial communities that share their name. This open-ended definition means that municipalities scale in Vekllei from tiny autonomous villages to major metropolitan areas.
 
-Municipalities in Vekllei are the predominant form of local government, and vary dramatically in scale, power and resources. They usually refer to council municipalities, which are bodies of elected industrial and political leaders of a community. This open-ended definition means that municipalities scale in Vekllei from tiny villages to major metropolitan areas.
-
-Municipalities are the basis of Vekllei localism, a belief in local concern and decentralised decision-making. In general, Vekllei municipalism describes the places where society in abstract meets the individual, and so also has cultural and aesthetic qualities. The sum of a municipality is expressed in the *Atlantic Municipalist* tradition, which consists of the following principles:
+Municipalities are the basis of Vekllei localism and subsidiarity, a belief in local concern and decentralised decision-making. In general, Vekllei municipalism describes the places where society in abstract meets the individual, and so also has cultural and aesthetic qualities. The sum of a municipality is expressed in the *Atlantic Municipalist* tradition, which consists of the following principles:
 
 {{<note>}}
 **Principles of Atlantic Municipalism**

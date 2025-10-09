@@ -24,7 +24,7 @@ The system is designed so that while specific acts can be amended or repealed, t
 |----|----|
 | Commonwealth of Oceans | Describes structure and functions of Commonwealth government.                           |
 | Assemblies of Oceans   | Describes the entitlements, structure and legislative powers of Constituent republics.  |
-| The Commons            | Describes and protects the moneyless market system of the domestic markets.             |
+| The [[Commons]]            | Describes and protects the moneyless market system of the domestic markets.             |
 | The State Economy      | Describes the financialised commons, and the role of the state in finance and industry. |
 | Industry and Living    | Describes the role of bureaus in the Commonwealth Economy.                              |
 | The Military           | Describes the role and laws applying to a unified Commonwealth military command.        |

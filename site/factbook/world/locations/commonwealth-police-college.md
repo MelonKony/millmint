@@ -50,7 +50,7 @@ The main campus occupies 180 hectares in the Meteor Valley, with additional trai
     * Parish Commission Programme
     * Municipal Commission Programme
     * Cultural Training Programme
-    * Commons Mediation Programme
+    * [[Commons]] Mediation Programme
 * **Police Detachment of the National Littoral Training School** ([[NS Antigua]])
     * Port Warden Programme
     * Coastal Ranger Programme

@@ -37,7 +37,7 @@ Residents speak mostly Principense, a Creole fusing Portuguese with African lang
 
 The economy on Principe is small, and much of its agriculture was designed for export in the extractive colonial system. As part of federalisation, major land reforms have tried to make the republic's plantations productive for local use, since there are excellent growing conditions there and an abundance of fresh water. Principe's volcanic soils are rich with nutrients, and there is a priority in Vekllei to both decentralise and industrialise agriculture in the country. This has involved the closure or repurposing of several plantations, and has led to some unrest in the republic as it federalises.
 
-Municipal fishing and, recently, oil exploration are the most productive sectors of the economy. The [[LSRE]] maintains a station of the Oil Survey Section in Porthino. The situation in general is tumultuous as the Principense people acclimatise to the process of federalisation and eventual journey to the shared [[Vekllei]] *commons* system.
+Municipal fishing and, recently, oil exploration are the most productive sectors of the economy. The [[LSRE]] maintains a station of the Oil Survey Section in Porthino. The situation in general is tumultuous as the Principense people acclimatise to the process of federalisation and eventual journey to the shared [[Vekllei]] *[[commons]]* system.
 
 {{<note table>}}
 **Climate**

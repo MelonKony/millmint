@@ -11,7 +11,7 @@ description: The Civic Commons are the national principles of coexistence and pr
 aliases:
 - /civic-commons/
 ---
-The **Civic Commons** is the national identity promoted by the [Commonwealth government](/vekllei/#government) to foster commonhoods across its diverse cultural and ethnic groups. It is a constructed identity based around core values on which the country is founded.
+The **Civic Commons** is the national identity promoted by the [[government|Commonwealth government]] to foster commonhoods across its diverse cultural and ethnic groups. It is a constructed identity based around core values on which the country is founded.
 
 {{<note panel>}}
 **The Civic Commonhoods**

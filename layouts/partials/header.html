@@ -1,7 +1,7 @@
 <header>
   <div class="brand">
     <a class="name" href="{{ .Site.Home.RelPermalink }}">
-      {{- with (.Scratch.Get "params").navbar_title }}{{ . | safeHTML }}{{- end -}}
+      {{ .Site.Title | safeHTML }}
     </a>
     <a class="emoji" id="whirlybat" href="{{ .Site.Home.RelPermalink }}">-millmint</a>
   </div>
@@ -33,9 +33,7 @@
     <span id="theme-icon"></span>
   </button>
 
-  {{ if (.Scratch.Get "params").enable_site_search }}
   {{ partial "search" . }}
-  {{ end }}
 </header>
 
 <style>
