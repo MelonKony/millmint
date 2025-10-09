@@ -17,17 +17,15 @@ The Commonwealth is a diverse society owing to its disparate geography, history 
 
 | **Ethnic Group** | **Percentage** | **Primary Subgroups** | **Geographic Concentration** |
 |---|---|---|---|
-| **Oslolan** (33%) | 8.85M | Scandinavian (58%)<br>Algic/Inuit (42%) | Volcanic, Arctic regions |
-| **UK & Ireland** (29.9%) | 8.02M | English (58%)<br>Scottish (21%)<br>Irish (8%)<br>Others (13%) | Distributed across all regions |
-| **Kalinago/Carib** (9.5%) | 2.55M | Traditional Carib communities | Kalina, Verde regions |
-| **Black** (8.6%) | 2.31M | Afro-Carib (72%)<br>Afro-Bahamian (17%)<br>Commonwealth Black (6%)<br>Others (5%) | Kalina, Lucaya regions |
-| **Commonwealth Asian** (5.5%) | 1.48M | Chinese (70%)<br>British Asian (19%)<br>Japanese (6%)<br>Thai (4%)<br>Others (1%) | Urban centres, major republics |
-| **Hispanic** (4.4%) | 1.18M | Spanish (47%)<br>Mexican (30%)<br>Colombian (14%)<br>Others (19%) | Atlantic, Antilles regions |
-| **East Creole** (4%) | 1.07M | Badiu (63%)<br>Sampadjudo (35%)<br>Others (2%) | Verde region |
-| **Portuguese** (3.1%) | 0.83M | Concentrated communities | Atlantic, Verde regions |
-| **Latin American** (2.9%) | 0.78M | Brazilian (68%)<br>Argentine (23%)<br>Dominican (5%)<br>Others (4%) | Urban centres |
-| **Indian/Ceylonese** (1.7%) | 0.46M | Traditional communities | Kalina region |
-| **French** (1.6%) | 0.43M | Concentrated communities | Kalina region (Madiana, Karu) |
-| **Southern European** (1.5%) | 0.40M | Italian (45%)<br>Greek (38%)<br>Turkish (3%)<br>Others (14%) | Atlantic region |
-| **Slavic** (1.3%) | 0.35M | Russian (66%)<br>Serbian (18%)<br>Croatian (12%)<br>Others (4%) | Distributed |
-| **Others** (1%) | 0.27M | Israeli (79%)<br>Nepalese (8%)<br>Egyptian (2%)<br>Others (11%) | Urban centres |
+| **Oslolan** (38%) | 10.2M | Scandinavian (62%)<br>Algic/Inuit (38%) | Volcanic, Arctic regions |
+| **UK & Ireland** (18%) | 4.83M | English (52%)<br>Scottish (24%)<br>Irish (16%)<br>Welsh (8%) | Lucaya, Antarctic, scattered |
+| **Kalinago/Carib** (7%) | 1.88M | Island Carib communities | Kalina region |
+| **Afro-Caribbean** (9%) | 2.42M | Afro-Kalinago (65%)<br>Afro-Bahamian (20%)<br>Others (15%) | Kalina, Lucaya regions |
+| **East Indian** (7.5%) | 2.01M | Trinidadian (89%)<br>Guyanese (11%) | Kairi, Kalina region |
+| **East Creole** (8%) | 2.15M | Badiu (68%)<br>Sampadjudo (30%)<br>Others (2%) | Verde region |
+| **Commonwealth Asian** (3%) | 0.80M | Chinese (65%)<br>Japanese (15%)<br>Filipino (12%)<br>Others (8%) | Urban centres |
+| **Hispanic/Latino** (4%) | 1.07M | Various Latin American | Antilles, Atlantic regions |
+| **Portuguese** (2.5%) | 0.67M | Concentrated communities | Atlantic, Verde regions |
+| **French** (1.5%) | 0.40M | Concentrated communities | Kalina (Madiana, Karu) |
+| **Southern European** (0.8%) | 0.21M | Italian, Greek, others | Atlantic region |
+| **Others** (0.7%) | 0.19M | Various minorities | Distributed |
