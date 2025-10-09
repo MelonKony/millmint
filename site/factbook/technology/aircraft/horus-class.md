@@ -29,7 +29,7 @@ aliases:
 	InService="2"
 >}}
 
-The **Horus-class naval survey thermal airship** is a class of military airship in service with the [[Air Service]]. Its official role is as a survey airship, but its equipment and armament means it is primarily used for surveillance and early warning at the periphery of Vekllei waters. It has a sophsiticated suite of sensors and radars that are able to see beyond the horizon, making it invaluable as a mobile platform for ground and air surveillance in the vast interior areas of the Atlantic.
+The **Horus-class naval survey thermal airship** is a class of military airship in service with the [[Air Service]]. Its official role is as a survey airship, but its equipment and armament means it is primarily used for surveillance and early warning at the periphery of Vekllei waters. It has a sophisticated suite of sensors and radars that are able to see beyond the horizon, making it invaluable as a mobile platform for ground and air surveillance in the vast interior areas of the Atlantic.
 
 The Horus-class is a thermal airship, which means it is partially buoyant through hot air produced by the ship's reactor. This air primarily controls altitute, and is supplemented by vast hydrogen envelopes at the fore and aft that maintain static buoyancy. The vessel is propelled by electric propellors that are arranged in a external ring around the rear third of the ship, and has four electric jet engines for moving at speed.
 
