@@ -33,7 +33,7 @@ The commons operates as an industrial economy with rigorous accounting, conducte
 
 ### Industrial Production & Pricing
 
-[[Vekllei]] produces approximately ⟁2.8 trillion in accounted annual output across its [[bureaus|bureau]] system and private corporations. This represents real calculations used for planning, trade and capital allocation rather than fictional value. [[Accounted Revenue]] is established through a financial calculation known as **Accounted Value**.
+[[Vekllei]] produces approximately ⟁2.8 trillion in accounted annual output across its [[bureaus|bureau]] system and [[private industry|private corporations]]. This represents real calculations used for planning, trade and capital allocation rather than fictional value. [[Accounted Revenue]] is established through a financial calculation known as **Accounted Value**.
 
 {{<note>}}
 **Accounted value** ($\text{A.V.}$) derives from several inputs. For automated bureau production, the formula represents:
