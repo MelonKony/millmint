@@ -139,9 +139,9 @@ Where:
 
 A textile company producing 2 million shirts quarterly with consumption at 2.3 million would calculate:
 
-$$P_{t+1} = 2{,}000{,}000 \times \left(1 + 0.20 \times \frac{2{,}300{,}000 - 2{,}000{,}000}{2{,}000{,}000}\right) = 2{,}300{,}000$$
+$$P_{t+1} = 2{,}000{,}000 \times \left(1 + 0.20 \times \frac{2{,}300{,}000 - 2{,}000{,}000}{2{,}000{,}000}\right) = 2{,}060{,}000$$
 
-This increases next quarter production by 15%, responding to demonstrated demand without requiring price increases or shortages. The system operates continuously across all product categories, with regional variations tracked separately to prevent urban demand patterns from starving rural areas.
+This increases next quarter production by 3%, responding to demonstrated demand without requiring price increases or shortages. The system operates continuously across all product categories, with regional variations tracked separately to prevent urban demand patterns from starving rural areas.
 {{</note>}}
 
 **Seasonal adjustments** and **trend detection** modify base calculations. Winter clothing production increases in autumn, swimming equipment in spring. Multi-year trend analysis identifies shifting preferences -- declining demand for certain textiles, increasing interest in outdoor equipment. Bureau planning committees receive quarterly reports showing these patterns across their sectors.
@@ -260,8 +260,6 @@ Where:
 - $M_c$ = Maintenance costs  
 - $R_f$ = Redeployment factor (value of freed labor in new roles)
 {{</note>}}
-
-Automation value ($A_v$) depends on human labour hours freed ($L_f$), capital costs ($C_c$), maintenance costs ($M_c$) and the redeployment factor ($R_f$) representing the value of freed labour in new roles.
 
 Automation becomes justified -- although imperfectly policed -- when it frees human capacity for better uses rather than when it proves cheaper than wages. A street-sweeping robot costing ⟁240,000 that eliminates 4,000 annual labour hours becomes economical when those hours redeploy to work generating more than ⟁60/hour in accounted value.
 
