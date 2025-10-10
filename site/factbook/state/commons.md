@@ -38,9 +38,7 @@ The commons operates as an industrial economy with rigorous accounting, conducte
 {{<note>}}
 **Accounted value** ($\text{A.V.}$) derives from several inputs. For automated bureau production, the formula represents:
 
-$$
-\text{A.V.} = \left(L_h \times S_f\right) + C_d + \left(M_r \times \lambda\right) - \left(E_g \times \alpha_e\right)
-$$
+$$\text{A.V.} = \left(L_h \times S_f\right) + C_r + \left(M_r \times \lambda\right) - \left(E_g \times \alpha_e\right)$$
 
 Where:
 - $L_h$ = Labour hours (tracked regardless of payment)
@@ -52,7 +50,7 @@ $$
   - $I_{\text{base}}$ = Baseline training investment (⟁120,000)
   - $Q_t$ = Average queue time for this skill across all republics
   - $Q_{\text{ref}}$ = Reference queue time (48 hours)
-- $C_d$ = Capital depreciation (standard industrial accounting)
+- $C_r$ = Replacement reserve contribution
 - $M_r$ = Raw material extraction/refining cost before scarcity adjustment
 - $\lambda$ = Scarcity multiplier, determined by:
 $$
