@@ -414,7 +414,7 @@ A neighbourhood café operates with apparent normality. The baker arrives, produ
 
 The same pattern applies to independent craftspeople making custom furniture, mechanics maintaining personal vehicles, seamstresses doing alterations, musicians performing at venues, and artists producing and displaying work.
 
-Their work is often irregular, diverse and not econimically substantial. Yet they play an important role in Vekllei society, and contribute to the fabric of their communities through their presence and self-motivating participation in society, and fill gaps in the industrial economy in an aspirational participatory fashion. There can be material rewards -- cafés, restaurants and coffee shops often come up with apartments upstairs, and are centrally located. For a certain type of person interested in a certain kind of lifestyle, this arrangement suits them well.
+Their work is often irregular, diverse and not economically substantial. Yet they play an important role in Vekllei society, and contribute to the fabric of their communities through their presence and self-motivating participation in society, and fill gaps in the industrial economy in an aspirational participatory fashion. There can be material rewards -- cafés, restaurants and coffee shops often come up with apartments upstairs, and are centrally located. For a certain type of person interested in a certain kind of lifestyle, this arrangement suits them well.
 
 This sector generates perhaps 15-20% of actual consumption but remains impossible to measure because it operates entirely outside formal accounting. This represents the anarchistic element that makes the commons functional rather than brittle.
 
