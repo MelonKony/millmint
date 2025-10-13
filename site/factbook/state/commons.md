@@ -207,13 +207,13 @@ With 2,400 constituents of [[bureau-industry|bureau industries]] and 18,000 comp
 
 * **Enterprise Secretaries**, economists in the employ of [[constituents|Regional Commonwealths]] meet quarterly within each major bureau. Representatives from member companies review aggregated production data, consumption patterns and inventory levels. They don't command individual companies but facilitate information sharing and voluntary coordination. If twelve textile companies all plan expansion simultaneously, a secretary highlights potential overcapacity.
 
-* **Regional Production Balancing** occurs through advice from the [[Bureau of Economic Weather]] and the [[Bureau of the Commons]] industrial coordinators who track production across multiple bureaus within their territories. The [[kalina|Kalina Commonwealth]] coordinator might notice three sugar refineries planning simultaneous capacity increases whilst clothing manufacturers report declining activity. They facilitate discussions between sectors, suggesting resource reallocation.
+* **Regional Production Balancing** occurs through advice from the [[Bureau of Economic Weather]] and the [[Bureau of the Commons]] industrial coordinators who track production across multiple bureaus within their territories. The [[kalina|Kalina Commonwealth]] coordinator might notice three sugar refineries planning simultaneous capacity increases whilst clothing manufacturers report declining activity. They facilitate discussions between sectors and might suggest resource reallocation.
 
-* **Federal Reservation** provides ultimate coordination mechanism. When critical materials face genuine scarcity, the [[Ministry of Industry]] allocates supplies through priority systems. Essential goods (food, medicine, housing materials) receive first allocation. Export production receives last priority. This prevents coordination failures from creating genuine hardship.
+* **Federal Reservation** provides a coordination mechanism. When critical materials face scarcity, the [[Ministry of Industry]] allocates supplies through priority systems. Essential goods (food, medicine, housing materials, etc.) receive first allocation. Export production receives last priority. This prevents coordination failures from creating genuine hardship.
 
-* **The Commonwealth National Economic Register** is a networked [[computers|computer]] system that aggregates data continuously, identifying emerging coordination problems before they manifest as shortages or gluts. Machine learning algorithms trained on decades of production data flag anomalous patterns -- unusual inventory accumulation, unexpected depletion rates, regional imbalances. Human planners receive alerts for investigation.
+* **The Commonwealth National Economic Register** is a networked [[computers|computer]] system that aggregates data continuously, identifying emerging coordination problems before they manifest as shortages or gluts. Computer patterns trained on decades of production data flag anomalous behaviour -- unusual inventory accumulation, unexpected depletion rates, regional imbalances, etc. Human planners receive alerts for investigation.
 
-This creates what economists call "visible hand" coordination -- active but decentralised management replacing price signals with information flows and voluntary cooperation.
+This creates what economists call "visible hand" coordination; active but decentralised management replacing price signals with information flows and voluntary cooperation.
 
 ### Domestic Trade
 
