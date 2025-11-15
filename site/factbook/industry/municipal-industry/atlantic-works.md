@@ -41,7 +41,7 @@ Today, Atlantic Works specialises in industrial, electrical, aerospace and vehic
 * Adriatic Works [[Cama]] (*Shipping containers and crates, marine pumping equipment, marine general engineering, desalination equipment*)
 * Celtic Works [[Hetland]] (*Industrial machinery, compressors, machine tools, printing machinery, injection moulding machinery*)
 * Rail Works [[Oslola]] (*Railway vehicles, carriages, multiple electric and diesel units, specialised rail vehicles*)
-* Jet Works [[Caicos]] (*Specialised jet aircraft, including postal seaplanes for [[post|CommPost]] and transport aircraft*)
+* Jet Works [[Caicos]] (*Specialised jet aircraft, including postal seaplanes for [[Commonwealth Post]] and transport aircraft*)
 * Java Works [[Java]] (*Tools, power tools, construction material*)
 * Diesel Works [[Bahama]] (*Diesel and petrol engines, pumps*)
 * Cold Works [[Barbary]] (*Refrigeration equipment, cooling solutions*)

@@ -219,13 +219,13 @@ This specialised focus facilitates detailed policy development while maintaining
 * [[Ministry of Commerce]]
 * [[Ministry of Culture]]
 * [[Ministry of Defence]]
-* [[Ministry of Foreign Affairs]]
 * [[Ministry of Industry]]
 * [[Ministry of Labour]]
 * [[Ministry of Landscape]]
 * [[Ministry of Light and Water]]
 * [[Ministry of the Commons]]
 * [[Ministry of the Commonwealth]]
+* [[Ministry of the Interior]]
 {{</note>}}
 
 Ten **Devolved Ministries** maintain federal policy coordination while operating local bureaus in each republic, creating sophisticated balance between national standards and local implementation. This system ensures policy consistency while allowing adaptation to local conditions and cultural preferences.

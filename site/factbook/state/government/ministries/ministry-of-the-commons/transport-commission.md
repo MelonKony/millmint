@@ -5,6 +5,7 @@ icon: 🛤️
 logo: /svg/logos/transport-commission.svg
 logocredit: Stefan Kanchev, 1965, for the Balkan Film Festival.
 series: organisation
+national-index: true
 
 rgb: 255, 86, 79
 

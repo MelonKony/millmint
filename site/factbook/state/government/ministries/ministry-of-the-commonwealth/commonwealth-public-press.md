@@ -5,6 +5,7 @@ icon: 📖
 color: commonwealth
 logo: /svg/crests/ministry-of-the-commonwealth.svg
 series: organisation
+national-index: true
 
 fi: fi fi-c-commonwealth fis
 description: The Commonwealth Public Press is an independent publishing house provided by the Vekllei government for non-governmental organisations.

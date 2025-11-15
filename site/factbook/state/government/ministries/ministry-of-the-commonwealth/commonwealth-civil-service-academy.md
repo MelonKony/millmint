@@ -5,6 +5,7 @@ icon: 🏛️
 color: commonwealth
 logo: /svg/crests/ministry-of-the-commonwealth.svg
 series: organisation
+national-index: true
 
 fi: fi fi-c-commonwealth fis
 description: The Commonwealth Civil Service Academy trains public servants for the Ministry of the Commonwealth.

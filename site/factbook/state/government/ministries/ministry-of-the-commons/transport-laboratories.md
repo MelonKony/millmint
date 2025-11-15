@@ -6,6 +6,7 @@ rgb: 234, 29, 46
 logo: /svg/logos/transport-labs.svg
 logocredit: Stefan Kanchev, 1967, for the Nauka i Iskustvo Publishing Company.
 series: organisation
+national-index: true
 
 fi: fi fi-transport-labs fis
 description: The Commonwealth Transport Laboratories conducts research to develop the Vekllei transport network for the Ministry of the Commons.

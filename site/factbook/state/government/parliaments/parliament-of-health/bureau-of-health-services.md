@@ -5,6 +5,7 @@ icon: 🏛️
 color: health
 series: bureau
 type: government
+national-index: true
 
 logo: /svg/crests/parliament/health.svg
 fi: fi fi-c-health fis
@@ -16,25 +17,6 @@ aliases:
 The <span class="fi fi-c-health fis"></span> **Bureau of Health Services** is the administrative centre of public health in [[Vekllei]], and coordinates policy between federal, national and municipal healthcare. In service of these aims it incorporates health accounting, the procurement of pharmaceuticals, tracks health outcomes and patient data and facilitates policy advice from health regulators.
 
 The bureau acts as the central nervous system of the different Vekllei healthcare services, and its role in the [[Parliament of Health]] is administrative and political. It advises parliament on the general status of the healthcare system, including its efficiency, opportunities and costs. Using the expertise of other bureaus, it also produces health policy it then presents to the parliament for approval. Officers in the bureau are typically recruited from industry or have a medical background, and the organisation has a reputation for data-driven and pragmatic policymaking.
-
-
-## Executive Council
-
-* **Director**, [[Bureau of Health Services]]
-    * Secretary for Health Services
-        * Officer for Legal Services
-        * Officer for Labour & Recruitment
-    * Secretary for Health Policy
-    * Officer of the Pharmaceutical Procurement Service
-    * Officer for Revenues
-    * Officer for Medical Aid
-* **Director**, [[Bureau of Public Health]]
-* **Deputy Director**, [[MSRE]]
-* **Secretary for National Projects**, [[Bureau of Public Works]]
-* **Deputy Minister**, [[Parliament of Health]]
-* **Parliamentary Representative**, [[Parliament of Health]]
-
-
 
 ## Departments
 * **General Headquarters**
@@ -90,9 +72,6 @@ The bureau acts as the central nervous system of the different Vekllei healthcar
     * Office of Foreign Procurement
     * Office of Medical Aid
     * Office of Grants & Scholarships
-
-
-
 
 ## Boards & Commissions
 

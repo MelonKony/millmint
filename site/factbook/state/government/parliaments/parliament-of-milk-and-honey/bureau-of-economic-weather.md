@@ -6,6 +6,7 @@ logo: /svg/crests/bureau-of-economic-weather.svg
 color: milk-honey
 series: bureau
 type: government
+national-index: true
 
 logocredit: All Communications, 1990, for South Korea Rural Development
 
@@ -30,38 +31,24 @@ This meteorological approach to economic management reflects Vekllei's unique ch
 * <span class="fi fi-bureau-of-economic-weather fis"></span> **Economic Resilience Commission**: Evaluation of community and regional capacity to handle economic disruptions. Provides training and resource provision for economic crisis response.
 * <span class="fi fi-bureau-of-economic-weather fis"></span> **Economic Crisis Council**: Advanced modelling and forecasting of potential economic emergencies. Manages post-disruption economic restoration and rebuilding.
 
-## Council
-
-* **Director** [[Bureau of Economic Weather]]
-  * Secretary for Economic Forecasting & Prediction
-    * Officer for Crisis Prediction
-  * Secretary for Pattern Analysis & Monitoring
-  * Secretary for Community Preparedness
-    * Officer for Recovery Coordination
-* **Deputy Minister** [[Parliament of Milk and Honey]]
-* **Director** Commonwealth Observatory of Economics
-* **Director** Supply Patterns & Behaviours Service
-* **Director** Economic Resilience Commission
-* **Director** Resource Crisis Council
-
 ## Departments
 
-* **Department of Economic Forecasting**
+* **Department of Economic Forecasting**: Analyses economic data to predict future trends, patterns and potential disruptions.
   * Office of Pattern Analysis
   * Office of Trend Analysis
   * Office of Disruption Forecasting
   * Office of Long-Range Forecasting
-* **Department of Economic Monitoring**
+* **Department of Economic Monitoring**: Conducts real-time observation of resource flows and production to maintain economic stability.
   * Office of Resource Movements
   * Office of Production Monitoring
   * Office of Local Economic Health
-* **Department of Crisis & Recovery**
+* **Department of Crisis & Recovery**: Manages responses to economic disruptions, from issuing warnings to coordinating recovery efforts.
   * Office of Automatic Warning Systems
   * Office of Economic Resilience
   * Office of Recovery Planning
   * Office of Post-Crisis Assessment
   * Office of Recovery Planning
-* **Service Branches**
+* **Service Branches**: Regional bodies responsible for the bureau's administration across Vekllei.
   * Boreal Economic Area
   * Austral Economic Area
   * Occidental Economic Area

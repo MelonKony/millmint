@@ -7,6 +7,7 @@ logo: /svg/crests/ministry-of-commerce.svg
 
 series: bureau
 type: government
+national-index: true
 
 fi: fi fi-c-commerce fis
 description: The Commonwealth Treasury is the national treasury, financial department and monetary authority of the Vekllei government.
@@ -23,50 +24,34 @@ The Treasury is lead by the State Secretary for the Treasury, a member of the [c
 
 ## Constituents
 
-* **Community Development Board**: Special investment vehicle for underprivileged Commonwealth communities.
-* **Institute for Economics Research**: Macroeconomic research relevant to international trade in conjunction with the [[Bureau of Policy Research]].
-* **Commonwealth Productivity Commission**: Economic productivity research and standards.
-* **Commonwealth Taxation Service**: Revenue collection and registry for taxable business.
-
-## Council
-
-* **State Secretary**, [[commonwealth-treasury|Treasury]]
-* **Treasurer**, [[commonwealth-treasury|Treasury]]
-	* Permanent Secretary
-	* Officer for Commonwealth Economics
-	* Officer for Foreign Affairs
-	* Chief Analyst
-* Permanent Secretary, [[Bureau of Securities]]
-* Permanent Secretary, [[Bureau of Trade]]
-* Assistant Secretary, [[Bureau of Commonwealth Corporations]]
-* Assistant Secretary, [[Bureau of Statistics]]
-* **Exchequer**, [[Commonwealth Bank]]
-* **Chancellor**, [[Commonwealth Mint]]
-* **Director**, [[commonwealth-securities-exchange|Commsec]]
+* <span class="fi fi-c-commerce fis"></span> **Community Development Board**: Special investment vehicle for underprivileged Commonwealth communities.
+* <span class="fi fi-c-commerce fis"></span> **Institute for Economics Research**: Macroeconomic research relevant to international trade in conjunction with the [[Bureau of Policy Research]].
+* <span class="fi fi-c-commerce fis"></span> **Commonwealth Productivity Commission**: Economic productivity research and standards.
+* <span class="fi fi-c-commerce fis"></span> **Commonwealth Taxation Service**: Revenue collection and registry for taxable business.
 
 ## Departments
 
-* **Department of the Treasury**: General department and office of the Treasurer.
+* **Department of the Treasury**: Serves as the central administrative office of the Treasurer and coordinates overall Treasury policy.
 	* State Secretariat: Office of the Treasury's State Secretary, responsible for implementing government policy.
 	* General Secretariat: Office of the Treasury's Permanent Secretary, regular management of Treasury affairs.
-* **Department of Commonwealth Economics**:
+* **Department of Commonwealth Economics**: Manages domestic fiscal policy, national debt, and public financial operations.
 	* Office of General Seizure
 	* Office of Fiscal Service
 	* Office of National Debt
 	* National Finance & Investment Corporation
-* **Department of Revenue & Customs**:
+* **Department of Revenue & Customs**: Oversees tax collection, government liabilities, and related financial services.
 	* General Taxation Inspectorate
 	* Office of Government Debt & Liabilities
 	* Office of Financial Services
-* **Department of Foreign Affairs**: National stakes and accounts in foreign countries.
+* **Department of Foreign Accounts & Revenues**: Manages Vekllei's financial assets, investments, and accounts held in foreign countries.
 	* Office of the Americas
 	* Office of Europe
 	* Office of Africa
 	* Office of the Orient
 	* Special Markets Office
-* **Department of Government Accounts**:
+* **Department of Government Accounts**: Monitors and researches all government expenditure to ensure fiscal responsibility.
 	* Office of Government Expenditure
 	* National Expenditure Research Organisation
-* **Department of Commonwealth Corporations**: Government-owned corporation management and development.
-* **Department of Automatic Systems**: Development and maintenance of economic computers, software and systems.
-* **Department of Economic Information**: Compilation of economics data in cooperation with the [[Bureau of Statistics]].
+* **Department of Commonwealth Corporations**: Oversees the management and development of all government-owned corporations.
+* **Department of Automatic Systems**: Develops and maintains the automated computer systems used for economic management.
+* **Department of Economic Information**: Compiles and analyses economic data in cooperation with the [[Bureau of Statistics]].

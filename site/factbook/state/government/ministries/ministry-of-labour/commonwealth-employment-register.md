@@ -5,6 +5,7 @@ icon: 🏛️
 logo: /svg/crests/ministry-of-labour.svg
 color: labour
 series: organisation
+national-index: true
 
 fi: fi fi-c-labour fis
 description: The Commonwealth Employment Register is an organisation that records occupations of Vekllei citizens for the Ministry of Labour.

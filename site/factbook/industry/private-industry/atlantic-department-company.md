@@ -39,5 +39,3 @@ The <span class="fi fi-atlantic-store fis"></span> **Atlantic Department Company
 Atlantic's flagship store is in Lonne, [[Oslola]], but has expanded in the postwar period to have stores in most populous Vekllei republics. It stocks a variety of dry goods, most commonly apparel and cosmetics but also homewares and furniture. Atlantic has a concierge system that allows longtime customers to book fittings and select a preferred attendant and tailor.
 
 Atlantic is listed as ATL on the [[commonwealth-securities-exchange|Commsec]] and is the 12th largest company listed in the [CRC/CSX 50](/ratings/). It is a preferred distributor of the Vekllei government.
-
-

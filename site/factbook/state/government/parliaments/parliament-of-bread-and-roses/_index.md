@@ -6,6 +6,7 @@ logo: /svg/crests/parliament/bread-roses.svg
 color: bread-roses
 series: parliament
 list: true
+national-index: true
 
 fi: fi fi-c-bread-roses fis
 description: The Parliament of Bread and Roses oversees social cohesion and the stability of Vekllei's unique social economy.

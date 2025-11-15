@@ -6,6 +6,7 @@ logo: /svg/logos/commonwealth-labs.svg
 rgb: 0, 155, 113
 series: SIRO
 type: government
+national-index: true
 
 fi: fi fi-commonwealth-labs fis
 description: Commonwealth Laboratories is a major government research complex located in Oslola.

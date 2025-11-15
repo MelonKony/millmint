@@ -4,6 +4,7 @@ fulltitle: Commonwealth Disease Authority
 icon: 🏛️
 color: health
 series: organisation
+national-index: true
 
 logo: /svg/crests/parliament/health.svg
 fi: fi fi-c-health fis
@@ -15,20 +16,6 @@ aliases:
 The <span class="fi fi-c-health fis"></span> **Commonwealth Disease Authority** (CDA) is the national public health agency of the Commonwealth. It aims to protect public health through prevention of disease, injury and disability. To this end, it gathers and centralises Vekllei disease intelligence and is responsible for managing contagion and outbreaks.
 
 The CDA conducts extensive field work through its Epidemic Intelligence Service and World Health Research Organisation. It also has special powers allowing it to implement short-term quarantines and mobilise the public health system.
-
-
-## Executive Council
-
-* **Director**, [[Commonwealth Disease Authority]]
-* **Director**, [[Bureau of Health Services]]
-* **Director**, Epidemic Intelligence Service
-* **Director**, National Disease Registry
-* **Director**, World Health Research Organisation
-* **Defence Viral Laboratories Chief Scientist**, [[DSRE]]
-* **Deputy Director**, [[MSRE]]
-* **Deputy Minister**, [[Parliament of Health]]
-
-
 
 ## Departments
 * **General Headquarters**

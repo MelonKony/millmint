@@ -94,8 +94,8 @@ Policy is to have a standing army 35,000 strong, but Rifles regiments are activa
   * 22nd Rifles Battalion **300** [[Fortress Falklands]] [[Falklands]]
   * 23rd Rifles Battalion **300** [[Fortress Falklands]] [[Falklands]]
   * 24th Rifles Battalion **300** **Naval Station Sude** [[Sude]]
-* 9th Sugar Guards Regiment [[Fortress Kabuli]]  Kabuli
-  * 25th Rifles Battalion **300** [[Fortress Kabuli]] Kabuli
+* 9th Sugar Guards Regiment [[Fortress Kabuli]]  [[Kabuli]]
+  * 25th Rifles Battalion **300** [[Fortress Kabuli]] [[Kabuli]]
   * 26th Rifles Battalion **300** **Naval Station Antigua** [[Antigua]]
   * 27th Rifles Battalion **300** **Air Station Kairi** [[Kairi]]
 * 10th Ready Guards Regiment [[Fortress Aruba]]  [[Aruba]]
@@ -143,7 +143,7 @@ Policy is to have a standing army 35,000 strong, but Rifles regiments are activa
   * 55th Rifles Battalion **300** **Costa Verde Barracks** [[Costa Verde]]
   * 56th Rifles Battalion **300** **Naval Station Mira** [[Mira]]
   * 57th Rifles Battalion **300** **Canary Barracks** Canary
-* 20th Kalinan Rifles [[Fortress Kabuli]] Kabuli
+* 20th Kalinan Rifles [[Fortress Kabuli]] [[Kabuli]]
   * 58th Rifles Battalion **300** **Kairi Barracks** [[Kairi]]
   * 59th Rifles Battalion **300** **Virgin Barracks** [[Virgin]]
   * 60th Rifles Battalion **300** **Barbados Barracks** [[Barbados]]

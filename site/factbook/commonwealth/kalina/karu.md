@@ -27,7 +27,7 @@ aliases:
 	 Accession="1930, as part of the Alford Agreement"
  >}}
 
-The <span class="fi fi-karu-4x3"></span> **Karu Republic** is a [constituent republic](/republics/) of [[Vekllei]] in the Caribbean. Shaped like a butterfly, the republic comprises two main islands known as Grande Terre and Basse Terre, meaning "great" and "low lands" respectively. A number of other islands of various sizes surround these two. The republic is south of [[Antigua]] and [[Allia]] in the [[kalina|Commonwealth Kalina]] island chain, just north of Kabuli.
+The <span class="fi fi-karu-4x3"></span> **Karu Republic** is a [constituent republic](/republics/) of [[Vekllei]] in the Caribbean. Shaped like a butterfly, the republic comprises two main islands known as Grande Terre and Basse Terre, meaning "great" and "low lands" respectively. A number of other islands of various sizes surround these two. The republic is south of [[Antigua]] and [[Allia]] in the [[kalina|Commonwealth Kalina]] island chain, just north of [[Kabuli]].
 
 The island was home to Island Caribs when Columbus discovered it in the late 15th Century, but the Spanish never colonised it. The French arrived in 1653 and named in 'Karu,' from a diminuitive version of the Arawak word "Karukera," meaning *island of beautiful waters*. The republic lives up to its name, and is famous for its spectacular scenery including volcanic peaks, dazzling wildflowers and waterfalls. The island remained a French colony until just after the Second World War, when it independence movements triumphed and Karu joined the West Indies Federation. It followed the rest of the federation in the uniting with the British Atlantic Territories in 2020, forming [[Vekllei]].
 

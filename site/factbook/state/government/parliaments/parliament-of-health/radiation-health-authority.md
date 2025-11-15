@@ -4,6 +4,7 @@ fulltitle: Commonwealth Radiation Authority
 icon: 🏛️
 color: health
 series: organisation
+national-index: true
 
 logo: /svg/crests/parliament/health.svg
 fi: fi fi-c-health fis

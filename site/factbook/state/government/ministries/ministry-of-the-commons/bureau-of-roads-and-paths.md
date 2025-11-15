@@ -6,6 +6,7 @@ color: commons
 logo: /svg/crests/ministry-of-the-commons.svg
 series: bureau
 type: government
+national-index: true
 
 fi: fi fi-c-commons fis
 description: The Bureau of Roads & Paths oversees roads, motor vehicles and motorways for the Ministry of the Commons.
@@ -19,30 +20,21 @@ The bureau is also responsible for the licensing and registration of motor vehic
 
 ## Constituents
 
-* **National Automobile Club of Vekllei (NACV)**: Independent motor enthusiast and automobile club.
-* **National Motor Vehicle Testing Establishment**: Crash testing and vehicle safety establishment located in [[Barbados]].
-
-## Council
-
-* **Director**, [[Bureau of Parks and Gardens]]
-    * Secretary for Urban Roads & Paths
-    * Secretary for Rural Roads & Paths
-    * Chief Scientist, National Motoring Laboratories
-* **Deputy Minister**, [[Ministry of the Commons]]
-* **Secretary of Municipal Works**, [[Bureau of Public Works]]
+* <span class="fi fi-c-commons fis"></span> **National Automobile Club of Vekllei (NACV)**: Independent motor enthusiast and automobile club.
+* <span class="fi fi-c-commons fis"></span> **National Motor Vehicle Testing Establishment**: Crash testing and vehicle safety establishment located in [[Barbados]].
 
 ## Departments
-* **Department of Urban Roads & Paths**: Construction and maintenance of city roads.
+* **Department of Urban Roads & Paths**: Manages the construction and upkeep of roads and pedestrian pathways within city limits.
     * Regional District Offices
     * Municipal Liaison
     * Industrial Liaison
-* **Department of Rural Roads & Paths**: Construction and maintenance of rural and isolated roads.
+* **Department of Rural Roads & Paths**: Oversees the development and maintenance of transport routes in regional and remote areas.
     * Office of Regional Development
     * Regional District Offices
     * Municipal Liaison
-* **Department of Maintenance & Research**: Traffic and materials research that might be useful for Vekllei roads and paths.
+* **Department of Maintenance & Research**: Conducts research into traffic flow and materials to improve the road network.
     * National Motoring Laboratories
-* **Department of Motor Vehicles**: General-purpose motor vehicle licensing and testing department.
+* **Department of Motor Vehicles**: Handles all aspects of vehicle licensing safety testing and incident investigation.
     * Office of Licensing
     * Office of Crash Testing & Safety
     * Investigation Branch

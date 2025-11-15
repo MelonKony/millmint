@@ -6,6 +6,7 @@ logo: /svg/crests/bureau-of-residences-and-factories.svg
 color: milk-honey
 series: bureau
 type: government
+national-index: true
 
 logocredit: Kazumasa Nagai of the Nippon Design Center, 1974, for the Konishiroku Photo Industrial Co. Ltd.
 
@@ -26,43 +27,29 @@ This practice of integration emerged from Vekllei's island geography, where spac
 * <span class="fi fi-bureau-of-residences-and-factories fis"></span> **Municipal Enterprise Commission**: Management of dwelling allocation based on family needs and community ties, as well as coordination of workplace location with residential communities, training and maintenance.
 * <span class="fi fi-bureau-of-residences-and-factories fis"></span> **Municipal Infrastructure Construction Corporation (*MICC*)**: Management of building projects and infrastructure development, and the integration of utilities, transport and community facilities.
 
-## Council
-
-* **Director** [[Bureau of Residences and Factories]]
-  * Secretary for Residential Development
-    * Officer for Housing Quality
-  * Secretary for Community Planning & Integration
-  * Secretary for Construction Coordination
-    * Officer for Infrastructure Development
-* **Deputy Minister** [[Parliament of Milk and Honey]]
-* **Executive** [[National Construction House]]
-* **Director** Municipal Planning Commission
-* **Director** Municipal Enterprise Commission
-* **Director** Municipal Infrastructure Construction Corporation
-
 ## Departments
 
-* **Department of Municipal Development**
+* **Department of Municipal Development**: Oversees the development of community housing, residential construction and stewardship arrangements.
   * Office of Housing
   * Office of Stewardship Coordination
   * Office of Residential Construction
   * Office of Community Housing
-* **Department of Municipal Planning**
+* **Department of Municipal Planning**: Coordinates the architectural and social planning for integrating workplaces within residential communities.
   * Liaison Office of the [[Bureau of Housing]]
   * Office of Forecasting & Specifications
   * Office of Architecture & Local Design
   * Office of Workplace-Residences
   * Office of Public Places Planning
-* **Department of Municipal Construction**
+* **Department of Municipal Construction**: Manages the standards, materials and labour for the construction of municipal projects.
   * Office of Construction Management
   * Office of Construction Standards
   * Office of Material Coordination
   * Office of Construction Labour
-* **Department of Municipal Infrastructure**
+* **Department of Municipal Infrastructure**: Coordinates the development and integration of essential utilities, transport and natural landscapes within municipalities.
   * Office of Utilities Coordination
   * Office of Industrial & Commercial Railways (with representatives from [[CommRail]])
   * Office of Natural Landscape
-* **Service Branches**
+* **Service Branches**: Regional bodies responsible for the bureau's administration across Vekllei's development sections.
   * Boreal Development Section
   * Austral Development Section
   * Occidental Development Section

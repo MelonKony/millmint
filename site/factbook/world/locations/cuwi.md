@@ -62,7 +62,7 @@ Some Constituent Schools are themselves federated into colleges, which are often
 While students enrolled in colleges primarily interact with the university through them, colleges themselves do not award degrees. Students graduate with university degrees bearing the CUWI seal and are not awarded degrees from their colleges.
 {{</note>}}
 
-Although CUWI maintains a number of major constituent general universities, many of its federated schools are specialised institutions that share resources and facilities with neighbouring campuses. In a quirk of Vekllei federalism, they can indicate local specialisation (e.g. Inagua's salt industry of Kairi's oil industry) or no local custom at all, when the distant eye of Commonwealth federalism deems a republic the new centre of an academic tradition. Most constituents have a research focus and 80% retain a field station for local ecosystem studies. A student of one is a student of all, and transfer and exchange are common practices within the network.
+Although CUWI maintains a number of major constituent general universities, many of its federated schools are specialised institutions that share resources and facilities with neighbouring campuses. In a quirk of Vekllei federalism, they can indicate local specialisation (e.g. [[Inagua]]'s salt industry of [[Kairi]]'s oil industry) or no local custom at all, when the distant eye of Commonwealth federalism deems a republic the new centre of an academic tradition. Most constituents have a research focus and 80% retain a field station for local ecosystem studies. A student of one is a student of all, and transfer and exchange are common practices within the network.
 
 {{<note column>}}  
 **Constituent Institutions**  
@@ -74,7 +74,7 @@ Although CUWI maintains a number of major constituent general universities, many
 * **Curateo Polytechnic** ([[Curateo]]) -- Localist sociology, aquaculture  
 * **Guanima Caribbean School** (Guanima) -- Education, oral history preservation, lucayan archaeology, colonial history  
 * **National Marine Establishment** ([[Habacoa]]) -- Marine sciences, wetland research
-* **Inagua Technical University** (Great Inagua) -- Salt production, marine fuels
+* **Inagua Technical University** ([[Inagua]]) -- Salt production, marine fuels
 * **Abaco Polytechnic University** (Lucayoneque) -- Disaster preparation, materials science
 * **Mayaguana Federal Conservatory** ([[Mayaguana]]) -- Traditional music, ethnomusicology  
 * **Providence University** ([[Providence]]) -- Political science, international law

@@ -5,6 +5,7 @@ icon: 🏛️
 color: lightandwater
 logo: /svg/crests/ministry-of-light-and-water.svg
 series: organisation
+national-index: true
 
 fi: fi fi-c-light-and-water fis
 description: The Emergency Light & Water Authority manages utility security and disaster preparation for the Ministry of Light and Water.

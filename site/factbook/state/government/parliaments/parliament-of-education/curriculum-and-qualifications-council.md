@@ -6,6 +6,7 @@ logo: /svg/logos/cqc.svg
 rgb: 34, 123, 231
 logocredit: Ilsanji Teruo, 1974, for Japan Villa Development
 series: organisation
+national-index: true
 
 fi: fi fi-cqc fis
 description: Commonwealth Curriculum & Qualifications Council develops and regulates the national curriculum and standard examinations in Vekllei.

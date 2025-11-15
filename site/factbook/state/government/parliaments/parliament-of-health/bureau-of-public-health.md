@@ -5,6 +5,7 @@ icon: 🏛️
 color: health
 series: bureau
 type: government
+national-index: true
 
 logo: /svg/crests/parliament/health.svg
 fi: fi fi-c-health fis
@@ -16,26 +17,6 @@ aliases:
 The <span class="fi fi-c-health fis"></span> **Bureau of Public Health** administers the delivery of healthcare in [[Vekllei]]. In some places, it provides healthcare services directly through hospitals. In others, it facilitates the operation of local healthcare districts by a [municipality](/municipalities/).
 
 The bureau is vertically integrated, and administers all healthcare support services including ambulances, general practitioners, pharmacies, home care and logistics staff. In most cases, these are operated locally by a municipal healthcare district administered directly by the bureau.
-
-
-## Executive Council
-
-* **Director**, [[Bureau of Public Health]]
-    * Secretary for Public Health
-        * Chief Medical Scientist
-        * Surgeon General
-        * Officer for Legal Services
-    * Secretary for Municipal Care
-    * Secretary for Primary Care
-        * Officer for Universal Care
-    * Secretary for Immunisation
-    * Secretary for Chronic Illness
-* **Director**, [[Bureau of Health Services]]
-* **Deputy Director**, [[MSRE]]
-* **Deputy Minister**, [[Parliament of Health]]
-* **Parliamentary Representative**, [[Parliament of Health]]
-
-
 
 ## Departments
 * **General Headquarters**
@@ -80,9 +61,6 @@ The bureau is vertically integrated, and administers all healthcare support serv
     * Office of Psychiatry & Therapeutical Services
     * Office of Suicide Prevention
     * National Trauma Health Centre
-
-
-
 
 ## Boards & Commissions
 

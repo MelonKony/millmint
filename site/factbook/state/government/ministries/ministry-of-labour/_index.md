@@ -6,6 +6,7 @@ logo: /svg/crests/ministry-of-labour.svg
 color: labour
 series: ministry
 list: true
+national-index: true
 
 fi: fi fi-c-labour fis
 description: The Ministry of Labour manages the Vekllei workforce, workplace safety, the civil service and conscription.

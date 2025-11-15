@@ -7,6 +7,7 @@ logo: /svg/logos/commsec.svg
 
 series: bureau
 type: government
+national-index: true
 
 fi: fi fi-commsec fis
 description: The Commonwealth Securities Exchange operates the national securities and commodities markets in Vekllei.
@@ -31,18 +32,7 @@ The CSX maintains systems to aid foreign investment, and is often characterised 
 
 ## Constituents
 
-* **Commonwealth Sovereign Wealth Corporation**: State investment corporation that acts as a sovereign wealth fund.
-
-## Council
-
-* **Director**, [[commonwealth-securities-exchange|Commsec]]
-	* Executive, International Firms Office
-	* Executive, Automatic Trading Office
-* **Director**, [[Bureau of Securities]]
-	* Director, Commonwealth Commercial Service
-	* Director, Commonwealth Trade Commission
-* **Director**, [[Commonwealth Bank]]
-* **Executive**, [[ratings|Ratings Corporation]]
+* <span class="fi fi-commsec fis"></span> **Commonwealth Sovereign Wealth Corporation**: State investment corporation that acts as a sovereign wealth fund.
 
 ## Constituent Markets
 

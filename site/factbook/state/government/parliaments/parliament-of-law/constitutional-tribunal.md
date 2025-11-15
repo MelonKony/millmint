@@ -6,6 +6,7 @@ logo: /svg/crests/parliament/law.svg
 color: law
 series: bureau
 list: true
+national-index: true
 
 fi: fi fi-c-law fis
 description: An independent judicial body that arbitrates constitutional disputes and oversees the Constitutional Firming Laws.

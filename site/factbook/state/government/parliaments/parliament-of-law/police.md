@@ -3,7 +3,7 @@ title: Police
 fulltitle: Commonwealth Police Service
 icon: 🚔
 color: law
-series: bureau
+series: organisation
 
 image: /images/fullres/police-car.jpg
 

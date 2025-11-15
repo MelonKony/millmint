@@ -132,7 +132,7 @@ This timeline is a useful curated reference of Atlantic history, but is not comp
 		<li>
 			<b>1422</b>
 			<span class="event">
-				The Royal Mail Service, predecessor to the [[post|Commonwealth Post]], is founded in Oslola.
+				The Royal Mail Service, predecessor to the [[Commonwealth Post]], is founded in Oslola.
 			</span>
 		</li>
 		<li>

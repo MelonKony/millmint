@@ -6,6 +6,7 @@ color: lightandwater
 logo: /svg/crests/ministry-of-light-and-water.svg
 series: ministry
 list: true
+national-index: true
 
 logocredit: Noriko Yamazaki, Nihonreai Shop & Hajime Sakakura, 1987, for Takatsu Barber and Beauty College.
 

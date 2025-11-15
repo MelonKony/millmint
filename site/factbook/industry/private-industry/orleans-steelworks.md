@@ -15,7 +15,7 @@ aliases:
 series: industry
 ---
  {{<infobox
-	  Name="Atlantic Department Company"
+	  Name="Orleans Steelworks"
 	  Logo="/svg/logos/orleans.svg"
 	  Type="[[private-industry|Private Corporation]] of [[Vekllei]]"
 	  Industry="Steel"

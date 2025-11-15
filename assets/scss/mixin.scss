@@ -355,7 +355,7 @@
 
 @mixin tag-base {
   @include text-sm;
-  @include font-bold;
+  @include font-medium;
   @include radius-base;
   padding: 0.1rem 0.25rem;
   list-style: none;

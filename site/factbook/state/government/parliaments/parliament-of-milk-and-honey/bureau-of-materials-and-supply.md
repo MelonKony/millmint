@@ -6,6 +6,7 @@ logo: /svg/crests/bureau-of-materials-and-supply.svg
 color: milk-honey
 series: bureau
 type: government
+national-index: true
 
 logocredit: Sotir Sotirov, 1984, for the Bulgarian Training Center of the Ministry of Industry
 
@@ -30,41 +31,27 @@ This coordination challenge requires the bureau to think in terms of material ec
 * <span class="fi fi-bureau-of-materials-and-supply fis"></span> **National Resource Laboratory**: Research and development of sustainable materials management as part of the [[LSRE]].
 * <span class="fi fi-bureau-of-materials-and-supply fis"></span> **Commonwealth Minerals Registry**: Oversight of resource extraction permits and environmental protection.
 
-## Council
-
-* **Director** [[Bureau of Materials and Supply]]
-  * Secretary for Resource Planning
-    * Officer for Forecasts & Planning
-  * Secretary for Economic Supply
-  * Secretary for Industrial Supply
-    * Officer for Manufacturing
-* **Deputy Minister** [[Parliament of Milk and Honey]]
-* **Director** Resource Planning Commission
-* **Director** Commonwealth Materials Board
-* **Director** Industrial Supply Network
-* **Director** Strategic Supply Reserve
-
 ## Departments
 
-* **Department of Resource Planning**
+* **Department of Resource Planning**: Conducts long-term planning for material needs, sustainability and the development of a circular economy.
   * Office of Materials Testing
   * Office of Forecasts & Planning
   * Office of Circular Production
-* **Department of Economic Supply**
+* **Department of Economic Supply**: Manages the allocation and distribution of resources based on production priorities and community demand.
   * Office of Production Priority
   * Office of Demand & Supply
   * Office of Distribution & Commissions
-* **Department of Industrial Supply**
+* **Department of Industrial Supply**: Oversees the supply chains, logistics and coordination of materials for industrial and manufacturing sectors.
   * Office of Manufacturing
   * Office of Production Coordination
   * Office of Holistic Supply
   * Office of Industrial Logistics
-* **Department of Resource Security**
+* **Department of Resource Security**: Ensures the security and stability of the Commonwealth's supply chains through the management of strategic reserves.
   * Office of Strategic Stockpiles
   * Office of Supply Security
   * Office of Strategic Resource Management
   * Office of Critical Materials
-* **Service Branches**
+* **Service Branches**: Regional bodies responsible for the bureau's administration across Vekllei's supply areas.
   * Boreal Supply Area
   * Austral Supply Area
   * Occidental Supply Area

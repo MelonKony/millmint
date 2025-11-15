@@ -5,6 +5,7 @@ icon: 🏠
 rgb: 239, 91, 26
 logo: /svg/logos/housing-commission.svg
 series: organisation
+national-index: true
 
 fi: fi fi-housing-commission fis
 description: The Commonwealth Housing Commission designs, constructs and manages municipalised tenanted housing for the Ministry of the Commons.

@@ -6,6 +6,7 @@ logo: /svg/crests/bureau-of-industrial-coordination.svg
 color: milk-honey
 series: bureau
 type: government
+national-index: true
 
 logocredit: Masahide Umezu, 1970, for Ryosei Plastics Industries Inc.
 
@@ -27,37 +28,25 @@ This coordination becomes particularly complex given Vekllei's commitment to wor
 * <span class="fi fi-bureau-of-industrial-coordination fis"></span> **National Enterprise Commission**: Development of experimental workplace democracy and new forms of social organisation. Supports and trains democratic workplace organisation and decision-making.
 * <span class="fi fi-bureau-of-industrial-coordination fis"></span> **Industrial Democracy Research Centre**: Study of effective workplace organisation and cooperative management methods. Develops new forms of workplace organisation and industrial cooperation.
 * <span class="fi fi-bureau-of-industrial-coordination fis"></span> **Cooperative Development Trust**: Financial and technical support for new cooperative enterprises and workplace democracy.
-
-## Council
-
-* **Director** [[Bureau of Industrial Coordination]]
-  * Secretary for Inter-Bureau Coordination
-    * Officer for Resource Sharing
-  * Secretary for Workplace Democracy Development
-  * Secretary for Cooperative Enterprise Support
-    * Officer for Workplace Transformation
-* **Deputy Minister** [[Parliament of Milk and Honey]]
-* **Director** Commonwealth Industrial Coordination Council
-* **Director** National Enterprise Commission
-* **Director** Cooperative Development Trust
+* <span class="fi fi-commonwealth-industrial-congress fis"></span> **Commonwealth Industrial Congress**: The Congress is an autonomous functionary of the [[Ministry of Industry]], but maintains a close working relationship with the Bureau.
 
 ## Departments
 
-* **Department of Industrial Coordination**
+* **Department of Industrial Coordination**: Facilitates cooperation, resource sharing, and joint projects between Vekllei's various industrial bureaus.
   * Office of Bureau Collaboration
   * Office of Resource Circulation
   * Office of Joint Ventures
   * Office of Industrial Integration
-* **Department of Democratic Enterprise**
+* **Department of Democratic Enterprise**: Supports and develops models for workplace democracy and worker participation in technical and managerial decision-making.
   * Office of Technical Management
   * Office of Labour Participation
   * Office of Corporate Development
-* **Department of Industrial Enterprise**
+* **Department of Industrial Enterprise**: Oversees the development and support of cooperative enterprises, labour organisation, and industrial productivity.
   * Office of Labour
   * Office of Syndicates & Chapels
   * Office of Cooperative Enterprise
   * Office of Productivity
-* **Service Branches**
+* **Service Branches**: Regional bodies responsible for the bureau's administration across Vekllei's industrial areas.
   * Boreal Industrial Area
   * Austral Industrial Area
   * Occidental Industrial Area

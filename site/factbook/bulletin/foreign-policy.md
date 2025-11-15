@@ -4,7 +4,7 @@ fulltitle: Foreign Policy in Vekllei
 icon: 🌍
 series: bulletin
 
-color: foreignaffairs
+color: interior
 
 description: Vekllei foreign policy is characterised by assertive, pragmatic and cooperative engagement with countries in their interest.
 
@@ -21,7 +21,7 @@ aliases:
 * The results speak for themselves. As an example, Vekllei has closer diplomatic and economic ties to many former French colonies in West Africa than France itself.
 {{</note>}}
 
-While [[Vekllei]] has tremendous wealth and cultural diversity that more or less guarantee a minimum presence in global diplomacy, foreign policy is an area of active investment and has been since independence. The [[Ministry of Foreign Affairs]] is among the largest and best-equipped devolved [ministries](/ministries/), and Vekllei has a diplomatic mission in nearly every country. These missions, comprising consulates, interest sites and embassies, are packed with diplomats and analysts familiar with the local territory, and are sometimes recruited from local professionals. This is, fundamentally, the distinguishing factor of Vekllei's outsized foreign influence: reliable and substantial investment.
+While [[Vekllei]] has tremendous wealth and cultural diversity that more or less guarantee a minimum presence in global diplomacy, foreign policy is an area of active investment and has been since independence. The [[Parliament of State]] is among the largest and best-equipped [[parliaments|superior ministries]], and Vekllei has a diplomatic mission in nearly every country. These missions, comprising consulates, interest sites and embassies, are packed with diplomats and analysts familiar with the local territory, and are sometimes recruited from local professionals. This is, fundamentally, the distinguishing factor of Vekllei's outsized foreign influence: reliable and substantial investment.
 
 The Bureau of Economics of the Ministry of Foreign Affairs is a particularly keen outfit, taking on a variety of roles that may at times be generous, predatory or both. The people of the Bureau of Economics are not ideologues and they are not there to promote the [[*commons*]]. In developed countries, they aid the interests of Vekllei business and trade. In others, they act as a channel for direct investment, nation-building and aid. None of it is given without thought, or for mere political purposes. They aim to establish a base of knowledge and influence, and use those things to build up the relationships and encourage improvements to standards of living overseas that advantage Vekllei's political and economic missions.
 

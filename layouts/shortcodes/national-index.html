@@ -1,0 +1,350 @@
+{{/* 
+  Shortcode: national index
+  Generates a hierarchical list by analyzing URL paths and parsing page content.
+*/}}
+
+{{ $allPages := where .Site.RegularPages ".Params.national-index" true }}
+
+{{/* Group pages by their type and hierarchy */}}
+{{ $byMinistry := dict }}
+{{ $byParliament := dict }}
+{{ $byIndustryType := dict }}
+{{ $bySeries := dict }}
+{{ $standalone := slice }}
+
+{{ range $allPages }}
+  {{ $path := .RelPermalink }}
+  {{ $series := .Params.series }}
+  
+  {{ if in $path "/ministries/" }}
+    {{ $ministryName := replaceRE `^.*?/ministries/([^/]+).*` "$1" $path }}
+    {{ if $ministryName }}
+      {{ $existing := index $byMinistry $ministryName | default (dict "main" slice "children" slice) }}
+      {{ if eq $series "ministry" }}
+        {{ $mainPages := $existing.main | append . }}
+        {{ $existing = merge $existing (dict "main" $mainPages) }}
+      {{ else }}
+        {{ $childrenPages := $existing.children | append . }}
+        {{ $existing = merge $existing (dict "children" $childrenPages) }}
+      {{ end }}
+      {{ $byMinistry = merge $byMinistry (dict $ministryName $existing) }}
+    {{ end }}
+
+  {{ else if in $path "/parliaments/" }}
+    {{ $parlName := replaceRE `^.*?/parliaments/([^/]+).*` "$1" $path }}
+    {{ if $parlName }}
+      {{ $existing := index $byParliament $parlName | default (dict "main" slice "children" slice) }}
+      {{ if eq $series "parliament" }}
+        {{ $mainPages := $existing.main | append . }}
+        {{ $existing = merge $existing (dict "main" $mainPages) }}
+      {{ else }}
+        {{ $childrenPages := $existing.children | append . }}
+        {{ $existing = merge $existing (dict "children" $childrenPages) }}
+      {{ end }}
+      {{ $byParliament = merge $byParliament (dict $parlName $existing) }}
+    {{ end }}
+  
+  {{ else if in $path "/industry/" }}
+    {{ $parts := split (trim $path "/") "/" }}
+    {{ if gt (len $parts) 2 }}
+      {{ $industryType := index $parts 1 }}
+      {{ $existing := index $byIndustryType $industryType | default slice }}
+      {{ $existing = $existing | append . }}
+      {{ $byIndustryType = merge $byIndustryType (dict $industryType $existing) }}
+    {{ end }}
+  
+  {{ else if $series }}
+    {{ $existing := index $bySeries $series | default slice }}
+    {{ $existing = $existing | append . }}
+    {{ $bySeries = merge $bySeries (dict $series $existing) }}
+  {{ else }}
+    {{ $standalone = $standalone | append . }}
+  {{ end }}
+{{ end }}
+
+{{/* Function to extract departments and constituents */}}
+{{- define "partials/extract-sections" -}}
+  {{ $content := .Content }}
+  {{ $output := dict }}
+  
+  {{ $splitContent := replace $content "<h2" "@@SPLIT@@<h2" }}
+  {{ $sections := after 1 (split $splitContent "@@SPLIT@@") }}
+  
+  {{ range $sections }}
+    {{ $section := . }}
+    {{ $title := replaceRE "(?s)<h2[^>]*>(.*?)</h2>.*" "$1" $section | plainify | htmlUnescape | replaceRE `\s*#\s*$` "" }}
+    
+    {{ $ulMatch := findRE "(?s)<ul[^>]*>.*</ul>" $section 1 }}
+    {{ if $ulMatch }}
+      {{ $ul := index $ulMatch 0 }}
+      {{ $output = merge $output (dict $title $ul) }}
+    {{ end }}
+  {{ end }}
+  
+  {{ return $output }}
+{{- end -}}
+
+{{/* Function to render extracted sections as HTML */}}
+{{- define "partials/render-section-html" -}}
+  {{ $ul := . }}
+  {{ $scratch := newScratch }}
+  <div class="extracted-section">
+    {{ $content := replaceRE `(?s)^<ul[^>]*>\s*(.*?)\s*</ul>$` "$1" $ul }}
+    {{ $nestedULs := findRE `(?s)<ul>.*?</ul>` $content }}
+    {{ range $i, $nestedUL := $nestedULs }}
+      {{ $placeholder := printf "@@UL_PLACEHOLDER_%d@@" $i }}
+      {{ $scratch.Set $placeholder $nestedUL }}
+      {{ $content = replace $content $nestedUL $placeholder }}
+    {{ end }}
+    {{ $delimitedContent := replaceRE `(?s)(</li>\s*)(<li)` "$1@@SPLIT@@$2" $content }}
+    {{ $items := split $delimitedContent "@@SPLIT@@" }}
+    {{ range $items }}
+      {{ $item := . }}
+      {{ $placeholderMatch := findRE `@@UL_PLACEHOLDER_\d+@@` $item }}
+      {{ if $placeholderMatch }}
+        {{ $placeholder := index $placeholderMatch 0 }}
+        {{ $nestedUL := $scratch.Get $placeholder }}
+        {{ $deptName := replaceRE `(?s)<li[^>]*>(.*?)@@UL_PLACEHOLDER_\d+@@.*` "$1" $item | htmlUnescape | safeHTML }}
+        <div class="dept-group">
+          <div class="dept-name">{{ $deptName }}</div>
+          <div class="office-list">
+            {{ $nestedContent := replaceRE `(?s)^<ul[^>]*>\s*(.*?)\s*</ul>$` "$1" $nestedUL }}
+            {{ $nestedDelimited := replaceRE `(?s)(</li>\s*)(<li)` "$1@@SPLIT@@$2" $nestedContent }}
+            {{ $nestedItems := split $nestedDelimited "@@SPLIT@@" }}
+            {{ range $nestedItems }}
+              {{ $office := replaceRE `(?s)<li[^>]*>(.*?)</li>` "$1" . | htmlUnescape | safeHTML }}
+              <div class="office-item">{{ $office }}</div>
+            {{ end }}
+          </div>
+        </div>
+      {{ else }}
+        {{ $itemContent := replaceRE `(?s)<li[^>]*>(.*?)</li>` "$1" $item | htmlUnescape | safeHTML }}
+        <div class="dept-item">{{ $itemContent }}</div>
+      {{ end }}
+    {{ end }}
+  </div>
+{{- end -}}
+
+{{/* --- MARKDOWN GENERATION --- */}}
+{{ $markdown := "# Vekllei National Index\n\nComplete directory of government entities, ministries, parliaments, bureaus and state industries.\n\n---\n\n" }}
+{{ if $byMinistry }}
+  {{ $markdown = printf "%s## Ministries\n\n" $markdown }}
+  {{ range $key, $group := $byMinistry }}
+    {{ $niceName := replaceRE "-" " " $key | title }}
+    {{ $markdown = printf "%s### %s\n\n" $markdown $niceName }}
+    {{ range sort $group.main "Title" }}
+      {{ $markdown = printf "%s* **%s**" $markdown .Title }}{{ if .Description }}{{ $markdown = printf "%s: %s" $markdown .Description }}{{ end }}{{ $markdown = printf "%s\n" $markdown }}
+      {{ $sections := partial "partials/extract-sections" . }}{{ range $sectionTitle, $sectionHTML := $sections }}
+        {{ $markdown = printf "%s\n  **%s**\n" $markdown $sectionTitle }}{{ $plainList := $sectionHTML | plainify | htmlUnescape }}{{ $lines := split $plainList "\n" }}{{ range $lines }}
+          {{ $line := trim . " \t\n\r" }}{{ if $line }}{{ $markdown = printf "%s  - %s\n" $markdown $line }}{{ end }}
+        {{ end }}{{ end }}
+    {{ end }}
+    {{ if $group.children }}
+      {{ range sort $group.children "Title" }}
+        {{ $markdown = printf "%s* **%s**" $markdown .Title }}{{ if .Description }}{{ $markdown = printf "%s: %s" $markdown .Description }}{{ end }}{{ $markdown = printf "%s\n" $markdown }}
+        {{ $sections := partial "partials/extract-sections" . }}{{ range $sectionTitle, $sectionHTML := $sections }}
+          {{ $markdown = printf "%s\n  **%s**\n" $markdown $sectionTitle }}{{ $plainList := $sectionHTML | plainify | htmlUnescape }}{{ $lines := split $plainList "\n" }}{{ range $lines }}
+            {{ $line := trim . " \t\n\r" }}{{ if $line }}{{ $markdown = printf "%s  - %s\n" $markdown $line }}{{ end }}
+          {{ end }}{{ end }}
+      {{ end }}
+    {{ end }}
+    {{ $markdown = printf "%s\n" $markdown }}
+  {{ end }}
+{{ end }}
+{{ if $byParliament }}
+  {{ $markdown = printf "%s## Parliaments\n\n" $markdown }}
+  {{ range $key, $group := $byParliament }}
+    {{ $niceName := replaceRE "-" " " $key | title }}
+    {{ $markdown = printf "%s### %s\n\n" $markdown $niceName }}
+    {{ range sort $group.main "Title" }}
+      {{ $markdown = printf "%s* **%s**" $markdown .Title }}{{ if .Description }}{{ $markdown = printf "%s: %s" $markdown .Description }}{{ end }}{{ $markdown = printf "%s\n" $markdown }}
+      {{ $sections := partial "partials/extract-sections" . }}{{ range $sectionTitle, $sectionHTML := $sections }}
+        {{ $markdown = printf "%s\n  **%s**\n" $markdown $sectionTitle }}{{ $plainList := $sectionHTML | plainify | htmlUnescape }}{{ $lines := split $plainList "\n" }}{{ range $lines }}
+          {{ $line := trim . " \t\n\r" }}{{ if $line }}{{ $markdown = printf "%s  - %s\n" $markdown $line }}{{ end }}
+        {{ end }}{{ end }}
+    {{ end }}
+    {{ if $group.children }}
+      {{ range sort $group.children "Title" }}
+        {{ $markdown = printf "%s* **%s**" $markdown .Title }}{{ if .Description }}{{ $markdown = printf "%s: %s" $markdown .Description }}{{ end }}{{ $markdown = printf "%s\n" $markdown }}
+        {{ $sections := partial "partials/extract-sections" . }}{{ range $sectionTitle, $sectionHTML := $sections }}
+          {{ $markdown = printf "%s\n  **%s**\n" $markdown $sectionTitle }}{{ $plainList := $sectionHTML | plainify | htmlUnescape }}{{ $lines := split $plainList "\n" }}{{ range $lines }}
+            {{ $line := trim . " \t\n\r" }}{{ if $line }}{{ $markdown = printf "%s  - %s\n" $markdown $line }}{{ end }}
+          {{ end }}{{ end }}
+      {{ end }}
+    {{ end }}
+    {{ $markdown = printf "%s\n" $markdown }}
+  {{ end }}
+{{ end }}
+{{ if $byIndustryType }}{{/* ... */}}{{ end }}
+{{ if $bySeries }}{{/* ... */}}{{ end }}
+{{ if $standalone }}{{/* ... */}}{{ end }}
+
+{{/* --- HTML RENDERING --- */}}
+<div class="government-directory">
+  <div class="directory-header">
+    <p class="directory-count">{{ len $allPages }} total entities <button id="download-md" class="download-button">↓ Download Index</button></p>
+  </div>
+
+  {{ if $byMinistry }}
+  <h2>Ministries</h2>
+  {{ range $key, $group := $byMinistry }}
+    {{ $niceName := replaceRE "-" " " $key | title }}
+    <div class="org-entry ministry-group">
+      <h3 class="ministry-title">{{ $niceName }}</h3>
+      <div class="ministry-children">
+        {{ range sort $group.main "Title" }}
+          <div class="child-org main-entry">
+            <a href="{{ .RelPermalink }}" class="child-name">{{ .Title }}</a>
+            {{ if .Description }}<span class="child-desc">{{ .Description }}</span>{{ end }}
+            {{ $sections := partial "partials/extract-sections" . }}{{ range $sectionTitle, $sectionHTML := $sections }}<div class="section-container"><div class="section-title">{{ $sectionTitle }}</div>{{ partial "partials/render-section-html" $sectionHTML }}</div>{{ end }}
+          </div>
+        {{ end }}
+        {{ if $group.children }}
+          {{ range sort $group.children "Title" }}
+            <div class="child-org">
+              <a href="{{ .RelPermalink }}" class="child-name">{{ .Title }}</a>
+              {{ if .Description }}<span class="child-desc">{{ .Description }}</span>{{ end }}
+              {{ $sections := partial "partials/extract-sections" . }}{{ range $sectionTitle, $sectionHTML := $sections }}<div class="section-container"><div class="section-title">{{ $sectionTitle }}</div>{{ partial "partials/render-section-html" $sectionHTML }}</div>{{ end }}
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+  {{ end }}
+
+  {{ if $byParliament }}
+  <h2>Parliaments</h2>
+  {{ range $key, $group := $byParliament }}
+    {{ $niceName := replaceRE "-" " " $key | title }}
+    <div class="org-entry ministry-group">
+      <h3 class="ministry-title">{{ $niceName }}</h3>
+      <div class="ministry-children">
+        {{ range sort $group.main "Title" }}
+          <div class="child-org main-entry">
+            <a href="{{ .RelPermalink }}" class="child-name">{{ .Title }}</a>
+            {{ if .Description }}<span class="child-desc">{{ .Description }}</span>{{ end }}
+            {{ $sections := partial "partials/extract-sections" . }}{{ range $sectionTitle, $sectionHTML := $sections }}<div class="section-container"><div class="section-title">{{ $sectionTitle }}</div>{{ partial "partials/render-section-html" $sectionHTML }}</div>{{ end }}
+          </div>
+        {{ end }}
+        {{ if $group.children }}
+          {{ range sort $group.children "Title" }}
+            <div class="child-org">
+              <a href="{{ .RelPermalink }}" class="child-name">{{ .Title }}</a>
+              {{ if .Description }}<span class="child-desc">{{ .Description }}</span>{{ end }}
+              {{ $sections := partial "partials/extract-sections" . }}{{ range $sectionTitle, $sectionHTML := $sections }}<div class="section-container"><div class="section-title">{{ $sectionTitle }}</div>{{ partial "partials/render-section-html" $sectionHTML }}</div>{{ end }}
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+  {{ end }}
+
+  {{ if $byIndustryType }}
+  <h2>Industries & Companies</h2>
+  {{ range $key, $pages := $byIndustryType }}
+    {{ $niceName := replaceRE "-" " " $key | title }}
+    <div class="org-entry industry-group">
+      <h3 class="ministry-title">{{ $niceName }}</h3>
+      <div class="ministry-children">
+        {{ range sort $pages "Title" }}
+          <div class="child-org">
+            <a href="{{ .RelPermalink }}" class="child-name">{{ .Title }}</a>
+            {{ if .Description }}<span class="child-desc">{{ .Description }}</span>{{ end }}
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+  {{ end }}
+
+  {{ if $bySeries }}
+    {{ range $series, $pages := $bySeries }}
+      {{ $niceName := printf "%ss" ($series | title) }}
+      <h2 style="margin-top: 2rem;">{{ $niceName }}</h2>
+      <div class="org-entry">
+        <div class="ministry-children">
+          {{ range sort $pages "Title" }}
+            <div class="child-org main-entry">
+              <a href="{{ .RelPermalink }}" class="child-name">{{ .Title }}</a>
+              {{ if .Description }}<span class="child-desc">{{ .Description }}</span>{{ end }}
+              {{ $sections := partial "partials/extract-sections" . }}{{ range $sectionTitle, $sectionHTML := $sections }}<div class="section-container"><div class="section-title">{{ $sectionTitle }}</div>{{ partial "partials/render-section-html" $sectionHTML }}</div>{{ end }}
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+  {{ end }}
+
+  {{ if $standalone }}
+  <h2 style="margin-top: 2rem;">Other Government Entities</h2>
+  <div class="org-entry">
+    <div class="ministry-children">
+      {{ range sort $standalone "Title" }}
+        <div class="child-org main-entry">
+          <a href="{{ .RelPermalink }}" class="child-name">{{ .Title }}</a>
+          {{ if .Description }}<span class="child-desc">{{ .Description }}</span>{{ end }}
+          {{ $sections := partial "partials/extract-sections" . }}{{ range $sectionTitle, $sectionHTML := $sections }}<div class="section-container"><div class="section-title">{{ $sectionTitle }}</div>{{ partial "partials/render-section-html" $sectionHTML }}</div>{{ end }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+</div>
+
+<pre id="markdown-source" style="display:none;">{{ $markdown }}</pre>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const btn = document.getElementById('download-md');
+  const markdownSource = document.getElementById('markdown-source');
+  if (btn && markdownSource) {
+    btn.addEventListener('click', function() {
+      try {
+        const markdown = markdownSource.textContent;
+        const blob = new Blob([markdown], { type: 'text/markdown;charset=utf-8' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'vekllei-national-index.md';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+      } catch (e) {
+        console.error("Markdown download failed:", e);
+      }
+    });
+  }
+});
+</script>
+<style>
+.government-directory { max-width: 1200px; margin: 0 auto; font-size: 0.9rem; }
+.directory-header { margin-bottom: 1rem; padding-bottom: 0.5rem; }
+.directory-count { color: var(--gray); font-size: 0.85rem; letter-spacing: 0.05em; margin: 0; display: flex; align-items: center; justify-content: space-between; }
+.download-button { padding: 0.4rem 0.9rem; cursor: pointer; background: var(--highlight); color: white; border: none; border-radius: 4px; font-size: 0.85rem; transition: all 0.2s; display: inline-flex; align-items: center; gap: 0.25rem; }
+.download-button:hover { background: var(--highlight); transform: translateY(-1px); }
+.download-button:active { transform: translateY(0); }
+.org-entry { margin-bottom: 1rem; padding: 0.75rem; background: var(--background-secondary); border-radius: 4px; border-left: 2px solid var(--gray-light); }
+.ministry-group, .industry-group { border-left-color: var(--gray-light); }
+.industry-group { border-left-color: var(--gray-light); }
+.ministry-title { margin: 0 0 0.5rem 0; font-size: 1rem; color: var(--text-primary); padding-bottom: 0.25rem; }
+.ministry-children { display: grid; gap: 0.5rem; }
+.child-org { padding: 0.5rem; background: var(--background); border-radius: 3px; border-left: 2px solid var(--gray-light); }
+.child-org.main-entry { padding: 0; background: none; border-radius: 0; border-left: none; }
+.child-name { font-weight: 600; text-transform: uppercase; display: block; color: var(--highlight); text-decoration: none; font-size: 0.9rem; margin-bottom: 0.15rem; }
+.child-name:hover { opacity: 0.7; }
+.child-desc { display: block; color: var(--text-secondary); font-size: 0.8rem; line-height: 1.3; margin-bottom: 0.35rem; }
+.section-container { margin-top: 0.5rem; padding: 0.5rem; background: rgba(0,0,0,0.015); border-radius: 3px; }
+.section-title { font-weight: bold; font-size: 0.8rem; color: var(--font-color); margin: 0 0 0.5rem 0; padding-bottom: 0.25rem; text-transform: uppercase; letter-spacing: 0.03em; }
+.extracted-section { font-size: 0.85rem; }
+.dept-group { margin-bottom: 0.5rem; padding-left: 0.5rem; border-left: 2px solid var(--gray-light); }
+.dept-name { color: var(--text-primary); margin-bottom: 0.25rem; font-size: 0.85rem; }
+.office-list { padding-left: 0.5rem; margin: 0; }
+.office-item { font-style: italic; color: var(--text-secondary); font-size: 0.8rem; padding: 0.15rem 0 0.15rem 0.5rem; border-left: 2px solid var(--gray-light); margin-bottom: 0.15rem; line-height: 1.3; }
+.dept-item { padding: 0.25rem 0 0.25rem 0.5rem; border-left: 2px solid var(--gray-light); color: var(--text-secondary); font-size: 0.8rem; margin-bottom: 0.25rem; line-height: 1.3; }
+@media (max-width: 640px) {
+  .org-entry { padding: 0.5rem; }
+  .government-directory { font-size: 0.85rem; }
+}
+</style>

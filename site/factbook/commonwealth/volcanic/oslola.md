@@ -41,6 +41,7 @@ Oslola is densely populated, and the metropolitan region in the south-east compr
 
 * **Rail Works**: Company manufacturing railway vehicles, carriages and commuter rail vehicles as part of [[Atlantic Works]].
 * **Federal Document Laboratory**: Specialised laboratory specialising in the restoration of historical documents and damaged [[photovolumes]]. Part of the [[Commonwealth Central Archives]].
-* **[[Firewalk]]**: Firewalk Tyres is a leading manufacturer of tyres headquarted in the Great Coast.
+* **[[Firewalk]]**: Firewalk Tyres is a leading manufacturer of tyres headquartered in the Great Coast.
+* **[[Commonwealth Arsenal]]**: The primary manufacturer of artillery and heavy weapons in the country.
 </details>
 

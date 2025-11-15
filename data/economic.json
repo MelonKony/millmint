@@ -1,0 +1,5393 @@
+{
+  "companies": {
+    "Adelectrics": {
+      "facilities": [
+        {
+          "location": "Santes",
+          "type": "workshop",
+          "employees": 16,
+          "note": "Small design and prototyping operation, family and friends of founder James Bell"
+        }
+      ],
+      "outputs": [
+        {
+          "category": "Technical Publications",
+          "commodity": "Product designs",
+          "fungibility": "unique",
+          "annual_quantity": 4,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "New consumer electronics designs licensed to manufacturers annually"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Circuit boards",
+          "fungibility": "unique",
+          "annual_quantity": 45,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Testing and development prototypes for product validation"
+        }
+      ],
+      "inputs": [
+        {
+          "category": "Electronic Components",
+          "commodity": "Circuit boards",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2400,
+          "unit": "units",
+          "source": "local",
+          "note": "Various electronic components for prototype assembly and testing"
+        },
+        {
+          "category": "Plastics & Polymers",
+          "commodity": "Plastics",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.18,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Cases and housings for prototype devices"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Circuit boards",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 120,
+          "unit": "units",
+          "source": "local",
+          "note": "Custom PCBs for development and testing"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.085,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Metal stock for chassis and structural components"
+        },
+        {
+          "category": "Specialised Equipment",
+          "commodity": "Testing equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 3,
+          "unit": "units",
+          "source": "local",
+          "note": "Electronic testing and measurement tools, replacement cycle"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Prototyping tools",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 12,
+          "unit": "units",
+          "source": "local",
+          "note": "Soldering stations, hand tools and bench equipment"
+        },
+        {
+          "category": "Electronics",
+          "commodity": "Computers",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 4,
+          "unit": "units",
+          "source": "local",
+          "note": "Workstations for design and CAD work"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 0.024,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Small workshop power requirements"
+        },
+        {
+          "category": "Technical Publications",
+          "commodity": "Technical specifications",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 45,
+          "unit": "subscriptions",
+          "source": "import",
+          "origin": [
+            "United States",
+            "Japan",
+            "Germany"
+          ],
+          "note": "Industry journals and standards documentation for design reference"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Professional Services",
+          "coverage": "Engineering consulting and technical support to licensees",
+          "note": "280 hours annually providing design guidance and troubleshooting"
+        },
+        {
+          "service_type": "Professional Services",
+          "coverage": "Product licensing and intellectual property management",
+          "note": "Three active licenses - Pocketvox (850k units), Commcard (45k units), Lightfast (12k units)"
+        }
+      ]
+    },
+    "Atlantic Department Company": {
+      "facilities": [
+        {
+          "location": "Oslola",
+          "type": "headquarters",
+          "employees": 2800,
+          "note": "Flagship store in Lonne (45,000 m² floor space) and corporate headquarters"
+        },
+        {
+          "location": "Distributed",
+          "type": "retail",
+          "employees": 13200,
+          "note": "119 department stores across most populous republics, average 8,500 m² floor space"
+        }
+      ],
+      "outputs": [],
+      "inputs": [
+        {
+          "category": "Apparel",
+          "commodity": "Clothing",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 8500000,
+          "unit": "units",
+          "source": "local",
+          "note": "Primary product category - diverse range of garments for men, women and children"
+        },
+        {
+          "category": "Footwear",
+          "commodity": "Shoes",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 1800000,
+          "unit": "units",
+          "source": "local",
+          "note": "Footwear across all categories and styles"
+        },
+        {
+          "category": "Personal Care",
+          "commodity": "Cosmetics and fragrances",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 4200000,
+          "unit": "units",
+          "source": "local",
+          "note": "Beauty and personal care products"
+        },
+        {
+          "category": "Household Goods",
+          "commodity": "Kitchenware",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2400000,
+          "unit": "units",
+          "source": "local",
+          "note": "Kitchen items, bed linens, textiles and household goods"
+        },
+        {
+          "category": "Furniture",
+          "commodity": "Residential furniture",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 180000,
+          "unit": "units",
+          "source": "local",
+          "note": "Home furnishings and decorative fixtures"
+        },
+        {
+          "category": "Apparel",
+          "commodity": "Accessories",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 3200000,
+          "unit": "units",
+          "source": "local",
+          "note": "Bags, jewellery, belts, scarves and small leather goods"
+        },
+        {
+          "category": "Textiles",
+          "commodity": "Cotton fabric",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 450000,
+          "unit": "metres",
+          "source": "local",
+          "note": "Fabrics for in-house tailoring workshops and alterations"
+        },
+        {
+          "category": "Household Goods",
+          "commodity": "Storage solutions",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 8500,
+          "unit": "units",
+          "source": "local",
+          "note": "Mannequins, shelving and product presentation equipment"
+        },
+        {
+          "category": "Electronics",
+          "commodity": "Computers",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 240,
+          "unit": "units",
+          "source": "local",
+          "note": "Inventory management and point-of-service systems"
+        },
+        {
+          "category": "Packaging Materials",
+          "commodity": "Paper bags",
+          "fungibility": "fungible",
+          "annual_quantity": 8000000,
+          "unit": "units",
+          "source": "local",
+          "note": "Shopping bags for customer purchases"
+        },
+        {
+          "category": "Packaging Materials",
+          "commodity": "Cardboard boxes",
+          "fungibility": "fungible",
+          "annual_quantity": 4000000,
+          "unit": "units",
+          "source": "local",
+          "note": "Gift boxes and product packaging"
+        },
+        {
+          "category": "Furniture",
+          "commodity": "Office furniture",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2400,
+          "unit": "units",
+          "source": "local",
+          "note": "Store fixtures, counters, lighting and interior elements"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 145,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Lighting, climate control and operations across 120 locations"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Water",
+          "annual_quantity": 280000,
+          "unit": "m3",
+          "source": "grid",
+          "note": "Restrooms and facility operations"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Retail Services",
+          "coverage": "120 department store locations across most populous republics",
+          "note": "Full-service retail distribution serving 42M annual transactions, 1.6 transactions per capita"
+        },
+        {
+          "service_type": "Concierge Services",
+          "coverage": "340 personal attendants and 28 tailoring workshops",
+          "note": "Personal shopping, fittings and alterations serving 180k annual appointments"
+        }
+      ]
+    },
+    "Atlantic Works": {
+      "facilities": [
+        {
+          "location": "Oslola",
+          "type": "headquarters",
+          "employees": 2800,
+          "note": "Rail Works - railway vehicles and equipment manufacturing"
+        },
+        {
+          "location": "Cama",
+          "type": "manufacturing",
+          "employees": 1600,
+          "note": "Adriatic Works - marine equipment and desalination systems"
+        },
+        {
+          "location": "Hetland",
+          "type": "manufacturing",
+          "employees": 1800,
+          "note": "Celtic Works - industrial machinery and machine tools"
+        },
+        {
+          "location": "Caicos",
+          "type": "manufacturing",
+          "employees": 1200,
+          "note": "Jet Works - specialised aircraft assembly"
+        },
+        {
+          "location": "Java",
+          "type": "manufacturing",
+          "employees": 2400,
+          "note": "Java Works - tools and construction materials"
+        },
+        {
+          "location": "Bahama",
+          "type": "manufacturing",
+          "employees": 1100,
+          "note": "Diesel Works - engines and pumps"
+        },
+        {
+          "location": "Barbary",
+          "type": "manufacturing",
+          "employees": 900,
+          "note": "Cold Works - refrigeration equipment"
+        },
+        {
+          "location": "Kairi",
+          "type": "manufacturing",
+          "employees": 1500,
+          "note": "Heavy Works - power generation equipment"
+        },
+        {
+          "location": "Meridia",
+          "type": "manufacturing",
+          "employees": 700,
+          "note": "Sahara Works - iron tools and equipment"
+        }
+      ],
+      "outputs": [
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Passenger trains",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 75,
+          "unit": "units",
+          "end_use": "transport",
+          "note": "Coral-series commuter trains, electric and diesel units for CommRail"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Passenger trains",
+          "fungibility": "unique",
+          "annual_quantity": 20,
+          "unit": "units",
+          "end_use": "transport",
+          "note": "Specialised rail vehicles for unique network requirements"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Freight wagons",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 25,
+          "unit": "units",
+          "end_use": "transport",
+          "note": "Diesel freight units for cargo operations"
+        },
+        {
+          "category": "Aircraft",
+          "commodity": "Seaplanes",
+          "fungibility": "unique",
+          "annual_quantity": 8,
+          "unit": "units",
+          "end_use": "transport",
+          "note": "Fairie seaplanes for CommPost and passenger transport"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Machine tools",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 1200,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Factory tooling and precision machinery"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Compressors",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 800,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Industrial air and gas compressors"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Printing machinery",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 600,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Commercial printing equipment"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Manufacturing equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 900,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Plastic injection moulding machinery"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Desalination equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 500,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Seawater processing systems"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Manufacturing equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 4,
+          "unit": "units",
+          "source": "import",
+          "note": "Replacement for large-scale Individual Section (IS) forming machines"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Moulds and tooling",
+          "fungibility": "unique",
+          "annual_quantity": 1350,
+          "unit": "units",
+          "source": "local",
+          "note": "Bottle and jar mould sets, replacement and design cycle"
+        },
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Engines",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2800,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Diesel engines for vehicles and equipment"
+        },
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Engines",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 1200,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Petrol engines for light vehicles and equipment"
+        },
+        {
+          "category": "Hydraulic & Pneumatic",
+          "commodity": "Pumps",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 1300,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Marine and industrial pumps"
+        },
+        {
+          "category": "Power Generation",
+          "commodity": "Turbine generators",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 60,
+          "unit": "units",
+          "end_use": "energy",
+          "note": "Steam and gas turbines for power generation"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Heat exchangers",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 80,
+          "unit": "units",
+          "end_use": "energy",
+          "note": "Industrial boilers for heating and power"
+        },
+        {
+          "category": "Power Generation",
+          "commodity": "Combined cycle systems",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 40,
+          "unit": "units",
+          "end_use": "energy",
+          "note": "Integrated gas turbine and steam systems"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Refrigeration equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 8000,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Commercial and industrial cooling systems"
+        },
+        {
+          "category": "Packaging Materials",
+          "commodity": "Shipping containers",
+          "fungibility": "fungible",
+          "annual_quantity": 1200,
+          "unit": "units",
+          "end_use": "transport",
+          "note": "Standard shipping containers for maritime transport"
+        },
+        {
+          "category": "Consumer Goods",
+          "commodity": "Power tools",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 180000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Electric and pneumatic tools for consumer and commercial use"
+        },
+        {
+          "category": "Consumer Goods",
+          "commodity": "Hand tools",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 200000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Manual tools for household and workshop use"
+        },
+        {
+          "category": "Consumer Goods",
+          "commodity": "Iron tools",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 70000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Specialised iron implements and tools"
+        },
+        {
+          "category": "Construction Materials",
+          "commodity": "Construction materials",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 12,
+          "unit": "tonnes",
+          "end_use": "construction",
+          "note": "Fabricated steel and metal construction components"
+        }
+      ],
+      "inputs": [
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "annual_quantity": 28,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Primary material for machinery frames and heavy equipment"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "annual_quantity": 4.5,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Marine equipment and specialised machinery requiring corrosion resistance"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "annual_quantity": 5.25,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Germany",
+            "Japan"
+          ],
+          "note": "Specialised steel alloys for high-wear tooling and mould fabrication"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Aluminium",
+          "annual_quantity": 3.2,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Aircraft structures and lightweight components"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Cast iron",
+          "annual_quantity": 8.5,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Engine blocks, machine bases and heavy machinery"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Copper",
+          "annual_quantity": 1.2,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Electrical wiring and conductive components"
+        },
+        {
+          "category": "Plastics & Polymers",
+          "commodity": "Natural rubber",
+          "annual_quantity": 0.85,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Malaysia",
+            "Indonesia"
+          ],
+          "note": "Seals, gaskets and vibration dampening"
+        },
+        {
+          "category": "Plastics & Polymers",
+          "commodity": "Plastics",
+          "annual_quantity": 1.4,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Component housings and mechanical parts"
+        },
+        {
+          "category": "Glass & Ceramics",
+          "commodity": "Glass",
+          "annual_quantity": 0.45,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Windows, gauges and optical components"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Circuit boards",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 280000,
+          "unit": "units",
+          "source": "local",
+          "note": "Control systems and instrumentation electronics"
+        },
+        {
+          "category": "Hydraulic & Pneumatic",
+          "commodity": "Hydraulic cylinders",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 45000,
+          "unit": "units",
+          "source": "import",
+          "origin": [
+            "Germany",
+            "Japan"
+          ],
+          "note": "Specialised hydraulic systems for heavy machinery"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 120,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Manufacturing operations and equipment testing"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Water",
+          "annual_quantity": 450000,
+          "unit": "m3",
+          "source": "grid",
+          "note": "Cooling systems and manufacturing processes"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Professional Services",
+          "coverage": "Engineering design and consulting across 200+ workshops",
+          "note": "Technical expertise provided to cooperative members"
+        }
+      ]
+    },
+    "Atlantis": {
+      "facilities": [],
+      "outputs": [],
+      "inputs": [],
+      "services": []
+    },
+    "Avro": {
+      "facilities": [
+        {
+          "location": "Karu",
+          "type": "headquarters",
+          "employees": 640,
+          "note": "Design, engineering and administration centre"
+        },
+        {
+          "location": "Karu",
+          "type": "manufacturing",
+          "employees": 400,
+          "annual_capacity": 25000,
+          "note": "Primary assembly plant with robotic production lines"
+        },
+        {
+          "location": "Oslola",
+          "type": "manufacturing",
+          "employees": 350,
+          "annual_capacity": 15000,
+          "note": "Secondary assembly plant"
+        },
+        {
+          "location": "Tenerife",
+          "type": "manufacturing",
+          "employees": 250,
+          "annual_capacity": 10000,
+          "note": "Regional assembly plant serving Atlantic Commonwealth"
+        }
+      ],
+      "outputs": [
+        {
+          "category": "Automobiles",
+          "commodity": "Passenger cars",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 8400,
+          "unit": "units",
+          "end_use": "government",
+          "note": "GTV sports sedan for government and police services"
+        },
+        {
+          "category": "Automobiles",
+          "commodity": "Passenger cars",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 21000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Avro 100 compact 2-door for autopools"
+        },
+        {
+          "category": "Automobiles",
+          "commodity": "Passenger cars",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 6300,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Estate cars for autopools and family use"
+        },
+        {
+          "category": "Automobiles",
+          "commodity": "Trucks",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 4200,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Light utility vehicles for commercial and industrial use"
+        },
+        {
+          "category": "Military Vehicles",
+          "commodity": "Armoured personnel carriers",
+          "fungibility": "unique",
+          "annual_quantity": 840,
+          "unit": "units",
+          "end_use": "government",
+          "note": "Municipal Police Interceptor based on GTV platform"
+        },
+        {
+          "category": "Military Vehicles",
+          "commodity": "Armoured personnel carriers",
+          "fungibility": "unique",
+          "annual_quantity": 420,
+          "unit": "units",
+          "end_use": "military",
+          "note": "Commando Police Armoured Car, six-wheeled tactical vehicle"
+        },
+        {
+          "category": "Automobiles",
+          "commodity": "Passenger cars",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 840,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Specialised and limited production models"
+        },
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Automotive spare parts",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 850000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Direct sales to public for vehicle repairs and maintenance"
+        }
+      ],
+      "inputs": [
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "annual_quantity": 12.6,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Chassis, body panels and structural components"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Aluminium",
+          "annual_quantity": 3.15,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Engine blocks and lightweight body components"
+        },
+        {
+          "category": "Glass & Ceramics",
+          "commodity": "Glass",
+          "annual_quantity": 168,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Windows and windscreens (converted from dm²)"
+        },
+        {
+          "category": "Plastics & Polymers",
+          "commodity": "Natural rubber",
+          "annual_quantity": 0.04,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Malaysia",
+            "Indonesia",
+            "Brazil"
+          ],
+          "note": "Seals and gaskets"
+        },
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Tyres",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 168000,
+          "unit": "units",
+          "source": "local",
+          "note": "Complete tyre sets for vehicle production (4 per vehicle)"
+        },
+        {
+          "category": "Plastics & Polymers",
+          "commodity": "Plastics",
+          "annual_quantity": 2.52,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Interior trim, dashboard components and fittings"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Circuit boards",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 126000,
+          "unit": "units",
+          "source": "local",
+          "note": "Control systems, instruments and lighting electronics"
+        },
+        {
+          "category": "Textiles",
+          "commodity": "Upholstery fabrics",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 189,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Seats and interior trim materials (converted from dm²)"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Paint and coatings",
+          "annual_quantity": 0.315,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Body finishing and protective coatings"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 28,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Robotic assembly lines and manufacturing facilities"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Retail Services",
+          "coverage": "Direct spare parts sales through dealership network",
+          "note": "Parts distribution for vehicle maintenance and repairs"
+        }
+      ]
+    },
+    "Caribbea Cane": {
+      "facilities": [
+        {
+          "location": "Praia",
+          "type": "headquarters",
+          "employees": 1800,
+          "annual_capacity": 23000000,
+          "note": "Praia Sugar Works - super-refinery and integrated fermentation plant"
+        },
+        {
+          "location": "Bahama",
+          "type": "processing",
+          "employees": 2400,
+          "annual_capacity": 23000000,
+          "note": "Lucaya Refining & Separation Works - super-refinery serving northern Lucaya"
+        },
+        {
+          "location": "Mira",
+          "type": "processing",
+          "employees": 2200,
+          "annual_capacity": 23000000,
+          "note": "Atlantic Sugar Works - western super-refinery and fermentation plant"
+        },
+        {
+          "location": "Verde and Lucaya",
+          "type": "manufacturing",
+          "employees": 15600,
+          "note": "Plantation networks across 212,000 hectares, cultivation and support operations"
+        }
+      ],
+      "outputs": [
+        {
+          "category": "Food Products",
+          "commodity": "Refined sugar",
+          "specification": "",
+          "fungibility": "fungible",
+          "annual_quantity": "6700",
+          "unit": "tonnes",
+          "end_use": "general_population",
+          "note": "Primary sugar supply for Vekllei food industry and households"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Bacterial cultures",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 820,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Culture media for synthetic meat production facilities"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Amino acids",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 145,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Fermentation products for food and pharmaceutical industries"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Recombinant proteins",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 28,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Proteins for cultivated meat production"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Lipids",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 42,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Fats for synthetic meat flavour and texture"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Vitamins",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 1.8,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "B-complex and other vitamins from fermentation"
+        },
+        {
+          "category": "Food Products",
+          "commodity": "Molasses",
+          "fungibility": "fungible",
+          "annual_quantity": 1200,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Industrial fermentation feedstock and animal feed"
+        },
+        {
+          "category": "Energy Resources",
+          "commodity": "Bagasse",
+          "fungibility": "fungible",
+          "annual_quantity": 15000,
+          "unit": "tonnes",
+          "end_use": "energy",
+          "note": "Cogeneration fuel providing 820 GWh annually, meets 82% of plant power needs"
+        }
+      ],
+      "inputs": [
+        {
+          "category": "Agricultural Products",
+          "commodity": "Sugar cane",
+          "annual_quantity": 69000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "From 212,000 hectares across Verde and Lucaya constituents"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Water",
+          "annual_quantity": 850000,
+          "unit": "m3",
+          "source": "grid",
+          "note": "Irrigation for cane cultivation"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Water",
+          "annual_quantity": 42000,
+          "unit": "m3",
+          "source": "grid",
+          "note": "Refining and fermentation processes"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Fertilisers",
+          "annual_quantity": 185,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Nitrogen, phosphorus and potassium for cane cultivation"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Harvesters",
+          "annual_quantity": 450,
+          "unit": "units",
+          "source": "local",
+          "note": "Replacement cycle for cultivation equipment"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Processing chemicals",
+          "annual_quantity": 28,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Germany",
+            "United States"
+          ],
+          "note": "Clarifying agents, enzymes and fermentation additives"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Bacterial cultures",
+          "annual_quantity": 1.2,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "United States",
+            "Netherlands"
+          ],
+          "note": "Specialised strains for fermentation processes"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Fermentation vessels",
+          "annual_quantity": 85,
+          "unit": "units",
+          "source": "local",
+          "note": "Industrial bioreactors, replacement cycle"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Refining equipment",
+          "annual_quantity": 120,
+          "unit": "units",
+          "source": "local",
+          "note": "Centrifuges, evaporators and crystallisers"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Desalination equipment",
+          "annual_quantity": 12,
+          "unit": "units",
+          "source": "local",
+          "note": "Seawater processing for coastal operations"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 180,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Supplemental power beyond bagasse cogeneration (18% of total needs)"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Agricultural Services",
+          "coverage": "212,000 hectares across Verde and Lucaya",
+          "note": "Cane cultivation, harvesting and plantation management"
+        }
+      ]
+    },
+    "Cateral": {
+      "facilities": [
+        {
+          "location": "Kairi",
+          "type": "headquarters",
+          "employees": 680,
+          "note": "Governing council and research coordination centre"
+        },
+        {
+          "location": "Kairi",
+          "type": "manufacturing",
+          "employees": 1200,
+          "note": "Primary production facility for rifles and ammunition"
+        },
+        {
+          "location": "Distributed",
+          "type": "manufacturing",
+          "employees": 1524,
+          "note": "16 additional workshops and factories across six republics"
+        }
+      ],
+      "outputs": [
+        {
+          "category": "Armaments",
+          "commodity": "Military rifles",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 38000,
+          "unit": "units",
+          "end_use": "military",
+          "note": "No. 14 standard-issue rifle for Vekllei Armed Forces"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Military rifles",
+          "fungibility": "unique",
+          "annual_quantity": 7000,
+          "unit": "units",
+          "end_use": "military",
+          "note": "Specialist variants for marksmen and special forces"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Handguns",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 18000,
+          "unit": "units",
+          "end_use": "military",
+          "note": "Service pistols and specialist sidearms"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Machine guns",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2100,
+          "unit": "units",
+          "end_use": "military",
+          "note": "Light machine guns for squad support"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Machine guns",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 1100,
+          "unit": "units",
+          "end_use": "military",
+          "note": "Heavy machine guns for defensive positions"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Sporting firearms",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 12000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Civilian hunting and sport rifles"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Small arms ammunition",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 65000000,
+          "unit": "units",
+          "end_use": "military",
+          "note": "Standard rifle cartridges"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Small arms ammunition",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 15000000,
+          "unit": "units",
+          "end_use": "military",
+          "note": "Pistol and sidearm ammunition"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Small arms ammunition",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 5000000,
+          "unit": "units",
+          "end_use": "military",
+          "note": "Belted machine gun ammunition"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Military rifles",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 28000,
+          "unit": "units",
+          "end_use": "export",
+          "note": "International arms sales to aligned nations"
+        }
+      ],
+      "inputs": [
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2.8,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "High-grade steel for barrels and actions"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 1.2,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Receivers and frames"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Aluminium",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.45,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Lightweight components for modern firearms"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Brass",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 3.2,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Ammunition casings"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Lead",
+          "fungibility": "fungible",
+          "annual_quantity": 1.8,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Australia",
+            "Peru"
+          ],
+          "note": "Bullets and projectiles"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Copper",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.28,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Bullet jackets and electrical components"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Gunpowder",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.42,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Propellant for ammunition"
+        },
+        {
+          "category": "Forestry Products",
+          "commodity": "Timber",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.18,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Indonesia",
+            "Brazil"
+          ],
+          "note": "Rifle stocks and furniture"
+        },
+        {
+          "category": "Plastics & Polymers",
+          "commodity": "Plastics",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.095,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Synthetic stocks and modern components"
+        },
+        {
+          "category": "Optical Components",
+          "commodity": "Optical sensors",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 28000,
+          "unit": "units",
+          "source": "local",
+          "note": "Iron sights, scopes and optical systems"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Machine tools",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 45,
+          "unit": "units",
+          "source": "local",
+          "note": "CNC mills and precision manufacturing equipment, replacement cycle"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 28,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Manufacturing, testing and proof range operations"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Water",
+          "annual_quantity": 85000,
+          "unit": "m3",
+          "source": "grid",
+          "note": "Cooling and industrial processing"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Professional Services",
+          "coverage": "Research and development coordination across 17 workshops",
+          "note": "120 research prototypes annually, continuous improvement programme"
+        }
+      ]
+    },
+    "CommRail": {
+      "facilities": [
+        {
+          "location": "Oslola",
+          "type": "headquarters",
+          "employees": 22800,
+          "note": "Pharos headquarters, Oslola Metropolitan Railway and major workshops"
+        },
+        {
+          "location": "Distributed",
+          "type": "depot",
+          "employees": 42400,
+          "note": "3,200+ stations and 850+ maintenance workshops across all 83 republics"
+        }
+      ],
+      "outputs": [],
+      "inputs": [
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Electric multiple units",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 56999,
+          "unit": "units",
+          "source": "local",
+          "note": "Existing fleet - 1000mm gauge EMUs, 354,948 cars total"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Electric multiple units",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2159,
+          "unit": "units",
+          "source": "local",
+          "note": "Existing fleet - Specialty narrow gauge (760mm-1000mm) for challenging terrain"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Passenger trains",
+          "fungibility": "unique",
+          "annual_quantity": 78,
+          "unit": "units",
+          "source": "local",
+          "note": "Existing fleet - Standard gauge (1435mm) high-speed trainsets, 624 cars"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Passenger trains",
+          "fungibility": "unique",
+          "annual_quantity": 14,
+          "unit": "units",
+          "source": "local",
+          "note": "Existing fleet - Super-conductive maglev trainsets, 70 cars"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Diesel units",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 4851,
+          "unit": "units",
+          "source": "local",
+          "note": "Existing fleet - Narrow gauge (1000mm) DMUs, 19,404 cars"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Trams",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 9502,
+          "unit": "units",
+          "source": "local",
+          "note": "Existing fleet - Urban trams (1000mm gauge)"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Trams",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 10038,
+          "unit": "units",
+          "source": "local",
+          "note": "Existing fleet - Village and rural trams (600mm-1000mm gauge)"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Trams",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 4582,
+          "unit": "units",
+          "source": "local",
+          "note": "Existing fleet - Island micro-trams (600mm gauge)"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Freight locomotives",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 1547,
+          "unit": "units",
+          "source": "local",
+          "note": "Existing fleet - Electric freight locomotives (1000mm gauge)"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Freight locomotives",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 524,
+          "unit": "units",
+          "source": "local",
+          "note": "Existing fleet - Diesel freight locomotives (1000mm gauge)"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Freight wagons",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 43093,
+          "unit": "units",
+          "source": "local",
+          "note": "Existing fleet - Box cars, container cars, tank cars, specialized wagons"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Passenger carriages",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 7672,
+          "unit": "units",
+          "source": "local",
+          "note": "Existing fleet - Passenger cars including sleepers, dining and observation cars"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Industrial trams",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 4919,
+          "unit": "units",
+          "source": "local",
+          "note": "Existing fleet - Factory trams, port tramways, industrial shunters"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Heritage locomotives",
+          "fungibility": "unique",
+          "annual_quantity": 245,
+          "unit": "units",
+          "source": "local",
+          "note": "Existing fleet - Steam locomotives in revenue service (1920-present)"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Speciality rail vehicles",
+          "fungibility": "unique",
+          "annual_quantity": 764,
+          "unit": "units",
+          "source": "local",
+          "note": "Existing fleet - Cable cars, funiculars, rack railways, maintenance vehicles"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Electric multiple units",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2400,
+          "unit": "units",
+          "source": "local",
+          "note": "Annual procurement from Atlantic Works and other suppliers, replacement cycle"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Trams",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 850,
+          "unit": "units",
+          "source": "local",
+          "note": "Annual tram procurement for network expansion and replacement"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Freight wagons",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 1200,
+          "unit": "units",
+          "source": "local",
+          "note": "Annual freight wagon procurement"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 85000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Track rails, switches and infrastructure steel"
+        },
+        {
+          "category": "Construction Materials",
+          "commodity": "Concrete",
+          "fungibility": "fungible",
+          "annual_quantity": 420000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Station platforms, tunnels and infrastructure"
+        },
+        {
+          "category": "Construction Materials",
+          "commodity": "Aggregates",
+          "fungibility": "fungible",
+          "annual_quantity": 680000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Track ballast and foundation materials"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Circuit boards",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 45000,
+          "unit": "units",
+          "source": "local",
+          "note": "Signal systems and train control electronics"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Transformers",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2400,
+          "unit": "units",
+          "source": "local",
+          "note": "Substation and catenary power supply"
+        },
+        {
+          "category": "Mechanical Components",
+          "commodity": "Wheels and rims",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 180000,
+          "unit": "units",
+          "source": "local",
+          "note": "Rolling stock wheel sets, replacement cycle"
+        },
+        {
+          "category": "Mechanical Components",
+          "commodity": "Bearings",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 850000,
+          "unit": "units",
+          "source": "local",
+          "note": "Axle bearings for rolling stock"
+        },
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Brake components",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 320000,
+          "unit": "units",
+          "source": "local",
+          "note": "Brake systems for rolling stock"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 8500,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Traction power, stations and workshop operations"
+        },
+        {
+          "category": "Refined Petroleum",
+          "commodity": "Diesel",
+          "fungibility": "fungible",
+          "annual_quantity": 85000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Diesel locomotives and maintenance vehicles"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Industrial lubricants",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 4200,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Rolling stock and track maintenance"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Water",
+          "annual_quantity": 2400000,
+          "unit": "cubic_metres",
+          "source": "grid",
+          "note": "Station facilities and maintenance operations"
+        },
+        {
+          "category": "Apparel",
+          "commodity": "Uniforms",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 85000,
+          "unit": "units",
+          "source": "local",
+          "note": "Staff uniforms for 65,240 employees plus apprentices"
+        },
+        {
+          "category": "Consumer Goods",
+          "commodity": "Safety equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 75000,
+          "unit": "units",
+          "source": "local",
+          "note": "Safety vests, helmets, communication devices for staff"
+        },
+        {
+          "category": "Electronics",
+          "commodity": "Communication devices",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 12000,
+          "unit": "units",
+          "source": "local",
+          "note": "Radios, tablets and communication equipment for operations"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Track maintenance equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 450,
+          "unit": "units",
+          "source": "local",
+          "note": "Ballast tampers, rail grinders, replacement cycle"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Workshop equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2800,
+          "unit": "units",
+          "source": "local",
+          "note": "Rolling stock maintenance equipment across 850+ workshops"
+        },
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Maintenance vehicles",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 1225,
+          "unit": "units",
+          "source": "local",
+          "note": "Existing fleet - Track inspection, crane cars, snow plows, service vehicles"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Transport Services",
+          "coverage": "3,200+ stations across all 83 republics serving 20M daily passengers",
+          "note": "Comprehensive rail network including metro, intercity, high-speed and freight services"
+        },
+        {
+          "service_type": "Freight Services",
+          "coverage": "CommRail Freight Federation with mainline and last-mile delivery",
+          "note": "Primary land freight transport throughout Commonwealth"
+        },
+        {
+          "service_type": "Professional Services",
+          "coverage": "Railway Working Council and constituent company coordination",
+          "note": "Federal coordination of 400+ constituent municipal rail corporations"
+        }
+      ]
+    },
+    "Commonwealth Oil": {
+      "facilities": [
+        {
+          "location": "Kairi",
+          "type": "headquarters",
+          "employees": 4200,
+          "note": "Corporate headquarters and Americas Basin operations centre"
+        },
+        {
+          "location": "Hetland",
+          "type": "processing",
+          "employees": 2800,
+          "annual_capacity": 18000000,
+          "note": "Sullom Voe National Super-refinery"
+        },
+        {
+          "location": "Curacao",
+          "type": "processing",
+          "employees": 3100,
+          "annual_capacity": 22000000,
+          "note": "Complex Oil Refinery - largest in Commonwealth"
+        },
+        {
+          "location": "Aruba",
+          "type": "processing",
+          "employees": 2400,
+          "annual_capacity": 16000000,
+          "note": "Super-refinery serving Caribbean operations"
+        },
+        {
+          "location": "Oslola",
+          "type": "processing",
+          "employees": 1800,
+          "annual_capacity": 8000000,
+          "note": "Austor Nord Works and Commonwealth Hydrogen Works"
+        },
+        {
+          "location": "Distributed",
+          "type": "manufacturing",
+          "employees": 8000,
+          "note": "Offshore platforms, terminals, pipeline operations and minor refineries across EEZ"
+        }
+      ],
+      "outputs": [
+        {
+          "category": "Refined Petroleum",
+          "commodity": "Gasoline",
+          "fungibility": "fungible",
+          "annual_quantity": 4200000,
+          "unit": "tonnes",
+          "end_use": "transport",
+          "note": "Motor fuel for legacy vehicles and specialized applications"
+        },
+        {
+          "category": "Refined Petroleum",
+          "commodity": "Diesel",
+          "fungibility": "fungible",
+          "annual_quantity": 8500000,
+          "unit": "tonnes",
+          "end_use": "transport",
+          "note": "Diesel fuel for vehicles and marine vessels"
+        },
+        {
+          "category": "Refined Petroleum",
+          "commodity": "Kerosene",
+          "fungibility": "fungible",
+          "annual_quantity": 3800000,
+          "unit": "tonnes",
+          "end_use": "transport",
+          "note": "Aviation fuel and heating applications"
+        },
+        {
+          "category": "Refined Petroleum",
+          "commodity": "Industrial lubricants",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 850000,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Specialized lubricants for machinery and equipment"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Petrochemicals",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 12000000,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Chemical industry feedstock for plastics and synthetics"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Synthetic rubber",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 480000,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Rubber production for manufacturing"
+        },
+        {
+          "category": "Energy Resources",
+          "commodity": "Natural gas",
+          "fungibility": "fungible",
+          "annual_quantity": 18000000,
+          "unit": "tonnes",
+          "end_use": "energy",
+          "note": "LNG for heating and industrial applications"
+        },
+        {
+          "category": "Energy Resources",
+          "commodity": "Hydrogen",
+          "fungibility": "fungible",
+          "annual_quantity": 320000,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Industrial hydrogen from Commonwealth Hydrogen Works"
+        },
+        {
+          "category": "Refined Petroleum",
+          "commodity": "Export crude oil",
+          "fungibility": "fungible",
+          "annual_quantity": 28000000,
+          "unit": "tonnes",
+          "end_use": "export",
+          "note": "Crude oil exports to international markets"
+        },
+        {
+          "category": "Refined Petroleum",
+          "commodity": "Export refined products",
+          "fungibility": "fungible",
+          "annual_quantity": 15000000,
+          "unit": "tonnes",
+          "end_use": "export",
+          "note": "Refined petroleum products for export markets"
+        }
+      ],
+      "inputs": [
+        {
+          "category": "Energy Resources",
+          "commodity": "Crude oil",
+          "fungibility": "fungible",
+          "annual_quantity": 92000000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Extracted from offshore fields in Kala, Kairi, Falklands, Helvasia"
+        },
+        {
+          "category": "Energy Resources",
+          "commodity": "Natural gas",
+          "fungibility": "fungible",
+          "annual_quantity": 24000000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Extracted from Arctic Rainbow Gas Basin and associated gas"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Chemical additives",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 280000,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "United States",
+            "Germany",
+            "Netherlands"
+          ],
+          "note": "Catalysts and processing chemicals for refining"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Drilling equipment",
+          "fungibility": "unique",
+          "annual_quantity": 85,
+          "unit": "units",
+          "source": "import",
+          "origin": [
+            "Norway",
+            "United States",
+            "United Kingdom"
+          ],
+          "note": "Offshore drilling platforms and subsea equipment"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Refining equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 450,
+          "unit": "units",
+          "source": "local",
+          "note": "Distillation columns, crackers and processing units, replacement cycle"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Pipeline infrastructure",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 12000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Subsea and overland pipeline construction and maintenance"
+        },
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Tanker vessels",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 8,
+          "unit": "units",
+          "source": "local",
+          "note": "Oil tankers for transport operations, replacement cycle"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 4800,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Refining operations and offshore platform power"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Water",
+          "annual_quantity": 28000000,
+          "unit": "cubic_metres",
+          "source": "local",
+          "note": "Refining processes and cooling systems"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Steam",
+          "fungibility": "fungible",
+          "annual_quantity": 8500000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Generated onsite for refining processes"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Professional Services",
+          "coverage": "Research and development through Oil Survey Section and Energy Chemistry LSRE divisions",
+          "note": "Offshore and undersea extraction expertise, subsea pipeline engineering"
+        },
+        {
+          "service_type": "Logistics Services",
+          "coverage": "Strategic oil reserves and international distribution network",
+          "note": "Bunkering services, subsea cable connections to US and South American grids"
+        }
+      ]
+    },
+    "Common Gemstone": {
+      "facilities": [
+        {
+          "location": "Kala",
+          "type": "headquarters",
+          "employees": 820,
+          "note": "Primary synthesis facilities and research centre for gemstone production"
+        },
+        {
+          "location": "Oslola",
+          "type": "manufacturing",
+          "employees": 1150,
+          "note": "High-pressure diamond synthesis and industrial gemstone production"
+        },
+        {
+          "location": "Distributed",
+          "type": "manufacturing",
+          "employees": 1050,
+          "note": "Constituent companies across multiple republics, security for closed mine sites"
+        }
+      ],
+      "outputs": [
+        {
+          "category": "Gemstones & Precious Materials",
+          "commodity": "Diamond",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2500,
+          "unit": "kg",
+          "end_use": "industrial",
+          "note": "Cutting tools, drill bits, precision machining applications (12.5M carats)"
+        },
+        {
+          "category": "Gemstones & Precious Materials",
+          "commodity": "Diamond abrasives",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 8.4,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Grinding wheels, polishing compounds and industrial abrasives"
+        },
+        {
+          "category": "Gemstones & Precious Materials",
+          "commodity": "Sapphire",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 840,
+          "unit": "kg",
+          "end_use": "industrial",
+          "note": "Watch crystals, optical windows, semiconductor substrates (4.2M carats)"
+        },
+        {
+          "category": "Gemstones & Precious Materials",
+          "commodity": "Ruby",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 170,
+          "unit": "kg",
+          "end_use": "industrial",
+          "note": "Laser components, bearing surfaces, precision instruments (850k carats)"
+        },
+        {
+          "category": "Optical Components",
+          "commodity": "Quartz oscillators",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 28,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Electronics, oscillators, optical components"
+        },
+        {
+          "category": "Gemstones & Precious Materials",
+          "commodity": "Garnet",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 640,
+          "unit": "kg",
+          "end_use": "industrial",
+          "note": "Abrasive applications and water filtration (3.2M carats)"
+        },
+        {
+          "category": "Gemstones & Precious Materials",
+          "commodity": "Diamond",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 240,
+          "unit": "kg",
+          "end_use": "general_population",
+          "note": "Commercial jewellery and decorative applications (1.2M carats)"
+        },
+        {
+          "category": "Gemstones & Precious Materials",
+          "commodity": "Sapphire",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 160,
+          "unit": "kg",
+          "end_use": "general_population",
+          "note": "Commercial jewellery grade sapphires (800k carats)"
+        },
+        {
+          "category": "Gemstones & Precious Materials",
+          "commodity": "Ruby",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 90,
+          "unit": "kg",
+          "end_use": "general_population",
+          "note": "Commercial jewellery grade rubies (450k carats)"
+        },
+        {
+          "category": "Gemstones & Precious Materials",
+          "commodity": "Semiprecious stones",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 1700,
+          "unit": "kg",
+          "end_use": "general_population",
+          "note": "Various ornamental and decorative stones (8.5M carats)"
+        },
+        {
+          "category": "Gemstones & Precious Materials",
+          "commodity": "Diamond",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 840,
+          "unit": "kg",
+          "end_use": "export",
+          "note": "Surplus production impacting international gemstone markets (4.2M carats)"
+        }
+      ],
+      "inputs": [
+        {
+          "category": "Mineral Resources",
+          "commodity": "Graphite",
+          "annual_quantity": 4.5,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "China",
+            "Sri Lanka"
+          ],
+          "note": "Diamond synthesis feedstock"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Aluminium oxide",
+          "annual_quantity": 2.4,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Sapphire and ruby synthesis"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Beryllium oxide",
+          "annual_quantity": 0.18,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "United States",
+            "Kazakhstan"
+          ],
+          "note": "Emerald synthesis"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Silicon dioxide",
+          "annual_quantity": 8.5,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Quartz crystal growth"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Metal catalysts",
+          "annual_quantity": 0.45,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Germany",
+            "Japan"
+          ],
+          "note": "Synthesis process catalysts and flux materials"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Chromium compounds",
+          "annual_quantity": 0.085,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "South Africa",
+            "Kazakhstan"
+          ],
+          "note": "Ruby colouring agents"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Titanium compounds",
+          "annual_quantity": 0.065,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Australia",
+            "Canada"
+          ],
+          "note": "Sapphire colouring agents"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "High-pressure equipment",
+          "annual_quantity": 24,
+          "unit": "units",
+          "source": "import",
+          "origin": [
+            "Sweden",
+            "Germany"
+          ],
+          "note": "HPHT presses for diamond synthesis, replacement cycle"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Crystal growth furnaces",
+          "annual_quantity": 18,
+          "unit": "units",
+          "source": "local",
+          "note": "Flux and hydrothermal growth systems, replacement cycle"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Cutting and polishing equipment",
+          "annual_quantity": 85,
+          "unit": "units",
+          "source": "local",
+          "note": "Gemstone processing machinery, replacement cycle"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 480,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Energy-intensive high-pressure and high-temperature processes"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Water",
+          "annual_quantity": 120000,
+          "unit": "m3",
+          "source": "grid",
+          "note": "Cooling and hydrothermal processes"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Gas",
+          "annual_quantity": 1.2,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "United States",
+            "Germany"
+          ],
+          "note": "Argon and nitrogen for controlled atmosphere synthesis"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Retail Services",
+          "coverage": "Direct sales through Vekllei jewellery retailers",
+          "note": "Commercial and industrial gemstone distribution"
+        }
+      ]
+    },
+    "Federal Timekeeping": {
+      "facilities": [
+        {
+          "location": "Velas",
+          "type": "headquarters",
+          "employees": 800,
+          "annual_capacity": 355000,
+          "note": "Centralised automatic production facility for all Federal brands"
+        },
+        {
+          "location": "Oslola",
+          "type": "workshop",
+          "employees": 200,
+          "note": "Design studios for Halibut, Orchard & Rhodes, and Atlantic Movements"
+        },
+        {
+          "location": "Kala",
+          "type": "workshop",
+          "employees": 100,
+          "note": "Design studios for various constituent watchmakers"
+        },
+        {
+          "location": "Kairi",
+          "type": "manufacturing",
+          "employees": 80,
+          "note": "General Chronometer specialised production facility"
+        },
+        {
+          "location": "Java",
+          "type": "workshop",
+          "employees": 20,
+          "note": "Africa brand design studio"
+        }
+      ],
+      "outputs": [
+        {
+          "category": "Timepieces",
+          "commodity": "Mechanical wristwatch",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 180000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Halibut, Orchard & Rhodes, Africa, Royal brands - standard automatic watches"
+        },
+        {
+          "category": "Timepieces",
+          "commodity": "Quartz wristwatch",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 95000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Quartz brand - electronic oscillator watches"
+        },
+        {
+          "category": "Timepieces",
+          "commodity": "Sports/diving wristwatch",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 45000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Orchard & Rhodes - specialised sports and diving watches"
+        },
+        {
+          "category": "Timepieces",
+          "commodity": "Military chronometer",
+          "fungibility": "unique",
+          "annual_quantity": 8000,
+          "unit": "units",
+          "end_use": "military",
+          "note": "General Chronometer - heavy-duty military-grade chronometers"
+        },
+        {
+          "category": "Timepieces",
+          "commodity": "Luxury wristwatch",
+          "fungibility": "unique",
+          "annual_quantity": 12000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Royal brand - premium timepieces for domestic luxury market"
+        },
+        {
+          "category": "Timepieces",
+          "commodity": "Pocket watch",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 15000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Halibut brand - traditional pocket watches"
+        },
+        {
+          "category": "Timepieces",
+          "commodity": "Mechanical movement",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 180000,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Atlantic Movements - internal supply for Federal watch assembly"
+        },
+        {
+          "category": "Timepieces",
+          "commodity": "Mechanical movement",
+          "fungibility": "unique",
+          "annual_quantity": 25000,
+          "unit": "units",
+          "end_use": "export",
+          "note": "Atlantic Movements, Royal Movement - specialty movements for export"
+        }
+      ],
+      "inputs": [
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "annual_quantity": 8.5,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Watch cases, bracelets and internal components"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Brass",
+          "annual_quantity": 2.2,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Movement components and decorative elements"
+        },
+        {
+          "category": "Gemstones & Precious Materials",
+          "commodity": "Sapphire",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 355000,
+          "unit": "units",
+          "source": "local",
+          "note": "Synthetic sapphire crystal watch faces"
+        },
+        {
+          "category": "Gemstones & Precious Materials",
+          "commodity": "Ruby",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 4500000,
+          "unit": "units",
+          "source": "local",
+          "note": "Synthetic ruby bearings for movements (average 25 jewels per watch)"
+        },
+        {
+          "category": "Gemstones & Precious Materials",
+          "commodity": "Gold",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.045,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Luxury watch cases, bezels and decorative details"
+        },
+        {
+          "category": "Textiles",
+          "commodity": "Leather",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 28,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Watch strap leather (converted from dm²)"
+        },
+        {
+          "category": "Glass & Ceramics",
+          "commodity": "Glass",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 95000,
+          "unit": "units",
+          "source": "local",
+          "note": "Mineral glass for quartz watch faces"
+        },
+        {
+          "category": "Optical Components",
+          "commodity": "Quartz oscillators",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 95000,
+          "unit": "units",
+          "source": "local",
+          "note": "Electronic timing components for quartz watches"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Small batteries",
+          "fungibility": "fungible",
+          "annual_quantity": 95000,
+          "unit": "units",
+          "source": "local",
+          "note": "Power sources for quartz watches"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Machining equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 450,
+          "unit": "units",
+          "source": "local",
+          "note": "Annual replacement cycle for precision tooling"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 0.85,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Manufacturing and facility operations"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Professional Services",
+          "coverage": "Design and horological expertise across 7 constituent brands",
+          "note": "Watchmaking consultation and custom design services"
+        }
+      ]
+    },
+    "Firewalk": {
+      "facilities": [
+        {
+          "location": "Oslola",
+          "type": "headquarters",
+          "employees": 4800,
+          "annual_capacity": 3800000,
+          "note": "Main production line, research division and historic tyre museum"
+        },
+        {
+          "location": "Kairi",
+          "type": "manufacturing",
+          "employees": 2200,
+          "annual_capacity": 73000,
+          "note": "Speciality tyres for agricultural and industrial vehicles"
+        },
+        {
+          "location": "Summers",
+          "type": "manufacturing",
+          "employees": 1340,
+          "annual_capacity": 4200,
+          "note": "Aircraft tyres for Commonwealth Airways and carriers"
+        }
+      ],
+      "outputs": [
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Tyres",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2800000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Cloudwalk brand - 70% of units sold, standard fitment for cyclepool bikes"
+        },
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Tyres",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 1200000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Primary supplier for Gina Motoral and other mopeds"
+        },
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Tyres",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 380000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Distinctive orange sidewall design for automobiles"
+        },
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Tyres",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 4200,
+          "unit": "units",
+          "end_use": "transport",
+          "note": "Commonwealth Airways and other carriers, high-stress applications"
+        },
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Tyres",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 28000,
+          "unit": "units",
+          "end_use": "agriculture",
+          "note": "Farm vehicles and heavy equipment"
+        },
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Tyres",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 45000,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Forklifts, industrial vehicles and material handling equipment"
+        },
+        {
+          "category": "Plastics & Polymers",
+          "commodity": "Synthetic rubber",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2.4,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Belts, hoses and industrial rubber components"
+        }
+      ],
+      "inputs": [
+        {
+          "category": "Plastics & Polymers",
+          "commodity": "Natural rubber",
+          "annual_quantity": 12,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Malaysia",
+            "Indonesia",
+            "Thailand"
+          ],
+          "note": "Primary material for tyre production"
+        },
+        {
+          "category": "Plastics & Polymers",
+          "commodity": "Synthetic rubber",
+          "annual_quantity": 8.5,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Supplementary material for durability and performance"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Carbon black",
+          "annual_quantity": 4.2,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "United States",
+            "Germany"
+          ],
+          "note": "Reinforcing agent and black pigment"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 1.8,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Tyre belts and bead wire for radial construction"
+        },
+        {
+          "category": "Textiles",
+          "commodity": "Textile cord",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.85,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Tyre casing reinforcement fabric"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Chemical additives",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.68,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Germany",
+            "United Kingdom"
+          ],
+          "note": "Vulcanising agents, antioxidants and processing aids"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Chemical additives",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.045,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Switzerland",
+            "Germany"
+          ],
+          "note": "Signature orange sidewall colouring"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Moulds and tooling",
+          "fungibility": "unique",
+          "annual_quantity": 450,
+          "unit": "units",
+          "source": "local",
+          "note": "Tyre manufacturing moulds, replacement cycle"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Manufacturing equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 32,
+          "unit": "units",
+          "source": "local",
+          "note": "Mixing mills, extruders and curing presses, replacement cycle"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 84,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "High-temperature curing processes and mixing operations"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Water",
+          "annual_quantity": 180000,
+          "unit": "m3",
+          "source": "grid",
+          "note": "Cooling systems and industrial processing"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Compressed air",
+          "fungibility": "fungible",
+          "annual_quantity": 2400000,
+          "unit": "m3",
+          "source": "grid",
+          "note": "Tyre testing and pneumatic manufacturing equipment"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Professional Services",
+          "coverage": "Technical licensing with Firestone",
+          "note": "Access to tyre designs and research facilities, royalty rate 3.5% on ₩147M annually"
+        }
+      ]
+    },
+    "General Reactor": {
+      "facilities": [
+        {
+          "location": "Oslola",
+          "type": "headquarters",
+          "employees": 1200,
+          "annual_capacity": 120000,
+          "note": "Oslola Nuclear Fusion Generation Establishment, 120 GW fusion plant"
+        },
+        {
+          "location": "Kairi",
+          "type": "manufacturing",
+          "employees": 800,
+          "annual_capacity": 40000,
+          "note": "Kalina-Kairi Nuclear Fusion Generation Establishment, 40 GW fusion plant"
+        },
+        {
+          "location": "Distributed",
+          "type": "manufacturing",
+          "employees": 2800,
+          "note": "Fission plants and support infrastructure across 12 additional republics, 30.1 GW capacity"
+        }
+      ],
+      "outputs": [
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 1401600,
+          "unit": "GWh",
+          "end_use": "general_population",
+          "note": "Base load power from fusion generation (160 GW capacity, Oslola and Kairi plants)"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 263760,
+          "unit": "GWh",
+          "end_use": "general_population",
+          "note": "Distributed fission generation across 12 plants (30.1 GW capacity)"
+        },
+        {
+          "category": "Power Generation",
+          "commodity": "Nuclear reactor",
+          "fungibility": "unique",
+          "annual_quantity": 12,
+          "unit": "units",
+          "end_use": "military",
+          "note": "Vampire marine propulsion systems for submarines and surface vessels"
+        },
+        {
+          "category": "Power Generation",
+          "commodity": "Nuclear reactor",
+          "fungibility": "unique",
+          "annual_quantity": 8,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Sunburst compact reactors for light aircraft and experimental programmes"
+        },
+        {
+          "category": "Power Generation",
+          "commodity": "Nuclear reactor",
+          "fungibility": "unique",
+          "annual_quantity": 4,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Nuclear thermal rockets and power systems for spacecraft"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Radioisotopes",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2.4,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Medical and industrial radioisotopes"
+        },
+        {
+          "category": "Power Generation",
+          "commodity": "Nuclear reactor",
+          "fungibility": "unique",
+          "annual_quantity": 2,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Small research and development reactors"
+        }
+      ],
+      "inputs": [
+        {
+          "category": "Energy Resources",
+          "commodity": "Uranium",
+          "annual_quantity": 180,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Reactor fuel for fission plants, various enrichment levels"
+        },
+        {
+          "category": "Energy Resources",
+          "commodity": "Uranium",
+          "annual_quantity": 450,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Australia",
+            "Canada",
+            "Kazakhstan"
+          ],
+          "note": "Feedstock for enrichment facilities"
+        },
+        {
+          "category": "Energy Resources",
+          "commodity": "Deuterium",
+          "annual_quantity": 28,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Fusion reactor fuel"
+        },
+        {
+          "category": "Energy Resources",
+          "commodity": "Tritium",
+          "annual_quantity": 0.0042,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Fusion reactor fuel, bred internally from lithium blankets"
+        },
+        {
+          "category": "Energy Resources",
+          "commodity": "Lithium-6",
+          "annual_quantity": 12,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Chile",
+            "Argentina"
+          ],
+          "note": "Tritium breeding blanket material"
+        },
+        {
+          "category": "Power Generation",
+          "commodity": "Reactor pressure vessels",
+          "fungibility": "unique",
+          "annual_quantity": 3,
+          "unit": "units",
+          "source": "local",
+          "note": "Replacement and new construction vessels"
+        },
+        {
+          "category": "Power Generation",
+          "commodity": "Control rods",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 850,
+          "unit": "units",
+          "source": "local",
+          "note": "Boron carbide and hafnium control systems"
+        },
+        {
+          "category": "Power Generation",
+          "commodity": "Heat exchangers",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 180,
+          "unit": "units",
+          "source": "local",
+          "note": "Steam generation and cooling systems"
+        },
+        {
+          "category": "Power Generation",
+          "commodity": "Turbine generators",
+          "fungibility": "unique",
+          "annual_quantity": 8,
+          "unit": "units",
+          "source": "import",
+          "origin": [
+            "Germany",
+            "United States"
+          ],
+          "note": "Power generation turbines for new and replacement installations"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Superconducting magnets",
+          "fungibility": "unique",
+          "annual_quantity": 24,
+          "unit": "units",
+          "source": "import",
+          "origin": [
+            "United States",
+            "Japan"
+          ],
+          "note": "Tokamak confinement systems for fusion reactors"
+        },
+        {
+          "category": "Power Generation",
+          "commodity": "Reactor instrumentation",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 4500,
+          "unit": "units",
+          "source": "local",
+          "note": "Sensors, monitoring and control systems"
+        },
+        {
+          "category": "Power Generation",
+          "commodity": "Radiation shielding",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 8.5,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Lead, concrete and specialised shielding materials"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Water",
+          "annual_quantity": 2400000,
+          "unit": "m3",
+          "source": "grid",
+          "note": "Reactor cooling and heat rejection, mostly seawater"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Heavy water",
+          "fungibility": "fungible",
+          "annual_quantity": 120,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Canada",
+            "India"
+          ],
+          "note": "Moderator for certain reactor types"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Specialised tools",
+          "fungibility": "unique",
+          "annual_quantity": 280,
+          "unit": "units",
+          "source": "local",
+          "note": "Remote handling, maintenance and inspection equipment"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Professional Services",
+          "coverage": "Research and development for nuclear technology",
+          "note": "Close partnership with NSRE, Chief Scientist on NSRE board"
+        }
+      ]
+    },
+    "Gina": {
+      "facilities": [
+        {
+          "location": "Oslola",
+          "type": "headquarters",
+          "employees": 1450,
+          "annual_capacity": 900000,
+          "note": "Main assembly plant and design centre for bicycles and mopeds"
+        },
+        {
+          "location": "Kairi",
+          "type": "manufacturing",
+          "employees": 820,
+          "annual_capacity": 350000,
+          "note": "Secondary assembly facility"
+        },
+        {
+          "location": "Oslola",
+          "type": "manufacturing",
+          "employees": 140,
+          "note": "Component manufacturing and racing division"
+        }
+      ],
+      "outputs": [
+        {
+          "category": "Bicycles & Micromobility",
+          "commodity": "Motorcycles",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 580000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Gina Motoral 14th iteration - flagship product, over 20 million sold to date"
+        },
+        {
+          "category": "Bicycles & Micromobility",
+          "commodity": "Urban commuter bicycles",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 420000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Standard cyclepool bikes for municipal bicycle sharing systems"
+        },
+        {
+          "category": "Bicycles & Micromobility",
+          "commodity": "Mountain bicycles",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 85000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Recreation and off-road use"
+        },
+        {
+          "category": "Bicycles & Micromobility",
+          "commodity": "Road bicycles",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 65000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Sport and racing bicycles"
+        },
+        {
+          "category": "Bicycles & Micromobility",
+          "commodity": "Cargo bicycles",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 45000,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Commercial and delivery use"
+        },
+        {
+          "category": "Bicycles & Micromobility",
+          "commodity": "Children's bicycles",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 120000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Youth and learning bikes"
+        },
+        {
+          "category": "Bicycles & Micromobility",
+          "commodity": "Motorcycle components",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 180000,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Supplied to other motorcycle manufacturers"
+        },
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Automotive spare parts",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2400000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Service parts for entire Gina product range"
+        }
+      ],
+      "inputs": [
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 8.5,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Steel tubing for bicycle and moped frames"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Aluminium",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2.4,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Lightweight frames and components"
+        },
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Tyres",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 3600000,
+          "unit": "units",
+          "source": "local",
+          "note": "Tyres from Firewalk for mopeds and bicycles (converted from 1,800 tonnes)"
+        },
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Engines",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 580000,
+          "unit": "units",
+          "source": "local",
+          "note": "50cc shrouded engines for Motoral"
+        },
+        {
+          "category": "Mechanical Components",
+          "commodity": "Chains",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 1315000,
+          "unit": "units",
+          "source": "local",
+          "note": "Drive train components and gearing systems"
+        },
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Brake components",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2630000,
+          "unit": "units",
+          "source": "local",
+          "note": "Brake systems for all bicycle and moped products"
+        },
+        {
+          "category": "Transportation Equipment",
+          "commodity": "Wheels and rims",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2630000,
+          "unit": "units",
+          "source": "local",
+          "note": "Complete wheel assemblies"
+        },
+        {
+          "category": "Bicycles & Micromobility",
+          "commodity": "Saddles and grips",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 1315000,
+          "unit": "units",
+          "source": "local",
+          "note": "Comfort and control components"
+        },
+        {
+          "category": "Plastics & Polymers",
+          "commodity": "Plastics",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 580000,
+          "unit": "units",
+          "source": "local",
+          "note": "Motoral body panels and engine shrouds"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Paint and coatings",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.28,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Finishing and protective coatings"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Circuit boards",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 850000,
+          "unit": "units",
+          "source": "local",
+          "note": "Lights, indicators and ignition systems"
+        },
+        {
+          "category": "Mechanical Components",
+          "commodity": "Fasteners",
+          "fungibility": "fungible",
+          "annual_quantity": 0.42,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Bolts, nuts and assembly hardware"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Assembly equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 45,
+          "unit": "units",
+          "source": "local",
+          "note": "Production line machinery, replacement cycle"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 18,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Manufacturing and testing operations"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Water",
+          "annual_quantity": 45000,
+          "unit": "m3",
+          "source": "grid",
+          "note": "Cooling and cleaning processes"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Maintenance Services",
+          "coverage": "Component refurbishment and metal recycling programme",
+          "note": "78% frame recycling rate and ongoing component reuse programme"
+        }
+      ]
+    },
+    "National Machines": {
+      "facilities": [
+        {
+          "location": "Kala",
+          "type": "headquarters",
+          "employees": 2400,
+          "note": "Central coordination and main assembly facilities"
+        },
+        {
+          "location": "Barbados",
+          "type": "research",
+          "employees": 1200,
+          "note": "National Machines Laboratories - primary research campus"
+        },
+        {
+          "location": "Distributed",
+          "type": "manufacturing",
+          "employees": 1600,
+          "note": "Constituent corporations across multiple republics"
+        }
+      ],
+      "outputs": [
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Stock robots",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 28000,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "General Use Machine (GUM) - most popular industrial robot in Vekllei"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Assembly equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 4200,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Factory automation systems and production line equipment"
+        },
+        {
+          "category": "Electronics",
+          "commodity": "Computers",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 18000,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Industrial control systems and computing infrastructure"
+        },
+        {
+          "category": "Electronics",
+          "commodity": "Computers",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 45000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "Consumer computing devices and home systems"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Stock robots",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 85000,
+          "unit": "units",
+          "end_use": "general_population",
+          "note": "HomeRobot brand - domestic service robots"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Circuit boards",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 280000,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Specialized control boards for robotics applications"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Semiconductors",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 450000,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Custom chips for computing and robotics"
+        },
+        {
+          "category": "Technical Publications",
+          "commodity": "Product designs",
+          "fungibility": "unique",
+          "annual_quantity": 120,
+          "unit": "designs",
+          "end_use": "industrial",
+          "note": "Automatic Factory Schematic System (AFS) - factory construction specifications"
+        }
+      ],
+      "inputs": [
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 8.5,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Robot frames and structural components"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Aluminium",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 4.2,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Lightweight robot components and housings"
+        },
+        {
+          "category": "Plastics & Polymers",
+          "commodity": "Plastics",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2.8,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Robot casings and component housings"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Circuit boards",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 380000,
+          "unit": "units",
+          "source": "local",
+          "note": "Control systems and computing boards"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Semiconductors",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 850000,
+          "unit": "units",
+          "source": "import",
+          "origin": [
+            "Japan",
+            "United States",
+            "Taiwan"
+          ],
+          "note": "Processors and specialized chips"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Display panels",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 63000,
+          "unit": "units",
+          "source": "import",
+          "origin": [
+            "Japan",
+            "South Korea"
+          ],
+          "note": "Screens for computers and robot interfaces"
+        },
+        {
+          "category": "Mechanical Components",
+          "commodity": "Gears",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 450000,
+          "unit": "units",
+          "source": "local",
+          "note": "Precision gearing for robot actuators"
+        },
+        {
+          "category": "Mechanical Components",
+          "commodity": "Bearings",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 680000,
+          "unit": "units",
+          "source": "local",
+          "note": "Movement systems for robotics"
+        },
+        {
+          "category": "Hydraulic & Pneumatic",
+          "commodity": "Hydraulic cylinders",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 85000,
+          "unit": "units",
+          "source": "local",
+          "note": "Actuators for heavy-duty industrial robots"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Electrical motors",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 280000,
+          "unit": "units",
+          "source": "local",
+          "note": "Drive systems for robots and machinery"
+        },
+        {
+          "category": "Optical Components",
+          "commodity": "Optical sensors",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 113000,
+          "unit": "units",
+          "source": "local",
+          "note": "Camera systems and sensors for robot navigation"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Manufacturing equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 180,
+          "unit": "units",
+          "source": "local",
+          "note": "Assembly equipment and precision tooling, replacement cycle"
+        },
+        {
+          "category": "Specialised Equipment",
+          "commodity": "Testing equipment",
+          "fungibility": "unique",
+          "annual_quantity": 45,
+          "unit": "units",
+          "source": "local",
+          "note": "Specialized testing apparatus for R&D"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 145,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Manufacturing, testing and research operations"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Water",
+          "annual_quantity": 85000,
+          "unit": "m3",
+          "source": "grid",
+          "note": "Cooling and manufacturing processes"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Professional Services",
+          "coverage": "Research and development through National Machines Laboratories",
+          "note": "Major sponsor of National Photonic Laboratories at VNU, formal association with National Computer S.p.A."
+        },
+        {
+          "service_type": "Professional Services",
+          "coverage": "Technical support and factory systems consultation",
+          "note": "AFS factory construction specification licensing and implementation support"
+        }
+      ]
+    },
+    "Orleans Steelworks": {
+      "facilities": [
+        {
+          "location": "Soualiga",
+          "type": "manufacturing",
+          "employees": 600,
+          "annual_capacity": 1650000,
+          "note": "Steel Island integrated mill - 800 acres, 2 blast furnaces, BOF converter and finishing mills"
+        }
+      ],
+      "outputs": [
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 600000,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Steel sheets and plates for manufacturing and construction"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 400000,
+          "unit": "tonnes",
+          "end_use": "construction",
+          "note": "Bars and structural steel for building and infrastructure"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 350000,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Steel coils for manufacturing processes"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 150000,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Specialty and stainless steel for specialised applications"
+        },
+        {
+          "category": "Construction Materials",
+          "commodity": "Steel slag",
+          "fungibility": "fungible",
+          "annual_quantity": 300000,
+          "unit": "tonnes",
+          "end_use": "construction",
+          "note": "Byproduct used as construction aggregate"
+        }
+      ],
+      "inputs": [
+        {
+          "category": "Mineral Resources",
+          "commodity": "Iron ore",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2400000,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Guinea",
+            "Mauritania"
+          ],
+          "note": "Primary feedstock for blast furnaces"
+        },
+        {
+          "category": "Energy Resources",
+          "commodity": "Coking coal",
+          "fungibility": "fungible",
+          "annual_quantity": 750000,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Australia",
+            "United States"
+          ],
+          "note": "Fuel for coke ovens and blast furnace reduction"
+        },
+        {
+          "category": "Mineral Resources",
+          "commodity": "Limestone",
+          "fungibility": "fungible",
+          "annual_quantity": 450000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Flux material for blast furnaces"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Gas",
+          "fungibility": "fungible",
+          "annual_quantity": 180000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Basic oxygen furnace steelmaking process"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Water",
+          "annual_quantity": 12000000,
+          "unit": "m3",
+          "source": "local",
+          "note": "Cooling and processing, recycled through treatment plant"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 2800,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Heavy industrial power use, supplemented by onsite cogeneration"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Chromium",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 18000,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "South Africa",
+            "Kazakhstan"
+          ],
+          "note": "Alloying element for stainless steel production"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 15000,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Canada",
+            "Russia"
+          ],
+          "note": "Alloying element for specialty steels"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 12000,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "South Africa",
+            "Australia"
+          ],
+          "note": "Alloying element for strength and durability"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Professional Services",
+          "coverage": "Technical steelmaking expertise and metallurgical analysis",
+          "note": "Research and development for specialty steel applications"
+        }
+      ]
+    },
+    "Rosea Beverage Company": {
+      "facilities": [
+        {
+          "location": "Kabuli",
+          "type": "headquarters",
+          "employees": 180,
+          "note": "Original factory in Roseau, modernised with vintage equipment preserved"
+        },
+        {
+          "location": "Kabuli",
+          "type": "processing",
+          "employees": 167,
+          "note": "Citrus processing facilities and seasonal harvesting operations"
+        }
+      ],
+      "outputs": [
+        {
+          "category": "Food Products",
+          "commodity": "Beverages",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 11600000,
+          "unit": "litres",
+          "end_use": "general_population",
+          "note": "Rosea flagship lime cordial, famous throughout Commonwealth"
+        },
+        {
+          "category": "Food Products",
+          "commodity": "Juice concentrate",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2800000,
+          "unit": "litres",
+          "end_use": "industrial",
+          "note": "Supplied to other beverage manufacturers and food processors"
+        },
+        {
+          "category": "Food Products",
+          "commodity": "Beverages",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 1600000,
+          "unit": "litres",
+          "end_use": "export",
+          "note": "Primarily to United Kingdom and Caribbean diaspora markets"
+        }
+      ],
+      "inputs": [
+        {
+          "category": "Agricultural Products",
+          "commodity": "Limes",
+          "fungibility": "unique",
+          "annual_quantity": 4.2,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Fresh limes from local citrus groves in Kabuli"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Mangoes",
+          "fungibility": "unique",
+          "annual_quantity": 0.85,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Seasonal tropical fruit for product variations"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Passion fruit",
+          "fungibility": "unique",
+          "annual_quantity": 0.42,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Local cultivation for flavour blends"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Soursop",
+          "fungibility": "unique",
+          "annual_quantity": 0.38,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Indigenous tropical fruit for specialty products"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Breadfruit",
+          "fungibility": "unique",
+          "annual_quantity": 0.12,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Supplementary ingredient for traditional recipes"
+        },
+        {
+          "category": "Food Products",
+          "commodity": "Refined sugar",
+          "fungibility": "fungible",
+          "annual_quantity": 2.4,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Sweetening agent for cordials and beverages"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Water",
+          "annual_quantity": 12000,
+          "unit": "m3",
+          "source": "grid",
+          "note": "Beverage production and facility cleaning"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Citric acid",
+          "fungibility": "fungible",
+          "annual_quantity": 0.085,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Brazil",
+            "China"
+          ],
+          "note": "Preservative and flavour enhancement"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Preservatives",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.024,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Germany",
+            "United Kingdom"
+          ],
+          "note": "Sodium benzoate and potassium sorbate for shelf stability"
+        },
+        {
+          "category": "Packaging Materials",
+          "commodity": "Glass bottles and jars",
+          "fungibility": "fungible",
+          "annual_quantity": 14000000,
+          "unit": "units",
+          "source": "local",
+          "note": "Returnable glass bottles, traditional packaging with 89% return rate"
+        },
+        {
+          "category": "Packaging Materials",
+          "commodity": "Bottle caps",
+          "fungibility": "fungible",
+          "annual_quantity": 14000000,
+          "unit": "units",
+          "source": "local",
+          "note": "Metal crown caps for glass bottles"
+        },
+        {
+          "category": "Packaging Materials",
+          "commodity": "Paper labels",
+          "fungibility": "fungible",
+          "annual_quantity": 14000000,
+          "unit": "units",
+          "source": "local",
+          "note": "Traditional paper labelling system"
+        },
+        {
+          "category": "Packaging Materials",
+          "commodity": "Wooden crates",
+          "fungibility": "fungible",
+          "annual_quantity": 280000,
+          "unit": "units",
+          "source": "local",
+          "note": "Returnable transport crates, 45 reuse cycles average"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Processing equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 8,
+          "unit": "units",
+          "source": "local",
+          "note": "Juicers, pasteurisers and bottling equipment, replacement cycle"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 2.4,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Processing, refrigeration and bottling operations"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Professional Services",
+          "coverage": "Traditional beverage processing expertise",
+          "note": "Fourth generation family management, vintage processing methods preserved"
+        }
+      ]
+    },
+    "Savage Arsenal": {
+      "facilities": [
+        {
+          "location": "Kabuli",
+          "type": "headquarters",
+          "employees": 140,
+          "note": "Main foundry and assembly facilities in Roseau"
+        },
+        {
+          "location": "Kabuli",
+          "type": "manufacturing",
+          "employees": 80,
+          "note": "Mountain testing ranges for field trials and proof testing"
+        }
+      ],
+      "outputs": [
+        {
+          "category": "Armaments",
+          "commodity": "Howitzers",
+          "fungibility": "unique",
+          "annual_quantity": 45,
+          "unit": "units",
+          "end_use": "military",
+          "note": "GUN-40 lightweight mountain artillery for rugged terrain"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Pack guns",
+          "fungibility": "unique",
+          "annual_quantity": 68,
+          "unit": "units",
+          "end_use": "military",
+          "note": "PACK-series man-portable artillery systems"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Mortars",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 80,
+          "unit": "units",
+          "end_use": "military",
+          "note": "60mm light mortars for expeditionary operations"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Mortars",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 70,
+          "unit": "units",
+          "end_use": "military",
+          "note": "81mm medium mortars for general use"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Mortars",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 30,
+          "unit": "units",
+          "end_use": "military",
+          "note": "120mm heavy mortars for sustained fire support"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Field guns",
+          "fungibility": "unique",
+          "annual_quantity": 32,
+          "unit": "units",
+          "end_use": "military",
+          "note": "Modular systems for helicopter transport and rapid deployment"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Artillery ammunition",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 18000,
+          "unit": "units",
+          "end_use": "military",
+          "note": "Mountain howitzer rounds"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Artillery ammunition",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 15000,
+          "unit": "units",
+          "end_use": "military",
+          "note": "Pack gun ammunition"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Artillery ammunition",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 12000,
+          "unit": "units",
+          "end_use": "military",
+          "note": "Mortar rounds for all calibres"
+        },
+        {
+          "category": "Armaments",
+          "commodity": "Howitzers",
+          "fungibility": "unique",
+          "annual_quantity": 95,
+          "unit": "units",
+          "end_use": "export",
+          "note": "Lightweight systems for mountainous and island nations"
+        }
+      ],
+      "inputs": [
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.85,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "High-grade steel for gun barrels and breech mechanisms"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Steel",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.42,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Carriages and mounting systems"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Aluminium",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.28,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Lightweight components for air-portable systems"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Titanium",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.045,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "United States",
+            "Russia"
+          ],
+          "note": "High-strength lightweight components for specialist systems"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Brass",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.18,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Ammunition casings"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "High explosives",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 0.085,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Artillery warheads and propellant charges"
+        },
+        {
+          "category": "Hydraulic & Pneumatic",
+          "commodity": "Hydraulic cylinders",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 450,
+          "unit": "units",
+          "source": "import",
+          "origin": [
+            "Germany",
+            "United Kingdom"
+          ],
+          "note": "Recoil systems and elevation mechanisms"
+        },
+        {
+          "category": "Optical Components",
+          "commodity": "Optical sensors",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 420,
+          "unit": "units",
+          "source": "local",
+          "note": "Artillery sights and fire control systems"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Circuit boards",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 280,
+          "unit": "units",
+          "source": "local",
+          "note": "Modern fire control and communications integration"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Machining equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 8,
+          "unit": "units",
+          "source": "local",
+          "note": "Specialised tooling for artillery manufacturing, replacement cycle"
+        },
+        {
+          "category": "Specialised Equipment",
+          "commodity": "Testing equipment",
+          "fungibility": "unique",
+          "annual_quantity": 12,
+          "unit": "units",
+          "source": "local",
+          "note": "Ballistics measurement and proof testing apparatus"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 8.4,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Foundry operations and precision machining"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Water",
+          "annual_quantity": 28000,
+          "unit": "m3",
+          "source": "grid",
+          "note": "Cooling and industrial processing"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Professional Services",
+          "coverage": "Research and development partnership with Commonwealth Arsenal",
+          "note": "Technology sharing and joint development of expeditionary artillery systems"
+        }
+      ]
+    },
+    "Spirit Glass": {
+      "facilities": [
+        {
+          "location": "Oslola",
+          "type": "headquarters",
+          "employees": 3100,
+          "annual_capacity": 171428571,
+          "note": "Primary furnace operation, main bottling line, and research division"
+        },
+        {
+          "location": "Summers",
+          "type": "manufacturing",
+          "employees": 950,
+          "annual_capacity": 50000000,
+          "note": "Speciality glass for pharmaceutical and high-end spirit bottling"
+        },
+        {
+          "location": "Kairi",
+          "type": "distribution",
+          "employees": 30,
+          "annual_capacity": 0,
+          "note": "Regional distribution hub for northern industries"
+        }
+      ],
+      "outputs": [
+        {
+          "category": "Packaging Materials",
+          "commodity": "Glass bottles and jars",
+          "fungibility": "fungible",
+          "annual_quantity": 200000000,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Standard glass for soda, beer and common spirits, supplied to state co-operatives bottling plants"
+        },
+        {
+          "category": "Glass & Ceramics",
+          "commodity": "Glass vials",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 5000000,
+          "unit": "units",
+          "end_use": "healthcare",
+          "note": "For commonwealth medical supplies and research"
+        },
+        {
+          "category": "Glass & Ceramics",
+          "commodity": "Recycled Glass",
+          "fungibility": "fungible",
+          "annual_quantity": 28000,
+          "unit": "tonnes",
+          "end_use": "construction",
+          "note": "Excess glass and scrap supplied for road-base and construction filler"
+        }
+      ],
+      "inputs": [
+        {
+          "category": "Mineral Resources",
+          "commodity": "Quartz",
+          "annual_quantity": 171428.571,
+          "unit": "tonnes",
+          "source": "local",
+          "origin": [
+            "Vekllei Coast"
+          ],
+          "note": "Primary raw material for glass production, listed as Quartz in registry"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Soda ash",
+          "annual_quantity": 50000,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "United States",
+            "China"
+          ],
+          "note": "Flux to lower the melting temperature"
+        },
+        {
+          "category": "Mineral Resources",
+          "commodity": "Limestone",
+          "annual_quantity": 21428.571,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Stabiliser to improve durability and hardness, listed under Industrial Minerals in registry"
+        },
+        {
+          "category": "Glass & Ceramics",
+          "commodity": "Recycled Glass",
+          "annual_quantity": 71428.571,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Recycled glass feed, sourced through the bureau recycling system"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Chromium compounds",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 171.429,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Germany",
+            "Japan"
+          ],
+          "note": "Iron, chromium, and cobalt oxides for amber, green and blue glass"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Moulds and tooling",
+          "fungibility": "unique",
+          "annual_quantity": 1285.714,
+          "unit": "units",
+          "source": "local",
+          "note": "Bottle and jar mould sets, replacement and design cycle"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Manufacturing equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 5.714,
+          "unit": "units",
+          "source": "local",
+          "note": "Replacement for large-scale Individual Section (IS) forming machines"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Natural Gas",
+          "fungibility": "fungible",
+          "annual_quantity": 1357142.857,
+          "unit": "m3",
+          "source": "grid",
+          "note": "Fuel for high-temperature glass melting furnaces"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "fungibility": "fungible",
+          "annual_quantity": 45.714,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Annealing lehrs and glass processing equipment"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Process water",
+          "annual_quantity": 135714.286,
+          "unit": "m3",
+          "source": "grid",
+          "note": "Cooling systems for moulds and machinery"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Professional Services",
+          "coverage": "Consulting and R&D for material science",
+          "note": "Technical expertise provided to cooperative members"
+        }
+      ]
+    },
+    "United Grocers": {
+      "facilities": [
+        {
+          "location": "Virgin",
+          "type": "headquarters",
+          "employees": 2400,
+          "note": "Central administration, logistics coordination, franchise support"
+        },
+        {
+          "location": "Nationwide",
+          "type": "retail",
+          "employees": 80500,
+          "note": "7,500 franchise locations across all Vekllei republics"
+        }
+      ],
+      "outputs": [],
+      "inputs": [
+        {
+          "category": "Agricultural Products",
+          "commodity": "Fresh produce",
+          "annual_quantity": 520000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Local agricultural surplus from Vekllei farms and cooperatives"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Meat",
+          "annual_quantity": 85000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Fresh meat from Vekllei livestock operations, primarily for rural distribution"
+        },
+        {
+          "category": "Marine Resources",
+          "commodity": "Fish",
+          "annual_quantity": 180000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Fresh and frozen fish from Commonwealth fisheries"
+        },
+        {
+          "category": "Food Products",
+          "commodity": "Synthesised meat",
+          "annual_quantity": 680000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Factory-produced meat alternatives, primary protein source for urban populations"
+        },
+        {
+          "category": "Food Products",
+          "commodity": "Dairy products",
+          "annual_quantity": 380000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Milk, cheese, butter from Vekllei dairy cooperatives"
+        },
+        {
+          "category": "Food Products",
+          "commodity": "Bread and bakery goods",
+          "annual_quantity": 240000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Fresh baked goods from local bakeries and industrial producers"
+        },
+        {
+          "category": "Food Products",
+          "commodity": "Tinned foods",
+          "annual_quantity": 420000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Canned goods from Vekllei food processing plants"
+        },
+        {
+          "category": "Food Products",
+          "commodity": "Refined sugar",
+          "annual_quantity": 110000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Sugar from Kalina and Antilles sugar refineries"
+        },
+        {
+          "category": "Food Products",
+          "commodity": "Beverages",
+          "annual_quantity": 580000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Soft drinks, juices, alcoholic beverages from Vekllei producers"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Coffee",
+          "annual_quantity": 18000,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Colombia",
+            "Brazil",
+            "Ethiopia"
+          ],
+          "note": "Roasted coffee beans for retail distribution"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Tea",
+          "annual_quantity": 12000,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "India",
+            "Sri Lanka",
+            "China"
+          ],
+          "note": "Various tea varieties for household consumption"
+        },
+        {
+          "category": "Household Goods",
+          "commodity": "Cleaning supplies",
+          "annual_quantity": 62000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Cleaning products from Vekllei chemical manufacturers"
+        },
+        {
+          "category": "Personal Care",
+          "commodity": "Hygiene products",
+          "annual_quantity": 48000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Personal care items from Commonwealth producers"
+        },
+        {
+          "category": "Paper Products",
+          "commodity": "Paper products",
+          "annual_quantity": 78000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Paper goods from Vekllei paper mills"
+        },
+        {
+          "category": "Household Goods",
+          "commodity": "Storage solutions",
+          "annual_quantity": 4200000,
+          "unit": "units",
+          "source": "local",
+          "note": "Plastic and glass containers, bags from local manufacturers"
+        },
+        {
+          "category": "Household Goods",
+          "commodity": "Kitchenware",
+          "annual_quantity": 3600000,
+          "unit": "units",
+          "source": "local",
+          "note": "Kitchen utensils and basic cookware from Commonwealth producers"
+        },
+        {
+          "category": "Packaging Materials",
+          "commodity": "Cardboard boxes",
+          "annual_quantity": 35000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Shipping boxes for warehouse and distribution operations"
+        },
+        {
+          "category": "Packaging Materials",
+          "commodity": "Plastic containers",
+          "annual_quantity": 19000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Retail packaging for fresh foods and products"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Stock robots",
+          "annual_quantity": 450,
+          "unit": "units",
+          "source": "local",
+          "note": "Automated shelving and inventory tracking robots from National Machines"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "annual_quantity": 420,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Refrigeration, lighting, automation systems across 7,500 locations"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Water",
+          "annual_quantity": 520000,
+          "unit": "cubic_metres",
+          "source": "grid",
+          "note": "Cleaning, food preparation, general operations"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Retail Services",
+          "coverage": "7,500 franchise locations across all 83 Vekllei republics",
+          "note": "Primary grocery distribution network serving general population under Living Standards Scheme"
+        },
+        {
+          "service_type": "Logistics Services",
+          "coverage": "Nationwide distribution from regional warehouses to franchise stores",
+          "note": "Coordinated through central stock database and automated inventory"
+        }
+      ]
+    },
+    "Kairi": {
+      "facilities": [],
+      "outputs": [
+        {
+          "category": "Agricultural Products",
+          "commodity": "Sugar cane",
+          "fungibility": "unique",
+          "annual_quantity": 285000,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Major sugar cane producer, tropical climate"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Mangoes",
+          "fungibility": "unique",
+          "annual_quantity": 12000,
+          "unit": "tonnes",
+          "end_use": "general_population"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Passion fruit",
+          "fungibility": "unique",
+          "annual_quantity": 8500,
+          "unit": "tonnes",
+          "end_use": "general_population"
+        }
+      ],
+      "inputs": [],
+      "services": []
+    },
+    "Barbados": {
+      "facilities": [],
+      "outputs": [
+        {
+          "category": "Agricultural Products",
+          "commodity": "Sugar cane",
+          "fungibility": "unique",
+          "annual_quantity": 145000,
+          "unit": "tonnes",
+          "end_use": "industrial",
+          "note": "Historic sugar cane island"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Breadfruit",
+          "fungibility": "unique",
+          "annual_quantity": 18000,
+          "unit": "tonnes",
+          "end_use": "general_population"
+        }
+      ],
+      "inputs": [],
+      "services": []
+    },
+    "Karu": {
+      "facilities": [],
+      "outputs": [
+        {
+          "category": "Agricultural Products",
+          "commodity": "Sugar cane",
+          "fungibility": "unique",
+          "annual_quantity": 95000,
+          "unit": "tonnes",
+          "end_use": "industrial"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Breadfruit",
+          "fungibility": "unique",
+          "annual_quantity": 22000,
+          "unit": "tonnes",
+          "end_use": "general_population"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Soursop",
+          "fungibility": "unique",
+          "annual_quantity": 9500,
+          "unit": "tonnes",
+          "end_use": "general_population"
+        }
+      ],
+      "inputs": [],
+      "services": []
+    },
+    "Madiana": {
+      "facilities": [],
+      "outputs": [
+        {
+          "category": "Agricultural Products",
+          "commodity": "Sugar cane",
+          "fungibility": "unique",
+          "annual_quantity": 78000,
+          "unit": "tonnes",
+          "end_use": "industrial"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Limes",
+          "fungibility": "unique",
+          "annual_quantity": 14000,
+          "unit": "tonnes",
+          "end_use": "general_population"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Breadfruit",
+          "fungibility": "unique",
+          "annual_quantity": 15000,
+          "unit": "tonnes",
+          "end_use": "general_population"
+        }
+      ],
+      "inputs": [],
+      "services": []
+    },
+    "Kabuli": {
+      "facilities": [],
+      "outputs": [
+        {
+          "category": "Agricultural Products",
+          "commodity": "Limes",
+          "fungibility": "unique",
+          "annual_quantity": 18500,
+          "unit": "tonnes",
+          "end_use": "general_population",
+          "note": "Primary lime producer in Vekllei"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Breadfruit",
+          "fungibility": "unique",
+          "annual_quantity": 12000,
+          "unit": "tonnes",
+          "end_use": "general_population"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Passion fruit",
+          "fungibility": "unique",
+          "annual_quantity": 6500,
+          "unit": "tonnes",
+          "end_use": "general_population"
+        }
+      ],
+      "inputs": [],
+      "services": []
+    },
+    "Lucia": {
+      "facilities": [],
+      "outputs": [
+        {
+          "category": "Agricultural Products",
+          "commodity": "Sugar cane",
+          "fungibility": "unique",
+          "annual_quantity": 42000,
+          "unit": "tonnes",
+          "end_use": "industrial"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Mangoes",
+          "fungibility": "unique",
+          "annual_quantity": 8500,
+          "unit": "tonnes",
+          "end_use": "general_population"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Soursop",
+          "fungibility": "unique",
+          "annual_quantity": 5500,
+          "unit": "tonnes",
+          "end_use": "general_population"
+        }
+      ],
+      "inputs": [],
+      "services": []
+    },
+    "Cama": {
+      "facilities": [],
+      "outputs": [
+        {
+          "category": "Agricultural Products",
+          "commodity": "Breadfruit",
+          "fungibility": "unique",
+          "annual_quantity": 9000,
+          "unit": "tonnes",
+          "end_use": "general_population"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Soursop",
+          "fungibility": "unique",
+          "annual_quantity": 4500,
+          "unit": "tonnes",
+          "end_use": "general_population"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Passion fruit",
+          "fungibility": "unique",
+          "annual_quantity": 5500,
+          "unit": "tonnes",
+          "end_use": "general_population"
+        }
+      ],
+      "inputs": [],
+      "services": []
+    },
+    "Oslola": {
+      "facilities": [],
+      "outputs": [
+        {
+          "category": "Agricultural Products",
+          "commodity": "Dairy",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 420000,
+          "unit": "tonnes",
+          "end_use": "general_population",
+          "note": "Primary dairy producer with extensive pastoral agriculture"
+        }
+      ],
+      "inputs": [],
+      "services": []
+    },
+    "Kala": {
+      "facilities": [],
+      "outputs": [
+        {
+          "category": "Agricultural Products",
+          "commodity": "Dairy",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 85000,
+          "unit": "tonnes",
+          "end_use": "general_population",
+          "note": "Arctic dairy farming"
+        }
+      ],
+      "inputs": [],
+      "services": []
+    },
+    "Summers": {
+      "facilities": [],
+      "outputs": [
+        {
+          "category": "Agricultural Products",
+          "commodity": "Dairy",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 28000,
+          "unit": "tonnes",
+          "end_use": "general_population"
+        },
+        {
+          "category": "Agricultural Products",
+          "commodity": "Limes",
+          "fungibility": "unique",
+          "annual_quantity": 4500,
+          "unit": "tonnes",
+          "end_use": "general_population"
+        }
+      ],
+      "inputs": [],
+      "services": []
+    },
+    "Method Heavy": {
+      "facilities": [
+        {
+          "location": "Oslola",
+          "type": "headquarters",
+          "employees": 3200,
+          "note": "Precision Works - crystal growth, cutting and polishing equipment"
+        },
+        {
+          "location": "Kairi",
+          "type": "manufacturing",
+          "employees": 2800,
+          "note": "Process Works - fermentation vessels, refining and processing equipment"
+        },
+        {
+          "location": "Praia",
+          "type": "manufacturing",
+          "employees": 1900,
+          "note": "Agriculture Works - harvesters and farming machinery"
+        },
+        {
+          "location": "Kala",
+          "type": "manufacturing",
+          "employees": 1600,
+          "note": "Pipeline Works - high-pressure systems and pipeline infrastructure"
+        },
+        {
+          "location": "Barbados",
+          "type": "manufacturing",
+          "employees": 1400,
+          "note": "Tool Works - machining equipment and specialised tools"
+        },
+        {
+          "location": "Tenerife",
+          "type": "manufacturing",
+          "employees": 1100,
+          "note": "Rail Maintenance Works - track maintenance equipment"
+        },
+        {
+          "location": "Viana",
+          "type": "manufacturing",
+          "employees": 900,
+          "note": "Workshop Systems - general workshop equipment and prototyping tools"
+        },
+        {
+          "location": "Mira",
+          "type": "manufacturing",
+          "employees": 800,
+          "note": "Drilling Works - drilling and extraction equipment"
+        }
+      ],
+      "outputs": [
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Crystal growth furnaces",
+          "fungibility": "unique",
+          "annual_quantity": 45,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Specialised furnaces for synthetic gemstone and semiconductor crystal production"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Cutting and polishing equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 380,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Precision machinery for gemstones, optical components and industrial cutting"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Fermentation vessels",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 520,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Stainless steel vessels for pharmaceutical, biotechnology and food production"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Refining equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 180,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Chemical and petroleum refining systems, distillation columns"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Processing equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 890,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "General industrial processing machinery for various manufacturing applications"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "High-pressure equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 240,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Pressure vessels, reactors and high-pressure pumping systems"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Machining equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 1650,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Lathes, milling machines, precision machining centres"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Manufacturing equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 720,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Assembly systems, production line equipment, automated manufacturing tools"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Prototyping tools",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 2400,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Workshop prototyping equipment, testing fixtures, development tools"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Specialised tools",
+          "fungibility": "unique",
+          "annual_quantity": 8500,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Custom industrial tooling, precision instruments, calibration equipment"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Workshop equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 3200,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "General workshop machinery, benches, material handling systems"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Drilling equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 450,
+          "unit": "units",
+          "end_use": "industrial",
+          "note": "Industrial drilling machines, boring equipment, core drilling systems"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Harvesters",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 280,
+          "unit": "units",
+          "end_use": "agriculture",
+          "note": "Sugar cane harvesters, crop harvesters, specialised agricultural machinery"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Irrigation systems",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 620,
+          "unit": "units",
+          "end_use": "agriculture",
+          "note": "Automated irrigation equipment, water management systems"
+        },
+        {
+          "category": "Industrial Machinery",
+          "commodity": "Pipeline infrastructure",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 180,
+          "unit": "units",
+          "end_use": "construction",
+          "note": "Pipeline sections, pumping stations, distribution systems"
+        },
+        {
+          "category": "Railway Vehicles",
+          "commodity": "Track maintenance equipment",
+          "fungibility": "semi_fungible",
+          "annual_quantity": 95,
+          "unit": "units",
+          "end_use": "transport",
+          "note": "Railway maintenance machinery, track inspection equipment, repair systems"
+        }
+      ],
+      "inputs": [
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Structural steel",
+          "annual_quantity": 32000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Primary material for machinery frames and heavy equipment structures"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Stainless steel",
+          "annual_quantity": 8500,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Fermentation vessels, chemical processing equipment, food-grade systems"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Tool steel",
+          "annual_quantity": 2400,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Germany",
+            "Japan",
+            "Sweden"
+          ],
+          "note": "High-grade steel for cutting tools, dies and precision components"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Aluminium alloy",
+          "annual_quantity": 4200,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Lightweight components, heat exchangers, specialised machinery"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Cast iron",
+          "annual_quantity": 12000,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Machine bases, heavy frames, wear-resistant components"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Copper",
+          "annual_quantity": 850,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Electrical components, heat exchangers, precision bushings"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Titanium",
+          "annual_quantity": 320,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Russia",
+            "Japan"
+          ],
+          "note": "High-pressure vessels, chemical processing equipment, specialised components"
+        },
+        {
+          "category": "Metals & Alloys",
+          "commodity": "Chromium",
+          "annual_quantity": 180,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "South Africa",
+            "Kazakhstan"
+          ],
+          "note": "Corrosion-resistant coatings, specialised alloy production"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Circuit boards",
+          "annual_quantity": 385000,
+          "unit": "units",
+          "source": "local",
+          "note": "Control systems, automation electronics, monitoring equipment"
+        },
+        {
+          "category": "Electronic Components",
+          "commodity": "Sensors",
+          "annual_quantity": 142000,
+          "unit": "units",
+          "source": "local",
+          "note": "Temperature, pressure and flow sensors for process control"
+        },
+        {
+          "category": "Hydraulic & Pneumatic",
+          "commodity": "Hydraulic cylinders",
+          "annual_quantity": 28000,
+          "unit": "units",
+          "source": "local",
+          "note": "Heavy machinery actuation, agricultural equipment"
+        },
+        {
+          "category": "Hydraulic & Pneumatic",
+          "commodity": "Valves",
+          "annual_quantity": 95000,
+          "unit": "units",
+          "source": "local",
+          "note": "Process control valves, pressure regulation, flow control"
+        },
+        {
+          "category": "Mechanical Components",
+          "commodity": "Bearings",
+          "annual_quantity": 185000,
+          "unit": "units",
+          "source": "import",
+          "origin": [
+            "Germany",
+            "Japan",
+            "Sweden"
+          ],
+          "note": "High-precision bearings for machining equipment and rotating machinery"
+        },
+        {
+          "category": "Mechanical Components",
+          "commodity": "Gears",
+          "annual_quantity": 68000,
+          "unit": "units",
+          "source": "local",
+          "note": "Power transmission, speed reduction systems"
+        },
+        {
+          "category": "Plastics & Polymers",
+          "commodity": "Engineering plastics",
+          "annual_quantity": 1800,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Seals, gaskets, wear-resistant components, chemical-resistant parts"
+        },
+        {
+          "category": "Glass & Ceramics",
+          "commodity": "Industrial ceramics",
+          "annual_quantity": 450,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Japan",
+            "Germany"
+          ],
+          "note": "High-temperature components, wear-resistant surfaces, crystal growth crucibles"
+        },
+        {
+          "category": "Glass & Ceramics",
+          "commodity": "Sapphire crystal",
+          "annual_quantity": 85,
+          "unit": "kg",
+          "source": "local",
+          "note": "Optical windows for high-pressure equipment, wear-resistant components"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Industrial lubricants",
+          "annual_quantity": 420,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Machine lubrication, hydraulic fluids, specialty greases"
+        },
+        {
+          "category": "Chemicals",
+          "commodity": "Metal catalysts",
+          "annual_quantity": 28,
+          "unit": "tonnes",
+          "source": "import",
+          "origin": [
+            "Germany",
+            "United Kingdom"
+          ],
+          "note": "Chemical processing equipment, reactor systems"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Electricity",
+          "annual_quantity": 145,
+          "unit": "GWh",
+          "source": "grid",
+          "note": "Manufacturing operations, heat treatment, testing facilities"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Process water",
+          "annual_quantity": 580000,
+          "unit": "cubic_metres",
+          "source": "grid",
+          "note": "Cooling systems, cleaning, testing operations"
+        },
+        {
+          "category": "Utilities",
+          "commodity": "Industrial gases",
+          "annual_quantity": 1200,
+          "unit": "tonnes",
+          "source": "local",
+          "note": "Welding, heat treatment, inert atmospheres for specialised processes"
+        }
+      ],
+      "services": [
+        {
+          "service_type": "Professional Services",
+          "coverage": "Engineering design and technical consulting across Commonwealth industrial sectors",
+          "note": "Specialised machinery design, process optimisation, technical training"
+        },
+        {
+          "service_type": "Maintenance Services",
+          "coverage": "Equipment maintenance contracts for installed machinery across 65 republics",
+          "note": "Preventive maintenance, repair services, spare parts supply"
+        }
+      ]
+    }
+  },
+  "registry": {
+    "Agricultural Products": {
+      "Cotton": [],
+      "Sugar cane": [],
+      "Wheat": [],
+      "Soursop": [],
+      "Mangoes": [],
+      "Passion fruit": [],
+      "Limes": [],
+      "Breadfruit": [],
+      "Fresh produce": [],
+      "Meat": [],
+      "Dairy": [],
+      "Coffee": [],
+      "Tea": []
+    },
+    "Metals & Alloys": {
+      "Steel": [],
+      "Aluminium": [],
+      "Copper": [],
+      "Cast iron": [],
+      "Brass": [],
+      "Lead": [],
+      "Chromium": [],
+      "Titanium": [],
+      "Structural steel": [],
+      "Stainless steel": [],
+      "Tool steel": [],
+      "Aluminium alloy": []
+    },
+    "Utilities": {
+      "Electricity": [],
+      "Water": [],
+      "Gas": [],
+      "Steam": [],
+      "Compressed air": [],
+      "Natural Gas": [],
+      "Process water": [],
+      "Industrial gases": []
+    },
+    "Textiles": {
+      "Cotton fabric": [],
+      "Wool fabric": [],
+      "Polyester fabric": [],
+      "Upholstery fabrics": [],
+      "Leather": [],
+      "Textile cord": []
+    },
+    "Chemicals": {
+      "Dyes": [],
+      "Fertilisers": [],
+      "High explosives": [],
+      "Paint and coatings": [],
+      "Bacterial cultures": [],
+      "Amino acids": [],
+      "Recombinant proteins": [],
+      "Lipids": [],
+      "Vitamins": [],
+      "Processing chemicals": [],
+      "Gunpowder": [],
+      "Industrial lubricants": [],
+      "Petrochemicals": [],
+      "Synthetic rubber": [],
+      "Chemical additives": [],
+      "Aluminium oxide": [],
+      "Beryllium oxide": [],
+      "Silicon dioxide": [],
+      "Metal catalysts": [],
+      "Chromium compounds": [],
+      "Titanium compounds": [],
+      "Carbon black": [],
+      "Radioisotopes": [],
+      "Heavy water": [],
+      "Citric acid": [],
+      "Preservatives": [],
+      "Soda ash": [],
+      "Cleaning products": []
+    },
+    "Food Products": {
+      "Sugar": [],
+      "Molasses": [],
+      "Bread and bakery goods": [],
+      "Dairy products": [],
+      "Refined sugar": [],
+      "Beverages": [],
+      "Juice concentrate": [],
+      "Meat products": [],
+      "Tinned foods": [],
+      "Dry goods": [],
+      "Fresh produce": [],
+      "Synthesised meat": []
+    },
+    "Electronic Components": {
+      "Circuit boards": [],
+      "Semiconductors": [],
+      "Small batteries": [],
+      "Superconducting magnets": [],
+      "Display panels": [],
+      "Electrical motors": [],
+      "Transformers": [],
+      "Sensors": []
+    },
+    "Mechanical Components": {
+      "Gears": [],
+      "Bearings": [],
+      "Chains": [],
+      "Wheels and rims": [],
+      "Fasteners": []
+    },
+    "Power Generation": {
+      "Turbine generators": [],
+      "Nuclear reactors": [],
+      "Reactor pressure vessels": [],
+      "Combined cycle systems": [],
+      "Nuclear reactor": [],
+      "Control rods": [],
+      "Heat exchangers": [],
+      "Reactor instrumentation": [],
+      "Radiation shielding": []
+    },
+    "Apparel": {
+      "Clothing": [],
+      "Uniforms": [],
+      "Accessories": []
+    },
+    "Footwear": {
+      "Shoes": [],
+      "Boots": []
+    },
+    "Technical Publications": {
+      "Product designs": [],
+      "Technical specifications": []
+    },
+    "Plastics & Polymers": {
+      "Plastics": [],
+      "Natural rubber": [],
+      "Synthetic rubber": [],
+      "Engineering plastics": []
+    },
+    "Industrial Machinery": {
+      "Prototyping tools": [],
+      "Machine tools": [],
+      "Compressors": [],
+      "Printing machinery": [],
+      "Manufacturing equipment": [],
+      "Desalination equipment": [],
+      "Moulds and tooling": [],
+      "Heat exchangers": [],
+      "Refrigeration equipment": [],
+      "Fermentation vessels": [],
+      "Refining equipment": [],
+      "Track maintenance equipment": [],
+      "Workshop equipment": [],
+      "Drilling equipment": [],
+      "Pipeline infrastructure": [],
+      "High-pressure equipment": [],
+      "Crystal growth furnaces": [],
+      "Cutting and polishing equipment": [],
+      "Machining equipment": [],
+      "Specialised tools": [],
+      "Assembly equipment": [],
+      "Stock robots": [],
+      "Processing equipment": [],
+      "Shelving and fixtures": [],
+      "Harvesters": [],
+      "Irrigation systems": []
+    },
+    "Electronics": {
+      "Computers": [],
+      "Communication devices": []
+    },
+    "Personal Care": {
+      "Cosmetics and fragrances": [],
+      "Hygiene products": []
+    },
+    "Household Goods": {
+      "Kitchenware": [],
+      "Storage solutions": [],
+      "Cleaning supplies": []
+    },
+    "Furniture": {
+      "Residential furniture": [],
+      "Office furniture": []
+    },
+    "Packaging Materials": {
+      "Paper bags": [],
+      "Cardboard boxes": [],
+      "Shipping containers": [],
+      "Glass bottles and jars": [],
+      "Bottle caps": [],
+      "Paper labels": [],
+      "Wooden crates": [],
+      "Tin cans": [],
+      "Plastic containers": []
+    },
+    "Railway Vehicles": {
+      "Passenger trains": [],
+      "Freight wagons": [],
+      "Electric multiple units": [],
+      "Diesel units": [],
+      "Trams": [],
+      "Freight locomotives": [],
+      "Passenger carriages": [],
+      "Industrial trams": [],
+      "Heritage locomotives": [],
+      "Speciality rail vehicles": [],
+      "Track maintenance equipment": []
+    },
+    "Aircraft": {
+      "Seaplanes": []
+    },
+    "Transportation Equipment": {
+      "Engines": [],
+      "Automotive spare parts": [],
+      "Tyres": [],
+      "Brake components": [],
+      "Maintenance vehicles": [],
+      "Tanker vessels": [],
+      "Wheels and rims": []
+    },
+    "Hydraulic & Pneumatic": {
+      "Pumps": [],
+      "Hydraulic cylinders": [],
+      "Valves": []
+    },
+    "Consumer Goods": {
+      "Power tools": [],
+      "Hand tools": [],
+      "Iron tools": [],
+      "Safety equipment": []
+    },
+    "Construction Materials": {
+      "Construction materials": [],
+      "Concrete": [],
+      "Aggregates": [],
+      "Steel slag": []
+    },
+    "Glass & Ceramics": {
+      "Glass": [],
+      "Glass vials": [],
+      "Recycled Glass": [],
+      "Industrial ceramics": [],
+      "Sapphire crystal": []
+    },
+    "Automobiles": {
+      "Passenger cars": [],
+      "Trucks": []
+    },
+    "Military Vehicles": {
+      "Armoured personnel carriers": []
+    },
+    "Energy Resources": {
+      "Bagasse": [],
+      "Natural gas": [],
+      "Hydrogen": [],
+      "Crude oil": [],
+      "Uranium": [],
+      "Deuterium": [],
+      "Tritium": [],
+      "Lithium-6": [],
+      "Coking coal": []
+    },
+    "Forestry Products": {
+      "Timber": [],
+      "Paper": []
+    },
+    "Optical Components": {
+      "Optical sensors": [],
+      "Quartz oscillators": []
+    },
+    "Refined Petroleum": {
+      "Diesel": [],
+      "Gasoline": [],
+      "Kerosene": [],
+      "Industrial lubricants": [],
+      "Export crude oil": [],
+      "Export refined products": []
+    },
+    "Gemstones & Precious Materials": {
+      "Diamond": [],
+      "Diamond abrasives": [],
+      "Sapphire": [],
+      "Ruby": [],
+      "Garnet": [],
+      "Semiprecious stones": [],
+      "Gold": []
+    },
+    "Mineral Resources": {
+      "Graphite": [],
+      "Iron ore": [],
+      "Limestone": [],
+      "Quartz": []
+    },
+    "Timepieces": {
+      "Mechanical wristwatch": [],
+      "Quartz wristwatch": [],
+      "Sports/diving wristwatch": [],
+      "Military chronometer": [],
+      "Luxury wristwatch": [],
+      "Pocket watch": [],
+      "Mechanical movement": []
+    },
+    "Bicycles & Micromobility": {
+      "Motorcycles": [],
+      "Urban commuter bicycles": [],
+      "Mountain bicycles": [],
+      "Road bicycles": [],
+      "Cargo bicycles": [],
+      "Children's bicycles": [],
+      "Motorcycle components": [],
+      "Saddles and grips": []
+    },
+    "Specialised Equipment": {
+      "Testing equipment": []
+    },
+    "Armaments": {
+      "Artillery ammunition": [],
+      "Small arms ammunition": [],
+      "Field guns": [],
+      "Howitzers": [],
+      "Mortars": [],
+      "Pack guns": [],
+      "Handguns": [],
+      "Machine guns": [],
+      "Military rifles": [],
+      "Sporting firearms": []
+    },
+    "Paper Products": {
+      "Paper products": []
+    },
+    "Marine Resources": {
+      "Fish": []
+    },
+    "Equipment & Machinery": {
+      "Stock robots": []
+    }
+  }
+}

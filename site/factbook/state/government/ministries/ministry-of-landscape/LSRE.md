@@ -5,6 +5,7 @@ icon: 🔬
 color: landscape
 logo: /svg/logos/LSRE.svg
 series: SIRO
+national-index: true
 
 logocredit: W.M. Landwehr & Don Davis, 1971, for the Quincy Annual Art Show
 
@@ -15,17 +16,6 @@ aliases:
 - /LSRE/
 ---
 The <span class="fi fi-lsre fis"></span> **Commonwealth Land Science Research Establishment** (LSRE) is a research organisation of the [[Ministry of Landscape]]. It is primarily tasked with research of environmental and agricultural science. It is a part of [[SIRO]], and is the second-largest constituent research establishment in [[Vekllei]] after the [[DSRE]], employing 15,000 people.
-
-{{<note>}}
-## Executive Council
-
-* **Director**, [[LSRE]]
-	* Chief Land Scientist
-	* Officer for Science Policy
-	* Officer for Conservation & Observation
-* **Director**, [[SIRO]]
-* **Chairman**, Commonwealth Volcanic Hazards Establishment
-{{</note>}}
 
 {{<note>}}
 ## Departments
@@ -89,4 +79,5 @@ The <span class="fi fi-lsre fis"></span> **Commonwealth Land Science Research Es
 * **National Marine Establishment**:  Scientific marine studies centre in [[Habacoa]].
 * **Conception Island Research Station**: Ecological research station located on Conception Island in [[Rum]].
 * **Anguilla Electric Laboratories**: Seawater electricity generation complex located in [[Anguilla]].
+* **Coral Cay Research Station**: Marine research facility based in [[Conch]].
 {{</note>}}

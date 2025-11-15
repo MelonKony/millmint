@@ -37,7 +37,7 @@ The Commonwealth devolves certain aspects of public policy to Constituents. In p
 * [[Ministry of Commerce]]
 * [[Ministry of Culture]]
 * [[Ministry of Defence]]
-* [[Ministry of Foreign Affairs]]
+* [[Ministry of the Interior]]
 * [[Ministry of Industry]]
 * [[Ministry of Labour]]
 * [[Ministry of Landscape]]

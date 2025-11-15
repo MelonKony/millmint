@@ -60,7 +60,7 @@ The main campus occupies 180 hectares in the Meteor Valley, with additional trai
     * Tribal Commission Programme
 * **Police Detachment of the National Polar Training School** ([[Helvasia]])
     * Polar Ranger Programme
-* **Police Detachment of the National Equatorial Training School** ([[Aruba]]) 
+* **Police Detachment of the National Equatorial Training School** ([[Inagua]]) 
     * Equatorial Ranger Programme
 * **Police Detachment of the National Patrol & Scouting School** ([[Fortress Lola]])
     * Company Animals Section Programme

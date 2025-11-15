@@ -7,6 +7,7 @@ logo: /svg/crests/ministry-of-the-commons.svg
 
 series: bureau
 type: government
+national-index: true
 
 fi: fi fi-c-commons fis
 description: The Bureau of Aerospace oversees aerospace transport and facilities for the Ministry of the Commons.
@@ -24,42 +25,27 @@ The bureau has a large stake in the development and manufacture of Vekllei aircr
 * [[Commonwealth Starlines]] Subsidiary of Commonwealth Airways providing space transport services.
 * [[Government Aircraft Factories]] Major (civilian) aircraft manufacturer.
 * [[Commonwealth Aircraft Corporation]] Major (military) aircraft manufacturer.
-* **Commonwealth Personal Aviation Federation:**
-* **Commonwealth Air Traffic Services:** National traffic control services.
-* **Commonwealth Civil Flight Squadron:** Civilian flying unit for equipment calibration, testing, aerial photography and inspection.
-* **Commonwealth Air Safety Authority:** Independent aerospace safety regulator and incident investigator.
-* **Atlantic Air Traffic Information Service:** Nationwide flight pattern and air traffic information system.
-* **Civil Signals Training Establishment:** Training office for Air Engineers and Air Traffic Controllers.
-* **Civil Aviation Register:** Licensing of civilian and commercial pilots.
-
-## Council
-
-* **Director**, [[Bureau of Aerospace]]
-	* Secretary for Flight Safety
-	* Secretary for Flight Traffic Control
-	* Secretary for Ports & Cosmodromes
-		* Officer for Inspection
-	* Secretary for Flight Security & Materials
-	* Secretary for Airspace
-* **Secretary for Transport & Supply**, [[Bureau of Space]]
-* **Deputy Minister**, [[Ministry of the Commons]]
-* **Executive**, Commonwealth Air Traffic Services
-* **Executive**, [[Commonwealth Airways]]
-* **Director**, Commonwealth Air Safety Authority
+* <span class="fi fi-c-commons fis"></span> **Commonwealth Personal Aviation Federation:**
+* <span class="fi fi-c-commons fis"></span> **Commonwealth Air Traffic Services:** National traffic control services.
+* <span class="fi fi-c-commons fis"></span> **Commonwealth Civil Flight Squadron:** Civilian flying unit for equipment calibration, testing, aerial photography and inspection.
+* <span class="fi fi-c-commons fis"></span> **Commonwealth Air Safety Authority:** Independent aerospace safety regulator and incident investigator.
+* <span class="fi fi-c-commons fis"></span> **Atlantic Air Traffic Information Service:** Nationwide flight pattern and air traffic information system.
+* <span class="fi fi-c-commons fis"></span> **Civil Signals Training Establishment:** Training office for Air Engineers and Air Traffic Controllers.
+* <span class="fi fi-c-commons fis"></span> **Civil Aviation Register:** Licensing of civilian and commercial pilots.
 
 ## Departments
-* **Department of Flight Safety**
-* **Department of Flight Traffic Control**
+* **Department of Flight Safety**: Establishes and enforces safety regulations for all civil and commercial aviation.
+* **Department of Flight Traffic Control**: Manages national airspace and provides air traffic control services through signals and communications.
 	* Office of Civil Signals
 	* Office of Communications
-* **Department of Ports & Cosmodromes**
+* **Department of Ports & Cosmodromes**: Oversees the operation and inspection of airports water airports jetports aerodromes and spaceports.
 	* Office of Inspection
 	* Office of Water Airports
 	* Office of Jetports
 	* Office of Aerodromes
 	* Office of Cosmodromes
-* **Department of Flight Security & Materials**
-* **Department of Airspace**
+* **Department of Flight Security & Materials**: Ensures the security of air travel and manages the integrity of aerospace materials.
+* **Department of Airspace**: Administers and monitors distinct airspace regions across Vekllei's territories and its space claims.
 	* Arctic & Oslolan Office
 	* Verde Office
 	* Atlantic Office

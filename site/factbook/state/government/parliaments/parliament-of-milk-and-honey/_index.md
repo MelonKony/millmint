@@ -6,6 +6,7 @@ logo: /svg/crests/parliament/milk-honey.svg
 color: milk-honey
 series: parliament
 list: true
+national-index: true
 
 fi: fi fi-c-milk-honey fis
 description: The Parliament of Milk and Honey directs the material orchestration of Vekllei's abundance through democratic production planning.

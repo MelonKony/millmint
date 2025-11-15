@@ -20,7 +20,7 @@ series: industry
 	 Name="Atlantic Hotel"
 	 Logo="/svg/logos/atlantic-hotel.svg"
 	 Type="[[state-industry|State Corporation]] of [[Vekllei]]"
-	 Ministry="[[Ministry of Foreign Affairs]]"
+	 Ministry="[[Ministry of the Interior]]"
 	 Parent="[[Bureau of Travel]]"
 	 Bureau="Travel"
 	 Industry="Hotels"

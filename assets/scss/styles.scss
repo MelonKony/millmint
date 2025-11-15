@@ -729,20 +729,11 @@ article blockquote {
       em {
         color: var(--gray-medium);
       }
-
-      strong {
-        float: right;
-        background: var(--highlight, var(--gray-medium, #737373));
-        color: var(--main-background);
-        @include font-medium;
-        @include radius-base;
-        @include px-1;
-      }
     }
   }
 
     li:nth-of-type(even) {
-      background: var(--gray-light);
+      background: var(--gray-ultralight);
     }
   }
   &.column { /* used for government pages*/

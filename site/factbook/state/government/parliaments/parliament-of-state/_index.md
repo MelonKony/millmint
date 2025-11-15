@@ -5,6 +5,8 @@ icon: 🗳️
 logo: /svg/crests/parliament/democracy.svg
 color: state
 series: parliament
+list: true
+national-index: true
 
 fi: fi fi-c-democracy fis
 description: The State Parliament is responsible for policy regarding Vekllei federalism, seperatist movements and the rights of constituent republics.

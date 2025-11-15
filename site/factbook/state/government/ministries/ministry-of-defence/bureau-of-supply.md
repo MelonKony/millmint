@@ -5,6 +5,7 @@ icon: 🏛️
 color: defence
 logo: /svg/crests/ministry-of-defence.svg
 series: bureau
+national-index: true
 
 fi: fi fi-c-defence fis
 description: The Bureau of Supply deals with all matters of procurement and peacetime logistics for the Ministry of Defence.

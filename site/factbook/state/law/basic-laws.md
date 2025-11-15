@@ -47,7 +47,7 @@ This Basic Law outlines the fundamental structures and administrative divisions 
 | Commonwealth Arbitration Act | 2057 | Creates procedures for resolving disputes between constituent republics. |
 | Commonwealth Consultation Act | 2059 | Mandates public consultation for all new provisional acts. |
 | Commonwealth Territories Act | 2061 | Establishes governance for non-republic territories. |
-| Commonwealth Diplomacy Act | 2063 | Defines the structure and authority of the [[Ministry of Foreign Affairs]]. |
+| Commonwealth Diplomacy Act | 2063 | Defines the structure and authority of the [[Parliament of State]]. |
 | Commonwealth Registry Act | 2028 | Establishes a centralised registry for all citizens. |
 | Commonwealth Defence Act | 2030 | Creates the [[Civil Defence Service]] for disaster response. |
 | Commonwealth Works Act | 2032 | Authorises national infrastructure projects under the [[Bureau of Public Works]]. |

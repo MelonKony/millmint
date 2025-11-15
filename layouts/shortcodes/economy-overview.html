@@ -1,0 +1,709 @@
+{{ $registries := partial "economic-registry.html" . }}
+{{ $registry := $registries.materials }}
+{{ $categoryRegistry := $registries.categories }}
+{{ $serviceRegistry := $registries.services }}
+
+<div class="vk-economy-overview">
+  <h2>Vekllei Economic Materials Registry</h2>
+  <p class="vk-econ-subtitle">
+    {{ len $categoryRegistry }} categories, 
+    {{ len $registry }} tracked materials,
+    {{ len $serviceRegistry }} service types
+  </p>
+  
+  {{/* Calculate statistics */}}
+  {{ $totalSatisfied := 0 }}
+  {{ $totalWarning := 0 }}
+  {{ $totalCritical := 0 }}
+  
+  {{ range $material, $data := $registry }}
+    {{ if ge $data.effective_satisfaction 75 }}
+      {{ $totalSatisfied = add $totalSatisfied 1 }}
+    {{ else if ge $data.effective_satisfaction 33 }}
+      {{ $totalWarning = add $totalWarning 1 }}
+    {{ else }}
+      {{ $totalCritical = add $totalCritical 1 }}
+    {{ end }}
+  {{ end }}
+  
+  {{/* Category Status Cloud */}}
+  <div class="vk-econ-status-cloud">
+    <h3>Category Status Overview</h3>
+    <div class="vk-econ-pills">
+      {{ range $category, $catData := $categoryRegistry }}
+        {{ $statusClass := "satisfied" }}
+        {{ if lt $catData.satisfaction 33 }}
+          {{ $statusClass = "critical" }}
+        {{ else if lt $catData.satisfaction 75 }}
+          {{ $statusClass = "warning" }}
+        {{ end }}
+        <span class="vk-econ-pill vk-econ-pill-{{ $statusClass }}" 
+              title="{{ $category }}: {{ printf "%.0f" $catData.satisfaction }}% satisfied">
+          {{ $category }}
+        </span>
+      {{ end }}
+    </div>
+  </div>
+  
+  {{/* Category Breakdown */}}
+  <div class="vk-econ-categories">
+    <h3>Categories & Commodities</h3>
+    {{ range $category, $catData := $categoryRegistry }}
+      <div class="vk-econ-category {{ if lt $catData.satisfaction 100 }}vk-econ-deficit{{ end }}">
+        <div class="vk-econ-category-header" onclick="this.parentElement.classList.toggle('vk-econ-expanded')">
+          <div class="vk-econ-category-title">
+            <b>{{ $category }}</b>
+            <span class="vk-econ-commodity-count">{{ len $catData.commodities }}</span>
+          </div>
+          <div class="vk-econ-category-stats">
+            <span class="vk-econ-stat">
+              <strong>Supply:</strong> {{ $catData.total_supply | lang.NumFmt 0 }} {{ $catData.unit }}
+            </span>
+            <span class="vk-econ-stat">
+              <strong>Demand:</strong> {{ $catData.total_demand | lang.NumFmt 0 }} {{ $catData.unit }}
+            </span>
+            <span class="vk-econ-satisfaction {{ if lt $catData.satisfaction 100 }}vk-econ-unsatisfied{{ end }}">
+              {{ printf "%.0f" $catData.satisfaction }}%
+            </span>
+            {{ if gt $catData.deficit 0 }}
+              <span class="vk-econ-deficit-badge">-{{ $catData.deficit | lang.NumFmt 0 }}</span>
+            {{ else }}
+              <span class="vk-econ-surplus-badge">+{{ mul $catData.deficit -1 | lang.NumFmt 0 }}</span>
+            {{ end }}
+          </div>
+          <span class="vk-econ-expand-icon">▼</span>
+        </div>
+        
+        <div class="vk-econ-category-details">
+          <table class="vk-econ-commodities-table">
+            <thead>
+              <tr>
+                <th>Commodity</th>
+                <th>Specifications</th>
+                <th>Demand</th>
+                <th>Supply</th>
+                <th>Status</th>
+              </tr>
+            </thead>
+            <tbody>
+              {{ range $commodity, $commData := $catData.commodities }}
+                <tr class="{{ if lt $commData.satisfaction 100 }}vk-econ-comm-deficit{{ end }}">
+                  <td><strong>{{ $commodity }}</strong></td>
+                  <td class="vk-econ-specs">
+                    {{ if gt (len $commData.specifications) 0 }}
+                      {{ range $i, $spec := $commData.specifications }}
+                        {{ if $i }}, {{ end }}{{ $spec }}
+                      {{ end }}
+                    {{ else }}
+                      <span class="vk-econ-muted">Base commodity</span>
+                    {{ end }}
+                  </td>
+                  <td>{{ $commData.demand | lang.NumFmt 0 }}</td>
+                  <td>{{ $commData.supply | lang.NumFmt 0 }}</td>
+                  <td>
+                    <span class="vk-econ-satisfaction-bar">
+                      <span class="vk-econ-satisfaction-fill" style="width: {{ $commData.satisfaction }}%"></span>
+                      <span class="vk-econ-satisfaction-text">{{ printf "%.0f" $commData.satisfaction }}%</span>
+                    </span>
+                  </td>
+                </tr>
+              {{ end }}
+            </tbody>
+          </table>
+          
+          {{/* Show detailed materials for this category */}}
+          <div class="vk-econ-detailed-materials">
+            <b>Detailed Material Specifications</b>
+            <table class="vk-econ-materials-table">
+              <thead>
+                <tr>
+                  <th>Commodity + Spec</th>
+                  <th>Fungibility</th>
+                  <th>Exact Match</th>
+                  <th>Effective</th>
+                  <th>Companies</th>
+                </tr>
+              </thead>
+              <tbody>
+                {{ range $materialKey, $matData := $registry }}
+                  {{ if eq $matData.category $category }}
+                    <tr>
+                      <td>
+                        <strong>{{ $matData.commodity }}</strong>
+                        {{ with $matData.specification }}
+                          <br><small class="vk-econ-spec">{{ . }}</small>
+                        {{ end }}
+                      </td>
+                      <td>
+                        <span class="vk-econ-badge vk-econ-fung-{{ $matData.fungibility }}">
+                          {{ if eq $matData.fungibility "fungible" }}Fungible
+                          {{ else if eq $matData.fungibility "semi_fungible" }}Semi
+                          {{ else }}Unique{{ end }}
+                        </span>
+                      </td>
+                      <td>
+                        <span class="vk-econ-satisfaction-mini {{ if lt $matData.exact_satisfaction 75 }}vk-econ-low{{ end }}">
+                          {{ printf "%.0f" $matData.exact_satisfaction }}%
+                        </span>
+                      </td>
+                      <td>
+                        <span class="vk-econ-satisfaction-mini {{ if lt $matData.effective_satisfaction 75 }}vk-econ-low{{ end }}">
+                          {{ printf "%.0f" $matData.effective_satisfaction }}%
+                        </span>
+                      </td>
+                      <td class="vk-econ-companies-cell">
+                        {{ if gt (len $matData.producers) 0 }}
+                          <div class="vk-econ-producers-mini">
+                            <strong>P:</strong> {{ range $i, $p := $matData.producers }}{{ if $i }}, {{ end }}{{ $p.company }}{{ end }}
+                          </div>
+                        {{ end }}
+                        {{ if gt (len $matData.consumers) 0 }}
+                          <div class="vk-econ-consumers-mini">
+                            <strong>C:</strong> {{ range $i, $c := $matData.consumers }}{{ if $i }}, {{ end }}{{ $c.company }}{{ end }}
+                          </div>
+                        {{ end }}
+                      </td>
+                    </tr>
+                  {{ end }}
+                {{ end }}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+  
+  {{/* Services Registry */}}
+  {{ if gt (len $serviceRegistry) 0 }}
+  <div class="vk-econ-services">
+    <h3>Services Registry</h3>
+    <p class="vk-econ-subtitle">Services are tracked but not metered in supply/demand calculations</p>
+    <div class="vk-econ-service-grid">
+      {{ range $serviceType, $svcData := $serviceRegistry }}
+        <div class="vk-econ-service-card">
+          <h4>{{ $serviceType }}</h4>
+          <p class="vk-econ-provider-count">{{ len $svcData.providers }} providers</p>
+          <ul class="vk-econ-provider-list">
+            {{ range $svcData.providers }}
+              <li><strong>{{ .company }}</strong><br><small>{{ .coverage }}</small></li>
+            {{ end }}
+          </ul>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script>
+// Satisfaction Pie Chart
+new Chart(document.getElementById('vk-satisfaction-chart'), {
+  type: 'doughnut',
+  data: {
+    labels: ['Satisfied (≥75%)', 'Warning (33-75%)', 'Critical (<33%)'],
+    datasets: [{
+      data: [{{ $totalSatisfied }}, {{ $totalWarning }}, {{ $totalCritical }}],
+      backgroundColor: ['#4caf50', '#ff9800', '#f44336']
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { position: 'bottom', labels: { boxWidth: 12, font: { size: 11 } } }
+    }
+  }
+});
+
+// Fungibility Distribution
+{{ $fungibleCount := 0 }}
+{{ $semiFungibleCount := 0 }}
+{{ $uniqueCount := 0 }}
+{{ range $material, $data := $registry }}
+  {{ if eq $data.fungibility "fungible" }}
+    {{ $fungibleCount = add $fungibleCount 1 }}
+  {{ else if eq $data.fungibility "semi_fungible" }}
+    {{ $semiFungibleCount = add $semiFungibleCount 1 }}
+  {{ else }}
+    {{ $uniqueCount = add $uniqueCount 1 }}
+  {{ end }}
+{{ end }}
+
+new Chart(document.getElementById('vk-fungibility-chart'), {
+  type: 'doughnut',
+  data: {
+    labels: ['Fungible', 'Semi-fungible', 'Unique'],
+    datasets: [{
+      data: [{{ $fungibleCount }}, {{ $semiFungibleCount }}, {{ $uniqueCount }}],
+      backgroundColor: ['#66bb6a', '#ffb74d', '#ef5350']
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { position: 'bottom', labels: { boxWidth: 12, font: { size: 11 } } }
+    }
+  }
+});
+</script>
+
+<style>
+/* Economy Overview Styles v2 */
+.vk-economy-overview {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  max-width: 100% !important;
+  margin: 20px 0 !important;
+}
+
+.vk-econ-subtitle {
+  color: var(--gray-heavy) !important;
+  margin-bottom: 20px !important;
+  font-size: 0.95em !important;
+}
+
+/* Status Cloud */
+.vk-econ-status-cloud {
+  background: var(--gray-ultralight) !important;
+  padding: 20px !important;
+  border-radius: 8px !important;
+  margin-bottom: 20px !important;
+}
+
+.vk-econ-status-cloud h3 {
+  margin-top: 0 !important;
+  margin-bottom: 15px !important;
+}
+
+.vk-econ-pills {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 8px !important;
+}
+
+.vk-econ-pill {
+  display: inline-block !important;
+  padding: 4px 10px !important;
+  border-radius: 3px !important;
+  font-size: 0.85em !important;
+  font-weight: 500 !important;
+  cursor: help !important;
+}
+
+.vk-econ-pill-satisfied {
+  background: #d4edda !important;
+  color: #155724 !important;
+}
+
+.vk-econ-pill-warning {
+  background: #fff3cd !important;
+  color: #856404 !important;
+}
+
+.vk-econ-pill-critical {
+  background: #f8d7da !important;
+  color: #721c24 !important;
+}
+
+/* Summary Cards */
+.vk-econ-summary {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)) !important;
+  gap: 20px !important;
+  margin-bottom: 30px !important;
+}
+
+.vk-econ-stat-card {
+  background: white !important;
+  border: 1px solid #ddd !important;
+  border-radius: 8px !important;
+  padding: 20px !important;
+}
+
+.vk-econ-stat-card h4 {
+  margin-top: 0 !important;
+  margin-bottom: 15px !important;
+  font-size: 1em !important;
+  color: #333 !important;
+}
+
+.vk-econ-chart {
+  height: 200px !important;
+  margin-bottom: 15px !important;
+}
+
+.vk-econ-stat-number {
+  font-size: 2em !important;
+  font-weight: bold !important;
+  color: #2196f3 !important;
+  margin: 10px 0 5px !important;
+}
+
+.vk-econ-stat-label {
+  color: #666 !important;
+  font-size: 0.9em !important;
+  margin: 0 !important;
+}
+
+.vk-econ-critical-list {
+  max-height: 250px !important;
+  overflow-y: auto !important;
+}
+
+.vk-econ-critical-item {
+  padding: 8px 0 !important;
+  border-bottom: 1px solid #eee !important;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  flex-wrap: wrap !important;
+  gap: 5px !important;
+}
+
+.vk-econ-critical-item strong {
+  flex: 1 !important;
+  min-width: 120px !important;
+}
+
+.vk-econ-critical-item small {
+  color: #666 !important;
+  font-size: 0.85em !important;
+  width: 100% !important;
+  margin-top: 2px !important;
+}
+
+.vk-econ-no-critical {
+  color: #4caf50 !important;
+  font-style: italic !important;
+  text-align: center !important;
+  padding: 20px !important;
+}
+
+/* Categories */
+.vk-econ-categories {
+  margin-top: 30px !important;
+}
+
+.vk-econ-categories h3 {
+  margin-bottom: 15px !important;
+}
+
+.vk-econ-category {
+  border: 1px solid #ddd !important;
+  border-radius: 6px !important;
+  margin-bottom: 10px !important;
+  background: white !important;
+}
+
+.vk-econ-category.vk-econ-deficit {
+  border-left: 3px solid #f44336 !important;
+}
+
+.vk-econ-category-header {
+  padding: 12px 15px !important;
+  background: var(--gray-ultralight) !important;
+  cursor: pointer !important;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  gap: 15px !important;
+}
+
+.vk-econ-category-header:hover {
+  background: #e9ecef !important;
+}
+
+.vk-econ-category-title {
+  display: flex !important;
+  align-items: center !important;
+  gap: 10px !important;
+}
+
+.vk-econ-commodity-count {
+  font-size: 0.8em !important;
+  color: #666 !important;
+  background: #e9ecef !important;
+  padding: 2px 8px !important;
+  border-radius: 12px !important;
+}
+
+.vk-econ-category-stats {
+  display: flex !important;
+  gap: 15px !important;
+  align-items: center !important;
+  flex-wrap: wrap !important;
+}
+
+.vk-econ-stat {
+  font-size: 0.9em !important;
+  color: #666 !important;
+  white-space: nowrap !important;
+}
+
+.vk-econ-stat strong {
+  color: #333 !important;
+  font-weight: 600 !important;
+}
+
+.vk-econ-satisfaction {
+  font-size: 1.1em !important;
+  font-weight: bold !important;
+  color: #4caf50 !important;
+}
+
+.vk-econ-satisfaction.vk-econ-unsatisfied {
+  color: #f44336 !important;
+}
+
+.vk-econ-deficit-badge {
+  background: #f44336 !important;
+  color: white !important;
+  padding: 2px 8px !important;
+  border-radius: 12px !important;
+  font-size: 0.85em !important;
+  font-weight: bold !important;
+}
+
+.vk-econ-surplus-badge {
+  background: #4caf50 !important;
+  color: white !important;
+  padding: 2px 8px !important;
+  border-radius: 12px !important;
+  font-size: 0.85em !important;
+  font-weight: bold !important;
+}
+
+.vk-econ-expand-icon {
+  transition: transform 0.2s !important;
+  color: #666 !important;
+  font-size: 0.8em !important;
+}
+
+.vk-econ-expanded .vk-econ-expand-icon {
+  transform: rotate(180deg) !important;
+}
+
+.vk-econ-category-details {
+  max-height: 0 !important;
+  overflow: hidden !important;
+  transition: max-height 0.3s ease !important;
+}
+
+.vk-econ-expanded .vk-econ-category-details {
+  max-height: 3000px !important;
+}
+
+/* Tables */
+.vk-econ-commodities-table,
+.vk-econ-materials-table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  font-size: 0.9em !important;
+  margin: 0 !important;
+}
+
+.vk-econ-commodities-table thead,
+.vk-econ-materials-table thead {
+  background: #f8f9fa !important;
+}
+
+.vk-econ-commodities-table th,
+.vk-econ-materials-table th {
+  padding: 5px 6px !important;
+  text-align: left !important;
+  font-weight: 600 !important;
+  color: #333 !important;
+  border-bottom: 2px solid #dee2e6 !important;
+}
+
+.vk-econ-commodities-table td,
+.vk-econ-materials-table td {
+  padding: 5px 6px !important;
+  border-bottom: 1px solid #dee2e6 !important;
+}
+
+.vk-econ-comm-deficit {
+  background: #fff9f0 !important;
+}
+
+.vk-econ-specs {
+  font-size: 0.85em !important;
+  color: #666 !important;
+}
+
+.vk-econ-muted {
+  color: #999 !important;
+  font-style: italic !important;
+}
+
+.vk-econ-spec {
+  color: #666 !important;
+  font-style: italic !important;
+}
+
+/* Badges */
+.vk-econ-badge {
+  display: inline-block !important;
+  padding: 2px 8px !important;
+  border-radius: 3px !important;
+  font-size: 0.85em !important;
+  font-weight: 600 !important;
+}
+
+.vk-econ-fung-fungible {
+  background: #c8e6c9 !important;
+  color: #2e7d32 !important;
+}
+
+.vk-econ-fung-semi_fungible {
+  background: #fff9c4 !important;
+  color: #f57f17 !important;
+}
+
+.vk-econ-fung-unique {
+  background: #ffccbc !important;
+  color: #d84315 !important;
+}
+
+/* Satisfaction bars */
+.vk-econ-satisfaction-bar {
+  display: inline-block !important;
+  width: 100px !important;
+  height: 20px !important;
+  background: #eee !important;
+  border-radius: 10px !important;
+  position: relative !important;
+  overflow: hidden !important;
+}
+
+.vk-econ-satisfaction-fill {
+  position: absolute !important;
+  left: 0 !important;
+  top: 0 !important;
+  height: 100% !important;
+  background: linear-gradient(90deg, #f44336 0%, #ff9800 50%, #4caf50 100%) !important;
+  transition: width 0.3s !important;
+}
+
+.vk-econ-satisfaction-text {
+  position: absolute !important;
+  left: 50% !important;
+  top: 50% !important;
+  transform: translate(-50%, -50%) !important;
+  font-size: 0.75em !important;
+  font-weight: bold !important;
+  color: #333 !important;
+  text-shadow: 0 0 3px white !important;
+}
+
+.vk-econ-satisfaction-mini {
+  font-size: 0.9em !important;
+  font-weight: 600 !important;
+  color: #4caf50 !important;
+}
+
+.vk-econ-satisfaction-mini.vk-econ-low {
+  color: #f44336 !important;
+}
+
+/* Detailed materials section */
+.vk-econ-detailed-materials {
+  padding-top: 15px !important;
+}
+
+.vk-econ-detailed-materials h5 {
+  margin-top: 0 !important;
+  margin-bottom: 10px !important;
+  color: #555 !important;
+}
+
+.vk-econ-companies-cell {
+  font-size: 0.85em !important;
+}
+
+.vk-econ-producers-mini {
+  color: #4caf50 !important;
+  margin-bottom: 4px !important;
+}
+
+.vk-econ-consumers-mini {
+  color: #2196f3 !important;
+}
+
+/* Services Section */
+.vk-econ-services {
+  margin-top: 40px !important;
+  padding-top: 30px !important;
+  border-top: 3px solid #dee2e6 !important;
+}
+
+.vk-econ-services h3 {
+  margin-bottom: 10px !important;
+}
+
+.vk-econ-service-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)) !important;
+  gap: 15px !important;
+  margin-top: 20px !important;
+}
+
+.vk-econ-service-card {
+  background: white !important;
+  border: 1px solid #ddd !important;
+  border-radius: 6px !important;
+  padding: 15px !important;
+}
+
+.vk-econ-service-card h4 {
+  margin-top: 0 !important;
+  margin-bottom: 8px !important;
+  color: #333 !important;
+  font-size: 1em !important;
+}
+
+.vk-econ-provider-count {
+  color: #666 !important;
+  font-size: 0.9em !important;
+  margin-bottom: 10px !important;
+}
+
+.vk-econ-provider-list {
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin: 0 !important;
+}
+
+.vk-econ-provider-list li {
+  padding: 6px 0 !important;
+  border-bottom: 1px solid #eee !important;
+  font-size: 0.9em !important;
+  list-style-type: none !important;
+}
+
+.vk-econ-provider-list li:last-child {
+  border-bottom: none !important;
+}
+
+.vk-econ-provider-list small {
+  color: #666 !important;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .vk-econ-category-header {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+  }
+  
+  .vk-econ-category-stats {
+    width: 100% !important;
+  }
+  
+  .vk-econ-service-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+</style>

@@ -7,6 +7,7 @@ rgb: 2, 113, 182
 logocredit: Shigeo Katsuoka, 1983, for Nippon Exterior Kogyokai
 series: organisation
 type: government
+national-index: true
 
 fi: fi fi-nef fis
 description: The National Education Forum is an industry organisation that represents teachers and educators in Vekllei.

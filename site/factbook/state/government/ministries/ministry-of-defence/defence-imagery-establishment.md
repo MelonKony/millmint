@@ -5,6 +5,7 @@ icon: 🏛️
 color: defence
 logo: /svg/crests/ministry-of-defence.svg
 series: organisation
+national-index: true
 
 fi: fi fi-c-defence fis
 description: The Defence Imagery Establishment provides geospatial and topographic intelligence for the Ministry of Defence.

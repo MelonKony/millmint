@@ -4,6 +4,7 @@ fulltitle: Maritime Service
 icon: ⚓️
 color: marine
 logo: /svg/crests/maritime-service.svg
+national-index: true
 
 fi: fi fi-maritime-service fis
 description: The Maritime Service is the traditional naval warfare component of the Vekllei Armed Forces.

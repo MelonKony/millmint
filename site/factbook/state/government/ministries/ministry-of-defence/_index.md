@@ -6,6 +6,7 @@ color: defence
 logo: /svg/crests/ministry-of-defence.svg
 series: ministry
 list: true
+national-index: true
 
 fi: fi fi-c-defence fis
 description: The Ministry of Defence maintains the Armed Forces of the country and assists security, civil defence and warfare.

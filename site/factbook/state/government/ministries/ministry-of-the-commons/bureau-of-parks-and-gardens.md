@@ -6,6 +6,7 @@ color: commons
 logo: /svg/crests/ministry-of-the-commons.svg
 series: bureau
 type: government
+national-index: true
 
 fi: fi fi-c-commons fis
 description: The Bureau of Housing oversees green spaces and public beauty for the Ministry of the Commons.
@@ -21,36 +22,22 @@ The bureau works at all scales, from large-scale landscaping projects to flower-
 
 ## Constituents
 
-* **Vekllei Parks Commission**: Operator of Vekllei zoos and gated parks.
-* **Landcare Vekllei**: Public advocate for light agriculture and training in gardening.
-* **National Beauty Campaign**: Public advocate for care of public spaces and anti-littering messaging.
-
-## Council
-
-* **Director**, [[Bureau of Parks and Gardens]]
-    * Chief Architect
-    * Secretary for Projects & Landscaping
-        * Chief Architect
-        * Officer for Natural Light & Open Air
-    * Secretary for Projects & Landscaping
-    * Secretary for Park Management
-* **Deputy Minister**, [[Ministry of the Commons]]
-* **Assistant Director**, [[Bureau of Public Works]]
-* **Chairman**, Vekllei Parks Commission
-
+* <span class="fi fi-c-commons fis"></span> **Vekllei Parks Commission**: Operator of Vekllei zoos and gated parks.
+* <span class="fi fi-c-commons fis"></span> **Landcare Vekllei**: Public advocate for light agriculture and training in gardening.
+* <span class="fi fi-c-commons fis"></span> **National Beauty Campaign**: Public advocate for care of public spaces and anti-littering messaging.
 
 ## Departments
-* **Department of Gardens & Smallholdings**: Planning of community gardens and spaces for light agriculture and their integration into Vekllei neighbourhoods.
+* **Department of Gardens & Smallholdings**: Designs and implements community gardens urban agricultural spaces and other small-scale green areas.
     * Office of the Architect
     * Office of Gardens & Design
     * Office of Running Water
     * Office of Natural Light & Open Air
-* **Department of Projects & Landscaping**: Specialised department contracted for specific projects and public works.
+* **Department of Projects & Landscaping**: Manages specific landscaping projects for municipal private and domestic clients.
     * Office of Municipal Works
     * Office of Private & Domestic Contracts
     * Office of Street Furniture & Landscaping
     * Office of Interiors & Housegardens
-* **Department of Park Management**: Development and maintenance of public areas and entertainment, including gated parks and zoos.
+* **Department of Park Management**: Oversees the development maintenance and operation of public parks zoos and historic sites.
     * Office of Historic Sites
     * Office of Zoos & Enclosures
     * Office of Parks & Public Squares

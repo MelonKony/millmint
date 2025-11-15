@@ -6,6 +6,7 @@ logo: /svg/crests/bureau-post.svg
 color: culture
 series: bureau
 type: government
+national-index: true
 logocredit: Steve Rousso, 1990, For Callaway Carpets
 
 fi: fi fi-bureau-post fis
@@ -20,57 +21,42 @@ The bureau has a significant role in the development and maintenance of Vekllei'
 
 ## Constituents
 
-* [[post|Commonwealth Post]]: National postal service and mail carrier of [[Vekllei]].
+* [[Commonwealth Post]]: National postal service and mail carrier of [[Vekllei]].
 * [[Cosma]]: Primary telecommunications provider and network operator.
-* **Veletia Broadcasting Service**: National radio and television broadcasting service.
-* **Radio Atlantic:** National radio broadcaster.
-* **School Broadcasting Service:** Specialised educational radio and television programming.
-* **Commonwealth Telegraph & Cable Company:** International telegraph and submarine cable services.
-* **Lucayan Telephone Exchange Corporation:** Telephone network and exchange services headquartered in [[Caicos]].
-* **Summers Transatlantic Exchange Corporation:** Telephone network and exchange services headquartered in [[Summers]].
-* **Volcanic Telephone Exchange Corporation:** Telephone network and exchange services headquartered in [[Oslola]].
-* **Commonwealth Radio Frequency Register:** Radio spectrum management and licensing authority.
-* **Commonwealth Broadcast Register:** Licensing of radio operators and telecommunications providers.
-* **Commonwealth Postal Banking Commission:** Money exchange for foreign transfers, facilitated by the bureau directly.
-* **Saint Gabriel Telegraph Training College:** Training facility associated with Atlantic College in [[Oslola]]. Historically trained telegraph operators but now specialises in optical-electric communications.
-
-## Council
-
-* **Director** [[Bureau of Post and Telecommunications]]
-  * Secretary for the Postal System
-    * Officer for Postal Banking & Finance
-  * Secretary for Telecommunications Infrastructure
-  * Secretary for Broadcasting & Radio
-    * Officer for Emergency Broadcasting
-* **Deputy Minister** [[Ministry of Culture]]
-* **Executive** [[post|Commonwealth Post]]
-  * Secretary for Postal Services
-* **Executive** [[Cosma]]
-* **Director** Commonwealth Radio Frequency Register
-* **Director** Commonwealth Broadcast Register
+* <span class="fi fi-bureau-post fis"></span> **Veletia Broadcasting Service**: National radio and television broadcasting service.
+* <span class="fi fi-bureau-post fis"></span> **Radio Atlantic:** National radio broadcaster.
+* <span class="fi fi-bureau-post fis"></span> **School Broadcasting Service:** Specialised educational radio and television programming.
+* <span class="fi fi-bureau-post fis"></span> **Commonwealth Telegraph & Cable Company:** International telegraph and submarine cable services.
+* <span class="fi fi-bureau-post fis"></span> **Lucayan Telephone Exchange Corporation:** Telephone network and exchange services headquartered in [[Caicos]].
+* <span class="fi fi-bureau-post fis"></span> **Summers Transatlantic Exchange Corporation:** Telephone network and exchange services headquartered in [[Summers]].
+* <span class="fi fi-bureau-post fis"></span> **Volcanic Telephone Exchange Corporation:** Telephone network and exchange services headquartered in [[Oslola]].
+* <span class="fi fi-bureau-post fis"></span> **Commonwealth Radio Frequency Register:** Radio spectrum management and licensing authority.
+* <span class="fi fi-bureau-post fis"></span> **Commonwealth Broadcast Register:** Licensing of radio operators and telecommunications providers.
+* <span class="fi fi-bureau-post fis"></span> **Commonwealth Postal Banking Commission:** Money exchange for foreign transfers, facilitated by the bureau directly.
+* <span class="fi fi-bureau-post fis"></span> **Saint Gabriel Telegraph Training College:** Training facility associated with Atlantic College in [[Oslola]]. Historically trained telegraph operators but now specialises in optical-electric communications.
 
 ## Departments
 
-* **Department of the Postal System**
+* **Department of the Postal System**: Oversees all national and international postal operations, including logistics and financial services.
   * Office of Revenues & Customs
   * Office of International Post
   * Office of Express & Priority Services
   * Office of Postal Rail & Aviation
   * Office of Postal Banking & Finance
-* **Department of Telecommunications Infrastructure**
+* **Department of Telecommunications Infrastructure**: Manages the development and maintenance of national telecommunications networks, including telephone, telegraph and cable services.
   * Office of Telephone Networks
   * Office of Telegraph Services
   * Office of Cables & Lines
   * Office of Rural Communications
   * National Emergency Telecommunications Committee
-* **Department of Broadcasting & Radio**
+* **Department of Broadcasting & Radio**: Regulates broadcast licensing, manages radio frequencies and oversees emergency broadcasting systems.
   * Office of Radio Licensing
   * Office of Frequency Management
   * Office of Emergency Broadcasting
-* **Department of Industrial Security**
+* **Department of Industrial Security**: Provides internal inspection and security for postal and telecommunications infrastructure and operations.
   * Postal Inspection Branch
   * Electrics Inspection Branch
-* **Service Branches**
+* **Service Branches**: Regional bodies responsible for the administration of postal and telecommunications services.
   * Arctic & Volcanic Section
   * Verde & African Section
   * Atlantic Section

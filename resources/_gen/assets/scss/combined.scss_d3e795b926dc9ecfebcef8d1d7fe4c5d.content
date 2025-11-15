@@ -72,16 +72,16 @@
   background-image: url("/svg/crests/crownless/c-education.svg");
 }
 
-.fi-c-foreign-affairs.fis {
-  background-image: url("/svg/crests/crownless/c-foreign-affairs.svg");
-}
-
 .fi-c-health.fis {
   background-image: url("/svg/crests/crownless/c-health.svg");
 }
 
 .fi-c-industry.fis {
   background-image: url("/svg/crests/crownless/c-industry.svg");
+}
+
+.fi-c-interior.fis {
+  background-image: url("/svg/crests/crownless/c-interior.svg");
 }
 
 .fi-c-labour.fis {
@@ -272,10 +272,6 @@
   background-image: url("/svg/crests/ministry-of-defence.svg");
 }
 
-.fi-ministry-of-foreign-affairs.fis {
-  background-image: url("/svg/crests/ministry-of-foreign-affairs.svg");
-}
-
 .fi-ministry-of-industry.fis {
   background-image: url("/svg/crests/ministry-of-industry.svg");
 }
@@ -298,6 +294,10 @@
 
 .fi-ministry-of-the-commonwealth.fis {
   background-image: url("/svg/crests/ministry-of-the-commonwealth.svg");
+}
+
+.fi-ministry-of-the-interior.fis {
+  background-image: url("/svg/crests/ministry-of-the-interior.svg");
 }
 
 .fi-parliament-police.fis {
@@ -500,8 +500,16 @@
   background-image: url("/svg/flags/4x3/in-4x3.svg");
 }
 
+.fi-inagua-4x3 {
+  background-image: url("/svg/flags/4x3/inagua-4x3.svg");
+}
+
 .fi-java-4x3 {
   background-image: url("/svg/flags/4x3/java-4x3.svg");
+}
+
+.fi-kabuli-4x3 {
+  background-image: url("/svg/flags/4x3/kabuli-4x3.svg");
 }
 
 .fi-kairi-4x3 {
@@ -720,6 +728,10 @@
   background-image: url("/svg/logos/adelectrics.svg");
 }
 
+.fi-agency-for-veletian-witness.fis {
+  background-image: url("/svg/logos/agency-for-veletian-witness.svg");
+}
+
 .fi-air.fis {
   background-image: url("/svg/logos/air.svg");
 }
@@ -784,8 +796,20 @@
   background-image: url("/svg/logos/civil-defence.svg");
 }
 
+.fi-common-university.fis {
+  background-image: url("/svg/logos/common-university.svg");
+}
+
+.fi-commonwealth-arsenal.fis {
+  background-image: url("/svg/logos/commonwealth-arsenal.svg");
+}
+
 .fi-commonwealth-bank.fis {
   background-image: url("/svg/logos/commonwealth-bank.svg");
+}
+
+.fi-commonwealth-industrial-congress.fis {
+  background-image: url("/svg/logos/commonwealth-industrial-congress.svg");
 }
 
 .fi-commonwealth-labs.fis {
@@ -872,8 +896,16 @@
   background-image: url("/svg/logos/housing-commission.svg");
 }
 
+.fi-international-levy-for-atlantic-mercy.fis {
+  background-image: url("/svg/logos/international-levy-for-atlantic-mercy.svg");
+}
+
 .fi-lsre.fis {
   background-image: url("/svg/logos/LSRE.svg");
+}
+
+.fi-method-heavy.fis {
+  background-image: url("/svg/logos/method-heavy.svg");
 }
 
 .fi-msre.fis {
@@ -920,6 +952,10 @@
   background-image: url("/svg/logos/olympic.svg");
 }
 
+.fi-order-of-free-labour.fis {
+  background-image: url("/svg/logos/order-of-free-labour.svg");
+}
+
 .fi-orleans.fis {
   background-image: url("/svg/logos/orleans.svg");
 }
@@ -940,12 +976,24 @@
   background-image: url("/svg/logos/ratings.svg");
 }
 
+.fi-rosea-beverage-company.fis {
+  background-image: url("/svg/logos/rosea-beverage-company.svg");
+}
+
+.fi-savage-arsenal.fis {
+  background-image: url("/svg/logos/savage-arsenal.svg");
+}
+
 .fi-schools.fis {
   background-image: url("/svg/logos/schools.svg");
 }
 
 .fi-siro.fis {
   background-image: url("/svg/logos/SIRO.svg");
+}
+
+.fi-spirit-glass.fis {
+  background-image: url("/svg/logos/spirit-glass.svg");
 }
 
 .fi-starlines.fis {
@@ -962,6 +1010,10 @@
 
 .fi-united-grocers.fis {
   background-image: url("/svg/logos/united-grocers.svg");
+}
+
+.fi-universal-college.fis {
+  background-image: url("/svg/logos/universal-college.svg");
 }
 
 .fi-university-of-karu.fis {
@@ -1079,7 +1131,7 @@
   --color-commonwealth: #e5388f;
   --color-culture: #1fa752;
   --color-defence: #ed220d;
-  --color-foreignaffairs: #773fde;
+  --color-interior: #773fde;
   --color-industry: #2559a7;
   --color-labour: #a12b2e;
   --color-landscape: #13ac43;
@@ -1141,7 +1193,7 @@
   --color-commonwealth: #e5388f;
   --color-culture: #1fa752;
   --color-defence: #ed220d;
-  --color-foreignaffairs: #773fde;
+  --color-interior: #773fde;
   --color-industry: #2559a7;
   --color-labour: #a12b2e;
   --color-landscape: #13ac43;
@@ -2046,18 +2098,8 @@ article blockquote {
   color: var(--gray-medium);
 }
 
-.note.matrix ul li strong {
-  float: right;
-  background: var(--highlight, var(--gray-medium, #737373));
-  color: var(--main-background);
-  font-weight: 500;
-  border-radius: 0.25rem;
-  padding-left: 0.25rem;
-  padding-right: 0.25rem;
-}
-
 .note.matrix li:nth-of-type(even) {
-  background: var(--gray-light);
+  background: var(--gray-ultralight);
 }
 
 .note.column {
@@ -2437,7 +2479,7 @@ button.bulletbutton:hover {
 span.tag {
   font-size: 0.875rem;
   line-height: 1.25rem;
-  font-weight: 700;
+  font-weight: 500;
   border-radius: 0.25rem;
   padding: 0.1rem 0.25rem;
   list-style: none;

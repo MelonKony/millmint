@@ -7,6 +7,7 @@ logo: /svg/crests/ministry-of-the-commons.svg
 
 series: bureau
 type: government
+national-index: true
 
 fi: fi fi-c-commons fis
 description: The Bureau of Rail oversees rail transport for the Ministry of the Commons.
@@ -23,28 +24,16 @@ Including VNR, the Bureau of Rail is consequently one of the largest rail transp
 ## Constituents
 
 * **[[CommRail]]**: National rail company and service operator.
-* **Passenger Amenities Committee**: Advisory board for passenger comfort and satisfaction.
-
-## Council
-
-* **Director**, [[Bureau of Rail]]
-	* Chief Architect
-	* Chief Engineer
-	* Secretary for Rail Service
-* **Minister**, [[Ministry of the Commons]]
-* **Chairman**, [[Transport Commission]]
-	* Secretary for Interservice Operations
-	* Secretary for Metropolitan Transport
-* **Chief Scientist**, [[Transport Laboratories]]
+* <span class="fi fi-c-commons fis"></span> **Passenger Amenities Committee**: Advisory board for passenger comfort and satisfaction.
 
 ## Departments
 
-* **General Council**: Advisory board to the [[Ministry of the Commons]].
-* **Department of Infrastructure**
+* **General Council**: Functions as the primary advisory body to the Ministry of the Commons on rail policy.
+* **Department of Infrastructure**: Oversees the maintenance and modernisation of track signals and automated rail systems.
 	* Office of Track
 	* Office of Signals and Telecommunications
 	* Office of Automatic Service
-* **Department of Traction & Rolling Stock**
+* **Department of Traction & Rolling Stock**: Manages the engineering and maintenance of locomotives and all rail vehicles.
 	* Office of Engineering
-* **Department of Service & Operations**
+* **Department of Service & Operations**: Focuses on the operational aspects of the rail network and the preservation of its heritage.
 	* Office of Rail Heritage

@@ -6,6 +6,7 @@ logo: /svg/crests/bureau-of-the-commons.svg
 color: milk-honey
 series: bureau
 type: government
+national-index: true
 
 fi: fi fi-bureau-of-the-commons fis
 description: The Bureau of the Commons manages logistics, supply chains and goods allocation across all Commonwealth republics.
@@ -27,37 +28,23 @@ This coordination requires the bureau to function simultaneously as shipping com
 * <span class="fi fi-bureau-of-the-commons fis"></span> **Panveletian Trade Commission**: Coordination of resource exchange between different republics, as well as the integration of production and distribution across all republics.
 * <span class="fi fi-bureau-of-the-commons fis"></span> **Quality of Life Surveillance Commission**: Survey and analysis of Vekllei quality of life and essential needs.
 
-## Council
-
-* **Director** [[Bureau of the Commons]]
-  * Secretary for Production & Distribution
-    * Officer for Industrial Supply
-  * Secretary for Commodities & Supply
-  * Secretary for Logistics & Transport
-    * Officer for Infrastructure & Automatic Systems
-* **Deputy Minister** [[Parliament of Milk and Honey]]
-* **Director** Commonwealth Supply Commission
-* **Director** Commonwealth Central Inventory
-* **Director** Panveletian Trade Commission
-* **Director** Quality of Life Surveillance Commission
-
 ## Departments
 
-* **Department of Production & Distribution**
+* **Department of Production & Distribution**: Coordinates the integration of production and distribution systems to ensure efficient resource flow.
   * Office of Production-Distribution Systems
   * Office of Industrial Supply
   * Office of Economic Coordination
   * Office of System Integration
-* **Department of Commodities & Supply**
+* **Department of Commodities & Supply**: Manages the allocation of commodities and goods to meet local and Commonwealth-wide supply obligations.
   * Office of Invoicing & Commissions
   * Office of Local & Ordinary Supply
   * Office of Commonwealth Obligations & Community Supply
-* **Department of Logistics & Transport**
+* **Department of Logistics & Transport**: Operates the physical infrastructure for logistics, including warehousing, freight and transport systems.
   * Office of Warehousing & Stockpiles
   * Office of Freight
   * Office of Facilities
   * Office of Infrastructure & Automatic Systems
-* **Department of Economies**
+* **Department of Economies**: Oversees the specialised distribution of goods to regions, factories and other specific economic areas.
   * Office of Regional Distribution
   * Office of Factory Supply
   * Office of Special Distribution

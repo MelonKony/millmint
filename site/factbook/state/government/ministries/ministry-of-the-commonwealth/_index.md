@@ -6,6 +6,7 @@ color: commonwealth
 logo: /svg/crests/ministry-of-the-commonwealth.svg
 series: ministry
 list: true
+national-index: true
 
 fi: fi fi-c-commonwealth fis
 description: The Ministry of the Commonwealth is responsible for standardisation across Vekllei governments, licensing and accreditation.

@@ -6,6 +6,7 @@ logo: /svg/crests/parliament/law.svg
 color: law
 series: parliament
 list: true
+national-index: true
 
 logocredit: Holmfridur Valdimarsdottir, Argus Advertising, 1974 for the Association of Icelandic Commercial Banks.
 

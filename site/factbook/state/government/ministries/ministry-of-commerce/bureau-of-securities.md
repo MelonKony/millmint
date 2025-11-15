@@ -6,6 +6,7 @@ color: commerce
 logo: /svg/crests/ministry-of-commerce.svg
 series: bureau
 type: government
+national-index: true
 
 fi: fi fi-c-commerce fis
 description: The Bureau of Securities regulates securities and trade practices for the Ministry of Commerce.
@@ -19,23 +20,11 @@ Since Vekllei citizens do not usually participate in the domestic securities mar
 
 ## Constituents
 
-* **National Patent & Trademark Office**: Registration authority for commercial patents and marks.
-* **Intellectual Property Arbitration Board**: Mediator for copyright, patent and trademark disputes before litigation.
-* **Commonwealth Commercial Service**: Promotion of Vekllei products abroad and liaison between industry and foreign partners.
-* **Commonwealth Trade Commission**: Industrial and commodity liaison for foreign companies.
+* <span class="fi fi-c-commerce fis"></span> **National Patent & Trademark Office**: Registration authority for commercial patents and marks.
+* <span class="fi fi-c-commerce fis"></span> **Intellectual Property Arbitration Board**: Mediator for copyright, patent and trademark disputes before litigation.
+* <span class="fi fi-c-commerce fis"></span> **Commonwealth Commercial Service**: Promotion of Vekllei products abroad and liaison between industry and foreign partners.
+* <span class="fi fi-c-commerce fis"></span> **Commonwealth Trade Commission**: Industrial and commodity liaison for foreign companies.
 * **[[ratings|Commonwealth Ratings Corporation]]**: Independent ratings agency for global private and public debt, which also maintains the CRC/CSX 50 index for the [[commonwealth-securities-exchange|Commsec]].
-
-## Council
-
-* **Director**, [[Bureau of Securities]]
-	* Secretary for Prosecution
-	* Secretary for Investments
-		* Officer for Public Investments
-	* Secretary for Risk & Analysis
-* **Director**, [[commonwealth-securities-exchange|Commsec]]
-* **Assistant Secretary**, [[Commonwealth Bank]]
-* **Assistant Secretary**, [[commonwealth-treasury|Treasury]]
-* **Assistant Secretary**, [[Bureau of Trade]]
 
 ## Departments
 

@@ -7,6 +7,7 @@ logo: /svg/crests/ministry-of-the-commons.svg
 
 series: bureau
 type: government
+national-index: true
 
 fi: fi fi-c-commons fis
 description: The Bureau of Housing oversees municipalised and public housing for the Ministry of the Commons.
@@ -21,43 +22,23 @@ The Bureau of Housing may represent the public in court proceedings over ownersh
 ## Constituents
 
 * **[[Housing Commission]]**: Public housing authority.
-* **Vekllei Tenant Union**: Union of non-owner residents.
-* **Fair Housing Authority**: Commonwealth housing quality regulator.
-
-## Council
-
-* **Director**, [[Bureau of Housing]]
-	* Secretary for Architecture & Planning
-		* Chief Architect
-		* Secretary for Beauty & Design
-		* Secretary for New Living
-	* Secretary for Construction
-	* Secretary for Community & Integration
-		* Officer for Migrant Housing
-		* Officer for Development
-		* Officer for Neighbourhoods
-		* Officer for Accessibility
-	* Secretary for the Built Environment
-* **Deputy Minister**, [[Ministry of the Commons]]
-* **Assistant Director**, [[Bureau of Public Works]]
-* **Chairman**, [[Housing Commission]]
-* **Advocate**, Commonwealth Institute for Municipalism
-
+* <span class="fi fi-c-commons fis"></span> **Vekllei Tenant Union**: Union of non-owner residents.
+* <span class="fi fi-c-commons fis"></span> **Fair Housing Authority**: Commonwealth housing quality regulator.
 
 ## Departments
-* **Department of Architecture & Planning**: Planning of neighbourhoods and cities, as well as their design and quality standards.
+* **Department of Architecture & Planning**: Sets design standards and plans the development of new housing landscapes and living spaces.
 	* Office of Architecture & Design
 	* Office of Landscapes
 	* Office of New Living
-* **Department of Housing Construction**: Organising department for construction of housing, usually through the [[National Construction House]].
-* **Department of Community**: Social planning and culture, particularly regarding how they impact community.
+* **Department of Housing Construction**: Coordinates the physical construction of public housing projects typically through the [[National Construction House]].
+* **Department of Community**: Focuses on the social aspects of housing including migrant integration neighbourhood development and accessibility.
 	* Office of Migrant Housing
 	* Office of Development
 	* Office of Neighbourhoods
 	* Office of Island Communities
 	* Office of Transport
 	* Office of Accessibility
-* **Department of the Built Environment**: Redevelopment, improvement and renewal of housing and neighbourhoods.
+* **Department of the Built Environment**: Manages the renewal improvement and inspection of existing housing stock and neighbourhoods.
 	* Office of Inspection
 	* Office of Tenants & Residents
 	* Office of Renewal

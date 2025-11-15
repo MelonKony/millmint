@@ -6,6 +6,7 @@ rgb: 221, 116, 152
 logo: /svg/logos/art-commission.svg
 series: organisation
 type: government
+national-index: true
 
 fi: fi fi-art-commission fis
 description: The Commonwealth Art Commission manages government programmes in Vekllei that promote and commission the visual arts.
@@ -29,50 +30,39 @@ The Commission provides only general direction on art it commissions, but does d
 
 ## Constituents
 
-* **Commonwealth Fine Arts Programme**: 
+* <span class="fi fi-art-commission fis"></span> **Commonwealth Fine Arts Programme**: 
   * Federal Writing Programme
   * Federal Art Programme
   * Federal Theatre Programme
   * Federal Music Programme
   * Mayaguana Federal Conservatory ([[CUWI]])
-* **Commonwealth Practical Arts Programme**
+* <span class="fi fi-art-commission fis"></span> **Commonwealth Practical Arts Programme**
   * Federal Architecture Programme  
   * Federal Crafts Programme
   * Federal Sculpture Programme
   * Federal Textiles Programme
-* **Commonwealth Arts Education Programme**: 
+* <span class="fi fi-art-commission fis"></span> **Commonwealth Arts Education Programme**: 
   * Federal Art Democracy Commission
   * Young Atlantic Artists Project ([[Atlantic Arts Federation]])
   * National Arts Month Council
 * [[national-design-atlas|Commonwealth Design Atlas Programme]]: Responsible for the development and publishing of the [[National Design Atlas]].
-* **Federal Residency Project**: Arranges retreats and relocation for artists enrolled in federal programmes.
-* **Federal Arts Council**: Administion and enrollment of artists into federal programmes.
-* **Federal Galleries Commission**: Management of public art galleries and exhibition spaces.
-* **Federal Public Art Programme**: Planning and maintenance of public sculptures and monuments.
-* **Commonwealth Arts Export Corporation:** International promotion of Vekllei artists and artworks.
-* **Municipal Arts Federation:** Liaison with local government art programs.
-
-## Council
-
-* **Chairman**, Commonwealth Art Commission
-  * Secretary for Art Programs
-  * Secretary for Federal Culture & Exhibition
-  * Secretary for Arts Education & Training
-* **Council Members**, Federal Arts Council
-* **Director**, Federal Galleries Commission
-* **Deputy Minister**, [[Ministry of Culture]]
-* **Representative**, [[Atlantic Arts Federation]]
+* <span class="fi fi-art-commission fis"></span> **Federal Residency Project**: Arranges retreats and relocation for artists enrolled in federal programmes.
+* <span class="fi fi-art-commission fis"></span> **Federal Arts Council**: Administion and enrollment of artists into federal programmes.
+* <span class="fi fi-art-commission fis"></span> **Federal Galleries Commission**: Management of public art galleries and exhibition spaces.
+* <span class="fi fi-art-commission fis"></span> **Federal Public Art Programme**: Planning and maintenance of public sculptures and monuments.
+* <span class="fi fi-art-commission fis"></span> **Commonwealth Arts Export Corporation:** International promotion of Vekllei artists and artworks.
+* <span class="fi fi-art-commission fis"></span> **Municipal Arts Federation:** Liaison with local government art programs.
 
 ## Departments
 
-* **General Administration**
+* **General Administration**: Handles the legal, financial, and cultural oversight of all commission activities and programmes.
   * Office of Law & Copyright
   * Office of Art Programmes
   * Office of Commissioned Art
   * Government Liasion Office
   * Office of Analysis & Culture
   * Office of Federal Culture & Exhibition
-* **Department of Programmes**
+* **Department of Programmes**: Manages the operational aspects of all arts initiatives, including grants, resource allocation, and educational outreach.
   * Office of Grants & Promotion
   * Office of Resources & Supply
   * Office of Arts Education & Training

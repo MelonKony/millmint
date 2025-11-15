@@ -1,9 +1,10 @@
-  ---
+---
 title: Air Service
 fulltitle: Air Service
 icon: ⚔️
 color: aero
 logo: /svg/crests/air-service.svg
+national-index: true
 
 fi: fi fi-air-service fis
 description: The Aero Services comprise 4 specialised services in the Vekllei Armed Forces.

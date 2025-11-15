@@ -5,6 +5,7 @@ icon: 🔬
 color: defence
 logo: /svg/logos/DSRE.svg
 series: SIRO
+national-index: true
 
 fi: fi fi-dsre fis
 description: The Defence Science Research Establishment is a constituent research organisation of SIRO dedicated to military, armament, chemical and aerospace research.
@@ -17,19 +18,6 @@ aliases:
 The <span class="fi fi-dsre fis"></span> **Commonwealth Defence Science Research Establishment** (DSRE) is a research organisation of the [[Ministry of Defence]]. It is a part of [[SIRO]] and is the primary government military research organisation in [[Vekllei]]. It is also the largest constituent research establishment of [[SIRO]], and has nearly 25,000 employees across many offices, research complexes, and secure facilities.
 
 The DSRE has extensive connections throughout the Commonwealth defence industry, and regularly collaborates with industry here and abroad. It is a major contributor to Vekllei sciences and several DSRE inventions have trickled down to the public, including the permanent pleat and instaskin.
-
-{{<note>}}
-## Executive Council
-
-* **Director**, [[DSRE]]
-	* Chief Defence Scientist
-	* Officer for Strategic Policy
-	* Secretary for Ordnance
-* **Secretary for Procurement**, [[Bureau of Supply]]
-* **Chairman**, DSRE Industry Board
-* **Director**, Defence Research Intelligence Establishment
-* **Director**, [[SIRO]]
-{{</note>}}
 
 {{<note>}}
 ## Departments

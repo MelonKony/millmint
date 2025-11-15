@@ -75,7 +75,7 @@ To travel under this arrangement, Vekllei people must have completed their [[Com
 
 ## Independent Travel
 
-Naturally, people want to travel independently for a variety of reasons. They may be visiting family, or chasing adventure. They might simply be visiting a region with no government hotels available, or with a reduced consular presence. While the [[Ministry of Foreign Affairs]] establishes travel advice and warnings, there is no specific mechanism to prevent a Vekllei person from going where they like.
+Naturally, people want to travel independently for a variety of reasons. They may be visiting family, or chasing adventure. They might simply be visiting a region with no government hotels available, or with a reduced consular presence. While the [[Ministry of the Interior]] establishes travel advice and warnings, there is no specific mechanism to prevent a Vekllei person from going where they like.
 
 Independent travelers are entitled to a superior stipend of $100 a day depending on their destination and length of stay. This applies for up to four weeks at a time, and can be extended only with permission. Extensions are usually only granted for occasions like long-service leave or bereavement.
 
@@ -84,7 +84,7 @@ Independent travelers must register with their local consulate and receive advic
 {{<note>}}
 1. **Plan your independent travel**
     1. You don't need a complete itinerary, but you should have a destination in mind. This destination will determine appropriate consular support and will affect your stipend.
-    2. The [[Ministry of Foreign Affairs]] is here to support you. Speak to them or the [[Bureau of Travel]] for advice about your trip that can ensure your comfort and safety overseas.
+    2. The [[Ministry of the Interior]] is here to support you. Speak to them or the [[Bureau of Travel]] for advice about your trip that can ensure your comfort and safety overseas.
 2. **Prepare sensibly**
     1. Independent travel can be the adventure of a lifetime, but the rest of the world can be very different to Vekllei. You should take advantage of the time before your trip to prepare your documents, visas and research the lay of the land at your destination.
     2. Take any opportunity to educate yourself. Many governments in Vekllei have services to help you understand money and how to use it sensibly. You are in charge of your stipend and the consulate may have limited recourse if it is wasted or stolen. Learning useful phrases in the local language can be the difference between a great visit or a bad one.

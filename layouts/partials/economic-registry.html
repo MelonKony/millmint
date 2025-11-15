@@ -1,0 +1,179 @@
+{{/*
+    economic-registry.html
+    
+    This partial processes all economic data to create comprehensive registries for materials,
+    categories, and services. It calculates supply, demand, deficits, and satisfaction rates,
+    including complex calculations for material fungibility.
+    
+    Returns a dictionary with three keys:
+    - "materials": A detailed registry of every unique material.
+    - "categories": A summary registry grouped by material category.
+    - "services": A registry of all available services.
+*/}}
+
+{{/* Read base data */}}
+{{ $companies := .Site.Data.economic.companies }}
+{{ $registry := dict }}
+{{ $serviceRegistry := dict }}
+{{ $categoryRegistry := dict }}
+
+{{/*
+  PASS 1: Build the initial materials registry and service registry.
+  - Iterate through every company.
+  - Aggregate all inputs and outputs into a single materials registry.
+  - Aggregate all services into a service registry.
+*/}}
+{{ range $companyName, $companyData := $companies }}
+  
+  {{/* Process outputs (Supply) */}}
+  {{ range $companyData.outputs }}
+    {{ $materialKey := printf "%s::%s" .category .commodity }}
+    {{ if .specification }}{{ $materialKey = printf "%s::%s::%s" .category .commodity .specification }}{{ end }}
+    
+    {{ $entry := index $registry $materialKey | default (dict "supply" 0 "demand" 0 "producers" slice "consumers" slice "category" .category "commodity" .commodity "specification" (.specification | default "") "fungibility" (.fungibility | default "semi_fungible") "unit" .unit) }}
+    
+    {{/* FIX: Convert value to integer to handle strings (e.g., "500") in data. */}}
+    {{ $quantity := int (.annual_quantity | default 0) }}
+    {{ $entry = merge $entry (dict "supply" (add $entry.supply $quantity)) }}
+    {{ $entry = merge $entry (dict "producers" ($entry.producers | append (dict "company" $companyName "quantity" $quantity))) }}
+    {{ $registry = merge $registry (dict $materialKey $entry) }}
+  {{ end }}
+  
+  {{/* Process inputs (Demand) */}}
+  {{ range $companyData.inputs }}
+    {{ if ne .source "service" }}
+      {{ $materialKey := printf "%s::%s" .category .commodity }}
+      {{ if .specification }}{{ $materialKey = printf "%s::%s::%s" .category .commodity .specification }}{{ end }}
+      
+      {{ $entry := index $registry $materialKey | default (dict "supply" 0 "demand" 0 "producers" slice "consumers" slice "category" .category "commodity" .commodity "specification" (.specification | default "") "fungibility" (.fungibility | default "semi_fungible") "unit" .unit) }}
+      
+      {{/* FIX: Convert value to integer to handle strings (e.g., "500") in data. */}}
+      {{ $quantity := int (.annual_quantity | default 0) }}
+      {{ $entry = merge $entry (dict "demand" (add $entry.demand $quantity)) }}
+      {{ $entry = merge $entry (dict "consumers" ($entry.consumers | append (dict "company" $companyName "quantity" $quantity))) }}
+      
+      {{ if eq .source "import" }}{{ $entry = merge $entry (dict "imported" true) }}{{ end }}
+      
+      {{ $registry = merge $registry (dict $materialKey $entry) }}
+    {{ end }}
+  {{ end }}
+
+  {{/* Process services */}}
+  {{ if $companyData.services }}
+    {{ range .services }}
+      {{ $serviceType := .service_type }}
+      {{ $svcEntry := index $serviceRegistry $serviceType | default (dict "providers" slice) }}
+      {{ $providerInfo := dict "company" $companyName "coverage" .coverage }}
+      {{ $svcEntry = merge $svcEntry (dict "providers" ($svcEntry.providers | append $providerInfo)) }}
+      {{ $serviceRegistry = merge $serviceRegistry (dict $serviceType $svcEntry) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/*
+  PASS 2: Calculate exact satisfaction rates for each material.
+  This is the satisfaction based purely on matching supply and demand for an exact material key.
+*/}}
+{{ range $materialKey, $data := $registry }}
+  {{ $deficit := sub $data.demand $data.supply }}
+  {{ if lt $deficit 0 }}{{ $deficit = 0 }}{{ end }}
+
+  {{ $exact_satisfaction := 100.0 }}
+  {{ if gt $data.demand 0 }}
+    {{ $exact_satisfaction = div (mul (float $data.supply) 100.0) (float $data.demand) }}
+  {{ end }}
+  {{ if gt $exact_satisfaction 100.0 }}{{ $exact_satisfaction = 100.0 }}{{ end }}
+
+  {{ $data = merge $data (dict "deficit" $deficit "exact_satisfaction" $exact_satisfaction) }}
+  {{ $registry = merge $registry (dict $materialKey $data) }}
+{{ end }}
+
+{{/*
+  PASS 3: Calculate effective satisfaction by accounting for fungibility.
+  - First, calculate the available surplus of base commodities (no specification).
+  - Then, allow specified materials in deficit to draw from that surplus.
+*/}}
+{{ $baseSurpluses := dict }}
+{{ range $materialKey, $data := $registry }}
+  {{ if eq .specification "" }}
+    {{ $surplus := sub .supply .demand }}
+    {{ if gt $surplus 0 }}
+      {{ $baseSurpluses = merge $baseSurpluses (dict $materialKey $surplus) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ range $materialKey, $data := $registry }}
+  {{ $effective_satisfaction := .exact_satisfaction }}
+  {{ if and (ne .specification "") (lt .exact_satisfaction 100) (or (eq .fungibility "semi_fungible") (eq .fungibility "fungible")) }}
+    {{ $baseMaterialKey := printf "%s::%s" .category .commodity }}
+    {{/* FIX: Replaced deprecated `hasKey` with `with` and `index`. */}}
+    {{ with index $baseSurpluses $baseMaterialKey }}
+      {{ $availableSurplus := . }}
+      {{ if gt $availableSurplus 0 }}
+        {{ $needed := $data.deficit }}
+        {{ $provided := 0 }}
+        {{ if ge $availableSurplus $needed }}
+          {{ $provided = $needed }}
+        {{ else }}
+          {{ $provided = $availableSurplus }}
+        {{ end }}
+
+        {{ $newTotalSupply := add $data.supply $provided }}
+        {{ $effective_satisfaction = div (mul (float $newTotalSupply) 100.0) (float $data.demand) }}
+        {{ if gt $effective_satisfaction 100.0 }}{{ $effective_satisfaction = 100.0 }}{{ end }}
+
+        {{ $baseSurpluses = merge $baseSurpluses (dict $baseMaterialKey (sub $availableSurplus $provided)) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ $data = merge $data (dict "effective_satisfaction" $effective_satisfaction) }}
+  {{ $registry = merge $registry (dict $materialKey $data) }}
+{{ end }}
+
+{{/*
+  PASS 4: Build the category registry by aggregating data from the final materials registry.
+*/}}
+{{ range $materialKey, $data := $registry }}
+  {{ $catEntry := index $categoryRegistry $data.category | default (dict "total_supply" 0 "total_demand" 0 "commodities" (dict) "unit" $data.unit) }}
+  
+  {{ $catEntry = merge $catEntry (dict "total_supply" (add $catEntry.total_supply $data.supply) "total_demand" (add $catEntry.total_demand $data.demand)) }}
+  
+  {{ $commodities := $catEntry.commodities }}
+  {{ $commEntry := index $commodities $data.commodity | default (dict "demand" 0 "supply" 0 "specifications" slice) }}
+  {{ $commEntry = merge $commEntry (dict "demand" (add $commEntry.demand $data.demand) "supply" (add $commEntry.supply $data.supply)) }}
+  {{ if $data.specification }}{{ $commEntry = merge $commEntry (dict "specifications" ($commEntry.specifications | append $data.specification | uniq)) }}{{ end }}
+  
+  {{ $commodities = merge $commodities (dict $data.commodity $commEntry) }}
+  {{ $catEntry = merge $catEntry (dict "commodities" $commodities) }}
+  {{ $categoryRegistry = merge $categoryRegistry (dict $data.category $catEntry) }}
+{{ end }}
+
+{{/*
+  PASS 5: Calculate satisfaction rates for the category and commodity summaries.
+*/}}
+{{ range $catKey, $catData := $categoryRegistry }}
+  {{ $catSatisfaction := 100.0 }}
+  {{ if gt $catData.total_demand 0 }}{{ $catSatisfaction = div (mul (float $catData.total_supply) 100.0) (float $catData.total_demand) }}{{ end }}
+  {{ if gt $catSatisfaction 100.0 }}{{ $catSatisfaction = 100.0 }}{{ end }}
+  {{ $catDeficit := sub $catData.total_demand $catData.total_supply }}
+  {{ $catData = merge $catData (dict "satisfaction" $catSatisfaction "deficit" $catDeficit) }}
+  
+  {{ $commodities := $catData.commodities }}
+  {{ range $commKey, $commData := $commodities }}
+    {{ $commSatisfaction := 100.0 }}
+    {{ if gt $commData.demand 0 }}{{ $commSatisfaction = div (mul (float $commData.supply) 100.0) (float $commData.demand) }}{{ end }}
+    {{ if gt $commSatisfaction 100.0 }}{{ $commSatisfaction = 100.0 }}{{ end }}
+    {{ $commData = merge $commData (dict "satisfaction" $commSatisfaction) }}
+    {{ $commodities = merge $commodities (dict $commKey $commData) }}
+  {{ end }}
+  {{ $catData = merge $catData (dict "commodities" $commodities) }}
+  
+  {{ $categoryRegistry = merge $categoryRegistry (dict $catKey $catData) }}
+{{ end }}
+
+
+{{/*
+  FINAL: Return the completed registries as a single dictionary.
+*/}}
+{{ return (dict "materials" $registry "categories" $categoryRegistry "services" $serviceRegistry) }}

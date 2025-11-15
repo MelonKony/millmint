@@ -6,6 +6,7 @@ color: commerce
 logo: /svg/crests/ministry-of-commerce.svg
 series: bureau
 type: government
+national-index: true
 
 fi: fi fi-c-commerce fis
 description: The Commonwealth Mint is the sole manufacturer of physical currency in Vekllei, as well as gold bullion and security documents.
@@ -22,11 +23,3 @@ The <span class="fi fi-c-commerce fis"></span> **Commonwealth Mint** (also the *
 The Mint is the custodian of the Commonwealth Bullion Depository, which holds reserves of over 6,000 tonnes of gold bullion belonging to the Commonwealth and over 60 other countries, and is among the largest such reserves in the world.
 
 The Mint is well-regarded internationally for the purity of its metals and intricate commemorative coins, leading international numismatics in colour and variety.
-
-
-## Council
-
-* **Chancellor**, [[Commonwealth Mint]]
-	* Comptroller of the Crown
-* **Exchequer**, [[Commonwealth Bank]]
-* Permanent Secretary, [[commonwealth-treasury|Treasury]]

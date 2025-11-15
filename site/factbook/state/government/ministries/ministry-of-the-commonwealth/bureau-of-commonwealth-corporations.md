@@ -6,6 +6,7 @@ color: commonwealth
 logo: /svg/crests/ministry-of-the-commonwealth.svg
 series: bureau
 type: government
+national-index: true
 fi: fi fi-c-commonwealth fis
 description: The Bureau of Commonwealth Corporations coordinates state enterprises, manages cross-ministerial commercial activities, and oversees government corporate governance.
 aliases:
@@ -17,41 +18,26 @@ Government corporations are typically subordinated to their relevant ministries,
 
 ## Constituents
 
-* **Commonwealth Corporations Council**: Administration of major government-owned corporations and governance council between them.
-* **Vekllei National Congress of Public Corporations**: Autonomous congress and coordinating body for all state-owned industries.
-* **Veletian Interest Corporation**: Joint commercial projects between different government ministries.
-* **Commonwealth Strategic Investment Fund**: Long-term strategic investments and capital allocation.
-* **Municipal Corporations Council**: Support, training and funding for municipal and cooperative enterprise.
-* **Government Commercial Services**: Central procurement and commercial services for all ministries.
-* **Commonwealth Industrial Development Corporation**: Cross-sectoral industrial projects and development.
-* **State Enterprise Performance Monitoring Office**: Regular assessment and reporting on corporate performance.
-
-## Council
-
-* Director, Bureau of Commonwealth Corporations
-  * Secretary for State Enterprises
-  * Secretary for Governance & Rescue
-  * Secretary for Strategic Services
-* Director, Commonwealth Strategic Investment Fund
-* Chairman, Commonwealth Corporations Council
-  * Executive, [[Commonwealth Airways]]
-  * Executive, [[Cosma]]
-  * Executive, [[Commonwealth Post]]
-  * Executive, [[Government Aircraft Factories]]
-  * Executive, [[Commrail]]
-* Deputy Minister, [[Ministry of the Commonwealth]]
+* <span class="fi fi-c-commonwealth fis"></span> **Commonwealth Corporations Council**: Administration of major government-owned corporations and governance council between them.
+* <span class="fi fi-c-commonwealth fis"></span> **Vekllei National Congress of Public Corporations**: Autonomous congress and coordinating body for all state-owned industries.
+* <span class="fi fi-c-commonwealth fis"></span> **Veletian Interest Corporation**: Joint commercial projects between different government ministries.
+* <span class="fi fi-c-commonwealth fis"></span> **Commonwealth Strategic Investment Fund**: Long-term strategic investments and capital allocation.
+* <span class="fi fi-c-commonwealth fis"></span> **Municipal Corporations Council**: Support, training and funding for municipal and cooperative enterprise.
+* <span class="fi fi-c-commonwealth fis"></span> **Government Commercial Services**: Central procurement and commercial services for all ministries.
+* <span class="fi fi-c-commonwealth fis"></span> **Commonwealth Industrial Development Corporation**: Cross-sectoral industrial projects and development.
+* <span class="fi fi-c-commonwealth fis"></span> **State Enterprise Performance Monitoring Office**: Regular assessment and reporting on corporate performance.
 
 ## Departments
 
-* Department of State Enterprises
+* **Department of State Enterprises**: Monitors the performance and administration of government-owned corporations and their leadership.
   * Office of Analysis
   * Office of Survey & Statistics
   * Office of Government Officers
   * Office of Corporate Councils
-* Department of Governance & Rescue
+* **Department of Governance & Rescue**: Oversees corporate governance standards board appointments and compliance for all state enterprises.
   * Office of Board Appointments
   * Office of Compliance Monitoring
-* Department of Strategic Services
+* **Department of Strategic Services**: Manages strategic investments joint development projects and prosecutes criminal commercial practices.
   * Office of Investments & Commissions
   * Office of Common Development
   * Office of Criminal Practice & Prosecution

@@ -4,6 +4,7 @@ fulltitle: Littoral Service
 icon: ⚓️
 color: marine
 logo: /svg/crests/littoral-service.svg
+national-index: true
 
 fi: fi fi-littoral-service fis
 description: The Littoral Service is the maritime security component of the Vekllei Armed Forces.

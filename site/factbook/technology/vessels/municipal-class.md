@@ -31,7 +31,7 @@ The **Municipal-class Hydrofoil** is a class of fast-response hydrofoils mostly 
 
 The class is well-armed for littoral service vessel, and despite its size maintains capabilities closer to the larger littoral frigates. This indicates the high-risk nature of its role as an interceptor, and is often the first point of contact of Vekllei sovereignty with smugglers, drug-runners and illegal fishermen. The country has territorial claims covering large parts of the Atlantic and Caribbean oceans, and its high top speed allows to reach the periphery of its exclusive economic zones. It is equipped with a *Vanguard* 76mm standard medium gun, and also carries 8 *Fireflash* anti-ship missiles on its rear deck. The vessel has a large satellite and air surveillance radome used to communicate with naval helijets and surveillance satellites to coordinate and track targets.
 
-The class is the smallest to be powered by an [NMPR](/nmpr/) reactor, which allows it to reach a top speed of 60 knots when foilborne. The main gun is still able to fire at speed thanks to the vessel's gyroscopic fire control computer. The ship is able to remain foilborne in regular oceangoing conditions, but operates mostly within Vekllei's claimed 200nm exclusive economic zones.
+Unlike most Vekllei naval ships, the class is powered by a modular [[CMR-V]] reactor originally designed for aircraft, which allows it to reach a top speed of 60 knots when foilborne. The main gun is still able to fire at speed thanks to the vessel's gyroscopic fire control computer. The ship is able to remain foilborne in regular oceangoing conditions, but operates mostly within Vekllei's claimed 200nm exclusive economic zones.
 
 {{<note table>}}
 **Home Ports**

@@ -1,125 +1,112 @@
 ---
 title: Noshem
-fulltitle: Noshem
-icon: 🏹
+fulltitle: Commonwealth Intelligence Service
+icon: �
 logo: /svg/logos/noshem.svg
-series: organisation
+series: government
 type: government
 
 rgb: 240, 86, 75
 fi: fi fi-noshem fis
-description: Noshem is the covert intelligence agency of Vekllei, and conducts external surveillance and espionage on behalf of the country.
+description: Noshem is the covert intelligence agency of Vekllei, conducting external surveillance and espionage on behalf of the Commonwealth.
 
 aliases:
 - /noshem/
 ---
 {{<threat-level>}}
 
-The <span class="fi fi-noshem fis"></span> **Commonwealth Intelligence Service** (*National Intelligence*, or *Noshem*) is the secret service of [[Vekllei]] and the Commonwealth’s primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It is organised into 40 semiautonomous outlines, which each may operate several offices. Noshem's sophisticated intelligence network and broad mandate contribute to its legendary reputation abroad, and conspiracies of its presence in almost every country.
+The <span class="fi fi-noshem fis"></span> **Commonwealth Intelligence Service** (*National Intelligence*, or *Noshem*) is the secret service of [[Vekllei]] and the Commonwealth's primary covert intelligence apparatus abroad. It is concerned with intelligence gathering, surveillance and operations external to the Commonwealth, operating through 40 semiautonomous sections organised into six regional bureaus.
 
-Noshem is unique in its broad recruitment of foreigners, many of whom are promised citizenship and residency in Vekllei. Many Noshem outlines recruit locally, and manage foreign assets through Vekllei-born supervisors.
+Noshem's sophisticated intelligence network and broad mandate contribute to its reputation abroad, and conspiracies about its presence exist in almost every country. The service is unique in its recruitment of foreigners, many of whom are promised citizenship and residency in Vekllei. Many Noshem sections recruit locally and manage foreign assets through Vekllei-born supervisors.
 
+The service operates under direction of the [[Security Parliament]] and reports to the [[directory|Commonwealth Directory]]. Its operations range from conventional intelligence gathering to covert action, counter-espionage and support for democratic movements abroad. Noshem maintains close but informal relationships with various non-state actors including labour movements, independence organisations and dissident groups across multiple continents.
 
-## Executive Council
+## Structure
 
-* **The [[directory|Commonwealth Directory]]**, [[Vekllei]]
-* **Senior Minister**, [[Security Parliament]]
-* **Intelligence Director**, [[Noshem]]
-	* Senior Analyst
-		* Officer for General Policy
-	* Secretary for Intelligence Sections
-	* Secretary for Control Authority
-* **Senior Analyst**, [[DIE|Defence Imagery Establishment]]
+**Department of Analysis** coordinates intelligence assessment and policy recommendations. The Office of General Policy provides strategic guidance whilst the Office of Threat Assessment evaluates security risks to Commonwealth interests.
 
+**Department of Espionage** manages counter-intelligence operations through the General Office of Counter-Espionage and conducts risk mitigation for Commonwealth personnel and facilities abroad.
 
+**Department of Intelligence Sections** oversees the 40 operational sections through the Sections Council, provides training through the General Training Section and coordinates activities through the Office of Section Coordination.
 
-## General Headquarters
-* **Department of Analysis**
-	* Office of General Policy
-	* Office of the Intelligence Director
-	* Office of Threat Assessment
-* **Department of Espionage**
-	* General Office of Counter-Espionage
-	* General Office of Security & Risk Mitigation
-* **Department of Intelligence Sections**
-	* General Training Section
-	* Sections Council
-	* Office of Section Coordination
-* **Department of Finance**
-	* General Office of Accounts & Payments
-* **Department of Control Authority**
-	* Office of the Intelligence Press
-	* Office of Personnel & Culture
-	* Office of Secrets
-	* Office of Control Authority
-* **Department of Government Intelligence**
-	* Office of the Military Liaison
-	* Office of the Security Cabinet
-	* Office of the Security Parliament
+**Department of Finance** handles operational funding, payments to foreign assets and financial intelligence through the General Office of Accounts & Payments.
 
+**Department of Control Authority** manages information security through the Office of Secrets, maintains operational security through the Office of Personnel & Culture, coordinates with Commonwealth media through the Office of the Intelligence Press and exercises oversight through the Office of Control Authority.
 
+**Department of Government Intelligence** liaises with military and civilian leadership through dedicated offices serving the [[armed-forces|Armed Forces]], Security Cabinet and Security Parliament.
 
-## Intelligence Outlines & Sections
-* **Home Office (HO/NI)**: The *Home Office* at *National Intelligence* (HO/NI) is the domestic intelligence organisation of [[Vekllei]], including the Home Islands.
+## Regional Bureaus
 
-	* **Section 1 *Atlantique***: Administration and recruitment.
-	* **Section 2 *Bohs***: Organisation security and democracy-advocate.
-	* **Section 3 *Cosette***: Domestic affairs, political threats and extremism section.
-	* **Section 4 *Devon***: Democracy-Advocate command.
-	* **Section 5 *Eusea***: Logistics and training command.
-	* **Section 6 *Familia***: Coercion and blackmail section.
-	* **Section 7 *Gem***: Foreign military intelligence section.
-	* **Section 8 *Helette***: Financial intelligence section.
-	* **Section 9 *Ioviosn***: Offices and staff in North Commonwealth Intelligence Theatre and Vekllei Islands.
-	* **Section 10 *Jasvere***: Offices and staff in the governments of Commonwealth member-states.
-	* **Section 11 *Kosmo***: Senior reporting body and command.
-	* **Section 12 *Los***: Internal operations command.
+### Home Office (HO/NI)
 
-* **Africa Bureau (RB/NI)**: The *Africa Bureau* at *National Intelligence* (RB/NI) reports information and conducts operations in the African continent. Headquartered in Casablanca, Morocco, RB/NI is particularly concerned with decolonisation and influencing new democratic states under Vekllei's "Trade Democracy" policy. It also historically seeks to destabilising American and Eastern Bloc influence in the continent, as well as ferment unrest against current colonial governments and the Apartheid regime in South Africa. It includes the following departments.
+The *Home Office* at *National Intelligence* provides domestic intelligence coverage across Commonwealth republics, focusing on threats to constitutional democracy, organised crime and foreign espionage within Vekllei territory.
 
-	* **Section 13 *Abosasme***: Offices and staff in postcolonial Africa.
-	* **Section 14 *Bulga***: Offices and staff in colonial Africa.
-	* **Section 15 *Cobian***: Regional tactical operations command.
-	* **Section 16 *Domo***: Democracy-Advocate command.
-	* **Section 17 *Ende***: Directorate organisation and localisation command.
+* **Section 1 *Atlantique***: Administration and recruitment coordination
+* **Section 2 *Bohs***: Organisational security and democracy advocacy
+* **Section 3 *Cosette***: Domestic affairs, political threats and extremism
+* **Section 4 *Devon***: Democracy advocacy operations
+* **Section 5 *Eusea***: Logistics and training command
+* **Section 6 *Familia***: Coercion and blackmail operations
+* **Section 7 *Gem***: Foreign military intelligence
+* **Section 8 *Helette***: Financial intelligence and money laundering
+* **Section 9 *Ioviosn***: Offices in North Commonwealth Intelligence Theatre
+* **Section 10 *Jasvere***: Liaison offices in Commonwealth republic governments
+* **Section 11 *Kosmo***: Senior reporting and strategic command
+* **Section 12 *Los***: Internal operations command
 
-* **Americas Bureau (AB/NI)**: The *Americas Bureau* at *National Intelligence* (AB/NI) reports information and conducts operations across North and South America, including overseas possessions of the United States and regional claims in the Arctic and Antarctic. AB/NI maintains major offices in Washington D.C. in the U.S., Dallas in Dallas America, and Bogotá in Colombia. It is the largest of the N.I. Bureaus, with nearly a hundred satellite offices across the Americas. Its operations are classified, but are implicated in a variety of work including regime change and guerrilla training. AB/NI also fosters positive relations with the regional neighbours of the Commonwealth, particularly in Mexico, British Belize, Venezuela and Colombia. It includes the following departments.
+### Africa Bureau (RB/NI)
 
-	* **Section 18 *Anatole***: Offices and staff in the United States and Canada.
-	* **Section 19 *Bosme***: Offices and staff in Mexico and Central America.
-	* **Section 20 *Célestine***: Offices and staff in South America.
-	* **Section 21 *Désiré***: Regional tactical operations command.
-	* **Section 22 *Eudea***: Regional logistics and training command.
-	* **Section 23 *François***: Antifascist and separatist affairs intelligence command.
-	* **Section 24 *Gosme***: Directorate organisation command.
+The *Africa Bureau* conducts operations across the African continent, headquartered in Casablanca. RB/NI focuses on supporting decolonisation movements, fostering democratic institutions under Vekllei's "Trade Democracy" policy and countering American and Eastern Bloc influence. The bureau maintains active programmes opposing apartheid in South Africa and supporting independence movements in remaining colonial territories.
 
-* **Euro Bureau (EB/NI)**: The *European Bureau* at *National Intelligence* (EB/NI) reports information and conducts operations across Europe and Eurasia, particularly in the UK, France, and the Eastern Bloc. It is second-largest of the regional N.I. bureaus, with offices in London, Paris, Prague, Moscow, and Genoa, and dozens more satellite installations throughout Europe. Its intelligence doctrine is particularly defensive, since most foreign espionage in the Commonwealth originates from Western and Communist Europe, and operates special counter-espionage units for this purpose. It includes the following departments.
+* **Section 13 *Abosasme***: Offices in postcolonial Africa
+* **Section 14 *Bulga***: Offices in colonial Africa
+* **Section 15 *Cobian***: Regional tactical operations
+* **Section 16 *Domo***: Democracy advocacy operations
+* **Section 17 *Ende***: Directorate organisation and localisation
 
-	* **Section 25 *Ana***: Offices and staff in Western Europe.
-	* **Section 26 *Basa***: Offices and staff in Minor Europe.
-	* **Section 27 *Cofa***: Offices and staff in states signatory to the Treaty of Friendship, Cooperation and Mutual Assistance.
-	* **Section 28 *Demon***: Special counter-espionage command.
-	* **Section 29 *Eiga***: Directorate organisation and localisation command.
+### Americas Bureau (AB/NI)
 
-* **Oriental Bureau (OB/NI)**: The *Orient Bureau* at *National Intelligence* (OB/NI) reports information and conducts operations across the Orient and West Asia, Vekllei phrases spanning from the Middle East to the Pacific Islands, including South and East Asia. It maintains offices in Tokyo, Peking, Bangkok, Delhi, and Tehran. Without vested strategic interests in the area, OB/NI's primary mission is nation-building and observation in its region and the support of actions in its neighbouring N.I. regions.
+The *Americas Bureau* operates across North and South America, including overseas possessions and regional Arctic and Antarctic claims. AB/NI maintains major offices in Washington D.C., Dallas and Bogotá, making it the largest regional bureau with nearly a hundred satellite installations. Operations include intelligence gathering, support for democratic movements and fostering positive relations with Commonwealth neighbours, particularly Mexico, British Belize, Venezuela and Colombia.
 
-	* **Section 30 *Asosnia***: Offices and staff in Communist China and Taiwan.
-	* **Section 31 *Bouismiosn***: Offices and staff in Japan and South-East Asia.
-	* **Section 32 *Cismi***: Offices and staff in India.
-	* **Section 33 *Drosviousn***: Offices and staff in the Middle East.
-	* **Section 34 *Erswin***: Directorate organisation and localisation command.
-	* **Section 35 *Fennet***: Counter-espionage and political command.
+* **Section 18 *Anatole***: Offices in United States and Canada
+* **Section 19 *Bosme***: Offices in Mexico and Central America
+* **Section 20 *Célestine***: Offices in South America
+* **Section 21 *Désiré***: Regional tactical operations
+* **Section 22 *Eudea***: Regional logistics and training
+* **Section 23 *François***: Antifascist and separatist affairs intelligence
+* **Section 24 *Gosme***: Directorate organisation
 
-* **Special Protectorate Bureau (SP/NI)**: The *Special Protectorate Bureau* at *National Intelligence* (SP/NI) reports information and conducts operations across special territories and possessions of the Commonwealth, including military sites, the Vekllei Antarctic Claims, and the Lunar Territories. Although its home office is in Vekllei Proper at N.I., it serves a different function to [HO/NI](/factbook/society/state/government/commonwealth/security/#home-office-honi), specialising in remote, dangerous and dirty work at the fringes of Vekllei intelligence control.
+### Euro Bureau (EB/NI)
 
-	* **Section 36 *Arcos***: Offices and staff assigned to special counterintelligence work.
-	* **Section 37 *Boris***: Offices and staff assigned to the protection of individuals.
-	* **Section 38 *Codesta***: Offices and staff in foreign claims and Vekllei Antarctica.
-	* **Section 39 *Decrest***: Offices and staff in foreign delegations and international waters.
-	* **Section 40 *Endoria***: Offices and staff in Vekllei space and lunar territories.
+The *European Bureau* operates across Europe and Eurasia with major offices in London, Paris, Prague, Moscow and Genoa. EB/NI maintains the second-largest regional presence and operates with particularly defensive intelligence doctrine, as most foreign espionage against the Commonwealth originates from Western and Communist Europe. Special counter-espionage units focus on protecting Commonwealth interests from sophisticated European intelligence services.
 
+* **Section 25 *Ana***: Offices in Western Europe
+* **Section 26 *Basa***: Offices in Minor Europe
+* **Section 27 *Cofa***: Offices in Warsaw Pact states
+* **Section 28 *Demon***: Special counter-espionage operations
+* **Section 29 *Eiga***: Directorate organisation and localisation
 
+### Oriental Bureau (OB/NI)
 
-## Boards & Commissions
+The *Orient Bureau* operates across West Asia, South Asia, East Asia and the Pacific Islands with offices in Tokyo, Peking, Bangkok, Delhi and Tehran. Without direct strategic interests in most of the region, OB/NI focuses primarily on intelligence gathering, supporting democratic movements and nation-building programmes whilst monitoring regional developments that might affect Commonwealth interests.
 
-* **Intelligence Audit Authority**: Secure independent intelligence watchdog with high control access.
+* **Section 30 *Asosnia***: Offices in Communist China and Taiwan
+* **Section 31 *Bouismiosn***: Offices in Japan and Southeast Asia
+* **Section 32 *Cismi***: Offices in India and South Asia
+* **Section 33 *Drosviousn***: Offices in Middle East and West Asia
+* **Section 34 *Erswin***: Directorate organisation and localisation
+* **Section 35 *Fennet***: Counter-espionage and political operations
+
+### Special Protectorate Bureau (SP/NI)
+
+The *Special Protectorate Bureau* operates across Commonwealth special territories including military installations, Antarctic claims and lunar settlements. Although headquartered at Noshem General in [[Oslola]], SP/NI serves a distinct function from HO/NI, specialising in remote operations, protection of sensitive sites and work in jurisdictionally ambiguous territories.
+
+* **Section 36 *Arcos***: Special counterintelligence operations
+* **Section 37 *Boris***: Protection of individuals and VIP security
+* **Section 38 *Codesta***: Offices in foreign claims and Vekllei Antarctica
+* **Section 39 *Decrest***: Offices in foreign delegations and international waters
+* **Section 40 *Endoria***: Offices in Vekllei space and lunar territories
+
+### Boards & Commissions
+
+**Intelligence Audit Authority**: Independent intelligence watchdog with high-level security access, reporting to Security Parliament and Commonwealth Directory. Conducts regular reviews of operations, investigates misconduct allegations and ensures compliance with Commonwealth law and international obligations.

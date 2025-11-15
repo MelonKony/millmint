@@ -6,6 +6,7 @@ color: commerce
 logo: /svg/crests/ministry-of-commerce.svg
 series: bureau
 type: government
+national-index: true
 
 fi: fi fi-c-commerce fis
 description: The Bureau of Trade regulates consumer protections and antitrust law for the Ministry of Commerce, and conducts domestic and international market analysis.
@@ -17,24 +18,11 @@ The <span class="fi fi-c-commerce fis"></span> **Bureau of Trade** regulates con
 
 ## Constituents
 
-* **National Consumer Affairs Commission**: Administration and protection of consumer rights.
-* **National Patent & Trademark Office**: Registration authority for commercial patents and marks.
-* **Intellectual Property Arbitration Board**: Mediator for copyright, patent and trademark disputes before litigation.
-* **Commonwealth Commercial Service**: Promotion of Vekllei products abroad and liaison between industry and foreign partners.
-* **Commonwealth Trade Commission**: Industrial and commodity liaison for foreign companies.
-
-## Council
-
-* **Director**, [[Bureau of Trade]]
-	* Secretary for Trade
-		* Officer for Internal Markets
-		* Officer for Tourism
-	* Secretary of Market Analysis
-		* Officer for Market Intelligence
-		* Officer for Foreign Affairs
-* **Assistant Secretary**, [[commonwealth-treasury|Treasury]]
-* **Assistant Secretary**, [[Bureau of Securities]]
-* **Executive**, [[commonwealth-securities-exchange|Commsec]]
+* <span class="fi fi-c-commerce fis"></span> **National Consumer Affairs Commission**: Administration and protection of consumer rights.
+* <span class="fi fi-c-commerce fis"></span> **National Patent & Trademark Registry**: Registration authority for commercial patents and marks.
+* <span class="fi fi-c-commerce fis"></span> **Intellectual Property Arbitration Board**: Mediator for copyright, patent and trademark disputes before litigation.
+* <span class="fi fi-c-commerce fis"></span> **Commonwealth Commercial Service**: Promotion of Vekllei products abroad and liaison between industry and foreign partners.
+* <span class="fi fi-c-commerce fis"></span> **Commonwealth Trade Commission**: Industrial and commodity liaison for foreign companies.
 
 ## Departments
 

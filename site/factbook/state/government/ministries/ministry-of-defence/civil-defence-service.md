@@ -1,15 +1,14 @@
-  ---
+---
 title: Civil Defence Service
 fulltitle: Civil Defence Service
 icon: ▲
 rgb: 0, 85, 233
 logo: /svg/logos/civil-defence.svg
 series: organisation
+national-index: true
 
 fi: fi fi-civil-defence fis
 description: The Civil Defence Service is an emergency, disaster prevention and rescue service in Vekllei.
-
-
 
 aliases:
 - /marine/

@@ -6,6 +6,7 @@ logo: /svg/crests/bureau-of-economic-participation.svg
 color: milk-honey
 series: bureau
 type: government
+national-index: true
 
 logocredit: Mike Quon, 1983, for the Editorial Feature in Readers Digest
 
@@ -23,53 +24,37 @@ The bureau operates on the principle that everyone has valuable contributions to
 
 ## Constituents
 
-* <span class="fi fi-bureau-of-economic-participation fis"></span> **Universal Economic Service**: Coordination of inclusive employment and productive engagement opportunities.
-* <span class="fi fi-bureau-of-economic-participation fis"></span> **Disability Economic Service**: Specialised support for disabled persons in economic participation.
-* <span class="fi fi-bureau-of-economic-participation fis"></span> **Rural Economic Service**: Support for meaningful economic engagement in remote and agricultural communities.
-* <span class="fi fi-bureau-of-economic-participation fis"></span> **Work Accessibility Development Board**: Creation of employment opportunities adapted to diverse abilities and circumstances.
-* <span class="fi fi-bureau-of-economic-participation fis"></span> **Community Economic Work Programme**: Local initiatives for inclusive economic participation and community contribution.
-* <span class="fi fi-bureau-of-economic-participation fis"></span> **Economic Accommodations Programme**: Provision of workplace and productive accommodations for diverse needs.
-* <span class="fi fi-bureau-of-economic-participation fis"></span> **National Contributions Assessment Panel**: Recognition and coordination of diverse forms of valuable economic participation.
-
-## Council
-
-* **Director** [[Bureau of Economic Participation]]
-  * Secretary for Universal Economies
-    * Officer for Economic Engagement
-  * Secretary for Universal Participation
-  * Secretary for Rural Economies
-  * Secretary for Economic Development
-    * Officer for Electrics & Systems
-* **Deputy Minister** [[Parliament of Milk and Honey]]
-* **Director** Universal Economic Service
-* **Director** Disability Economic Service
-* **Director** Rural Economic Service
-* **Director** Work Accessibility Development Board
-
+*   <span class="fi fi-bureau-of-economic-participation fis"></span> **Universal Economic Service**: Coordination of inclusive employment and productive engagement opportunities.
+*   <span class="fi fi-bureau-of-economic-participation fis"></span> **Disability Economic Service**: Specialised support for disabled persons in economic participation.
+*   <span class="fi fi-bureau-of-economic-participation fis"></span> **Rural Economic Service**: Support for meaningful economic engagement in remote and agricultural communities.
+*   <span class="fi fi-bureau-of-economic-participation fis"></span> **Work Accessibility Development Board**: Creation of employment opportunities adapted to diverse abilities and circumstances.
+*   <span class="fi fi-bureau-of-economic-participation fis"></span> **Community Economic Work Programme**: Local initiatives for inclusive economic participation and community contribution.
+*   <span class="fi fi-bureau-of-economic-participation fis"></span> **Economic Accommodations Programme**: Provision of workplace and productive accommodations for diverse needs.
+*   <span class="fi fi-bureau-of-economic-participation fis"></span> **National Contributions Assessment Panel**: Recognition and coordination of diverse forms of valuable economic participation.
 
 ## Departments
 
-* **Department of Universal Economies**
-  * Office of Employment
-  * Office of Economic Engagement
-  * Office of Participation Coordination
-  * Office of Community Contribution
-* **Department of Universal Participation**
-  * Office of Disability Services
-  * Office of Disability Accommodation
-  * Office of Universal Work
-* **Department of Rural Economies**
-  * Office of Rural Participation
-  * Office of Agricultural Participation
-  * Office of Remote Community Support
-  * Office of Rural Economic Development
-* **Department of Economic Development**
-  * Office of Workplaces & Stations
-  * Office of Accommodation Assessment
-  * Office of Electrics & Systems
-  * Office of Participation Support
-* **Service Branches**
-  * Boreal Economic Area
-  * Austral Economic Area
-  * Occidental Economic Area
-  * Oriental Economic Area
+*   **Department of Universal Economies**: Manages the broad coordination of employment, community contribution and other forms of economic participation.
+    *   Office of Employment
+    *   Office of Economic Engagement
+    *   Office of Participation Coordination
+    *   Office of Community Contribution
+*   **Department of Universal Participation**: Focuses on accessibility and provides specialised support for disabled people in the economy.
+    *   Office of Disability Services
+    *   Office of Disability Accommodation
+    *   Office of Universal Work
+*   **Department of Rural Economies**: Supports economic and agricultural participation in remote and non-industrial communities.
+    *   Office of Rural Participation
+    *   Office of Agricultural Participation
+    *   Office of Remote Community Support
+    *   Office of Rural Economic Development
+*   **Department of Economic Development**: Develops and adapts physical workplaces and systems to support universal participation.
+    *   Office of Workplaces & Stations
+    *   Office of Accommodation Assessment
+    *   Office of Electrics & Systems
+    *   Office of Participation Support
+*   **Service Branches**: Regional bodies responsible for the bureau's administration across Vekllei.
+    *   Boreal Economic Area
+    *   Austral Economic Area
+    *   Occidental Economic Area
+    *   Oriental Economic Area

@@ -720,7 +720,7 @@ Micro-trams are a special kind of local tram that operate on very small islands.
 | MT-2 | Reef | 1,456 | 2040 | Beach Tram | Coastal Service |
 | MT-3 | Mangrove | 892 | 2045 | Resort Tram | Tourism |
 
-**Total Trams: 24,122** *(Massively increased for island communities)*
+**Total Trams: 24,122**
 </details>
 
 <details closed>

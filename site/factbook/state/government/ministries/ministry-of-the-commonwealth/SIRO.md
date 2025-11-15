@@ -5,6 +5,7 @@ icon: 🔬
 rgb: 0, 155, 113
 logo: /svg/logos/SIRO.svg
 series: organisation
+national-index: true
 
 fi: fi fi-siro fis
 description: The Commonwealth Science and Industrial Research Organisations Council is the executive council of many autonomous government research organisations in Vekllei. It is the oldest and largest research organisation in the country.
@@ -35,24 +36,6 @@ SIRO is headquartered in [Comet](/comet/), but through its constituent organisat
 **Constituent Laboratories**
 * [[Commonwealth Laboratories]]
 * [[Transport Laboratories]]
-{{</note>}}
-
-{{<note>}}
-## Executive Council
-
-* **Director**, [[SIRO]]
-* Secretary for Research
-	* Officer for Research Democracy
-	* Officer for Science Policy
-* **Chief Scientist**, [[ASRE]]
-* **Chief Scientist**, [[CSRE]]
-* **Chief Scientist**, [[DSRE]]
-* **Chief Scientist**, [[LSRE]]
-* **Chief Scientist**, [[MSRE]]
-* **Chief Scientist**, [[NSRE]]
-* **Chief Scientist**, [[SIRO]]
-* **Chairman**, Public Science Board
-* **Executive**, Government Scientists Group
 {{</note>}}
 
 {{<note>}}

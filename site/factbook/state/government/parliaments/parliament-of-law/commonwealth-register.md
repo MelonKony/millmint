@@ -6,6 +6,7 @@ logo: /svg/crests/parliament/law.svg
 color: law
 series: bureau
 list: true
+national-index: true
 
 fi: fi fi-c-law fis
 description: The register is a professional editorial office that consolidates and clarifies federal legislation in Vekllei.

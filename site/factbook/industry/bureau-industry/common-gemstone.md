@@ -36,4 +36,3 @@ series: industry
 Common Gemstone uses modern methods for gemstone synthesis, including liquid metal immersion and flux processes for different types of gemstones. Surplus product is exported overseas in batches, which often impacts on the tightly controlled gemstone market. The company has been litigated by gemstone cartels like De Beers after flooding the international market with unregistered and synthetic diamonds.
 
 The company is responsible for the security of existing natural mine sites, which have been closed by the government. All Vekllei gems and precious stones today are produced synthetically by Common Gemstone.
-

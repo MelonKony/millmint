@@ -1,0 +1,253 @@
+{{ $companyName := .Get "company" }}
+{{ $economic := index .Site.Data.economic.companies $companyName }}
+
+{{ if $economic }}
+  {{ $registries := partial "economic-registry.html" . }}
+  {{ $registry := $registries.materials }}
+  {{ $categoryRegistry := $registries.categories }}
+  {{ $serviceRegistry := $registries.services }}
+    
+    <div class="supply-chain-data">
+      
+      {{/* PRODUCTION Section (Formerly Outputs) */}}
+      <div>
+        <strong>Production (Annual)</strong>
+        <table class="full-width-table">
+          <thead>
+            <tr>
+              <th>Product</th>
+              <th>Production</th>
+              <th>Fungibility</th>
+              <th>Downstream Demand</th>
+            </tr>
+          </thead>
+          <tbody>
+            {{ range $economic.outputs }}
+              {{ $materialKey := printf "%s::%s" .category .commodity }}
+              {{ if .specification }}
+                {{ $materialKey = printf "%s::%s::%s" .category .commodity .specification }}
+              {{ end }}
+              {{ $outputEntry := index $registry $materialKey }}
+              {{ $fungibility := .fungibility | default "semi_fungible" }}
+              
+              <tr>
+                <td class="sc-material">
+                  <strong>{{ .commodity }}</strong>
+                  {{ with .specification }}<br><small class="text-sm sc-spec-italic">Spec: {{ . }}</small>{{ end }}
+                  <br><small class="text-sm sc-category-uppercase">{{ .category }}</small>
+                </td>
+                <td class="sc-quantity">{{ .annual_quantity | lang.NumFmt 0 }} {{ .unit }}</td>
+                <td>
+                  <span class="tag {{ if eq $fungibility "fungible" }}bg-green text-white{{ else if eq $fungibility "semi_fungible" }}bg-yellow text-white{{ else }}bg-orange text-white{{ end }}">
+                    {{ $fungibility | humanize }}
+                  </span>
+                </td>
+                <td class="sc-downstream text-sm">
+                  {{ if $outputEntry }}
+                    {{ if gt $outputEntry.demand 0 }}
+                      <strong>{{ $outputEntry.demand | lang.NumFmt 0 }} {{ $outputEntry.unit }}</strong> demanded
+                      <br><small class="{{ if lt $outputEntry.exact_satisfaction 75 }}text-red-600{{ else if lt $outputEntry.exact_satisfaction 100 }}text-orange-600{{ else }}text-green-600{{ end }}">
+                        Exact match: {{ printf "%.0f" $outputEntry.exact_satisfaction }}% satisfied
+                      </small>
+                      {{ if ne $outputEntry.exact_satisfaction $outputEntry.effective_satisfaction }}
+                        <br><small class="secondary-color">
+                          Effective: {{ printf "%.0f" $outputEntry.effective_satisfaction }}% (via fungibility)
+                        </small>
+                      {{ end }}
+                      {{ if gt (len $outputEntry.consumers) 0 }}
+                        <br><small>
+                          Customers: {{ range $i, $c := $outputEntry.consumers }}{{ if $i }}, {{ end }}{{ $c.company }}{{ end }}
+                        </small>
+                      {{ end }}
+                    {{ else }}
+                      <small class="secondary-color">{{ .end_use | humanize }} only</small>
+                    {{ end }}
+                  {{ else }}
+                    <small class="secondary-color">{{ .end_use | humanize }}</small>
+                  {{ end }}
+                </td>
+              </tr>
+            {{ end }}
+          </tbody>
+        </table>
+      </div>
+
+      {{/* SUPPLY Section (Formerly Inputs) */}}
+      <div>
+        <strong>Supply (Annual)</strong>
+        <table class="full-width-table">
+          <thead>
+            <tr>
+              <th>Material</th>
+              <th>Required</th>
+              <th>Fungibility</th>
+              <th>Supply Status</th>
+            </tr>
+          </thead>
+          <tbody>
+            {{ range $economic.inputs }}
+              {{ $materialKey := printf "%s::%s" .category .commodity }}
+              {{ if .specification }}
+                {{ $materialKey = printf "%s::%s::%s" .category .commodity .specification }}
+              {{ end }}
+              {{ $regEntry := index $registry $materialKey }}
+              
+              {{ $baseMaterialKey := printf "%s::%s" .category .commodity }}
+              {{ $baseRegEntry := index $registry $baseMaterialKey }}
+              
+              {{ $required := .annual_quantity }}
+              {{ $unit := .unit }}
+              {{ $fungibility := .fungibility | default "semi_fungible" }}
+              
+              {{/* Determine status class and color for row background */}}
+              {{ $statusClass := "satisfied" }}
+              {{ $statusText := "" }}
+              {{ $statusDetail := "" }}
+              {{ $bgColorVar := "" }}
+              
+              {{ if eq .source "import" }}
+                {{ $statusClass = "imported" }}
+                {{ $statusText = "✓ Imported" }}
+                {{ $bgColorVar = "var(--color-cyan)" }}
+                {{ $statusDetail = "" }}
+              {{ else if eq .source "grid" }}
+                {{ $statusClass = "grid" }}
+                {{ $statusText = "✓ Grid" }}
+                {{ $bgColorVar = "var(--color-indigo)" }}
+                {{ $statusDetail = "" }}
+              {{ else if eq .source "service" }}
+                {{ $statusClass = "service" }}
+                {{ $statusText = "Service" }}
+                {{ $bgColorVar = "var(--color-mint)" }}
+                {{ $statusDetail = "" }}
+              {{ else if $regEntry }}
+                {{ if lt $regEntry.effective_satisfaction 33 }}
+                  {{ $statusClass = "critical" }}
+                  {{ $statusText = printf "⚠ %.0f%%" $regEntry.effective_satisfaction }}
+                  {{ $bgColorVar = "var(--color-red)" }}
+                  {{ $statusDetail = printf "Deficit: %s %s" (lang.NumFmt 0 $regEntry.deficit) $unit }}
+                {{ else if lt $regEntry.effective_satisfaction 75 }}
+                  {{ $statusClass = "warning" }}
+                  {{ $statusText = printf "⚠ %.0f%%" $regEntry.effective_satisfaction }}
+                  {{ $bgColorVar = "var(--color-orange)" }}
+                  {{ $statusDetail = printf "Shortage: %s %s" (lang.NumFmt 0 $regEntry.deficit) $unit }}
+                {{ else if lt $regEntry.effective_satisfaction 100 }}
+                  {{ $statusClass = "partial" }}
+                  {{ $statusText = printf "△ %.0f%%" $regEntry.effective_satisfaction }}
+                  {{ $bgColorVar = "var(--color-yellow)" }}
+                  {{ $statusDetail = printf "Gap: %s %s" (lang.NumFmt 0 $regEntry.deficit) $unit }}
+                {{ else }}
+                  {{ $statusClass = "satisfied" }}
+                  {{ $statusText = printf "✓ %.0f%%" $regEntry.effective_satisfaction }}
+                  {{ $bgColorVar = "var(--color-green)" }}
+                  {{ $statusDetail = "" }}
+                {{ end }}
+              {{ else }}
+                {{ $statusClass = "error" }}
+                {{ $statusText = "⚠ No supply tracked" }}
+                {{ $bgColorVar = "var(--color-pink)" }}
+                {{ $statusDetail = "Material not produced domestically" }}
+              {{ end }}
+              
+              <tr class="sc-input-row" style="background: color-mix(in srgb, {{ $bgColorVar }} 10%, transparent);">
+                <td class="sc-material">
+                  <strong>{{ .commodity }}</strong>
+                  {{ with .specification }}<br><small class="text-sm sc-spec-italic">Spec: {{ . }}</small>{{ end }}
+                  <br><small class="text-sm sc-category-uppercase">{{ .category }}</small>
+                </td>
+                <td class="sc-quantity">{{ $required | lang.NumFmt 0 }} {{ $unit }}</td>
+                <td>
+                  <span class="tag {{ if eq $fungibility "fungible" }}bg-green text-white{{ else if eq $fungibility "semi_fungible" }}bg-yellow text-white{{ else }}bg-orange text-white{{ end }}">
+                    {{ $fungibility | humanize }}
+                  </span>
+                </td>
+                <td class="sc-status">
+                  <span class="tag {{ if eq $statusClass "satisfied" }}bg-green text-white{{ else if eq $statusClass "partial" }}bg-yellow text-white{{ else if eq $statusClass "warning" }}bg-orange text-white{{ else if eq $statusClass "critical" }}bg-red text-white{{ else if eq $statusClass "imported" }}bg-cyan text-white{{ else if eq $statusClass "grid" }}bg-indigo text-white{{ else if eq $statusClass "service" }}bg-mint text-white{{ else }}bg-pink text-white{{ end }}">
+                    {{ $statusText }}
+                  </span>
+                  {{ with $statusDetail }}<br><small class="text-sm">{{ . }}</small>{{ end }}
+                  {{ if and $regEntry (ne .source "import") (ne .source "grid") }}
+                    {{ if gt (len $regEntry.producers) 0 }}
+                      <br><small class="text-sm">
+                        Suppliers: {{ range $i, $p := $regEntry.producers }}{{ if $i }}, {{ end }}{{ $p.company }}{{ end }}
+                      </small>
+                    {{ end }}
+                  {{ end }}
+                </td>
+              </tr>
+            {{ end }}
+          </tbody>
+        </table>
+        
+        <div class="note panel text-sm my-4">
+          <strong>Fungibility Legend:</strong>
+          <ul class="list-none my-2">
+            <li><strong>Fungible</strong> - Any producer in commodity category can supply</li>
+            <li><strong>Semi-fungible</strong> - Prefers specification match, can substitute within commodity</li>
+            <li><strong>Unique</strong> - Requires exact specification match</li>
+          </ul>
+        </div>
+      </div>
+      
+      {{/* Services Section (if any) */}}
+      {{ if $economic.services }}
+      <div>
+        <strong>Services Provided</strong>
+        <ul class="list-none">
+          {{ range $economic.services }}
+            <li>
+              <strong>{{ .service_type }}</strong>
+              <br><small class="text-sm">{{ .coverage }}</small>
+            </li>
+          {{ end }}
+        </ul>
+        <div class="note panel text-sm my-4" style="border-left: 3px solid var(--color-blue);">
+          <small>Services are documented but not metered in supply/demand calculations.</small>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  
+  {{/* Add some minimal custom CSS for the new text formatting and retained styles */}}
+  <style>
+    /* New styles for Spec and Category */
+    .sc-spec-italic {
+        font-style: italic;
+    }
+    .sc-category-uppercase {
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+
+    /* Tag/Badge Simplification */
+    .tag {
+      /* Using the styles.scss .tag base */
+      line-height: 1.4;
+    }
+
+    /* Specific background colors for tags/badges */
+    .tag.bg-green { background: var(--color-green); }
+    .tag.bg-yellow { background: var(--color-yellow); }
+    .tag.bg-orange { background: var(--color-orange); }
+    .tag.bg-red { background: var(--color-red); }
+    .tag.bg-cyan { background: var(--color-cyan); }
+    .tag.bg-indigo { background: var(--color-indigo); }
+    .tag.bg-mint { background: var(--color-mint); }
+    .tag.bg-pink { background: var(--color-pink); }
+    .tag.text-white { color: var(--main-background); }
+
+    .supply-chain-data table {
+      /* Override background for the embedded table to match parent container */
+      background: transparent !important;
+    }
+
+    .supply-chain-data table th {
+      /* Adjusting table header background to use mixin-defined light gray */
+      background: var(--highlight) !important;
+      color: var(--main-background);
+    }
+  </style>
+
+{{ else }}
+  <p class="note panel" style="color: var(--color-red); border-left: 4px solid var(--color-red);">No economic data found for "{{ $companyName }}"</p>
+{{ end }}

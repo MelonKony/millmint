@@ -36,6 +36,25 @@ General Reactor is also a major manufacturer of atomic engines through its const
 
 The company operates major fusion plants in [[Oslola]] where it is headquartered, as well as [[Kairi]]. It operates dozens more fission plants across Vekllei, as well as the infrastructure to support them.
 
+{{<note>}}
+General Reactor Generation Plants
+
+* **Oslola Nuclear Fusion Generation Establishment** ([[Oslola]]): 120.0 GW (Fusion)
+* **Kalina-Kairi Nuclear Fusion Generation Establishment** ([[Kairi]]): 40.0 GW (Fusion)
+* **Canarii Nuclear Generation Unit 1** ([[Tenerife]]): 3.5 GW (Fission)
+* **Canarii Nuclear Generation Unit 2** ([[Tenerife]]): 3.0 GW (Fission)
+* **Bridgetown Nuclear Generation Establishment** ([[Barbados]]): 4.0 GW (Fission)
+* **Curacao Nuclear Generation Establishment** ([[Curaçao]]): 2.5 GW (Fission)
+* **Caimanas Nuclear Generation Establishment** ([[Caimanas]]): 3.0 GW (Fission)
+* **Kala Cold-Weather Nuclear Generation Establishment** ([[Kala]]): 2.5 GW (Fission)
+* **Madiana Nuclear Generation Establishment** ([[Madiana]]): 3.5 GW (Fission)
+* **Soualiga Nuclear Generation Establishment** ([[Soualiga]]): 1.5 GW (Fission)
+* **Terceira Atomic Plant** ([[Terceira]]): 1.0 GW (Fission)
+* **Summers Atomic Plant** ([[Summers]]): 1.0 GW (Fission)
+* **Habacoa Nuclear Generation Establishment** ([[Habacoa]]): 2.5 GW (Fission)
+* **Caicos Nuclear Generation Establishment** ([[Caicos]]): 2.0 GW (Fission) 
+{{</note>}}
+
 {{<note panel>}}
 **Constituent Corporations of National Machines S.p.A.**
 * Future Fission
@@ -44,4 +63,3 @@ The company operates major fusion plants in [[Oslola]] where it is headquartered
 * Metromic
 * Commonwealth National Fusion Laboratories
 {{</note>}}
-

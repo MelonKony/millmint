@@ -6,6 +6,7 @@ logo: /svg/crests/parliament/education.svg
 color: education
 series: bureau
 type: government
+national-index: true
 
 fi: fi fi-c-education fis
 description: The Bureau of Public Education oversees schooling and education for the Parliament of Education.
@@ -18,23 +19,6 @@ The <span class="fi fi-c-education fis"></span> **Bureau of Public Education** i
 In general, the bureau facilitates education delivery and the shape and standardisation of Vekllei classrooms, staff, libraries, institutional policy, and the improvement of education outcomes across the country. In this sense, it is the operating arm of the [[Parliament of Education]], and has direct impact on everyday life for students in the country.
 
 The Commonwealth National Curriculum is set by the [[cqc|Curriculum & Qualifications Council]], but the specifics of its implementation are left to the Education Districts of the Bureau of Public Education.
-
-
-## Executive Council
-
-* **Director**, [[Bureau of Public Education]]
-    * Officer for Schools & Campuses
-    * Secretary for Compulsory Education
-        * Commissioner, Commonwealth Coeducation Commission
-    * Secretary for Tertiary Education
-    * Secretary for Foreign Exchange
-    * Officer for Education Delivery
-    * Commissioner, Youth Justice Commission
-* **Deputy Director**, [[SIRO]]
-* **Deputy Minister**, [[Parliament of Education]]
-* **Parliamentary Representative**, [[Parliament of Education]]
-
-
 
 ## Departments
 * **General Headquarters**
@@ -93,7 +77,6 @@ The Commonwealth National Curriculum is set by the [[cqc|Curriculum & Qualificat
     * Office of Truancy & Antisocial Behaviour
     * Detained Students Education Democracy Commission
 * **Department of Accessibility & Special Education**
-    *
 * **Department of Libraries**
 * **Department of Students**
     * Student Rights Council
@@ -145,10 +128,7 @@ Commonwealth federal academies are research universities comprising dozens of fa
 * **Darwin College**: New university of the [[verde|Commonwealth Verde]], with its main campus in [[Java]].
 * **Commonwealth Catholic College**: Largest and oldest university in the [[atlantic|Commonwealth Atlantic]].
 * **Atlantic College**: Technical college founded in [[Oslola]] but now found across the country.
-    * Atlantic College of Journalism
 * [[University of Karu]]: Large regional university located in [[Karu]] famous for its performing arts programmes.
-    * Atlantic College of Dance
-    * National Ballet School
 * **Shackleton University**: Primary university of the [[antarctic|Commonwealth Antarctic]], with its main campus in the [[Falklands]].
 
 

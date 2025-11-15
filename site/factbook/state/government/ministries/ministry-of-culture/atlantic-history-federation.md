@@ -6,6 +6,7 @@ logo: /svg/logos/nhs.svg
 rgb: 255, 0, 40
 series: organisation
 type: government
+national-index: true
 
 fi: fi fi-nhs fis
 description: The National Institute of History is the national history museum and archives of Vekllei.
@@ -19,34 +20,21 @@ Through its constituents, the federation represents professional historiography 
 
 ## Constituents
 
-* **Commonwealth National Museum:** Largest and primary national museum of [[Vekllei]] with comprehensive historical collections.
-* **Commonwealth Fraternal Society of Archeology:** Association of historians engaged in field research and excavation of historical sites.
-* **Atlantic Maritime Museum:** Naval and maritime history collections and research.
-* **Commonwealth Institute of Cultural Studies:** Research into traditional customs and contemporary culture.
-* **Commonwealth Historical Society:** Professional association for historians and heritage workers.
-* **Oral History Collection Project:** Recording and preservation of personal histories and testimonies.
-* **Historic Sites Register:** Government register of protected structures and sites.
-* **Commonwealth Young Historians' Association:** Professional association for young historians.
-* **Caribbean History Centre**: Institute of the Guanima Caribbean School specialising in oral history and Lucayan archeology.
-* **Slavery Oral History Programme:** Collection and preservation of recorded interviews and testimonies in conjunction with the [[Commonwealth Central Archives]].
-* **Carib & Lucayan Oral History Programme**: Collection and preservation of indigenous Carib and Arawak cultural history in conjunction with the [[Commonwealth Central Archives]].
-
-## Council
-
-* **Director**, National Institute of History
-  * Chief Historian
-  * Secretary for Museum Services
-  * Secretary for Archaeological Research
-  * Secretary for Heritage Preservation
-* **Curator**, Commonwealth National Museum
-* **Chairman**, Council of Historical Research
-* **Assistant Secretary**, [[Ministry of Culture]]
-  * Representative, University History Departments
-  * Representative, Local Historical Societies
+* <span class="fi fi-nhs fis"></span> **Commonwealth National Museum:** Largest and primary national museum of [[Vekllei]] with comprehensive historical collections.
+* <span class="fi fi-nhs fis"></span> **Commonwealth Fraternal Society of Archeology:** Association of historians engaged in field research and excavation of historical sites.
+* <span class="fi fi-nhs fis"></span> **Atlantic Maritime Museum:** Naval and maritime history collections and research.
+* <span class="fi fi-nhs fis"></span> **Commonwealth Institute of Cultural Studies:** Research into traditional customs and contemporary culture.
+* <span class="fi fi-nhs fis"></span> **Commonwealth Historical Society:** Professional association for historians and heritage workers.
+* <span class="fi fi-nhs fis"></span> **Oral History Collection Project:** Recording and preservation of personal histories and testimonies.
+* <span class="fi fi-nhs fis"></span> **Historic Sites Register:** Government register of protected structures and sites.
+* <span class="fi fi-nhs fis"></span> **Commonwealth Young Historians' Association:** Professional association for young historians.
+* <span class="fi fi-nhs fis"></span> **Caribbean History Centre**: Institute of the Guanima Caribbean School specialising in oral history and Lucayan archeology.
+* <span class="fi fi-nhs fis"></span> **Slavery Oral History Programme:** Collection and preservation of recorded interviews and testimonies in conjunction with the [[Commonwealth Central Archives]].
+* <span class="fi fi-nhs fis"></span> **Carib & Lucayan Oral History Programme**: Collection and preservation of indigenous Carib and Arawak cultural history in conjunction with the [[Commonwealth Central Archives]].
 
 ## Departments
 
-* **Council of Historical Research**
+* **Commonwealth Federation of Historical Congress**: Serves as the central coordinating body for specialised historical scholarship and regional historical councils.
   * Congress of Caribbean Historians
   * Congress of Indiginous & Islander Historians
   * Congress of Colonial Historians
@@ -56,11 +44,11 @@ Through its constituents, the federation represents professional historiography 
   * Congress of Arctic History
   * Congress of Celtic, Scots & Pictish Study
   * Congress of Scandinavian & Viking Historians
-* **Council of Curation & Exhibition**
+* **Council of Curation & Exhibition**: Manages museum operations, including the care of collections, public programming and conservation.
   * Congress of Museum Curators
   * Office of Public Programs
   * Office of Conservation
-* **Council of Heritage Sites**
+* **Council of Heritage Sites**: Oversees the identification, preservation and study of historical and archaeological sites.
   * Congress of Archaeologists
   * Congress of Historic Structures Register
   * Office of Cultural Landscapes

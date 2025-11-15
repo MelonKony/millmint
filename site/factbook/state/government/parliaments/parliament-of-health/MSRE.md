@@ -4,6 +4,7 @@ fulltitle: MSRE
 icon: 🔬
 color: health
 logo: /svg/logos/MSRE.svg
+national-index: true
 
 logocredit: W.M. Landwehr & Don Davis, 1971, for the Quincy Annual Art Show
 

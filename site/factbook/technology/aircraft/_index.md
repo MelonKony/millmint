@@ -11,5 +11,5 @@ aliases:
 - /aircraft/
 ---
 {{<note advice>}}
-Read more: [[aero|Aero Services]]
+Read more: [[Air Service]], [[Commonwealth Airways]]
 {{</note>}}

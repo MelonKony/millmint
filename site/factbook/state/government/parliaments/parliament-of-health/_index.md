@@ -6,6 +6,7 @@ logo: /svg/crests/parliament/health.svg
 color: health
 series: parliament
 list: true
+national-index: true
 
 fi: fi fi-c-health fis
 description: The Health Parliament is responsible for healthcare policy and delivery in Vekllei.

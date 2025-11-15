@@ -6,6 +6,7 @@ logo: /svg/crests/bureau-of-surplus-and-export.svg
 color: milk-honey
 series: bureau
 type: government
+national-index: true
 
 fi: fi fi-bureau-of-surplus-and-export fis
 description: The Bureau of Surplus and Export manages licensing of excess production for foreign markets and coordinates international trade relationships.
@@ -30,40 +31,26 @@ The bureau also coordinates with foreign aid programmes that channel surplus pro
 * <span class="fi fi-bureau-of-surplus-and-export fis"></span> **Market Supply Commission**: Evaluation of domestic demand saturation and export readiness.
 * <span class="fi fi-bureau-of-surplus-and-export fis"></span> **Commonwealth Trade Missions Service** (*CTMS*): Diplomatic and commercial representation in international markets.
 
-## Council
-
-* **Director** [[Bureau of Surplus and Export]]
-  * Secretary for Permits & Licensing
-    * Officer for Domestic Markets
-  * Secretary for International Trade
-  * Secretary for Foreign Aid
-    * Officer for International Development
-* **Deputy Minister** [[Parliament of Milk and Honey]]
-* **Director** Commonwealth Aid
-* **Director** Production Merits Commission
-* **Director** Market Supply Commission
-* **Director** Commonwealth Trade Missions Service
-
 ## Offices
 
-* **Department of Permits & Licensing**
+* **Department of Permits & Licensing**: Assesses domestic market saturation and manages the licensing of surplus goods for export.
   * Office of Domestic Markets
   * Office of Market Saturation
   * Office of Export Approval
   * Office of Merit & Accounting
-* **Department of International Trade**
+* **Department of International Trade**: Manages the logistics of export and cultivates commercial relationships with foreign markets.
   * Office of Foreign Markets
   * Office of Trade Missions
   * Office of Commercial Relations
   * Office of Export Logistics
-* **Department of Foreign Aid**
+* **Department of Foreign Aid**: Coordinates the distribution of surplus production as humanitarian aid and development assistance.
   * Office of Aid Missions
   * Office of International Development
   * Office of Nonaligned Cooperation
-* **Department of Production & Surplus**
+* **Department of Production & Surplus**: Analyses domestic demand and monitors production levels to identify potential surpluses.
   * Office of Demand Analysis
   * Office of Production Surveillance
-* **Regional Export Offices**
+* **Regional Export Offices**: Regional bodies responsible for administering the bureau's export activities.
   * Boreal Export Office
   * Austral Export Office
   * Occidental Export Office

@@ -112,7 +112,7 @@ This article for now is a reference that assists the development of this site. I
 
 | Resource | Locations | Capacity |
 |----------|-----------|----------|
-| Geothermal | [[Oslola]], [[Costa Verde]], Terceira, Pico, Faial, [[Velas]], Kabuli, [[Lucia]], [[Allia]], Youloumain, [[Karu]] | Large potential |
+| Geothermal | [[Oslola]], [[Costa Verde]], Terceira, Pico, Faial, [[Velas]], [[Kabuli]], [[Lucia]], [[Allia]], Youloumain, [[Karu]] | Large potential |
 | Tidal | Various locations | >5 GW potential |
 | Wave | Multiple locations | >10 GW potential |
 | Hydroelectric | [[Oslola]], [[Java]], various | >5 GW potential |

@@ -39,4 +39,4 @@ Cosma also maintains telecommunications infrastructure networks internationally 
 
 Commercial, industrial and government telecommunications are managed by a seperate internal department called the **Industrial Telecommunications Office**.
 
-Cosma was founded as a department of the [[post|Commonwealth Post]] in 1926, but was spun off into its own company in the postwar period. Today, it serves nearly 22 million customers across Vekllei and abroad. It is headquartered in [[Summers]], which is also the site of the Transatlantic Interchange managed by the company.
+Cosma was founded as a department of the [[Commonwealth Post]] in 1926, but was spun off into its own company in the postwar period. Today, it serves nearly 22 million customers across Vekllei and abroad. It is headquartered in [[Summers]], which is also the site of the Transatlantic Interchange managed by the company.

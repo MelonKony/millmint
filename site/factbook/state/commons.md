@@ -268,7 +268,7 @@ Automation becomes justified -- although imperfectly policed -- when it frees hu
 | Basic Manufacturing | 94% | Oversight, maintenance | ⟁340M |
 | Food Processing | 89% | Quality control, recipes | ⟁180M |
 | Logistics & Distribution | 78% | Exception handling | ⟁290M |
-| Agriculture | 71% | Specialized cultivation | ⟁150M |
+| Agriculture | 71% | Specialised cultivation | ⟁150M |
 | Construction | 45% | Skilled trades, design | ⟁420M |
 | Healthcare | 23% | Diagnosis, procedures | ⟁190M |
 | Education | 12% | Administrative only | ⟁45M |

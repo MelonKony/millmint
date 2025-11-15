@@ -6,6 +6,7 @@ logo: /svg/crests/bureau-of-stewardship.svg
 color: milk-honey
 series: bureau
 type: government
+national-index: true
 
 logocredit: Raymond Wood and Keith Bright, 1988, for TreePeople
 
@@ -29,37 +30,23 @@ The bureau's work becomes particularly complex across Vekllei's extraordinary bi
 * <span class="fi fi-bureau-of-stewardship fis"></span> **Commonwealth Gardens Service**: Paramilitary conservation organisation that provides an alternative to conscientious objectors of military conscription.
 * <span class="fi fi-bureau-of-stewardship fis"></span> **Municipal Environment Mobilisation Board**: Local engagement in environmental care and protection activities, as well as management of restoration and renewal projects for degraded environments.
 
-## Council
-
-* **Director** [[Bureau of Stewardship]]
-  * Secretary for Environmental Protection & Care
-    * Officer for Creation Care Education
-  * Secretary for Sustainable Resource Management
-  * Secretary for Ecosystem Monitoring & Restoration
-    * Officer for Climate Stewardship
-* **Deputy Minister** [[Parliament of Milk and Honey]]
-* **Director** Commonwealth Observatory for the Natural World
-* **Director** Stewardship International
-* **Director** Commonwealth Gardens Service
-* **Director** Municipal Environment Mobilisation Board
-
 ## Departments
 
-* **Department of the Natural Environment**
+* **Department of the Natural Environment**: Manages the direct protection of ecosystems, habitats and wildlife from pollution and degradation.
   * Office of Forests & Jungles
   * Office of Closed Natural Systems
   * Office of Animals & Habitats
   * Office of Toxins& Pollutants
-* **Department of Stewardship**
+* **Department of Stewardship**: Promotes public education, community engagement and media communication related to environmental care.
   * Office of Natural Education
   * Office of Municipal Services
   * Office of Press & News Media
-* **Department of Natural Rights**
+* **Department of Natural Rights**: Upholds the legal rights of natural systems and manages environmental monitoring, recovery and restoration projects.
   * Office of Legal Services
   * Office of Nature Monitoring
   * Office of Recovery & Restoration
   * Office of the Sanctity of Nature
-* **Service Branches**
+* **Service Branches**: Regional bodies responsible for the bureau's administration across Vekllei's stewardship areas.
   * Boreal Stewards Area
   * Austral Stewards Area
   * Occidental Stewards Area
