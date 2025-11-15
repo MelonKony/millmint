@@ -8,7 +8,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
@@ -16,6 +16,12 @@ jobs:
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Remove unused Docker images
+        run: docker system prune -af
+
+      - name: Clean up temporary files
+        run: sudo rm -rf /tmp/*
 
       - name: Update theme
         # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
