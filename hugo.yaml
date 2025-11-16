@@ -6,7 +6,6 @@ enableEmoji: true
 enableGitInfo:  true
 enableRobotsTXT: true
 linkify: false
-publishDir: '../millmint.net'
 paginate: 12  # Add this line to set items per page
 
 taxonomies:
