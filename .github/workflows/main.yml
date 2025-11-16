@@ -45,4 +45,5 @@ jobs:
           user_email: melonkony@icloud.com
           publish_dir: ./public
           publish_branch: live
+          force_orphan: true
           cname: millmint.net
