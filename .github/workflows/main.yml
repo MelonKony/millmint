@@ -3,7 +3,7 @@ name: Publish Site
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      - main
   pull_request:
 
 jobs:
@@ -14,8 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          submodules: true
+          fetch-depth: 0
 
       - name: Remove unused Docker images
         run: docker system prune -af
@@ -24,7 +24,6 @@ jobs:
         run: sudo rm -rf /tmp/*
 
       - name: Update theme
-        # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
         run: git submodule update --init --recursive
 
       - name: Setup Hugo
@@ -34,9 +33,7 @@ jobs:
           extended: true
 
       - name: Build
-        # remove --minify tag if you do not need it
-        # docs: https://gohugo.io/hugo-pipes/minification/
-        run: hugo -d ./
+        run: hugo --gc -d public
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
@@ -46,6 +43,6 @@ jobs:
           external_repository: MelonKony/millmint.net
           user_name: melonkony
           user_email: melonkony@icloud.com
-          publish_dir: ./
+          publish_dir: ./public
           publish_branch: live
           cname: millmint.net
