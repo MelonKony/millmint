@@ -1,30 +1,37 @@
-name: Publish Site
+name: Publish Site (robust deploy)
 
 on:
   push:
-    branches:
-      - main
-  pull_request:
+    branches: [ main ]
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
+      cancel-in-progress: true
+
+    env:
+      TARGET_REPO: MelonKony/millmint.net
+      TARGET_BRANCH: live
+      CNAME_NAME: millmint.net
+
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository (full history & submodules)
+        uses: actions/checkout@v4
         with:
           submodules: true
           fetch-depth: 0
+          persist-credentials: false    # we will use the personal token explicitly for deploy
 
       - name: Remove unused Docker images
-        run: docker system prune -af
+        run: docker system prune -af || true
 
       - name: Clean up temporary files
-        run: sudo rm -rf /tmp/*
+        run: sudo rm -rf /tmp/* || true
 
-      - name: Update theme
-        run: git submodule update --init --recursive
+      - name: Update theme (submodules)
+        run: git submodule update --init --recursive || true
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -32,18 +39,68 @@ jobs:
           hugo-version: '0.125.1'
           extended: true
 
-      - name: Build
+      - name: Build site
         run: hugo --gc -d public
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
-        with:
-          personal_token: ${{ secrets.TOKEN }}
-          external_repository: MelonKony/millmint.net
-          user_name: melonkony
-          user_email: melonkony@icloud.com
-          publish_dir: ./public
-          publish_branch: live
-          force_orphan: true
-          cname: millmint.net
+      - name: Ensure CNAME
+        run: echo "${{ env.CNAME_NAME }}" > public/CNAME
+
+      - name: Check token is provided
+        run: |
+          if [ -z "${{ secrets.TOKEN }}" ]; then
+            echo "ERROR: secrets.TOKEN is not set. Please add a personal access token with repo push permissions."
+            exit 1
+          fi
+
+      - name: Deploy to external repository (robust push with retries)
+        env:
+          PERSONAL_TOKEN: ${{ secrets.TOKEN }}
+          TARGET_REPO: ${{ env.TARGET_REPO }}
+          TARGET_BRANCH: ${{ env.TARGET_BRANCH }}
+          GITHUB_COMMIT: ${{ github.sha }}
+          GITHUB_ACTOR: ${{ github.actor }}
+        run: |
+          set -euo pipefail
+          REMOTE_URL="https://x-access-token:${PERSONAL_TOKEN}@github.com/${TARGET_REPO}.git"
+          echo "Configuring git..."
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+
+          # Increase buffer to help avoid RPC failed errors
+          git config --global http.postBuffer 524288000
+          git config --global http.maxRequestBuffer 524288000 || true
+
+          # Prepare a temporary git repo and commit the public folder contents
+          TMPDIR=$(mktemp -d)
+          cd "$TMPDIR"
+          git init -q
+          git checkout --orphan "${TARGET_BRANCH}" || git checkout -b "${TARGET_BRANCH}"
+          # Clear index (ensure clean)
+          git rm -rf --ignore-unmatch . || true
+
+          # Add public dir contents
+          git --work-tree="${{ github.workspace }}/public" add --all
+          if git --work-tree="${{ github.workspace }}/public" diff --staged --quiet; then
+            echo "No changes to deploy."
+          else
+            git --work-tree="${{ github.workspace }}/public" commit -m "Deploy: ${GITHUB_COMMIT}" || true
+
+            echo "Pushing to ${TARGET_REPO}:${TARGET_BRANCH}"
+            # Retry push up to 5 times with backoff
+            n=0
+            until [ "$n" -ge 5 ]
+            do
+              if git push --force "${REMOTE_URL}" "HEAD:${TARGET_BRANCH}"; then
+                echo "Push succeeded."
+                break
+              fi
+              n=$((n+1))
+              echo "Push failed. Retry #$n in $((n*5))s..."
+              sleep $((n*5))
+            done
+
+            if [ "$n" -ge 5 ]; then
+              echo "Failed to push after multiple attempts."
+              exit 1
+            fi
+          fi
