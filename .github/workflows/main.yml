@@ -12,6 +12,33 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
+      # === Diagnostics and disk pre-flight ===
+      - name: Pre-flight disk check and cleanup
+        if: runner.os == 'Linux'
+        run: |
+          set -euo pipefail
+          echo "=== Disk BEFORE cleanup ==="
+          df -h /
+          df -i /
+          sudo docker system prune -af || true
+          sudo rm -rf /home/runner/.cache/* || true
+          sudo rm -rf /tmp/* || true
+          sudo rm -rf /home/runner/actions-runner/cached/_diag/* || true
+          echo "=== Disk AFTER cleanup ==="
+          df -h /
+
+      - name: Fail early if not enough disk (require >= 2 GB)
+        if: runner.os == 'Linux'
+        run: |
+          avail_kb=$(df --output=avail / | tail -n1)
+          echo "Available KB: ${avail_kb}"
+          if [ "${avail_kb}" -lt 2097152 ]; then
+            echo "::error::Not enough disk space on runner (${avail_kb} KB). Aborting early."
+            df -h /
+            exit 1
+          fi
+
+      # === Original steps ===
       - uses: actions/checkout@v2
         with:
           submodules: true
@@ -45,4 +72,5 @@ jobs:
           user_email: melonkony@icloud.com
           publish_dir: ./public
           publish_branch: live
+          force_orphan: true
           cname: millmint.net
