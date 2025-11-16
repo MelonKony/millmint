@@ -55,5 +55,6 @@ The island has robust infrastructure to facilitate travel. It has a major intern
 - **Mira Nuclear Power Plant**: The main provider of electricity on the island, employing the latest No. 4 Commercial Fusion Reactor.
 - **Public Transport System**: Trains, trams and cable cars connecting major towns and tourist attractions, facilitating easy movement around the island.
 - **The "Levadas" Irrigation System**: A historic network of irrigation channels that not only provides water but also supports visitors through its scenic walking paths.
+- **[[Commonwealth School of Public Service]]**: A training school for middle and senior civil servants and interior policy researchers.
 </details>
 

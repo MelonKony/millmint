@@ -20,7 +20,7 @@ The bureau operates the civil servant exam, maintains professional registers and
 
 * <span class="fi fi-c-commonwealth fis"></span> **Commonwealth Professional Register**: Central database of all public servants in government service.
 * <span class="fi fi-c-commonwealth fis"></span> **Public Sector Examination Board**: Design and administration of professional certification examinations.
-* <span class="fi fi-c-commonwealth fis"></span> **Commonwealth School of Public Service**: Training and continuing education for government professionals.
+* [[Commonwealth School of Public Service]]: Training and continuing education for government professionals.
 * <span class="fi fi-c-commonwealth fis"></span> **Public Service Tribunal**: Disciplinary proceedings and professional conduct oversight.
 
 ## Departments

@@ -5,6 +5,7 @@ icon: 🏛️
 color: interior
 logo: /svg/crests/ministry-of-the-interior.svg
 series: bureau
+type: government
 national-index: true
 
 fi: fi fi-c-interior fis
@@ -17,7 +18,13 @@ The <span class="fi fi-c-interior fis"></span> **Bureau of Travel** organises [t
 
 The other role of the Bureau is facilitating international travel to Vekllei, which remains a small but growing market. Since foreign tourists do not use money while in Vekllei, tourism is typically arranged in package tours through the [[Atlantic Hotel]] chain. In this capacity is also serves as a tourism promotion board, and develops interest in travel to Vekllei overseas. 
 
-{{<note>}}
+## Boards & Commissions
+
+* [[Atlantic Hotel]]: International hospitality company that serves Vekllei citizens and foreigners.
+* **Commownealth Overseas Information Service**: National tourism promotion board, operating from bureaus overseas.
+* **Commonwealth Traveller Consulate**: Special consulate specifically designed to support Vekllei tourists abroad.
+* **Commonwealth Tourism Council**: Industry council mostly comprising domestic inns and overseas properties.
+
 ## Departments
 * **Department of Overseas Travel**: Supports overseas travel for Vekllei citizens, either independently or through package tours.
     * Office of Travel Planning
@@ -33,13 +40,3 @@ The other role of the Bureau is facilitating international travel to Vekllei, wh
 * **Department of Tourism**: Supports tourism and tourist infrastructure within Vekllei, primarily for foreigners.
     * Office of the Tourism Council
     * Office of the Overseas Information Service
-{{</note>}}
-
-{{<note>}}
-## Boards & Commissions
-
-* [[Atlantic Hotel]]: International hospitality company that serves Vekllei citizens and foreigners.
-* **Commownealth Overseas Information Service**: National tourism promotion board, operating from bureaus overseas.
-* **Commonwealth Traveller Consulate**: Special consulate specifically designed to support Vekllei tourists abroad.
-* **Commonwealth Tourism Council**: Industry council mostly comprising domestic inns and overseas properties.
-{{</note>}}

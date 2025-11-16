@@ -5,6 +5,7 @@ icon: 🔬
 rgb: 0, 155, 113
 logo: /svg/logos/SIRO.svg
 series: organisation
+type: government
 national-index: true
 
 fi: fi fi-siro fis
@@ -19,7 +20,6 @@ The <span class="fi fi-siro fis"></span> **Commonwealth Science and Industrial R
 
 SIRO is headquartered in [Comet](/comet/), but through its constituent organisations has a presence in almost every Vekllei [republic](/republics/). The tremendous diversity across Vekllei's island republics provides an ample basis for research, and SIRO is among the leading research outfits in the world. It employs nearly 80,000 people and is credited with a wide variety of innovations and inventions, including the low-field fusion reactor and the Multimatrix computer network system.
 
-{{<note>}}
 ## Council Organisation
 
 **Executive Council**
@@ -36,9 +36,13 @@ SIRO is headquartered in [Comet](/comet/), but through its constituent organisat
 **Constituent Laboratories**
 * [[Commonwealth Laboratories]]
 * [[Transport Laboratories]]
-{{</note>}}
 
-{{<note>}}
+## Boards & Commissions
+
+* <span class="fi fi-siro fis"></span> **Cooperative Research Commission**: Public-private research partnership advocate.
+* <span class="fi fi-siro fis"></span> **Public Science Board**: Independent ombudsman of public science.
+* <span class="fi fi-siro fis"></span> **Government Scientists Group**: National science committee of chief scientists who coordinate science policy across establishments.
+
 ## Departments
 * **Department of Research**
 	* Office of Science Policy
@@ -62,12 +66,3 @@ SIRO is headquartered in [Comet](/comet/), but through its constituent organisat
 * **Department of Infrastructure**
 	* Office of Laboratories
 	* Standards Board
-{{</note>}}
-
-{{<note>}}
-## Boards & Commissions
-
-* **Cooperative Research Commission**: Public-private research partnership advocate.
-* **Public Science Board**: Independent ombudsman of public science.
-* **Government Scientists Group**: National science committee of chief scientists who coordinate science policy across establishments.
-{{</note>}}

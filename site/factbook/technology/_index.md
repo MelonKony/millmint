@@ -11,7 +11,7 @@ description: Vekllei is a highly technological society, and has lead research in
 aliases:
   - /technology/
 ---
-[[Vekllei]] is a highly technological society, and due to a confluence of social factors has many scientists and engineers of renown that have contributed to breakthroughs in many industries. THey excel especially in industrial computing, automatic machines, material sciences and chemistry.
+[[Vekllei]] is a highly technological society, and due to a confluence of social factors has many scientists and engineers of renown that have contributed to breakthroughs in many industries. They excel especially in industrial computing, automatic machines, material sciences and chemistry.
 
 {{<note advice>}}
 Read more: *[High and Low Technology in Vekllei](/bulletin/technology)*

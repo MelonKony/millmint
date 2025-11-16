@@ -21,7 +21,7 @@ Monopoles function as catalysts in fusion reactions, dramatically lowering the e
 
 The first confirmed monopole detection occurred on February 14, 1982 at Stanford University, when physicist Blas Cabrera observed a distinctive magnetic induction signal passing through a superconducting wire loop. The measurement showed exactly the signature predicted by Dirac's 1931 theory — a quantised magnetic charge that produced a permanent change in magnetic flux through the detector.
 
-Despite immediate attempts to replicate the observation, no confirmed detection occurred for another sixteen years. The breakthrough came in 1998 when researchers at CERN's Large Hadron Collider successfully created monopoles through high-energy proton collisions, proving both their existence and potential for artificial production.
+Despite immediate attempts to replicate the observation, no confirmed detection occurred for another sixteen years. The breakthrough came in 1998 when researchers at the [[Balkan Federation]]'s Tito Advanced Physics Institute successfully created monopoles through high-energy proton collisions, proving both their existence and potential for artificial production.
 
 ### Natural Occurrence
 
@@ -37,7 +37,7 @@ Modern monopole production occurs through two primary methods: high-energy parti
 
 ### Particle Accelerator Production
 
-Creating monopoles artificially requires particle collisions at energies exceeding 10¹⁴ eV, far beyond the capabilities of first-generation facilities like CERN's LHC. This energy threshold corresponds to the Grand Unification scale where electromagnetic and weak nuclear forces merge, allowing the topological defects that manifest as monopoles to form.
+Creating monopoles artificially requires particle collisions at energies exceeding 10¹⁴ eV, far beyond the capabilities of first-generation facilities like [[united-states|US]]'s Lockheed Ring. This energy threshold corresponds to the Grand Unification scale where electromagnetic and weak nuclear forces merge, allowing the topological defects that manifest as monopoles to form.
 
 By 2063, several nations operate accelerators capable of monopole production. Large facilities like Vekllei's lunar Tranquility Ring produce 400-600 monopoles annually during continuous operation. Each production run requires weeks of preparation to achieve stable beam conditions, followed by days of collision attempts. Success rates remain below 1% — most high-energy collisions produce conventional particles rather than the specific topology required for monopole formation.
 

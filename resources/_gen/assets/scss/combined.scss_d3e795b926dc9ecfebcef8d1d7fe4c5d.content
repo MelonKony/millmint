@@ -1132,7 +1132,7 @@
   --color-culture: #1fa752;
   --color-defence: #ed220d;
   --color-interior: #773fde;
-  --color-industry: #2559a7;
+  --color-industry: #5465e9;
   --color-labour: #a12b2e;
   --color-landscape: #13ac43;
   --color-lightandwater: #56a3bb;
@@ -1194,7 +1194,7 @@
   --color-culture: #1fa752;
   --color-defence: #ed220d;
   --color-interior: #773fde;
-  --color-industry: #2559a7;
+  --color-industry: #5465e9;
   --color-labour: #a12b2e;
   --color-landscape: #13ac43;
   --color-lightandwater: #56a3bb;

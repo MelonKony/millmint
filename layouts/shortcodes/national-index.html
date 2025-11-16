@@ -1,4 +1,4 @@
-{{/* 
+{{/*
   Shortcode: national index
   Generates a hierarchical list by analyzing URL paths and parsing page content.
 */}}
@@ -182,20 +182,20 @@
 {{/* --- HTML RENDERING --- */}}
 <div class="government-directory">
   <div class="directory-header">
-    <p class="directory-count">{{ len $allPages }} total entities <button id="download-md" class="download-button">↓ Download Index</button></p>
+    <p class="directory-count">{{ len $allPages }} total entities <button id="download-md" class="button">↓ Download Index</button></p>
   </div>
 
   {{ if $byMinistry }}
   <h2>Ministries</h2>
   {{ range $key, $group := $byMinistry }}
     {{ $niceName := replaceRE "-" " " $key | title }}
-    <div class="org-entry ministry-group">
-      <h3 class="ministry-title">{{ $niceName }}</h3>
+    <div class="note ministry-group">
+      <h3>{{ $niceName }}</h3>
       <div class="ministry-children">
         {{ range sort $group.main "Title" }}
           <div class="child-org main-entry">
             <a href="{{ .RelPermalink }}" class="child-name">{{ .Title }}</a>
-            {{ if .Description }}<span class="child-desc">{{ .Description }}</span>{{ end }}
+            {{ if .Description }}<em class="child-desc">{{ .Description }}</em>{{ end }}
             {{ $sections := partial "partials/extract-sections" . }}{{ range $sectionTitle, $sectionHTML := $sections }}<div class="section-container"><div class="section-title">{{ $sectionTitle }}</div>{{ partial "partials/render-section-html" $sectionHTML }}</div>{{ end }}
           </div>
         {{ end }}
@@ -203,7 +203,7 @@
           {{ range sort $group.children "Title" }}
             <div class="child-org">
               <a href="{{ .RelPermalink }}" class="child-name">{{ .Title }}</a>
-              {{ if .Description }}<span class="child-desc">{{ .Description }}</span>{{ end }}
+              {{ if .Description }}<em class="child-desc">{{ .Description }}</em>{{ end }}
               {{ $sections := partial "partials/extract-sections" . }}{{ range $sectionTitle, $sectionHTML := $sections }}<div class="section-container"><div class="section-title">{{ $sectionTitle }}</div>{{ partial "partials/render-section-html" $sectionHTML }}</div>{{ end }}
             </div>
           {{ end }}
@@ -217,13 +217,13 @@
   <h2>Parliaments</h2>
   {{ range $key, $group := $byParliament }}
     {{ $niceName := replaceRE "-" " " $key | title }}
-    <div class="org-entry ministry-group">
-      <h3 class="ministry-title">{{ $niceName }}</h3>
+    <div class="note panel parliament-group">
+      <h3>{{ $niceName }}</h3>
       <div class="ministry-children">
         {{ range sort $group.main "Title" }}
           <div class="child-org main-entry">
             <a href="{{ .RelPermalink }}" class="child-name">{{ .Title }}</a>
-            {{ if .Description }}<span class="child-desc">{{ .Description }}</span>{{ end }}
+            {{ if .Description }}<em class="child-desc">{{ .Description }}</em>{{ end }}
             {{ $sections := partial "partials/extract-sections" . }}{{ range $sectionTitle, $sectionHTML := $sections }}<div class="section-container"><div class="section-title">{{ $sectionTitle }}</div>{{ partial "partials/render-section-html" $sectionHTML }}</div>{{ end }}
           </div>
         {{ end }}
@@ -231,7 +231,7 @@
           {{ range sort $group.children "Title" }}
             <div class="child-org">
               <a href="{{ .RelPermalink }}" class="child-name">{{ .Title }}</a>
-              {{ if .Description }}<span class="child-desc">{{ .Description }}</span>{{ end }}
+              {{ if .Description }}<em class="child-desc">{{ .Description }}</em>{{ end }}
               {{ $sections := partial "partials/extract-sections" . }}{{ range $sectionTitle, $sectionHTML := $sections }}<div class="section-container"><div class="section-title">{{ $sectionTitle }}</div>{{ partial "partials/render-section-html" $sectionHTML }}</div>{{ end }}
             </div>
           {{ end }}
@@ -245,13 +245,13 @@
   <h2>Industries & Companies</h2>
   {{ range $key, $pages := $byIndustryType }}
     {{ $niceName := replaceRE "-" " " $key | title }}
-    <div class="org-entry industry-group">
-      <h3 class="ministry-title">{{ $niceName }}</h3>
+    <div class="note panel industry-group">
+      <h3>{{ $niceName }}</h3>
       <div class="ministry-children">
         {{ range sort $pages "Title" }}
           <div class="child-org">
             <a href="{{ .RelPermalink }}" class="child-name">{{ .Title }}</a>
-            {{ if .Description }}<span class="child-desc">{{ .Description }}</span>{{ end }}
+            {{ if .Description }}<em class="child-desc">{{ .Description }}</em>{{ end }}
           </div>
         {{ end }}
       </div>
@@ -263,12 +263,12 @@
     {{ range $series, $pages := $bySeries }}
       {{ $niceName := printf "%ss" ($series | title) }}
       <h2 style="margin-top: 2rem;">{{ $niceName }}</h2>
-      <div class="org-entry">
+      <div class="note panel">
         <div class="ministry-children">
           {{ range sort $pages "Title" }}
             <div class="child-org main-entry">
               <a href="{{ .RelPermalink }}" class="child-name">{{ .Title }}</a>
-              {{ if .Description }}<span class="child-desc">{{ .Description }}</span>{{ end }}
+              {{ if .Description }}<em class="child-desc">{{ .Description }}</em>{{ end }}
               {{ $sections := partial "partials/extract-sections" . }}{{ range $sectionTitle, $sectionHTML := $sections }}<div class="section-container"><div class="section-title">{{ $sectionTitle }}</div>{{ partial "partials/render-section-html" $sectionHTML }}</div>{{ end }}
             </div>
           {{ end }}
@@ -279,12 +279,12 @@
 
   {{ if $standalone }}
   <h2 style="margin-top: 2rem;">Other Government Entities</h2>
-  <div class="org-entry">
+  <div class="note panel">
     <div class="ministry-children">
       {{ range sort $standalone "Title" }}
         <div class="child-org main-entry">
           <a href="{{ .RelPermalink }}" class="child-name">{{ .Title }}</a>
-          {{ if .Description }}<span class="child-desc">{{ .Description }}</span>{{ end }}
+          {{ if .Description }}<em class="child-desc">{{ .Description }}</em>{{ end }}
           {{ $sections := partial "partials/extract-sections" . }}{{ range $sectionTitle, $sectionHTML := $sections }}<div class="section-container"><div class="section-title">{{ $sectionTitle }}</div>{{ partial "partials/render-section-html" $sectionHTML }}</div>{{ end }}
         </div>
       {{ end }}
@@ -319,32 +319,61 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 <style>
-.government-directory { max-width: 1200px; margin: 0 auto; font-size: 0.9rem; }
+.government-directory { font-size: 0.8rem; }
+.government-directory h2 { font-size: 1.25rem; }
+.government-directory h3 { font-size: 1rem; margin: 0 0 0.5rem 0; }
 .directory-header { margin-bottom: 1rem; padding-bottom: 0.5rem; }
-.directory-count { color: var(--gray); font-size: 0.85rem; letter-spacing: 0.05em; margin: 0; display: flex; align-items: center; justify-content: space-between; }
-.download-button { padding: 0.4rem 0.9rem; cursor: pointer; background: var(--highlight); color: white; border: none; border-radius: 4px; font-size: 0.85rem; transition: all 0.2s; display: inline-flex; align-items: center; gap: 0.25rem; }
-.download-button:hover { background: var(--highlight); transform: translateY(-1px); }
-.download-button:active { transform: translateY(0); }
-.org-entry { margin-bottom: 1rem; padding: 0.75rem; background: var(--background-secondary); border-radius: 4px; border-left: 2px solid var(--gray-light); }
-.ministry-group, .industry-group { border-left-color: var(--gray-light); }
-.industry-group { border-left-color: var(--gray-light); }
-.ministry-title { margin: 0 0 0.5rem 0; font-size: 1rem; color: var(--text-primary); padding-bottom: 0.25rem; }
-.ministry-children { display: grid; gap: 0.5rem; }
-.child-org { padding: 0.5rem; background: var(--background); border-radius: 3px; border-left: 2px solid var(--gray-light); }
-.child-org.main-entry { padding: 0; background: none; border-radius: 0; border-left: none; }
-.child-name { font-weight: 600; text-transform: uppercase; display: block; color: var(--highlight); text-decoration: none; font-size: 0.9rem; margin-bottom: 0.15rem; }
-.child-name:hover { opacity: 0.7; }
-.child-desc { display: block; color: var(--text-secondary); font-size: 0.8rem; line-height: 1.3; margin-bottom: 0.35rem; }
-.section-container { margin-top: 0.5rem; padding: 0.5rem; background: rgba(0,0,0,0.015); border-radius: 3px; }
-.section-title { font-weight: bold; font-size: 0.8rem; color: var(--font-color); margin: 0 0 0.5rem 0; padding-bottom: 0.25rem; text-transform: uppercase; letter-spacing: 0.03em; }
-.extracted-section { font-size: 0.85rem; }
-.dept-group { margin-bottom: 0.5rem; padding-left: 0.5rem; border-left: 2px solid var(--gray-light); }
-.dept-name { color: var(--text-primary); margin-bottom: 0.25rem; font-size: 0.85rem; }
-.office-list { padding-left: 0.5rem; margin: 0; }
-.office-item { font-style: italic; color: var(--text-secondary); font-size: 0.8rem; padding: 0.15rem 0 0.15rem 0.5rem; border-left: 2px solid var(--gray-light); margin-bottom: 0.15rem; line-height: 1.3; }
-.dept-item { padding: 0.25rem 0 0.25rem 0.5rem; border-left: 2px solid var(--gray-light); color: var(--text-secondary); font-size: 0.8rem; margin-bottom: 0.25rem; line-height: 1.3; }
-@media (max-width: 640px) {
-  .org-entry { padding: 0.5rem; }
-  .government-directory { font-size: 0.85rem; }
+.directory-count { color: var(--gray-medium); font-size: 0.75rem; margin: 0; display: flex; align-items: center; justify-content: space-between; }
+.note { margin-bottom: 1.5rem; font-size: small; line-height: normal; }
+
+/* Main container for list items */
+.ministry-children, .office-list { 
+  position: relative; 
+  padding-left: 1.25rem; /* Make space for the line */
+}
+
+.child-org::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -1.25rem; /* Pull back to meet the vertical line */
+  width: 1px;
+  padding: 0.5rem 0;
+  background-color: var(--gray-medium);
+}
+
+.office-list::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0rem;
+  width: 1px;
+  background-color: var(--gray-medium);
+}
+
+/* Individual list items */
+.child-org, .dept-group, .dept-item { 
+  position: relative; 
+  padding-left: 0; /* Reset padding, spacing is handled by parent */
+  border-left: none; /* Remove the old broken border */
+  margin: 1rem 0;
+}
+.child-org.main-entry { padding: 0; }
+
+.child-name { font-weight: 600; text-transform: uppercase; font-size: 1rem; margin-bottom: 0.15rem; }
+.child-desc { display: block; font-size: 0.75rem; margin-bottom: 0.35rem; color: var(--gray-medium); }
+.section-container { margin-top: 0.5rem; background: var(--gray-ultralight); border-radius: 0.25rem; }
+.section-title { font-weight: bold; margin: 0 0 0.5rem 0; padding-bottom: 0.25rem; letter-spacing: 0.03em; text-transform: uppercase; }
+
+.dept-group { margin-bottom: 1rem; }
+.office-list { margin-top: 1rem; }
+.office-item { 
+  font-style: italic; 
+  font-size: 0.75rem; 
+  margin-bottom: 0.15rem; 
+  position: relative;
+  border-left: none;
 }
 </style>
