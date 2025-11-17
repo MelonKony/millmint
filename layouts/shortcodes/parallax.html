@@ -1,12 +1,11 @@
 {{/*
-Vekllei Flexible Parallax Shortcode - Fixed horizontal movement
+Vekllei Flexible Parallax Shortcode - Optimized Loading
 */}}
 
 {{- $layers := 8 -}}
 {{- $max_transform := 800 -}}
 {{- $height := "80vh" -}}
 {{- $image_path := "/images/mastheads/parallax/characters/" -}}
-{{- $horizontal_range := 800 -}}
 {{- $bg_light := "#5AC2E7" -}}
 {{- $bg_dark := "#1a1b28" -}}
 
@@ -14,36 +13,32 @@ Vekllei Flexible Parallax Shortcode - Fixed horizontal movement
 {{- if .Get 1 }}{{ $max_transform = .Get 1 | int }}{{ end -}}
 {{- if .Get 2 }}{{ $height = .Get 2 }}{{ end -}}
 {{- if .Get 3 }}{{ $image_path = .Get 3 }}{{ end -}}
-{{- if .Get 4 }}{{ $horizontal_range = .Get 4 | int }}{{ end -}}
-{{- if .Get 5 }}{{ $bg_light = .Get 5 }}{{ end -}}
-{{- if .Get 6 }}{{ $bg_dark = .Get 6 }}{{ end -}}
+{{- if .Get 4 }}{{ $bg_light = .Get 4 }}{{ end -}}
+{{- if .Get 5 }}{{ $bg_dark = .Get 5 }}{{ end -}}
 
 {{- $unique_id := printf "parallax-%d" (now.Unix) -}}
 
-{{/* Calculate transform increment - evenly distribute across layers */}}
+{{/* Calculate transform increment */}}
 {{- $increment := 0 -}}
 {{- if gt $layers 1 -}}
     {{- $increment = div $max_transform (sub $layers 1) -}}
 {{- end -}}
 
 <style>
-/* Parallax container */
 .{{ $unique_id }}-container {
-    top: 0;
-    left: 0;
     position: relative;
     width: 100vw;
     height: {{ $height }};
     overflow: hidden;
     background: {{ $bg_light }};
     margin-left: calc((100% - 100vw) / 2);
+    contain: layout style paint;
 }
 
 [data-theme="dark"] .{{ $unique_id }}-container {
     background: {{ $bg_dark }};
 }
 
-/* Base layer styles */
 .{{ $unique_id }}-layer {
     position: absolute;
     top: 0;
@@ -54,57 +49,25 @@ Vekllei Flexible Parallax Shortcode - Fixed horizontal movement
     background-position: center center;
     background-size: cover;
     will-change: transform;
-    backface-visibility: hidden;
+    transform: translate3d(0, 0, 0);
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s ease-in;
 }
 
-/* Horizontal layers need different positioning */
-.{{ $unique_id }}-layer-horizontal {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-repeat: no-repeat;
-    background-position: left center; /* Start from left for horizontal movement */
-    background-size: auto 100%; /* Maintain aspect ratio */
-    will-change: transform;
-    backface-visibility: hidden;
+.{{ $unique_id }}-layer.loaded {
+    opacity: 1;
 }
 
-{{/* Generate CSS for each layer */}}
 {{- range $i := seq 1 $layers -}}
 {{- $layer_num := $i -}}
 {{- $z_index := sub (add $layers 1) $i -}}
-{{- $transform_value := 0 -}}
-{{- if gt $i 1 -}}
-    {{- $transform_value = mul $increment (sub $i 1) -}}
-{{- end -}}
 
-/* Layer {{ $layer_num }} - Main */
 .{{ $unique_id }}-layer-{{ $layer_num }} {
-    background-image: url('{{ $image_path }}{{ $layer_num }}.png');
     z-index: {{ $z_index }};
-    {{- if eq $i 1 }}
-    transform: translateY(0);
-    {{- else }}
-    transform: translateY(calc(var(--scroll-progress, 0) * {{ $transform_value }}px));
-    {{- end }}
 }
-
-/* Layer {{ $layer_num }} - Horizontal variant */
-.{{ $unique_id }}-layer-{{ $layer_num }}-horizontal {
-    background-image: url('{{ $image_path }}{{ $layer_num }}-horizontal.png');
-    z-index: {{ add $z_index 1 }};
-    {{- if eq $i 1 }}
-    transform: translateX(calc((var(--scroll-progress, 0) * 0.5 + 0.5) * {{ $horizontal_range }}px - {{ div $horizontal_range 2 }}px));
-    {{- else }}
-    transform: translateY(calc(var(--scroll-progress, 0) * {{ $transform_value }}px)) translateX(calc((var(--scroll-progress, 0) * 0.5 + 0.5) * {{ $horizontal_range }}px - {{ div $horizontal_range 2 }}px));
-    {{- end }}
-}
-
 {{- end }}
 
-/* Content overlay */
 .{{ $unique_id }}-content {
     position: absolute;
     top: 0;
@@ -119,41 +82,27 @@ Vekllei Flexible Parallax Shortcode - Fixed horizontal movement
     text-align: center;
     padding: 2rem;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+    pointer-events: none;
 }
 
-/* Mobile optimizations */
-@media (max-width: 768px) {
-    {{- range $i := seq 2 $layers -}}
-    {{- $layer_num := $i -}}
-    {{- $mobile_transform := div (mul $increment (sub $i 1)) 2 -}}
-    {{- $mobile_horizontal := div $horizontal_range 2 -}}
-    .{{ $unique_id }}-layer-{{ $layer_num }} {
-        transform: translateY(calc(var(--scroll-progress, 0) * {{ $mobile_transform }}px));
-    }
-    .{{ $unique_id }}-layer-{{ $layer_num }}-horizontal {
-        transform: translateY(calc(var(--scroll-progress, 0) * {{ $mobile_transform }}px)) translateX(calc((var(--scroll-progress, 0) * 0.5 + 0.5) * {{ $mobile_horizontal }}px - {{ div $mobile_horizontal 2 }}px));
-    }
-    {{- end }}
-    
-    .{{ $unique_id }}-layer-1-horizontal {
-        transform: translateX(calc((var(--scroll-progress, 0) * 0.5 + 0.5) * {{ div $horizontal_range 2 }}px - {{ div (div $horizontal_range 2) 2 }}px));
-    }
-}
-
-/* Reduced motion support */
 @media (prefers-reduced-motion: reduce) {
-    .{{ $unique_id }}-layer,
-    .{{ $unique_id }}-layer-horizontal {
-        transform: translateY(0) translateX(0) !important;
+    .{{ $unique_id }}-layer {
+        transform: none !important;
     }
 }
 </style>
 
-<div class="{{ $unique_id }}-container" id="{{ $unique_id }}-container">
-    {{/* Generate layer divs in reverse order for proper stacking */}}
+<div class="{{ $unique_id }}-container" data-parallax-container="{{ $unique_id }}">
     {{- range $i := seq $layers 1 -}}
-    <div class="{{ $unique_id }}-layer {{ $unique_id }}-layer-{{ $i }}"></div>
-    <div class="{{ $unique_id }}-layer-horizontal {{ $unique_id }}-layer-{{ $i }}-horizontal"></div>
+    {{- $layer_num := $i -}}
+    {{- $transform_value := 0 -}}
+    {{- if gt $i 1 -}}
+        {{- $transform_value = mul $increment (sub $i 1) -}}
+    {{- end -}}
+    <div class="{{ $unique_id }}-layer {{ $unique_id }}-layer-{{ $layer_num }}" 
+         data-speed="{{ $transform_value }}"
+         data-src="{{ $image_path }}{{ $layer_num }}.png"
+         data-priority="{{ $layer_num }}"></div>
     {{- end }}
 
     {{- if .Inner }}
@@ -165,37 +114,150 @@ Vekllei Flexible Parallax Shortcode - Fixed horizontal movement
 
 <script>
 (function() {
-    const container = document.getElementById('{{ $unique_id }}-container');
-    let ticking = false;
-
-    function updateParallax() {
-        const rect = container.getBoundingClientRect();
-        const containerTop = rect.top;
-        const windowHeight = window.innerHeight;
-
-        // Calculate scroll progress from -1 to 1
-        // When container is at bottom of screen: progress = -1
-        // When container is at top of screen: progress = 1
-        const rawProgress = (windowHeight - containerTop) / (windowHeight + rect.height);
-        const progress = Math.max(-1, Math.min(1, (rawProgress - 0.5) * 2));
-
-        // Set CSS custom property
-        document.documentElement.style.setProperty('--scroll-progress', progress);
-        ticking = false;
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        return;
     }
 
-    function requestTick() {
-        if (!ticking) {
-            requestAnimationFrame(updateParallax);
-            ticking = true;
+    const container = document.querySelector('[data-parallax-container="{{ $unique_id }}"]');
+    if (!container) return;
+
+    const layers = container.querySelectorAll('.{{ $unique_id }}-layer');
+    
+    let bounds = null;
+    let isVisible = false;
+    let lastScrollY = -1;
+    let animationFrame = null;
+    let imagesLoaded = 0;
+    let animationActive = false;
+
+    const layerData = Array.from(layers).map(layer => ({
+        element: layer,
+        speed: parseFloat(layer.dataset.speed) || 0,
+        src: layer.dataset.src,
+        priority: parseInt(layer.dataset.priority)
+    }));
+
+    // Load images progressively with delays to reduce CPU spike
+    function loadImages() {
+        // Sort by priority (front layers first)
+        const sortedLayers = [...layerData].sort((a, b) => a.priority - b.priority);
+        
+        sortedLayers.forEach((layer, index) => {
+            // Stagger image loads by 100ms each
+            setTimeout(() => {
+                const img = new Image();
+                img.decoding = 'async'; // Use async decoding
+                
+                img.onload = () => {
+                    layer.element.style.backgroundImage = `url('${layer.src}')`;
+                    // Use a small delay before showing to ensure it's rendered
+                    requestAnimationFrame(() => {
+                        layer.element.classList.add('loaded');
+                    });
+                    
+                    imagesLoaded++;
+                    
+                    // Start animation once first 3 layers are loaded
+                    if (imagesLoaded >= 3 && !animationActive && isVisible) {
+                        animationActive = true;
+                        onScroll();
+                    }
+                };
+                
+                img.onerror = () => {
+                    console.warn('Failed to load parallax layer:', layer.src);
+                };
+                
+                img.src = layer.src;
+            }, index * 100); // 100ms between each image
+        });
+    }
+
+    function updateBounds() {
+        const rect = container.getBoundingClientRect();
+        bounds = {
+            top: rect.top + window.scrollY,
+            height: rect.height,
+            windowHeight: window.innerHeight
+        };
+    }
+
+    function updateParallax() {
+        if (!isVisible || !bounds || !animationActive) {
+            animationFrame = null;
+            return;
+        }
+
+        const scrollY = window.scrollY;
+        
+        if (scrollY === lastScrollY) {
+            animationFrame = null;
+            return;
+        }
+        
+        lastScrollY = scrollY;
+
+        const containerCenter = bounds.top + bounds.height / 2;
+        const screenCenter = scrollY + bounds.windowHeight / 2;
+        const progress = Math.max(-1, Math.min(1, 
+            (screenCenter - containerCenter) / ((bounds.windowHeight + bounds.height) / 2)
+        ));
+
+        layerData.forEach(({ element, speed }) => {
+            if (speed === 0) return;
+            element.style.transform = `translate3d(0, ${(progress * speed).toFixed(2)}px, 0)`;
+        });
+
+        animationFrame = null;
+    }
+
+    function onScroll() {
+        if (!animationFrame && animationActive) {
+            animationFrame = requestAnimationFrame(updateParallax);
         }
     }
 
-    // Event listeners
-    window.addEventListener('scroll', requestTick, { passive: true });
-    window.addEventListener('resize', requestTick, { passive: true });
+    const observer = new IntersectionObserver((entries) => {
+        isVisible = entries[0].isIntersecting;
+        
+        if (isVisible) {
+            updateBounds();
+            lastScrollY = -1;
+            
+            if (animationActive) {
+                onScroll();
+            }
+            
+            window.addEventListener('scroll', onScroll, { passive: true });
+        } else {
+            window.removeEventListener('scroll', onScroll);
+            if (animationFrame) {
+                cancelAnimationFrame(animationFrame);
+                animationFrame = null;
+            }
+        }
+    }, { 
+        rootMargin: '200px',
+        threshold: 0
+    });
 
-    // Initial call
-    updateParallax();
+    observer.observe(container);
+    
+    let resizeTimeout;
+    window.addEventListener('resize', () => {
+        clearTimeout(resizeTimeout);
+        resizeTimeout = setTimeout(() => {
+            updateBounds();
+            if (isVisible && animationActive) {
+                lastScrollY = -1;
+                onScroll();
+            }
+        }, 200);
+    }, { passive: true });
+
+    updateBounds();
+    
+    // Start loading images
+    loadImages();
 })();
 </script>
