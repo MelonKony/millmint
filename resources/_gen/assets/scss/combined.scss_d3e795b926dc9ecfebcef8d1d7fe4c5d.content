@@ -588,6 +588,10 @@
   background-image: url("/svg/flags/4x3/paria-4x3.svg");
 }
 
+.fi-pico-4x3 {
+  background-image: url("/svg/flags/4x3/pico-4x3.svg");
+}
+
 .fi-praia-4x3 {
   background-image: url("/svg/flags/4x3/praia-4x3.svg");
 }
