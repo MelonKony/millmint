@@ -24,7 +24,7 @@ series: government
 	Recognition="67 nations"
 >}}
 
-<span class="fi fi-international-levy-for-atlantic-mercy fis"></span> **The International Levy for Atlantic Mercy** is a [[sovereign orders|sovereign medical order]] chartered by the [[Vekllei|Commonwealth]] in 2019, dedicated to providing emergency healthcare in the world's most dangerous and neglected regions. Members take perpetual vows of poverty, service to the suffering and Commonwealth humanitarian principles, operating where conventional medical organisations cannot or will not maintain presence.
+<span class="fi fi-international-levy-for-atlantic-mercy fis"></span> **The International Levy for Atlantic Mercy** (commonly *The Levy*) is a [[sovereign orders|sovereign medical order]] chartered by the [[Vekllei|Commonwealth]] in 2019, dedicated to providing emergency healthcare in the world's most dangerous and neglected regions. Members take perpetual vows of poverty, service to the suffering and Commonwealth humanitarian principles, operating where conventional medical organisations cannot or will not maintain presence.
 
 The levy maintains a central priory in [[Helena]] and twelve mission houses across Commonwealth republics that serve as training centres, logistics hubs and rest facilities between deployments. Unlike traditional hospitals or clinics, the levy operates no permanent overseas facilities, instead deploying mobile medical teams to conflict zones, epidemic outbreaks, natural disasters and failed states. Teams work from tents, requisitioned buildings or whatever space available, often under fire or during active disease transmission.
 
