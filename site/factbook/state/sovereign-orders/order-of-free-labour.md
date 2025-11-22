@@ -27,7 +27,7 @@ series: government
 
 The order maintains fifteen labour communities across Commonwealth republics, each functioning as a working monastery housing 50-150 members. Communities are entirely self-sufficient through their own agriculture and craft production, operating workshops, dormitories, fields and training facilities. Members follow rigid daily routines of communal meals, eight hours physical labour, skills training and rest.
 
-Work focuses on unglamorous but essential projects: digging wells in African villages, terracing hillsides for mountain agriculture, building simple housing in disaster zones, reclaiming marginal land for farming, establishing infrastructure in the poorest regions both domestic and overseas. The order does not pursue prestigious engineering projects but rather provides basic construction and agricultural development where it is most needed.
+Work focuses on unglamorous but essential projects: digging wells in African villages, terracing hillsides for mountain agriculture, building simple housing in disaster zones, reclaiming marginal land for farming, establishing infrastructure in the poorest regions both domestic and overseas. The order provides basic construction and agricultural development where it is most needed.
 
 Federal government provides land allocation (often marginal or undeveloped territory), capital equipment through the [[Ministry of Industry]], and technical consultation. The order exports surplus agricultural and craft production to fund overseas missions through the [[Bureau of Surplus and Export]]. Members work themselves to exhaustion in harsh conditions but maintain adequate food, rest and strong camaraderie.
 
